@@ -1,0 +1,143 @@
+\documentclass[twocolumn]{article}
+
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{url}
+\usepackage{multirow}
+\usepackage{times}
+\usepackage{fullpage}
+
+\newcommand{\comment}[1]{}
+
+\title{CS685: Group xx \\
+An Example Project Report}
+\author{
+\begin{tabular}{ccc}
+	Student Name 1 & Student Name 2 & Student Name 3 \\
+	\url{email1@iitk.ac.in} & \url{email2@iitk.ac.in} & \url{email3@iitk.ac.in} \\
+	Dept. of CSE & Dept. of XYZ & Dept. of ABC \\
+	\multicolumn{3}{c}{Indian Institute of Technology, Kanpur}
+\end{tabular}
+}
+\date{Mid-sem report \\	% replace by ``initial'' or ``final'' as appropriate
+1st Oct, 2012}	% replace by actual date of submission or \today
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+	%
+	Abstract of the project.
+	%
+\end{abstract}
+
+\section{Introduction}
+
+Why is this important and interesting?
+
+Please explain the backgroundas well.
+
+Two example paragraphs follow.
+
+In online social networks such as Facebook (\url{www.facebook.com}), Youtube
+(\url{www.youtube.com}), Twitter (\url{www.twitter.com}), etc., people share
+different content such as messages, videos, songs, opinions, blogs, etc.  In
+another important form of networks---peer-to-peer networks---files are shared.
+In both these cases, reputation of a peer matters; otherwise a user may get
+exposed to objectionable content such as a virus.  Thus, the trust that other
+users impart on a node is an important attribute of it.  Slashdot
+(\url{www.slashdot.org}) and Epinions (\url{www.epinions.com}) are networks
+where explicit opinions of a user as trust and distrust are available.
+
+A network based on trust is quite different from other networks. An explicit
+link in a network such as Facebook, Youtube signifies that two nodes are close.
+However, in a trust based network, two nodes may be close and may be connected
+but the link may show distrust.  More importantly, a neutral opinion in a trust
+based network is quite different from a no-connection.  Consider a simple
+example where node $A$ has $1000$ neutral opinions and $10$ negative opinions
+about it and another node $B$ has only $10$ negative opinions about it.  It is
+intuitive that node $A$ has a higher reputation.  However, if the neutral
+opinion is modeled by the absence of an edge, the two nodes behave the same.
+This indicates that neutral opinion is not the same as a no-connection.  In
+other words, an edge with $0$ weight is different from an edge that is absent.
+
+\subsection{Problem Statement}
+
+State the problem as clearly and as formally as possible.
+Explain the notations, etc.
+Explain the objectives, and all the inputs.
+
+\subsection{Related Work}
+
+Fill in all relevant past work.
+
+\comment{
+
+Can also comment out paragraphs, etc.
+
+}
+
+\section{Algorithm or Approach}
+
+Details of the method.
+
+Put in a pseudo-code, etc.
+Explain with figures.
+
+\comment{
+
+Use the following format for figures:
+
+\begin{figure}[t]
+	\centering
+	\includegraphics[width=0.95\columnwidth]{figure_file}
+	\caption{This figure explains this.}
+	\label{fig:block}
+\end{figure}
+
+And refer as Figure \ref{fig:block}.
+
+}
+
+\section{Results}
+
+Details of results, in tabular and/or graphical formats.
+
+\comment{
+
+\begin{table}[t]
+	\centering
+	\begin{tabular}{|c||cc|}
+		\hline
+		Header 1 & Desc 1 & Desc 2 \\
+		\hline
+		\hline
+		Row 1 & Data 1-1 & Data 1-2 \\
+		Row 2 & Data 2-1 & Data 2-2 \\
+		\hline
+	\end{tabular}
+	\caption{Table of results.}
+	\label{tab:results}
+\end{table}
+
+And refer as Table \ref{tab:results}.
+
+}
+
+\section{Conclusions}
+
+Clearly state the conclusions.
+
+Also, outline the future work.
+
+\section*{References}
+
+Directly type in bib entries.
+
+Better is to use bibtex.
+
+\end{document}
+
