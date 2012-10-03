@@ -30,39 +30,14 @@ Vivaad - Identifying Controversial Articles on Wikipedia}
 
 \begin{abstract}
 	%
-	Abstract of the project.
+	Wikipedia\footnote{http://wikipedia.org} is one of the most widely used repositories of human knowledge today, with articles collaboratively edited by a diverse group of volunteer editors who are passionate and knowledgeable about specific areas. As the number of articles and editors grows at a fast pace, inevitably difference of opinion arise between editors of same articles causing the content of such articles to be controversial. Controversial articles are generally manually tagged by Wikipedia editors and span many popular and interesting topics such as religion, history and politics and a lot more. In this project, we aim to automatically identify controversial articles in Wikipedia. We will compare the accuracy with the tagged articles and further extend the approach to unmarked articles.\\
 	%
 \end{abstract}
 
 \section{Introduction}
+	With increasing popularity of the social technologies such as wikis, blogs, social networking sites etc., online users now can easily edit, review and publish content collaboratively. Among these social technologies, Wikipedia is arguably the most popular source of knowledge and user generated content on the Web with over 22 million articles in 285 languages and over 77 thousand active editors, among which more than 4 million are from the English Wikipedia\footnote{http://en.wikipedia.org}. It is currently ranking $6^{th}$ among top visited sites according to \url{Alexa.com}. As Wikipedia is growing at a very fast pace in terms of number of articles and editors, inevitably difference in opinion arise between editors of same articles causing the content of such articles to be controversial.\\
 
-Why is this important and interesting?
-
-Please explain the backgroundas well.
-
-Two example paragraphs follow.
-
-In online social networks such as Facebook (\url{www.facebook.com}), Youtube
-(\url{www.youtube.com}), Twitter (\url{www.twitter.com}), etc., people share
-different content such as messages, videos, songs, opinions, blogs, etc.  In
-another important form of networks---peer-to-peer networks---files are shared.
-In both these cases, reputation of a peer matters; otherwise a user may get
-exposed to objectionable content such as a virus.  Thus, the trust that other
-users impart on a node is an important attribute of it.  Slashdot
-(\url{www.slashdot.org}) and Epinions (\url{www.epinions.com}) are networks
-where explicit opinions of a user as trust and distrust are available.
-
-A network based on trust is quite different from other networks. An explicit
-link in a network such as Facebook, Youtube signifies that two nodes are close.
-However, in a trust based network, two nodes may be close and may be connected
-but the link may show distrust.  More importantly, a neutral opinion in a trust
-based network is quite different from a no-connection.  Consider a simple
-example where node $A$ has $1000$ neutral opinions and $10$ negative opinions
-about it and another node $B$ has only $10$ negative opinions about it.  It is
-intuitive that node $A$ has a higher reputation.  However, if the neutral
-opinion is modeled by the absence of an edge, the two nodes behave the same.
-This indicates that neutral opinion is not the same as a no-connection.  In
-other words, an edge with $0$ weight is different from an edge that is absent.
+	Currently, Wikipedia handles controversies by allowing editors to (manually) tag entire articles as controversial, thus informing both editors and reader about the disputed reliability of such articles. There have been few recent attempts to automatically detect controversial articles \cite{Kittur:2007:HSS:1240624.1240698} \cite{conf/wsdm/VuongLSLL08} \cite{conf/ht/RadMRB12}. However, since not all articles can be manually searched for controversy, there can be still many potential untagged articles that contain controversial content. We aim to automatically identify these controversial articles for mostly two reasons. First, controversies appearing in Wikipedia articles are often a good reflection or documentation of the real world. Finding controversies in Wikipedia can therefore help the general public and scholars to understand the corresponding real world controversies better. Second, it allows moderators and editors to identify such articles quickly, thereby improving the effectiveness of the dispute resolution process by reducing the amount of effort for searching for such articles. \\
 
 \subsection{Problem Statement}
 
@@ -137,5 +112,5 @@ Also, outline the future work.
 
 \bibliographystyle{plain}
 \bibliography{refs}
-\end{document}
 
+\end{document}
