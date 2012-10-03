@@ -30,152 +30,188 @@ Vivaad - Identifying Controversial Articles on Wikipedia}
 
 \begin{abstract}
 	%
-	Wikipedia\footnote{http://wikipedia.org} is one of the most widely used repositories of human knowledge today, with articles collaboratively edited by a diverse group of volunteer editors who are passionate and knowledgeable about specific areas. As the number of articles and editors grows at a fast pace, inevitably difference of opinion arise between editors of same articles causing the content of such articles to be controversial. Controversial articles are generally manually tagged by Wikipedia editors and span many popular and interesting topics such as religion, history and politics and a lot more. In this project, we aim to automatically identify controversial articles in Wikipedia. We will compare the accuracy with the tagged articles and further extend the approach to unmarked articles.\\
-	%
-\end{abstract}
+        Wikipedia\footnote{http://wikipedia.org} is one of the most
+widely used repositories of human knowledge today, with articles
+collaboratively edited by a diverse group of volunteer editors who are
+passionate and knowledgeable about specific areas. As the number of
+articles and editors grows at a fast pace, inevitably difference of
+opinion arise between editors of same articles causing the content of
+such articles to be controversial. Controversial articles are
+generally manually tagged by Wikipedia editors and span many popular
+and interesting topics such as religion, history and politics and a
+lot more. In this project, we aim to automatically identify
+controversial articles in Wikipedia. We will compare the accuracy with
+the tagged articles and further extend the approach to unmarked
+articles.
+         %
+ \end{abstract}
 
-\section{Introduction}
-	With increasing popularity of the social technologies such as wikis, blogs, social networking sites etc., online users now can easily edit, review and publish content collaboratively. Among these social technologies, Wikipedia is arguably the most popular source of knowledge and user generated content on the Web with over 22 million articles in 285 languages and over 77 thousand active editors, among which more than 4 million are from the English Wikipedia\footnote{http://en.wikipedia.org}. It is currently ranking $6^{th}$ among top visited sites according to \url{Alexa.com}. As Wikipedia is growing at a very fast pace in terms of number of articles and editors, inevitably difference in opinion arise between editors of same articles causing the content of such articles to be controversial.\\
+ \section{Introduction} With increasing popularity of the social
+technologies such as wikis, blogs, social networking sites etc.,
+online users now can easily edit, review and publish content
+collaboratively. Among these social technologies, Wikipedia is
+arguably the most popular source of knowledge and user generated
+content on the Web with over 22 million articles in 285 languages and
+over 77 thousand active editors, among which more than 4 million are
+from the English Wikipedia\footnote{http://en.wikipedia.org}. It is
+currently ranking $6^{th}$ among top visited sites according to
+\url{Alexa.com}. As Wikipedia is growing at a very fast pace in terms
+of number of articles and editors, inevitably difference in opinion
+arise between editors of same articles causing the content of such
+articles to be controversial.
 
-	Currently, Wikipedia handles controversies by allowing editors
-        to (manually) tag entire articles as controversial, thus
-        informing both editors and reader about the disputed
-        reliability of such articles. There have been few recent
-        attempts to automatically detect controversial articles
-        ~\cite{Kittur, conf/wsdm/VuongLSLL08, conf/ht/RadMRB12}. However, since not all articles can be manually searched for controversy, there can be still many potential untagged articles that contain controversial content. We aim to automatically identify these controversial articles for mostly two reasons. First, controversies appearing in Wikipedia articles are often a good reflection or documentation of the real world. Finding controversies in Wikipedia can therefore help the general public and scholars to understand the corresponding real world controversies better. Second, it allows moderators and editors to identify such articles quickly, thereby improving the effectiveness of the dispute resolution process by reducing the amount of effort for searching for such articles. \\
+         Currently, Wikipedia handles controversies by allowing
+editors to (manually) tag entire articles as controversial, thus
+informing both editors and reader about the disputed reliability of
+such articles. There have been few recent attempts to automatically
+detect controversial articles ~\cite{Kittur, conf/wsdm/VuongLSLL08,
+conf/ht/RadMRB12}. However, since not all articles can be manually
+searched for controversy, there can be still many potential untagged
+articles that contain controversial content. We aim to automatically
+identify these controversial articles for mostly two reasons. First,
+controversies appearing in Wikipedia articles are often a good
+reflection or documentation of the real world. Finding controversies
+in Wikipedia can therefore help the general public and scholars to
+understand the corresponding real world controversies better. Second,
+it allows moderators and editors to identify such articles quickly,
+thereby improving the effectiveness of the dispute resolution process
+by reducing the amount of effort for searching for such articles. 
 
-\subsection{Problem Statement}
+ \subsection{Problem Statement}
 
-Given a set of Wikipedia articles consisting of controversial and non-controversial articles, our aim is to build a binary classifier which will classify articles as either controversial or non-controversial with an acceptable level of accuracy.
+ Given a set of Wikipedia articles consisting of controversial and
+non-controversial articles, our aim is to build a binary classifier
+which will classify articles as either controversial or
+non-controversial with an acceptable level of accuracy.
 
-\subsection{Related Work}
+ \subsection{Related Work}
 
-  Finding controversial articles is quite new but challenging
-problem.Most of the existing research on Wikipedia focuses on article
+   Finding controversial articles is quite new but challenging
+problem. Most of the existing research on Wikipedia focuses on article
 quality and
 reputation~\cite{AdlAlf2007,anthony2005eqi,conf/cikm/HuLSLV07,conf/webi/LimVLS06,conf/pst/ZengADFM06}.
 
-  B.-Q. Vyong et. al. propossed several models to measure Wikipedia
-  article quality and contributor authority. These models do not use
-  the article content. Instead, these models take advantage of the
-  edit histories of the articles which record the collaboration among
-  editors. These models were designed on the basis of mutual
-  reinforcement principle : ``good contributors usually contribute
-  good articles and good articles are usually contributed by good
-  contributors''. They proposed different models based on the type of
-  contribution (e.g. authorship, reviewership). They found out that
-  the model based on reviewership gives the best article quality
-  prediction. In ~\cite{AdlAlf2007} , Adler and Alfaro assigned
-  reputation to every contributor based on text survival and edit
-  survival of his revisions. The longer edit survivals would fetch
-  better gains in reputation whereas the shorter survivals would
-  result in less or even negative reputation. The experiments showed
-  that content created by low-reputation editors are more likely to be
-  of poor quality and vice-versa.
+   B.-Q. Vyong et. al. propossed several models to measure Wikipedia
+article quality and contributor authority. These models do not use the
+article content. Instead, these models take advantage of the edit
+histories of the articles which record the collaboration among
+editors. These models were designed on the basis of mutual
+reinforcement principle : ``good contributors usually contribute good
+articles and good articles are usually contributed by good
+contributors''. They proposed different models based on the type of
+contribution (e.g. authorship, reviewership). They found out that the
+model based on reviewership gives the best article quality prediction.
+In ~\cite{AdlAlf2007} , Adler and Alfaro assigned reputation to every
+contributor based on text survival and edit survival of his revisions.
+The longer edit survivals would fetch better gains in reputation
+whereas the shorter survivals would result in less or even negative
+reputation. The experiments showed that content created by
+low-reputation editors are more likely to be of poor quality and
+vice-versa.
 
-  All the above approaches, however, cannot be directly applied to
-  identify controversial articles because qualtiy or reputation and
-  controvery are not the same concepts. The quality represents how
-  well the article is written whereas controversy is more about
-  disputes and conflicts either due to the nature of the topic or the
-  contributors of the article.
+   All the above approaches, however, cannot be directly applied to
+identify controversial articles because qualtiy or reputation and
+controvery are not the same concepts. The quality represents how well
+the article is written whereas controversy is more about disputes and
+conflicts either due to the nature of the topic or the contributors of
+the article.
 
-  Kittur et. al. was the first to work on controversial articles on
-  Wikipedia. He used various article meta-data such as number of
-  revisions, page length, number of unique visitors, links from other
-  articles, etc as features to train a Support Vector Machine (SVM)
-  classifier. While the learnt classifier was able to rank the
-  controversial articles consistent with their actual controversy
-  level, the method used only a small set (272 articls) of Wikipedia
-  articles including convtroversial articles only.
-  Ba-Quy Vyong also proposed a supervised learning model using Support
-  Vector Machines to identify controversial articles. His approach was
-  to represent each article by a bag-of-word feature vector. Each
-  value in this vector was the raw count of the word type appearing in
-  the article. Although the accuracy of his classifer was better than
-  baseline accuracy of 0.8 , the dataset used was however quite
-  small (130 controversial articles and 525 non-controversial).When
-  article length was added as a feature , computation time for each
-  fold increased from less than a minute to thirty minutes. The
-  scalability of the model is thus questionable on large datasets.
+   Kittur et. al. was the first to work on controversial articles on
+Wikipedia. He used various article meta-data such as number of
+revisions, page length, number of unique visitors, links from other
+articles, etc as features to train a Support Vector Machine (SVM)
+classifier. While the learnt classifier was able to rank the
+controversial articles consistent with their actual controversy level,
+the method used only a small set (272 articls) of Wikipedia articles
+including convtroversial articles only.  Ba-Quy Vyong also proposed a
+supervised learning model using Support Vector Machines to identify
+controversial articles. His approach was to represent each article by
+a bag-of-word feature vector. Each value in this vector was the raw
+count of the word type appearing in the article. Although the accuracy
+of his classifer was better than baseline accuracy of 0.8 , the
+dataset used was however quite small (130 controversial articles and
+525 non-controversial).When article length was added as a feature ,
+computation time for each fold increased from less than a minute to
+thirty minutes. The scalability of the model is thus questionable on
+large datasets.
 
-  Barbosa et. al. did a comparitive study of five different
-  controversy models in terms of their discriminatory power, cose of
-  the learning the models and the monotonicity condition.
-  Meta-classifer and structure classifier were the most appropriate
-  in terms of overall and per-class accuracy. Howerver , they did not
-  satisfy the monotonicty condition making them less useful. They
-  concluded that the underlying principles of interaction between the
-  editors and the formation of controversy are too sophisticated to be
-  captured by single heuristics and a combinaton of different factors
-  need to be considered.
-
-
-\section{Algorithm Or Approach}
-
-    
-  Our initial approach would be inspired by SVM classifiers which
-    already show
-very good accuracy. In addition to the textual content of the articles
-as features , we would also include various meta-data about the
-article such as article length, edit history, number of editors, etc
-to learn new SVM classifiers and study there accuracy and cost of
-learning. Besides, we would also look at other heuristic based models
-of classifying such as Mutual Reverts, Bipolarity , structural and
-meta-classifers and try to combine their distinguishing features in
-such a way as to come up with a better classifier. If time permits, we
-would also look at the possiblity of using different Bayesian
-classification approaches and other unsupervised learning models to
-classify articles. 
-
-\comment{
-
-Use the following format for figures:
-
-\begin{figure}[t]
-	\centering
-	\includegraphics[width=0.95\columnwidth]{figure_file}
-	\caption{This figure explains this.}
-	\label{fig:block}
-\end{figure}
-
-And refer as Figure \ref{fig:block}.
-
-}
-
-\section{Results}
-
-Details of results, in tabular and/or graphical formats.
-
-\comment{
-
-\begin{table}[t]
-	\centering
-	\begin{tabular}{|c||cc|}
-		\hline
-		Header 1 & Desc 1 & Desc 2 \\
-		\hline
-		\hline
-		Row 1 & Data 1-1 & Data 1-2 \\
-		Row 2 & Data 2-1 & Data 2-2 \\
-		\hline
-	\end{tabular}
-	\caption{Table of results.}
-	\label{tab:results}
-\end{table}
-
-And refer as Table \ref{tab:results}.
-
-}
-
-\section{Conclusions}
-
-Clearly state the conclusions.
-
-Also, outline the future work.
+   Barbosa et. al. did a comparitive study of five different
+controversy models in terms of their discriminatory power, cose of the
+learning the models and the monotonicity condition.  Meta-classifer
+and structure classifier were the most appropriate in terms of overall
+and per-class accuracy. Howerver , they did not satisfy the
+monotonicty condition making them less useful. They concluded that the
+underlying principles of interaction between the editors and the
+formation of controversy are too sophisticated to be captured by
+single heuristics and a combinaton of different factors need to be
+considered.
 
 
-\bibliographystyle{plain}
-\bibliography{refs}
+ \section{Algorithm Or Approach}
 
-\end{document}
+
+   Our initial approach would be inspired by SVM classifiers which
+     already show
+ very good accuracy. In addition to the textual content of the articles
+ as features , we would also include various meta-data about the
+ article such as article length, edit history, number of editors, etc
+ to learn new SVM classifiers and study there accuracy and cost of
+ learning. Besides, we would also look at other heuristic based models
+ of classifying such as Mutual Reverts, Bipolarity , structural and
+ meta-classifers and try to combine their distinguishing features in
+ such a way as to come up with a better classifier. If time permits, we
+ would also look at the possiblity of using different Bayesian
+ classification approaches and other unsupervised learning models to
+ classify articles. 
+
+ \comment{
+
+ Use the following format for figures:
+
+ \begin{figure}[t]
+         \centering
+         \includegraphics[width=0.95\columnwidth]{figure_file}
+         \caption{This figure explains this.}
+         \label{fig:block}
+ \end{figure}
+
+ And refer as Figure \ref{fig:block}.
+
+ }
+
+ \section{Results}
+
+ Details of results, in tabular and/or graphical formats.
+
+ \comment{
+
+ \begin{table}[t]
+         \centering
+         \begin{tabular}{|c||cc|}
+                 \hline
+                 Header 1 & Desc 1 & Desc 2 \\
+                 \hline
+                 \hline
+                 Row 1 & Data 1-1 & Data 1-2 \\
+                 Row 2 & Data 2-1 & Data 2-2 \\
+                 \hline
+         \end{tabular}
+         \caption{Table of results.}
+         \label{tab:results}
+ \end{table}
+
+ And refer as Table \ref{tab:results}.
+
+ }
+
+ \section{Conclusions}
+
+ Clearly state the conclusions.
+
+ Also, outline the future work.
+
+
+ \bibliographystyle{plain}
+ \bibliography{refs}
+
+ \end{document}
