@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jury duty</title>
+    <ns>0</ns>
+    <id>5507411</id>
+    <revision>
+      <id>520794929</id>
+      <parentid>517520707</parentid>
+      <timestamp>2012-10-31T20:02:41Z</timestamp>
+      <contributor>
+        <username>John of Reading</username>
+        <id>11308236</id>
+      </contributor>
+      <minor/>
+      <comment>Typo/[[WP:AWB/GF|general]] fixing, replaced: the the → the using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="8647">{{Other uses}}
+'''Jury duty''' or '''jury service''' is service as a [[jury|juror]] in a [[Legal proceedings|legal proceeding]].
+
+==Juror selection process==
+{{Main|Jury selection}}
+
+The [[prosecutor]] and [[Defense (legal)|defense]] may dismiss potential jurors for various reasons, which may vary from one state to another, and they may have a specific number of arbitrary dismissals, or unconditional [[peremptory challenge]]s, that do not require specific reasons. The judge may also dismiss potential jurors.
+
+Some courts have been sympathetic to jurors' privacy concerns and refer to jurors by number, and conduct ''voir dire'' ''[[in camera]]'' (i.e., in private). In the United States, there have also been [[Fifth Amendment to the United States Constitution|Fifth Amendment]] challenges and medical privacy (e.g., [[HIPAA]]) objections to this.&lt;ref&gt;Hannaford P. L. (2001.) [http://contentdm.ncsconline.org/cgi-bin/showfile.exe?CISOROOT=/juries&amp;CISOPTR=31 &quot;Making the Case for Juror Privacy: A New Framework for Court Policies and Procedures&quot;], State Justice Institute.&lt;/ref&gt;
+
+==Jurisdictions==
+
+===Australia===
+Australia uses an [[adversarial system]], and potential jurors are randomly selected from an [[electoral roll]].
+
+====New South Wales====
+The jury system in New South Wales is administered by the Jury Services Branch of the Office of the Sheriff of New South Wales, an office in the [[Department of Attorney General and Justice|New South Wales Department of Attorney General and Justice]], and operates in accordance with the ''Jury Act 1977''&lt;ref&gt;{{cite web|url=http://www.legislation.nsw.gov.au/maintop/scanact/inforce/NONE/0 |title=NSW Legislation |publisher=Legislation.nsw.gov.au |date= |accessdate=2012-02-14}}&lt;/ref&gt; and ''Jury Amendment Act 2010''. These pieces of legislation detail persons who are disqualified, ineligible, or may be excused from jury service are detailed. In addition, the ''Jury Exemption Act 1965''&lt;ref&gt;[http://www.comlaw.gov.au/Series/C2004A07386 ''Jury Exemption Act 1965''] — ComLaw, Australian Government&lt;/ref&gt;&lt;ref&gt;{{Cite Legislation AU|Cth|act|jea1965203|Jury Exemption Act 1965}}&lt;/ref&gt; and section 7, &quot;Excuse for cause&quot;,&lt;ref&gt;[http://www.lawlink.nsw.gov.au/lawlink/lrc/ll_lrc.nsf/pages/LRC_r117chp07 Report 117 (2007) - Jury selection: 7. &quot;Excuse for cause&quot;] — Law Reform Commission — Lawlink NSW&lt;/ref&gt; of LRC ''Report 117 (2007)'' details other persons who can or may not serve as jurors or otherwise claim exemption.&lt;ref&gt;[http://www.lawlink.nsw.gov.au/lawlink/lrc/ll_lrc.nsf/pages/LRC_r117toc  Report 117 (2007) - Jury selection] — Law Reform Commission — Lawlink NSW]&lt;/ref&gt;
+
+Individuals who are blind and/or deaf may be excluded from jury service.&lt;ref&gt;McCallum R. (2011.) [http://www.altlj.org/news-and-views/opinion/92-participating-in-political-and-public-life &quot;Participating in Political and Public Life&quot;], ''Alternative Law Journal''.&lt;/ref&gt;
+
+During the juror selection process, both parties can object to up to three potential jurors without providing reasons.&lt;ref&gt;[http://www.lawlink.nsw.gov.au/lrc.nsf/pages/DP12CHP4 Discussion Paper 12 (1985) - Criminal Procedure: The Jury in a Criminal Trial] — Law Reform Commission — Lawlink NSW&lt;/ref&gt;
+
+The Office of the Sheriff of NSW disseminates resources for jurors.&lt;ref&gt;[http://www.courts.lawlink.nsw.gov.au/cats/jury_service.html Jury Service] — CaTS Corporate New South Wales&lt;/ref&gt; Jurors may be compensated for their service.&lt;ref&gt;[http://www.courts.lawlink.nsw.gov.au/cats/jury_service/payment.html Payment for jury service] — CaTS Corporate New South Wales&lt;/ref&gt;
+
+===United Kingdom===
+{{Further|Juries in England and Wales#Eligibility for jury service}}
+
+===United States of America===
+{{See also|Jury selection in the United States}}
+{{See also|Taylor v. Louisiana}}
+Judicial proceeding means any action or suit, including any condemnation, preliminary, informational, or other proceeding of a judicial nature, but does not include an administrative proceeding (a summons or subpoena, to serve as a witness, by an administrative law judge). Administrative proceedings do not have juries; they are not informational or preliminary in nature and the judge makes the ultimate decisions.
+
+When a person is called for jury duty in the [[United States]], that service is compulsory and one must attend. Failing to report for jury duty is not technically illegal and usually results in an individual simply being placed back into the selection pool to be called for another trial. However repeatedly ignoring a jury summons will result in strict penalties.&lt;ref name=&quot;judiciary.state.nj.us&quot;&gt;http://www.judiciary.state.nj.us/juryreporting/juryfqa.pdf&lt;/ref&gt; Employers are not allowed to fire an employee for being called to jury duty; but, they are not typically required to pay salaries during this time.&lt;ref name=&quot;judiciary.state.nj.us&quot;/&gt; When attended, potential jurors may be asked to serve as a juror in a trial, or they may be dismissed.
+
+In the United States, government employees are in a paid status of leave (in accordance with {{usc|5|6322}}&lt;ref&gt;{{cite web|url=http://law.justia.com/codes/us/2010/title5/|title=Title 5: Government Organization and Employees — Justia|publisher=Law.justia.com |date= |accessdate=2012-02-14}}&lt;/ref&gt;) for the duration spent serving as a juror (also known as court duty or court leave by some organizations). Many quasi-governmental organizations have adopted this provision into their contract manuals.&lt;ref name=&quot;judiciary.state.nj.us&quot;/&gt; Accordingly, government employees are in a paid status as long as they have received a summons in connection with a judicial proceeding, by a court or authority responsible for the conduct of that proceeding to serve as a juror (or witness) in the District of Columbia or a state, territory, or possession of the United States, [[Puerto Rico]], or the [[Trust Territory of the Pacific Islands]].
+
+The [[Supreme Court of the United States]] has held, in ''[[Butler v. Perry]]'', [http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=case&amp;court=us&amp;vol=240&amp;invol=328 240 U.S. 328] (1916), that the Thirteenth Amendment does not prohibit &quot;enforcement of those duties which individuals owe to the state, such as services in the army, militia, on the jury, etc.&quot;.
+
+====Reactions====
+Although jury duty is regarded as vital to the administration of justice and, as such, is considered a condition of U.S. citizenship,&lt;ref&gt;Abramson, Jeffrey B., [http://books.google.com/books?id=RaZ_AKgMIqUC&amp;printsec=frontcover ''We, the jury: the jury system and the ideal of democracy''], Harvard University Press, 2000. ISBN 0-674-00430-2&lt;/ref&gt; jury duty has been criticized by some [[Libertarianism|libertarian]] groups as a form of [[involuntary servitude]]&lt;ref&gt;{{cite web|url=http://mises.org/rothbard/newlibertywhole.asp |title=For a New Liberty: The Libertarian Manifesto - Murray N. Rothbard |publisher=Mises.org |date= |accessdate=2012-02-14}}&lt;/ref&gt; akin to [[conscription]].&lt;ref&gt;{{cite web|url=http://www.cato.org/pub_display.php?pub_id=6546 |title=Abolish Jury &quot;Draft&quot; &amp;#124; James A. Dorn &amp;#124; Cato Institute: Daily Commentary |publisher=Cato.org |date= |accessdate=2012-02-14}}&lt;/ref&gt; Although jurors are essentially conscripts rather than volunteers, however, as a practical matter, jurors unwilling to sit in cases expected to last months are excused.&lt;ref&gt;[http://www.leagle.com/xmlResult.aspx?xmldoc=in%20fco%2020100714126.xml&amp;docbase=cslwar3-2007-curr ''U.S. v. Blagojevich''] (7th Circ. 2010)]&lt;/ref&gt;
+
+====Jury scam in the United States====
+In recent years, citizens of the United States have been targets of a &quot;jury scam&quot;, wherein they are called by persons posing as officers from a court, claiming that the person did not show up for jury duty and that charges will be pressed.&lt;ref name=&quot;uscourts1&quot;&gt;{{cite web|url=http://www.uscourts.gov/FederalCourts/JuryService/JurorScams.aspx |title=Juror Scams |publisher=Uscourts.gov |date= |accessdate=2012-02-14}}&lt;/ref&gt; Targets are then told that the matter can be resolved if personal information is given.
+
+[[United States federal courts|Federal courts]] mostly use the [[USPS]], however, and calls do not require personal information.&lt;ref name=&quot;uscourts1&quot;/&gt;
+
+In both the United States and Canada jurors having conscientious objection to service are generally excused from service. This chiefly includes groups like the [[Amish]], [[Old Order Mennonites]], and [[Conservative Mennonites]].
+
+==References==
+{{Wiktionary}}
+{{Reflist}}
+
+{{DEFAULTSORT:Jury Duty}}
+[[Category:Court systems]]
+[[Category:Criminal procedure]]
+[[Category:Juries]]
+[[Category:Local government]]
+
+[[de:Jury Duty]]
+[[nl:Juryplicht]]</text>
+      <sha1>48a3n274v9q4rew1jvcwvdlx4kv5d6c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

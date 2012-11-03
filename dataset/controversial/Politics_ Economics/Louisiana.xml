@@ -1,0 +1,876 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Louisiana</title>
+    <ns>0</ns>
+    <id>18130</id>
+    <revision>
+      <id>520868323</id>
+      <parentid>520865949</parentid>
+      <timestamp>2012-11-01T08:23:29Z</timestamp>
+      <contributor>
+        <username>Hastymashi</username>
+        <id>2733084</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="108686">{{About|the U.S. state of Louisiana}}
+{{pp-move|small=yes}}
+{{US state
+| Name = Louisiana
+| Fullname = State of Louisiana
+| Flag = Flag of Louisiana.svg
+| Flaglink = [[Flag of Louisiana|Flag]]
+| Seal = Seal of Louisiana 2010.png
+| Seallink = [[Seal of Louisiana|Seal]]
+| Map = Louisiana in United States.svg
+| Nickname = Bayou State{{•}}Child of the Mississippi&lt;br&gt;Creole State{{•}}Pelican State (official)&lt;br&gt;Sportsman's Paradise{{•}}Sugar State
+| Demonym = Louisianan, Louisianais ([[French language|French]])&lt;br /&gt;Lwizyané(èz) ([[Louisiana Creole French|Creole]])
+| Motto = Union, Justice and Confidence &lt;br&gt; Union, justice, et confiance ([[French language|French]]) &lt;br&gt; Lunyon, Jistis, é Konfyans ([[Louisiana Creole French|Louisiana Creole]])
+| MottoEnglish = Union, justice, and confidence
+| Former = Territory of Orleans
+| Capital = [[Baton Rouge, Louisiana|Baton Rouge]]
+| LargestCity = [[New Orleans]]&lt;ref&gt;[http://afp.google.com/article/ALeqM5i4Io2zyj6VR8duSA6bXBGVt1H8Eg New Orleans a 'ghost town' after thousands flee Gustav: mayor] August 31, 2008.&lt;/ref&gt;&lt;ref&gt;{{Cite news|first= |last= |coauthors= |title=Expert: N.O. population at 273,000 |date=August 7, 2007 |publisher= |url=http://www.wwltv.com/local/stories/wwl080707jbpopulation.104a120f.html |work=[[WWL-TV]] |pages= |accessdate=2007-08-14 |language=}}&lt;/ref&gt;&lt;ref name=&quot;Baton Rouge, Louisiana: Relocation&quot;&gt;{{cite web|title=Relocation |publisher=Connecting U.S. Cities |date= May 3, 2007 |url=http://www.connectingbatonrouge.com/relocation.php}}&lt;/ref&gt;
+| LargestCity(2000Census) = [[New Orleans]]
+| LargestParish(County)(2010Census) = [[East Baton Rouge]]
+| LargestMetro = [[New Orleans metropolitan area|Greater New Orleans]]
+| OfficialLang = None&lt;br /&gt;[[English language|English]] (''de facto'')&lt;br /&gt;[[French language|French]] (''de facto'')
+|largest metro area [[New Orleans]]
+| Governor = [[Bobby Jindal]] ([[Republican Party (United States)|R]])
+| State Bird = [[Pelican]]
+| Lieutenant Governor = [[Jay Dardenne]] ([[Republican Party (United States)|R]])
+| Legislature = [[Louisiana State Legislature|State Legislature]]
+| Upperhouse = [[Louisiana State Senate|State Senate]]
+| Lowerhouse = [[Louisiana House of Representatives|House of Representatives]]
+| Senators = [[Mary Landrieu]] (D)&lt;br /&gt;[[David Vitter]] (R)
+| Representative=6 Republicans, 1 Democrat
+| ElectoralVotes=9
+| PostalAbbreviation = LA
+| AreaRank = 31st
+| TotalAreaUS = 51,843
+| TotalArea = 135,382
+| LandAreaUS = 43,601
+| LandArea = 112,927
+| WaterAreaUS = 8,283
+| WaterArea = 21,455
+| PCWater = 15
+| PopRank = 25th
+| 2000Pop = 4,574,836 (2011 est)&lt;ref name=PopEstUS/&gt;
+| DensityRank = 24th
+| 2000DensityUS = 105
+| 2000Density = 40.5
+| AdmittanceOrder = 18th
+| AdmittanceDate = April 30, 1812
+| TimeZone = [[Central Time Zone (North America)|Central]]: [[Coordinated Universal Time|UTC]][[Central Standard Time|-6]]/[[Central Daylight Time|-5]]
+| Latitude = 28° 56′ N to 33° 01′ N
+| Longitude = 88° 49′ W to 94° 03′ W
+| WidthUS = 130
+| Width = 210
+| LengthUS = 379
+| Length = 610
+| HighestPoint = [[Driskill Mountain]]&lt;ref name=USGS&gt;{{cite web|url=http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html|title=Elevations and Distances in the United States|publisher=[[United States Geological Survey]]|year=2001|accessdate=October 21, 2011}}&lt;/ref&gt;&lt;ref name=NAVD88&gt;Elevation adjusted to [[North American Vertical Datum of 1988]].&lt;/ref&gt;
+| HighestElevUS = 535
+| HighestElev = 163
+| MeanElevUS = 100
+| MeanElev = 30
+| LowestPoint = [[New Orleans, Louisiana|New Orleans]]&lt;ref name=USGS/&gt;&lt;ref name=NAVD88/&gt;
+| LowestElev = -2.5
+| LowestElevUS = -8
+| ISOCode = US-LA
+| Website = louisiana.gov
+}}
+'''Louisiana''' ({{IPAc-en|audio=en-us-Louisiana.ogg|l|uː|ˌ|iː|z|i|ˈ|æ|n|ə}} or {{IPAc-en|audio=en-us-Louisiana-2.ogg|ˌ|l|uː|z|i|ˈ|æ|n|ə}}; {{lang-fr|État de Louisiane}}, {{IPA-fr|lwizjan||Louisiane.ogg}}; [[Louisiana Creole French|Louisiana Creole]]: ''Léta de la Lwizyàn'') is a [[U.S. state|state]] located in the [[U.S. Southern States|southern region]] of the [[United States of America]].  Louisiana is the [[List of U.S. states and territories by area|31st most extensive]] and the [[List of U.S. states and territories by population|25th most populous]] of the [[50 United States]].  Its capital is [[Baton Rouge, Louisiana|Baton Rouge]] and largest city is [[New Orleans]].  Louisiana is the only state in the U.S. with political subdivisions termed [[Parishes of Louisiana|parishes]], which are local governments [[County-equivalent|equivalent to counties]]. The largest parish by population is [[East Baton Rouge Parish]], and the largest by land area is [[Cameron Parish]].
+
+Much of the state was formed from sediment washed down the Mississippi River, leaving enormous deltas and vast areas of coastal marsh and swamp.&lt;ref name=&quot;Keddy 2008&quot;&gt;{{cite book|last=Keddy|first=Paul A.|title=Water, Earth, Fire: Louisiana’s Natural Heritage|year=2008|publisher=Xlibris|location=Philadelphia|isbn=978-1-4363-6234-4|pages=229|url=http://www.amazon.com/Water-Earth-Fire-Louisianas-Heritage/dp/1436362334/ref=la_B001HCY3U8_1_4?ie=UTF8&amp;qid=1338122398&amp;sr=1-4}}&lt;/ref&gt;   These contain a rich southern biota; typical examples include birds such as ibis and egrets.  There are also many species of tree frogs, and fish such as sturgeon and paddlefish. In more elevated areas, fire is a natural process in the landscape, and has produced extensive areas of longleaf pine forest and wet savannas.  These support an exceptionally large number of plant species including many species of orchids and carnivorous plants.&lt;ref name=&quot;Keddy 2008&quot; /&gt;
+
+Some Louisiana urban environments have a [[Multiculturalism|multicultural]], [[Multilingualism|multilingual]] heritage, being so strongly influenced by an admixture of 18th century [[Culture of France|French]], [[Culture of Spain|Spanish]], [[State recognized tribes#Louisiana|Native American (Indian)]] and [[Culture of Africa|African]] cultures that they are considered to be somewhat exceptional in the U.S. Before the [[United States of America|American]] influx and statehood at the beginning of the 19th century, the territory of current Louisiana State had been a [[Viceroyalty of New Spain|Spanish]] and [[Louisiana (New France)|French]] colony. In addition, the pattern of development included importing numerous [[African]] slaves in the 18th century, with many from the same region of West Africa, thus concentrating their culture.
+
+==Toponym==
+Louisiana was named after [[Louis XIV]], King of France from 1643–1715. When [[René-Robert Cavelier, Sieur de La Salle]] claimed the territory drained by here the [[Mississippi River]] for France, he named it {{lang|fr|''La Louisiane''}}, meaning &quot;Land of Louis&quot;.&lt;ref&gt;{{cite encyclopedia|encyclopedia=[[Encyclopedia of Arkansas History &amp; Culture]]|title=Louisiana Purchase|first=Lea Flowers|last=Baker|accessdate=2010-09-18|url=http://encyclopediaofarkansas.net/encyclopedia/entry-detail.aspx?entryID=2383}}&lt;/ref&gt; Once part of the French Colonial Empire, the [[Louisiana Territory]] stretched from present-day Mobile Bay to just north of the present-day [[Canada|Canadian]] border, and included a small part of what is now southwestern Canada.
+{{-}}
+
+==Geology==
+Even the Gulf of Mexico did not exist 250 million years ago when there was but one supercontinent, [[Pangea]].  As Pangea split apart, the Atlantic Ocean and Gulf of Mexico opened. Louisiana was then slowly built, over millions of years, from water into land, and from north to south.&lt;ref name = &quot;Keddy 2008&quot; /&gt; The oldest rocks are exposed in the north, in areas like the Kisatchie National Forest. The oldest rocks date back only to the early Tertiary Era, some 60 million years ago.  The best history of the formation of these rocks can be found in Spearing's ''Geological History of Lousiana''.&lt;ref&gt;Spearing, D. 1995. Roadside Geology of Louisiana. Mountain Press Publishing Company, Missoula, MT. 225 p. p. 5-19&lt;/ref&gt;
+
+The youngest parts of the state were formed over the last 7,500 years as deltas of the Mississippi River: The Maringouin, Teche, St. Bernard, Lafourche, the modern Mississippi, and now the Atchafalaya.&lt;ref&gt;Coleman, J. M., Roberts, H. H., and Stone, G. W. (1998). Mississippi River Delta: an overview. Journal of Coastal Research, 14, 698–716.&lt;/ref&gt;  The sediments were carried from north to south by the Mississippi River.  
+
+In between the Tertiary rocks of the north, and the relatively new sediments along the coast, is a vast belt known as the Pleistocene Terraces.  Their age and distribution can be largely related to the rise and fall of sea levels during past ice ages.  In general, the northern terraces have had sufficient time for rivers to cut deep channels, while the newer terraces tend to be much flatter.&lt;ref&gt;Holland, W.C. 1944. Physiographic divisions of the Quarternary lowlands of Louisiana. Proceedings of the Louisiana Academy of Sciences VIII: 10-24.&lt;/ref&gt;
+
+[[Salt dome]]s are also found in Louisiana. Their origin can be traced back to the early Gulf of Mexico, when the shallow ocean had high rates of evaporation. There are several hundred salt domes in the state; one of the most familiar is Avery Island.&lt;ref&gt;Kniffen, F.B. and Hilliard, S.B. 1988. Louisiana: Its Land and People. Revised edition. Louisiana State University Press, Baton Rouge. p. 66-68.&lt;/ref&gt;  Salt domes are important not only as a source of salt; they also serve as underground traps for oil and gas.&lt;ref&gt;Spearing, D. 1995. Roadside Geology of Louisiana. Mountain Press Publishing Company, Missoula, MT. 225 p. p. 19-30&lt;/ref&gt;
+
+==Geography==
+[[File:National-atlas-louisiana.png|thumb|Map of Louisiana]]
+[[File:Louisiana wetlands aerial view.jpg|thumb|Aerial view of Louisiana wetland habitats.]]
+[[File:Lone Oak in Saint Bernard Parish.jpg|thumb|A field of yellow wildflowers in Saint Bernard Parish, Louisiana]]
+[[File:Honey Island Swamp, Louisiana (paulmannix).jpg|thumb|[[Honey Island Swamp]], Louisiana]]
+
+===Topography===
+Louisiana is bordered to the west by [[Texas]]; to the north by [[Arkansas]]; to the east by the state of [[Mississippi]]; and to the south by the [[Gulf of Mexico]].
+
+The surface of the state may properly be divided into two parts, the uplands of the north, and the [[alluvial deposit|alluvial]] along the coast. The alluvial region includes low swamp lands, coastal marshlands and beaches, and [[barrier islands]] that cover about {{convert|20,000|sqmi|km2}}. This area lies principally along the [[Gulf of Mexico]] and the [[Mississippi River]], which traverses the state from north to south for a distance of about 600 miles (1,000&amp;nbsp;km) and empties into the [[Gulf of Mexico]]; the [[Red River (Mississippi watershed)|Red River]]; the [[Ouachita River]] and its branches; and other minor streams (some of which are called [[bayous]]). The breadth of the alluvial region along the Mississippi is from 10 to 60 miles (15 to 100&amp;nbsp;km), and along the other rivers the alluvial region averages about 10 miles (15&amp;nbsp;km) across. The Mississippi River flows along a ridge formed by its own deposits (known as a [[levee]]), from which the lands decline toward a river beyond at an average fall of six feet per mile (3&amp;nbsp;m/km). The alluvial lands along other streams present similar features.
+
+The higher and contiguous hill lands of the north and northwestern part of the state have an area of more than {{convert|25,000|sqmi|km2}}. They consist of prairie and woodlands. The elevations above sea level range from 10 feet (3&amp;nbsp;m) at the coast and swamp lands to 50 and 60 feet (15–18&amp;nbsp;m) at the prairie and alluvial lands. In the uplands and hills, the elevations rise to [[Driskill Mountain]], the highest point in the state at only 535 feet (163&amp;nbsp;m) above sea level.
+
+Besides the navigable waterways already named, there are the [[Sabine River (Texas-Louisiana)|Sabine]] (Sah-BEAN), forming the western boundary; and the [[Pearl River (Mississippi-Louisiana)|Pearl]], the eastern boundary; the [[Calcasieu River|Calcasieu]] (KAL-cah-shew), the [[Mermentau River|Mermentau]], the [[Vermilion River (Louisiana)|Vermilion]], [[Bayou Teche]], the [[Atchafalaya River|Atchafalaya]] (a-CHAF-a-LI-a), the [[Boeuf River|Boeuf]] (bEHf), [[Bayou Lafourche]], the [[Courtableau River|Courtableau]], [[Bayou D'Arbonne]], the [[Macon River|Macon]], the [[Tensas River|Tensas]] (TEN-saw), [[Amite River]], the [[Tchefuncte River|Tchefuncte]] (CHA-Funk-ta), the [[Tickfaw River|Tickfaw]], the [[Natalbany River|Natalbany]], and a number of other smaller streams, constituting a natural system of navigable waterways, aggregating over {{convert|4000|mi|km}} long.
+
+The state also has political jurisdiction over the approximately {{convert|3|mi|km|adj=on}}-wide portion of [[subsea]] land of the [[Outer Continental Shelf|inner continental shelf]] in the [[Gulf of Mexico]].  Through a peculiarity of the [[political geography]] of the [[United States]], this is substantially less than the {{convert|9|mi|km|adj=on}}-wide jurisdiction of nearby [[U.S. state|states]] [[Texas]] and [[Florida]], which, like Louisiana, have extensive Gulf coastlines.&lt;ref name=&quot;Tulanian2008&quot;&gt;{{Cite journal
+  | last = Rivet
+  | first = Ryan
+  | title = Petroleum Dynamite
+  | newspaper = Tulanian
+  | publisher = [[Tulane University]]
+  | pages = 20–27
+  | date = Summer 2008
+  | accessdate = 2009-09-07
+  | url = http://digital.olivesoftware.com/Olive/ODE/Tulanian/}}&lt;/ref&gt;
+
+The southern coast of Louisiana in the United States is among the fastest disappearing areas in the world. This is largely a consequence of human mismanagement of the coast (see [[Wetlands of Louisiana]]). At one time, the land actually grew when spring floods from the Mississippi River added sediment and stimulated marsh growth; the land is now shrinking.  There are multiple causes.&lt;ref name=&quot;Keddy 2010&quot;&gt;{{cite book|last=Keddy|first=Paul|title=Wetland Ecology: Principles and Conservation|year=2010|publisher=Cambridge University Press|location=Cambridge|isbn=978-0-521-51940-3|pages=497|url=http://www.amazon.com/Wetland-Ecology-Conservation-Paul-Keddy/dp/0521739675/ref=la_B001HCY3U8_1_1?ie=UTF8&amp;qid=1338122398&amp;sr=1-1}}&lt;/ref&gt; Artificial levees now block spring flood water that would bring fresh water and sediment to marshes.  Swamps have been extensively logged, leaving canals and ditches that allow saline water to move inland. Canals dug for the oil and gas industry also allow storms to move sea water inland where it damages swamps and marshes.  Rising sea waters have exacerbated the problem. Some estimates conclude that the state is losing a land mass equivalent to 30 football fields every day. There are many proposals to save coastal areas by reducing human damage, including restoring natural floods from the Mississippi.  Without such restoration, coastal communities will continue to disappear.&lt;ref&gt;Boesch, D. F., Josselyn, M. N., Mehta, A. J., Morris, J. T., Nuttle, W. K., Simenstad, C. A., and Swift, D. P. J. (1994). Scientific assessment of coastal wetland loss, restoration and management in Louisiana. Journal of Coastal Research, Special Issue No. 20.&lt;/ref&gt; And as the communities disappear, more and more people are leaving the region.&lt;ref name=&quot;Tidwell(2003)&quot;&gt;Tidwell, Michael. ''Bayou Farewell: The Rich Life and Tragic Death of Louisiana's Cajun Coast''. Vintage Departures: New York, 2003 ISBN 978-0-375-42076-4.&lt;/ref&gt; Since the coastal [[wetlands]] also support an economically important coastal fishery, the loss of wetlands will also negatively affect this industry.
+
+===Climate===
+{{climate chart|[[Baton Rouge]]
+|42|62|5.94
+|44|65|4.99
+|51|72|4.98
+|57|78|5.26
+|64|84|5.24
+|70|89|5.81
+|73|91|5.40
+|72|91|5.72
+|68|88|4.54
+|57|81|3.61
+|48|71|4.81
+|43|64|5.17
+| float = left
+| units = imperial
+| source = [http://www.ustravelweather.com/weather-louisiana/]
+}}
+{{climate chart|[[Lake Charles, Louisiana|Lake Charles]]
+|43|62|5.52
+|47|65|3.28
+|51|70|3.54
+|59|78|3.64
+|66|85|6.06
+|72|90|6.07
+|74|92|5.13
+|74|92|4.85
+|70|88|5.95
+|61|81|3.94
+|52|69|4.61
+|46|64|4.60
+| float = right
+| units = imperial
+| source = as above
+}}
+{{climate chart|[[New Orleans]]
+|44|64|5.87
+|47|66|5.47
+|53|73|5.24
+|59|79|5.02
+|66|85|4.62
+|72|90|6.83
+|74|91|6.20
+|74|91|6.15
+|70|88|5.55
+|61|80|3.05
+|52|72|5.09
+|46|65|5.07
+| float = left
+| units = imperial
+| source = as above
+}}
+{{climate chart|[[Shreveport]]
+|36|56|4.94
+|39|61|4.28
+|46|69|4.48
+|54|77|4.57
+|62|84|4.85
+|69|90|4.86
+|73|93|3.78
+|71|93|2.91
+|66|87|3.06
+|55|78|4.42
+|44|67|4.57
+|38|59|4.73
+| float = right
+| units = imperial
+| source = as above
+}}
+
+Louisiana has a [[humid subtropical climate]] ([[Köppen climate classification]] ''Cfa''), perhaps the most &quot;classic&quot; example of a humid subtropical climate of all the Southcentral states, with long, hot, humid summers and short, mild winters. The subtropical characteristics of the state are due in large part to the influence of the [[Gulf of Mexico]], which even at its farthest point is no more than 200 miles (320&amp;nbsp;km) away. Precipitation is frequent throughout the year, although the summer is slightly wetter than the rest of the year. There is a dip in precipitation in October. Southern Louisiana receives far more copious rainfall, especially during the winter months. Summers in Louisiana are hot and humid, with high temperatures from mid-June to mid-September averaging 90 °F (32 °C) or more and overnight lows averaging above 70 °F (22 °C). In the summer, the extreme maximum temperature is much warmer in the north than in the south, with temperatures near the [[Gulf of Mexico]] occasionally reaching 100 °F (38 °C), although temperatures above 95 °F (35 °C) are commonplace. In northern Louisiana, the temperatures reach above 105 °F (41 °C) in the summer.
+
+Temperatures are generally mildly warm in the winter in the southern part of the state, with highs around New Orleans, Baton Rouge, the rest of south Louisiana, and the Gulf of Mexico averaging 66 °F (19 °C), while the northern part of the state is mildly cool in the winter with highs averaging 59 °F (15 °C). The overnight lows in the winter average well above freezing throughout the state, with 46 °F (8 °C) the average near the Gulf and an average low of 37 °F (3 °C) in the winter in the northern part of the state. Louisiana does have its share of cold fronts, which frequently drop the temperatures below 20 °F (−8 °C) in the northern part of the state, but almost never do so in the southern part of the state. Snow is not very common near the Gulf of Mexico, although those in the northern parts of the state can expect one to three snowfalls per year, with the frequency increasing northwards. Louisiana's highest recorded temperature is {{convert|114|F|C}} in [[Plain Dealing, Louisiana|Plain Dealing]] on August 10, 1936 while the coldest recorded temperature is {{convert|-16|F|C}} at [[Minden, Louisiana|Minden]] on February 13, 1899.
+
+Louisiana is often affected by [[tropical cyclones]] and is very vulnerable to strikes by major hurricanes, particularly the lowlands around and in the [[New Orleans]] area. The unique geography of the region with the many bayous, marshes and inlets can make major hurricanes especially destructive. The area is also prone to frequent thunderstorms, especially in the summer. The entire state averages over 60 days of thunderstorms a year, more than any other state except [[Florida]]. Louisiana averages 27 [[tornadoes]] annually, some in part in 2010. The entire state is vulnerable to a tornado strike, with the extreme southern portion of the state slightly less so than the rest of the state. Tornadoes are much more common from January to March in the southern part of the state, and from February through March in the northern part of the state.&lt;ref name=&quot;Annual average number of tornadoes&quot;&gt;[http://www.ncdc.noaa.gov/img/climate/research/tornado/small/avgt5304.gif NOAA National Climatic Data Center.] Retrieved on October 24, 2006.&lt;/ref&gt;
+
+===Hurricanes===
+*August 28-29, 2012, Hurricane Isaac hits southeast Louisiana, just 7 years after Katrina (2005)
+*September 1, 2008, [[Hurricane Gustav|Gustav]] made landfall along the Louisiana coast near [[Cocodrie, Louisiana|Cocodrie]] in southeastern Louisiana. As late as August 31 it had been projected by the [[National Hurricane Center]] that the hurricane would remain at [[Saffir–Simpson Hurricane Scale|Category 3]] or above on September 1, but in the event the center of Gustav made landfall as a strong Category 2 hurricane (1&amp;nbsp;mph below Category 3), and dropped to Category 1 soon after.&lt;ref&gt;[http://www.foxnews.com/story/0,2933,414306,00.html Hurricane Gustav makes landfall, weakens to Category 1 storm] Fox News, September 2, 2008.&lt;/ref&gt; As a result of NHC's forecasts there had been a massive evacuation of [[New Orleans]] amid warnings (for example from the city's mayor, [[Ray Nagin]]) that this would be the “storm of the century”,&lt;ref&gt;[http://www.cnn.com/2008/US/weather/08/30/gustav.prepare/ Mandatory evacuations to begin Sunday morning in New Orleans] CNN, August 31, 2008.&lt;/ref&gt; potentially more devastating than [[Hurricane Katrina|Katrina]] almost exactly three years earlier, but these fears were not realised. Nevertheless, a significant number of deaths were caused by or attributed to Gustav,&lt;ref name=&quot;KTBS&quot;&gt;{{cite news
+| title = Sixteen deaths connected to Gustav
+| agency = Associated Press |publisher=[[KTBS]]
+| date = 2008-09-03 | accessdate=2008-09-08
+| url = http://www.ktbs.com/news/Sixteen-deaths-connected-to-Gustav--16463/
+}}&lt;/ref&gt; and around 1.5 million people were without power in Louisiana on September 1.&lt;ref&gt;{{Cite news|url=http://www.abc.net.au/news/stories/2008/09/03/2353770.htm?section=justin|title=Louisiana cleans up after Gustav|last=Rowland|first=Michael|date=2008-09-02|publisher=[[Australian Broadcasting Corporation]]|accessdate=2008-09-08}}&lt;/ref&gt;
+*September 24, 2005, [[Hurricane Rita|Rita]] (Category 3 at landfall) struck southwestern Louisiana, flooding many parishes and cities along the coast, including [[Cameron Parish]], [[Lake Charles, Louisiana|Lake Charles]], and other towns. The storm's winds further weakened the damaged levees in New Orleans and caused renewed flooding in parts of the city.
+*August 29, 2005, [[Hurricane Katrina|Katrina]] (Category 3 at landfall)&lt;ref&gt;{{cite web|author=Stewart, Stacy |publisher=[[National Hurricane Center]] |url=http://www.nhc.noaa.gov/archive/2005/dis/al122005.discus.001.shtml |title=Tropical Depression Twelve, Discussion No. 1, 5:00 p.m. EDT |date=August 23, 2005 |accessdate=2007-07-25}}&lt;/ref&gt; struck and devastated southeastern Louisiana, where it breached and undermined levees in New Orleans, causing 80% of the city to flood. Most people had been evacuated but the majority of the population became homeless. The city was virtually closed until October. It is estimated that more than two million people in the [[Gulf Coast of the United States|Gulf region]] were displaced by the hurricane, and that more than 1,500 fatalities resulted in Louisiana alone. A public outcry criticized governments at the local, state, and federal levels, citing that preparation and response was neither fast nor adequate. The effects of the hurricane scattered Louisiana residents across the country.
+{{further2|[[Effect of Hurricane Katrina on Louisiana]] and [[Effect of Hurricane Katrina on New Orleans]]}}
+*Oct. 3, 2002, [[Hurricane Lili|Lili]] (Category 1 at landfall)
+*August 1992, [[Hurricane Andrew|Andrew]] (Category 3 at landfall) struck south-central Louisiana. It killed four people; knocked out power to nearly 150,000 citizens; and destroyed hundreds of millions of dollars of crops in the state.
+*August 1969, [[Hurricane Camille|Camille]] (Category 5) caused a {{convert|23.4|ft|m|1|abbr=on}}. storm surge and killed 250 people&lt;!-- this needs help --&gt;. Although Camille officially made landfall in [[Mississippi]] and the worst impacts were felt there, it also had effects in Louisiana. [[New Orleans]] was spared the brunt of the storm and remained dry, with the exception of mild rain-generated flooding in the most low-lying areas.
+*September 9, 1965, [[Hurricane Betsy|Betsy]] (Category 3 at landfall) came ashore in Louisiana, causing massive destruction as the first hurricane in history to cause one billion dollars in damage (over ten billion in inflation-adjusted USD). The storm hit New Orleans particularly hard by flooding approximately 35% of the city (including the [[Lower 9th Ward]], [[Gentilly, New Orleans|Gentilly]], and parts of [[Mid-City New Orleans|Mid-City]]), and pushing the death toll in the state to 76.
+*June 1957, [[Hurricane Audrey|Audrey]] (Category 4) devastated southwest Louisiana, destroying or severely damaging 60–80 percent of the homes and businesses from [[Cameron, Louisiana|Cameron]] to [[Grand Chenier]]. 40,000 people were left homeless and more than 300 people in the state were killed.
+*August 10, 1856, [[1856 Last Island hurricane|Hurricane One]] (Category 4) made landfall at [[Last Island, Louisiana]].  The {{convert|25|mi|km|adj=on}} long barrier island resort community was devastated by being split into 5 separate islands, and over 200 people were killed.
+
+===Geographic and statistical areas===
+Louisiana is divided into 64 [[List of parishes in Louisiana|parishes]] (the equivalent of [[County (United States)|counties]] in most other states).&lt;ref name=&quot;nativeamericans&quot;&gt;{{Handbook of Texas|id=II/bzi4|name=Native Americans}}&lt;/ref&gt;
+
+&lt;center&gt;&lt;gallery&gt;
+File:LPD18USSNewOrleansPassingNewOrleans.jpg|[[New Orleans, Louisiana|New Orleans]] &lt;br /&gt; 360,740
+File:OKC BatonRougeSkyline.JPG|[[Baton Rouge, Louisiana|Baton Rouge]] &lt;br /&gt; 230,139
+File:Shreveskyline.JPG|[[Shreveport, Louisiana|Shreveport]] &lt;br /&gt; 200,975
+File:VeteransBlvdMetairie.jpg|[[Metairie, Louisiana|Metairie]] &lt;br /&gt; 138,481
+File:Lafayetteair.jpg|[[Lafayette, Louisiana|Lafayette]] &lt;br /&gt; 122,130
+File:Downtown Lake Charles.JPG|[[Lake Charles, Louisiana|Lake Charles]] &lt;br /&gt; 72,475
+File:Kenner, LA.jpg|[[Kenner, Louisiana|Kenner]] &lt;br /&gt; 66,715
+File:Bossier City Brdwlk.jpg|[[Bossier City, Louisiana|Bossier City]] &lt;br /&gt; 62,745
+File:Monroe, LA, City Hall IMG 1291.JPG|[[Monroe, Louisiana|Monroe]] &lt;br /&gt; 48,815
+File:DowntownAlexandria3rd.jpg|[[Alexandria, Louisiana|Alexandria]] &lt;br /&gt; 47,723
+&lt;/gallery&gt;&lt;/center&gt;
+&lt;!-- Deleted image removed: [[Image:LouisianaParishesMap.jpg|right|300px]] --&gt;
+*[[List of parishes in Louisiana]]
+*[[Louisiana census statistical areas]]
+*[[Louisiana metropolitan areas]]
+*[[List of cities, towns, and villages in Louisiana]]
+*[[Louisiana locations by per capita income]]
+
+===Protected areas===
+Owing to its location, and geology, the state has high biological diversity.  Some vital areas, such as southwestern prairie, have experienced a loss in excess of 98 percent. The pine flatwoods of the Florida parishes are also at great risk, mostly from fire suppression and urban sprawl.&lt;ref name = &quot;Keddy 2008&quot; /&gt; There is not yet a properly organized system of natural areas to represent and protect Louisiana's biological diversity.  Such as system would consist of a protected system of core areas linked by biological corridors, such as Florida is planning.&lt;ref&gt;Florida Greenways Commission. 1994. Report to the Governor. Creating a statewide greenways system: For people ... for wildlife ... for Florida. Florida Department of Environmental Protection, Tallahassee, FL.&lt;/ref&gt; 
+
+None-the-less, Louisiana contains a number of areas which are, in varying degrees, protected from human intervention.&lt;ref&gt;Lester, G. D., S.G. Sorensen, P. L. Faulkner, C. S. Reid and I. E. Maxit. 2005. Louisiana Comprehensive Wildlife Conservation Strategy. Louisiana Department of Wildlife and Fisheries, Baton Rouge, LA&lt;/ref&gt; In addition to [[National Park Service]] sites and areas and a [[United States National Forest]], Louisiana operates a system of [[List of Louisiana state parks|state park]]s, [[List of Louisiana state historic sites|state historic sites]], one [[Louisiana State Arboretum|state preservation area]], one [[Alexander State Forest|state forest]], and many [[Wildlife Management Area]]s. The [http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/louisiana/index.htm Nature Conservancy] also owns and manages a set of natural areas. One of Louisiana's largest natural areas is Kisatchie National Forest.  It is some 600,000 acres in area, more than half of which is vital [[flatwoods]] vegetation, which supports many rare plant and animal species.&lt;ref name = &quot;Keddy 2008&quot; /&gt; These include the Louisiana pine snake and Red-cockaded woodpecker. The system of protected cypress swamps around Lake Pontchartrain provides another large and important natural area, with southern [[wetland]] species including egrets, alligators, and sturgeon. At least 12 core areas would be needed to build a  protected areas system for the state; these would range from southwestern prairies, to the Pearl River Floodplain in the east, to the Mississippi River alluvial swamps in the north.&lt;ref name = &quot;Keddy 2008&quot; /&gt;
+
+The [[Louisiana Natural and Scenic Rivers System]] provides a degree of protection for 48 rivers, streams and bayous in the state. It is administered by the Louisiana Department of Wildlife and Fisheries
+
+====National Park Service====
+Historic or scenic areas managed, protected, or otherwise recognized by the National Park Service include:
+*[[Cane River National Heritage Area]] near Natchitoches;
+*[[Cane River Creole National Historical Park]] near Natchitoches;
+*[[Jean Lafitte National Historical Park and Preserve]], headquartered in New Orleans, with units in St. Bernard Parish, Barataria (Crown Point), and Acadiana (Lafayette);
+*[[Poverty Point National Monument]] at Epps, Louisiana; and
+*[[Saline Bayou]], a designated [[National Wild and Scenic River]] near [[Winn Parish]] in northern Louisiana.
+
+====US Forest Service====
+*[[Kisatchie National Forest]] is Louisiana's only national forest. It includes 600 thousand acres in central and north Louisiana with large areas of flatwoods and longleaf pine forest.
+
+====State parks and recreational areas====
+{{See also2|[[List of Louisiana state parks]]|[[List of Louisiana state historic sites]]}}
+Louisiana operates a system of 22 state parks, 17 state historic sites and one state [[Louisiana State Arboretum|preservation area]].
+
+===Transportation===
+In March 2011, Louisiana ranked as the second bottom &quot;Worst&quot; state (next to number 50 [[Kentucky]]), in the American State Litter Scorecard. The Pelican State suffers from an overall poor effectiveness and quality of its statewide public space cleanliness (primarily from roadway and adjacent litter/debris)--in state and related eradication standards.&lt;ref&gt;S. Spacek, 2011 American State Litter Scorecard: New Rankings for an Increasingly Environmentally Concerned Populace.&lt;/ref&gt;
+
+The [[Louisiana Department of Transportation and Development]] is the state government organization in charge of maintaining [[public transportation]], [[roadways]], [[bridge]]s, [[canals]], select [[levees]], floodplain management, [[port]] facilities, commercial vehicles, and [[aviation]] which includes 69 airports.
+
+{{See also|List of numbered highways in Louisiana}}
+[[File:Intracoastal Waterway Louisiana.jpg|thumb|[[Gulf Intracoastal Waterway]] in Louisiana near [[New Orleans]]]]
+{{col-begin|width=}}
+{{col-1-of-2}}
+
+====Interstate highways====
+{|----- style=&quot;vertical-align:top;&quot;
+|
+*[[File:I-10.svg|20px]] [[Interstate 10 in Louisiana|Interstate 10]]
+*[[File:I-12.svg|20px]] [[Interstate 12]]
+*[[File:I-20.svg|20px]] [[Interstate 20 in Louisiana|Interstate 20]]
+*[[File:I-49.svg|20px]] [[Interstate 49]]
+*[[File:I-55.svg|20px]] [[Interstate 55 in Louisiana|Interstate 55]]
+*[[File:I-59.svg|20px]] [[Interstate 59 in Louisiana|Interstate 59]]
+*[[File:I-110.svg|25px]] [[Interstate 110 (Louisiana)|Interstate 110]]
+*[[File:I-210.svg|25px]] [[Interstate 210 (Louisiana)|Interstate 210]]
+*[[File:I-220.svg|25px]] [[Interstate 220 (Louisiana)|Interstate 220]]
+*[[File:I-310.svg|25px]] [[Interstate 310 (Louisiana)|Interstate 310]]
+*[[File:I-510.svg|25px]] [[Interstate 510 (Louisiana)|Interstate 510]]
+*[[File:I-610.svg|25px]] [[Interstate 610 (Louisiana)|Interstate 610]]
+*[[File:I-910.svg|25px]] [[Interstate 910]]
+|}
+{{col-2-of-2}}
+
+====United States highways====
+{|
+|- valign=&quot;top&quot;
+|
+*[[File:US 11.svg|20px]] [[U.S. Route 11]]
+*[[File:US 51.svg|20px]] [[U.S. Route 51]]
+*[[File:US 61.svg|20px]] [[U.S. Route 61]]
+*[[File:US 63.svg|20px]] [[U.S. Route 63]]
+*[[File:US 65.svg|20px]] [[U.S. Route 65]]
+*[[File:US 71.svg|20px]] [[U.S. Route 71]]
+*[[File:US 79.svg|20px]] [[U.S. Route 79]]
+*[[File:US 80.svg|20px]] [[U.S. Route 80]]
+*[[File:US 84.svg|20px]] [[U.S. Route 84]]
+*[[File:US 90.svg|20px]] [[U.S. Route 90]]
+*[[File:US 165.svg|25px]] [[U.S. Route 165]]
+|
+*[[File:US 167.svg|25px]] [[U.S. Route 167]]
+*[[File:US 171.svg|25px]] [[U.S. Route 171]]
+*[[File:US 190.svg|25px]] [[U.S. Route 190]]
+*[[File:US 371.svg|25px]] [[U.S. Route 371]]
+*[[File:US 425.svg|25px]] [[U.S. Route 425]]
+|}
+{{col-end}}
+
+The [[Intracoastal Waterway]] is an important means of transporting commercial goods such as petroleum and petroleum products, agricultural produce, building materials and manufactured goods.
+
+In 2011, Louisiana ranked among the five deadliest states for debris/litter –caused vehicle accidents per total number of registered vehicles and population size. Figures derived from&lt;ref&gt;National Highway Traffic Safety Administration&lt;/ref&gt; the NTSHA show at least 25 persons in Louisiana were killed each year in motor vehicle collisions with non-fixed objects, including debris, dumped litter, animals and their carcasses.
+
+==History==
+{{Main|History of Louisiana}}
+
+===Prehistory===
+Louisiana was inhabited by [[Native Americans in the United States|Native Americans]] for many millennia before the arrival of Europeans in the 16th century. During the Middle [[Archaic period in the Americas|Archaic period]], Louisiana was the site of the earliest mound complex in [[North America]] and one of the earliest dated, complex constructions in the Americas, the [[Watson Brake]] site near present-day [[Monroe, Louisiana|Monroe]].  An 11-mound complex, it was built about 5400 BP (3500 BCE).&lt;ref&gt;[http://www.archaeology.org/9801/newsbriefs/mounds.html Amélie A. Walker, &quot;Earliest Mound Site&quot;], ''Archaeology Magazine'', Volume 51 Number 1, January/February 1998&lt;/ref&gt; The Middle Archaic sites of [[Caney (Middle Archaic)|Caney]] and [[Frenchman's Bend]] have also been securely dated to 5600-5000 [[Before Present|BP]], demonstrating that seasonal hunter-gatherers organized to build complex constructions in present-day northern Louisiana. The Hedgepeth Site in [[Lincoln Parish, Louisiana|Lincoln Parish]] is more recent, dated to 5200-4500 BP.&lt;ref&gt;[http://books.google.com/books?id=Ccsmpug-xaoC&amp;pg=PA177&amp;lpg=PA177&amp;dq=Hedgepeth+Middle+Archaic+site&amp;source=bl&amp;ots=2wHOzYtK-q&amp;sig=3eKTCzKwSwl-S07zX8S-yEz7yv0&amp;hl=en&amp;ei=QI2yTou4BsKA2wXlmZHhAw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10&amp;ved=0CF4Q6AEwCQ#v=onepage&amp;q=Hedgepeth%20Middle%20Archaic%20site&amp;f=false Robert W. Preucel, Stephen A. Mrozowski, ''Contemporary Archaeology in Theory: The New Pragmatism,'' John Wiley and Sons, 2010, p. 177]&lt;/ref&gt;
+
+Nearly 2,000 years later, [[Poverty Point]], the largest and best-known Late Archaic site in the state, was built. Modern-day [[Epps, Louisiana|Epps]] developed near it. The [[Poverty Point culture]] may have hit its peak around 1500 BCE, making it the first complex culture, and possibly the first tribal culture in North America.&lt;ref&gt;[http://www.deltablues.net/jon.html Jon L. Gibson, PhD, &quot;Poverty Point: The First Complex Mississippi Culture&quot;], 2001, Delta Blues, accessed 26 October 2009&lt;/ref&gt; It lasted until approximately [[700 BCE]]. 
+
+The Poverty Point culture was followed by the [[Tchefuncte site#Tchefuncte culture|Tchefuncte]] and [[Lake Cormorant culture|Lake Cormorant]] cultures of the [[Tchula period]], local manifestations of Early [[Woodland period]]. The Tchefuncte culture were the first people in Louisiana to make large amounts of pottery.&lt;ref name=&quot;The Tchefuncte Site Summary&quot;&gt;{{cite web|url=http://www.crt.state.la.us/hp/nhl/parish52/scans/52030001.pdf|title=The Tchefuncte Site Summary|accessdate=2009-06-01}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; These cultures lasted until 200 CE. The Middle Woodland period starts in Louisiana with the [[Marksville culture]] in the southern and eastern part of the state&lt;ref name=Prehistory&gt;{{cite web| url =http://www.crt.state.la.us/archaeology/laprehis/marca.htm| title=Louisiana Prehistory-Marksville, Troyville-Coles Creek, and Caddo|accessdate=2010-02-04}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; and the [[Fourche Maline culture]] in the northwestern part of the state. The Marksville culture takes its name from the [[Marksville Prehistoric Indian Site]] in [[Avoyelles Parish, Louisiana]]. These cultures were contemporaneous with the [[Hopewell tradition|Hopewell cultures]] of [[Ohio]] and [[Illinois]], and participated in the Hopewell Exchange Network. Trade with peoples to the southwest brought the [[bow (weapon)|bow]] and [[arrow]]&lt;ref name=OASPAST&gt;{{cite web|url=http://www.ou.edu/cas/archsur/counties/latimer.htm|title=OAS-Oklahomas Past|accessdate=2010-02-06}}&lt;/ref&gt; The first [[burial mound]]s were built at this time.&lt;ref name=TejasWoodland/&gt; Political power begins to be consolidated as the first [[platform mound]]s at ritual centers are constructed for the developing hereditary political and religious leadership.&lt;ref name=TejasWoodland&gt;{{cite web|url=http://www.texasbeyondhistory.net/tejas/ancestors/woodland.html|title=Tejas-Caddo Ancestors-Woodland Cultures|accessdate=2010-02-06}}&lt;/ref&gt; By 400 CE in the southern part of the state the Late Woodland period had begun with the [[Baytown culture]] and it was not all that much of a change in the cultural history of the area. Population increased dramatically and there is strong evidence of a growing cultural and political complexity. Many Coles Creek sites were erected over earlier Woodland period [[morgue|mortuary]] mounds, leading researchers to speculate that emerging elites were symbolically and physically appropriating dead ancestors to emphasize and project their own authority.&lt;ref&gt;{{Cite book|last= Kidder |first= Tristram |editors= R. Barry Lewis, Charles Stout |title= Mississippian Towns and Sacred Spaces |publisher= [[University of Alabama Press]] |year= 1998 |isbn= 0-8173-0947-0 }}&lt;/ref&gt; The [[Mississippian culture|Mississippian period]] in Louisiana sees the emergence of the [[Plaquemine culture|Plaquemine]] and the [[Caddoan Mississippian culture]]s. This period is when extensive [[maize]] agriculture is adopted. The Plaquemine culture in the lower [[Mississippi River]] Valley in western Mississippi and eastern Louisiana begins in 1200 CE and goes to about 1400 CE. Good examples of this culture are the [[Medora Site]] in [[West Baton Rouge Parish, Louisiana]], and the [[Emerald Mound Site|Emerald Mound]], [[Winterville Site|Winterville]] and [[Holly Bluff Site|Holly Bluff]] sites in Mississippi.&lt;ref&gt;{{cite web| url = http://www.nps.gov/seac/outline/05-mississippian/index.htm| title = Mississippian and Late Prehistoric Period | accessdate = 2008-09-08 }}&lt;/ref&gt; Plaquemine culture was contemporaneous with the Middle Mississippian culture in the [[Cahokia]] site near [[St. Louis, Missouri]]. This group is considered ancestral to the [[Natchez people|Natchez]] and [[Taensa]] Peoples.&lt;ref name=&quot;The Plaquemine Culture, A.D 1000&quot;&gt;{{cite web| url = http://bcn.boulder.co.us/environment/cacv/cacvbrvl.htm| title = The Plaquemine Culture, A.D 1000  | accessdate = 2008-09-08 }}&lt;/ref&gt; By 1000 CE in the northwestern part of the state the Fourche Maline culture had evolved into the Caddoan Mississippian culture. The Caddoan Mississippians covered a large territory, including what is now eastern Oklahoma, western Arkansas, northeast [[East Texas|Texas]], and northwest Louisiana. Archeological evidence that the cultural continuity is unbroken from prehistory to the present, and that the direct ancestors of the [[Caddo]] and related [[Caddoan languages|Caddo language]] speakers in prehistoric times and at first European contact and the modern [[Caddo Nation of Oklahoma]] is unquestioned today.&lt;ref name=TejasLinguistics&gt;{{cite web| url= http://www.texasbeyondhistory.net/tejas/fundamentals/languages.html | title=Tejas-Caddo Fundamentals-Caddoan Languages and Peoples | accessdate=2010-02-04}}&lt;/ref&gt;
+
+Many current place names in the state, including [[Atchafalaya River|Atchafalaya]], Natchitouches (now spelled [[Natchitoches, Louisiana|Natchitoches]]), Caddo, [[Houma, Louisiana|Houma]], [[Tangipahoa]], and [[Avoyel]] (as [[Avoyelles]]), are transliterations of those used in various Native American languages.
+
+===Exploration and colonization by Europeans===
+[[File:Louisiana regions map.svg|thumb|Louisiana regions]]
+The first European explorers to visit Louisiana came in 1528 when a [[Spain|Spanish]] expedition led by [[Panfilo de Narváez]] located the mouth of the Mississippi River. In 1542, [[Hernando de Soto (explorer)|Hernando de Soto]]'s expedition skirted to the north and west of the state (encountering Caddo and Tunica groups) and then followed the Mississippi River down to the [[Gulf of Mexico]] in 1543.
+Then Spanish interest in Louisiana lay dormant. In the late 17th century, [[France|French]] and French Canadian expeditions, which included sovereign, religious and commercial aims, established a foothold on the Mississippi River and Gulf Coast. With its first settlements, France lay claim to a vast region of North America and set out to establish a commercial empire and French nation stretching from the Gulf of Mexico to Canada.
+
+In 1682, the French explorer [[Robert Cavelier de La Salle]] named the region Louisiana to honor [[Louis XIV of France|France's King Louis XIV]]. The first permanent settlement, Fort Maurepas (at what is now [[Ocean Springs, Mississippi]], near [[Biloxi, Mississippi|Biloxi]]), was founded by [[Pierre Le Moyne d'Iberville]], a French military officer from Canada, in 1699. By then the French had also built a small fort at the mouth of the Mississippi at a settlement they named [[La Balize, Louisiana|La Balise (or La Balize)]], &quot;seamark&quot; in French. By 1721 they built a {{convert|62|ft|m|sing=on}} wooden lighthouse-type structure to guide ships on the river.&lt;ref&gt;[http://www.srh.noaa.gov/lch/research/la18hu.php#18 David Roth, &quot;Louisiana Hurricane History: 18th century (1722–1800)&quot;, Tropical Weather – National Weather Service – Lake Charles, LA, 2003], accessed May 7, 2008 {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt;
+
+The [[Louisiana (New France)|French colony of Louisiana]] originally claimed all the land on both sides of the [[Mississippi River]] and north to French territory in [[Canada]].
+The following States were part of Louisiana: Louisiana, Mississippi, Arkansas, Oklahoma, Missouri, Kansas, Nebraska, Iowa, Illinois, Indiana, Michigan, Wisconsin, Minnesota, North Dakota, South Dakota.
+
+The settlement of [[Natchitoches, Louisiana|Natchitoches]] (along the Red River in present-day northwest Louisiana) was established in 1714 by Louis Juchereau de St. Denis, making it the oldest permanent European settlement in the Louisiana Purchase territory. The French settlement had two purposes: to establish trade with the Spanish in [[Texas]], and to deter Spanish advances into Louisiana. Also, the northern terminus of the Old San Antonio Road was at Natchitoches. The settlement soon became a flourishing river port and crossroads, giving rise to vast cotton kingdoms along the river. Over time, planters developed large plantations and built fine homes in a growing town. This became a pattern repeated in New Orleans and other places.
+[[File:Atchafalaya Basin.jpg|thumb|French Acadians, who came to be known as [[Cajuns]], settled the swamps of southern Louisiana, especially in the [[Atchafalaya Basin]].]]
+Louisiana's French settlements contributed to further exploration and outposts, concentrated along the banks of the Mississippi and its major tributaries, from Louisiana to as far north as the region called the [[Illinois Country]], around present-day [[St. Louis, Missouri]]. ''See also:'' [[French colonization of the Americas]]
+
+Initially [[Mobile, Alabama]], and [[Biloxi, Mississippi]], functioned as the capital of the colony. Recognizing the importance of the Mississippi River to trade and military interests, France made [[New Orleans]] the seat of civilian and military authority in 1722. From then until the United States acquired the territory in the Louisiana Purchase on December 20, 1803, France and Spain traded control of the region's colonial empire.
+
+In the 1720s, German immigrants settled along the Mississippi River in a region referred to as the [[German Coast]].
+
+France ceded most of its territory to the east of the Mississippi to [[Great Britain]] in the aftermath of [[Great Britain in the Seven Years War|Britain's victory in the Seven Years' War]] or [[French and Indian War]], as it is known in North America. It retained the area around [[New Orleans]] and the parishes around [[Lake Pontchartrain]]. The rest of Louisiana became a colony of [[Spain]] after the [[Seven Years' War]] by the [[Treaty Treaty of Fontainebleau (1762)|Treaty of Fontainebleau]] of 1763.
+
+In 1765, during the period of Spanish rule, several thousand French-speaking refugees from the region of [[Acadia]] (now [[Nova Scotia]], [[New Brunswick]], and [[Prince Edward Island]], [[Canada]]) made their way to Louisiana after having been [[Expulsion of the Acadians|expelled]] from their homelands by the British during the French and Indian War. They settled chiefly in the southwestern Louisiana region now called [[Acadiana]]. The Spanish, eager to gain more Catholic settlers, welcomed the [[Acadian]] refugees. [[Cajun]]s descend from these Acadian refugees.
+
+Spanish Canary Islanders, called [[Isleños]], emigrated from the Canary Islands of Spain to Louisiana under the Spanish crown between 1778 and 1783.
+
+In 1800, France's [[Napoleon I of France|Napoleon Bonaparte]] reacquired Louisiana from Spain in the [[Third Treaty of San Ildefonso|Treaty of San Ildefonso]], an arrangement kept secret for two years.
+
+===Expansion of slavery===
+In 1709, French financier Antoine Crozat obtained a monopoly of commerce in the French dominion of Louisiana that extended from the [[Gulf of Mexico]] to what is now [[Illinois]]. &quot;That concession allowed him to bring in a cargo of blacks from [[Africa]] every year,&quot; the British historian [[Hugh Thomas (writer)|Hugh Thomas]] wrote.&lt;ref&gt;''The Slave Trade: The Story of the Atlantic Slave Trade, 1440–1870'' by Hugh Thomas. 1997: Simon and Schuster. p. 242-43&lt;/ref&gt;
+
+When [[France]] sold the Louisiana territory to the United States in 1803, it was soon accepted that enslaved Africans could be brought there as easily as they were brought to neighboring [[Mississippi]] though it violated U.S. law to do so.&lt;ref name=&quot;The Slave Trade p. 548&quot;&gt;''The Slave Trade: The Story of the Atlantic Slave Trade, 1440–1870'' by Hugh Thomas. 1997: Simon and Schuster. p. 548.&lt;/ref&gt; Though Louisiana was, at the start of the 19th century, a small producer of sugar with a relatively small number of slaves, it soon became a big sugar producer after plantation owners purchased enslaved people who had been transported from Africa and then to [[South Carolina]] before being sold in Louisiana where plantation owners forced the captive labor to work at no pay on their growing sugar cane [[plantation]]s. Despite demands by [[United States]] Rep. [[James Hillhouse]] and by the pamphleteer [[Thomas Paine]] to enforce existing federal law against slavery in the newly acquired territory.,&lt;ref name=&quot;The Slave Trade p. 548&quot; /&gt; slavery prevailed because it was the source of great profits and the lowest cost labor. The last Spanish governor of the Louisiana territory wrote that &quot;Truly, it is impossible for lower Louisiana to get along without slaves&quot; and with the use of slaves, the colony had been &quot;making great strides toward prosperity and wealth.&quot;&lt;ref name=&quot;The Slave Trade p. 548&quot;/&gt;
+[[File:Free Woman of Color with daughter NOLA Collage .jpg|thumb|180px|[[Free people of color|Free woman of color]] with [[quadroon]] daughter; late 18th century collage painting, [[New Orleans]].]]
+Forced slave labor was needed, said [[William C. C. Claiborne]], Louisiana's first United States governor, because unforced white laborers &quot;cannot be had in this unhealthy climate.&quot;&lt;ref&gt;''The Slave Trade: The Story of the Atlantic Slave Trade, 1440–1870'' by Hugh Thomas. 1997: Simon and Schuster. p. 549.&lt;/ref&gt; Hugh Thomas wrote that Claiborne was unable to enforce the abolition of trafficking in human beings where he was charged with doing so in Louisiana.
+
+===Haitian migration and influence===
+[[Pierre Clément de Laussat]] ([[List of colonial governors of Louisiana|Governor of Louisiana]], 1803): &quot;[[Saint-Domingue]] was, of all our colonies in the Antilles, the one whose mentality and customs influenced Louisiana the most.&quot;&lt;ref&gt;[http://www.inmotionaame.org/gallery/detail.cfm;jsessionid=f8301053021342952617924?migration=5&amp;topic=2&amp;id=463576&amp;type=image&amp;bhcp=1 Sieur de Bienville] accessed 22 July 2012&lt;/ref&gt;
+
+Louisiana and her Caribbean parent colony developed intimate links during the 18th century, centered on maritime trade, the exchange of capital and information, and the migration of colonists. From such beginnings, Haitians exerted a profound influence on Louisiana's politics, people, religion, and culture. The colony's officials, responding to anti-slavery plots and uprisings on the island, banned the entry of enslaved Saint Dominguans in 1763. Their rebellious actions would continue to impact upon Louisiana's slave trade and immigration policies throughout the age of the American and French revolutions.
+
+These two democratic struggles struck fear in the hearts of the Spaniards, who governed Louisiana from 1763 to 1800. They suppressed what they saw as seditious activities and banned subversive materials in a futile attempt to isolate their colony from the spread of democratic revolution. In May 1790 a royal decree prohibited the entry of blacks – enslaved and free – from the French West Indies. A year later, the first successful slave revolt in history started, which would lead eventually to the founding of [[Haiti]].&lt;ref&gt;&quot;[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+ht0017) The Slave Rebellion of 1791]&quot;. [[Library of Congress Country Studies]].&lt;/ref&gt;
+
+The revolution in Saint Domingue unleashed a massive multiracial exodus: the French fled with the slaves they managed to keep; so did numerous free people of color, some of whom were slaveholders themselves. In addition in 1793, a catastrophic fire destroyed two-thirds of the principal city, Cap Français (present-day [[Cap Haïtien]]), and nearly ten thousand people left the island for good. In the ensuing decades of revolution, foreign invasion, and civil war, thousands more fled the turmoil. Many moved eastward to Santo Domingo (present-day Dominican Republic) or to nearby Caribbean islands. Large numbers of immigrants, black and white, found shelter in North America, notably in New York, [[Baltimore]] (fifty-three ships landed there in July 1793), [[Philadelphia]], [[Norfolk, Virginia|Norfolk]], [[Charleston, South Carolina|Charleston]] and [[Savannah, Georgia|Savannah]] as well as in [[Spanish Florida]]. Nowhere on the continent, however, did the refugee movement exert as profound an influence as in southern Louisiana.
+[[File:Anonymous portrait of Jean Lafitte, early 19th century, Rosenberg Library, Galveston, Texas.JPG|thumb|180px|French pirate [[Jean Lafitte]], who operated in New Orleans, was born in [[Port-au-Prince]] around 1782.&lt;ref&gt;[http://www.smithsonianmag.com/history-archaeology/neworleans.html Saving New Orleans], ''Smithsonian'' magazine, August 2006. Retrieved 2010-02-16.&lt;/ref&gt;]]
+Between 1791 and 1803, thirteen hundred refugees arrived in New Orleans. The authorities were concerned that some had come with &quot;seditious&quot; ideas. In the spring of 1795, [[Pointe Coupee, Louisiana|Pointe Coupée]] was the scene of an attempted insurrection during which planters' homes were burned down. Following the incident, a free émigré from Saint Domingue, Louis Benoit, accused of being &quot;very imbued with the revolutionary maxims which have devastated the said colony&quot; was banished. The failed uprising caused planter Joseph Pontalba to take &quot;heed of the dreadful calamities of Saint Domingue, and of the germ of revolt only too widespread among our slaves.&quot; Continued unrest in Pointe Coupée and on the [[German Coast]] contributed to a decision to shut down the entire slave trade in the spring of 1796.
+
+In 1800 Louisiana officials debated reopening it, but they agreed that Saint Domingue blacks would be barred from entry. They also noted the presence of black and white insurgents from the French West Indies who were &quot;propagating dangerous doctrines among our Negroes.&quot; Their slaves seemed more &quot;insolent,&quot; &quot;ungovernable,&quot; and &quot;insubordinate&quot; than they had been just five years before.
+
+That same year, Spain ceded Louisiana back to France, and planters continued to live in fear of revolts. After future emperor [[Napoleon Bonaparte]] sold the colony to the United States in 1803 because his disastrous expedition against Saint Domingue had stretched his finances and military too thin, events in the island loomed even larger in Louisiana.&lt;ref&gt;{{cite web |url=http://www.inmotionaame.org/migrations/topic.cfm;jsessionid=f8303469141230638453792?migration=5&amp;topic=2&amp;bhcp=1 |title=From Saint Domingue to Louisiana |work= |date= }}&lt;/ref&gt;
+
+===Purchase by the United States===
+{{Main|Louisiana Purchase}}
+When the United States won its independence from Great Britain in 1783, one of its major concerns was having a European power on its western boundary, and the need for unrestricted access to the Mississippi River. As American settlers pushed west, they found that the [[Appalachian Mountains]] provided a barrier to shipping goods eastward. The easiest way to ship produce was to use a [[flatboat]] to float it down the [[Ohio river|Ohio]] and Mississippi Rivers to the port of New Orleans, from whence goods could be put on ocean-going vessels. The problem with this route was that the Spanish owned both sides of the Mississippi below [[Natchez, Mississippi|Natchez]]. Napoleon's ambitions in Louisiana involved the creation of a new empire centered on the [[Caribbean]] [[sugar trade]]. By the terms of the Treaty of Amiens of 1800, Great Britain returned ownership of the islands of [[Martinique]] and [[Guadaloupe]] to the French. Napoleon looked upon Louisiana as a depot for these sugar islands, and as a buffer to U.S. settlement. In October 1801 he sent a large military force to conquer the important island of [[Santo Domingo]] and re-introduced slavery, which had been abolished in St. Domingue following a slave revolt there in 1792-3, and the legal and constitutional abolition of slavery in French colonies in 1794.
+
+When the army led by Napoleon's brother-in-law Leclerc was defeated by the forces opposed to the re-enslavement of most of the population of St. Domingue, Napoleon decided to sell Louisiana.
+[[File:Louisiane 1800.png|thumb|right|200px|Map of Louisiana in 1800]]
+[[Thomas Jefferson]], third President of the United States, was disturbed by Napoleon's plans to re-establish French colonies in America. With the possession of New Orleans, Napoleon could close the Mississippi to U.S. commerce at any time. Jefferson authorized [[Robert Livingston (1746–1813)|Robert R. Livingston]], U.S. Minister to France, to negotiate for the purchase of the City of New Orleans, portions of the east bank of the Mississippi, and free navigation of the river for U.S. commerce. Livingston was authorized to pay up to $2 million.
+
+An official transfer of Louisiana to French ownership had not yet taken place, and Napoleon's deal with the Spanish was a poorly kept secret on the frontier. On October 18, 1802, however, Juan Ventura Morales, Acting Intendant of Louisiana, made public the intention of Spain to revoke the right of deposit at New Orleans for all cargo from the United States. The closure of this vital port to the United States caused anger and consternation. Commerce in the west was virtually blockaded. Historians believe that the revocation of the right of deposit was prompted by abuses of the Americans, particularly smuggling, and not by French intrigues as was believed at the time. President Jefferson ignored public pressure for war with France, and appointed [[James Monroe]] a special envoy to Napoleon, to assist in obtaining New Orleans for the United States. Jefferson also raised the authorized expenditure to $10 million.
+
+However, on April 11, 1803, French Foreign Minister [[Talleyrand]] surprised Livingston by asking how much the United States was prepared to pay for the '''entirety''' of Louisiana, not just New Orleans and the surrounding area (as Livingston's instructions covered).  Monroe agreed with Livingston that Napoleon might withdraw this offer at any time (leaving them with no ability to obtain the desired New Orleans area), and that approval from President Jefferson might take months, so Livingston and Monroe decided to open negotiations immediately.  By April 30, they closed a deal for the purchase of the entire Louisiana territory of {{convert|828000|sqmi|km2|sigfig=2}} for 60 million [[French franc|Francs]] (approximately $15 million). Part of this sum was used to forgive debts owed by France to the United States. The payment was made in United States [[Government bond|bonds]], which Napoleon sold at face value to the [[Netherlands|Dutch]] firm of [[Hope &amp; Co.|Hope and Company]], and the [[Barings Bank|British banking house of Baring]], at a discount of 87½ per each $100 unit. As a result, France received only $8,831,250 in cash for Louisiana.
+Dutiful English banker [[Alexander Baring, 1st Baron Ashburton|Alexander Baring]] conferred with Marbois in Paris, shuttled to the United States to pick up the bonds, took them to Britain, and returned to France with the money – which Napoleon used to wage war against Baring's own country.
+
+When news of the purchase reached the United States, Jefferson was surprised. He had authorized the expenditure of $10 million for a port city, and instead received treaties committing the government to spend $15 million on a land package which would double the size of the country. Jefferson's political opponents in the [[Federalist Party (United States)|Federalist Party]] argued that the Louisiana purchase was a worthless desert, and that the Constitution did not provide for the acquisition of new land or negotiating treaties without the consent of the Senate. What really worried the opposition was the new states which would inevitably be carved from the Louisiana territory, strengthening Western and Southern interests in Congress, and further reducing the influence of New England Federalists in national affairs. President Jefferson was an enthusiastic supporter of westward expansion, and held firm in his support for the treaty. Despite Federalist objections, the U.S. Senate ratified the Louisiana treaty on October 20, 1803.
+
+A transfer ceremony was held in New Orleans on November 29, 1803. Since the Louisiana territory had never officially been turned over to the French, the Spanish took down their flag, and the French raised theirs. The following day, [[General James Wilkinson]] accepted possession of New Orleans for the United States. A similar ceremony was held in [[St. Louis, Missouri|St. Louis]] on March 9, 1804, when a French tricolor was raised near the river, replacing the Spanish national flag. The following day, [[Captain (U.S. Army)|Captain]] [[Amos Stoddard]] of the First U.S. Artillery marched his troops into town and had the American flag run up the fort's flagpole. The Louisiana territory was officially transferred to the United States government, represented by [[Meriwether Lewis]].
+
+The Louisiana Territory, purchased for less than 3 cents an acre, doubled the size of the United States overnight, without a war or the loss of a single American life, and set a precedent for the purchase of territory. It opened the way for the eventual expansion of the United States across the continent to the Pacific.
+
+==Demographics==
+{{Main|Demographics of Louisiana}}
+[[File:Louisiana population map.png|left|thumb|Louisiana population density map.]]
+{{USCensusPop
+| 1810 = 76556
+| 1820 = 153407
+| 1830 = 215739
+| 1840 = 352411
+| 1850 = 517762
+| 1860 = 708002
+| 1870 = 726915
+| 1880 = 939946
+| 1890 = 1118588
+| 1900 = 1381625
+| 1910 = 1656388
+| 1920 = 1798509
+| 1930 = 2101593
+| 1940 = 2363516
+| 1950 = 2683516
+| 1960 = 3257022
+| 1970 = 3641306
+| 1980 = 4205900
+| 1990 = 4219973
+| 2000 = 4468976
+| 2010 = 4533372
+| footnote = Source: 1910-2010&lt;ref&gt;{{cite web|author=Resident Population Data |url=http://2010.census.gov/2010census/data/apportionment-pop-text.php |title=Resident Population Data - 2010 Census |publisher=2010.census.gov |date= |accessdate=2012-02-18}}&lt;/ref&gt;
+}}
+The [[United States Census Bureau]] estimates that the population of Louisiana was 4,574,836
+on July 1, 2011, a 0.91% increase since the [[2010 United States Census]].&lt;ref name=PopEstUS&gt;{{cite web|url=http://www.census.gov/popest/data/state/totals/2011/tables/NST-EST2011-01.csv|title=Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2011|format=[[comma-separated values|CSV]]|work=2011 Population Estimates|publisher=[[United States Census Bureau]], Population Division|date=December 2011|accessdate=December 21, 2011}}&lt;/ref&gt;  The population density of the state is 104.9 people per square mile.&lt;ref name=&quot;2010.census.gov&quot;&gt;{{cite web|author=2010 Census Data |url=http://2010.census.gov/2010census/data/index.php |title=2010 Census Data - 2010 Census |publisher=2010.census.gov |date= |accessdate=2012-02-18}}&lt;/ref&gt;
+
+The [[center of population]] of Louisiana is located in [[Pointe Coupee Parish, Louisiana|Pointe Coupee Parish]], in the city of [[New Roads, Louisiana|New Roads]].&lt;ref&gt;{{cite web| title = Population and Population Centers by State – 2000 | publisher = United States Census Bureau | accessdate = 2008-12-05 | url = http://www.census.gov/geo/www/cenpop/statecenters.txt}}&lt;/ref&gt;
+
+According to the [[2000 U.S. Census]], 4.7% of the population aged 5 and older speak [[French language|French]] or [[Cajun French]] at home, while 2.5% speak [[Spanish language|Spanish]].&lt;ref&gt;{{cite web |url=http://www.mla.org/map_data_results&amp;state_id=22&amp;mode=state_tops |title=MLA Language Map Data Center |work= |date= |accessdate= }}&lt;/ref&gt;
+
+===Racial and ancestral makeup===
+According to the 2010 US census, the population of Louisiana was:&lt;ref&gt;http://quickfacts.census.gov/qfd/states/22000.html&lt;/ref&gt;
+*[[White Americans|White]] – 62.6% (60.3% [[non-Hispanic white]])
+*Black or [[African American]] – 32.0%
+*[[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) – 4.2%
+*[[Asian American|Asian]] – 1.5% &lt;small&gt;(0.6% Vietnamese, 0.2% Chinese, 0.2% Indian, 0.1% Korean, 0.1% Filipino)&lt;/small&gt;
+*[[Native Americans in the United States|Native American]] – 0.7%
+*Two or more races – 1.6%
+The major ancestry groups of Louisiana are African American (32.0%), [[French-American|French]] (15.1%), [[German-American|German]] (8.7%), [[Irish-American|Irish]] (8.1%), and [[English-American|English]] (6.7%).&lt;ref name=&quot;quicklinks&quot;&gt;{{cite web| title = Louisiana QuickLinks|publisher=United States Census Bureau|accessdate=2012-03-06|url =http://quickfacts.census.gov/qfd/states/22000lk.html}}&lt;/ref&gt;
+{{US Demographics}}
+
+==Economy==
+[[File:Louisiana quarter, reverse side, 2002.jpg|left|50px|Louisiana State Quarter]]
+The total [[gross state product]] in 2010 for Louisiana was US$213.6 billion, placing it 24th in the nation. Its per capita personal income is $30,952, ranking 41st in the United States.&lt;ref&gt;[http://usgovernmentrevenue.com/state_rev_summary.php?chart=Z0&amp;year=2010&amp;units=d&amp;rank=a US Government Revenue]&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Katrina Effect: LA Tops Nation in Income Growth |publisher=2theadvocate.com |year= 2007 |url=http://www.2theadvocate.com/news/6728801.html}}&lt;/ref&gt;
+
+The state's principal agricultural products include seafood (it is the biggest producer of [[crawfish]] in the world, supplying approximately 90%), [[cotton]], [[soybean]]s, [[cattle]], [[sugarcane]], [[poultry]] and eggs, [[dairy]] products, and [[rice]]. The seafood industry directly supports an estimated 16,000 jobs.&lt;ref&gt;&quot;[http://www.miamiherald.com/2010/05/15/1631831/louisianas-already-declining-seafood.html?asset_id=Oil%20threatens%20Louisiana%20seafood%20industry&amp;asset_type=html_module Louisiana's already-declining seafood industry could be wiped out]&quot;. MiamiHerald.com. May 15, 2010.&lt;/ref&gt; Industry generates chemical products, [[petroleum]] and [[coal]] products, processed foods and transportation equipment, and [[paper]] products. Tourism is an important element in the economy, especially in the New Orleans area.
+
+The [[Port of South Louisiana]], located on the [[Mississippi River|Mississippi]] between [[New Orleans]] and [[Baton Rouge]], is the largest volume shipping [[port]] in the [[Western Hemisphere]] and 4th largest in the world, as well as the largest [[bulk cargo]] port in the world.&lt;ref&gt;[http://www.aapa-ports.org/files/Statistics/2004%5FUS%5FPORT%5FCARGO%5FTONNAGE%5FRANKINGS.xls] linked from [http://www.aapa-ports.org/Industry/content.cfm?ItemNumber=900&amp;navItemNumber=551], accessed September 28, 2006&lt;/ref&gt;
+
+New Orleans, [[Shreveport, Louisiana|Shreveport]], and Baton Rouge are also home to a thriving film industry.&lt;ref&gt;{{Cite news| first=Eve | last=Troeh | coauthors= |authorlink= | title=Louisiana to be Southern Filmmaking Capital? | date=1 February 2007 | publisher=Voice of America | url =http://voanews.com/english/archive/2007-02/2007-02-01-voa58.cfm | work =VOA News | pages = | accessdate =25 December 2008| language = }}&lt;/ref&gt; State financial incentives and aggressive promotion have put the local film industry on a fast track. In late 2007 and early 2008, a {{convert|300000|sqft|m2|sing=on}} film studio was scheduled to open in [[Tremé]], with state-of-the-art production facilities, and a film training institute.&lt;ref&gt;[http://www.nj.com/careerwise/index.ssf?/careerwise/html/articles/0215071503_filmjobs.html New Jersey Local Jobs – NJ.com&lt;!--Bot-generated title--&gt;]&lt;/ref&gt;
+[[Tabasco sauce]], which is marketed by one of the [[United States]]' biggest producers of hot sauce, the [[McIlhenny Company]], originated on [[Avery Island]].&lt;ref&gt;Shevory, Kristina. &quot;The Fiery Family,&quot; ''New York Times,'' March 31, 2007, p. B1.&lt;/ref&gt;
+
+Louisiana has three personal [[income tax]] brackets, ranging from 2% to 6%. The [[sales tax]] rate is 4%: a 3.97% Louisiana sales tax and a .03% Louisiana Tourism Promotion District sales tax. Political subdivisions also levy their own sales tax in addition to the state fees. The state also has a [[use tax]], which includes 4% to be distributed by the Department of Revenue to local governments. Property taxes are assessed and collected at the local level.  Louisiana is a subsidized state, receiving $1.44 from the federal government for every dollar paid in.
+
+Tourism and culture are major players in Louisiana's economy, earning an estimated $5.2 billion per year.&lt;ref&gt;[http://doa.louisiana.gov/about_economy.htm Economy&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Louisiana also hosts many important cultural events, such as the World Cultural Economic Forum, which is held annually in the fall at the [[New Orleans Morial Convention Center]].&lt;ref&gt;[http://www.wcefculture.com World Culture Economic Forum]&lt;/ref&gt;
+
+As of January 2010, the state's unemployment rate was 7.4%.&lt;ref&gt;[http://www.bls.gov/lau/ Bls.gov]; Local Area Unemployment Statistics&lt;/ref&gt; An African American is three times as likely as a white person to be unemployed in Louisiana.&lt;ref&gt;&quot;[http://epi.3cdn.net/b81f933473564e11d7_s7m6bxvd6.pdf State Unemployment Trends by Race, Ethnicity and Gender]&quot; (PDF).&lt;/ref&gt;
+
+===Federal subsidies and spending===
+Louisiana taxpayers receive more federal funding per dollar of federal taxes paid compared to the average state. Per dollar of federal tax collected in 2005, Louisiana citizens received approximately $1.78 in the way of federal spending. This ranks the state 4th highest nationally and represents a rise from 1995 when Louisiana received $1.35 per dollar of taxes in federal spending (ranked 7th nationally). Neighboring states and the amount of federal spending received per dollar of federal tax collected were: Texas ($0.94), Arkansas ($1.41), and Mississippi ($2.02).  Federal spending in 2005 and subsequent years since has been exceptionally high due to the recovery from Hurricane Katrina.
+[http://www.taxfoundation.org/research/topic/31.html Tax Foundation].
+
+===Energy===
+[[File:Gulf Oil Spill Creeps Towards Mississippi Delta.jpg|thumb|200px|right|The oil slick just off the Louisiana coast on April 30, 2010. The [[Deepwater Horizon oil spill]] is now considered the biggest environmental disaster in U.S. history.]]
+Louisiana is rich in [[petroleum]] and [[natural gas]]. Petroleum and gas deposits are found in abundance both onshore and offshore in State-owned waters. In addition, vast petroleum and natural gas reserves are found offshore from Louisiana in the federally administered [[Outer Continental Shelf]] (OCS) in the [[Gulf of Mexico]]. According to the [[Energy Information Administration]], the Gulf of Mexico OCS is the largest U.S. petroleum-producing region. Excluding the Gulf of Mexico OCS, Louisiana ranks fourth in petroleum production and is home to about 2 percent of total U.S. petroleum reserves. One third of the oil produced in the United States comes from [[Offshore oil and gas in the United States|offshore]], and 80% of [[Offshore drilling|offshore production]] comes from deep water off Louisiana. The oil industry employs about 58,000 Louisiana residents and has created another 260,000 oil-related jobs, accounting for about 17% of all Louisiana jobs.&lt;ref&gt;&quot;[http://www.csmonitor.com/USA/2010/0524/Despite-BP-oil-spill-Louisiana-still-loves-Big-Oil Despite BP oil spill, Louisiana still loves Big Oil]&quot;. CSMonitor.com. May 24, 2010.&lt;/ref&gt;
+
+Louisiana's natural gas reserves account for about 5 percent of the U.S. total. The recent discovery of the [[Haynesville Shale]] formation in parts of or all of Caddo, Bossier, Bienville, Sabine, De Soto, Red River, Sabine, and Natchitoches parishes have made it the world's fourth largest gas field with some wells initially producing over 25 million cubic feet of gas daily.&lt;ref&gt;{{cite web|url=http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=LA |title=EIA State Energy Profiles: Louisiana |date=2008-06-12 |accessdate=2008-06-24}}&lt;/ref&gt;
+Louisiana was the first site of [[Oil well|petroleum drilling]] over water in the world, on [[Caddo Lake]] in the northwest corner of the state. The petroleum and gas industry, as well as its subsidiary industries such as transport and [[Oil refinery|refining]], have dominated Louisiana's economy since the 1940s. Beginning in 1950, Louisiana was sued several times by the [[United States Department of the Interior|U.S. Interior Department]], in efforts by the [[Federal government of the United States|federal government]] to strip Louisiana of its submerged land property rights. These control vast stores of reservoirs of petroleum and natural gas.
+
+When petroleum and gas [[1973 oil crisis|boomed]] in the 1970s, so did Louisiana's economy. The Louisiana economy as well as its politics of the last half-century cannot be understood without thoroughly accounting for the influence of the petroleum and gas industries. Since the 1980s, these industries' headquarters have consolidated in [[Houston]], but many of the jobs that operate or provide logistical support to the U.S. Gulf of Mexico crude-oil-and-gas industry remained in Louisiana {{as of|lc=y|2010}}.
+
+==Law and government==
+&lt;!-- This section is linked from [[Law of the United Kingdom]] --&gt;
+:{{Further|List of Louisiana Governors|Louisiana law|Louisiana Constitution}}
+[[File:Louisiana State Capital at night.jpg|right|thumb|Louisiana State Capitol|200px]]
+[[File:LAGovMansion.JPG|right|thumb|Louisiana Governor's Mansion|200px]]
+In 1849, the state moved the capital from New Orleans to [[Baton Rouge]]. [[Donaldsonville, Louisiana|Donaldsonville]], [[Opelousas, Louisiana|Opelousas]], and [[Shreveport, Louisiana|Shreveport]] have briefly served as the seat of Louisiana state government. The [[Louisiana State Capitol]] and the [[Louisiana Governor's Mansion]] are both located in Baton Rouge.
+
+The current Louisiana governor is [[Bobby Jindal]], the first [[Indian American]] to be elected governor. The current [[United States Senate|U.S. senators]] are [[Mary Landrieu]] (Democrat) and [[David Vitter]] ([[Republican Party (United States)|Republican]]). Louisiana has seven [[congressional district]]s and is represented in the [[United States House of Representatives|U.S. House of Representatives]] by six Republicans and one Democrat. Louisiana will have eight votes in the [[United States Electoral College|Electoral College]] for the 2012 election after losing one House seat due to stagnant population growth in the 2010 Census.
+
+===Civil law===
+The Louisiana political and legal structure has maintained several elements from the times of French and Spanish governance. One is the use of the term &quot;[[parish (Louisiana)|parish]]&quot; (from the French: paroisse) in place of &quot;[[County (United States)|county]]&quot; for administrative subdivision. Another is the legal system of [[civil law (legal system)|civil law]] based on French, German and Spanish [[legal code]]s and ultimately [[Roman law]]—as opposed to English [[common law]]. Common law is &quot;judge-made&quot; law based on [[precedent]], and is the basis of statutes in all other U.S. states. Louisiana's type of civil law system is what the majority of nations in the world use, especially in Europe and its former colonies, excluding those that derive from the [[British Empire]]. However, it is incorrect to equate the Louisiana Civil Code with the [[Napoleonic Code]]. Although the Napoleonic Code strongly influenced Louisiana law, it was never in force in Louisiana, as it was enacted in 1804, after the [[Louisiana Purchase]] of 1803. While the Louisiana Civil Code of 1808 has been continuously revised and updated since its enactment, it is still considered the controlling authority in the state. Differences still exist between Louisianan civil law and the common law found in the other U.S. states. While some of these differences have been bridged due to the strong influence of common law tradition,&lt;ref name='kinsellalaw'&gt;{{cite web | url = http://www.kinsellalaw.com/wp-content/uploads/publications/dictionary.pdf | title = A Civil Law to Common Law Dictionary | accessdate = 2010-12-07 | last = Kinsella | first = Norman | year = 1997 | format = PDF | work = KinsellaLaw.com | archiveurl = http://www.webcitation.org/5uo2cZaT0 | archivedate = 2010-07-12}}&lt;/ref&gt; it is important to note that the &quot;civilian&quot; tradition is still deeply rooted in most aspects of Louisiana private law. Thus property, contractual, business entities structure, much of civil procedure, and family law, as well as some aspects of criminal law, are still mostly based on traditional Roman legal thinking. Model Codes, such as the [[Uniform Commercial Code]], which are adopted by most states within the union including Louisiana, are based on civilian thought, the essence being that it is deductive, as opposed to the common law which is inductive. In the civilian tradition the legislative body agrees ''a priori'' on the general principles to be followed. When a set of facts are brought before a judge, he deduces the court's ruling by comparing the facts of the individual case to the law. In contrast, common law, which really does not exist in its pure historical form due to the advent of statutory law, was created by a judge applying other judges' decisions to a new fact pattern brought before him in a case. The result is that historically English judges were not constrained by legislative authority.
+
+===Marriage===
+In 1997, Louisiana became the first state to offer the option of a traditional marriage or a [[covenant marriage]].&lt;ref&gt;{{cite web|url=http://marriage.about.com/cs/covenantmarriage/a/covenant.htm |title=Covenant Marriage - Pros and Cons |publisher=Marriage.about.com |date=2012-01-01 |accessdate=2012-02-18}}&lt;/ref&gt; In a covenant marriage, the couple waives their right to a &quot;no-fault&quot; divorce after six months of separation, which is available in a traditional marriage. To divorce under a covenant marriage, a couple must demonstrate cause. Marriages between ascendants and descendants and marriages between collaterals within the fourth degree (i.e., siblings, aunt and nephew, uncle and niece, first cousins) are prohibited.&lt;ref&gt;http://www.legis.state.la.us/lss/lss.asp?doc=111053&lt;/ref&gt; Same-sex marriages are prohibited.&lt;ref&gt;http://www.legis.state.la.us/lss/lss.asp?doc=111041&lt;/ref&gt; Louisiana is a [[community property]] state.&lt;ref&gt;http://www.legis.state.la.us/lss/lss.asp?doc=109401&lt;/ref&gt;
+
+===Elections===
+{{Main|Elections in Louisiana|Political party strength in Louisiana}}
+{{Unreferenced section|date=April 2011}}
+From 1898–1965, after Louisiana had effectively [[Disfranchisement after the Civil War|disfranchised]] African Americans and poor whites by provisions of a new constitution, it essentially was a one-party state dominated by elite white Democrats. The franchise for whites was expanded somewhat during the decades, but blacks remained essentially disfranchised until the Civil Rights Movement, culminating in passage of the [[Voting Rights Act of 1965]]. In multiple acts of resistance, blacks left the segregation, violence and oppression of the state to seek better opportunities in northern and western industrial cities during the [[Great Migration (African American)|Great Migrations]] of 1910–1970, markedly reducing their proportion of population in Louisiana. Since the 1960s, when civil rights legislation was passed under President Lyndon Johnson to protect voting and civil rights, most African Americans in the state have affiliated with the Democratic Party. In the same years, many white conservatives have moved to support Republican Party candidates in national and gubernatorial elections. [[David Vitter]] is the first Republican in Louisiana to be popularly elected as a U.S. Senator. The previous Republican Senator, [[John S. Harris]], who took office in 1868, was chosen by the state legislature.
+
+Louisiana is unique among U.S. states in using a system for its state and local elections similar to that of modern [[France]]. All candidates, regardless of party affiliation, ran in a [[nonpartisan blanket primary]] (or &quot;jungle primary&quot;) on Election Day. If no candidate had more than 50% of the vote, the two candidates with the highest vote total competed in a runoff election approximately one month later. This run-off did not take into account party identification; therefore, it was not uncommon for a Democrat to be in a runoff with a fellow Democrat or a Republican to be in a runoff with a fellow Republican. Congressional races have also been held under the jungle primary system. All other states (except [[Washington Initiative 872 (2004)|Washington]]) use single-party primaries followed by a general election between party candidates, each conducted by either a [[plurality voting system]] or [[Two-round system|runoff voting]], to elect Senators, Representatives, and statewide officials. Between 2008 and 2010, federal [[United States Congress|congressional]] elections were run under a closed primary system — limited to registered party members. However, upon the passage of House Bill 292, Louisiana once again adopted a nonpartisan blanket primary for its federal congressional elections.
+
+Louisiana has seven seats in the U.S. House of Representatives, six of which are currently held by Republicans and one by a Democrat. The state will lose a House seat at the end of the [[112th Congress]] due to stagnant population growth enumerated by the [[2010 United States Census]]. Louisiana is not classified as a &quot;[[swing state]]&quot; for future presidential elections, as it regularly supports Republican candidates.
+
+===Law enforcement===
+{{Unreferenced section|date=September 2008}}
+{{See also|List of law enforcement agencies in Louisiana}}
+Louisiana's statewide police force is the [[Louisiana State Police]]. It began in 1922 from the creation of the Highway Commission. In 1927 a second branch, the Bureau of Criminal Investigations, was formed. In 1932 the State Highway Patrol was authorized to carry weapons.
+
+On July 28, 1936 the two branches were consolidated to form The Louisiana Department of State Police and its motto became &quot;courtesy, loyalty, service&quot;. In 1942 this office was abolished and became a division of the Department of Public Safety called the Louisiana State Police. In 1988 the Criminal Investigation Bureau was reorganized.&lt;ref&gt;[http://www.lsp.org/about_hist.html Retrieved 2009-10-30.]&lt;/ref&gt; Its troopers have statewide jurisdiction with power to enforce all laws of the state, including city and parish ordinances. Each year, they patrol over 12 million miles (20 million km) of roadway and arrest about 10,000 impaired drivers. The State Police are primarily a traffic enforcement agency, with other sections that delve in to trucking safety, narcotics enforcement and gaming oversight.
+
+The sheriff in each parish is the chief law enforcement officer in the parish.  They are the keepers of the local parish prisons which house felony and misdemeanor prisoners.  They are the primary criminal patrol and first responder agency in all matters criminal and civil.  They are also the official tax collectors in each parish.
+
+The sheriffs are responsible for general law enforcement in their respective parishes. Orleans Parish is an exception, as there the general law enforcement duties fall to the New Orleans Police Department. Prior to 2010, Orleans parish was the only parish to have two (2) Sheriff's Offices.  Orleans Parish divided Sheriff's duties between criminal and civil, with a different elected sheriff overseeing each aspect. In 2006 a bill was passed which eventually consolidated the two sheriffs' departments into one parish Sheriff responsible for both civil and criminal matters.
+
+Most parishes are governed by a [[Police Jury]]. Eighteen of the 64 parishes are governed under an alternative form of government under a Home Rule Charter. They oversee the parish budget and operate the parish maintenance services. This includes parish road maintenance and other rural services.
+
+Louisiana had the highest murder rate of any state in 2010 (11.2 murders per 100,000) which marked the 22nd consecutive year (1989–2010) that Louisiana has posted the highest per-capita murder rate of any U.S. state. Louisiana is also the only state with an average per capita murder rate (14.5 per 100,000) at least twice as high as the U.S. average (6.9 per 100,000) during that period according to Bureau of Justice Statistics from FBI Uniform Crime Reports.  The Chicago Tribune reports that Louisiana is the most corrupt state in the United States.&lt;ref&gt;{{cite news|last=Witt|first=Howard|title=Most corrupt state: Louisiana ranked higher than Illinois|url=http://www.chicagotribune.com/news/chi-corruption-louisiana_wittmar27,0,2957672.story|newspaper=Chicago Tribune|date=March 27, 2009}}&lt;/ref&gt;
+
+According the Times Picayune, Louisiana is the prison capital of the world, because of its many for-profit/Sheriff owned prisons. Louisiana's incarceration rate is nearly five times Iran's, 13 times China's and 20 times Germany's.&lt;ref&gt;[http://www.nola.com/crime/index.ssf/2012/05/louisiana_is_the_worlds_prison.html Louisiana is the world's prison capital]&lt;/ref&gt;
+
+==National Guard==
+Louisiana has over 9,000 Soldiers in the [[Louisiana Army National Guard]] including both the [[225th Engineer Brigade]] and the [[256th Infantry Brigade]].  Both these units have seen overseas service in either [[Iraq]], [[Afghanistan]], or both.  The [[Louisiana Air National Guard]] has over 2,000 airmen and its 159th Fighter Squadron has likewise seen overseas service in combat theaters.  Training sites include [[Camp Beauregard]] near [[Pineville, LA]], Camp Villerie near [[Slidell, LA]], Camp Minden near [[Minden, LA]], [[England Air Park]] (formerly [[England Air Force Base]]) near [[Alexandria, LA]], Gillis Long Center near [[Carville, LA]], and [[Jackson Barracks]] in [[New Orleans, LA]].
+
+==Education==
+{{Further|List of school districts in Louisiana |List of colleges and universities in Louisiana |French immersion#USA{{!}}French immersion in Louisiana}}
+
+==Sports teams==
+{{See also|List of Louisiana sports teams}}
+
+Louisiana is nominally the least populous state with more than one [[major professional sports league]] franchise: the [[National Basketball Association]]'s [[New Orleans Hornets]] and the [[National Football League]]'s [[Super Bowl XLIV]] Champions [[New Orleans Saints]]. Louisiana has a AAA Minor League baseball team, the [[New Orleans Zephyrs]]. The Zephyrs are currently affiliated with the [[Miami Marlins]].
+
+Louisiana has 11 collegiate [[NCAA]] Division I programs, a high number given its population.  The state has no Division II teams and only one Division III team.&lt;ref&gt;[[List of college athletic programs by U.S. State|U.S. college athletics by state]]&lt;/ref&gt;
+
+The State of Louisiana in 2010 produced the most NFL players per capita for the second year in a row.&lt;ref&gt;[http://www.usafootball.com/news/press-box/woodland-hills-high-school-pittsburgh-has-most-nfl-players-california-leads-states-ho Woodland Hills High School in Pittsburgh has most NFL players; California leads states; Houston leads hometowns]&lt;/ref&gt;
+
+==Culture==
+{{Main|Culture of Louisiana}}
+
+{{Unreferenced section|date=June 2008}}
+[[File:CreoleFood.jpg|thumb|Dishes typical of [[Louisiana Creole cuisine]].]]
+
+Louisiana is home to many, especially notable are the distinct culture of the Creoles and Cajuns.
+
+[[Creole peoples|Creole]] culture is a cultural amalgamation that takes a little from each of the French, Spanish, African, and Native American cultures.&lt;ref&gt;[http://www.laheritage.org/CreoleHeritage/index.html French Creole Heritage]&lt;/ref&gt; The Creole culture is part of White Creoles' and Black Creoles' culture. Originally Créoles referred to native-born whites of French-Spanish descent. Later the term also referred to descendants of the white men's relationships with black women, many of whom were educated free people of color. Many of the wealthy white men had quasi-permanent relationships with women of color outside their marriages, and supported them as &quot;placées&quot;. If a woman was enslaved at the beginning of the relationship, the man usually arranged for her [[manumission]], as well as that of any of her children.
+
+Creoles became associated with the New Orleans area, where the elaborated arrangements flourished. Most wealthy planters had houses in town as well as at their plantations. Popular belief that a Creole is a mixed Black / French person came from the &quot;Haitian&quot; connotation of an African French person. There were many immigrants from Haiti to New Orleans after the Revolution. Although a Black Creole is one type of Creole, it is not the only type, nor the original meaning of Creole. All of the respective cultures of the groups that settled in southern Louisiana have been combined to make one &quot;New Orleans&quot; culture. The creative combination of cultures from these groups, along with Native American culture, was called &quot;Creole&quot; Culture. It has continued as one of the dominant social, economic and political cultures of Louisiana, along with Cajun culture, well into the 20th century.
+
+Cajun Culture. The ancestors of [[Cajun]]s came from west central France to the provinces of [[New Brunswick]] and [[Nova Scotia]], [[Canada]], known as [[Acadia]]. When the British won the [[French and Indian War]], the British forcibly separated families and evicted them because of their long-stated political neutrality. Most captured Acadians were placed in internment camps in England and the New England colonies for 10 to 30 years. Many of those who escaped the British remained in French Canada. Once freed by England, many scattered, some to France, Canada, Mexico, or the Falkland Islands. The majority found refuge in south Louisiana centered in the region around [[Lafayette, Louisiana|Lafayette]] and the LaFourche Bayou country. Until the 1970s, Cajuns were often considered lower-class citizens, with the term &quot;Cajun&quot; being somewhat derogatory. Once flush with oil and gas riches, Cajun culture, food, music, and their infectious &quot;joie de vivre&quot; lifestyle quickly gained international acclaim.
+
+A third distinct culture in Louisiana is that of the ''[[Isleños]]'', who are descendants of Spanish [[Canary Islands|Canary Islanders]] who migrated from the Canary Islands of Spain to Louisiana under the Spanish crown beginning in the mid-1770s. They settled in four main settlements, but many relocated to what is modern-day [[St. Bernard Parish, Louisiana|St. Bernard Parish]], where the majority of the Isleño population is still concentrated. An annual festival called Fiesta celebrates the heritage of the Isleños. St Bernard Parish has an Isleños museum, cemetery and church, as well as many street names with Spanish words and Spanish surnames from this heritage. Isleño identity is an active concern in the New Orleans suburbs of St. Bernard Parish, LA. Some members of the Isleño community still speak Spanish – with their own Canary Islander accent. Numerous Isleño identity clubs and organizations, and many members of Isleños society keep contact with the Canary Islands of Spain.
+
+===Languages===
+[[File:Louisiana.JPG|thumb|Louisiana's bilingual state welcome sign, recognizing its French heritage]]
+Louisiana has a unique linguistic culture, owing to its French and Spanish heritage. According to the 2000 census, among persons five years old and older,&lt;ref&gt;Statistics of languages spoken in Louisiana [http://www.city-data.com/states/Louisiana-Languages.html] Retrieved on June 18, 2008.&lt;/ref&gt; 90.8% of Louisiana residents speak only [[English language|English]] (99% total speak English) and 4.7% speak [[French language|French]] at home (7% total speak French). Other minority languages are [[Spanish language|Spanish]], which is spoken by 2.5% of the population; [[Vietnamese language|Vietnamese]], by 0.6%; and [[German language|German]], by 0.2%. Although state law recognizes the usage of English and French in certain circumstances, the Louisiana State Constitution does not declare any ''&quot;de jure official language or languages&quot;''.&lt;ref&gt;Louisiana State Constitution of 1974 [http://senate.legis.state.la.us/Documents/Constitution/] Retrieved on June 18, 2008.&lt;/ref&gt; Currently the ''&quot;de facto administrative languages&quot;'' of the Louisiana State Government are English and French.
+
+There are several unique dialects of French, Creole, and English spoken in Louisiana. There are two unique dialects of the [[French language]]: [[Cajun French]] (predominant after the [[Expulsion of the Acadians|Great Upheaval]] of [[Acadians]] from Canada) and [[Colonial French]]. For the Creole language, there is [[Louisiana Creole French]]. There are also two unique dialects of the [[English language]]: [[Cajun English]], a French-influenced variety of English, and what is informally known as [[Yat (New Orleans)|Yat]], which resembles the [[New York dialect|New York City dialect]], particularly that of historical [[Brooklyn]], as both accents were influenced by large communities of immigrant [[Irish people|Irish]] and [[Italians|Italian]], but the Yat dialect was also influenced by French and Spanish.
+
+[[Colonial French]] was the predominant language of [[Louisiana (New France)|Louisiana]] during the French colonial period and was spoken primarily by the white settlers; the [[Louisiana Creole people|black/creole]] population spoke mostly [[Louisiana Creole French|creole]]. [[Cajun French]] was only introduced in Louisiana after the [[Expulsion of the Acadians|Great Upheaval]] of [[Acadians]] from Canada during 1710-1763. The [[Cajun|Cajun people and culture]] (hence the Cajun language as well) did not appear immediately but was rather a slow evolution from the original [[Acadian]] culture with influences from local cultures. English and its associated dialects became predominant only after the [[Louisiana Purchase]] and even then it still retained some French influences as seen with [[Cajun English]]. [[Cajun French]] and [[Colonial French]] have somewhat merged since English took over.
+
+Renewed interest in the French language in Louisiana has led to the establishment of Canadian-modeled [[French immersion]] schools as well as bilingual signage in the historic French neighborhoods of [[New Orleans]] and [[Lafayette (Louisiana)|Lafayette]]. Organizations such as [[CODOFIL]] promote the French language in the state.
+
+===Religion===
+The largest denominations by number of adherents in 2000 were the [[Roman Catholic Church]] with 1,382,603; [[Southern Baptist Convention]] with 868,587; and the [[United Methodist Church]] with 160,153.&lt;ref&gt;{{cite web|url=http://www.thearda.com/mapsReports/reports/state/22_2000.asp |title=The Association of Religion Data Archives &amp;#124; Maps &amp; Reports |publisher=Thearda.com |date= |accessdate=2012-02-18}}&lt;/ref&gt;
+
+Like other Southern states, the population of Louisiana is also made up of numerous Protestant denominations, comprising 60% of the state's adult population. Protestants are concentrated in the northern and central parts of the state and in the northern tier of the [[Florida Parishes]]. Because of French and Spanish heritage, whose descendants are Cajun and French Creole, and later Irish, Italian, Portuguese and German immigrants, there is a majority Roman Catholic population, particularly in the southern part of the state.&lt;ref&gt;For Louisiana's position in a larger religious context, see [[Bible Belt]].&lt;/ref&gt;
+
+Since French Creoles were the first settlers, planters and leaders of the territory, they have traditionally been well represented in politics. For instance, most of the early governors were French Creole Catholics.&lt;ref&gt;{{CathEncy|wstitle=Louisiana}}&lt;/ref&gt;  Because Catholics constitute a majority of Louisiana's population, Catholics have continued to be influential in state politics. {{As of|2008}} both Senators and the Governor were Catholic. The high proportion and influence of the Catholic population makes Louisiana distinct among Southern states.&lt;ref&gt;Other Southern states—such as Maryland and Texas—have longstanding indigenous Catholic populations, and Florida's largely Catholic population of Cuban emigres has been influential since the 1960s. Yet, Louisiana is still unusual or exceptional in its extent of aboriginal Catholic settlement and influence. Among states in the [[Deep South]] (discounting [[Florida Panhandle|Florida's Panhandle]] and much of Texas) the historic role of Catholicism in Louisiana is unparalleled and unique. Among the states of the Union, Louisiana's unique use of the term ''parish'' (French ''la parouche'' or &quot;la paroisse&quot;) for ''county'' is rooted in the pre-statehood role of Catholic church parishes in the administration of government.&lt;/ref&gt;
+
+Current religious affiliations of the people of Louisiana:
+*[[Christianity|Christian]]: 90%
+**[[Protestantism|Protestant]]: 60%
+***[[Evangelical Christianity|Evangelical]] Protestant 31%&lt;ref name=&quot;autogenerated1&quot;&gt;[http://religions.pewforum.org/maps Pew Forum on Religion &amp; Public Life]&lt;/ref&gt;
+***[[Black church|Historically black]] Protestant: 20%&lt;ref name=&quot;autogenerated1&quot;/&gt;
+***[[Mainline Protestantism|Mainline]] Protestant 9%&lt;ref name=&quot;autogenerated1&quot;/&gt;
+**[[Roman Catholicism in the United States|Roman Catholic]]: 28%&lt;ref name=&quot;autogenerated1&quot;/&gt;
+**Other Christian: 2%
+***[[Jehovah's Witnesses]]: 1%&lt;ref name=&quot;autogenerated1&quot;/&gt;
+*Other Religions: 2%
+**[[Islam]]: 1%&lt;ref name=&quot;autogenerated1&quot;/&gt;
+**[[Buddhism]]: 1%&lt;ref name=&quot;autogenerated1&quot;/&gt;
+**[[Judaism]]: less than 0.5%&lt;ref name=&quot;autogenerated1&quot;/&gt;
+*[[Non-religious]] (unaffiliated): 8%
+
+[[Judaism|Jewish]] communities exist in the state's larger cities, notably Baton Rouge and New Orleans.&lt;ref&gt;Isaacs, Ronald H. ''The Jewish Information Source Book: A Dictionary and Almanac'', Northvale, NJ: Jason Aronson, Inc., 1993. p. 202.&lt;/ref&gt; The most significant of these is the Jewish community of the New Orleans area, with a pre-Katrina population of about 12,000. The presence of a significant Jewish community well established by the early 20th century also made Louisiana unusual among Southern states, although South Carolina and Virginia also had influential populations in some of their major cities from the 18th and 19th centuries. Prominent Jews in Louisiana's political leadership have included Whig (later Democrat) [[Judah P. Benjamin]] (1811–1884), who represented Louisiana in the [[U.S. Senate]] prior to the [[American Civil War]] and then became the [[Confederate States of America|Confederate]] Secretary of State; Democrat [[Adolph Meyer]] (1842–1908), [[Confederate Army]] officer who represented the state in the [[U.S. House]] from 1891 until his death in 1908; [[Republican Party (United States)|Republican]] [[Secretary of State (U.S. state government)|Secretary of State]] [[Jay Dardenne]] (1954–), and Republican ([[Democratic Party (United States)|Democrat]] prior to 2011) [[Attorney General]] [[Buddy Caldwell]] (1946–).
+
+===Music===
+{{Main|Music of Louisiana}}
+
+==See also==
+{{portal|Louisiana}}
+*[[Outline of Louisiana]]
+*[[Index of Louisiana-related articles]]
+{{clear}}
+
+==References==
+{{reflist|2}}
+
+==Bibliography==
+*''The Sugar Masters: Planters and Slaves in Louisiana's Cane World, 1820–1860'' by Richard Follett Louisiana State University Press 2007. ISBN 978-0-8071-3247-0
+*''The Slave Trade: The Story of the Atlantic Slave Trade, 1440–1870'' by Hugh Thomas. 1997: Simon and Schuster. p.&amp;nbsp;548.
+*''Inhuman Bondage: The Rise and Fall of Slavery in the New World'' by [[David Brion Davis]] 2006: Oxford University Press. ISBN 978-0-19-533944-4
+*[[Yiannopoulos, A.N.]], The Civil Codes of Louisiana (reprinted from Civil Law System: Louisiana and Comparative law, A Coursebook: Texts, Cases and Materials, 3d Edition; similar to version in preface to Louisiana Civil Code, ed. by Yiannopoulos)
+*Rodolfo Batiza, The Louisiana Civil Code of 1808: Its Actual Sources and Present Relevance, 46 TUL. L. REV. 4 (1971); Rodolfo Batiza, Sources of the Civil Code of 1808, Facts and Speculation: A Rejoinder, 46 TUL. L. REV. 628 (1972); Robert A. Pascal, Sources of the Digest of 1808: A Reply to Professor Batiza, 46 TUL. L. REV. 603 (1972); Joseph M. Sweeney, Tournament of Scholars Over the Sources of the Civil Code of 1808,46 TUL. L. REV. 585 (1972).
+*The standard history of the state, though only through the Civil War, is [[Charles Gayarré]]'s History of Louisiana (various editions, culminating in 1866, 4 vols., with a posthumous and further expanded edition in 1885).
+*A number of accounts by 17th and 18th century French explorers: [[Jean-Bernard Bossu]], [[François-Marie Perrin du Lac]], Pierre-François-Xavier de Charlevoix, Dumont (as published by Fr.&amp;nbsp;Mascrier), Fr. [[Louis Hennepin]], Lahontan, [[Louis Narcisse Baudry des Lozières]], [[Jean-Baptiste Bénard de la Harpe]], and Laval. In this group, the explorer [[Antoine Simon Le Page du Pratz]] may be the first historian of Louisiana with his ''Histoire de la Louisiane'' (3&amp;nbsp;vols., Paris, 1758; 2&amp;nbsp;vols., London, 1763)
+*[[François Xavier Martin]]'s ''History of Louisiana'' (2&amp;nbsp;vols., New Orleans, 1827–1829, later ed. by J.&amp;nbsp;F.&amp;nbsp;Condon, continued to 1861, New Orleans, 1882) is the first scholarly treatment of the subject, along with [[François Barbé-Marbois]]' ''Histoire de la Louisiane et de la cession de colonie par la France aux Etats-Unis'' (Paris, 1829; in English, Philadelphia, 1830).
+*[[Alcée Fortier]]'s ''A History of Louisiana'' (N.Y., 4&amp;nbsp;vols., 1904) is the most recent of the large-scale scholarly histories of the state.
+*The official works of [[Albert Phelps]] and [[Grace King]] and the publications of the [[Louisiana Historical Society]] and several works on [[history of New Orleans|the history of New Orleans (q.v.)]], among them those by [[Henry Rightor]] and [[John Smith Kendall]] provide background.
+
+==External links==
+{{Sister project links|Louisiana}}
+*{{dmoz|Regional/North_America/United_States/Louisiana}}
+*[http://lagic.lsu.edu/ Louisiana Geographic Information Center]
+*[http://www.leh.org Louisiana Endowment for the Humanities]
+*[http://www.saltycajun.com/forum/view.php?pg=info_weather Louisiana Weather and Tides]
+
+===Geology links===
+*[http://www.lgs.lsu.edu/deploy/content/PUBLI/contentpage14.php Geology]
+**[http://www.lgs.lsu.edu/deploy/uploads/gengeomapla.pdf Generalized Geologic Map of Louisiana, 2008]
+**[http://www.lgs.lsu.edu/deploy/uploads/gengeotext.pdf Generalized Geology of Louisiana] (text to Generalized Geologic Map of Louisiana)
+**[http://www.lgs.lsu.edu/deploy/uploads/Loess%20Map%20of%20LA.pdf Loess Map of Louisiana]
+**[http://www.lgs.lsu.edu/deploy/content/PUBLI/contentpage17.php Other Louisiana Geological Maps]
+**[http://www.lgs.lsu.edu/deploy/uploads/6geofacts.pdf Louisiana Geofacts]
+
+===Government===
+*[http://louisiana.gov Official State of Louisiana website]
+*[http://wikis.ala.org/godort/index.php/Louisiana Louisiana State Databases] – Annotated list of searchable databases produced by Louisiana state agencies and compiled by the Government Documents Roundtable of the American Library Association.
+*[http://louisiana.gov/wps/wcm/connect/Louisiana.gov/Explore/Demographics+%26+Geography/ Census Statistics on Louisiana]
+
+===U.S. government===
+*[http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=LA Energy Profile for Louisiana]
+*[http://www.ers.usda.gov/StateFacts/LA.htm USDA Louisiana Statistical Facts]
+*[http://www.usgs.gov/state/state.asp?State=LA USGS real-time, geographic, and other scientific resources of Louisiana]
+*{{ushr|Louisiana|1|1st district}}: [[Steve Scalise]] – [http://scalise.house.gov/ Website]
+*{{ushr|Louisiana|2|2nd district}}: [[Cedric Richmond]] – [http://cedricrichmond.house.gov/ Website] &amp; [http://caoforcongress.com/ Campaign Website]
+*{{ushr|Louisiana|3|3rd district}}: [[Jeff Landry]] – [http://www.house.gov/landry/ Website]
+*{{ushr|Louisiana|4|4th district}}: [[John C. Fleming]] –
+*{{ushr|Louisiana|5|5th district}}: [[Rodney Alexander]] – [http://www.house.gov/alexander/ Website]
+*{{ushr|Louisiana|6|6th district}}: [[Bill Cassidy]]
+*{{ushr|Louisiana|7|7th district}}: [[Charles Boustany]] – [http://www.house.gov/boustany/ Website]
+
+===News media===
+*[http://www.nola.com/ The Times-Picayune] major Louisiana newspaper
+*[http://www.wwltv.com/ WWL-TV] Louisiana television station
+
+===Ecoregions===
+*[http://www.epa.gov/wed/pages/ecoregions/la_eco.htm Ecoregions of Louisiana]
+*[http://www.epa.gov/wed/pages/ecoregions/map_eco.htm Ecoregions of the Mississippi Alluvial Plain]
+
+===Soil surveys===
+*[http://soils.usda.gov/survey/online_surveys/louisiana/index.html Louisiana Online Soil Survey Manuscripts]
+
+===Tourism===
+*[http://www.louisianatravel.com/ Official site of Louisiana tourism]
+*[http://www.neworleanscvb.com Official site of the New Orleans Convention &amp; Tourism Bureau]
+*[http://www.neworleansplantationcountry.com Official site of New Orleans Plantation Country tourism]
+*{{osmrelation-inline|224922}}
+{{clear}}
+
+{{Navboxes
+|title = &lt;span style=&quot;font-size:11pt;&quot;&gt;Topics related to Louisiana&lt;/span&gt; &lt;br /&gt; ''The Pelican State, The Bayou State, The Creole State, Sportsman's Paradise''
+|list =
+{{Louisiana|expanded}}
+{{Louisiana cities and mayors of 100,000 population}}
+{{La Francophonie|state=autocollapse}}
+{{Confederate States of America}}
+|state=expanded}}
+{{United States political divisions}}
+{{United States topics}}
+
+{{Geographic location
+ | Northwest = {{flag|Oklahoma}}
+ | North = {{flag|Arkansas}}
+ | Northeast =
+ | West = {{flag|Texas}}
+ | Centre = '' Louisiana'': [[Outline of Louisiana|Outline]] • [[Index of Louisiana-related articles|Index]]
+ | East = {{flag|Mississippi}}
+ | Southwest =
+ | South = [[Gulf of Mexico]]
+ | Southeast = [[Atlantic Ocean]]
+}}
+
+{{succession
+| preceded = [[Ohio]]
+| office = [[List of U.S. states by date of statehood]]
+| years = Admitted on April 30, 1812 (18th)
+| succeeded = [[Indiana]]
+}}
+
+{{Coord|display=title|31|N|92|W|region:US-LA_type:adm1st_scale:3000000}}
+
+[[Category:Louisiana| ]]
+[[Category:States of the United States]]
+[[Category:States of the Confederate States of America]]
+[[Category:States of the Southern United States]]
+[[Category:States and territories established in 1812]]
+[[Category:Former French colonies]]
+
+[[af:Louisiana]]
+[[ang:Louisiāna]]
+[[ar:لويزيانا]]
+[[an:Loisiana]]
+[[frp:Louisiana]]
+[[ast:Louisiana]]
+[[gn:Luisiana]]
+[[az:Luiziana]]
+[[bn:লুইজিয়ানা]]
+[[zh-min-nan:Louisiana]]
+[[be:Штат Луізіяна]]
+[[be-x-old:Луізыяна]]
+[[bcl:Louisiana]]
+[[bi:Louisiana]]
+[[bg:Луизиана]]
+[[bar:Louisiana]]
+[[bo:ལུའི་ཟི་ཨཱན་ནཱ།]]
+[[bs:Louisiana]]
+[[br:Louisiana]]
+[[ca:Louisiana]]
+[[cv:Луизиана]]
+[[cs:Louisiana]]
+[[cy:Louisiana]]
+[[da:Louisiana (stat)]]
+[[de:Louisiana]]
+[[nv:Liwíízíʼeenah Hahoodzo]]
+[[et:Louisiana osariik]]
+[[el:Λουιζιάνα]]
+[[es:Luisiana]]
+[[eo:Luiziano]]
+[[eu:Louisiana]]
+[[fa:لوئیزیانا]]
+[[hif:Louisiana]]
+[[fo:Louisiana]]
+[[fr:Louisiane]]
+[[fy:Louisiana]]
+[[ga:Louisiana]]
+[[gv:Louisiana]]
+[[gag:Louisiana]]
+[[gd:Louisiana]]
+[[gl:Luisiana - Louisiana]]
+[[gu:લ્યુઇસિયાના]]
+[[hak:Lu-yi-sṳ̂-ôn-ná]]
+[[xal:Лувизән]]
+[[ko:루이지애나 주]]
+[[haw:Luikiana]]
+[[hy:Լուիզիանա]]
+[[hi:लुईज़ियाना]]
+[[hr:Louisiana]]
+[[io:Louisiana]]
+[[ig:Luwisiánà]]
+[[ilo:Louisiana]]
+[[bpy:লুইসিয়ানা]]
+[[id:Louisiana]]
+[[ia:Louisiana]]
+[[ie:Louisiana]]
+[[iu:ᓗᐄᓰᐋᓈ]]
+[[ik:Louisiana]]
+[[os:Луизианæ]]
+[[is:Louisiana]]
+[[it:Louisiana]]
+[[he:לואיזיאנה]]
+[[jv:Louisiana]]
+[[kn:ಲೂಯಿಸಿಯಾನ]]
+[[pam:Louisiana]]
+[[ka:ლუიზიანა]]
+[[kw:Louisiana]]
+[[sw:Louisiana]]
+[[ht:Lwiziana]]
+[[ku:Louisiana]]
+[[mrj:Луизиана]]
+[[lad:Luisiana]]
+[[la:Ludoviciana]]
+[[lv:Luiziāna]]
+[[lb:Louisiana]]
+[[lt:Luiziana]]
+[[lij:Louisiann-a]]
+[[li:Louisiana]]
+[[lmo:Louisiana]]
+[[hu:Louisiana]]
+[[mk:Луизијана]]
+[[mg:Louisiana]]
+[[ml:ലുയീസിയാന]]
+[[mi:Louisiana]]
+[[mr:लुईझियाना]]
+[[arz:لويزيانا]]
+[[ms:Louisiana]]
+[[mn:Луйзиана]]
+[[my:လူဝီစီယားနားပြည်နယ်]]
+[[nah:Louisiana]]
+[[nl:Louisiana (staat)]]
+[[nds-nl:Louisiana (stoat)]]
+[[ja:ルイジアナ州]]
+[[frr:Louisiana]]
+[[no:Louisiana]]
+[[nn:Louisiana]]
+[[oc:Loïsiana]]
+[[uz:Luiziana]]
+[[pnb:لوئزیانا]]
+[[pap:Louisiana]]
+[[pcd:Louisiane]]
+[[pms:Luisian-a]]
+[[nds:Louisiana]]
+[[pl:Luizjana]]
+[[pt:Luisiana]]
+[[ro:Louisiana]]
+[[rm:Louisiana]]
+[[qu:Louisiana suyu]]
+[[ru:Луизиана]]
+[[sah:Луизиана]]
+[[se:Louisiana]]
+[[sa:लुईजियाना]]
+[[stq:Louisiana]]
+[[sq:Louisiana]]
+[[scn:Louisiana]]
+[[simple:Louisiana]]
+[[sk:Louisiana]]
+[[sl:Louisiana]]
+[[szl:Luizjana]]
+[[ckb:لووئیزیانا]]
+[[sr:Луизијана]]
+[[sh:Louisiana]]
+[[fi:Louisiana]]
+[[sv:Louisiana]]
+[[tl:Luwisiyana]]
+[[ta:லூசியானா]]
+[[tt:Луизиана (штат)]]
+[[te:లూసియానా]]
+[[th:รัฐลุยเซียนา]]
+[[tr:Louisiana]]
+[[uk:Луїзіана]]
+[[ur:لوزیانا]]
+[[ug:Loyizanna Shitati]]
+[[vi:Louisiana]]
+[[vo:Louisiana]]
+[[war:Louisiana]]
+[[yi:לואיזיאנא]]
+[[yo:Louisiana]]
+[[zh-yue:路易斯安那州]]
+[[diq:Louisiana]]
+[[bat-smg:Luizėana]]
+[[zh:路易斯安那州]]</text>
+      <sha1>mkq8frzwkr9ltudvte1k4x8sy2d0z46</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

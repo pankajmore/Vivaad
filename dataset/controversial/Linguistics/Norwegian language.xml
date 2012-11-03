@@ -1,0 +1,955 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Norwegian language</title>
+    <ns>0</ns>
+    <id>21704</id>
+    <revision>
+      <id>520922260</id>
+      <parentid>520866270</parentid>
+      <timestamp>2012-11-01T17:11:35Z</timestamp>
+      <contributor>
+        <username>Ters</username>
+        <id>7258247</id>
+      </contributor>
+      <minor/>
+      <comment>Undid revision 520866270 by [[Special:Contributions/78.179.38.50|78.179.38.50]] ([[User talk:78.179.38.50|talk]])</comment>
+      <text xml:space="preserve" bytes="49509">{{Infobox language
+|name   = Norwegian 
+|nativename = ''norsk''
+|pronunciation = {{IPA|[nɔʂk]}} (Eastern Norwegian)&lt;br/&gt; {{IPA|[nɔʁsk]}} (Western Norwegian)
+|states = [[Norway]]
+|region = 
+|speakers = 5 million
+|date = no date
+|familycolor = Indo-European
+|fam2   = [[Germanic languages|Germanic]]
+|fam3   = [[North Germanic languages|North Germanic]]
+|fam4   = [[West Scandinavian]]
+|stand1=[[Nynorsk]] (official)
+|stand2=[[Bokmål]] (official) / [[Riksmål]] (unofficial)
+|stand3=[[Høgnorsk]] unofficial
+|script = [[Latin script|Latin]] ([[Norwegian alphabet]])
+|nation = [[Norway]]&lt;br/&gt; [[Nordic Council]]
+|agency = [[Norwegian Language Council]] (Bokmål and Nynorsk)&lt;br/&gt;[[Norwegian Academy]] (Riksmål)
+|iso1   = no&lt;/tt&gt; – Norwegian &lt;br&gt; &lt;tt&gt;nb&lt;/tt&gt; – [[Bokmål]] &lt;br&gt; &lt;tt&gt;nn&lt;/tt&gt; – [[Nynorsk]]
+|iso2   = nor&lt;/tt&gt; – Norwegian&lt;br&gt; &lt;tt&gt;nob&lt;/tt&gt; – [[Bokmål]]&lt;br&gt; &lt;tt&gt;nno&lt;/tt&gt; – [[Nynorsk]]
+|iso3=nor
+|lc1=nob |ld1=[[Bokmål]]
+|lc2=nno |ld2=[[Nynorsk]]
+|lingua=52-AAA-ba to -be &amp; &lt;br&gt;52-AAA-cf to -cg
+|notice=IPA
+}}
+{{Norwegian-people}}
+'''Norwegian''' (''norsk'') is a [[North Germanic languages|North Germanic]] [[language]] spoken primarily in [[Norway]], where it is the official language.  Together with [[Swedish language|Swedish]] and [[Danish language|Danish]], Norwegian forms a [[dialect continuum|continuum]] of more or less [[mutually intelligible]] local and regional variants ''(see [[Danish language#Classification|Danish language]]'').
+
+These [[Scandinavian languages]] together with the [[Faroese language]] and [[Icelandic language]], as well as some extinct languages, constitute the [[North Germanic languages]] (also called [[Scandinavian languages]]). Faroese and Icelandic are hardly mutually intelligible with Norwegian in their spoken form, because continental Scandinavian has diverged from them.
+
+As established by law and governmental policy, there are two official forms of ''written'' Norwegian{{spaced ndash}}'''''[[Bokmål]]''''' (literally &quot;book tongue&quot;) and '''''[[Nynorsk]]''''' (literally &quot;new Norwegian&quot;). The [[Norwegian Language Council]] is responsible for regulating the two forms, and recommends the terms &quot;Norwegian Bokmål&quot; and &quot;Norwegian Nynorsk&quot; in English. Two other written forms without official status also exist: '''''[[Riksmål]]''''' (&quot;national language&quot;), which is to a large extent the same language as Bokmål, but somewhat closer to the Danish language, is regulated by the [[Norwegian Academy]], which translates it as &quot;Standard Norwegian&quot;. '''''[[Høgnorsk]]''''' (&quot;High Norwegian&quot;) is a more [[Linguistic purism|purist]] form of Nynorsk that rejects most of the reforms from the 20th century, but is not widely used.
+
+There is no officially sanctioned standard of spoken Norwegian, and most [[Norwegian dialects|Norwegians speak their own dialect]] in all circumstances. The [[sociolect]] of the urban upper and middle class in East Norway can be regarded as a ''de facto'' spoken standard for Bokmål because it adopted many characteristics from Danish when Norway was under Danish rule.&lt;ref name=&quot;Kristoffersen&quot;&gt;{{cite book|last=Kristoffersen|first=Gjert|title=The Phonology of Norwegian|publisher=Oxford University Press|year=2000|pages=6–11|url=http://www.oup.com/uk/catalogue/?ci=9780198237655|isbn=978-0-19-823765-5}}&lt;/ref&gt; This so-called ''standard østnorsk'' (&quot;Standard Eastern Norwegian&quot;) is the form generally taught to foreign students.
+
+From the 16th to the 19th centuries, Danish was the standard written language of Norway. As a result, the development of modern written Norwegian has been subject to strong controversy related to [[nationalism]], rural versus urban discourse, and Norway's literary history. Historically, Bokmål is a Norwegianised variety of Danish, while Nynorsk is a language form based on Norwegian dialects and [[Linguistic purism|puristic]] opposition to Danish. The now abandoned official policy to merge Bokmål and Nynorsk into one common language called ''Samnorsk'' through a series of spelling reforms has created a wide spectrum of varieties of both Bokmål and Nynorsk. The unofficial form known as ''[[Riksmål]]'' is considered more [[conservative (language)|conservative]] than Bokmål, and the unofficial ''[[Høgnorsk]]'' more conservative than Nynorsk.
+
+Norwegians are educated in both Bokmål and Nynorsk. A 2005 poll indicates that 86.3% use primarily Bokmål as their daily written language, 5.5% use both Bokmål and Nynorsk, and 7.5% use primarily Nynorsk.{{Citation needed|date=January 2009}} Thus 13% are frequently ''writing'' Nynorsk, though the majority ''speak'' dialects that resemble Nynorsk more closely than Bokmål.&lt;ref&gt;{{Cite journal
+| last = Venås
+| first = Kjell
+| year = 1998
+| title = Dialekt og normaltalemålet
+| journal = Apollon
+| volume = 1
+| url = http://www.apollon.uio.no/vis/art/1998/1/dialekt
+| issn = 0803-6926
+}}&lt;/ref&gt; Broadly speaking, Nynorsk writing is widespread in Western Norway, though not in major urban areas, and also in the upper parts of  mountain valleys in the southern and eastern parts of Norway. Examples are [[Setesdal]], the western part of [[Telemark]] county (fylke) and several municipalities in [[Hallingdal]], [[Valdres]] and [[Gudbrandsdalen]]. It is little used elsewhere, but 30–40 years ago it also had strongholds in many rural parts of [[Trøndelag]] (Mid-Norway) and the south part of Northern Norway ([[Nordland]] county). Today, not only is Nynorsk the official language of 4 of the 19 Norwegian counties (fylker), but also of many municipalities in 5 other counties. The [[Norsk Rikskringkasting|Norwegian broadcasting corporation]] (NRK) broadcasts in both Bokmål and Nynorsk, and all governmental agencies are required to support both written languages. Bokmål is used in 92% of all written publications, Nynorsk in 8% (2000).{{Citation needed|date=January 2009}}
+
+Norwegian is one of the working languages of the [[Nordic Council]]. Under the [[Nordic Language Convention]], citizens of the [[Nordic countries]] who speak Norwegian have the opportunity to use their native language when interacting with official bodies in other Nordic countries without being liable to any [[interpreting|interpretation]] or [[translation]] costs.&lt;ref&gt;[http://www.norden.org/avtal/utbildning/sk/sprak.asp  Konvention mellan Sverige, Danmark, Finland, Island och Norge om nordiska medborgares rätt att använda sitt eget språk i annat nordiskt land], ''Nordic Council website''. Retrieved on May 4, 2008.&lt;/ref&gt;&lt;ref&gt;[http://www.norden.org/webb/news/news.asp?id=6777&amp;lang=6 20th anniversary of the Nordic Language Convention], ''Nordic news'', February 22, 2007. Retrieved on April 25, 2007.&lt;/ref&gt;
+
+==History==
+===From Old Norse to Scandinavian languages===
+{{See also|Old Norse language|Old Norwegian}}
+{{Old Norse language map}}
+
+The languages now spoken in Scandinavia developed from the [[Old Norse language]], which did not differ greatly between what are now Danish, Norwegian, and Swedish areas. In fact, [[Viking]] traders spread the language across [[Europe]] and into [[Russia]], making Old Norse one of the most widespread languages for a time. According to tradition, King [[Harald Fairhair]] united Norway in 872. Around this time, a [[runic alphabet]] was used. According to writings found on stone tablets from this period of history, the language showed remarkably little deviation between different regions. Runes had been in limited use since at least the 3rd century. Around 1030, [[Christianity]] came to Norway, bringing with it the [[Latin script]]. Norwegian manuscripts in the new alphabet began to appear about a century later. The Norwegian language began to deviate from its neighbors around this time as well.
+
+Viking explorers had begun to settle [[Iceland]] in the 9th century, carrying with them the Old Norse language. Over time, Old Norse developed into &quot;Western&quot; and &quot;Eastern&quot; variants. Western Norse covered Norway and overseas settlements in Iceland, Greenland, the Faroe Islands and the Shetland Islands, while Eastern Norse developed in [[Lands of Denmark|Denmark]] and south-central [[Lands of Sweden|Sweden]]. The language of Iceland and Norway was practically the same up until the 14th century, when they started to deviate from each other.
+{{anchor|Middle Norwegian}}
+The language phase traditionally dated to 1350–1525 is known as [[Middle Norwegian]] and is seen by many as a transitional period from [[Old Norwegian]] to [[Modern Norwegian]]. The reason for this is that although most languages are in a state of constant change, Norwegian phonology, morphology and syntax changed considerably during this time.&lt;ref&gt;pp. 49-95 Torp, Arne, Lars S. Vikør (1993)&lt;/ref&gt; The use of grammatical case, and a great portion of the conjugation of verbs was lost and replaced by a more fixed syntax, use of prepositions and a greater use of auxiliary based verb forms. During the late Old Norse period and this period there was also a considerable adoption of [[Middle Low German]] vocabulary. Similar development in grammar and phonology happened in Swedish and Danish, keeping the [[dialect continuum]] in continental Scandinavia intact, but with greater dialectal variation. This process did not, however, occur in the same way in [[Faroese language|Faroese]] and [[Icelandic language|Icelandic]]. These languages remain conservative to this day, when it comes to grammar and vocabulary, so mutual intelligibility with continental Scandinavia was lost.
+
+===Danish and Swedish rule===
+{{Norwegian language topics}}
+In 1397, the [[Kalmar Union]] unified Norway, Sweden and Denmark, and from 1536 Norway was subordinated under the Kingdom of [[Denmark-Norway|Denmark–Norway]]. Danish became the commonly written language among Norway's literate class. Spoken Danish was gradually adopted by the urban elite, first at formal occasions, and gradually a more relaxed variety was adopted in everyday speech. The everyday speech went through a [[koiné language|koinéization]] process, involving grammatical simplification and Norwegianised pronunciation. When the union ended in 1814 the [[Dano-Norwegian]] [[koiné language|koiné]] had become the [[mother tongue]] of a substantial part of the Norwegian elite, but the more Danish-sounding solemn variety was still used on formal occasions.
+
+Norway was forced to enter a new personal union with Sweden, shortly after the end of the former one with Denmark. However, Norwegians began to push for true independence by embracing [[democracy]] and attempting to enforce the constitutional declaration of being a sovereign state. Part of this nationalist movement was directed towards the development of an independent Norwegian language. Three major paths were available: do nothing (Norwegian written language, i.e. Danish, was already different from Swedish), Norwegianise the Danish language, or build a new national language based on Modern Norwegian dialects. All three approaches were attempted.
+
+===Danish to Norwegian===
+{{Main|Norwegian language struggle}}
+From the 1840s, some writers experimented with a Norwegianised Danish by incorporating words that were descriptive of Norwegian scenery and folk life, and adopting a more Norwegian syntax. [[Knud Knudsen (linguist)|Knud Knudsen]] proposed to change spelling and inflection in accordance with the Dano-Norwegian koiné, known as &quot;cultivated everyday speech.&quot; A small adjustment in this direction was implemented in the first official reform of Danish language in Norway in 1862 and more extensively after his death in two official reforms in 1907 and 1917.
+
+Meanwhile, a nationalistic movement strove for the development of a new written Norwegian. [[Ivar Aasen]], a self-taught linguist, began his work to create a new Norwegian language at the age of 22. He traveled around the country, comparing the dialects in different regions, and examined the development of [[Icelandic language|Icelandic]], which had largely escaped the influences Norwegian had come under. He called his work, which was published in several books from 1848 to 1873, [[Landsmål]], meaning national language. The name &quot;Landsmål&quot; is sometimes interpreted as &quot;rural language&quot; or &quot;country language,&quot; but this was clearly not Aasen's intended meaning.
+
+The name of the Danish language in Norway was a topic of hot dispute through the 19th century. Its proponents claimed that it was a language common to Norway and Denmark, and no more Danish than Norwegian. The proponents of Landsmål thought that the Danish character of the language should not be concealed. In 1899, [[Bjørnstjerne Bjørnson]] proposed the neutral name [[Riksmål]], meaning national language like Landsmål, and this was officially adopted along with the 1907 spelling reform.  The name &quot;Riksmål&quot; is sometimes interpreted as &quot;state language,&quot; but this meaning is secondary at best, compare to [[Danish language|Danish rigsmål]] from where the name was borrowed.
+
+After the personal union with Sweden was dissolved in 1905, both languages were developed further and reached what is now considered their classic forms after a reform in 1917. Riksmål was in 1929 officially renamed ''[[Bokmål]]'' (literally &quot;Book language&quot;), and Landsmål to ''[[Nynorsk]]'' (literally &quot;New Norwegian&quot;). A proposition to substitute ''Dano-Norwegian'' for ''Bokmål'' lost in parliament by a single vote.  The name ''Nynorsk'', the linguistic term for [[Modern Norwegian]], was chosen for contrast to Danish and emphasis on the historical connection to Old Norwegian. Today this meaning is often lost, and it is commonly mistaken as a &quot;new&quot; Norwegian in contrast to the &quot;real&quot; Norwegian Bokmål.
+
+Bokmål and Nynorsk were made closer by a reform in 1938. This was a result of a state policy to merge Nynorsk and Bokmål into one language, called &quot;Samnorsk&quot; (Common Norwegian). A 1946 poll showed that this policy was supported by 79% of Norwegians at the time. However, opponents of the official policy still managed to create a massive protest movement against Samnorsk in the 1950s, fighting in particular the use of &quot;radical&quot; forms in Bokmål text books in schools. In the reform in 1959, the 1938 reform was partially reversed in Bokmål, but Nynorsk was changed further towards Bokmål. Since then Bokmål has reverted even further toward traditional Riksmål, while Nynorsk still adheres to the 1959 standard. Therefore a small minority of Nynorsk enthusiasts uses a more conservative standard called [[Høgnorsk]]. The Samnorsk policy had little influence after 1960, and was officially abandoned in 2002.
+
+==Phonology==
+{{Main|Norwegian phonology}}
+The sound system of Norwegian is similar to Swedish. There is considerable variation among the dialects, but the variant generally taught to foreign students is ''Standard Østnorsk''.
+
+===Consonants===
+{| border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; text-decoration:none;&quot;
+|+Consonant phonemes of Eastern Norwegian
+|-
+!
+! colspan=&quot;2&quot; | [[Labial consonant|Labial]]
+! colspan=&quot;2&quot; | [[Dental consonant|Dental]]/&lt;/br&gt;[[Alveolar consonant|Alveolar]]
+! colspan=&quot;2&quot; | [[Post-alveolar consonant|Post-&lt;br&gt;alveolar]]
+! colspan=&quot;2&quot; | [[Retroflex consonant|Retroflex]]
+! colspan=&quot;2&quot; | [[Palatal consonant|Palatal]]
+! colspan=&quot;2&quot; | [[Velar consonant|Velar]]
+! colspan=&quot;2&quot; | [[Uvular consonant|Uvular]]
+! [[Glottal consonant|Glottal]]
+|- align=center
+![[Nasal stop|Nasal]]
+| colspan=&quot;2&quot; | {{IPA|m}}
+| colspan=&quot;2&quot; | {{IPA|n}}
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; | {{IPA|ɳ}}
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; | {{IPA|ŋ}}
+| colspan=&quot;2&quot; |
+|
+|- align=center
+![[Plosive consonant|Plosive]]
+| {{IPA|p}}
+| {{IPA|b}}
+| {{IPA|t}}
+| {{IPA|d}}
+| colspan=&quot;2&quot; |
+| {{IPA|ʈ}}
+| {{IPA|ɖ}}
+| colspan=&quot;2&quot; |
+| {{IPA|k}}
+| {{IPA|ɡ}}
+| colspan=&quot;2&quot; |
+|
+|- align=center
+![[Fricative consonant|Fricative]]
+| {{IPA|f}}
+|
+| {{IPA|s}}
+|
+| {{IPA|ʃ}}
+|
+| {{IPA|ʂ}}
+| 
+| {{IPA|ç}}
+|
+| colspan=&quot;2&quot; |
+| {{IPA|χ}}
+| {{IPA|ʁ}}
+| {{IPA|h}}
+|- align=center
+![[Approximant consonant|Approximant]]
+| colspan=&quot;2&quot; | {{IPA|ʋ}}
+| colspan=&quot;2&quot; |{{IPA|l}}
+| colspan=&quot;2&quot; | 
+| colspan=&quot;2&quot; |{{IPA|ɭ}}
+| colspan=&quot;2&quot; | {{IPA|j}}
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; |
+|
+|- align=center
+! [[Flap consonant|Flap]]
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; |{{IPA|ɾ}}
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; |{{IPA|ɽ}}
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; |
+|
+|- align=center
+! [[Trill consonant|Trill]]
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; | r
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; |
+| colspan=&quot;2&quot; |
+|
+|}
+
+The post-alveolar consonants only appear in East-Norwegian dialects as a result of [[Sandhi]], combining -ɾ with d, l, n, s, and t.
+
+The pronunciation of the letter ''r'' varies according to dialect. In Eastern, Central and Northern Norwegian dialects, it is a flap {{IPA|ɾ}}, whereas it in Western and Southern Norway, and for some speakers also in Eastern Norway is rendered more gutturally as {{IPA|χ}} or {{IPA|ʁ}}.
+The dialects of North-Western Norway use a post-alveolar trill {{IPA|r}} in this position.
+
+===Vowels===
+{| border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; text-decoration:none;&quot;
+|+caption | Vowel phonemes of ''Standard Østnorsk''
+|-
+! [[Orthography]]
+! [[help:IPA|IPA]]
+! Description
+|- align=center
+| a
+| {{IPA|/ɑ/}}
+| Open back unrounded
+|- align=center
+| ai
+| {{IPA|/ɑɪ̯/}}
+|
+|- align=center
+| au
+| {{IPA|/æʉ/}}
+|
+|- align=center
+| e (short)
+| {{IPA|/ɛ/}}, {{IPA|/æ/}}
+| open mid front unrounded
+|- align=center
+| e (long)
+| {{IPA|/e/}}, {{IPA|/æ/}}
+| close-mid front unrounded
+|- align=center
+| e (weak)
+| {{IPA|/ə/}}
+| schwa (mid central unrounded)
+|- align=center
+| ei
+| {{IPA|/æɪ/}}, {{IPA|/ɛɪ/}}
+|
+|- align=center
+| i (short)
+| {{IPA|/ɪ/}}
+| close front unrounded
+|- align=center
+| i (long)
+| {{IPA|/i/}}
+| close front unrounded
+|- align=center
+| o
+| {{IPA|/u, o, ɔ/}}
+| close back rounded
+|- align=center
+| oi
+| {{IPA|/ɔʏ/}}
+|
+|- align=center
+| u
+| {{IPA|/ʉ/}}, {{IPA|/u/}}
+| close central rounded (close front extra rounded)
+|- align=center
+| y (short)
+| {{IPA|/ʏ/}}
+| close front rounded (close front less rounded)
+|- align=center
+| y (long)
+| {{IPA|/y/}}
+| close front rounded (close front less rounded)
+|- align=center
+| [[æ]]
+| {{IPA|/æ/}}, {{IPA|/ɛ/}}
+| near open front unrounded
+|- align=center
+| [[ø]]
+| {{IPA|/ø/}}
+| close-mid front rounded
+|- align=center
+| [[ø]]y
+| {{IPA|/øʏ/}}
+|
+|- align=center
+| [[å]]
+| {{IPA|/ɔ/}}
+| open-mid back rounded
+|}
+
+===Accent===&lt;!-- This section is linked from [[Tone (linguistics)]] --&gt;
+Norwegian is a [[pitch accent]] language with two distinct pitch patterns, just like Swedish. They are used to differentiate two-syllable words with otherwise identical pronunciation. For example, in many East Norwegian dialects, the word &quot;{{lang|no|bønder}}&quot; (farmers) is pronounced using tone 1, while &quot;{{lang|no|bønner}}&quot; (beans or prayers) uses tone 2. Though the differences in spelling occasionally allow the words to be distinguished in written language, in most cases the minimal pairs are written alike, since written Norwegian has no explicit accent marks. In most eastern low-tone dialects, accent 1 uses a low flat pitch in the first syllable, while accent 2 uses a high, sharply falling pitch in the first syllable and a low pitch in the beginning of the second syllable. In both accents, these pitch movements are followed by a rise of [[Intonation (linguistics)|intonation]]al nature (phrase accent), the size (and presence) of which signals emphasis/focus and which corresponds in function to the normal accent in languages that lack [[tone (linguistics)|lexical tone]], such as English. That rise culminates in the final syllable of an accentual phrase, while the utterance-final fall that is so common in most languages is either very small or absent.
+
+There are significant variations in pitch accent between dialects. Thus, in most of western and northern Norway (the so-called high-pitch dialects) accent 1 is falling, while accent 2 is rising in the first syllable and falling in the second syllable or somewhere around the syllable boundary. The pitch accents (as well as the peculiar phrase accent in the low-tone dialects) give the Norwegian language a &quot;singing&quot; quality which makes it fairly easy to distinguish from other languages.
+Interestingly, accent 1 generally occurs in words that were monosyllabic in [[Old Norse]], and accent 2 in words that were polysyllabic.
+
+==Written language==
+===Alphabet===
+{{Main|Norwegian alphabet}}
+The Norwegian alphabet has 29 letters.
+{| border=0 cellpadding=4 cellspacing=1 style=&quot;padding:0 .5em .2em; border:1px solid #999; margin:1em 0;&quot;
+|- style=&quot;font-size:large; text-align:center; &quot;
+| [[A]] || [[B]] || [[C]] || [[D]] || [[E]] || [[F]] || [[G]] || [[H]] || [[I]] || [[J]] || [[K]] || [[L]] || [[M]] || [[N]] || [[O]] || [[P]] || [[Q]] || [[R]] || [[S]] || [[T]] || [[U]] || [[V]] || [[W]] || [[X]] || [[Y]] || [[Z]] || [[Æ]] || [[Ø]] || [[Å]]
+|- style=&quot;font-size:large; text-align:center; &quot;
+| a || b || c || d || e || f || g || h || i || j || k || l || m || n || o || p || q || r || s || t || u || v || w || x || y || z || æ || ø || å
+|}
+
+The letters ''c'', ''q'', ''w'', ''x'' and ''z'' are only used in [[loanword]]s. As loanwords are assimilated into Norwegian, their spelling might change to reflect Norwegian pronunciation and the principles of Norwegian orthography, e.g. ''[[zebra]]'' in Norwegian is written ''sebra''. Due to historical reasons, some otherwise Norwegian family names are also written using these letters.
+
+Some letters may be modified by [[diacritic]]s: ''é'', ''è'', ''ê'', ''ó'', ''ò'', and ''ô''. In Nynorsk, ''ì'' and ''ù'' and ''ỳ'' are occasionally seen as well. The diacritics are not compulsory, but may in a few cases distinguish between different meanings of the word, e.g.: for (for/to), fór (went), fòr (furrow) and fôr (fodder). Loanwords may be spelled with other diacritics, most notably ''ü'', ''á'' and ''à''.
+
+===Bokmål and Nynorsk===
+{{Main|Bokmål|Nynorsk}}
+Like some other European countries, Norway has an official &quot;advisory board&quot;{{mdash}} [[Norwegian Language Council|Språkrådet]] (Norwegian Language Council){{mdash}} that determines, after approval from the Ministry of Culture, official spelling, grammar, and vocabulary for the Norwegian language. The board's work has been subject to considerable controversy throughout the years.
+
+Both Nynorsk and Bokmål have a great variety of optional forms. The Bokmål that uses the forms that are close to Riksmål is called ''moderate'' or ''conservative'', depending on one's viewpoint, while the Bokmål that uses the forms that are close to Nynorsk is called ''radical''. Nynorsk has forms that are close to the original Landsmål and forms that are close to Bokmål.
+
+[[Wikipedia]] has a separate version for each of the written varieties.
+
+===Riksmål===
+{{Main|Riksmål}}
+[[File:Norwegianmalforms.png|thumb|right|200px|Map of the official language forms of Norwegian municipalities as of 2007]][[File:Norwegian Language.png|right|thumb|200px|Areas where Norwegian is spoken, including North Dakota (where 0.4% of the population speaks Norwegian) and Minnesota (0.1% of the population) (Data: U.S. Census 2000).]]
+Opponents of the spelling reforms aimed at bringing Bokmål closer to Nynorsk have retained the name Riksmål and employ spelling and grammar that predate the Samnorsk movement. Riksmål and conservative versions of Bokmål have been the ''de facto'' standard written language of Norway for most of the 20th century, being used by large newspapers, encyclopedias, and a significant proportion of the population of the capital Oslo, surrounding areas, and other urban areas, as well as much of the literary tradition. Since the reforms of 1981 and 2003 (effective in 2005), the official Bokmål can be adapted to be almost identical with modern Riksmål. The differences between written Riksmål and Bokmål are comparable to [[American and British English differences]].
+
+Riksmål is regulated by the [[Norwegian Academy]], which determines acceptable spelling, grammar, and vocabulary.
+
+===Høgnorsk===
+{{Main|Høgnorsk}}
+There is also an unofficial form of Nynorsk, called ''Høgnorsk'', discarding the post-1917 reforms, and thus close to Ivar Aasen's original Landsmål. It is supported by [[Ivar Aasen-sambandet]], but has found no widespread use.
+
+===Current usage===
+In 2010 86.5% of the pupils in the primary and lower secondary schools in Norway receive education in Bokmål, while 13.0% receive education in Nynorsk. From the eighth grade onwards pupils are required to learn both. Out of the 431 municipalities in Norway, 161 have declared that they wish to communicate with the central authorities in Bokmål, 116 (representing 12% of the population) in Nynorsk, while 156 are neutral. Of 4,549 state publications in 2000 8% were in Nynorsk, and 92% in Bokmål. The large national newspapers ([[Aftenposten]], [[Dagbladet]] and [[Verdens Gang|VG]]) are published in Bokmål or Riksmål. Some major regional newspapers (including [[Bergens Tidende]] and [[Stavanger Aftenblad]]), many political journals, and many local newspapers use both Bokmål and Nynorsk.
+
+==Dialects==
+{{Main|Norwegian dialects}}
+
+There is general agreement that a wide range of differences makes it difficult to estimate the number of different Norwegian dialects. Variations in grammar, syntax, vocabulary, and pronunciation cut across geographical boundaries and can create a distinct dialect at the level of farm clusters. Dialects are in some cases so dissimilar as to be unintelligible to unfamiliar listeners. Many linguists note a trend toward regionalization of dialects that diminishes the differences at such local levels; there is, however, a renewed interest in preserving distinct dialects.
+
+==Examples==
+Below are a few sentences giving an indication of the differences between Bokmål and Nynorsk, compared to the conservative (nearer to Danish) form Riksmål, Danish, as well as Old Norse, Swedish, Faroese, Icelandic (the living language grammatically closest to Old Norse), Old English and other modern Germanic languages:
+
+{| class=wikitable
+! width=100px rowspan=2 | Language
+! colspan=5 | Phrase
+|-
+! I come from Norway || What is his name? || This is a horse || The rainbow has many colors
+|-
+| [[Bokmål]] ||rowspan=3 |  Jeg kommer fra Norge || rowspan=2 | Hva heter han? || rowspan=3 | Dette er en hest || Regnbuen har mange farger
+|-
+| [[Riksmål]] || rowspan=2 | Regnbuen har mange farver
+|-
+| [[Danish language|Danish]] || Hvad hedder han?
+|-
+| [[Nynorsk]] || rowspan=2 | Eg kjem frå Noreg || rowspan=2 | Kva heiter han? || rowspan=2 | Dette er ein hest || Regnbogen har mange fargar/leter&lt;br&gt;Regnbogen er mangleta
+|-
+| [[Høgnorsk]] || Regnbogen hev mange leter&lt;br/&gt;Regnbogen er manglìta
+|-
+| [[Old Norse]] || Ek kem frá Noregi || Hvat heitir hann? || Þetta er hross/Þessi er hestr || Regnboginn er marglitr
+|-
+| [[Icelandic language|Icelandic]] || Ég kem frá Noregi || Hvað heitir hann? || Þetta er hross/Þessi er hestur || Regnboginn er marglitur
+|-
+| [[Faroese language|Faroese]] || Eg komi frá Noregi/Norra || Hvat eitur hann?/Hvat heitir hann? || Hetta er eitt ross/ein hestur || Ælabogin hevur nógvar litir/ Ælabogin er marglitur
+|-
+| [[Swedish language|Swedish]] || Jag kommer från Norge || Vad heter han? || Detta är en häst || Regnbågen har många färger
+|-
+| [[Old English]] || Ic cume fram Norwegan || Hwat hatþ he? || Þis is hors || Se regnboga hæfð manige hiw
+|-
+| [[German language|German]] || Ich komme aus Norwegen || Wie heißt er? ||  Dies ist ein Pferd/Ross || Der Regenbogen hat viele (manche) Farben
+|-
+| [[Dutch language|Dutch]] || Ik kom uit Noorwegen || Hoe heet hij? || Dit is een paard (ros) || De regenboog heeft veel (menige) kleuren
+|-
+| [[Afrikaans language|Afrikaans]] || Ek kom van Noorweë af || Wat is sy naam? (Hoe heet hy? - more archaic and formal) || Dit is 'n perd || Die reënboog het baie kleure
+|-
+| [[West Frisian language|West Frisian]] || Ik kom út Noarwegen || Hoe hjit er? || Dit is in hynder/happe || De reinbôge hat mannich kleuren
+|-
+|}
+
+==Morphology==
+===Nouns===
+Norwegian [[noun]]s are [[inflection|inflected]] or [[declension|declined]] in [[definiteness]] (indefinite/definite) and [[grammatical number|number]] (singular/plural). In some dialects, definite nouns are furthermore declined in [[grammatical case|case]] ([[nominative case|nominative]]/[[dative case|dative]]).
+
+As in most Indo-European languages ([[English Language|English]] being one of a few exceptions), nouns are classified by [[grammatical gender|gender]], which has consequences for the declension of agreeing [[adjective]]s and [[Determiner (class)|determiner]]s. Norwegian has three genders: masculine, feminine and neuter, except the [[Bergen]] dialect which has only two genders: common and neuter. Riksmål and conservative Bokmål traditionally have two genders like Danish, but more modern language has three genders, especially in its spoken form.
+
+{| class=&quot;wikitable&quot;
+|+ Noun forms&lt;br/&gt;''båt'' (boat) in Bokmål
+|-
+! colspan=&quot;2&quot; | Singular
+! colspan=&quot;2&quot; | Plural
+|-
+! Indefinite
+! Definite
+! Indefinite
+! Definite
+|-
+| '' en båt''
+| ''båten''
+| ''båter''
+| ''båtene''
+|}
+
+The declension of regular nouns depends on gender. Some dialects and variants of Nynorsk furthermore have different declension of weak and strong feminines and neuters.
+
+{| class=&quot;wikitable&quot;
+|+ Bokmål
+|-
+! m.
+| en gutt&lt;br&gt;(a boy)
+| gutten&lt;br&gt;(the boy)
+| gutter&lt;br&gt;(boys)
+| guttene&lt;br&gt;(the boys)
+|-
+! f.
+| ei/en dør&lt;br&gt;(a door)
+| døra/døren&lt;br&gt;(the door)
+| dører&lt;br&gt;(doors)
+| dørene&lt;br&gt;(the doors)
+|-
+! n.
+| et hus&lt;br&gt;(a house)
+| huset&lt;br&gt;(the house)
+| hus&lt;br&gt;(houses)
+| husene/husa&lt;br&gt;(the houses)
+|}
+
+As of June 5, 2005, all feminine nouns could once again be written as masculine nouns in Bokmål, giving the option of writing the language with  only two genders &amp;ndash; common and neuter.
+
+{| class=&quot;wikitable&quot;
+|+ Nynorsk
+|-
+! m.
+| ein gut&lt;br&gt;(a boy)
+| guten&lt;br&gt;(the boy)
+| gutar&lt;br&gt;(boys)
+| gutane&lt;br&gt;(the boys)
+|-
+!rowspan=&quot;2&quot;| f.
+| ei sol&lt;br&gt;(a sun)
+| sola/soli&lt;br&gt;(the sun)
+| soler&lt;br&gt;(suns)
+| solene&lt;br&gt;(the suns)
+|-
+| ei kyrkje/kyrkja&lt;br&gt;(a church)
+| kyrkja&lt;br&gt;(the church)
+| kyrkjer/kyrkjor&lt;br&gt;(churches)
+| kyrkjene/kyrkjone&lt;br&gt;(the churches)
+|-
+!rowspan=&quot;2&quot;| n.
+| eit hus&lt;br&gt;(a house)
+| huset&lt;br&gt;(the house)
+| hus&lt;br&gt;(houses)
+| husa/husi&lt;br&gt;(the houses)
+|-
+| eit hjarta/hjarte&lt;br&gt;(a heart)
+| hjarta/hjartet&lt;br&gt;(the heart)
+| hjarto/hjarte&lt;br&gt;(hearts)
+| hjarto/hjarta&lt;br&gt;(the hearts)
+|}
+
+===Adjectives===
+Norwegian [[adjective]]s have two [[inflectional paradigm]]s. The weak inflection is applicable when the argument is [[definiteness|definite]], the strong inflection is used when the argument is [[definiteness|indefinite]]. In both paradigms the adjective is declined in [[Comparison (grammar)|comparison]] (positive/comparative/superlative). Strong, [[positive (linguistics)|positive]] adjectives are furthermore declined in [[grammatical gender|gender]] and [[grammatical number|number]] in agreement with their argument. In some southwestern dialects, the weak positive is also declined in gender and number, with one form for feminine and plural, and one form for masculine and neuter.
+
+In Norwegian, a definite noun has a suffixed article (cf. above). It is noteworthy, however, that when a definitive noun is preceded by an adjective (or a numeral), an additional definite article is placed in front of the adjective, thus producing [[double definiteness]]. (In Bokmål, though, the suffixed article may be dropped in these cases, due to its Danish origin. When this is invoked, it is typically considered to lend a formal or &quot;old-fashioned&quot; flavor to the phrasing.) 
+
+Example of weak positive inflection in Nynorsk: ''huset'' - ''det grøne huset'' (the house - the green house). 
+
+Examples of weak positive inflection in Bokmål: &quot;det grønne huset&quot; (the green house), &quot;den grønne bilen&quot; (the green car), or &quot;Det Hvite Hus&quot; (The White House -- note the dropped suffix). Whenever the noun is preceded by a pronoun, the suffix is always dropped: &quot;mitt grønne hus&quot; (my green house), &quot;min grønne bil&quot; (my green car). Note, however the more common phrasing of these sentiments: &quot;det grønne huset mitt&quot; (my green house), &quot;den grønne bilen min&quot; (my green car).
+
+Examples of strong positive inflection in Bokmål: &quot;et grønt hus&quot; (a green house), &quot;en grønn bil&quot; (a green car); likewise &quot;grønt lys, grønn bil&quot; (green light, green car) if no article is used.
+
+Examples of comparative and superlative inflections in Bokmål: &quot;et hvitere hus&quot; (a whiter house), &quot;den grønneste bilen&quot; (the greenest car); &quot;hvitere hus&quot; (whiter house), &quot;grønnest bil&quot; (greenest car).
+
+{| class=&quot;wikitable&quot;
+|+ Weak adjective forms&lt;br/&gt;''grønn'' (green) in Bokmål
+|-
+! [[Positive (linguistics)|Positive]]
+! [[Comparative]]
+! [[Superlative]]
+|-
+| ''grønne''
+| ''grønnere''
+| ''grønneste''
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Strong adjective forms&lt;br/&gt;(''grønn'' (green) in Bokmål)
+|-
+! colspan=&quot;4&quot; | [[Positive (linguistics)|Positive]]
+! rowspan=&quot;2&quot; | [[Comparative]]
+! rowspan=&quot;2&quot; | [[Superlative]]
+|-
+! Masculine
+! Feminine
+! Neuter
+! Plural
+|-
+| ''grønn''
+| ''grønn''
+| ''grønt''
+| ''grønne''
+| ''grønnere''
+| ''grønnest''
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Weak adjective forms&lt;br/&gt;''grøn'' (green) in Nynorsk
+|-
+! [[Positive (linguistics)|Positive]]
+! [[Comparative]]
+! [[Superlative]]
+|-
+| ''grøne''
+| ''grønare''
+| ''grønaste''
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Strong adjective forms&lt;br/&gt;(''grøn'' (green) in Nynorsk)
+|-
+! colspan=&quot;4&quot; | [[Positive (linguistics)|Positive]]
+! rowspan=&quot;2&quot; | [[Comparative]]
+! rowspan=&quot;2&quot; | [[Superlative]]
+|-
+! Masculine
+! Feminine
+! Neuter
+! Plural
+|-
+| ''grøn''
+| ''grøn''
+| ''grønt''
+| ''grøne''
+| ''grønare''
+| ''grønast''
+|}
+
+===Verbs===
+Norwegian [[finite verb|finite]] [[verb]]s are inflected or [[grammatical conjugation|conjugated]] in [[grammatical mood|mood]]: indicative/imperative/subjunctive. The [[subjunctive mood]] is constrained to a handful of verbs. The indicative verbs are conjugated in [[grammatical tense|tense]]: [[present tense|present]] / [[past tense|past]] / future. In Bokmål and ''Standard Østnorsk'', the infinitive and present tense also has a [[passive voice|passive]] form, whilst Nynorsk only has a passive infinitive (which is used less frequently than its Bokmål counterpart). In a few dialects, indicative verbs are also conjugated in [[grammatical number|number]]. Conjugation in [[grammatical person|person]] is lost in Norwegian.
+
+There are four [[non-finite verb]] forms: [[infinitive]], [[passive voice|passive]] infinitive, and the two [[participle]]s [[perfective]]/past participle and [[imperfective]]/present participle.
+
+The participles are [[verbal adjective]]s. The imperfective participle has no further declension, but the perfective participle is declined in [[grammatical gender|gender]] (not in Bokmål and ''Standard Østnorsk'') and [[grammatical number|number]] like strong, positive adjectives. The [[definiteness|definite]] form of the participle is identical to the plural form.
+
+As with other Germanic languages, Norwegian verbs can be either [[germanic weak verb|weak]] or [[germanic strong verb|strong]].
+
+{| class=&quot;wikitable&quot;
+|+ Verb forms in Nynorsk&lt;br&gt;''leva'' (to live)
+|-
+! colspan=&quot;4&quot; | [[Finite verb|Finite]]
+! colspan=&quot;7&quot; | [[Non-finite verb|Non-finite]]
+|-
+! colspan=&quot;2&quot; | [[Indicative mood|Indicative]]
+! rowspan=&quot;3&quot; | [[Subjunctive mood|Subjunctive]]
+! rowspan=&quot;3&quot; | [[Imperative mood|Imperative]]
+! colspan=&quot;2&quot; | [[Verbal noun]]s
+! colspan=&quot;5&quot; | [[Verbal adjective]]s ([[Participle]]s)
+|-
+! rowspan=&quot;2&quot; | [[Present tense|Present]]
+! rowspan=&quot;2&quot; | [[Past tense|Past]]
+! colspan=&quot;2&quot; | [[Infinitive]]
+! rowspan=&quot;2&quot; | [[Imperfective]]
+! colspan=&quot;4&quot; | [[Perfective]]
+|-
+! [[Active voice|Active]]
+! [[Passive voice|Passive]]
+! Masculine
+! Feminine
+! Neuter
+! Plural/Def
+|-
+| ''lever''
+| ''levde''
+| ''leve''
+| ''lev''
+| ''leva''
+| ''levast''
+| ''levande''
+| ''levd''
+| ''levd''
+| ''levt''
+| ''levde''
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Verb forms in Bokmål&lt;br&gt;''leve'' (to live)
+|-
+! colspan=&quot;5&quot; | [[Finite verb|Finite]]
+! colspan=&quot;5&quot; | [[Non-finite verb|Non-finite]]
+|-
+! colspan=&quot;3&quot; | [[Indicative mood|Indicative]]
+! rowspan=&quot;3&quot; | [[Subjunctive mood|Subjunctive]]
+! rowspan=&quot;3&quot; | [[Imperative mood|Imperative]]
+! colspan=&quot;2&quot; | [[Verbal noun]]s
+! colspan=&quot;3&quot; | [[Verbal adjective]]s ([[Participle]]s)
+|-
+! colspan=&quot;2&quot; | [[Present tense|Present]]
+! rowspan=&quot;2&quot; | [[Past tense|Past]]
+! colspan=&quot;2&quot; | [[Infinitive]]
+! rowspan=&quot;2&quot; | [[Imperfective]]
+! colspan=&quot;2&quot; | [[Perfective]]
+|-
+! [[Active voice|Active]]
+! [[Passive voice|Passive]]
+! [[Active voice|Active]]
+! [[Passive voice|Passive]]
+! Singular
+! Plural/Def
+|-
+| ''lever''
+| ''leves''
+| ''levde/ levet''
+| ''leve''
+| ''lev''
+| ''leve''
+| ''leves''
+| ''levende''
+| ''levd''
+| ''levde/ levet''
+|}
+
+===Pronouns===
+Norwegian personal [[pronoun]]s are declined according to [[grammatical case|case]]: [[nominative case|nominative]] / [[accusative case|accusative]]. Some of the dialects that have preserved the [[dative case|dative]] in nouns, also have a dative case instead of the accusative case in personal pronouns, while others have accusative in pronouns and dative in nouns, effectively giving these dialects three distinct cases.
+
+In the most comprehensive Norwegian grammar, [[Norsk referansegrammatikk]], the categorization of personal pronouns by [[grammatical person|person]], [[grammatical gender|gender]], and [[grammatical number|number]] is not regarded as inflection. As with nouns, adjectives must agree with the gender and number of pronoun arguments.
+
+Other pronouns have no inflection.
+
+The so-called [[possessive pronoun|possessive]], [[demonstrative pronoun|demonstrative]] and [[relative pronoun|relative]] pronouns are no longer regarded to be pronouns.
+
+Pronouns are a [[closed class]].
+
+{| class=&quot;wikitable&quot;
+|+ Examples of pronouns in Bokmål&lt;br/&gt;
+|-
+! [[Nominative case|Nominative]]
+! [[Accusative case|Accusative]]
+! [[English language|English equivalent]]
+|-
+| ''jeg''
+| ''meg''
+| ''I, me''
+|-
+| ''du''
+| ''deg''
+| ''you'' (singular)
+|-
+| ''han''
+| ''ham/han''
+| ''he, him''
+|-
+| ''hun''
+| ''henne''
+| ''she, her''
+|-
+| ''den''
+| ''den''
+| ''it'' (masculine/feminine)
+|-
+| ''det''
+| ''det''
+| ''it'' (neuter)
+|-
+| ''vi''
+| ''oss''
+| ''we, us''
+|-
+| ''dere''
+| ''dere''
+| ''you'' (plural)
+|-
+| ''de''
+| ''dem''
+| ''they, them''
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Examples of pronouns in Nynorsk&lt;br/&gt;
+|-
+! [[Nominative case|Nominative]]
+! [[Accusative case|Accusative]]
+! [[English language|English equivalent]]
+|-
+| ''eg''
+| ''meg''
+| ''I, me''
+|-
+| ''du''
+| ''deg''
+| ''you'' (singular)
+|-
+| ''han''
+| ''han/honom''
+| ''he, him'' or ''it'' (masculine)
+|-
+| ''ho''
+| ''ho/henne''
+| ''she, her'' or ''it'' (feminine)
+|-
+| ''det''
+| ''det''
+| ''it'' (neuter)
+|-
+| ''me/vi''
+| ''oss''
+| ''we, us''
+|-
+| ''de''
+| ''dykk''
+| ''you'' (plural)
+|-
+| ''dei''
+| ''dei''
+| ''they, them''
+|}
+
+Bokmål, like English, has two sets of 3rd person pronouns. ''Han'' and ''hun'' refer to male and female individuals respectively, ''den'' and ''det'' refer to impersonal or inanimate nouns, of masculine/feminine or neutral gender respectively. In contrast, Nynorsk and most dialects use the same set of pronouns (''han'' (m.), ''ho'' (f.) and ''det'' (n.)) for both personal and impersonal references. ''Det'' also has [[Syntactic expletive|expletive]] and [[cataphora|cataphoric]] uses like in the English examples '''''it''' rains'' and '''''it''' was known by everyone '''(that) he had travelled the world'''''.
+
+===Determiners===
+The [[closed class]] of Norwegian [[Determiner (class)|determiner]]s are declined in [[grammatical gender|gender]] and [[grammatical number|number]] in agreement with their argument. Not all determiners are inflected.
+
+{| class=&quot;wikitable&quot;
+|+ Determiner forms&lt;br /&gt;''egen'' (own) in Bokmål
+|-
+! Masculine
+! Feminine
+! Neuter
+! Plural
+|-
+| ''egen''
+| ''egen''
+| ''eget''
+| ''egne''
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Determiner forms&lt;br/&gt;''eigen'' (own) in Nynorsk
+|-
+! Masculine
+! Feminine
+! Neuter
+! Plural
+|-
+| ''eigen''
+| ''eiga/eigi''
+| ''eige/eigi''
+| ''eigne''
+|}
+
+===Particle classes===
+Norwegian has five [[closed class]]es without inflection, i.e. [[lexical category|lexical categories]] with grammatical function and a finite number of members that may not be distinguished by morphological criteria. These are [[interjection]]s, [[grammatical conjunction|conjunctions]], [[grammatical conjunction|subjunctions]], [[preposition]]s, and [[adverbs]]. The inclusion of adverbs here requires that traditional adverbs that are inflected in [[Comparison (grammar)|comparison]] be classified as adjectives, as is sometimes done.
+
+===Compound words===
+In Norwegian [[compound (linguistics)|compound words]], the [[head (linguistics)|head]], i.e. the part determining the compound's class, is the last part. Only the first part has primary stress. For instance, the compound ''tenketank'' (think tank) has primary stress on the first syllable and is a noun (some sort of tank).
+
+Compound words are written together in Norwegian, which can cause words to become very long, for example ''sannsynlighetsmaksimeringsestimator'' ([[maximum likelihood]] [[estimator]]) and ''menneskerettighetsorganisasjoner'' (human rights organisations). Another example is the title ''høyesterettsjustitiarius'' (Chief Justice of the Supreme Court, originally a combination of [[supreme court]] and the actual title, [[justiciar]]). Note also the translation ''En midtsommernattsdrøm'' (A Midsummer Night's Dream).
+
+If they are not written together, each part will naturally be read with primary stress, and the meaning of the compound is lost. This is sometimes forgotten, occasionally with humorous results. Instead of writing, for example, ''lammekoteletter'' (lamb chops), people make the mistake of writing ''lamme koteletter'' (lame, or paralyzed, chops). The original message can even be reversed, as when ''røykfritt'' (no smoking, lit. &quot;smoke free&quot;) becomes ''røyk fritt'' (smoke freely).
+
+Other examples include:
+* ''Terrasse dør'' (&quot;Terrace dies&quot;) instead of ''Terrassedør'' (&quot;Terrace door&quot;)
+* ''Tunfisk biter'' (&quot;Tuna bites&quot;, verb) instead of ''Tunfiskbiter'' (&quot;Tuna bits&quot;, noun)
+* ''Smult ringer'' (&quot;Lard is calling&quot;, verb) instead of ''Smultringer'' (&quot;Doughnuts&quot;)
+* ''Tyveri sikret'' (&quot;Theft guaranteed&quot;) instead of ''Tyverisikret'' (&quot;Theft proof&quot;)
+* ''Stekt kylling lever'' (&quot;Fried chicken lives&quot;, verb) instead of ''Stekt kyllinglever'' (&quot;Fried chicken liver&quot;, noun)
+* ''Smør brød'' (&quot;Butter bread&quot;, verb) instead of ''Smørbrød'' (&quot;Sandwich&quot;)
+* ''Klipp fisk'' (&quot;Cut fish&quot;, verb) instead of ''Klippfisk'' (&quot;Clipfish&quot;)
+* ''På hytte taket'' (&quot;On cottage roof&quot;) instead of ''På hyttetaket'' (&quot;On the cottage roof&quot;)
+* ''Altfor Norge'' (&quot;Too much Norway&quot;) instead of ''Alt for Norge'' (&quot;All for Norway&quot;, the royal motto of Norway)
+* ''Forsiktig hetstradisjon'' (&quot;Careful tradition of abuse&quot;) instead of ''Forsiktighetstradisjon'' (&quot;Tradition of carefulness&quot;).
+These misunderstandings occur because most nouns can be interpreted as verbs or other types of words.
+Similar misunderstandings can be achieved in English too. The following are examples of phrases that both in Norwegian and English mean one thing as a compound word, and something different when regarded as separate words:
+* ''stavekontroll'' (spellchecker) or ''stave kontroll'' (spell checker)
+* ''kokebok'' (cookbook) or ''koke bok'' (cook book)
+* ''ekte håndlagde vafler'' (real handmade waffles) or ''ekte hånd lagde vafler'' (real hand made waffles)
+
+==Vocabulary==
+By far the largest part of the modern vocabulary of Norwegian dates back to Old Norse. The largest source of loanwords is [[Middle Low German]], which had a huge influence on Norwegian vocabulary from the late Middle Ages onwards partially even influencing grammatical structures, such as genitive constructions. At present, the main source of new loanwords is English e.g. ''rapper'', ''e-mail'', ''catering'', ''juice'', ''bag'' (originally a loan word to English from Old Norse). However, Norwegian is considered to be less influenced by English than, for instance, Swedish, or particularly, Danish.
+
+Some loanwords have their spelling changed to reflect Norwegian pronunciation rules, but in general Norwegianised spellings of these words tend to take a long time to sink in: e.g. ''sjåfør'' (from [[French language|French]] ''chauffeur'') and ''revansj'' (from French ''revanche'') are now the common Norwegian spellings, but ''juice'' is more often used than the Norwegianised form ''jus'', ''catering'' more often than ''keitering'', ''service'' more often than ''sørvis'', etc.
+
+==See also==
+{{Portal|Norway|Languages}}
+* [[Differences between the Norwegian and Danish languages]]
+* [[Old Norse#Old West Norse|Old West Norse language]]
+* [[Det Norske Akademi for Sprog og Litteratur]]
+* [[Noregs Mållag]]
+* [[Norsk Ordbok (Nynorsk)|Norsk Ordbok]]
+* [[Riksmålsforbundet]]
+* [[Russenorsk]]
+
+==References==
+{{Reflist|2}}
+
+==Bibliography==
+*Olav T. Beito, ''Nynorsk grammatikk. Lyd- og ordlære,'' Det Norske Samlaget, Oslo 1986, ISBN 82-521-2801-7
+*Jan Terje Faarlund, Svein Lie, Kjell Ivar Vannebo, ''Norsk referansegrammatikk,'' Universitetsforlaget, Oslo 1997, 2002 (3rd edition), ISBN 82-00-22569-0 (Bokmål and Nynorsk)
+*Rolf Theil Endresen, Hanne Gram Simonsen, Andreas Sveen, ''Innføring i lingvistikk'' (2002), ISBN 82-00-45273-5
+*Arne Torp, Lars S. Vikør (1993), ''Hovuddrag i norsk språkhistorie (3.utgåve)'', Gyldendal Norsk Forlag AS 2003
+
+==External links==
+{{InterWiki|Main_Page=Hovedside|code=no|Bokmål}}
+{{InterWiki|Main_Page=Hovudside|code=nn|Nynorsk}}
+{{Wikibooks|Norwegian}}
+*[http://wikitravel.org/en/Norwegian_phrasebook Norwegian Phrasebook at Wikitravel]
+*[http://www.websters-online-dictionary.org/definition/Norwegian-english/ Norwegian-English Dictionary (2)]
+*[http://apertium.org Apertium] Translation of words, text or websites (URL) between Norwegian Nynorsk and Norwegian Bokmål.
+*[http://lelaon.com/learn_Norwegian/ Learn Norwegian!] - rated list of online Norwegian courses.
+
+{{Norway topics|state=expanded}}
+
+{{Navboxes
+|list =
+{{Norwegian language forms}}
+{{Germanic languages}}
+{{Norwegian dictionaries}}
+}}
+
+{{DEFAULTSORT:Norwegian Language}}
+[[Category:Norwegian language| ]]
+[[Category:Languages of Norway]]
+[[Category:North Germanic languages]]
+[[Category:Scandinavia]]
+[[Category:Stress-timed languages]]
+[[Category:Subject–verb–object languages]]
+[[Category:Verb-second languages]]
+
+{{Link FA|bs}}
+{{Link FA|cs}}
+{{Link FA|hr}}
+
+[[kbd:Норвегэбзэ]]
+[[af:Noors]]
+[[ang:Norðisc sprǣc]]
+[[ar:لغة نرويجية]]
+[[an:Idioma noruego]]
+[[az:Norveç dili]]
+[[bn:নরওয়েজীয় ভাষা]]
+[[zh-min-nan:Norge-gí]]
+[[be:Нарвежская мова]]
+[[be-x-old:Нарвэская мова]]
+[[bg:Норвежки език]]
+[[bs:Norveški jezik]]
+[[br:Norvegeg]]
+[[ca:Noruec]]
+[[cv:Норвег чĕлхи]]
+[[cs:Norština]]
+[[cy:Norwyeg]]
+[[da:Norsk (sprog)]]
+[[de:Norwegische Sprache]]
+[[et:Norra keel]]
+[[el:Νορβηγική γλώσσα]]
+[[es:Idioma noruego]]
+[[eo:Norvega lingvo]]
+[[eu:Norvegiera]]
+[[ee:Norwegbe]]
+[[fa:زبان نروژی]]
+[[hif:Norwegian bhasa]]
+[[fo:Norskt mál]]
+[[fr:Norvégien]]
+[[fy:Noarsk]]
+[[ga:Ioruais]]
+[[gv:Norlynnish]]
+[[gd:Nirribhis]]
+[[gl:Lingua norueguesa]]
+[[ko:노르웨이어]]
+[[hi:नॉर्वेजियाई भाषा]]
+[[hr:Norveški jezik]]
+[[io:Norvegiana linguo]]
+[[id:Bahasa Norwegia]]
+[[os:Норвегиаг æвзаг]]
+[[is:Norska]]
+[[it:Lingua norvegese]]
+[[he:נורבגית]]
+[[krc:Норвег тил]]
+[[ka:ნორვეგიული ენა]]
+[[kk:Норвег тілі]]
+[[kw:Norgahek]]
+[[sw:Kinorwei]]
+[[kv:Норск кыв]]
+[[ku:Zimanê norwêcî]]
+[[la:Lingua Norvegica]]
+[[lv:Norvēģu valoda]]
+[[lt:Norvegų kalba]]
+[[lij:Lengua norvegeise]]
+[[li:Noors]]
+[[lmo:Lengua nurvegesa]]
+[[hu:Norvég nyelv]]
+[[mk:Норвешки јазик]]
+[[mr:नॉर्वेजियन भाषा]]
+[[xmf:ნორვეგიული ნინა]]
+[[arz:نرويجى]]
+[[ms:Bahasa Norway]]
+[[cdo:Nò̤-ŭi-ngṳ̄]]
+[[mdf:Норвегонь кяль]]
+[[nl:Noors]]
+[[nds-nl:Noors]]
+[[ja:ノルウェー語]]
+[[no:Norsk]]
+[[nn:Norsk]]
+[[nrm:Norvégien]]
+[[oc:Norvegian]]
+[[mhr:Норвег йылме]]
+[[ps:ناروېژي ژبه]]
+[[tpi:Tok Nowe]]
+[[nds:Norweegsche Spraak]]
+[[pl:Język norweski]]
+[[pt:Língua norueguesa]]
+[[ro:Limba norvegiană]]
+[[rm:Lingua norvegiaisa]]
+[[qu:Nurwiga simi]]
+[[ru:Норвежский язык]]
+[[se:Dárogiella]]
+[[sco:Norse leid]]
+[[stq:Norwegisk]]
+[[sq:Gjuha norvegjeze]]
+[[scn:Lingua norviggisa]]
+[[simple:Norwegian language]]
+[[sk:Nórčina]]
+[[sl:Norveščina]]
+[[szl:Norwesko godka]]
+[[sr:Norveški jezik]]
+[[sh:Norveški jezik]]
+[[fi:Norjan kieli]]
+[[sv:Norska]]
+[[ta:நோர்வே மொழி]]
+[[tt:Норвег теле]]
+[[th:ภาษานอร์เวย์]]
+[[tg:Забони норвегӣ]]
+[[tr:Norveççe]]
+[[uk:Норвезька мова]]
+[[ug:نورۋېگىيە تىلى]]
+[[vep:Norvegijan kel']]
+[[vi:Tiếng Na Uy]]
+[[yo:Èdè ará Nọ́rwèy]]
+[[zea:Nôors]]
+[[bat-smg:Nuorvegu kalba]]
+[[zh:挪威语]]</text>
+      <sha1>5fwapougzbnnuhhpcnegevo7xp355ej</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

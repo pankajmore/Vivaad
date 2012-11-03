@@ -1,0 +1,337 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HD DVD</title>
+    <ns>0</ns>
+    <id>11065091</id>
+    <revision>
+      <id>520859099</id>
+      <parentid>518887454</parentid>
+      <timestamp>2012-11-01T06:01:04Z</timestamp>
+      <contributor>
+        <ip>186.15.170.77</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="45092">{{Infobox media
+|name=HD DVD
+|logo=[[File:HD-DVD.svg|250px|HD DVD logo]]
+|image = [[File:Hddvdback.png|200px|Reverse side of a HD DVD]]
+|type=High-density [[optical disc]]
+|encoding=[[VC-1]], [[H.264/MPEG-4 AVC|H.264]], and [[MPEG-2]]
+|capacity=15&amp;nbsp;[[Gigabyte|GB]] (single layer)&lt;br /&gt;30&amp;nbsp;[[Gigabyte|GB]] (dual layer)
+|read=405 nm laser: &lt;br /&gt;1× @ 36 [[Data rate units#Megabit per second|Mbit/s]] &amp; 2× @ 72 Mbit/s
+|write=
+|standard=
+|release_date=2008
+|owner=[[DVD Forum]]
+|use=Data storage, [[1080p]] [[high-definition video]]
+|extended from=[[DVD-Video]]
+|extended to=
+}}
+'''HD DVD''' (short for '''High-Definition/Density DVD''') is a discontinued high-density [[optical disc]] format for storing data and [[high-definition video]].&lt;ref name=&quot;No_Refunds&quot;&gt;{{Cite news |first=Asher |last=Moses |title=No refunds for HD DVD early adopters |url=http://www.theage.com.au/articles/2008/02/20/1203467142225.html |publisher=''[[The Age]]'' |location=[[Melbourne]] |date=2008-02-20 |accessdate=2008-02-24 }}&lt;/ref&gt;
+Supported principally by [[Toshiba]], HD DVD was envisioned to be the successor to the standard [[DVD]] format. However, in February 2008, after a protracted [[high definition optical disc format war|format war]] with rival [[Blu-ray Disc]], Toshiba abandoned the format, announcing it no longer developed or manufactured HD DVD players or drives.&lt;ref name=&quot;No_Refunds&quot;/&gt;  However, the HD DVD physical disc specifications (but not the [[codec]]s) were still in use as the basis for the [[China Blue High-definition Disc]] (CBHD) formerly called CH-DVD. The HD DVD Promotion Group was dissolved on March 28, 2008.&lt;ref&gt;[http://www.engadget.com/2008/03/28/hd-dvd-promotion-group-officially-dissolves-in-a-high-res-burst/ HD DVD Promotion Group officially dissolves in a high-res burst of tears] (Engadget, March 28, 2008)&lt;/ref&gt;
+
+Because all variants except [[HD DVD#3× DVD|3× DVD]] and HD REC employed a [[blue laser]] with a shorter wavelength, HD DVD stored about 3.2 times as much data per layer as its predecessor (maximum capacity: 15&amp;nbsp;GB per layer instead of 4.7&amp;nbsp;GB per layer).
+
+==History==
+{{Optical disc authoring}}In the mid 1990s, commercial [[High-definition television|HDTV]] sets started to enter a larger market. However, there was no inexpensive way to record or play back HD content. [[JVC]]'s [[D-VHS]] and [[Sony]]'s [[HDCAM]] formats could store that amount of data, but were neither popular nor well-known.&lt;ref&gt;{{Cite web |url=http://online.wsj.com/article/SB891992681208651500.html?mod=googlewsj |title= In HDTV Age, Successor to VCR Still Seems to Be a Long Way Off |accessdate=2007-10-18 |author=Evan Ramstad |date=1998-04-08 |work=online.wsj.com}}&lt;/ref&gt; However, it was well known that using lasers with shorter wavelengths would yield optical storage with higher density. [[Shuji Nakamura]] invented practical [[blue laser|blue laser diodes]], however, a lengthy patent lawsuit delayed commercial introduction.&lt;ref&gt;{{Cite web |url=http://www.pcworld.com/article/id,103862-page,1/article.html |title=Opening the Door for New Storage Options |accessdate=2007-10-18 |author=Martyn Williams |date=2002-08-12 |work=pcworld.com |publisher=}}&lt;/ref&gt;
+
+===Origins and competition from Blu-ray Disc===
+Sony started two projects applying the new diodes: [[Ultra Density Optical|UDO]] (Ultra Density Optical) and DVR Blue together with Philips, a format of rewritable discs which would eventually become Blu-ray Disc (more specifically, BD-RE) and later on with Pioneer a format of read only discs (BD-ROM).&lt;ref&gt;{{Cite web |url=http://www.planetanalog.com/features/OEG20010615S0046 |title=Blue laser bolsters DTV storage, features |accessdate=2007-10-19 |author=S.B. Luitjens |date=2001-06-15 |work=planetanalog.com |publisher=}}&lt;/ref&gt; The two formats share several technologies (such as the AV codecs and the laser diode). In February 2002, the project was officially announced as [[Blu-ray Disc]],&lt;ref&gt;{{Cite web|url = http://www.newscientist.com/article/dn1952.html|title = Replacement for DVD unveiled|accessdate = 2007-10-17|author = Barry Fox|date=2002-02-19|work = newscientist.com}}&lt;/ref&gt; and the [[Blu-ray Disc Association]] was founded by the nine initial members.
+
+The [[DVD Forum]] (which was chaired by [[Toshiba]]) was deeply split over whether to go with the more expensive blue lasers or not. Although today's Blu-ray Discs appear virtually identical to a standard DVD, when the Blu-ray Discs were initially developed they required a protective [[Caddy (hardware)|caddy]] to avoid mis-handling by the consumer (early CD-Rs also featured a protective caddy for the same purpose.) The Blu-ray Disc prototype's caddy was both expensive and physically different from DVD, posing several problems.&lt;ref&gt;{{Cite web |url=http://news.bbc.co.uk/2/hi/entertainment/1829241.stm |title=Next Generation DVD Born |accessdate=2007-11-04 |date=2002-02-21 |work=bbc.co.uk}}&lt;/ref&gt; In March 2002, the forum voted to approve a proposal endorsed by [[Warner Bros.]] and other [[film studio|motion picture studios]] that involved compressing HD content onto dual-layer [[DVD#Capacity|DVD-9]] discs.&lt;ref&gt;{{Cite web |url=http://www.eetimes.com/story/OEG20020301S0091 |title=Picture's fuzzy for DVD |accessdate=2007-10-19 |author=Junko Yoshida |date=2002-03-01 |work=eetimes.com}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=http://www.eetimes.com/story/OEG20011212S0060 |title=Forum to weigh Microsoft's Corona as DVD encoder |accessdate=2007-10-19 |author=Junko Yoshida |date=2001-12-12 |work=eetimes.com |publisher=}}&lt;/ref&gt; However, in spite of this decision, the DVD Forum's Steering Committee announced in April that it was pursuing its own blue-laser high-definition solution. In August, Toshiba and NEC announced their competing standard Advanced Optical Disc.&lt;ref&gt;{{Cite web |url=http://www.pcworld.com/article/id,104570-page,1/article.html |title=Toshiba, NEC Share Details of Blue-Laser Storage |accessdate=2007-10-18 |author= |date=2002-08-29 |work=pcworld.com}}&lt;/ref&gt; It was adopted by the DVD forum and renamed to HD DVD the next year.&lt;ref&gt;{{Cite web |url=http://www.theinquirer.net/en/inquirer/news/2003/11/28/dvd-forum-backs-toshiba-nec-format |title=DVD Forum backs Toshiba-NEC format |accessdate=2007-10-18 |author= |date=2003-11-28 |work=theinquirer.net |publisher=}}&lt;/ref&gt;
+
+The HD DVD Promotion Group was a group of manufacturers and media studios formed to exchange thoughts and ideas to help promote the format worldwide.&lt;ref&gt;{{Cite web | url = http://www.hddvdprg.com/eng/index.html | title = HD DVD Promotion Group | accessdate = 2007-12-14 | year = 2007}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt; Its members comprised Toshiba as the Chair Company and Secretary, Memory-Tech Corporation and [[NEC]] as Vice-Chair companies, and [[Sanyo]] Electric as Auditors; there were 61 general members and 72 associate members in total.&lt;ref&gt;{{Cite web | url = http://www.hddvdprg.com/eng/about/member.html
+ | title = Member List - HD DVD Promotion Group | accessdate = 2007-12-14 | year = 2007}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt; The HD DVD promotion group was officially dissolved on March 28, 2008, following Toshiba's announcement on February 19, 2008 that it would no longer develop or manufacture HD DVD players and drives.
+
+===Attempts to avoid a format war===
+{{Main|High definition optical disc format war}}
+
+Much like the [[VHS]] vs. [[Betamax]] [[videotape format war]] during the late 1970s and early 1980s, HD DVD was competing with rival format [[Blu-ray Disc]]. In 2008, major content manufacturers and key retailers began withdrawing their support for the format.
+
+In an attempt to avoid a costly format war, the Blu-ray Disc Association and DVD Forum attempted to negotiate a compromise in early 2005. One of the issues was that Blu-ray Disc companies wanted to use a Java-based platform for interactivity ([[BD-J]] based on [[Sun Microsystems]]' Java TV standards), while HD DVD companies wanted to use [[Microsoft]]'s &quot;iHD&quot; (which became [[HDi (interactivity)|HDi]]).&lt;ref&gt;{{Cite web |url=http://www.eetasia.com/ART_8800364355_499495_f3313299.HTM |title=Sides close to deal on HD disc format |accessdate=2007-10-19 |author=Junko Yoshida |date=2005-04-19 |work=eetasia.com |publisher=}}&lt;/ref&gt; Another problem was the physical formats of the discs themselves.&lt;ref name=&quot;stalemate&quot;&gt;{{Cite web |url=http://www.internetnews.com/storage/article.php/3671091 |title=Who Is Drawing Out The High-Def DVD Stalemate? |accessdate=2007-10-19 |author=Andy Patrizio |date=2007-04-12 |work=internetnews.com |publisher=}}&lt;/ref&gt; The negotiations proceeded slowly and ultimately stalled.&lt;ref&gt;{{Cite web |url=http://www.ft.com/cms/s/0/8e6df286-c670-11d9-b69b-00000e2511c8.html |title=Sony-Toshiba DVD format talks stall |accessdate=2007-10-19 |author=Michiyo Nakamoto |date=2005-05-17 |work=ft.com |publisher=}}&lt;/ref&gt;
+
+On August 22, 2005, the Blu-ray Disc Association and DVD Forum announced that the negotiations to unify their standards had failed.&lt;ref&gt;{{Cite web |url=http://www.forbes.com/home/feeds/afx/2005/08/22/afx2188394.html |title=Sony, Toshiba fail to unify DVD format&amp;nbsp;— report |accessdate=2007-10-19 |author= |date=2005-08-22 |work=forbes.com |publisher=}}&lt;/ref&gt; Rumors surfaced that talks had stalled; publicly, the same reasons of physical format incompatibility were cited.&lt;ref name=&quot;stalemate&quot;/&gt;&lt;ref name=&quot;DaggersDrawn&quot;&gt;{{Cite web |url=http://www.businessweek.com/magazine/content/05_42/b3955113.htm |title=Daggers Drawn Over DVDs |accessdate=2007-10-19 |author=Cliff Edwards, Peter Burrows, Ronald Grover, Tom Lowry and Kenji Hall |date=2005-10-17 |work=businessweek.com |publisher=}}&lt;/ref&gt; By the end of September that year, Microsoft and Intel jointly announced their support for HD DVD.&lt;ref&gt;{{Cite web |url=http://www.ecommercetimes.com/story/n6BNgaGjf2Pdrz/Microsoft-Intel-Back-Toshibas-HD-DVD.xhtml |title=Microsoft, Intel Back Toshiba's HD-DVD |accessdate=2007-10-19 |author=Susan B. Shor |date=2005-09-27 |work=ecommercetimes.com |publisher=}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt;
+
+[[Hewlett-Packard]] (HP) attempted to broker a compromise between the Blu-ray Disc Association and Microsoft by demanding that Blu-ray Disc use Microsoft's [[HDi (interactivity)|HDi]] instead of BD-J and threatening to support HD DVD instead.&lt;ref&gt;{{Cite web |url=http://www.vnunet.com/vnunet/news/2144325/hp-calls-changes-blu-ray |title=HP calls for changes to Blu-ray |accessdate=2007-10-19 |author=Ken Young |date=2005-10-20 |work=vnunet.com}}&lt;/ref&gt;  However, the Blu-ray Disc Association did not agree to HP's demands.&lt;ref&gt;{{Cite web |url=http://www.foxnews.com/story/0,2933,175904,00.html |title=Blu-Ray Won't Bow to HP's Demands |accessdate=2007-10-19 |date=2005-11-17 |work=foxnews.com}}&lt;/ref&gt;
+
+===Launch===
+On March 31, 2006 Toshiba released their first consumer-based HD DVD player in Japan at [[Japanese yen|¥]]110,000 ([[United States dollar|US$]]934).&lt;ref&gt;{{Cite web|url=http://digital-lifestyles.info/display_page.asp?section=platforms&amp;id=3146|title=Toshiba HD DVD Player: First Release In Japan}}&lt;/ref&gt; HD&amp;nbsp;DVD was released in the United States on April 18, 2006,&lt;ref name=&quot;videobusiness&quot;&gt;{{Cite web|url=http://www.videobusiness.com/article/CA6324750.html|title=HD DVD set to launch quietly| accessdate=2007-04-09|date=2006-04-13|last=Netherby|first=Jennifer|coauthors=Susanne Ault|work=Video Business}}&lt;/ref&gt; with players priced at $499 and $799.
+
+The first HD DVD titles were released on April 18, 2006. They were ''[[The Last Samurai]]'', ''[[Million Dollar Baby]]'', and ''[[The Phantom of the Opera (2004 film)|The Phantom of the Opera]]'' by [[Warner Home Video]] and ''[[Serenity (film)|Serenity]]'' by [[Universal Studios]].&lt;ref&gt;{{Cite web|url=http://www.videobusiness.com/article/CA6323662.html|title= Uni delivers Serenity to HD DVD. Sci-fi adventure first from studio on high-def format on April 18}}&lt;/ref&gt; The first independent HD film released on HD DVD was ''[[One Six Right]]''.&lt;ref&gt;{{Cite web|url= http://www.highdefdigest.com/news/show/Disc_Announcements/Terwilliger/Indie_Terwilliger_Jumps_Into_HD_DVD_with_Romance_of_Flying/279|title=HD DVD Digest: Indie Terwilliger Jumps Into HD DVD with 'Romance of Flying'}} October 4, 2006&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=http://www.highdef.com/magazine/archive/HighDef_2007_1JanFeb.pdf|title=HighDef Magazine: 34 to 24 on AJA KONA}} Page 34, Jan/February 2007&lt;/ref&gt;
+
+===Sales developments===
+In December 2006 Toshiba reported that roughly 120,000 Toshiba branded HD DVD players had been sold in the United States, along with 150,000 HD DVD add-on units for the [[Xbox 360]].&lt;ref&gt;{{Cite news|url= http://arstechnica.com/news.ars/post/20070115-8625.html|title=HD DVD opens up early lead with standalone players, consoles different story |publisher=Ars Technica |date=January 15, 2007 |accessdate=2008-03-18}}&lt;/ref&gt;
+
+On April 18, 2007, one year after the first HD DVD titles were released,&lt;ref name=&quot;videobusiness&quot; /&gt; the HD DVD group reported that they had sold 100,000 dedicated HD DVD units in the United States.&lt;ref&gt;{{Cite web|url=http://www.tgdaily.com/index.php?option=com_content&amp;task=view&amp;id=31658&amp;Itemid=118|title=100,000 HD DVD CE players sold in the U.S. during the first year (April 17, 2007)}}&lt;/ref&gt;
+
+In the middle of 2007, the first HD DVD Recorders were released in Japan.&lt;ref&gt;{{Cite news|url=http://www.engadget.com/2006/06/22/toshibas-rd-a1-hd-dvd-recorder-with-1tb-disk|title=Toshiba's RD-A1 HD DVD recorder with 1TB disk|publisher=engadget|date=June 22, 2006| accessdate=2007-08-05}}&lt;/ref&gt;
+
+In November 2007, the Toshiba HD-A2 was the first high definition player to be sold at a sale price of less than US$100; this was done through several major retailers to make room for the new HD-A3 models. These closeout sales lasted less than a day each due to both limited quantities and high demand at that price point. In the same month, the HD DVD promotion group announced that 750,000 HD DVD players had been sold, which included stand-alone players and the Xbox 360 add-on.&lt;ref&gt;{{Cite web| url=http://www.tgdaily.com/content/view/35008/97/| title=HD DVD players pass 750,000 unit sales| first=Mark| last=Raby| publisher=TG Daily| date=2007-11-27| accessdate=2007-12-19}}&lt;/ref&gt;
+
+In January 2008 Toshiba announced that close to one million dedicated HD DVD players had been sold.&lt;ref&gt;{{Cite press release |url=http://www.thelookandsoundofperfect.com/_inc/hddvd/news/01-06-2008-CES2008.pdf |format=PDF |title=HD DVD Rallies Consumer Audience in 2007 Driving Nearly One Million Dedicated Player Sales in North America |date=January 6, 2008 |publisher=HD DVD Promotional Group |accessdate=2008-03-18}}&lt;/ref&gt;
+
+As of June 24, 2008, 475 HD DVD titles had been released in the USA.&lt;ref&gt;{{Cite news|url= http://www.engadgethd.com/2008/02/11/hd-dvd-and-blu-ray-releases-on-february-12th-2008/|title=HD DVD and Blu-ray releases|publisher=engadgetHD}}&lt;/ref&gt; As of April 29, 2008, 236 HD DVD titles had been released in Japan.&lt;ref&gt;{{Cite news|url= http://www.watch.impress.co.jp/av/docs/bdhdship/|title=Blu-ray Disc and HD DVD releases in Japan|publisher=AVWatch|accessdate=2008-02-19}}&lt;/ref&gt;
+
+===Decline===
+On January 4, 2008, citing consumer confusion and indifference as a reason for lackluster high-definition software sales, [[Warner Bros.]] announced it would stop supporting HD DVD by June 2008, and the company would release HD titles only on Blu-ray Disc.&lt;ref&gt;{{Cite web|url=http://www.timewarner.com/corp/newsroom/pr/0,20812,1700383,00.html|title=Warner Bros. Entertainment to Release Its High-Definition DVD Titles Exclusively in the Blu-ray Disc Format Beginning Later This Year}}&lt;/ref&gt; This was followed by news of [[Netflix]] phasing out support for the format, and [[Best Buy]]'s decision to recommend Blu-ray Disc over HD DVD in its retail locations and to remove HD DVD players as part of its ongoing &quot;HDTV advantage&quot; promotion. Finally, retailer [[Walmart|Wal-Mart]] announced that it would be supporting only Blu-ray Disc by June 2008. On February 19, 2008, [[Toshiba]] announced plans to discontinue development, marketing and manufacturing of HD DVD players while still providing product support and after-sale service to consumers of the format (including Firmware updates). The company cited &quot;recent major changes in the market&quot;.&lt;ref name=toshibadrophddvd&gt;{{Cite news|url= http://www.toshiba.co.jp/about/press/2008_02/pr1903.htm|title=Toshiba Announces Discontinuation of HD DVD Businesses|publisher=Toshiba Press Department|date=2008-02-19|accessdate=2008-02-19}}&lt;/ref&gt; Shipments of HD DVD machines to retailers were reduced and eventually stopped by the end of March 2008.&lt;ref&gt;[http://www.dvdtown.com/news/breaking-news-toshiba-announces-discontinuation-of-hd-dvd-businesses/5254 BREAKING NEWS: Toshiba announces discontinuation of HD DVD businesses - DVDTOWN.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+===End of releases===
+The final HD DVD releases in the United States from a major studio were Paramount's ''[[Into the Wild (film)|Into the Wild]]'', Warner's ''[[P.S. I Love You (film)|P.S. I Love You]]'' and ''[[Twister (1996 film)|Twister]]'', on May 27, 2008. In June, the final HD DVD to be released was ''[[Freedom Project|Freedom: 6]]'' from Bandai Visual. Bandai Visual acknowledged the demise of HD DVD, but stated that it wanted to complete the release of the seven-part ''[[Freedom Project]]'', of which six parts were released.&lt;ref&gt;[http://hddvd.highdefdigest.com/news/show/Bandai_Visual/Disc_Announcements/Freedom:_6_Comes_to_HD_DVD_This_June/1574 'Freedom: 6' Comes to HD DVD This June | High-Def Digest&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The seventh part, due for August 2008, never saw a release. ''[[Disco Pigs]]'' was announced but postponed, with no new date announced for release.&lt;ref&gt;{{Cite web|url=http://hddvd.highdefdigest.com/releasedates.html|title=HD DVD Disc Release Dates&amp;nbsp;— High Def Digest|accessdate=2008-06-26}}&lt;/ref&gt;
+
+''[[Death Proof]]'' was released on HD DVD format by Senator Films in Germany on December 15, 2008. This special release also was a steelbook.&lt;ref&gt;{{Cite web|url=http://hddvd.highdefdigest.com/2072/deathproof_de.html|title=Death Proof (German Import)&amp;nbsp;— High Def Digest|accessdate=2008-06-26}}&lt;/ref&gt;
+
+On April 3, 2010, [[Engadget]] reported that Anthem films would release the film ''Deadlands 2: Trapped'' on HD DVD in a limited run of 500 copies. This eventually happened in the form of HD DVD-Rs.&lt;ref&gt;{{Cite web|url=http://hd.engadget.com/2010/04/03/deadlands-2-hd-dvd-rises-from-the-grave-for-a-limited-run/|title=Deadlands 2 HD DVD rises from the grave}}&lt;/ref&gt; ''Deadlands: The Rising'' announced on September 5, 2010 was released on HD DVD for a limited copies. Just like previous released on ''Deadlands 2: Trapped'', the film was pressed on HD DVD-R disc.&lt;ref&gt;http://forums.highdefdigest.com/hd-dvd-software-general-discussion/108234-deadlands-1-hd-dvd-project-early-stages-yep-its-happening.html&lt;/ref&gt;
+
+On May 30, 2010, MCB Entertainment announced that the first 100 copies of ''Smokers'' would be released as fully packaged, professionally manufactured HD DVDs with the appropriate cases and inserts.&lt;ref&gt;http://forums.highdefdigest.com/hd-dvd-software-general-discussion/104555-hd-dvd-lives-new-title-smokers-available-pre-order.html&lt;/ref&gt; As of November 2012, ''Smokers'' has no firm release date.
+
+===Warner providing Blu-ray Disc replacements in the US===
+In mid-2009, Warner, through its Red2Blu.com&lt;ref&gt;http://red2blu.com&lt;/ref&gt; site, offered to replace any HD DVD Warner home video release with a Blu-ray Disc equivalent for [[United States dollar|US$]]&amp;nbsp;4.95 each plus [[United States dollar|US$]]&amp;nbsp;6.95 shipping to the [[Contiguous United States|continental United States]] or $&amp;nbsp;8.95 to Alaska, Hawaii or Puerto Rico. The deal required the HD DVD's original sleeve art to be returned to Warner as a proof of purchase. The turn-around time for processing was approximately two weeks. Multi-disc sets were exchangeable at a discount, e.g. $&amp;nbsp;14.95 for the 5-disc ''[[Blade Runner]]'' release, rather than $&amp;nbsp;24.75. No exchanges were offered to customers outside of the US.
+
+==Technical specifications==
+The current specification books for HD DVD are listed at the DVD FLLC website.&lt;ref&gt;{{Cite web| url=http://www.dvdfllc.co.jp/format/f_bconst.html | title=DVD Book Construction| accessdate=2008-12-06}}&lt;/ref&gt;
+
+===Disc structure===
+HD DVD-ROM, HD DVD-R and HD DVD-RW have a single-layer capacity of 15&amp;nbsp;[[Gigabyte|GB]], and a dual-layer capacity of 30&amp;nbsp;[[Gigabyte|GB]]. HD DVD-RAM has a single-layer capacity of 20&amp;nbsp;GB.&lt;ref&gt;[http://www.hddvdprg.com/jpn/about/hddvd/page03.html Disc lineup] HD DVD Promotion Group&lt;/ref&gt; Like the original DVD format, the data layer of an HD DVD is 0.6&amp;nbsp;mm below the surface to physically protect the data layer from damage. The [[numerical aperture]] of the optical pick-up head is 0.65, compared with 0.6 for DVD. All HD DVD players are backward compatible with DVD and CD.&lt;ref&gt;{{Cite web| url=http://www.thelookandsoundofperfect.com/faq.html| title=HD DVD FAQ&amp;nbsp;— Official HD DVD Site| accessdate=2008-01-01}}&lt;/ref&gt;
+
+{| class=&quot;wikitable&quot;
+! Physical size
+! Single layer capacity
+! Dual layer capacity
+|-
+| 12&amp;nbsp;cm, single sided || 15&amp;nbsp;GB || 30&amp;nbsp;GB
+|-
+| 12&amp;nbsp;cm, double sided || 30&amp;nbsp;GB || 60&amp;nbsp;GB
+|-
+| &amp;nbsp;8&amp;nbsp;cm, single sided || 4.7&amp;nbsp;GB || 9.4&amp;nbsp;GB
+|-
+| &amp;nbsp;8&amp;nbsp;cm, double sided || 9.4&amp;nbsp;GB || 18.8&amp;nbsp;GB
+|}
+
+==Recording speed==
+{| class=&quot;wikitable&quot; style=&quot;font-size:95%;&quot;
+!colspan=&quot;1&quot; rowspan=&quot;2&quot;|Drive speed
+!colspan=&quot;2&quot; rowspan=&quot;1&quot;|Data rate
+!colspan=&quot;2&quot; rowspan=&quot;1&quot;|Write time for HD DVD (minutes)
+|-align=&quot;center&quot;
+|[[Data rate units#Megabit per second|Mbit/s]]||[[Data rate units#Megabyte per second|MB/s]]||Single Layer||Dual Layer
+|-align=&quot;center&quot;
+|1×||36 ||4.5 ||56||110
+|-align=&quot;center&quot;
+|2×||72 ||9 ||28 ||55
+|}
+&lt;nowiki&gt;&lt;/nowiki&gt;
+
+===File systems===
+As with previous optical disc formats, HD DVD supports several [[file system]]s, such as [[ISO 9660]] and [[Universal Disk Format]] (UDF). All HD DVD titles use UDF version 2.5 as the file system. In this file system, [[Multiplexing|multiplexed]] audio and video streams are stored in [[Enhanced VOB|EVO]] [[Digital container format|container format]].&lt;ref name=&quot;videohelp&quot;&gt;Videohelp.com [http://www.videohelp.com/hd#filestruct What is Blu-ray Disc and HD DVD? - Blu-ray Disc and HD DVD Folder and File Structure], Retrieved on 2009-07-26&lt;/ref&gt;
+
+===Audio===
+The HD DVD format supports encoding in up to 24-bit/192&amp;nbsp;kHz for two channels, or up to eight channels of up to 24-bit/96&amp;nbsp;kHz encoding.&lt;ref name=videospecs&gt;{{Cite journal|url=http://www.dvdforum.org/images/Requirements%20Specification%20for%20HD%20DVD%20Video%20Application-July2005.pdf |format=PDF|date=July 2005|version=Version 1.0|title=Requirements Specification for HD DVD Video Application|accessdate=2006-06-27}}&lt;/ref&gt;
+
+All HD DVD players are required to decode uncompressed [[Linear pulse-code modulation|linear PCM]], [[Dolby Digital]] AC-3, [[Dolby Digital EX]], [[DTS (sound system)|DTS]], [[Dolby Digital Plus]] E-AC-3 and [[Dolby TrueHD]].&lt;ref name=&quot;dolby_ACfFEF&quot;&gt;{{Cite web|url= http://www.dolby.com/assets/pdf/tech_library/DPlus_TrueHD_whitepaper.pdf|title=Dolby Audio Coding for Future Entertainment Formats|accessdate=2007-04-09|last=Dressler|first=Roger|coauthors=Craig Eggers|format=PDF |archiveurl = http://web.archive.org/web/20061012180734/http://www.dolby.com/assets/pdf/tech_library/DPlus_TrueHD_whitepaper.pdf &lt;!-- Bot retrieved archive --&gt; |archivedate = October 12, 2006}}&lt;/ref&gt; A secondary soundtrack, if present, can be stored in any of the aforementioned formats, or in one of the HD DVD optional codecs: [[DTS (sound system)|DTS-HD High Resolution Audio]] and [[DTS-HD Master Audio]]. For the highest-fidelity audio experience, HD DVD offers content-producers the choice of LPCM, Dolby TrueHD and DTS-HD Master Audio.
+
+===Video===
+HD DVD video can be encoded using [[VC-1]], [[H.264/MPEG-4 AVC|AVC]], or [[MPEG-2]]. A wide variety of resolutions are supported, from low-resolution [[Common Intermediate Format|CIF]], all [[Standard-definition television|SDTV]] resolutions supported by [[DVD-Video]], and [[High-definition television|HDTV]] formats: [[720p]], [[1080i]], and [[1080p]].&lt;ref name=videospecs/&gt;  All studio-released movie titles have featured video in a 1080-line format, with companion supplements in [[480i]] or [[480p]]. The vast majority of releases were encoded with [[VC-1]], and most of the remaining titles encoded with [[H.264/MPEG-4 AVC|AVC]].
+
+==Digital rights management==
+{{Main|Advanced Access Content System}}
+If a publisher wishes to restrict use of their HD DVD content, they may use the Advanced Access Content System (AACS) although this is not required for normal disc playback. AACS is a standard for [[Digital distribution|content distribution]] and [[digital rights management]]. It is developed by AACS Licensing Administrator, LLC (AACS LA), a [[consortium]] that includes [[The Walt Disney Company|Disney]], [[Intel]], [[Microsoft]], [[Panasonic]], [[Warner Bros.]], [[IBM]], [[Toshiba]] and [[Sony]]. One of the advantages over [[Content Scramble System|CSS]], the content restriction system for DVDs, is that AACS allows content providers to revoke an individual player device if its cryptographic keys have been compromised (meaning that it will not be able to decrypt subsequently released content). There is no [[Regional lockout|Region Coding]] in the existing HD DVD specification, which means that titles from any country can be played in players in any other country.
+
+Since appearing in devices in 2006, several successful attacks have been made on the format. The first known attack relied on the [[trusted client]] problem. In addition, decryption keys have been extracted from a weakly protected player ([[WinDVD]]). Notably, a ''Processing Key'' was found that could be used to decrypt all HD content that had been released at the time.&lt;ref&gt;{{Cite web|url=http://www.aacsla.com/press/|title=Press Messages: AACS&amp;nbsp;— Advanced Access Content System|accessdate=2007-05-02}}&lt;/ref&gt; The processing key was widely published on the Internet after it was found and the AACS LA sent multiple [[Online Copyright Infringement Liability Limitation Act|DMCA takedown]] notices in the aim of censoring it.&lt;ref&gt;{{Cite web|url= http://www.chillingeffects.org/notice.cgi?sID=3218|title=AACS licensor complains of posted key|accessdate=2007-05-02}}&lt;/ref&gt; This caused trouble on some sites that rely on user-submitted content, like [[Digg]] and [[Wikipedia]], when administrators tried to remove any mentions of the key.&lt;ref&gt;{{Cite web|url=http://blog.wired.com/business/2007/05/wikipedia_locks.html|title= Wikipedia Locks Out &quot;The Number&quot;|first=Paul|last=Boutin|accessdate=2007-05-02|date=2007-05-01}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title= Digg's DRM Revolt|first=Andy|last=Greenberg|date=2007-05-02|work=[[Forbes]]|url= http://www.forbes.com/technology/2007/05/02/digital-rights-management-tech-cx_ag_0502digg.html|accessdate=2007-05-04}}&lt;/ref&gt;
+
+{{Details|AACS encryption key controversy}}
+
+AACS has also been circumvented by [[SlySoft]] with their program [[AnyDVD]] HD, which allows users to watch HD DVD movies on non-[[High-bandwidth Digital Content Protection|HDCP]]-compliant PC hardware. Slysoft has stated that AnyDVD HD uses several different mechanisms to disable the encryption, and is not dependent on the use of a single compromised encryption key.&lt;ref&gt;{{Cite web|url= http://forum.slysoft.com/showpost.php?s=dd10095bbb7307dcbb16168166d2087e&amp;p=9286&amp;postcount=2|title=Device key revokation| accessdate=2007-04-09|date=2007-02-13|author=&quot;peer&quot;}}&lt;/ref&gt;
+Other AACS circumvention programs have become available, like DVDFab HD Decrypter.&lt;ref&gt;{{Cite web|url= http://www.dvdfab.com/free.htm|title=HD DVD Decryption| accessdate=2007-03-11}}&lt;/ref&gt;
+
+==Interactive content==
+HD DVDs use [[Advanced Content]] to allow interactive content to be authored for discs. Microsoft's implementation of Advanced Content is the [[HDi (interactivity)|HDi Interactive Format]], and &quot;HDi&quot; is frequently used to refer to the Advanced Content system. Advanced Content is based on web technologies such as [[HTML]], [[XML]], [[Cascading Style Sheets|CSS]], [[Synchronized Multimedia Integration Language|SMIL]], and [[ECMAScript]] ([[JavaScript]]), so authoring in Advanced Content should be a fairly easy transition for web developers. No existing DVD authoring experience is required. In comparison Blu-ray Disc content is authored using either a scripting environment (BDMV) or a Java-based platform ([[BD-J]]). DVD video discs use pre-rendered MPEG segments, selectable subtitle pictures, and simple programmatic navigation which is considerably more limited.
+
+==Hardware==
+===Compatibility===
+[[Backward compatibility]] is available with all HD DVD players, allowing users to have a single player to play all types of HD DVD, DVD and CD. There is also a hybrid HD DVD format which contains both DVD and HD DVD versions of the same movie on a single disc, providing a smooth transition for the studios in terms of publishing movies, and allowing consumers with only DVD players to still use the discs. DVD replication companies can continue using their current production equipment with only minor alterations when changing over to the format of HD DVD replication. Due to the structure of the single-lens optical head, both red and blue laser diodes can be used in smaller, more compact HD DVD players.
+
+====General purpose computers====
+HD DVD drives can also be used with a desktop/laptop personal computer (PC)&lt;!--please note, the generic term for a computer designed for home/small business use is a personal computer. This includes Macintosh, Windows-based, Linux-based, and other computers.--&gt; running [[Windows XP]], [[Windows Vista]], [[Mac OS X Leopard|Mac OS X v10.5]] &quot;Leopard&quot;, and many varieties of [[Linux]]. Third-party player software for Windows and Linux have successfully played HD DVD titles using the add-on drive.&lt;ref&gt;{{Cite web|url= http://docs.info.apple.com/article.html?artnum=305800|title=DVD Player: Plays HD DVD discs &lt;nowiki&gt;[sic]&lt;/nowiki&gt; authored in DVD Studio Pro only|publisher=Apple|accessdate=2007-12-12}}&lt;/ref&gt;
+
+Released at the end of November 2006, the [[Microsoft]] HD DVD drive for the [[Xbox 360]] game-console gives the Xbox 360 the ability to play HD DVD movies. The drive was announced with an [[Suggested retail price|MSRP]] of US$199 and includes a [[Universal Serial Bus|USB 2.0 cable]] for connection to the console. The first drives also included Peter Jackson's ''[[King Kong (2005 film)|King Kong]]'' or Christopher Nolan's ''[[Batman Begins]]'' on HD DVD. The final &quot;regular&quot; for the drive was US$129.99 as of February 25, 2008. On February 23, 2008 Microsoft discontinued the Xbox 360 HD DVD player. On February 26, 2008, Microsoft &quot;officially&quot; announced that the Xbox 360 HD DVD add on drive would reflect a heavily discounted price down to $49.99.&lt;ref&gt;[http://gizmodo.com/360054/microsoft-xbox-360-hd-dvd-player-officially-discontinued Microsoft Xbox 360 HD DVD Player Officially Discontinued], Gizmodo.com.&lt;/ref&gt;
+
+===Dual-compatibility drives===
+In 2007, [[LG Corp|LG]] and [[Samsung]] released standalone consumer players that could read both HD DVD and Blu-ray Discs. The machines were sold at premium prices, but failed to sell in large quantities. In May 2008, both companies announced they would stop manufacturing dual-compatibility drives.&lt;ref name=Korea_Times&gt;{{Cite news |first=Yoo-chul |last=Kim |title=Samsung, LG End Combo HD-DVD Lines |url=http://www.koreatimes.co.kr/www/news/nation/2008/05/123_24018.html |work=[[The Korea Times]]|date=2008-05-12 |accessdate=2008-05-14 }}&lt;/ref&gt;
+
+A few computer manufacturers (such as [[Hewlett-Packard|HP]] and [[Acer Inc.|Acer]]) sold computers with combination HD DVD/Blu-ray Disc drives. LG marketed a Blu-ray writer that also read HD DVD discs (but could not write to them).&lt;ref&gt;LG GGW-H20L Owner's manual&lt;/ref&gt;
+
+==HD DVD / Blu-ray Disc comparison==
+{{Comparison_CD_DVD_HDDVD_BD.svg}}
+{{Main|Comparison of high definition optical disc formats}}
+HD DVD competed primarily with [[Blu-ray Disc]]. Both formats were designed as successors to [[DVD]], capable of higher quality video and audio playback, and of greater capacity when used to store video, audio, and computer data. Blu-ray Disc and HD DVD share most of the same methods of encoding media onto discs with each other, resulting in equivalent levels of audio and visual quality, but differ in other aspects such as interactive capabilities, internet integration, usage control and enforcement, and in which features were mandatory for players. The storage size also varies: A dual-layer HD DVD holds a maximum of 30&amp;nbsp;GB of data, while a dual-layer Blu-ray Disc carries 50 GB.
+
+==Development==
+Even after finalizing the HD DVD standard, engineers continued developing the technology. A 51 GB triple-layer spec was approved at the DVD Forums 40th Steering Committee Meeting (held on November 15, 2007).&lt;ref name=&quot;tripleApproved&quot;&gt;{{Cite web|url=http://www.dvdforum.org/40scmtg-resolution.htm|title=DVD Forum 40th Steering Committee Meeting (November 15, 2007)}}&lt;/ref&gt; However, no movies had been scheduled for this disc type, and Toshiba had declined to say whether the 51 GB disc was compatible with existing drives and players. Specification 2.0 Part 1 (Physical Specification) for triple layer HD DVD had been approved in November 2007.&lt;ref&gt;[http://www.cdrinfo.com/Sections/News/Details.aspx?NewsId=21863 DVD Forum Approves &quot;HD DVD China&quot; Logo&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+At the [[International CES|CES]] 2007, [[Ritek]] revealed their high definition optical disc process that extended both competing high definition formats to ten layers, increasing capacity to 150&amp;nbsp;GB for HD DVD and 250 GB for Blu-ray Disc. However, a major obstacle to implementing this technology in either format (150 GB HD DVD will not be developed due to HD DVD's discontinuation) is that reader-writer technology available may not be able to support the additional data layers.&lt;ref&gt;{{Cite web|url=http://www.dailytech.com/article.aspx?newsid=5656|title=Three HD Layers Today, Ten Tomorrow|accessdate=2007-04-24|date=2007-01-10|last=Yam|first=Marcus|work=DailyTech}}&lt;/ref&gt;
+
+[[NEC]],&lt;ref&gt;{{Cite web|url=http://news.com.com/NEC+unveils+chip+to+bridge+Blu-rayHD+DVD+divide/2100-1041_3-6124799.html|title=NEC unveils chip to bridge Blu-ray/HD DVD divide}}&lt;/ref&gt; [[Broadcom]],&lt;ref name=&quot;engadget-universal_players&quot;&gt;{{Cite web|url=http://www.engadgethd.com/2006/11/07/universal-hd-dvd-blu-ray-players-really-on-the-way-in-2007/|title=Universal HD DVD / Blu-ray players really on the way in 2007?|publisher=engadgetHD|date=2006-11-07| accessdate=2007-08-03}}&lt;/ref&gt; [[Horizon Semiconductors]], and [[STMicroelectronics]]&lt;ref name=&quot;engadget-universal_players&quot;/&gt; have separately developed a single chip/laser that can read both the HD DVD and the Blu-ray Disc standard. Broadcom and STMicroelectronics will be selling their dual-format single chip/laser solution to any [[Original equipment manufacturer|OEM]] willing to develop a product based on the chip.
+
+==Variants and Media==
+===HD DVD-R / -RW / -RAM===
+'''HD DVD-R''' is the writable disc variant of HD DVD, available with a single-layer capacity of 15 GB or a dual-layer capacity of 30 GB.&lt;ref&gt;{{Cite web|publisher= Verbatim| title = Verbatim/MKM Ready to Ship 30 GB Dual Layer HD DVD-R Media to North American Markets| work = Press Release| date = 2007-01-07| url = http://www.verbatim.com/news/news_detail.cfm?news_id=0277C5A5-1143-3415-5FCC5675F87101A0| accessdate = 2007-03-23 }}&lt;/ref&gt; Write speeds depend on drive speed, with a data rate of 36.55 Mbit/s (4.36 MB/s) and a recording time of 56 minutes for 1× media, and 73 Mbit/s (8.71 MB/s) and a recording time of 28 minutes for 2×.
+
+The Toshiba SD-L902A for notebooks was one of the first available HD DVD writers, although it was not meant for retail.&lt;ref&gt;Gieselmann, Hartmut  ''Op een laag pitje'' in [[C't]] magazine December 2007 Dutch version page 74 &quot;Het is niet eens de bedoeling dat de HD DVD brander SD-L902A apart verkocht gaat worden. Het beperkte aantal dat Toshiba ervan produceert, in in eerste instantie bedoeld voor de notebookserie Qosmio.&quot;&lt;/ref&gt;&lt;ref&gt;Gieselmann, Hartmut ''Op een laag pitje'' in [[C't]] magazine December 2007 Dutch version page 74&lt;/ref&gt; Burning HD DVD (including Dual Layer) with a 1× write speed, it could also burn DVDs and CDs. In a test of the SD-L902A by [[C't|C't computer magazine]] with [[Verbatim Corporation|Verbatim]] discs, the written HD DVD-Rs suffered from high noise levels,&lt;ref&gt;Gieselmann, Hartmut ''Op een laag pitje'' in [[C't]] magazine December 2007 Dutch version pages 74-76&lt;/ref&gt; as a result, the written discs could not be recognized by the [[Xbox 360 accessories#HD DVD Player|external HD DVD drive of the Xbox 360]], though they could be read back by the SD-L902A.&lt;ref&gt;Gieselmann, Hartmut ''Op een laag pitje'' in [[C't]] magazine December 2007 Dutch version page 75&lt;br&gt;&quot;De foutwaarde PI Sum 4 had op dat moment al de grenswaarde van 1000 overschreden, vier keer zo hoog als toegestaan. Bij de single layer HD-DVD-R kwam deze met 559 fouten op het dubbele van de toegestane grenswaarde. &lt;br&gt; Daarmee pakken de eerste brandresultaten van de HD DVD een stuk slechter uit dan van de eerste dvd- of Blu-ray-branders. We konden de discs in de SD-L902A weliswaar lezen, maar de externe HD DVD drives van de Xbox 360 herkende ze niet.&quot;&lt;/ref&gt;
+
+'''HD DVD-RW''' is the rewritable disc variant of HD DVD with equal storage capacity to an HD DVD-R. The primary advantage of HD DVD-RW over HD DVD-R is the ability to erase and rewrite to an HD DVD-RW disc, up to about 1,000 times before needing replacement, making them comparable with the [[CD-RW]] and [[DVD-RW]] standards. This is also of benefit if there are writing errors when recording data, as the disc is not ruined and can still store data by erasing the faulty data.
+
+'''HD DVD-RAM''' was the proposed successor to DVD-RAM for random access on optical media using phase-change principals. It would hold 20 gigabytes per layer instead of 15 gigabytes for HD DVD-R, due to differences in recording methods used, yielding a higher density disc.
+
+===DVD / HD DVD hybrid discs===
+There are two types of hybrid formats which contain standard [[DVD-Video]] format video for playback in regular DVD players, and HD DVD video for playback in high definition on HD DVD players. The Combo disc is a dual sided disc with one side DVD and the other HD DVD, each of which can have up to two layers. The Twin disc is a single sided disc that can have up to three layers, with up to two layers dedicated to either DVD or HD DVD.&lt;ref&gt;{{Cite web|url= http://www.toshiba.co.jp/about/press/2006_09/pr1101.htm|title=New disc supports high capacities of both standard DVD and HD DVD on a single disc|publisher=Toshiba|accessdate=2007-04-01}}&lt;/ref&gt; These hybrid discs make retail marketing and shelf space management easier. Another advantage is hardware cross-compatibility. The average consumer does not have to worry about whether or not they can play a hybrid DVD: any standard home DVD player can access the DVD-encoded content and any HD DVD player can access both the DVD- and HD DVD-encoded content.
+
+===HD DVD / Blu-ray Disc hybrid discs===
+Warner Bros. officially announced [[Total Hi Def]] (THD or ''Total HD'') at [[International CES|CES 2007]]. THD hybrid discs were to support both HD DVD and Blu-ray Disc, with HD DVD on one side (up to two layers) and Blu-ray Disc on the other side (up to two layers). However, in November 2007, Warner Bros. cancelled THD's development.&lt;ref&gt;[http://www.engadgethd.com/tag/totalhd Posts tagged Totalhd at Engadget HD&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+===3× DVD===
+The HD DVD format also applies to current red laser DVDs; this type of disc is called &quot;3× DVD&quot;, as it is capable of three times the bandwidth of regular [[DVD-Video]].
+
+3× DVDs are physically identical to normal DVDs. Although 3× DVDs provide the same high definition content, their playback time is less. For example, an 8.5 GB DVD can hold about 90 minutes of 1080p video encoded with VC-1 or AVC at an average bitrate of 12 Mbit/s, which corresponds with the average length of Hollywood feature-films. If quality is compromised slightly, and good compression techniques are used, most feature films could be encoded with 3x DVD. Due to its much greater resolution, HD-Video also has significantly more redundant information than DVD which newer compression standards can encode more efficiently.
+
+It is technically possible for consumers to create HD DVD compatible discs using low cost DVD-R or DVD+R media. At least one such guide exists.&lt;ref&gt;{{Cite web|url=http://www.avsforum.com/avs-vb/showthread.php?t=705146|title=The Official AVS Guide to HD DVD Authoring|accessdate=2007-04-09|date=2006-07-30|last=Clark|first=Joseph|work=AV Science Forum}}&lt;/ref&gt; The 3× DVD is comparable to Blu-ray Disc [[Blu-ray Disc#BD9 and BD5|BD5 and BD9 formats]].
+
+===HD REC===
+HD Rec is an extension of the HD DVD format for recording HD content on regular red laser DVD-Rs/DVD-RWs using [[H.264/MPEG-4 AVC]] compression.&lt;ref&gt;{{Cite web|url=http://www.pcworld.com/article/id,138121-page,1/article.html|title=New Chips Enable High-Def Recording on DVDs|accessdate=2007-10-18|author=Martyn Williams|date=2007-10-05|work=pcworld.com}}&lt;/ref&gt; It was approved by the [[DVD Forum]] on September 12, 2007&lt;ref&gt;{{Cite web|url=http://www.cdrinfo.com/Sections/News/Details.aspx?NewsId=21390| title=DVD Forum Approves Recording of HD DVD Content on Red-laser Recordable Discs|accessdate=2007-10-18|date=2007-09-13|work= cdrinfo.com}}&lt;/ref&gt; It is comparable to Blu-ray Disc's [[Blu-ray Disc#AVCREC|AVCREC]].
+
+===CBHD===
+The [[China Blue High-definition Disc]] (CBHD), a high-definition optical disc format, was based upon the HD DVD format. Like the HD DVD, CBHD discs have a capacity of 15GB single-layer and 30GB dual-layer and can use existing DVD production lines. Unlike the HD DVD format, industry support for this format has grown steadily.
+
+==See also==
+*[[List of HD DVD devices]]
+*[[List of released HD DVD titles]]
+*[[Comparison of high definition optical disc formats]]
+*[[Format war]]
+*[[High definition optical disc format war]]
+*[[China Blue High-definition Disc]] Based on HD DVD technology.
+*[[Dolby Digital Plus]], one of the mandatory audio codecs for HD DVD hardware.
+*[[1080p]], high-definition resolution supported by HD DVD and Blu-ray Disc.&lt;ref&gt;{{Cite web|url= http://www.engadget.com/2006/04/13/early-hd-dvd-flicks-to-be-1080p/|title=Early HD DVD flicks to be 1080p|accessdate=2007-04-09|date=2006-04-13|last=Perton|first=Marc|work=Engadget}}&lt;/ref&gt;
+*[[Laserdisc#MUSE LD|MUSE LD]]&amp;nbsp;– an earlier optical disc which contained analog HDTV signals
+*[[D-VHS]]&amp;nbsp;– a tape-based format that allows recording of 720 or 1080 high-def DTV, while remaining compatible with older VHS libraries
+*[[Advanced Interactivity Consortium]]
+*[[DVD Forum]]
+*[[Blu-ray Disc]]
+*[[HD NVD]]
+
+===Alternative disc technologies===
+*[[Blu-ray Disc]]
+*[[Fluorescent Multilayer Disc]]
+*[[Digital Multilayer Disk]]
+*[[High-Definition Versatile Disc]]
+*[[Holographic Versatile Disc]]&amp;nbsp;– a proposed next-generation disc after HD DVD and Blu-ray Disc
+*[[3D optical data storage]]&amp;nbsp;– another next-generation technology
+*[[Ultra Density Optical]]
+*[[AVCHD]]
+*[[Enhanced Versatile Disc]] (EVD)
+*[[Forward Versatile Disc]] (FVD)
+*[[Professional Disc|Professional Disc for DATA]] (PDD or ProDATA)
+*[[Versatile Multilayer Disc]]
+*[[LS-R]]&amp;nbsp;– a &quot;layer selection&quot; technology designed to allow large numbers of data layers in one disc.
+
+==References==
+{{Reflist|30em}}
+
+{{Homevid}}
+{{High definition media}}
+{{High-definition}}
+{{Toshiba}}
+{{Use mdy dates|date=September 2010}}
+
+{{DEFAULTSORT:Hd Dvd}}
+[[Category:Audio storage]]
+[[Category:Computer storage media]]
+[[Category:Consumer electronics]]
+[[Category:Discontinued media formats]]
+[[Category:DVD]]
+[[Category:HD DVD| ]]
+[[Category:High-definition television]]
+[[Category:2006 introductions]]
+[[Category:2008 disestablishments]]
+
+[[af:HD-DVD]]
+[[ar:أسطوانات الفيديو الرقمية فائقة الدقة]]
+[[bs:HD DVD]]
+[[bg:HD DVD]]
+[[ca:HD-DVD]]
+[[cs:HD DVD]]
+[[da:HD DVD]]
+[[de:HD DVD]]
+[[et:HD DVD]]
+[[es:HD DVD]]
+[[eo:HD DVD]]
+[[eu:HD-DVD]]
+[[fa:اچ‌دی دی‌وی‌دی]]
+[[fr:HD DVD]]
+[[gl:HD DVD]]
+[[ko:HD-DVD]]
+[[hr:HD DVD]]
+[[id:HD DVD]]
+[[it:HD DVD]]
+[[he:HD DVD]]
+[[lt:HD DVD]]
+[[hu:HD DVD]]
+[[ml:ഹൈ ഡെഫനിഷൻ ഡിവിഡി]]
+[[ms:HD DVD]]
+[[nl:Hd dvd]]
+[[ja:HD DVD]]
+[[no:HD DVD]]
+[[pl:HD DVD]]
+[[pt:HD DVD]]
+[[ro:HD DVD]]
+[[ru:HD DVD]]
+[[sq:HD DVD]]
+[[simple:HD DVD]]
+[[sk:HD DVD]]
+[[sl:HD DVD]]
+[[sr:HD DVD]]
+[[fi:HD DVD]]
+[[sv:HD DVD]]
+[[th:เอชดีดีวีดี]]
+[[tr:HD DVD]]
+[[uk:HD DVD]]
+[[ur:ہائی ڈینسٹی ڈی وی ڈی]]
+[[zh-yue:HD DVD]]
+[[zh:HD DVD]]</text>
+      <sha1>7d15zq9c5al35l4flbnikxvdkt72mkz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

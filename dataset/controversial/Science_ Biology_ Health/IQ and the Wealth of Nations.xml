@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>IQ and the Wealth of Nations</title>
+    <ns>0</ns>
+    <id>638066</id>
+    <revision>
+      <id>519613041</id>
+      <parentid>518121180</parentid>
+      <timestamp>2012-10-24T18:25:49Z</timestamp>
+      <contributor>
+        <username>Paul Magnussen</username>
+        <id>363188</id>
+      </contributor>
+      <minor/>
+      <comment>Grammar.</comment>
+      <text xml:space="preserve" bytes="17860">{{Infobox book
+| name          = ''IQ and the Wealth of Nations''
+| title_orig    =
+| translator    =
+| image         = [[Image:IQ and the Wealth of Nations.jpg|170px]]
+| image_caption = ''IQ and the Wealth of Nations'' cover
+| author        = [[Richard Lynn]]&lt;br&gt;[[Tatu Vanhanen]]
+| illustrator   =
+| cover_artist  =
+| country       =
+| language      = English
+| series        =
+| subject       =
+| genre         =
+| publisher     = Praeger/Greenwood
+| pub_date      = 2002
+| english_pub_date =
+| media_type    =
+| pages         =
+| isbn          =
+| oclc          =
+| preceded_by   =
+| followed_by   =
+}}
+'''''IQ and the Wealth of Nations''''' is a 2002 book by Dr. [[Richard Lynn]], Professor Emeritus of Psychology at the [[University of Ulster]], [[Northern Ireland]], and  Dr. [[Tatu Vanhanen]], Professor Emeritus of Political Science at the [[University of Tampere]], [[Tampere]], [[Finland]].&lt;ref name=&quot;main&quot;&gt;Lynn, R. and Vanhanen, T. (2002). [http://books.google.com/books?id=KQ4rLiAbHQQC IQ and the wealth of nations]. Westport, CT: Praeger. ISBN 0-275-97510-X&lt;/ref&gt; The book argues that differences in national income (in the form of [[per capita]] [[gross domestic product]]) are [[correlation|correlated]] with differences in the average national [[intelligence quotient]] (IQ). The authors further argue that differences in average national IQs constitute one important factor, but not the only one, contributing to differences in [[national wealth]] and rates of [[economic growth]]. Critical responses have included questioning of the methodology and of the incompleteness of the data, as well as of the conclusions.&lt;ref name=&quot;suz.unizh.ch&quot;&gt;[http://www.history.ox.ac.uk/hsmt/courses_reading/undergraduate/authority_of_nature/week_8/volken.pdf The Impact of National IQ on Income and Growth: A Critique of [[Richard Lynn]] and Tatu Vanhanens Recent Book] by Thomas Volken&lt;/ref&gt;&lt;ref name=&quot;nature.com&quot;&gt;[http://www.nature.com/hdy/journal/v92/n4/full/6800418a.html Book Review: IQ and the Wealth of Nations] Heredity April 2004, Volume 92, Number 4, Pages 359–360. K Richardson.&lt;/ref&gt; The 2006 book ''[[IQ and Global Inequality]]'' is a follow-up to ''IQ and the Wealth of Nations'' by the same authors. Several other data-sets of estimated average national cognitive ability exist, as explained in [[nations and intelligence]].
+
+==Outline==
+[[Image:IQatWoN GDP IQ.png|right|thumb|The central thesis of ''IQ and the Wealth of Nations'' is that the average IQ of a nation [[correlation coefficient|correlates]] with its GDP.&lt;ref name=&quot;main&quot;/&gt; Above is a scatter plot with Lynn and Vanhanen's calculated IQ values (without estimates) and GDP data.&lt;ref name=IQ1&gt;See [http://www.rlynn.co.uk/pages/article_intelligence/t4.asp  Intelligence and the Wealth and Poverty of Nations] by [[Richard Lynn]]&lt;/ref&gt;  Data from Table 7.7 in the book – Real GDP per capita 1998, and IQ.  Residual real GDP, and Fitted real GDP columns not displayed.  Table 7.7 in the book titled, &quot;The Results of the Regression Analysis in which Real GDP Per Capita 1998 is Used as The Dependent Variable and National IQ is Used as the Independent Variable for 81 countries&quot;.]]
+The book includes the authors' calculation of average IQ scores for 81 countries, based on their analysis of published reports. It reports their observation that national IQ [[Pearson product-moment correlation coefficient|correlates]] with [[gross domestic product]] per capita at 0.82, and with the rate of economic growth from 1950–1990 at 0.64.
+
+The authors believe that average IQ differences between nations are due to both [[gene]]tic and environmental factors. They also believe that low GDP can cause low IQ, just as low IQ can cause low GDP. (See [[Positive feedback]])
+
+The authors write that it is the ethical responsibility of rich, high-IQ nations to assist poor, low-IQ nations financially, as it is the responsibility of rich citizens to assist the poor.
+
+==National IQ estimates==
+[[File:National IQ Lynn Vanhanen 2006 IQ and Global Inequality.png|right|thumb|National IQ estimates from ''IQ and the Wealth of Nations'' with countries in red on the low spectrum and countries in purple on the higher end&lt;ref&gt;[http://www.rlynn.co.uk/pages/article_intelligence/t4.asp National IQs Based on the Results of Intelligence Tests]&lt;/ref&gt;]] 
+Central to the book's thesis is a tabulation of what Lynn and Vanhanen believe to be the average IQs of the world's nations.  Rather than do their own IQ studies, the authors average and adjust existing studies and use other methods to create estimates.
+
+For 104 of the 185 nations, no studies were available. In those cases, the authors have used an estimated value by taking averages of the IQs of neighboring or comparable nations.  For example, the authors arrived at a figure of 84 for El Salvador by averaging their calculations of 79 for Guatemala and 88 for Colombia. Including those estimated IQs, the correlation of IQ and GDP is 0.62.
+
+To obtain a figure for South Africa, the authors averaged IQ studies done on different ethnic groups, resulting in a figure of 72.  The figures for Colombia, Peru, and Singapore were arrived at in a similar manner.  
+
+In some cases, the IQ of a country is estimated by averaging the IQs of countries that are not actually neighbors of the country in question. For example, [[Kyrgyzstan]]'s IQ is estimated by averaging the IQs of Iran and Turkey, neither of which is close to Kyrgyzstan—China, which is a geographic neighbor, is not counted as such by Lynn and Vanhanen.
+
+To account for the [[Flynn effect]] (an increase in IQ scores over time), the authors adjusted the results of older studies upward by a number of points.
+
+===Scores that do not support the theory===
+
+In several cases the actual GDP did not correspond with that predicted by IQ. In these cases, the authors argued that differences in GDP were caused by differences in natural resources and whether the nation used a &quot;[[planned economy|planned]]&quot; or [[market economy|&quot;market&quot; economy]].
+
+One example of this was [[Qatar]], whose IQ was estimated by Lynn and Vanhanen to be about 78, yet had a disproportionately high per capita GDP of roughly USD $17,000. The authors explain Qatar's disproportionately high GDP by its high [[petroleum]] resources. Similarly, the authors think that large resources of [[diamond]]s explain the economic growth of the African nation [[Botswana]], the fastest in the world for several decades.
+
+The authors argued that the [[People's Republic of China]]'s per capita GDP of roughly USD $4,500 could be explained by its use of a communist [[economic system]] for much of its [[Economy of the People's Republic of China|recent history]].  The authors also predicted that communist nations whom they believe have comparatively higher IQs, including the PRC, Vietnam, and [[North Korea]], can be expected to gain GDP by moving from centrally planned to market economic systems, while predicting continued poverty for African nations.
+
+== Reception and impact == 
+
+Several negative reviews of the book have been published in the scholarly literature. Susan Barnett and Wendy Williams wrote that &quot;we see an edifice built on layer upon layer of arbitrary assumptions and selective [[data manipulation]]. The data on which the entire book is based are of questionable validity and are used in ways that cannot be justified.&quot; They also wrote that cross country comparisons are &quot;virtually meaningless.&quot;&lt;ref&gt;{{Cite journal| journal = Contemporary Psychology: APA Review of Books | month = August | year = 2004 | volume = 49 | issue = 4 | pages = 389–396 | author = Barnett, Susan M. and Williams, Wendy | title = National Intelligence and the Emperor's New Clothes | url = http://psycinfo.apa.org/psyccritiques/display/?uid=2004-17780-001}}&lt;/ref&gt; 
+
+Richardson (2004) argued, citing the [[Flynn effect]] as the best evidence, that Lynn has the causal connection backwards and suggested that &quot;the average IQ of a population is simply an index of the size of its middle class, both of which are results of industrial development&quot;. The review concludes that &quot;This is not so much science, then, as a social crusade.&quot;&lt;ref name=&quot;nature.com&quot;/&gt; A review by MR Palairet criticized the book's methodology, particularly the imprecise estimates of GDP and the fact that IQ data was only available for 81 of the 185 countries studied. However, the review concluded that the book was &quot;a powerful challenge to economic historians and development economists&quot;, and that its conclusions were in great need of further analysis.&lt;ref&gt;Palairet, M. R. (2004). [http://www.nature.com/hdy/journal/v92/n4/full/6800427a.html Book review, IQ and the Wealth of Nations.] Heredity, 92, 361–362.&lt;/ref&gt; 
+
+===By economists=== 
+
+In a book review in the ''[[Journal of Economic Literature]]'', a journal of the [[American Economic Association]], Thomas J. Nechyba wrote that: &quot;(the book's) sweeping conclusions based on relatively weak statistical evidence and dubious presumptions seem misguided at best and quite dangerous if taken seriously. It is therefore difficult to find much to recommend in this book.&quot;&lt;ref&gt;Thomas J. Nechyba, ''[[Journal of Economic Literature]]'', Vol. 42, No. 1 (Mar., 2004), pp. 220-221&lt;/ref&gt; 
+
+Writing in the ''[[Economic Journal]]'', published on behalf of the [[Royal Economic Society]], Astrid Oline Ervik states that while the book may be &quot;thought provoking&quot;, there is nothing that economists can learn from it. She criticizes the book for a number of reasons; that the authors don't establish cross country comparability and reliability of IQ scores, that they rely on simple bivariate correlations, that they do not consider or control for other hypotheses, and that they confuse correlation with causation. The author states, &quot;The arguments put forward in the book to justify such (international IQ) comparisons seem at best vague and unconvincing. At worst, passages in the book appear to be biased and unscientific,&quot; and concludes that, &quot;the authors fail to present convincing evidence and appear to jump to conclusions.&quot; &lt;ref&gt;Astrid Oline Ervik, ''[[The Economic Journal]]'', Vol. 113, No. 488, Features (Jun., 2003), pp. F406-F408&lt;/ref&gt; The book was positively reviewed in the journals [[Journal of Social, Political, and Economic Studies]] and [[The Oriental Quarterly]] by [[Edward M. Miller]], an economics professor who has published many controversial papers on [[Race and intelligence]].&lt;ref&gt;Miller, E. (2002). Differential Intelligence and National Income. A review of IQ and the Wealth of Nations. Journal of Social, Political &amp; Economic Studies, 27, 413–524. (p. 522)&lt;/ref&gt;&lt;ref&gt; [[Edward M. Miller]], [http://www.toqonline.com/archives/v2n4/TOQv2n4Miller.pdf IQ and the Wealth of Nations] (book review), [[The Occidental Quarterly]].&lt;/ref&gt;
+
+===Criticism of data sets===
+
+Some criticisms have focused on the limited number of studies upon which the book is based.  The IQ figure is based on one study in 34 nations, and two studies in 30 nations. There were actual tests for IQ in 81 nations. In 104 of the world's nations there were no IQ studies at all and IQ was estimated based on IQ in surrounding nations.&lt;ref name=&quot;suz.unizh.ch&quot;/&gt; The limited number of participants in some studies has also been criticized. A test of 108 9-15-year olds in Barbados, of 50 13–16-year olds in Colombia, of 104 5–17-year olds in Ecuador, of 129 6–12-year olds in Egypt, and of 48 10–14-year olds in Equatorial Guinea, all were taken as measures of national IQ.&lt;ref name=&quot;nature.com&quot;/&gt; 
+
+Denny Borsboom (2006) argues that mainstream contemporary test analysis does not reflect substantial recent developments in the field and &quot;bears an uncanny resemblance to the psychometric state of the art as it existed in the 1950s.&quot; For example, it argued that ''IQ and the Wealth of Nations'', in order to show that the tests are unbiased, uses outdated methodology, if anything indicative that test bias exists.&lt;ref&gt;[http://users.fmg.uva.nl/dborsboom/papers.htm The attack of the psychometricians]. DENNY BORSBOOM. PSYCHOMETRIKA VOL 71, NO 3, 425–440. SEPTEMBER 2006.&lt;/ref&gt; Girma Berhanu in an essay review of the book concentrated on the discussion of Ethiopian Jews. The review criticizes the principal assertion of the authors that differences in intelligence attributed to genetics account for the gap between rich and poor countries. Berhanu criticized the book as being based in a &quot;racist, sexist, and antihuman&quot; research tradition and alleged that &quot;the low standards of scholarship evident in the book render it largely irrelevant for modern science&quot;.&lt;ref&gt;{{Cite journal|journal=Education Review|year=2007|first=Girma|last=Bernahu|title=Black Intellectual Genocide: An Essay Review of ''IQ and the Wealth of Nations''|url=http://edrev.asu.edu/essays/v10n6.pdf|pages=1–28}}&lt;/ref&gt;
+
+===Impact on psychology=== 
+
+In 2006, Lynn and Vanhanen followed ''IQ and the Wealth of Nations'' with their book ''IQ and Global Inequality'', which contained additional data and analyses, but the same general conclusions as the earlier book. Discussing both books, [[Earl Hunt]] writes that although Lynn and Vanhanen's methodology and conclusions are questionable, they deserve credit for raising important questions about international IQ comparisons. Hunt writes that Lynn and Vanhanen are correct that national IQs correlate strongly with measures of social well-being, but they are unjustified in their rejection of the idea that national IQs could change as a result of improved education.&lt;ref name=&quot;Hunt&quot;&gt;Hunt, E. ''Human Intelligence''. Cambridge University Press, 2011, page 426-445.&lt;/ref&gt; 
+
+Along with the rest of Lynn's work, ''IQ and the Wealth of Nations'' has had a large impact on the understanding of human differences, and has served as the basis for many subsequent studies about international comparisons.&lt;ref&gt;{{Cite doi|10.1016/j.paid.2011.03.013}}&lt;/ref&gt; Studies by Weede and Kämpf&lt;ref&gt;Weede, E. and Kämpf, S. (2002). The Impact of Intelligence and Institutional Improvements on Economic Growth. Kyklos, 55, Fasc. 3, 361–380. (p. 376)&lt;/ref&gt; and R. E. Dickerson&lt;ref&gt;{{Cite journal| author = Dickerson, R. E. | year = 2006 | month = May–June | title = Exponential correlation of IQ and the wealth of nations | journal = Intelligence | volume = 34 | issue = 3 | pages = 291–295 | id = | doi = 10.1016/j.intell.2005.09.006 }}&lt;/ref&gt; have re-examined Lynn's data and concluded that IQ is an important contributor to national wealth. Whetzel and McDaniel also agree that the book's conclusions about the relationship between IQ, democracy and economic freedom are robust, although they argue that the direction of causality remains uncertain.&lt;ref&gt;{{Cite journal| author = Whetzel, D. L. &amp; McDaniel, M. A. | year = 2006 | month = September–October | title = Prediction of national wealth | journal = Intelligence | volume = 34 | issue = 5 | pages = 449–458 | doi = 10.1016/j.intell.2006.02.003 }}[http://www.people.vcu.edu/~mamcdani/Publications/Whetzel%20&amp;%20McDaniel%20(2006,%20Intelligence)%20Prediction%20of%20national%20wealth.pdf PDF]&lt;/ref&gt;  
+
+Other studies have disputed the strength of the correlation between national IQ and income. In a 2003 re-analysis of the book's statistical methods, [[sociologist]] Thomas Volken found no effect of national IQ on growth or income.&lt;ref&gt;IQ and the Wealth of Nations. [http://esr.oxfordjournals.org/content/19/4/411.abstract A Critique of Richard Lynn and Tatu Vanhanen's Recent Book], 2003, Thomas Volken, European Sociological Review Volume. 19, Issue 4, Pp. 411–412. Sociological Institute, University of Zurich, Andreasstrasse 15, CH-8050 Zurich, Switzerland.&lt;/ref&gt; However, a similar analysis by American [[Economics|economists]] Jones and Schneider (2006) showed that IQ is a [[Statistical significance|statistically significant]] [[Dependent and independent variables#Alternative terminology in statistics|explanatory variable]] of economic growth.&lt;ref&gt;Garett Jones &amp; W. Schneider, (2006). [http://www.jstor.org/pss/40216088 Intelligence, Human Capital, and Economic Growth: A Bayesian Averaging of Classical Estimates (BACE) approach]. Journal of Economic Growth, Springer, vol. 11(1), pages 71-93, 03.&lt;/ref&gt; Hunt and Wittmann have criticized aspects of the book's data and conclusions, but concluded that there is nonetheless a strong correlation between national IQ and prosperity.&lt;ref&gt;{{Cite doi|10.1016/j.intell.2006.11.002}}&lt;/ref&gt;
+
+==See also==
+*[[Economic inequality]]
+*''[[IQ and Global Inequality]]''
+*''[[The Global Bell Curve]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.v-weiss.de/calibration.html PISA scores transformed into IQ values in comparison with IQ estimated by Lynn and Vanhanen]
+* [http://www.ssc.uwo.ca/psychology/faculty/rushtonpdfs/L&amp;Vreview.pdf &quot;The Bigger Bell Curve: Intelligence, National Achievement, and The Global Economy&quot;], review by [[J. Philippe Rushton]]
+
+
+{{Population country lists}}
+
+{{DEFAULTSORT:Iq And The Wealth Of Nations}}
+[[Category:2002 books]]
+[[Category:Economic inequality]]
+[[Category:Economics books]]
+[[Category:Intelligence]]
+[[Category:Psychological testing]]
+[[Category:Race and intelligence controversy]]
+
+[[ar:نسبة الذكاء وثروات الشعوب]]
+[[az:IQ və millətlərin sərvəti]]
+[[es:IQ and the Wealth of Nations]]
+[[fa:ضریب هوشی و ثروت ملت‌ها (کتاب)]]
+[[fr:IQ and the Wealth of Nations]]
+[[ko:IQ와 국가의 부]]
+[[id:IQ and the Wealth of Nations]]
+[[he:איי קיו ועושר האומות]]
+[[pt:IQ and the Wealth of Nations]]
+[[ru:Коэффициент интеллекта и богатство народов]]
+[[fi:IQ and the Wealth of Nations]]
+[[sv:IQ and the Wealth of Nations]]
+[[vi:Danh sách IQ quốc gia theo ước tính của Lynn và Vanhanen (2002, 2006)]]
+[[zh:智商與國民財富]]</text>
+      <sha1>levckvpr8893syr5gglay0eeie0upb9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

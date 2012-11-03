@@ -1,0 +1,635 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hydraulic fracturing</title>
+    <ns>0</ns>
+    <id>32544339</id>
+    <revision>
+      <id>520911095</id>
+      <parentid>520911048</parentid>
+      <timestamp>2012-11-01T15:45:14Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contributions/107.1.114.141|107.1.114.141]] to version by 194.110.209.2. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1308547) (Bot)</comment>
+      <text xml:space="preserve" bytes="112371">{{redirects here|Fracking|other uses|Fracking (disambiguation)}}
+&lt;!-- 
+PLEASE ADD INFORMATION SPECIFIC TO THE US TO THE
+[[Hydraulic fracturing in the United States]] ARTICLE, OR THE 
+[[Environmental impact of hydraulic fracturing in the United States]] ARTICLE
+ --&gt;
+{{Infobox industrial process
+| name           = Hydraulic fracturing
+| image          = 
+| caption        = 
+| type           = Mechanical
+| sector         = [[Mining]]
+| technologies   = Fluid pressure
+| feedstock      = 
+| product        = [[Natural gas]]&lt;br/&gt;[[Petroleum]]
+| companies      = 
+| facility       = 
+| inventor       = Floyd Farris;  J.B. Clark ([[Stanolind Oil and Gas Corporation]])
+| year           = 1947
+| developer      = 
+}}
+
+'''Hydraulic fracturing''' is the propagation of fractures in a [[Stratum|rock layer]], as a result of the action of a pressurized fluid. Some hydraulic fractures form naturally—certain [[Vein (geology)|vein]]s or [[dike (geology)|dike]]s are examples—and can create conduits along which gas and [[petroleum]] from [[source rock]]s may migrate to [[reservoir rock]]s. '''Induced hydraulic fracturing''' or '''hydrofracking''', commonly known as '''fraccing''' or '''fracking''', is a technique used to release petroleum, [[natural gas]] (including [[shale gas]], [[tight gas]] and [[coal seam gas]]), or other substances for extraction.{{ref label|a|a|none}}&lt;ref name=&quot;Charlez&quot;/&gt;  This type of fracturing creates fractures from a [[wellbore]] drilled into reservoir rock formations. 
+
+The first use of hydraulic fracturing was in 1947 but the modern fracking technique, called horizontal slickwater fracking,&lt;ref&gt;[http://waytogoto.com/wiki/index.php/Slickwater Marcellus shale, definitions]&lt;/ref&gt; that made the extraction of shale gas economical was first used in 1998 in the [[Barnett Shale]] in Texas.&lt;ref name=&quot;Charlez&quot;/&gt;&lt;ref name=&quot;AutoZV-10&quot;/&gt;&lt;ref name=&quot;SPE-20&quot;/&gt; The energy from the injection of a highly pressurized [[fracking fluid]] creates new channels in the rock, which can increase the extraction rates and ultimate recovery of [[hydrocarbon]]s.
+
+Proponents of fracking point to the economic benefits from vast amounts of formerly inaccessible [[hydrocarbons]] the process can extract.&lt;ref name=&quot;WEO2012 Special&quot;/&gt;  Opponents point to potential [[Environment (biophysical)|environment]]al impacts, including contamination of [[ground water]], risks to [[air quality]], the migration of gases and hydraulic fracturing chemicals to the surface, surface contamination from spills and flowback and the [[health effect]]s of these.&lt;ref name=&quot;HeatOnGas&quot;/&gt; For these reasons hydraulic fracturing has come under scrutiny internationally, with some countries suspending or even banning it.&lt;ref name=&quot;Bweek 31.03.2011&quot;/&gt;&lt;ref name=&quot;Bweek 04.10.2011&quot;/&gt;
+
+{{TOC limit|3}}
+
+==Geology==
+{{main|Fracture (geology)}}
+
+===Mechanics===
+Fracturing in rocks at depth tends to be suppressed by the [[Pressure#Liquid pressure or pressure at depth|confining pressure]], due to the load caused by the overlying rock strata. This is particularly so in the case of &quot;tensile&quot; ([[Fracture#Crack separation modes|Mode 1]]) fractures, which require the walls of the fracture to move apart, working against this confining pressure. Hydraulic fracturing occurs when the [[effective stress]] is reduced sufficiently by an increase in the pressure of fluids within the rock, such that the minimum [[principal stress]] becomes tensile and exceeds the [[tensile strength]] of the material.&lt;ref name=&quot;Fjaer&quot;/&gt;&lt;ref name=&quot;Price&quot;/&gt; Fractures formed in this way will in the main be oriented in a plane perpendicular to the minimum principal stress and for this reason induced hydraulic fractures in wellbores are sometimes used to determine the orientation of stresses.&lt;ref name=&quot;Manthei&quot;/&gt; In natural examples, such as dikes or vein-filled fractures, the orientations can be used to infer past states of stress.&lt;ref name=&quot;Zoback&quot;/&gt;
+
+===Veins===
+Most vein systems are a result of repeated hydraulic fracturing during periods of relatively high pore fluid pressure. This is particularly noticeable in the case of &quot;crack-seal&quot; veins, where the vein material can be seen to have been added in a series of discrete fracturing events, with extra vein material deposited on each occasion.&lt;ref name=&quot;Laubach&quot;/&gt; One mechanism to demonstrate such examples of long-lasting repeated fracturing is the effects of seismic activity, in which the stress levels rise  and fall episodically and large volumes of fluid may be expelled from fluid-filled fractures during earthquakes. This process is referred to as &quot;seismic pumping&quot;.&lt;ref name=&quot;Sibson&quot;/&gt;
+
+===Dikes===
+High-level minor intrusions such as dikes propagate through the crust in the form of fluid-filled cracks, although in this case the fluid is [[magma]]. In sedimentary rocks with a significant water content the fluid at the propagating fracture tip will be steam.&lt;ref name=&quot;Gill&quot;/&gt;
+
+==History==
+Fracturing as a method to stimulate shallow, hard rock oil wells dates back to the 1860s. It was applied by oil producers in [[Pennsylvania]], [[New York]], [[Kentucky]], and [[West Virginia]] by using liquid and later also solidified [[nitroglycerin]]. Later, the same method was applied to water and gas wells. The idea to use acid as a nonexplosive fluid for well stimulation was introduced in the 1930s. Due to [[acid etching]], fractures would not close completely and therefore productivity was enhanced. The same phenomenon was discovered with water injection and [[squeeze cementing]] operations.&lt;ref name=&quot;Montgomery&quot;/&gt;
+
+The relationship between well performance and treatment pressures was studied by Floyd Farris of [[Stanolind Oil and Gas Corporation]]. This study became a basis of the first hydraulic fracturing experiment, which was conducted in 1947 at the [[Hugoton gas field]] in [[Grant County, Kansas|Grant County]] of southwestern [[Kansas]] by Stanolind.&lt;ref name=&quot;Charlez&quot;/&gt;&lt;ref name=&quot;Montgomery&quot;/&gt;  For the well treatment {{convert|1000|USgal}} of gelled gasoline and sand from the [[Arkansas River]] was injected into the gas-producing limestone formation at {{convert|2400|ft}}. The experiment was not very successful as deliverability of the well did not change appreciably.  The process was further described by J.B. Clark of Stanolind in his paper published in 1948. A patent on this process was issued in 1949 and an exclusive license was granted to the Halliburton Oil Well Cementing Company. On March 17, 1949, Halliburton performed the first two commercial hydraulic fracturing treatments in [[Stephens County, Oklahoma]], and [[Archer County, Texas]].&lt;ref name=&quot;Montgomery&quot;/&gt;  Since then, hydraulic fracturing has been used to stimulate approximately a million oil and gas wells.&lt;ref name=&quot;UT Study&quot;/&gt;
+
+In the [[Soviet Union]], the first hydraulic [[proppant]] fracturing was carried out in 1952. In Western Europe in 1977–1985, hydraulic fracturing was conducted at [[Rotliegend]] and [[Carboniferous]] gas-bearing sandstones in Germany, Netherlands onshore and offshore gas fields, and the United Kingdoms sector of the [[North Sea]]. Other countries in Europe and Northern Africa included Norway, the Soviet Union, Poland, Czechoslovakia, Yugoslavia, Hungary, Austria, France, Italy, Bulgaria, Romania, Turkey, Tunisia, and Algeria.&lt;ref name=Mader/&gt;
+
+Due to shale's high porosity and low permeability, technology [[research, development and demonstration]] were necessary before hydraulic fracturing could be commercially applied to shale gas deposits.  In the 1970s the United States government initiated the [[Eastern Gas Shales Project]], a set of dozens of public-private hydro-fracturing pilot demonstration projects. During the same period, the [[Gas Research Institute]], a gas industry research consortium, received approval for research and funding from the [[Federal Energy Regulatory Commission]].&lt;ref name=&quot;gri&quot;/&gt; In 1977, the [[United States Department of Energy|Department of Energy]] pioneered massive hydraulic fracturing in tight sandstone formations. In 1997, based on earlier techniques used by Union Pacific Resources, now part of [[Anadarko Petroleum Corporation]], Mitchell Energy, now part of [[Devon Energy]], developed the hydraulic fracturing technique known as &quot;slickwater fracturing&quot; that made the shale gas extraction economical.&lt;ref name=&quot;AutoZV-10&quot;/&gt;&lt;ref name=&quot;SPE-20&quot;/&gt;&lt;ref name=&quot;AutoZV-9&quot;/&gt;
+
+==Induced hydraulic fracturing==
+
+===Uses===
+The technique of hydraulic fracturing is used to increase or restore the rate at which fluids, such as petroleum, water, or natural gas can be produced from subterranean natural reservoirs. Reservoirs are typically porous [[sandstone]]s, [[limestone]]s or [[dolomite]] rocks, but also include &quot;unconventional reservoirs&quot; such as [[shale]] rock or [[coal]] beds. Hydraulic fracturing enables the production of natural gas and oil from rock formations deep below the earth's surface (generally {{convert|5000|–|20000|ft}}).  At such depth, there may not be sufficient [[Permeability (earth sciences)|permeability]] or reservoir pressure to allow natural gas and oil to flow from the rock into the wellbore at economic rates. Thus, creating conductive fractures in the rock is pivotal to extract gas from shale reservoirs because of the extremely low natural permeability of shale, which is measured in the micro[[darcy]] to nanodarcy range.&lt;ref name=&quot;AutoZV-2&quot;/&gt; Fractures provide a conductive path connecting a larger volume of the reservoir to the well. So-called &quot;super fracking&quot;, which creates cracks deeper in the rock formation to release more oil and gas, will allow companies to frack more efficiently.&lt;ref name=&quot;BW 19.01.2012&quot;/&gt;  The yield for a typical shale gas well generally falls off sharply after the first year or two.&lt;ref name=&quot;Geosoc yield&quot;/&gt; 
+
+While the main industrial use of hydraulic fracturing is in arousing production from [[Oil well|oil and gas wells]],&lt;ref name=&quot;AutoZV-3&quot;/&gt;&lt;ref name=&quot;AutoZV-4&quot;/&gt;&lt;ref name=&quot;Economides&quot;/&gt; hydraulic fracturing is also applied:
+* To stimulate groundwater wells&lt;ref name=&quot;AutoZV-6&quot;/&gt;
+* To precondition or induce rock to cave in [[mining]]&lt;ref name=&quot;AutoZV-7&quot;/&gt;
+* As a means of enhancing waste remediation processes, usually hydrocarbon waste or spills&lt;ref name=&quot;hazmat40.2&quot;/&gt;
+* To dispose of waste by injection into deep rock formations&lt;ref name=&quot;Bell&quot;/&gt;
+* As a method to measure the stress in the earth&lt;ref name=&quot;Aamodt&quot;/&gt;
+* For heat extraction to produce electricity in an [[enhanced geothermal system]]s&lt;ref name=&quot;AutoZV-8&quot;/&gt;
+* To increase injection rates for [[Carbon capture and storage#Geological storage|geologic sequestration of {{CO2}}]]&lt;ref name=&quot;Miller&quot;/&gt;
+
+===Method===
+A hydraulic fracture is formed by pumping the [[fracturing fluid]] into the wellbore at a rate sufficient to increase pressure downhole to exceed that of the fracture gradient (pressure gradient) of the rock.&lt;ref name=&quot;DOE primer&quot;/&gt; The fracture gradient is defined as the pressure increase per unit of the depth due to its density and it is usually measured in pounds per square inch per foot or bars per meter. The rock cracks and the fracture fluid continues further into the rock, extending the crack still further, and so on.  Operators typically try to maintain &quot;fracture width&quot;, or slow its decline, following treatment by introducing into the injected fluid a [[proppant]]{{spaced ndash}}a material such as grains of sand, ceramic, or other particulates, that prevent the fractures from closing when the injection is stopped and the pressure of the fluid is reduced. Consideration of proppant strengths and prevention of proppant failure becomes more important at greater depths where pressure and stresses on fractures are higher. The propped fracture is permeable enough to allow the flow of formation fluids to the well. Formation fluids include gas, oil, salt water, fresh water and fluids introduced to the formation during completion of the well during fracturing.&lt;ref name=&quot;DOE primer&quot;/&gt;
+
+During the process fracturing fluid leakoff, loss of fracturing fluid from the fracture channel into the surrounding permeable rock occurs. If not controlled properly, it can exceed 70% of the injected volume. This may result in formation matrix damage, adverse formation fluid interactions, or altered fracture geometry and thereby decreased production efficiency.&lt;ref name=&quot;Penny&quot;/&gt;
+
+The location of one or more fractures along the length of the borehole is strictly controlled by various methods that create or seal off holes in the side of the wellbore. Typically, hydraulic fracturing is performed in [[Casing (borehole)|cased]] wellbores and the zones to be fractured are accessed by [[Perforation (oil well)|perforating]] the casing at those locations.&lt;ref name=&quot;Arthur&quot;/&gt;
+
+Hydraulic-fracturing equipment used in oil and natural gas fields usually consists of a slurry blender, one or more high-pressure, high-volume fracturing pumps (typically powerful triplex or quintuplex pumps) and a monitoring unit. Associated equipment includes fracturing tanks, one or more units for storage and handling of proppant, high-pressure treating iron, a chemical additive unit (used to accurately monitor chemical addition), low-pressure flexible hoses, and many gauges and meters for flow rate, fluid density, and treating pressure.&lt;ref name=&quot;Chilingar&quot;/&gt; Fracturing equipment operates over a range of pressures and injection rates, and can reach up to {{convert|100|MPa|psi}} and {{convert|265|L/s}} (100 barrels per minute).&lt;ref name=&quot;Love&quot;/&gt;
+
+===Well types===
+A distinction can be made between conventional or low-volume hydraulic fracturing used to stimulate high-permeability reservoirs to frac a single well, and unconventional or high-volume hydraulic fracturing, used in the completion of tight gas and shale gas wells as unconventional wells are deeper and require higher pressures than conventional vertical wells.&lt;ref name=&quot;bmp&quot;/&gt; In addition to hydraulic fracturing of vertical wells, it is also performed in horizontal wells. When done in already highly permeable reservoirs such as sandstone-based wells, the technique is known as &quot;well stimulation&quot;.&lt;ref name=&quot;Economides&quot;/&gt;
+
+[[Horizontal drilling]] involves wellbores where the terminal drillhole is completed as a &quot;lateral&quot; that extends parallel with the rock layer containing the substance to be extracted. For example, laterals extend {{convert|1500|to|5000|ft}} in the Barnett Shale basin in Texas, and up to {{convert|10000|ft}} in the [[Bakken formation]] in North Dakota. In contrast, a vertical well only accesses the thickness of the rock layer, typically {{convert|50|-|300|ft}}. Horizontal drilling also reduces surface disruptions as fewer wells are required to access a given volume of reservoir rock. Drilling usually induces damage to the pore space at the wellbore wall, reducing the permeability at and near the wellbore. This reduces flow into the borehole from the surrounding rock formation, and partially seals off the borehole from the surrounding rock. Hydraulic fracturing can be used to restore permeability.&lt;ref name=&quot;Renpu&quot;/&gt;
+
+===Fracturing fluids===
+{{Main|Proppants and fracking fluids}}
+
+A proppant is a material that will keep an induced hydraulic fracture open, during or following a fracturing treatment, while the fracking fluid itself varies in composition depending on the type of fracturing used, and can be gel, foam, or slickwater-based. In addition, there may be unconventional fracking fluids. Fluids make tradeoffs in such material properties as [[viscosity]], where more viscous fluids can carry more concentrated proppant; the energy or pressure demands to maintain a certain flux pump rate ([[flow velocity]]) that will conduct the proppant appropriately; [[pH]], various [[rheology|rheological factors]], among others. In addition, fluids may be used in low-volume well stimulation of high-permeability [[sandstone]] wells (20k to 80k gallons per well) to the high-volume operations such as [[shale gas]] and [[tight gas]] that use millions of gallons of water per well.
+
+====Introduction====
+
+The two main purposes of fracturing fluid is to extend fractures and to carry [[Proppants and fracking fluids|proppant]] into the formation, the purpose of which is to stay there without damaging the formation or production of the well. Two methods of transporting the proppant in the fluid are used{{spaced ndash}}high-rate and high-[[viscosity]].  High-viscosity fracturing tends to cause large dominant fractures, while with high-rate (slickwater) fracturing causes small spread-out micro-fractures.{{citation needed|date=May 2012}}
+
+The fluid injected into the rock is typically a [[slurry]] of water, proppants, and [[List of additives for hydraulic fracturing|chemical additives]].&lt;ref&gt;{{cite web |url=https://www.law.upenn.edu/blogs/regblog/2012/08/8-narayan-guar-gum.html |title=From Food to Fracking: Guar Gum and International Regulation |author=Ram Narayan |date=August 8, 2012 |work=RegBlog |publisher=[[University of Pennsylvania Law School]] |accessdate=15 August 2012}}&lt;/ref&gt; Additionally, gels, foams, and compressed gases, including [[nitrogen]], [[carbon dioxide]] and air can be injected. Typically, of the fracturing fluid over 98–99.5% is water and sand with the chemicals accounting to about 0.5%.&lt;ref name=&quot;DOE primer&quot;/&gt;&lt;ref name=&quot;Hartnett&quot;/&gt;
+
+Hydraulic fracturing may use between {{convert|1.2|and|3.5|e6USgal}} of fluid per well, with large projects using up to {{convert|5|e6USgal}}. Additional fluid is used when wells are refractured; this may be done several times.&lt;ref name=&quot;CRO 2009&quot;/&gt;{{rp|7, 33}} Water is by far the largest component of fracking fluids. The initial drilling operation itself may consume from {{convert|6000|to|600000|USgal}} of fluids.
+
+Initially it is common to pump some amount (normally 6000 gallons or less) of [[HCl]] (usually 28%-5%), or [[acetic acid]] (usually 45%-5%), to clean the perforations or break down the near well bore and ultimately reduce pressure seen on the surface. Then the proppant is started and stepped up in concentration.
+
+====Proppants====
+
+Types of proppant include [[silica sand]], resin-coated sand, and man-made ceramics. These vary depending on the type of permeability or grain strength needed. The most commonly used proppant is silica sand, though proppants of uniform size and shape, such as a ceramic proppant, is believed to be more effective. Due to a higher porosity within the fracture, a greater amount of oil and natural gas is liberated.&lt;ref name=&quot;AutoZV-12&quot;/&gt;
+
+====Friction reducer====
+The friction reducer is usually a polymer, the purpose of which is to reduce pressure loss due to friction, thus allowing the pumps to pump at a higher rate without having greater pressure on the surface. The process does not work well at high concentrations of proppant thus more water is required to carry the same amount of proppant.  For slickwater it is common to include sweeps or a reduction in the proppant concentration temporarily to ensure the well is not overwhelmed with proppant causing a screen-off.&lt;ref name=&quot;Canada&quot;/&gt;
+
+====Gelling chemicals====
+A variety of chemicals can be used to increase the viscosity of the fracturing fluid. With any viscosity increase, some type of gelling chemical must be used first. Viscosity is used to carry proppant into the formation, but when a well is being flowed back or produced, it is undesirable to have the fluid pull the proppant out of the formation. For this reason, a chemical known as a breaker is almost always pumped with all gel or crosslinked fluids to reduce the viscosity. This chemical is usually an oxidizer or an enzyme. The oxidizer reacts with the gel to break it down, reducing the fluid's viscosity and ensuring that no proppant is pulled from the formation. An enzyme acts as a catalyst for the breaking down of the gel. Sometimes pH modifiers are used to break down the crosslink at the end of a hydraulic fracture job, since many require a pH buffer system to stay viscous.&lt;ref name=&quot;Canada&quot;/&gt;
+
+The rate of viscosity increase for several gelling agents is [[pH]]-dependent, so that occasionally pH modifiers must be added to ensure viscosity of the gel.{{citation needed|date=May 2012}} Typical fluid types are:
+*Conventional linear gels. These gels are cellulose derivatives ([[carboxymethyl cellulose]], [[hydroxyethyl cellulose]], [[carboxymethyl hydroxyethyl cellulose]], [[hydroxypropyl cellulose]], [[methyl hydroxyl ethyl cellulose]]), [[guar]] or its derivatives ([[hydroxypropyl guar]], [[carboxymethyl hydroxypropyl guar]]) based, with other chemicals providing the necessary chemistry for the desired results.
+*Borate-crosslinked fluids. These are guar-based fluids cross-linked with [[boron]] ions (from aqueous [[borax]]/[[boric acid]] solution). These gels have higher viscosity at pH&amp;nbsp;9 onwards and are used to carry proppants. After the fracturing job the pH is reduced to 3–4 so that the cross-links are broken and the gel is less viscous and can be pumped out.
+*Organometallic-crosslinked fluids [[zirconium]], [[chromium]], [[antimony]], [[titanium]] salts are known to crosslink the guar based gels. The crosslinking mechanism is not reversible. So once the proppant is pumped down along with the cross-linked gel, the fracturing part is done. The gels are broken down with appropriate breakers.&lt;ref name=&quot;CRO 2009&quot; /&gt;
+*Aluminium phosphate-ester oil gels. [[Aluminium phosphate]] and [[ester]] oils are slurried to form cross-linked gel. These are one of the first known gelling systems. They are very limited in use currently, because of formation damage and difficulty in cleanup.{{citation needed|date=May 2012}}
+
+====Other chemical additives====
+{{See also|List of additives for hydraulic fracturing}}
+[[List of additives for hydraulic fracturing|Chemical additives]] are applied to tailor the injected material to the specific geological situation, protect the well, and improve its operation, varying slightly based on the type of well. The composition of injected fluid is sometimes changed as the fracturing job proceeds. Often, acid is initially used to scour the perforations and clean up the near-wellbore area. Afterward, high-pressure fracture fluid is injected into the wellbore, with the pressure above the fracture gradient of the rock. This fracture fluid contains water-soluble gelling agents (such as guar gum) which increase viscosity and efficiently deliver the proppant into the formation.&lt;ref name=&quot;CRO 2009&quot;/&gt;  As the fracturing process proceeds, viscosity reducing agents such as [[oxidizer]]s and [[enzyme]] breakers are sometimes then added to the fracturing fluid to deactivate the gelling agents and encourage flowback.&lt;ref name=&quot;CRO 2009&quot;/&gt;  At the end of the job the well is commonly flushed with water (sometimes blended with a friction reducing chemical) under pressure. Injected fluid is to some degree recovered and is managed by several methods, such as underground injection control, treatment and discharge, recycling, or temporary storage in pits or containers while new technology is being continually being developed and improved to better handle wastewater and improve reusability.&lt;ref name=&quot;DOE primer&quot;/&gt;  Over the life of a typical gas well, up to {{convert|100000|USgal}} of chemical additives may be used.&lt;ref name=&quot;house1&quot;/&gt;
+
+===Fracture monitoring===
+Measurements of the pressure and rate during the growth of a hydraulic fracture, as well as knowing the properties of the fluid and proppant being injected into the well provides the most common and simplest method of monitoring a hydraulic fracture treatment. This data, along with knowledge of the underground geology can be used to model information such as length, width and conductivity of a propped fracture.&lt;ref name=&quot;DOE primer&quot;/&gt;
+
+Injection of [[radioactive tracer]]s, along with the other substances in hydraulic-fracturing fluid, is sometimes used to determine the injection profile and location of fractures created by hydraulic fracturing.&lt;ref name=&quot;Reis iodine&quot; /&gt; The [[radioactive tracer|radiotracer]] is chosen to have the readily detectable radiation, appropriate chemical properties, and a half life and toxicity level that will minimize initial and residual contamination to the degree possible.&lt;ref name=&quot;IAEA 2003&quot; /&gt; Radioactive isotopes chemically bonded to glass (sand) and/or resin beads may also be injected to track fractures.&lt;ref name=&quot;NRC&quot;/&gt; For example, plastic pellets coated with 10 GBq of Ag-110mm may be added to the proppant or sand may be labelled with Ir-192 so that the proppant's progress can be monitored.&lt;ref name=&quot;IAEA 2003&quot; /&gt;  Radiotracers such as Tc-99m and I-131 are also used to measure flow rates.&lt;ref name=&quot;IAEA 2003&quot; /&gt; The [[Nuclear Regulatory Commission]] publishes guidelines which list a wide range of radioactive materials in solid, liquid and gaseous forms that may be used as tracers and limit the amount that may be used per injection and per well of each radionuclide.&lt;ref name=&quot;NRC&quot;/&gt; 
+
+For more advanced applications, [[microseismic]] monitoring is sometimes used to estimate the size and orientation of hydraulically induced fractures. Microseismic activity is measured by placing an array of [[geophone]]s in a nearby wellbore. By mapping the location of any small seismic events associated with the growing hydraulic fracture, the approximate geometry of the fracture is inferred. [[Tiltmeter]] arrays, deployed on the surface or down a well, provide another technology for monitoring the strains produced by hydraulic fracturing.&lt;ref name=&quot;Oilfield Review 2005/2006&quot;/&gt;
+
+===Horizontal completions===
+Since the early 2000s, advances in [[Oil well#Drilling|drilling]] and [[Completion (oil and gas wells)|completion]] technology have made drilling horizontal wellbores much more economical. Horizontal wellbores allow for far greater exposure to a formation than a conventional vertical wellbore. This is particularly useful in shale formations which do not have sufficient permeability to produce economically with a vertical well.  Such wells when drilled onshore are now usually hydraulically fractured in a number of stages, especially in North America. The type of wellbore completion used will affect how many times the formation is fractured, and at what locations along the horizontal section of the wellbore.&lt;ref name=&quot;AutoZV-13&quot;/&gt;
+
+In North America, shale reservoirs such as the Bakken, Barnett, [[Montney Formation|Montney]], [[Haynesville Shale|Haynesville]], [[Marcellus Formation|Marcellus]], and most recently the [[Eagle Ford Formation|Eagle Ford]], [[Niobrara Formation|Niobrara]] and [[Utica Shale|Utica]] shales are drilled, completed and fractured using this method.{{Citation needed|date=December 2011}}  The method by which the fractures are placed along the wellbore is most commonly achieved by one of two methods, known as &quot;plug and perf&quot; and &quot;sliding sleeve&quot;.&lt;ref name=&quot;undeerc&quot;/&gt;
+
+The wellbore for a plug and perf job is generally composed of standard joints of steel casing, either cemented or uncemented, which is set in place at the conclusion of the drilling process. Once the drilling rig has been removed, a [[Wireline (cabling)|wireline truck]] is used to [[Perforation (oil well)|perforate]] near the end of the well, following which a fracturing job is pumped (commonly called a stage). Once the stage is finished, the wireline truck will set a plug in the well to temporarily seal off that section, and then perforate the next section of the wellbore. Another stage is then pumped, and the process is repeated as necessary along the entire length of the horizontal part of the wellbore.&lt;ref name=&quot;AutoZV-14&quot;/&gt; 
+
+The wellbore for the sliding sleeve technique is different in that the sliding sleeves are included at set spacings in the steel casing at the time it is set in place. The sliding sleeves are usually all closed at this time. When the well is ready to be fractured, using one of several activation techniques, the bottom sliding sleeve is opened and the first stage gets pumped. Once finished, the next sleeve is opened which concurrently isolates the first stage, and the process repeats. For the sliding sleeve method, wireline is usually not required.{{Citation needed|date=December 2011}}
+
+These completion techniques may allow for more than 30 stages to be pumped into the horizontal section of a single well if required, which is far more than would typically be pumped into a vertical well.&lt;ref name=&quot;mooney&quot; /&gt;
+
+==Increased recovery==
+{{see also|Shale gas}}
+Hydraulic fracturing has been seen as one key methods of extracting unconventional oil and gas resources. According to the [[International Energy Agency]], the remaining technically recoverable resources of shale gas are estimated to amount to {{convert|208|e12m3|abbr=off}}, tight gas to {{convert|76|e12m3|abbr=off}}, and coalbed methane to {{convert|47|e12m3|abbr=off}}. As a rule, formations of these resources have lower permeability than conventional gas formations and therefore, depending on the geological characteristics of the formation, specific technologies, such as hydraulic fracturing, are required. Although there are also other methods to extract these resources, such as conventional drilling or horizontal drilling, hydraulic fracturing is one of the key methods making their extraction technically viable. The multi-stage fracturing technique has facilitated shale gas and light tight oil production development in the United States and is believed to do so in the other countries with unconventional hydrocarbon resources. Significance of the extraction of unconventional hydrocarbons lies also in the fact that these resources are less concentrated than of conventional oil and gas resources.&lt;ref name=&quot;WEO2012 Special&quot;/&gt;
+
+== Environmental impact ==
+[[File:HydroFrac.png|thumb|400px|Schematic depiction of hydraulic fracturing for shale gas, showing potential [[environmental effect]]s.]]
+{{Main|Environmental impact of hydraulic fracturing}}
+{{See also|Environmental impact of hydraulic fracturing in the United States}}
+Hydraulic fracturing has raised environmental concerns and is challenging the adequacy of existing regulatory regimes.&lt;ref name=&quot;WEO2011full&quot;/&gt; These concerns have included ground water contamination, risks to air quality, migration of gases and hydraulic fracturing chemicals to the surface, mishandling of waste, and the health effects of all these.&lt;ref name=&quot;HeatOnGas&quot;/&gt;&lt;ref name=&quot;DOE primer&quot;/&gt;&lt;ref name=&quot;house1&quot;/&gt;
+
+A [[University of Texas]] study led by [[Charles G. Groat]] listed water contamination and consumption, [[Blowout (well drilling)|blowouts]], explosions, spill management, [[atmospheric]] emissions, and health effects as associated problems.&lt;ref name=&quot;UT Study&quot;/&gt; The UT study described the environmental impact of each part of the hydraulic fracturing process, which included: 
+* Drill pad construction and operation
+* Construction, integrity, and performance of the wellbores
+* Injection of the fluid once it is underground (which proponents consider the actual &quot;fracking&quot;)
+* Flowback of the fluid back towards the surface
+* Blowouts, often unreported, which spew hydraulic fracturing fluid and other byproducts across surrounding area
+* Integrity of other pipelines involved
+* Disposal of the flowback, including waste water and other waste products
+
+All ''but'' the injection stage were reported to be sources of contamination.&lt;ref name=&quot;UT Study&quot; /&gt;&lt;ref name=&quot;vancouversun&quot;/&gt;&lt;ref name=&quot;fuelfix&quot;/&gt;
+
+Because hydraulic fracturing originated in the United States,&lt;ref name=&quot;NYTUrbina30Dec2011&quot;/&gt; its history is more extensive there than in other regions. Most environmental impact studies have therefore taken place there.
+
+=== Research issues ===
+Several organizations, researchers, and media outlets have reported difficulty in conducting and reporting the results of studies on hydraulic fracturing due to industry&lt;ref name=&quot;Urbina 03Mar2011&quot; /&gt;&lt;ref name=&quot;EPA re study&quot; /&gt;&lt;ref name=&quot;Chesapeake&quot; /&gt; and governmental pressure, and expressed concern over possible censoring of environmental reports.&lt;ref name=&quot;Urbina 03Mar2011&quot; /&gt;&lt;ref name=&quot;NYT lobbying docs&quot; /&gt;&lt;ref name=&quot;NYT Docs&quot; /&gt; Researchers have recommended requiring disclosure of all hydraulic fracturing fluids, testing animals raised near fracturing sites, and closer monitoring of environmental samples.&lt;ref name=&quot;Cornellvet03092012&quot; /&gt; After court cases concerning contamination from hydraulic fracturing are settled, the documents are sealed. The [[American Petroleum Institute]] deny that this practice has hidden problems with gas drilling, while others believe it has and could lead to unnecessary risks to public safety and health.&lt;ref name=&quot;Urbina 03Aug2011&quot; /&gt;
+
+One ''[[The New York Times|New York Times]]'' report claimed that the results of a 2004 [[United States Environmental Protection Agency]] (EPA) study were censored due to political pressure.&lt;ref name=&quot;Urbina 03Mar2011&quot; /&gt; An early draft of the study had discussed the possibility of environmental threats due to fracking, but the final report omitted this.&lt;ref name=&quot;Urbina 03Mar2011&quot; /&gt; The study's scope had been narrowed so that it only focused on the injection of fracking fluids, while omitting other aspects of the process.&lt;ref name=&quot;EPA 2004&quot; /&gt; The 2012 EPA Hydraulic Fracturing Draft Plan was also narrowed thusly.&lt;ref name=&quot;EPA re study&quot; /&gt;&lt;ref name=&quot;NYT lobbying docs&quot; /&gt;&lt;ref name=&quot;Bloomberg 11.01.2012&quot; /&gt;&lt;ref name=&quot;BW 04Jan2012&quot; /&gt;
+
+=== Air ===
+{{see also|Environmental impact of hydraulic fracturing in the United States#Air emissions}}
+The air emissions from hydraulic fracking are related to [[methane]] leaks originating from wells, and emissions from the diesel or natural gas powered equipment such as compressors, drilling rigs, pumps etc.&lt;ref name=&quot;DOE primer&quot;/&gt;
+
+Shale gas produced by hydraulic fracturing causes higher well-to-burner emissions than conventional gas.  This is mainly due to the gas released during completing wells as some gas returns to the surface, together with the fracturing fluids. Depending on their treatment, the well-to-burner emissions are 3.5%–12% higher than for conventional gas.&lt;ref name=&quot;WEO2011full&quot; /&gt; According to a study conducted by professor [[Robert W. Howarth]] ''et al.'' of [[Cornell University]], &quot;3.6% to 7.9% of the methane from shale-gas production escapes to the atmosphere in venting and leaks over the lifetime of a well.&quot; The study claims that this represents a 30–100% increase over conventional gas production.&lt;ref name=&quot;howarth&quot; /&gt; Methane gradually breaks down in the atmosphere, forming carbon [[dioxide]], which contributes to greenhouse gasses more than coal or oil for timescales of less than fifty years.&lt;ref name=&quot;howarth&quot; /&gt;&lt;ref name=&quot;howarth2&quot; /&gt; Howarth's colleagues at Cornell and others have criticized the study's design,&lt;ref name=Cathles /&gt;&lt;ref name=ipsnewsShale /&gt; however several other studies have also found higher emissions from shale-gas production than from conventional gas production.&lt;ref name=Skone /&gt;&lt;ref name=Jiang /&gt;&lt;ref name=Hultman /&gt;&lt;ref name=Lashof /&gt; Howarth et al. have responded, &quot;The latest EPA estimate for methane emissions from shale gas falls within the range of our estimates but not those of Cathles et al, which are substantially lower.&quot;&lt;ref name=Howarth3 /&gt;
+
+In 2008, concentrations near drilling sites in [[Sublette County, Wyoming]] were frequently above the [[National Ambient Air Quality Standards]] (NAAQS),&lt;ref name=tribOzoneWyoming /&gt; though a 2011 study for the city of [[Fort Worth, Texas]] &quot;did not reveal any significant health threats&quot; traceable to fracking.&lt;ref name=fortworthtexas /&gt;&lt;ref name=starFortWorthNoThreats /&gt;
+
+In some areas, elevated air levels of harmful substances have coincided with elevated reports of health problems among the local populations. In [[DISH, Texas]], elevated substance levels were detected and traced to fracking compressor stations,&lt;ref name=&quot;DISH TX SciAm&quot; /&gt; and people living near shale gas drilling sites complained of health problems;&lt;ref name=&quot;DISH TX EHP&quot; /&gt; though a causal relationship to fracking was not established.&lt;ref name=&quot;DISH TX EHP&quot; /&gt;
+
+The EPA has proposed new regulations for controlling emissions from upstream oil and gas operations. These regulations would reduce emissions from aspects of the oil and gas production process including completions and various fugitive emissions. The regulations are scheduled to go into effect on April 17, 2012. However, the industry has requested a delay in implementation.&lt;ref name=&quot;EPA standards&quot;/&gt;
+
+=== Water ===
+
+==== Consumption ====
+The large volumes of water required have raised concerns about fracking in arid areas, such as Karoo in South Africa.&lt;ref name=&quot;NYTUrbina30Dec2011&quot;/&gt;  During periods of low stream flow it may affect [[Water supply network|water supplies]] for municipalities and industries such as [[power generation]], as well as recreation and [[aquatic life]]. It may also require water overland piping from distant sources.&lt;ref name=&quot;ALL-Marcellus&quot;/&gt; An average well requires {{convert|3|to|8|e6USgal|m3}} of water, typically within one week.&lt;ref name=&quot;DOE primer&quot;/&gt;&lt;ref name=&quot;ALL-Marcellus&quot;/&gt;&lt;ref name=&quot;Penn State Water&quot; /&gt;&lt;ref name=&quot;US Geological Survey&quot; /&gt; Some Marcellus wells may require restimulation frac jobs several times over a period of five to 20 years.&lt;ref name=&quot;Penn State Water&quot; /&gt; Using the case of the Marcellus Shale as an example, as of 2008 fracking accounted for {{convert|650|e6USgal/a|m3/a}} or less than 0.8% of annual water use in the area overlying the Marcellus Shale.&lt;ref name=&quot;ALL-Marcellus&quot;/&gt;&lt;ref name=&quot;water resources&quot; /&gt; The annual number of well permits, however, increased by a factor of five&lt;ref name=&quot;PA Permits&quot; /&gt; and the number of well starts increased by a factor of over 17&lt;ref name=&quot;PA Starts&quot; /&gt; from 2008 to 2011. According to the [[Oxford Institute for Energy Studies]], greater volumes of fracturing fluids are required in Europe, where the shale depths average 1.5 times greater than in the U.S.&lt;ref name=&quot;shale Europe&quot; /&gt; To minimize water consumption, recycling is one possible option.&lt;ref name=&quot;WEO2011full&quot;/&gt;
+
+====Injected fluid====
+{{See also|List of additives for hydraulic fracturing}}
+There are concerns about possible contamination by hydraulic fracturing fluid both as it is injected under high pressure into the ground and as it returns to the surface.&lt;ref name=&quot;NYT Waste Docs 26Feb2011&quot; /&gt; To mitigate the impact of hydraulic fracturing to groundwater the well and ideally the shale formation itself should remain hydraulically isolated from other geological formations, especially freshwater aquifers.&lt;ref name=&quot;WEO2011full&quot;/&gt;  In the United States hydraulic fracturing areas at least 36 cases of groundwater contamination due to hydraulic fracturing have been suspected and in several cases EPA has determined that hydraulic fracturing was likely the source of the contamination.&lt;ref name=&quot;Urbina 03Aug2011&quot;/&gt;&lt;ref name=&quot;AutoZV-21&quot;/&gt;&lt;ref name=&quot;AutoZV-22&quot;/&gt;&lt;ref name=&quot;Phillips 2011&quot; /&gt;&lt;ref name=&quot;EPA Dimock letter 2012&quot; /&gt;&lt;ref name=&quot;EPA Pavillion Dec2011&quot; /&gt;
+
+While some of the [[List of additives for hydraulic fracturing|chemicals used in hydraulic fracturing]] are common and generally harmless, some are known [[carcinogens]] or toxic.&lt;ref name=&quot;house1&quot;/&gt;  The most common chemical used for hydraulic fracturing in the United States in 2005–2009 was [[methanol]], while some other most widely used chemicals were [[isopropyl alcohol]], [[2-butoxyethanol]], and [[ethylene glycol]].&lt;ref name=&quot;house1&quot;/&gt; The 2011 US House of Representatives investigative report on the chemicals used in hydraulic fracturing states that out of 2,500 hydraulic fracturing products, &quot;more than 650 of these products contained chemicals that are known or possible human [[carcinogens]], regulated under the Safe Drinking Water Act, or listed as hazardous air pollutants&quot;.&lt;ref name=&quot;house1&quot;/&gt; The report also shows that between 2005 and 2009, 279 products had at least one component listed as &quot;proprietary&quot; or &quot;trade secret&quot; on their Occupational Safety and Health Administration (OSHA) required Material Safety Data Sheet (MSDS). The MSDS is a list of chemical components in the products of chemical manufacturers, and according to OSHA, a manufacturer may withhold information designated as &quot;proprietary&quot; from this sheet. When asked to reveal the proprietary components, most companies participating in the investigation were unable to do so, leading the committee to surmise these &quot;companies are injecting fluids containing unknown chemicals about which they may have limited understanding of the potential risks posed to human health and the environment&quot; (12).&lt;ref name=&quot;house1&quot;/&gt;
+
+Without knowing the identity of the proprietary components, regulators cannot test for their presence. This prevents government regulators from establishing baseline levels of the substances prior to hydraulic fracturing and documenting changes in these levels, thereby making it more difficult to prove that hydraulic fracturing is contaminating the environment with these substances.&lt;ref name=&quot;AutoZV-16&quot;/&gt;
+
+Another 2011 study identified 632&amp;nbsp;chemicals used in natural gas operations. Only 353 of these are well-described in the scientific literature; and of these, more than 75% could affect skin, eyes, respiratory and gastrointestinal systems; roughly 40-50% could affect the brain and nervous, immune and cardiovascular systems and the kidneys; 37% could affect the endocrine system; and 25% were carcinogens and mutagens. The study indicated possible long-term health effects that might not appear immediately. The study recommended full disclosure of all products used, along with extensive air and water monitoring near natural gas operations; it also recommended that fracking's exemption from regulation under the US Safe Drinking Water Act be rescinded.&lt;ref name=&quot;AEHS 2011&quot;/&gt;
+
+====Flowback====
+As the fracturing fluid flows back through the well, it consists of spent fluids and may contain dissolved constituents such as minerals and [[brine water]]s. It may account for about 30–70% of the original fracture fluid volume. In addition, natural [[formation water]]s may flow to the well and need treatment. These fluids, commonly known as flowback, [[produced water]], or wastewater, are managed by [[Injection well#Waste disposal|underground injection]], [[Industrial wastewater treatment|wastewater treatment]] and discharge, or recycling to fracture future wells.&lt;ref name=Arthur2/&gt; Treatment of produced waters may be feasible through either self-contained systems at well sites or fields or through [[sewage treatment|municipal waste water treatment plants]] or commercial treatment facilities.&lt;ref name=Arthur2/&gt; However, the quantity of waste water needing treatment and the improper configuration of sewage plants have become an issue in some regions of the United States. Much of the wastewater from hydraulic fracturing operations is processed by public sewage treatment plants, which are not equipped to remove radioactive material and are not required to test for it.&lt;ref name=&quot;Neshaminy 2009&quot;/&gt;
+
+==== Methane ====
+Groundwater methane contamination is also a concern as it has adverse impact on water quality and in extreme cases may lead to potential explosion.&lt;ref name=&quot;Duke study 2010&quot;/&gt;&lt;ref name=&quot;Urbina 26Feb2011&quot;/&gt; In 2006, over {{convert|7|e6cuft|m3}} of methane were released from a blown gas well in [[Clark, Wyoming]] and shallow groundwater was found to be contaminated.&lt;ref name=&quot;AutoZV-23&quot;/&gt;   However, methane contamination is not always caused by fracking. Drilling for ordinary drinking water wells can also cause methane release. Some studies make use of tests that can distinguish between the deep [[thermogenic]] methane released during gas/oil drilling, and the shallower [[biogenic]] methane that can be released during water-well drilling. While both forms of methane result from decomposition, thermogenic methane results from [[geothermal]] assistance deeper underground.&lt;ref name=molofsky/&gt;&lt;ref name=&quot;AutoZV-32&quot;/&gt;
+
+According to the 2011 study of the [[MIT Energy Initiative]], &quot;there is evidence of natural gas (methane) migration into freshwater zones in some areas, most likely as a result of substandard well completion practices by a few operators.&quot;&lt;ref name=&quot;AutoZV-33&quot;/&gt; 2011 studies by the [[Colorado School of Public Health]] and [[Duke University]] also pointed to methane contamination stemming from fracking or its surrounding process.&lt;ref name=&quot;Duke study 2010&quot;/&gt;&lt;ref name=&quot;AutoZV-32&quot;/&gt; A study by Cabot Oil and Gas examined the Duke study using a larger sample size, found that methane concentrations were related to topography, with the highest readings found in low-lying areas, rather than related to distance from gas production areas. Using a more precise isotopic analysis, they showed that the methane found in the water wells came from both the Marcellus Shale (Middle Devonian) where hydraulic fracturing occurred, and from the shallower Upper Devonian formations.&lt;ref name=molofsky/&gt;
+
+==== Radioactivity ====
+{{see also|Radionuclides associated with hydraulic fracturing}}
+Hydraulic fracturing fluid might release heavy metals and radioactive materials from the deposit which may reflow to the surface by the flowback.&lt;ref name=&quot;NYT Waste Docs 26Feb2011&quot; /&gt;&lt;ref name=stevens/&gt;&lt;ref name=&quot;Urbina 07Apr2011&quot; /&gt;&lt;ref name=&quot;Bucks Co Water&quot; /&gt;  Concerns have been expressed that [[radioactive tracer]]s may return to the surface with flowback and during blow outs.&lt;ref name=&quot;New Brunswick&quot; /&gt;&lt;ref name=&quot;NYSERDA&quot; /&gt; ''The New York Times'' has reported radium and gross alpha radiation in wastewater from natural gas wells,&lt;ref name=&quot;TimesMap&quot; /&gt;  which releases into [[Pennsylvania]] rivers,&lt;ref name=&quot;Urbina 26Feb2011&quot; /&gt; compiled a map of these wells and their wastewater contamination levels,&lt;ref name=&quot;TimesMap&quot; /&gt; and stated that some EPA reports were never made public. They did not measure beta or gamma radiation. The ''Times''' reporting on the issue has come under some criticism.&lt;ref name=&quot;NYT letters 05Mar2011&quot; /&gt;&lt;ref name=&quot;Petit 02Mar2011&quot; /&gt; Recycling the wastewater has been proposed as a solution but has its limitations.&lt;ref name=&quot;Urbina 01Mar2011&quot; /&gt;
+
+The EPA has asked the [[Pennsylvania Department of Environmental Protection]] to require community water systems in certain locations, and centralized wastewater treatment facilities to conduct testing for radionuclides.&lt;ref name=&quot;Urbina 07Mar2011&quot; /&gt;&lt;ref name=&quot;EPA letter to PADEP&quot; /&gt; Safe drinking water standards have not yet been established to account for possible substances or radioactivity levels known to be in hydraulic fracturing waste water,&lt;ref name=&quot;Urbina 26Feb2011&quot;/&gt; and although water suppliers are required to inform citizens of radon and other radionuclides levels in their water,&lt;ref name=&quot;EPA nuclides&quot;/&gt; this doesn't always happen.&lt;ref name=&quot;Carbon County&quot;/&gt;
+
+=== Seismicity ===
+Hydraulic fracturing causes [[induced seismicity]] called microseismic events or [[microearthquake]]s.  
+The [[United States Geological Survey]] (USGS) reports that earthquakes induced by human measures, including hydraulic fracturing and hydraulic fracturing waste disposal wells, have been documented in several locations.&lt;ref name=&quot;AutoZV-36&quot;/&gt; The magnitude of these events is usually too small to be detected at the surface, although the biggest micro-earthquakes may have the magnitude of about -1.6&amp;nbsp;[[Moment magnitude scale|(M&lt;sub&gt;w&lt;/sub&gt;)]].&lt;ref name=worldwatch/&gt; Although the magnitudes of these quakes has been small, the U.S. Geological Survey says that there is no guarantee that larger quakes will not occur. There are also concerns that even small quakes may damage underground gas, oil, and water lines and wells that were not designed to withstand earthquakes, resulting in water contamination or explosions.&lt;ref name=&quot;Texas08072012&quot; /&gt;
+
+A British Columbia Oil and Gas Commission investigation concluded that a series of 38 earthquakes (magnitudes ranging from 2.2 to 3.8 on the [[Richter scale]]) occurring in the Horn River Basin area between 2009 and 2011 were caused by fluid injection during hydraulic fracturing in proximity to pre-existing faults.&lt;ref name=&quot;CBC News 09062012&quot; /&gt; A report in the UK also concluded that fracking was the likely cause of some small tremors that occurred during shale gas drilling.&lt;ref name=&quot;BBC 08.06.2012&quot;/&gt;&lt;ref name=&quot;AutoZV-34&quot;/&gt;&lt;ref name=&quot;AutoZV-35&quot;/&gt; 
+
+The injection of waste water from gas operations, including from hydraulic fracturing, into saltwater disposal wells may cause bigger low-magnitude [[earthquake|tremor]]s, being registered up to 3.3&amp;nbsp;(M&lt;sub&gt;w&lt;/sub&gt;).&lt;ref name=worldwatch/&gt; Several additional earthquakes occurring throughout 2011, including a [[Richter magnitude scale|4.0 magnitude]] quake on New Year's Eve that hit [[Youngstown, Ohio]], are likely linked to a disposal of hydraulic fracturing wastewater, according to seismologists at [[Columbia University]].&lt;ref name=&quot;AutoZV-37&quot;/&gt; A similar series of small earthquakes occurred in 2012 in Texas. Earthquakes are not common occurrences in either area. Disposal and injection wells are regulated under the [[Safe Drinking Water Act]] and UIC laws.&lt;ref name=&quot;Underground Injection&quot;/&gt;
+
+==Health impact==
+Chemical contaminants in the air and water of communities near oil and gas development sites, and disproportionately high numbers of adverse health effects have been documented in children and adults  in the rural communities affected by the Shale extraction process in central New York and Pennsylvania. The study, conducted between August 2011 and July 2012, was part of [[Earthworks]]’ Oil &amp; Gas Accountability Project (OGAP)&lt;ref name=&quot;IPS 10212012&quot; /&gt;
+
+As of May 2012, the US [[Institute of Medicine]] and US [[United States National Research Council|National Research Council]] were preparing to review the potential human and environmental risks of hydraulic fracturing.&lt;ref name=&quot;Research Council study&quot; /&gt;&lt;ref name=&quot;Research Council study2&quot; /&gt;
+
+===NIOSH 2011 Study on Silica Exposure to Workers===
+Large quantities of [[silica]] sand are used during hydraulic fracturing. Sand is delivered via truck and then loaded into sand movers, where it is subsequently transferred via conveyor belt and blended with other hydraulic fracturing fluids prior to high pressure injection into the drilling hole.  Transporting, moving, and refilling silica sand into and through sand movers, along transfer belts, and into blender hoppers can release dusts containing silica into the air.&lt;ref name=&quot;OSHA hazard&quot; /&gt; Workers can be exposed if they breathe the dust into their lungs.  By breathing in silica, workers are at risk for developing [[silicosis]].&lt;ref name=&quot;Forbes silica 2012&quot; /&gt;&lt;ref name=&quot;NIOSH study&quot; /&gt; The [[National Institute for Occupational Safety and Health]] (NIOSH) released information in May 2012, detailing their research in silica exposures to hydraulic fracturing workers.&lt;ref name=&quot;NIOSH study&quot; /&gt;  In cooperation with oil and gas industry partners, NIOSH collected 116 full shift air samples at 11 hydraulic fracturing sites in five states (Arkansas, Colorado, North Dakota, Pennsylvania, and Texas) to determine the levels of worker exposure to silica at various jobs at the worksites. Many air samples showed silica levels for workers in and around the dust generation points above defined occupational exposure limits.&lt;ref name=&quot;Forbes silica 2012&quot; /&gt;&lt;ref name=&quot;NIOSH study&quot; /&gt;
+
+Of the 116 samples collected:
+* 47% showed silica exposures greater than the calculated OSHA PEL.
+* 79% showed silica exposures greater than the NIOSH REL of 0.05 milligrams per cubic meter (mg/m3).
+* 9% of all samples showed silica exposures 10 or more times the PEL, with one sample more than 25 times the PEL.
+* 31% of all samples showed silica exposures 10 or more times the REL, with one sample more than 100 times the REL.&lt;ref name=&quot;Forbes silica 2012&quot; /&gt;&lt;ref name=&quot;NIOSH study&quot; /&gt;
+
+===Ways to Control Silica Exposure===
+According to a co-branded Hazard Alert from the [[Occupational Safety and Health Administration]] (OSHA) and the [[National Institute for Occupational Safety and Health]] (NIOSH), it is important to control dust exposures to lower worker exposure to safe silica levels.&lt;ref name=&quot;OSHA hazard&quot; /&gt;  Engineering controls and work practices provide the best protection for workers and must be implemented first, before respiratory protection is used (i.e. [[Hierarchy of hazard control|Hierarchy of Hazard Control]]).&lt;ref name=&quot;OSHA hazard&quot; /&gt; These include: 
+* Limit the number of workers, and the time workers must spend in areas where dust and silica levels may be elevated, and consider ways to perform dusty operations remotely to completely remove employees from these areas.
+* Apply fresh water to roads and around the well site to reduce the dust.
+* Enclose points where dust is released.
+* Use enclosed cabs or booths with HEPA filtration and climate controls.
+* Provide respiratory protection when it is needed.&lt;ref name=&quot;OSHA hazard&quot; /&gt;
+
+==Politics and public policy==
+{{POV|date=August 2012}}
+To control the hydraulic fracturing industry, some governments are developing legislation and some municipalities are developing local zoning limitations.&lt;ref&gt;Nolon, John R. and Polidoro, Victoria, [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2066780 Hydrofracking: Disturbances Both Geological and Political: Who Decides?] (2012). 44 Urb. Law. 507 (2012).&lt;/ref&gt; In 2011, France became the first nation to ban hydraulic fracturing.&lt;ref name=&quot;Bweek 31.03.2011&quot;/&gt;&lt;ref name=&quot;Bweek 04.10.2011&quot;/&gt; Other countries have placed a temporary moratorium on the practice.&lt;ref&gt;[http://www.thenation.com/article/169893/new-yorks-fractivists-keep-heat-cuomo# The Nation] Moratorium in the USA&lt;/ref&gt; The US has the longest history with hydraulic fracturing, so its approaches to hydraulic fracturing may be modeled by other countries.&lt;ref name=&quot;NYTUrbina30Dec2011&quot; /&gt; 
+
+In the public argument over &quot;fracking&quot;, there is some divergence in the use of the word &quot;fracking&quot;. In the University of Texas Austin study led by [[Charles G. Groat]], the term &quot;fracking&quot; was narrowly defined as ''only'' referring to the injection of fluid under pressure to create pathways. The study's definition excluded the impact of equipment failure, the nature of the fluids themselves, the preparations prior to injection, and procedures and events following the injection.&lt;ref name=&quot;UT Study&quot; /&gt; Others, including the U.S. Environmental Protection Agency, hold &quot;fracking&quot; to mean the entire process of resource extraction, specifically of gas in shale (which the UT study called the &quot;lifecycle of shale extraction&quot;), starting with building the well pads through recovering the gas, and dealing with the wastewater.&lt;ref name=&quot;Phillips 2011&quot; /&gt; This differing usage allows newspapers such as the ''Vancouver Sun'' to state that fracking has never contaminated groundwater,&lt;ref name=&quot;vancouversun&quot;/&gt;&lt;ref name=&quot;fuelfix&quot;/&gt; while ''The New York Times'' reports that it likely has.&lt;ref name=&quot;Urbina 03Aug2011&quot; /&gt;&lt;ref name=&quot;Phillips 2011&quot; /&gt;
+
+Josh Fox's 2010 film ''[[Gasland]]'' became a center of opposition to hydrofracking of shale. The movie presented problems with ground water contamination near well sites in Pennsylvania, Wyoming, and Colorado.&lt;ref name=&quot;AutoZV-25&quot;/&gt; ''Energy in Depth'', an oil and gas industry group, called the film's facts into question.&lt;ref name=indepth/&gt; In response, a detailed rebuttal of the claims of inaccuracy was posted on ''Gasland's'' website.&lt;ref name=&quot;AutoZV-27&quot;/&gt; 
+
+The considerable opposition against fracking activities in local townships has led companies to adopt a variety of public relations measures to assuage fears about fracking, including the admitted use of &quot;mil­i­tary tac­tics to counter drilling oppo­nents&quot;. At a conference where public relations measures were discussed, a senior executive at [[Anadarko Petroleum]] was recorded on tape saying, &quot;Download the US Army / Marine Corps Counterinsurgency Manual, because we are dealing with an insurgency&quot;, while referring to fracking opponents. Matt Pitzarella, spokesman for the most important fracking company in Pennsylvania, [[Range Resources]], also told other conference attendees that Range employed [[psychological warfare]] operations veterans. According to Pitzarella, the experience learned in the Middle East has been valuable to Range Resources in Pennsylvania, when dealing with emotionally charged township meetings and advising townships on zoning and local ordinances dealing with fracking.&lt;ref name=&quot;psyops&quot;/&gt;&lt;ref name=&quot;AutoZV-38&quot;/&gt;
+
+==See also==
+*[[Directional drilling]]
+*[[Environmental concerns with electricity generation]]
+*[[Environmental impact of petroleum]]
+*[[Environmental impact of the oil shale industry]]
+*[[ExxonMobil Electrofrac]]
+*[[Hydraulic fracturing by country]]
+*[[Hydraulic fracturing in the United States]]
+*[[Natural gas]]
+*[[Shale gas]]
+
+==Notes==
+:a. {{note label|a|a|none}} Also spelled &quot;fraccing&quot;&lt;ref name=&quot;AutoZV-39&quot;/&gt; or &quot;fracing&quot;.&lt;ref name=&quot;AutoZV-40&quot;/&gt;&lt;ref name=&quot;AutoZV-41&quot;/&gt;
+
+==References==
+{{reflist|30em|refs=
+&lt;ref name=&quot;Charlez&quot;&gt;{{cite book |last=Charlez |first=Philippe A. |year=1997 |title=Rock Mechanics: Petroleum Applications |location=Paris |publisher=Editions Technip |url =http://books.google.com/books?id=NigwG_BYRsYC&amp;pg=PA239| page = 239| accessdate = 2012-05-14}}&lt;/ref&gt;
+
+&lt;ref name=&quot;shale Europe&quot;&gt;{{cite web |last= Faucon |first= Benoît |date= 17 September 2012 |title= Shale-Gas Boom Hits Eastern Europe |url= http://online.wsj.com/article/SB10000872396390443866404577565244220252020.html |publisher= [[WSJ.com]] |accessdate= 17 September 2012 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Research Council study2&quot;&gt;{{Cite news |first1=Jenny |last1=Hopkinson |first2= Bridget |last2=DiCosmo | url=http://insideepa.com/201205152398901/EPA-Daily-News/Daily-News/academies-nrc-seeks-broad-review-of-currently-ignored-fracking-risks/menu-id-95.html |title=Academies' NRC Seeks Broad Review Of Currently Ignored Fracking Risks |date=15 May 2012 |newspaper = InsideEPA |publisher= [[Inside Washington Publishers]] |accessdate=2012-05-19|id={{required subscription}}}}&lt;/ref&gt;
+
+&lt;ref name=&quot;CBC News 09062012&quot; &gt;{{Cite news |author=Staff |url=http://www.cbc.ca/news/canada/british-columbia/story/2012/09/06/bc-fracking-earthquakes.html |title=Fracking causes minor earthquakes, B.C. regulator says |date=6 September 2012 |newspaper = [[The Canadian Press]] |publisher= Canadian Broadcast Company - British Columbia |accessdate=2012-10-28|id=}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Research Council study&quot;&gt;{{Cite web |last=Mall |first=Amy |url=http://switchboard.nrdc.org/blogs/amall/concerns_about_the_health_risk.html |title=Concerns about the health risks of fracking continue to grow |date=16 May 2012 |work=Switchboard: NRDC Staff Blog |publisher=[[Natural Resources Defense Council]] |accessdate=2012-05-19}}&lt;/ref&gt;
+
+&lt;ref name=&quot;PA Starts&quot;&gt;{{Cite web |author=Staff |url=http://www.eia.gov/todayinenergy/detail.cfm?id=6390|title=Horizontal drilling boosts Pennsylvania’s natural gas production|date=23 May 2012 |publisher=[[US Energy Information Administration]] |accessdate=2012-09-16}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Texas08072012&quot;&gt;{{Cite web |author=Rachel Maddon |url=http://www.youtube.com/watch?v=NObDOHv_-S0|title=Rachel Maddon Show: Fracking waste messes with Texas [NBC 8-07-2012] |date=7 August 2012 |publisher=[[MSNBC]] |accessdate=2012-09-30}}&lt;/ref&gt;
+
+&lt;ref name=&quot;CRO 2009&quot;&gt;{{cite book |url=http://www.fas.org/sgp/crs/misc/R40894.pdf |title=Unconventional Gas Shales: Development, Technology, and Policy Issues |author=Anthony Andrews et al. |date=30 October 2009 |publisher=Congressional Research Service |accessdate=22 February 2012|format = PDF | page = ?}}&lt;/ref&gt;
+
+&lt;ref name=&quot;New Brunswick&quot;&gt;{{cite document |url=http://www.penobsquis.ca/wp-content/uploads/2011/07/fracspillfirst101.pdf |title=letter filed with Department of Environment, New Brunswick, CA |author=Dina Murphy and Larry Huskins |quote=enginerr who works with this radioactive material for living is exposed to less radiation than an individual who smokes 1.5 packs of cigarettes a day.&quot; |date=8 Sept 2006 |publisher=Penobsquis, CA government |accessdate=29 July 2012|format = PDF | page = ?}}&lt;/ref&gt;
+
+&lt;ref name=&quot;New Brunswick&quot;&gt;{{cite document |url=http://www.penobsquis.ca/wp-content/uploads/2011/07/fracspillfirst101.pdf |title=letter filed with Department of Environment, New Brunswick, CA |author=Dina Murphy and Larry Huskins |quote=enginerr who works with this radioactive material for living is exposed to less radiation than an individual who smokes 1.5 packs of cigarettes a day.&quot; |date=8 Sept 2006 |publisher=Penobsquis, CA government |accessdate=29 July 2012|format = PDF | page = ?}}&lt;/ref&gt;
+
+&lt;ref name=&quot;OSHA hazard&quot;&gt;{{cite document |url=http://www.osha.gov/dts/hazardalerts/hydraulic_frac_hazard_alert.html |title=OSHA/NIOSH Hazard Alert. Worker Exposure to Silica during Hydraulic Fracturing |author=OSHA/NIOSH |date=2012 |publisher=United States Department of Labor, Occupational Safety and Health Administration|accessdate=08 September 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;NYSERDA&quot;&gt;{{cite report |url=http://www.nyserda.ny.gov/en/Publications/NYSERDA-General-Reports/~/media/Files/Publications/NYSERDA/ng/icf-task-1.ashx |title=Technical Assistance for the Draft Supplemental Generic EIS: Oil, Gas and Solution Mining Regulatory Program Well Permit Issuance for Horizontal Drilling and High-Volume Hydraulic Fracturing to Develop the Marcellus Shale and Other Low Permeability Gas Reservoirs |author=ICF Incorporated |quote=Radioactive tracers can be detected with wireline gamma-logging equipment in the wellbore, but their use poses additional environmental and safety concerns. |date= 8 September 2006 |publisher=[[New York State Energy Research and Development Authority|NYSERDA]] |accessdate=7 August 2009 |format = PDF | page = 6}}&lt;/ref&gt;
+
+&lt;ref name=&quot;US Geological Survey&quot;&gt;{{cite report |url=http://ar.water.usgs.gov/Fayetteville_Shale/abstracts.pdf |title=Modeling the Effects of Non-Riparian Surface Water Diversions on Flow Conditions in the Little Red Watershed |last=Cothren |first=Jackson |quote=...each well requires between 3 and 7 million gallons of water for hydraulic fracturing and the number of wells is expected to grow in the future |publisher=U. S. Geological Survey, Arkansas Water Science Center Arkansas Water Resources Center, American Water Resources Association, Arkansas State Section Fayetteville Shale Symposium 2012 |accessdate=16 September 2012 |format = PDF | page = 12}}&lt;/ref&gt;
+
+&lt;ref name=&quot;IAEA 2003&quot;&gt;{{cite report |url=http://www-pub.iaea.org/MTCD/publications/PDF/Pub1171_web.pdf|title=Radiation Protection and the Management of Radioactive Waste in the Oil and Gas Industry |date=2003 |publisher=International Atomic Energy Agency |accessdate=20 May 2012|format = PDF | pages = 39-40 |quote=Beta emitters including H-3 and C-14 may be used when it is feasible to use sampling techniques to detect the presence of the radiotracer or when changes in activity concentration can be used as indicators of the properties of interest in the system. Gamma emitters, such as Sc-46, La-140, Mn-56, Na-24, Sb-124, Ir-192, Tc-m, I-131, Ag-m, Ar-41, and Xe-133 are used extensively because of the ease with which they can be identified and measured ... In order to aid the detection of any spillage of solutions of the 'soft' beta emitters, they are sometimes spiked with a short half-life gamma emitter such as Br-82}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bucks Co Water&quot;&gt;{{cite press release|url=http://www.bcwsa.net/for-the-public/press-releases/3-press-releases/192-iodine-131-found-in-philadelphias-drinking-water.html |title=Iodine 131 Found in Philadelphia's Drinking Water |publisher=Bucks County Water &amp; Sewer Authority |date=12 April 2011 |accessdate=11 May 2012|quote=In response to these results, PWD is working with the EPA and DEP and taking the following actions: Developing a Joint PADEP, EPA, PWD Action Plan for all Radionuclides; Initiating a focused sampling program for Iodine; Developing an aggressive track down program with EPA and DEP to identify the potential sources of Iodine 131 in our source waters.}}&lt;/ref&gt;
+
+&lt;ref name=&quot;EPA Dimock letter 2012&quot;&gt;{{cite report|url=http://www.epaosc.org/sites/7555/files/dimock-action-memo-01-19-12%5B1%5D.pdf |author=Fetzer, Richard M. |date=19 January 2012 |title=Action Memorandum - Request for funding for a Removal Action at the Dimock Residential Groundwater Site|accessdate=27 May 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;EPA Pavillion Dec2011&quot;&gt;{{cite report|title=Investigation of Ground Water Contamination near Pavillion, Wyoming. Draft |first1=Dominic C. |last1=DiGiulio |first2= Richard T. |last2=Wilkin |first3= Carlyle |last3= Miller | first4=Gregory |last4 = Oberley |publisher = [[United States Environmental Protection Agency|EPA]] |url=http://www.epa.gov/region8/superfund/wy/pavillion/EPA_ReportOnPavillion_Dec-8-2011.pdf | month = December | year = 2011 | format = PDF |accessdate=23 March 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Phillips 2011&quot;&gt;{{cite web |url=http://stateimpact.npr.org/pennsylvania/2011/12/08/epa-blames-fracking-for-wyoming-groundwater-contamination/ |title=EPA Blames Fracking for Wyoming Groundwater Contamination |author=Susan Phillips |date=8 December 2011 |quote=fed­eral envi­ron­men­tal reg­u­la­tors have made a direct link between the con­tro­ver­sial drilling prac­tice known as hydraulic frac­tur­ing and ground­wa­ter contamination...The EPA found high con­cen­tra­tions of ben­zene, xylene, gaso­line and diesel fuel in shal­low ground­wa­ter sup­plies that they linked to waste­water pits. But the report also found a num­ber of frack­ing chem­i­cals in much deeper fresh water wells.|work=StateImpact Penn­syl­va­nia |publisher=WITF, WHYY &amp; NPR |accessdate=6 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;NYT Waste Docs 26Feb2011&quot;&gt;{{cite news |url=http://www.nytimes.com/interactive/2011/02/27/us/natural-gas-documents-1.html#document/p533/a9948|title=Drilling Down: Documents: Natural Gas's Toxic Waste |author=Staff |date=26 February 2011 |newspaper=The New York Times |accessdate=23 February 2012 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Forbes silica 2012&quot;&gt;{{cite news |url=http://www.forbes.com/sites/clairewilkinson/2012/06/22/fracking-concerns-turn-to-worker-health-hazards-and-potential-silica-exposure/|title=Fracking Concerns Turn To Worker Health Hazards And Potential Silica Exposure |author=Claire Wilkinson |date=22 June 2012 |newspaper=Forbes |accessdate=08 September 2012 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;HeatOnGas&quot;&gt;{{Cite journal |last=Brown |first=Valerie J. |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1817691/ |title=Industry Issues: Putting the Heat on Gas |date=February 2007 |journal=Environmental Health Perspectives |publisher=US National Institute of Environmental Health Sciences |page=A76 |volume=115 |issue=2 |pmc=1817691 |accessdate=2012-05-01 |pmid=17384744}}&lt;/ref&gt;
+
+&lt;ref name=&quot;PA Permits&quot;&gt;{{Cite web |author=Staff |url=http://marcellus.psu.edu/images/permit_animation.gif |title=Unconventional well drilling permits|year=2012 |work=Marcellus Center |publisher=[[Marcellus Center]], [[Pennsylvania State University]] |accessdate=2012-09-16}}&lt;/ref&gt;
+
+&lt;ref name=&quot;NIOSH study&quot;&gt;{{Cite web |author=Eric Esswein, MSPH; Max Kiefer, MS; John Snawder, PhD; and Michael Breitenstein, BS |url=http://blogs.cdc.gov/niosh-science-blog/2012/05/silica-fracking/ |title=Worker Exposure to Crystalline Silica During Hydraulic Fracturing|date=23 May 2012 |work=NIOSH Science Blog |publisher=[[United States Center for Disease Control]] |accessdate=2012-09-08}}&lt;/ref&gt;
+
+&lt;ref name=&quot;EPA re study&quot;&gt;{{Cite web |last=DiCosmo |first=Bridget |url=http://insideepa.com/201107052369131/EPA-Daily-News/Daily-News/sab-pushes-to-advise-epa-to-conduct-toxicity-tests-in-fracking-study/menu-id-95.html |title=SAB Pushes To Advise EPA To Conduct Toxicity Tests In Fracking Study |quote=But some members of the chartered SAB are suggesting that the fracking panel revise its recommendation that the agency scale back its planned toxicity testing of chemicals used in the hydraulic fracturing, or fracking, process, because of the limited resources and time frame ... Chesapeake Energy supported the draft recommendation, saying that &quot;an in-depth study of toxicity, the development of new analytical methods and tracers are not practical given the budget and schedule limitation of the study.&quot;|date=15 May 2012 |work=InsideEPA |publisher= [[Inside Washington Publishers]] |accessdate=2012-05-19|id={{required subscription}}}}&lt;/ref&gt;
+
+&lt;ref name=&quot;mooney&quot;&gt;{{cite journal|url=http://www.scientificamerican.com/article.cfm?id=the-truth-about-fracking |last=Mooney|first=Chris|title=The Truth About Fracking|journal=Scientific American|year=2011|issue=305|pages=80–85}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Fjaer&quot;&gt;{{cite book|last=Fjaer|first=E.|title=Petroleum related rock mechanics|url=http://books.google.com/books?id=l6CfasFxhzYC&amp;pg=PA369 |edition=2|series=Developments in petroleum science|year=2008|publisher=[[Elsevier]] |isbn=978-0-444-50260-5|page=369|chapter=Mechanics of hydraulic fracturing|accessdate=2012-05-14}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bloomberg 11.01.2012&quot;&gt;{{cite news |url=http://www.bloomberg.com/news/2012-01-11/fracking-s-political-support-unshaken-by-doctors-call-for-ban.html |title=Fracking Political Support Unshaken by Doctors' Call for Ban |author=Mark Drajem |date=11 January 2012 |agency=Bloomberg |accessdate=19 January 2012}}&lt;/ref&gt; 
+
+&lt;ref name=&quot;Price&quot;&gt;{{cite book|last1=Price|first1=N.J.|last2=Cosgrove|first2=J.W.|title=Analysis of geological structures|url=http://books.google.com/books?id=80gYS1IzUWsC&amp;pg=PA32 | accessdate=5 November 2011|year=1990|publisher=[[Cambridge University Press]]|isbn=978-0-521-31958-4|pages=30–33}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Manthei&quot;&gt;{{cite book|last1=Manthei|first1=G.|last2=Eisenblätter|first2=J.|last3=Kamlot|first3=P.|editor=Natau, Fecker &amp; Pimentel|title=Geotechnical Measurements and Modelling|url=http://www.gmugmbh.de/download/gmug_Scan0965.pdf|accessdate=6 March 2012|year=2003|isbn=90-5809-603-3|pages=355–360|chapter=Stress measurement in salt mines using a special hydraulic fracturing borehole tool|format = PDF}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Zoback&quot;&gt;{{cite book|last=Zoback|first=M.D.|title=Reservoir geomechanics|url=http://books.google.com/books?id=Xx63OaM2JIIC&amp;pg=PA18 |accessdate=6 March 2012|year=2007|publisher=Cambridge University Press|page=18}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Laubach&quot;&gt;{{cite journal|last=Laubach|first=S.E.|coauthors=Reed R.M., Olson J.E., Lander R.H. &amp; Bonnell L.M.|year=2004|title=Coevolution of crack-seal texture and fracture porosity in sedimentary rocks: cathodoluminescence observations of regional fractures|journal=Journal of Structural Geology|publisher=[[Elsevier]] |volume=26 |issue=5 |pages=967–982 |doi=10.1016/j.jsg.2003.08.019|url=http://www.sciencedirect.com/science/article/pii/S0191814103001858|accessdate=5 November 2011|bibcode = 2004JSG....26..967L }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Sibson&quot;&gt;{{cite journal|last=Sibson|first=R.H.|coauthors=Moore J. McM. &amp; Rankin A.H.|year=1975|title=Seismic pumping--a hydrothermal fluid transport mechanism|journal=[[Journal of the Geological Society]]|publisher=[[Geological Society]]|location=London|volume=131|pages=653–659|doi=10.1144/gsjgs.131.6.0653|url=http://www.spe.org/jpt/print/archives/2010/12/10Hydraulic.pdf|accessdate=5 November 2011|issue=6}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Montgomery&quot;&gt;{{cite journal|last1=Montgomery|first1=Carl T.|last2=Smith|first2=Michael B.|date=2010-12-105|title= Hydraulic fracturing. History of an enduring technology |journal=JPT Online |publisher=[[Society of Petroleum Engineers]] |format=PDF |pages=26–41|url=http://jgs.geoscienceworld.org/cgi/content/abstract/131/6/653|accessdate=13 May 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Gill&quot;&gt;{{cite book|last=Gill|first=R.|title=Igneous rocks and processes: a practical guide|url=http://books.google.com/books?id=vgpmAcu_M-AC&amp;pg=PA102|accessdate=5 November 2011|year=2010|publisher=[[John Wiley and Sons]] |isbn=978-1-4443-3065-6 |page=102}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-2&quot;&gt;{{cite web |title=The Barnett Shale |url=http://www.nknt.org/Exhibits/Barnett_shale_points2.pdf |format=PDF |publisher=North Keller Neighbors Together |accessdate=2012-05-14}}&lt;/ref&gt;
+
+&lt;ref name=&quot;BW 19.01.2012&quot;&gt;{{cite news |url=http://www.businessweek.com/magazine/like-fracking-youll-love-super-fracking-01192012.html |title=Like Fracking? You'll Love 'Super Fracking' |author=David Wethe |date=19 January 2012 |newspaper=Businessweek |accessdate=22 January 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Geosoc yield&quot;&gt;{{cite web |url=http://geology.com/royalty/production-decline.shtml |title=Production Decline of a Natural Gas Well Over Time |date=3 January 2012 |work=Geology.com | publisher=The Geology Society of America |accessdate=4 March 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-3&quot;&gt;{{cite book |last= Gidley |first= John L. |year=1989 |title= Recent Advances in Hydraulic Fracturing  |publisher= [[Society of Petroleum Engineers|SPE]] |volume =12 | series = SPE Monograph | page = ? |isbn = 9781555630201}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-4&quot;&gt;{{cite book|author = Ching H. Yew | title=Mechanics of Hydraulic Fracturing | year=1997 |publisher=[[Gulf Professional Publishing]] |isbn=9780884154747 |page=?}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-6&quot;&gt;{{cite journal |first=David |last=Banks |coauthors=Odling, N.E., Skarphagen, H., and Rohr-Torp, E. |title=Permeability and stress in crystalline rocks |journal=Terra Nova |volume=8 |issue=3 |doi=10.1111/j.1365-3121.1996.tb00751.x |month=May|year=1996 |pages=223–235}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-7&quot;&gt;{{cite book |last=Brown |first=Edwin Thomas |year=2007 |origyear=2003 |title=Block Caving Geomechanics |edition=2nd |location=[[Indooroopilly, Queensland]] |publisher=[[University of Queensland|Julius Kruttschnitt Mineral Research Centre, UQ]] |isbn=978-0-9803622-0-6 |url=http://www.jkmrc.uq.edu.au/Publications/BlockCavingGeomechanicsSecondEdition.aspx |accessdate=2012-05-14}}&lt;/ref&gt;
+
+&lt;ref name=hazmat40.2&gt;{{cite journal |url=http://www.sciencedirect.com/science/article/B6TGF-3YS8C2K-C/2/236451dcf9e7265b12548b83a2025e0f |title=Remediation of low permeability subsurface formations by fracturing enhancement of soil vapor extraction |journal=Journal of Hazardous Materials |volume=40 |issue= 2 |work=Soil Remediation: Application of Innovative and Standard Technologies |date=February 1995 |pages=191–201 |issn=0304-3894 |doi=10.1016/0304-3894(94)00069-S |last1=Frank |first1=U. |last2=Barkley |first2=N.}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-8&quot;&gt;{{cite web|url=http://www1.eere.energy.gov/geothermal/egs_animation.html |title=Geothermal Technologies Program: How an Enhanced Geothermal System Works |publisher=.eere.energy.gov |date=2011-02-16 |accessdate=2011-11-02}}&lt;/ref&gt;
+
+&lt;ref name=&quot;UT Study&quot;&gt;{{cite report |title=Fact-Based Regulation for Environmental Protection in Shale Gas Development | url = http://energy.utexas.edu/images/ei_shale_gas_regulation120215.pdf|author=Energy Institute |publisher=[[University of Texas at Austin]] |format = PDF | month = February |year=2012 |accessdate=29 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=gri&gt;{{cite book |title= A review of the management of the Gas Research Institute |author= [[United States National Research Council]], Committee to Review the Gas Research Institute's Research, Development and Demonstration Program, [[Gas Research Institute]] |publisher= National Academies |page = ? |year= 1989}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-9&quot;&gt;[http://thebreakthrough.org/blog/2011/12/interview_with_dan_steward_for.shtml The Breakthrough Institute. Interview with Dan Steward, former Mitchell Energy Vice President. December 2011.]&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-10&quot;&gt;[http://thebreakthrough.org/blog/2012/03/shale_gas_fracking_history_and.shtml &quot;US Government Role in Shale Gas Fracking: An Overview&quot;]&lt;/ref&gt;
+
+&lt;ref name=&quot;DOE primer&quot;&gt;{{cite report |url= http://www.netl.doe.gov/technologies/oil-gas/publications/EPreports/Shale_Gas_Primer_2009.pdf |title=Modern Shale Gas Development in the United States: A Primer |author1=Ground Water Protection Council |author2=ALL Consulting |month=April |year=2009 |publisher=[[Assistant Secretary for Fossil Energy|DOE Office of Fossil Energy]] and [[National Energy Technology Laboratory]] |accessdate=24 February 2012| format = PDF |id= DE-FG26-04NT15455 |pages=56–66}}&lt;/ref&gt;
+
+&lt;ref name=&quot;ALL-Marcellus&quot;&gt;{{cite conference |url= http://fracfocus.org/sites/default/files/publications/water_resources_and_use_for_hydraulic_fracturing_in_the_marcellus_shale_region.pdf |title=Water Resources and Use for Hydraulic Fracturing in the Marcellus Shale Region |first1=J. Daniel |last1= Arthur |first2= Mike|last2= Uretsky |first3= Preston |last3= Wilson |publisher=ALL Consulting |accessdate=2012-05-09 | format = PDF | page= 3 | conference = Meeting of the American Institute of Professional Geologists | location = [[Pittsburgh]] | date= May 5–6, 2010}}&lt;/ref&gt;
+
+&lt;ref name=&quot;water resources&quot;&gt;{{cite conference |title=Managing Water Resource‘s Challenges in Select Natural Gas Shale Plays |last1=Satterfield |first1=J |last2=Mantell |first 2=M |last3=Kathol |first3=D |last4=Hiebert |first4=F |last5=Patterson |first5=K |last6=Lee |first6=R  |publisher=ALL Consulting |accessdate=2012-09-16 |conference = GWPC Annual Meeting | date=September 2008}}&lt;/ref&gt;
+
+&lt;ref name=Arthur&gt;{{cite report |url=http://www.aogc.state.ar.us/ALL%20FayettevilleFrac%20FINAL.pdf |title=Hydraulic Fracturing Considerations for Natural Gas Wells of the Fayetteville Shale |first1=J. Daniel |last1= Arthur |first2=Brian |last2= Bohm |first3=Bobbi Jo |last3= Coughlin |first4= Mark |last4= Layne |year=2008 |page=10 |publisher=ALL Consulting |accessdate=2012-05-07| format = PDF}}&lt;/ref&gt;
+
+&lt;ref name=Hartnett&gt;{{cite journal|last=Hartnett-White|first=K.|title=The Fracas About Fracking- Low Risk, High Reward, but the EPA is Against it|publisher=National Review Online|url=http://www.energyindepth.org/wp-content/uploads/2011/06/The-Fracas-about-Fracking.pdf|format=PDF|year=2011|accessdate=2012-05-07}}&lt;/ref&gt;
+
+&lt;ref name=&quot;NYTUrbina30Dec2011&quot;&gt;{{cite news |url=http://www.nytimes.com/2011/12/31/world/south-african-farmers-see-threat-from-fracking.html |title=Hunt for Gas Hits Fragile Soil, and South Africans Fear Risks |first=Ian |last=Urbina |date=30 December 2011 |newspaper=The New York Times |accessdate=23 February 2012 |quote=Covering much of the roughly 800 miles between Johannesburg and Cape Town, this arid expanse{{spaced ndash}}its name [Karoo] means &quot;thirsty land&quot;{{spaced ndash}}sees less rain in some parts than the Mojave Desert.}}&lt;/ref&gt;
+
+&lt;ref name=&quot;NYT Docs&quot;&gt;{{cite news |url=http://www.nytimes.com/interactive/2011/02/27/us/natural-gas-documents-1.html#document/p533/a9948 |title=Natural Gas Documents |date=27 February 2011 |newspaper=The New York Times |accessdate=5 May 2012 |quote=The Times reviewed more than 30,000 pages of documents obtained through open records requests of state and federal agencies and by visiting various regional offices that oversee drilling in Pennsylvania. Some of the documents were leaked by state or federal officials.}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-12&quot;&gt;{{cite web|title=CARBO ceramics|url=http://www.carboceramics.com|accessdate=2011}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Reis iodine&quot;&gt;Reis, John C. (1976). ''Environmental Control in Petroleum Engineering.'' Gulf Professional Publishers.&lt;/ref&gt;
+
+&lt;ref name=&quot;NRC&quot;&gt;{{cite web |url=http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1556/v14/#_1_26 |title=Consolidated Guidance About Materials Licenses: Program-Specific Guidance About Well Logging, Tracer, and Field Flood Study Licenses (NUREG-1556, Volume 14) |author=Jack E. Whitten, Steven R. Courtemanche, Andrea R. Jones, Richard E. Penrod, and David B. Fogl (Division of Industrial and Medical Nuclear Safety, Office of Nuclear Material Safety and Safeguards) |quote=labeled Frac Sand...Sc-46, Br-82, Ag-110m, Sb-124, Ir-192 |date=June 2000 |publisher=US Nuclear Regulatory Commission|accessdate=19 April 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-13&quot;&gt;{{cite journal |last=Seale |first= Rocky |month =July/August | year = 2007 |url=http://drillingcontractor.org/dcpi/dc-julyaug07/DC_July07_PackersPlus.pdf |format=PDF |title=Open hole completion systems enables multi-stage fracturing and stimulation along horizontal wellbores |journal = Drilling Contractor |accessdate= October 1, 2009 |edition=Fracturing stimulation}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-14&quot;&gt;{{cite web|title=EnergyFromShale|url=energyfromshale.org|publisher=EnergyFromShale|year=2011}}&lt;/ref&gt;
+
+&lt;ref name=&quot;house1&quot;&gt;{{cite report |url=http://democrats.energycommerce.house.gov/sites/default/files/documents/Hydraulic%20Fracturing%20Report%204.18.11.pdf |publisher=Committee on Energy and Commerce U.S. House of Representatives |title=Chemicals Used in Hydraulic Fracturing |date=April 18, 2011|format = PDF}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-16&quot;&gt;{{cite web |url= http://sites.duke.edu/sjpp/2011/ensuring-safe-drinking-water-in-the-age-of-hydraulic-fracturing/ |title= Ensuring Safe Drinking Water in the Age of Hydraulic Fracturing |author=Kris Fitz Patrick |date=November 17, 2011}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AEHS 2011&quot;&gt;{{cite journal |last=Colborn |first=Theo |last2=Kwiatkowski |first2=Carol |last3=Schultz |first3=Kim |last4=Bachran |first4=Mary |year=2011 |title=Natural Gas Operations from a Public Health Perspective |journal=Human and Ecological Risk Assessment: An International Journal |volume=17 |issue=5 |publisher=[[Taylor &amp; Francis]] |pages=1039–1056 |url=http://www.pasdegazdeschistes.rd-h.fr/wp-content/uploads/NaturalGasManuscriptPDF09_13_10-Th%C3%A9o-Colborn.pdf |doi=10.1080/10807039.2011.605662|format = PDF}}&lt;/ref&gt;
+
+&lt;ref name=indepth&gt;{{cite web |title=Gasland Debunked |publisher=Energy in Depth |url=http://www.energyindepth.org/wp-content/uploads/2011/11/Debunking-Gasland.pdf|format = PDF|accessdate = 2012-05-14}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-21&quot;&gt;{{cite web |url=http://switchboard.nrdc.org/blogs/amall/incidents_where_hydraulic_frac.html |last=Mall |first=Amy |work=Switchboard: NRDC Staff Blog |publisher=[[Natural Resources Defense Council]] |title=Incidents where hydraulic fracturing is a suspected cause of drinking water contamination |date= 19 December 2011 |accessdate=23 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-22&quot;&gt;{{cite web |url=http://www.propublica.org/article/buried-secrets-is-natural-gas-drilling-endangering-us-water-supplies-1113 |title=Buried Secrets: Is Natural Gas Drilling Endangering U.S. Water Supplies?|author=Lustgarten, Abrahm |publisher=ProPublica |title=Incidents where hydraulic fracturing is a suspected cause of drinking water contamination |date=November 2008 |accessdate=20 March 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;EPA letter to PADEP&quot;&gt;{{cite document|title=Letter to PADEP re:Marcellus Shale 030711|authors=Shawn M. Garvin |quote=several sources of data, including reports required by PADEP, indicate that the wastewater resulting from gas drilling operations (including flowback from hydraulic fracturing and other fluids produced from gas production wells) contains variable and sometimes high concentrations of materials that may present a threat to human health and aquatic environment, including radionuclides.... Many of these substances are not completely removed by wastewater treatment facilities, and their discharge may cause or contribute to impaired drinking water quality for downstream users, or harm aquatic life ... At the same time, it is equally critical to examine the persistence of these substances, including radionuclides, in wastewater effluents and their potential presence in receiving waters.|publisher = [[United States Environmental Protection Agency|EPA]] |url=http://www.epa.gov/region03/marcellus_shale/PADEP_Marcellus_Shale_030711.pdf |date=07 March 2011 |format = PDF |accessdate=11 May 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Urbina 07Mar2011&quot;&gt;{{cite news |url=http://www.nytimes.com/2011/03/08/science/earth/08water.html |title=E.P.A. Steps Up Scrutiny of Pollution in Pennsylvania Rivers |first=Ian |last=Urbina |date=7 March 2011 |newspaper=The New York Times |accessdate=23 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;NYT lobbying docs&quot;&gt;{{cite news |url=http://www.nytimes.com/interactive/2011/03/04/us/20110304_natural-gas-documents-intro.html |title=The Debate Over the Hydrofracking Study's Scope |quote= While environmentalists have aggressively lobbied the agency to broaden the scope of the study, industry has lobbied the agency to narrow this focus |date=3 March 2011 |newspaper = The New York Times |accessdate=1 May 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;IPS 10212012&quot;&gt;{{Cite news |first1=Sarah |last1=McHaney|url=http://www.ipsnews.net/2012/10/shale-gas-extraction-brings-local-health-impacts/ |title=Shale Gas Extraction Brings Local Health Impacts |date=21 October 2012 |newspaper = IPS News |publisher= [[Inter Press Service]] |accessdate=2012-10-21}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Urbina 03Mar2011&quot;&gt;{{cite news |url=http://www.nytimes.com/2011/03/04/us/04gas.html |title=Pressure Limits Efforts to Police Drilling for Gas |first=Ian |last=Urbina |quote=More than a quarter-century of efforts by some lawmakers and regulators to force the federal government to police the industry better have been thwarted, as E.P.A. studies have been repeatedly narrowed in scope and important findings have been removed |date=3 March 2011 |newspaper=The New York Times |accessdate=23 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Cornellvet03092012&quot;&gt;{{cite news |url = http://www.news.cornell.edu/stories/March12/FrackingAnimals.html|title=Study suggests hydrofracking is killing farm animals, pets |author=Ramanuja, Krishna  |date=7 Martch 2012 |newspaper = Cornell Chronicle |publisher=Cornell University|accessdate=9 March 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Urbina 03Aug2011&quot;&gt;{{cite news |url=http://www.nytimes.com/2011/08/04/us/04natgas.html |title=A Tainted Water Well, and Concern There May be More |first=Ian |last = Urbina |date=3 August 2011 |newspaper=The New York Times |accessdate=22 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;EPA 2004&quot;&gt;{{cite report |url=http://www.epa.gov/ogwdw/uic/pdfs/cbmstudy_attach_uic_final_fact_sheet.pdf |publisher= [[United States Environmental Protection Agency|EPA]] |title=Evaluation of Impacts to Underground Sources of Drinking Water by Hydraulic Fracturing of Coalbed Methane Reservoirs; National Study Final Report |date=June 2004 |accessdate=23 February 2011|format = PDF}}&lt;/ref&gt;
+
+&lt;ref name=&quot;BW 04Jan2012&quot;&gt;{{cite news |url=http://www.businessweek.com/news/2012-01-10/health-effects-of-fracking-need-study-says-cdc-scientist.html |title=Health Effects of Fracking Need Study, Says CDC Scientist |author=Alex Wayne |date=4 January 2012 |work = Bloomberg Businessweek |accessdate=29 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;howarth&quot;&gt;{{cite journal | url= http://www.springerlink.com/content/e384226wr4160653/fulltext.pdf | title=Methane and the greenhouse-gas footprint of natural gas from shale formations|last1=Howarth |first1=Robert W. |last2=Santoro |first2=Renee |last3=Ingraffea |first3=Anthony | journal = Climatic Change | publisher = [[Springer Publishing|Springer]] | pages= 679–690 |volume=106 |issue=4 | doi = 10.1007/s10584-011-0061-5 |date=13 March 2011| accessdate = 2012-05-07 | format = PDF}}&lt;/ref&gt;
+
+&lt;ref name=&quot;howarth2&quot;&gt;{{cite journal |title=Should Fracking Stop? Extracting gas from shale increases the availability of this resource, but the health and environmental risks may be too high. ''Point: Yes, it's too high risk'' |last=Howarth |first=Robert W. |last2=Ingraffea |first2=Anthony |pages=271–275 |issue=477 |date=15 September 2011 |journal= [[Nature (journal)|Nature]] | doi=10.1038/477271a|bibcode = 2011Natur.477..271H }}&lt;/ref&gt;
+
+&lt;ref name=Skone&gt;{{cite web |last=Skone |first=Timothy J. |title=Life Cycle Greenhouse Gas Analysis of Natural Gas Extraction &amp; Delivery in the United States |publisher=[[National Energy Technology Laboratory]] |date=12 May 2011 |url=http://cce.cornell.edu/EnergyClimateChange/NaturalGasDev/Documents/PDFs/SKONE_NG_LC_GHG_Profile_Cornell_12MAY11_Final.pdf | format = PDF |accessdate=4 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=Jiang&gt;{{cite journal |first1=Mohan |last1=Jiang |first2=W Michael |last2=Griffin |first3= Chris |last3= Hendrickson | first4=Paulina |last4=Jaramillo | first5= Jeanne |last5= VanBriesen | first6= Aranya | last6 = Venkatesh |year=2011 |title=Life cycle greenhouse gas emissions of Marcellus shale gas | url = http://iopscience.iop.org/1748-9326/6/3/034014/pdf/1748-9326_6_3_034014.pdf | format = PDF |journal=[[Environmental Research Letters]] | publisher = [[IOP Publishing]] |volume=6 |issue=3 |doi=10.1088/1748-9326/6/3/034014 |accessdate=4 February 2012|bibcode = 2011ERL.....6c4014J }}&lt;/ref&gt;
+
+&lt;ref name=Hultman&gt;{{cite journal |first1=Nathan |last1=Hultman |first2= Dylan |last2= Rebois |first3= Michael |last3= Scholten |first4=Christopher |last4=Ramig |year=2011 |title=The greenhouse impact of unconventional gas for electricity generation | url = http://iopscience.iop.org/1748-9326/6/4/044008/pdf/1748-9326_6_4_044008.pdf | format = PDF |journal=[[Environmental Research Letters]] | publisher = [[IOP Publishing]] |volume=6 |issue=4 |doi=10.1088/1748-9326/6/4/044008 |accessdate=4 February 2012|bibcode = 2011ERL.....6d4008H }}&lt;/ref&gt;
+
+&lt;ref name=Lashof&gt;{{cite web |last=Lashof |first=Dan |title=Natural Gas Needs Tighter Production Practices to Reduce Global Warming Pollution |publisher=Natural Resources Defense Council |date=12 April 2011 |url=http://switchboard.nrdc.org/blogs/dlashof/natural_gas_needs_tighter_prod.html |accessdate=4 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=Cathles&gt;{{cite journal |last1=Cathles |first1=Lawrence M. |last2=Brown |first2=Larry |last3=Taam |first3=Milton |last4=Hunter |first4=Andrew |year=2011 |journal=Climatic Change |doi=10.1007/s10584-011-0333-0 |accessdate=4 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=Howarth3&gt;{{cite journal |last1=Howarth |first1=Robert W. |last2=Santoro |first2=Renee |last3=Ingraffea |first3=Anthony |title=Venting and leaking of methane from shale gas development: Response to Cathles et al. |url=http://www.springerlink.com/content/c338g7j559580172/fulltext.pdf | format = PDF |journal=[[Climatic Change]] | publisher = [[Springer Publishing|Springer]] |volume= |issue= |doi= 10.1007/s10584-012-0401-0 |date = 1 February 2012 |accessdate=4 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=ipsnewsShale&gt;{{cite news |url=http://www.ipsnews.net/news.asp?idnews=106531 |title=Shale Gas a Bridge to More Global Warming |author=Stephen Leahy |date=24 January 2012 |agency=[[Inter Press Service|IPS]] |accessdate=4 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=tribOzoneWyoming&gt;{{cite web  |url=http://trib.com/news/state-and-regional/article_d1b0ff92-d3a0-5481-a9fc-e3ca505fbe12.html |publisher=Wyoming's Online News Source |title=Ozone mitigation efforts continue in Sublette County, Wyoming |date=March 2011}}&lt;/ref&gt;
+
+&lt;ref name=fortworthtexas&gt;{{cite report | url=http://fortworthtexas.gov/uploadedFiles/Gas_Wells/AirQualityStudy_final.pdf | title=City of Fort Worth: Natural Gas Air Quality Study | date=July 13, 2011|format = PDF | publisher = [[Fort Worth, Texas|City of Fort Worth]]| author = Eastern Research Group, Sage Environmental Consulting| accessdate = 2012-05-07}}&lt;/ref&gt;
+
+&lt;ref name=starFortWorthNoThreats&gt;{{cite news | url=http://www.star-telegram.com/2011/07/14/3222750/no-significant-health-threats.html | title=Study: No 'significant health threats' from natural gas sites in Fort Worth | newspaper=Fort Worth Star-Telegram | date=July 15, 2011|first1 = Bill |last1 = Hanna | first2 = Jack Z. | last2 = Smith |accessdate = 2012-05-24}}&lt;/ref&gt;
+
+&lt;ref name=&quot;DISH TX SciAm&quot;&gt;{{cite news |url=http://www.scientificamerican.com/article.cfm?id=shale-gas-and-hydraulic-fracturing|title=Natural gas cracked out of shale deposits may mean the U.S. has a stable supply for a century – but at what cost to the environment and human health? |last=Biello | first = David |date=30 March 2010 |publisher=Scientific American |accessdate=23 March 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;DISH TX EHP&quot;&gt;{{cite journal |url=http://dx.doi.org/10.1289/ehp.119-a348|title=Blind Rush? Shale Gas Boom Proceeds Amid Human Health Questions|author=Schmidt, Charles |date=1 August 2011 |journal=[[Environmental Health Perspectives]] |volume=119 |pages=a348-a353|accessdate=23 March 2012|doi=10.1289/ehp.119-a348}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-23&quot;&gt;[http://trib.com/news/state-and-regional/blowout-brings-scrutiny-to-energy-company/article_cea4bf57-e246-5acf-ac9d-8c5587ef7f83.html Blowout brings scrutiny to energy company&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-25&quot;&gt;{{cite web |url=http://www.pbs.org/now/shows/613/index.html |title=Gasland |year=2010 |accessdate=2012-05-14}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-27&quot;&gt;{{cite news| title=Affirming Gasland |date=2010-07 |url=http://1trickpony.cachefly.net/gas/pdf/Affirming_Gasland_Sept_2010.pdf |accessdate=2010-12-21 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-32&quot;&gt;{{cite web|title=Gasland Correction Document|url=http://cogcc.state.co.us/library/GASLAND%20DOC.pdf|publisher=Colorado Oil &amp; Gas Conservation Commission|accessdate=25 January 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Duke study 2010&quot;&gt;{{cite journal|last=Osborn |first=Stephen G.|last2=Vengosh |first2=Avner|last3= Warner |first3= Nathaniel R.|last4=Jackson |first4= Robert B.|title=Methane contamination of drinking water accompanying gas-well drilling and hydraulic fracturing |date= 2011-05-17 | accessdate=2011-10-14 |journal= [[Proceedings of the National Academy of Sciences of the United States of America]] |doi= 10.1073/pnas.1100682108 |url=http://www.pnas.org/content/108/20/8172.full.pdf| format = PDF| volume = 108 | issue = 20 | pages = 8172–8176}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-33&quot;&gt;{{cite report | url = http://web.mit.edu/mitei/research/studies/documents/natural-gas-2011/NaturalGas_Report.pdf | author = Moniz, Ernest J. et al. |publisher=[[Massachusetts Institute of Technology]] |title=The Future of Natural Gas: An Interdisciplinary MIT Study |month =June | year = 2011 | format = PDF| accessdate = 1 June 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;vancouversun&quot;&gt;{{cite news|title=Fracking does not contaminate groundwater: study released in Vancouver |newspaper = [[Vancouver Sun]] | url = http://www.vancouversun.com/news/Fracking+does+contaminate+groundwater+study+released+Vancouver/6165532/story.html |author=Munro, Margaret |date= 17 February 2012 |accessdate=3 March 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;fuelfix&quot;&gt;{{cite web|title=Fact-Based Regulation for Environmental Protection in Shale Gas Development|url=http://fuelfix.com/blog/2012/02/16/ut-study-fracturing-itself-not-connected-to-water-pollution/ |title=Fracturing 'has no direct' link to water pollution, UT study finds |author=Vaughan, Vicki |publisher=Fuel Fix powered by Stanoil |date= 16 February 2012 |accessdate=3 March 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Neshaminy 2009&quot;&gt;{{cite news|url=http://www.nbcphiladelphia.com/news/local/Pennsylvania-Allows-Fracking-Tainted-Water-Dumping-Gas-Drilling-112804034.html|title= 44,000 Barrels of Tainted Water Dumped Into Neshaminy Creek. We're the only state allowing tainted water into our rivers |publisher=NBC Philadelphia |agency=Associated Press |author=David Caruso |date=2011-01-03|accessdate=2012-04-28}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Urbina 26Feb2011&quot;&gt;{{cite news |url=http://www.nytimes.com/2011/02/27/us/27gas.html |title=Regulation Lax as Gas Wells' Tainted Water Hits Rivers |first=Ian |last=Urbina |date=26 February 2011 |newspaper=The New York Times |accessdate=22 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;TimesMap&quot;&gt;{{cite news| url=http://www.nytimes.com/interactive/2011/02/27/us/natural-gas-map.html | work=The New York Times | first1=Jeremy | last1=White | first2=Haeyoun | last2=Park | first3=Ian | last3=Urbina | first4=Griff | last4=Palmer | title=Toxic Contamination From Natural Gas Wells | date=26 February 2011}}&lt;/ref&gt;
+
+&lt;ref name=&quot;NYT letters 05Mar2011&quot;&gt;{{cite news |url=http://www.nytimes.com/2011/03/06/opinion/l06gas.html |title=Natural Gas Drilling, the Spotlight |date=5 March 2011 |newspaper=The New York Times |accessdate=24 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Urbina 01Mar2011&quot;&gt;{{cite news |url=http://www.nytimes.com/2011/03/02/us/02gas.html |title=Drilling Down: Wastewater Recycling No Cure-All in Gas Process |first=Ian |last=Urbina |date=1 March 2011 |newspaper=The New York Times |accessdate=22 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Petit 02Mar2011&quot;&gt;{{cite web |url=http://ksjtracker.mit.edu/2011/03/02/nytimes-part-ii-of-the-fracking-water-problems-in-pa-and-other-marcellus-shale-country/ |title=Part II of the fracking water problems in PA and other Marcellus Shale country |author=[http://ksjtracker.mit.edu/staff/ Charles Petit] |date=2 March 2011 |work=Knight Science Journalism Tracker |publisher=[[Massachusetts Institute of Technology|MIT]] |accessdate=24 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;EPA nuclides&quot;&gt;{{cite news |url=http://www.epa.gov/radtown/public-water.html |title=Radionuclides in public drinking water |publisher= [[United States Environmental Protection Agency|EPA]] |date=8 March 2012 |accessdate=4 May 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Carbon County&quot;&gt;{{cite web |url=http://carbonwaters.org/2011/07/cancer-patients-urine-suspected-in-wissahickon-iodine-131-levels/ |title=Cancer patients’ urine suspected in Wissahickon iodine-131 levels |author=Bauers, Sandy |date=21 July 2011 |publisher=Philadelphia inquirer, Carbon County Groundwater Guardians |accessdate=25 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Chesapeake&quot;&gt;{{cite document |url=http://insideepa.com/iwpfile.html?file=jul2011%2Fepa2011_1273b.pdf |title=Letter from Chesapeake Energy to EPA |last=Satterfield |first=John |date=30 June 2011 |quote=Flowback and Produced water&amp;nbsp;... Chesapeake agrees that an indepth study of toxicity, the development of new analytic methods and tracers are not practical given the budget and schedule limitations of the study&amp;nbsp;... Wastewater Treatment and Waste Disposal&amp;nbsp;... Chesapeake believes there was unjustified emphasis on the surface disposal of produced water to treatment plants in the SAB's Review&amp;nbsp;... Chesapeake disagrees with the inclusion of water distribution network corrosion and burden of analyzing for contaminants by POTW's into the study.|newspaper = InsideEPA |publisher= [[Inside Washington Publishers]] |format=PDF |accessdate=2012-05-19|id={{required subscription}}}}&lt;/ref&gt;
+
+&lt;ref name=&quot;BBC 08.06.2012&quot;&gt;{{cite news |url=http://www.bbc.co.uk/news/uk-england-lancashire-13700575 |title=Shale gas fracking: MPs call for safety inquiry after tremors |work=[[BBC News]] |date=8 June 2011 |accessdate=22 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-34&quot;&gt;{{cite news |url=http://www.bbc.co.uk/news/uk-england-lancashire-15550458 |title=Fracking tests near Blackpool 'likely cause' of tremors |work = BBC News |date=2 November 2011 |accessdate=22 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-35&quot;&gt;{{cite report |url= http://www.cuadrillaresources.com/wp-content/uploads/2012/02/Geomechanical-Study-of-Bowland-Shale-Seismicity_02-11-11.pdf |title=Geomechanical Study of Bowland Shale Seismicity |first1 =C.J. | last1= de Pater |first2 = S. | last2=Baisch |date=2 November 2011 |publisher=Cuadrilla Resources |accessdate=22 February 2012|format = PDF}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-36&quot;&gt;{{cite web |url=http://earthquake.usgs.gov/learn/faq/?categoryID=1&amp;faqID=1Q: |title=FAQs – Earthquakes, Faults, Plate Tectonics, Earth Structure: Can we cause earthquakes? Is there any way to prevent earthquakes? |date=27 October 2009 |publisher=[[United States Geological Survey|USGS]] |accessdate=22 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-37&quot;&gt;{{cite press release |url=http://www.ldeo.columbia.edu/news-events/seismologists-link-ohio-earthquakes-waste-disposal-wells |title=Ohio Quakes Probably Triggered by Waste Disposal Well, Say Seismologists |date=6 January 2012 |publisher=[[Lamont–Doherty Earth Observatory]] |accessdate=22 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Urbina 07Apr2011&quot;&gt;{{cite news |url=http://www.nytimes.com/2011/04/08/science/earth/08water.html |title=Pennsylvania Calls for More Water Tests |first=Ian |last=Urbina |date=7 April 2011 |newspaper=The New York Times |accessdate=23 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=psyops&gt;{{cite news|last=Javers|first=Eamon|title=Oil Executive: Military-Style 'Psy Ops' Experience Applied|url=http://www.cnbc.com/id/45208498|newspaper=[[CNBC]]|date=8 Nov 2011}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-38&quot;&gt;{{cite news|last=Phillips|first=Susan|title='We're Dealing with an Insurgency,' says Energy Company Exec of Fracking Foes|url=http://stateimpact.npr.org/pennsylvania/2011/11/09/were-dealing-with-an-insurgency-says-energy-company-exec-of-fracking-foes/|newspaper=[[National Public Radio]]|date=9 Nov 2011}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-39&quot;&gt;{{cite web |url=http://www.appea.com.au/images/stories/Policy_CSG/APPEA_Fraccing_chemicals_-_FINAL.pdf |title=Chemicals that may be used in Australian CSG fraccing fluid |publisher=[[Petroleum industry in Western Australia|Australian Petroleum Ptoduction &amp; Exploration Association Limited]] |accessdate=22 February 2012| format = PDF}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-40&quot;&gt;{{cite web |url=http://stocks.investopedia.com/stock-analysis/2010/Will-The-EPA-Crack-Down-On-Fracking-HAL-APC-NBL-COG-EOG-CHK-UPL-XOM0712.aspx |title=Will The EPA Crack Down On 'Fracking'? |author=Stephen D. Simpson |date=12 July 2010 |publisher=Investopedia |accessdate=22 February 2012}} {{Verify credibility|date=May 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;AutoZV-41&quot;&gt;{{cite web |url=http://www.hydraulicfracturing.com |title=HydraulicFracturing.com |publisher=[[Chesapeake Energy]] |accessdate=2011-07-13}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Penny&quot;&gt;{{cite journal|last1=Penny |first1=Glenn S. |last2=Conway |first2=Michael W. |last3= Lee |first3= Wellington |title=Control and Modeling of Fluid Leakoff During Hydraulic Fracturing | month = June | year = 1985 | publisher = [[Society of Petroleum Engineers]] | pages = 1071–1081 | volume = 37 | issue = 6 |accessdate=2012-05-10 |journal= Journal of Petroleum Technology |doi= 10.2118/12486-PA |url=http://www.onepetro.org/mslib/servlet/onepetropreview?id=00012486}}&lt;/ref&gt;
+
+&lt;ref name=worldwatch&gt;{{cite report |url= http://efdsystems.org/Portals/25/Hydraulic%20Fracturing%20Paper%20-%20World%20Watch.pdf |title=Addressing the Environmental Risks from Shale Gas Development |first1=Mark |last1= Zoback |first2= Saya |last2= Kitasei |first3= Brad |last3= Copithorne |month = July |year=2010 |page=9 |publisher= [[Worldwatch Institute]] |format=PDF |accessdate=2012-05-24}}&lt;/ref&gt;
+
+&lt;ref name=Arthur2&gt;{{cite report |url= http://www.lexisnexis.com/documents/pdf/20100210093849_large.pdf |title=An overview of modern shale gas development in the United States |first1=J. Daniel |last1= Arthur |first2=Bruce |last2= Langhus |first3= David |last3= Alleman | page=21 | year = 2008|publisher=ALL Consulting |accessdate=2012-05-07| format = PDF}}&lt;/ref&gt; 
+
+&lt;ref name=molofsky&gt;{{cite journal|last1s=Molofsky | first1 = L.J. | last2= Connor |first2 = J.A. | last3= Shahla | first3 = K.F. |last4= Wylie |first4= A.S. | last5 = Wagner | first5= T.|title=Methane in Pennsylvania Water Wells Unrelated to Marcellus Shale Fracturing |journal=[[Oil and Gas Journal]] | publisher = [[Pennwell Corporation]] |date=December 5, 2011 |pages=54–67 | url = http://www.ogj.com/1/vol-109/issue-49/exploration-development/methane-in-pennsylvania-water-full.html | volume = 109 | issue = 49}}&lt;/ref&gt;
+
+&lt;ref name=&quot;WEO2011full&quot;&gt;{{cite book |title=World Energy Outlook 2011 | year= 2011 | author=[[International Energy Agency|IEA]] | publisher = [[Organisation for Economic Co-operation and Development|OECD]] | isbn = 978 92 64 12413 4 | pages = 91; 164}}&lt;/ref&gt;
+
+&lt;ref name=stevens&gt;{{cite report |url= http://www.chathamhouse.org/sites/default/files/public/Research/Energy,%20Environment%20and%20Development/r_0910stevens.pdf |title= The 'Shale Gas Revolution': Hype and Reality |first1= Paul |last1= Stevens |month = September |year=2010 |page=17 | publisher= [[Chatham House]] |accessdate=2012-05-28 | format = PDF | isbn = 978 1 86203 239 2}}&lt;/ref&gt;
+
+&lt;ref name=Mader&gt;{{cite book |title= Hydraulic Proppant Fracturing and Gravel Packing | url = http://books.google.com/books?id=FyGcOI42oBMC&amp;pg=PA174 | year= 1989 | first= Detlef | last = Mader | publisher = [[Elsevier]] | isbn = 9780444873521 | pages = 173–174; 202}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bweek 31.03.2011&quot;&gt;{{cite news |url=http://www.businessweek.com/magazine/content/11_15/b4223060759263.htm |title=The French Public Says No to {{'}}''Le Fracking''{{'}} |first =Tara | last = Patel |date=31 March 2011 | work = [[Bloomberg Businessweek]] |accessdate=22 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bweek 04.10.2011&quot;&gt;{{cite news |url=http://www.businessweek.com/news/2011-10-04/france-to-keep-fracking-ban-to-protect-environment-sarkozy-says.html |title=France to Keep Fracking Ban to Protect Environment, Sarkozy Says |first =Tara | last = Patel  |date=4 October 2011 | work = [[Bloomberg Businessweek]] |accessdate=22 February 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;WEO2012 Special&quot;&gt;{{cite book |url= http://www.worldenergyoutlook.org/media/weowebsite/2012/goldenrules/WEO2012_GoldenRulesReport.pdf |title= Golden Rules for a Golden Age of Gas. World Energy Outlook Special Report on Unconventional Gas |date= 29 May 2012 | author=[[International Energy Agency|IEA]] | publisher = [[Organisation for Economic Co-operation and Development|OECD]] |format = PDF | pages = 18–27 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;EPA standards&quot;&gt;{{cite web|title=EPA Oil and Gas Air Pollution Standards|url=http://www.epa.gov/airquality/oilandgas/ |publisher = [[United States Environmental Protection Agency|EPA]] |accessdate= 11 April 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;bmp&quot;&gt;{{cite web|title = Hydraulic Fracturing | url=http://www.oilandgasbmps.org/resources/fracing.php |publisher = [[University of Colorado Law School]] | accessdate= 2 June 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;SPE-20&quot;&gt;{{cite book |title= SPE production &amp; operations | volume = 20 |year= 2005 | publisher = [[Society of Petroleum Engineers]]| page = 87 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Aamodt&quot;&gt;{{cite book |url= http://books.google.com/books?id=X2YrAAAAYAAJ&amp;pg=PA139 |title= Hydraulic fracturing stress measurements | chapter = Measurement of Instantaneous Shut-In Pressure in Crystalline Rock | year = 1983 | last1 = Aamodt | first1 = R. Lee | last2 = Kuriyagawa | first2= Michio | publisher = [[National Academy of Sciences|National Academies]] | page = 139}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bell&quot;&gt;{{cite book |url= http://books.google.com/books?id=m1uSzpaD_V8C&amp;pg=PA670 |title= Engineering Geology and Construction | year = 2004 | last = Bell | first = Frederic Gladstone | publisher = [[Taylor &amp; Francis]] | isbn = 9780415259392 | page = 670}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Chilingar&quot;&gt;{{cite book |url= http://books.google.com/books?id=X5xUuWvYow8C&amp;pg=PA143 |title= Surface Operations in Petroleum Production | volume = 2 | year = 1989 | first1 = George V. | last1 = Chilingar | first2 = John O. | last2 = Robertson | first3 = Sanjay | last3 = Kumar | publisher = [[Elsevier]] | pages = 143–152 | isbn = 9780444426772}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Economides&quot;&gt;{{cite book | title= Reservoir stimulation | year = 2000 | first1 = Michael J. | last1 = Economides | publisher = [[J. Wiley]] | page = P-2 | isbn = 9780471491927}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Miller&quot;&gt;{{cite book |url= http://books.google.com/books?id=PYyJEEyJN94C&amp;pg=PA380 |title= Coal Energy Systems | series = Sustainable World Series | year = 2005 | last1 = Miller | first1 = Bruce G. | publisher = [[Academic Press]] | page = 380 | isbn = 9780124974517}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Love&quot;&gt;{{cite web |url= http://www.johnsonwright.net/newsletters/2011-December/Fracking-The_Controversy_Over_its_Safety_for_the_Environment.htm |title= Fracking: The Controversy Over its Safety for the Environment | month = December | year = 2005 | last1 = Love | first1 = Adam H. | publisher = Johnson Wright, Inc. | accessdate = 2012-06-10}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Renpu&quot;&gt;{{cite book |url= http://books.google.com/books?id=GH6JoDxT_9sC&amp;pg=PA424 |title= Advanced Well Completion Engineering | year = 2011 | author = Wan Renpu | publisher = [[Gulf Professional Publishing]] | page = 424 | isbn = 9780123858689}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Underground Injection&quot;&gt;{{cite web|title=EPA Underground Injection Control Program|url=http://water.epa.gov/type/groundwater/uic/index.cfm|accessdate=2012-04-13}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Canada&quot;&gt;{{cite report |url= http://www.capp.ca/getdoc.aspx?DocId=210903&amp;DT=NTV |title= The Modern Practices of Hydraulic Fracturing: A Focus on Canadian Resources |month = June | year = 2012 | author= ALL Consulting | publisher = Canadian Association of Petroleum Producers |format = PDF | accessdate = 2012-08-04 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Penn State Water&quot;&gt;{{cite report |title=Water Withdrawals for Development of Marcellus Shale Gas in Pennsylvania. Introduction to Pennsylvania’s Water Resources |first1=Charles W. |last1=Abdalla |first2= Joy R. |last2=Drohan |publisher = [[The Pennsylvania State University]] |quote= Hydrofracturing a horizontal Marcellus well may use 4 to 8 million gallons of water, typically within about 1 week. However, based on experiences in other major U.S. shale gas fields, some Marcellus wells may need to be hydrofractured several times over their productive life (typically five to twenty years or more)|url=http://pubs.cas.psu.edu/FreePubs/pdfs/ua460.pdf | year = 2010 | format = PDF |accessdate=16 September 2012}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Oilfield Review 2005/2006&quot;&gt;{{cite journal | url= https://www.slb.com/~/media/Files/resources/oilfield_review/ors05/win05/04_the_source_for_hydraulic.ashx |title= The Source for Hydraulic Fracture Characterization | journal = Oilfield Review |  publisher = [[Schlumberger]] | pages = 42–57 | issue = Winter 2005/2006 | author = Bennet, Les, ''et.al.'' |format = PDF | accessdate = 2012-09-30}}&lt;/ref&gt;
+
+&lt;ref name=&quot;undeerc&quot;&gt;{{cite web | url= http://www.undeerc.org/bakken/completiontechnologies.aspx |title= Completion Technologies | publisher = [[Energy and Environmental Research Center|EERC]] | accessdate = 2012-09-30}}&lt;/ref&gt;
+
+&lt;!-- Unused citations
+
+&lt;ref name=&quot;Research Council study&quot;&gt;{{Cite web |last=Mall |first=Amy |url=http://switchboard.nrdc.org/blogs/amall/concerns_about_the_health_risk.html |title=Concerns about the health risks of fracking continue to grow |date=16 May 2012 |work=Switchboard: NRDC Staff Blog |publisher=[[Natural Resources Defense Council]] |accessdate=2012-05-19}}&lt;/ref&gt;
+&lt;ref name=&quot;Research Council study2&quot;&gt;{{Cite news |first1=Jenny |last1=Hopkinson |first2= Bridget |last2=DiCosmo | url=http://insideepa.com/201205152398901/EPA-Daily-News/Daily-News/academies-nrc-seeks-broad-review-of-currently-ignored-fracking-risks/menu-id-95.html |title=Academies' NRC Seeks Broad Review Of Currently Ignored Fracking Risks |date=15 May 2012 |newspaper = InsideEPA |publisher= [[Inside Washington Publishers]] |accessdate=2012-05-19|id={{required subscription}}}}&lt;/ref&gt;
+--&gt;
+}}
+
+==External links==
+{{External links|date=May 2012}}
+{{wikinews|Disposal of fracking wastewater poses potential environmental problems}}
+*[http://www.epa.gov/hydraulicfracturing Natural Gas Extraction—Hydraulic Fracturing] (EPA website)
+*[http://www.epa.gov/hfstudy/ EPA's Draft Hydraulic Fracturing Study Plan]
+*[http://fracfocus.org/ FracFocus] Site indicating chemical composition of fracking fluid of individual wells
+*[http://www.fractracker.org/ FracTracker.org: Maps, data, and articles from news, government, industry, and academic sources.]
+*[http://www.propublica.org/series/fracking Fracking] collected news and commentary at ''[[ProPublica]]''
+*[http://www.earthworksaction.org/FracingDetails.cfm Hydraulic Fracturing] at Earthworks
+*[http://www.propublica.org/special/hydraulic-fracturing-national Hydraulic fracturing illustration] on ''ProPublica''
+*{{Guardiantopic|environment/shale-gas|Shale gas and fracking}}
+
+{{Shale gas|technology=yes}}
+{{Portal bar|Earth sciences|Mining|Energy|Environment}}
+
+{{DEFAULTSORT:Hydraulic Fracturing}}
+[[Category:Hydraulic fracturing| ]]
+
+[[bg:Хидравлично разбиване]]
+[[cs:Hydraulické štěpení]]
+[[de:Hydraulic Fracturing]]
+[[es:Fractura hidráulica]]
+[[eu:Haustura hidrauliko]]
+[[fa:شکستگی‌های هیدرولیکی]]
+[[fr:Fracturation hydraulique]]
+[[fy:Hydraulic fracturing]]
+[[it:Fratturazione idraulica]]
+[[nl:Fraccen]]
+[[no:Hydraulisk oppsprekking]]
+[[pl:Szczelinowanie hydrauliczne]]
+[[ru:Гидравлический разрыв пласта]]
+[[sv:Hydraulisk spräckning]]
+[[uk:Гідравлічний розрив пластів]]
+[[zh:水力压裂]]</text>
+      <sha1>s64l4ywn7azmlznr7gq7tr8uac13xgr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

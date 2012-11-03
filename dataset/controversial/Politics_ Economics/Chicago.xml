@@ -1,0 +1,969 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chicago</title>
+    <ns>0</ns>
+    <id>6886</id>
+    <revision>
+      <id>521126485</id>
+      <parentid>520686247</parentid>
+      <timestamp>2012-11-02T23:23:22Z</timestamp>
+      <contributor>
+        <ip>99.253.163.142</ip>
+      </contributor>
+      <comment>/* Crime */</comment>
+      <text xml:space="preserve" bytes="143894">{{About|the U.S. city|other uses}}
+{{Use mdy dates|date=March 2012}}
+{{pp-move-indef|small=yes}}
+{{Infobox settlement
+|name = Chicago
+|settlement_type = City
+|nickname = [[Origin of the name &quot;Windy City&quot;|The Windy City]], The Second City, Chi-Town, Chi-City, Hog Butcher for the World, City of Big Shoulders, The City That Works, White City, and others found at [[List of nicknames for Chicago]]
+|motto = {{lang-la|Urbs in Horto}} (''City in a Garden''), Make Big Plans (Make No Small Plans), I Will
+|founder                 =
+|named_for = {{lang-mia|shikaakwa}}&lt;br /&gt; (&quot;Wild onion&quot;)
+|website = [http://www.cityofchicago.org/ cityofchicago.org]
+|image_skyline = Chicago montage.jpg
+| imagesize          = 300px
+| image_caption      = Clockwise from top: [[Downtown Chicago]], the [[Chicago Theatre]], the [[Chicago 'L']], [[Navy Pier]], [[Millennium Park]], the [[Field Museum]], and the [[Willis Tower|Willis (formerly Sears) Tower]]
+|image_flag = Municipal Flag of Chicago.svg
+|image_seal = Chicago city seal.png
+|image_map = US-IL-Chicago.png
+|map_caption = Location in the [[Chicago metropolitan area]] and Illinois
+|pushpin_map=USA2
+|pushpin_map_caption=Location in the United States
+|coordinates_display = inline,title
+|coordinates_region = US-IL
+|unit_pref  = Imperial
+|subdivision_type = [[List of countries|Country]]
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_type2 = [[List of counties in Illinois|Counties]]
+|subdivision_name = [[United States]]
+|subdivision_name1 = [[Illinois]]
+|subdivision_name2 = [[Cook County, Illinois|Cook]], [[DuPage County, Illinois|DuPage]]
+|government_type = [[Mayor–council government|Mayor–council]]
+|leader_title           = [[Mayor of Chicago|Mayor]]
+|leader_name            = [[Rahm Emanuel]] ([[Democratic Party (United States)|D]])
+|leader_title1          = [[Chicago City Council|City Council]]
+|area_magnitude = 1 E+8
+|area_total_sq_mi  = 234.0
+|area_total_km2 = 606.1
+|area_land_sq_mi = 227.2
+|area_land_km2 =
+|area_water_sq_mi = 6.9
+|area_water_km2 =
+|area_water_percent=3.0
+|area_urban_km2 =
+|area_urban_sq_mi = 2122.8
+|area_metro_km2 =
+|area_metro_sq_mi = 10874
+|population_as_of = 2011 Estimate
+|population_total = 2,707,120
+|population_rank  = [[List of United States cities by population|3rd US]]
+|population_note =
+|population_footnotes =&lt;ref name=population1/&gt;&lt;ref name=metro&gt;{{cite web|url=http://www.census.gov/prod/cen2010/briefs/c2010br-01.pdf|title=Population Change for the Ten Most Populous and Fastest Growing Metropolitan Statiscal Areas: 2000 to 2010|date=March 2011|publisher=[[U.S. Census Bureau]] |page=6|accessdate=April 12, 2011}}&lt;/ref&gt;
+|population_urban = 8711000
+|population_metro = 9461105
+|population_density_sq_mi = 11864.4
+|population_density_km2 = 4447.4
+|population_demonym = Chicagoan
+|timezone = [[Central Standard Time|CST]]
+|utc_offset = −06:00
+|timezone_DST = [[Central Daylight Time|CDT]]
+|utc_offset_DST = −05:00
+|area_code = [[Area code 312|312]], [[Area code 773|773]], [[Area code 872|872]]
+|elevation_m =
+|elevation_ft = 597
+|latd = 41
+|latm = 52
+|lats = 55
+|latNS = N
+|longd = 87
+|longm = 37
+|longs = 40
+|longEW = W
+|established_title = Settled
+|established_date = 1770s
+|established_title2 = [[Municipal corporation|Incorporated]]
+|established_date2 = March 4, 1837
+|footnotes =&lt;ref name=&quot;gnis&quot;&gt;{{gnis|428803|City of Chicago}}&lt;/ref&gt;
+}}
+'''Chicago''' ({{IPAc-en|audio=En-us-Chicago-2.ogg|ʃ|ɪ|ˈ|k|ɑː|ɡ|oʊ}} or {{IPAc-en|ʃ|ɪ|ˈ|k|ɔː|ɡ|oʊ}}) is the [[List of United States cities by population|third most populous city]] in the [[United States]]. Located in the State of [[Illinois]], the city has approximately 2.7&amp;nbsp;million residents.&lt;ref name=population1&gt;{{cite web|url=http://2010.census.gov/news/releases/operations/cb11-cn31.html
+|title=U.S. Census Bureau Delivers Illinois' 2010 Census Population Totals, Including First Look at Race and Hispanic Origin Data for Legislative Redistricting
+|publisher=U.S. Census Bureau
+|accessdate=February 20, 2011}}&lt;/ref&gt; Its [[metropolitan area]], sometimes called &quot;[[Chicago metropolitan area|Chicagoland]]&quot;, is the third-largest in the United States, after [[New York metropolitan area|New York City]] and [[Greater Los Angeles Area|Los Angeles]],&lt;ref&gt;{{cite web|url=http://www.citypopulation.de/world/Agglomerations.html |title=The Principal Agglomerations of the World – Population Statistics &amp; Maps |publisher=Citypopulation.de |date=April 5, 2011 |accessdate=July 3, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_NSRD_GCTPL2.US24PR&amp;prodType=table |title=U.S. Census Bureau table of metropolitan statistical areas |publisher=Factfinder2.census.gov |date=October 5, 2010 |accessdate=July 3, 2011}}&lt;/ref&gt;&lt;ref&gt;Wikipedia article on metropolitan statistical areas [[Table of United States Metropolitan Statistical Areas#cite note-PopEstCBSA-2]]&lt;/ref&gt; with an estimated 9.8&amp;nbsp;million people. Chicago is the [[county seat]] of [[Cook County, Illinois|Cook County]],{{GR|dateform=mdy|6}} though a small portion of the city limits also extend into [[DuPage County, Illinois|DuPage County]].
+
+Chicago was incorporated as a city in&amp;nbsp;1837, near a [[Chicago Portage|portage]] between the [[Great Lakes]] and the [[Mississippi watershed|Mississippi River watershed]].&lt;ref name=&quot;Telecommunications Hub&quot;&gt;{{cite web|url=http://www.worldbusinesschicago.com/Portals/0/infocenter_files/telecom_hub.pdf|publisher=World Business Chicago|format=PDF|title=Telecommunications Hub|accessdate=April 15, 2009}}{{Dead link|date=March 2010}}&lt;/ref&gt; Today, Chicago is listed as an alpha+ global city by the [[Globalization and World Cities Research Network]], and ranks seventh in the world in the 2012 [[Global cities#Global Cities Index|Global Cities Index]]. The city is an international hub for finance, commerce, industry, telecommunications, and transportation, with [[O'Hare International Airport]] being the [[World's busiest airports by traffic movements|second-busiest airport in the world in terms of traffic movements]]. {{As of|2008|alt=In 2008}}, the city hosted 45.6&amp;nbsp;million domestic and overseas visitors.&lt;ref name=&quot;visitors&quot;&gt;{{cite web| title=2008 Visitor Volume Economic Impact| url=http://www.choosechicago.com/media/statistics/visitor_impact/Pages/default.aspx|publisher=Chicago Convention and Tourism Bureau|year=2010|accessdate=May 7, 2010}}&lt;/ref&gt; Among metropolitan areas, Chicago has the fourth-largest gross domestic product (GDP) in the world, just behind [[Tokyo Metropolitan Area|Tokyo]], [[New York metropolitan area|New York City]], and [[Greater Los Angeles|Los Angeles]], and ranking ahead of [[Greater London|London]] and [[Paris aire urbaine|Paris]].&lt;ref name=&quot;foreignpolicy1&quot;&gt;{{cite web|url=http://www.foreignpolicy.com/node/373401 |title=Global Cities 2010: The Rankings |publisher=Foreign Policy |accessdate=November 6, 2010}}&lt;/ref&gt; Chicago is one of the most important [[Worldwide Centres of Commerce|Worldwide Centers of Commerce]] and trade.
+
+Chicago's notability has found expression in numerous forms of popular culture, including novels, plays, movies, songs, various types of journals (for example, sports, entertainment, business, trade, and academic), and the news media. The city has many nicknames, which reflect the impressions and opinions about historical and contemporary Chicago. The best known include: &quot;Chi-town&quot;, [[Origin of the name &quot;Windy City&quot;|&quot;Windy City,&quot;]] &quot;Second City&quot;,{{#tag:ref|[[A. J. Liebling#Legacy|A.&amp;nbsp;J.&amp;nbsp;Liebling]], a [[New York City]] writer, coined the term &quot;Second City&quot;, labeling Chicago a provincial backwater.|group=&quot;n&quot;}} &quot;Hog Butcher for the World&quot; and the &quot;City of Big Shoulders&quot;.{{#tag:ref|[[Carl Sandburg]] referred to Chicago as the &quot;City of Big Shoulders&quot; in one of his poems, referencing both the [[blue-collar]] powerhouse of Chicago's early economy as well as its numerous skyscrapers (whose steel frame designs were largely pioneered in Chicago).&lt;ref&gt;{{cite web|url=http://carl-sandburg.com/chicago.htm |title=Carl Sandburg Poems – Chicago |publisher=Carl-sandburg.com |accessdate=September 14, 2009}}&lt;/ref&gt;|group=&quot;n&quot;}}
+
+==History==
+{{Main|History of Chicago}}
+
+{{See also|Origin of the name &quot;Windy City&quot;}}
+During the mid-18th century, the area was inhabited by a Native American tribe known as the [[Potawatomi people|Potawatomi]], who had taken the place of the [[Miami tribe|Miami]] and [[Sac and Fox Nation|Sauk and Fox]] peoples. The 1780s saw the arrival of the first known non-indigenous permanent settler in Chicago, [[Jean Baptiste Point du Sable]], who is believed to be of African and European (French) descent.&lt;ref name=&quot;Swenson&quot;&gt;{{cite web|last=Swenson|first=John W|title=Jean Baptiste Point de Sable—The Founder of Modern Chicago|url=http://www.earlychicago.com/essays.php?essay=7|work=Early Chicago|publisher=Early Chicago, Inc.|accessdate=August 8, 2010|year=1999}}&lt;/ref&gt; In 1795, following the [[Northwest Indian War]], an area that was to be part of Chicago was turned over to the United States for a military post by native tribes in concordance with the [[Treaty of Greenville]].
+
+In 1803, the [[United States Army]] built [[Fort Dearborn]], which was destroyed in the [[War of 1812]], [[Battle of Fort Dearborn]]. The [[Odawa people|Ottawa]], [[Ojibwe]], and Potawatomi tribes had ceded additional land to the United States in the 1816 [[Treaty of St.&amp;nbsp;Louis]]. The Potawatomi were eventually forcibly removed from their land following the [[Treaty of Chicago]] in 1833. On August 12, 1833, the Town of Chicago was organized with a population of around 200.&lt;ref&gt;{{cite web| title= Timeline: Early Chicago History| url= http://www.pbs.org/wgbh/amex/chicago/timeline/index.html| archiveurl= http://www.webcitation.org/5h38n983V| work=Chicago: City of the Century | publisher=WGBH Educational Foundation And Window to the World Communications, Inc.| archivedate= May 26, 2009| year= 2003| accessdate=May 26, 2009}}&lt;/ref&gt;  Within seven years it would grow to a population of over 4,000. On June 15, 1835, the first public land sales commenced with [[Edmund Dick Taylor]] as U.S. receiver of public moneys.  The City of Chicago was incorporated on Saturday, March 4, 1837.&lt;ref&gt;{{cite web|url=http://articles.chicagotribune.com/2003-03-04/news/0303040230_1_first-inaugural-address-iran-contra-affair-comic-actor-john-candy|title=On March 4, 1837, the city of Chicago was incorporated and...|publisher=Copyright © 2011 Tribune Company|date=2003-03-04|accessdate=2012-09-04}}&lt;/ref&gt;
+
+The name &quot;Chicago&quot; is derived from a French rendering of the Native American word ''shikaakwa'', translated as &quot;wild onion&quot; or &quot;wild garlic&quot;, from the [[Miami-Illinois language]].&lt;ref&gt;For a historical account of interest, see the section entitled &quot;Origin of the word Chicago&quot; in Andreas, Alfred Theodore, ''History of Chicago,'' A.&amp;nbsp;T.&amp;nbsp;Andreas, Chicago (1884) pp 37–38.&lt;/ref&gt;&lt;ref&gt;{{Cite journal| author=Swenson, John F.  | title = Chicagoua/Chicago: The origin, meaning, and etymology of a place name | journal=Illinois Historical Journal | volume = 84 | issue = 4   | date = Winter 1991 | pages = 235–248   | issn = 0748-8149 | oclc = 25174749 }}&lt;/ref&gt;&lt;ref name=&quot;mcc&quot;&gt;{{cite web|url= http://linguistlist.org/issues/12/12-3157.html|title= &quot;Chicago&quot; Etymology|author=McCafferty, Michael|date=December 21, 2001|publisher=The LINGUIST List |accessdate=October 22, 2009}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=McCafferty|first=Michael|date=Summer 2003|title=A Fresh Look at the Place Name Chicago|journal=Journal of the Illinois State Historical Society|volume=96|issue=2|publisher=Illinois State Historical Society|issn=1522-1067|url= http://findarticles.com/p/articles/mi_qa3945/is_200307/ai_n9266765/?tag=content;col1|accessdate=October 22, 2009}}{{dead link|date=February 2012}}&lt;/ref&gt; The first known reference to the site of the current city of Chicago as &quot;Checagou&quot; was by [[René-Robert Cavelier, Sieur de La Salle|Robert de LaSalle]] around 1679 in a memoir written about the time.&lt;ref&gt;Quaife, Milton M. ''Checagou'', (Chicago: [[University of Chicago Press]]., 1933).&lt;/ref&gt; The wild garlic plants, ''[[Allium tricoccum]]'', were described by LaSalle's comrade, naturalist-diarist [[Henri Joutel]], in his journal of LaSalle's last expedition.&lt;ref name=autogenerated1&gt;{{cite web| last = Swenson | first = John F.|title = Chicago: Meaning of the Name and Location of Pre-1800 European Settlements  | work=Early Chicago |  date = Winter 1991 | url = http://www.earlychicago.com/essays.php?essay=1 | accessdate =May 22, 2010}}&lt;/ref&gt;&lt;ref name=&quot;zeldes&quot;&gt;{{cite web| last = Zeldes | first = Leah A.| title = Ramping up: Chicago by any other name would smell as sweet  | work=Dining Chicago | publisher=Chicago's Restaurant &amp; Entertainment Guide, Inc.  | date = April 5, 2010 | url = http://www.diningchicago.com/blog/2010/04/05/ramping-up-chicago-by-any-other-name-would-smell-as-sweet/ | accessdate =May 22, 2010}}&lt;/ref&gt;
+
+===Rapid growth and development===
+[[File:Chicago - State St at Madison Ave, 1897.ogv|left|thumb|[[State Street (Chicago)|State]] and [[Madison Street (Chicago)|Madison Streets]], the busiest corner in Chicago (1897)]]
+As the site of the [[Chicago Portage]], the city emerged as an important transportation hub between the eastern and western United States. Chicago's first railway, [[Galena and Chicago Union Railroad]], opened in 1848, which also marked the opening of the [[Illinois and Michigan Canal]]. The canal allowed steamboats and sailing ships on the [[Great Lakes]] to connect to the [[Mississippi River]]. A flourishing economy brought residents from rural communities and [[Immigration to the United States|immigrants]] abroad. Manufacturing and retail sectors became dominant among Midwestern cities, influencing the American economy, particularly in meatpacking, with the advent of the [[refrigerator car|refrigerated rail car]] and the regional centrality of the city's [[Union Stock Yards]].&lt;ref&gt;Boyle, Elizabeth and Rodolfo Estrada. (1994) [http://www.oznet.ksu.edu/meatscience/column/industry.htm/ &quot;Development of the U.S. Meat Industry&quot;]{{dead link|date=November 2010}} – Kansas State University Department of Animal Sciences and Industry.&lt;/ref&gt;
+
+In the 1850s Chicago gained national political prominence as the home of Senator [[Stephen Douglas]], the champion of the [[Kansas-Nebraska Act]] and &quot;popular sovereignty&quot; approach to the issue of the spread of slavery.&lt;ref&gt;{{cite web|title=Stephen Douglas|url=http://www.lib.uchicago.edu/e/spcl/excat/douglas5.html|publisher=University of Chicago|accessdate=May 29, 2011}}&lt;/ref&gt;  These issues also helped propel another Illinoisan, [[Abraham Lincoln]], to the national stage. Lincoln was nominated in Chicago for the nation's presidency at the [[1860 Republican National Convention]] and went on to defeat Douglas in the general election, setting the stage for the [[American Civil War]].
+
+To accommodate [[Chicago#Demographics|rapid population growth]] and demand for better sanitation, the city implemented various infrastructural improvements. In February 1856, the Chesbrough plan for the building of the United States' first comprehensive sewerage system was approved by the Common Council.&lt;ref&gt;{{cite web|url=http://www.jonathanriley.net/chn.html#y1856_m02_d14 |title=Chicago Daily Tribune, Thursday Morning, February 14 |publisher=Jonathanriley.net |accessdate=May 4, 2009}}&lt;/ref&gt; The project [[Raising of Chicago|raised much of central Chicago]] to a new grade. While raising Chicago, and at first improving the health of the city, the untreated sewage and industrial waste now flowed into the [[Chicago River]], then into [[Lake Michigan]], polluting the primary source of fresh water for the city. The city responded by tunneling two miles (3&amp;nbsp;km) out into Lake Michigan to newly built [[water crib]]s. In 1900, the problem of sewage contamination was largely resolved when the city reversed the flow of the Chicago River so that it flowed away from Lake Michigan, rather than into it. This project began with the construction and improvement of the Illinois and Michigan Canal, and was completed with the [[Chicago Sanitary and Ship Canal]] that connects to the [[Illinois River]], which flows into the [[Mississippi River]].
+[[File:Chicago-fire1.jpg|thumb|right|Artist's rendering of the [[Great Chicago Fire|Great Chicago Fire of 1871]]]]
+In 1871, the [[Great Chicago Fire]] broke out, destroying an area of about 4 miles long and 1 mile wide, a large section of the city at the time. Much of the city, including railroads and [[Union Stock Yard|stockyards]], survived intact, and from the ruins of the previous wooden structures arose more modern constructions of steel and stone which would set the precedent for worldwide construction.&lt;ref&gt;Bruegmann, Robert (2004–2005). [http://www.encyclopedia.chicagohistory.org/pages/181.html Built Environment of the Chicago Region]. ''[[Encyclopedia of Chicago]] (online version)''.&lt;/ref&gt; During its rebuilding period, Chicago constructed the world's [[Home Insurance Building|first skyscraper]] in 1885, using [[steel frame|steel-skeleton]] construction.&lt;ref&gt;Allen, Frederick E. (March 2003). &quot;[http://americanheritage.com/articles/magazine/ah/2003/1/2003_1_68.shtml Where They Went to See the Future]{{dead link|date=July 2011}}&quot; ''[[American Heritage (magazine)|American Heritage]]''. Retrieved 7-29-2010.&lt;/ref&gt;  Chicago's flourishing economy attracted huge numbers of new immigrants from [[Europe]] and migrants from the eastern states. Of the total population in 1900 not less than 77% were foreign-born, or born in the United States of foreign parentage. [[Germans]], [[Irish people|Irish]], [[Poles]], [[Swedes]] and [[Czechs]] made up nearly two-thirds of the foreign-born population (by 1900, whites were 98.1% of the city's population).&lt;ref&gt;&quot;[http://www.1911encyclopedia.org/Chicago#Population Chicago]&quot;. 1911 Encyclopædia Britannica.&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=U.S. Census Bureau|url=http://www.census.gov/population/www/documentation/twps0076/twps0076.html}}&lt;/ref&gt;  [[Labor history of the United States|Labor conflicts]] followed the industrial boom and the rapid expansion of the labor pool, including the [[Haymarket affair]] on May 4, 1886. Concern for social problems among Chicago's immigrant poor led [[Jane Addams]] to co‑found [[Hull House]] in 1889. Programs developed there became a model for the new field of social work.
+
+During the 1870s and 1880s, Chicago attained national stature as the leader in the movement to improve public health. City, and later state laws, that upgraded standards for the medical profession and fought urban epidemics of cholera, small pox, and yellow fever were not only passed, but also enforced. These in turn became templates for public health reform in many other cities and states.&lt;ref&gt;{{cite journal |first=Clinton |last=Sandvick |year=2009 |title=Enforcing Medical Licensing in Illinois: 1877–1890 |journal=Yale Journal of Biology and Medicine |volume=82 |issue=2 |pages=67–74 |pmid=19562006 |pmc=2701151}}&lt;/ref&gt; The city invested in many large, well-landscaped [[Chicago Park District|municipal parks]], which also included public sanitation facilities. The chief advocate and driving force for improving public health in Chicago was [[John Henry Rauch|Dr. John H. Rauch, M.D.]], who established a plan for Chicago's park system in 1866, created Lincoln Park by closing a cemetery filled with festering, shallow graves, and helped establish a new Chicago Board of Health in 1867 in response to an outbreak of cholera. Ten years later he became the secretary and then the president of the first Illinois State Board of Health, which carried out most of its activities in Chicago.&lt;ref&gt;{{cite journal |first=William K. |last=Beatty |year=1991 |title=John H. Rauch – Public Health, Parks and Politics |journal=Proceedings of the Institute of Medicine of Chicago |volume=44 |pages=97–118 }}&lt;/ref&gt;
+
+In the 19th century, Chicago became the nation's railroad center, a title it still holds. In 1883, the standardized system of North American [[Time Zones]] was adopted by the general time convention of railway managers in Chicago.&lt;ref&gt;''[http://books.google.com/books?id=GmfNAAAAMAAJ&amp;pg=PA19 Annual report of the Commissioner of Railroads made to the Secretary of the Interior for the year ending June 30, 1883],'' pp. 19–20. Washington, DC: Government Printing Office, 1883.&lt;/ref&gt; This gave the continent its uniform system for telling time.
+
+In 1893, Chicago hosted the [[World's Columbian Exposition]] on former marshland at the present location of [[Jackson Park (Chicago)|Jackson Park]]. The Exposition drew 27.5&amp;nbsp;million visitors, and is considered the most influential world's fair in history.&lt;ref name=&quot;&quot;Rich History&quot;&gt;{{cite web| title=Chicago's Rich History| url=http://www.choosechicago.com/attendees/about_chicago/Pages/chicago_history.aspx| publisher=Chicago Convention and Tourism Bureau| accessdate=June 10, 2011}}&lt;/ref&gt;  The [[University of Chicago]] was founded in 1892 on the same South Side location. The term &quot;midway&quot; for a fair or carnival referred originally to the [[Midway Plaisance]], a strip of park land that still runs through the University of Chicago campus and connects [[Washington Park (Chicago park)|Washington]] and Jackson Parks.
+[[File:Unemployed men queued outside a depression soup kitchen opened in Chicago by Al Capone, 02-1931 - NARA - 541927.jpg|thumb|Men outside a soup kitchen in Chicago during [[the Great Depression]] (1931)]]
+
+===20th and 21st centuries===
+The ratification of the 18th amendment to the Constitution in 1919 made the production and sale (including exportation) of alcoholic beverages illegal in the United States.  This ushered in the beginning of what is known as the Gangster Era, a time that roughly spans from 1919 until 1933 when the Prohibition was repealed. The 1920s saw [[American gangsters during the 1920s|gangsters]], including [[Al Capone]],Dion O’Banion, Bugs Moran and Tony Accardo battle law enforcement and each other on the streets of Chicago during the [[Prohibition in the United States|Prohibition]] era.&lt;ref&gt;{{cite web|title=Gang (crime) – History |url=http://www.britannica.com/EBchecked/topic/225308/gang|publisher=Britannica Online Encyclopedia|year=2009|accessdate=June 1, 2009}}&lt;/ref&gt; Chicago was the location of the famous (or infamous) St. Valentine’s Day Massacre in 1929 where Al Capone sent men to gun down members of his rival gang, North Side, led by Bugs Moran.
+In 1924, Chicago was the first [[United States of America|American]] city to have a homosexual-rights organization, the [[Society for Human Rights]]. This organization produced the first American publication for gays, ''[[Friendship and Freedom]]''.
+
+The 1920s also saw a major expansion in industry. The availability of jobs attracted blacks from the South. Between 1910 and 1930, the black population of Chicago dramatically increased from 44,103 to 233,903.&lt;ref&gt;&quot;[http://bentley.umich.edu/research/publications/migration/ch1.php Detroit and the Great Migration, 1916–1929 by Elizabeth Anne Martin]&quot;. Bentley Historical Library, University of Michigan.&lt;/ref&gt; Arriving in the hundreds of thousands during the [[Great Migration (African American)|Great Migration]], the newcomers had an immense cultural impact. It was during this wave that Chicago became a center for [[jazz]], with [[Joe &quot;King&quot; Oliver|King Oliver]] leading the way.&lt;ref&gt;{{cite web|url=http://www.redhotjazz.com/bessie.html |title=Bessie Smith |accessdate=October 29, 2007 |publisher=The Red Hot Archive}}&lt;/ref&gt;
+
+In 1933, Chicago Mayor [[Anton Cermak]] was fatally wounded in [[Miami, Florida]] during a [[List of United States presidential assassination attempts and plots#Franklin D. Roosevelt|failed assassination]] attempt on President-elect [[Franklin D. Roosevelt]]. In 1933 and 1934, the city celebrated its centennial by hosting the [[Century of Progress]] International Exposition [[Worlds Fair]].&lt;ref&gt;{{cite web|url=http://collections.carli.illinois.edu/cdm4/index_uic_cop.php?CISOROOT=/uic_cop |title=Century of Progress World's Fair, 1933–1934 (University of Illinois at Chicago) : Home |publisher=Collections.carli.illinois.edu |accessdate=July 3, 2011}}&lt;/ref&gt; The theme of the fair was technological innovation over the century since Chicago's founding.&lt;ref&gt;{{cite web|url=http://encyclopedia.chicagohistory.org/pages/225.html |title=Century of Progress Exposition |publisher=Encyclopedia.chicagohistory.org |accessdate=July 3, 2011}}&lt;/ref&gt;
+[[File:20090524 Buildings along Chicago River line the south border of the Near North Side and Streeterville and the north border of Chicago Loop, Lakeshore East and Illinois Center.jpg|left|alt=Buildings along the sides of a river in a panorama view|thumb|The [[Chicago River]] is the south border (right) of the [[Near North Side, Chicago|Near North Side]] and [[Streeterville]] and the north border (left) of [[Chicago Loop]], [[Lakeshore East]] and [[Illinois Center]] (from [[Lake Shore Drive]]'s [[Link Bridge]] with [[Trump International Hotel and Tower (Chicago)|Trump International Hotel and Tower]] at jog in the river in the center)]]
+On December 2, 1942, physicist [[Enrico Fermi]] conducted the world's first controlled nuclear reaction at the [[University of Chicago]] as part of the top-secret [[Manhattan Project]]. This led to the creation of the atomic bomb by the United States, which it used in [[World War II]] in 1945.
+
+Mayor [[Richard J. Daley]], a [[Democratic Party (United States)|Democrat]], was elected in 1955, in the era of [[political machine|machine politics]]. Starting in the early 1960s due to blockbusting, many white residents, as in most American cities, left the city for the suburbs. Whole neighborhoods were completely changed based on race. Structural changes in industry caused heavy losses of jobs for lower skilled workers. In 1966, [[James Bevel]], [[Martin Luther King, Jr.]], and [[Albert Raby]] led the Chicago Open Housing Movement, which culminated in agreements between Mayor Richard J. Daley and the movement leaders. Two years later, the city hosted the tumultuous [[1968 Democratic National Convention]], which featured physical confrontations both inside and outside the convention hall, including full-scale [[riot]]s, or in some cases [[police riot]]s, in city streets. Major construction projects, including the Sears Tower (now known as the [[Willis Tower]], which in 1974 became the [[List of tallest buildings and structures in the world|world's tallest building]]), [[University of Illinois at Chicago]], [[McCormick Place]], and O'Hare International Airport, were undertaken during Richard J. Daley's tenure. In 1979, [[Jane Byrne]], the city's first female mayor, was elected. She popularized the city further as a [[filming location|movie location]] and [[Tourism in the United States|tourist]] destination.
+
+In 1983, [[Harold Washington]] became the first black mayor of the city of Chicago. Washington's first term in office saw attention given to poor and previously neglected minority neighborhoods. He was re‑elected in 1987 but died of a heart attack a short time later. The balance of Washington's second term was served by 6th ward Alderman Eugene Sawyer. [[Richard M. Daley]], son of Richard J. Daley, was elected in 1989. His accomplishments included improvements to parks and creating incentives for [[sustainable development]]. After successfully standing for re-election five times, and becoming Chicago's longest serving mayor, Richard M. Daley announced he would step down at the end of his final term in 2011.
+
+On February 23, 2011, former [[United States House of Representatives|Illinois Congressman]] and White House Chief of Staff, [[Rahm Emanuel]], won the municipal election to become mayor of Chicago, heavily beating five rivals with 55 percent of the vote.&lt;ref&gt;{{cite web|url=http://www.msnbc.msn.com/id/41715205/ns/politics-more_politics/ |title=News: Rahm Emanuel wins Chicago mayoral race |publisher=MSNBC |date=February 23, 2011 |accessdate=July 3, 2011}}&lt;/ref&gt; Emanuel was sworn in as Mayor on May 16, 2011.
+
+==Geography==
+{{Main|Geography of Chicago}}
+
+===Topography===
+[[File:Full chicago skyline.jpg|thumb|Downtown and the North Side with beaches lining the waterfront]]
+Chicago is located in northeastern Illinois on the southwestern shores of [[Lake Michigan]]. It is the principal city in [[Chicago Metropolitan Area]] situated in the [[Midwestern United States]] and the [[Great Lakes region (North America)|Great Lakes region]].  Chicago rests on a [[continental divide]] at the site of the [[Chicago Portage]], connecting the [[Mississippi River]] and the [[Great Lakes]] [[drainage basin|watersheds]]. The city lies beside huge freshwater Lake Michigan, and two rivers—the [[Chicago River]] in downtown and the [[Calumet River]] in the industrial far South Side—flow entirely or partially through Chicago. Chicago is a world port city as the [[St Lawrence Seaway]] connects Lake Michigan with the [[Atlantic Ocean]]. The [[Chicago Sanitary and Ship Canal]], which runs to the west of the City, connects the Chicago River with the [[Mississippi River]], the fourth-longest river in the world. Chicago's history and economy are closely tied to its proximity to Lake Michigan. While the Chicago River historically handled much of the region's waterborne cargo, today's huge [[lake freighter]]s use the city's [[Port of Chicago|Lake Calumet Harbor]] on the South Side. The lake also provides another positive effect, moderating Chicago's climate; making waterfront neighborhoods slightly warmer in winter and cooler in summer.
+
+When Chicago was founded in 1833, most of the early building began around the mouth of the Chicago River, as can be seen on a map of the city's original 58 blocks.&lt;ref&gt;{{cite web|url=http://www.encyclopedia.chicagohistory.org/pages/11175.html|title=Thompson's Plat of 1830|publisher=Chicago Historical Society|year=2004|accessdate=July 3, 2011}}&lt;/ref&gt; The overall [[Land grading|grade]] of the city's central, built-up areas, is relatively consistent with the natural flatness of its overall natural geography, generally exhibiting only slight differentiation otherwise. The average land elevation is {{convert|579|ft|abbr=on}} [[Above mean sea level|above sea level]]. The lowest points are along the lake shore at {{convert|577|ft|abbr=on}}, while the highest point, at {{convert|735|ft|abbr=on}}, is a landfill located in the [[Hegewisch, Chicago|Hegewisch]] community area on the city's far south side.
+
+[[File:20070909 Chicago Half Marathon.JPG|thumb|left|[[Chicago Half Marathon]] on [[Lake Shore Drive]] next to [[Harold Washington Park]] on the [[South Side (Chicago)|South Side]]]]
+The [[Chicago Loop]] is the central business district, but Chicago is also a city of [[Chicago#Neighborhoods|neighborhoods]]. [[Lake Shore Drive]] runs adjacent to a large portion of Chicago's lakefront. Some of the parks along the waterfront include [[Lincoln Park]], [[Grant Park (Chicago)|Grant Park]], [[Burnham Park (Chicago)|Burnham Park]] and [[Jackson Park (Chicago)|Jackson Park]]. 29 public [[Chicago beaches|beaches]] are also found along the shore. Landfill extends into portions of the lake providing space for [[Navy Pier]], [[Northerly Island]], the [[Museum Campus Chicago|Museum Campus]], and large portions of the [[McCormick Place]] Convention Center. Most of the city's high-rise commercial and residential buildings can be found close to the waterfront.
+
+An informal name for the entire [[Chicago metropolitan area]] is &quot;Chicagoland&quot;. There is no precise definition for the term &quot;Chicagoland&quot;, but it generally means the city and its suburbs combined together. The [[Chicago Tribune]], which coined the term, includes the city of Chicago, the rest of [[Cook County, Illinois|Cook County]], eight nearby Illinois counties: [[Lake County, Illinois|Lake]], [[McHenry County, Illinois|McHenry]], [[DuPage County, Illinois|DuPage]], [[Kane County, Illinois|Kane]], [[Kendall County, Illinois|Kendall]], [[Grundy County, Illinois|Grundy]], [[Will County, Illinois|Will]] and [[Kankakee County, Illinois|Kankakee]], and three counties in [[Indiana]]: [[Lake County, Indiana|Lake]], [[Porter County, Indiana|Porter]] and [[LaPorte County, Indiana|LaPorte]].&lt;ref&gt;{{cite news|url=http://www.chicagotribune.com/classified/realestate/communities/ |title=Chicago Tribune Classifieds map of Chicagoland |work=Chicago Tribune  |accessdate=May 4, 2009}}&lt;/ref&gt; The Illinois Department of Tourism defines Chicagoland as Cook County without the city of Chicago, and only Lake, DuPage, Kane and Will counties.&lt;ref&gt;{{cite web|title=Chicagoland Region|url=http://www.enjoyillinois.com/topSpots/region.aspx?area=chicagoland|year=2009|work=EnjoyIllinois.com|publisher=Illinois Department of Tourism|accessdate=August 14, 2009}}{{dead link|date=February 2012}}&lt;/ref&gt; The [[Chicagoland Chamber of Commerce]] defines it as all of Cook and DuPage, Kane, Lake, McHenry and Will counties.&lt;ref&gt;[http://www.chicagolandchamber.org/sub/fast_facts.asp Chicagoland Chamber of Commerce]{{dead link|date=November 2010}}&lt;/ref&gt;
+[[File:Chicago-lighthouse.jpg|thumb|[[Chicago Harbor Light]]house]]
+
+===Climate===
+{{main|Climate of Chicago}}
+
+The city lies within the [[humid continental climate]] zone, and experiences four distinct seasons. [[Summer]]s are hot and humid, with a July daily average of {{convert|84.7|°F|1}}. In a normal summer, temperatures exceed {{convert|90|°F|0|abbr=on}} on 21&amp;nbsp;days.&lt;ref name=&quot;Chicago monthly averages&quot;&gt;[http://www.weather.com/outlook/travel/businesstraveler/wxclimatology/monthly/graph/ORD:9 Monthly Averages for O'Hare International Airport]. The Weather Channel. Retrieved December 26, 2011.&lt;/ref&gt; [[Winter]]s are cold, snowy, and windy, with some sunny days, and with a January average of {{convert|23.5|°F|1}}. Temperatures often (for 43&amp;nbsp;days on average) stay below freezing for an entire day, and lows below {{convert|0|°F|0|abbr=on}} occur on eight nights per year.&lt;ref name=&quot;Chicago monthly averages&quot;/&gt; [[Spring (season)|Spring]] and [[Autumn]] are mild seasons with low humidity.
+
+According to the [[National Weather Service]], Chicago's highest official temperature reading of {{convert|107|F|abbr=on}} was recorded on June 1, 1934, and July 11, 1936, both at [[Chicago Midway International Airport|Midway Airport]]. The lowest temperature of {{convert|−27|°F|0}} was recorded on January 20, 1985,&lt;ref name=&quot;Chicago monthly averages&quot;/&gt; at O'Hare Airport. The city can experience extreme winter [[cold wave]]s and summer [[heat wave]]s that may last for several consecutive days. Severe weather is uncommon in the Chicago area, though there have been some exceptions such as the [[1967 Oak Lawn tornado outbreak|F4&amp;nbsp;tornado]] that devastated the south side of the city on April 21, 1967.
+{{-}}
+{{Chicago weatherbox}}
+
+==Cityscape==
+[[File:Chicago sunrise 1.jpg|center|700px|thumb|Chicago skyline April 18, 2009, from [[Northerly Island]] looking west.]]
+[[File:One Summer Night in the Windy City.jpg|center|700px|thumb|Chicago August 9, 2010, from [[John Hancock Center]] looking south.]]
+
+===Architecture===
+{{Further|Architecture of Chicago|List of tallest buildings in Chicago|List of Chicago Landmarks}}
+[[Image:2010-03-03 1856x2784 chicago chicago building.jpg|thumb|right|The ''[[Chicago Building]]'' by [[Holabird &amp; Roche]] (1904-1905) is a prime example of the Chicago School, displaying both variations of the Chicago window]]
+The destruction caused by the Great Chicago Fire led to the largest building boom in the history of the nation. In 1885, the first [[steel frame|steel-framed high-rise building]], the [[Home Insurance Building]], rose in the city as Chicago ushered in the [[Early skyscrapers|skyscraper era]], which would then be followed by many other cities around the world.&lt;ref&gt;[http://www.chipublib.org/004chicago/timeline/skyscraper1.html Chicago (2004)]{{dead link|date=November 2010}}. ''Chicago Public Library''.&lt;/ref&gt; Today, Chicago's skyline is among the world's tallest and most dense.&lt;ref&gt;[http://www.ultrapolisproject.com/ultrapolis_017.htm World's Tallest Cities]. ''UltrapolisProject.com''.&lt;/ref&gt; The United States' two tallest towers are both located in Chicago; [[Willis Tower]] (formerly Sears Tower, and the tallest building in the [[Western Hemisphere]]), and [[Trump International Hotel and Tower (Chicago)|Trump International Hotel and Tower]]. The Loop's historic buildings include the [[Chicago Board of Trade Building]], the [[Fine Arts Building (Chicago)|Fine Arts Building]], [[35&amp;nbsp;East Wacker]], and the [[Chicago Building]], [[860-880 Lake Shore Drive Apartments]] by [[Mies van der Rohe]]. Many other architects have left their impression on the Chicago skyline such as Daniel Burnham, Louis Sullivan, Charles B. Atwood, John Root, and Helmut Jahn.  The [[Merchandise Mart]], once first on the [[list of largest buildings in the world]], and still listed as 20th, has its own [[zip&amp;nbsp;code]], and stands near the junction of the North and South branches of the Chicago River. Presently, the four tallest buildings in the city are [[Willis Tower]] (formerly the Sears Tower, also a building with its own zip code), [[Trump International Hotel and Tower (Chicago)|Trump International Hotel and Tower]], the [[Aon Center (Chicago)|Aon Center]] (previously the Standard Oil Building), and the [[John Hancock Center]]. [[Industrial district]]s, such as some areas on the [[South Side (Chicago)|South Side]], the areas along the [[Chicago Sanitary and Ship Canal]], and [[Northwest Indiana]] are clustered.
+
+Chicago gave its name to the [[Chicago school (architecture)|Chicago School]] and was home to the [[Prairie School]], movements in architecture. Multiple kinds and scales of houses, townhouses, condominiums, and apartment buildings can be found throughout Chicago. Large swaths of the city's residential areas away from the lake are characterized by brick [[bungalow]]s built from the early 20th century through the end of World War II. Chicago is also a prominent center of the [[Polish Cathedral style]] of [[church architecture]]. The Chicago suburb of [[Oak Park, Illinois|Oak Park]] was home to famous architect [[Frank Lloyd Wright]], who had designed The [[Robie House]] located near the [[University of Chicago]] as well as many prominent buildings across the country.
+
+Unlike many Midwestern and East Coast cities, Chicago tends to have wider streets. A positive effect of this is that it alleviates the feeling of being engulfed by the city's large skyscrapers. Most of the city's residential streets also tend to have a wide patch of grass and/or trees between the street and the sidewalk itself. This has the effect of keeping pedestrians walking on the sidewalk further away from the street traffic. Chicago's [[Western Avenue (Chicago)|Western Avenue]] is the longest continuous urban street in the world. Other famous streets include [[Michigan Avenue (Chicago)|North Michigan Avenue]], [[State Street (Chicago)|North State Street]], [[Clark Street (Chicago)|Clark]], and [[Belmont Avenue (Chicago)|Belmont Avenue]]. The [[City Beautiful movement]] inspired Chicago's boulevards and parkways.
+
+===Monuments and public art===
+{{prose|date=August 2012}}
+
+Chicago is famous for its outdoor [[public art]], including works by [[Chagall]], [[Picasso]], [[Joan Miró|Miro]], and [[Magdalena Abakanowicz|Abakanowicz]].
+
+City sculptures additionally honor the many people and topics reflecting the rich [[history of Chicago]]. There are monuments to:
+&lt;div style=&quot;-moz-column-count:2; column-count:2;&quot;&gt;
+* '''[[Tadeusz Kościuszko]]''' by [[Kazimierz Chodzinski]]
+* '''[[Nicholas Copernicus]]''' by [[Bertel Thorvaldsen]]
+* '''[[Karel Havlíček Borovský]]''' by Joseph Strachovsky
+* '''[[Pope John Paul II]]''', several different monuments (including by [[Czesław Dźwigaj]])
+* '''[[Tomáš Garrigue Masaryk]]''' by [[Albin Polasek]]
+* '''[[Irv Kupcinet]]''' by [[Preston Jackson]]
+* '''[[Abraham Lincoln]]''' by [[Augustus Saint Gaudens]]
+* The '''[[Heald Square Monument]]''' featuring [[George Washington]], [[Haym Salomon]], and [[Robert Morris (financier)|Robert Morris]] by [[Lorado Taft]], (completed by [[Leonard Crunelle]])
+* '''[[Christopher Columbus]]''' by [[Carl Brioschi]]
+* '''[[General John A. Logan]]''' by [[Augustus Saint Gaudens]]
+* '''[[Harry Caray]]''' by Omri Amrany and Lou Cella
+* '''[[Jack Brickhouse]]''' by [[Jerry McKenna]]
+* A memorial to the '''[[Haymarket affair]]''' by [[Mary Brogger]]
+* A memorial to the '''[[Great Migration (African American)|Great Northern Migration]]''' by [[Alison Saar]]
+&lt;/div&gt;
+
+There are also preliminary plans to erect a 1:1‑scale replica of [[Wacław Szymanowski]]'s ''[[Art Nouveau]]'' statue of [[Frederic Chopin]] found in [[Warsaw]]'s [[Royal Baths Park|Royal Baths]] along Chicago's lakefront in addition to a different sculpture commemorating the artist in [[Chopin Park (Chicago)|Chopin Park]] for the 200th anniversary of [[Frederic Chopin]]'s birth.&lt;ref&gt;{{cite web |url=http://www.chopinmonumentinchicago.com/ |title=? |author= |date= |work= |publisher= |accessdate=}}&lt;/ref&gt;
+
+===Parks===
+{{Main|Parks of Chicago}}
+{{Multiple image
+ | align     = right
+ | direction = horizontal
+ | header    =
+ | header_align = left/right/center
+ | header_background =
+ | footer    = [[Portage Park (Chicago)|Portage Park]] on the [[Northwest Side, Chicago|Northwest Side]] and [[Washington Square Park (Chicago)|Washington Square Park]] on the [[Near North Side, Chicago|Near North Side]].
+ | footer_align = left/right/center
+ | footer_background =
+ | width     =
+ | image1    = Portage Park Chicago Gate.JPG
+ | width1    = 150
+ | caption1  =
+ | image2    = Washington Square Park &amp; Newberry Library.JPG
+ | width2    = 150
+ | caption2  = }}
+When Chicago was incorporated in 1837, it chose the motto ''Urbs in Horto'', a [[Latin]] phrase which translates into English as &quot;City in a Garden&quot;. Today, the [[Chicago Park District]] consists of 552 parks with over {{convert|7300|acre}} of [[municipal park]]land. There are 33 sand [[Chicago beaches]], a plethora of museums, two world-class conservatories, 16 historic lagoons, and 10 bird and wildlife gardens.&lt;ref&gt;{{cite web|url=http://www.chicagoparkdistrict.com/docs/7fb8e301-0cdd-431b-9dcb-78b2cd6ac348_document.pdf |title=Microsoft Word - 29430CHIdoc.doc |format=PDF |accessdate=April 17, 2010}}{{dead link|date=February 2012}}&lt;/ref&gt; [[Lincoln Park]], the largest of the city's parks, covers {{convert|1200|acre}} and has over 20&amp;nbsp;million visitors each year, making it second only to [[Central Park]] in New York City in number of visitors.&lt;ref&gt;{{cite web|title=City Park Facts |publisher=The Trust for Public Land, Center for City Park Excellence |month=June | year=2006 |url=http://www.tpl.org/tier3_cd.cfm?content_item_id=20531&amp;folder_id=3208|accessdate=July 19, 2006}}{{dead link|date=July 2011}}&lt;/ref&gt; With berths for more than 5,000 boats, the Chicago Park District operates the nation's largest municipal harbor system; even larger than systems in cities such as New York City, Los Angeles, or Miami. In addition to ongoing beautification and renewal projects for the existing parks, a number of new parks have been added in recent years, such as the [[Ping Tom Memorial Park]] in Chinatown, [[DuSable Park (Chicago)|DuSable Park]] on the Near North Side, and most notably, [[Millennium Park]] in a section of one of Chicago's oldest parks, [[Grant Park (Chicago)|Grant Park]] in the Chicago Loop.
+
+The wealth of greenspace afforded by Chicago's parks is further augmented by the [[Cook County Forest Preserves]], a network of open spaces containing forest, [[prairie]], [[wetland]], streams, and lakes that are set aside as natural areas which lie along the city's periphery, home to both the [[Chicago Botanic Garden]] in Glencoe and the [[Brookfield Zoo]] in Brookfield.
+
+===Communities===
+{{refimprove section|date=September 2012}}
+{{See also|Community areas in Chicago}}
+[[File:Chicago community areas map.svg|thumb|[[Community areas in Chicago|Community areas]] of the City of Chicago]]
+Chicago has four main sections: Downtown (which contains the [[Chicago Loop|Loop]]), the North Side, the [[South Side (Chicago)|South Side]], and the West Side. The three sides of the city are represented on the [[Flag of Chicago]] by three horizontal white strips. These sections can further be informally subdivided or grouped, for example as shown on the map (right). Further sectional references are the Northwest side and the Southwest side. In the late 1920s, sociologists at the University of Chicago subdivided the city into 77 distinct [[Community areas in Chicago|community areas]], which can further be subdivided into over [[Neighborhoods in Chicago|200 neighborhoods]].
+
+The central commercial area often is portrayed, as in the map at right, to include parts of [[Near North Side, Chicago|Near North Side]] and [[Near South Side, Chicago|Near South Side]], as well as the [[Chicago Loop|Loop]]. The North Side is the most densely populated residential section of the city and many high-rises are located on this side of the city along the lakefront.
+The South Side is the largest section of the city, encompassing roughly 60% of the city's land area. The South Side contains the [[University of Chicago]] and most of the facilities of the [[Port of Chicago]].
+
+[[Roads and freeways in Chicago|Chicago's streets]] were laid out in a [[Grid plan|street grid]] that grew from the city's original townsite plat. Streets following the [[Public Land Survey System]] section lines later became arterial streets in outlying sections. As new additions to the city were platted, city ordinance required them to be laid out with eight streets to the mile in one direction and sixteen in the other direction. The grid's regularity would provide an efficient means to develop new real estate property. A scattering of diagonal streets, many of them originally Indian trails, also cross the city. Many additional diagonal streets were recommended in the [[Burnham Plan|Plan of Chicago]], but only the extension of [[Ogden Avenue (Chicago)|Ogden Avenue]] was ever constructed.
+
+==Culture and contemporary life==
+{{Further|Culture of Chicago|List of people from Chicago|List of museums and cultural institutions in Chicago}}
+[[File:ChicagoJazzClubAndys.jpg|thumb|upright|right|A Chicago jazz club]]
+[[File:New National Hellenic Museum during the day.jpg|thumb|upright|right|The new [[National Hellenic Museum]], one of a plethora of ethnic museums making up the [[Chicago Cultural Alliance]].]]
+The city's waterfront allure and nightlife has attracted residents and tourists alike. Over one-third of the city population is concentrated in the lakefront neighborhoods (from [[Rogers Park, Chicago|Rogers Park]] in the north to [[South Shore, Chicago|South Shore]] in the south). The city has many upscale dining establishments as well as many ethnic restaurant districts. These districts include the Mexican villages, such as Pilsen along 18th street, and ''La Villita'' along 26th Street; the [[Puerto Rican people|Puerto Rican]] enclave ''Paseo Boricua'' in the [[Humboldt Park, Chicago|Humboldt Park]] neighborhood; &quot;Greektown&quot;, along South Halsted St, immediately west of downtown; &quot;Little Italy&quot;, along Taylor St; &quot;[[Chinatown, Chicago|Chinatown]]&quot;; &quot;[[Polish Patches]]&quot;; &quot;Little Seoul&quot;, around Lawrence Avenue; a cluster of Vietnamese restaurants along Argyle Avenue near Broadway, and [[South Asian|Indian/Pakistani]] along Devon Avenue.
+
+Downtown is the center of Chicago's financial, cultural, and commercial institutions and home to [[Grant Park (Chicago)|Grant Park]] and many of the city's skyscrapers. Many of the city's financial institutions (for example, [[Chicago Board of Trade|CBOT]], [[Chicago Fed]]) are located within a section of downtown called &quot;The Loop&quot;, which is an eight-block by five-block square of city streets that are encircled by elevated rail tracks. The term &quot;The Loop&quot; is largely used by locals to refer to the entire downtown area as well. The central area includes the [[Near North Side, Chicago|Near North Side]], the [[Near South Side, Chicago|Near South Side]], and the [[Near West Side, Chicago#West Loop Gate / West Loop|Near West Side]], as well as the [[Chicago Loop|Loop]]. These areas contribute famous [[tallest buildings in Chicago|skyscrapers]], abundant restaurants, [[Magnificent Mile|shopping]], [[Museum Campus|museums]], a [[Soldier Field|stadium]] for the [[Chicago Bears]], [[McCormick Place|convention facilities]], [[Grant Park (Chicago)|parkland]], and [[Oak Street Beach|beaches]].
+
+The North Side is the most densely populated section of the city outside of downtown and many high-rises line this side of the city along the lakefront. [[Lincoln Park]] is a {{convert|1200|acre|abbr=on|sing=on}} park stretching for {{convert|5.5|mi|abbr=on}} along the waterfront and containing the [[Lincoln Park Zoo]] and the [[Lincoln Park Conservatory]]. The [[River North Gallery District, Near North Side, Chicago|River North]] neighborhood features the nation's largest concentration of contemporary art galleries outside of New York City. As a [[Polish diaspora|Polonia]] center, due to the city's having a very large Polish population, Chicago celebrates every Labor Day weekend at the [[Taste of Polonia]] Festival in the [[Jefferson Park, Chicago|Jefferson Park]] area.&lt;ref name=&quot;Chicago's Polish neighborhoods&quot; &gt;{{cite web| title=Chicago's Polish neighborhoods | url=http://www.usaweekend.com/05_issues/050515/050515travel_diverse.html#chicago | publisher=USA Weekend Magazine | date=May 15, 2005 | accessdate=April 25, 2009}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; The [[Chicago Cubs]] play in the North Side's [[Lakeview, Chicago|Lakeview]] neighborhood, in the [[Wrigleyville]] district. Lakeview is also home to [[Boystown, Chicago|Boystown]], which, along with [[Andersonville, Chicago|Andersonville]], are the best known LGBT neighborhoods.
+
+The South Side is home to the [[University of Chicago]] (UC), ranked one of the world's top ten universities; and the [[Museum of Science and Industry (Chicago)|Museum of Science and Industry]]. [[Burnham Park (Chicago)|Burnham Park]] stretches along the waterfront of the South Side. Two of the city's largest parks are also located on this side of the city: [[Jackson Park (Chicago)|Jackson Park]], bordering the waterfront, hosted the [[World's Columbian Exposition]] in 1893, and is home of the aforementioned museum; and slightly west sits [[Washington Park (Chicago park)|Washington Park]]. The two parks themselves are connected by a wide strip of parkland called the [[Midway Plaisance]], running adjacent to the UC. The South Side hosts one of the city's largest parades, the annual African American [[Bud Billiken Parade and Picnic|Bud Billiken Day]] parade. The American automaker [[Ford Motor Company]] has an assembly plant located on the South Side, and most of the facilities of the [[Port of Chicago]] are here. The [[Chicago White Sox]] play in the South Side's [[Armour Square, Chicago|Armour Square]] neighborhood.
+
+The West Side holds the [[Garfield Park Conservatory]], one of the largest collections of tropical plants in any US city. Prominent Latino cultural attractions found here include [[Humboldt Park, Chicago|Humboldt Park]]'s Institute of Puerto Rican Arts and Puerto Rican Day Parade, as well as the [[National Museum of Mexican Art]] and [[St. Adalbert's in Chicago|St. Adalbert's Church]] in [[Pilsen, Chicago|Pilsen]]. The Near West Side holds the [[University of Illinois at Chicago]] and television production company of [[Oprah Winfrey]]'s [[Harpo Studios]]. The [[Chicago Bulls]] and [[Chicago Blackhawks]] play on Madison Street.
+
+===Entertainment, the arts, and performing arts===
+{{See also|Theatre in Chicago|Visual arts of Chicago}}
+[[File:Chicago Theatre sign Close up.jpg|thumb|left|The [[Chicago Theatre]]]]
+[[File:5415 Szukalski Rycerz.jpg|thumb|upright|right|Arts pioneers such as [[Stanislav Szukalski]] helped to fashion Chicago as a nexus for new trends in art]]
+Chicago's theatre community spawned modern improvisational theater. Two renowned comedy troupes emerged: [[The Second City]] and [[I.O.]] (formerly known as ImprovOlympic). Renowned Chicago theater companies include the [[Steppenwolf Theatre Company]] (on the city's north side), the [[Goodman Theatre]], and the [[Victory Gardens Theater]]. Chicago offers Broadway-style entertainment at theaters such as [[Broadway In Chicago]]'s [[Ford Center for the Performing Arts Oriental Theatre]], [[Broadway In Chicago]]'s [[Bank of America Theatre]], [[Broadway In Chicago]]'s [[Cadillac Palace Theatre]], [[Auditorium Building]] of Roosevelt University, and [[Broadway In Chicago]]'s  Broadway Playhouse at Water Tower Place. [[Polish language]] productions for [[Poles in Chicago|Chicago's large Polish speaking population]] can be seen at the historic [[Gateway Theatre (Chicago, Illinois)|Gateway Theatre]] in [[Jefferson Park, Chicago|Jefferson Park]]. Since 1968, the [[Joseph Jefferson Awards]] are given annually to acknowledge excellence in theater in the Chicago area.
+
+Classical music offerings include the [[Chicago Symphony Orchestra]], recognized as one of the best orchestras in the world,&lt;ref&gt;{{cite web|url=http://www.npr.org/templates/story/story.php?storyId=97291390 | title=Chicago Symphony Tops U.S. Orchestras | author=Tom Huizenga | work=NPR | date=November 21, 2008 | accessdate=December 31, 2008}}&lt;/ref&gt; which performs at [[Symphony Center]]. Also performing regularly at [[Symphony Center]] is the [[Chicago Sinfonietta]], a more diverse and multicultural counterpart to the CSO. A new and interesting addition to the Chicago classical music scene is also the Renovo String Orchestra of Chicago.&lt;ref name=Renovo&gt;[http://evanstonnow.com/story/entertainment/bill-smith/2012-01-30/47564/renovo-invites-romantic-abandon-for-valentines Renovo Strings at the  Music Institute of Chicago]&lt;/ref&gt; In the summer, many outdoor concerts are given in [[Grant Park (Chicago)|Grant Park]] and [[Millennium Park]]. [[Ravinia Park]], located {{convert|25|mi|km|0}} north of Chicago, is also a favorite destination for many Chicagoans, with performances occasionally given in Chicago locations such as the [[Harris Theater (Chicago, Illinois)|Harris Theater]]. The [[Civic Opera House (Chicago)|Civic Opera House]] is home to the [[Lyric Opera of Chicago]]. The [[Lithuanian Opera Company of Chicago]] was founded by [[Lithuanians in the Chicago area|Lithuanian Chicagoans]] in 1956,&lt;ref name=&quot;lithopera&quot;&gt;{{cite web
+| url = http://www.lithoperachicago.org/
+| title = About the Lithuanian Opera Company, Inc. in Chicago
+| accessdate =September 14, 2006
+| publisher=Lithuanian Opera Co.
+}}&lt;/ref&gt; and presents operas in [[Lithuanian language|Lithuanian]].
+
+The [[Joffrey Ballet]] and [[Chicago Festival Ballet]] perform in various venues, including the [[Harris Theater (Chicago, Illinois)|Harris Theater]] in [[Millennium Park]]. Chicago is home to several other modern and jazz dance troupes, such as the [[Hubbard Street Dance Chicago]].
+
+Other live-music genre which are part of the city's cultural heritage include [[Chicago blues]], [[Chicago soul]], [[jazz]], and [[gospel music|gospel]]. The city is the birthplace of [[house music]] and is the site of an influential [[Chicago hip hop|hip-hop scene]]. In the 1980s, the city was a center for industrial, [[punk rock|punk]] and new wave. This influence continued into the [[alternative rock]] of the 1990s. The city has been an epicenter for [[rave]] culture since the 1980s. A flourishing independent rock music culture brought forth Chicago [[independent music|indie]]. Annual festivals feature various acts such as [[Lollapalooza]] and [[Pitchfork Music Festival]].
+
+Chicago has a distinctive fine art tradition. For much of the twentieth century it nurtured a strong style of figurative [[surrealism]], as in the works of [[Ivan Albright]] and [[Ed Paschke]]. In 1968 and 1969, members of the [[Chicago Imagists]], such as [[Roger Brown (artist)|Roger Brown]], [[Leon Golub]], [[Robert Lostutter]], [[Jim Nutt]], and [[Barbara Rossi]] produced bizarre representational paintings.
+
+Chicago is home to a number of large, outdoor works by well-known artists. These include the [[Chicago Picasso]], ''[[Miró's Chicago]]'', ''[[Flamingo (sculpture)|Flamingo]]'' and ''[[Flying Dragon (Calder)|Flying Dragon]]'' by [[Alexander Calder]], ''[[Agora (sculpture)|Agora]]'' by [[Magdalena Abakanowicz]], ''[[Monument with Standing Beast]]'' by [[Jean Dubuffet]], ''[[Batcolumn]]'' by [[Claes Oldenburg]], ''[[Cloud Gate]]'' by [[Anish Kapoor]], ''[[Crown Fountain]]'' by [[Jaume Plensa]], and the ''[[Four Seasons (Chagall)|Four Seasons]]'' mosaic by [[Marc Chagall]].
+
+Chicago also has a nationally televised Thanksgiving parade that occurs annually.  The [[McDonald's Thanksgiving Parade]] is seen across the nation on [[WGN-TV]] and [[WGN America]], featuring a variety of diverse acts from the community, marching bands from across the country, and is the only balloon to feature inflatable balloons every year.
+
+===Tourism===
+{{Main|Tourism in Chicago}}
+[[File:Navy pier.jpg|thumb|left|View of [[Navy Pier]] from the 23rd floor of [[Lake Point Tower]]]]
+[[File:Downtown Chicago Illinois Nov05 img 2607.jpg|thumb|upright|The [[Magnificent Mile]] hosts numerous upscale stores, as well as landmarks like the [[Chicago Water Tower]]]]
+{{As of|2008|alt=In 2008}}, Chicago attracted 32.4&amp;nbsp;million domestic leisure travelers, 11.7&amp;nbsp;million domestic business travelers and 1.3&amp;nbsp;million overseas visitors.&lt;ref name=&quot;visitors&quot;/&gt; These visitors contributed more than {{US$|11.8}} billion to Chicago's economy.&lt;ref name=&quot;visitors&quot;/&gt; Upscale shopping along the [[Magnificent Mile]] and [[State Street (Chicago)|State Street]], thousands of restaurants, as well as Chicago's eminent architecture, continue to draw tourists. The city is the United States' third-largest convention destination.  A 2011 study by [[Walk Score]] ranked Chicago the fourth most walkable of fifty largest cities in the United States.&lt;ref&gt;{{cite web |url=http://www.walkscore.com/rankings/cities/|title=2011 City and Neighborhood Rankings |publisher=Walk Score |year=2011 |accessdate=Aug 28, 2011}}&lt;/ref&gt; Most conventions are held at [[McCormick Place]], just south of [[Soldier Field]]. The historic [[Chicago Cultural Center]] (1897), originally serving as the [[Chicago Public Library]], now houses the city's Visitor Information Center, galleries and exhibit halls. The ceiling of its Preston Bradley Hall includes a {{convert|38|ft|abbr=on}} [[Tiffany glass]] dome. [[Grant Park (Chicago)|Grant Park]] holds [[Millennium Park]], [[Buckingham Fountain]] (1927), and the [[Art Institute of Chicago]]. The park also hosts the annual [[Taste of Chicago]] festival. In Millennium Park, there is the reflective ''[[Cloud Gate]]'' sculpture. Also, an outdoor restaurant transforms into an [[ice rink]] in the winter season. Two tall glass sculptures make up the [[Crown Fountain]]. The fountain's two towers display visual effects from LED images of Chicagoans' faces, along with water spouting from their lips. [[Frank Gehry]]'s detailed, stainless steel band shell, the [[Jay Pritzker Pavilion]], hosts the classical [[Grant Park Music Festival]] concert series. Behind the pavilion's stage is the [[Harris Theater (Chicago, Illinois)|Harris Theater for Music and Dance]], an indoor venue for mid-sized performing arts companies, including the [[Chicago Opera Theater]] and Music of the Baroque.
+
+[[Navy Pier]], located just east of [[Streeterville]], is {{convert|3000|ft|abbr=on}} long and houses retail stores, restaurants, museums, exhibition halls and auditoriums. Its {{convert|150|ft|m|0|sing=on}} tall [[Ferris wheel]] is one of the most visited landmarks in the Midwest, attracting about 8 million people annually.&lt;ref&gt;{{cite web|url=http://www.navypier.com/about/ov_pier.html|title=About Navy Pier – The Pier|publisher=Metropolitan Pier and Exposition Authority|year=2007|accessdate=July 3, 2011}}&lt;/ref&gt; Chicago was the first city in the world to ever erect a ferris wheel.
+
+On June 4, 1998, the city officially opened the [[Museum Campus Chicago|Museum Campus]], a {{convert|10|acre|abbr=on|sing=on}} lakefront park, surrounding three of the city's main museums, each of which is of national importance: the [[Adler Planetarium &amp; Astronomy Museum]], the [[Field Museum of Natural History]], and the [[Shedd Aquarium]]. The Museum Campus joins the southern section of [[Grant Park (Chicago)|Grant Park]], which includes the renowned [[Art Institute of Chicago]]. [[Buckingham Fountain]] anchors the downtown park along the lakefront. The [[University of Chicago Oriental Institute]] has an extensive collection of [[ancient Egypt]]ian and [[Near East]]ern archaeological artifacts. Other museums and galleries in Chicago include the [[Chicago History Museum]], the [[DuSable Museum of African American History]], the [[Museum of Contemporary Art, Chicago|Museum of Contemporary Art]], the [[Peggy Notebaert Nature Museum]], the [[Polish Museum of America]], the [[Museum of Broadcast Communications]] and the [[Museum of Science and Industry (Chicago)|Museum of Science and Industry]].
+
+The top activity while visitors tour Chicago for leisure is entertainment, approximately 33% of all leisure travelers. Facilities such as McCormick Place and the Chicago Theatre contribute to this percentage.&lt;ref&gt;{{cite web|url=http://www.explorechicago.org/etc/medialib/explore_chicago/tourism/pdfs_press_releases/chicago_office_of.Par.60218.File.dat/Statistics_2008.pdf |title=Retrieved February 1, 2010, Chicago Office of Tourism |format=PDF |accessdate=April 17, 2010}}&lt;/ref&gt;
+
+===Cuisine===
+[[File:Chicago Style Pizza with Rich Tomato Topping.jpg|thumb|[[Chicago-style pizza|Chicago-style Stuffed pizza]]]]
+{{See also|Chicago farmers' markets|Food manufacturers of Chicago|Culture of Chicago#Food and Drink}}
+[[File:Polish Market in Chicago.jpeg|thumb|A [[Poles in Chicago|Polish]] market in Chicago]]
+Chicago lays claim to a large number of regional specialties, all of which reflect the city's ethnic and working class roots. Included among these are its nationally renowned [[Chicago-style pizza|deep-dish pizza]], this style is said to have originated at [[Uno Chicago Grill|Pizzeria Uno]]. The Chicago-style thin crust is also popular in the city.
+
+The [[Chicago-style hot dog]], typically a [[Vienna Beef]] dog, is loaded with an array of fixings that often includes neon green pickle [[relish]], yellow mustard, pickled [[Chili pepper|sport peppers]], tomato wedges, dill pickle spear and topped off with celery salt on an S. Rosen's poppy seed bun.&lt;ref&gt;{{cite web|url=http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_8208,00.html|title=Classic Chicago Hot Dog|year=1999|accessdate=September 3, 2007|work=Emril Lagasse}}&lt;/ref&gt;  Enthusiasts of the Chicago-style dog frown upon the use of ketchup as a garnish, but may prefer to add [[giardiniera]].
+
+There are several distinctly Chicago sandwiches, among them the [[Italian beef]] sandwich, which is thinly sliced beef slowly simmered [[au jus]] and served on an Italian roll with sweet peppers or spicy giardiniera. A popular modification is the Combo—an Italian beef sandwich with the addition of an Italian sausage. Another is the [[Maxwell Street Polish]], a grilled or deep-fried [[kielbasa]] — on a hot dog roll, topped with grilled onions, yellow mustard, and hot sport peppers.&lt;ref name=&quot;sandwich&quot;&gt;{{cite web| last = Zeldes | first = Leah A. | authorlink = Leah A. Zeldes | title = City of the big sandwiches: Four uncommon Chicago meals on a bun  | work=Dining Chicago | publisher=Chicago's Restaurant &amp; Entertainment Guide, Inc.  | date = January 22, 2010 | url = http://www.diningchicago.com/blog/2010/01/22/city-of-the-big-sandwiches-four-uncommon-chicago-meals-on-a-bun/ | accessdate =June 16, 2010}}&lt;/ref&gt;
+
+Ethnically originated creations include [[chicken Vesuvio]], with roasted bone-in chicken cooked in oil and garlic next to garlicky oven-roasted potato wedges and a sprinkling of green peas. Another is the Puerto Rican-influenced [[jibarito]], a sandwich made with flattened, fried green plantains instead of bread. There is also the tamale with chile, [[Mother-in-law (tamale)|mother-in-law sandwich]].&lt;ref&gt;{{cite web|last=Sula |first=Mike |url=http://www.chicagoreader.com/features/stories/restaurants/080515/ |title=Omnivorous &amp;#124; On the Trail of the Delta Tamale: Southern food sleuths take on the murky origins of the mother-in-law sandwich. By Mike Sula |publisher=Chicago Reader |accessdate=July 3, 2011}}&lt;/ref&gt;  Yet another is the [[Greeks|Greek]] [[saganaki]], an appetizer of cheese served [[flambé]] at the table.&lt;ref&gt;{{Cite news|first=Leah A |last=Zeldes | authorlink = Leah A. Zeldes| title=How to Eat Like a Chicagoan |archiveurl=http://web.archive.org/web/20021001023605/www.chicagorestaurant.com/show_article.php?aID=13|url=http://www.chicagorestaurant.com/show_article.php?aID=13|archivedate=October 1, 2002 |work=Chicago's Restaurant Guide |publisher=Chicago's Restaurant Guide |date=September 30, 2002 |accessdate=September 30, 2002}}&lt;/ref&gt;
+
+The annual summer festival, the [[Taste of Chicago]] in [[Grant Park (Chicago)|Grant Park]], highlights food in the city with many local restaurants taking part.
+
+A number of well-known chefs have restaurants in Chicago, including [[Charlie Trotter]], [[Rick Tramonto]], [[Grant Achatz]], and [[Rick Bayless]]. In 2003, Robb Report named Chicago the country's &quot;most exceptional dining destination.&quot;
+
+The city is home to 23 [[Michelin Guide|Michelin-starred]] restaurants, with one three-star restaurant, [[Alinea (restaurant)|Alinea]].
+
+Chicago features a wide selection of [[vegetarian cuisine]], with 22 fully vegetarian restaurants and many vegetarian-friendly establishments within the city.&lt;ref&gt;{{cite web|url=http://www.happycow.net/north_america/usa/illinois/chicago/ |title=HappyCow.net |publisher=HappyCow.net |date=August 5, 2009 |accessdate=August 5, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.vegillinois.com/chicago.asp?Category=Restaurant |title=VegIllinois.com |publisher=VegIllinois.com |date=August 5, 2009 |accessdate=August 5, 2009}}&lt;/ref&gt;
+
+===Literature===
+[[File:Carl Sandburg NYWTS.jpg|thumb|upright|Much of [[Carl Sandburg]]'s poetry focused on Chicago. His most famous description of the city is as ''&quot;Hog Butcher for the World/Tool Maker, Stacker of Wheat/Player with Railroads and the Nation's Freight Handler,/Stormy, Husky, Brawling, City of the Big Shoulders.&quot;'']]
+{{Further|Chicago literature}}
+
+Chicago literature finds its roots in the city's tradition of lucid, direct journalism, lending to a strong tradition of [[social realism]]. In the ''[[Encyclopedia of Chicago]]'', [[Northwestern University]] Professor Bill Savage describes Chicago fiction as prose which tries to ''&quot;capture the essence of the city, its spaces and its people.&quot;'' The challenge for early writers was that Chicago was a frontier outpost that transformed into a global metropolis in the span of two generations. Narrative fiction of that time, much of it in the style of &quot;high-flown romance&quot; and &quot;genteel realism&quot;, needed a new approach to describe the urban social, political, and economic conditions of  Chicago.&lt;ref&gt;[http://www.encyclopedia.chicagohistory.org/pages/448.html Encyclopedia of Chicago, &quot;Fiction.&quot;]&lt;/ref&gt;  Nonetheless, Chicagoans worked hard to create a literary tradition that would stand the test of time,&lt;ref&gt;[http://www.encyclopedia.chicagohistory.org/pages/755.html Encyclopedia of Chicago, &quot;Literary Cultures.&quot;]&lt;/ref&gt; and create a &quot;city of feeling&quot; out of concrete, steel, vast lake, and open prairie.&lt;ref&gt;[http://www.encyclopedia.chicagohistory.org/pages/1390.html Encyclopedia of Chicago, &quot;Literary Images of Chicago&quot;]&lt;/ref&gt; Much notable Chicago fiction focuses on the city itself, with social criticism keeping exultation in check.
+
+At least, three short periods in the [[history of Chicago]] have had a lasting influence on [[American Literature]].&lt;ref&gt;[http://www.encyclopedia.chicagohistory.org/pages/257.html Encyclopedia of Chicago History, &quot;Chicago Literary Renaissance.&quot;]&lt;/ref&gt;  These include from the time of the [[Great Chicago Fire]] to about 1900, what became known as the Chicago Literary Renaissance in the 1910s and early 1920s, and the period of the [[Great Depression]] through the 1940s.
+
+What would become the influential ''[[Poetry Magazine]]'' was founded in [[1912 in poetry|1912]] by [[Harriet Monroe]], who was working as an [[art]] [[critic]] for the ''[[Chicago Tribune]]''. The magazine discovered such poets as [[Gwendolyn Brooks]], [[James Merrill]], and [[John Ashbery]].&lt;ref name=ny&gt;Goodyear, Dana, [http://www.newyorker.com/reporting/2007/02/19/070219fa_fact_goodyear &quot;The Moneyed Muse: What can two hundred million dollars do for poetry?&quot;], article, ''[[The New Yorker]]'', February 19 and February 26 double issue, 2007&lt;/ref&gt;  [[T.&amp;nbsp;S.&amp;nbsp;Eliot]]'s first professionally published poem, &quot;[[The Love Song of J.&amp;nbsp;Alfred Prufrock]]&quot;, was first published by ''Poetry''.  Contributors have included [[Ezra Pound]], [[William Butler Yeats]], [[William Carlos Williams]], [[Langston Hughes]], and [[Carl Sandburg]], among others. The magazine was instrumental in launching the [[Imagist]] and [[Objectivist poets|Objectivist]] poetic movements.
+
+===Media===
+{{Further|Media in Chicago|List of fiction set in Chicago|Chicago International Film Festival}}
+[[File:Harpo-studio-sign-in-chicago-ill-usa.jpg|thumb|left||Harpo Studios, headquarters of talk show host [[Oprah Winfrey]].]]
+
+The Chicago metropolitan area is the third-largest media market in North America, after New York City and Los Angeles.&lt;ref&gt;{{cite web|url=http://www.tvjobs.com/cgi-bin/markets/market2.cgi|title=Nielsen Media 2009–2010 Local Market Estimates|date=September 27, 2009|work=Nielsen Media Research|publisher=Broadcast Employment Services|accessdate=May 17, 2010}}&lt;/ref&gt; Each of the big four [[List of United States over-the-air television networks|U.S. television networks]], [[CBS]], [[American Broadcasting Company|ABC]], [[NBC]] and [[Fox Broadcasting Company|Fox]], directly owns and operates a [[high-definition television]] station in Chicago ([[WBBM-TV|WBBM]], [[WLS-TV|WLS]], [[WMAQ-TV|WMAQ]] and [[WFLD]], respectively). [[WGN-TV|WGN&amp;#8209;TV]], which is owned by the [[Tribune Company]], is carried with some programming differences, as &quot;[[WGN America]]&quot; on [[Cable television|cable and satellite TV]] nationwide and in parts of the [[Caribbean]]. The city is also the home of several talk shows, including former ''[[The Oprah Winfrey Show]]'' on WLS‑TV, while [[Chicago Public Radio]] produces programs such as [[Public Radio International|PRI]]'s ''[[This American Life]]'' and [[National Public Radio|NPR]]'s ''[[Wait Wait...Don't Tell Me!]]'' Chicago's [[Public Broadcasting Service|PBS]] station can be seen on [[WTTW]], producer of shows, such as ''[[Sneak Previews]]'', ''[[The Frugal Gourmet]]'', ''[[Lamb Chop's Play-Along]]'' and ''[[The McLaughlin Group]]'', just to name a few and [[WYCC]].
+
+There are two major daily newspapers published in Chicago: the ''[[Chicago Tribune]]'' and the ''[[Chicago Sun-Times]]'', with the former having the larger circulation. There are also several regional and special-interest newspapers and magazines, such as [[Chicago (magazine)|''Chicago'']], the [[Dziennik Związkowy (Polish Daily News)|''Dziennik Związkowy'' (''Polish Daily News'')]], ''[[Draugas]]'' (the Lithuanian daily newspaper), the ''[[Chicago Reader]]'', the ''[[SouthtownStar]]'', the ''[[Chicago Defender]]'', the ''[[Daily Herald (Arlington Heights)|Daily Herald]]'', ''[[Newcity]]'',&lt;ref name=twsOctW11&gt;{{cite news
+ |author=Chauncey Hollingsworth
+ |title= Shakey Ground: Arts Magazines Find Chicago's Landscape Still Hostile To New Ventures
+ |work=Chicago Tribune
+ |quote= A vast expanse of the local cultural landscape lay unexplored between the realm of free arts weeklies like NewCity and the Reader and commercial ventures like Chicago magazine.... NewCity wasn't quite as sophisticated two years ago as it is now.
+ |date= May 10, 1995
+ |url= http://articles.chicagotribune.com/1995-05-10/features/9505110049_1_chicago-magazine-asa-baber-art-department
+ |accessdate=October 31, 2010
+}}&lt;/ref&gt;&lt;ref name=twsOctW14&gt;{{cite news
+ |author=Staff writer
+ |title= Chicago Daily News II: This Time It's Digital
+ |work=Chicago Tribune
+ |quote= The competition... Newcity are in the digital space, ...
+ |date= December 9, 2005
+ |url= http://featuresblogs.chicagotribune.com/technology_internetcritic/2005/12/chicagos_newest.html
+ |accessdate=October 31, 2010
+}}&lt;/ref&gt; ''[[StreetWise]]'' and the ''[[Windy City Times]]''. The entertainment and cultural magazine ''[[Time Out Chicago]]'' and GRAB Magazine are also published in the city.
+
+Chicago is a [[filming location|filming-friendly location]]. Since the 1980s, many motion pictures have been filmed in the city, most notably ''[[The Blues Brothers (film)|The Blues Brothers]]''; ''[[Ferris Bueller's Day Off]]''; ''[[Home Alone]]''; ''[[The Fugitive (1993 film)|The Fugitive]]''; ''[[I, Robot]]''; ''[[Wanted (2008 film)|Wanted]]''; ''[[Batman Begins]]''; ''[[The Dark Knight (film)|The Dark Knight]]''; and ''[[Transformers: Dark of the Moon]]''.
+
+Chicago has also been the setting for many popular television shows. Chicago-based TV shows include the situation comedies ''[[Perfect Strangers (TV series)|Perfect Strangers]]'', its spinoff ''[[Family Matters]]'', ''[[Married...with Children]]'' and ''[[The Bob Newhart Show]]''. The city served as the venue for the medical dramas ''[[ER (TV series)|ER]]'' and ''[[Chicago Hope]]'', as well as the fantasy drama series ''[[Early Edition]]'' and 2005–2009 drama ''[[Prison Break]]''. [[The Good Wife (TV series)|The Good Wife]] is also set in Chicago. It is also the setting for [[Glee (TV series)|Glee]]'s 2012 Nationals Show Choir Competition. [[Discovery Channel]] films two shows in Chicago: ''[[Cook County Jail]]'' and the Chicago version of ''[[Cash Cab]]''. Chicago is currently the setting of ''[[American Broadcasting Company|ABC]]'' sitcom ''[[Happy Endings (TV series)|Happy Endings]]''.
+
+Chicago is also home to a number of national radio shows, including ''[[Beyond the Beltway]]'' with [[Bruce DuMont]] on Sunday evenings.
+Midtown Madness&amp;nbsp;2, a real-life, car-driving simulation game is based on Chicago.
+
+===Religion===
+[[File:St Mary of the Angels interior 090307.jpg|thumb|upright|[[St. Mary of the Angels in Chicago|St.&amp;nbsp;Mary of the Angels]], one of Chicago's &quot;[[Polish Cathedral style|Polish Cathedrals]]&quot;.]]
+Christianity is predominant among the city's population. The [[Chicago Metropolitan Area]] also includes adherents of [[Judaism]], [[Islam]], [[Buddhism]], [[Hinduism]], [[Jainism]], [[Sikhism]], and the [[Bahá'í Faith|Bahá'í]], among others.
+
+The wealth of Chicago's religious heritage is evident in its many noted examples of [[sacred architecture]] and institutions. Many of these religious edifices are Christian in origin, with [[Roman Catholic]] structures particularly prevalent. However, the city of [[Polish Cathedral style|Polish Cathedrals]] is rife with numerous historic synagogues, as well as the noteworthy sacred spaces of other religions. Chicago's northern suburb of [[Wilmette, Illinois]], is the [[Bahá'í House of Worship (Wilmette, Illinois)|Bahá'í Temple]], the only temple for the [[Baha'i|Bahá'í Faith]] in North America.
+
+The city played host to the first two [[Parliament of the World's Religions]] in 1893 and 1993. Chicago contains many theological institutions, which include seminaries and colleges such as the [[Moody Bible Institute]] and [[DePaul University]]. Chicago is the seat of numerous religious leaders from a host of bishops of a wide array of Christian denominations as well as other religions.
+
+Many international religious leaders have visited Chicago, including  [[Mother Teresa]] and the [[14th Dalai Lama|Dalai Lama]]. [[Pope John Paul&amp;nbsp;II]] visited Chicago in 1979 during his first trip ever to the United States after being elected to the Papacy in 1978.
+
+===Sports===
+{{Main|Sports in Chicago}}
+{{multiple image
+| align     = left
+| direction = vertical
+| width     = 225
+| image1    = Soldier FieldChi.jpg
+| width1    = 
+| alt1      = 
+| caption1  = 
+| image2    = Wrigley field 720.jpg
+| width2    = 
+| alt2      = 
+| caption2  = 
+| header            = 
+| header_align      = &lt;!-- left/right/center --&gt;
+| header_background = 
+| footer            = Top: [[Soldier Field]]; Bottom: [[Wrigley Field]]
+| footer_align      = &lt;!-- left/right/center --&gt;
+| footer_background = 
+| background color  = 
+}}
+Chicago was named the ''Best Sports City'' in the United States by ''[[The Sporting News]]'' in 1993, 2006, 2010.&lt;ref&gt;{{cite web
+ |url=http://www.sportingnews.com/yourturn/viewtopic.php?t=113586
+ |title=Best Sports Cities 2006: Who, where and how
+ |publisher=Sporting News
+ |date=August 1, 2006
+}}{{dead link|date=November 2010}}&lt;/ref&gt; The city is home to two [[Major League Baseball]] (MLB) teams: the [[Chicago Cubs]] of the [[National League]] (NL), who play in [[Wrigley Field]] on the North Side; and the [[Chicago White Sox]] of the [[American League]] (AL), who play in [[U.S. Cellular Field]] on the South Side. Chicago is the only city that has had more than one MLB franchise every year since the AL began in 1901. The [[Chicago Bears]], one of the last two remaining charter members of the [[National Football League]] (NFL), have won nine [[List of NFL champions|NFL Championships]], including [[Super Bowl&amp;nbsp;XX]]. The other remaining charter franchise, the Chicago Cardinals, also started out in the city, but are now known as the [[Arizona Cardinals]]. The Bears play their home games at [[Soldier Field]] just off the shore of Lake Michigan. Once a home to stock car racing, Soldier field was an aging stadium and was in dire need of renovation by the end of the 20th century. In 2003, Soldier Field re-opened after an extensive renovation, which increased the number of luxury boxes in the stadium and dramatically improved the day of game experience for Bears fans.
+
+The [[Chicago Bulls]] of the [[National Basketball Association]] (NBA) are one of the most recognized basketball teams in the world. During the 1990s with [[Michael Jordan]] leading them, the Bulls took six NBA championships in eight seasons. The [[Chicago Blackhawks]] of the [[National Hockey League]] (NHL), who began play in 1926, and are one of the &quot;[[Original Six]]&quot;, teams of the National Hockey League (NHL), have won four [[Stanley Cup]]s. The Blackhawks are the [[2010 Stanley Cup Finals|2010 Stanley Cup champion]]s, and hosted the [[2009 NHL Winter Classic]] at Wrigley Field. Both the Bulls and Blackhawks play at the [[United Center]] on the Near West Side. The [[Chicago Rush]] has been a member of the [[Arena Football League]] since 2001 and won [[ArenaBowl&amp;nbsp;XX]], playing in suburban [[Rosemont, Illinois|Rosemont]]. The [[Arena Football]] League front office is also in Chicago. The [[Chicago Fire Soccer Club|Chicago Fire]] are members of [[Major League Soccer]] (MLS) and reside at [[Toyota Park (Bridgeview)|Toyota Park]] in suburban [[Bridgeview, Illinois|Bridgeview]], after playing its first eight seasons at [[Soldier Field]]. The Fire have won one league title and four [[Lamar Hunt U.S. Open Cup|U.S.&amp;nbsp;Open Cups]] since their founding in 1997.
+
+While four of the five major franchises have won championships within recent time – the Bears (1985), the Bulls (91, '92, '93, '96, '97, and '98), the White Sox (2005), and the Blackhawks (2010) — the Chicago Cubs are known for their drought of over 100 years without a championship (currently 103 years as of the 2011 MLB season). The last time the Cubs were in a World Series was 1945. Some fans claim the [[Curse of the Billy Goat]] is responsible for the drought.
+
+{{multiple image
+| align     = right
+| direction = vertical
+| width     = 225
+| image1    = United Center 060716.jpg
+| width1    = 
+| alt1      = 
+| caption1  = 
+| image2    = US Cellular.jpg
+| width2    = 
+| alt2      = 
+| caption2  = 
+| header            = 
+| header_align      = &lt;!-- left/right/center --&gt;
+| header_background = 
+| footer            = Top: [[United Center]]; Bottom: [[U.S. Cellular Field]]
+| footer_align      = &lt;!-- left/right/center --&gt;
+| footer_background = 
+| background color  = 
+}}
+
+The [[Chicago Marathon]] has been held each year since 1977 except for in 1987, when a half marathon was run in its place. The Chicago Marathon is one of five [[World Marathon Majors]].&lt;ref&gt;{{cite web|url=http://www.chicagomarathon.com/pdf/World%20Marathon%20Majors.pdf|archiveurl=http://web.archive.org/web/20070925194344/http://www.chicagomarathon.com/pdf/World+Marathon+Majors.pdf|archivedate=September 25, 2007|accessdate=July 25, 2007|title=World Marathon Majors|publisher=The LaSalle Bank Marathon|format=PDF}}&lt;/ref&gt; In 1994, the United States hosted a successful [[1994 FIFA World Cup|FIFA World Cup]] with games played at [[Soldier Field]] on Chicago's downtown lakefront.
+
+After a months' long process that saw the elimination of several American and international cities, Chicago was selected on April 14, 2007, to represent the United States internationally in the [[Chicago bid for the 2016 Summer Olympics|bidding]] for the [[2016 Summer Olympics]].&lt;ref&gt;{{cite news|last=Levine|first=Jay|url=http://cbs2chicago.com/local/local_story_207062131.html|title=Chicago In The Running To Host 2016 Summer Games|work=[[CBS]]|date=July 26, 2006|accessdate=December 1, 2006 |archiveurl = http://web.archive.org/web/20061110061832/http://cbs2chicago.com/local/local_story_207062131.html &lt;!-- Bot retrieved archive --&gt; |archivedate = November 10, 2006}}&lt;/ref&gt;&lt;ref&gt;&quot;[http://www.chicago2016.org/ Official Chicago 2016 Website].&quot; Retrieved on December 1, 2006.&lt;/ref&gt; Chicago had previously hosted the [[1959 Pan American Games]] and the [[2006 Gay Games]]. Chicago was selected to host the 1904 Olympics, but they were transferred to [[St. Louis, Missouri|St.&amp;nbsp;Louis]] to coincide with the World's Fair.&lt;ref name=&quot;1904 Olypics&quot;&gt;{{cite web
+| title = 1904 Summer Olympics
+| publisher=International Olympics Committee
+| url = http://www.olympic.org/st-louis-1904-summer-olympics
+}}&lt;/ref&gt; On June 4, 2008, the [[International Olympic Committee]] narrowed the field further and selected Chicago as one of four candidate cities for the 2016 games. On October 2, 2009, [[Rio de Janeiro]] was selected as the host city, with Chicago being eliminated in the first round of voting.
+
+Starting just off [[Navy Pier]] is [[Chicago Yacht Club]]'s [[Chicago to Mackinac Boat Race|Race to Mackinac]], a {{convert|330|mi|km|sing=on}} offshore sailboat race held each July that is the longest annual freshwater sailing distance race in the world. 2010 marks the 102nd running of the &quot;Mac&quot;.&lt;ref&gt;{{cite web|title=Race to Mackinac Frequently Asked Questions|url=http://www.cycracetomackinac.com/pdf/mac_faqs.pdf|year=2009|publisher=Chicago Yacht Club|accessdate=August 20, 2009}}{{dead link|date=July 2011}}&lt;/ref&gt;
+
+Five area colleges play in [[Division I (NCAA)|Division&amp;nbsp;I]] conferences: [[DePaul University]] ([[Big East Conference]]), [[Northwestern University]] ([[Big Ten Conference]]), [[Chicago State University]] ([[Great West Conference]]), [[Loyola University Chicago]] ([[Horizon League]]), and the [[University of Illinois at Chicago]] (Horizon League).
+
+==Economy==
+{{Main|Economy of Chicago}}
+''See also: [[List of companies in the Chicago metropolitan area]]''
+[[File:Chicago Board Of Trade Building.jpg|upright|thumb|The [[Chicago Board of Trade Building]]]]
+Chicago has the third largest [[gross metropolitan product]] in the United States—approximately $532&amp;nbsp;billion according to 2010 estimates,&lt;ref&gt;{{cite web|title=Gross Metropolitan Product|url=http://greyhill.com/gross-metropolitan-product|publisher=Greyhill Advisors|accessdate=September 26, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite conference | coauthors = Global Insight | booktitle = US Metro Economies| title=Gross Metropolitan Product with housing update June 2008 | pages = 14 | publisher=United States Conference of Mayors | date= June, 2008 | location = Washington, D.C. | url = http://www.usmayors.org/metroeconomies/0608/GMP_Report__June_2008.pdf | format = PDF | accessdate =September 15, 2006 }}&lt;/ref&gt; after only the urban agglomerations of [[New York City]] and [[Los Angeles]], in the first and second place, respectively. The city has also been rated as having the most balanced economy in the United States, due to its high level of diversification.&lt;ref&gt;{{PDFlink|[http://www.worldbusinesschicago.com/about/upload/20ChicagoSunTimes6-23-03.pdf Moody's: Chicago's Economy Most Balanced in US (January 23, 2003)]}}. Accessed from ''World Business Chicago''.&lt;/ref&gt; Chicago was named the fourth most important business center in the world in the MasterCard Worldwide Centers of Commerce Index.&lt;ref&gt;&quot;[http://edition.cnn.com/2007/BUSINESS/06/13/global.economy/ London named world's top business center by MasterCard]&quot;, [[CNN]], June 13, 2007.&lt;/ref&gt; Additionally, the Chicago metropolitan area recorded the greatest number of new or expanded corporate facilities in the United States for six out of the seven years from 2001 to 2008.&lt;ref&gt;{{cite web|url=http://www.siteselection.com/issues/2008/mar/topMetros/|title=Life at the Top|author=Ron Starner|publisher=Siteselection.com|accessdate=March 11, 2008}}&lt;/ref&gt; The Chicago metropolitan area has the third largest science and engineering work force of any metropolitan area in the nation.&lt;ref name=&quot;washingtonpost.com&quot;&gt;{{cite news|url=http://www.washingtonpost.com/wp-dyn/content/article/2006/06/08/AR2006060800133.html |title=Washington area richest, most educated in US: report |work=The Washington Post  |date=June 8, 2006 |accessdate=April 17, 2010}}&lt;/ref&gt; In 2009 Chicago placed 9th on the [[UBS AG|UBS]] list of the world's richest cities.&lt;ref&gt;{{cite web|url=http://www.citymayors.com/economics/usb-purchasing-power.html |title=World's richest cities by purchasing power |publisher=City Mayors |accessdate=November 6, 2010}}&lt;/ref&gt; Chicago was the base of commercial operations for industrialists [[John Crerar (industrialist)|John Crerar]], [[John Whitfield Bunn]], [[Richard Teller Crane]], [[Marshall Field]], [[John Farwell]], [[Morris Selz]], [[Julius Rosenwald]] and many other commercial visionaries who laid the foundation for Midwestern and global industry.
+
+Chicago is a major world financial center, with the [[Chicago Loop|second largest central business district]] in the United States.&lt;ref name=&quot;cbd rankings&quot;&gt;{{cite web| format=PDF | url=http://www.demographia.com/db-cbd2000.pdf | publisher=demographia | accessdate=August 7, 2009 | title=50 Largest Urban Areas: 2000 Data on Employment &amp; Transit Work Trips}}&lt;/ref&gt; The city is the headquarters of the [[Federal Reserve Bank of Chicago]] (the Seventh District of the Federal Reserve). The city is also home to major financial and [[futures exchange]]s, including the [[Chicago Stock Exchange]], the [[Chicago Board Options Exchange]] (CBOE), and the [[Chicago Mercantile Exchange]] (the &quot;Merc&quot;), which is owned, along with the [[Chicago Board of Trade]] (CBOT) by Chicago's [[CME Group]]. The CME Group, in addition, owns the [[New York Mercantile Exchange]] (NYMEX), the Commodities Exchange Inc. (COMEX) and the [[Dow Jones Indexes]].&lt;ref&gt;{{cite web|url=http://www.cmegroup.com |title=Futures &amp; Options Trading for Risk Management |publisher=CME Group |date=April 13, 2010 |accessdate=November 6, 2010}}&lt;/ref&gt; Perhaps due to the influence of the [[Chicago school of economics]], the city also has markets trading unusual contracts such as [[emissions trading|emissions]] (on the [[Chicago Climate Exchange]]) and [[Eugene Fama#Fama-French three-factor model|equity style indices]] (on the [[U.S.&amp;nbsp;Futures Exchange]]). [[Chase (bank)|Chase]] Bank has its commercial and retail banking headquarters in Chicago's [[Chase Tower (Chicago)|Chase Tower]].&lt;ref&gt;{{cite web|url=http://www.jpmorganchase.com/corporate/About-JPMC/jpmorgan-history.htm |title=JPMorgan History &amp;#124; The History of Our Firm |publisher=Jpmorganchase.com |accessdate=November 6, 2010}}&lt;/ref&gt;
+
+The city and its surrounding metropolitan area are home to the second largest labor pool in the United States with approximately 4.25&amp;nbsp;million workers.&lt;ref&gt;{{PDFlink|[http://www.cbre.com/NR/rdonlyres/9326419A-60CC-47BC-9960-448BD4B32C52/0/MarketOutlook06FINAL.pdf Chicago Market Outlook 2006 – Market Commentary]{{dead link|date=March 2012}}|805&amp;nbsp;KB}}. ''CBRE – CB Richard Ellis''.&lt;/ref&gt; &lt;!--Chicago does not have a notable number/concentration of tech workers: http://www.marketwatch.com/news/story/story.aspx?guid={DB88FD73-1B6F-4CDB-8CC4-2B311773289F}--&gt; In addition, the state of Illinois is home to 66 [[Fortune&amp;nbsp;1000]] companies, including those in Chicago.&lt;ref&gt;{{cite news|url=http://money.cnn.com/magazines/fortune/fortune500/2007/states/IL.html |title=FORTUNE 500 2007: States – Illinois |accessdate=September 13, 2007 |publisher=CNNMoney.com}}&lt;/ref&gt; The city of Chicago also hosts 12 Fortune Global 500 companies and 17 Financial Times 500 companies. The city claims one [[Dow Jones Industrial Average|Dow&amp;nbsp;30]] company: [[aerospace]] giant [[Boeing]], which moved its headquarters from [[Seattle]] to the [[Chicago Loop]] in 2001.&lt;ref&gt;{{cite web|url=http://www.lboro.ac.uk/gawc/world2008t.html |title=The World According to GaWC 2008 |work=Globalization and World Cities Research Network|publisher=GaWC Loughborough University |accessdate=April 29, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web| title=Measuring the World City Network: New Developments and Results | author=P. J. Taylor et al.| url= http://www.lboro.ac.uk/gawc/rb/rb300.html|page = see Table 1| work=Research On Relations Between World Cities | publisher=Globalization and World Cities (GaWC) Research Network| year= 2009| accessdate=April 18, 2009}}&lt;/ref&gt; Two more Dow&amp;nbsp;30 companies, [[Kraft Foods]] and [[McDonalds]]. are in Chicago suburbs, as are [[Sears Holdings Corporation]] and the technology spin-offs of [[Motorola]]. Chicago is also home to [[United Continental Holdings]], with headquarters in the [[United Building]] and operations center at [[Willis Tower]], and its [[United Airlines]] subsidiary.
+
+Manufacturing, printing, publishing and food processing also play major roles in the city's economy. Several medical products and services companies are headquartered in the Chicago area, including [[Baxter International]], [[Boeing]], [[Abbott Laboratories]], and the Healthcare Financial Services division of [[General Electric]]. Moreover, the construction of the Illinois and Michigan Canal, which helped move goods from the [[Great Lakes]] south on the [[Mississippi River]], and of the railroads in the 19th century made the city a major transportation center in the United States. In the 1840s, Chicago became a major [[cereal|grain]] port, and in the 1850s and 1860s Chicago's pork and beef industry expanded. As the major meat companies grew in Chicago many, such as [[Armour and Company]], created global enterprises. Though the meatpacking industry currently plays a lesser role in the city's economy,&lt;!--BROKEN CITATION&lt;ref name=&quot;hirsch&quot;/&gt; --&gt; Chicago continues to be a major transportation and distribution center. Lured by a combination of large business customers, federal research dollars, and a large hiring pool fed by the area's universities, Chicago is also home to a growing number of web [[startup companies]] like [[CareerBuilder]], [[Orbitz]], [[37signals]], [[Groupon]], and [[Feedburner]].&lt;ref&gt;{{cite web|url=http://www.fastcompany.com/article/why-you-should-start-a-company-in-chicago |title=Why You Should Start a Company in... Chicago |publisher=FastCompany.com |date=February 19, 2010 |accessdate=November 16, 2010}}&lt;/ref&gt;
+
+Chicago has been a hub of the [[Retail]] sector since its early development in America, when it was the home of [[Montgomery Ward]], [[Sears]], and [[Marshall Field's]]. Today the Chicago metro area is the home of several retailers, including [[Walgreens]], [[Sears Holdings Corporation|Sears]], [[OfficeMax]], [[Ace Hardware]], [[Claire's]], and [[Crate &amp; Barrel]].
+
+Late in the 19th century, Chicago was part of the bicycle craze, as home to [[Western Wheel Company]], which introduced [[stamping (metalworking)|stamping]] to the production process and significantly reduced costs,&lt;ref&gt;Norcliffe 2001, p 107&lt;/ref&gt; while early in the 20th century, the city was part of the automobile revolution, hosting the [[Brass Era car]] builder [[Bugmobile (automobile company)|Bugmobile]], which was founded there in 1907.&lt;ref&gt;Clymer 1950, p 178&lt;/ref&gt; Chicago was also home to the [[Schwinn Bicycle Company]].
+
+Chicago is a major world convention destination. The city's main convention center is [[McCormick Place]]. With its four interconnected buildings, it is the largest convention center in the nation and third largest in the world.&lt;ref&gt;{{cite web|url=http://www.exhibitorhost.com/US_Largest_Convention_Centers.html |title=Retrieved January 26, 2010 |publisher=Exhibitorhost.com |date=September 26, 1987 |accessdate=April 17, 2010}}&lt;/ref&gt; Chicago also ranks third in the U.S. (behind [[Las Vegas, Nevada|Las Vegas]] and [[Orlando, Florida|Orlando]]) in number of conventions hosted annually.&lt;ref&gt;[http://chicagobusiness.com/cgi-bin/news.pl?id=20359 Chicago falls to 3rd in US convention industry (April 26, 2006)]{{dead link|date=July 2011}}. ''Crain's Chicago Business''.&lt;/ref&gt;
+
+In June 2012, Chicago had 391,000 unemployed with a 9.4% unemployment rate against a national average of 8.2%.&lt;ref&gt;{{cite web|url=http://www.bls.gov/eag/eag.il_chicago_md.htm |title=Chicago Economy at a Glance |publisher=Bureau of Labor Statistics |accessdate=August 1, 2012}}&lt;/ref&gt;
+
+==Demographics==
+{{US Census population
+| 1840=4470
+| 1850=29963
+| 1860=112172
+| 1870=298977
+| 1880=503185
+| 1890=1099850
+| 1900=1698575
+| 1910=2185283
+| 1920=2701705
+| 1930=3376438
+| 1940=3396808
+| 1950=3620962
+| 1960=3550404
+| 1970=3366957
+| 1980=3005072
+| 1990=2783726
+| 2000=2896016
+| 2009=2851268
+| 2010=2695598
+| 2011=2707120
+| footnote=&lt;center&gt;[http://www.census.gov/prod/www/abs/decennial/ U.S. Decennial Census]&lt;br&gt;[http://www.census.gov/popest/data/cities/totals/2011/tables/SUB-EST2011-03-17.csv 2011 estimate]&lt;/center&gt;
+}}
+{{Main|Demographics of Chicago}}
+
+During its first 100 years, Chicago was one of the fastest-growing cities in the world. When founded in 1833, less than 200 people had settled on what was then the American frontier. By the time of its first census, seven years later, the population had reached over 4,000. Within the span of forty years, the city's population grew from slightly under 30,000 in 1850 to over 1&amp;nbsp;million by 1890. By the close of the 19th century, Chicago was the fifth largest city in the world,&lt;ref&gt;{{cite web|url=http://geography.about.com/library/weekly/aa011201f.htm |title=Top 10 Cities of the Year 1900 |publisher=Geography.about.com |accessdate=May 4, 2009}}&lt;/ref&gt; and the largest of the cities that did not exist at the dawn of the century. Within sixty years of the [[Great Chicago Fire|Great Chicago Fire of 1871]], the population went from about 300,000 to over 3 million,&lt;ref&gt;{{cite web
+ |url=http://tigger.uic.edu/depts/ahaa/imagebase/chimaps/mcclendon.html
+ |title=Chicago Growth 1850–1990: Maps by Dennis McClendon
+ |accessdate=August 19, 2007
+ |publisher=University Illinois Chicago
+}}&lt;/ref&gt; and reached its highest ever-recorded population of 3.6&amp;nbsp;million for the 1950 census.
+
+From the last two decades of the 19th Century, Chicago was the destination of waves of immigrants from Southern and Eastern Europe, including (but by no means limited to) [[Italians]], [[Jews]], [[Poles]], and [[Czechs]].&lt;ref name=Cohen&gt;Lizabeth Cohen, ''Making a New Deal: Industrial Workers in Chicago, 1919-1939''. Cambridge, England: Cambridge University Press, 1990; pp. 33-34.&lt;/ref&gt; To these ethnic groups, the basis of the city's industrial [[working class]], was added an additional influx of [[African-Americans]] from the [[Southern United States|American South]] — with Chicago's black population doubling between 1910 and 1920 and doubling again between 1920 and 1930.&lt;ref name=Cohen /&gt;
+
+The great majority of American blacks moving to Chicago in these years were clustered in a so‑called &quot;[[Black Belt (region of Chicago)|Black Belt]]&quot; on the city's South Side.&lt;ref name=Cohen /&gt; By 1930, two-thirds of Chicago's African-American population lived in sections of the city which were 90% black in racial composition.&lt;ref name=Cohen /&gt; Chicago's South Side emerged as America's second largest urban black concentration, following New York's [[Harlem]].&lt;ref name=Cohen /&gt;
+
+As of the [[2010 United States Census|2010 census]],&lt;ref&gt;[http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_QTPL&amp;prodType=table American Community Survey: Chicago city]. Retrieved March 6, 2011.&lt;/ref&gt; there were 2,695,598 people with 1,045,560 households living in Chicago. More than half the population of the state of Illinois lives in the Chicago metropolitan area. Chicago is also one of the United States' most densely populated major cities. The racial composition of the city was:
+* 45.0% [[White American|White]] (31.7% [[non-Hispanic whites]]);
+* 32.9% [[African American|Black or African American]];
+* 13.4% from some other race;
+* 5.5% [[Asian American|Asian]] (1.6% Chinese, 1.1% Indian, 1.1% Filipino, 0.4% Korean, 0.3% Pakistani, 0.3% Vietnamese, 0.2% Japanese, 0.1% Thai);
+* 2.7% from [[Multiracial American|two or more races]];
+* 0.5% [[Native Americans in the United States|American Indian]].
+Chicago has a [[Hispanic and Latino Americans|Hispanic or Latino]] population of 28.9%. (Its members may belong to any race; 21.4% Mexican, 3.8% Puerto Rican, 0.7% Guatemalan, 0.6% Ecuadorian, 0.3% Cuban, 0.3% Colombian, 0.2% Honduran, 0.2% Salvadoran, 0.2% Peruvian)&lt;ref&gt;[http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_QTPL&amp;prodType=table Factfinder2census.gov]&lt;/ref&gt; The Guatemalan, Colombian and Peruvian communities have skyrocketed in the 2000s, and some estimates give higher percentages.
+
+Based on Census data from 2000, the median income for a household in the city was $38,625, and the median income for a family was $42,724. Males had a median income of $35,907 versus $30,536 for females. About 16.6% of families and 19.6% of the population lived below the poverty line.&lt;ref&gt;{{cite web|author=American FactFinder, United States Census Bureau |url=http://factfinder.census.gov/servlet/QTTable?_bm=y&amp;-geo_id=16000US1714000&amp;-qr_name=DEC_2000_SF3_U_DP3&amp;-ds_name=DEC_2000_SF3_U&amp;-_lang=en&amp;-redoLog=false&amp;-_sse=on |title=Chicago city, Illinois – DP-3. Profile of Selected Economic Characteristics: 2000 |publisher=Factfinder.census.gov |accessdate=September 14, 2009}}&lt;/ref&gt;
+
+The city's most populous ethnic group, non-Hispanic white, has declined from 59% in 1970 to 31.7% in 2010.&lt;ref&gt;{{cite web|title= Illinois - Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=U.S. Census Bureau|url=http://www.census.gov/population/www/documentation/twps0076/twps0076.html|accessdate=April 22, 2012}}&lt;/ref&gt; As of the 2007 US Census American Community Survey the largest [[European American|European]] ancestries were:
+* Irish: (201,836)
+* German: (200,392)
+* Polish: (179,868)
+* Italian: (96,599)
+* English: (60,307).&lt;ref&gt;[http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml Factfinder2census.gov]&lt;/ref&gt;
+
+According to the 2008 American Community Survey 1-Year Estimates for Total Ancestry Reported, for the city of Chicago, the majority of residents, or 64% of 2,986,974 people, reported their ancestry as &quot;other groups&quot;.&lt;ref name=&quot;tablec04003&quot;&gt;{{cite web|url=http://factfinder.census.gov/servlet/DTTable?_bm=y&amp;-state=dt&amp;-context=dt&amp;-ds_name=ACS_2008_1YR_G00_&amp;-mt_name=ACS_2008_1YR_G2000_C04003&amp;-tree_id=308&amp;-_caller=geoselect&amp;-geo_id=16000US1714000&amp;-search_results=01000US&amp;-format=&amp;-_lang=en|title=Table:C04003 – Total Ancestry Reported|year=2008|work=2008 American Community Survey 1-Year Estimates|publisher=United States Census Bureau|accessdate=March 16, 2010}}&lt;/ref&gt; Of the 36% of residents that reported their ancestries in groups that were measured by the U.S. Census Bureau, the largest groups, based on the total population, were:  [[Irish American|Irish]] (6.6%); [[German American|German]] (6.5%); [[Polish American|Polish]] (5.3%); [[Italian American|Italian]] (3.5%); [[Assyrian people|Assyrian]] (3.5%); [[English American|English]] (2.0%); [[African American|Sub-Saharan African]] (1.2%); American (1.1%); [[Filipino American|Filipino]] (1.0%); [[Russian American|Russian]] (0.97%); [[Swedish American|Swedish]] (0.91%); [[French American|French (except Basque)]] (0.9%); [[Arab American|Arab]] (0.7%); [[Greek American|Greek]] (0.6%); [[Dutch American|Dutch]] (0.5%); [[Norwegian American|Norwegian]] (0.5%); [[Scottish American|Scottish]] (0.5%); [[European American|European]] (0.5%); [[West Indian]] (0.5%); [[Lithuanian American|Lithuanian]] (0.4%); [[Ukrainian American|Ukrainian]] (0.38%); [[Czech American|Czech]] (0.4%); [[Hungarian American|Hungarian]] (0.3%); [[Scotch-Irish American|Scotch-Irish]] (0.2%); [[Welsh American|Welsh]] (0.2%); [[Danish American|Danish]] (0.2%); [[French Canadian]] (0.2%); [[Slovak American|Slovak]] (0.2%); [[British American|British]] (0.1%); [[Swiss American|Swiss]] (0.1%); and [[Portuguese American|Portuguese]] (0.1%).&lt;ref name=&quot;tablec04003&quot;/&gt;
+The city also has a large [[Assyrian American|Assyrian]] population numbering between 80,000–120,000, and it is the location of the seat of the head of the [[Assyrian Church of the East]], Mar Dinkha IV.
+&lt;ref&gt;{{cite web|url=http://www.jaas.org/edocs/v10n2/yoab2.pdf |title=Assyrians in Middle America|format=PDF |date= |accessdate=2012-03-31}}&lt;/ref&gt;
+
+==Law and government==
+{{Main|Law and government of Chicago|Political history of Chicago}}
+[[File:Daley Plaza 060716.jpg|thumb|Daley Plaza with [[Picasso]] statue and City Hall in background. State law courts are in the building at right]]
+Chicago is the [[county seat]] of [[Cook County, Illinois|Cook County]]. The government of the City of Chicago is divided into executive and [[legislature|legislative]] branches. Civil and criminal law cases are heard in the [[Cook County Circuit Court]] of the State of Illinois court system, or in the [[Northern District of Illinois]], in the federal system. In the former, the public prosecutor is the Illinois [[State's Attorney]], in the latter, the United States [[District Attorney|Attorney]].
+
+The [[Mayor of Chicago]] is the chief executive, elected by general election for a term of four years, with no term limits. The mayor appoints commissioners and other officials who oversee the various departments. In addition to the mayor, Chicago's two other citywide elected officials are the clerk and the treasurer. The [[Chicago City Council|City Council]] is the legislative branch and is made up of 50 aldermen, one elected from each [[wards of the United States|ward]] in the city. The council enacts local ordinances and approves the city budget. Government priorities and activities are established in a budget ordinance usually adopted each November. The council takes official action through the passage of ordinances and resolutions.
+
+During much of the last half of the 19th century, Chicago's politics were dominated by a growing [[Democratic Party (United States)|Democratic Party]] organization dominated by ethnic ward-heelers. During the 1880s and 1890s, Chicago had a powerful radical tradition with large and highly organized socialist, [[anarchism|anarchist]] and labor organizations.&lt;ref&gt;Schneirov 1998, pp 173–174&lt;/ref&gt; For much of the 20th century, Chicago has been among the largest and most reliable Democratic strongholds in the United States; with Chicago's Democratic vote the state of Illinois has been &quot;[[Red states and blue states|solid blue]]&quot; in [[United States presidential election|presidential elections]] since 1992.  Even before then, it was not unheard of for Republican presidential candidates to win handily in downstate Illinois, only to lose statewide due to large Democratic margins in Chicago.  The citizens of Chicago have not elected a [[Republican Party (United States)|Republican]] mayor since 1927, when [[William Hale Thompson|William Thompson]] was voted into office. The strength of the party in the city is partly a consequence of Illinois state politics, where the Republicans have come to represent the rural and farm concerns while the Democrats support urban issues such as Chicago's public school funding. Chicago contains less than 25% of the state's population, but 8 of Illinois' 19 [[United States House of Representatives|U.S.&amp;nbsp;Representatives]] have part of Chicago in their [[Illinois's congressional districts|districts]].
+
+Former Chicago Mayor [[Richard J. Daley]]'s (in office
+1955–1976) mastery of [[political machine|machine politics]] preserved the [[Chicago Democratic Machine]] long after the demise of similar machines in other large U.S. cities.&lt;ref&gt;Montejano 1998, pp 33–34&lt;/ref&gt; During much of that time, the city administration found opposition mainly from a liberal &quot;independent&quot; faction of the Democratic Party. The independents finally gained control of city government in 1983 with the election of [[Harold Washington]] (in office 1983–1987). From 1989 until May 16, 2011, Chicago was under the leadership of its longest serving mayor, [[Richard M. Daley]], the son of Richard J. Daley.  On May 16, 2011, [[Rahm Emanuel]] was sworn in as the 55th mayor of Chicago. Because of the dominance of the Democratic Party in Chicago, the Democratic [[primary election|primary]] vote held in the spring is generally more significant than the general elections in November for U.S. House and Illinois State seats.  The aldermanic, mayoral, and other city offices are filled through nonpartisan elections with runoffs as needed.
+
+===Crime===
+{{Main|Crime in Chicago|Organized crime in Chicago}}
+Murders in the city peaked first in 1974, with 970 murders when the city's population was ''over'' 3&amp;nbsp;million people (resulting in a murder rate of around 29 per 100,000), and again in 1992 with 943 murders, resulting in a murder rate of 34 per 100,000!&lt;ref&gt;Heinzmann, David (January 1, 2003). [http://qrc.depaul.edu/djabon/Articles/ChicagoCrime20030101.htm Chicago falls out of 1st in murders]. ''Chicago Tribune'', found at qrc.depaul.edu/djabon/Articles/ChicagoCrime20030101.htm.&lt;/ref&gt; Chicago, along with other major US cities, experienced a significant reduction in violent crime rates through the 1990s, eventually recording 448 [[homicide]]s in 2004, the lowest total since 1965 (15.65 per 100,000.) Chicago's homicide tally remained steady throughout 2005, 2006, and 2007 with 449, 452, and 435 respectively.
+
+In 2008, murders rebounded to 510, 2nd highest in the country (though not in per capita rate), breaking 500 for the first time since 2003.&lt;ref&gt;{{cite web|url=http://abclocal.go.com/wls/story?section=news/local&amp;id=6580432 |title=Murder rate jumps in 2008 |publisher=ABC News |accessdate=May 4, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tressugar.com/1919267 |title=Chicago's Murder Rate Double American Soldiers Killed in Iraq |publisher=Tres Sugar |date= September 5, 2008}}&lt;/ref&gt; For 2009 the murder count was down about 10% for the year, to 458.&lt;ref&gt;{{cite web|title=FBI 2005 UCR data|url=http://www.fbi.gov/ucr/05cius/data/table_08_il.html|publisher=FBI|accessdate=August 18, 2010}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt;
+
+2010 saw Chicago's murder rate at its lowest levels since 1965. Overall, 435 homicides were recorded for the year, a 5% decrease from 2009.&lt;ref&gt;{{cite news|title=Chicago homicides in 2010 fell to lowest level since 1965|url=http://articles.chicagotribune.com/2011-01-03/news/ct-met-chicago-crime-statistics-20110103_1_superintendent-jody-weis-chicago-homicides-violent-crimes|last=Gorner | first=Jeremy | date=January 3, 2011 | accessdate=January 7, 2011 | work=Chicago Tribune}}&lt;/ref&gt;
+
+==Education==
+{{Main|Chicago Public Schools}}
+
+===Schools and libraries===
+[[File:Harold Washington Library, Chicago, IL - front oblique.jpg|thumb| Since its completion in 1991, the [[Harold Washington Library]] has appeared in the [[Guinness Book of Records]] as the largest public library building in the world.]]
+There are 675 public schools,&lt;ref&gt;{{cite web|url=http://www.cps.edu/About_CPS/At-a-glance/Pages/Stats_and_facts.aspx |title=Chicago Public Schools – Stats and Facts |accessdate=June 27, 2009 |first=Chicago Public Schools |publisher=Chicago Public Schools}}&lt;/ref&gt; 394 private schools, 83 colleges, and 88 libraries in Chicago. [[Chicago Public Schools]] (CPS) is the governing body of the [[school district]] that contains over 600 public elementary and high schools citywide, including several selective-admission magnet schools. There are 9 selective enrollment high schools in the Chicago Public Schools. They are designed to meet the needs of Chicago’s most academically advanced students. The schools offer a rigorous curriculum with mainly honors and Advanced Placement (AP) courses.&lt;ref&gt;{{cite web|url=http://www.cps.edu/Schools/High_schools/Pages/Selectiveenrollment.aspx |title=Chicago Public Schools : Selective enrollment| accessdate=August 30, 2010 |first=Chicago Public Schools |publisher=Chicago Public Schools}}&lt;/ref&gt; [[Northside College Preparatory High School]] is ranked number one in the city of Chicago. The oldest magnet school in the City of Chicago, [[Whitney M. Young Magnet High School]], was opened in 1975, was attended by the [[First Lady of the United States]], [[Michelle Obama]], and ranked number two.[[Walter Payton College Prep High School]] is ranked number three. The Chicago high school rankings are determined by the average test scores on state achievement tests.&lt;ref&gt;{{cite news|url=http://www.suntimes.com/news/education/2846182,chicago-area-high-school-rank.article| title=Top 100 Chicago-area high schools  | accessdate=October 30, 2010|work=Chicago Sun-Times}}&lt;/ref&gt; The district, with an enrollment exceeding 400,000 students (2005 stat.), ranks as the third largest in the US&lt;ref&gt;[http://www.cps.k12.il.us/AtAGlance.html CPS At A Glance (2005)] ''Chicago Public Schools'' at www.cps.k12.il.us/AtAGlance.html.&lt;/ref&gt; On September 10, 2012, teachers for the Chicago Teachers Union went on strike for the first time since 1987 over pay, resources and other issues.&lt;ref&gt;{{cite news|url=http://timeoutchicagokids.com/guides-resources/178436/chicago-teachers-on-strike|title=Chicago teachers on strike|publisher=Time Out Chicago Kids|accessdate=September 10, 2012}}&lt;/ref&gt;
+
+Chicago's private schools are largely Catholic and [[Lutheran school]]s. The [[Roman Catholic Archdiocese of Chicago]] operates the city's [[Catholic school]]s, including the [[List of Jesuit secondary schools in the United States#Illinois|Jesuit preparatory school]]s. Some of the more prominent Catholic schools are [[St. Rita of Cascia High School]], [[De La Salle Institute]], Gordon Technical High School, [[Cristo Rey Jesuit High School (Chicago)|Cristo Rey Jesuit High School]], [[Brother Rice High School (Chicago, Illinois)|Brother Rice High School]], [[St. Ignatius College Preparatory School]], [[St. Scholastica Academy (Chicago, Illinois)|St.&amp;nbsp;Scholastica Academy]], [[Mount Carmel High School (Chicago)|Mount Carmel High School]], [[Mother McAuley Liberal Arts High School]], [[Marist High School (Chicago, Illinois)|Marist High School]], [[St. Patrick High School (Chicago)|St.&amp;nbsp;Patrick High School]], Maria High School and [[Resurrection High School (Chicago, Illinois)|Resurrection High School]]. In addition to Chicago's network of 32 Lutheran schools,&lt;ref&gt;Pogorzelski 2008, p 58&lt;/ref&gt; there are also several private schools run by other denominations and faiths, such as the [[Ida Crown Jewish Academy]] in [[West Ridge, Chicago|West Ridge]]. Additionally, a number of private schools are run in a completely secular educational environment, such as the [[Latin School of Chicago]], the [[University of Chicago Laboratory Schools]] in Hyde Park,the Siebel Institute of brewing tech, the [[Francis W. Parker School (Chicago)|Francis W. Parker School]], the Chicago City Day School in Lake View, the [[Feltre School]] in [[River North]] and the [[Morgan Park Academy]]. Chicago is also home of the private [[Chicago Academy for the Arts]], a high school focused on six different categories of the arts, such as Media Arts, Visual Arts, Music, Dance, Musical Theatre and Theatre.
+
+The [[Chicago Public Library]] system operates 79 public libraries including the central library, two regional libraries, and numerous branches distributed throughout the city.
+
+===Colleges and universities===
+{{main list|List of colleges and universities in Chicago}}
+[[File:Harper Midway Chicago.jpg|thumb|The [[University of Chicago]], as seen from the [[Midway Plaisance]]]]
+&lt;!-- PLEASE TRY TO LIST THE SUBURBAN SCHOOLS AT THE ILLINOIS ARTICLE --&gt;
+Since the 1850s,&lt;!-- CTS was founded in 1855 --&gt; Chicago has been a world center of higher education and research with several universities that are in the city proper or in the immediate environs. These institutions consistently rank among the top &quot;National Universities&quot; in the United States, as determined by ''[[U.S. News &amp; World Report]]''. Top universities in Chicago are: [[The University of Chicago]]; [[Northwestern University]]; [[Illinois Institute of Technology]]; [[Loyola University Chicago]]; [[DePaul University]]; and [[University of Illinois at Chicago]].&lt;ref&gt;{{cite web|url=http://classifications.carnegiefoundation.org/lookup_listings/view_institution.php?unit_id=145600&amp;start_page=institution.php&amp;clq=%7B%22ipug2005_ids%22%3A%22%22%2C%22ipgrad2005_ids%22%3A%22%22%2C%22enrprofile2005_ids%22%3A%22%22%2C%22ugprfile2005_ids%22%3A%22%22%2C%22sizeset2005_ids%22%3A%22%22%2C%22basic2005_ids%22%3A%22%22%2C%22eng2005_ids%22%3A%22%22%2C%22search_string%22%3A%22university+of+illinois+chicago%22%2C%22first_letter%22%3A%22%22%2C%22level%22%3A%22%22%2C%22control%22%3A%22%22%2C%22accred%22%3A%22%22%2C%22state%22%3A%22%22%2C%22region%22%3A%22%22%2C%22urbanicity%22%3A%22%22%2C%22womens%22%3A%22%22%2C%22hbcu%22%3A%22%22%2C%22hsi%22%3A%22%22%2C%22tribal%22%3A%22%22%2C%22msi%22%3A%22%22%2C%22landgrant%22%3A%22%22%2C%22coplac%22%3A%22%22%2C%22urban%22%3A%22%22%7D |title=Carnegie Classifications &amp;#124; Institution Profile |publisher=Classifications.carnegiefoundation.org |accessdate=July 3, 2011}}&lt;/ref&gt; Other notable schools include: [[Chicago State University]]; the [[School of the Art Institute of Chicago]], the [[Illinois Institute of Art - Chicago]]; [[East–West University]]; [[National-Louis University]]; [[North Park University]]; [[Northeastern Illinois University]]; [[Columbia College Chicago]]; [[Robert Morris University (Illinois)|Robert Morris University]]; [[Roosevelt University]]; [[Saint Xavier University]]; and [[Rush University]].
+
+[[William Rainey Harper]], the first president of the University of Chicago, was instrumental in the creation of the [[junior college]] concept, establishing nearby [[Joliet Junior College]] as the first in the nation in 1901.&lt;ref&gt;{{cite web|title=History|url=http://www.jjc.edu/about/pages/default.aspx|year=2009|publisher=Joliet Junior College|accessdate=July 19, 2009}}&lt;/ref&gt; His legacy continues with the multiple [[community college]]s in the Chicago proper, including the seven [[City Colleges of Chicago]], [[Richard J. Daley College]], [[Kennedy–King College]], [[Malcolm X College]], [[Olive–Harvey College]], [[Harry S Truman College]], [[Harold Washington College]] and [[Wilbur Wright College]], in addition to the privately held [[MacCormac College]].
+
+Chicago proper also has a large concentration of graduate schools, seminaries and theological schools such as the [[Adler School of Professional Psychology]], [[The Chicago School of Professional Psychology]], the [[Catholic Theological Union]], [[Moody Bible Institute]], and the [[University of Chicago Divinity School]].
+
+==Transportation==
+[[File:ChicagoSkyway1104.jpg|right|thumb|Night view of the [[Chicago Skyway]] tollbooths at the entrance to Chicago's southern city limits]]
+{{Further|Transportation in Chicago}}
+[[File:Chicago (3).jpg|thumb|[[Amtrak]] and [[Metra]] rail yard south of [[Chicago Union Station|Union Station]]]]
+[[File:CTA Brown Line 060716.jpg|thumb|A CTA [[Brown Line (Chicago Transit Authority)|Brown Line]] train leaving the [[Madison/Wabash (CTA station)|Madison/Wabash]] station in the [[Chicago Loop]].]]
+
+Chicago is a major transportation hub in the United States. It is an important component in global distribution, as it is the third largest inter-modal port in the world after Hong Kong and [[Singapore]].&lt;ref&gt;
+Madigan 2004, p.52.&lt;/ref&gt;
+
+===Expressways===
+{{Further|Roads and expressways in Chicago}}
+Seven mainline and four auxiliary [[Interstate Highway System|interstate highways]] ([[Interstate 55 in Illinois|55]], [[Interstate 57|57]], [[Interstate 65 in Indiana|65]] (only in Indiana), [[Interstate 80 in Illinois|80]] (also in [[Interstate 80 in Indiana|Indiana]]), [[Interstate 88 (west)|88]], [[Interstate 90 in Illinois|90]] (also in [[Indiana Toll Road|Indiana]]), [[Interstate 94 in Illinois|94]] (also in [[Interstate 94 in Indiana|Indiana]]), [[Interstate 190 (Illinois)|190]], [[Interstate 290 (Illinois)|290]], [[Interstate 294|294]], and [[Interstate 355|355]]) run through Chicago and its suburbs. Segments that link to the city center are named after influential politicians, with three of them named after former U.S.&amp;nbsp;Presidents (Eisenhower, Kennedy, and Reagan) and one named after two-time Democratic candidate [[Adlai Stevenson II|Adlai Stevenson]].
+
+The [[Kennedy Expressway|Kennedy]] and [[Dan Ryan Expressway|Dan Ryan]] Expressways are the busiest state maintained routes in not only the City of Chicago and its suburbs, but also the entire state of Illinois.&lt;ref&gt;{{cite web|url=http://www.dot.il.gov/trafficmaps/table.htm |title=Illinois Department of Transportation |publisher=Dot.il.gov |accessdate=April 17, 2010}}&lt;/ref&gt;
+
+===Transit systems===
+The '''[[Regional Transportation Authority (Illinois)|Regional Transportation Authority]] (RTA)''' coordinates the operation of the three service boards: CTA, Metra, and Pace.
+
+* The '''[[Chicago Transit Authority]] (CTA)''' handles public transportation in the city of Chicago and a few adjacent suburbs outside of the Chicago city limits. The CTA operates an extensive network of buses and a [[rapid transit]] elevated and subway system known as the [[Chicago 'L'|'L']] (for &quot;elevated&quot;), with lines designated by colors. These rapid transit lines also serve both [[Chicago Midway International Airport|Midway]] and [[O'Hare International Airport|O'Hare Airport]]s. The CTA's rail lines consist of the [[Red Line (Chicago Transit Authority)|Red]], [[Blue Line (Chicago Transit Authority)|Blue]], [[Green Line (Chicago Transit Authority)|Green]], [[Orange Line (Chicago Transit Authority)|Orange]], [[Brown Line (Chicago Transit Authority)|Brown]], [[Purple Line (Chicago Transit Authority)|Purple]], [[Pink Line (Chicago Transit Authority)|Pink]], and [[Yellow Line (Chicago Transit Authority)|Yellow]] lines. Both the Red and Blue lines offer 24‑hour service which makes Chicago one of a handful of cities around the world (and one of two in the United States, the other being New York City) to offer rail service 24 hours a day, every day of the year, within the city's limits.
+
+* '''[[Metra]]''', the nation's second-most used passenger regional rail network, operates an 11-line [[commuter rail]] service in Chicago and throughout the Chicago suburbs. The [[Metra Electric Line]] shares its trackage with Northern Indiana Commuter Transportation District's [[South Shore Line (NICTD)|South Shore Line]], which provides commuter service between [[South Bend, Indiana|South Bend]] and Chicago.
+
+* '''[[Pace (transit)|Pace]]''' provides bus and [[paratransit]] service in over 200 surrounding suburbs with some extensions into the city as well. A 2005 study found that one quarter of commuters used public transit.&lt;ref&gt;[http://money.cnn.com/2007/06/13/real_estate/public_transit_commutes/index.htm &quot;New Yorkers are top transit users&quot;], by Les Christie,''CNNmoney.com'', 2007-6-29. Retrieved 2009-9-21.&lt;/ref&gt;
+
+'''[[Greyhound Lines]]''' provides inter-city bus service to and from the city, and Chicago is also the hub for the Midwest network of [[Megabus (North America)]].
+
+'''[[Amtrak]]''' long distance services originate from [[Union Station (Chicago)|Union Station]]. Chicago is one of the largest hubs of passenger rail service in the nation. The services terminate in San Francisco, Washington, D.C., New York City, [[Indianapolis]], New Orleans, [[Portland, Oregon|Portland]], [[Seattle]], [[Milwaukee]], [[Quincy, Illinois|Quincy]], [[St. Louis, Missouri|St.&amp;nbsp;Louis]], [[Carbondale, Illinois|Carbondale]], Boston, [[Grand Rapids, Michigan|Grand Rapids]], [[Port Huron, Michigan|Port Huron]], [[Pontiac, Michigan|Pontiac]], Los Angeles, and [[San Antonio]]. An attempt was made in the early 20th century to link Chicago with New York City via the [[Chicago – New York Electric Air Line Railroad]]. Parts of this were built, but it was ultimately never completed.
+
+Six of the seven [[Class I railroad]]s meet in Chicago, with the exception being the [[Kansas City Southern Railway]].&lt;ref&gt;[http://www.fhwa.dot.gov/ENVIRonment/freightaq/appendixc.htm Appendix C: Regional Freight Transportation Profiles]. ''Assessing the Effects of Freight Movement on Air Quality at the National and Regional Level''. U.S. Department of Transportation – Federal Highway Administration (April 2005).&lt;/ref&gt; As of 2002, severe freight train congestion caused trains to take as long to get through the Chicago region as it took to get there from the West Coast of the country (about 2 days).&lt;ref&gt;{{cite web|last=Winsor |first=Jeromie |url=http://www.metroplanning.org/articleDetail.asp?objectID=1707 |title=Metropolitan Planning Council |publisher=Metroplanning.org |date=July 14, 2003 |accessdate=May 4, 2009}}&lt;/ref&gt; About one-third of the country's freight trains pass through the city, making it a major national bottleneck.&lt;ref&gt;{{cite web|url=http://www.entrepreneur.com/tradejournals/article/171140041.html |title=The heartland fast-freight rail system |publisher=Entrepreneur.com |accessdate=May 4, 2009}}{{dead link|date=February 2012}}&lt;/ref&gt; Announced in 2003, the Chicago Region Environmental and Transportation Efficiency (CREATE) initiative is using about $1.5&amp;nbsp;billion in private railroad, state, local, and federal funding to improve rail infrastructure in the region to reduce freight rail congestion by about one third.&lt;ref&gt;[http://www.midwesthsr.org/promote_create.htm]{{dead link|date=November 2010}}&lt;/ref&gt;
+
+===Airports===
+{{Further|Transportation in Chicago#Airports}}
+[[File:Ohare Neon Walkway.jpg|right|thumb|The ''&quot;Gershwin Tunnel&quot;'' at [[O'Hare International Airport|O'Hare Airport]] between concourses B and C in Terminal 1, operated by [[United Airlines]].]]
+Chicago is served by [[O'Hare International Airport]], the world's second busiest airport, on the far Northwest Side, and [[Chicago Midway International Airport|Midway International Airport]] on the Southwest Side. In 2005, O'Hare was the world's busiest airport by aircraft movements and the second busiest by total passenger traffic (due to government enforced flight caps).&lt;ref&gt;{{PDFlink|[http://www.airports.org/aci/aci/file/Press%20Releases/PR140306_2005_Prelim_Results.pdf Preliminary Traffic Results for 2005 Show Firm Rebound (March 14, 2006)]|520&amp;nbsp;KB}}. ''Airports Council International''.&lt;/ref&gt; Both O'Hare and Midway are owned and operated by the City of Chicago. [[Gary/Chicago International Airport]] and [[Chicago Rockford International Airport]], located in [[Gary, Indiana]] and [[Rockford, Illinois]], respectively, can serve as alternate Chicago area airports, however they do not offer as many commercial flights as O'Hare and Midway. Both Gary and Rockford are vying to become Chicago's third major airport, although the state of Illinois in recent years has been leaning towards building an entirely new airport in the Illinois suburbs of Chicago. The City of Chicago is the world headquarters for [[United Airlines]], the world's largest airline. O'Hare is also a hub for [[American Airlines]]. Chicago is a focus city for [[Southwest Airlines]] at Midway.
+
+===Port authority===
+{{Main|Port of Chicago}}
+'''The Port of Chicago''' consists of several major port facilities within the city of Chicago operated by the '''Illinois International Port District''' (formerly known as the '''Chicago Regional Port District'''). The central element of the Port District, '''Calumet Harbor''', is maintained by the [[U.S. Army Corps of Engineers]].&lt;ref&gt;U.S. Army Corps of Engineers (November 2007). [http://www.lrc.usace.army.mil/co-o/calumet.pdf &quot;Calumet Harbor, IL and IN.&quot;] Retrieved on November 11, 2008.&lt;/ref&gt;
+
+*Iroquois Landing Lakefront Terminal: at the mouth of the Calumet River, it includes {{convert|100|acre|km2}} of warehouses and facilities on Lake Michigan with over 780,000 square meters (8,390,000 square feet) of storage.
+*Lake Calumet terminal: located at the union of the [[Grand Calumet River]] and [[Little Calumet River]] {{convert|6|mi|km}} inland from Lake Michigan. Includes three transit sheds totaling over 29,000 square meters (315,000 square feet) adjacent to over 900 linear meters (3,000 linear feet) of ship and barge berthing.
+*Grain (14&amp;nbsp;million bushels) and bulk liquid (800,000 barrels) storage facilities along [[Lake Calumet]].
+*The Illinois International Port district also operates [[Foreign trade zone]] No.&amp;nbsp;22, which extends {{convert|60|mi|km}} from Chicago's city limits.
+
+==Infrastructure==
+
+===Utilities===
+Electricity for most of [[northern Illinois]] is provided by [[Commonwealth Edison]], also known as ComEd. Their service territory borders [[Iroquois County, Illinois|Iroquois County]] to the south, the [[Wisconsin]] border to the north, the [[Iowa]] border to the west and the [[Indiana]] border to the east. In northern Illinois, ComEd (a division of [[Exelon]]) operates the greatest number of nuclear generating plants in any US state. Because of this, ComEd reports indicate that Chicago receives about 75% of its electricity from nuclear power. Recently, the city started the installation of wind turbines on government buildings with the aim to promote the use of renewable energy.&lt;ref&gt;{{cite web|url=http://www.iit.edu/~ipro307f/faq.html |title=IIT.edu |publisher=IIT.edu |date=June 20, 2003 |accessdate=May 4, 2009 |archiveurl = http://web.archive.org/web/20080605021018/http://www.iit.edu/~ipro307f/faq.html |archivedate = June 5, 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.kentlaw.edu/news/advisory/adv030707.html |title=KentLaw.edu |publisher=KentLaw.edu |accessdate=May 4, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=By Martin LaMonica Staff Writer, CNET News |url=http://news.com.com/Micro+wind+turbines+are+coming+to+town/2100-11398_3-6037539.html |title='Micro' wind turbines are coming to town &amp;#124; CNET News.com |publisher=News.com.com |accessdate=May 4, 2009}}&lt;/ref&gt;
+
+Natural Gas is provided by Peoples Gas, a subsidiary of [[Integrys Energy Group]], which is headquartered in Chicago.
+
+Domestic and industrial waste was once incinerated but it is now [[landfill]]ed, mainly in the [[Lake Calumet|Calumet area]]. From 1995 to 2008, the city had a [[blue bag]] program to divert certain refuse from landfills.&lt;ref&gt;{{cite web|url=http://www.encyclopedia.chicagohistory.org/pages/1322.html |title=Waste Disposal |publisher=Encyclopedia.chicagohistory.org |date= |accessdate=2012-03-31}}&lt;/ref&gt; In the fall of 2007 the city began a pilot program for blue bin recycling similar to that of other cities due to low participation rates in the blue bag program. After completion of the pilot the city will determine whether to roll it out to all wards.
+
+Using only 3% of the total available bandwidth capacity and 13% of the available fiber pairs, Chicago area data centers move data for local, area, regional and international networks.&lt;ref name=&quot;Telecommunications Hub&quot;/&gt;
+
+[[File:Prentice Chicago 060816.jpg|thumb|upright|The new Prentice Women's Hospital at the [[McGaw Medical Center]] of Northwestern University.]]
+
+===Health systems===
+Chicago is home to the [[Illinois Medical District]], on the Near West Side. It includes [[Rush University Medical Center]], the [[University of Illinois College of Medicine|University of Illinois Medical Center at Chicago]], Jesse Brown VA Hospital, and [[John H. Stroger, Jr. Hospital of Cook County]], the largest trauma-center in the city.
+
+Two of the country's premier academic medical centers reside in Chicago, including [[Northwestern Memorial Hospital]] and the [[University of Chicago Medical Center]]. The Chicago campus of Northwestern University includes the [[Feinberg School of Medicine]]; [[Northwestern Memorial Hospital]], which is ranked as the best hospital in the Chicago metropolitan area by ''U.S. News &amp; World Report'' for 2010–11;&lt;ref&gt;{{cite web|url=http://health.usnews.com/best-hospitals/area/chicago-il |title=Best Hospitals in Chicago, IL – US News Best Hospitals |publisher=Health.usnews.com |date=2011-03-29 |accessdate=2012-03-31}}&lt;/ref&gt; the [[Rehabilitation Institute of Chicago]], which is ranked the best U.S. rehabilitation hospital by ''U.S. News &amp; World Report''; the new [[List of Northwestern University buildings#Prentice Women's Hospital|Prentice Women's Hospital]]; and Ann &amp; Robert H. Lurie Children's Hospital of Chicago.
+
+The [[University of Illinois College of Medicine]] at UIC is the largest medical school in the United States (2,600 students including those at campuses in Peoria, Rockford and [[University of Illinois at Urbana–Champaign|Urbana–Champaign]]).&lt;ref&gt;[http://www.medicine.uic.edu/about About The University of Illinois College of Medicine (2007)]. ''UIC College of Medicine'' at www.medicine.uic.edu/about.&lt;/ref&gt;
+
+In addition, the [[Chicago Medical School]] and Loyola University Chicago's [[Stritch School of Medicine]] are located in the suburbs of [[North Chicago, Illinois|North Chicago]] and [[Maywood, Illinois|Maywood]], respectively. The [[Midwestern University]] Chicago College of [[Osteopathic medicine in the United States|Osteopathic Medicine]] is in [[Downers Grove, Illinois|Downers Grove]].
+
+The [[American Medical Association]], [[Accreditation Council for Graduate Medical Education]], [[Accreditation Council for Continuing Medical Education]], [[American Osteopathic Association]], [[American Dental Association]], [[Academy of General Dentistry]], [[American Dietetic Association]], [[American Association of Nurse Anesthetists]], [[American College of Surgeons]], [[American Society for Clinical Pathology]], [[American College of Healthcare Executives]] and the [[American Hospital Association]], and [[Blue Cross and Blue Shield Association]] are all based in Chicago.
+
+==Sister cities==
+&lt;!-- BEFORE ADDING TO THIS LIST, VERIFY THE INFO AT WWW.CHICAGOSISTERCITIES.COM OR PROVIDE AN ADDITIONAL REFERENCE. --&gt;
+Chicago has 28 [[Twin towns and sister cities|Sister Cities]] around the world.&lt;ref name=&quot;sistercities&quot;&gt;{{cite web|title=Chicago Sister Cities|url=http://www.chicagosistercities.com/|year=2009|publisher=Chicago Sister Cities International|accessdate=July 22, 2009}}&lt;/ref&gt; Like Chicago, many of them are or were the [[List of second cities|second most populous city or second most influential city]] of their country, or they are the main city of a country that has had large amounts of immigrants settle in Chicago. Paris is a ''Partner City'', due to the one sister city policy of its respective [[Communes of France|French commune]].&lt;ref&gt;{{cite web|url=http://www.paris.fr/portail/accueil/Portal.lut?page_id=6587&amp;document_type_id=5&amp;document_id=16467&amp;portlet_id=14974 |title=Le jumelage avec Rome |accessdate=July 9, 2008|publisher=Municipalité de Paris |language=French}}&lt;/ref&gt;
+
+To celebrate the sister cities, Chicago hosts a yearly festival in [[Daley Plaza]], which features cultural acts and food tastings from the other cities.&lt;ref name=&quot;sistercities&quot; /&gt; In addition, the Chicago Sister Cities program hosts a number of delegation and formal exchanges.&lt;ref name=&quot;sistercities&quot; /&gt; In some cases, these exchanges have led to further informal collaborations, such as the academic relationship between the Buehler Center on Aging, Health &amp; Society at the [[Feinberg School of Medicine]] of Northwestern University and the Institute of Gerontology of Ukraine (originally of the [[Soviet Union]]), that was originally established as part of the Chicago-Kiev sister cities program.&lt;ref&gt;{{cite web|first=Celia|last=Berdes, PhD|coauthors=Levin, Andrew|url=http://www.northwestern.edu/aging/pdf/Annual2008.pdf|work=Annual Report 2008|pages=5–7|publisher=Buehler Center on Aging, Health &amp; Society|title=Director Emeritus James Webster Looks Backward, Forward|accessdate=July 1, 2009}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt;
+
+'''Sister Cities'''
+{{div col|colwidth=20em}}
+*{{Flag icon|Poland}} '''[[Warsaw]]''' (Poland) ''1960''
+*{{Flag icon|Italy}} '''[[Milan]]''' (Italy) ''1973''
+*{{Flag icon|Japan}} '''[[Osaka]]''' (Japan) ''1973''
+*{{Flag icon|Morocco}} '''[[Casablanca]]''' (Morocco) ''1982''
+*{{Flag icon|People's Republic of China}} '''[[Shanghai]]''' (China) ''1985''
+*{{Flag icon|People's Republic of China}} '''[[Shenyang]]''' (China) ''1985''
+*{{Flag icon|Sweden}} '''[[Gothenburg]]''' (Sweden) ''1987''
+*{{Flag icon|Ghana}} '''[[Accra]]''' (Ghana) ''1989''
+*{{Flag icon|Czech Republic}} '''[[Prague]]''' (Czech Republic) ''1990''
+*{{Flag icon|Ukraine}} '''[[Kyiv]]''' (Ukraine) ''1991''
+*{{Flag icon|Mexico}} '''[[Mexico City]]''' (Mexico) ''1991''
+*{{Flag icon|Canada}} '''[[Toronto]]''' (Canada) ''1991''
+*{{Flag icon|United Kingdom}} '''[[Birmingham]]''' (United Kingdom) ''1993''
+*{{Flag icon|Lithuania}} '''[[Vilnius]]''' (Lithuania) ''1993''
+*{{Flag icon|Germany}} '''[[Hamburg]]''' (Germany) ''1994''
+*{{Flag icon|Israel}} '''[[Petah Tikva]]''' (Israel) ''1994''
+*{{Flag icon|Greece}} '''[[Athens]]''' (Greece) ''1997''
+*{{Flag icon|South Africa}} '''[[Durban]]''' (South Africa) ''1997''
+*{{Flag icon|Ireland}} '''[[Galway]]''' (Ireland) ''1997''
+*{{Flag icon|Russia}} '''[[Moscow]]''' (Russia) ''1997''
+*{{Flag icon|Switzerland}} '''[[Lucerne]]''' (Switzerland) ''1998''
+*{{Flag icon|India}} '''[[Delhi]]''' (India) ''2001''
+*{{Flag icon|Jordan}} '''[[Amman]]''' (Jordan) ''2004''
+*{{Flag icon|Brazil}} '''[[São Paulo]]''' (Brazil) ''2004''
+*{{Flag icon|Serbia}} '''[[Belgrade]]''' (Serbia) ''2005''
+*{{Flag icon|Pakistan}} '''[[Lahore]]''' (Pakistan) ''2007''
+*{{Flag icon|South Korea}} '''[[Busan]]''' (South Korea) ''2007''
+*{{Flag icon|Colombia}} '''[[Bogotá]]''' (Colombia) ''2009''
+{{div col end}}
+
+'''Partner City'''
+*{{Flag icon|France}} '''[[Paris]]''' (France) ''1996''
+
+==See also==
+{{portal|Geography|North America|United States|Illinois|Chicago}}
+*[[List of cities with most skyscrapers]]
+*[[National Register of Historic Places listings in Central Chicago]]
+*[[National Register of Historic Places listings in North Side Chicago]]
+*[[National Register of Historic Places listings in South Side Chicago]]
+*[[National Register of Historic Places listings in West Side Chicago]]
+{{clear}}
+
+==Notes==
+{{Reflist|30em|group=n}}
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+&lt;!--When creating entries to additional items please refer to the Wikipedia [[Wikipedia:Cite sources|Cite Sources]] guidelines. --&gt;
+{{refbegin|30em}}
+*{{Cite book
+ |author=Clymer, Floyd
+ |title = Treasury of Early American Automobiles, 1877–1925
+ |publisher=Bonanza Books
+ |year = 1950
+ |location = New York
+ |oclc=1966986
+}}
+*{{Cite book
+ |first = William
+ |last = Cronon|authorlink=William Cronon
+ |year = 1992|origyear=1991
+ |title = Nature's Metropolis: Chicago and the Great West
+ |publisher=W.W. Norton|location=New York
+ |isbn = 0-393-30873-1|oclc=26609682}}
+*{{Cite book
+ | first = James R.
+ | last = Grossman
+ | coauthors = Keating, Ann Durkin; Reiff, Janice L.
+ | year = 2004
+ | title = The Encyclopedia of Chicago
+ | publisher=University of Chicago Press|location=Chicago
+ | isbn = 0-226-31015-9|oclc=54454572}}
+*{{Cite book
+ | editor=Madigan, Charles
+ | title=Global Chicago
+ | publisher=University of Illinois Press
+ | location=Urbana
+ | year=2004
+ | isbn=0-252-02941-0 |oclc=54400307
+}}
+*{{Cite book
+ | first = Donald L.
+ | last = Miller
+ | year = 1996
+ | title = City of the Century: The Epic of Chicago and the Making of America
+ | publisher=Simon and Schuster
+ | isbn = 0-684-80194-9|location=New York|oclc=493430274}}
+*{{Cite book
+ | editor=Montejano, David
+ | title=Chicano Politics and Society in the Late Twentieth Century
+ | publisher=University of Texas Press
+ | year=1999
+ | location=Austin
+ | isbn=0-292-75215-6 |oclc=38879251
+}}
+*{{Cite book
+ | author=Norcliffe, Glen
+ | title = The Ride to Modernity: The Bicycle in Canada, 1869–1900
+ | publisher=University of Toronto Press
+ | year= 2001
+ | location = Toronto |isbn=0-8020-4398-4 |oclc=46625313
+}}
+*{{Cite book
+ |first = Dominic A.
+ |last = Pacyga
+ |year = 2009
+ |title = Chicago: A Biography
+ |publisher=University of Chicago Press|location=Chicago
+ |isbn = 0-226-64431-6|oclc=298670853}}
+*{{Cite book| author=Pogorzelski, Daniel | coauthors=Maloof, John | title=Portage Park (IL) (Images of America) | year=2008 | publisher=Arcadia Publishing | location=Charleston, SC | isbn=0-7385-5229-1 | oclc=212843071
+}}
+* {{cite book |title=[[Great American City: Chicago and the Enduring Neighborhood Effect]] |author=Robert J. Sampson |authorlink=Robert J. Sampson |year=2012 |publisher=University of Chicago Press |location=Chicago |isbn=9780226734569 }}
+*{{Cite book
+ | last=Sawyer | first=R. Keith
+ | title=Improvised dialogue: emergence and creativity in conversation
+ | publisher=Ablex Pub.
+ | location=Westport, Conn.
+ | year=2002
+ | isbn=1-56750-677-1 |oclc=59373382
+}}
+*{{Cite book| last=Schneirov | first=Richard | title=Labor and urban politics: class conflict and the origins of modern liberalism in Chicago, 1864–97 | year=1998 | publisher=University of Illinois Press | location=Urbana | isbn=0-252-06676-6 | oclc=37246254 }}
+*{{Cite book
+ |first = Carl S.
+ |last = Smith
+ |year = 2006
+ |title = The Plan of Chicago: Daniel Burnham and the Remaking of the American City
+ |publisher=[[University of Chicago Press]] |location=Chicago|series=Chicago visions + revisions
+ |isbn = 0-226-76471-0|oclc=261199152}}
+*{{Cite book| last=Spears | first=Timothy B. | title=Chicago dreaming: Midwesterners and the city, 1871–1919 | year=2005 | publisher=University of Chicago Press | location=Chicago | isbn=0-226-76874-0 | oclc=56086689
+}}
+*{{Cite book
+ | first = Stevenson
+ | last = Swanson|others=Chicago Tribune (Firm)
+ | year = 1997
+ | title = Chicago Days: 150 Defining Moments in the Life of a Great City
+ | publisher=Cantigny First Division Foundation|location=Chicago
+ | isbn = 1-890093-03-3|oclc=36066057}}
+{{refend}}
+
+==External links==
+{{Spoken Wikipedia|Chicago.ogg|2005-07-22}}
+{{Sister project links}}
+*[http://www.cityofchicago.org/ City of Chicago official website]
+*[http://data.cityofchicago.org/ City of Chicago data portal]
+*[http://www.explorechicago.org/ Explore Chicago: City of Chicago's official tourism website]
+*{{dmoz|Regional/North_America/United_States/Illinois/Localities/C/Chicago/}}
+*[http://collections.lib.uwm.edu/cdm4/results.php?CISOOP1=all&amp;CISOBOX1=Illinois&amp;CISOFIELD1=statep&amp;CISOOP2=all&amp;CISOBOX2=chicago+%28ill%29+--+maps&amp;CISOFIELD2=subjec&amp;CISOROOT=/agdm&amp;t=s Maps of Chicago from the American Geographical Society Library]
+
+{{Navboxes
+|title = Articles Related to Chicago
+|list  =
+{{Chicago}}
+{{Community areas of Chicago}}
+{{Neighborhoods in Chicago}}
+{{Chicagoland}}
+{{Chicago Landmark templates}}
+{{Cook County, Illinois}}
+{{DuPage County, Illinois}}
+{{Illinois}}
+{{Pan American Games host cities}}
+{{Illinois cities and mayors of 100,000 population}}
+{{USLargestCities}}
+{{World's most populated urban areas}}
+}}
+
+[[Category:Chicago, Illinois| ]]
+[[Category:Chicago metropolitan area| ]]
+[[Category:Cities in Illinois]]
+[[Category:Communities on U.S. Route 66]]
+[[Category:County seats in Illinois]]
+[[Category:Populated places established in 1833]]
+[[Category:Populated places in Cook County, Illinois]]
+[[Category:Populated places in DuPage County, Illinois]]
+[[Category:Populated places in the United States with African American plurality populations]]
+[[Category:Populated places on the Great Lakes]]
+[[Category:Port settlements in the United States]]
+
+{{Link GA|de}}
+{{Link FA|af}}
+[[af:Chicago]]
+[[als:Chicago]]
+[[ar:شيكاغو]]
+[[an:Chicago]]
+[[arc:ܫܝܩܓܘ]]
+[[az:Çikaqo]]
+[[bn:শিকাগো]]
+[[zh-min-nan:Chicago]]
+[[be:Горад Чыкага]]
+[[be-x-old:Чыкага]]
+[[bg:Чикаго]]
+[[bar:Chicago]]
+[[bs:Chicago]]
+[[br:Chicago]]
+[[ca:Chicago]]
+[[cs:Chicago]]
+[[co:Chicago]]
+[[cy:Chicago]]
+[[da:Chicago]]
+[[pdc:Chicago]]
+[[de:Chicago]]
+[[et:Chicago]]
+[[el:Σικάγο]]
+[[es:Chicago]]
+[[eo:Ĉikago]]
+[[ext:Chicago]]
+[[eu:Chicago]]
+[[fa:شیکاگو]]
+[[fo:Chicago]]
+[[fr:Chicago]]
+[[fy:Chicago]]
+[[ga:Chicago]]
+[[gd:Chicago]]
+[[gl:Chicago, Illinois]]
+[[hak:Chi-kâ-kô]]
+[[ko:시카고]]
+[[haw:Kikako, ʻIlinoe]]
+[[hy:Չիկագո]]
+[[hi:शिकागो]]
+[[hsb:Chicago]]
+[[hr:Chicago, Illinois]]
+[[io:Chicago]]
+[[ilo:Chicago, Illinois]]
+[[id:Chicago]]
+[[ie:Chicago]]
+[[iu:ᓰᖄᑯ]]
+[[os:Чикаго]]
+[[is:Chicago]]
+[[it:Chicago]]
+[[he:שיקגו]]
+[[jv:Chicago, Illinois]]
+[[kl:Chicago]]
+[[pam:Chicago]]
+[[ka:ჩიკაგო]]
+[[kw:Chicago, Illinois]]
+[[sw:Chicago]]
+[[ht:Chikago]]
+[[ku:Chicago]]
+[[mrj:Чикаго]]
+[[la:Sicagum]]
+[[lv:Čikāga]]
+[[lb:Chicago]]
+[[lt:Čikaga]]
+[[lij:Chicago]]
+[[li:Chicago]]
+[[lmo:Chicago]]
+[[hu:Chicago]]
+[[mk:Чикаго]]
+[[mg:Chicago]]
+[[ml:ഷിക്കാഗോ]]
+[[mi:Chicago]]
+[[mr:शिकागो]]
+[[xmf:ჩიკაგო]]
+[[arz:شيكاجو]]
+[[mzn:شیکاگو]]
+[[ms:Chicago]]
+[[mwl:Chicago]]
+[[my:ရှီကာဂိုမြို့]]
+[[na:Chicago]]
+[[nl:Chicago]]
+[[ne:शिकागो]]
+[[new:शिकागो]]
+[[ja:シカゴ]]
+[[ce:Чикаго]]
+[[frr:Chicago]]
+[[no:Chicago]]
+[[nn:Chicago]]
+[[oc:Chicago]]
+[[pnb:شکاگو]]
+[[pap:Chicago]]
+[[pms:Chicago]]
+[[nds:Chicago]]
+[[pl:Chicago]]
+[[pt:Chicago]]
+[[ro:Chicago]]
+[[rmy:Chicago]]
+[[qu:Chicago]]
+[[ru:Чикаго]]
+[[sah:Чикаго]]
+[[sc:Chicago]]
+[[sco:Chicago]]
+[[sq:Chicago]]
+[[scn:Chicagu]]
+[[simple:Chicago]]
+[[sk:Chicago]]
+[[sl:Chicago]]
+[[szl:Chicago]]
+[[ckb:شیکاگۆ]]
+[[sr:Чикаго]]
+[[sh:Chicago]]
+[[fi:Chicago]]
+[[sv:Chicago]]
+[[tl:Tsikago]]
+[[ta:சிகாகோ]]
+[[te:చికాగో]]
+[[th:ชิคาโก]]
+[[tg:Чикаго]]
+[[tr:Şikago]]
+[[uk:Чикаго]]
+[[ur:شکاگو]]
+[[ug:Chikago]]
+[[vec:Chicago]]
+[[vi:Chicago]]
+[[vo:Chicago]]
+[[war:Chicago]]
+[[yi:שיקאגא]]
+[[yo:Ṣìkágò]]
+[[diq:Chicago]]
+[[bat-smg:Čėkaga]]
+[[zh:芝加哥]]</text>
+      <sha1>cqbq8od4hqxei7deum1b6jnu5o44de6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

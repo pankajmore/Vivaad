@@ -1,0 +1,781 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>CNN</title>
+    <ns>0</ns>
+    <id>62028</id>
+    <revision>
+      <id>519688517</id>
+      <parentid>519688306</parentid>
+      <timestamp>2012-10-25T03:00:37Z</timestamp>
+      <contributor>
+        <username>JGriffin1989</username>
+        <id>16885510</id>
+      </contributor>
+      <comment>/* Political contributors */</comment>
+      <text xml:space="preserve" bytes="64830">{{Other uses}}
+{{pp-semi-protected|small=yes}}{{pp-move-indef}}
+
+{{Infobox television channel
+| name = Cable News Network
+| logofile = Cnn.svg
+| logosize = 200px
+| logocaption = '''CNN logo'''
+| branding = CNN
+| headquarters = [[CNN Center]]&lt;br /&gt;[[Atlanta]], [[Georgia (U.S. state)|Georgia]]
+| country = United States
+| language = English
+| broadcast area = United States&lt;br /&gt;Canada
+| network_type = [[US Cable news]]
+| slogan = &quot;The Worldwide Leader in News&quot;&lt;br /&gt; &quot;CNN = Politics&quot;&lt;br /&gt; &quot;The Best Political Team on Television&quot;&lt;br /&gt; &quot;CNN = Money&quot;
+| available = United States&lt;br /&gt; Canada&lt;br /&gt; [[worldwide]] (via [[CNN International]]), [[online]] (via [[CNN Pipeline]]), [[radio]] (news reports on the half hour)
+| owner = [[Turner Broadcasting System]], Inc.&lt;br /&gt;(a [[Time Warner]] company)
+| launch = June 1, 1980
+| founder = [[Ted Turner]]
+| key_people = [[Reese Schonfeld]]&lt;br /&gt;[[Jim Walton]] (Pres., CNN Worldwide)&lt;br /&gt;[[Jonathan Klein (CNN)|Jonathan Klein]] (Pres., CNN/US)
+| web = [http://www.cnn.com/ cnn.com]
+| sat serv 1 = [[DirecTV]] &lt;small&gt;([[United States|USA]])&lt;/small&gt;
+| sat chan 1 = Channel 202 '''(SD / HD)''' &lt;br /&gt; Channel 1202 ([[Video on demand|VOD]])
+| sat serv 2 = [[Dish Network]] &lt;small&gt;([[United States|USA]])&lt;/small&gt;
+| sat chan 2 = Channel 200 '''(SD / HD)'''&lt;br /&gt; Channel 9436 '''(HD)'''
+| sat serv 3 = [[Bell TV]] &lt;small&gt;([[Canada]])&lt;/small&gt;
+| sat chan 3 = Channel 500 '''(SD)''' &lt;br /&gt; Channel 1578 '''(HD)'''
+| sat serv 4 = [[Shaw Direct]] &lt;small&gt;([[Canada]])&lt;/small&gt;
+| sat chan 4 = Channel 140 / 500 '''(SD)''' &lt;br /&gt; Channel 257 / 331 '''(HD)'''
+| sat serv 5 = [[SKY PerfecTV!]] &lt;small&gt;([[Japan]])&lt;/small&gt;
+| sat chan 5 = Channel 679 '''(HD)'''
+| cable serv 1 = Available on most cable systems in the US and Canada
+| cable chan 1 = Check local listings
+| cable serv 2 = In-house (Washington)
+| cable chan 2 = Channel 12
+| cable serv 3 = [[Verizon FiOS]]
+| cable chan 3 = Channel 100 (SD)&lt;br /&gt; Channel 600 (HD)
+| iptv serv 1 = Bell Fibe TV (Canada)
+| iptv chan 1 = Channel 500 '''([[standard-definition television|SD]])'''&lt;br&gt;Channel 1500 '''([[high-definition television|HD]])'''
+| iptv serv 2 = [[AT&amp;T U-Verse]]
+| iptv chan 2 = Channel 202 '''([[standard-definition television|SD]])''' Channel 1202 '''([[high-definition television|HD]])'''
+| online serv 1 = CNN.com/live
+| online chan 1 = [http://cnn.com/live Watch live] {{j|(US cable subscribers only)}}
+| sat radio serv 1 = [[Sirius Satellite Radio|Sirius]]
+| sat radio chan 1 = Channel 132
+| sat radio serv 2 = [[XM Satellite Radio|XM]]
+| sat radio chan 2 = Channel 122
+| picture format = [[480i]] ([[SDTV]]/16:9 letterbox)&lt;br /&gt;[[1080i]] ([[HDTV]])
+| sister names = [[CNN International]]&lt;br /&gt;[[CNN-IBN]]&lt;br /&gt;[[CNN Airport Network]]&lt;br /&gt;[[CNN Türk]]&lt;br /&gt;[[CNN en Español]]&lt;br /&gt;[[HLN (TV channel)|HLN]]&lt;br /&gt;[[CNN Chile]]&lt;br /&gt;[[TNT (TV channel)|TNT]]&lt;br /&gt; [[Turner Classic Movies]]&lt;br /&gt;[[Cartoon Network]]&lt;br /&gt;[[Boomerang (TV channel)|Boomerang]]&lt;br /&gt;[[TruTV]]&lt;br /&gt;[[TBS (TV channel)|TBS]]
+}}
+
+'''Cable News Network''' ('''CNN''') is a [[United States cable news|U.S. cable news]] channel founded in 1980 by American [[media mogul]] and [[philanthropist]] [[Ted Turner]].&lt;ref&gt;[http://meandted.com/author.htm Reese Schonfeld Bio.] (January 29, 2001) ''MeAndTed.com''. Retrieved 2007-06-18.&lt;/ref&gt;&lt;ref&gt;[http://cnn.com/COMMUNITY/transcripts/2000/5/8/bierbauer/ Charles Bierbauer, CNN senior Washington correspondent, discusses his 19-year career at CNN.] (May 8, 2000). ''CNN.com''. Retrieved 2007-06-18.&lt;/ref&gt; Upon its launch, CNN was the first channel to provide [[24-hour news cycle|24-hour]] [[television news]] coverage,&lt;ref name=CNNtaipei&gt;{{cite web|url=http://www.taipeitimes.com/News/editorials/archives/2005/05/31/2003257358|title=CNN changed news – for better and worse|date=May 31, 2005|publisher=Taipei Times|accessdate=2009-01-24}}&lt;/ref&gt; and the first all-news television channel in the United States.&lt;ref name=CNN20&gt;{{cite web|url=http://www.enquirer.com/editions/2000/05/28/loc_kiesewetter.html|title=In 20 years, CNN has changed the way we view the news|date=May 28, 2000|publisher=Cincinnati Enquirer|last=Kiesewetter|first=John|accessdate=2009-01-24}}&lt;/ref&gt; While the news channel has numerous [[affiliate]]s, CNN primarily broadcasts from its headquarters at the [[CNN Center]] in [[Atlanta]], the [[Time Warner Center]] in New York City, and studios in [[Washington, D.C.]], and Los Angeles. CNN is owned by parent company [[Time Warner]], and the U.S. news channel is a division of the [[Turner Broadcasting System]].&lt;ref&gt;[http://www.timewarner.com/corp/businesses/detail/turner_broadcasting/index.html Time Warner: Turner Broadcasting]&lt;/ref&gt;
+
+CNN is sometimes referred to as '''CNN/U.S.''' to distinguish the American channel from its international counterpart, [[CNN International]]. As of August 2010, CNN is available in over 100 million U.S. households.&lt;ref name=CNNdeal&gt;{{cite web|url=http://www.thedeal.com/dealscape/2006/05/this_date_in_deal_history_cnn.php|title=This date in deal history: CNN begins broadcasting|date=May 31, 2006|publisher=Deal Magazine|accessdate=2009-01-24}}&lt;/ref&gt; Broadcast coverage extends to over 890,000 American hotel rooms,&lt;ref name=CNNdeal/&gt; and the U.S broadcast is also shown in Canada. Globally, CNN programming airs through CNN International, which can be seen by viewers in over 212 countries and territories.&lt;ref&gt;{{cite web|url=http://www.timewarner.com/corp/newsroom/pr/0,20812,667801,00.html |title=CNN is Viewers Cable Network of Choice for Democratic and Republican National Convention Coverage |publisher=Timewarner.com |date=2000-08-18 |accessdate=2010-02-20}}&lt;/ref&gt; Starting late 2010, the domestic version CNN/U.S., is available in high definition to viewers in Japan under the name CNN HD.
+
+==History==
+
+===Early history===
+{{Main|History of CNN (1980–2003)}}
+[[Image:CNN Launch June 1, 1980.jpg|thumb|left|CNN's first broadcast with [[David Walker (journalist)|David Walker]] and [[Lois Hart]] on June 1, 1980.]]
+
+The Cable News Network was launched at 5:00 p.m. EST on Sunday June 1, 1980. After an introduction by Ted Turner, the husband and wife team of [[David Walker (journalist)|David Walker]] and [[Lois Hart]] anchored the first newscast.&lt;ref&gt;{{Cite book|title=American Television News: The Media Marketplace and the Public Interest|first=Steve Michael|last=Barkin|first2=M.E. |last2=Sharpe|year=2003}}&lt;/ref&gt; [[Burt Reinhardt]], the then executive vice president of CNN, hired most of CNN's first 200 employees, including the network's first [[news anchor]], [[Bernard Shaw (journalist)|Bernard Shaw]].&lt;ref name=wp&gt;{{cite news |first=Lauren|last=Wiseman|title=Burt Reinhardt dies at 91: Newsman helped launch CNN |url=http://www.washingtonpost.com/local/obituaries/burt-reinhardt-dies-at-91-newsman-helped-launch-cnn/2011/04/14/AFMd9mkG_story.html |work=[[Washington Post]] |publisher=|date=2011-05-10 |accessdate=2011-05-19}}&lt;/ref&gt;
+
+Since its debut, CNN has expanded its reach to a number of cable and satellite television companies, several websites, and specialized closed-circuit channels (such as [[CNN Airport Network]]). The company has 36 bureaus (10 domestic, 26 international), more than 900 affiliated local stations, and several regional and foreign-language networks around the world. The channel's success made a bona-fide mogul of founder Ted Turner and set the stage for the Time Warner conglomerate's eventual acquisition of [[Turner Broadcasting]].
+
+A companion channel, [[HLN (TV channel)|CNN2]], was launched on January 1, 1982 and featured a continuous 24-hour cycle of 30-minute news broadcasts. The channel, which later became known as &quot;CNN Headline News&quot; and then simply &quot;HLN&quot;, eventually focused on live news coverage supplemented by personality-based programs during the evening and primetime hours.
+
+===Major events===
+[[Image:CNN Center newsroom1.jpg|thumb|right|Replica of the newsroom at CNN Center.]]
+
+====Challenger disaster====
+On January 28, 1986, CNN carried the only live television coverage of the launch and [[Space Shuttle Challenger disaster|subsequent explosion of Space Shuttle Challenger]], which killed the seven crew members.
+
+====Baby Jessica rescue====
+On October 14, 1987, an 18-month-old toddler named [[Jessica McClure]] fell down a well in [[Midland, Texas]]. CNN was quickly on the spot, and the event helped make their name. The ''[[New York Times]]'' ran a retrospective article in 1995 on the impact of live video news. &quot;If a picture is worth a thousand words, then a moving picture is worth many times that, and a live moving picture makes an emotional connection that goes deeper than logic and lasts well beyond the actual event. This was before correspondents reported live from the enemy capital while American bombs were falling. Before Saddam Hussein held a surreal press conference with a few of the hundreds of Americans he was holding hostage. Before the nation watched, riveted but powerless, as Los Angeles was looted and burned. Before O. J. Simpson took a slow ride in a white Bronco, and before everyone close to his case had an agent and a book contract. This was uncharted territory just a short time ago.&quot;&lt;ref&gt;[http://query.nytimes.com/gst/fullpage.html?res=990CE3D81F31F930A15754C0A963958260&amp;sec=health&amp;spon=&amp;pagewanted=4 &quot;Death on the CNN curve&quot; By Lisa Belkin. ''New York Times'' Magazine, Sunday, July 23, 1995.]&lt;/ref&gt;
+
+====Gulf War====
+The first Persian [[Gulf War]] in 1991 was a watershed event for CNN that catapulted the channel past the &quot;big three&quot; American networks for the first time in its history, largely due to an unprecedented, historical scoop: CNN was the only news outlet with the ability to communicate from inside [[Iraq]] during the initial hours of the Coalition bombing campaign, with live reports from the [[al-Rashid Hotel]] in [[Baghdad]] by reporters [[Bernard Shaw (journalist)|Bernard Shaw]], [[John Holliman]], and [[Peter Arnett]].
+[[Image:CNN Gulf War nightscope January 1991.jpg|thumb|right|[[Operation Desert Storm]] as captured live on a CNN [[night vision]] camera with reporters narrating.]] 
+The moment when bombing began was announced on CNN by Bernard Shaw on January 16, 1991 as follows:&lt;ref&gt;[http://www.yale.edu/ynhti/curriculum/units/1996/2/96.02.08.x.html The Gulf War and its Consequences]&lt;/ref&gt;
+
+{{cquote|This is Bernie Shaw. Something is happening outside...Peter Arnett, join me here. Let's describe to our viewers what we're seeing...The skies over Baghdad have been illuminated...We're seeing bright flashes going off all over the sky.}}
+
+CNN's coverage of the initial hours of the Gulf War was carried by TV stations and networks around the world, resulting in CNN being watched by over a billion viewers worldwide—a feat that led to the subsequent creation of CNN International.
+
+The Gulf War experience brought CNN some much sought-after legitimacy and made household names of previously obscure reporters. Many of these reporters now comprise CNN's &quot;old guard.&quot; Bernard Shaw became CNN's chief anchor until his retirement in 2001. Others include then-Pentagon correspondent [[Wolf Blitzer]] (now host of ''[[The Situation Room]]'') and international correspondent [[Christiane Amanpour]]. Amanpour's presence in Iraq was caricatured by actress Nora Dunn as the ruthless reporter &quot;Adriana Cruz&quot; in the film ''[[Three Kings (1999 film)|Three Kings]]'' (1999). Time Warner later produced a [[television movie]], ''[[Live from Baghdad]]'', about the channel's coverage of the first Gulf War, which aired on [[Home Box Office|HBO]].
+
+=====CNN effect=====
+Coverage of the first Gulf War and other crises of the early 1990s (particularly the infamous [[Battle of Mogadishu (1993)|Battle of Mogadishu]]) led officials at the Pentagon to coin the term &quot;the [[CNN effect]]&quot; to describe the perceived impact of [[Real-time computing|real time]], 24-hour news coverage on the decision-making processes of the [[Federal government of the United States|American government]].
+
+====September 11 attacks====
+[[Image:CNN Breaking News 911.jpg|thumb|CNN breaking the news about the [[September 11 attacks]].]]
+CNN was the first cable news channel to break the news of the [[September 11 attacks]].&lt;ref&gt;{{cite web|url=http://www.pressdemocrat.com/article/20080720/ENTERTAINMENT/917997689?Title=No-nonsense-news-returns-to-CNN |title=No-nonsense news returns to CNN |publisher=PressDemocrat.com |date= |accessdate=2010-02-20}}&lt;/ref&gt; [[News presenter|Anchor]] [[Carol Lin]] was on the air to deliver the first public report of the event. She broke into a commercial at 8:49 a.m. ET and said:
+
+{{cquote| This just in. You are looking at obviously a very disturbing live shot there. That is the [[World Trade Center]], and we have unconfirmed reports this morning that a plane has crashed into one of the towers of the World Trade Center. [[CNN Center]] right now is just beginning to work on this story, obviously calling our sources and trying to figure out exactly what happened, but clearly something relatively devastating happening this morning there on the south end of the island of Manhattan. That is once again, a picture of one of the towers of the World Trade Center.}}
+
+Sean Murtagh, CNN vice-president of finance and administration, was the first network employee on the air. He called into CNN Center from his office at CNN New York bureau and said that a commercial jet hit the Trade Center.&lt;ref&gt;CNN.com (September 11, 2001) Available at [http://web.archive.org/web/20010911200318/http://www.cnn.com/ archive.org]. Retrieved 2007-06-18.&lt;/ref&gt;
+
+[[Daryn Kagan]] and [[Leon Harris]] were live on the air just after 9 a.m. ET as the second plane hit the World Trade Center and through an interview with CNN correspondent [[David Ensor (journalist)|David Ensor]], reported the news that U.S. officials determined &quot;that this is a terrorist act.&quot;&lt;ref&gt;[http://transcripts.cnn.com/TRANSCRIPTS/0109/11/bn.01.html CNN BREAKING NEWS Transcript – Terrorist Attack on United States]&lt;/ref&gt; Later, [[Aaron Brown]] anchored through the day and night as the attacks unfolded. Brown had just come to CNN from [[American Broadcasting Company|ABC]] to be the breaking news anchor.
+
+[[Paula Zahn]] assisted in the September 11, 2001, coverage on her first day as a CNN reporter, a fact that she mentioned as a guest clue presenter on a 2005 episode of ''[[Jeopardy!]]''
+
+CNN has made archival files of much of the day's broadcast available in [http://www.cnn.com/video/#/video/us/2011/09/07/natpkg-911-aircheck-timeline.cnn?iref=allsearch five segments plus an overview].
+
+====2008 U.S. election====
+[[Image:CNN-YouTube Republican Debate.jpg|thumb|right|The stage for the second 2008 [[CNN-YouTube presidential debates|CNN-YouTube presidential debate]].]]
+
+Leading up to the [[2008 U.S. presidential election]], CNN devoted large amounts of coverage to politics, including hosting candidate debates during the Democratic and Republican primary seasons. On June 3 and June 5, CNN teamed up with [[Saint Anselm College]] to sponsor the New Hampshire Republican and Democratic Debates.&lt;ref&gt;{{cite web|url=http://www.gwu.edu/~action/2008/primdeb08/nh060307.html |title=CNN/WMUR-TV/New Hampshire Union Leader Democratic Debate |publisher=Gwu.edu |date=2007-06-03 |accessdate=2010-02-20}}&lt;/ref&gt; Later in 2007, the channel hosted the first [[CNN-YouTube presidential debates]], a non-traditional format where viewers were invited to pre-submit questions over the internet via the [[YouTube]] video-sharing service.&lt;ref&gt;[http://www.iht.com/articles/2007/07/22/news/youtube23.php YouTube and CNN invite ordinary Americans into presidential debates]&lt;/ref&gt; In 2008, CNN partnered with ''[[The Los Angeles Times]]'' to host two primary debates leading up to its coverage of [[Super Tuesday]].&lt;ref name=supertuesday&gt;[http://www.latimes.com/news/politics/la-et-politics4feb04,0,6879163.story Super Tuesday gets presidential treatment]&lt;/ref&gt; CNN's debate and election night coverage led to its highest ratings of the year, with January 2008 viewership averaging 1.1 million viewers, a 41% increase over the previous year.&lt;ref name=supertuesday/&gt;
+
+==Programming==
+
+===Current shows===
+{| class=wikitable
+|-
+! colspan=5 |
+
+====Weekdays====
+|-
+! width=55 | [[North American Eastern Standard Time Zone|EST]] || Program || Host(s) || Location || Description
+|-
+| &lt;center&gt;5a-7a || &lt;center&gt;''[[Early Start]]'' || John Berman and [[Zoraida Sambolin]] || rowspan=2 | [[Time Warner Center|New York]] || An early morning news show.
+|-
+| &lt;center&gt;7a-9a || &lt;center&gt;''[[Starting Point]]'' || [[Soledad O'Brien]] || The channel's [[breakfast television|morning news program]].
+|-
+| &lt;center&gt;9a-11a ||rowspan=2| &lt;center&gt;''[[CNN Newsroom]]'' || [[Carol Costello]] || [[CNN Center|Atlanta]] ||rowspan=2| A daily look at what's making news.
+|-
+| &lt;center&gt;11a-12p || [[Ashleigh Banfield]] || [[Time Warner Center|New York]]
+|-
+| &lt;center&gt;12p-1p || &lt;center&gt; ''[[CNN Newsroom|Newsroom International]]'' ||rowspan=2| [[Suzanne Malveaux]] || rowspan=3| [[CNN Center|Atlanta]] ||CNN's international news program.
+|-
+| &lt;center&gt;1p-2p ||rowspan=2| &lt;center&gt;''[[CNN Newsroom]]'' ||rowspan=2| A daily look at what's making news.
+|-
+| &lt;center&gt;2p-4p || [[Brooke Baldwin]]
+|-
+| &lt;center&gt;4p-7p&lt;ref&gt;{{cite web|url=http://twitter.com/wolfblitzercnn/status/7879570662 |title=Twitter / Wolf Blitzer: Starting Monday, SitRoom g |publisher=Twitter.com |date= |accessdate=February 20, 2010}}&lt;/ref&gt; || &lt;center&gt;''[[The Situation Room]]'' || [[Wolf Blitzer]] || [[Washington D.C.]] || Daily headline stories focusing on politics, homeland security and human interest stories.
+|-
+| &lt;center&gt;7p-8p || &lt;center&gt;''[[Erin Burnett OutFront]]'' || [[Erin Burnett]] || rowspan=4 | [[Time Warner Center|New York]] || A discussion of the day's top news with journalists and contributors.&lt;ref&gt;{{cite web|last=Hall|first=Colby|title=CNN Reveals New 7PM Show Title: Erin Burnett: OutFront|url=http://www.mediaite.com/tv/cnn-reveals-erin-burnetts-new-show-title-outfront/|work=Mediaite|publisher=Mediaite, LLC|accessdate=23 September 2011}}&lt;/ref&gt; 
+|-
+| &lt;center&gt;8p-9p || &lt;center&gt;''[[Anderson Cooper 360°]]'' || [[Anderson Cooper]] || Nightly news and talk, series-documentary program
+|-
+| &lt;center&gt;9p-10p || &lt;center&gt;''[[Piers Morgan Tonight]]'' || [[Piers Morgan]] || Nightly interview program,&lt;ref&gt;[http://today.msnbc.msn.com/id/39060518/ns/today-entertainment/ Piers Morgan is Larry King's CNN replacement].&lt;/ref&gt; simulcast to [[CNN International]]
+|-
+| &lt;center&gt;10p-11p || &lt;center&gt;''[[Anderson Cooper 360°]]'' (repeat) || [[Anderson Cooper]] || Nightly news and talk, series-documentary program
+|-
+! colspan=5 |
+
+====Saturday====
+|-
+! width=55 | EST || Program || Host(s) || width=100 | Location || Description
+|-
+| &lt;center&gt;6a-7:30a || &lt;center&gt;''[[Early Start|Early Start Weekend]]'' || rowspan=2 | [[Randi Kaye]] || rowspan=2 | [[CNN Center|Atlanta]] || rowspan=2 | A look ahead at the day's top news and events. 
+|-
+| &lt;center&gt;7:30a-9:30a || &lt;center&gt;''CNN Saturday Morning''
+|-
+| &lt;center&gt;9:30a-10a || &lt;center&gt;''[[Your Bottom Line]]'' || [[Christine Romans]] || [[Time Warner Center|New York]] || A personal finance show with a focus on the viewer's bottom line.
+|-
+| &lt;center&gt;10a-12p || rowspan=&quot;2&quot; | &lt;center&gt;''[[CNN Newsroom]]'' || [[Randi Kaye]] || rowspan=2 | [[CNN Center|Atlanta]] || rowspan=&quot;2&quot; | Updates of the latest news around the world.
+|-
+| &lt;center&gt;12p-1p || [[Fredricka Whitfield]]
+|-
+| &lt;center&gt;1p-2p || &lt;center&gt;''[[Your Money|Your $$$]]'' || [[Ali Velshi]]  || [[Time Warner Center|New York]] || Breaks down the business news of the week and shows the viewer how it impacts their bottom line.
+|-
+| &lt;center&gt;2p-4:30p || &lt;center&gt;''[[CNN Newsroom]]'' || [[Fredricka Whitfield]] || rowspan=3 | [[CNN Center|Atlanta]] || Updates of the latest news around the world.
+|-
+| &lt;center&gt;4:30p-5p || &lt;center&gt;''[[Sanjay Gupta MD]]'' || [[Dr. Sanjay Gupta]] || Tune in for a 30-minute medical news program with CNN's [[Dr. Sanjay Gupta]].
+|-
+| &lt;center&gt;5p-6p || &lt;center&gt;''[[CNN Newsroom]]'' ||  [[Don Lemon]] || Updates of the latest news around the world.
+|-
+| &lt;center&gt;6p-7p || &lt;center&gt;''[[The Situation Room]]'' || [[Wolf Blitzer]] || [[Washington D.C.]] || Weekly look at political news
+|-
+| &lt;center&gt;7p-8p || &lt;center&gt;''[[CNN Newsroom]]'' || [[Don Lemon]] || [[CNN Center|Atlanta]] || Updates of the latest news around the world.
+|-
+| &lt;center&gt;8p-9p || colspan=3 | &lt;center&gt;''[[CNN Special Investigations Unit]]'' / ''[[CNN Presents]]'' / Other specials || Various special programming
+|-
+| &lt;center&gt;9p-10p || &lt;center&gt;''[[Piers Morgan Tonight]]'' || [[Piers Morgan]] || [[Time Warner Center|New York]] || Nightly interview program, simulcast to [[CNN International]]
+|-
+| &lt;center&gt;10p-11p || &lt;center&gt;''[[CNN Newsroom]]'' || [[Don Lemon]] || [[CNN Center|Atlanta]] || Updates of the latest news around the world.
+|-
+! colspan=5 |
+
+====Sunday====
+|-
+! width=55 | EST || Program || Host(s) || Location || Description
+|-
+| &lt;center&gt;6a-7:30a || &lt;center&gt;''[[Early Start|Early Start Weekend]]'' || [[Randi Kaye]] || rowspan=3 | [[CNN Center|Atlanta]] || A look ahead at the day's top news and events.
+|-
+| &lt;center&gt;7:30a-8a || &lt;center&gt;''[[Sanjay Gupta MD]]'' (repeat) || [[Dr. Sanjay Gupta]] || Tune in for a 30-minute medical news program with CNN's [[Dr. Sanjay Gupta]].
+|-
+| &lt;center&gt;8a-9a || &lt;center&gt;''[[CNN Sunday Morning]]'' || [[Randi Kaye]] || A look ahead at the day's top news and events.
+|-
+| &lt;center&gt;9a-10a || &lt;center&gt;''[[State of the Union with Candy Crowley]]'' || [[Candy Crowley]] || [[Washington D.C.]] || The people and issues driving politics in a way we can all relate to and understand.
+|-
+| &lt;center&gt;10a-11a || &lt;center&gt;''[[Fareed Zakaria GPS]]'' || [[Fareed Zakaria]] || [[Time Warner Center|New York]] || Takes a comprehensive look at foreign affairs and the policies shaping our world.
+|-
+| &lt;center&gt;11a-12p || &lt;center&gt;''[[Reliable Sources]]'' || [[Howard Kurtz]] ||rowspan=2 | [[Washington D.C.]] || Critical look at the media issues
+|-
+| &lt;center&gt;12p-1p || &lt;center&gt;''[[State of the Union with Candy Crowley]]'' (repeat) || [[Candy Crowley]] ||  The people and issues driving politics in a way we can all relate to and understand.
+|-
+| &lt;center&gt;1p-2p || &lt;center&gt;''[[Fareed Zakaria GPS]]'' (repeat) || [[Fareed Zakaria]] || [[Time Warner Center|New York]] || Takes a comprehensive look at foreign affairs and the policies shaping our world.
+|-
+| &lt;center&gt;2p-2:30p || &lt;center&gt;''[[The Next List]]'' || [[Dr. Sanjay Gupta]] || rowspan=2 | [[CNN Center|Atlanta]]  || [[Dr. Sanjay Gupta]] explores the latest in ideas and innovation that are pushing the boundaries of technology, education, entertainment, the arts and the natural sciences.
+|-
+| &lt;center&gt;2:30p-3p || &lt;center&gt;''[[CNN Newsroom]]'' || [[Fredricka Whitfield]] || Updates of the latest news around the world.
+|-
+| &lt;center&gt;3p-4p || &lt;center&gt;''[[Your Money|Your $$$]]'' (repeat) || [[Ali Velshi]] || [[Time Warner Center|New York]] || Breaks down the business news of the week and shows the viewer how it impacts their bottom line.
+|-
+| &lt;center&gt;4p-6p || rowspan=&quot;2&quot; | &lt;center&gt;''[[CNN Newsroom]]'' || [[Fredricka Whitfield]] || rowspan=2 | [[CNN Center|Atlanta]] || rowspan=&quot;2&quot; | Updates of the latest news around the world.
+|-
+| &lt;center&gt;6p-8p || [[Don Lemon]]
+|-
+| &lt;center&gt;8p-9p || colspan=3 | &lt;center&gt;''[[State of the Union with Candy Crowley]]'' / ''[[CNN Special Investigations Unit]]'' / ''[[CNN Presents]]'' || Various special programming
+|-
+| &lt;center&gt;9p-10p || &lt;center&gt;''[[Piers Morgan Tonight]]'' || [[Piers Morgan]] || [[Time Warner Center|New York]] || Nightly interview program
+|-
+| &lt;center&gt;10p-11p || &lt;center&gt;''[[CNN Newsroom]]'' || [[Don Lemon]] || [[CNN Center|Atlanta]] || Updates of the latest news around the world.
+|}
+
+===On-air presentation===
+In December 2008, CNN introduced its new graphics package, a comprehensive redesign replacing the existing style that had been used since 2004.&lt;ref name=CNNnewlook&gt;{{cite web|url=http://www.broadcastingcable.com/article/160701-CNN_Gets_New_Graphic_Look.php|title=CNN Gets New Graphic Look|date=December 15, 2008|publisher=''Broadcasting &amp; Cable''|last=Dickson |first=Glen|accessdate=January 24, 2009}}&lt;/ref&gt; The design replaced the scrolling ticker that had been in use since 2001. Also, since March 1, 2009, the redundant CNN HD logo has been missing from the bottom left corner of the screen. CNN's new graphic design is similar to its sister channel, [[CNN International]]. The CNN logo itself has remained relatively unchanged since the channel's launch, except that it was originally displayed in yellow.
+
+On January 10, 2011, CNN introduced its most recent graphics package, in conjunction with the network-wide switch to a [[16:9]] [[letterbox]] format from [[4:3]]. Both of CNN's standard-definition and high-definition feeds now carry the same 16:9 format; however, video footage broadcast in standard-definition on either feed is not pillarboxed, resulting in black bars on the top and bottom of the screen as well as the left and right. ''World Business Today'' and ''[[World One]]'', which both began to be simulcast from [[CNN International]] on January 17, 2011, are however both broadcast in the 4:3 picture format on the CNN SD feed.
+
+===Former programs===
+{{Refimprove section|date=December 2011}}
+{| class=wikitable
+|-
+! width=130| Program
+! width=100| Terms
+! Description
+|-
+| ''Both Sides with Jesse Jackson'' || 1992–2000
+| A political talk show, hosted by civil rights leader and two-time presidential candidate [[Jesse Jackson]], that aired Sundays. Each program began with a short taped report on the topic by CNN Correspondent John Bisney. The show ran from 1992 to 2000.&lt;ref name=&quot;both sides&quot;&gt;[http://www.rainbowpush.org/about/revjackson.html Rev. Jesse Jackson] (October 2001) ''RainbowPush.org'' Retrieved June 18, 2007&lt;/ref&gt;
+|-
+| ''[[Capital Gang]]'' || 1988–2005
+| One of cable news' longest running programs, focusing on discussion of the political news of the week. The original panelists were [[Pat Buchanan]], [[Al Hunt]], [[Mark Shields]] and [[Robert Novak]]. When Buchanan left CNN to run for president, [[Margaret Warner]], [[Mona Charen]] and later [[Margaret Carlson]] and [[Kate O'Beirne]] became regular panelists. ''[[Capital Gang]]'' aired Saturday nights at 7PM eastern from 1988 to 2005.
+|-
+| ''[[Crossfire (TV series)|Crossfire]]'' || 1982–2005
+| A political &quot;debate&quot; program, anchored by hosts from left-wing and right-wing ideologies, that aired during [[prime time]] and daytime until mid-2005. Originally hosted by [[Tom Braden]] and [[Pat Buchanan]], other hosts included [[Robert Novak]], [[Michael Kinsley]], [[John H. Sununu]], [[Bill Press]], [[Geraldine Ferraro]], [[Mary Matalin]], [[Tucker Carlson]], [[James Carville]] and [[Paul Begala]].
+|-
+| ''[[Evans, Novak, Hunt &amp; Shields|Evans and Novak]]'' ||
+| Saturday night political interview program with [[Rowland Evans]] and [[Robert Novak]]. The name changed to ''Evans, Novak, Hunt &amp; Shields'' in 1998 when [[Al Hunt]] and [[Mark Shields]] became permanent panelists. When Evans died in 2001, the name changed to ''Novak, Hunt &amp; Shields'' for its final year on CNN.
+|-
+| ''Next@CNN'' || 2002–2005
+| A scientific and technology oriented program hosted by [[Daniel Sieberg]]. Aired on weekends.
+|-
+| ''[[The Situation Room|Inside Politics]]'' ||
+| A political program that aired Monday through Friday from 3:30PM to 5PM eastern. Replaced by ''[[The Situation Room]]'' in 2005.
+|-
+| ''[[Wolf Blitzer Reports]]'' || 2001–2005
+| A daily look at the day's stories that aired live from Washington at 5PM eastern. Replaced by ''[[The Situation Room]]'' in 2005.
+|-
+| ''[[NewsNight with Aaron Brown]]'' || 2001–2005
+| A hard-news program anchored by [[Aaron Brown]] which took an in-depth look at the main U.S. and international stories of the day. Was axed from CNN's schedule on Saturday, November 5, 2005, leading to Brown's immediate resignation from CNN.
+|-
+| ''[[CNN Daybreak]]'' ||
+| A first look at the day's stories that aired live from New York City at 5AM eastern.
+|-
+| ''CNN Sports Sunday '' ||
+| Co-anchored by [[Bob Kurtz (broadcaster)|Bob Kurtz]] and [[Nick Charles]].
+|-
+| ''[[Connie Chung Tonight]]'' ||2002–2003
+| Hosted by [[Connie Chung]]. Cancelled in March 2003.
+|-
+| ''Freeman Reports'' ||
+| One of the original programs from 1980. Host Sonja Freeman interviewed guests and took live telephone call-ins regarding current news events and other topics of interest. For a brief period, the program featured a live audience in Atlanta. Freeman's former time slot is now occupied by Larry King.
+|-
+| ''People Now'' ||
+| Another original program. Host [[Lee Leonard]] interviewed celebrities and discussed entertainment news in a one hour program live from the CNN Los Angeles bureau. Leonard was replaced by Mike Douglas, who himself was replaced by Bill Tush in December 1982.
+|-
+| ''[[Pinnacle (news program)|Pinnacle]]'' with [[Tom Cassidy (CNN)|Tom Cassidy]] ||Unknown–2004
+|Business news and leaders.
+|-
+| ''Computer Connection'' ||
+|Technological issues.
+|-
+| ''Future Watch'' ||
+|Technological issues.
+|-
+| ''Science and Technology Week'' || Unknown–2001&lt;ref name='EndYear'&gt;{{cite web | url =http://64.130.24.93/the_observatory/cnn_cuts_entire_science_tech_t.php?page=all&amp;print=true | title = CNN Cuts Entire Science, Tech Team | publisher=[[Columbia Journalism Review]] | accessdate=2010-12-15 | date=December 4, 2008}}&lt;/ref&gt;
+|Weekly half hour featuring scientific and technology reports and comments on the week's news on those subjects. Anchored most recently by [[Miles O'Brien (journalist)|Miles O'Brien]].
+|-
+| ''[[Your Health]]'' ||
+|Health news.
+|-
+| ''[[Style with Elsa Klensch]]'' ||
+| Weekly half hour show on Saturday mornings that featured news on style and fashion.
+|-
+| ''[[TalkBack Live]]'' ||1994–2003
+| A call-in talk show with a live audience hosted most recently by [[Arthel Neville]].
+|-
+| ''On The Story'' || Unknown–2006
+| CNN's interactive &quot;week-in-review&quot; series featuring an in-depth look at the story behind some of the week's biggest stories. Anchored by [[Ali Velshi]]. However, the show was suspended in June 2006, then later cancelled in July 2006.
+|-
+| ''[[Burden of Proof (CNN program)|Burden of Proof]]'' || 1995–2001
+| A show that discussed the legal issues of the day, hosted by [[Greta Van Susteren]] and [[Roger Cossack]].
+|-
+| ''[[CNN NewsStand|Newsstand]]'' || 1999–2001
+|News magazine.
+|-
+| ''[[CNN Newsroom|Newshour]]'' ||
+|Daily news.
+|-
+| '' Sonya / Sonya Live In L.A.'' || 1987–1994
+| A weekday call-in show airing at 1PM eastern in the late 1980s and early 1990s hosted by Dr. Sonya Friedman.
+|-
+|''[[CNN Live Today]]'' || 2001–2006
+| Daily look at what's making the news, airing live from Atlanta Monday through Friday at 10AM eastern. Anchored by [[Daryn Kagan]].
+|-
+|''[[CNN Newsroom|Live From...]]'' ||
+| A lively look at the day's stories airing live from Atlanta at 1PM easterm. Anchored by [[Kyra Phillips]].
+|-
+|''[[CNN Live Saturday]]'' / ''[[CNN Live Sunday]]'' ||
+| A look at what's making the news on the weekends, airing live from Atlanta. Anchored by [[Fredricka Whitfield]] 12PM to 6PM eastern and [[Carol Lin]] 6PM to 11PM eastern. Replaced in 2006 by CNN Newsroom Weekend.
+|-
+|''[[CNN Saturday Night]]'' / ''[[CNN Sunday Night]]'' ||
+| The channel's weekend evening news program, airing at 6PM eastern and 10PM eastern. Anchored by [[Carol Lin]]. Replaced in 2006 by CNN Newsroom Weekend.
+|-
+|''[[People in the News]]'' || Unknown–2005
+| CNN's feature-format program with [[People Magazine]] profiling newsmakers from politics, sports, business, medicine and entertainment. The program aired on the weekend and was first hosted by [[Daryn Kagan]] and later by [[Paula Zahn]].
+|-
+| ''[[Diplomatic License]]'' || 1994–2006
+| Weekly program on CNNI hosted by Richard Roth, focusing on the [[United Nations]].
+|-
+| ''Global View'' || 1994–1999
+| International policy interview show hosted by world affairs correspondent [[Ralph Begleiter]], aired weekly on CNN classic (1994–1995) and CNN International (1994–1999). Program began with Begleiter package on subject, followed by lengthy interview with international figure and ended with brief &quot;Reporter's Notebook&quot; segment featuring insider tidbits from the host's extensive travel covering global politics. Produced by Pam Benson with Joann Sierra.
+|-
+|''Live From The Headlines'' || 2003
+| Was Paula Zahn's prime-time show after moving from her morning slot,&lt;ref&gt;{{cite news|url=http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1920364|title=Zahn trimmed, Cooper set as CNN shuffles|publisher=The Hollywood Reporter|accessdate=February 27, 2009|last=Grossman |first=Andrew|date=June 24, 2003}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt; airing from 7PM to 9PM eastern and later co-hosted by Anderson Cooper; replaced by ''[[Paula Zahn Now]]'' in 2003.
+|-
+|''[[Paula Zahn Now]]'' || 2003–2007
+| Was a look at the current issues affecting the world, with former [[CBS News|CBS]] and [[Fox News]] anchor [[Paula Zahn]]. Last broadcast was on Thursday, August 2, 2007.
+|-
+|''[[Lou Dobbs Tonight|CNN Tonight]]'' || 2001
+| Anchored by [[Bill Hemmer]] at 10PM eastern and [[Catherine Callaway]] at 1AM eastern/10PM pacific. Brought back in late 2009 to replace ''[[Lou Dobbs Tonight]]'' as a placeholder until new programming debuts in 2010.
+|-
+|''First Evening News'' || 2001
+| [[Bill Hemmer]] anchors half-hour news show at 6PM in June or 7PM in July to September 10.
+|-
+|''The Spin Room'' || 2001
+| [[Tucker Carlson]] and [[Bill Press]] host a political talk show that aired at 10:30PM eastern.
+|-
+|''Greenfield At Large'' || 2001–2002
+| Anchored by [[Jeff Greenfield]] in New York City that aired Monday through Friday at 10:30PM eastern.
+|-
+|''CNN NewsSite'' || 2001
+| Anchored by Joie Chen from Atlanta that aired Monday through Friday at 4PM eastern. Integrated the news and internet.
+|-
+|''[[The Point (CNN program)|The Point]] with [[Greta Van Susteren]]'' || 2001–2002
+|Primetime news and interviews. Canceled when [[Greta Van Susteren]] moved to [[Fox News]].
+|-
+|''Ballot Bowl'' || 2008
+|Election news in 2008.
+|-
+|''[[Lou Dobbs Tonight|Lou Dobbs This Week]]''
+|
+|-
+|''[[Lou Dobbs Tonight]]'' || 1980–2009
+|Anchored by [[Lou Dobbs]], the program originally aired as ''Moneyline'' before re-launching as ''[[Lou Dobbs Tonight]]'' in 2003.
+|-
+|''[[Campbell Brown (TV series)|Campbell Brown]]'' || 2008–2010
+|A political debate show hosted by [[Campbell Brown]]. Ended after Brown resigned from CNN.
+|-
+|''[[Rick's List]]'' || 2010
+|Anchored by [[Rick Sanchez]], the host would discuss the day's news with viewers via [[social networking]] sites such as [[Facebook]] and [[Twitter]]. Sanchez was fired from the channel after making controversial statements on a radio show (see [[#Controversy|Controversy]] for further details).
+|-
+|''[[Larry King Live]]'' || 1985–2010
+|Hosted by [[Larry King]], it was the most watched (and longest running) program on CNN, with over one million viewers nightly.&lt;ref&gt;{{cite web|url=http://www.mediabistro.com/tvnewser/original/q107vs06.pdf |title=End Of Qtr Data-Q107 (minus 3 hours).xls |format=PDF |date= |accessdate=2010-10-21}}&lt;/ref&gt;
+|-
+|''[[In the Arena]]'' || 2010–2011
+|Originally titled ''Parker Spitzer'' and hosted by [[Kathleen Parker]] and [[Elliot Spitzer]], it was a program that discussed the day's news with top journalists and contributors.
+|-
+|''[[John King, USA]]'' || 2010–2012
+| A program that discussed the day's political news. John pulled back the curtain on Washington, cuts through the partisan noise and gets to the bottom of stories that affect the viewer.
+|}
+
+==Staff==
+{{Main|List of CNN anchors}}
+
+On July 27, 2012, CNN's current president [[Jim Walton]] announced he is quitting at CNN after working there over 30 years. He will remain with the network until the end of the year.&lt;ref&gt;{{cite news|title=AP NewsBreak: CNN chief Jim Walton calls it quits|accessdate=27 July 2012|newspaper=The Wall St. Journal|date=27 July 2012}}&lt;/ref&gt; 
+
+[[Image:Anderson Cooper at the Obama Inaugural.jpg|thumb|right|Anderson Cooper, anchor of ''AC 360°'']]
+[[Image:2006 Spectrum London.jpg|thumb|right|Richard Quest, London-based correspondent]]
+
+===Political contributors===
+{|
+|- valign =&quot;top&quot;
+| |
+'''Liberals:'''
+* [[Paul Begala]]
+* [[Hilary Rosen]]
+* [[Jamal Simmons]]
+* Marjorie Clifton
+* Penny Lee
+* Maria Cardona
+* [[Alicia Menendez]]
+* [[Christine Pelosi]]
+* [[James Carville]]
+* [[Stephanie Cutter]]
+* [[Robert Zimmerman (commentator)|Robert Zimmerman]]
+* [[Roland S. Martin]]
+* [[Donna Brazile]]
+* [[Lanny Davis]]
+|
+'''Conservatives:'''
+* [[Erick Erickson]]
+* [[Marsha Blackburn]]
+* [[Ed Rollins]]
+* [[William Bennett]]
+* [[Nancy Pfotenhauer]]
+* [[Amy Holmes]]
+* [[Mary Matalin]]
+* [[Tara Wall]]
+* [[David Frum]]
+* [[Rich Galen]]
+* [[Margaret Hoover]]
+* [[Susan Molinari]]
+* [[Leslie Sanchez]]
+* Terry Holt
+* Kraran Hanretty
+* Cheri Jacobus
+* [[Dana Loesch]]
+* Gretchen Hamel
+* [[S.E. Cupp]]
+* [[Ari Fleischer]]
+* [[Kevin Madden]]
+* [[Alex Castellanos]]
+* [[Sam Dealey]]
+|-
+|colspan=2|
+|}
+
+===Political analysts===
+* [[Jack Cafferty]], Commentator
+* [[Gloria Borger]], Senior Political Analyst
+* [[Candy Crowley]], Senior Political Correspondent
+* [[Ali Velshi]], Chief Business Correspondent
+* [[Jeffrey Toobin]], Senior Legal Analyst
+* [[Bill Schneider (journalist)|Bill Schneider]], Senior Political Analyst
+* [[David Gergen]], Senior Political Analyst
+* [[John King (journalist)|John King]], Chief National Correspondent
+* [[Jill Dougherty (journalist)|Jill Dougherty]], Foreign Affairs Correspondent
+
+==High definition==
+[[Image:CNN HD-American Morning 1080.png|right|thumb|''American Morning'' on CNN HD with the 2004–2008 graphics package.]]
+
+'''CNN HD''' is a [[1080i]] [[high definition television|high definition]] simulcast of CNN that launched in September 2007.&lt;ref name=hdlaunch&gt;[http://www.tvweek.com/news/2007/09/cnn_hd_debuts.php TV Week September 6, 2007 CNN HD Debuts]&lt;/ref&gt; All studio shows are aired in HD, as well as special events. 
+
+Starting late 2010, the domestic version CNN/U.S., is available in high definition to viewers in Japan under the name CNN HD. If this is a one-off case or the beginning of an international roll-out of CNN HD with more countries to come is unclear.
+
+Formerly during ''American Morning'', CNN HD viewers saw weather forecasts in graphic form on the sides of the screen (American cities on the right, and cities outside of the U.S. on the left). This feature was removed in November 2009.
+
+The documentary ''[[Planet in Peril]]'' was CNN's first documentary program produced in HD, followed by ''[[Black in America]]'' (Its sequel ''Black in America 2'' also aired in HD). Its spinoff ''Latino in America'' was also in HD. CNN HD also used to display a CNN HD logo (the normal CNN logo with the letters HD in a different, gray colored font next to it) on the bottom left corner of the screen. It was last used on February 28, 2009.
+
+===Special events===
+All special events are aired in full HD. During primary and caucus nights, America Votes 2008 was produced in complete HD with Wolf Blitzer anchoring from CNN's main New York studio which was renamed the CNN Election Center. During this time, CNN HD viewers got additional information on the side of their TV screens such as poll numbers, charts and graphs. This also happened for the [[2008 Democratic National Convention]], the [[2008 Republican National Convention]], the [[United States presidential election debates, 2008|2008 United States Presidential Debates]], the [[United States vice-presidential debate, 2008|2008 United States Vice Presidential Debate]] and the [[United States presidential election, 2008|2008 Election Day]] coverage on November 4, all of which were also shot in HD. Other special events such as Presidential speeches and press conferences are aired in HD.
+
+[[Image:CNN Election Express.jpg|thumb|right|The CNN Election Express bus, used for HD broadcasts.]]
+CNN's political coverage in HD was given mobility by the introduction of the CNN Election Express bus in October 2007. The Election Express vehicle, capable of five simultaneous HD feeds, was used for the channel's CNN-YouTube presidential debates and for presidential candidate interviews.&lt;ref&gt;[http://www.tvtechnology.com/article/17920 CNN Rolls Out Election Express]&lt;/ref&gt;
+
+===Coverage===
+Initial carriage of CNN HD on cable and satellite systems was limited. [[DirecTV]] was the first provider to carry it, adding it mid-September 2007.&lt;ref name=hdlaunch/&gt; By June 2008, [[Comcast]], [[Time Warner Cable]], [[Cox Communications]], [[AT&amp;T U-verse]], [[Rogers Cable]], [[Midcontinent Communications]], [[Bright House Networks]], and [[Dish Network]] launched carriage of CNN HD.&lt;ref&gt;{{cite web|url=http://www.broadcastingcable.com/article/111118-CNN_HD_Gains_Carriage_with_Cablevision_Systems.php |title=CNN HD Gains Carriage with Cablevision Systems – 2007-11-08 11:55:00 &amp;#124; Broadcasting &amp; Cable |publisher=Broadcastingcable.com |date= |accessdate=2010-02-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.broadcastingcable.com/article/98348-Cox_Adds_TBS_CNN_HD_Channels.php |title=Cox Adds TBS, CNN HD Channels – 2007-10-04 11:58:00 &amp;#124; Broadcasting &amp; Cable |publisher=Broadcastingcable.com |date= |accessdate=2010-02-20}}&lt;/ref&gt; [[Verizon]] is currently in the process of adding CNN HD to its [[Verizon FiOS|FiOS]] service on a market by market basis.&lt;ref&gt;{{cite web|url=http://www.satellitetv-news.com/verizon-fios-adds-22-new-channels-in-fort-wayne/ |title=Verizon FiOS Adds 22 New Channels In Fort Wayne &amp;#124; Satellite Television News |publisher=Satellitetv-news.com |date= |accessdate=2010-02-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.redorbit.com/news/entertainment/1497861/verizon_fios_tv_delivers_100_highdefinition_channels_to_new_yorkers/ |title=Verizon FiOS TV Delivers 100 High-Definition Channels to New Yorkers – on the Network Built for HD – Entertainment News |publisher=redOrbit |date=2008-07-28 |accessdate=2010-02-20}}&lt;/ref&gt;  CNN is also rebroadcast during the [[CBC TV 8 (Barbados)|Caribbean Broadcasting Corporation]] (CBC) mid-day and evening news in [[Barbados]].
+
+==Other platforms==
+===Online===
+[[File:CNN Website April 2011.png|thumb|left|International version in April 2011]]
+
+CNN debuted its news website [http://www.cnn.com/ CNN.com] (initially an experiment known as ''CNN Interactive'') on August 30, 1995. The site attracted growing interest over its first decade and is now one of the most popular news websites in the world. The widespread growth of [[blogs]], [[social media]] and [[user-generated content]] have influenced the site, and blogs in particular have focused CNN's previously scattershot online offerings, most noticeably in the development and launch of [[CNN Pipeline]] in late 2005.
+
+In April 2009, CNN.com ranked third place among online global news sites in unique users in the U.S. according to Nielsen/NetRatings; with an increase of 11% over the previous year.&lt;ref&gt;[http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1003975048 Top 30 global news sites for April – Editor &amp; Publisher]&lt;/ref&gt;
+
+[[CNN Pipeline]] was the name of a paid subscription service, its corresponding website, and a content delivery client that provided streams of live video from up to four sources (or &quot;pipes&quot;), on-demand access to CNN stories and reports, and optional pop-up &quot;news alerts&quot; to computer users. The installable client was available to users of PCs running [[Microsoft Windows]]. There was also a browser-based &quot;web client&quot; that did not require installation. In July 2007 the service was discontinued and replaced with a free streaming service.
+
+The now-defunct topical news-program ''[[Judy Woodruff's Inside Politics]]'' was the first CNN program to feature a round-up of blogs in 2005.&lt;ref&gt;{{cite news |url=http://www.usatoday.com/life/columnist/mediamix/2005-03-20-media-mix_x.htm |title=It's prime time for blogs on CNN's 'Inside Politics'|date=2005-03-20 |publisher=USA Today |last=Johnson |first=Peter |accessdate=2009-01-24}}&lt;/ref&gt; Blog coverage was expanded when ''[[Inside Politics]]'' was folded into ''[[The Situation Room]]''. In 2006 CNN launched [[CNN Exchange]] and [[CNN iReport]], initiatives designed to further introduce and centralize the impact of everything from [[blogging]] to [[citizen journalism]] within the CNN brand. [[CNN iReport]] which features user-submitted photos and video, has achieved considerable traction, with increasingly professional-looking reports filed by amateur journalists, many still in high school or college. The iReport gained more prominence when observers of the Virginia Tech Shootings sent-in first hand photos of what was going during the shootings.&lt;ref&gt;{{cite web |url=http://www.canada.com/reginaleaderpost/news/story.html?id=250570b8-2555-4ac0-8fb7-a0431a321e0d&amp;k=80562|title='Citizen journalist' often there first to snap photos |date=April 12, 2008 |publisher=''Regina Leader-Post''|last=Cobb |first=Chris |accessdate=2009-01-24}}&lt;/ref&gt;
+
+As of early 2008, CNN maintains a free live broadcast.&lt;ref name=&quot;CNNlivestreaming&quot;&gt;{{Cite news|url=http://www.cnn.com/video/live/live.html|title=CNN live streaming website}}&lt;/ref&gt; CNN International is broadcast live, as part of the [[RealNetworks]] SuperPass subscription outside US. CNN also offers several [[RSS|RSS feeds]] and [[podcast]]s.
+
+On April 18, 2008 CNN.com was targeted by Chinese hackers in retaliation for the channel's coverage on the [[2008 Tibetan unrest]]. CNN reported that they took preventative measures after news broke of the impending attack.&lt;ref&gt;&quot;[http://www.cnn.com/2008/TECH/04/18/cnn.websites/ CNN website targeted]&quot;, April 18, 2008.&lt;/ref&gt;&lt;ref&gt;Claburn, Thomas: &quot;[http://www.informationweek.com/news/security/cybercrime/showArticle.jhtml?articleID=207400699 CNN Faces Cyberattack Over Tibet Coverage]&quot; [[InformationWeek]], 2008.&lt;/ref&gt;
+
+The company was honored at the 2008 [[Technology &amp; Engineering Emmy Award]]s for development and implementation of an integrated and portable IP-based live, edit and store-and-forward digital news gathering (DNG) system.&lt;ref&gt;{{cite news|url=http://insidecable.blogsome.com/2008/01/08/cnn-awarded-technical-emmy/}}&lt;/ref&gt;  The first use of what would later win CNN this award was in April 2001 when CNN correspondent Lisa Rose Weaver&lt;ref&gt;{{cite web |url=http://www.uiowa.edu/jmc/faculty/weaver.html |title=Lisa Rose Weaver}}&lt;/ref&gt; 
+covered, and were detained,&lt;ref&gt;{{cite news |url=http://articles.cnn.com/2001-04-12/world/cnn.crew.detained_1_cnn-crew-flight-crew-chinese-police |work=CNN |title=CNN crew detained by Chinese police |date=April 11, 2001}}&lt;/ref&gt; for the release of the U.S. Navy crew of a damaged electronic surveillance plane after the [[Hainan Island incident]]. The technology consisted of a videophone produced by 7E Communications Ltd of London, UK.&lt;ref&gt;{{cite web |url=http://www.privateline.com/war/videophone.html |title=Videophone Technology}}&lt;/ref&gt; This DNG workflow is used today by the network to receive material world wide using an Apple MacBook Pro, various [[prosumer]] and professional digital cameras, software from Streambox Inc., and [[BGAN]] terminals from [[Hughes Network Systems]].
+
+On October 24, 2009 CNN launched a new version of their CNN.com website, revamping it adding a new &quot;sign up&quot; option where users may create their own user name, a new &quot;CNN Pulse&quot; (beta) feature along with a new red color theme.&lt;ref&gt;{{cite news |url=http://www.cnn.com/interactive/relaunch/ |title=Welcome to the New CNN.com – Interactive tour |publisher=Cnn.com |date= |accessdate=2010-02-20}}&lt;/ref&gt; However, most of the news archived on the website has been deleted.
+
+CNN also has a channel in the popular video-sharing site [[YouTube]], but its videos can only be viewed in the United States, a source of criticism among YouTube users worldwide.
+
+In April 2010, CNN announced via [[Twitter]] its upcoming food [[blog]] called &quot;Eatocracy,&quot; in which it will &quot;cover all news related to food – from recalls to health issues to culture.&quot;&lt;ref&gt;{{cite web |author=Brion, Raphael |title=Eatocracy: CNN Gets in the Food Blog Business |url=http://eater.com/archives/2010/04/13/eatocracy-cnn-gets-in-the-food-blog-business.php |work=Eater.com |date=April 13, 2010 }}&lt;/ref&gt;
+
+CNN had an [[internet relay chat]] (IRC) network at chat.cnn.com. CNN placed a live chat with [[Benjamin Netanyahu]] on the network in 1998.&lt;ref&gt;&quot;[http://www.cnn.com/community/netanyahu/Net1getready.html How to join the chat and view the Webcast].&quot; CNN. 1998. Retrieved on February 1, 2011.&lt;/ref&gt;
+
+===Films===
+CNN reported in October 2012 that the network formed '''CNN Films''' to distribute and produce made-for-TV and feature documentaries. Its first acquisition was a documentary entitled ''Girl Rising'', a [[Meryl Streep]]-narrated documentary on the struggles of girls' education.&lt;ref&gt;[http://www.deadline.com/2012/10/cnn-documentary-films/ &quot;CNN Creates Unit To Acquire Documentary Films For Theaters And TV.&quot;] ''CNN press release via [[Deadline.com]]'' (October 8, 2012).&lt;/ref&gt;
+
+==Specialized channels==
+{{see also|Specialty channel}}
+[[Image:Debate televisivo Canal 13 CNN.jpg|thumb|right|[[CNN en Español]] televised debate for the 2005 Chilean elections.]]
+[[Image:CNN Post Production.jpg|thumb|right|Post production editing offices in Atlanta.]]
+
+*[[CNN Airport Network]]
+*[[CNN Chile]] A [[Chile]]an news channel launched on December 4, 2008.
+*[[CNN en Español]]
+*[[CNN International]]
+*[[CNN TÜRK]] A Turkish media outlet.
+*[[CNN-IBN]] An Indian news channel.
+*[[CNNj]] A Japanese news outlet.
+*[[HLN (TV channel)|HLN]]
+*[[n-tv]] German 24 hour news channel in German language. In 2009, on air graphic (DOG position and news ticker) is like CNN. Owned by RTL Group
+
+===Former channels===
+*[[CNN Checkout Channel]] (Out-of-home place-based custom channel for grocery stores started in 1991 and shuttered in 1993)
+*[[CNN Italia]]&lt;ref&gt;{{cite news |url=http://edition.cnn.com/help/italia/ |title=CNN.com |publisher=Edition.cnn.com |date= |accessdate=2010-02-20}}&lt;/ref&gt; (an Italian news website launched in partnership with the publishing company [[Gruppo Editoriale L'Espresso]], and after with the financial newspaper [[Il Sole 24 Ore]], launched on November 15, 1999&lt;ref&gt;{{cite web |url=http://www.repubblica.it/online/internet/annuncio/annuncio/annuncio.html |title=Nasce &quot;Cnn Italia&quot; 24 ore di notizie web |date=1999-09-15 |accessdate=2009-04-22 |language=Italian |publisher=[[la Repubblica]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.repubblica.it/online/tecnologie_internet/cnn/cnn/cnn.html |title=Roma-Atlanta via web Parte CNN Italia |date=1999-09-15 |accessdate=2009-04-22 |language=Italian |publisher=[[la Repubblica]]}}&lt;/ref&gt; and closed on September 12, 2003.)
+*[[CNN Pipeline]] (24-hour multi-channel broadband online news service, replaced with CNN.com Live)
+*[[CNN Sports Illustrated]] (also known as CNNSI), CNN's all-[[sports]] channel, closed in 2002.
+*[[CNN+]] (a partner channel in Spain, launched in 1999 with [[Sogecable]])
+*[[CNN.com Live]]
+*[[CNNfn]] (financial channel, closed in December 2004)
+
+===Experiments===
+CNN launched two specialty news channels for the American market which would later close amid competitive pressure: [[CNN Sports Illustrated|CNNSI]] shut down in 2002, and [[CNNfn]] shut down after nine years on the air in December 2004. CNN and [[Sports Illustrated|Sports Illustrated's]] partnership continues today online at CNNSI.com. CNN's former website now redirects to money.cnn.com, a product of CNN's strategic partnership with ''[[Money (magazine)|Money]]'' magazine. Money and SI are both properties of Time Warner, along with CNN.
+{{Clear}}
+
+==Bureaus==
+[[Image:CNN News bureaus world.png|thumb|CNN bureau locations]]
+[[Image:Cnncenter.jpg|right|thumb|The [[CNN Center]] in Atlanta]]
+[[Image:CNN headquarters in New York City IMG 3707.JPG|right|thumb|CNN in [[New York City]]]]
+[[Image:CNN Center studios.jpg|thumb|CNN Center studios]]
+: '''''Note:''' Boldface indicates that they are CNN's original bureaus, meaning they have been in operation since CNN's founding.''
+
+===United States===
+{|
+|- valign =&quot;top&quot;
+| |
+* '''[[Atlanta|Atlanta (World Headquarters)]]'''
+* [[Boston]]
+* '''[[Chicago]]'''
+* '''[[Dallas]]'''
+* '''[[Los Angeles]]'''
+* [[Miami]]
+* [[New Orleans]]
+* '''[[New York City]]'''
+* '''[[San Francisco]]'''
+* '''[[Washington, D.C.]]'''
+|
+* [[Columbus, Ohio|Columbus]]
+* [[Denver]]
+* [[Houston]]
+* [[Las Vegas, Nevada|Las Vegas]]
+* [[Minneapolis]]
+* [[Orlando, Florida|Orlando]]
+* [[Philadelphia]]
+* [[Phoenix, Arizona|Phoenix]]
+* [[Raleigh-Durham, North Carolina|Raleigh-Durham]]
+* [[Seattle]]
+|-
+|colspan=2|
+|}
+
+===Worldwide===
+Many of the following bureaus have been closed or—due to the [[financial crisis]]—their budget cut:
+* [[Rome]], [[Italy]]
+* [[Abu Dhabi]], [[United Arab Emirates]] (Middle East regional headquarters)
+* [[Baghdad]], [[Iraq]]
+* [[Bangkok]], [[Thailand]]
+* [[Beijing]], [[China]]
+* [[Beirut]], [[Lebanon]]
+* [[Berlin]], [[Germany]]
+* [[Bogotá]], [[Colombia]]
+* [[Cairo]], [[Egypt]]
+* [[Dubai]], [[United Arab Emirates]]
+* [[Havana]], [[Cuba]]
+* '''[[Hong Kong]]''' (Asia/Pacific regional headquarters)
+* [[Islamabad]], [[Pakistan]]
+* [[Istanbul]], [[Turkey]]
+* [[Jakarta]], [[Indonesia]]
+* [[Iran]], [[Tehran]] (until the 2009 election when foreign media were expelled from the country)
+* [[Jerusalem]], [[Israel]]
+* [[Johannesburg]], [[South Africa]]
+* [[Lagos]], [[Nigeria]]
+* '''[[London]], [[United Kingdom]]''' (European regional headquarters)
+* [[Madrid]], [[Spain]]
+* [[Mexico City]], [[Mexico]]
+* [[Moscow]], [[Russia]]
+* [[Nairobi]], [[Kenya]]
+* [[New Delhi]], [[India]]
+* [[Paris]], [[France]]
+* [[Rio de Janeiro]], [[Brazil]]
+* [[Santiago of Chile]], [[Chile]]
+* [[São Paulo]], [[Brazil]]
+* [[Seoul]], [[South Korea]]
+* [[Sydney]], [[Australia]]
+* [[Tokyo]], [[Japan]]
+
+In parts of the world without a CNN bureau, the network will use local affiliate station reports which will be used to file a story.
+
+==Controversy==
+{{Main|CNN controversies}}
+In a joint study by the Joan Shorenstein Center on Press, Politics and Public Policy at [[Harvard University]] and the Project for Excellence in Journalism, the authors found disparate treatment by the three major cable channels of Republican and Democratic candidates during the earliest five months of presidential primaries in 2007: &quot;The CNN programming studied tended to cast a negative light on Republican candidates—by a margin of three-to-one. Four-in-ten stories (41%) were clearly negative while just 14% were positive and 46% were neutral. The network provided negative coverage of all three main candidates with McCain faring the worst (63% negative) and Romney faring a little better than the others only because a majority of his coverage was neutral. It's not that Democrats, other than Obama, fared well on CNN either. Nearly half of the Illinois Senator's stories were positive (46%), vs. just 8% that were negative. But both Clinton and Edwards ended up with more negative than positive coverage overall. So while coverage for Democrats overall was a bit more positive than negative, that was almost all due to extremely favorable coverage for Obama.&quot;&lt;ref&gt;{{cite web |url=http://www.hks.harvard.edu/presspol/publications/reports/invisible_primary_invisible_no_longer.pdf|title=Microsoft Word - The Early Campaign FINAL.doc|format=PDF|accessdate=2010-02-20}}&lt;/ref&gt;
+
+CNN has been accused of perpetrating [[media bias]] for allegedly promoting both a conservative and a liberal agenda based on previous incidents. [[Accuracy in Media]] and the [[Media Research Center]] have claimed that CNN's reporting contains liberal editorializing within news stories.&lt;ref&gt;[http://www.aim.org/media_monitor/A3962_0_2_0_C/ CNN and the Liberal Propaganda Machine].&lt;/ref&gt;&lt;ref&gt;[http://www.mediaresearch.org/cyberalerts/1999/cyb19990217.asp Media Research Center CyberAlert – 17 February 1999 – slant of CNN's Tuesday night town meeting].&lt;/ref&gt;
+
+CNN is one of the world's largest news organizations, and its international channel, [[CNN International]] is the leading international news channel in terms of viewer reach.&lt;ref&gt;{{cite news |url=http://www.cnn.com/about/ |title=About Us |publisher=CNN.com |date= |accessdate=2010-02-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.brandrepublic.com/bulletins/media/article/563911/cnn-tops-european-news-channels-according-ems/ |title=CNN tops European news channels according to EMS – Brand Republic News |publisher=Brand Republic |date= |accessdate=2010-02-20}}&lt;/ref&gt; Unlike the BBC and its network of reporters and bureaus, [[CNN International]] makes extensive use of affiliated reporters that are local to, and often directly affected by, the events they are reporting. The effect is a more immediate, less detached style of on-the-ground coverage. This has done little to stem criticism, largely from Middle Eastern nations, that CNN International reports news from a pro-American perspective. This is a marked contrast to domestic criticisms that often portray CNN as having a &quot;liberal&quot; or &quot;anti-American&quot; bias. In 2002, [[Honest Reporting]] spearheaded a campaign to expose CNN for pro-Palestinian bias, citing public remarks in which [[Ted Turner]] equated Palestinian suicide bombing with Israeli military strikes.&lt;ref&gt;[http://www.guardian.co.uk/media/2002/jun/18/terrorismandthemedia.israel CNN chief accuses Israel of terror].&lt;/ref&gt;
+
+''[[Chicago Sun-Times]]''. June 5, 2007. As said by Ted Turner, founder of CNN, &quot;There really isn't much of a point getting some Tom, Dick or Harry off the streets to report on when we can snag a big name whom everyone identifies with. After all, it's all part of the business.&quot; However, in April 2008, Turner criticized the direction CNN has taken.&lt;ref&gt;[http://www.ajc.com/metro/content/news/stories/2008/04/03/turner_0404.html Ted Turner: Global warming could lead to cannibalism | ajc.com]&lt;/ref&gt; Others have echoed that criticism, especially in light of CNN's drop in the ratings.
+
+On April 24, 2008 beautician Liang Shubing and teacher Li Lilan sued commentator [[Jack Cafferty]] and CNN $1.3 billion damages ($1 per person in China), in New York, for &quot;violating the dignity and reputation of the Chinese people&quot;. This was in response to an incident during CNN's &quot;The Situation Room&quot; on April 9, where Cafferty stated his opinion that &quot;[the USA] continue to import their junk with the lead paint on them and the poisoned pet food&quot; despite his view that &quot;[the Chinese leaders were] basically the same bunch of goons and thugs they've been for the last 50 years&quot;. Further, amid China's Foreign Ministry demand for an apology, 14 lawyers filed a similar suit in Beijing.&lt;ref&gt;[http://www.ibtimes.com/articles/20080424/cnn-time-warner-lawsuit-china-media.htm ''IBtimes.com'', CNN Faces $1.3 Bln Lawsuit – $1 per person in China]&lt;/ref&gt;&lt;ref&gt;[http://www.reuters.com/article/televisionNews/idUSPEK30866720080424 reuters.com, CNN now sued for $1.3 billion – $1 per person in China].&lt;/ref&gt;
+
+In June 2009, musician [[M.I.A. (artist)|M.I.A.]] stated she did an hour-long interview with CNN condemning the mass bombing and Tamil civilian fatalities at the hands of Government forces in Sri Lanka in 16 weeks the same year, &quot;and they cut it down to one minute and made it about my single ''Paper Planes''. When I went to the Grammys, I saw the same reporter from CNN, and I was like, &quot;Why did you do that?&quot; And she said, &quot;Because you used the G-word.&quot;&quot; &quot;Genocide. I guess you’re not allowed to say that on CNN,&quot; raising questions concerning CNN's coverage and commitment to free speech.&lt;ref&gt;[http://www.tamilnet.com/art.html?catid=13&amp;artid=29642 Tamilnet.com]&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.latimes.com/features/la-mag-june072009-turnitup,0,2368794,full.story|work=Los Angeles Times|first=Nic|last=Harcourt |title=Turn It Up}}&lt;/ref&gt;
+
+On November 11, 2009, longtime CNN anchor [[Lou Dobbs]] resigned on air after discussions with CNN President Jonathan Klein, who had agreed to a release from his contract &quot;that will enable me to pursue new opportunities.&quot;  He had previously expressed to Klein that he wished to go &quot;the opinion route&quot;.  Dobbs' advocacy journalism style coverage of immigration, [[Barack Obama citizenship conspiracy theories|Obama birthers]] and free trade topics has attracted controversy both to him and to CNN.&lt;ref&gt;[http://articles.cnn.com/2009-11-11/us/lou.dobbs.leaving_1_anchor-lou-dobbs-dobbs-wife-moneyline?_s=PM:US Anchor Lou Dobbs Departs CNN]; CNN; November 11, 2009&lt;/ref&gt;&lt;ref&gt;[http://www.nypost.com/p/news/national/dobbs_gave_up_on_3EsCWZGeRuYrPsFuzm8YoJ#ixzz0WlY7TOMc Dobbs gave up on $9M – Nixed CNN pact in 'Obama birther' flap] ''New York Post'' November 13, 2009.&lt;/ref&gt;
+
+On July 7, 2010, [[Octavia Nasr]], senior Middle East editor and a CNN journalist for 20 years, was fired after she expressed on her [[Twitter]] account admiration for a liberal-minded Muslim cleric who had recently died, casting doubts on the company's commitment to freedom of speech.&lt;ref&gt;{{cite news |url=http://www.smh.com.au/opinion/society-and-culture/land-of-the-free-now-home-of-the-afraid-20100712-107sq.html|work=The Sydney Morning Herald|title=Land of the free now home of the afraid|first=Toby|last=Harnden|date=July 13, 2010}}&lt;/ref&gt;
+
+On October 1, 2010, CNN anchor [[Rick Sanchez]] was fired after remarks he made during an interview with comedian Pete Dominick at a radio show the previous day about prejudices he faced during his television career, at CNN and jokes about him by comedian [[Jon Stewart]]. Calling him a &quot;bigot&quot; before retracting this and describing him instead as &quot;prejudiced&quot; and &quot;uninformed&quot;, the interviewer invoked Stewart's faith as an example of how Stewart was &quot;a minority as much as you are&quot;. Sanchez stated his view that Jewish people were not an oppressed minority in America, and his view that &quot;everybody that runs CNN is a lot like Stewart&quot; before stating &quot;And a lot of people who run all the other networks are a lot like Stewart.&quot;&lt;ref&gt;{{cite news|url=http://www.nytimes.com/2010/10/02/business/media/02cnn.html?src=busln|title=CNN Fires Rick Sanchez for Remarks in Interview|work=New York Times|date=October 1, 2010|author=Stelter, Brian}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Television in the United States|Journalism|Companies|Atlanta|Georgia (U.S. state)}}
+*[[Broadcasting]]
+*[[Corporate media]]
+*[[Mass media]]
+*[[News media]]
+*[[News media (United States)]]
+*[[Objectivity (journalism)]]
+*[[Television studio]]
+{{clear}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commons category|CNN}}
+*{{Official website|http://www.cnn.com/|mobile=http://m.CNN.com}}
+*[http://edition.cnn.com CNN International]
+
+{{Navboxes|list1=
+{{TCA Award for Outstanding Achievement in News and Information}}
+{{White House James S. Brady Press Briefing Room Seating Chart}}&lt;small&gt;&lt;references /&gt;&lt;/small&gt;
+{{CNN}}
+{{CNN Anchors}}
+{{Television news in the United States}}
+{{TBS}}
+{{Time Warner}}
+{{XMChannels (talk)}}
+{{SiriusChannels (talk)}}
+{{International news channels}}
+{{Atlanta companies}}
+}}
+
+{{DEFAULTSORT:Cnn}}
+[[Category:24-hour television news channels in the United States]]
+[[Category:English-language television stations in the United States]]
+[[Category:CNN| ]]
+[[Category:Companies based in Atlanta, Georgia]]
+[[Category:Time Warner subsidiaries]]
+[[Category:Digital only radio stations]]
+[[Category:Alfred I. duPont–Columbia University Award recipients]]
+[[Category:Peabody Award winners]]
+[[Category:Sirius Satellite Radio channels]]
+[[Category:Television channels and stations established in 1980]]
+[[Category:1980 establishments in the United States]]
+[[Category:XM Satellite Radio channels]]
+[[Category:Multilingual news services]]
+[[Category:Video on demand services]]
+[[Category:News websites]]
+[[Category:Article Feedback 5 Additional Articles]]
+
+[[af:CNN]]
+[[ar:سي إن إن]]
+[[az:CNN]]
+[[bn:সিএনএন]]
+[[be:CNN]]
+[[bg:Си Ен Ен]]
+[[bs:CNN]]
+[[ca:Cable News Network]]
+[[cs:CNN]]
+[[cy:CNN]]
+[[da:CNN]]
+[[de:CNN]]
+[[et:CNN]]
+[[el:CNN]]
+[[es:CNN]]
+[[eo:CNN]]
+[[eu:CNN]]
+[[fa:سی‌ان‌ان]]
+[[fr:Cable News Network]]
+[[ko:CNN]]
+[[hi:सीएनएन]]
+[[hr:CNN]]
+[[id:CNN]]
+[[it:CNN]]
+[[he:CNN]]
+[[ka:CNN]]
+[[kk:CNN]]
+[[sw:CNN]]
+[[lv:CNN]]
+[[lt:CNN]]
+[[hu:CNN]]
+[[mr:सीएनएन]]
+[[xmf:CNN]]
+[[arz:سى ان ان]]
+[[ms:CNN]]
+[[nl:CNN]]
+[[ne:सिएनएन]]
+[[ja:CNN]]
+[[no:CNN]]
+[[nn:CNN]]
+[[uz:CNN]]
+[[pap:CNN]]
+[[pl:CNN]]
+[[pt:CNN]]
+[[ro:CNN]]
+[[ru:CNN]]
+[[sah:CNN]]
+[[sq:CNN]]
+[[simple:CNN]]
+[[sk:CNN]]
+[[so:CNN]]
+[[sr:Si-En-En]]
+[[sh:CNN]]
+[[fi:CNN]]
+[[sv:CNN]]
+[[tl:CNN]]
+[[te:సిఎన్ఎన్ (CNN)]]
+[[th:ซีเอ็นเอ็น]]
+[[tr:CNN]]
+[[uk:Сі-Ен-Ен]]
+[[vi:CNN]]
+[[yi:CNN]]
+[[zh:CNN]]</text>
+      <sha1>8z5453pyidb8cfjdg5rb9nd3ku6mx93</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

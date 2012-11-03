@@ -1,0 +1,563 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Republika Srpska</title>
+    <ns>0</ns>
+    <id>347422</id>
+    <revision>
+      <id>518973654</id>
+      <parentid>518973640</parentid>
+      <timestamp>2012-10-21T04:56:25Z</timestamp>
+      <contributor>
+        <username>Mr. Stradivarius</username>
+        <id>4708675</id>
+      </contributor>
+      <comment>Adding {{pp-protected}} ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve" bytes="54510">{{pp-protected|reason=Edit warring/disruption from IPs|expiry=21 January 2013|small=yes}}
+{{Use dmy dates|date=June 2011}}
+{{Infobox country
+|native_name = {{lang|sr-Cyrl|Република Српска}}
+|common_name = Republika Srpska
+|conventional_long_name = Republika Srpska
+|international_name = Republika Srpska
+|image_flag = Flag_of_Republika_Srpska.svg
+|image_coat = Amblem_republike_srpske.svg
+|symbol_type = Seal
+|national_anthem = Моја Република&lt;br&gt;''[[Moja Republika]]''&lt;br/&gt;&lt;small&gt;(English: &quot;My Republic&quot;)&lt;/small&gt;&lt;ref&gt;{{sr icon}} [http://www.esrpska.com/ContentPage.aspx?kat_id=aed2359a-02f3-46a7-b04c-11954411c8c4&amp;podkat_id=39b00c65-e801-4921-857c-516c55d5841d&amp;page_id=7 Srpska - Portal javne uprave Republike Srpske: Simboli] at Governament of Republika Srpska official website, retrieved 17-5-2012&lt;/ref&gt;
+|national_motto = &lt;!--&quot;[motto]&quot;--&gt;
+|image_map = Bosnia and Herzegovina, administrative divisions - en (entities) - colored.svg
+|map_caption = Location of the Republika Srpska(orange) within [[Bosnia and Herzegovina]].&lt;sup&gt;1&lt;/sup&gt;
+|capital = {{nowrap|[[Sarajevo]] &lt;small&gt;(official)&lt;/small&gt;&lt;ref name=&quot;ohr.int&quot;&gt;{{cite web |url=http://www.ohr.int/ohr-dept/legal/oth-legist/doc/rs-constitution.doc |title=Constitution of the Republika Srpska, Official Web Site of the Office of the High Representative}}&lt;/ref&gt;&lt;br/&gt;[[Banja Luka]] &lt;small&gt;(''de facto'')&lt;/small&gt;}}
+|latd= |latm= |latNS= |longd= |longm= |longEW=  &lt;!--capital's latitude and longitude--&gt;
+|largest_settlement =
+|largest_settlement_type = &lt;!--Type of settlement if largest settlement not a city--&gt;
+|official_languages = [[Serbian language|Serbian]], [[Bosnian language|Bosnian]] and [[Croatian language|Croatian]]&lt;ref name=Constitution&gt;{{sr icon}} [http://www.ustavnisud.org/upload/4_8_2009_48_ustav_srpski.pdf Устав републике српске &amp;#91;Constitution of Republika Srpska&amp;#93;. Чланак 7 &amp;#91;Article 7&amp;#93;. The Constitutional Court of Republika Srpska]&lt;/ref&gt;&lt;sup&gt;4&lt;/sup&gt;
+|regional_languages = &lt;!-- --Officially recognized-- regional languages--&gt;
+|languages_type = Official languages
+|languages = 
+|government_type = [[Parliamentary system]]
+|leader_title1 = [[List of Presidents of Republika Srpska|President]]
+|leader_name1 = [[Milorad Dodik]]
+|leader_title2 = [[List of Prime Ministers of Republika Srpska|Prime Minister]]
+|leader_name2 = [[Aleksandar Džombić]]
+|sovereignty_type = [[History of Republika Srpska|Formation]]
+|sovereignty_note = 
+|established_event1 = Proclaimed
+|established_date1 = 9 January 1992
+|established_event2 = {{nowrap|Recognized as&lt;br/&gt;[[Political divisions of Bosnia and Herzegovina|entity of Bosnia&lt;br/&gt;and Herzegovina]]}}
+|established_date2 = 14 December 1995
+|area_rank = 
+|area_magnitude = 
+|area_km2 = 24,857
+|area_sq_mi = 9,597
+|percent_water = n/a
+|population_estimate = 1,439,673&amp;nbsp;&lt;sup&gt;3&lt;/sup&gt;
+|population_estimate_rank =
+|population_estimate_year = 2010
+|population_census = 1,437,477&amp;nbsp;&lt;sup&gt;4&lt;/sup&gt;
+|population_census_year = 1996
+|population_density_km2 = 57.9
+|population_density_sq_mi = 155
+|population_density_rank = 
+|GDP_PPP = |GDP_PPP_rank = |GDP_PPP_year = |GDP_PPP_per_capita = |GDP_PPP_per_capita_rank =
+|GDP_nominal = |GDP_nominal_rank = |GDP_nominal_year = |GDP_nominal_per_capita = |GDP_nominal_per_capita_rank = 
+|Gini = |Gini_rank = |Gini_year = |Gini_category = 
+|HDI = |HDI_rank = |HDI_year = |HDI_category = 
+|currency = [[Convertible Mark]]
+|currency_code = BAM
+|time_zone = [[Central European Time|CET]]
+|utc_offset = +1
+|time_zone_DST = [[Central European Summer Time|CEST]]
+|DST_note = 
+|utc_offset_DST = +2
+|cctld = rs.ba
+|calling_code = 387
+|footnote1 = Although the [[Brčko District]] is formally held in [[Condominium (international law)|condominium]] by both [[Political divisions of Bosnia and Herzegovina|entities]] simultaneously (the [[Federation of Bosnia and Herzegovina]] and Republika Srpska), it is a ''de facto'' third entity, as it has all the same powers as the other two entities and is under the direct sovereignty of BiH.&lt;ref&gt;[http://www.ohr.int/ohr-offices/brcko/gen-info/default.asp?content_id=5528 Office of High Representative in Bosnia and Herzegovina]&lt;/ref&gt;&lt;ref&gt;[http://www.ohr.int/ohr-offices/brcko/default.asp?content_id=5358 Office of High Representative in Bosnia and Herzegovina]&lt;/ref&gt;
+|footnote2 = Excluding RS's 48% of the [[Brčko District]].
+|footnote3 = Including refugees abroad.
+|footnote4 = The [[Constitution of Republika Srpska]] avoids naming the languages, and lists them as &quot;the language of the Serb people, the language of the Bosniak people and the language of the Croat people.&quot;&lt;ref&gt;{{cite web |title=Decision on Constitutional Amendments in Republika Srpska |url=http://www.ohr.int/print/?content_id=7474 |publisher=Office of the High Representative |accessdate=3 June 2010}}&lt;/ref&gt;
+}}
+
+The '''Republika Srpska''' {{Audio|RepublikaSrpska.ogg|listen}} ([[Serbian language|Serbian]], [[Croatian language|Croatian]], [[Bosnian language|Bosnian]]: ''Republika Srpska'', [[Cyrillic script]]: ''Република Српскa'', {{IPA-sh|rɛpǔblika sr̩̂pskaː|}}) is one of the two main [[Political divisions of Bosnia and Herzegovina|political entities]] of [[Bosnia and Herzegovina]], the other being the [[Federation of Bosnia and Herzegovina]]. The [[Constitution of Republika Srpska]] defines it as a territorially unified, indivisible and inalienable constitutional and legal entity of Bosnia and Herzegovina, that independently performs its constitutional, legislative, executive and judicial functions.&lt;ref name=&quot;Ustav&quot;&gt;[http://www.ustavnisud.org/upload/4_8_2009_48_ustav_srpski.pdf The Constitution of Republika Srpska] official document, retrieved 17-5-2012 {{sr icon}}&lt;/ref&gt; The [[National Assembly of the Republika Srpska|National Assembly]] and the [[Government of Republika Srpska]] are based in [[Banja Luka]], although [[Sarajevo]] remains the official capital.&lt;ref name=&quot;Ustav&quot;/&gt;
+
+==Name==
+In the name ''{{lang|sr-Latn|Republika Srpska}}'', the first word means republic. The second word is a [[Nominalization|nominalized adjective]] derived by adding the suffix {{lang|sr-Latn|''-ska''}} to {{lang|sr-Latn|''srb-''}}, the root of the noun {{lang|sr-Latn|''Srbin''}}, meaning Serb. The {{lang|sr-Latn|''-ps-''}} sequence rather than {{lang|sr-Latn|''-bs-''}} is a result of [[Assimilation (linguistics)|voicing assimilation]]. Adjectives derived in this way from [[ethnonym]]s are often used in [[Serbian language|Serbian]] as names of countries: e.g., {{lang|sr-Latn|''Škot''}} – {{lang|sr-Latn|''Škotska''}} (Scot – Scotland), {{lang|sr-Latn|''Hrvat''}} – {{lang|sr-Latn|''Hrvatska''}} (Croat – Croatia).
+
+Although the name {{lang|sr-Latn|''Republika Srpska''}} is sometimes [[gloss]]ed as ''Serb Republic''&lt;ref&gt;{{cite web|author=Related Articles |url=http://www.britannica.com/EBchecked/topic/535337/Serb-Republic |title=Serb Republic (region, Bosnia and Herzegovina) – Britannica Online Encyclopedia |publisher=Britannica.com |accessdate=29 August 2010}}&lt;/ref&gt; or ''Bosnian Serb Republic'',&lt;ref&gt;{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/7021232.stm |work=BBC News  | title=Bosnian Serb republic leader dies | date=30 September 2007 | accessdate=22 May 2010}}&lt;/ref&gt; and the government of {{lang|sr-Latn|Republika Srpska}} uses the semi-[[Anglicization|Anglicized]] term {{lang|en|''Republic of Srpska''}} in English translations of official documents, western news sources such as the BBC,&lt;ref&gt;{{cite news| url=http://news.bbc.co.uk/2/hi/8121166.stm |work=BBC News  | title=Bosnia echoes to alarming rhetoric | date=27 June 2009 | accessdate=22 May 2010 | first=Paul | last=Moss}}&lt;/ref&gt; ''The New York Times'',&lt;ref&gt;{{cite news| url=http://www.nytimes.com/2009/02/24/opinion/24iht-edlyon.1.20395827.html?_r=1 | work=The New York Times | first=James | last=Lyon | date=4 December 2009 | accessdate=22 May 2010 | title=Halting the downward spiral}}&lt;/ref&gt; and ''The Guardian''&lt;ref&gt;{{cite news| url=http://www.guardian.co.uk/world/2009/may/03/bosnia-war-nationalism-poor-economy | work=The Guardian | location=London | title=Bosnia lurches into a new crisis | first=Peter | last=Beaumont | date=3 May 2009 | accessdate=22 May 2010}}&lt;/ref&gt; generally refer to the entity as the ''Republika Srpska''.
+
+==History==
+{{Main|History of Republika Srpska}}
+[[File:SAO BIH 1991 1992.png|thumb|200px|left|Serbian Autonomous Provinces from 1991 to 1992, created in rebellion against the government of Bosnia and Herzegovina.]]
+The [[Socialist Republic of Bosnia and Herzegovina]] was one of [[Socialist Federal Republic of Yugoslavia|Yugoslavia]]'s six federal units, defined in its constitution as a state of equal citizens, [[Muslims by nationality|Muslim]]s, [[Serbs]], [[Croats]] and others.&lt;ref&gt;{{cite journal
+| date         =  31 July 1990 |  title       = The Decision on Proclamation of the Amendments LIX-LXXX to the Constitution of the Socialist Republic of Bosnia and Herzegovina
+| journal=Official Gazette of the Socialist Republic of Bosnia and Herzegovina
+| volume      = 46
+| issue       = 21
+| pages       = 589–594
+| language    = Serbo-Croatian}}&lt;/ref&gt; The [[1991 population census in Bosnia and Herzegovina|1991 population census]] counted 43% Muslims, renamed [[Bosniaks]] in 1993, 31% Serbs, and 17% Croats, the remainder being [[Yugoslavs]] and others. The first democratic multi-party elections in the republic were held on 18 November 1990. Most seats in its parliament were won by political parties that represented the three peoples: the [[Party of Democratic Action]], the [[Serbian Democratic Party (Bosnia and Herzegovina)|Serb Democratic Party]], and the [[Croatian Democratic Union of Bosnia and Herzegovina|Croatian Democratic Union]]. The three parties reached a power sharing agreement covering all government bodies and public institutions.
+
+In a session on 14 and 15 October 1991 the Parliament approved the &quot;Memorandum on Sovereignty&quot; as had already been done by [[Slovenia]] and [[Croatia]]. The Memorandum was adopted despite opposition from 73 Serb deputies, belonging to the Serb Democratic Party (most of the Serb parliamentary representatives) as well as the [[Serbian Renewal Movement]] and the [[Union of Reform Forces]], who regarded the move as illegal.&lt;ref name=WP&gt;{{cite journal
+| last        = Silber
+| first       = Laura
+| authorlink  = Laura Silber
+| date         =  16 October 1991 |  title       = Bosnia Declares Sovereignty
+| journal=[[The Washington Post]]
+| pages       = A29
+| issn        = 0190-8286
+| url         = http://www.washingtonpost.com/wp-srv/inatl/longterm/balkans/stories/independence101691.htm}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+| first       = Nenad
+| last        = Kecmanović
+| title       = Dayton Is Not Lisbon
+| url         = http://www.ex-yupress.com/nin/nin117.html
+| work=[[NIN (magazine)|NIN]]
+| publisher=ex-YU press
+| date =  23 September 1999 |  accessdate  =11 May 2009}}&lt;/ref&gt; On 24 October 1991, the Serb deputies formed the [[National Assembly of Republika Srpska|Assembly of the Serb People in Bosnia and Herzegovina]] (''Skupština srpskog naroda u Bosni i Hercegovini'') to be the highest representative and legislative body of the Serb population,&lt;ref name=OG1.1&gt;{{cite journal
+| date         =  15 January 1992 |  title       = The Decision on Establishment of the Assembly of the Serb People in Bosnia and Herzegovina
+| journal=Official Gazette of the Serb People in Bosnia and Herzegovina
+| volume      = 1
+| issue       = 1
+| page       = 1
+| language    = Serbian}}&lt;/ref&gt;&lt;ref&gt;{{Cite book|url=http://books.google.com/books?id=_RSi4WL0RP8C&amp;pg=PA12&amp;lpg=PA12 |title=Women, violence, and war: wartime ... – Google Books |publisher=Google Books |accessdate=29 August 2010|isbn=978-963-9116-60-3|year=2000}}&lt;/ref&gt; ending the tripartite coalition.
+
+The [[Union of Reform Forces]] soon ceased to exist but its members remained in the assembly as the [[Independent Members of Parliament Caucus]]. The assembly undertook to address the achievement of equality between the Serbs and other peoples and the protection of the Serbs' interests jeopardized by decisions of the Bosnian parliament.&lt;ref name=OG1.1/&gt; On 9 January 1992, the assembly proclaimed the Republic of the Serb People of Bosnia and Herzegovina ({{lang|sr-Latn|''Republika srpskog naroda Bosne i Hercegovine''}}), declaring it part of Yugoslavia.&lt;ref&gt;{{cite journal
+| date         =  27 January 1992 |  title       = The Declaration of Proclamation of the Republic of the Serb People of Bosnia and Herzegovina
+| journal=Official Gazette of the Serb People in Bosnia and Herzegovina
+| volume      = 1
+| issue       = 2
+| pages       = 13–14
+| language    = Serbian}}&lt;/ref&gt;
+On 28 February 1992 the assembly adopted the [[Constitution of Republika Srpska|Constitution of the Serbian Republic of Bosnia and Herzegovina]] (the name adopted instead of the previous {{lang|sr-Latn|''Republika srpskog naroda Bosne i Hercegovine''}}). Its territory would include districts, municipalities, and regions where Serbs were the majority and also those where they had become a minority because of [[persecution during World War II]]. The republic was part of Yugoslavia and could enter into union with political bodies representing other peoples of Bosnia and Herzegovina.&lt;ref name=OG1.3&gt;{{cite journal
+| date         =  16 March 1992 |  title       = The Constitution of the Serbian Republic of Bosnia and Herzegovina
+| journal=Official Gazette of the Serb People in Bosnia and Herzegovina
+| volume      = 1
+| issue       = 3
+| pages       = 17–26
+| language    = Serbian}}&lt;/ref&gt;
+
+The Bosnian parliament, without its Serb deputies, held a [[referendum]] on the independence of Bosnia and Herzegovina on 29 February and 1 March 1992, but most Serbs boycotted it since the assembly had previously (9–10 November 1991) held a plebiscite in the Serb regions, 96% having opted for membership of the Yugoslav federation formed only by Serbia and Montenegro.&lt;ref name=Kreca&gt;Kreća, Milenko (11 July 1996). &quot;The Legality of the Proclamation of Bosnia and Herzegovina's Independence in Light of the Internal Law of the Socialist Federal Republic of Yugoslavia&quot; and &quot;The Legality of the Proclamation of Independence of Bosnia and Herzegovina in the Light of International Law&quot; in &quot;[http://www.icj-cij.org/docket/files/91/7365.pdf?PHPSESSID=1f1615e6112c0279dde6f359b53b0659 Dissenting Opinion of Judge Kreća]&quot; (PDF). ''Application of the Convention on the Prevention and Punishment of the Crime of Genocide, Preliminary Objections, Judgment, I. C. J. Reports 1996'' ([[The Hague]]: The Registry of the [[International Court of Justice]]): pp. 711–747. [[International Standard Serial Number|ISSN]] [http://worldcat.org/issn/0074-4441 0074-4441].&lt;/ref&gt; The referendum had a 64% turnout and 92.7% or 99% (according to different sources) voted for independence.&lt;ref&gt;The Balkans: A Post-Communist History (2007, New York: Routledge) Robert Bideleux &amp; Ian Jeffries, p. 343&lt;/ref&gt;&lt;ref&gt;{{Cite book|url=http://books.google.com/books?id=AYQLyuN4_twC&amp;pg=PA249 |title=Saving strangers: humanitarian ... – Google Books |publisher=Google Books |accessdate=29 August 2010|isbn=978-0-19-829621-8|year=2000}}&lt;/ref&gt; On 6 March the Bosnian parliament promulgated the results of the referendum, proclaiming the republic's independence from Yugoslavia. The republic's independence was recognized by the [[European Community]] on 6 April 1992 and by the USA on 7 April. On the same day the Serbs' assembly in session in [[Banja Luka]] declared a severance of governmental ties with Bosnia and Herzegovina.&lt;ref&gt;{{cite news
+ | title = The Decision on Proclamation of the Serbian Republic of Bosnia and Herzegovina
+ | agency=[[Tanjug]]
+ | work=[[Večernje novosti]]
+ | publisher=[[Novosti AD]]
+ | location = [[Belgrade]]
+ | issn = 0350-4999
+ | date = 8 April 1992
+ | language = Serbian}}&lt;/ref&gt; The name ''Republika Srpska'' was adopted on 12 August 1992.&lt;ref&gt;{{cite journal
+| date         =  29 September 1992 |  title       = The Amendments VII and VIII to the Constitution of the Republika Srpska
+| journal=Official Gazette of the Republika Srpska
+| volume      = 1
+| issue       = 15
+| page       = 569
+| language    = Serbian}}&lt;/ref&gt;
+{{Multiple image
+ | align     = left
+ | direction = horizontal
+ | image1    = Evstafiev-Radovan Karadzic 3MAR94.jpg
+ | width1    = 157
+ | image2    = Evstafiev-ratko-mladic-1993-w.jpg
+ | width2    = 150
+ | footer    = [[Radovan Karadžić]] (left), former president of Republika Srpska, and [[Ratko Mladić]] (right), former Chief of Staff of the Army of the Republika Srpska; both accused of war crimes by the [[International Court of Justice|ICJ]] in [[The Hague]].
+}}
+
+The political controversy escalated into the [[Bosnian War]], which would last until the autumn of 1995. According to numerous verdicts of the [[International Criminal Tribunal for the former Yugoslavia]] (ICTY) Bosnian Serb forces performed [[ethnic cleansing]] in their intended territories in order to create an ethnically pure state of Republika Srpska.&lt;ref name=&quot;ICTY: Radoslav Brđanin judgement&quot;/&gt; Republika Srpska's leadership including [[Biljana Plavšić]],&lt;ref name=ictykrajisnik&gt;{{cite web|url=http://www.icty.org/x/cases/plavsic/tjug/en/pla-tj030227e.pdf|title=Prosecutor v. Biljana Plavsic judgement|quote=Biljana Plavsic was sentenced to 11 years’ imprisonment.}}&lt;/ref&gt; [[Momčilo Krajišnik]],&lt;ref&gt;{{cite web|url=http://www.icty.org/x/cases/krajisnik/acjug/en/090317.pdf|title=Prosecutor v. Momcilo Krajisnik judgement|quote=Sentenced to 27 years’ imprisonment}}&lt;/ref&gt; and [[Radoslav Brđanin]]&lt;ref name=&quot;ICTY: Radoslav Brđanin judgement&quot;&gt;{{cite web|title=Prosecutor v. Radoslav Brđanin – Judgement| publisher=UN [[International Criminal Tribunal for the former Yugoslavia]] | date = 3 April 2007 |url=http://www.icty.org/x/cases/brdanin/acjug/en/brd-aj070403-e.pdf| accessdate =3 November 2009}}&lt;/ref&gt; were indicted and judged guilty for [[war crimes]] and ethnic cleansing. The former president of Republika Srpska, [[Radovan Karadžić]], is currently under trial.&lt;ref name=ICTYkaradzic2009&gt;{{cite web | title = Prosecutor v. Radovan Karadžić – Second Amended Indictment | publisher=UN [[International Criminal Tribunal for the former Yugoslavia]] | date = 26 February 2009| url = http://www.icty.org/x/cases/karadzic/ind/en/090218.pdf | accessdate =18 August 2009}}&lt;/ref&gt; The top military general, [[Ratko Mladić]], was arrested on the 26 May 2011 in connection with the [[siege of Sarajevo]] and the [[Srebrenica massacre]].&lt;ref name=ICTYmladic2002&gt;{{cite web | title = Prosecutor v. Ratko Mladic – Amended Indictment | publisher=UN [[International Criminal Tribunal for the former Yugoslavia]] | date = 8 November 2002| url = http://www.icty.org/x/cases/mladic/ind/en/mla-ai021010e.pdf | accessdate =18 August 2009}}&lt;/ref&gt; The war was ended by the [[Dayton Agreement|General Framework Agreement for Peace in Bosnia and Herzegovina]], reached at [[Wright-Patterson Air Force Base]] near [[Dayton, Ohio|Dayton]], Ohio on 21 November and formally signed in Paris on 14 December 1995. Annex 4 of the Agreement is the current [[Constitution of Bosnia and Herzegovina]], recognising Republka Srpska as one of its two main [[Political divisions of Bosnia and Herzegovina|political-territorial divisions]] and defining the governmental functions and powers of the both entities. The [[Inter-Entity Boundary Line|boundary lines]] between the entities were delineated in Annex 2 of the Agreement.&lt;ref&gt;{{cite web
+| title       = The General Framework Agreement for Peace in Bosnia and Herzegovina
+| url         = http://www.ohr.int/dpa/default.asp?content_id=380
+| publisher=[[OHR]]}}&lt;/ref&gt; From 1992 to 2008 the Constitution of Republika Srpska was amended 121 times. Article 1 states that Republika Srpska is a territorially unified, indivisible and inalienable constitutional and legal entity that shall independently perform its constitutional, legislative, executive and judicial functions.&lt;ref&gt;{{cite web
+| title       = Constitution of Republika Srpska
+| url         = http://www.ustavnisud.org/html/pravno%20utemeljenje/ustav%20e.html
+| publisher=The Constitutional Court of Republika Srpska}}&lt;/ref&gt;
+
+===Impact of war===
+[[File:Srpska claims Jan 93.png|thumb|Republika Srpska wartime territorial claims (black line) versus its present day boundaries, overlayed on the ethnic map based on 1981 census.]]
+
+The [[Bosnian War|war in Bosnia and Herzegovina]] resulted in major changes in the country, some of which were quantified in a 1998 report by [[UNESCO]]. In the non-Serbian region 50% of houses were damaged and 6% destroyed while the number was lower in the Serbian region, 25% damaged and 5% destroyed{{By whom|date=December 2009}}{{Citation needed|date=December 2009}}. About half the country's population of 4 million was displaced. In 1996 there were some 435,346 Serbian refugees from the Federation in Republika Srpska while another 197,925 had gone to Serbia. In 1991, 27% of the non-agricultural labor force had been unemployed in Bosnia and this number had increased due to the war.&lt;ref&gt;{{cite web |url=http://www.unesco.org/education/educprog/erd/english/com/docs/eur/bih2/srp_cont.html |author=UNESCO |title=Review of the education system in the Republika Srpska | year=1998 |accessdate=10 January 2009}}&lt;/ref&gt; In 2009 the unemployment rate in Bosnia and Herzegovina was an estimated 29% according to the [[Central Intelligence Agency|CIA]]'s ''[[The World Factbook]]''.&lt;ref&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html CIA - The World Factbook&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; In 1996 unemployment in Republika Srpska was at 90%.
+
+Republika Srpska's population of Serbs had increased by 547,741{{When|date=December 2009}} and [[ethnic cleansing]] considerably reduced the numbers of other groups. The increasing of Serbs in the Republic is due to the influx of ethnic Serbs that were ethnically cleansed from Croatia.&lt;ref&gt;[http://pressrs.ba/sr/vesti/vesti_dana/story/9058/Od+pola+miliona,+u+FBiH+ostalo+50.000+Srba.html Press Online Republika Srpska :: Od pola miliona, u FBiH ostalo 50.000 Srba&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The number of Croats was reduced by 135,386 (majority of prewar population), and the number of [[Bosniaks]] by some 434,144. Some 136,000 of approximately 496,000 Bosniak refugees and expulsees, forced to flee the territory of what is now Republika Srpska, have returned home.&lt;ref&gt;{{cite web
+| date         =  26 February 2004 |  title       = Written statement submitted by the Society for Threatened Peoples to the Commission of Human Rights; Sixtieth session Item 11 (d) of the provisional agenda
+| page       = 2
+| work=United Nations
+| url         = http://www.unhchr.ch/Huridocda/Huridoca.nsf/0/116959be7b8cf279c1256e5a003b5e6b?Opendocument
+}}&lt;/ref&gt; As of 2008, 35% of Bosniaks and 8.5% of Croats have returned to Republika Srpska, while 24% of Serbs who left their homes in territories controlled by Bosniaks or Croats, have returned to their pre-war addresses.&lt;ref name=revstrat&gt;[http://www.mhrr.gov.ba/PDF/Izbjeglice/Revidirana%20Strategija%20BiH%20za%20provedbu%20Aneksa%20VII%20DMS.pdf Revidirana strategija Bosne i Hercegovine za provedbu Aneksa VII Dejtonskog mirovnog sporazuma]. Ministry for Human Rights and Refugees of Bosnia and Herzegovina. October 2008.&lt;/ref&gt;
+
+In the early 2000s discrimination against non-Serbs was alleged by NGOs and the [[Commission on Security and Cooperation in Europe|Helsinki Commission]]. The [[International Crisis Group]] reported in 2002 that in some parts of Republika Srpska a returnee is ten times more likely to be the victim of violent crime than is a local Serb.&lt;ref&gt;{{cite web
+| date         =  13 December 2002 |  title       = The Continuing Challenge Of Refugee Return In Bosnia &amp; Herzegovina
+| work=Crisis Group
+| publisher=
+| url         = http://www.crisisgroup.org/home/index.cfm?id=1473&amp;l=1}}&lt;/ref&gt; The Helsinki Commission, in a 2001 statement on &quot;Tolerance and Non-Discrimination,&quot; also pointed at violence against non-Serbs, stating that in the city of [[Banja Luka]]&lt;ref&gt;{{cite news
+| date         =  8 May 2001 |  url         = http://news.bbc.co.uk/2/hi/europe/1318283.stm
+| title       = UN condemns Serb 'sickness'
+|work=BBC 
+| publisher=
+| accessdate=4 January 2010}}&lt;/ref&gt; and [[Trebinje]]&lt;ref&gt;{{cite news
+| date         =  6 May 2001 |  url         = http://news.bbc.co.uk/2/hi/europe/1315262.stm
+| title       = Serbs block Bosnia mosque ceremony
+|work=BBC 
+| publisher=
+| accessdate=4 January 2010}}&lt;/ref&gt; mobs attacked people who sought to lay foundations for new mosques on the ruins of those destroyed. There were indications of police collaboration. Non-Serbs have continued difficulty in returning to their original homes and the assembly’s record of cooperation in apprehending individuals indicted for war crimes, crimes against humanity and genocide is poor.&lt;ref&gt;{{cite web
+| date         =  20 September 2001 |  url         = http://www.csce.gov/index.cfm?FuseAction=UserGroups.Home&amp;ContentRecord_id=188&amp;ContentType=P&amp;ContentRecordType=P&amp;UserGroup_id=62&amp;Subaction=ByDate&amp;IsTextOnly=True&amp;CFID=18849146&amp;CFTOKEN=53
+| title       = Helsinki Commission Releases U.S. Statement on Tolerance and Non-Discrimination at OSCE Human Dimension Implementation Meeting
+| work=Helsinki Commission
+| publisher=
+}}&lt;/ref&gt;
+
+Organizations such as the [[Society for Threatened Peoples]], reporting to the [[United Nations Human Rights Council]] in 2008, claim that non-Serbian refugees returning to Republika Srpska are discriminated against and live under appalling conditions, particularly in the Drina Valley ([[Srebrenica]], [[Bratunac]], [[Višegrad]] and [[Foča]]). Many are unemployed and children must attend schools where all subjects are taught in Serbian. Similar things are taking place in the Federation of Bosnia where the problem of segregation is very visible in Herzegovinan and some Bosnian cities where the population is predominantly Croatian. Separate schools for Croatians and non-Croatians are formed. Croatian nationality students are taught using Croatian curriculum whereas Serbian and Bosniak pupils are taught according to the curriculum of Bosnia and Herzegovina
+&lt;ref&gt;{{cite web
+| date         =  21 February 2008 |  title       = 7th Session of the UN Human Rights Council
+| work=Society for Threatened Peoples
+| page       = 2
+| url         = http://forum-menschenrechte.de/cms/upload/PDF/ab_05-2008/aides_memoires/Bosnia_Herzegowina-GfbV.pdf
+|format=PDF}}&lt;/ref&gt;
+
+According to the Ministry for Human Rights and Refugees of Bosnia and Herzegovina, [[European Union Police Mission in Bosnia and Herzegovina|European Union Police Mission]], [[UNHCR]], and other international organizations, the security in both Republika Srpska and the Federation of Bosnia and Herzegovina is at present satisfactory, although some minor threats, real or perceived, can still influence the decision of individuals as to whether they will return to their pre-war addresses, or not.&lt;ref name=revstrat/&gt;
+
+==Geography==
+===Boundary===
+The [[Inter-Entity Boundary Line]] (IEBL) between Bosnia and Herzegovina's two entities essentially follows the front lines at the end of the [[Bosnian War]] with adjustments (most importantly in the western part of the country and around Sarajevo) defined by the [[Dayton Agreement]]. The total length of the IEBL is approximately {{formatnum:1080}}&amp;nbsp;km. The IEBL is an administrative demarcation uncontrolled by military or police and there is free movement across it.
+
+===Municipalities===
+{{Main|Municipalities of Republika Srpska}}
+Under the Law on Territorial Organization and Local Self-Government, adopted in 1994, Republika Srpska was divided into 80 municipalities. After the Dayton Peace Agreement the law was amended to reflect changes to borders: it now comprises 63 municipalities.
+
+===Cities and towns===
+[[Image:Rs map02.png|thumb|right|250px|Map showing largest cities of Republika Srpska]]
+Largest cities and towns in Republika Srpska (in 2012):&lt;ref&gt;http://world-gazetteer.com/wg.php?x=&amp;men=gcis&amp;lng=en&amp;des=wg&amp;geo=-27&amp;srt=npan&amp;col=abcdefghinoq&amp;msz=1500&amp;geo=-512&lt;/ref&gt;
+*[[Banja Luka]] (238,353)
+*[[Bijeljina]] (78,960)
+*[[Prijedor]] (43,307)
+*[[Doboj]] (31,794)
+*[[Kasindo]] (28,443)
+*[[Trebinje]] (26,781)
+*[[Derventa]] (26,604)
+*[[Zvornik]] (24,165)
+*[[Bosanska Gradiška, Bosnia and Herzegovina|Gradiška]] (23,256)
+*[[Šamac, Bosnia and Herzegovina|Šamac]] (22,936)
+*[[Novi Grad, Bosanska Krajina|Novi Grad]] (22,058)
+*[[Milići]] (20,316)
+*[[Dubica, Bosnia and Herzegovina|Dubica]] (18,387)
+*[[Prnjavor, Bosnia and Herzegovina|Prnjavor]] (18,034)
+*[[Pale, Bosnia and Herzegovina|Pale]] (17,155)
+*[[Nevesinje]] (13,961)
+*[[Trn, Bosnia and Herzegovina|Trn]] (13,776)
+*[[Ribnik, Bosnia and Herzegovina|Ribnik]] (13,538)
+*[[Janja]] (12,538)
+*[[Laktaši]] (12,467)
+*[[Teslić]] (12,005)
+*[[Lukavica (Bosnia and Herzegovina)|Lukavica]]-[[Novo Sarajevo]] (11,842)
+*[[Foča]] (11,296)
+*[[Višegrad]] (11,208)
+*[[Vlasenica]] (10,397)
+*[[Kostajnica, Bosnia and Herzegovina|Kostajnica]] (10,222)
+
+==Demography==	 
+
+There has been no census since the end of the war. The next census was expected to occur in 2011 but has not yet been confirmed: these figures are estimates.
+
+{|class=&quot;wikitable&quot;
+|+ Population composition'''&lt;ref name=RSIOS&gt;{{cite web|url=http://www.rzs.rs.ba/Publikacije/RSuBrojkama/RSuBrojkama2009.pdf|title=Republika Srpska in Figures 2009|publisher=Republika Srpska Institute of Statistics|year=2009|location=Banja Luka|accessdate=5 July 2010}}&lt;/ref&gt;
+|-
+!Year
+!Total
+!Males
+!Females
+!Births
+!Deaths
+|-
+|1996||1,391,593|| || ||12,263||10,931
+|-
+|1997||1 409 835|| || ||13,757||11,755
+|-
+|1998||1,428,798|| 679,795 ||749,003||13,527||12,469
+|-
+|1999&lt;ref group=&quot;note&quot; name=&quot;Brčko&quot;&gt;Includes Brčko District&lt;/ref&gt;||1,448,579|| 689,186 ||759,351||||
+|-
+|2000&lt;ref group=&quot;note&quot; name=&quot;Brčko&quot;/&gt;||1,469,182|| || ||14,191||13,370
+|-
+|2000||1,428,899|| 695,194 ||733,705|| ||
+|-
+|2001&lt;ref group=&quot;note&quot; name=&quot;Brčko&quot;/&gt;||1,490,993|| || ||13,699||13,434
+|-
+|2001||1,447,477|| 704,197 ||743,280|| ||
+|-
+|2002||1,454,802|| 708,136 ||746,666|| 12,336|| 12,980
+|-
+|2003||1,452,351|| 706,925 ||745,426|| 10,537|| 12,988
+|-
+|2004||1,449,897|| 705,731 ||744,166|| 10,628|| 13,082
+|-
+|2005||1,446,417|| 704,037 ||742,380|| 10,322|| 13,802
+|-
+|2006||1,443,709|| 702,718 ||740,991|| 10,524|| 13,232
+|-
+|2007||1,439,673|| 700,754 ||738,919|| 10,110|| 14,146
+|-
+|2008||1,437,477|| 699,685 ||737,792|| 10,198|| 13,501
+|-
+|2009||1,435,179|| 698,567 ||736,612|| 10,603|| 13,775
+|-
+|2010||1,433,038|| 697,524 ||735,514|| 10,147|| 13,517
+|}
+
+[[List of cities and municipalities in the Republika Srpska]]
+
+===Ethnic Composition===
+{|border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;3&quot; rules=&quot;all&quot; width=&quot;60%&quot; style=&quot;clear:all; margin:3px 0 0em 0em; border-style: solid; border-width: 1px; border-collapse:collapse; font-size:85%; empty-cells:show&quot;
+|colspan=&quot;14&quot; align=center style=&quot;background:#778899; color:white&quot;|'''Ethnic Composition'''
+|- bgcolor=&quot;#FFEBCD&quot;
+!Year
+!Serbs
+!&amp;nbsp;%
+!Muslims
+!&amp;nbsp;%
+!Croats
+!&amp;nbsp;%
+!Yugoslavs
+!&amp;nbsp;%
+!Others
+!&amp;nbsp;%
+!Total
+|- bgcolor=&quot;#fffaf0&quot;
+|1991&lt;ref&gt;Federation Office of Statistics (May 2008). &quot;Population of the Federation Bosnia and Herzegovina 1996 - 2006&quot;, p.20, [http://www.fzs.ba/Dem/stanovnistvo-bilten110.pdf]&lt;/ref&gt; || 869,854|| 55.4|| 440,746|| 28.1|| 144,238|| 9.2|| 75,013|| 4.8|| 39,481|| 2.5|| 1,569,332
+|- bgcolor=&quot;#f5f5f5&quot;
+|}
+
+&lt;gallery&gt;
+Image:Bosnaetno61.png|Ethnic composition in 1961
+Image:DemoBIH1981.png|Ethnic composition in 1981
+Image:DemoBIH1991.png|Ethnic composition in 1991
+&lt;/gallery&gt;
+
+==Economy==
+{{main|Economy of Bosnia and Herzegovina}}
+The currency of Republika Srpska is the [[Bosnia and Herzegovina convertible mark]] (KM). A so-called &quot;regulatory guillotine&quot; means that it takes only a few days to register a business there, whereas in the [[Federation of Bosnia and Herzegovina]] it often takes several months. [[Gross domestic product]] ([[Purchasing power parity|PPP]]) was estimated in 2010 at about US$7,895 per capita, but growth in the particular area was measured as being the highest in Bosnia, with 6,5%.&lt;ref name=&quot;WSJ&quot;&gt;{{cite news |work=The Wall Street Journal |url=http://online.wsj.com/article/SB117918783695002652.html?mod=googlenews_wsj |title= Bosnian Territory Opens Doors for Business |accessdate=17 June 2007 | first=Beth | last=Kampschror | date=15 May 2007}}&lt;/ref&gt;
+{| class=&quot;wikitable&quot;
+|-  style=&quot;background:#ccc; text-align:center;&quot;
+|colspan=5| '''[[Gross domestic product|GDP]] of Republika Srpska  2006-2010. (in millions [[Bosnia and Herzegovina convertible mark|KM]])'''&lt;ref&gt;[http://www.irbrs.net/statistika.aspx?tab=2&amp;god=2006&amp;lang=lat Baza podataka o ekonomskim indikatorima Republike Srpske - IRBRS&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+|-  style=&quot;background:#ccc; text-align:center;&quot;
+! 2006.!! 2007.!!2008.!! 2009.!!2010. 
+|}
+
+===Foreign investment===
+An agreement on strategic partnership has been concluded between the Iron Ore Mine Ljubija Prijedor and the British company [[LNM Holdings|LNM]] (a major steel producer, now part of [[ArcelorMittal]]). The [[Russia]]n company [[Yuzhuralzoloto]] also signed a strategic partnership with the Lead and [[Zinc]] Mine Sase Srebrenica. Recent foreign investments include privatisation of [[Telekom Srpske]], sold to the [[Serbia]]n [[Telekom Srbija]] for €646 million, and the sale of the petroleum and oil industry, based in [[Bosanski Brod]], [[Modriča]] and [[Banja Luka]], to [[Zarubezhneft]] of Russia, whose investment is expected to total US$970 million in coming years.&lt;ref&gt;{{cite web |url=http://www.nezavisne.com/vijesti.php?vijest=4941&amp;meni=2 |date=25 January 2007 |work=Nezavisine novine |title=Investicija za preporod privrede BiH |accessdate=19 April 2007}}&lt;/ref&gt; On 16 May 2007, the [[Czech Republic|Czech]] [[Electrical power industry|power utility]] [[CEZ Group|ČEZ]] signed a €1.4 billion contract with the [[Elektroprivreda Republike Srpske]], to renovate the [[Gacko]] I power plant and build a second, Gacko II.&lt;ref&gt;{{cite web |work=Prague Daily Monitor |url=http://launch.praguemonitor.com/en/86/czech_business/6620/ |title=CEZ signs contract on energy project in Bosnia |accessdate=17 June 2007 |date=17 May 2007 |archiveurl = http://web.archive.org/web/20070521220708/http://launch.praguemonitor.com/en/86/czech_business/6620/ &lt;!-- Bot retrieved archive --&gt; |archivedate = 21 May 2007}}&lt;/ref&gt;As of September 2012, the President of Republika Srpska, Milorad Dodik, has signed an agreement with the Russian company Gazprom to build a part of the South Stream pipeline network and two gas power plants in the entity.&lt;ref&gt;[http://www.balkaninsight.com/en/article/bosnia-s-serb-entity-signs-for-south-stream-pipeline Bosnia's Serb Entity Signs up for South Stream Pipeline :: Balkan Insight&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+===External trade===
+In recent years exports (not including trade with the [[Federation of Bosnia and Herzegovina]]) have grown significantly and the level of import coverage has improved – from KM 1,130,518,000 (€565 million) and 38.3% in 2005, to KM 1,539,229,000 (€770 million) and 55.8% in 2006. 
+
+In the first two months of 2007, exports grew 19% year on year and imports by 39%.&lt;ref&gt;{{cite web|url=http://www.rzs.rs.ba/Saopstenja/TrgovinaSPOLJNA/decembar05.pdf |format=PDF|author=Republika Srpska Institute of Statistics |title=External Trade Statistics Release |month=December | year=2005 |accessdate=19 April 2007 |archiveurl = http://web.archive.org/web/20070401032939/http://www.rzs.rs.ba/Saopstenja/TrgovinaSPOLJNA/decembar05.pdf &lt;!-- Bot retrieved archive --&gt; |archivedate = 1 April 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.rzs.rs.ba/Saopstenja/TrgovinaSPOLJNA/SpoljnaTrgovinaDecembar06.pdf |author=Republika Srpska Institute of Statistics |title=External Trade Statistics Release |month=December | year=2006 |accessdate=19 April 2007|format=PDF |archiveurl = http://web.archive.org/web/20070401034002/http://www.rzs.rs.ba/Saopstenja/TrgovinaSPOLJNA/SpoljnaTrgovinaDecembar06.pdf &lt;!-- Bot retrieved archive --&gt; |archivedate = 1 April 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rzs.rs.ba/Saopstenja/TrgovinaSPOLJNA/SpoljnaTrgovinaFebruar07.pdf |author=Republika Srpska Institute of Statistics |title=External Trade Statistics Release |month=February | year=2007 |accessdate=19 April 2007|format=PDF}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.rzs.rs.ba/Saopstenja/TrgovinaSPOLJNA/februar06.pdf |author=Republika Srpska Institute of Statistics |title=External Trade Statistics Release |month=February | year=2006 |accessdate=19 April 2007|format=PDF |archiveurl = http://web.archive.org/web/20070401034505/http://www.rzs.rs.ba/Saopstenja/TrgovinaSPOLJNA/februar06.pdf &lt;!-- Bot retrieved archive --&gt; |archivedate = 1 April 2007}}&lt;/ref&gt; 
+
+In 2010, exports amounted to €1.11 billion and imports €2.07 billion. In 2011 exports rose 17.6% to €1.310 billion and imports rose 13.1% to €2.344 billion.&lt;ref&gt;{{cite web |url=http://www.rzs.rs.ba/Saopstenja/TrgovinaSPOLJNA/2010/Spoljna_Trgovina_Decembar_2010_PDF.zip |author=Republika Srpska Institute of Statistics |title=External Trade Statistics Release |month=December | year=2010 |accessdate=24 June 2010|format=zip}}&lt;/ref&gt;&lt;ref&gt;http://www.rzs.rs.ba/Saopstenja/TrgovinaSPOLJNA/2011/Spoljna_Trgovina_Decembar_2011_PDF.zip&lt;/ref&gt;
+
+===Taxation and Salaries===
+{{Unreferenced section|date=December 2011}}
+Since 2001, Republika Srpska initiated significant reforms in the sector of the tax system, which lowered the tax burden to 28.6%, one of the lowest in the region. The 10% rate of capital gains tax and income tax are the lowest in Europe and highly stimulating for foreign investment, and there are no limits on the amount of earnings. Increasing the number of taxpayers and budgeted incomes, and creating a stable fiscal system, were necessary for further reforms in the fields of taxation and duties; this area is a priority goal of the RS authorities. [[Value added tax|VAT]] has been introduced in 2006. Income tax is 46% in the RS, compared to nearly 70% in the Federation, and the [[corporate tax]] rate is 10%, compared to 30% in the Federation. These tax advantages have led to some companies moving their business to RS from the other entity.&lt;ref name=&quot;WSJ&quot; /&gt;
+[[File:Просјечне плате РС 1996-2010.PNG|thumb|220px|Average net wages ([[Bosnia and Herzegovina convertible mark|KM]]) in Republika Srpska 1996-2010&lt;ref&gt;http://www.rzs.rs.ba/Publikacije/Godisnjak/2011/StatistickiGodisnjak2011-WEB.pdf&lt;/ref&gt;]]
+Republika Srpska saw accelerated salary growth in 2008.  The average net salary in 2008 amounted to KM 755 (€386), which represents an increase of 29% compared to 2007 average. High inflation rate in 2008 caused the difference between the nominal and the real salary growth to be higher than in 2007. Average net salaries in Republika Srpska saw a real growth of 21.8%, since 2008 inflation measured by Consumer Price Index was 7.2%. Marked salary growth was particularly contributed to by salary growth in individual economic sectors, especially in public sector. Regarding pensions in Republika Srpska, their growth in 2008 kept pace with salary trends. The average pension in 2008 amounted to KM 294 (€150), which is larger by 27.8% (y/y). Somewhat higher pension growth in the RS might be explained by significantly faster growth of contributions of the PDI Fund. The average wage as of 2011 stood at KM 809.0 (€414).
+
+==Politics==
+{{Unreferenced section|date=December 2008}}
+{{Main|Politics of Republika Srpska}}
+{{Main|Constitution of Republika Srpska}}
+[[File:Зграда НСРС.jpg|thumb|left|200px|[[National Assembly of the Republika Srpska|National Assembly]] building]]
+[[File:Зграда Владе РС и Интегралов.jpg|thumb|right|200px|Government building (right).]]
+Under its constitution, Republika Srpska has a president, parliament (the 83-member [[National Assembly of Republika Srpska]]), executive (with a prime minister and several ministries), its own police, supreme court and lower courts, customs service (under the state-level customs service), and postal service. It also has its own coat of arms, flag (a variant of the Serbian flag without the coat of arms displayed), and national anthem. However, the national anthem, like Spain, San Marino and Abu Dhabi has no words to it. The Constitutional Law on Coat of Arms and Anthem of the Republika Srpska was ruled not in conformance with the Constitution of Bosnia and Herzegovina as it states that those symbols &quot;represent statehood of the Republika Srpska&quot; and are used &quot;in accordance with moral norms of Serb people&quot;. According to the Constitutional Court's decision, the Law was to be corrected by September 2006. The national assembly of Republika Srpska formed a board which is going to make a proposal for the anthem and coat of arms of Republika Srpska. Its former flagship airline, [[Air Srpska]], ceased operations in 2003. The new airline, [[Sky Srpska]], has been established in 2007, and has a [[codeshare agreement]] with [[Slovenia]]n airline [[Adria Airways]] since 2010.
+
+Although the constitution names [[Sarajevo]] as the capital of Republika Srpska, the northwestern city of [[Banja Luka]] is the headquarters of most of the institutions of government – including the parliament – and is therefore the ''de facto'' capital.
+
+After the war, Republika Srpska retained its army, but in August 2005, the parliament consented to transfer control of [[Army of Republika Srpska]] to a state-level ministry and abolish the Republic's defense ministry and army by 1 January 2006. These reforms were required by [[NATO]] as a precondition of Bosnia and Herzegovina's admission to the [[Partnership for Peace]]. As of 14 December 2006, Bosnia and Herzegovina is a part of the [[Partnership for Peace]] programme.
+
+===External relations===
+[[File:Milorad Dodik mod.jpg|thumb|right|200px|[[Milorad Dodik]], the current president of the Republika Srpska]]
+On 26 September 2006, Republika Srpska officials signed a &quot;special ties agreement&quot; with [[Serbia]] aimed at promoting economic and institutional cooperation between Serbia and the Republika Srpska (RS). The accord was signed by Serbia's President [[Boris Tadić]] and Prime Minister [[Vojislav Koštunica]], former RS President [[Dragan Čavić]], and Prime Minister [[Milorad Dodik]].
+
+Tadić and Koštunica, accompanied by several ministers and some 300 businessmen, arrived in [[Banja Luka]] on two special planes from [[Belgrade]], in what was seen as the biggest-ever boost to strengthening ties in all spheres of life between the Republika Srpska and [[Serbia]]. The Serbian [[Komercijalna banka]] and the [[Dunav osiguranje]] insurance company opened branches in Banja Luka and the Serbian news agency [[Tanjug]] also inaugurated its international press center in Banja Luka, on a day packed with business engagements.
+
+The document sets out steps taken by Serbia and Republika Srpska officials to increase economic and political ties. It is similar to a previous one signed in 2001 between the [[Federal Republic of Yugoslavia]] and the Republika Srpska, which had envisaged close cooperation in economy, defense, education and [[dual citizenship]] for the residents, said a Serbian government statement. The agreement gives Republika Srpska, the same status with Serbia as the state of Bosnia-Herzegovina as a whole.  &quot;This agreement will stabilize the relations between countries in the region and it will promote economic, political and cultural relations between Serbia and Republika Srpska,&quot; Čavić told reporters after the signing ceremony. Koštunica added &quot;We have long waited for this day,&quot; and insisting that the agreement would not be &quot;a dead letter on paper,&quot; but would &quot;live and be useful to the citizens of Serbia and Republika Srpska.&quot;
+
+Under the [[Dayton Agreement]], which ended the [[Bosnian war]] in 1995, two entities – [[Federation of Bosnia and Herzegovina]], and the Republika Srpska - formed a single state, but with many decentralised powers.
+
+===Representative offices===
+[[File:Представништва Републике Српске у свијету.PNG|thumb|right|200px|Representative offices of the Republika Srpska in World.]]
+On 12 February 2009, Republika Srpska opened a new representative office in [[Brussels]]. While EU representatives were not present at the time, all top Republika Srpska officials attended the opening ceremony, saying it would advance their economic, political and cultural relations with the [[European Union]]. This notion has been strongly condemned by Bosniak leaders, saying that this is further proof of Republika Srpska distancing itself from [[Bosnia and Herzegovina]]. President [[Rajko Kuzmanovic]], on the other hand, told reporters that this move does not jeopardize Republika Srpska's place within [[Bosnia and Herzegovina]]. He added that Republika Srpska just used its constitutional right &quot;to open up a representation office in the center of developments with European relevance.&quot; Republika Srpska also has offices of representation in [[Belgrade]] ([[Serbia]]), [[Moscow]] ([[Russia]]), [[Stuttgart]] ([[Germany]]), [[Jerusalem]] ([[Israel]]) &lt;ref&gt;[http://www.vladars.net/sr-SP-Cyrl/Vlada/Predstavnistva/Pages/default.aspx Представништва Републике Српске у иностранству&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; and [[Vienna]] ([[Austria]]).&lt;ref&gt;[http://www.biznis.ba/politika/15405-u-becu-otvoreno-predstavnistvo-republike-srpske.html Biznis.ba - U Beču otvoreno Predstavništvo Republike Srpske&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://www.smedia.rs/vesti/vest/89244/Milorad-Dodik-Otvoreno-predstavnistvo-Republike-Srpske-u-Becu-Dodik-otvorio-predstavnistvo-Republike-Srpske-u-Becu.html# Dodik otvorio predstavništvo Republike Srpske u Beču - VESTI - SMEDIA&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; In 2009 there were plans to open offices in [[Washington D.C.]] and [[Zagreb]].&lt;ref&gt;{{cite web|url=http://www.balkaninsight.com/en/article/republika-srpska-eu-office-triggers-dispute |title=Republika Srpska EU Office Triggers Dispute |publisher=BalkanInsight.com |accessdate=29 August 2010}}&lt;/ref&gt; Former Croatian Prime Minister [[Ivo Sanader]] previously stated &quot;that certainly won't be nor can it be an embassy because the Republika Srpska government is not the government of a sovereign state nor can it be&quot;.&lt;ref&gt;{{Wayback|url=http://www.vlada.hr/en/naslovnica/novosti_i_najave/2007/listopad/predsjednik_vlade_s_visokim_predstavnikom_za_bosnu_i_hercegovinu_lajcakom|title=Prime Minister Sanader receives Lajcak|date=20071220034551}}&lt;/ref&gt;
+
+===Holidays===
+[[File:Saint Stephen 11cent.jpg|thumb|180px|[[Saint Stephen]] is the patron saint of the Republika Srpska.]]
+According to the Law on Holidays of Republika Srpska, passed by the National Assembly of Republika Srpska, the holidays are divided into three categories: the republic holidays, the religious ones, and the holidays not accompanied by leaves of absence. The republic holidays include Republic Day (9 January), New Year's Day, [[International Workers' Day]], [[Victory Day (May 9)|Victory over Fascism Day]] and Day of the [[Dayton Agreement|General Framework Agreement for Peace in Bosnia and Herzegovina]] (21 November). The religious holidays include Christmas and Easter according to both the [[Julian calendar|Julian]] and the [[Gregorian calendar]]s, for the [[Serbian Orthodox Church|Orthodox]] and the Catholic citizens respectively, and [[Eid al-Adha]] and [[Eid ul-Fitr]] for the Muslims. The holidays not accompanied by leaves of absence include School Day (the Feast of [[Saint Sava]], 27 January), Day of the [[Army of the Republika Srpska]] (12 May), Interior Ministry Day (4 April), and Day of the [[First Serbian Uprising]] (14 February).&lt;ref&gt;{{cite web
+  | title = Zakon o praznicima Republike Srpske
+  | work=Zakoni
+  | publisher=[[National Assembly of Republika Srpska]]
+  | language = Serbian
+  | date = 27 July 2005
+  | url = http://www.narodnaskupstinars.net/lat/zakoni/zakon.php?id_zakona=110
+  | accessdate =10 April 2009}}&lt;/ref&gt;
+
+The most important of the republic holidays is Republic Day, commemorating the establishment of Republika Srpska on 9 January 1992. It coincides with [[St. Stephen's Day]] according to the Julian calendar. The Orthodox Serbs also refer to the holiday as the [[Slava]] of Republika Srpska. They regard [[Saint Stephen|Saint Stephen The Protomartyr And Archdeacon]] as the [[patron saint]] of Republika Srpska. The holiday has therefore a religious dimension, being celebrated with special services in Orthodox churches.&lt;ref&gt;{{cite web
+  | title = President of the Republic organises a reception on the occasion of the Day of the Republic and Patron Saint’s Day of the Republic of Srpska
+  | work=Announcements
+  | publisher=Official presentation of the Republic of Srpska President
+  | date = 9 January 2009
+  | url = http://www.predsjednikrs.net/en_l/news.php?id=284
+  | accessdate =10 April 2009}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+  | title = Прослављена слава Републике Српске – Свети архиђакон Стефан
+  | publisher=The [[Serbian Orthodox Church]]
+  | language = Serbian
+  | date = 9 January 2008
+  | url = http://www.spc.rs/sr/proslavljena_slava_republike_srpske_sveti_arhidjakon_stefan
+  | accessdate =10 April 2009}}&lt;/ref&gt;
+
+==Culture==
+===Education===
+*[[University of Banja Luka]]
+*[[University of East Sarajevo]]
+*[[Gimnazija Banja Luka]]
+
+==Sport==
+[[File:Gradski stadion Banja Luka, Septembre 2012.jpg|thumb|[[Gradski stadion (Banja Luka)|Banja Luka City Stadium]] ]] 
+Sport in Republika Srpska revolves mostly around team sports. Among the most popular sports are [[Association football|football]], [[basketball]], [[volleyball]], [[Team handball|handball]] and [[tennis]]. The main football clubs in Republika Srpska are [[FK Borac Banja Luka]], [[FK Leotar]], [[FK Slavija]], [[FK Rudar Prijedor]] and the others. 
+[[FK Borac Banja Luka]] is the most popular and most successful football club in the country. 
+
+[[Banja Luka]] as a capital of Republika Srpska is well known as one of the most famous handball center in Balkan. [[RK Borac Banja Luka]] won the [[EHF Champions League|European Champions' Cup]] in 1976. and [[EHF Cup]] in 1991. [[RK Borac Banja Luka]] players have won 6 Gold [[Olympic Games|Olympic]] medals for former [[Yugoslavia]].
+
+==Gallery==
+&lt;gallery&gt;
+File:Palata Republike Srpske.jpg|Palace of Republika Srpska, seat of the President of Republika Srpska ([[Banja Luka]])
+File:Trg Kralju Petru Karadjordjevicu I.jpg|Monument of [[Petar I of Serbia]] in [[Bijeljina]]
+File:Church in Trebinje.jpg|[[Hercegovačka Gračanica]] ([[Trebinje]])
+File:Džamija Azizija Bosanska Kostajnica.jpg|[[Azizija džamija]] ([[Kostajnica, Bosnia and Herzegovina|Kostajnica]])
+File:Pale RS.jpg|View on [[Pale, Bosnia and Herzegovina|Pale]]
+File:Doboj fortress.JPG|[[Doboj Fortress]]
+File:Visegradski-most10.jpg|[[Mehmed Paša Sokolović Bridge]] in [[Višegrad]]
+File:Kozara National Park Mrakovica Memorial.jpg|Mrakovica memorial
+File:Bilecko Jezero.jpg|[[Bileća Lake]]
+File:Плива1.jpg|[[Pliva River]], one of the cleanest in Europe
+Europe.&lt;ref&gt;http://www.turizamrs.org/pocetna.php?page=579&amp;menu_id=27&amp;cid=44&amp;hd=1&lt;/ref&gt; ([[Šipovo]])
+File:Dolina heroja-Spomenik-Tjentiste2.JPG|World War II monument in memorial complex &quot;Valley of the heroes&quot;, at [[Tjentište]], [[Sutjeska National Park]].
+&lt;/gallery&gt;
+
+==Notes==
+{{Refbegin}}
+&lt;references group=note/&gt;
+{{Refend}}
+&lt;/div&gt;
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Commons category|Republika Srpska}}
+*[http://www.vladars.net/ Government of Republika Srpska]
+*[http://www.predsjednikrs.net/ President of Republika Srpska]
+*[http://www.narodnaskupstinars.net/ National Assembly of Republika Srpska]
+*[http://www.rzs.rs.ba/ RS Institute of Statistics]
+*[http://www.republikasrpska.net/ Republika Srpska ~ Moja Republika]
+
+{{Political Divisions of Bosnia and Herzegovina}}
+{{Bosnian War}}
+
+{{lang|sr|}}
+
+[[Category:Republika Srpska| ]]
+[[Category:Entities of Bosnia and Herzegovina]]
+[[Category:States and territories established in 1992]]
+[[Category:Former unrecognized countries]]
+[[Category:Secession in Bosnia and Herzegovina]]
+
+[[ar:جمهورية صرب البوسنة]]
+[[ast:República Serbia]]
+[[be:Рэспубліка Сербская]]
+[[be-x-old:Рэспубліка Сэрбская]]
+[[bg:Република Сръбска]]
+[[bs:Republika Srpska]]
+[[ca:República Sèrbia]]
+[[cs:Republika srbská]]
+[[da:Republika Srpska]]
+[[de:Republika Srpska]]
+[[dsb:Republika Srpska]]
+[[et:Serblaste Vabariik]]
+[[el:Σερβική Δημοκρατία]]
+[[es:República Srpska]]
+[[eo:Serba Respubliko]]
+[[eu:Bosniako Serbiar Errepublika]]
+[[fa:جمهوری صرب بوسنی]]
+[[fr:République serbe de Bosnie]]
+[[gl:República Serbia - Republika Srpska]]
+[[ko:스릅스카 공화국]]
+[[hsb:Republika Srpska]]
+[[hr:Republika Srpska]]
+[[id:Republik Srpska]]
+[[ia:Republika Srpska]]
+[[ie:Republika Srpska]]
+[[os:Сербийы Республикæ (Босни æмæ Герцоговинæ)]]
+[[it:Repubblica Serba di Bosnia ed Erzegovina]]
+[[he:רפובליקה סרפסקה]]
+[[jv:Republika Srpska]]
+[[ka:ბოსნიელთა რესპუბლიკა (ბოსნია და ჰერცეგოვინა)]]
+[[la:Res publica Serbica]]
+[[lv:Serbu Republika]]
+[[lt:Serbų respublika]]
+[[hu:Boszniai Szerb Köztársaság]]
+[[mk:Република Српска]]
+[[mr:स्राप्स्काचे प्रजासत्ताक]]
+[[ms:Republika Srpska]]
+[[nl:Servische Republiek]]
+[[ja:スルプスカ共和国]]
+[[no:Republika Srpska]]
+[[oc:Republica Sèrba de Bòsnia]]
+[[pms:Repùblica Srpska]]
+[[pl:Republika Serbska]]
+[[pt:República Sérvia]]
+[[ro:Republika Srpska]]
+[[ru:Республика Сербская]]
+[[sco:Republika Srpska]]
+[[simple:Republika Srpska]]
+[[sk:Republika srbská]]
+[[sl:Republika srbska]]
+[[szl:Syrbsko Republika]]
+[[sr:Република Српска]]
+[[sh:Republika Srpska]]
+[[fi:Serbitasavalta]]
+[[sv:Republika Srpska]]
+[[ta:சிறுப்ஸ்கா குடியரசு]]
+[[tr:Sırp Cumhuriyeti]]
+[[uk:Республіка Сербська]]
+[[ur:سرپسکا]]
+[[vi:Cộng hòa Srpska]]
+[[yo:Sérbíà Orílẹ̀-èdè Olómìnira]]
+[[zh:塞族共和國]]</text>
+      <sha1>fk5prvl8jquf3d7n92mb0uv69x4kenz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

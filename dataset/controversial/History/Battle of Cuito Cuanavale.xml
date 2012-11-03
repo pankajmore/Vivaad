@@ -1,0 +1,347 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Battle of Cuito Cuanavale</title>
+    <ns>0</ns>
+    <id>3205662</id>
+    <revision>
+      <id>517692245</id>
+      <parentid>517662248</parentid>
+      <timestamp>2012-10-14T06:32:37Z</timestamp>
+      <contributor>
+        <username>NJR ZA</username>
+        <id>2078755</id>
+      </contributor>
+      <comment>refs</comment>
+      <text xml:space="preserve" bytes="51953">{{Infobox military conflict
+| conflict = Battle of Cuito Cuanavale
+| image =
+| caption =
+| partof = [[Angolan Civil War]] and [[South African Border War]]
+| date = December 1987 – March 1988&lt;ref&gt;[[#Martin|Martin &amp; Broadhead (2004)]], p. 14.&lt;/ref&gt;
+| place = {{Coord|15|09|50|S|19|10|23|E|display=inline,title|scale:50000_region:NA_type:event}}&lt;br&gt;[[Cuito Cuanavale]], [[Angola]]
+| result = Stalemate&lt;ref&gt;{{cite book|title=The Opening of the Apartheid Mind|year=1993|publisher=UNIVERSITY OF CALIFORNIA PRESS|url=http://publishing.cdlib.org/ucpressebooks/view?docId=ft958009mm;brand=ucpress|coauthors=Heribert Adam and Kogila Moodley|accessdate=14 October 2012|chapter=II - From Confrontation to Negotiation}}&lt;/ref&gt; &lt;ref&gt;{{cite news|title=The Battle At Cuito Cuanavale|url=http://www.namibian.com.na/index.php?id=28&amp;tx_ttnews%5Btt_news%5D=56996&amp;no_cache=1|accessdate=14 October 2012|newspaper=The Namibian|date=3 July 2009}}&lt;/ref&gt; &lt;ref&gt;{{cite book|last=George|first=Edward|title=The Cuban Intervention in Angola, 1965-1991: From Che Guevara to Cuito Cuanavale|isbn=978-0415350150}}&lt;/ref&gt; 
+| combatant1 = {{flagicon|Angola}} [[Angola]] ([[FAPLA]])&lt;br&gt;{{flag|Cuba}} ([[Military of Cuba|FAR]])&lt;br&gt;{{flagicon image|Flag of South-West Africa People's Organisation.svg}} [[SWAPO]] ([[People's Liberation Army of Namibia|PLAN]])&lt;br&gt;{{flagicon image|African National Congress Flag.svg}} [[ANC]] ([[Umkhonto we Sizwe|MK]])&lt;ref&gt;{{cite web | url = http://www.mg.co.za/article/2008-03-25-cuito-cuanavale-fallen-mk-soldiers-to-be-remembered | title = Cuito Cuanavale: Fallen MK soldiers to be remembered | publisher = Mail and Guardian | location = South Africa}}&lt;/ref&gt; 
+| combatant2 = {{flag|South Africa|1928}} ([[SADF]])&lt;br&gt;{{flagicon image|Flag of Unita.jpg}}[[UNITA]] ([[FALA]])
+| commander1 = {{flagicon|Cuba}} Gen. Leopoldo &quot;Polo&quot; Cintras Frías
+| commander2 = {{flagicon|South Africa|1928}} Col. [[Deon Ferreira]]
+| strength1 = 11,500 combined estimate (1,500 Cuba;&lt;ref name=&quot;Gleijeses_2007&quot;/&gt;{{Page needed|date=September 2012}}&lt;ref&gt;On the other hand, Gen. Geldenhuys of the SADF estimated, as quoted in ''The New York Times'', 20 April 1988, that in the period prior to 25 February, Cuban forces numbered about 1000.&lt;/ref&gt; 10,000 FAPLA)
+| strength2 = 11,000–12,000 combined estimate (3,000–4,000 SADF;&lt;ref&gt;[[#Jaster|Jaster (1990)]], p. 17. &quot;The South Africans assembled [at Mavinga] a considerable force: …totalling some 3000 men, plus another 1500–2000 Namibian troops from the South West African Territorial Force (SWATF)&quot;&lt;/ref&gt; 8,000 UNITA&lt;ref&gt;[[#Jaster|Jaster (1990)]], p. 19. &quot;Fighting continued on a large scale, with an estimated 4000 SADF and SWATF troops, 8000 UNITA and 10000 FAPLA forces...&quot;&lt;/ref&gt;)
+| casualties1 = - 4,785 Cuban/Faplan killed&lt;ref&gt;Estimates vary. Renée-Jacques Lique, editor of ''Afrique Express'' (Montreuil, France) says &quot;D'un côté 7 000 soldats de l'armée d'Afrique du Sud et 10 000 combattants de l'UNITA, le mouvement rebelle angolais de Jonas Savimbi.
+De l'autre, 20 000 soldats gouvernementaux angolais des FAPLA (Forces armées populaires de libération de l'Angola) et 5 000 soldats d'élites cubains.
+…La bataille de Cuito Cuanavale dure huit jours : du 12 au 20 janvier. Les FAPLA et les Cubains en sortent vainqueurs au prix de 4 600 morts. Les troupes sud-africaines sont stoppées, mais plus important encore, dans le même temps, Cubains et Angolais ont avancé sur la Namibie. On the one side, 7000 soldiers of the South African Army and 10,000 combatants of UNITA, the Angolan rebel movement of Jonas Savimbi. On the other, 20,000 Angolan Government soldiers of FAPLA and 5000 elite Cuban soldiers... The battle of Cuito Cuanavale lasted eight days: from 12–20 January. The FAPLA and the Cubans were victorious at the cost of 4,600 dead. The South African troops were stopped but, even more importantly, at the same time Cubans and Angolans had advanced on Namibia.&quot; http://www.afrique-express.com/archive/AUSTRALE/angola/angolahome.htm On the other hand, Karl Maier, journalist for ''The Washington Post'' and ''The Economist'', on a visit to the front on 28 February 1988, repeated an estimate of 10,000 combined FAPLA/Cuban forces defending the town: [[#Maier|Maier (1996)]], p. 29.&lt;/ref&gt;
+| casualties2 = - 31 SADF&lt;small&gt;(Official)&lt;/small&gt; &lt;br /&gt;- 3,000 UNITA&lt;ref&gt;[[#Marcum|Marcum (1990)]], p. 135. &quot;UNITA and the SADF pursued retreating MPLA forces to the advanced air base and provincial capital of Cuito Cuanavale. There they laid siege to what became known as the Stalingrad of Angola, from December 1987 to March 1988. Caught in a conventional action for which it was ill-prepared, UNITA suffered some 3000 battle dead from among the ranks of its best units.&quot;&lt;/ref&gt;
+| campaignbox = {{Campaignbox Cuito Cuanavale}}
+}}
+
+The '''Battle of Cuito Cuanavale''' in 1987/88 was an important episode in the [[Angolan Civil War]] (1975 to 2002). Between 9 September and 7 October 1987, the Angolan Army ([[FAPLA]]), in an attempt to finally subdue the Angolan insurgent movement [[UNITA]] in south-eastern Angola, was decisively repelled in a series of battles at the Lomba River by the [[South Africa]]n Army ([[SADF]]), which had once more intervened on UNITA’s behalf. With FAPLA retreating to their starting point at [[Cuito Cuanavale]], the SADF and UNITA went on the offensive and started the [[siege]] by shelling Cuito with long-range artillery on 14 October. A major battle ensued and Angola, fearing a defeat, requested help from [[Cuba]]. With Cuban reinforcements, Cuito was held and the South African advance ended after six unsuccessful attempts to overcome the FAPLA-Cuban defences between 13 January and 23 March 1988. The SADF withdrew but continued to shell Cuito from a distance.
+
+==Background==
+
+===Independence from Portugal===
+{{Main|Angolan War of Independence}}
+For 13 years until 1974, three armed groups fought for [[Portuguese Angola|Angola]]'s independence from Portugal: the leftist [[Popular Movement for the Liberation of Angola|MPLA]] (with its armed wing [[FAPLA]]), led by [[Agostinho Neto]]; the conservative [[FNLA]], led by [[Holden Roberto]] and supported by [[Mobutu Sese Seko]] of [[Zaïre]]; and [[UNITA]], led by [[Jonas Savimbi]] (a former [[Maoist]] who broke away from the FNLA, later sponsored by the [[CIA]] and South Africa).
+
+After the [[Carnation Revolution]] of April 1974 in Portugal, the [[Movimento das Forças Armadas|new revolutionary government of Portugal]] let go of Portugal's African overseas possessions, including Angola. The [[Alvor Agreement|Treaty of Alvor]] comprised a series of agreements between the three rebel factions and Portugal that were to pave the way to independence. Under its terms, a transitional government was formed, elections were scheduled for the end of the year, and 11 November 1975 was slated as Angola's independence day.
+
+Fighting between the three rebel factions started soon after the transitional government took office on 31 January 1975, with each movement gaining control of their traditional areas of influence by mid-1975: The MPLA in the capital and central Angola, the FNLA in the north and UNITA in the south.&lt;ref&gt;[[#Jaster|Jaster (1990)]], pp. 8–11.&lt;/ref&gt;
+
+===South Africa and Southwest Africa (Namibia)===
+Since the termination of the UN-mandate in 1966, South Africa had been illegally occupying [[Southwest Africa]] ([[Namibia]]), a territory adjoining Angola to the south, and extending apartheid rule. 1966 saw the beginning of the armed resistance by the Southwest African liberation movement [[SWAPO]] and South African counter insurgency. After Angola’s independence in 1975, SWAPO gained the support of the Angolan government and operated against the South African forces from bases in Southern Angola. Thus, in the Angolan civil war, UNITA had become a welcome and valuable ally to South Africa in its fight against SWAPO.
+
+On 9 August the South African Army (SADF) secured the [[Ruacana]] hydro-electric complex on the border with Namibia after engineers were prevented from moving freely by an unruly and ill-disciplined UNITA force; on 14 October South Africa launched Operation Savanah in support of UNITA and FNLA advancing on Luanda and coming within 200&amp;nbsp;km of the city. The FNLA, supported by Zairian units, South Africans and Portuguese mercenaries advanced on Luanda from the east and got as far as Kifangondo. On 7 November Cuba launched Operation Carlota, intervening in favour of the MPLA (see [[Cuba in Angola]]) with up to 30.000 troops. This enabled the MPLA to hold Luanda and on 11 November [[Agostinho Neto]] proclaimed the independence of Angola.
+
+===Cold War===
+{{Main|Cold War|Angolan Civil War|Cuba in Angola}}
+The Angolan Civil War played out against the backdrop of the [[Cold War]] struggle between the [[Soviet Union]] and the [[United States]]. Both [[superpower]]s tried to influence the outcome of the civil war through [[proxy war|proxies]].
+
+The African liberation movements, which also opposed apartheid in South Africa, found mainly support in socialist countries. Angola and SWAPO were basically supported by Cuba and the Soviet Union and some countries of the Eastern bloc while the West, foremost the [[United States]] supported South Africa, albeit clandestinely, and their ally, UNITA.
+
+After the Cubans had helped the MPLA gain power in 1975 they found it necessary to stay in the country until conditions stabilized.
+The Soviet Union and other [[Eastern bloc|Eastern Bloc]] countries supplied the Angolan army (FAPLA) with armament, advisors and specialized technical staff.
+UNITA managed to rebound and, with South African and US support, posed a threat to the Angolan government. UNITA also received backing from the US allies, most notably in the form of [[FIM-92 Stinger|Stinger missiles]] that helped repel the air superiority of the FAPLA forces.&lt;ref name=&quot;Turton&quot;&gt;[[#Turton|Turton (2010)]]&lt;/ref&gt;{{Page needed|date=September 2012}} While the U.S. helped with money and weaponry, South Africa sent around 5000 troops in aid.
+South Africa's interests lay in preventing the Angolan government from gaining control of south-eastern Angola and in UNITA keeping hold of the territory as a buffer zone. Angola bordered on South African occupied [[Namibia]] (at the time called [[South West Africa]]). UNITA and South African control of southern Angola would make it difficult for [[SWAPO]] to fight for Namibian independence from bases in Angola.
+
+The South African government's strategic concern was to ensure continued UNITA control over regions bordering Namibia, so as to prevent the SWAPO guerrillas from receiving Angolan support and gaining a springboard in southern Angola from which to launch attacks into Southwest Africa. Its security strategy was shaped by the doctrines of pre-emptive interventionism and counter-revolutionary warfare.
+After South Africa had been unable to prevent the leftist MPLA, which it viewed as a Soviet surrogate, from taking power in Angola in 1975, it regarded the country as a threat to its security. This view was only confirmed by the deployment of Cuban troops in Angola. Therefore the apartheid regime's goal was to overthrow and replace the MPLA-government in Luanda with a ‘friendly’ and anti-Communist one. It actively supported the &quot;de facto&quot; secession of Southern Angola and, in 1979, decided to install the UNITA as its &quot;de facto&quot; government. After South African operation &quot;Protea&quot; in August 1981, in which it occupied 50.000&amp;nbsp;km² of Cunene province, UNITA took effective administrative control of most of Cunene in January 1982.&lt;ref name=&quot;South Africa Report p. 42-61&quot;&gt;[[#TRC|Truth and Reconciliation Commission (1988)]], Chapter 2, pp. 42–61.&lt;/ref&gt;
+
+{{Location map+|Angola|width=300|caption=Angola|places=
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=15|lat_min=09|lon_deg=19|lon_min=10|label=[[Cuito Cuanavale|Cuito&amp;nbsp;Cuanavale]]|position=right|marksize=11}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=17|lat_min=30|lon_deg=22|lon_min=40|label=[[Jamba, Cuando Cubango|Jamba]]|position=bottom}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=12|lat_min=33|lon_deg=13|lon_min=25|label=[[Benguela]]}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=17|lat_min=16|lat_sec=10|lon_deg=14|lon_min=32|lon_sec=52|label=[[Calueque]]}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=8|lat_min=50|lat_sec=10|lon_deg=13|lon_min=14|lon_sec=52|label=Luanda}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=16|lat_min=00|lat_sec=10|lon_deg=20|lon_min=00|lon_sec=52|label=[[Mavinga, Cuando Cubango|Mavinga]]|position=bottom}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=14|lat_min=39|lat_sec=27|lon_deg=17|lon_min=43|lon_sec=10|label=[[Menongue]]|position=left}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=16|lat_min=45|lat_sec=14|lon_deg=14|lon_min=57|lon_sec=56|label=[[Xangongo]]|position=right}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=16|lat_min=14|lat_sec=19|lon_deg=14|lon_min=19|lon_sec=37|label=[[Cahama]]|position=left}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=17|lat_min=54|lat_sec=38|lon_deg=19|lon_min=45|lon_sec=40|label=[[Rundu]]|position=left}}
+ {{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=17|lat_min=23|lat_sec=11|lon_deg=14|lon_min=12|lon_sec=48|label=[[Ruacana]]|position=left}}
+{{Location map~|Angola|lon_dir=E|lat_dir=S|lat_deg=16|lat_min=53|lat_sec=56|lon_deg=14|lon_min=19|lon_sec=13|label=Tchipa|position=left}}
+}}
+
+==''Operação Saludando Octubre'' (&quot;Operation Greeting October&quot;)==
+
+Because of UNITA’s continued insurgency, the central government never managed to gain control of the whole country; UNITA continued control much of south-eastern Angola. Whenever it was threatened, South Africa intervened on its behalf. South Africa itself continuously kept the whole southern border in Angola and, at times, up to 50.000&amp;nbsp;km² of Cunene province occupied and repeatedly undertook invasions and raids into the country.&lt;ref name=&quot;South Africa Report p. 42-61&quot;/&gt;
+
+In 1987, as part of the Angolan government's repeated campaigns against UNITA and for the control of south-eastern Angola, the Angolan army launched campaign ''Operação Saludando Octubre'' to drive UNITA forces from their stronghold cities of [[Mavinga, Cuando Cubango|Mavinga]], a former Portuguese military base and [[Jamba, Cuando Cubango|Jamba]] in the southeast of the country just above the [[Caprivi Strip]].&lt;ref&gt;[[#Walker|Walker (2004)]], p. 177.&lt;/ref&gt; As in previous campaigns, planning and leadership was taken over by the Soviets and the higher ranks in the units were taken over by Soviet officers. Major-General Ryabchenko would command the Angolan forces in the battle.&lt;ref&gt;[http://www.sa-soldier.com/data/06_sadflinks/UsedPDFs/SADF_OPs_analysis.pdf Table of Contents&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;{{Verify credibility|date=September 2012}} Soviet command did not include the Cuban forces in Angola&lt;ref&gt;[[#George|George (2005)]], p. 183.&lt;/ref&gt; and the Cubans initially did not actively engage in combat, but only took over support functions. FAPLA's equipment was upgraded including 150 [[T-55]] and [[T-55B]] tanks and [[Mi-24]] helicopters. The Soviets dismissed the advice of the Cubans, as in the campaigns before, who warned that the operation would create another opportunity for a South African intervention. It was decided to commence the attack from [[Cuito Cuanavale]].
+
+Taking notice of the massive military build-up, South Africa warned UNITA. The Angolan campaign was initially successful and made considerable gains into south-eastern Angola. The South African government became aware that UNITA would not be able to withhold the onslaught. On 15 June it decided to intervene and authorised covert support.&lt;ref&gt;[[#George|George (2005)]], p. 201.&lt;/ref&gt; On 4 August 1987 the SADF launched [[Operation Modular|Operation Moduler]] which was to stop the Angolan advance on Mavinga to prevent a rout of UNITA. The SADF 61 Mechanized Battalion crossed into Angola from their base at the border town of [[Rundu]].
+
+==Battle of the Lomba River==
+
+In August the FAPLA 21st, 25th (both light infantry), 47th (armoured) and the 59th (mechanized) brigades (some sources{{Who|date=May 2008}} also include the 16th brigade) of FAPLA, departed from the Cuito Cuanavale. They received air support from the airbase at [[Menongue]], including [[Mikoyan-Gurevich MiG-23|MiG 23]]s deployed in a ground-attack role.&lt;ref&gt;[[#Vanneman|Vanneman (1990)]], p. 76.&lt;/ref&gt;
+Facing them were the UNITA forces composed of the 3rd Regular, 5th Regular, 13th Semi-Regular and 275th Special Forces Battalions&lt;ref&gt;http://www.fireandfury.com/orbats/modunita.pdf&lt;/ref&gt; On 28 August they reached the northern banks of the Lomba River near Mavinga, where they were expected by the SADF.
+
+In a series of bitter fights ('''Battle of the Lomba River II'''&lt;ref&gt;[[#Martin|Martin &amp; Broadhead (2004)]], p. 16.&lt;/ref&gt;) between 9 September and 7 October, SADF and UNITA prevented the FAPLA, which suffered heavy losses, from crossing the river. The Soviets withdrew their advisors and left the FAPLA without senior leadership.
+On 29 September, South African and UNITA forces, having gained the upper-hand, launched an offensive ([[Operation Hooper]]). On 3 October they attacked and annihilated a FAPLA-battalion on the southern banks of the Lomba River near Mavinga and two days later the Angolan army headed into a retreat over 190&amp;nbsp;km back to Cuito Cuanavale, which it desperately held on to.&lt;ref&gt;[[#George|George (2005)]], pp. 206–208.&lt;/ref&gt;&lt;ref&gt;[[#Crocker|Crocker (1992)]]: &quot;In some of the bloodiest battles of the entire civil war, a combined force of some 8000 UNITA fighters and 4000 SADF troops not only destroyed one FAPLA brigade but badly danaged several others out of a total FAPLA force of some 18 000 engaged in the three-pronged offensive. Estimates of FAPLA losses ranged upward of 4000 killed and wounded….Large quantities of Soviet equipment were destroyed or fell into UNITA and SADF hands when FAPLA broke into a disorganized retreat... The 1987 military campaign represented a stunning humiliation for the Soviet Union, its arms and its strategy. ... As of mid-November, the UNITA/SADF force had destroyed the Cuito Cuanavale airfield and pinned down thousands of FAPLA's best remaining units clinging onto the town's defensive perimeters.&quot; Crocker was U.S. Assistant Secretary of State for African Affairs during the Reagan Administration.&lt;/ref&gt;
+If Cuito Cuanavale was lost by FAPLA, the next closest comparable outpost would be [[Menongue]], 300&amp;nbsp;km from Mavinga and 500&amp;nbsp;km from UNITA's headquarters at [[Jamba, Cuando Cubango|Jamba]].&lt;ref&gt;[[#Radu|Radu &amp; Arnold (1990)]], p. 149.&lt;/ref&gt; In pursuit of the retreating FAPLA units the SADF and UNITA started the siege of Cuito Cuanavale on 14 October with long-range shelling by 155&amp;nbsp;mm [[G5 howitzer|artillery]] from a distance of 30 to 40&amp;nbsp;km.
+
+==Cuito Cuanavale==
+By November, the SADF had cornered the remnants of three FAPLA units on the east of the Cuito River, across from the town itself and was poised to destroy them.&lt;ref name=&quot;Gleijeses_2007&quot;/&gt;
+The quite demoralised 59th FAPLA motorised infantry brigade, 21st and 25th FAPLA light infantry brigades, in positions near Tumpo and east of the Cuito River, were effectively cut off due to SADF artillery control of both the bridge and airstrip and to UNITA guerrilla control of the road from Menongue, which they had mined and were prepared to ambush.&lt;ref name=&quot;Niddrie_2&quot;&gt;[[#Niddrie|Niddrie (1988)]], p. 2.&lt;/ref&gt;&lt;ref name=&quot;Vanneman 1990 p. 79&quot;&gt;[[#Vanneman|Vanneman (1990)]], p. 79.&lt;/ref&gt; With no functioning armour or artillery remaining, the FAPLA-units faced annihilation.&lt;ref&gt;[[#Bole-Richard|Bole-Richard (1988)]], ''Le Monde''&lt;nowiki&gt;'&lt;/nowiki&gt;s Johannesburg correspondent reported that these units had been without resupply for three weeks. See also [[#Benemelis|Benemelis (1988)]], cap. 18.&lt;/ref&gt;
+On 15 November, the Angolan government requested urgent military assistance from Cuba.
+Although not responsible for the dismal situation of the FAPLA Cuba felt impelled to intervene in order to prevent a total disaster for the Angolans. In Castro's view, a South African victory would have meant not only the capture of Cuito and the destruction of the best Angolan military formations, but, quite probably, the end of Angola's existence as an independent country. Thus, [[Fidel Castro]] responded immediately by sending — in what was called &quot;''Maniobra XXXI Aniversario de las FAR''&quot; — [[materiel]] and 15 000 elite troops, retaking the initiative from the Soviets.&lt;ref name=&quot;Vanneman 1990 p. 79&quot;/&gt;
+The first Cuban reinforcements in Cuito arrived by helicopter on 5 December with about 160&lt;ref&gt;[[#Bole-Richard|Bole-Richard (1988)]]&lt;/ref&gt;–200&lt;ref&gt;[[#RicardoLuis|Ricardo Luis (1989)]], p. 6.&lt;/ref&gt; technicians, advisers, officers, and special forces.&lt;ref name=autogenerated12&gt;Barber, Simon in: Castro explains, why Angola lost battle against the SADF, July 27, 1989&lt;/ref&gt;
+
+General [[Arnaldo Ochoa]], a veteran of the 1976 Angola campaign and of tank battles in Ethiopia, was made overall commander of the forces on the government side. Ochoa and Castro were to have serious disagreements in the conduct of the war in Angola. These tensions were to have repercussions both during the war where Castro's interference with defense plans may have cost the Cubans dozens of lives&lt;ref&gt;[[#George|George (2005)]], p. 218.&lt;/ref&gt; and in the aftermath of Angolan hostilities a year later when Ochoa was arrested, tried and executed by firing squad after being found guilty of treason.&lt;ref&gt;[[#George|George (2005)]], p. 215.&lt;/ref&gt; General Cintras Frias was made commander at Cuito Cuanavale.
+The Cuban's initial priority was securing Cuito Cuanavale, but while reinforcements were arriving at the besieged garrison they made preparations for a second front to the west of Cuito Cuanavale in [[Lubango]] where the SADF had been operating unhindered for 8 years.&lt;ref name=&quot;doj.gov.za&quot;&gt;[[#TRC|Truth and Reconciliation Commission (1988)]], p. 59.&lt;/ref&gt;&lt;ref&gt;[[#George|George (2005)]], pp. 210–212.&lt;/ref&gt;
+
+On 25 November the UN Security Council demanded the SADF's unconditional withdrawal from Angola by 10 December, yet, without threatening any sanctions.&lt;ref&gt;Gleijeses, Piero: ''Conflicting Missions: Havana, Washington, and Africa, 1959-1976'' (The University of North Carolina Press) quoting: Secretary of State to American Embassy, Pretoria, December 5, 1987, Freedom of Information Act&lt;/ref&gt;{{Page needed|date=September 2012}} Through December the situation for the besieged Angolans became critical as the SADF tightened the noose around Cuito Cuanavale. Observers expected it to fall into South African hands any time soon and UNITA prematurely announced the town had been taken.&lt;ref&gt;Cuito Cuanavale – &quot;Afrikas Stalingrad&quot;, Ein Sieg über Pretorias Apartheid&quot; in: Neues Deutschland, April 19/20. 2008&lt;/ref&gt;
+
+As of 21 December the SADF planned the final assault &quot;pick off&quot; the FAPLA units which were still caught to the east of the Cuito river &quot;before moving in to occupy the town if the conditions were favourable&quot;.&lt;ref&gt;[[#George|George (2005)]], p. 214.&lt;/ref&gt;
+On 9 January the SADF destroyed the important bridge across the Cuito river using a [[smart bomb]].&lt;ref name=&quot;Meier&quot;&gt;[[#Maier|Maier (1996)]], p. 31. &quot;some observers estimate that 500,000 people have died in the fighting and the famine and disease it has provoked.&quot;&lt;/ref&gt;&lt;ref&gt;[[#Niddrie|Niddrie (1988)]]&lt;/ref&gt; The Cubans managed to construct a wooden footbridge in its place which they baptised ''Patria o Muerte'' (fatherland or death).&lt;ref&gt;[[#RicardoLuis|Ricardo Luis (1989)]]&lt;/ref&gt;) They partly buried disabled tanks so that their turrets could be used as fixed artillery pieces.&lt;ref&gt;[[#Holt|Holt (2005)]], p. 84.&lt;/ref&gt;
+
+The SADF brought up reinforcements&lt;ref&gt;[[#Nortje|Nortje (2003)]] says that the &quot;lull&quot; in fighting from 26 November 1987 to 10 December 1987 was &quot;politically motivated&quot;. But {{cite web | last = French | first = Damian | title = SADF 1SAI Ratels in Op Hooper (1987–1988)| work = | date = | url =http://uk.geocities.com/sadf_history1/dfrench.html | doi = | accessdate = 2008-01-04|archiveurl=http://web.archive.org/web/20080508144048/http://uk.geocities.com/sadf_history1/dfrench.html|archivedate=2008-05-08}} says that his units of the 1st South Africa Infantry arrived, after training, at the front only in Dec. 1988.&lt;/ref&gt; and then carried out, beginning 13 January until 23 March,{{citation needed|date=November 2011}} the first of what would prove to be six major ground assaults on the entrenched FAPLA positions east of the river, none of which delivered tangible results.&lt;ref&gt;[[#George|George (2005)]]&lt;/ref&gt; A large Cuban and FAPLA column was on the way from Menongue for the relief of Cuito Cuanavale, but progress in the rainy season was slow due to the need to clear the UNITA minefields and guard against possible ambushes. They did not reach Cuito Cuanavale in time to take part in the first engagement.&lt;ref name=&quot;Niddrie_2&quot;/&gt;
+
+Although the first attack on 13 January 1988 was successful, spelling near disaster for a FAPLA brigade, the SADF unable to continue withdrew to its starting positions. A month later, on 14 February, the SADF withdrew from a second assault after successfully driving FAPLA-Cuban units off the Chambinga high ground. Close to a catastrophe, the FAPLA units east of the Cuito River withdrew to the Tumpo (river) triangle, a smaller area, ideally suited to defence. In a third assault on 19 February the SADF suffered a first major setback when it was repelled by FAPLA battalion north of the Dala river; unable to reach FAPLA's forward positions the SADF had to withdraw. In the following days the Cubans stepped up their air attacks against South African positions. On 25 February the FAPLA-Cubans repelled a fourth assault and the SADF had to return to its positions east of the Tumpo River. The failure of this attack &quot;proved a turning point of the battle of Cuito Cuanavale, boosting FAPLA's flagging morale and bringing the South African advance to a standstill.&quot; &lt;ref&gt;[[#George|George (2005)]], p. 227.&lt;/ref&gt; A fifth SADF-attack was beaten back on 29 February delivering a third consecutive defeat. After some more preparation the South Africans launched their last and fourth unsuccessful attack on 23 March. As SADF-Colonel Jan Breytenbach wrote, the South African assault &quot;was brought to a grinding and definite halt&quot; by the combined Cuban and Angolan forces.&lt;ref name=&quot;Gleijeses_2007&quot;/&gt;&lt;ref name=&quot;doj.gov.za&quot;/&gt;&lt;ref name=&quot;Stührenberg 1988, p. 11&quot;&gt;Stührenberg, Michael in: Die Zeit 17/1988, Die Schlacht am Ende der Welt, p. 11&lt;/ref&gt;
+
+Eventually Cuban troop strength in Angola increased to about 55,000, with 40,000 deployed in the south. Due to the [[United Nations Security Council Resolution 418|international arms embargo]] since 1977, South Africa’s aging air force was outclassed by sophisticated Soviet-supplied air defence systems and air-strike capabilities fielded by the Cubans and Angolans and it was unable to uphold the air supremacy it had enjoyed for years; its loss in turn proved to be critical to the outcome of the battle on the ground.&lt;ref&gt;[[#Cock|Cock &amp; Nathan (1989)]], p. 23.&lt;/ref&gt; The Cuito airstrip was kept in repair, but since it was under constant observation by the SADF artillery and air force it could not be safely used by fixed wing aircraft.&lt;ref name=&quot;Meier&quot; /&gt;
+
+[[File:G-5Rear.jpg|thumb|right|Rear view of a G-5 howitzer]]
+
+After the failed assault on 23 March 1988 under orders from Pretoria the SADF withdrew the bulk of their forces, initially leaving a 1,500-man &quot;holding force&quot; behind (Combat Group 20) to continue deception operations and lay mines in order to prevent or slow any FAPLA offensive operations. For months it continued to shell Cuito Cuanavale and the airstrip using their long-range [[G5 howitzer|G-5 artillery]] from a distance of 30 to 40&amp;nbsp;km.&lt;ref name=&quot;doj.gov.za&quot;/&gt;&lt;ref name=&quot;Stührenberg 1988, p. 11&quot;/&gt;
+&lt;ref name=&quot;George_234&quot;&gt;[[#George|George (2005)]], p. 234.&lt;/ref&gt;&lt;ref&gt;Mail &amp; Guardian Online: http://www.mg.co.za/article/2007-07-11-cuito-cuanavale-revisited&lt;/ref&gt;&lt;ref name=&quot;Trainor&quot;&gt;[[#Trainor|Trainor (1988)]]&lt;/ref&gt;&lt;ref&gt;[[#Pazzanita|Pazzanita (1991)]], p. 105. &quot;The SADF and UNITA had relaxed the siege of the town by May, 1988, although at least several hundred South Africans remained on the outskirts.&quot;&lt;/ref&gt; While the Cubans had purported to be moving south into Namibia according to comments from Castro they instead moved to cut off elements of the SADF. The SADF had left much of its powerful G-5 artillery units in place due to the difficulty in transporting during the rainy season. For whatever reasons—possibly not wanting to upset strategic negotiations, willingness to risk casualties or similar difficulties with mechanized forces—the Cubans did not attempt to take the SADF positions and settled for surrounding the small force.&lt;ref&gt;{{cite news|newspaper=Le Monde (Paris)|date=1988-06-10|pages=3|language=fr|title=Les conflits en Afrique australe La progression des troupes cubaines dans le Sud-angolais inquiète Pretoria|last=Bole-Richard|first=Michel}}.&lt;/ref&gt;&lt;ref&gt;[[#McFaul|McFaul (1990)]], p. 126. &quot;...Castro boldly responded that Pretoria was &quot;no longer in a position to request anything south of Angola. Instead of attacking inside Namibia, however, the Cuban forces moved east along the border to cut off the South Africans still camped near Cuito Cuanavale. By August 1988, the strategy had worked, leaving some 400-500 South African soldiers completely surrounded for several months&quot;.&lt;/ref&gt;
+
+With that manoeuvre, Fidel Castro increased the cost to South Africa of continuing to fight in Angola and placed Cuba in its most aggressive combat position of the war, thus fortifying his argument that Cubans were preparing to leave Angola with their opponents on the defensive.&lt;ref&gt;[[#Treaster|Treaster (1988)]]&lt;/ref&gt;
+
+==Weapons==
+The SADF used a mix of British, French, Israeli, captured Soviet and indigenously developed weaponry. Their allies, UNITA used a mix of Soviet and South African supplied weaponry. The United States covertly supplied UNITA guerillas with [[FIM-92 Stinger|Stingers]] for anti-aircraft defense.&lt;ref name=&quot;PRJ&quot;&gt;Payne, Richard J., [http://books.google.com/books?id=HHk5Gg15UKkC&amp;pg=PA182&amp;lpg=PA182&amp;dq=UNITA+angola+stinger+anti+aircraft&amp;source=bl&amp;ots=ps6l85qmEq&amp;sig=GdyLkJH_TsFF_NLk9badk3KdfEg&amp;hl=en#v=onepage&amp;q=UNITA%20angola%20stinger%20anti%20aircraft&amp;f=false Opportunities and dangers of Soviet-Cuban expansion: Toward a Pragmatic U.S. Policy], State University of New York Press, (Albany 1988), p. 182&lt;/ref&gt; The South Africans were hampered by [[United Nations Security Council Resolution 418]], an international arms embargo that prevented them from acquiring materiel such as modern aircraft.&lt;ref&gt;{{cite book|first=Neta|last=Crawford|first2=Audie|last2=Klotz|url=http://books.google.com/books?id=5GbW6wGjG0YC&amp;pg=PA63|pages=63–66|title=How Sanctions Work: Lessons from South Africa|publisher=Macmillan Press|year=1999|isbn=}}&lt;/ref&gt; The Cubans and FAPLA were armed with Soviet weaponry.
+{| class=&quot;wikitable&quot;
+|-
+!width=10% | Type
+!width=40% | [[Angola]] ([[FAPLA]]), [[Cuba]] ([[Cuban Revolutionary Armed Forces|FAR]])
+!width=40% | [[South Africa]] ([[SADF]]), [[UNITA]]
+|-
+! [[Armoured fighting vehicle|AFVs]]
+| [[T-34-85]], [[T-54|T-54B]], [[T-55]], [[T-62]], [[PT-76]], [[SU-100]] World War II vintage self-propelled guns were not used.
+|| [[Olifant tank|Olifant]], [[Ratel IFV]], [[Eland Mk7]](AML-90)
+|-
+! [[Armoured personnel carrier|APCs]]/[[infantry fighting vehicle|IFVs]]
+| [[BTR-40]], [[BTR-152]], [[BTR-50]], [[BTR-60| BTR-60PB]], [[BRDM-2]], [[BMP-1]] and [[MT-LB]] (tracked light-armoured towing vehicle) 
+|| [[Buffel]], [[Casspir]] 
+|-
+! Artillery
+| ZIS-3 (76&amp;nbsp;mm), D-30 (122&amp;nbsp;mm), ML-20 (152&amp;nbsp;mm), D-1 (152&amp;nbsp;mm), M-46 (130&amp;nbsp;mm) BM-21 Grad (MLR) and BM-14 
+|| [[G5 howitzer]], [[G6 howitzer|G6 Self-Propelled Gun]], [[Valkiri|Valkiri 127mm Multiple rocket launcher]], [[Ordnance QF 25 pounder]]
+|-
+! Aircraft
+| MiG-23ML, MiG-21bis, MiG-23BM
+|| [[Dassault Mirage F-1]], [[Blackburn Buccaneer]], [[Dassault Mirage III]], [[English Electric Canberra]], [[Aermacchi MB-326|Impala]],
+|-
+! Transport Aircraft
+|AN-26 AN-12, AN-22, IL-76
+||[[C-130B Hercules]] and [[C-160 Transall|C-160Z Transall]]
+|-
+! Helicopters
+| Mi-8/Mi-17, Mi-24/Mi-35
+|| [[Super Frelon]], [[Aérospatiale SA 330 Puma]], [[Westland Wasp]], [[Aérospatiale Alouette III]], [[Atlas Oryx]]
+|-
+! Reconnaissance/observation
+|[[MiG-21|MiG-21R]], [[Antonov An-30]]
+||[[Aermacchi AM.3|Bosbok]], [[UAV]]'s
+|-
+! [[Anti-aircraft warfare|AAW]]
+| 2K12 Kub/Kwadrat, 9K33 Osa-AK, S-125 Pechora, S-75 Dvina, ZSU-23-4 Shilka, ZU-23-2 Zeushka, Strela-2M, Strela-3, Strela-10, Igla, ZPU-4, ZPU-2, ZGU-1
+|| [[Crotale (missile)|Cactus]], [[Sea Cat|Tigercat]], [[Bofors 40 mm]], Ystervark self-propelled 20&amp;nbsp;mm AA vehicles, [[FIM-92 Stinger]] (used by UNITA)&lt;ref name=&quot;PRJ&quot;/&gt;
+|-
+! Infantry weapons and anti tank support
+| AK (AK-47), AKM, AKMS, RP/RPK, RPD, PK (PKM), DShK (DShkM), KPV (KPVT), HMG, 9K11 Malyutka, RPG-7], B-10 recoilless rifle, B-11 recoilless rifle
+|| [[Heckler &amp; Koch G3]], [[FN MAG|R1]], [[R4 assault rifle]], [[FN MAG]], [[M2 Browning machine gun|M2 Browning]], [[M40 recoilless rifle]], [[RPG-7]], [[ENTAC]], [[MILAN]] and [[Ingwe (missile)|ZT-3]] anti-tank guided missile
+|-
+! Air-to-Air Missiles
+| K-13, R-60
+|| [[R.530|Matra 530]], V3B
+|}
+Trucks used by FAPLA
+Engesa-15, Engesa-25, Engesa-50 (Brazilian)
+Mercedes (West Germany)
+Pegaso (Spain)
+IFAW50 (GDR)
+GAZ-66, ZIL-131, URAL-375/URAL-4320
+GAZ-51 and GAZ-63 (were used by Cubans outside Cuito)
+KAMAZ and ZIL-130 (civil trucks): ZIL-157 (all were used outside Cuito) 
+
+Jeeps
+UAZ-469
+UAZ-69 (GAZ-69) (used by Cubans outside Cuito)
+Niva
+Land Rover 109
+Land Rover 110
+Land Rover Defender
+
+Miniubuses
+RAF-2203 and UAZ-452
+
+Pistols
+Walther P38
+TT-33 (TT)
+MP (Makarov)
+APS (Stechkin)
+Beretta 92
+
+==Aftermath==
+
+In the aftermath of Cuito Cuanavale on the eve of the first round of peace talks in two years Castro ordered Cuban, FAPLA and SWAPO units under General Cintras Frías opened a second front to the west at [[Calueque]] ([[Lubango]]) with a force of 40,000 Cuban troops and a 30,000 of Angolan forces,&lt;ref&gt;[[#Benemelis|Benemelis (1988)]]&lt;/ref&gt;&lt;ref&gt;Some estimates say only 10,000–20,000 Cubans: {{cite book|title=&quot;Cuba and the Independence of Namibia&quot;, Cold War History, Volume 7, Issue 2|author=Gleijeses, Piero|month=May | year=2007|pages=285–303}}, and [[#Jaster|Jaster (1990)]], p. 22.&lt;/ref&gt; and with support from [[MiG-23]] fighter bombers. The first South African resistance was encountered near Calueque on 15 March, followed by three months of bloody clashes as the Cubans slowly progressed towards the Namibian border.
+
+On 9 March 1988, the Angolans, now joined by the Cubans, entered into the first round of US-brokered peace negotiations. On 3 May 1988 the South Africans returned to the peace negotiations which they had abandoned two years before.&lt;ref&gt;{{Cite web
+ | last =
+ | first =
+ | authorlink =
+ | coauthors =
+ | title = The Battle Of Cuito Cuanavale
+ | work =
+ | publisher = Paratus (SADF Magazine)
+ | date = March, 1989
+ | url = http://www.flyafrica.info/forums/showthread.php?28612-The-battle-of-cuito-cuanavale
+ | format =
+ | doi =
+ | accessdate = 8 April 2011}}
+&lt;/ref&gt;
+
+On 26 May, the chief of the SADF announced that heavily armed Cuban and SWAPO forces had moved south within {{convert|60|km|mi|abbr=on}} of the Namibian border. The remaining SADF forces at Cuito Cuanavale Combat Group 20 was left in place to construct minefields and carry out deception operations in order to prevent a FAPLA offensive.&lt;ref name=&quot;George_234&quot;/&gt; A number of skirmishes occurred while the SADF forces were disengaging, most notably Operation Hilti/Excite. In response to this [[32 Battalion (South Africa)|32 Battalion]] inserted an intelligence team under the command of Capt. Herman Mulder, who set up a tactical HQ at [[Ruacana]], supporting two teams doing reconnaissance south-each of Techipa along the Devangulu Mountains; with the second team operating in the Handa Rotunda area.&lt;ref name=&quot;Nortje, P 2003&quot;&gt;[[#Nortje|Nortje (2003)]]&lt;/ref&gt; After gathering the required intelligence Operation Hilti/Excite was initiated on 13 June with the deployment of one company from [[61 Mechanised Infantry Battalion Group]] at Dongue, {{convert|25|km|mi|abbr=on}} south-west of [[Xangongo]]. An attack was also launched against Ongiva by 32 Battalion. G5 and G2 artillery pieces were provided to 61 Mechanized Battalion and they engaged the Cuban 50th Division based at [[Ongiva]].&lt;ref name=&quot;Nortje, P 2003&quot;/&gt; A fierce skirmish took place at Cuamato and 201 Battalion lost one vehicle but held the town on 24 June 1988. Operation Displace was launched and became the last significant hot engagement of the entire war at Techipa on 26 June. A running fire fight happened when a platoon from 32 Battalion was engaged in an action that took place over a {{convert|20|km|mi|abbr=on}} distance. On 27 June 61 Mechanised Infantry Battalion engaged a Cuban tank squadron before they crossed the Cunene River back into Namibia.  Cuban MiG-23s bombed Calueque Dam, causing the last South African loss of life in the conflict when they killed 10 soldiers from [[8 SAI]].&lt;ref name=&quot;Turton&quot;/&gt;{{Page needed|date=September 2012}} Two MiG-23s were damaged by ground fire. On 8 June 1988, hoping to send a strong message to the Cubans that they would respond to any movement into South-West Africa the South African government called up 140,000 men of the reserves (Citizen Force).&lt;ref name=&quot;Gleijeses_2007&quot;&gt;[[#Gleijeses07|Gleijeses (2007)]]&lt;/ref&gt;{{Page needed|date=September 2012}}&lt;ref&gt;[[#George|George (2005)]], p. 242.&lt;/ref&gt; This was known as Operation Desert Fox and it consisted of [[81 Armoured Brigade]], which positioned itself on 30 July 1988 just south of Ruacana, tasked with the responsibility of neutralizing the very aggressive [[Cuban 50th Brigade]] if need be.&lt;ref name=&quot;Turton&quot;/&gt;{{Page needed|date=September 2012}} The signing of the formal peace treaty at Ruacana on 22 August 1988 meant that Operation Desert Fox could be aborted.
+
+By the end of May, Cuba had two divisions in south-western Angola. By June, they constructed two forward airbases at [[Cahama]] and [[Xangongo]] with which Cuban air power could be projected into Namibia.&lt;ref name=&quot;George_236_237&quot;&gt;[[#George|George (2005)]], pp. 236–237.&lt;/ref&gt; All of southern Angola was covered by a radar network and [[SA-8]] air defence ending South African air superiority.&lt;ref name=&quot;George_236_237&quot;/&gt;
+
+In June 1988, the Cubans prepared to advance on Calueque starting from Xangongo and Tchipa. In case of serious South African counter attacks, they were prepared to destroy the Ruacana reservoirs and transformers and attack South African bases in Namibia.{{Citation needed|date=July 2010}} The offensive started from Xangongo on June 23 immediately clashing with the SADF en route to Cuamato. An SADF screening force encountered the Cuban advance in a firefight resulting in the withdrawal of the SADF force and the decision of the FAPLA-Cubans to return to their base. On 26 June the SADF conducted [[Operation Excite]] to test Cuban forces in the area. The SADF sent up decoys to provoke SAM sites into revealing their positions and shelled Tchipa with long-range artillery effectively destroying the Cuban's ability to utilize their own artillery. A series of firefights ensued with SADF tanks launching a spoiling attack on the initial gathering armor forces then withdrawing fearing being overwhelmed by Cuban reinforcements.&lt;ref&gt;[[#George|George (2005)]], pp. 243–245.&lt;/ref&gt;
+
+Cuban MiGs carried out the attacks on the SADF positions around the Calueque dam, {{convert|11|km|mi|abbr=on}} north of the Namibian border, also damaging the bridge and hydroelectric installations.&lt;ref name=&quot;George_243_246&quot;&gt;[[#George|George (2005)]], pp. 243–246.&lt;/ref&gt; The major force of the Cubans, still on the way, never saw action and returned to Tchipa. With the withdrawal of the SADF into Namibia an 27 June the hostilities ceased.&lt;ref name=&quot;George_243_246&quot;/&gt;
+
+The South Africans, impressed by the suddenness and scale of the Cuban advance and believing that a major battle &quot;involved serious risks&quot; withdrew.&lt;ref&gt;Gleijeses, Piero: ''Conflicting Missions: Havana, Washington, and Africa, 1959–1976'' (The University of North Carolina Press) quoting: Abramowitz (Bureau of Intelligence and Research, US Department of State) to Secretary of State, May 13, 1988, Freedom of Information Act&lt;/ref&gt; For their part the Cubans were shocked at the heavy casualties they had suffered and put their troops on alert to expect a strong South African response.&lt;ref&gt;[[#George|George (2005)]], p. 246.&lt;/ref&gt; Five days later Pretoria ordered Combat Group 20 which was still operational east of Cuito Cuanavale to scale back to avoid any more casualties, effectively withdrawing from all fighting, and a SADF division was deployed in defence of Namibia's northern border.&lt;ref&gt;[[#George|George (2005)]], p. 245.&lt;/ref&gt;
+
+At the bargaining table the South Africans agreed to withdraw from Angola by 1 September 1988 and to the implementation of Resolution 435 for Southwest Africa on 1 November, leading to the independence of Namibia. This agreement was based on intelligence that indicated the Soviet Union would no longer sustain surrogate forces in the Third World, and that Cuba was starting to take strain from the mounting casualties.&lt;ref name=&quot;Turton&quot;/&gt;{{Page needed|date=September 2012}} The Cubans in return would pull troops out of Angola by 1 July 1991. A [[New York Accords|peace accord]], [[mediation|mediated]] by [[Chester Crocker]], was finally signed on 22 December 1988 in New York.
+
+[[Nelson Mandela]] considered the FAPLA-Cuban success at Cuito and in Lubango a turning point in the Angolan civil war as well as in the struggle for [[History of Namibia#The_struggle_for_independence|Namibian independence]].&lt;ref&gt;[http://www.iol.co.za/index.php?set_id=1&amp;click_id=6&amp;art_id=vn20080323114759543C298108 Turning point at Cuito Cuanavale - World - IOL | Breaking News | South Africa News | World News | Sport | Business | Entertainment | IOL.co.za&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The battle at Cuito, raging for 6 months, was the biggest battle on African soil since [[World War II]]&quot;.&lt;ref name=&quot;Mills, Greg 2006&quot;&gt;[[#Mills|Mills &amp; Williams (2006)]]&lt;/ref&gt; 
+
+Claims of victory in this battle have been made from all sides, depending on the military, political or moral point of view. According to veteran reporter [[Max du Preez]], the SADF &quot;fared a lot better than the Cubans expected or were later prepared to admit.&quot;&lt;ref&gt;Max du Preez, [http://books.google.com/books?id=9zThrIM5GhIC&amp;pg=PA100&amp;dq=%22g5+angola+sadf%22&amp;hl=en#v=onepage&amp;q&amp;f=false Pale native: memories of a renegade reporter], Zebra Press (Cape Town 2003), 100&lt;/ref&gt;
+
+The war cost an estimated half a million lives&lt;ref&gt;[[#Maier|Maier (1996)]], p. 14.&lt;/ref&gt;&lt;ref&gt;See also ''Afrique Express'' (Montreuil, France), no. 247, 4 February 2002. &quot;La guerre civile angolaise a fait plus de 500.000 morts, plus de 100.000 mutilés et a entraîné le déplacement forcé de plus de 4 millions de personnes sur une population de 12 millions d'Angolais.&quot; [The Angolan civil war left more than 500,000 dead, more than 100,000 wounded and forcibly displaced more than 4 million people (out of a population of 12 million)]. http://www.afrique-express.com/archive/AUSTRALE/angola/angolapol/247lapaixenfin.htm&lt;/ref&gt; and devastated Angola's infrastructure until the conflict finally ended after Savimbi was shot by government forces in 2002.
+
+The Battle of Cuito Cuanavale is commemorated in several countries in Southern Africa. The 20th anniversary in 2008 was especially celebrated in Namibia.
+
+==See also==
+*[[List of operations of the South African Border War]]
+*[[Cuba in Angola]]
+
+==Notes==
+{{Reflist|28em}}
+
+===References===
+{{refbegin|32em}}
+*{{cite book |last=Benemelis |first=Juan |year=1988 |title=Las Guerras Secretas de Fidel Castro |publisher=Fundación Elena Mederos |isbn=978-1-890829-21-6 |ref=Benemelis}}
+*{{cite news |last=Bole-Richard |first=Michel |date=January 23, 1988 |title=Angola: une importante garnison gouvernementale serait sur le point de tomber aux mains de l'UNITA |newspaper=[[Le Monde]] |language=French |pages=5 |ref=Bole-Richard}}
+*{{cite book |last1=Cock |first1=Jacklyn |last2=Nathan |first2=Laurie |year=1989 |url=http://books.google.com/?id=zEQ-Km_KShAC |title=War and Society: the Militarisation of South Africa |isbn=978-0-86486-115-3 |publisher=New Africa Books |ref=Cock}}
+*{{cite book |last=Crocker |first=Chester A. |year=1992 |title=High Noon in Southern Africa: Making Peace in a Rough Neighborhood |url=http://books.google.com/?id=9D1xAQAACAAJ |publisher=W. W. Norton |isbn=978-0-393-03432-5 |ref=Crocker}}
+*{{cite book |last=George |first=Edward |title=The Cuban Intervention in Angola, 1965-1991 |publisher=Frank Cass |location=London, New York |year=2005 |isbn=978-0-415-35015-0 |ref=George}}
+*{{cite news |publisher=[[Mail &amp; Guardian]] Online |last=Gleijeses |first=Piero |title=Cuito Cuanavale revisited: analysis |date=July 11, 2007 |url=http://www.mg.co.za/articlePage.aspx?articleid=313386&amp;area=/insight/insight__comment_and_analysis/ |ref=Gleijeses07}}
+*{{cite book |last=Holt |first=C. |year=2005 |title=At Thy Call We Did Not Falter |publisher=Zebra Press |isbn=978-1-77007-117-9 |url=http://books.google.com/?id=_r701h-tWZwC |ref=Holt}}
+*{{cite book |last=Jaster |first=Robert S. |year=1990 |title=The 1988 Peace Accords and the Future of South-western Africa |series=Adelphi Papers |volume=253 |publisher=The International Institute for Strategic Studies, London |isbn=978-0-08-040974-0 |ref=Jaster}}
+*{{cite book |last=Maier |first=Karl |year=1996 |title=Angola: Promises and Lies |publisher=Serif |location=London |isbn=978-1-897959-22-0 |ref=Maier}}
+*{{cite book |last=Marcum |first=John |year=1990 |chapter=South Africa and the Angola-Namibia Agreement |title=Disengagement from Southwest Africa: The Prospects for Peace in Angola and Namibia |editor=Owen Ellison Kahn |publisher=University of Miami Institute for Soviet and East European Studies |isbn=978-0-88738-361-8 |place=New Brunswick |ref=Marcum}}
+*{{cite book |last1=Martin |first1=James W. |first2=Susan Herlin |last2=Broadhead |year=2004 |title=Historical Dictionary of Angola |edition=2nd |publisher=Scarecrow Press |isbn=978-0-8108-4940-2 |ref=Martin}}
+*{{cite journal |last=McFaul |first=Michael |year=1990 |title=Rethinking the &quot;Reagan Doctrine&quot; in Angola |journal=[[International Security]] |volume=14 |issue=3 |pages=99–135 |jstor=2538933 |ref=McFaul}}
+*{{cite book |last1=Mills |first1=Greg |last2=Williams |first2=David |year=2006 |title=Seven Battles that Shaped South Africa |location=Cape Town |publisher=Tafelberg |isbn=978-0-624-04298-3 |ref=Mills}}
+*{{cite journal |last=Niddrie |first=David |year=1988 |journal=Africa Confidential |volume=29 |issue=3 |title=Angola: The siege of Cuito Cuanavale |ref=Niddrie}}
+*{{cite book |last=Nortje |first=Piet |title=32 Battalion |publisher=Struik Publishers |year=2003 |isbn=978-1-86872-914-2 |url=http://books.google.com/?id=mHq9uK3OShUC |location=Cape Town |ref=Nortje}}
+*{{cite journal |last=Pazzanita |first=Anthony |year=1991 |title=The conflict resolution process in Angola |journal=[[Journal of Modern African Studies]] |volume=29 |issue=1 |pages=83–114 |jstor=160994 |ref=Pazzanita}}
+*{{cite book |last1=Radu |first1=Michael |first2=Anthony |last2=Arnold |year=1990 |url=http://books.google.com/?id=fHqmvpaB2MUC |title=The New Insurgencies: Anticommunist Guerrillas in the Third World |publisher=Transaction Publishers |isbn=978-0-88738-307-6 |ref=Radu}}
+*{{cite book |last=Ricardo Luis |first=Roger |year=1989 |title=Prepárense a vivir: Crónicas de Cuito Cuanavale |location=Havana |publisher=Editora Politica |url=http://books.google.com/?id=3_18GwAACAAJ |ref=RicardoLuis}}
+*{{cite news |last=Trainor |first=Bernard E. |date=July 12, 1988 |url=http://www.nytimes.com/1988/07/12/world/south-africa-s-strategy-on-angola-falls-short-enhancing-cubans-role.html?pagewanted=1 |publisher=[[The New York Times]] |title=South Africa's strategy on Angola falls short, enhancing Cubans' role |ref=Trainor}}
+*{{cite news |last=Treaster |first=Joseph B. |date=July 28, 1988 |title=Castro faults Soviet tactics in war in Angola |publisher=[[The New York Times]] |url=http://www.nytimes.com/1988/07/28/world/castro-faults-soviet-tactics-in-war-in-angola.html |ref=Treaster}}
+*{{cite report |date=October 29, 1988 |url=http://www.justice.gov.za/trc/report/finalreport/Volume%202.pdf |author=[[Truth and Reconciliation Commission (South Africa)|Truth and Reconciliation Commission]] |volume=2 |title=Truth and Reconciliation Commission of South Africa Report |ref=TRC}}
+*{{cite book |last=Turton |first=Anthony |year=2010 |title=Shaking Hands with Billy |location=Durban |publisher=Just Done Productions |ol=22656001M |url=http://www.shakinghandswithbilly.com |ref=Turton}}
+*{{cite book |last=Vanneman |first=Peter |year=1990 |chapter=Soviet foreign policy for Angola/Namibia in the 1980s: a strategy of coercive diplomacy |pages=69–94 |url=http://books.google.co.uk/books?id=HlHH5j0x8_sC&amp;pg=PA69 |title=Disengagement from Southwest Africa: The Prospects for Peace in Angola and Namibia |editor=Owen Ellison Kahn |publisher=University of Miami Institute for Soviet and East European Studies |isbn=978-0-88738-361-8 |place=New Brunswick |ref=Vanneman}}
+*{{cite book |last=Walker |first=John Frederick |year=2004 |url=http://books.google.com/?id=bT1pn2HUjhcC |title=A Certain Curve of Horn: The Hundred-Year Quest for the Giant Sable Antelope |isbn=978-0-8021-4068-5 |publisher=Grove Press |ref=Walker}}
+{{refend}}
+
+==External links==
+* [http://www.rhodesia.nl/cuito.htm The Battle of Cuito Cuanavale]
+* [http://www.photius.com/countries/angola/national_security/angola_national_security_national_security.html Angola National Security]
+* [http://web.archive.org/web/20091027104821/http://geocities.com/odjobman/raid1.htm Angola and Southwest Africa: A Forgotten War (1975-89)]
+* [http://www.webcitation.org/query?url=http://www.geocities.com/odjobman/norch20.htm&amp;date=2009-10-25+23:55:49 Aid to UNITA - Operations MODULAR, HOOPER and PACKER]
+* [http://home.wanadoo.nl/rhodesia/modhoop.htm Operations Modular and Hooper 1987-88]
+* [http://www.webcitation.org/query?url=http://www.geocities.com/sadfbook/7sai.htm&amp;date=2009-10-26+01:59:05 7th South African Infantry Battalion and Cuito Cuanavale]
+* [http://www.urrib2000.narod.ru/Tanques2-e.html Cuban Tanks at Cuito Cuanavale]
+* [http://urrib2000.narod.ru/EqMiG23a-e.html Cuban MiG-23 Fighters at Cuito Cuanavale] (Spanish)
+* [http://www.urrib2000.narod.ru/Tanques3-e.html South African Tanks at Cuito Cuanavale]
+* [http://www.smallwars.quantico.usmc.mil/search/Papers/morris.pdf U.S. Marine Corps Paper: Fighting Columns in Small Wars] (Partially devoted to SADF Angolan Operations during this time period)
+* [http://www.sabwv.co.za/ South African Bush War Veterans Site]
+
+{{DEFAULTSORT:Cuito Cuanavale}}
+[[Category:Battles involving Angola]]
+[[Category:Battles involving Cuba]]
+[[Category:Battles and operations of the South African Border War]]
+[[Category:History of Angola]]
+[[Category:1987 in Angola]]
+[[Category:1987 in South Africa]]
+[[Category:1987 in Cuba]]
+[[Category:1987 in Namibia]]
+[[Category:Conflicts in 1987]]
+
+[[af:Slag van Cuito Cuanavale]]
+[[de:Bürgerkrieg in Angola#Schlacht bei Cuito Cuanavale]]
+[[es:Batalla de Cuito Cuanavale]]
+[[fr:Bataille de Cuito Cuanavale]]
+[[no:Slaget ved Cuito Cuanavale]]
+[[pt:Batalha de Cuito Cuanavale]]
+[[ru:Куито-Куанавале]]
+[[tr:Cuito Cuanavale Muharebesi]]</text>
+      <sha1>mtce0nc3mlv374n3s6qasgi95gcncwc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Spain</title>
+    <ns>0</ns>
+    <id>26667</id>
+    <revision>
+      <id>521122683</id>
+      <parentid>518572663</parentid>
+      <timestamp>2012-11-02T22:51:34Z</timestamp>
+      <contributor>
+        <username>Imyoung</username>
+        <id>6190638</id>
+      </contributor>
+      <minor/>
+      <comment>/* Post Franco */ shares euro with 16 other countries, total Euro Area countries: 17</comment>
+      <text xml:space="preserve" bytes="146776">{{Use dmy dates|date=August 2012}}
+{{About|the country}}
+{{Redirect|España}}
+{{pp-semi-protected|small=yes}}
+{{pp-move-indef}}
+{{Infobox country
+|official_name = Reino de España
+|iso3166code = ES
+|native_name = {{native name|es|Reino de España|icon=no}}
+|conventional_long_name = Kingdom of Spain
+|common_name = Spain
+|image_flag = Flag of Spain.svg
+|image_coat = Escudo de España (mazonado).svg
+|image_map=EU-Spain.svg
+|map_caption={{map caption|location_color=dark green|region=[[Europe]]|region_color=dark grey|subregion=the [[European Union]]|subregion_color=green|legend=EU-Spain.svg}}
+|national_motto = {{lang|la|&quot;[[Plus ultra (motto)|Plus Ultra]]&quot;}} &lt;small&gt;([[Latin language|Latin]])&lt;/small&gt;&lt;br /&gt;&quot;Further Beyond&quot;&lt;/small&gt;
+|national_anthem = {{lang|es|&quot;[[Marcha Real]]&quot;}} &lt;small&gt;([[Spanish language|Spanish]])&lt;/small&gt;&lt;br /&gt;&quot;Royal March&quot;
+|official_languages = [[Spanish language|Spanish]]{{efn|In some [[autonomous communities of Spain|autonomous communities]], [[Catalan language|Catalan]], [[Galician language|Galician]] and [[Basque language|Basque]] are co-official languages. [[Aragonese language|Aragonese]], [[Asturian language|Asturian]] and [[Leonese language|Leonese]] have some degree of official recognition}}
+|regional_languages = [[Basque language|Basque]], [[Catalan language|Catalan]], [[Galician language|Galician]] and [[Occitan language|Occitan]].
+|officially_recognised_languages = [[Aragonese language|Aragonese]], [[Asturian language|Asturian]] and [[Leonese language|Leonese]]
+|demonym = [[Spanish people|Spanish]], [[Spanish people|Spaniard]]
+|capital = [[Madrid]]
+|latd=40 |latm=26 |latNS=N |longd=3 |longm=42 |longEW=W
+|largest_city = capital
+|government_type =[[Unitary state|Unitary]] [[Regional state|regional State]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+|leader_title1 = [[Spanish monarchy|King]]
+|leader_title2 = [[Prime Minister of Spain|Prime Minister]]
+|leader_name1 = [[Juan Carlos I of Spain|Juan Carlos I]]
+|leader_name2 = [[Mariano Rajoy]]
+|legislature = [[Cortes Generales]]
+|upper_house = [[Senate of Spain|Senate]]
+|lower_house = [[Congress of Deputies of Spain|Congress of Deputies]]
+|sovereignty_type = Formation
+|sovereignty_note = 16th century
+|sovereignty_note = 15th century
+|established_event1 = {{spaces|2}}Traditional date
+|established_date1 = 569 (accession to the throne of [[Liuvigild]])
+|established_event2 = {{spaces|2}}[[Dynasty|Dynastic]]
+|established_date2 = [[Catholic Monarchs|1479]]
+|established_event3 = {{spaces|2}}''[[De facto]]''
+|established_date3 = [[Charles I of Spain|1516]]
+|established_event4 = {{spaces|2}}''[[De jure]]''
+|established_date4 = [[Nueva Planta Decrees|1715]]
+|established_event5 = {{spaces|2}}''[[Nation state]]''
+|established_date5 = [[Spanish Constitution of 1812|1812]]
+|established_event6 = {{spaces|2}}[[Spanish transition to democracy|Constitutional democracy]]
+|established_date6 = [[Spanish Constitution of 1978|1978]]
+|accessionEUdate = 1 January 1986|EUseats = 54
+|area_km2 = 505,992
+|area_sq_mi = 195,364 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|area_rank = 52nd
+|area_magnitude = 1 E11
+|percent_water = 1.04
+|population_estimate = 47,190,493&lt;ref&gt;{{cite web|url=http://www.boe.es/boe/dias/2011/12/17/pdfs/BOE-A-2011-19651.pdf|title=Official Population Figures of Spain. Population on the 1&amp;nbsp;January 2011|publisher=Boletín Oficial del Estado|accessdate=17 December 2011}}&lt;/ref&gt;&lt;ref&gt;According to recent unofficial estimates, the population of Spain is 46,185,697 (1 April 2012).{{cite web|url=http://www.ine.es/jaxiBD/tabla.do?per=01&amp;type=db&amp;divi=EPOB&amp;idtab=2|title=Estimaciones de la Población Actual de España|publisher=Instituto Nacional de Estadística (INE)}}&lt;/ref&gt;
+|population_estimate_year = 2011
+|population_estimate_rank = 27th
+|population_census = 40,847,371&lt;ref&gt;{{cite web|url=http://www.ine.es/censo2001/censo2001.htm|title=Censos de Población y Viviendas de 2001|publisher=Instituto Nacional de Estadística (INE)}}&lt;/ref&gt;
+|population_census_year = 2001
+|population_density_km2 = 93
+|population_density_sq_mi = 231 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|population_density_rank = 106th
+|GDP_PPP_year = 2012
+|GDP_PPP = $1.407&amp;nbsp;trillion&lt;ref name=imf2&gt;{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2012/02/weodata/weorept.aspx?pr.x=79&amp;pr.y=7&amp;sy=2012&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=184&amp;s=NGDP%2CNGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&amp;grp=0&amp;a=|title=Spain|publisher=International Monetary Fund|accessdate=10 October 2012}}&lt;/ref&gt;
+|GDP_PPP_rank = 
+|GDP_PPP_per_capita = $30,412&lt;ref name=imf2/&gt;
+|GDP_PPP_per_capita_rank = 
+|GDP_nominal = $1.340&amp;nbsp;trillion&lt;ref name=imf2/&gt;
+|GDP_nominal_rank = 
+|GDP_nominal_year = 2012
+|GDP_nominal_per_capita = $28,976&lt;ref name=imf2/&gt;
+|GDP_nominal_per_capita_rank = 
+|HDI_year = 2011
+|HDI = {{increase}} 0.878&lt;ref name=&quot;HDI&quot;&gt;{{cite web|url=http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf|title=Human Development Report 2011|year=2011|publisher=United Nations|accessdate=5 November 2011}}&lt;/ref&gt;
+|HDI_rank = 23rd
+|HDI_category = &lt;span style=&quot;color:#090;&quot;&gt;very high&lt;/span&gt;
+|Gini = 32&lt;ref&gt;{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html|title=CIA World Factbook|accessdate=13 August 2008}}&lt;/ref&gt;
+|Gini_year = 2005
+|currency = [[Euro]] ([[Euro sign|€]])
+|currency_code = EUR
+|time_zone = [[Central European Time|CET]]
+|utc_offset = +1
+|time_zone_DST = [[Central European Summer Time|CEST]]
+|utc_offset_DST = +2
+|DST_note = Except the [[Canary Islands]] which observe UTC+0 ([[Western European Time|WET]]) ([[Western European Summer Time|UTC+1]] during summer time)
+|date_format = dd.mm.yyyy (Spanish; [[Common Era|CE]])
+|drives_on = right
+|cctld = [[.es]]{{efn|The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states. Also, the [[.cat]] domain is used in Catalan-speaking territories.}}
+|calling_code = [[Telephone numbers in Spain|34]]
+}}
+'''Spain''' ({{IPAc-en|audio=en-us-Spain.ogg|ˈ|s|p|eɪ|n}} {{respell|spayn|'}}; {{lang-es|España}}, {{IPA-es|esˈpaɲa|pron|Es-España.ogg}}), officially the '''Kingdom of Spain''' ({{lang-es|Reino de España}}),{{efn|In Spain, [[Languages of Spain|other languages]] have been officially recognised as legitimate [[Indigenous language|autochthonous]] [[regional language|(regional) languages]] under the [[European Charter for Regional or Minority Languages]]. In each of these, Spain's official name is as follows:
+* {{lang-an|Reino d'Espanya}}, {{IPA-esdia|ˈreino ðesˈpaɲa|IPA}};
+* {{lang-ast|Reinu d'España}}, {{IPA-ast|ˈreinu ðesˈpaɲa|IPA}};
+* {{lang-eu|Espainiako Erresuma}} {{IPA-eu|espaɲako eres̺uma|IPA}};
+* {{lang-ca|Regne d'Espanya}}, {{IPA-ca|ˈreŋnə ðəsˈpaɲə|IPA}}{{IPA-ca|ˈreŋne ðasˈpaɲa|alt}};
+* {{lang-gl|Reino de España}}, {{IPA-gl|ˈreino ðe esˈpaɲa|IPA}};
+* {{lang-ext|Réinu d'España}}, {{IPA-ext|ˈreinu ðesˈpaɲa|IPA}};
+* {{lang-oc|Reialme d'Espanha}}, {{IPA-oc|reˈjalme ðesˈpaɲɔ|IPA}}.}}&lt;ref&gt;The Spanish Constitution does not establish any official name for Spain, even though the terms ''España'' (Spain), ''Estado español'' (Spanish State) and ''Nación española'' (Spanish Nation) are used throughout the document. Nonetheless, the Spanish Ministry of Foreign Affairs established in an ordinance published in 1984 that the denominations ''España'' (Spain) and ''Reino de España'' (Kingdom of Spain) are equally valid to designate Spain in international treaties. This term, Kingdom of Spain, is widely used by the government in national and international affairs of all kind, includuing foreign treaties as well as national official documents, and is therefore recognized as the official name by many international organisations. [http://noticias.juridicas.com/base_datos/Admin/ai281209-aec.html Acuerdo entre el Reino de de España y Nueva Zelanda], [http://www.mir.es/SGACAVT/derecho/ac/ac13021992.html Acuerdo entre el reino de España y el reino de Marruecos]{{dead link|date=November 2011}}; [http://t3.gstatic.com/images?q=tbn:POLvL-tJBq8_KM:http://www.motoradictos.com/images/2010/05/permiso-conducir-espana1.jpg&amp;t=1 licenses] [http://sbrabogados.files.wordpress.com/2008/02/carnet_conducir.jpg permissions] [http://noticias.juridicas.com/base_datos/Admin/tue.t6.html Tratado de la Unión Europea]&lt;/ref&gt; is a [[sovereign state]] and a [[member state of the European Union|member of the European Union]] located in [[Southern Europe|southwestern Europe]] on the [[Iberian Peninsula]]. Its mainland is bordered to the south and east by the [[Mediterranean Sea]] except for a small land boundary with the [[British Overseas Territory]] of [[Gibraltar]], to which Spain lays claim; to the north and north east by [[France]], [[Andorra]], and the [[Bay of Biscay]]; and to the northwest and west by the Atlantic Ocean and [[Portugal]].
+
+Spanish territory also includes the [[Balearic Islands]] in the Mediterranean, the [[Canary Islands]] in the Atlantic Ocean off the African coast, and two [[Autonomous cities of Spain|autonomous cities]] in [[North Africa]], [[Ceuta]] and [[Melilla]], that border [[Morocco]] plus [[Isla de Alborán|Alborán island]], the [[Islas Chafarinas|Chafarinas islands]] (Islas Chafarinas), [[Peñón de Alhucemas|Alhucemas island]] and [[Perejil]] (Parsley island). Furthermore, the town of [[Llívia]] is a Spanish [[exclave]] situated inside French territory. With an area of {{convert|505992|km2}}, it is the fourth largest country in Europe.
+
+Because of its location, the territory of Spain was subject to many external influences since [[prehistory|prehistoric times]] and through to its dawn as a country. Spain emerged as a unified country in the 15th century, following the marriage of the [[Catholic Monarchs]] and the completion of the reconquest, or ''[[Reconquista]]'', of the Iberian peninsula in 1492. Conversely, it has been an important source of influence to other regions, chiefly during the [[modern era]], when it became a [[Spanish Empire|global empire]] that has left a legacy of over 500&amp;nbsp;million [[Hispanophone|Spanish speakers]] today, making it the world's [[List of languages by number of native speakers|second most spoken first language]].
+
+Spain is a democracy organised in the form of a parliamentary government under a constitutional [[Monarchy of Spain|monarchy]]. It is a [[developed country]] with the [[List of countries by GDP (nominal)|twelfth largest economy in the world]] by nominal GDP, and very high [[living standards]], including the tenth-highest [[Quality-of-life Index|quality of life index rating]] in the world, as of 2005. It is a member of the [[United Nations]], [[NATO]], [[Organisation for Economic Co-operation and Development|OECD]], and [[World Trade Organization|WTO]].
+
+== Etymology ==&lt;!--linked--&gt;
+The true origins of the name ''España'' and its [[cognate]]s &quot;Spain&quot; and &quot;Spanish&quot; are disputed. The [[Ancient Rome|ancient Roman]] name for Iberia, ''[[Hispania]]'', may derive from poetic use of the term ''Hesperia'' to refer to Spain, reflecting the [[Ancient Greece|Greek]] perception of [[Italy]] as a &quot;western land&quot; or &quot;land of the setting sun&quot; (''Hesperia'', ''Ἑσπερία'' in [[Greek language|Greek]]) and Spain, being still further west, as ''Hesperia ultima''.&lt;ref name=anthon&gt;{{Cite book
+| last = Anthon
+| first = Charles
+| authorlink =
+| coauthors =
+| title = A system of ancient and mediæval geography for the use of schools and colleges
+| publisher=Harper &amp; Brothers
+| year = 1850
+| location = New York
+| page = 14
+| url = http://books.google.com/?id=hm0rAAAAYAAJ&amp;pg=PA14&amp;dq=hesperia&amp;q=hesperia
+| doi =
+| id =
+| isbn = }}&lt;/ref&gt;
+
+It may also be a derivation of the [[Punic]] ''Ispanihad'', meaning &quot;land of rabbits&quot; or &quot;edge&quot;, a reference to Spain's location at the end of the Mediterranean; Roman coins struck in the region from the reign of [[Emperor Hadrian|Hadrian]] show a female figure with a [[rabbit|coney]] at her feet.&lt;ref name=burke&gt;{{Cite book
+| last = Burke
+| first = Ulick Ralph
+| authorlink =
+| coauthors =
+| title = A History of Spain from the Earliest Times to the Death of Ferdinand the Catholic, Volume 1
+| publisher=Longmans, Green &amp; Co
+| date = 2nd edition, 2008
+| location = London
+| page = 14
+| url = http://books.google.com/?id=DuiyyWGg-KEC&amp;pg=PA410&amp;dq=spain+hispania&amp;q=hispania
+| doi =
+| id =
+| isbn =978-1-4437-4054-8 }}&lt;/ref&gt; There are also claims that ''España'' derives from the [[Basque language|Basque]] word ''Ezpanna'' meaning &quot;edge&quot; or &quot;border&quot;, another reference to the fact that the Iberian peninsula constitutes the southwest of the European continent.&lt;ref name=anthon /&gt;
+
+The humanist [[Antonio de Nebrija]] proposed that the word ''Hispania'' evolved from the [[Iberian language|Iberian]] word [[Hispalis]], meaning &quot;city of the western world&quot;. Jesús Luis Cunchillos argues that the root of the term ''span'' is the Phoenecian word ''spy'', meaning &quot;to forge metals&quot;. Therefore ''i-spn-ya'' would mean &quot;the land where metals are forged&quot;.&lt;ref&gt;# ↑ Linch, John (director), Fernández Castro, María Cruz (del segundo tomo), Historia de España, El País, volumen II, La península Ibérica en época prerromana, pg. 40. Dossier. La etimología de España; ¿tierra de conejos?, ISBN 978-84-9815-764-2&lt;/ref&gt;
+
+== History ==
+{{Main|History of Spain}}
+The Iberian peninsula enters written records as a land populated largely by the Iberians, Basques and Celts. After an arduous conquest, the peninsula came under the rule of Rome. During the early Middle Ages it came under Germanic rule but later, it was conquered by Moorish invaders from North Africa. In a process that took centuries, the small Christian kingdoms in the north gradually regained control of the peninsula. The last Moorish kingdom fell in the same year Columbus reached the Americas. A global empire began which saw Spain become the strongest kingdom in Europe and the leading world power for a century and a half and the largest overseas empire for three centuries.
+
+Continued wars and other problems eventually led to a diminished status. The Napoleonic invasions of Spain led to chaos, triggering independence movements that tore apart most of the empire and left the country politically unstable. Prior to the Second World War, Spain suffered a devastating civil war and came under the rule of an authoritarian government, whose rule oversaw a period of stagnation but that finished with a powerful economic surge. Eventually democracy was peacefully restored in the form of a parliamentary constitutional monarchy. In 1986, Spain joined the European Union, experiencing a cultural renaissance and steady economic growth.
+
+=== Prehistory and pre-Roman peoples ===
+{{Main|Prehistoric Iberia}}
+
+[[File:AltamiraBison.jpg|thumb|[[Altamira Cave]] paintings,&lt;ref name=&quot;timesonline.co.uk&quot;&gt;[http://www.timesonline.co.uk/tol/travel/specials/artistic_spain/article5904206.ece ]{{Dead link|date=January 2010}}&lt;/ref&gt; in [[Cantabria]].]]
+Archaeological research at [[Archaeological Site of Atapuerca|Atapuerca]] indicates the Iberian Peninsula was populated by [[hominid]]s 1.2&amp;nbsp;million years ago.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/2/hi/science/nature/6256356.stm|title='First west Europe tooth' found|publisher=BBC|date=30 June 2007|accessdate=9 August 2008}}&lt;/ref&gt; Modern humans first arrived in Iberia, from the north on foot, about 32,000 years ago.&lt;ref&gt;Typical [[Aurignacian]] items were found in Cantabria (Morín, El Pendo, Castillo), the Basque Country (Santimamiñe) and Catalonia. The radiocarbon datations give the following dates: 32,425 and 29,515 BP.&lt;/ref&gt; The best known artifacts of these prehistoric human settlements are the famous paintings in the [[Altamira (cave)|Altamira cave]] of Cantabria in northern Iberia, which were created about 15,000 [[BCE]] by [[cro-magnon]]s.&lt;ref name=&quot;timesonline.co.uk&quot;/&gt;
+
+Archaeological and genetic evidence strongly suggests that the Iberian Peninsula acted as one of several major refugia from which northern Europe was repopulated following the end of the last [[ice age]].
+
+The two main historical peoples of the peninsula were the [[Iberians]] and the [[Celts]]. The Iberians inhabited the Mediterranean side from the northeast to the southeast. The Celts inhabited the Atlantic side, in the north, center ([[Celtiberians|Celtiberian]]), northwest and southwest part of the peninsula. [[Basque people|Basques]] occupied the western area of the Pyrenees mountain range and adjacent areas.
+
+In the south of the peninsula appeared the semi-mythical city of [[Tartessos]] (c.1100&amp;nbsp;BC), whose flourishing trade in items made of gold and silver with the [[Phoenicia]]ns and [[Greeks]] is documented by [[Strabo]] and the [[Song of Songs|Book of Solomon]]. Between about 800&amp;nbsp;BC and 300 BC, the seafaring Phoenicians and Greeks founded [[colonies in antiquity|trading colonies]] along the Mediterranean coast. The [[Carthaginian]]s briefly exerted control over much of the Mediterranean side of the peninsula, until defeated in the [[Punic Wars]] by the [[Ancient Rome|Romans]].&lt;ref name=&quot;country&quot;/&gt;
+
+=== Roman Empire and the Gothic Kingdom ===
+{{Main|Hispania}}
+[[File:AcueductoSegovia edit1.jpg|thumb|220px|left|Roman [[Aqueduct of Segovia]].]]
+During the [[Second Punic War]], an expanding [[Roman Empire]] captured Carthaginian trading colonies along the Mediterranean coast from roughly 210&amp;nbsp;BC to 205 BC. It took the Romans nearly two centuries to complete the conquest of the Iberian peninsula, though they had control of it for over six centuries.[[File:Tesoro de Guarrazar (M.A.N. Madrid) 01.jpg|thumb|right|100px|A [[votive crown]] of [[Recceswinth]] (653–672)]] Roman rule was bound together by law, language, and the [[Roman road]].&lt;ref name=&quot;hispania&quot;&gt;{{cite web |last=Payne |first=Stanley G. | title = A History of Spain and Portugal; Ch. 1 Ancient Hispania |publisher=The Library of Iberian Resources Online |year=1973 |url=http://libro.uca.edu/payne1/spainport1.htm |accessdate=9 August 2008}}&lt;/ref&gt;
+
+The cultures of the Celtic and Iberian populations were gradually [[Romanisation (cultural)|romanised]] (Latinised) at differing rates in different parts of Hispania. Local leaders were admitted into the Roman aristocratic class{{efn|The ''[[latifundia]]'' (sing., ''latifundium''), large estates controlled by the aristocracy, were superimposed on the existing Iberian landholding system.}}&lt;ref name=&quot;country&quot;&gt;{{cite web |last=Rinehart |first=Robert |coauthors=Seeley, Jo Ann Browning | title = A Country Study: Spain – Hispania |publisher=Library of Congress Country Series |year=1998 |url=http://lcweb2.loc.gov/frd/cs/estoc.html |accessdate=9 August 2008}}&lt;/ref&gt; Hispania served as a granary for the Roman market, and its harbours exported [[gold]], [[wool]], [[olive oil]], and [[wine]]. Agricultural production increased with the introduction of irrigation projects, some of which remain in use. Emperors [[Hadrian]], [[Trajan]], [[Theodosius I]], and the philosopher [[Seneca the Younger|Seneca]] were born in Hispania.{{efn|The poets [[Martial]], Quintilian and [[Lucan (poet)|Lucan]] were also born in Hispania.}} [[Christianity]] was introduced into Hispania in the 1st&amp;nbsp;century AD and it became popular in the cities in the 2nd&amp;nbsp;century AD.&lt;ref name=&quot;country&quot;/&gt; Most of Spain's present languages and religion, and the basis of its laws, originate from this period.&lt;ref name=&quot;hispania&quot;/&gt;
+
+The weakening of the Western Roman Empire's jurisdiction in Hispania began in 409, when the [[Germanic peoples|Germanic]] [[Suevi]] and [[Vandals]], together with the [[Sarmatian]] [[Alans]] crossed the [[Rhine]] and ravaged [[Gaul]] until the [[Visigoths]] drove them into Iberia that same year. The Suevi established a kingdom in what is today modern [[Galicia (Spain)|Galicia]] and northern [[Portugal]]. As the western empire disintegrated, the social and economic base became greatly simplified: but even in modified form, the successor regimes maintained many of the institutions and laws of the late empire, including Christianity.
+
+The Alans' allies, the [[Hasdingi]] Vandals, established a kingdom in [[Gallaecia]], too, occupying largely the same region but extending farther south to the [[Duero]] river. The [[Silingi]] Vandals occupied the region that still bears a form of their name –''Vandalusia'', modern [[Andalusia]], in Spain. The [[Byzantine]]s established an enclave, [[Spania]], in the south, with the intention of reviving the Roman empire throughout Iberia. Eventually, however, Hispania was reunited under [[Visigothic Kingdom|Visigothic rule]].
+
+=== Muslim Iberia ===
+{{Main|Al-Andalus}}
+[[File:Vista de la Alhambra.jpg|thumb||The [[Alhambra]], [[Granada]].]]
+In the 8th&amp;nbsp;century, nearly all of the [[Iberian Peninsula]] was [[Umayyad conquest of Hispania|conquered]] (711–718) by largely [[Moorish]] [[Muslim]] armies from North Africa. These conquests were part of the expansion of the [[Umayyad]] [[Caliphate]]. Only a small area in the mountainous north-west of the peninsula managed to resist the initial invasion.&lt;!--see next section on the reconquista: citation not needed here--&gt;
+
+Under [[Sharia|Islamic law]], Christians and [[Jews]] were given the subordinate status of [[dhimmi]]. This status permitted Christians and Jews to practice their religions as ''[[people of the book]]'' but they were required to pay a special tax and to be subject to certain discriminations.&lt;ref&gt;Dhimma provides rights of residence in return for taxes. H. Patrick Glenn, ''Legal Traditions of the World''. Oxford University Press, 2007, pg. 218–219.&lt;/ref&gt;&lt;ref&gt;Dhimmi have fewer legal and social rights than Muslims, but more rights than other non-Muslims.Lewis, Bernard, The Jews of Islam. Princeton: Princeton University Press (1984). ISBN 978-0-691-00807-3 p. 62&lt;/ref&gt;
+
+Conversion to [[Islam]] proceeded at a steadily increasing pace. The ''[[muladi]]es'' (Muslims of ethnic [[Iberian Peninsula|Iberian]] origin) are believed to have comprised the majority of the population of Al-Andalus by the end of the 10th century.&lt;ref&gt;[http://libro.uca.edu/ics/ics5.htm Islamic and Christian Spain in the Early Middle Ages. Chapter 5: Ethnic Relations], Thomas F. Glick&lt;/ref&gt;&lt;ref name=&quot;chap2&quot;&gt;{{cite web |last=Payne |first=Stanley G. | title = A History of Spain and Portugal; Ch. 2 Al-Andalus |publisher=The Library of Iberian Resources Online |year=1973 |url=http://libro.uca.edu/payne1/spainport1.htm |accessdate=9 August 2008}}&lt;/ref&gt;
+
+[[File:Mosque Cordoba.jpg|thumb|left|225px|upright|Hypostyle hall inside of [[Cathedral–Mosque of Córdoba|Great Mosque of Córdoba]].]]
+The Muslim community in the Iberian peninsula was itself diverse and beset by social tensions. The [[Berber people]] of North Africa, who had provided the bulk of the invading armies, [[Berber Revolt|clashed with the Arab leadership]] from the [[Middle East]].{{efn|The Berbers soon gave up attempting to settle the harsh lands in the north of the [[Meseta Central]] handed to them by the Arab rulers.}} Over time, large Moorish populations became established, especially in the [[Guadalquivir River]] valley, the coastal plain of [[Valencian Community|Valencia]], the [[Ebro River]] valley and (towards the end of this period) in the mountainous region of [[Granada]].&lt;ref name=&quot;chap2&quot;/&gt;
+
+[[Córdoba, Spain|Córdoba]], the capital of the caliphate, was the largest, richest and most sophisticated city in western Europe. Mediterranean trade and cultural exchange flourished. Muslims imported a rich intellectual tradition from the Middle East and North Africa. Muslim and Jewish scholars played an important part in reviving and expanding classical [[Greek culture|Greek learning]] in Western Europe. The [[Romanisation (cultural)|Romanised]] cultures of the Iberian peninsula interacted with Muslim and Jewish cultures in complex ways, thus giving the region a distinctive culture.&lt;ref name=&quot;chap2&quot;/&gt; Outside the cities, where the vast majority lived, the land ownership system from Roman times remained largely intact as Muslim leaders rarely dispossessed landowners, and the introduction of new crops and techniques led to an expansion of agriculture.{{Citation needed|date=July 2010}}
+
+In the 11th&amp;nbsp;century, the Muslim holdings fractured into rival [[Taifa]] kingdoms, allowing the small Christian states the opportunity to greatly enlarge their territories.&lt;ref name=&quot;chap2&quot;/&gt; The arrival from [[North Africa]] of the Islamic ruling sects of the [[Almoravids]] and the [[Almohads]] restored unity upon the Muslim holdings, with a stricter, less tolerant application of Islam, and saw a revival in Muslim fortunes. This re-united Islamic state, experienced more than a century of successes that partially reversed Christian gains.
+
+=== Fall of Muslim rule and unification ===
+{{Main|Reconquista}}
+[[File:Alcazar of Toledo - Toledo, Spain - Dec 2006.jpg|thumb|[[Alcázar of Toledo]], the city hosted the Royal Court during the fifteenth century.]]
+The ''[[Reconquista]]'' (&quot;Reconquest&quot;) was the centuries-long period of expansion of Iberia's Christian kingdoms. The Reconquista is viewed as beginning with the [[Battle of Covadonga]] in 722, and was concurrent with the period of Muslim rule on the Iberian peninsula. The Christian army's victory over Muslim forces led to the creation of the Christian [[Kingdom of Asturias]] along the northwestern coastal mountains. Shortly after, in 739,  Muslim forces were driven from [[Galicia (Spain)|Galicia]], which was to eventually host one of medieval Europe's holiest sites, [[Santiago de Compostela]] and was incorporated into the new Christian kingdom.  Muslim armies had also moved north of the Pyrenees, but they were defeated by Frankish forces at the [[Battle of Tours|Battle of Poitiers]], [[Francia|Frankia]]. Later, [[Franks|Frankish]] forces established [[Marca Hispanica|Christian counties]] on the southern side of the Pyrenees. These areas were to grow into the kingdoms of Navarre, Aragon and Catalonia.&lt;ref&gt;{{cite web |last=Rinehart |first=Robert |coauthors=Seeley, Jo Ann Browning | title = A Country Study: Spain – Castile and Aragon |publisher=Library of Congress Country Series |year=1998 |url=http://lcweb2.loc.gov/frd/cs/estoc.html |accessdate=9 August 2008}}&lt;/ref&gt; For several centuries, the fluctuating frontier between the Muslim and Christian controlled areas of Iberia was along the [[Ebro]] and [[Duero]] valleys.
+[[File:IsabellaofCastile05.jpg|left|175px|thumb|[[Isabella I of Castile|Queen Isabella I]] of [[Crown of Castile|Castile]] and [[Ferdinand II of Aragon|King Ferdinand II]] of [[Crown of Aragon|Aragon]], the [[Catholic Monarchs]].]]
+The breakup of [[Al-Andalus]] into the competing taifa kingdoms helped the long embattled Iberian Christian kingdoms gain the initiative. The capture of the strategically central city of [[Toledo, Spain|Toledo]] in 1085 marked a significant shift in the balance of power in favour of the Christian kingdoms. Following a great Muslim resurgence in the 12th&amp;nbsp;century, the great Moorish strongholds in the south fell to Christian Spain in the 13th&amp;nbsp;century—Córdoba in 1236 and [[Seville]] in 1248—leaving only the Muslim enclave of [[Granada]] as a [[tributary (political)|tributary state]] in the south.&lt;ref&gt;{{cite web|url=http://libro.uca.edu/rc/rc1.htm|title=Ransoming Captives in Crusader Spain: The Order of Merced on the Christian-Islamic Frontier|accessdate=13 August 2008}} See also: {{cite web |last=Payne |first=Stanley G. | title = A History of Spain and Portugal; Ch. 4 Castile-León in the Era of the Great Reconquest |publisher=The Library of Iberian Resources Online |year=1973 |url=http://libro.uca.edu/payne1/spainport1.htm |accessdate=9 August 2008}}&lt;/ref&gt;
+
+In the 13th and 14th&amp;nbsp;centuries, the [[Marinid]]s Muslim sect based in North Africa invaded and established some enclaves on the southern coast but failed in their attempt to re-establish Muslim rule in Iberia and were soon driven out. The 13th&amp;nbsp;century also witnessed the [[Crown of Aragon]], centred in Spain's north east, expand its reach across islands in the Mediterranean, to [[Sicily]] and even Athens.&lt;ref&gt;{{cite web |last=Payne |first=Stanley G. | title = A History of Spain and Portugal; Ch. 5 The Rise of Aragón-Catalonia |publisher=The Library of Iberian Resources Online |year=1973 |url=http://libro.uca.edu/payne1/spainport1.htm |accessdate=9 August 2008}}&lt;/ref&gt; Around this time the universities of [[University of Palencia|Palencia]] (1212/1263) and [[University of Salamanca|Salamanca]] (1218/1254) were established. The [[Black Death]] of 1348 and 1349 devastated Spain.&lt;ref&gt;{{cite web|url=http://www.channel4.com/history/microsites/H/history/a-b/blackdeath.html|title=The Black Death|accessdate=13 August 2008|publisher=[[Channel 4]]| archiveurl = http://web.archive.org/web/20080709074635/http://www.channel4.com/history/microsites/H/history/a-b/blackdeath.html| archivedate = 9 July 2008}}&lt;/ref&gt;
+[[File:Landing of Columbus (2).jpg|220px|thumb|[[Christoper Columbus]] arrives in [[Americas|America]].]]
+In 1469, the crowns of the Christian kingdoms of [[Crown of Castile|Castile]] and Aragon were united by the [[Catholic Monarchs|marriage]] of [[Isabella I of Castile]] and [[Ferdinand II of Aragon]]. 1478 commenced the completion of the conquest of the [[Canary Islands]] and in 1492, the combined forces of Castile and Aragon captured the Emirate of Granada, ending the last remnant of a [[Timeline of the Muslim presence in the Iberian peninsula|781-year presence]] of Islamic rule in Iberia. The [[Treaty of Granada]] guaranteed religious tolerance toward Muslims.&lt;ref&gt;{{cite web|url=http://www.cyberistan.org/islamic/treaty1492.html|title=The Treaty of Granada, 1492|publisher=Islamic Civilisation|accessdate=13 August 2008}}&lt;/ref&gt;
+The year 1492 also marked the arrival in the [[New World]] of [[Christopher Columbus]], during a voyage funded by Isabel. That same year, [[Sephardi Jews|Spain's Jews]] were [[converso|ordered to convert]] to [[Catholicism]] or face [[Alhambra Decree|expulsion]] from Spanish territories during the [[Spanish Inquisition]].&lt;ref&gt;[http://www.newscientist.com/article/dn16200-spanish-inquisition-left-genetic-legacy-in-iberia.html Spanish Inquisition left genetic legacy in Iberia]. New Scientist. 4 December 2008.&lt;/ref&gt; A few years later, following social disturbances, Muslims were also expelled under the same conditions.{{efn|For the related expulsions that followed see [[Morisco]].}}&lt;ref name=&quot;cong&quot;&gt;{{cite web |last=Rinehart |first=Robert |coauthors=Seeley, Jo Ann Browning | title = A Country Study: Spain – The Golden Age |publisher=Library of Congress Country Series |year=1998 |url=http://lcweb2.loc.gov/frd/cs/estoc.html |accessdate=9 August 2008}}&lt;/ref&gt;
+
+As [[Renaissance]] [[New Monarchs]], Isabel (Elizabeth) and Fernando (Ferdinand) centralised royal power at the expense of local nobility, and the word ''España'', whose root is the ancient name ''Hispania'', began to be commonly used to designate the whole of the two kingdoms.&lt;ref name=&quot;cong&quot;/&gt;
+With their wide-ranging political, legal, religious and military reforms, Spain emerged as the first [[Historical powers#Spanish Empire|world power]].
+
+=== Imperial Spain ===
+{{Main|Spanish Empire}}
+[[File:Philip II's realms in 1598.png|thumb|350px|right|The [[Portuguese Empire|Luso]]-[[Spanish Empire|Hispano Empire]] at the beginning of the [[Iberian Union]], 1581]]
+The unification of the crowns of Aragon and Castile by the marriage of their sovereigns laid the basis for modern Spain and the Spanish Empire, although each kingdoms of Spain remain as separate countries, in social, political, laws, currency and language.&lt;ref&gt;{{cite web|url=http://www.ucalgary.ca/applied_history/tutor/eurvoya/Imperial.html|title=Imperial Spain|accessdate=13 August 2008|publisher=University of Calgary}}&lt;/ref&gt;&lt;ref&gt;[http://books.google.es/books?id=Y84wAgaXxo4C&amp;lpg=PA472&amp;ots=jSCl9r8JTp&amp;dq=unification%20of%20the%20crowns%20of%20Aragon%20and%20Castile&amp;hl=es&amp;pg=PA472#v=onepage&amp;q&amp;f=false Handbook of European History]&lt;/ref&gt; Spain was Europe's leading power throughout the 16th century and most of the 17th century, a position reinforced by trade and wealth from colonial possessions. It reached its apogee during the reigns of the first two [[Habsburg Spain|Spanish Habsburgs]] – [[Charles I of Spain|Charles I]] (1516–1556) and [[Philip II of Spain|Philip II]] (1556–1598). This period saw the [[Italian Wars]], the [[revolt of the comuneros]], the [[Dutch revolt]], the [[Morisco revolt]], clashes with the [[Ottoman-Habsburg wars|Ottomans]], the [[Anglo-Spanish War (1585)|Anglo-Spanish war]] and wars with [[Early Modern France#The French Renaissance|France]].&lt;ref&gt;{{cite web |last=Payne |first=Stanley G. | title = A History of Spain and Portugal; Ch. 13 The [[Spanish Empire]] |publisher=The Library of Iberian Resources Online |year=1973 |url=http://libro.uca.edu/payne1/spainport1.htm |accessdate=9 August 2008}}&lt;/ref&gt;
+
+The [[Spanish Empire]] expanded to include great parts of the [[Americas]], islands in the Asia-Pacific area, areas of [[Italy]], cities in Northern Africa, as well as parts of what are now [[France]], [[Germany]], [[Belgium]], [[Luxembourg]], and the [[Netherlands]]. It was the first empire of which it was said that [[the empire on which the sun never sets|the sun never set]].
+[[Image:Spanish Galleon.jpg|thumb|left|thumb|A 17th century Spanish galleon]] This was an [[age of discovery]], with daring explorations by sea and by land, the opening-up of new [[trade route]]s across oceans, conquests and the beginnings of European [[colonialism]]. Along with the arrival of [[precious metal]]s, spices, luxuries, and new agricultural plants, Spanish explorers brought back knowledge from the New World, and played a leading part in transforming the European understanding of the globe.&lt;ref&gt;{{Cite book |last=Thomas |first=Hugh |authorlink=Hugh Thomas (writer) | title = Rivers of gold: the rise of the Spanish Empire |publisher=George Weidenfeld &amp; Nicholson |year=2003 |location=London |pages=''passim''|isbn=978-0-297-64563-4}}&lt;/ref&gt; The cultural efflorescence witnessed is now referred to as the [[Spanish Golden Age]]. The rise of [[humanism]], the Protestant Reformation and new geographical discoveries raised issues addressed by the influential intellectual movement now known as the [[School of Salamanca]].
+
+In the late 16th century and first half of the 17th&amp;nbsp;century, Spain was confronted by unrelenting challenges from all sides. [[Barbary pirates]] under the aegis of the rapidly growing [[Ottoman empire]], disrupted life in many coastal areas through their [[slave]] raids and renewed the threat of an [[Muslim conquests|Islamic invasion]].&lt;ref&gt;According to Robert Davis between 1&amp;nbsp;million and 1.25&amp;nbsp;million Europeans were captured by [[North African]] Muslim pirates and sold as slaves during the 16th and 17th centuries.&lt;/ref&gt; This at a time when Spain was often at war with France.
+
+The [[Protestant Reformation]] schism from the Catholic Church dragged the kingdom ever more deeply into the mire of religiously charged wars. The result was a country forced into ever expanding military efforts across Europe and in the Mediterranean.&lt;ref&gt;{{cite web|url=http://libro.uca.edu/payne1/payne15.htm|title=The Seventeenth-Century Decline|accessdate=13 August 2008|publisher=The Library of Iberian resources online}}&lt;/ref&gt;
+[[File:Monastery of San Lorenzo de El Escorial.jpg|thumb|250px|[[El Escorial]], central Spain.]]
+By the middle decades of a war- and [[Great Plague of Seville|plague]]-ridden 17th&amp;nbsp;century Europe the Spanish Habsburgs had enmeshed the country in the continent-wide religious-political conflicts. These conflicts drained it of resources and undermined the European economy generally. Spain managed to hold on to most of the scattered [[Habsburg]] empire, and help the imperial forces of the [[Holy Roman Empire]] reverse a large part of the advances made by Protestant forces, but it was finally forced to recognise the [[Portuguese Restoration War|separation of Portugal]] (with whom it had been [[Iberian Union|united]] in a [[personal union|personal union of the crowns]] from 1580 to 1640) and the [[Netherlands]], and eventually suffered some serious military reverses to France in the latter stages of the immensely destructive, Europe-wide [[Thirty Years War]].&lt;ref&gt;{{cite web |last=Payne |first=Stanley G. | title = A History of Spain and Portugal; Ch. 14 Spanish Society and Economics in the Imperial Age |publisher=The Library of Iberian Resources Online |year=1973 |url=http://libro.uca.edu/payne1/spainport1.htm |accessdate=9 August 2008}}&lt;/ref&gt;
+[[File:Cortes.jpg|upright|thumb|left|[[Hernán Cortés]], [[Conquistador]], Governor of [[New Spain]].]]
+In the latter half of the 17th&amp;nbsp;century, Spain went into a gradual relative decline, during which it surrendered a number of small territories to France; however, it maintained and enlarged its vast overseas empire, which remained intact until the beginning of the 19th&amp;nbsp;century.
+
+The decline culminated in a controversy over succession to the throne which consumed the first years of the 18th&amp;nbsp;century. The [[War of Spanish Succession]] was a wide-ranging international conflict combined with a civil war, and was to cost the kingdom its European possessions and its position as one of the leading powers on the Continent.&lt;ref&gt;{{cite web |last=Rinehart |first=Robert |coauthors=Seeley, Jo Ann Browning | title = A Country Study: Spain – Spain in Decline |publisher=Library of Congress Country Series |year=1998 |url=http://lcweb2.loc.gov/frd/cs/estoc.html |accessdate=9 August 2008}}&lt;/ref&gt;
+During this war, a new dynasty originating in France, the [[House of Bourbon|Bourbons]], was installed. Long united only by the Crown, a true Spanish state was established when the first Bourbon king, [[Phillip V of Spain|Philip V]], united the crowns of Castile and Aragon into a single state, abolishing many of the old regional privileges and laws.&lt;ref&gt;{{cite web |last=Rinehart |first=Robert |coauthors=Seeley, Jo Ann Browning | title = A Country Study: Spain – Bourbon Spain |publisher=Library of Congress Country Series |year=1998 |url=http://lcweb2.loc.gov/frd/cs/estoc.html |accessdate=9 August 2008}}&lt;/ref&gt;
+
+The 18th&amp;nbsp;century saw a gradual recovery and an increase in prosperity through much of the empire. The new Bourbon monarchy drew on the French system of modernising the administration and the economy. [[Age of Enlightenment|Enlightenment]] ideas began to gain ground among some of the kingdom's elite and monarchy. Military assistance for the rebellious British colonies in the [[American Revolutionary War|American War of Independence]] improved the kingdom's international standing.&lt;ref&gt;{{cite web |last=Gascoigne |first=Bamber | title = History of Spain: Bourbon dynasty: from AD 1700 |publisher=Library of Congress Country Series |year=1998 |url=http://www.historyworld.net/wrldhis/PlainTextHistories.asp?HistoryID=ab50&amp;ParagraphID=iss#iss |accessdate=9 August 2008}}&lt;/ref&gt;
+
+=== Napoleonic rule and its consequences ===
+{{Main|Mid-nineteenth century Spain}}
+
+[[File:Battle of Bailen.jpg|thumb|250px|[[Battle of Bailén]] (July 1808), the first major defeat of Napoleon's ''[[Grande Armée]]''.]]
+In 1793, Spain went to war against the new [[First French Republic|French Republic]], which had overthrown and executed its Bourbon king, [[Louis XVI of France|Louis XVI]]. The war polarised the country in an apparent reaction against the [[Francization|gallicised]] elites. Defeated in the field, peace was made with France in 1795 and it effectively became a [[client state]] of that country; In 1807, the secret [[Treaty of Fontainebleau (1807)|treaty of Fontainebleau]] between Napoleon and the deeply unpopular [[Manuel de Godoy, Prince of the Peace|Godoy]] led to a declaration of war against Britain and Portugal. French troops entered the kingdom unopposed, supposedly to invade Portugal, but instead they occupied Spanish fortresses. This invasion by trickery led to the [[abdication]] of the ridiculed Spanish king in favour of [[Napoleon I of France|Napoleon's]] brother, [[Joseph Bonaparte]].
+
+This foreign [[puppet monarch]] was widely regarded with scorn. The [[Dos de Mayo Uprising|2 May 1808 revolt]] was one of many nationalist uprisings against the Bonapartist regime across the country.&lt;ref&gt;David A. Bell. &quot;[http://www.historynet.com/wars_conflicts/napoleonic_wars/6361907.html?page=2&amp;c=y Napoleon's Total War]&quot;. TheHistoryNet.com&lt;/ref&gt; These revolts marked the beginning of what is known to the Spanish as the War of Independence, and to the British as the [[Peninsular War]].&lt;ref&gt;(Gates 2001, p.20)&lt;/ref&gt; Napoleon was forced to intervene personally, defeating several badly coordinated Spanish armies and forcing a British army to retreat. However, further military action by Spanish [[guerrilla]]s and armies, and [[Arthur Wellesley, 1st Duke of Wellington|Wellington's]] British-Portuguese forces, combined with Napoleon's disastrous [[Napoleon's Invasion of Russia|invasion of Russia]], led to the ousting of the French imperial armies from the Spain in 1814, and the return of [[Ferdinand VII of Spain|King Ferdinand VII]].&lt;ref&gt;(Gates 2001, p.467)&lt;/ref&gt;
+
+=== Independence of Americas ===
+{{Main|Spanish American wars of independence}}
+The French invasions devastated the economy, and left Spain a deeply divided country prone to political instability. The power struggles of the early 19th&amp;nbsp;century led to the [[Spanish American wars of independence]], losing all dominions which stretched from [[Las Californias]] to [[Patagonia]], with the sole exception of the Caribbean, [[Cuba]] and [[Puerto Rico]].
+
+=== Disaster of '98 ===
+{{Main|Spanish–American War}}
+[[File:La fallera de l'oncle Sam.JPG|thumb|right|200px|A satirical Catalan cartoon from ''[[La Campana de Gràcia]]'' (1896), criticising U.S. behaviour regarding Cuba.]]
+Amid the instability and economic crisis that afflicted Spain in the 19th century there arose nationalist movements in the Philippines and Cuba. Wars of independence ensued in those colonies and eventually&lt;!--for whatever reasons; it is not for here to go into contentious explanations!--&gt; the United States became involved. Despite the commitment and ability shown by some military units, they were so mismanaged by the highest levels of command that the [[Spanish–American War]], fought in the Spring of 1898, did not last long. &quot;El Desastre&quot; (The Disaster), as the war became known, helped give impetus to the [[Generation of 98]] who were already conducting much critical analysis concerning the country. It also weakened the stability that had been established during Alfonso XII's reign.
+
+=== Spanish Civil War ===
+{{Main|Spanish Civil War}}
+The 20th&amp;nbsp;century brought little peace; Spain played a minor part in the [[scramble for Africa]], with the colonisation of [[Western Sahara]], [[Spanish Morocco]] and [[Equatorial Guinea]]. The heavy losses suffered during the [[Rif War (1920)|Rif war]] in Morocco helped to undermine the monarchy. A period of authoritarian rule under General [[Miguel Primo de Rivera]] (1923–1931) ended with the establishment of the [[Second Spanish Republic]]. The Republic offered political autonomy to the Basque Country, Catalonia and Galicia and gave voting rights to women.
+[[File:Franco eisenhower 1959 madrid.jpg|thumb|250px|[[Francisco Franco]] and US President [[Dwight D. Eisenhower|Eisenhower]], [[Madrid]], 1959]]
+The Spanish Civil War (1936–39) ensued. Three years later the rebel [[Spanish Civil War#Nationalists|Nationalist]] forces, led by General [[Francisco Franco]], emerged victorious with the support of [[Nazi Germany]] and [[Kingdom of Italy (1861–1946)|Fascist Italy]]. The [[Popular Front (Spain)|Republican]] side was supported by the [[Soviet Union]], Mexico and [[International Brigades]], including the American [[Abraham Lincoln Brigade]], but it was not supported officially by the Western powers due to the British-led policy of [[Non-Intervention]].
+
+The Civil War claimed the lives of over 500,000 people&lt;ref&gt;[http://www.telegraph.co.uk/news/worldnews/europe/spain/3212605/Spanish-Civil-War-crimes-investigation-launched.html Spanish Civil War crimes investigation launched], Telegraph, 16 October 2008&lt;/ref&gt; and caused the flight of up to a half-million citizens.&lt;ref&gt;[http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/2809025.stm Spanish Civil War fighters look back], BBC News, 23 February 2003&lt;/ref&gt; Most of their descendants now live in Latin American countries, with some 300,000 in Argentina alone.&lt;ref&gt;&quot;[http://www.telegraph.co.uk/news/worldnews/europe/spain/3998443/Relatives-of-Spaniards-who-fled-Franco-granted-citizenship.html Relatives of Spaniards who fled Franco granted citizenship]&quot;. ''Daily Telegraph'' (UK) 28 December 2008.&lt;/ref&gt; The Spanish Civil War has been called the [[European Civil War|first battle]] of the [[Second World War]].{{by whom|date=April 2012}}
+
+=== Spain under Franco ===
+{{Main|Spain under Franco}}
+The [[Spanish State]] established by Franco was nominally [[neutrality (international relations)|neutral]] in the Second World War, although [[Spain in World War II|sympathetic]] to [[the Axis]]. The only legal party under Franco's post civil war regime was the ''[[Falange]] Española Tradicionalista y de las JONS'', formed in 1937; the party emphasised [[Anti-communism|anti-Communism]], Catholicism and [[nationalism]]. Given Franco's opposition to competing political parties, the party was renamed the National Movement (''[[Movimiento Nacional]]'') in 1949.
+
+After World War II Spain was politically and economically isolated, and was kept out of the [[United Nations]]. This changed in 1955, during the [[Cold War]] period, when it became strategically important for the U.S. to establish a military presence on the Iberian peninsula as a counter to any possible move by the Soviet Union into the Mediterranean basin. In the 1960s, Spain registered an unprecedented rate of economic growth in what became known as the [[Spanish miracle]], which resumed the much interrupted transition towards a modern economy.
+
+=== Post Franco ===
+{{Further|Spanish society after the democratic transition}}
+[[File:Constitucion espanola 1978.JPG|thumb|250px|[[Spanish Constitution of 1978]].]]
+With Franco's death in November 1975, [[Juan Carlos I of Spain|Juan Carlos]] succeeded to the position of [[King of Spain]] and [[head of state]] in accordance with the law. With the approval of the new [[Spanish Constitution of 1978]] and the [[Spanish transition to democracy|restoration of democracy]], the State [[devolution|devolved]] much authority to the regions and created an internal organisation based on [[autonomous communities of Spain|autonomous communities]].
+
+In the Basque Country, moderate [[Basque nationalism]] has coexisted with a [[Basque Conflict|radical nationalist movement]] led by the armed organisation [[ETA]]. The group was formed in 1959 during Franco's rule but has continued to wage its violent campaign even after the restoration of democracy and the return of a large measure of regional autonomy.
+
+On 23 February 1981, rebel elements among the security forces seized the Cortes in an attempt to impose [[23-F|a military backed government]]. King Juan Carlos took personal command of the military and successfully ordered the coup plotters, via national television, to surrender.
+
+On 30 May 1982 Spain joined [[NATO]], following a referendum. That year the [[Spanish Socialist Workers Party]] (PSOE) came to power, the first left-wing government in 43 years. In 1986 Spain joined the [[European Community]], which later became the [[European Union]]. The PSOE was replaced in government by the [[People's Party (Spain)|Partido Popular]] (PP) after the latter won the 1996 General Elections; at that point the PSOE had served almost 14 consecutive years in office.
+
+On 1 January 2002, Spain ceased to use the [[Spanish peseta|peseta]] as currency replacing it with the [[euro]], which it shares with 16 other countries in the [[Eurozone]]. Spain has also seen strong economic growth, well above the [[European Union|EU]] average; however, well publicised concerns issued by many economic commentators at the height of the boom that the extraordinary property prices and high foreign trade deficits of the boom were likely to lead to a painful economic collapse were confirmed by a severe property-led recession that struck the country in 2008/9.&lt;ref&gt;{{Cite news|url=http://www.nytimes.com/2002/07/11/business/worldbusiness/11iht-a10_18.html?scp=1&amp;sq=Economy%20reaps%20benefits%20of%20entry%20to%20the%20%27club%27%20:%20Spain%27s%20euro%20bonanza&amp;st=cse|title=Economy reaps benefits of entry to the 'club' : Spain's euro bonanza|work=International Herald Tribune |accessdate=9 August 2008|date=11 July 2002|author=Pfanner, Eric}} See also: {{Cite news|url=http://www.economist.com/displayStory.cfm?story_id=9118701|title=Spain's economy / Plain sailing no longer|work=The Economist |date=3 May 2007|accessdate=9 August 2008}}&lt;/ref&gt;
+
+A [[11 March 2004 Madrid train bombings|series of bombs exploded]] in commuter trains in Madrid, Spain on 11 March 2004. After a five month trial in 2007 it was concluded the bombings were perpetrated by a local Islamist militant group inspired by [[al-Qaeda]].&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/1/hi/world/europe/3509426.stm|publisher=BBC|title=Al-Qaeda 'claims Madrid bombings'|accessdate=13 August 2008 | date=14 March 2004}} See also: {{Cite news|url=http://news.bbc.co.uk/1/hi/world/europe/7070827.stm|publisher=BBC|title=Madrid bombers get long sentences|accessdate=13 August 2008 | date=31 October 2007}}&lt;/ref&gt; The bombings killed 191 people and wounded more than 1800, and the intention of the perpetrators may have been to influence the outcome of the [[Spanish general election, 2004|Spanish general election]], held three days later.&lt;ref&gt;{{cite web|url=http://www.realinstitutoelcano.org/wps/portal/rielcano/contenido?WCM_GLOBAL_CONTEXT=/Elcano_es/Zonas_es/Imagen+de+Espana/ARI+132-2004|title=Del 11-M al 14-M: estrategia yihadista, elecciones generales y opinión pública|accessdate=9 August 2008|publisher=Fundación Real Instituto Elcano}}&lt;/ref&gt;
+
+Though initial suspicions focused on the Basque group [[ETA]], evidence soon emerged indicating possible [[Islamist]] involvement. Because of the proximity of the election, the issue of responsibility quickly became a political controversy, with the main competing parties PP and PSOE exchanging accusations over the handling of the aftermath.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/1/hi/world/europe/3509744.stm|publisher=BBC|title=Spain votes under a shadow|accessdate=13 August 2008 | date=14 March 2004|first=Dominic|last=Bailey}}&lt;/ref&gt; At 14 March elections, PSOE, led by [[José Luis Rodríguez Zapatero]], obtained a [[plurality (voting)|plurality]], enough to form a new cabinet with Rodríguez Zapatero as the new ''Presidente del Gobierno'' or [[Prime Minister of Spain]], thus succeeding the former PP administration.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/1/hi/world/europe/3512222.stm|publisher=BBC|title=Spain awakes to socialist reality|accessdate=13 August 2008 | date=15 March 2004|first=Dominic|last=Bailey}}&lt;/ref&gt;
+
+The bursting of the [[Spanish property bubble]] in 2008 led to the [[2008–2012 Spanish financial crisis]].
+
+== Geography ==
+{{Main|Geography of Spain}}
+[[File:Bossòst.jpg|thumb|[[Bossòst]], [[Province of Lleida|Lleida]], a [[Pyrenees|Pyrenean]] town]]
+
+At {{convert|505992|km2|sqmi|0|abbr=on}}, Spain is the world's [[List of countries and outlying territories by area|52nd-largest country]]. It is some {{convert|47000|km2|sqmi|abbr=on}} smaller than [[France]] and {{convert|81000|km2|sqmi|abbr=on}} larger than the U.S. state of [[California]]. [[Teide|Mt. Teide]] ([[Tenerife]]) has the highest mountain peak of Spain and the third largest volcano in the world from its base.
+
+Spain lies between latitudes [[26th parallel north|26°]] and [[44th parallel north|44° N]], and longitudes [[19th meridian west|19° W]] and [[5th meridian east|5° E]].
+
+[[File:Playa Sardinero - Santander - Spain.jpg|thumb|[[Sardinero|El Sardinero beach]], [[Santander, Cantabria]]]]
+On the west, Spain borders [[Portugal]]; on the south, it borders [[Gibraltar]] (a [[British overseas territory]]) and [[Morocco]], through its [[exclave]]s in North Africa ([[Ceuta]], [[Melilla]], and [[Peñón de Vélez de la Gomera]]). On the northeast, along the [[Pyrenees]] mountain range, it borders France and the tiny [[principality]] of [[Andorra]]. Along the Pyrenees in [[province of Gerona|Gerona]], a small exclave town called [[Llívia]] is surrounded by France.
+
+=== Islands ===
+Spain also includes the [[Balearic Islands]] in the [[Mediterranean Sea]], the [[Canary Islands]] in the [[Atlantic Ocean]] and a number of uninhabited islands on the Mediterranean side of the [[Strait of Gibraltar]], known as {{lang|es|''[[Plazas de soberanía]]''}}, such as the [[Islas Chafarinas|Chafarine]] islands, the [[Isla de Alborán|isle of Alborán]], [[Peñón de Alhucemas|Alhucemas]], and the tiny [[Isla Perejil]]. The little [[Pheasant Island]] in the River [[Bidasoa]] is a Spanish-French [[condominium (international law)|condominium]].
+
+Islander population:&lt;ref&gt;La superficie de las islas vendrá dada en hectáreas salvo la de las mayores islas de los archipiélagos canario y balear, así como las Plazas de Soberanía.&lt;/ref&gt;
+[[File:Teide Tenerife.jpg|thumb|[[Teide|Mt. Teide]], [[Tenerife]], [[Canary Islands]], is Spain's tallest mountain]]
+{|
+|- style=&quot;vertical-align: top;&quot;
+|
+* 1. [[Tenerife]] 899,833
+* 2. [[Mallorca]] 862,397
+* 3. [[Gran Canaria]] 838,397
+* 4. [[Lanzarote]] 141,938
+* 5. [[Ibiza]] 125,053
+* 6. [[Fuerteventura]] 103,107
+* 7. [[Menorca]] 92,434
+* 8. [[La Palma]] 85,933
+* 9. [[La Gomera]] 22,259
+* 10. [[El Hierro]] 10,558
+* 11. [[Formentera]] 7,957
+* 12. [[Isla de Arosa|Arosa]] 4,889
+* 13. [[La Graciosa]] 658
+* 14. [[Tabarca]] 105
+* 15. [[Ons Island|Ons]] 61
+|}
+
+=== Mountains and rivers ===
+Mainland Spain is a [[mountainous]] country, dominated by high [[plateau]]s and mountain chains. After the Pyrenees, the main mountain ranges are the [[Cordillera Cantábrica]], [[Sistema Ibérico]], [[Sistema Central]], [[Montes de Toledo]], [[Sierra Morena]] and the [[Sistema Penibético]] whose highest peak, the 3,478 m high [[Mulhacén]], located in [[Sierra Nevada (Spain)|Sierra Nevada]], is the highest elevation in the Iberian peninsula, while the highest point in Spain is the [[Teide]], a {{convert|3718|m|ft|adj=on}} active [[volcano]] in the Canary Islands. The [[Meseta Central]] is a vast plateau in the heart of peninsular Spain.
+
+There are several major rivers in Spain such as the [[Tagus]], the [[Ebro]], the [[Duero]], the [[Guadiana]] and the [[Guadalquivir]]. [[Alluvial plain]]s are found along the coast, the largest of which is that of the Guadalquivir in [[Andalusia]].
+
+=== Climate ===
+{{Main|Climate of Spain}}
+[[File:Climas de España.png|thumb|right|[[Köppen climate classification]] of Spain]]
+
+Three main climatic zones can be separated, according to geographical situation and [[orography|orographic]] conditions:&lt;ref&gt;{{cite web|url=http://www.schweizerbart.de/resources/downloads/paper_free/55034.pdf |title=World Map of the Köppen-Geiger climate classification updated – (see p.3) |format=PDF |date= |accessdate=30 April 2011}}&lt;/ref&gt;&lt;ref&gt;http://www.city-data.com/forum/attachments/weather/56180d1263187925-ultimate-climate-poll-koppen-climate-classification-kottek_et_al_2006.gif&lt;/ref&gt;&lt;ref&gt;http://upload.wikimedia.org/wikipedia/commons/7/74/Koppen_World_Map.png&lt;/ref&gt;
+
+*The [[Mediterranean climate]], characterized by dry and warm summers. According to the [[Köppen climate classification]], it is dominant in the peninsula, with two varieties: ''Csa'' and ''Csb''. The Köppen-Geiger classification (Csb), extends to additional areas not typically associated with a typical Mediterranean climate, with a climate more extreme, hot in summer and cold in winter, such as much of central and northern-central of Spain (Ex. Madrid, Burgos, Leon).
+*The [[semiarid]] climate (''Bsh'', ''Bsk''), located in the southeastern quarter of the country, especially in the region of [[Murcia]] and in the [[Ebro]] valley. In contrast with the Mediterranean climate, the dry season extends beyond the summer.
+*The [[oceanic climate]] (''Cfb''), located in north quarter of the country, especially in the region of [[Basque Country (autonomous community)|Basque Country]], [[Asturias]], [[Cantabria]] and partly [[Galicia (Spain)|Galicia]]. In contrary to the Mediterranean climate, winter and summer temperatures are influenced by the ocean, and have no seasonal drought.
+
+Apart from these main types, other sub-types can be found, like the [[alpine climate]] in the [[Pyrenees]] and [[Sierra Nevada (Spain)|Sierra Nevada]], and a typical [[subtropical climate]] in the Canary Islands.
+
+== Governance ==
+{{Main|Politics of Spain|Spanish Constitution of 1978}}
+[[File:Juan Carlos 2004.jpg|thumb|upright|[[Juan Carlos I of Spain|HM Juan Carlos I]] [[King of Spain]] and [[Queen Sofía of Spain|HM Queen Sofía of Spain]].]]
+The Spanish Constitution of 1978 is the culmination of the [[Spanish transition to democracy]].
+The constitutional history of Spain dates back to the constitution of 1812. Impatient with the pace of democratic political reforms in 1976 and 1977, Spain's new King Juan Carlos, known for his formidable personality, dismissed [[Carlos Arias Navarro]] and appointed the reformer [[Adolfo Suárez]] as Prime Minister.&lt;ref name=&quot;From Dictatorship to Democracy&quot;&gt;John Hooper, ''The New Spainards'', 2001, ''From Dictatorship to Democracy''&lt;/ref&gt;&lt;ref name=&quot;Spain's fast-living king turns 70&quot;&gt;[http://news.bbc.co.uk/2/hi/europe/7171971.stm Spain's fast-living king turns 70] BBC News Friday, 4 January 2008 Extracted 18 June 2009&lt;/ref&gt; The resulting [[Spanish general election, 1977|general election in 1977]] convened the ''[[Constituent Cortes]]'' (the Spanish Parliament, in its capacity as a constitutional assembly) for the purpose of drafting and approving the constitution of 1978.&lt;ref&gt;{{cite web|url=http://www.senado.es/constitu_i/index.html |title=Spanish Constitution |publisher=Senado.es |date= |accessdate=1 November 2011}}&lt;/ref&gt; After a national referendum on 6 December 1978, 88% of voters approved of the new constitution.
+
+As a result, Spain is now composed of 17 [[Autonomous communities of Spain|autonomous communities]] and two [[Autonomous Communities#Autonomous cities and &quot;plazas de soberanía&quot;|autonomous cities]] with varying degrees of autonomy thanks to its Constitution, which nevertheless explicitly states the indivisible unity of the Spanish nation. The constitution also specifies that Spain has no state religion and that all are free to practice and believe as they wish.
+
+As of November 2009, the government of Spain keeps a balanced gender equality ratio. Nine out of the 18 members of the government are women. Under the administration of [[José Luis Rodríguez Zapatero]], Spain has been described as being &quot;at the vanguard&quot; in gender equality issues and also that &quot;[n]o other modern, democratic, administration outside Scandinavia has taken more steps to place gender issues at the centre of government&quot;.&lt;ref&gt;[http://news.bbc.co.uk/2/hi/7375230.stm Diverging paths on gender equality], [[BBC News]], 10 May 2008.&lt;/ref&gt; The Spanish administration has also promoted gender-based [[positive discrimination]] by approving gender equality legislation in 2007 aimed at providing equality between genders in Spanish political and economic life (Gender Equality Act).&lt;ref&gt;[http://www.ipsnews.net/news.asp?idnews=36942 SPAIN: No Turning Back from Path to Gender Equality], IPS News, 13 March 2007.&lt;/ref&gt;&lt;ref&gt;{{Cite news
+ |url= http://ipsnews.net/news.asp?idnews=41006
+ |title=Spain: Gender Equality Law Triumphs over Rightwing Opposition
+ |work=ipsnews.net
+ |accessdate=1 November 2010
+}}&lt;/ref&gt; However, in the legislative branch, as of July 2010 only 128 of the 350 members of the Congress are women (36.3%).&lt;ref&gt;[http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/Diputadas%20en%20activo Women in the current Spanish Congress]&lt;/ref&gt; It places Spain 13th on a list of countries ranked by proportion of women in the [[lower house]]. In the Senate, the ratio is even lower, since there are only 79 women out of 263 (30.0%).&lt;ref&gt;{{cite web|url=http://www.ipu.org/wmn-e/classif.htm |title=Women in National Parlaments |publisher=Ipu.org |date=28 February 2010 |accessdate=1 May 2010}}&lt;/ref&gt; The [[Gender Empowerment Measure]] of Spain in the United Nations [[Human Development Report]] is 0.794, 12th in the world.&lt;ref&gt;[http://hdr.undp.org/en/media/HDR_20072008_EN_Complete.pdf Human Development Report 2007/2008], p.330.&lt;/ref&gt;
+
+=== Branches of government ===
+[[File:Mariano Rajoy en Bilbao2.png|thumb|upright|[[Mariano Rajoy]], Prime minister.]]
+
+Spain is a [[constitutional monarchy]], with a hereditary [[monarch]] and a [[bicameral parliament]], the ''[[Cortes Generales]]''. The [[executive branch]] consists of a [[Council of Ministers of Spain]] presided over by the [[Prime Minister of Spain|Prime Minister]], [[Prime Minister of Spain#Royal Nomination, Congressional Confirmation|nominated and appointed]] by the [[Monarchy of Spain|monarch]] and [[indirectly elected|confirmed]] by the Congress of Deputies following legislative elections. By [[Constitutional convention (political custom)|political custom]] established by King Juan Carlos since the ratification of the 1978 Constitution, the king's nominees have all been from parties who maintain a [[plurality (voting)|plurality]] of seats in the Congress.
+
+The [[legislative branch]] is made up of the [[Congress of Deputies (Spain)|Congress of Deputies]] (''Congreso de los Diputados'') with 350 members, elected by popular vote on block lists by proportional representation to serve four-year terms, and a [[Spanish Senate|Senate]] (''Senado'') with 259 seats of which 208 are directly elected by popular vote and the other 51 appointed by the regional legislatures to also serve four-year terms.
+* '''Head of State'''
+** [[Monarchy of Spain|King]] [[Juan Carlos I of Spain|Juan Carlos I]], since 22 November 1975
+* '''Head of Government'''
+** [[Prime Minister of Spain]] (Spanish ''Presidente del Gobierno'' literally ''President of the Government''): [[Mariano Rajoy|Mariano Rajoy Brey]], elected 20 November 2011.
+*** [[First Vice President of the Government (Spain)|Deputy Prime Minister]] and [[Ministry for the Presidency (Spain)|Minister for the Presidency]]: [[Soraya Sáenz de Santamaría]].
+* '''Cabinet'''
+** [[Council of Ministers of Spain|Council of Ministers]] (Spanish ''Consejo de Ministros'') designated by the Prime Minister.
+
+Spain is organizationally structured as a so-called ''Estado de las Autonomías'' (&quot;[[Autonomous Communities|State of Autonomies]]&quot;); it is one of the most [[decentralization|decentralized]] countries in Europe, along with Switzerland, Germany and Belgium;&lt;ref&gt;{{Cite news|url=http://edition.cnn.com/2006/WORLD/europe/06/18/catalonia.vote/index.html|publisher=CNN|title=Catalonians vote for more autonomy|date=18 June 2006|accessdate=13 August 2008}} See also: {{cite web|url=http://www.oecd.org/document/57/0,2340,en_2649_201185_34578361_1_1_1_1,00.html|title=Economic Survey: Spain 2005|accessdate=13 August 2008|publisher=Organisation for Economic Co-Operation and Development}} and {{Cite news|url=http://www.economist.com/countries/Spain/profile.cfm?folder=Profile-FactSheet|title=Country Briefings: Spain|accessdate=9 August 2008|work=The Economist }}{{dead link|date=November 2011}} and {{cite web|url=http://www1.worldbank.org/wbiep/decentralization/Swiss%20Expertise/Muralt.pdf|title=Swiss Experience With Decentralized Government|format=PDF|accessdate=13 August 2008|publisher=[[The World Bank]]}}&lt;/ref&gt; for example, all Autonomous Communities have their own elected parliaments, governments, public administrations, budgets, and resources. Health and education systems among others are managed regionally, and in addition, the Basque Country and Navarre also manage their own public finances based on [[fuero|foral]] provisions. In Catalonia and the Basque Country, a full fledged autonomous police corps replaces some of the State police functions (see [[Mossos d'Esquadra]], [[Ertzaintza]], [[Policía Foral]] and [[Policía Canaria]]).
+
+{{See also|List of Spanish monarchs|Monarchs of Spain family tree}}
+
+=== Administrative divisions ===
+{{Main|Political divisions of Spain}}
+The Spanish State is integrated by 17 autonomous communities and 2 autonomous cities, both groups being the highest or first-order administrative division in the country. Autonomous communities are integrated by provinces, of which there are 50 in total, and in turn, provinces are integrated by municipalities. In Catalonia, two additional divisions exist, the ''comarques'' (sing. ''comarca'') and the ''vegueries'' (sing. ''vegueria'') both of which have administrative powers; ''comarques'' being aggregations of municipalities, and the ''vegueries'' being aggregations of ''comarques''. The concept of a ''comarca'' exists in all autonomous communities, however, unlike Catalonia, these are merely historical or geographical subdivisions.
+
+==== Autonomous communities and autonomous cities ====
+{{main|Autonomous communities of Spain}}
+{{see also|Nationalities and regions of Spain}}
+{{Autonomous communities of Spain|float=right}}
+Autonomous communities are the first level administrative division in the country. These were created after the 1979 and current constitution came into effect in recognition of the right to self-government to the &quot;[[nationalities and regions of Spain]]&quot;.&lt;ref&gt;Article 143 of the 1979 Spanish Constitution in reference to Article 2&lt;/ref&gt; Autonomous communities were to be integrated by adjacent provinces with common historial, cultural, and economical traits. This territorial organization, based on [[devolution]], is known in Spain as the &quot;State of Autonomies&quot;.
+
+The basic institutional law of each autonomous community is the [[Statute of Autonomy]]. The Statutes of Autonomy establish the name of the community according to its historical identity, the limits of their territories, the name and organization of the institutions of government and the rights they enjoy according the constitution.&lt;ref&gt;[http://web.archive.org/web/20071026020151/http://www.constitucion.es/constitucion/lenguas/ingles.html#8 Chapter 3. Autonomous Communities. 147th Article]. ''Spanish Constitution of 1978''. Retrieved 10 December 2007&lt;/ref&gt;
+
+The government of all autonomous communities must be based on a division of powers comprising:
+* a Legislative Assembly whose members must be elected by [[universal suffrage]] according to the system of [[proportional representation]] and in which all areas that integrate the territory are fairly represented;
+* a Government Council, with executive and administrative functions headed by a president, elected by the Legislative Assembly and nominated by the [[King of Spain]];
+* a Supreme Court of Justice, under the Supreme Court of the State, which head the judicial organization within the autonomous community.
+
+Catalonia, Galicia and the Basque Country, which identified themselves as &quot;nationalities&quot; were granted self-government through a rapid process. Andalusia also took that denomination in its first Statute of Autonomy, even though it followed the longer process stipulated in the constitution for the rest of the country. Progressively, other communities in revisions to their Statutes of Autonomy have also taken that denomination in accordance to their historical regional identity, such as the Valencian Community,&lt;ref&gt;{{cite web|url=http://www.trobat.com/recursos/estatut-valencia.pdf |title=Estatut |format=PDF |language={{es icon}} |date= |accessdate=20 July 2009}}&lt;/ref&gt; the Canary Islands,&lt;ref&gt;{{cite web|url=http://www2.gobiernodecanarias.org/tuestatuto/novedades.html#pre |title=Nuevo Estatuto de Autonomía de Canarias |publisher=.gobiernodecanarias.org |date= |accessdate=30 April 2011}}&lt;/ref&gt; the Balearic Islands,&lt;ref&gt;{{cite web|url=http://www.caib.es/webcaib/govern_illes/estatut_autonomia/doc/estatut2007.ca.pdf |title=BOCAe32.QXD |format=PDF |language={{ca icon}} |date= |accessdate=20 July 2009}}&lt;/ref&gt; and Aragon.&lt;ref&gt;{{cite web|url=http://narros.congreso.es/constitucion/estatutos/estatutos.jsp?com=64&amp;tipo=2&amp;ini=1&amp;fin=10&amp;ini_sub=1&amp;fin_sub=1 |title=Estatuto de Autonomía de Aragón |publisher=Narros.congreso.es |date= |accessdate=20 July 2009}}&lt;/ref&gt;
+
+The autonomous communities have wide legislative and executive autonomy, with their own [[parliament]]s and regional governments. The distribution of powers may be different for every community, as laid out in their Statutes of Autonomy, since devolution was intended to be asymmetrical. Only two communities—the Basque Country and Navarre—have full fiscal autonomy. Aside of fiscal autonomy, the &quot;historical&quot; nationalities—Andalusia, the Basque Country, Catalonia, and Galicia—were devolved more powers than the rest of the communities, amongst them the ability of the regional president to dissolve the parliament and call for elections at any time. In addition, the Basque Country, Catalonia and Navarre have police corps of their own: [[Ertzaintza]], [[Mossos d'Esquadra]] and the [[Policía Foral]] respectively. Other communities have more limited forces or none at all, like the ''Policía Autónoma Andaluza''&lt;ref name=&quot;cartujo&quot;&gt;{{cite web |url=http://www.cartujo.org/pag(a9).htm | title=Unidad de Policía de la Comunidad Autónoma de Andalucía| author=Cartujo.org| accessdate=23 October 2007}} {{Es icon}}&lt;/ref&gt; in [[Andalusia]] or the [[BESCAM]] in [[Madrid]].
+
+Nonetheless, recent amendments to existing Statutes of Autonomy or the promulgation of new Statutes altogether, have reduced the asymmetry between the powers originally granted to the &quot;historical nationalities&quot; and the rest of the regions.
+
+Finally, along with the 17 autonomous communities, two autonomous cities are also part of the State of Autonomies and are first-order territorial divisions: [[Ceuta]] and [[Melilla]]. These are two exclaves located in the northern African coast.
+[[File:Provinces of Spain.svg|thumb|425px|[[Provinces of Spain]].]]
+
+==== Provinces and municipalities ====
+{{Main|Provinces of Spain|Municipalities of Spain}}
+Autonomous communities are subdivided into [[Provinces of Spain|provinces]] (''provincias''), which served as their territorial building blocks. In turn, provinces are integrated by [[municipalities of Spain|municipalities]] (''municipios''). The existence of both the provinces and the municipalities is guaranteed and protected by the constitution, not necessarily by the Statutes of Autonomy themselves. Municipalities are granted autonomy to manage their internal affairs, and provinces are the territorial divisions designed to carry out the activities of the State.&lt;ref&gt;[http://web.archive.org/web/20071026020151/http://www.constitucion.es/constitucion/lenguas/ingles.html#8 Articles 140 and 141]. Spanish Constitution of 1978&lt;/ref&gt;
+
+The current provincial division structure is based—with minor changes—on the [[1833 territorial division of Spain|1833 territorial division]] by [[Javier de Burgos]], and in all, the Spanish territory is divided into 50 provinces. The communities of Asturias, Cantabria, La Rioja, the Balearic Islands, Madrid, Murcia and Navarre are the only communities that are integrated by a single province, which is coextensive with the community itself. In this cases, the administrative institutions of the province are replaced by the governmental institutions of the community.
+[[File:Tratado de Lisboa 13 12 2007 (081).jpg|thumb|left|220px|[[European Union]] membership, 1986]]
+
+=== Foreign relations ===
+{{Main|Foreign relations of Spain}}
+After the return of democracy following the death of [[Francisco Franco|Franco]] in 1975, Spain's [[foreign policy]] priorities were to break out of the diplomatic isolation of the [[Spain under Franco|Franco years]] and expand [[diplomatic relations]], enter the [[European Union|European Community]], and define security relations with the West.
+
+As a member of [[NATO]] since 1982, Spain has established itself as a participant in multilateral international security activities. Spain's EU membership represents an important part of its foreign policy. Even on many international issues beyond western Europe, Spain prefers to coordinate its efforts with its EU partners through the European political cooperation mechanisms.
+
+Spain has maintained its special relation with [[Hispanic America]] and the [[Philippines]]. Its policy emphasizes the concept of an [[Iberoamerica]]n community, essentially the renewal of the historically liberal concept of ''&quot;Hispanidad&quot;'' or ''&quot;[[Hispanism]]&quot;'', as it is often referred to in English, which has sought to link the Iberian Peninsula with Hispanic America through language, commerce, history and culture.
+
+==== Territorial disputes ====
+[[Disputed status of Gibraltar|Spain claims Gibraltar]], a six square km [[British overseas territories|Overseas Territory of the United Kingdom]] in the southernmost part of the [[Iberian Peninsula]]. Then a Spanish town, it was conquered by an Anglo-Dutch force in 1704 during the [[War of the Spanish Succession]] on behalf of [[Charles VI, Holy Roman Emperor|Archduke Charles]], pretender to the Spanish throne.
+{{double image|right|Dársena del Puerto de Melilla.png|110|Andalusia hl 20060817 003.jpg|110|[[Melilla]] and [[Gibraltar]].}}
+The legal situation concerning Gibraltar was settled in 1713 by the [[Treaty of Utrecht]], in which Spain ceded the territory in perpetuity to the British Crown&lt;ref&gt;{{cite web|url=http://www.mgar.net/docs/utrech.htm|title=Tratado de Utretch – Gibraltar (Spanish)|accessdate=9 August 2008|publisher=mgar.net}}&lt;/ref&gt; stating that, should the British abandon this post, it would be offered to Spain first. Since the 1940s Spain has called for the return of Gibraltar. The overwhelming majority of [[Gibraltarians]] strongly oppose this, along with any proposal of shared sovereignty.&lt;ref&gt;
+{{Cite news
+|url=http://news.bbc.co.uk/1/hi/world/europe/2400673.stm
+|title=Q&amp;A: Gibraltar's referendum|publisher=BBC News
+|date=8 November 2002
+|accessdate=19 February 2010
+}}
+&lt;/ref&gt; UN resolutions call on the United Kingdom and Spain, both EU members, to reach an agreement over the status of Gibraltar.&lt;ref&gt;
+{{cite web
+|url=http://daccess-dds-ny.un.org/doc/RESOLUTION/GEN/NR0/218/33/IMG/NR021833.pdf?OpenElement
+|title=Resolution 2070: Question of Gibraltar|date=16 December 1965|format=PDF
+|publisher=United Nations
+|accessdate=19 February 2010
+}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite web
+|url=http://daccess-dds-ny.un.org/doc/RESOLUTION/GEN/NR0/005/34/IMG/NR000534.pdf?OpenElement
+|title=Resolution 2231: Question of Gibraltar|date=20 December 1966|format=PDF
+|publisher=[[United Nations]]
+|accessdate=19 February 2010
+}}
+&lt;/ref&gt;
+
+However, the Spanish claim makes a distinction between the [[Disputed status of the isthmus between Gibraltar and Spain|isthmus]] that connects the Rock to the Spanish mainland on the one hand, and the Rock and city of Gibraltar on the other. While the Rock and city were ceded by the Treaty of Utrecht, Spain asserts that the &quot;occupation of the isthmus is illegal and against the principles of [[International Law]]&quot;.&lt;ref&gt;{{cite web | url=http://www.maec.es/subwebs/Embajadas/Londres/es/MenuPpal/Gibraltar/Documents/000.001.002.003%20Título.%20Prefacio.Índice.%20Informe%20(27.02.08).doc | title=La cuestión de Gibraltar | publisher=Ministry of Foreign Affairs and Cooperation of Spain | date=January 2008 | accessdate=3 January 2010 | language=Spanish}}&lt;/ref&gt; The United Kingdom relies on ''de facto'' arguments of possession by [[prescription (sovereignty transfer)|prescription]] in relation to the isthmus,&lt;ref&gt;{{Cite book | title=Gibraltar: British or Spanish? | author=Peter Gold | publisher=Routledge | year=2005 | isbn=978-0-415-34795-2 | url=http://books.google.com/?id=u9YH_fLPu1MC |page=4 | authorlink=Peter Gold}}&lt;/ref&gt; as there has been &quot;continuous possession [of the isthmus] over a long period&quot;.&lt;ref&gt;{{cite web | author=UK Secretary of State for Foreign and Commonwealth Affairs | year=1999 | url=http://www.fco.gov.uk/Files/kfile/OT13.pdf | title=Partnership for Progress and Prosperity: Britain and the Overseas Territories. Appendix 1: Profiles for Cayman Islands, Falkland Islands &amp; Gibraltar | format=PDF | work=Partnership for Progress and Prosperity: Britain and the Overseas Territories | accessdate=19 December 2005}}{{dead link|date=November 2011}}&lt;/ref&gt;
+
+Another claim by Spain is about the [[Savage Islands]], not recognized by Portugal.
+
+Spain claims the sovereignty over the [[Perejil Island]], a small, uninhabited rocky [[islet]] located in the South shore of the [[Strait of Gibraltar]]. The island lies {{convert|250|m|ft}} just off the coast of Morocco, {{convert|8|km|mi}} from [[Ceuta]] and {{convert|13.5|km|mi}} from mainland Spain. Its sovereignty is disputed between Spain and Morocco. It was the subject of an armed incident between the two countries in 2002. The incident ended when both countries agreed to return to the [[status quo|status quo ante]] which existed prior to the Moroccan occupation of the island. The islet is now deserted and without any sign of sovereignty.
+
+Besides the Perejil Island, the Spanish-held territories claimed by other countries are two: Morocco claims the Spanish cities of Ceuta and Melilla and the ''[[plazas de soberanía]]'' islets off the northern coast of Africa; and Portugal does not recognise Spain's sovereignty over the territory of [[Olivenza]].
+[[File:Isaf herat Spanish Army.jpg|220px|thumb|Spanish soldiers in [[War in Afghanistan (2001–present)|Afghanistan]].]]
+
+=== Military ===
+{{Main|Spanish Armed Forces}}
+The armed forces of Spain are known as the Spanish Armed Forces ({{lang-es|Fuerzas Armadas Españolas}}). Their [[Commander-in-chief]] is the [[King of Spain]], [[Juan Carlos I of Spain|Juan Carlos I]].&lt;ref&gt;{{cite web|url=http://www.casareal.es/laCorona/laCorona-iden-idweb.html|title=Article 62 of the Spanish Constitution of 1978|publisher=Official site of the Royal Household of HM the King|accessdate=13 August 2008}}&lt;/ref&gt;
+
+The [[Spanish Armed Forces]] are divided into three branches:&lt;ref&gt;{{cite web|url=http://www.senado.es/constitu_i/index.html|title=Article 8 of the Spanish Constitution of 1978|publisher=Official site of the Spanish Senate|accessdate=29 November 2008}}&lt;/ref&gt;
+* [[Spanish Army|Army (''Ejército de Tierra'')]]
+* [[Spanish Navy|Navy (''Armada'')]]
+* [[Spanish Air Force|Air Force (''Ejército del Aire'')]]
+&lt;!--Do not add the Civil Guard. According to the Spanish Constitution: &quot;The mission of the Armed Forces, comprising the Army, the Navy and the Air Force, is to guarantee the sovereignty and independence of Spain and to defend its territorial integrity and the constitutional order.&quot;--&gt;
+
+== Economy ==
+{{Main|Economy of Spain}}
+[[File:Madrid Cuatro Torres Business Area.jpg|thumb|[[Madrid]]: [[Cuatro Torres Business Area]]]]
+[[File:Barcelona Finanse Center (skyline).jpg|thumb|[[Barcelona]]: finance centre]]
+[[File:VLC Aqua Multiespacio.jpg|thumb|[[Valencia]]: finance centre]]
+
+Spain's [[Capitalism|capitalist]] [[mixed economy]] is the [[List of countries by GDP (nominal)|twelfth largest]] worldwide and the [[List of sovereign states in Europe by GDP (nominal)|fifth largest]] in the [[European Union]], as well as the [[Eurozone|Eurozone's]] fourth largest.
+
+The centre-right government of former prime minister [[José María Aznar]] worked successfully to gain admission to the group of countries launching the [[euro]] in 1999. [[Unemployment]] stood at 7.6% in October 2006, a rate that compared favorably to many other European countries, and especially with the early 1990s when it stood at over 20%. Perennial weak points of Spain's economy include high inflation,&lt;ref&gt;{{cite web|url=http://www.oecdobserver.org/news/fullstory.php/aid/1592/Spain%92s_economy_.html|title=Spain's Economy: Closing the Gap|publisher=[[OECD]] Observer|month=May | year=2005|accessdate=15 August 2008}}&lt;/ref&gt; a large [[underground economy]],&lt;ref&gt;{{cite web|url=http://www.frontpagemag.com/Articles/Read.aspx?GUID=3E2579A7-6002-4048-97BB-46679C5D8A88|title=Going Underground: America's Shadow Economy|publisher=FrontPage magazine|month=January | year=2005|accessdate=15 August 2008}}&lt;/ref&gt; and an education system which OECD reports place among the poorest for developed countries, together with the United States and UK.&lt;ref&gt;{{cite web|url=http://www.oecd.org/dataoecd/51/21/37392840.pdf|title=OECD report for 2006|format=PDF|accessdate=9 August 2008|publisher=OECD}}&lt;/ref&gt;
+
+However, the [[Spanish property bubble]] that begun building from 1997, fed by historically low interest rates and an immense surge in immigration, imploded in 2008, leading to a rapidly weakening economy and soaring unemployment. By the end of May 2009, unemployment reached 18.7% (37% for youths).&lt;ref&gt;[http://www.cbc.ca/money/story/2009/07/02/euro-zone-unemployment-may.html Euro zone unemployment reaches 15&amp;nbsp;million]. CBCNews.ca. 2 July 2009.&lt;/ref&gt;&lt;ref&gt;[http://www.telegraph.co.uk/finance/comment/ambroseevans_pritchard/5742937/The-unemployment-timebomb-is-quietly-ticking.html The unemployment timebomb is quietly ticking]. Telegraph. 4 July 2009.&lt;/ref&gt;
+
+Before the current crisis, the Spanish economy was credited for having avoided the virtual zero growth rate of some of its largest partners in the EU.&lt;ref&gt;{{cite web|url=http://stats.oecd.org/WBOS/ViewHTML.aspx?QueryName=198&amp;QueryType=View&amp;Lang=en|title=OECD figures|publisher=OECD|accessdate=13 August 2008}}&lt;/ref&gt; In fact, the country's economy created more than half of all the new jobs in the European Union over the five years ending 2005, a process that is rapidly being reversed.&lt;ref&gt;{{Cite news|url=http://www.guardian.co.uk/world/2006/jul/26/spain.gilestremlett|title=Economic statistics|work=Guardian |location=UK |accessdate=13 August 2008 | location=London | first=Giles | last=Tremlett | date=26 July 2006}}&lt;/ref&gt; The Spanish economy has been until recently regarded as one of the most dynamic within the EU, attracting significant amounts of foreign investment.&lt;ref&gt;{{cite web|url=http://www.la-moncloa.es/NR/rdonlyres/2E85E75E-E2D9-4148-B1DF-950B06696A6C/74823/Chapter_2.PDF|title=Official report on Spanish recent Macroeconomics, including tables and graphics|format=PDF|accessdate=13 August 2008|publisher=La Moncloa}}&lt;/ref&gt;
+
+The most recent economic growth benefited greatly from the [[real estate bubble|global real estate boom]], with construction representing 16% of GDP and 12% of employment in its final year.&lt;ref name=&quot;guru&quot;/&gt;
+
+According to calculations by the German newspaper ''[[Die Welt]]'' in 2007, Spain was on course to overtake Germany in per capita income by 2011.&lt;ref&gt;{{cite web|url=http://www.europeanfoundation.org/docs/id210.pdf|title=No camp grows on both Right and Left|format=PDF|publisher=European Foundation Intelligence Digest|accessdate=9 August 2008}}{{dead link|date=November 2011}}&lt;/ref&gt; But the collapse of the housing boom in 2008 brought this to an end. According to the IMF, the PPP GDP per capita of Spain had, by 2010, slipped to USD 29,830; this compared to Germany at 36,081, UK 35,059, France 33,910, Italy 29,480, Greece 28,496, and Portugal 23,262.&lt;ref&gt;Data refer to the year 2010. [http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?pr.x=30&amp;pr.y=15&amp;sy=2010&amp;ey=2010&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124%2C684%2C339%2C273%2C638%2C921%2C514%2C948%2C218%2C943%2C963%2C686%2C616%2C688%2C223%2C518%2C516%2C728%2C918%2C558%2C748%2C138%2C618%2C196%2C522%2C278%2C622%2C692%2C156%2C694%2C624%2C142%2C626%2C449%2C628%2C564%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C453%2C960%2C968%2C423%2C922%2C935%2C714%2C128%2C862%2C611%2C716%2C321%2C456%2C243%2C722%2C248%2C942%2C469%2C718%2C253%2C724%2C642%2C576%2C643%2C936%2C939%2C961%2C644%2C813%2C819%2C199%2C172%2C184%2C132%2C524%2C646%2C361%2C648%2C362%2C915%2C364%2C134%2C732%2C652%2C366%2C174%2C734%2C328%2C144%2C258%2C146%2C656%2C463%2C654%2C528%2C336%2C923%2C263%2C738%2C268%2C578%2C532%2C537%2C944%2C742%2C176%2C866%2C534%2C369%2C536%2C744%2C429%2C186%2C433%2C925%2C178%2C869%2C436%2C746%2C136%2C926%2C343%2C466%2C158%2C112%2C439%2C111%2C916%2C298%2C664%2C927%2C826%2C846%2C542%2C299%2C967%2C582%2C443%2C474%2C917%2C754%2C544%2C698&amp;s=PPPPC&amp;grp=0&amp;a= World Economic Outlook Database-September 2011, International Monetary Fund].&lt;/ref&gt;
+
+Research about [[quality of life]] by the [[Economist Intelligence Unit]]'s quality of life survey placed Spain as the country among the top 10 best quality of life in the world for 2005, ahead of other economically and technologically advanced countries like France, Germany, the United Kingdom and South Korea.&lt;ref&gt;{{cite news| url=http://www.economist.com/media/pdf/QUALITY_OF_LIFE.pdf | work=The Economist}}&lt;/ref&gt;
+
+Before the collapse of the real estate boom there had been a corresponding rise in the levels of personal debt as prospective home owners struggled to meet asking prices.  The average level of household debt tripled in less than a decade. This placed great pressure upon lower to middle income groups; by 2005 the median ratio of indebtedness to income had grown to 125%, due primarily to expensive boom time mortgages.&lt;ref&gt;{{cite web|url=http://www.bde.es/informes/be/boleco/2005/be0507e.pdf|title=Bank of Spain Economic Bulletin 07/2005|format=PDF|accessdate=13 August 2008|publisher=Bank of Spain}}&lt;/ref&gt;
+
+The 2008/2009 credit crunch and world recession manifested itself in Spain through a massive downturn in the property sector. Fortunately, Spain's banks and financial services avoided the more severe problems of their counterparts in the USA and UK, due mainly to a stringently enforced conservative financial regulatory regime. The Spanish financial authorities had not forgotten the country's own banking crisis of 1979 and an earlier real-estate-precipitated banking crisis of 1993. Indeed, Spain's largest bank, Banco Santander, participated in the UK government's bail-out of part of the UK banking sector.&lt;ref&gt;[[Charles Emrys Smith|Charles Smith]], article: &quot;Spain&quot;, in Wankel, C. (ed.) ''Encyclopedia of Business in Today's World'', California, USA, 2009.&lt;/ref&gt;
+
+A European Commission forecast predicted Spain would enter a [[Late 2000s recession|recession]] by the end of 2008.&lt;ref&gt;{{Cite news|url=http://www.ft.com/cms/s/0/cf5d0f08-7f49-11dd-a3da-000077b07658.html?nclick_check=1|title=Recession to hit Germany, UK and Spain|work=Financial Times |date=10 September 2008|accessdate=11 September 2008}}&lt;/ref&gt; According to Spain’s Finance Minister, “Spain faces its deepest recession in half a century”.&lt;ref&gt;[http://www.spanishnews.es/20090118-spain-faces-deepest-recession-in-50-years/id=142/ Spain faces deepest recession in 50 years], Spanish News, 18 January 2009&lt;/ref&gt; Spain's government forecast the [[unemployment]] rate would rise to 16% in 2009. The [[ESADE]] business school predicted 20%.&lt;ref&gt;[http://www.economist.com/world/europe/displaystory.cfm?story_id=12987582 Mounting joblessness in Spain | And worse to come], The Economist, 22 January 2009&lt;/ref&gt; In 2012, it had already risen to 23.3%.&lt;ref&gt;{{cite web|url=http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&amp;language=en&amp;pcode=teilm020&amp;tableSelection=1&amp;plugin=1 |title=Eurostat - Tables, Graphs and Maps Interface (TGM) table |publisher=Epp.eurostat.ec.europa.eu |date=2 April 2012 |accessdate=17 June 2012}}&lt;/ref&gt;
+[[File:Muelle 1 Malaga.jpg|thumb|220px|Port of [[Málaga]].]]
+
+=== Tourism ===
+{{Main|Tourism in Spain}}
+During the last four decades the Spanish tourism industry has grown to become the second biggest in the world, worth approximately 40&amp;nbsp;billion Euros, about 5% of GDP, in 2006.&lt;ref name=&quot;guru&quot;&gt;{{cite web|url=http://www.theglobalguru.com/article.php?id=60&amp;offer=GURU001|title=Global Guru {{pipe}} analysis|accessdate=13 August 2008|publisher=The Global Guru}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bde.es/informes/be/boleco/coye.pdf|format=PDF|publisher=[[Bank of Spain]]|title=Economic report|accessdate=13 August 2008}}&lt;/ref&gt; Today, the [[climate of Spain]], historical and cultural monuments and its geographic position together with its facilities make tourism one of Spain's main national industries and a large source of stable employment and development. The Spanish hotel [[star rating]] system has requirements much more demanding than other European countries, so at a given rating Spanish accommodations worth higher.&lt;ref&gt;{{cite news|last=Trend |first=Nick |url=http://www.telegraph.co.uk/travel/columnists/nicktrend/5422970/European-hotel-star-ratings-explained.html |title=European hotel star ratings explained |work=The Daily Telegraph |location=London |date=2 June 2009 |accessdate=4 September 2010}}&lt;/ref&gt;
+
+[[File:PS10 solar power tower.jpg|thumb|[[PS10 solar power tower|PS10]] [[province of Seville|Seville]] solar power tower]]
+
+=== Energy ===
+{{Main|Renewable energy in Spain}}
+
+Spain is one of the world's leading countries in the development and production of renewable energy. In 2010 Spain became the [[solar power in Spain|solar power]] world leader when it overtook the United States with a massive power station plant called [[Alvarado I|La Florida]], near [[Alvarado, Badajoz]].&lt;ref&gt;{{cite web|author=Morning Edition |url=http://www.npr.org/templates/story/story.php?storyId=128532115 |title=Spain Is World's Leader In Solar Energy |publisher=Npr.org |date=15 July 2010 |accessdate=4 September 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.europeanfutureenergyforum.com/renewable-energy-news/spain-becomes-solar-power-world-leader |title=Spain becomes solar power world leader |publisher=Europeanfutureenergyforum.com |date=14 July 2010 |accessdate=4 September 2010}}&lt;/ref&gt; Spain is also Europe's main producer of wind energy. In 2010 its wind turbines generated 42,976 GWh, which accounted for 16.4% of all the energy produced in Spain.&lt;ref&gt;{{cite web|url=http://www.eolicenergynews.org/?p=4082 |title=Spain becomes the first European wind energy producer after overcoming Germany for the first time |publisher=Eolic Energy News |date=31 December 2010 |accessdate=30 April 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.aeeolica.es/ |title=Asociación Empresarial Eólica – Spanish Wind Energy Association – Energía Eólica |publisher=Aeeolica.es |date= |accessdate=30 April 2011}}&lt;/ref&gt;&lt;ref name=&quot;Graber2005&quot;&gt;{{Cite news
+|last=Méndez
+|first=Rafael |url=http://www.elpais.com/articulo/sociedad/eolica/supera/primera/vez/mitad/produccion/electrica/elpepusoc/20091109elpepisoc_2/Tes |title=La eólica supera por primera vez la mitad de la producción eléctrica |language=Spanish |date=9 November 2009
+|work=El País |publisher=Ediciones El Pais
+|accessdate=8 August 2010
+}}&lt;/ref&gt; On 9 November 2010, wind energy reached an instantaneous historic peak covering 53% of mainland electricity demand&lt;ref&gt;{{cite web|url=http://www.renovablesmadeinspain.es/noticia/pagid/205/titulo/La%20e%C3%B3lica%20en%20Espa%C3%B1a%20bate%20de%20nuevo%20su%20marca%20de%20potencia%20instant%C3%A1nea/len/en/ |title=Wind power in Spain breaks new instantaneous power record |publisher=www.renovablesmadeinspain.es |date=9 November 2010 |accessdate=5 June 2011}}&lt;/ref&gt; and generating an amount of energy that is equivalent to that of 14 [[nuclear reactor]]s.&lt;ref&gt;{{cite web|author=Morning Edition |url=http://www.elpais.com/articulo/sociedad/reactores/nucleares/movidos/viento/elpepusoc/20101109elpepusoc_4/Tes|title=14 reactores nucleares movidos por el viento |publisher=www.elpais.com |date=9 November 2010 |accessdate=5 June 2011}}&lt;/ref&gt; Other renewable energies used in Spain are [[hydroelectric power plant|hydroelectric]], [[gasification of biomass|biomass]] and [[marine energy|marine]] (2 power plants under construction).&lt;ref&gt;{{cite web|author=Morning Edition |url=http://revista.consumer.es/web/es/20050501/medioambiente/69696.php|title=La Fuerza del Mar|publisher=revista.consumer.es|accessdate=5 June 2011}}&lt;/ref&gt;
+
+Non-renewable energy sources used in Spain are [[nuclear power plant|nuclear]] (8 operative reactors), [[natural gas power plant|gas]], [[coal power plant|coal]], and [[oil power plant|oil]].
+
+=== Transport ===
+{{Main|Transport in Spain}}
+[[File:AVE Tarragona-Madrid.jpg|thumb|220px|[[AVE]] [[Madrid–Barcelona high-speed rail line|Barcelona-Madrid]].]]
+
+The Spanish road system is mainly centralized, with six highways connecting [[Madrid]] to the [[Basque Country (autonomous community)|Basque Country]], [[Catalonia]], [[Valencian Community|Valencia]], [[Andalusia|West Andalusia]], [[Extremadura]] and [[Galicia (Spain)|Galicia]]. Additionally, there are highways along the Atlantic ([[Ferrol, Spain|Ferrol]] to [[Vigo]]), Cantabrian ([[Oviedo]] to [[San Sebastián]]) and Mediterranean ([[Girona]] to [[Cádiz]]) coasts.
+
+Spain has the most extensive high-speed rail network in Europe, and the second most extensive in the world after China.&lt;ref&gt;{{cite web|url=http://blog.raileurope.com/high-speed-rail-news/the-need-for-speed-high-speed-rail-in-europe-do-you-speak-spanish |title=The Need for Speed–High Speed Rail in Europe: Do You Speak Spanish? Europe on Track |publisher=Blog.raileurope.com |date= |accessdate=1 November 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.theolivepress.es/spain-news/2010/11/17/spain-speeds-ahead/ |title=Spain has developed Europe's largest high-speed rail network &amp;#124; Olive Press Newspaper &amp;#124; News |publisher=Theolivepress.es |date= |accessdate=1 November 2011}}&lt;/ref&gt;&lt;ref&gt;[http://beta2.tbo.com/business/business/2010/oct/15/foreign-companies-vying-for-florida-high-speed-rai-ar-23443/ ]{{dead link|date=November 2011}}&lt;/ref&gt; As of October 2010 Spain has a total of {{convert|3500|km|2|abbr=on}} of high speed tracks linking [[Málaga]], [[Seville]], Madrid, [[Barcelona]], [[Valencia]] and [[Valladolid]], with the trains reaching speeds up to 300&amp;nbsp;km/h (187&amp;nbsp;mph). On average, the Spanish high-speed train is the fastest one in the world followed by the Japanese [[Shinkansen|bullet train]] and the French [[TGV]].&lt;ref&gt;{{cite web|url=http://www.elmundo.es/mundodinero/2010/11/09/economia/1289304399.html |title=El AVE español, el más veloz del mundo y el segundo en puntualidad |publisher=www.elmundo.es|date=10 November 2010 |accessdate=5 June 2011}}&lt;/ref&gt; Regarding punctuality, it is the second one in the world (98.54% on-time arrival) after the Japanese Shinkansen (99%).
+&lt;ref&gt;{{cite web|url=http://www.railpro.co.uk/magazine/?idArticles=34 |title=Spain powers ahead with high-speed rail |publisher=www.railpro.co.uk|date=January 2010 |accessdate=5 June 2011}}&lt;/ref&gt; Should the aims of the ambitious [[AVE]] program (Spanish high speed trains) be met, by 2020 Spain will have 7000&amp;nbsp;km (4300&amp;nbsp;mi) of high-speed trains linking almost all provincial cities to Madrid in less than 3 hours and Barcelona within 4 hours.
+
+There are 47 public airports in Spain. The busiest one is the [[Madrid Airport|airport of Madrid]] (Barajas), with 50&amp;nbsp;million passengers in 2011, being the [[World's busiest airports by passenger traffic|world's 15th busiest airport]], as well as the European Union's fourth busiest. The [[Barcelona Airport|airport of Barcelona]] (El Prat) is also important, with 35&amp;nbsp;million passengers in 2011, being the world's 31th busiest airport. Other main airports are located in [[Palma de Mallorca Airport|Majorca]] (23&amp;nbsp;million passengers), [[Málaga Airport|Málaga]] (13&amp;nbsp;million passengers), [[Gran Canaria Airport|Las Palmas (Gran Canaria)]] (11&amp;nbsp;million passengers), [[Alicante Airport|Alicante]] (10&amp;nbsp;million passengers) and smaller, with the number of passengers between 4 and 10 million, for example [[Tenerife South Airport|Tenerife]] (two airports), [[Valencia Airport|Valencia]], [[Seville Airport|Seville]], [[Bilbao Airport|Bilbao]], [[Ibiza Airport|Ibiza]], [[Lanzarote Airport|Lanzarote]], [[Fuerteventura Airport|Fuerteventura]]. Also, more than 30 airports with the number of passengers below 4 million.
+
+Spain aims to put 1&amp;nbsp;million [[electric car]]s on the road by 2014 as part of the government's plan to save energy and boost [[Efficient energy use|energy efficiency]].&lt;ref&gt;{{cite web|url=http://www.triplepundit.com/pages/algae-based-biofuels-in-plain--003362.php |title=Algae Based Biofuels in Plain English: Why it Matters, How it Works. (algae algaebiofuels carbonsequestration valcent vertigro algaebasedbiofuels ethanol) |publisher=Triplepundit.com |date=30 July 2008 |accessdate=19 November 2008}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; The Minister of Industry [[Miguel Sebastian]] said that &quot;the electric vehicle is the future and the engine of an industrial revolution.&quot;&lt;ref&gt;{{cite web|url=http://www.enn.com/energy/article/37798 |title=Spain to Put 1&amp;nbsp;million Electric Cars on the Road|publisher=Triplepundit.com |date=30 July 2008 |accessdate=19 November 2008}}&lt;/ref&gt;
+
+== Demographics ==
+{{Main|Demographics of Spain}}
+{{See also|List of Spanish autonomous communities by population}}
+[[File:EspDens2.jpg|thumb|350px|Geographical distribution of the Spanish population in 2008]]
+
+In 2008 the population of Spain officially reached 46&amp;nbsp;million people, as recorded by the ''Padrón municipal''.&lt;ref&gt;{{cite web|url=http://www.ine.es/jaxi/menu.do?type=pcaxis&amp;path=%2Ft20/e260&amp;file=inebase&amp;L=1|publisher=Instituto Nacional de Estadística (National Statistics Institute)|title=Population Figures|accessdate=13 August 2008}}&lt;/ref&gt; Spain's population density, at 91/km² (235/sq mi), is lower than that of most Western European countries and its distribution across the country is very unequal. With the exception of the region surrounding the capital, [[Madrid]], the most populated areas lie around the coast. The population of Spain more than doubled since 1900, when it stood at 18.6 million, principally due to the spectacular demographic boom in the 1960s and early 1970s.&lt;ref&gt;Joseph Harrison, David Corkill (2004). &quot;''Spain: a modern European economy''&quot;. Ashgate Publishing. p.23. ISBN 0-7546-0145-5&lt;/ref&gt;
+
+Native [[Spaniards]] make up 88% of the total population of Spain. After the [[List of countries and territories by fertility rate|birth rate]] plunged in the 1980s and Spain's population growth rate dropped, the population again trended upward, based initially on the return of many Spaniards who had emigrated to other European countries during the 1970s, and more recently, fuelled by large numbers of immigrants who make up 12% of the population. The immigrants originate mainly in [[Latin America]] (39%), [[North Africa]] (16%), [[Eastern Europe]] (15%), and [[Sub-Saharan Africa]] (4%).&lt;ref&gt;{{cite web|url=http://www.ine.es/inebase/cgi/axi?AXIS_PATH=/inebase/temas/t20/e245/p04/a2005/l0/&amp;FILE_AXIS=00000010.px&amp;CGI_DEFAULT=/inebase/temas/cgi.opt&amp;COMANDO=SELECCION&amp;CGI_URL=/inebase/cgi/|publisher=Instituto Nacional de Estadística|title=Población extranjera por sexo, país de nacionalidad y edad|accessdate=13 August 2008| archiveurl = http://web.archive.org/web/20080325043135/http://www.ine.es/inebase/cgi/axi?AXIS_PATH=/inebase/temas/t20/e245/p04/a2005/l0/&amp;FILE_AXIS=00000010.px&amp;CGI_DEFAULT=/inebase/temas/cgi.opt&amp;COMANDO=SELECCION&amp;CGI_URL=/inebase/cgi/| archivedate = 25 March 2008}}&lt;/ref&gt; In 2005, Spain instituted a three-month amnesty program through which certain hitherto undocumented aliens were granted legal residency.
+
+In 2008, Spain granted citizenship to 84,170 persons, mostly to people from Ecuador, Colombia and Morocco.&lt;ref&gt;&quot;[http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/3-06072010-AP/EN/3-06072010-AP-EN.PDF EU27 Member States granted citizenship to 696 000 persons in 2008]&quot; (PDF). [[Eurostat]]. 6 July 2010.&lt;/ref&gt; A sizeable portion of foreign residents in Spain also comes from other Western and Central European countries. These are mostly British, French, German, Dutch, and Norwegian. They reside primarily on the Mediterranean coast and the Balearic islands, where many choose to live their retirement or [[telecommute]].
+
+Substantial populations descended from [[Spanish people|Spanish]] colonists and immigrants exist in other parts of the world, most notably in Latin America. Beginning in the late 15th century, large numbers of Iberian colonists settled in what became Latin America and at present most [[white Latin American]]s (who make up about one-third of Latin America's population) are of Spanish or Portuguese origin. In the 16th century perhaps 240,000 Spaniards emigrated, mostly to [[Peru]] and [[Mexico]].&lt;ref&gt;[http://www.let.leidenuniv.nl/history/migration/chapter53.html Migration to Latin America]. Universiteit Leiden.&lt;/ref&gt; They were joined by 450,000 in the next century.&lt;ref&gt;{{Cite journal|url= http://www.millersville.edu/~columbus/data/art/AXTELL01.ART |title= The Columbian Mosaic in Colonial America |first= James |last= Axtell |journal=Humanities |date= September/October 1991 |volume= 12 |issue= 5 |pages= 12–18 |accessdate=8 October 2008|postscript= &lt;!--None--&gt; | archiveurl = http://web.archive.org/web/20080517052031/http://www.millersville.edu/~columbus/data/art/AXTELL01.ART| archivedate = 17 May 2008}}&lt;/ref&gt; Between 1846 and 1932 it is estimated that nearly 5&amp;nbsp;million Spaniards emigrated to the Americas, especially to [[Argentina]] and [[Brazil]].&lt;ref&gt;[http://www.britannica.com/EBchecked/topic/557573/Spain/70267/People Spain – People]. Britannica Online Encyclopedia.&lt;/ref&gt; Approximately two million Spaniards migrated to other Western European countries between 1960 to 1975. During the same period perhaps 300,000 went to Latin America.&lt;ref&gt;[http://www.focus-migration.de/Spain_Update_08_200.5420.0.html?&amp;L=1 Spain]. Focus–Migration.&lt;/ref&gt;
+
+=== Urbanization ===
+{{largest cities of Spain}}
+
+==== Metropolitan areas ====
+[[File:Spain met.png|thumb|400px|Map of the main metropolitan areas]]
+{{See also|List of metropolitan areas in Spain by population}}
+Source: [[European Spatial Planning Observation Network|ESPON]], 2007&lt;ref&gt;
+{{Cite book |publisher=[[European Spatial Planning Observation Network|ESPON]] |author=IGEAT |coauthors=IGSO, LATTS, TSAC |title=ESPON project 1.4.3: Study on Urban Functions: Final Report |date=March 2007 |isbn=978-2-9600467-2-4 |url=http://www.mdrl.ro/espon_cd2/Project_Reports/Preparatory_studies_and_scientific_support_projects/1.4.3_final_report.pdf |accessdate=9 April 2009 }}
+&lt;/ref&gt;
+{| class=&quot;wikitable&quot;
+|- style=&quot;text-align:center;&quot;
+!Pos.|| City || Region || Province || Population
+|- style=&quot;text-align:center;&quot;
+| 1 || [[Madrid]] || [[Community of Madrid]] || Madrid ||6,501,717
+|- style=&quot;text-align:center;&quot;
+| 2 || [[Barcelona]] || [[Catalonia]] || Barcelona || 5,511,147
+|- style=&quot;text-align:center;&quot;
+| 3 || [[Valencia]] || [[Valencian Community]] || Valencia || 2,575,362
+|- style=&quot;text-align:center;&quot;
+| 4 || [[Seville]] || [[Andalusia]] || Seville || 1,927,109
+|- style=&quot;text-align:center;&quot;
+| 5 || [[Bilbao]] || [[Basque Country (autonomous community)|Basque Country]] || Biscay || 1.152.658
+|- style=&quot;text-align:center;&quot;
+| 6 || [[Málaga]] || [[Andalusia]] || Málaga || 1,624,145
+|- style=&quot;text-align:center;&quot;
+| 7 || [[Oviedo]]–[[Gijón]]–[[Avilés]] || [[Asturias]] || Asturias || 844,000
+|- style=&quot;text-align:center;&quot;
+| 8 || [[Alicante]]–[[Elche]] || [[Valencian Community]] || Alicante || 793,000
+|- style=&quot;text-align:center;&quot;
+| 9 || [[Las Palmas]] || [[Canary Islands|Canarias]] || Las Palmas || 750,000
+|- style=&quot;text-align:center;&quot;
+| 10 || [[Zaragoza]] || [[Aragon]] || Zaragoza || 730,000
+|}
+
+=== Peoples ===
+{{Main|Spanish people|Nationalisms and regionalisms of Spain}}
+The [[Spanish Constitution of 1978]], in its second article, recognises historic entities (&quot;nationalities&quot;, a carefully chosen word in order to avoid the more politically charged &quot;nations&quot;) and regions, within the context of the Spanish nation. For some people, Spain's identity consists more of an overlap of different regional identities than of a sole Spanish identity. Indeed, some of the regional identities may even conflict with the Spanish one.{{Clarify|date=February 2009}} Distinct traditional regional identities within Spain include the [[Basque people|Basques]], [[Catalan people|Catalans]], [[Galician people|Galicians]] and [[Castilian people|Castilians]], among others.&lt;ref&gt;{{cite web|url=http://www.state.gov/r/pa/ei/bgn/2878.htm|title=Kingdom of Spain: People|accessdate=13 August 2008|publisher=US Department of State}}&lt;/ref&gt;
+
+It is this last feature of &quot;shared identity&quot; between the more local level or Autonomous Community and the Spanish level which makes the identity question in Spain complex and far from univocal.
+
+=== Minority groups ===
+Spain has a number of descendants of populations from former colonies (especially [[Equatorial Guinea]]) and immigrants from several [[Sub-Saharan]] and [[Caribbean]] countries have been recently settling in Spain. There are also sizeable numbers of [[Asia]]n immigrants, most of whom are of [[Chinese people|Chinese]], [[India]]n, [[Filipino people|Filipino]], [[Middle East]]ern and [[South Asian]] origins; the population of Latin Americans is sizable as well and a fast growing segment. Other growing groups are [[British people|Britons]], 760,000 in 2006, [[Germans]] and other immigrants from the rest of Europe.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/2/hi/uk_news/6161705.stm|title=Immigration statistics|publisher=BBC|accessdate=13 August 2008 | date=11 December 2006}}&lt;/ref&gt;
+
+The arrival of the ''[[Roma in Spain|Gitanos]]'', a [[Romani people]], began in the 16th&amp;nbsp;century; estimates of the Spanish Gitano population fluctuate around 700,000.&lt;ref&gt;{{cite web|url=http://www.eumap.org/reports/2002/eu/international/sections/spain/2002_m_spain.pdf|format=PDF|title=The Situation of Roma in Spain|accessdate=14 August 2008|publisher=Open Society Institute |archiveurl = http://web.archive.org/web/20080626103751/http://www.eumap.org/reports/2002/eu/international/sections/spain/2002_m_spain.pdf |archivedate = 26 June 2008}}&lt;/ref&gt; The ''[[Merchero]]s'' (also Quinquis) are a minority group, formerly nomadic, that share a lot of the way of life of Gitanos. Their origin is unclear.
+
+=== Immigration ===
+{{Main|Immigration to Spain}}
+According to the Spanish government there were 5.7&amp;nbsp;million foreign residents in Spain in 2011, or 12.2% of the total population. According to residence permit data for 2011, more than 860,000 were [[Romanians|Romanian]], about 770,000 were [[Moroccan people|Moroccan]], approximately 390,000 were [[British people|British]], and 360,000 were [[Ecuadorian people|Ecuadorian]].&lt;ref&gt;'''2011''': [http://www.ine.es/prensa/np648.pdf INE]&lt;/ref&gt; Other sizeable foreign communities are [[Colombian people|Colombian]], [[Bolivian people|Bolivian]], [[Germans|German]], [[Italians|Italian]], [[Bulgarians|Bulgarian]], and [[Chinese people|Chinese]]. There are more than 200,000 migrants from Sub-Saharan [[Africa]] living in Spain, principally [[Senegalese people|Senegaleses]] and [[Nigerian people|Nigerians]].&lt;ref&gt;&quot;[http://www.earthtimes.org/articles/show/295183,financial-crisis-reveals-vulnerability-of-spains-immigrants--feature.html Financial crisis reveals vulnerability of Spain's immigrants – Feature]{{dead link|date=November 2011}}&quot;. The Earth Times. 18 November 2009.&lt;/ref&gt; Since 2000, Spain has experienced high [[population growth]] as a result of immigration flows, despite a birth rate that is only half the replacement level. This sudden and ongoing inflow of immigrants, particularly those arriving clandestinely by sea, has caused noticeable social tension.&lt;ref&gt;{{cite web|url=http://www.ine.es/prodyser/pubweb/anuario06/anu06_02demog.pdf|publisher=Instituto Nacional de Estadística|title=Avance del Padrón Municipal a 1 de enero de 2006. Datos provisionales|format=PDF|accessdate=13 August 2008}} See also: {{cite web|url=http://www.imdiversity.com/villages/hispanic/world_international/pns_immigration_shift_1204.asp|title=Immigration Shift: Many Latin Americans Choosing Spain Over U.S.|accessdate=13 August 2008|publisher=IMDiversity, Inc}} and {{cite web|url=http://www.businessweek.com/magazine/content/07_21/b4035066.htm|title=Spain: Immigrants Welcome|accessdate=13 August 2008|work=Business Week }} and {{cite web|url=http://www.msnbc.msn.com/id/14628564/site/newsweek/print/1/displaymode/1098/|title=Immigrants Fuel Europe's Civilization Clash|accessdate=13 August 2008|publisher=MSNBC |archiveurl = http://web.archive.org/web/20080513052346/http://www.msnbc.msn.com/id/14628564/site/newsweek/print/1/displaymode/1098/ &lt;!-- Bot retrieved archive --&gt; |archivedate = 13 May 2008}} and {{cite web|url=http://www.iht.com/articles/2007/01/22/news/spain.php|title=Spanish youth clash with immigrant gangs|accessdate=13 August 2008|work=International Herald Tribune }}&lt;/ref&gt;
+
+[[File:Puerto banus 2-2-09.jpg|thumb|250px|[[Marbella]], [[province of Málaga|Málaga]], where [[British people|Britons]] —who are the third immigrant community in Spain— reside in large numbers.]]
+Within the EU, Spain had the second highest immigration rate in percentage terms after [[Cyprus]], but by a great margin, the highest in absolute numbers, up to 2008.&lt;ref&gt;{{cite web|url=http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-NK-06-001/EN/KS-NK-06-001-EN.PDF|publisher=Eurostat|title=Population in Europe in 2005|format=PDF|accessdate=13 August 2008}}&lt;/ref&gt; The number of immigrants in Spain had grown up from 500,000 people in 1996 to 5.2&amp;nbsp;million in 2008 out of a total population of 46&amp;nbsp;million.&lt;ref&gt;[http://www.workpermit.com/news/2007-10-10/spain/spanish-immigration-budget-increases.htm Spain to increase immigration budget], 10 October 2007&lt;/ref&gt;&lt;ref&gt;[http://www.brusselsjournal.com/node/3527 Spain’s Immigration System Runs Amok], 17 September 2008&lt;/ref&gt; In 2005 alone, a regularisation programme increased the legal immigrant population by 700,000 people.&lt;ref&gt;{{Cite news|url=http://www.guardian.co.uk/world/2005/may/09/spain.gilestremlett |title=Spain grants amnesty to 700,000 migrants |work=Guardian |location=UK |date= 9 May 2005|accessdate=20 July 2009 | location=London | first=Giles | last=Tremlett}}&lt;/ref&gt; There are a number of reasons for the high level of immigration, including Spain's cultural ties with [[Latin America]], its geographical position, the porosity of its borders, the large size of its underground economy and the strength of the agricultural and construction sectors, which demand more low cost labour than can be offered by the national workforce.
+
+Another statistically significant factor is the large number of residents of EU origin typically retiring to Spain's Mediterranean coast. In fact, Spain was Europe's largest absorber of migrants from 2002 to 2007, with its immigrant population more than doubling as 2.5&amp;nbsp;million people arrived.&lt;ref&gt;{{cite web|url=http://www.ine.es/inebase/cgi/um?M=%2Ft20%2Fe245%2Fp08%2F&amp;O=pcaxis&amp;N=&amp;L=0|title=Population series from 1998|publisher=[[Instituto Nacional de Estadística de España|INE]] Spanish Statistical Institute|accessdate=14 August 2008| archiveurl = http://web.archive.org/web/20071102141040/http://www.ine.es/inebase/cgi/um?M=/t20/e245/p08/&amp;O=pcaxis&amp;N=&amp;L=0| archivedate = 2 November 2007}}&lt;/ref&gt; According to the Financial Times, Spain is the most favoured destination for West Europeans considering a move from their own country and seeking jobs elsewhere in the EU.&lt;ref&gt;{{cite web|url=http://international.ibox.bg/news/id_1406161495|publisher=News.bg|title=Europeans Favour Spain for Expat Jobs|accessdate=13 August 2008}}&lt;/ref&gt;
+
+In 2008, the government instituted a ''[[Plan of Voluntary Return]]'' which encouraged unemployed immigrants from outside the EU to return to their home countries and receive several incentives, including the right to keep their unemployment benefits and transfer whatever they contributed to the Spanish Social Security.&lt;ref&gt;[http://www.planderetornovoluntario.es/index_uno.html Plan de Retorno Voluntario] Gobierno de España&lt;/ref&gt; The program had little effect; during its first two months, just 1,400 immigrants took up the offer.&lt;ref&gt;[http://online.wsj.com/article/SB123275552359911807.html Spain's Jobs Crisis Leaves Immigrants Out of Work], The Wall Street Journal, 24 January 2009&lt;/ref&gt; What the program failed to do, the sharp and prolonged economic crisis has done from 2010 to 2011 in that tens of thousands of immigrants have left the country due to lack of jobs. In 2011 alone, more than half a million people have left Spain.&lt;ref name=emigracion/&gt; For the first time in decades the net migration rate is expected to be negative, and 9 out 10 emigrants are foreigners.&lt;ref name=emigracion&gt;[http://www.elpais.com/articulo/sociedad/580000/personas/van/Espana/elpepisoc/20111008elpepisoc_2/Tes 580.000 personas se van de España]. El País. Edición Impresa. 8 October 2011&lt;/ref&gt;
+
+=== Languages ===
+{{Main|Languages of Spain}}
+[[File:Languages of Spain.svg|thumb|right|250px|'''The languages of Spain''' (simplified)
+{| style=&quot;width:100%; background:none;&quot;
+| align=top |{{legend|#f30000|[[Spanish language|Spanish]] official and spoken all over the country}}
+{{legend|#e090e0|[[Catalan language|Catalan/Valencian]], co-official}}
+{{legend|#356585|[[Basque language|Basque]], co-official}}
+{{legend|#ffffbb|[[Galician language|Galician]], co-official}}
+| align=top |
+{{legend|#55ee99|[[Aranese language|Aranese]], co-official (dialect of [[Occitan language|Occitan]])}}
+{{legend|#009f00|[[Asturian language|Asturian]], recognised}}
+{{legend|#2070ff|[[Aragonese language|Aragonese]], recognised}}
+{{legend|#eee400|[[Leonese language|Leonese]], unofficial}}
+{{legend|#107010|[[Extremaduran language|Extremaduran]], unofficial}}
+{{legend|#906010|[[Fala language|Fala]], unofficial}}
+|}]]
+Spain is openly multilingual,&lt;ref name=conversi&gt;{{cite web| url=http://easyweb.easynet.co.uk/conversi/smooth.pdf| last=Conversi|first=Daniele|title=The Smooth Transition: Spain’s 1978 Constitution and the Nationalities Question| publisher=Carfax Publishing, Inc.|work=National Identities, Vol 4, No. 3|year=2002|accessdate=28 January 2008}}&lt;/ref&gt; and the constitution establishes that the nation will protect &quot;all Spaniards and the peoples of Spain in the exercise of human rights, their cultures and traditions, languages and institutions.&lt;ref name=preamble&gt;Preamble to the Constitution {{cite web |url=http://www.tribunalconstitucional.es/en/constitucion/Pages/ConstitucionIngles.aspx#i1 |title=Spanish Constitution |author=[[Cortes Generales]] |date=27 December 1978 |work= |publisher=Tribunal Constitucional de España |accessdate=28 January 2012}}&lt;/ref&gt;
+
+[[Spanish language|Spanish]] (''español'') — officially recognized in the constitution as [[Castilian Spanish|Castilian]] (''castellano'') — is the official language of the entire country, and it is the right and duty of every Spaniard to know the language. The constitution also establishes that &quot;all other Spanish languages&quot; — that is, all other languages of Spain — will also be official in their respective autonomous communities in accordance to their [[Statute of Autonomy|Statutes]], their organic regional legislations, and that the &quot;richness of the distinct linguistic modalities of Spain represents a patrimony which will be the object of special respect and protection.&quot;&lt;ref name=third&gt;Third article. {{cite web |url=http://www.tribunalconstitucional.es/en/constitucion/Pages/ConstitucionIngles.aspx#i1 |title=Spanish Constitution |author=[[Cortes Generales]] |date=27 December 1978 |work= |publisher=Tribunal Constitucional de España |accessdate=28 January 2012}}&lt;/ref&gt;
+
+The other official languages of Spain, co-official with Spanish are:
+* [[Basque language|Basque]] (''euskera'') in the [[Basque Country (autonomous community)|Basque Country]] and [[Navarre]];
+* [[Catalan language|Catalan]] (''català'') in [[Catalonia]], the [[Balearic Islands]] and in the [[Valencian Community]], where its distinct modality of the language is officially known as [[Valencian language|Valencian]] (''valencià''); and
+* [[Galician language|Galician]] (''galego'')  in [[Galicia (Spain)|Galicia]]
+
+As a percentage of the general population, Basque is spoken by 2%, Catalan (or Valencian) by 17%, and Galician by 7% of all Spaniards.&lt;ref&gt;{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/sp.html |title=CIA – The World Factbook – Spain |publisher=Cia.gov |date= |accessdate=30 April 2011}}&lt;/ref&gt;
+
+In [[Catalonia]], [[Aranese language|Aranese]], a local variety of the [[Occitan language]], has been declared co-official along with Catalan and Spanish since 2006. It is spoken only in the ''comarca'' of ''[[Val d'Aran]]'' by roughly 6,700 people.  Other [[Romance language|Romance]] [[minority languages]], though not official, have special recognition, such as the Astur-Leonese group ([[Asturian language|Asturian]], also called &quot;''Bable''&quot; in [[Asturias]]&lt;ref&gt;{{cite web|url=http://www.jgpa.es/portal.do?TR=C&amp;IDR=45|title=Junta General del Principado de Asturias|accessdate=13 August 2008|publisher=Junta General del Principado de Asturias}}&lt;/ref&gt; and [[Leonese language|Leonese]] in [[Castile and León]]) and [[Aragonese language|Aragonese]] in [[Aragon]].
+
+In the [[North Africa]]n Spanish autonomous city of [[Melilla]], [[Riff language|Riff Berber]] is spoken by a significant part of the population. In the tourist areas of the Mediterranean coast and the islands, [[English language|English]] and [[German language|German]] are widely spoken by tourists, foreign residents, and tourism workers.
+
+=== Education ===
+{{Main|Education in Spain}}
+State education in Spain is free and compulsory from the age of 6 to 16. The current education system was established by an educational law of 2006, Ley Orgánica de Educación, or Fundamental Law of Education.&lt;ref name=LOE_juridicas&gt;[http://noticias.juridicas.com/base_datos/Admin/lo2-2006.html ''La Ley Orgánica 2/2006'']. Retrieved 23 September 2009&lt;/ref&gt;
+
+=== Religion ===
+{{Main|Religion in Spain}}
+{{Further|History of the Jews in Spain|Bahá'í Faith in Spain|Hinduism in Spain}}
+{{bar box
+|title=Religions in Spain
+|titlebar=#ddd
+|float=right
+|bars=
+{{bar percent|Catholicism|blue|71}}
+{{bar percent|No religion|green|24.1}}
+{{bar percent|Other faith|gray|2.7}}
+{{bar percent|No answer|purple|1.9}}
+|caption=Numbers from the following source:&lt;ref name=CIS&gt;{{cite web|url=http://datos.cis.es/pdf/Es2941mar_A.pdf|title=Barómetro abril 2012|date=April 2012|page=17|accessdate=15 May 2012|author=Centro de Investigaciones Sociológicas}}&lt;/ref&gt;
+}}
+[[Roman Catholic]]ism has long been the main religion of Spain, and although it no longer has official status by law, in all public schools in Spain students have to choose either religion or ethics and Catholic is the only religion officially taught. According to an April 2012 study by the Spanish Center of Sociological Research about 71% of Spaniards self-identify as Catholics, 2.7% other faith, and about 24% identify with [[irreligion|no religion]] among which 9.4% are atheists. Most Spaniards do not participate regularly in religious services. This same study shows that of the Spaniards who identify themselves as religious, 59% hardly ever or never go to church, 15% go to church some times a year, 8% some time per month and 14% every Sunday or multiple times per week.&lt;ref name=CIS/&gt;
+
+[[File:Basílica de Santiago 02.JPG|thumb|upright|left|[[Santiago de Compostela Cathedral]], [[province of A Coruña|A Coruña]]; terminus of the [[Way of St. James]]]]
+
+But according to a December 2006 study, 48% of the population declared a belief in a supreme being, while 41% described themselves as atheist or agnostic.&lt;ref&gt;[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14255 Religion Important for Americans, Italians], Angus Reid Global Monitor, 30 December 2006&lt;/ref&gt; Altogether, about 22% of the entire Spanish population attends religious services at least once per month.&lt;ref&gt;{{cite web|url=http://mas.lne.es/documentos/archivos/20-11-06-cis.pdf|publisher=Centre of Sociological Investigations|title=October poll, questions 32 and 32a|format=PDF|accessdate=13 August 2008}}&lt;/ref&gt; Though Spanish society has become considerably more secular in recent decades, the influx of Latin American immigrants, who tend to be strong Catholic practitioners, has helped the Catholic Church to recover.
+
+[[Protestantism|Protestant]] churches have about 1,200,000 members.&lt;ref&gt;{{cite web|url=http://www.ferede.org/general.php?pag=estad#1 |title=Federación de Entidades Religiosas Evangélicas de España – FEREDE |publisher=Ferede.org |date= |accessdate=4 September 2010}}&lt;/ref&gt; There are about 105,000 [[Jehovah's Witnesses]]. [[The Church of Jesus Christ of Latter-day Saints]] has approximately 46,000 adherents in 133 congregations in all regions of the country and has a [[Madrid Spain Temple|temple]] in the [[Moratalaz|Moratalaz District]] of Madrid.&lt;ref&gt;{{cite web|url=http://lds.org/ldsnewsroom/eng/contact-us/spain|archiveurl=http://web.archive.org/web/20071213224340/http://www.lds.org/ldsnewsroom/eng/contact-us/spain|archivedate=13 December 2007 |title=Spain – LDS Newsroom |publisher=Lds.org |date= |accessdate=4 September 2010}}&lt;/ref&gt;
+
+The recent waves of immigration have also led to an increasing number of [[Muslim]]s, who number approximately one million in Spain. Presently, Islam is the second largest religion in Spain, accounting for approximately 2.3% of the total population.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/2/hi/europe/4385768.stm#spain|publisher=BBC|title=Muslims in Europe: Country guide|accessdate=13 August 2008 | date=23 December 2005}}&lt;/ref&gt; After their expulsion in 1492, Muslims did not live in Spain for centuries. Late 19th-century colonial expansion in northwestern Africa gave a number of residents in [[Spanish Morocco]] and [[Western Sahara]] full citizenship. Their ranks have since been bolstered by recent immigration, especially from Morocco and Algeria.&lt;ref&gt;{{cite web
+|url= http://www.hudson-ny.org/1424/spain-burqa-ban-muslim-immigration
+|title=Spain Debates Burqa Ban; Muslim Immigration Soars
+|work=Hudson New York
+|accessdate=28 July 2010
+}}&lt;/ref&gt;
+
+[[Judaism]] was practically non-existent in Spain from the 1492 expulsion until the 19th&amp;nbsp;century, when Jews were again permitted to enter the country. Currently there are around 62,000 Jews in Spain, or 0.14% of the total population. Most are arrivals in the past century, while some are descendants of earlier Spanish Jews. Approximately 80,000 [[Jew]]s are thought to have lived in Spain on the eve of the [[Spanish Inquisition]].&lt;ref&gt;{{Cite book|title=The Spanish Inquisition: A Historical Revision|year=1999|publisher=[[Yale University Press]]|authorlink=Henry Kamen|last=Kamen|first=Henry|pages=29–31}}&lt;/ref&gt;
+
+== Culture ==
+{{Main|Culture of Spain|UNESCO World Heritage Sites in Spain}}
+{{double image|right|LopedeVega.jpg|100|Retrato de Francisco de Quevedo.jpg|100|[[Lope de Vega]] and [[Francisco de Quevedo|Quevedo]]}}
+Culturally, Spain is a [[Western world|Western country]]. Because of the great strength of the Roman heritage in almost every aspect of Spanish life, Spain is often described as a [[Latin Europe|Latin country]].  Nevertheless, there have been many influences on many aspects of Spanish life, from art and architecture to cuisine and music, from many countries across Europe and from around the Mediterranean, through its long history.
+{{double image|left|PioBaroja.JPG|100|Lorca (1934).jpg|100|[[Pio Baroja]] and [[García Lorca|Lorca]]}}
+The number of [[UNESCO World Heritage Sites]] in Spain, 40, is exceeded only by the number in Italy.&lt;ref&gt;{{cite web|url=http://whc.unesco.org/en/list|title=World Heritage List|publisher=UNESCO|accessdate=13 August 2008}}&lt;/ref&gt;
+
+=== Literature ===
+{{Main|Spanish literature}}
+[[File:Don Quijote and Sancho Panza.jpg|thumb|upright|[[Sancho Panza]] and Don Quixote, main characters in [[Miguel de Cervantes]]' novel ''[[Don Quixote]]''.&lt;ref name=&quot;The top 100 books of all time&quot;&gt;{{Cite news|url=http://www.guardian.co.uk/world/2002/may/08/books.booksnews|title=The top 100 books of all time|work=The Guardian |location=UK |accessdate=14 August 2008 | location=London | date=11 May 2006}}&lt;/ref&gt;]]
+
+Due to historic, geographic and generational diversity, Spanish literature has known a great number of influences and it is very diverse. Some major literary movements can be identified within it.
+
+[[Miguel de Cervantes]] is probably Spain's most famous author and his [[Don Quixote]] is considered the most emblematic work in the canon of Spanish literature and a founding classic of Western literature.&lt;ref name=&quot;The top 100 books of all time&quot;/&gt;
+
+{{see also|Catalan literature|Basque literature|Galician-language literature|Latin American literature}}
+
+=== Language institutions ===
+{{Main|Royal Spanish Academy|Institute for Catalan Studies|Royal Galician Academy|Royal Academy of the Basque language}}
+The Royal Spanish Academy (''Real Academia Española'' or ''RAE'') is the institution responsible for regulating the [[Spanish language]]. It is based in [[Madrid]], but is affiliated with national language academies in 21 [[Hispanophone|Spanish-speaking nations]] through the [[Association of Spanish Language Academies]].&lt;ref&gt;{{cite web|url=http://www.rae.es/rae/gestores/gespub000001.nsf/voTodosporId/CEDF300E8D943D3FC12571360037CC94?OpenDocument&amp;i=0|title=Origins|publisher=Real Academia Española|accessdate=13 August 2008}}&lt;/ref&gt;
+
+With the same policy, the Royal Galician Academy (''Real Academia Galega'' or ''RAG'', in [[Galician language|Galician]]) was created in 1906 in [[A Coruña]] with the help of [[Havana]] emigrated Galicians. Its work is based in a [[Lexicography]] (the main results are the official and standard ''Dicionario da Real Academia'' and the ''[[:gl:VOLG|Vocabulario ortográfico da lingua galega]]''), [[Terminology]] (through [[Termigal]] since 1997), [[Sociolinguistics]], [[Onomastics]] and [[Grammar]] approaches from the Linguistics point of view, and another two sections for [[History]] and [[Literature]].&lt;ref&gt;{{cite web|url=http://www.realacademiagalega.org/academy/GoToSections.do |title=Seccións da Real Academia Galega |publisher=Realacademiagalega.org |date= |accessdate=1 November 2011}}&lt;/ref&gt; The Academy works closely with the government as an advice institution, and its resolutions are almost binding about language standard. It had though recently demonstrated criticism about the development of the Galician language policy by the Government.&lt;ref&gt;{{cite web|url=http://www.realacademiagalega.org/PlainRAG/notices/files/Analise_BASES_RAG.pdf |title=Anlise da Real Academia Galega |format=PDF |date= |accessdate=1 November 2011}}&lt;/ref&gt;
+[[File:Las Meninas, by Diego Velázquez, from Prado in Google Earth.jpg|left|thumb|''[[Las Meninas]]'' (1656), [[Diego Velázquez]], [[Museo del Prado]].]]
+[[File:Autorretrato en el taller.jpg|thumb|right|170px|''Self-portrait in the Studio'' (1790-1795), [[Francisco de Goya]], [[Real Academia de Bellas Artes de San Fernando]].]]
+The Institute of Catalan Studies (''Institut d'Estudis Catalans'' or ''IEC'', in [[Catalan language|Catalan]]) is an academic institution which seeks to undertake research and study into &quot;all elements of Catalan culture&quot;. The IEC is known principally for its work in standardizing the Catalan language. The IEC is based in [[Barcelona]], the capital of [[Catalonia]]. Officially the IEC provides standards for Catalonia proper, [[Northern Catalonia]] (located in [[France]]), the [[Balearic Islands]], and the [[Principality of Andorra]] (the only country where Catalan is the sole official language). The [[Valencian Community]] has its own language academy, the [[Acadèmia Valenciana de la Llengua]]. In an area known as the [[Franja de Ponent]], the eastern edge of [[Aragon]] adjacent to Catalonia where Catalan is spoken, the rules are used de facto although Catalan is not an official language.
+
+=== Art ===
+{{Main|Spanish art}}
+Artists from Spain have been highly influential in the development of various European [[art movement|artistic movements]]. Due to historical, geographical and generational diversity, Spanish art has known a great number of influences. The Moorish heritage in Spain,  especially in [[Andalusia]], is still evident today and European influences include Italy, Germany and France, especially during the [[Baroque]] and [[Neoclassicism|Neoclassical]] periods.
+
+=== Cinema ===
+{{Main|Cinema of Spain}}
+Spanish cinema has achieved major international success including [[Academy Award|Oscars]] for recent films such as ''[[Pan's Labyrinth]]'' and ''[[Volver]]''.&lt;ref&gt;{{Cite book|last=Jordan|first=Barry|coauthors=Rikki Morgan-Tamosunas|title=Contemporary spanish cinema|publisher=[[Manchester University Press]]|year=1998}}&lt;/ref&gt; In the long history of Spanish cinema, the great filmmaker [[Luis Buñuel]] was the first to achieve world recognition, followed by [[Pedro Almodóvar]] in the 1980s. Spanish cinema has also seen international success over the years with films by [[film director|directors]] like [[Segundo de Chomón]], [[Florián Rey]], [[Luis García Berlanga]], [[Carlos Saura]], [[Julio Medem]] and [[Alejandro Amenábar]].
+[[File:Guggenheim-bilbao-jan05.jpg|thumb|right|[[Guggenheim Museum Bilbao|Guggenheim Museum]], [[Bilbao]], [[Biscay]]]]
+
+=== Architecture ===
+{{Main|Spanish architecture}}
+[[File:Plaza de Cibeles - Palacio de Communicaciones Madrid 2002.jpg|thumb|left|The [[Plaza de Cibeles]], Madrid]]
+Due to its historical and geographical diversity, Spanish architecture has drawn from a host of influences. An important provincial city founded by the Romans and with an extensive [[Roman era]] infrastructure, [[Córdoba, Spain|Córdoba]] became the cultural capital, including fine Arabic style architecture, during the time of the Islamic [[Umayyad dynasty]].&lt;ref&gt;{{Cite book|first=Jo|last=Cruz|title=Western Views of Islam in Medieval and Early Modern Europe: Perception and Other|editor=Edited by David R. Blanks and Michael Frassetto|location=New York|publisher=Saint Martin's Press|year=1999|page=56}}&lt;/ref&gt; Later Arab style architecture continued to be developed under successive Islamic dynasties, ending with the [[Nasrid]], which built its famed palace complex in [[Granada]].
+
+Simultaneously, the Christian kingdoms gradually emerged and developed their own styles; developing a [[pre-Romanesque]] style when for a while isolated from contemporary mainstream European architectural influences during the earlier Middle Ages, they later integrated the [[Romanesque architecture|Romanesque]] and [[Gothic architecture|Gothic]] streams. There was then an extraordinary flowering of the gothic style that resulted in numerous instances being built throughout the entire territory. The [[Mudéjar]] style, from the 12th to 17th&amp;nbsp;centuries, was developed by introducing Arab style motifs, patterns and elements into European architecture.
+[[File:Sagradafamilia-overview.jpg|thumb|upright|The [[Sagrada Família]], Barcelona]]
+The arrival of [[Modernism]] in the academic arena produced much of the architecture of the 20th&amp;nbsp;century. An influential style centered in [[Barcelona]], known as [[modernisme]], produced a number of important architects, of which [[Gaudí]] is one. The [[International style (architecture)|International style]] was led by groups like [[GATEPAC]]. Spain is currently experiencing a revolution in [[contemporary architecture]] and [[:Category:Spanish architects|Spanish architects]] like [[Rafael Moneo]], [[Santiago Calatrava]], [[Ricardo Bofill]] as well as many others have gained worldwide renown.
+
+=== Music and dance ===
+{{Main|Music of Spain}}
+[[File:Classical Guitar two views.jpg|thumb|left|upright|The guitar, an iconic Spanish instrument, is now popular worldwide.]]
+Spanish music is often considered abroad to be synonymous with [[flamenco]], a West Andalusian musical genre, which, contrary to popular belief, is not widespread outside that region. Various regional styles of [[folk music]] abound in Aragon, Catalonia, Valencia, Castile, the Basque Country, Galicia and Asturias. Pop, rock, hip hop and heavy metal are also popular.
+In the field of [[classical music]], Spain has produced a number of noted [[composers]] such as [[Isaac Albéniz]], [[Manuel de Falla]] and [[Enrique Granados]] and singers and performers such as [[Plácido Domingo]], [[José Carreras]], [[Montserrat Caballé]], [[Alicia de Larrocha]], [[Alfredo Kraus]], [[Pablo Casals]], [[Ricardo Viñes]], [[José Iturbi]], [[Pablo de Sarasate]], [[Jordi Savall]] and [[Teresa Berganza]]. In Spain there are over forty professional orchestras, including the [[Orquestra Simfònica de Barcelona]], [[Orquesta Nacional de España]] and the [[Orquesta Sinfónica de Madrid]]. Major [[opera houses]] include the [[Teatro Real]],the [[Gran Teatre del Liceu]], [[Teatro Arriaga]] and the [[El Palau de les Arts Reina Sofía]].
+
+Thousands of music fans also travel to Spain each year for internationally recognised summer music festivals [[Sónar]] which often features the top up and coming pop and techno acts, and [[Festival Internacional de Benicàssim|Benicàssim]] which tends to feature alternative rock and dance acts.&lt;ref&gt;{{cite web|url=http://www.spoonfed.co.uk/london/festivals/ |title=Music Festivals, UK Festivals and London Festivals |publisher=Spoonfed.co.uk |date= |accessdate=1 November 2011}}&lt;/ref&gt; Both festivals mark Spain as an international music presence and reflect the tastes of young people in the country.
+
+The most popular traditional [[musical instrument]], the [[guitar]], originated in Spain.&lt;ref&gt;{{cite web|url=http://www.linguatics.com/guitar.htm |title=The History of the Guitar in Spain |publisher=Linguatics.com |date= |accessdate=30 April 2011}}&lt;/ref&gt; Typical of the north are the traditional bag pipers or [[gaita|''gaiteros'']], mainly in Asturias and Galicia.
+
+=== Cuisine ===
+{{Main|Spanish cuisine}}
+[[File:Paella de marisco 01.jpg|thumb|[[Paella]], a traditional [[Valencian Community|Valencian]] dish&lt;ref name=&quot;paella&quot;&gt;{{Cite news
+ |url= http://www.timesonline.co.uk/tol/travel/article2277058.ece
+ |title=Spain's perfect paella |date=19 August 2007 | last=Richardson |first=Paul
+ |work=The Times |location=London |publisher=Times Newspapers
+ |accessdate=6 August 2010
+}}&lt;/ref&gt;]]
+Spanish cuisine consists of a great variety of dishes which stem from differences in geography, culture and climate. It is heavily influenced by seafood available from the waters that surround the country, and reflects the country's deep [[Mediterranean]] roots. Spain's extensive history with many cultural influences has led to a unique cuisine. In particular, three main divisions are easily identified:
+
+''Mediterranean'' Spain.- all such coastal regions, from Catalonia to Andalusia: heavy use of seafood, such as ''pescaíto frito''; several cold soups like [[gazpacho]]; and many rice-based dishes like [[paella]] from Valencia&lt;ref name=&quot;paella&quot;/&gt; and [[arroz negro]] from Catalonia.&lt;ref&gt;{{Cite news
+ |url= http://www.villagevoice.com/2009-12-01/restaurants/spain-gain-at-mercat-negre/
+ |title=Spain Gain at Mercat Negre
+ |work=Village Voice |publisher=Voice Media Group |date=1 December 2009 |last=DiGregorio |first=Sarah |location=New York
+ |accessdate=6 August 2010
+}}&lt;/ref&gt;
+
+''Inner'' Spain – Castile.- hot, thick soups such as the bread and garlic-based ''Castilian soup'', along with substantious stews such as [[cocido madrileño]]. Food is traditionally conserved by salting, like [[Spanish ham]], or immersed in [[olive oil]], like [[Manchego cheese]].
+
+''Atlantic'' Spain.- the whole Northern coast, including [[Asturian cuisine|Asturian]], [[Basque cuisine|Basque]], [[Cantabrian cuisine|Cantabrian]] and [[Galician cuisine]]: vegetable and fish-based stews like ''pote gallego'' and [[marmitako]]. Also, the lightly cured [[Lacón Gallego|lacón]] ham. The best known cuisine of the northern countries often rely on ocean seafood, like the Basque-style [[cod]], [[albacore]] or [[anchovy]] or the Galician octopus-based [[polbo á feira]] and shellfish dishes.
+
+=== Science and technology ===
+[[File:Hemispheric - Valencia, Spain - Jan 2007.jpg|thumb|220px|[[Ciutat de les Arts i les Ciències]], Valencia.]]
+In the 19th and 20th centuries science in Spain was held back by severe political instability and consequent economic underdevelopment. Despite the conditions, some noted scientists and engineers emerged. Among the most notable were [[Miguel Servet]], [[Santiago Ramón y Cajal]], [[Narcís Monturiol i Estarriol]], [[Celedonio Calatayud]], [[Juan de la Cierva]] and [[Severo Ochoa]].
+
+=== Sport ===
+{{Main|Sport in Spain}}
+[[File:Camp Nou - Interior (2005).jpg|thumb|[[Camp Nou]], [[Barcelona]]: the largest [[Stadium|football stadium]] in Europe]]
+Sport in Spain has been dominated by [[Association football|football]] since the early 20th century. [[Real Madrid C.F.]] and [[FC Barcelona]] are two of the most successful football clubs in the world. [[Spain national football team|The country's national football team]] won the [[UEFA European Football Championship]] in 1964, 2008 and 2012 and the [[FIFA World Cup]] in [[2010 FIFA World Cup|2010]], and is the first team to ever win three back-to-back international tournaments.
+
+[[Basketball]], [[tennis]], [[cycling]], [[team handball|handball]], [[futsal]], [[motorcycling]] and, lately, [[Formula One]] are also important due to the presence of Spanish champions in all these disciplines. Today, Spain is a major world sports powerhouse, especially since the [[1992 Summer Olympics]] that were hosted in [[Barcelona]], which stimulated a great deal of interest in sports in the country. The tourism industry has led to an improvement in sports infrastructure, especially for [[water sports]], [[golf]] and [[skiing]].
+
+[[Rafael Nadal]] is the leading Spanish tennis player and has won several Grand Slam titles including the Wimbledon 2010 men's singles. In north Spain, the game of [[Basque pelota|pelota]] is very popular.
+[[Alberto Contador]] is the leading Spanish cyclist and has won several Grand Tour titles including three [[Tour de France]] titles.
+
+=== Public holidays ===
+{{Main|Public holidays in Spain}}
+Public holidays celebrated in Spain include a mix of religious ([[Roman Catholic]]), national and regional observances. Each municipality is allowed to declare a maximum of 14 [[public holiday]]s per year; up to nine of these are chosen by the national government and at least two are chosen locally.&lt;ref&gt;{{cite web|url=http://www.bank-holidays.com/holidays_2007_58.htm|title=Bank holidays in Spain|publisher=bank-holidays.com|accessdate=13 August 2008}}&lt;/ref&gt; Spain's National Day ([[Fiesta Nacional de España]]) is 12 October, the anniversary of the [[Discovery of America]] and commemorate [[Our Lady of the Pillar]] feast, patroness of [[Aragon]] and throughout Spain.
+
+[[File:Donostia Igeldotik.jpg|thumb|center|700px|The city of [[San Sebastián]] in [[Gipuzkoa]]]]
+
+== See also ==
+{{portal|Spain}}
+*[[List of Spain-related topics]]
+*[[Outline of Spain]]
+*{{Wikipedia books link|Spain}}
+*[[Symbols of Francoism]]
+*[[Symbols of the Franco regime]]
+
+== Notes ==
+{{notelist|30em}}
+
+== References ==
+{{reflist|30em}}
+
+;Books referenced
+* {{Cite book|author=Gates, David|title=The Spanish Ulcer: A History of the Peninsular War|publisher=Da Capo Press|year=2001|isbn=978-0-306-81083-1|page=20}}
+
+== External links ==
+{{Sister project links|b=no}}
+
+&lt;!--Do not add a link to your or your friend's website or to a website that contains less information than this article. Before adding any links read Wikipedia:External links to make sure your link is appropriate--&gt;
+*{{CIA World Factbook link|sp|Spain}}
+*[http://ucblibraries.colorado.edu/govpubs/for/spain.htm Spain] from ''UCB Libraries GovPubs''
+*{{dmoz|Regional/Europe/Spain}}
+*[http://www.bbc.co.uk/news/world-europe-17941641 Spain profile] from the [[BBC News]]
+*[http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=ES Key Development Forecasts for Spain] from [[International Futures]]
+
+;Government
+*[http://www.lamoncloa.gob.es/IDIOMAS/9/home Official website of the Spanish Government] {{En icon}}
+*[http://www.060.es/ 060 e-government Portal]
+
+;Maps
+*{{wikiatlas|Spain}}
+*{{osmrelation-inline|1311341}}
+
+;Tourism
+*[http://www.spain.info/ Official tourism portal for Spain]
+*{{Wikitravel}}
+
+{{Navboxes
+|title= Articles related to Spain
+|list=
+{{Spain topics}}
+{{Sovereign states of Europe}}
+{{Countries and territories bordering the Mediterranean Sea}}
+{{Monarchies}}
+{{Navboxes
+|title=International membership
+|list=
+{{Members of the European Union (EU)}}
+{{Council of Europe}}
+{{World Trade Organization}}
+{{North Atlantic Treaty Organisation (NATO)}}
+{{Organisation for Economic Co-operation and Development}}
+{{Latin Union}}
+}}
+}}
+
+[[Category:Spain| ]]
+[[Category:Bicontinental countries]]
+[[Category:Constitutional monarchies]]
+[[Category:Countries bordering the Atlantic Ocean]]
+[[Category:Countries of the Mediterranean Sea]]
+[[Category:European countries]]
+[[Category:Liberal democracies]]
+[[Category:Member states of NATO]]
+[[Category:Member states of the European Union]]
+[[Category:Member states of the Union for the Mediterranean]]
+[[Category:Member states of the United Nations]]
+[[Category:Spanish-speaking countries]]
+[[Category:Western Europe]]
+[[Category:Article Feedback 5 Additional Articles]]
+
+{{Link FA|arz}}
+{{Link FA|ia}}
+{{Link FA|ko}}
+{{Link FA|mr}}
+{{Link FA|tt}}
+{{Link GA|es}}
+{{Link GA|lv}}
+{{Link FA|eo}}
+{{Link FA|nah}}
+{{Link GA|ar}}
+{{Link FA|hy}}
+[[ace:Seupanyo]]
+[[kbd:Эспаниэ]]
+[[af:Spanje]]
+[[als:Spanien]]
+[[am:እስፓንያ]]
+[[ang:Spēonland]]
+[[ar:إسبانيا]]
+[[an:Espanya]]
+[[arc:ܐܣܦܢܝܐ]]
+[[roa-rup:Ispania]]
+[[frp:Èspagne]]
+[[ast:España]]
+[[gn:España]]
+[[ay:Ispaña]]
+[[az:İspaniya]]
+[[bn:স্পেন]]
+[[zh-min-nan:Se-pan-gâ]]
+[[ba:Испания]]
+[[be:Іспанія]]
+[[be-x-old:Гішпанія]]
+[[bcl:Espanya]]
+[[bi:Spain]]
+[[bg:Испания]]
+[[bar:Spanien]]
+[[bo:ཞི་པན་ཡ།]]
+[[bs:Španija]]
+[[br:Spagn]]
+[[ca:Espanya]]
+[[cv:Испани]]
+[[ceb:Espanya]]
+[[cs:Španělsko]]
+[[ch:España]]
+[[cbk-zam:España]]
+[[co:Spagna]]
+[[cy:Sbaen]]
+[[da:Spanien]]
+[[pdc:Schpaani]]
+[[de:Spanien]]
+[[dv:އިސްޕެއިން]]
+[[nv:Dibé Diníí Bikéyah]]
+[[dsb:Špańska]]
+[[dz:སིཔཱེན་]]
+[[et:Hispaania]]
+[[el:Ισπανία]]
+[[eml:Spaggna]]
+[[es:España]]
+[[eo:Hispanio]]
+[[ext:España]]
+[[eu:Espainia]]
+[[ee:Spain]]
+[[fa:اسپانیا]]
+[[hif:Spain]]
+[[fo:Spania]]
+[[fr:Espagne]]
+[[fy:Spanje]]
+[[fur:Spagne]]
+[[ga:An Spáinn]]
+[[gv:Yn Spaainey]]
+[[gag:İspaniya]]
+[[gd:An Spàinn]]
+[[gl:España]]
+[[gan:西班牙]]
+[[glk:ائسپانيا]]
+[[gu:સ્પેઇન]]
+[[got:𐌷𐌴𐌹𐍃𐍀𐌰𐌽𐌾𐌰]]
+[[hak:Sî-pân-ngà]]
+[[xal:Эспанмудин Нутг]]
+[[ko:스페인]]
+[[haw:Sepania]]
+[[hy:Իսպանիա]]
+[[hi:स्पेन]]
+[[hsb:Španiska]]
+[[hr:Španjolska]]
+[[io:Hispania]]
+[[ig:Spain]]
+[[ilo:España]]
+[[bpy:স্পেন]]
+[[id:Spanyol]]
+[[ia:Espania]]
+[[ie:Hispania]]
+[[iu:ᓯᐸᐃᓐ]]
+[[ik:Spaña]]
+[[os:Испани]]
+[[zu:ISpeyini]]
+[[is:Spánn]]
+[[it:Spagna]]
+[[he:ספרד]]
+[[jv:Spanyol]]
+[[kl:Spania]]
+[[kn:ಸ್ಪೇನ್]]
+[[pam:Espanya]]
+[[krc:Испания]]
+[[ka:ესპანეთი]]
+[[csb:Szpańskô]]
+[[kk:Испания]]
+[[kw:Spayn]]
+[[rw:Esipanye]]
+[[rn:Esipanye]]
+[[sw:Hispania]]
+[[kv:Испания]]
+[[kg:Espania]]
+[[ht:Espay]]
+[[ku:Spanya]]
+[[ky:Испания]]
+[[lad:Espanya]]
+[[ltg:Spaneja]]
+[[la:Hispania]]
+[[lv:Spānija]]
+[[lb:Spuenien]]
+[[lt:Ispanija]]
+[[lij:Spagna]]
+[[li:Spanje]]
+[[ln:Espania]]
+[[jbo:sangu'e]]
+[[lez:Испания]]
+[[lmo:Spagna]]
+[[hu:Spanyolország]]
+[[mk:Шпанија]]
+[[mg:Espaina]]
+[[ml:സ്പെയിൻ]]
+[[mt:Spanja]]
+[[mi:Pāniora]]
+[[mr:स्पेन]]
+[[xmf:ესპანეთი]]
+[[arz:اسبانيا]]
+[[mzn:ایسپانیا]]
+[[ms:Sepanyol]]
+[[cdo:Să̤-băng-ngà]]
+[[mwl:Spanha]]
+[[mdf:Испания]]
+[[mn:Испани]]
+[[my:စပိန်နိုင်ငံ]]
+[[nah:Caxtillān]]
+[[na:Pain]]
+[[nl:Spanje]]
+[[nds-nl:Spanje]]
+[[ne:स्पेन]]
+[[new:स्पेन]]
+[[ja:スペイン]]
+[[nap:Spagna]]
+[[ce:Испани]]
+[[frr:Spaanien]]
+[[pih:Spain]]
+[[no:Spania]]
+[[nn:Spania]]
+[[nrm:Espangne]]
+[[nov:Spania]]
+[[oc:Espanha]]
+[[mhr:Испаний]]
+[[or:ସ୍ପେନ]]
+[[uz:Ispaniya]]
+[[pa:ਸਪੇਨ]]
+[[pag:Espanya]]
+[[pnb:سپین]]
+[[pap:Spaña]]
+[[ps:اسپانیا]]
+[[koi:Эспання]]
+[[km:អេស្ប៉ាញ]]
+[[pcd:Espanne]]
+[[pms:Spagna]]
+[[tpi:Spen]]
+[[nds:Spanien]]
+[[pl:Hiszpania]]
+[[pnt:Ισπανία]]
+[[pt:Espanha]]
+[[kaa:İspaniya]]
+[[crh:İspaniya]]
+[[ty:Paniora]]
+[[ro:Spania]]
+[[rmy:Spaniya]]
+[[rm:Spagna]]
+[[qu:Ispaña]]
+[[rue:Іспанія]]
+[[ru:Испания]]
+[[sah:Испания]]
+[[se:Spánia]]
+[[sm:Spania]]
+[[sa:स्पेन्]]
+[[sc:Ispagna]]
+[[sco:Spain]]
+[[stq:Spanien]]
+[[st:Spain]]
+[[sq:Spanja]]
+[[scn:Spagna]]
+[[simple:Spain]]
+[[ss:Sipeyini]]
+[[sk:Španielsko]]
+[[sl:Španija]]
+[[cu:Їспанїꙗ]]
+[[szl:Szpańijo]]
+[[so:Isbania]]
+[[ckb:ئیسپانیا]]
+[[srn:Spanyorokondre]]
+[[sr:Шпанија]]
+[[sh:Španija]]
+[[su:Spanyol]]
+[[fi:Espanja]]
+[[sv:Spanien]]
+[[tl:Espanya]]
+[[ta:எசுப்பானியா]]
+[[kab:Spanya]]
+[[roa-tara:Spagne]]
+[[tt:Испания]]
+[[te:స్పెయిన్]]
+[[tet:España]]
+[[th:ประเทศสเปน]]
+[[tg:Испониё]]
+[[to:Sepeni]]
+[[chr:ᏍᏆᏂᏱ]]
+[[chy:Spain]]
+[[tr:İspanya]]
+[[tk:Ispaniýa]]
+[[udm:Испания]]
+[[bug:Spanyol]]
+[[uk:Іспанія]]
+[[ur:ہسپانیہ]]
+[[ug:Ispaniye]]
+[[vep:Ispanii]]
+[[za:Sihbanhyaz]]
+[[vec:Spagna]]
+[[vi:Tây Ban Nha]]
+[[vo:Spanyän]]
+[[fiu-vro:Hispaania]]
+[[wa:Espagne]]
+[[zh-classical:西班牙]]
+[[vls:Spanje]]
+[[war:Espanya]]
+[[wo:Ispaañ]]
+[[wuu:西班牙]]
+[[ts:Spaniya]]
+[[yi:שפאניע]]
+[[yo:Spéìn]]
+[[zh-yue:西班牙]]
+[[diq:İspanya]]
+[[zea:Spanje]]
+[[bat-smg:Ispanėjė]]
+[[zh:西班牙]]</text>
+      <sha1>fyhhy5ntc4zboxv8yfub2g6h8pox1z2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

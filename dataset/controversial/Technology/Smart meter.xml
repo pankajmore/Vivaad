@@ -1,0 +1,384 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Smart meter</title>
+    <ns>0</ns>
+    <id>3895745</id>
+    <revision>
+      <id>520596056</id>
+      <parentid>520544482</parentid>
+      <timestamp>2012-10-30T14:45:59Z</timestamp>
+      <contributor>
+        <username>Wtshymanski</username>
+        <id>139104</id>
+      </contributor>
+      <comment>one tag per sentence is usualy enoggh, decorating with more tags won't make finding a citation any faster. Undid revision 520544482 by [[Special:Contributions/70.69.41.25|70.69.41.25]] ([[User talk:70.69.41.25|talk]])</comment>
+      <text xml:space="preserve" bytes="64037">[[Image:Intelligenter zaehler- Smart meter.jpg|thumb|right| Example of an [[Open smart grid protocol]] (OSGP) based smart meter in use in Europe that has the ability to reduce load, disconnect-reconnect remotely, and interface to gas and water meters]][[Image:Elster Type R15 electricity meter.jpeg|thumb|right|Newer retrofit U.S. domestic digital electricity meter Elster REX&lt;ref&gt;[http://www.elstermetering.com/en/1914.shtml Elster REX]{{dead link|date=January 2011}}&lt;/ref&gt; with 900MHz&lt;ref&gt;[http://www.elster-eis.com/en/LAN.html EnergyAxis LAN 900MHz Frequency-hopping spread-spectrum (FHSS) radio]{{dead link|date=January 2011}}&lt;/ref&gt; [[mesh network]] topology for [[automatic meter reading]] and &quot;EnergyAxis&quot; time-of-use metering&lt;ref&gt;[http://www2.elstermetering.com/en/1257.shtml &quot;EnergyAxis&quot; time-of-use metering]&lt;/ref&gt;&lt;ref&gt;[http://www.srpnet.com/electric/home/readmeter.aspx#both Elster REX meter (&quot;smart&quot; meter)]&lt;/ref&gt;&lt;ref&gt;[http://esr.degroote.mcmaster.ca/Conferences/PDFs/2A-4.pdf McMaster University Sustainable Developments in Communities Workshop]{{dead link|date=January 2011}} November 26, 2007&lt;/ref&gt; ]]
+[[Image:Elster A3 Alpha Type A30 electricity meter collector.jpeg|thumb|right|Each local mesh networked smart meter has a hub such as this Elster A3 Type A30 which interfaces 900MHz smart meters to the metering automation server via land line &lt;ref&gt;[http://www2.elstermetering.com/products/files/A3_ALPHA_meter_collector_data_sheet.pdf A3 ALPHA Meter/Collector Data Sheet]&lt;/ref&gt;]]
+
+[[File:Smartmeter-bali.jpg|thumb|right|A very old and rusted box housing a smart meter as found near a Circle K supermarket along the main road in South [[Bali]] near [[Gianyar]]]]
+
+A '''smart meter''' is usually an [[electrical meter]] that records consumption of [[electric energy]] in intervals of an hour or less and [[telemetering|communicates that information]] at least daily back to the [[Public utility|utility]] for monitoring and billing purposes.&lt;ref&gt;[http://www.ferc.gov/legal/staff-reports/12-08-demand-response.pdf Federal Energy Regulatory Commission Assessment of Demand Response &amp; Advanced Metering]&lt;/ref&gt; Smart meters enable two-way communication between the meter and the central system. Unlike home energy monitors, smart meters can gather data for remote reporting. Such an advanced metering infrastructure (AMI) differs from traditional [[automatic meter reading]] (AMR) in that it enables two-way communications with the meter.
+
+==Overview==
+
+The term ''Smart meter'' often refers to an [[electricity meter]], but it also may mean a device measuring [[natural gas]] or [[water]] consumption.
+
+Similar meters, usually referred to as [[Interval meter|interval]] or [[time-of-use meter]]s, have existed for years, but &quot;Smart Meters&quot; usually involve real-time or near real-time sensors, [[power outage]] notification, and power quality monitoring. These additional features are more than simple [[automated meter reading]] (AMR). They are similar in many respects to [[Advanced Metering Infrastructure]] (AMI) meters. Smart meters also are promoted as being a less costly alternative to traditional interval or time-of-use meters and are intended to be used on a wide scale with all customer classes, including residential customers.{{Citation needed|date=September 2011}} (Interval and time-of-use meters are more of a legacy technology that historically have been installed to measure commercial and industrial customers, but typically provide no AMR functionality.)
+
+Research by [[Which?]], the UK consumer group, showed that as many as one in three confuse smart meters with energy monitors, also known as in-home display monitors &lt;ref&gt;[http://www.which.co.uk/energy/creating-an-energy-saving-home/guides/smart-meters-and-energy-monitors-explained/what-is-a-smart-meter/  &quot;Energy monitors: Smart meters and energy monitors explained&quot;, ''Which?'' (n.d.)]&lt;/ref&gt;  The roll-out of smart meters is often promoted as a route for energy savings. While energy suppliers in the UK could save around £300 million a year from their introduction, consumer benefits will depend on people actively changing their energy use. For example, time of use tariffs offering lower rates at off-peak times, and selling electricity back to the grid, may also benefit consumers.
+
+The installed base of smart meters in Europe at the end of 2008 was about 39 million units, according to analyst firm Berg Insight.&lt;ref&gt;[http://berginsight.com/ReportPDF/ProductSheet/bi-sm6-ps.pdf Berg Insight's Smart Metering in Western Europe report 2009]&lt;/ref&gt; Globally, Pike Research found that smart meter shipments were 17.4 million units for the first quarter of 2011.&lt;ref&gt;[http://gigaom.com/cleantech/another-reason-we-need-the-smart-grid-record-heat/ Another Reason We Need The Smart Grid Record Heat].&lt;/ref&gt; Visiongain has determined that the value of the global smart meter market will reach $7bn in 2012.&lt;ref&gt;[http://www.visiongain.com/Report/840/The-Global-Smart-Meter-Market-2012-2022 The Global Smart Meter Market 2012-2022 - Report - Utilities - visiongain&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+Smart meters may be part of a ''[[smart grid]]'', but alone, they do not constitute a smart grid.
+
+==Opposition and concerns==
+There are concerns regarding the cost, health, fire risk,&lt;ref name = BCFires/&gt; security and privacy effects of smart meters and the remote controllable &quot;kill switch&quot; that is included with most of them.  Many of these concerns regard wireless-only smart meters with no home energy monitoring or control or safety features (see below under &quot;smart meter backlash&quot;).  Metering-only solutions, while popular with utilities because they fit existing business models and have cheap up-front capital costs, often result in such &quot;backlash&quot;.  Often the entire [[smart grid]] and [[smart building]] concept is discredited in part by confusion about the difference between [[home control]] and [[home area network]] technology and AMI.  The attorneys general of both Illinois and Connecticut have stated that they do not believe smart meters provide any financial benefit to consumers,&lt;ref&gt;[http://www.google.com/hostednews/ap/article/ALeqM5hOYp8N5wgi77dKQhKBG6tRmKABUg?docId=c3bb00c0a2a24e55999f138359c25d63] {{dead link|date=August 2012}}&lt;/ref&gt; however, the cost of the installation of the new system will be absorbed by those customers.
+
+During 2011 in ''&quot;Why Smart Meters Might Be a Dumb Idea&quot;'', [[Consumers Digest]] documented several concerns including, that pricing of the utility may become scheduled and become detrimental to users unable to adapt their use and equipment to meet new policies.&lt;ref&gt;Kelly, William J., [http://www.consumersdigest.com/home/why-smart-meters-might-be-a-dumb-idea/view-all ''Why Smart Meters Might Be a Dumb Idea''], Consumers Digest, January, 2011&lt;/ref&gt; The need to purchase equipment and appliances designed to interface effectively with the new meters might be an additional financial burden to customers, especially those least able to afford new equipment when their present equipment works. Smart meters in some countries also can deny service or charge premiums to customers who exceed limits set by the company. The publication also suggests that the smart meters may never curtail electricity use and that customers will never see the energy and cost savings being promoted during a projected 23-year analysis in return for the investments they will be required to bear. Hardware and software upgrades will be required at the expense of customers. Additionally they cite that it might cost customers thousands of dollars to replace appliances and equipment with the new smart appliances being designed now to interface with the proposed meters.  Other concerns relate to a remote controller &quot;kill switch&quot; incorporated into most smart meters.
+
+=== &quot;Smart meter backlash&quot; ===
+
+Most health concerns about the meters arise from the [[pulsed radiofrequency]] (RF) radiation emitted by wireless smart meters.{{citation needed|date=August 2012}}
+
+Privacy concerns focus upon the collection of detailed data about customers and their habits, the accessibility of that data through the utility and possibly, at the site of the meter as well as the potential for sharing of detailed personal information without the knowledge or desire of customers.{{citation needed|date=October 2012}}   These concerns have been rather less for small North American utilities run by towns ([[public power district]]s) or [[rural electric co-operative]]s which have achieved about three times more penetration of these technologies with less resistance - probably because towns are already trusted with a great deal of personal data about their residents{{citation needed|date=October 2012}}.
+
+Most security concerns center on the inherent [[Hacker (computer security)|hack-ability]] of wireless technology, combined with the remotely controllable &quot;kill switch&quot; incorporated into smart meters.  Others have accused agencies of hiding smart meter plans under the term &quot;smart grid&quot; to avoid public input and obtain approval.   
+
+Reviews of smart meter programs, moratoriums, delays, and &quot;opt-out&quot; programs are some of the responses arising in response to the concerns of customers and government officials.  In response to concerns and a lawsuit, in June 2012 a utility in Hawaii changed their smart meter program to &quot;opt in&quot;  &lt;ref name = &quot;OptIn1&quot;&gt;[http://www.bizjournals.com/pacific/news/2012/06/27/kauai-island-utility-cooperative.html Kauai Island Utility Cooperative adopts smart meter deferral policy - Pacific Business News&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+After receiving numerous complaints about health, hacking, and privacy concerns with the wireless digital devices, the Public Utility Commission of the [[United States|US]] state of [[Maine]] voted to allow customers to opt out of the meter change at a cost of $12 a month.&lt;ref&gt;[http://www.mercurynews.com/business/ci_19862389 State regulators to vote on PG&amp;E smart meter &quot;opt-out&quot;], ''[[San Jose Mercury News]]'', 2012-02-01.&lt;/ref&gt; In [[Connecticut]], another US state to consider smart metering recently, regulators declined a request by the state's largest utility, [[Northeast Utilities|Connecticut Light &amp; Power]], to install 1.2 million of the devices, arguing that the potential savings in electric bills do not justify the cost. CL&amp;P already offers its customers time-based rates. The state's Attorney General [[George Jepsen]] was quoted as saying the proposal would cause customers to spend upwards of $500 million on meters and get few benefits in return, a claim that Connecticut Light &amp; Power disputed.&lt;ref name=smartmeters.com&gt;{{cite web|title=Connecticut Attorney General Tries to Derail Smart Meters|url=http://www.smartmeters.com/the-news/1968-connecticut-attorney-general-tries-to-derail-smart-meters.html|publisher=Smartmeters.com|accessdate=19 December 2011}}&lt;/ref&gt;
+
+=== Problems of wireless-only networks ===
+
+Despite its simplicity, a uniform wireless smart meter network is actually more expensive to run and offers few or no revenue opportunities to a utility to offset the cost of installation{{citation needed|date=October 2012}}.  Such networks are the usual cause of &quot;smart meter backlash&quot; because they implement peak prices without giving the consumer any new control or monitoring options{{citation needed|date=October 2012}}.  The typical low-end wireless &quot;solution&quot; involves reading a meter every 15 minutes - not often enough to help the customer manage their power use{{citation needed|date=October 2012}},
+because they cannot turn a switch and wait over 30 minutes through two sampling periods to see if it has actually made a difference{{citation needed|date=October 2012}}.  The same criticism applies to low-end [[powerline networking]] solutions deployed prior to [[IEEE 1901]] standardization{{citation needed|date=October 2012}}.
+
+Fibre and other wired builds are effective not only because of their potential telecom and advanced service revenues, but because the rate of sampling of overall power use is under a second, meaning you can tell instantly at the control panel exactly how much or how little any given device is using{{citation needed|date=October 2012}}.  Thus, customers can spot wasteful or leaky devices or habits and adjust/replace devices.  Software or third party services can watch usage patterns in detail, and even micro-variations in current, that reveal electrical problems (even fires) early and which allow programmed responses to human activity{{citation needed|date=October 2012}} (the lights dim when you leave, brighten when you arrive &amp; radio comes on) because the services see exactly what users really do when entering or leaving a room.  There's plenty of bandwidth to sell or allocate to security or medical
+devices{{citation needed|date=October 2012}}.  Home monitoring and control systems can be installed compatible with the metering simultaneously, increasing perception of benefits with the costs.
+
+Smaller North American utilities such as [[Bristol Virginia Utilities]] and [[Chattanooga, TN]]'s [[EPBfi]] have deployed advanced metering as part of town wide fibre builds with no smart meter backlash whatsoever{{citation needed|date=October 2012}}.  They rejected wireless technologies specifically for the lack of economic development value and customer resistance{{citation needed|date=October 2012}}.
+
+===Lack of savings in results===
+There are questions whether electricity is or should be primarily a &quot;when you need it&quot; service where the inconvenience/cost-benefit ratio of time shifting of loads is poor. In the Chicago area Commonwealth Edison ran a test installing smart meters on 8,000 randomly selected households together with variable rates and rebates to encourage cutting back during peak usage.&lt;ref name = Crains/&gt;  In the ''Crain's Chicago Business'' article ''Smart grid test underwhelms. In pilot, few power down to save money.'' it was reported that fewer that 9% exhibited any amount of peak usage reduction. and that the overall amount of reduction was &quot;statistically insignificant&quot;.&lt;ref name = Crains/&gt;  This was from a report by the Electric Power Research Institute, a utility industry think tank who conducted the study and prepared the report.   Susan Satter, senior assistant Illinois attorney general for public utilities said &quot;It's devastating to their plan......The report shows zero statistically different result compared to business as usual.&quot;  &lt;ref name = &quot;Crains&quot;&gt;http://www.highbeam.com/doc/1G1-257880926.html ''Smart grid test underwhelms. In pilot, few power down to save money'' by Paul Merrion  ''Crain's Chicago Business'' May 30th, 2011  Retrieved September 3, 2012&lt;/ref&gt;
+
+==Purpose==
+{{unreferenced section|date=November 2011}}
+Since the inception of electricity [[deregulation]] and market-driven pricing throughout the world, utilities have been looking for a means to match consumption with generation. Traditional electrical and gas meters only measure total consumption, and so provide no information of when the energy was consumed at each metered site (market use rates are readily available to utilities however). Smart meters provide a way of measuring this site-specific information, allowing price setting agencies to introduce different prices for consumption based on the time of day and the season.
+
+Utility companies propose that from a consumer perspective, smart metering offers a number of potential benefits to householders. These include, a) an end to estimated bills, which are a major source of complaints for many customers b) a tool to help consumers better manage their energy use - stating that smart meters with a display outside their homes could provide up-to-date information on gas and electricity consumption in the currency of that country and in doing so help people to manage their energy use and reduce their energy bills and carbon emissions. Proponents assert that in some countries{{which|date=July 2012}} there are potential social benefits of smart metering — for example, the potential for telehealth and social care services that can facilitate health services and enable consumers to live independently for longer.{{Citation needed|date=April 2012}} Such monitoring would require extensive data collection and analysis, which is not now performed. There is also the opportunity to target assistance at vulnerable and low income consumers more effectively and end disconnection for electricity customers.{{Citation needed|date=May 2012}} These potential benefits have not been provided.
+
+Electricity pricing usually peaks at certain predictable times of the day and the season. In particular, if generation is constrained, prices can rise if power from other jurisdictions or more costly generation is brought online. Proponents assert that billing customers by time-of-day will encourage consumers to adjust their consumption habits to be more responsive to market prices and assert further, that regulatory and market design agencies hope these &quot;price signals&quot; could delay the construction of additional generation or at least the purchase of energy from higher priced sources, thereby controlling the steady and rapid increase of electricity prices.{{Citation needed|date=May 2009}} There are some concerns, however, that low income and vulnerable consumers may not benefit from intraday time-of-use tariffs. 
+
+Ironically making an industry-stated primary objective moot, when questioned about potential changes to time-of-day rates, a utility representative in Florida denied such intentions when he stated, “There are no plans to implement any price tiering” &lt;ref&gt;Hackney, Rachel B., [http://sarasotanewsleader.com/fpl-works-to-dispel-smartmeter-myths/ ''FPL works to dispel Smartmeter myths''], Sarasota News Leader, May 4, 2012&lt;/ref&gt; and he added that, since they are regulated by the state government, any such change would be subject to regulatory approval after required public hearings. 
+
+Smart metering offers potential benefits to utility companies in that they will be able to eliminate many jobs, but there are concerns that many of the &quot;benefits&quot; proponents cite for consumers, not only will fail to be realized, but to the contrary, could increase costs to the consumers.
+
+==Implementation examples==
+
+The American Council for an Energy-Efficient Economy reviewed more than 36 different residential smart metering and feedback programmes internationally. This is the most extensive study of its kind (as of January 2011). Their conclusion was: “To realise potential feedback-induced savings, advanced meters [smart meters] must be used in conjunction with in-home (or on-line) displays and well-designed programmes that successfully inform, engage, empower and motivate people.&quot;&lt;ref&gt;[ACEEE Advanced Metering Initiatives and Residential Feedback Programmes (2010). www.aceee.org/research-report/e105]&lt;/ref&gt; There are near universal calls from both the energy industry and consumer groups for a national social marketing campaign to help raise awareness of smart metering and give customers the information and support they need to become more energy efficient, and what changes they must make to realize the potential of proposed smart meters.
+
+===Italy===
+The world's largest smart meter deployment was undertaken by [[Enel SpA]], the dominant utility in [[Italy]] with more than 30 million customers. Between 2000 and 2005 Enel deployed smart meters to its entire customer base.
+
+These meters are fully electronic and smart, with integrated bi-directional communications, advanced power measurement and management capabilities, an integrated, software-controllable disconnect switch, and an all solid-state design. They communicate over low voltage power line using standards-based power line technology from [[Echelon Corporation]] to Echelon data concentrators at which point they communicate via IP to Enel's enterprise servers. Thus, demonstrating that smart grids do not require wireless devices that generate radiation.  
+
+The system provides a wide range of advanced features, including the ability to remotely turn power on or off to a customer, read usage information from a meter, detect a service outage, change the maximum amount of electricity that a customer may demand at any time, detect &quot;unauthorized&quot; use of electricity and remotely shut it off, and remotely change the meter's billing plan from credit to prepay, as well as, from flat-rate to multi-tariff.
+
+===Japan===
+The Energy Conservation Center &lt;ref&gt;[http://www.asiaeec-col.eccj.or.jp/index.html Energy Conservation Center]&lt;/ref&gt; in Japan promotes energy efficiency including smart metering. Public utilities have started to test metering with integrated communication devices. Private entities have already implemented efficient energy systems with integrated feedback methods such as alerts or triggers.
+
+===Canada===
+The [[Ontario Energy Board]] in [[Ontario]], [[Canada]] has worked to define the technology &lt;ref&gt;[http://www.oeb.gov.on.ca/html/en/industryrelations/ongoingprojects_smartmeters.htm]&lt;/ref&gt; and develop the regulatory framework for its implementation. The [[Government of Ontario]] set a target of deploying smart meters to 800,000 homes and small businesses (i.e. small &quot;general service&quot; customers under 50&amp;nbsp;kW demand) by the end of 2007, which was surpassed, and throughout the province by the end of 2010.&lt;ref&gt;{{cite news
+ |url = http://www.cbc.ca/news/background/energy/smartmeters.html
+ |title = Smart Meters: FAQs
+ |work = Indepth: Energy
+ |publisher = [[Canadian Broadcasting Corporation]]
+ |date = November 3, 2005
+ |accessdate = 2006-07-23
+}}&lt;/ref&gt; [[BC Hydro]] in [[British Columbia]], [[Canada]] is implementing [[Itron]] smart meters to all customers by the end of 2012.&lt;ref&gt;{{cite news
+ |url = http://www.bchydro.com/planning_regulatory/projects/smart_metering_infrastructure_program.html
+ |title = Smart Metering &amp; Smart Grid Programs
+ |work =
+ |publisher = [[BC Hydro]]
+ |date = July 13, 2010
+ |accessdate = 2010-09-23
+}}&lt;/ref&gt;
+
+Smart meter installations have been associated with several fires in British Columbia.&lt;ref name = BCFires&gt;[http://www.cbc.ca/news/canada/british-columbia/story/2012/08/09/bc-hydro-smart-meter-fix.html BC Hydro offers free fix if meter installers find hazard]. 2012-08-09. CBC. Retrieved 2012-08-09.&lt;/ref&gt; BC Hydro maintains that &quot;the risk of a smart meter installation causing an electrical problem is extremely low&quot; and will assist homeowners if repairs are necessary for a safe installation.
+
+In November 2011, the Union of British Columbia Municipalities voted in favor of a [[moratorium (law)|moratorium]] to temporarily suspend smart meter installations.&lt;ref name=&quot;cbc-clark-nov-2011&quot;&gt;[http://www.cbc.ca/news/canada/british-columbia/story/2011/09/30/bc-clark-ubcm.html Clark reaches out to municipal leaders]. CBC. 2011-09-30. Retrieved 2012-08-13.&lt;/ref&gt; The provincial government insists that installations will proceed, based on global standards.&lt;ref name=&quot;cbc-clark-nov-2011&quot;/&gt; As of May 2012, 39 municipalities in British Columbia have passed motions opposing the installation of smart meters.  The utility company, BC Hydro, is not legally obliged to abide by these city decisions.&lt;ref&gt;[http://www.cbc.ca/news/canada/british-columbia/story/2012/05/01/bc-vancouver-smart-meter-resolution.html Smart meter resolution goes to Vancouver council]. CBC. 2012-05-01. Retrieved 2012-08-13.&lt;/ref&gt;
+
+===United Kingdom===
+
+In December 2009, the United Kingdom's [[Department of Energy and Climate Change]] announced its intention to have smart meters in all homes by 2020.&lt;ref&gt;[http://www.decc.gov.uk/en/content/cms/news/pn139/pn139.aspx : Department of Energy and Climate Change&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+The coalition government which was elected May 2010 has stated that it wants to “accelerate significantly the rollout of smart meters compared to previously published targets”.&lt;ref&gt;[Smart meter Implementation Strategy Prospectus. July 2010. DECC, Ofgem/Ofgem E-Serve. http://www.ofgem.gov.uk/e-serve/sm/Documentation/Documents1/Smart%20metering%20-%20Prospectus.pdf&gt;]&lt;/ref&gt; There is some scepticism as to whether an accelerated approach is wise and whether it might risk undermining the benefits identified. DECC’s own Impact Assessment concludes that “There is potential for greater risk to consumers in terms of cost” from an accelerated rollout.&lt;ref&gt;[Opcit DECC Impact Assessment Rollout of smart meters in the domestic sector 2010 footnote 1: p.34]&lt;/ref&gt;
+
+The United Kingdom rollout is considered to be the largest programme ever undertaken – involving visits to more than 27 million homes to replace meters for both gas and electricity. The official start date of rollout is 2012, but some energy suppliers already{{When|date=September 2012}} are installing smart meters in people's homes.&lt;ref&gt;[http://www.decc.gov.uk/assets/decc/Consultations/smart-meter-imp-prospectus/220-smart-metering-prospectus-condoc.pdf.&gt;]&lt;/ref&gt; As of January 2010, there were estimated to be in excess of 170,000 domestic smart meters installed. In October 2010, [[First Utility]] became the first energy supplier to offer smart meters to all new and existing customers across the U.K.&lt;ref&gt;{{cite web|title=First:Utility kicks off nationwide smart meter roll out|url=http://www.businessgreen.com/bg/news/1869927/first-utility-kicks-nationwide-smart-meter-roll|publisher=Business Green|accessdate=30 March 2012}}&lt;/ref&gt; 
+
+The statutory watchdog for energy customers in the United Kingdom, Consumer Focus,&lt;ref name=&quot;Wwwconsumerfocusorguk&quot;&gt;[www.consumerfocus.org.uk]&lt;/ref&gt; is seeking assurances that an emphasis on accelerated rollout will not lead to corners being cut on consumer protections or opportunities being missed to deliver benefits to consumers. Ofgem has published the following challenging rollout timetable:
+
+*	Spring 2011: 	Enhanced consumer protections in place – it is unclear yet what this will include except new safeguards around remote disconnection and remote switching.
+*	Summer 2011: 	Functional requirements and specifications confirmed.
+*	Summer 2012: 	Go-Live rollout mandated to start.
+*	Autumn 2014: 	Full rollout with the data communications entity in place - Go-Live DCC for domestic customers expected to be completed.&lt;ref&gt;[Smart metering implementation programme: Implementation Strategy. July 2010. P. 25. http://www.ofgem.gov.uk/e-serve/sm/Documentation/Documents1/Smart%20metering%20-%20Implementation%20Strategy.pdf]&lt;/ref&gt;
+
+Consumer groups are concerned that little consideration appears to have been given to the experience of customers who receive meters before ‘Go-Live’ &lt;ref name=&quot;Wwwconsumerfocusorguk&quot; /&gt; and that currently there is no monitoring framework in place. Government is still consulting on minimum standards for displays, meters, and the customer experience. Key decisions are expected in late March.{{When|date=September 2012}} There has also been concern that consumers may experience pressure selling while energy reps are in their homes fitting meetings. In response to this, the consumer group Which? issued a smart meter challenge called 'No Selling, just installing'. Ten suppliers signed up, including npower.&lt;ref&gt;[http://www.which.co.uk/campaigns/energy-and-environment/smart-meter-campaign/the-smart-meter-challenge/ The smart meter challenge - Our smart meter campaign - Energy and environment - Which? Campaigns&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+In order to decide whether or not to mandate the rollout of smart meters, a number of impact assessments have been carried out by government to establish if there is a positive business case for Britain to roll out smart metering. These looked at the potential costs and benefits of rolling out smart meters to suppliers, network operators, customers, and Britain as a whole. The latest DECC Impact Assessment (27 July 2010) concludes that there is a positive business case overall if one takes into consideration all parties that could benefit.
+
+DECC’s latest Impact Assessment (July 2010 - see reference below) estimates that rollout will cost around £10 billion. The proposed model is a competitive-supplier-led rollout with a central communications body, currently called the DataCommunicationsComm (DCC). The precise functions of the latter are still under consultation. 
+
+The costs of roll-out are expected to be passed on via energy customers' bills. The DECC Impact Assessment assumes that 100 percent of the cost savings to suppliers will be passed on to customers, but critics argue that experience in several other parts of the energy market (such as falls in wholesale prices or with prepayment meters) suggests that this is an over-simplification. Consumer groups such as Consumer Focus argue that there is currently no transparent mechanism in place to limit the financial risk to consumers and to ensure that if costs are passed on to energy bills that they are fair and proportionate. The energy regulator Ofgem recognised this in their July 2010 Summer Prospectus and is seeking ways to improve accountability. One proposal is that the Energy Minister should report to Parliament on the costs and benefits of the programme.
+
+More than 40 percent of the benefits - £6.80 bn - identified in the business case are expected to come from consumers reducing their energy consumption and taking advantage of lower cost off-peak tariffs. Total supplier benefits amount to £6.76 bn and include £2.87 bn from avoided meter reading costs and reduced inquiries and customer overheads of 1.21 billion. Proponents state that there also are potential benefits to network operators, and Britain PLC in terms of carbon savings.&lt;ref&gt;[http://www.ofgem.gov.uk/e-serve/sm/Documentation/Documents1/DECC%20-%20Impact%20assessment%20-%20Domestic.pdf&gt;]&lt;/ref&gt;
+
+In January 2012, Which? called on the government to 'stop and review' the smart meter roll-out. The consumer group said that suppliers should stop rolling out early smart meters which are not in trials and that the government should review the roll-out strategy. Which? has said that it is concerned that the programme will not be cost-effective and deliver the promised £7 billion to consumers. It is also urging the government to consider a regional programme to help keep costs under control and help with public education about smart meters.&lt;ref&gt;http://www.which.co.uk/campaigns/energy-and-environment/smart-meter-campaign/review-the-smart-meter-roll-out/&lt;/ref&gt;
+
+British Gas first installed gas and electric smart meters in customers' homes on 16th October 2012.
+
+===United States===
+Some areas of [[California]] have smart meters,&lt;ref&gt;[http://www.jbsinstruments.com/Energy/Papers/Leveraging_Utility/leveraging_utility.html Leveraging Utility Incumbancy&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; although as of January 2012 there is a [[moratorium]] in Santa Cruz.&lt;ref&gt;{{cite news| url=http://santacruz.patch.com/articles/smartmeter-debate-heats-up-county-supervisors-meeting | title=SmartMeter Moratorium Reinstated | date=2012-01-24}}&lt;/ref&gt; The two main reasons are health and privacy. 
+
+In spring 2012, [[Baltimore Gas and Electric]] (BGE) began installing and/or upgrading approximately two million electric and gas meters in every home and small business in their service area. This process will take about three years to complete.&lt;ref&gt;{{cite web|title=Smart Meter Installation Schedule|url=http://www.bge.com/learnshare/smartgrid/smartmeters/pages/installation-schedule.aspx|accessdate=21 September 2012}}&lt;/ref&gt; BGE smart meters will help customers manage their energy and save money. Some features, such as energy budgeting and tracking and personalized energy efficiency tips will be available by 2012. Additional features will follow in 2013.
+
+On July 20, 2006, California's energy regulators approved a program to roll out conventional meters retrofit with communications co-processor electronics to 9 million gas and electric household customers in the Northern California territory of [[Pacific Gas and Electric]] (PG&amp;E). These meters report electricity consumption on an hourly basis. This enables PG&amp;E to set pricing that varies by season and time-of-the day, rewarding customers who shift energy use to [[Energy demand management|off-peak]] periods. The peak pricing program will start out on a voluntary basis and the full rollout is expected to take five years.&lt;ref&gt;[http://www.pge.com/about/news/mediarelations/newsreleases/q3_2006/060720a.shtml Pacific Gas and Electric Company's SmartMeter Proposal Approved by California Public Utilities Commission&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The smart grid currently allows PG&amp;E to give customers timing and pricing options for upload to the grid (see [[vehicle-to-grid]]).
+
+The largest municipal utility in the U.S., the [[Los Angeles Department of Water and Power]] (LADWP), has chosen to expand its advanced metering infrastructure (AMI) serving its commercial and industrial (C&amp;I) customers. LADWP has already purchased 9,000. The utilities’ commercial and industrial customers may tailor their daily energy consumption around the data provided by the smart meters, thus creating potential for reducing their monthly electricity bill and, at a broader level, contributing to global energy conservation.
+
+[[Austin Energy]], the nation's ninth largest community-owned electric utility, with nearly 400,000 electricity customers in and around Austin, Texas, began deploying a two-way RF [[mesh network]] and approximately 260,000 residential smart meters in 2008. More than 165,000 two-way meters have been installed by spring 2009, and integration with AE's meter data management system is underway. A previous project in 2002 exchanged approximately 140,000 mechanical meters for smart meters at residential apartments, condominiums, and other high-meter-density locations.&lt;ref&gt;{{cite news| url=http://www.reuters.com/article/pressRelease/idUS191587+31-Mar-2009+PRN20090331 | title=Landis+Gyr Technology Enables Full Service Smart Grid Coverage | date=2009-03-31 | work=Reuters}}&lt;/ref&gt;
+
+Centerpoint Energy in Houston, Texas, is currently in the deployment stage of installing smart meters to more than 2 million electricity customers in the Houston-Metro and Galveston service locations. Current estimated completion of CenterPoint Energy's smart meter deployment is 2012.&lt;ref&gt;[http://www.centerpointenergy.com/services/electricity/buildersanddevelopers/smartmeters/ Smart Meters]&lt;/ref&gt; In October 2009, the U.S. Department of Energy awarded a $200 million dollar grant for use in deployment of Centerpoint Energy's smart meter network.&lt;ref&gt;[http://www.centerpointenergy.com/newsroom/newsreleases/corporateandfinancial/6eab09ec0d694210VgnVCM10000026a10d0aRCRD/ CenterPoint Energy to receive $200 million federal stimulus grant to accelerate current smart meter project and begin building intelligent grid]&lt;/ref&gt;
+
+Oncor Electric Delivery, based in Dallas, Texas, is currently deploying smart meters to more than three million customers in North Texas. Oncor’s full deployment is scheduled to be complete by the end of 2012. The Oncor Advanced Metering System (AMS) currently supports 15-minute-interval data, remote disconnects, and a Home Area Network (HAN) using ZigBee Smart Energy Protocol 1.0. The AMS supports text messages, pricing signals, and load control to home users through the Smart Meter Texas Portal which is a joint project by Oncor, CenterPoint, and AEP Texas under the direction of the Texas Public Utility Commission.
+&lt;ref&gt;[http://www.oncor.com/news/newsrel/detail.aspx?prid=1209 Oncor - Press Release]&lt;/ref&gt;
+&lt;ref&gt;[http://www.oncor.com/tech_reliable/smarttexas/news.aspx Oncor - News and Info]&lt;/ref&gt;
+&lt;ref&gt;[http://www.smartmetertexas.com/ Smart Meter Texas - Welcome]&lt;/ref&gt; this requires customers to register telephone numbers and computer addresses. 
+
+San Antonio, Texas-based CPS Energy has launched a pilot program with 40,000 smart meters deployed as of the summer of 2011.&lt;ref&gt;[http://www.mysanantonio.com/news/energy/article/First-40-000-smart-meters-to-be-installed-823240.php First 40,000 'smart' meters to be installed - San Antonio Express-News&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; CPS plans to complete installation of smart meters (electricity and gas) for all customers by the end of 2016.&lt;ref&gt;[http://www.cpsenergy.com/Services/Generate_Deliver_Energy/Energy_Delivery/AMI/ CPS Energy to Pilot Advanced Meters&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Each meter reports data to CPS every 15 minutes over a wireless network, making the data available to the customer through the CPS website.&lt;ref&gt;[http://www.mysanantonio.com/news/energy/article/Smart-meter-energy-data-now-online-2133522.php Smart-meter energy data now online - San Antonio Express-News&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+Florida-based [[Florida Power &amp; Light]] began installing smart meters in 2009 in the Miami-Dade area for residential customers. All customers are expected to be completed by 2013.&lt;ref&gt;[http://www.fpl.com/ami/ Residential | AMI&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Individual counties are considering &quot;opt-out&quot; options, however, and to date, customers are being allowed to register on an &quot;opt-out&quot; registry in counties that have not been begun.
+
+Six thousand end users in parts of [[Oklahoma]] and [[Arkansas]] are part of a program with in-home devices and automation systems conducted by The Oklahoma Gas and Electric (OG&amp;E) company. The project costs $357 million, $130 million of which was funded by the federal government. The dynamic pricing program is opt-in and the data is also used to study consumer behavior.&lt;ref&gt;{{cite web
+ | last =
+ | first =
+ | authorlink =
+ | coauthors =
+ | title =Oklahoma Gas and Electric: Positive Energy Smart Grid Integration Program
+ | work =
+ | publisher =SmartGrid.gov
+ | date =
+ | url =http://www.smartgrid.gov/project/oklahoma_gas_and_electric_positive_energy_smart_grid_integration_program
+ | accessdate =August 13, 2102 }}&lt;/ref&gt; 
+
+The city of [[Duncan, Oklahoma]] conducted a smart grid implementation to automatically collect electricity and water usage data from 9,000 electric meters and 12,000 water meters. Duncan’s project was funded by the [[American Recovery and Reinvestment Act]] and a 15-year, $14.2 million energy savings performance contract. [[Honeywell]] installed the smart meter network as part of a broader program mostly unrelated to smart meters. The program was purchased as part of an unusual $1.7 million savings guarantee.&lt;ref name=&quot;sixtyseven&quot;&gt;{{cite news
+ | title =Honeywell to install smart meter network, improve conservation in Duncan, OK
+ | newspaper =Facilities Management News
+ | date =July 2, 2010
+ | url =http://www.fmlink.com/article.cgi?type=News&amp;archive=true&amp;title=Honeywell to install smart meter network%2C improve conservation in Duncan%2C OK&amp;mode=source&amp;catid=5&amp;display=article&amp;id=27660
+ | accessdate =December 1, 2011 }}&lt;/ref&gt;
+
+===Australia===
+In 2004, the Essential Services Commission of [[Victoria (Australia)|Victoria]], [[Australia]] (ESC) released its changes to the Electricity Customer Metering Code and Procedure to implement its decision to mandate interval meters for 2.6 million Victorian electricity customers.
+
+The ESC's Final Paper titled &quot;Mandatory Rollout of Interval Meters for Electricity Customers&quot; foreshadowed the changes to be implemented and contained the rollout timetable requiring interval meters to be installed for all small businesses and residences. The rollout commenced in mid-2009 and is forecast to be completed by the end of 2013.&lt;ref&gt;[http://www.dpi.vic.gov.au/dpi/dpinenergy.nsf/LinkView/4EC2E4EA42B821FCCA2572B10079A930A8BAF6E4E66C900FCA2572B20004C403]{{dead link|date=January 2011}}&lt;/ref&gt;
+
+The Commonwealth issued a Joint Communiqué at the Council of Australian Governments meeting in Canberra on 17 February 2006 committing all governments to the progressive rollout of smart metering technology from 2007.&lt;ref&gt;[http://www.esc.vic.gov.au/apps/page/user/pdf/IMRO_FinalDecisionFinal9July04.pdf]{{dead link|date=January 2011}}&lt;/ref&gt;
+
+In 2009 the Victorian Auditor General undertook a review of the program and found that there were &quot;significant inadequacies&quot; in advice to government and that project governance &quot;has not been appropriate&quot;.&lt;ref&gt;{{cite news| url=http://www.itnews.com.au/News/160398,auditor-general-slams-victorian-smart-meters.aspx }}&lt;/ref&gt;
+
+Meters installed in Victoria have been deployed with limited smart functionality that is being increased over time. 30-minute interval data is available, remote cut-off and start-up energization is available, and the Home Area Network will be available for households in 2012.
+
+In May 2010 it was reported that the program was expected to cost $500 million more than originally estimated by proponents, with a total cost of $1.6 billion.&lt;ref&gt;[http://www.abc.net.au/news/stories/2010/05/18/2902711.htm?section=business $500 million smart meter blowout - ABC News (Australian Broadcasting Corporation)&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+In November 2010 the Victorian Labor Party was voted out of state government. The incoming coalition stated that the meter program would be reviewed and the Auditor General's recommendations implemented, specifically commenting on program governance, customer data protection, and cost recovery.&lt;ref&gt;[http://www.vic.liberal.org.au/News/MediaReleases/tabid/159/articleType/ArticleView/articleId/2487/COALITION-TO-TACKLE-LABORS-SMART-METER-STUFF-UP.aspx COALITION TO TACKLE LABOR’S SMART METER STUFF UP &amp;gt; Liberal Victoria &amp;gt; Media Releases&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; In January 2011 the Energy Minister, Michael O'Brien, said he was not ruling out a suspension of the program.&lt;ref&gt;[http://www.abc.net.au/news/stories/2011/01/04/3105828.htm?section=business Smart meters could be abandoned - ABC News (Australian Broadcasting Corporation)&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;  This review, delivered in December 2012 endorsed the continuation of the roll out, with minor changes.&lt;ref&gt;[http://www.theage.com.au/victoria/smart-meter-rollout-rolls-on-20111214-1otzf.html]&lt;/ref&gt;
+
+The Victorian Government after initially halting the planned implementation of Time-of-Use tariffs&lt;ref&gt;[http://www.premier.vic.gov.au/newsroom/9853.html]{{dead link|date=January 2011}}&lt;/ref&gt; for general consumers has now allowed their introduction from mid 2013.&lt;ref&gt;[http://www.theaustralian.com.au/news/breaking-news/vic-switch-to-flexible-electricity-prices/story-fn3dxiwe-1226482092543]&lt;/ref&gt;
+
+As shown in the chart below, Victorian metering charges increased by approximately $60 per meter per year after the introduction of AMI cost recovery from customers in 2010 and a projected increase to 125.73 by 2016-2017.&lt;ref&gt;http://www.aer.gov.au/content/index.phtml/itemId/743595&lt;/ref&gt;
+
+'''''Annual meter charge increases with smart meter costs in 2010 and projections to 2017 ($)'''''
+{| class=&quot;wikitable&quot;
+|-
+! Distributor !! 2005 !! 2006 !! 2007 !! 2008 !! 2009 !! 2010 !! 2011 !! 2012 !! 2013 !! 2015 !! 2016 2017
+|-
+| SP AusNet || 17.49 || 17.49 || 17.49 || 17.49 || 17.49 || 86.1 || 93.83 || 101.02 || 108.75 || 117.08 || 126.04
+|-
+| United Energy Distribution || 6.60 || 6.60 || 6.60 || 6.60 || 6.60 || 69.21 || 89.18 || 99.57 || 107.62 || 116.33 || 125.73
+|-
+| Jemena Electricity Networks || 12.87 || 12.87 || 12.87 || 12.87 || 12.87 || 134.63 || 136.7 || 155.84 || 159.86 || 162.34 || 164.88
+|-
+| Citipower || 15.20 || 15.20 || 15.20 || 15.20 || 15.20 || 104.79 || 108.4 || 93.38 || 95.26 || 97.17 || 99.13
+|-
+| Powercor || 17.20 || 17.20 || 17.20 || 17.20 || 17.20 || 96.67 || 105.35 || 92.72 || 93.91 || 95.12 || 96.34
+|}
+
+===New Zealand===
+In November 2005, energy supplier [[Meridian Energy]] introduced the usage of smart meters in the [[Central Hawkes Bay]] area with more than 1000 households participating. By late 2006, over 6,300 smart meters had been installed as part of the initial trial. On June 28, 2007 the first roll-out began for households in [[Christchurch]] &lt;ref&gt;[http://www.arcinnovations.com/newsroom/news/71-advanced-meters-now-in-120000-christchurch-homes.html Advanced meters now in 120000 Christchurch homes]&lt;/ref&gt; and there are plans to install more than 112,000 smart meters by January 2009.&lt;ref&gt;[http://www.meridianenergy.co.nz/YourHome/SmartMeters/ Smart meters] - Meridian Energy&lt;/ref&gt; These smart meters are made by a Christchurch based company,[http://www.arcinnovations.com Arc Innovations] a wholly owned subsidiary of Meridian Energy.
+
+In June 2009, the Parliamentary Commissioner for the Environment released a report,&lt;ref&gt;[http://www.pce.parliament.nz/publications/all-publications/smart-electricity-meters-how-households-and-the-environment-can-benefit/ Smart electricity meters: How households and the environment can benefit]&lt;/ref&gt; which was critical of the &quot;lack of smartness&quot; in the 150,000 smart meters installed in New Zealand thus far. Dr Jan Wright called for government leadership for this &quot;infrastructure of national importance.&quot; Dr Wright emphasised that the meters were capable of being smart, but that the failure to include the [[Home network|HAN]] chips at the initial installation meant that currently only the power retailers benefited, not consumers, nor the environment.
+
+===Netherlands===
+The company [[Oxxio]] introduced the first smart meter for both electricity and gas in [[the Netherlands]] in 2005. In 2007, the Dutch government proposed that all seven million households of the country should have a smart meter by 2013, as part of a national energy reduction plan. 
+
+In August 2008 the roll out of these seven million meters was delayed for several reasons. Main reasons for the delay were that there was limited possibility foreseen to register small scale local energy production (e.g. by solar panels), and that there was uncertainty in the parliament on future developments in smart meters.
+
+On April 7, 2009 the Dutch government had to back down after consumer groups raised privacy concerns. Instead of a mandatory roll-out smart meters will be voluntary.&lt;ref&gt;[http://www.nrc.nl/international/article2207260.ece/Smart_energy_meter_will_not_be_compulsory nrc.nl - International - Smart energy meter will not be compulsory&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+===Nordic countries===
+Northern Europe became the hotspot for AMM (Advanced Metering Management) in Europe in 2003 when [[Sweden]] announced the decision to require monthly readings of all electricity meters by 2009. Soon activities spread to the other Nordic countries. [[Vattenfall]], [[Fortum]], and [[E.ON]] decided to deploy AMM in [[Finland]] as well as in Sweden, as the leading industry players in both countries at the time.
+
+Developments in [[Denmark]] took off in 2004 with several ambitious projects being announced by the country’s largest utilities. [[Norway]] has taken a more cautious stance, but in June 2007 the Norwegian energy authority, NVE, declared that it would recommend new legislation requiring smart meters to take effect in 2013. As of August 2007, almost all of the DSOs in Sweden had signed contracts for AMM solutions. Norway was lagging behind with just 6 percent. Altogether contracts for nearly 8 million smart meters are still open in the Nordic region.
+
+===Spain===
+''Information gathered from &quot;SmartRegions&quot; program'' &lt;ref&gt;http://www.smartregions.net/GetItem.asp?item=digistorefile;253415;1522&amp;params=open;gallery&lt;/ref&gt;
+''Summary of the European Smartmettering deployment'' &lt;ref&gt;http://www.smartregions.net/GetItem.asp?item=digistorefile;253418;1522&amp;params=open;gallery&lt;/ref&gt;
+&lt;ref&gt;http://www.smartregions.net/GetItem.asp?item=digistorefile;253416;1522&amp;params=open;gallery&lt;/ref&gt;
+
+Spain is a country with 46 million inhabitants and approximately 26 million electricity customers. Three major energy players act in the country, Endesa, Iberdrola, and Gas Natural- Unión Fenosa, with a market share of almost 95%. ESMA (2010, 26-28) provides a good overview of the situation in Spain.
+
+Regulation existing in Spain related to smart meters implementation:
+– RD 1634/2006: Order to the Regulator (Comisión Nacional de Energía, CNE) about Substitution Plan including the substitution plan for all Spanish residential meters, criteria
+for the substitution and number of meters to install every year: percentage of the total equipment
+– ORDEN ITC/3860/2007: Publication of the criteria for the Substitution plan, including that every distributor has to present its own plan and AMM system design
+– Based on the Royal Decrees a meter substitution plan was established with an obligation to install smart meters for all consumers under 15&amp;nbsp;kW by 2018; by 31 December 2010, 30% of the contracts from each distribution company below 15&amp;nbsp;kW should have the smart meter installed; distribution companies are responsible for the installation of the meters.
+
+The Smart Metering obligations were established in December 2007 with the national meter substitution plan for end-users up to 15&amp;nbsp;kW. The aim is to support remote energy management systems. The plan is managed by the Ministry of Industry, with a deadline for the completion of the plan by 31 December 2018. All DSOs had to submit their substitution plans to the regional governments. A binding target of 30% of all customers was set for 2010. This initial target could not be reached by any of the DSOs, however, due to a late approval of the substitution plan (in May 2009),  technological uncertainties in terms of system communication, alleged supply problems of certified meters that were available only in June 2010 and ongoing negotiations with the regulators about the level of cost acceptance.
+
+==Imminent implementation==
+
+===France===
+A smart metering pilot project is being conducted by Electricité Réseau Distribution France (ERDF) involving 300,000 clients supplied by 7,000 low-voltage transformers. In June 2008 ERDF awarded the AMM pilot project to a consortium managed by Atos Origin, including Actaris, Landis+Gyr, and Iskraemeco. The aim of the trial is to deploy 300k meters and 6k concentrators in two distinct geographic areas, the Indre-et-Loire (37) department and the Lyon urban region (69). This project affecting 1% of LV customers is a precursor to national deployment for 35 million clients in France. The experimentation phase started in March 2010. A key determining factor will be the interoperability of the equipment of various suppliers. The general deployment phase, involving replacement of 35 million meters, will start in 2012 and continue thru 2017.
+
+===Ireland===
+Upon getting into the coalition government in 2007, [[Eamon Ryan]], the [[Green Party (Ireland)|Green Party]] [[Minister for Communications, Energy and Natural Resources]], pledged to introduce smart meters for every home in the [[Republic of Ireland]] within a five year period. In an interview the minister said he envisages a situation where smart meters would use plug-in hybrid cars as storage for micro-generated renewable energy by intelligently diverting the energy into the car.&lt;ref&gt;[http://constructireland.ie/Vol-3-Issue-8/Articles/Policy/Ministers-Gormley-Ryans-vision-of-a-sustainable-future.html www.constructireland.ie - Green Power&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; A leading energy expert has expressed concerns that whatever system of smart metering arises in Ireland must give homeowners the possibility of automatically responding to fluctuating electricity prices by, for instance, buying electricity when at its cheapest, and selling micro-generated electricity from wind turbines or solar photovoltaic panels into the grid when the best price is available.&lt;ref&gt;[http://constructireland.ie/Vol-3-Issue-11/Articles/Renewable-Energy/Why-the-government-must-get-smart-metering-right.html A leading energy expert has expressed concerns]&lt;/ref&gt;
+
+===Italy===
+As stated above, Italy has already deployed a large number of smart electrical meters. Legislation has recently been released, forcing gas utilities to deploy smart gas meters from large industrial consumers down to almost every residential customer by the end of 2016.&lt;ref&gt;http://www.autorita.energia.it/allegati/docs/08/155-08alleng.pdf&lt;/ref&gt; 
+
+It is expected and desired, that remote reading and management of smart gas meters will be fully independent of the existing system of smart electrical meters. The technology intended to be used, mainly, will be [[radio]]-based. More information can be found on the webpage published by the authority.&lt;ref&gt;[http://www.autorita.energia.it/it/docs/08/155-08arg.htm Autorità per l'energia elettrica e il gas - Direttive per la messa in servizio dei gruppi di misura del gas, caratterizzati da requisiti funzionali minimi e con funzioni di te...&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+===Malta===
+Malta is in the process of implementing smart meters in all commercial and private households. Enemalta, a governmental company responsible for electricity is responsible for the introduction of the smart meters. This will occur in phases and it is projected that every meter in Malta will be 'smart' by 2012. This will cost approximately 40 million euros, being paid by the Ministry of Infrastructure, Technology, and Communication. The 'smart meters' being used in Malta are manufactured by [[IBM]]. A pilot project is currently underway and more than 5,000 are being installed.&lt;ref&gt;[http://www.timesofmalta.com/articles/view/20090505/local/enemalta-starts-installation-of-smart-meters timesofmalta.com - Enemalta starts installation of smart meters&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The cost of the installation will be totally absorbed by the government, i.e. the taxpayers.
+
+==Technology==
+
+Of all smart meter technologies, one critical technological problem is communication. Each meter must be able to reliably and securely communicate the information collected to some central location. Considering the varying environments and locations where meters are found, that problem can be daunting. Among the solutions proposed are: the use of [[Mobile phone|cell]] and [[pager]] networks, [[satellite]], licensed [[radio]], combination licensed and unlicensed radio, and [[power line communication]]. Not only the medium used for communication purposes, but also the type of network used, is critical. As such, one would find: fixed wireless, [[mesh network]] or a combination of the two. There are several other potential network configurations possible, including the use of [[Wi-Fi]] and other [[internet]] related networks. To date no one solution seems to be optimal for all applications. [[Rural electrification|Rural utilities]] have very different communication problems from urban utilities or utilities located in difficult locations such as mountainous regions or areas ill-served by wireless and internet companies.
+
+===Protocols===
+ANSI C12.18 is an [[ANSI]] standard that describes a [[communications protocol|protocol]] used for two-way communications with a meter, mostly used in North American markets. The C12.18 standard is written specifically for meter communications via an ANSI Type 2 Optical Port, and specifies lower-level protocol details. [[ANSI C12.19]] specifies the data tables that will be used. [[ANSI C12.21]] is an extension of C12.18 written for modem instead of optical communications, so it is better suited to [[automatic meter reading]].
+
+IEC 61107 is a communication protocol for smart meters published by the [[International Electrotechnical Commission|IEC]] that is widely used for utility meters in the European Union. It is superseded by [[IEC 62056]], but remains in wide use because it is simple and well-accepted. It sends [[ASCII]] data using a [[serial port]]. The physical media are either modulated light, sent with an [[LED]] and received with a [[photodiode]], or a pair of wires, usually modulated by [[EIA-485]]. The protocol is [[duplex (telecommunications)|half-duplex]]. IEC 61107 is related to, and sometimes wrongly confused with, the FLAG protocol. Ferranti and Landis+Gyr were early proponents of an interface standard that eventually became a sub-set of IEC1107.
+
+[[IEC 62056]] - is a more modern European meter protocol and superset of IEC 61107.
+
+[[Open smart grid protocol]] - The Open Smart Grid Protocol (OSGP) is a family of specifications published by the [[European Telecommunications Standards Institute]] (ETSI) used in conjunction with the ISO/IEC 14908 control networking standard for smart metering and smart grid applications.  Millions of smart meters based on OSGP are deployed work wide.&lt;ref&gt;http://www.etsi.org/WebSite/NewsandEvents/2012_01_Open_Smart_Grid.aspx ETSI Approves Open Smart Grid Protocol (OSGP) for Grid Technologies&lt;/ref&gt;
+
+There is a growing trend toward the use of [[TCP/IP]] technology as a common communication platform for Smart Meter applications, so that utilities can deploy multiple communication systems, while using IP technology as a common management platform.&lt;ref&gt;[http://newsroom.cisco.com/dlls/2009/prod_051809.html Cisco Outlines Strategy for Highly Secure, 'Smart Grid' Infrastructure]&lt;/ref&gt;&lt;ref&gt;[http://blog.ds2.es/ds2blog/2009/05/why-smart-grid-must-use-ip-standards.html Why the Smart Grid must be based on IP standards]&lt;/ref&gt; Other solutions suggest the use of a single, universal connector separating the function of the smart grid device and its communication module.&lt;ref&gt;[http://www.cambridgeconsultants.com/umi.html Cambridge Consultants Introduces the Universal Metering Interface]&lt;/ref&gt; A universal metering interface would allow for development and mass production of smart meters and smart grid devices prior to the communication standards being set, and then for the relevant communication modules to be easily added or switched when they are. This would lower the risk of investing in the wrong standard as well as permit a single product to be used globally even if regional communication standards vary.&lt;ref&gt;[http://www.elster-instromet.com/en/download_magazines/Profiles_2010_01_InterfaceConcept.pdf Elster suggests the benefits of a Universal Metering Interface (UMI)]&lt;/ref&gt;
+
+===Data management===
+The other critical technology for Smart Meter systems is the information technology at the utility that integrates the Smart Meter networks with the utility applications, such as billing and CIS. This includes the Meter Data Management system.
+
+It also is important for Smart Grid implementations that powerline communications ([[PLC]]) technologies used within the home over a Home Area Network (HAN), are standardized and compatible. The HAN allows HVAC systems and other household appliances to communicate with the smart meter, and from there to the utility.  Currently there are several broadband or narrowband standards in place, or being developed, that are not yet compatible. In order to address this issue, the National Institute for Standards and Technology ([[NIST]]) established the PAP15 group, which will study and recommend coexistence mechanisms with a focus on the harmonization of PLC standards for the HAN. The objective of the group is to ensure that all PLC technologies selected for the HAN will coexist as a minimum. The two main broadband PLC technologies selected are the [[HomePlug#HomePlug AV|HomePlug AV]] / [[IEEE 1901]] and ITU-T [[G.hn]] technologies; technical working groups within these organizations are working to develop appropriate coexistence mechanisms. The [[HomePlug Powerline Alliance]] has developed a new standard for smart grid HAN communications called the [[HomePlug#HomePlug GreenPhy|HomePlug Green PHY]] specification. It is interoperable and coexistent with the widely deployed [[HomePlug#HomePlug AV|HomePlug AV]] technology and with the new [[IEEE 1901]] global standard and is based on Broadband [[OFDM]] technology. ITU-T commissioned in 2010 a new project called G.hnem, to address the home networking aspects of energy management, built upon existing Low Frequency Narrowband OFDM technologies.
+
+[[Google.org]]'s [[Google PowerMeter|PowerMeter]], until its demise in 2011, was able to use a smart meter for tracking electricity usage,&lt;ref name=sfgate&gt;{{cite news|url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/02/10/BULM15RHFH.DTL&amp;type=tech|title=Google plans meter to detail home energy use|accessdate=2009-02-11 | work=The San Francisco Chronicle | first1=Verne | last1=Kopytoff | first2=Ryan | last2=Kim | date=2009-02-11}}&lt;/ref&gt; as can eMeter's Energy Engage as in, for example, the PowerCentsDC(TM) demand response program.
+Google PowerMeter was retired in September 2011.&lt;ref&gt;{{cite web|title=An update on Google Health and Google PowerMeter|url=http://googleblog.blogspot.com/2011/06/update-on-google-health-and-google.html|work=Official Google Blog|accessdate=30 December 2011}}&lt;/ref&gt;
+
+==Advanced metering infrastructure==
+''Advanced Metering Infrastructure (AMI)'' are systems that measure, collect, and analyze energy usage, and communicate with metering devices such as electricity meters, gas meters, heat meters, and water meters, either on request or on a schedule. These systems include hardware, software, communications, consumer energy displays and controllers, customer associated systems, [[Meter Data Management]] (MDM) software, and supplier business systems.
+
+The network between the measurement devices and business systems allows collection and distribution of information to customers, suppliers, [[utility companies]], and service providers. This enables these businesses to participate in [[demand response]] services. Consumers can use information provided by the system to change their normal consumption patterns to take advantage of lower prices. Pricing can be used to curb growth of peak consumption.
+
+AMI differs from traditional [[automatic meter reading]] (AMR) in that it enables two-way communications with the meter. Systems only capable of meter readings do not qualify as AMI systems.&lt;ref&gt;Glossary provided by U.S. Department of Energy [http://www.synaptitudeconsulting.com/knowledge/smart_grid_center/smart_grid_energy_definitions_a_j], ''Glossary provided by US Department of Energy''&lt;/ref&gt;
+
+==See also==
+{{Portal|Energy}}
+{{div col|cols=2}}
+* [[DASH7]]
+* [[Distributed generation]]
+* [[Home network]]
+* [[Meter-Bus]]
+* [[Meter data analytics]]
+* [[Net metering]]
+* [[Nonintrusive load monitoring]]
+* [[Open Metering System]]
+* [[Open smart grid protocol]]
+* [[Power line communication]]
+* [[Smart grid]]
+* [[Universal Metering Interface]]
+* [[Utility submetering]]
+* [[Virtual power plant]]
+* [[Wavenis]]
+{{div col end}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[http://www.eagleinfotek.in/smartmeter Smart meter in India - Eagle Infotek]
+*[http://www.tiaonline.org/standards/committees/committee.cfm?comm=tr-51 TIA Smart Utility Networks - U.S. Standardization Process]
+*[http://www.dramcoalition.org/id19.htm Demand Response and Advanced Metering Coalition. Definitions.]
+*[http://www.dpi.vic.gov.au/dpi/dpinenergy.nsf/LinkView/4EC2E4EA42B821FCCA2572B10079A930A8BAF6E4E66C900FCA2572B20004C403 Advanced Metering Infrastructure (AMI), Department of Primary Industries, Victoria, Australia.]
+*[http://www.smartmeters.com/ Further Reading - Smart Meters News &amp; Information]
+*[http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=115519311058367534348.0000011362ac6d7d21187&amp;z=2 Smart Metering Projects Map - Google Maps]
+*[http://arstechnica.com/tech-policy/news/2011/08/mad-about-metered-billing-they-were-in-1886-too.ars Mad about metered billing? They were in 1886, too]—[[Ars Technica]]
+
+{{Electricity grid modernization}}
+{{List of automation protocols}}
+
+[[Category:Flow meters]]
+[[Category:Energy measurement]]
+[[Category:Electric power distribution]]
+[[Category:Electric power]]
+[[Category:Smart grid]]
+
+[[ar:عداد ذكي]]
+[[de:Intelligenter Zähler]]
+[[es:Medidor inteligente]]
+[[fr:Compteur intelligent]]
+[[lt:Intelektualusis skaitiklis]]
+[[nl:Slimme meter]]
+[[ja:スマートメーター]]
+[[ru:Интеллектуальный счётчик]]
+[[fi:Etäluettava sähkömittari]]
+[[zh:智慧型電表]]</text>
+      <sha1>ejaghgw361ko9ga5hubmkl20sbzuf3v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

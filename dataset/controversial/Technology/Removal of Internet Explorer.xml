@@ -1,0 +1,103 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Removal of Internet Explorer</title>
+    <ns>0</ns>
+    <id>1544191</id>
+    <revision>
+      <id>516974040</id>
+      <parentid>497332836</parentid>
+      <timestamp>2012-10-10T08:37:02Z</timestamp>
+      <contributor>
+        <username>Blahma</username>
+        <id>120686</id>
+      </contributor>
+      <minor/>
+      <comment>browser and its removal were/are mixed in the first paragraph</comment>
+      <text xml:space="preserve" bytes="13813">{{Multiple issues
+|npov = September 2008
+|original research = September 2008
+|unreliable sources = September 2008
+}}
+'''Internet Explorer removal''' has changed over the browser's version history, but the nature of many of its upgrades and installation methods has been a matter of public interest. The first version to be included was [[Internet Explorer 2|version 2]] with [[Windows 95]] in late 1996. Later, users who upgraded to IE3 (which came out in 1996), could still use the last IE, because the installation converted the previous version to separate directory.&lt;ref&gt;&quot;By having IE3 rename your previous version, Microsoft gives you a fallback in case IE3 crashes. IE3 also scans for Netscape bookmarks and converts them to IE3 favorites.&quot; http://www.windowsitpro.com/article/articleid/2801/internet-explorer-30.html&lt;/ref&gt; 
+
+However, Internet Explorer 4 created a controversy with its shell integration with [[Windows Explorer]], and with later versions removal (or inability to do so) became more complicated. The idea of removing [[Internet Explorer]] from a [[Microsoft Windows]] [[operating system]] was  proposed during the [[United States v. Microsoft]] case. Later, some security advocates took up the idea as a way to protect Windows systems from attack via IE vulnerabilities. By the release of [[Internet Explorer 7]], some of the shell integration began being reduced, such as changing [[ActiveX]] hosting and a different look than Windows Explorer. 
+
+As of build 7048 of Windows 7, Microsoft added the ability to safely remove Internet Explorer from Windows.&lt;!-- Note: Both IE8 and IE9 can be disabled, and Windows 7 did not ship with IE7 --&gt;&lt;ref name=&quot;Internet Explorer 8 can be removed from Windows 7&quot;&gt;{{cite web|url=http://winjade.net/2009/03/ie8-functionally-removable/|title=Internet Explorer 8 can be removed from Windows 7|date=2009-03-03|publisher=AeroXperience|first=Bryant|last=Zadegan|accessdate=2009-03-03}}&lt;/ref&gt; Dependencies such as the [[Trident layout engine]] are not removed through this process, but the Internet Explorer executable (iexplore.exe) is removed without harming any other Windows components, thus preventing Internet Explorer itself from running. It was proposed that a special version of Windows 7, Windows 7 E, would be shipped without Internet Explorer in Europe as a result of [[European Union Microsoft competition case|EU antitrust investigations]] against Microsoft.&lt;ref name=&quot;Win7PreOrder&quot;&gt;{{cite web|url=http://www.microsoft.com/uk/windows/buy/offers/pre-order.aspx|title=Windows 7 Pre-Order Offer|publisher=[[Microsoft Corporation]]|accessdate=2009-07-15}}&lt;/ref&gt;&lt;ref name=&quot;BBCNoIEWin7&quot;&gt;{{cite web|url=http://news.bbc.co.uk/1/hi/technology/8096701.stm|title=No IE onboard Windows 7 in Europe|date=2009-06-12|publisher=[[BBC]]|accessdate=2009-07-15}}&lt;/ref&gt;&lt;ref name=&quot;ArsTechnicaNoIEWIn7&quot;&gt;{{cite web|url=http://arstechnica.com/microsoft/news/2009/06/windows-7-to-be-shipped-in-europe-sans-internet-explorer.ars|title=Windows 7 to be shipped in Europe without Internet Explorer|publisher=[[Ars Technica]]|accessdate=2009-07-15}}&lt;/ref&gt;&lt;ref name=&quot;GuardianNoIEWin7&quot;&gt;{{cite web|url=http://www.guardian.co.uk/technology/blog/2009/jun/12/windows-7-internet-explorer|title=European version of Windows 7 will not include browser|last=John|first=Bobbie|date=2009-06-12|publisher=[[guardian.co.uk]]|accessdate=2009-07-15}}&lt;/ref&gt;&lt;ref name=&quot;RegisterNoIEWin7&quot;&gt;{{cite web|url=http://www.theregister.co.uk/2009/07/14/windows_7_leak_ie8/|title=Windows 7 still baking in oven, insists Microsoft|last=Fiveash|first=Kelly|date=2009-07-14|publisher=[[The Register]]|accessdate=2009-07-15}}&lt;/ref&gt; However, in July 2009, Microsoft cancelled the Windows 7 E editions due to negative reactions from computer manufacturers.&lt;ref name=&quot;neowin-noE&quot;&gt;{{cite web|url=http://www.neowin.net/news/main/09/08/01/microsoft-scraps-windows-7-e-version-for-europe|title=Microsoft scraps Windows 7 'E' version for Europe|last=Warren|first=Tom|date=August 1, 2009|publisher=Neowin|accessdate=2009-08-01}}&lt;/ref&gt;
+
+== Overview ==
+While a major upgrade of Internet Explorer can be uninstalled in a traditional way if the user has saved the original application files for uninstallation, the matter of uninstalling the version of the browser that has shipped with an operating system remains a controversial one.
+
+The idea of removing a stock install of Internet Explorer from a Windows system was proposed during the [[United States v. Microsoft]] case, and Microsoft themselves acknowledged that many users did not want IE.&lt;ref&gt;{{cite web| url=http://www.theregister.co.uk/1999/01/11/ms_lashesout_at_economists_testimony/| title=MS lashes-out at economist's testimony| accessdate = 2009-12-05| date=1999-01-11}}.&lt;/ref&gt; One of Microsoft's arguments during the trial, however, was that removing Internet Explorer from Windows may result in system instability.
+
+The Australian computer scientist [[Shane Brooks]] demonstrated that Windows 98 could in fact run with Internet Explorer removed.&lt;ref name=&quot;FindingsOfFacts&quot;&gt;
+{{cite web| url=http://www.usdoj.gov/atr/cases/f3800/msjudgex.htm| title=U.S. v. Microsoft: Court's Findings of Fact| accessdate = 2005-05-12| publisher=United States Department of Justice| date=2005-11-05}}.&lt;/ref&gt; Brooks made his work available as a freeware removal utility called [[IEradicator]], which removes all versions of IE from all versions of Windows 9x. Another programmer named Bruce Jensen published a similar utility called &quot;Revenge of Mozilla.&quot;  Shane Brooks went on to develop more a more sophisticated program for Windows 98 and ME, marketed as [[98lite]], which turns IE, along with several other &quot;mandatory&quot; Windows components, into optional components that can be added or removed from the OS at will.  He later created [[XPLite]], which renders many parts of Windows 2000 and XP into optional components. Both of Brooks's programs can remove IE after the installation of the operating system. 
+
+There are other methods of removing IE based on modifying the Windows installation process so that IE is never installed in the first place.  [[98lite]] can be used in this way.  A method developed by Fred Vorck&lt;ref&gt;[http://www.vorck.com/remove-ie.html Vorck's Windows 2000 Repository]&lt;/ref&gt; manually alters the setup scripts for Windows 2000 to prevent the installation of IE. His process has been automated as a feature of [[HFSLIP]]. [[nLite]] and [[HFSLIP]] are automated programs that allow users to modify the Windows installation process, both to incorporate patches and updates and to exclude IE and many other Windows components from installation as desired. 
+
+Removing Internet Explorer does have a number of consequences.  Some programs bundled with Windows, such as Outlook Express, and some basic Windows components, such as Help and Support, depend on libraries installed by IE in order to function.  With IE removed, they may fail to work, or exhibit unexpected behavior.  Several common 3rd party applications, Intuit's [[Quicken]] being a typical example, depend heavily upon the [[HTML]] rendering components installed by the browser.  For this reason, most of the IE removal utilities offer the compromise option of removing large parts of IE while still leaving behind the HTML rendering engine or &quot;IE core,&quot; which allows many of these 3rd party applications to function normally.  Also, in versions of Windows before [[Windows Vista|Vista]], it is also not possible to run Microsoft's [[Windows Update]] or [[Microsoft Update]] with any other browser due to the service's implementation of an [[ActiveX]] control, which no other browser supports. In Windows Vista and Windows 7, [[Windows Update]] is implemented as a [[Control Panel (Windows)|Control Panel]] applet.
+
+== Vulnerabilities ==
+{{noref|section|date=March 2012}}
+Simply installing and using another browser does not prevent third party programs and core operating system components from using IE libraries. Thus, a user who does not use IE to browse the Web can still be targeted by attacks against vulnerabilities in these libraries&amp;mdash;for instance, via [[Outlook Express]] or the Windows Help subsystem. However, removing the IE libraries will cause these programs, and other software which depends upon them, to cease functioning or even to crash the system.
+
+== Removing ==
+It is unclear what it means to &quot;remove IE&quot; because such a removal depends on being able to determine which files or functions on an installed Windows system are part of IE &amp;mdash; that is, to draw a line between IE and the rest of Windows. Microsoft has held that this is not meaningful; that in Windows 98 and newer versions, &quot;Internet Explorer&quot; is not a separate piece of software but simply a [[brand]] name for the Web-browsing and HTML-displaying capacities of the Windows operating system. In this view, the result of removing IE is simply a damaged Windows system; to have a working system without IE one must replace Windows entirely.
+
+In contrast, some programmers and security writers have held that it is possible to have a useful and working Windows system with IE excised, that is, without Microsoft's implementation of web browsing and HTML viewing. These people include consultant Fred Vorck, who advocates that consumers should have the choice to remove &quot;integrated&quot; features of Microsoft Windows&lt;ref name=&quot;vorck1&quot;/&gt; and participates in the [[HFSLIP]] project; Dino Nuhagic, who is the creator of [[nLite]] &amp;mdash; a product that allows users to remove Windows components like Internet Explorer and [[Windows Media Player]], amongst others;&lt;ref&gt;{{cite web|url=http://www.msfn.org/ |title=MSFN - Where People Go To Know |publisher=Msfn.org |date= |accessdate=2008-09-16}}&lt;/ref&gt; and Shane Brooks, who created [[98lite]] and [[XPLite]] to remove and manage Windows components&lt;ref&gt;{{cite web|url=http://www.litepc.com/ |title=LitePC Technologies |publisher=Litepc.com |date= |accessdate=2008-09-16}}&lt;/ref&gt; after the installation of the operating system.  Some people have suggested the use of alternative browsers instead of Internet Explorer, to try reduce the risk of vulnerabilities.&lt;ref&gt;{{cite web|url=http://redmondmag.com/features/article.asp?editorialsID=439 |title=Redmond &amp;#124; Feature Article: Time to Dump IE? |publisher=Redmondmag.com |date= |accessdate=2008-09-16}}&lt;/ref&gt;
+
+Methods have been developed by these programmers and others to remove Internet Explorer from Windows 95 after installing,&lt;ref&gt;{{cite web|url=http://web.archive.org/web/*/http://wp.netscape.com/browsers/using/ieusers/start/removing.html |title=AOL.com - Netscape |publisher=Netscape.com |date= |accessdate=2009-12-17}} Archived copy retrieved from [http://www.archive.org/ Internet Archive].&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://support.microsoft.com/default.aspx?scid=kb;en-us;q192852 |title=How to Remove Internet Explorer and Outlook Express from your Computer |publisher=Support.microsoft.com |date= |accessdate=2008-09-16}}&lt;/ref&gt; as well as before install time.&lt;ref&gt;{{cite web|url=http://toastytech.com/evil/lab.html |title=Nathan's MAD IE De-integration Lab |publisher=Toastytech.com |date= |accessdate=2008-09-16}}&lt;/ref&gt; Removing Internet Explorer from Windows 2000,&lt;ref name=&quot;vorck1&quot;&gt;http://www.vorck.com/windows/2ksp5.html#download-ie6&lt;/ref&gt; Windows XP and Windows Server 2003&lt;ref&gt;{{cite web|url=http://www.nliteos.com/ |title=nLite - Deployment Tool for the bootable Unattended Windows installation |publisher=Nliteos.com |date= |accessdate=2008-09-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://hfslip.org/ |title=TommyP's HFSLIP |publisher=Hfslip.org |date= |accessdate=2008-09-16}}&lt;/ref&gt; is also possible at installation time.
+
+==Conflicts==
+One of Microsoft's arguments during the ''[[United States v. Microsoft]]'' trial was that removing Internet Explorer from Windows may result in system instability. At least one commentator supported this argument, and noted that removing Internet Explorer would also disable [[Windows Update]], leaving the user without vital security updates to the operating system.&lt;ref&gt;{{cite web|url=http://www.stopie.com/removingie.html |title=Internet Explorer Removal |publisher=Stopie.com |date= |accessdate=2011-07-31}}&lt;/ref&gt; Almost all Windows Updates can be downloaded from [[Microsoft]]'s [[homepage]] independent of the [[operating system]] or [[web browser]] used.
+
+When removing Internet Explorer prior to Windows installation using [[nLite]], there is a distinction between removing Internet Explorer and ''Internet Explorer Core''. If the latter is not removed, core components needed for displaying HTML help files and other operating system tasks are not removed, but the web browser is removed from the system.
+
+While the dominant market position of Windows and Internet Explorer may cause these arguments to appear insubstantial, this arrangement is not unique to Windows. [[Safari (web browser)|Safari]], the default browser on [[Mac OS X]], is similarly integrated into the operating system. While it is possible to delete the application itself without problem, Safari is in fact merely a front-end for Apple's [[open source]] [[WebKit]] framework, which is heavily integrated into the operating system and cannot be removed.&lt;ref&gt;{{cite web|url=http://webkit.org/ |title=The WebKit Open Source Project |publisher=Webkit.org |date= |accessdate=2008-09-16}}&lt;/ref&gt; However, certain [[List of web browsers#WebKit-based browsers|other browsers]] available for use on the operating system are also built on WebKit, and WebKit can also be used in other operating systems. By contrast, the [[closed source]] ''Internet Explorer core'' can only be utilized by Internet Explorer, as well as [[Internet Explorer shell]]s, in Windows.
+
+== References ==
+{{reflist|30em}}
+
+{{Internet Explorer}}
+
+{{DEFAULTSORT:Removal Of Internet Explorer}}
+[[Category:Internet Explorer]]</text>
+      <sha1>myy80szynxo4v8f0s0aw02u7wq9lfpu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

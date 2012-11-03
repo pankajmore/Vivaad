@@ -1,0 +1,138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Copyright infringement of software</title>
+    <ns>0</ns>
+    <id>18935579</id>
+    <revision>
+      <id>515578051</id>
+      <parentid>513685995</parentid>
+      <timestamp>2012-10-02T05:18:38Z</timestamp>
+      <contributor>
+        <ip>87.236.50.10</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="11171">{{Use mdy dates|date=January 2012}}
+{{POV|date=March 2012}}
+The '''[[copyright infringement]] of [[software]]''' (often referred to as '''software piracy''') refers to several practices which involve the unauthorized copying of computer software. Copyright infringement of this kind varies globally.&lt;ref&gt;{{cite web|url=http://www.nationmaster.com/graph/cri_sof_pir_rat-crime-software-piracy-rate |title=Software piracy rate statistics - countries compared |publisher=Nation Master |date= |accessdate=2012-01-27}}&lt;/ref&gt; Most countries have copyright laws which apply to software, but the degree of enforcement and compliance varies.
+
+Subject to many exceptions, it is a copyright violation to download, upload or otherwise distribute copyrighted material through the internet without authorization.{{Citation needed|date=August 2012}}
+
+== Motivation ==
+Some of the motives for engaging in the illegal activity of copyright infringement are the following:&lt;ref&gt;{{cite web|url=http://www.tcs.cam.ac.uk/story_type/site_trail_story/interview-gabe-newell/ |title=Interview: Gabe Newell |publisher=Tcs.cam.ac.uk |date=2011-11-24 |accessdate=2012-01-27}}&lt;/ref&gt;
+* Pricing – unwillingness or inability to pay the price requested by the legitimate sellers
+* Unavailability – no legitimate sellers providing the product in the country of the end-user: not yet launched there, already withdrawn from sales, never to be sold there, geographical restrictions on [[online distribution]] and international shipping
+* Usefulness – the legitimate product comes with various means ([[Digital rights management|DRM]], [[regional lockout|region lock]], [[DVD region code]], [[Blu-ray#Region codes|Blu-ray region code]]) of restricting legitimate use (backups, usage on devices of different vendors, offline usage) or comes with annoying non-skipable advertisements and anti-piracy disclaimers, which are removed in the pirated product making it more desirable for the end-user
+* Shopping experience – no legitimate sellers providing the product with the required quality through [[online distribution]] and through a shopping system with the required level of user-friendliness
+
+== Existing and proposed laws ==
+{{Main|Copyright infringement|History of copyright law|Digital Millennium Copyright Act|Protect IP Act|Stop Online Piracy Act|Software copyright}}
+
+[[File:Pro piracy demonstration.jpg|thumb|Demonstration in [[Sweden]] in support of [[file sharing]], 2006.]]
+[[File:The Pirate Bay logo.svg|right|thumb|[[The Pirate Bay]] logo, a retaliation to the stereotypical image of software piracy]]
+
+[[List of countries' copyright length|Most countries]] extend copyright protections to software. Even the oldest legacy computer systems used today will not have their [[list of countries' copyright length|copyright expire]] until 2030. In the United States, copyright term has been extended many times over&lt;ref&gt;{{cite web|url=http://copyright.gov/circs/circ1a.html |title=U.S. Copyright Office - Information Circular |publisher=Copyright.gov |date= |accessdate=2012-01-27}}&lt;/ref&gt; from the original term of 14 years with a single renewal allowance of 14 years, to the current term of the life of the author plus 70 years. If the work was produced under [[corporate authorship]] it may last 120 years after creation or 95 years after publication, whichever is less.
+
+Punishment of copyright infringement varies case-by-case across countries. Convictions may include jail time and/or severe fines for each instance of copyright infringement. In the United States, willful copyright infringement carries a maximum penalty of $150,000 per instance.&lt;ref&gt;{{cite web|url=http://copyright.gov/title17/92chap5.html |title=U.S. Copyright Office - Copyright Law: Chapter 5 |publisher=Copyright.gov |date= |accessdate=2012-01-27}}&lt;/ref&gt;
+
+Proposed laws such as the [[Stop Online Piracy Act]] broaden the definition of &quot;willful infringement&quot;, and introduce felony charges for unauthorized [[media streaming]]. These bills are aimed towards defeating websites that carry or contain links to infringing content, but have raised concerns about domestic abuse and internet censorship.
+
+Title I of the [[United States|US]] [[DMCA]], the [[WIPO Copyright and Performances and Phonograms Treaties Implementation Act]] has provisions that prevent persons from &quot;circumvent[ing] a technological measure that effectively controls access to a work&quot;. Thus if a software manufacturer has some kind of software, [[dongle]] or password access device installed in the software any attempt to bypass such a [[copy protection]] scheme may be [[cause of action|actionable]] — though the US Copyright Office is currently reviewing anticircumvention rulemaking under DMCA — anticircumvention exemptions that have been in place under the DMCA include those in software designed to filter websites that are generally seen to be inefficient (child safety and public library website filtering software) and the circumvention of copy protection mechanisms that have malfunctioned, have caused the software to become inoperable or which are no longer supported by their manufacturers.
+
+Certain [[free software]] licenses, most notably [[GNU General Public License]] (GPL) substantially rely on existing copyright law. It is not possible to enforce GPL other than within the framework of existing copyright law.&lt;ref&gt;{{cite web|url=http://www.brainhandles.com/techno-thoughts/technology-life/should-copyright-be-abolished |title=Should copyright be abolished |publisher=Brainhandles.com |date=2007-05-06 |accessdate=2012-01-27}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Thursday, October 28 2004 @ 02:01 AM EDT |url=http://www.groklaw.net/articlebasic.php?story=20041028000105896 |title=The Sustainable GPL |publisher=Groklaw.net |date=2004-10-28 |accessdate=2012-01-27}}&lt;/ref&gt;
+
+==Limitations==
+Copyright does not protect the technical form nor R&amp;D&lt;ref&gt;{{cite web|url=http://www.ladas.com/Patents/Computer/SoftwareAndCopyright/Softwa06.html#fn30 |title=3.3 The “Abstraction, Filtration, Comparison” Test |publisher=Ladas.com |date= |accessdate=2012-01-27}}&lt;/ref&gt; of an original work. [[Copyright]] contains a [[Substantial similarity]] requirement to determine whether the work falls under the [[Fair use]] clause.
+
+Evaluation of alleged software copyright infringement in a court of law may be non-trivial; if an original work is alleged to have been modified, then tests such as the [[Abstraction-Filtration-Comparison test]] (AFC Test)&lt;ref&gt;{{cite web|url=http://www.ifosslr.org/ifosslr/article/download/30/54 |title=Copyright in Open Source Software – Understanding the Boundaries |publisher=Ifosslr.org |accessdate=2012-09-20}}&lt;/ref&gt;&lt;ref&gt;[http://www.linux.com/archive/feature/113252 ]{{dead link|date=January 2012}}&lt;/ref&gt; are used to detect infringement. The time and costs required to apply this test naturally vary based on the size and complexity of the copyrighted material. Furthermore, there is no standard or universally accepted test; some courts have rejected the AFC Test it in favor of narrower testing criteria.
+
+== Impact of copyright infringement ==
+=== Economic harm ===
+The [[Business Software Alliance|BSA]] and [[International Data Corporation|IDC]] claim that losses from software piracy in 2009 have exceeded $51 billion.&lt;ref&gt;{{cite web|last=Jacobsson |first=Sarah |url=http://www.pcworld.com/article/196110/bsa_piracy_study_quantifying_piracy_data_easier_than_we_thought.html |title=BSA Piracy Study: Quantifying Piracy Data Easier Than We Thought |publisher=Pcworld.com |date=2010-05-11 |accessdate=2012-01-27}}&lt;/ref&gt; In addition, it has been claimed that reducing piracy rates would provide significant economic benefits:
+{{quote|Lowering software piracy by just 10 percentage points during the next four years would create nearly 500,000 new jobs and pump $140 billion into ailing economies.|
+John Gantz, chief research officer at IDC&lt;ref&gt;{{cite web|url=http://www.bsa.org/country/News%20and%20Events/News%20Archives/global/05112010-globalpiracystudy.aspx |title=BSA Reports $51 Billion Worth of Software Theft in 2009 |publisher=Bsa.org |date=2010-05-11 |accessdate=2012-01-27}}&lt;/ref&gt;}}
+
+According to a BSA/IDC studies, the highest piracy rate comes from Armenia, with piracy rate of 93%. China and India are at No. 17 and No. 41 respectively, with 82% and 69% of recorded Software Piracy rates.&lt;ref&gt;{{cite web|url=http://portal.bsa.org/idcglobalstudy2007/studies/2007_global_piracy_study.pdf |title=Fifth Annual BSA and IDC Global Software Piracy Study |format=PDF |date= |accessdate=2012-01-27}}&lt;/ref&gt; The lowest piracy rate, according to survey, is observed in USA, at 20%. However, the methodology of these studies has been [[Business Software Alliance#BSA annual software piracy study|heavily criticized]].
+
+=== Developing countries ===
+Most commercially exploited proprietary software is developed in the [[United States]] and [[Europe]].{{Citation needed|date=November 2011}} Critics in developing countries see this as an indirect technology transfer tax{{vague|date=January 2012}} on their country, preventing technological advancement. This is the leading reason developing countries refuse to accept or respect copyright laws. This idea is often applied to [[patent]] laws as well. [[Traian Băsescu]], the president of [[Romania]], stated that &quot;piracy helped the young generation discover computers. It set off the development of the IT industry in Romania.&quot;&lt;ref&gt;Nathan Davis. [http://apcmag.com/5254/thanks_for_letting_us_pirate Thanks for letting us pirate]. February 5, 2007.&lt;/ref&gt;
+
+The debate about software piracy acceptance in developing countries still continues. In 2011, the [[Business Software Alliance]] announced that 83 percent of software deployed on PCs in [[Africa]] has been pirated (excluding [[South Africa]]).&lt;ref&gt;{{cite web |url=https://torrentfreak.com/software-piracy-110822/ |title=Software Piracy (Infographic) |date=August 22, 2011}}&lt;/ref&gt;
+
+== Anti-copyright infringement organizations ==
+* [[Business Software Alliance]] (BSA)
+* [[Canadian Alliance Against Software Theft]] (CAAST)
+* [[Entertainment Software Association]] (ESA)
+* [[Federation Against Software Theft]] (FAST)
+* [[International Intellectual Property Alliance]] (IIPA)
+
+==See also==
+* [[Abandonware]]
+* [[Anti-copyright]]
+* [[Australian copyright law]]
+* ''[[Computer Associates Int. Inc. v. Altai Inc.]]''
+* [[Copyleft]]
+* [[File sharing]]
+* [[Jacobsen v. Katzer]]
+* [[Open Letter to Hobbyists]]
+* [[Product activation]]
+* [[Software copyright]]
+* [[Warez]]
+* [[Windows Genuine Advantage]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.tweakguides.com/Piracy_1.html Article illustrating the effect of piracy on video games]
+
+{{DEFAULTSORT:Copyright Infringement Of Software}}
+[[Category:Copyright infringement of software| ]]
+[[Category:Computer crimes]]
+
+[[et:Tarkvarapiraatlus]]
+[[he:פיראטיות תוכנה]]
+[[mk:Пиратерија на програмска опрема]]
+[[pt:Pirataria de software]]
+[[simple:Copyright infringement of software]]
+[[th:การละเมิดลิขสิทธิ์ซอฟต์แวร์]]
+
+{{intellectual property activism}}</text>
+      <sha1>lfh48ahgmis2r3oun7jqro6yqp7ob7z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

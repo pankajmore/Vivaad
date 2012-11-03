@@ -1,0 +1,234 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Duke Nukem Forever</title>
+    <ns>0</ns>
+    <id>143840</id>
+    <revision>
+      <id>520358602</id>
+      <parentid>517398494</parentid>
+      <timestamp>2012-10-29T01:53:54Z</timestamp>
+      <contributor>
+        <username>YFdyh-bot</username>
+        <id>16428237</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.3) (Robot: Adding [[ja:デューク ニューケム フォーエバー]]</comment>
+      <text xml:space="preserve" bytes="40751">{{Infobox video game
+| title = Duke Nukem Forever
+| image = [[File:DukeNukemForever.jpg]]
+| caption = North American cover art
+| developer = [[3D Realms]]&lt;br /&gt;Triptych Games&lt;ref&gt;{{cite web | url=http://www.shacknews.com/chatty?id=23904881#itemanchor_23904881 | title=Duke Nukem Forever Hands-on Preview (comment from [[George Broussard]]) | date=2010-09-03 | author=[[George Broussard]]&lt;br /&gt;Allen H. Blum III | quote=''Triptych Games which continued the game for us through all of 2009 and into 2010 with Gearbox. Triptych is made up of 9 3DR employees who refused to let the game go and we found a way through the legal maze to keep them working on the game and to keep the game alive. They have been the development force for the last year that's made the game possible. What you see coming from PAX right now is what we originally made at 3DR with polish and additional work by Triptych and assistance from Gearbox'' |accessdate=2011-02-11}}&lt;/ref&gt;&lt;br /&gt;[[Gearbox Software]]&lt;ref&gt;{{cite web|last=Hackersho |first=Yu Yu |url=http://gameinformer.com/b/news/archive/2010/09/03/duke-nukem-forever-hitting-in-2011.aspx |title=Duke Nukem Forever hitting in 2011 |quote=''We now know that Gearbox started working on the game year ago'' |publisher=Gameinformer.com |date=2010-09-03 |accessdate=2011-02-18}}&lt;/ref&gt;&lt;br /&gt;[[Piranha Games]]&lt;ref&gt;{{cite web|url=http://www.ausgamers.com/features/read/2972677 |title=Duke Nukem Forever Interview with Gearbox Software |publisher=AusGamers.com |date= |accessdate=2011-02-18}}&lt;/ref&gt;&lt;br /&gt;&lt;small&gt;(multiplayer and console ports)&lt;/small&gt;
+| publisher = [[Aspyr Media]]&lt;br /&gt;[[2K Games]]&lt;ref name=&quot;dnpressrelease&quot;&gt;''2K Games and Gearbox Software announced today what will be a landmark date in gaming history...'' {{cite web|url=http://www.dukenukem.com |title=Press Release: Duke Nukem Forever Set to Kick Ass and Chew Bubblegum |publisher=DukeNukem.com |date=2011-01-21 |accessdate=2011-02-18}}&lt;/ref&gt;
+| designer = [[George Broussard]]
+| genre = [[First-person shooter]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| ratings = {{vgratings|ACB=MA15+&lt;ref&gt;{{cite web|author=TAKE 2 INTERACTIVE |url=http://classification.gov.au/www/cob/find.nsf/d853f429dd038ae1ca25759b0003557c/5aed2ea32b6af758ca2578300057efbb?OpenDocument |title=Classification Database – Duke Nukem Forever (MA 15+) |publisher=Classification.gov.au |date= |accessdate=2011-02-18}}&lt;/ref&gt;|BBFC=18|ESRB=M|PEGI=18|CERO=Z|OFLCZ=R18|USK=18}}
+| series = ''[[Duke Nukem]]''
+| engine = Modified [[Unreal Engine|Unreal Engine 2.5]]&lt;ref name=engine&gt;{{cite web|url=http://forums.3drealms.com/vb/showpost.php?p=713498&amp;postcount=19|title=3D Realms Forum - Features of the DNF engine?|date=2008-06-14|accessdate=2012-06-14|quote=Unreal. I believe we branched off somewhere around the Unreal 2 time when they added static meshes. Since then we've redone the rendering 100% and it's a fully modern engine.}}&lt;/ref&gt;&lt;ref name=engine1&gt;{{cite web|url=http://forums.duke4.net/topic/690-the-information-and-quotes-thread/|title=The Information And Quotes Thread - Duke4.net Forums|date=2009-02-26|accessdate=2012-06-14}}&lt;/ref&gt;
+| platforms = {{ubl|[[Cloud computing|Cloud]] ([[OnLive]])|[[Mac OS X]]|[[Microsoft Windows]]|[[PlayStation 3]]|[[Xbox 360]]}}
+| release = June 10, 2011&lt;ref name=&quot;Eurogamer_releasedate&quot;&gt;{{cite web|url=http://www.eurogamer.net/articles/2011-03-24-gearbox-delays-duke-nukem-forever|title=Gearbox delays Duke Nukem Forever|author=Robert Purchese|publisher=Eurogamer}}&lt;/ref&gt;{{vgrelease|NA=June 14, 2011&lt;ref name=&quot;Eurogamer_releasedate&quot;/&gt;}}'''Mac OS X'''&lt;br /&gt;August 18, 2011&lt;!-- Please do not update the date without referencing a reliable source; retailers do not count. --&gt;
+| media = [[Optical disc]], [[Online distribution|download]], [[cloud computing]]
+| requirements = {{Collapsible list |title=[[Microsoft Windows]]&lt;ref&gt;{{cite web |url=http://www.newgamenetwork.com/news/2645/duke-nukem-forever-pc-system-requirements-posted/ |title=Duke Nukem Forever PC system requirements posted |publisher=[[New Game Network]] |date=3 May 2011 |accessdate=03-05-2011 }}&lt;/ref&gt; |
+'''Minimum requirements'''
+* Intel Core 2 Duo @ 2.0 Ghz / AMD Athlon 64 X2 @ 2.0 Ghz
+* 1GB RAM
+* nVidia GeForce 7600 / ATI Radeon HD 2600 or equivalent with 256MB video memory
+* Windows XP/Vista/7 OS
+* 10GB free hard disk space
+* DirectX Compatible sound card
+'''Recommended requirements'''
+* Intel Core 2 Duo @ 2.4 Ghz / AMD Athlon 64 X2 @ 2.6 Ghz or better
+* 2GB RAM
+* nVidia GeForce 8800 GTS / ATI Radeon HD 3850 or better, with 512MB video memory
+* Windows XP/Vista/7 OS
+* 10GB free hard disk space
+* DirectX Compatible sound card
+}}
+}}
+'''''Duke Nukem Forever''''' is a 2011 [[first-person shooter]] [[video game]] for [[Microsoft Windows]], [[Mac OS X]], [[PlayStation 3]] and [[Xbox 360]] developed by [[3D Realms]] and Triptych Games and finished by [[Gearbox Software]] and [[Piranha Games]]. It is a sequel to the 1996 game ''[[Duke Nukem 3D]]'', as part of the long-running ''[[Duke Nukem]]'' video game series.
+
+Intended to be groundbreaking, ''Duke Nukem Forever'' became a notable example of [[vaporware]] due to its severely protracted [[development hell|development schedule]]; the game was released in 2011 after fifteen years of development. The game was a financial success but received middling to negative critical reception.
+
+==Plot==
+The game takes place about twelve years after the events of ''[[Duke Nukem 3D]]''. Duke is now a worldwide icon, and has achieved great fame from his heroic deeds. After sampling a video game based on his past heroics (the game Duke plays is a revamped version of the final level of the third episode of ''Duke Nukem 3D''), he arrives on the set of a talk show for an interview. On his way to the show, Duke witnesses a news broadcast on a nearby television screen announcing that aliens have once again invaded. Unlike previous encounters, the aliens initially appear peaceful and at first seem to pose no harm to the humans of Earth. Duke's talk show appearance is cancelled to allow television stations to cover the alien invasion, and he retires to the &quot;Duke Cave&quot;.
+
+There, he receives a call from the President and General Graves of the Earth Defence Force (EDF). The president orders him not to harm the invaders, and adds that he is in diplomatic talks with the alien overlord. Duke obliges this request, but remains uneasy about the whole situation. However, before he can leave his chambers, he is attacked by hostile aliens. Duke is forced to disobey the president's orders and fight his way through the alien hordes in an effort to save Earth.  Whilst fighting through his casino, Duke witnesses the aliens abducting women including his two live-in pop star girlfriends. Graves tells Duke that the women are being held in the Duke Dome, and that the aliens have a vendetta to settle with Duke. He also warns Duke that the aliens are using the [[Hoover Dam]] to power a wormhole so more aliens can come through. Nukem travels to the Duke Dome, using a wrecking ball to damage the building to gain access. Inside, he finds swarms of Octabrains and the missing women, who have been impregnated with alien spawn; Duke's girlfriends die after giving &quot;birth&quot; to alien babies. Duke finds the Alien Queen in control of the Dome and kills her, but is wounded in the process and blacks out.
+
+After regaining consciousness, Duke fights Pigcops and aliens in through the Duke Burger. Soon he travels to the Hoover Dam in his [[monster truck]]; after battling through the dam, he finds his old friend Dylan, mortally wounded. He tells Duke that the Cycloid Emperor is at the dam, and that the only way to shut down the portal is to completely destroy the dam. Before dying, he gives Duke his demolition charges and wishes him luck. Duke places the explosives and destroys the dam, but the currents nearly drown him. Duke is revived after an EDF soldier performs CPR on him; he awakens to find the portal gone. The President, who was also at the dam, rages at Duke for ruining his plans to work with the Cycloid Emperor and that he has ordered a nuclear strike at the site of the dam to wipe out the remaining aliens, intending to leave Duke there to die. However, the Cycloid Emperor emerges and kills the President and his security detail. Duke kills the Cycloid Emperor and is rescued by Graves just as the nuclear bomb explodes.
+
+The game ends with a satellite surveying the detonation area and listing Duke Nukem as [[killed in action]], to which Duke replies off-screen, &quot;What kind of shit ending is that? I ain't dead. I'm coming back for more!&quot; A short scene after the ending credits depicts a press conference, where Duke announces his intent to run for the [[President of the United States]].
+
+==Gameplay==
+''Duke Nukem Forever'' is an action-oriented [[first-person shooter]]. Players take control of Nukem as they navigate through a series of levels which take place on Earth and beyond. The game allows players to interact with various in-game objects, including urinals, water coolers and [[whiteboards]] which allow players to draw their own images. The gameplay is similar in some respects to the first-person shooter games of the late 1990s and early 2000s, with each level culminating in a boss battle in which Nukem has to fight and kill a large, significant alien.
+
+Unlike in the previous games, Duke can only hold two weapons at any one time in a manner similar to the ''[[Halo (series)|Halo series]]'', although [[pipe bombs]] and laser tripwires are considered inventory items and as such are not limited by this restriction.  However, the PC version has been updated to allow Duke to hold four weapons in the single-player campaign. Items that have an effect on Duke can be picked up by the player; these items are steroids, beer, and the holoduke. Steroids increase the strength of Duke's melee attacks by a great deal for a limited time. Beer makes Duke much more resistant to damage, but blurs the screen. A holoduke creates a hologram of Duke Nukem that looks and acts in a very similar way to Duke, but often says slightly twisted versions of his one-liners. Whilst the holoduke is in effect, Duke becomes invisible and the AI characters do not recognize his presence. The jetpack also returns, but only in multiplayer.
+
+Instead of the health system featured in the previous ''Duke Nukem'' game, in which health would be depleted when Nukem was injured and would only increase upon finding a health pack, drinking water from fountains/broken fire hydrants, urinating or using the portable medkit special item, ''Duke Nukem Forever'' employs a system involving an &quot;ego bar&quot;. The ego bar depletes when Duke is attacked; once it is fully depleted, Duke becomes susceptible to damage, dying and causing the game to reload the last checkpoint. If the player avoids further damage, then the ego bar is restored as is Duke's health. The player can increase the size of the ego bar (thus increasing the amount of damage Duke can take) by interacting with certain items throughout the game (for example, a mirror), and by defeating bosses. The game employs a save system that is solely based on checkpoints.
+
+==Development==
+{{main|Development of Duke Nukem Forever}}
+
+Originally in development under [[3D Realms]], director [[George Broussard]], one of the creators of the original ''[[Duke Nukem (1991 video game)|Duke Nukem]]'' game, first announced the title's development in April 1997, and various promotional information for the game was released between 1997 and 1998. After repeatedly announcing and deferring release dates, 3D Realms announced in 2001 that it would be released simply &quot;when it's done&quot;. No official video of the game was shown for almost 8 years, until 3D Realms released a new teaser trailer in December 2007, but the game &quot;submerged&quot; yet again soon afterwards.
+
+In May 2009, 3D Realms was downsized for financial reasons, resulting in the loss of the game's development team. Statements by the company indicated that the project was due to go [[Release to manufacture|gold]] soon with pictures of final development. [[Take-Two Interactive]], which owns the publishing rights to the game, filed a lawsuit in 2009 against 3D Realms over their failure to finish development. 3D Realms retorted that Take-Two's legal interest in the game was limited to their publishing right. The case was settled with [[prejudice (legal procedure)|prejudice]] and details undisclosed in July 2010.
+
+On September 3, 2010, after 14 years, ''Duke Nukem Forever'' was officially reported by [[2K Games]] to be in development at [[Gearbox Software]].&lt;ref&gt;{{cite web| author=Jessica Citizen |url=http://www.gamepron.com/news/2010/09/03/duke-nukem-forever/|title=Duke Nukem Forever confirmed! |date=September 4, 2010 |accessdate=September 4, 2010}}&lt;/ref&gt; It was originally confirmed to be released on May 3, 2011 in North America, with a worldwide release following on May 6, 2011.&lt;ref name=&quot;gameinformer_releasedate&quot;&gt;{{cite web |url=http://www.gameinformer.com/b/news/archive/2011/01/21/exclusive-duke-nukem-forever-has-a-release-date.aspx |title=Exclusive: Duke Nukem Forever Has A Release Date |author=Jeff Cork |publisher=[[GameInformer]] |date=2011-01-21 |accessdate=2011-01-21}}&lt;/ref&gt; This was, however, delayed by a month to June 10 internationally, with a North American release on June 14.
+On May 24, 2011, it was announced that ''Duke Nukem Forever'' finally &quot;[[Golden master|went gold]]&quot; after 15 years.&lt;ref&gt;{{cite web|author=Andy Robinson |url=http://www.computerandvideogames.com/295133/duke-nukem-forever-delayed-again-really/|title=Duke Nukem Forever delayed again (really) |date=March 24, 2011 |accessdate=March 24, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Gearbox Twitter|url=http://twitter.com/#!/GearboxSoftware/status/72995691902939136|title=Duke Nukem Forever gone gold|date=May 24, 2011|accessdate=May 24, 2011}}&lt;/ref&gt;  After going gold the launch trailer for ''Duke Nukem Forever'' was released on June 2, 2011, quelling any doubt that release was anything but imminent.&lt;ref&gt;{{cite web|author=DigitalTrends|url=http://www.digitaltrends.com/gaming/against-all-odds-and-logic-duke-nukem-forever-has-a-launch-trailer/|title=Against all odds and logic, Duke Nukem Forever has a launch trailer|date=June 2, 2011|accessdate=June 2, 2011}}&lt;/ref&gt; On June 27, 2011, [[Aspyr Media]] announced that ''Duke Nukem Forever'' would be making its way onto [[Mac OS X]] in August 2011. It was made available for pre-order on June 27 via their online game distribution platform [[GameAgent]].&lt;ref&gt;{{cite web|author=27 Jun |url=http://blog.gameagent.com/2011/06/27/duke-nukem-forever-coming-to-the-mac/ |title=Duke Nukem Forever announced for Mac OS X |publisher=Blog.gameagent.com |date=2011-06-27 |accessdate=2011-07-13}}&lt;/ref&gt;
+
+==Marketing==
+Duke's First Access Club is joined by using a code, obtained from either the pre-order of the game, the ''[[Borderlands (video game)|Borderlands Game of the Year Edition]]'', or ''Borderlands'' on Steam (if bought before the club was announced), on the ''Duke Nukem Forever'' website. Members are granted access to wallpapers, the demo, concept art, artwork, podcasts (which are added often), the theme song, and screenshots.
+
+E-mails were sent asking members to &quot;please help [Gearbox] obtain the most accurate up to date information for your First Access profile.&quot; Members were then prompted to choose their preferred platform of choice for the ''Duke Nukem Forever'' demo by May 15, 2011. It then stated that &quot;users that currently live in a territory where the demo may not be supported on console will automatically be defaulted to the PC Steam option.&quot;&lt;ref&gt;{{cite web|url=http://www.gamefocus.ca/?nav=new&amp;nid=14034|title=Duke Nukem's First Access Club E-mail Hints Upcoming Demo Arrival|publisher=Game Focus|unused_data=but Matty D is still smoking on the best author=Jay Acevedo}}&lt;/ref&gt; Gearbox sent a second e-mail to First Access Members in conjunction with a video showing that the ''Duke Nukem Forever'' demo was released on June 3, 2011.&lt;ref&gt;{{cite web|url=http://www.1up.com/news/duke-nukem-forever-demo-coming-june-3|title=Duke Nukem Forever Demo Coming on June 3|author=Chris Pereira|publisher=1up.com}}&lt;/ref&gt;
+
+A special limited Collector's Edition was available upon release called &quot;Balls of Steel Edition&quot; for all platforms. This version includes a five-inch bust&lt;ref&gt;{{cite web|url=http://forums.2kgames.com/showthread.php?104345-Balls-of-Steel-Edition-of-Duke-Nukem-Forever-CONFIRMED!&amp;p=1344894#post1344894 |title=Balls of Steel Edition of Duke Nukem Forever CONFIRMED! |publisher=Forums.2kgames.com |date= |accessdate=2011-05-12}}&lt;/ref&gt; of Duke Nukem,
+a 100-page hardcover artbook following the development of the game, postcards, sticker, a comic book, playing cards, dice, poker chips and foldable papercraft, and with every item being marked with the ''Duke Nukem Forever'' logo.&lt;ref&gt;{{cite web|url=http://www.joystiq.com/2011/02/11/duke-nukem-forever-balls-of-steel-edition|title=Duke Nukem Forever 'Balls of Steel' Edition: Is this some kind of bust?|author=JC Fletcher|publisher=Joystiq}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.escapistmagazine.com/news/view/107714-2K-Announces-Duke-Nukem-Forever-Balls-of-Steel-Edition|title=2K Announces Duke Nukem Forever Balls of Steel Edition|author=Andy Chalk|publisher=The Escapist}}&lt;/ref&gt; Another edition called the &quot;King Edition&quot; was made available exclusively for pre-order from [[EB Games]] in Australia and New Zealand. It comes with the bonus &quot;Ego Boost&quot;, Duke Playing Cards and Duke Bubblegum.&lt;ref&gt;{{cite web|url=http://ps3.mmgn.com/News/Duke-Nukem-Forever-King-Editio |title=Duke Nukem Forever: King Edition &quot;exclusive&quot; at EBGames – PS3 News &amp;#124; MMGN Australia |publisher=Ps3.mmgn.com |date= |accessdate=2011-05-12}}&lt;/ref&gt;
+
+Two themes, avatar items, and a gamerpic pack are available for download for the Xbox 360 and PlayStation 3 systems. The premium theme for the Xbox 360 showcases the inside of Duke Burger during the alien invasion. The avatar items for said system include Duke's outfit, his throne, the Freeze Ray, a Pigcop mask, and a pet Octabrain whilst the gamerpic pack features &quot;babes, aliens, and the King himself.&quot; The official ''Duke Nukem Forever'' website hosts the free PlayStation 3 theme, which includes three wallpapers and an icon set.&lt;ref&gt;{{cite web|url=http://www.2kgames.com/blog/deck-out-your-360-and-ps3-with-duke-nukem-forever-goodness|title=Deck out your 360 and PS3 with Duke Nukem Forever Goodness|author=Elizabeth Tobey|publisher=2K Games}}&lt;/ref&gt;
+
+2K Games launched a website titled &quot;Boob Tube&quot; to promote the game. The website features videos and features to download. On May 19, 2011, a flash game was released via the website titled ''Duke Nudem'' where players have to shoot targets against a CPU bot &quot;woman&quot; of their choice, and if successful will have a piece of clothing taken off the girl until she is topless. However, if the player loses, the actress will act as though Duke has stripped naked.&lt;ref&gt;{{cite web|url=http://kotaku.com/5803009/shoot-targets-to-get-duke-nukem-girls-topless|title=Shoot Targets to Get Duke Nukem Girls Topless|publisher=Kotaku|date=2011-05-18}}&lt;/ref&gt; Additionally 2K released for [[iOS (Apple)|iOS]] a ''Duke Nukem Forever Soundboard'' which includes a number of Duke Nukem's phrases to be played back.&lt;ref&gt;{{cite web|url=http://kotaku.com/5806336/duke-nukem-had-eggs-for-breakfast-your-mom-had-sausage|title=Duke Nukem Had Eggs For Breakfast, Your Mom Had Sausage|publisher=Kotaku|first=Brian|last=Crecente|date=2011-05-27}}&lt;/ref&gt;
+
+Originally set for release in Australia on June 10, 2011, the game was made available for sale a day early on June 9 from all retailers due to [[street date]] being broken.&lt;ref&gt;{{cite web|url=http://www.kotaku.com.au/2011/06/duke-nukem-forever-breaks-street-date/|title=Duke Nukem Forever Breaks Street Date|publisher=Kotaku|date=2011-06-09}}&lt;/ref&gt;
+
+==Downloadable content==
+
+===''Duke's Big Package''===
+In North America, video game retailer [[GameStop]] promised exclusive in-game content for customers pre-ordering ''Duke Nukem Forever''. The exclusive content, known as &quot;Duke's Big Package&quot; allowed the player from the start of the game to access &quot;Big Heads&quot;, and &quot;Ego Boost&quot;, and custom in-game T-Shirts. A code printed on the final receipt could, at the time of release, be activated over Xbox Live, PlayStation Network, and Steam.&lt;ref&gt;{{cite web|url=http://www.gamestop.com/gs/ravecode/pdf/dukepc.pdf|title=Dukes Big Package|publisher=GameStop|date=2011-06-14}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.gamestop.com/gs/ravecode/|title=Code Redemption Instructions|publisher=GameStop|date=2011-06-14}}&lt;/ref&gt;
+
+===''Hail To the Icons Parody Pack''===
+''Duke Nukem Forever: Hail to the Icons Parody Pack'', contains three new game modes, and four new multiplayer maps, each with new weapons. It is available on Xbox Live, Steam and PlayStation Network. It was released on October 11, 2011.
+
+===''The Doctor Who Cloned Me''===
+''Duke Nukem Forever: The Doctor Who Cloned Me'' includes an all new single-player campaign which features the return of Duke's nemesis from the original ''[[Duke Nukem (video game)|Duke Nukem]]'', Dr. Proton.&lt;ref&gt;{{cite web|last=Rossignol|first=Jim|title=Also: Dukem Nukem DLC On Tuesday|url=http://www.rockpapershotgun.com/2011/12/10/also-dukem-nukem-dlc-on-tuesday/|work=Rock, Paper, Shotgun|accessdate=14 December 2011}}&lt;/ref&gt; It includes new weapons, enemies, and bosses. The DLC also includes four new multiplayer maps. 
+Reception of the DLC has been mixed to positive.{{Citation needed|date=December 2011}} It holds a user score of 8.5/10 on Metacritic for PC, and 6.6/10 for Xbox 360, but the PlayStation 3 version of the DLC has yet to be reviewed. GameSpy has rated it a 1.5/5, Electronic Theater has rated it a 80/100, Team Xbox rated it 7/10 and Eurogamer rated it 5/10 and stated &quot;Duke's trying his best, but there's still too much of the past hanging around and holding him back.&quot;{{Citation needed|date=January 2012}}
+
+==Reception==
+{{Video game reviews
+&lt;!-- Aggregators --&gt;
+| GR = (PS3) 49.21%&lt;ref name=GRPS3&gt;{{cite web|url=http://www.gamerankings.com/ps3/944793-duke-nukem-forever/index.html |title=Duke Nukem Forever (PlayStation 3) reviews at |publisher=[[GameRankings]] |date=2011-06-20 |accessdate=2011-06-20}}&lt;/ref&gt;&lt;br /&gt;(X360) 49.17%&lt;ref name=GRX360&gt;{{cite web|url=http://www.gamerankings.com/xbox360/944794-duke-nukem-forever/index.html |title=Duke Nukem Forever (Xbox 360) reviews at |publisher=[[GameRankings]] |date=2011-06-14 |accessdate=2011-06-14}}&lt;/ref&gt;&lt;br /&gt;(PC) 48.52%&lt;ref name=GRPC&gt;{{cite web|url=http://www.gamerankings.com/pc/448848-duke-nukem-forever/index.html |title=Duke Nukem Forever (PC) reviews at |publisher=[[GameRankings]] |date=2011-06-14 |accessdate=2011-06-20}}&lt;/ref&gt;
+| MC = (PC) 54/100&lt;ref name=MCPC&gt;{{cite web|url=http://www.metacritic.com/game/pc/duke-nukem-forever |title=Duke Nukem Forever (PC) reviews at |publisher=[[Metacritic]] |date=2011-06-14 |accessdate=2011-06-20}}&lt;/ref&gt;&lt;br /&gt;(PS3) 51/100&lt;ref name=MCPS3&gt;{{cite web|url=http://www.metacritic.com/game/playstation-3/duke-nukem-forever |title=Duke Nukem Forever (PlayStation 3) reviews at |publisher=[[Metacritic]] |date=2011-06-14 |accessdate=2011-06-20}}&lt;/ref&gt;&lt;br /&gt;(X360) 49/100&lt;ref name=MCX360&gt;{{cite web|url=http://www.metacritic.com/game/xbox-360/duke-nukem-forever |title=Duke Nukem Forever (Xbox 360) reviews at |publisher=[[Metacritic]] |date=2011-06-14 |accessdate=2011-06-20}}&lt;/ref&gt;
+&lt;!-- Reviewers --&gt;
+| LevelUp = F&lt;ref name=&quot;1up-review&quot;&gt;{{cite web|url=http://www.levelup.com/reviews/13671/Duke-Nukem-Forever/ |title=Duke Nukem Forever Review for PC, 360, PS3 from LevelUp.com |work=[[LevelUp.com]] |date=2011-06-15 |accessdate=2011-06-18}}&lt;/ref&gt;
+| 1UP = F&lt;ref name=1up-review&gt;{{cite web|url=http://www.1up.com/reviews/duke-nukem-forever-review |title=Duke Nukem Forever Review for PC, 360, PS3 from 1UP.com |work=[[1UP.com]] |date=2011-06-14 |accessdate=2011-06-14}}&lt;/ref&gt;
+| Edge = 3/10&lt;ref name=&quot;edgereview&quot;&gt;{{cite web|url=http://www.next-gen.biz/reviews/duke-nukem-forever-review |title=Duke Nukem Forever review – Edge Magazine |publisher=Next-gen.biz |date= |accessdate=2011-07-13}}&lt;/ref&gt;
+| EuroG = 3/10&lt;ref name=&quot;EG&quot;&gt;{{cite web |url=http://www.eurogamer.net/articles/2011-06-12-duke-nukem-forever-review?page=3#justposted |title=Duke Nukem Forever |publisher=[[Eurogamer]] |date=2011-06-11 |accessdate=2011-06-11}}&lt;/ref&gt;
+| GI = 6.75/10&lt;ref name=&quot;gameinformerreview&quot;&gt;{{cite web|last=Reiner |first=Andrew |url=http://www.gameinformer.com/games/duke_nukem_forever/b/ps3/archive/2011/06/14/12-years-in-the-making.aspx |title=Duke Nukem Forever review: 12 Years In The Making..|publisher=[[Game Informer]] |date=2011-06-14 | accessdate=2011-06-17}}&lt;/ref&gt;
+| GRadar = 6/10&lt;ref name=&quot;gamesradarreview&quot;&gt;{{cite web|last=Reparez |first=Mikel |url=http://www.gamesradar.com/xbox360/duke-nukem-forever/review/duke-nukem-forever-review/a-20110613195512526064/g-20100903112053378011 |title=Duke Nukem Forever review|publisher=[[Future Publishing]] |date=2011-06-14 | accessdate=2011-06-15}}&lt;/ref&gt;
+| GSpot = (PC) 3.5/10&lt;ref name=&quot;GSPC&quot;&gt;{{cite web|url=http://www.gamespot.com/pc/action/duke-nukem-forever/index.html?tag=topten%3Ball%3B1 |title=Duke Nukem Forever (PC) reviews at |publisher=[[GameSpot]] |date=2011-06-14 |accessdate=2011-06-14}}&lt;/ref&gt;&lt;br /&gt;(X360) 3/10&lt;ref name=&quot;GSX360&quot;&gt;{{cite web|url=http://www.metacritic.com/game/xbox-360/duke-nukem-forever |title=Duke Nukem Forever (Xbox 360) reviews at |publisher=[[GameSpot]] |date=2011-06-14 |accessdate=2011-06-14}}&lt;/ref&gt;
+| GamePro = {{Rating|3|5}} &lt;ref name=&quot;gamepro&quot;&gt;{{cite web|author=post a comment |url=http://www.gamepro.com/article/reviews/220392/review-duke-nukem-forever-360-ps3/ |title=Duke Nukem Forever Review from |publisher=GamePro |date= |accessdate=2011-07-13|archiveurl=http://www.webcitation.org/query?url=http://www.gamepro.com/article/reviews/220392/review-duke-nukem-forever-360-ps3/&amp;date=2011-11-30+22:25:46|archivedate=2011-12-01}}&lt;/ref&gt;
+| GT = 5.4/10&lt;ref name=GT-review&gt;{{cite web|url=http://www.gametrailers.com/video/review-hd-duke-nukem/716476 |title=Duke Nukem Forever Review HD |work=[[GameTrailers]] |date=2011-06-16 |accessdate=2011-06-16}}&lt;/ref&gt;
+| X-Play = {{Rating|1|5}}
+| IGN = 5.5/10&lt;ref name=&quot;IGN&quot;&gt;{{cite web |url=http://xbox360.ign.com/articles/117/1175639p1.html |title=Duke Nukem Forever |publisher=IGN |date=2011-06-11 |accessdate=2011-06-11}}&lt;/ref&gt;
+| PALGN = 5/10&lt;ref name=&quot;PALGN&quot;&gt;{{cite web |url=http://palgn.com.au/19171/duke-nukem-forever-review |title=Duke Nukem Forever |publisher=[[PALGN]] |date=2011-06-11 |accessdate=2011-06-11}}&lt;/ref&gt;
+| PCGUS = 80/100&lt;ref name=&quot;PCG&quot;&gt;{{cite web |url=http://www.pcgamer.com/2011/06/10/duke-nukem-forever-review/3/ |title=Duke Nukem Forever |publisher=[[PC Gamer]] |date=2011-06-11 |accessdate=2011-06-11}}&lt;/ref&gt;
+| rev1 = [[Joystiq]]
+| rev1Score = {{rating|2|5}}&lt;ref name=&quot;joystiq-nelson review&quot;&gt;{{cite web|last=Nelson |first=Randy |url=http://www.joystiq.com/2011/06/10/duke-nukem-forever-review-fail-to-the-king-baby/ |title=Duke Nukem Forever review: Fail to the King, Baby |publisher=Joystiq |date=2011-06-10 | accessdate=2011-06-10}}&lt;/ref&gt;
+}}
+
+While there was considerable anticipation, ''Duke Nukem Forever'' was critically disappointing&lt;!-- Discuss changes to this description on the talk page. --&gt; upon release, with most of the criticism directed towards the game's clunky controls (on consoles), very long loading times, and overall aging and dated design. Aggregating review websites [[GameRankings]] and [[Metacritic]] calculated the [[PlayStation 3]] version to be 49.21% and 51/100,&lt;ref name=GRPS3 /&gt;&lt;ref name=MCPS3 /&gt; the [[Xbox 360]] version 49.17% and 49/100,&lt;ref name=GRX360 /&gt;&lt;ref name=MCX360 /&gt; and the PC version 48.52% and 54/100.&lt;ref name=GRPC /&gt;&lt;ref name=MCPC /&gt; Elton Jones of [[Complex (magazine)|''Complex'']] chose the game as one of &quot;the most disappointing games of 2011&quot;.&lt;ref&gt;{{cite web|title=The 10 Most Disappointing Games of 2011|url=http://www.complex.com/video-games/2011/12/the-11-most-disappointing-games-of-2011#11|accessdate=2012-03-15|date=2011-12-24|first=Elton|last=Jones|publisher=[[Complex (magazine)|Complex]]}}&lt;/ref&gt; Jim Sterling, review editor for Destructoid, named it the &quot;shittiest game of 2011&quot;.&lt;ref&gt;http://www.youtube.com/watch?v=ID_X2tYMO40&lt;/ref&gt; [[Ben Croshaw|Ben &quot;Yahtzee&quot; Croshaw]], creator of [[Zero Punctuation]], listed it as #2 on his list of the worst games of 2011.&lt;ref&gt;http://www.escapistmagazine.com/videos/view/zero-punctuation/5207-Top-5-of-2011&lt;/ref&gt;
+
+Many critics took issue with the level design and shooting mechanics, particularly when compared to both the original ''Duke Nukem 3D'' and those of other modern-day shooters. Kevin VanOrd of [[GameSpot]] felt that the &quot;joy of that game's shooting has been flattened&quot; with &quot;little sense of impact&quot;, finding the overall design to be &quot;tedious&quot;, and ended his video review by calling Duke Nukem Forever a &quot;bad, boring, bargain bin kind of game&quot;.&lt;ref name=&quot;GSPC&quot;/&gt; [[Eurogamer]] commented that &quot;few of the locations [inspired] the sort of exploration and excitement that made ''Duke 3D'' such a memorable experience. ''Duke Nukem Forever'' is linear to a fault, and huge chunks of the game are spent simply walking from one fight to another through uninspired corridors.&quot;&lt;ref name=&quot;EG&quot;/&gt; [[IGN]] criticized &quot;the frequent first-person platforming segments that make up an unnecessarily large percentage of the story mode&quot;, although they stated the &quot;shooting sections are simple fun&quot;.&lt;ref name=&quot;IGN&quot;/&gt; [[GamesRadar]] concluded that &quot;''Duke Nukem Forever''{{'}}s world-record development time has produced an ugly, buggy shooter that veers back and forth between enjoyably average and outright boring, with occasional surges of greatness along the way.&quot;&lt;ref name=&quot;gamesradarreview&quot;/&gt; [[GamePro]] felt that &quot;Unexpected moments ... are really the game's biggest strengths. But they're few and far between.&quot;&lt;ref name=&quot;gamepro&quot; /&gt; [[X-Play]] gave the game a 1 out of 5, criticizing the graphics, load time, number of enemies onscreen, the multiplayer, being called &quot;an afterthought&quot;, the game's &quot;creepy, hateful view of women.&quot;, and the hive level, with Adam Sessler saying that &quot;this is all played for laughs&quot;.
+
+Many reviewers questioned the design choices in comparison to ''Duke Nukem 3D'', with [[Kotaku]] stating that &quot;Old-school shooters, and this is definitely trying to be one of those with its basic AI and lack of cover mechanics, always had two great things going for them: speed and a ridiculous arsenal of weapons... Forever eschews this in favour of a plodding pace and two guns.&quot; &lt;ref&gt;{{cite web|url=http://kotaku.com/5813461/duke-nukem-forever-the-kotaku-review |title=Duke Nukem Forever: The Kotaku Review |publisher=Kotaku |date=2011-06-21 |accessdate=2011-06-21}}&lt;/ref&gt; Noting its negative mix with modern shooter conventions, [[The Escapist (magazine)|The Escapist]] agreed: &quot;having been almost cryo-frozen for more than a decade, then awoken and peppered with modern touches, [Duke Nukem Forever] feels so out of place.&quot;&lt;ref&gt;{{cite web|author=Duke Nukem Forever Review |url=http://www.escapistmagazine.com/articles/view/editorials/reviews/8949-Duke-Nukem-Forever-Review.3 |title=The Escapist : Duke Nukem Forever Review |publisher=Escapistmagazine.com |date=2011-06-13 |accessdate=2011-07-13}}&lt;/ref&gt; 
+
+Another common criticism was with the game's lack of technical sophistication, including inconsistent graphics and unacceptably long loading times, which [[GameTrailers]] called &quot;unholy;&quot; [[GameSpy]] found the console versions took up to 40 seconds to load a level. ''[[Edge (magazine)|Edge]]'' commented that &quot;the myriad technical shortcomings – particularly prevalent on the console ports – only get worse the further you progress into the campaign&quot;,&lt;ref name=&quot;edgereview&quot;/&gt; a view echoed by [[Game Revolution]]: &quot;when they started on the design, that tech was already outdated&quot;. The PC version has since been patched to greatly decrease loading times and to add two optional inventory slots.
+
+The use of the series' trademark humor received a mixed response. In one regard, some critics such as [[Team Xbox]] praised the voice work of [[Jon St. John]], who did an &quot;excellent job as always with Duke's persona&quot;, whilst others like [[Machinima.com]] appreciated the comedic gameplay tips and pop culture references; however, the same critic also noted that &quot;parts of the narrative and dialogue show clear evidence of the game's elongated development. Many pop culture references seem so 2002, with one-liners co-opted from 'guy' movies like ''Old School'', ''Highlander'', and ''Commando'', which in itself could cause blank stares from most of the current potential audience.&quot; Australian gaming website [[PALGN]] felt the game was &quot;saved only by its humor and nostalgic value.&quot;&lt;ref name=&quot;PALGN&quot;/&gt; ''[[Official Xbox Magazine]]'' UK thought that the humor &quot;isn't so much offensive or misogynistic as just suffering from an adolescent fixation with boobs and crowbarred-in innuendo.&quot; [[Joystiq]] noted that the game's multiplayer mode &quot;Capture the babe&quot; [[capture the flag]], involving &quot;spanking a woman into submission&quot;, &quot;really is as painful as it sounds&quot;.&lt;ref name=&quot;joystiq-nelson review&quot; /&gt; Many critics conversely criticized the characterization of Duke Nukem, declaring his decidedly one-dimensional personality juvenile and outdated in comparison to more recent video game heroes. One critic also criticized the use of women's [[Menstruation|menstruation period]] in the game, as one scene at a [[strip club]] in the game advertises for &quot;[[tampon]] night&quot; on a poster at the club.&lt;ref&gt;http://kotaku.com/5812816/maybe-gearbox-shouldnt-have-released-duke-nukem-forever&lt;/ref&gt;
+
+One particular section that received considerable criticism is the hive level, in which Duke encounters abducted women who have been forcibly impregnated with aliens. Duke has to kill them before the alien's birth does so. Both the level itself and the inclusion of disembodied, slappable &quot;wall boobs&quot; were listed in GamesRadar's &quot;8 worst moments in ''Duke Nukem Forever''&quot;.&lt;ref&gt;{{cite web|url=http://www.gamesradar.com/the-8-worst-moments-in-duke-nukem-forever/?page=2|title=The 8 worst moments in Duke Nukem Forever|last=Reparaz|first=Mikel|date=21 June 2011|accessdate=7 September 2011}}&lt;/ref&gt; ''OXM'' noted that it &quot;doesn't mesh with the rest of the game's tone at all&quot;, and the fact that Duke remains unfazed and continues to crack jokes about the situation was considered &quot;outright revolting,&quot; which led to labelling Duke a &quot;thoroughly detestable psychopath&quot; by [[1UP.com|1UP]] and [[Destructoid]] respectively.&lt;ref name=&quot;1up-review&quot; /&gt;&lt;ref name=&quot;Dest rev&quot;&gt;{{cite web|url=http://www.destructoid.com/review-duke-nukem-forever-203658.phtml |title=Review: Duke Nukem Forever |publisher=Destructoid |date= |accessdate=2011-07-13}}&lt;/ref&gt; [[Zero Punctuation]] noted that the level is &quot;as jarring a shift of tone as you can get without splicing five minutes of ''[[The Human Centipede]]'' into the middle of ''[[Mallrats]]''&quot;.&lt;ref&gt;{{cite web | url = http://www.escapistmagazine.com/videos/view/zero-punctuation/3581-Duke-Nukem-Forever-for-real-this-time | title = Zero Punctuation: Duke Nukem Forever (for real this time) | accessdate = 6 September 2011 | last = Croshaw | first = Ben | date = 22 June 2011 | format = Video | work = The Escapist}}&lt;/ref&gt;
+
+Many critics cited the long and fragmented development time as a major factor in the finished product. In a positive review ''[[PC Gamer]]'' noted that &quot;years of anticipation will spoil ''Duke Nukem Forever'' for some&quot;, adding, &quot;There’s no reinvention of the genre here, no real attempt at grandeur... Check unrealistic expectations at the door and forget the ancient, hyperbolic promises of self-deluded developers,&quot; and concluded, &quot;Don’t expect a miracle. Duke is still the hero we love, but struggles to keep up with modern times.&quot;&lt;ref name=&quot;PCG&quot; /&gt; [[Game Informer]], whilst disappointed in the game concluded &quot;I'm glad Gearbox stepped up and finished this game, but after hearing about it for 12 years, I have no desire to relive any of it again. I’m now satisfied in my knowledge of what Duke Nukem Forever is and ready to never talk about it again. Welcome back, Duke. I hope your next game (which is teased after the credits) goes off without a hitch.&quot;&lt;ref name=&quot;gameinformerreview&quot;/&gt; [[GiantBomb]] however concluded that for those &quot;part of that faction that finds yourself so fascinated by this whole project that you need to know how it ends, I recommend you play ''Duke Nukem Forever'' for yourself. But I'd practically insist that you do so on the PC and try to wait for a sale. If you're not willing to play a sloppy, cobbled together first-person shooter just because it has some kind of weird historical meaning, though, just forget this ever happened and move on.&quot;&lt;ref&gt;{{cite web|url=http://www.giantbomb.com/duke-nukem-forever/61-20721/reviews |title=Review: Duke Nukem Forever |publisher=GiantBomb |date= |accessdate=2011-12-12}}&lt;/ref&gt; Jake Denton of ''[[Computer and Video Games]]'' wrote that parts of the game were fun to play and listed it as one of the &quot;5 most underrated games of 2011&quot;, while admitting the game's overall faulty structure.&lt;ref&gt;{{cite web|url=http://www.computerandvideogames.com/329718/features/5-most-underrated-games-of-2011/?page=4|title=5 most underrated games of 2011: Hidden gems from the last year...|last=Denton|first=Jake|date=2011-12-16|accessdate=2012-03-16|publisher=[[ComputerAndVideoGames.com]]}}&lt;/ref&gt; Also Joseph Milne of ''FPSguru.com'' featured the game on his list of &quot;Top 5 underrated games&quot; at number 4 on the list.&lt;ref&gt;http://www.fpsguru.com/article/77&lt;/ref&gt;
+
+==Sales==
+According to research firm NPD, ''Duke Nukem Forever'' sold 376,300 units in its first month (sales results do not include digital copies).&lt;ref&gt;{{cite web|url=http://xbox360.ign.com/articles/118/1182168p1.html|title=Duke Nukem Forever Sales Results|date=14 July 2011|work=[[IGN]]|accessdate=7 September 2011}}&lt;/ref&gt; [[Take-Two Interactive]], the parent company of [[2K Games]], revealed in July 2011 that the game sales were half of their initial expectations.&lt;ref&gt;{{cite web|url=http://www.gamasutra.com/view/news/35674/Take_Two_Estimates_Lowered_After_Disappointing_Duke_Sales.php |title=Take Two Estimates Lowered After Disappointing Duke Sales |publisher=[[Gamasutra]] |date=2011-07-05 |accessdate=2011-07-10}}&lt;/ref&gt; However, in an earnings call on August 8, 2011, Take-Two stated that ''Duke Nukem Forever'' would prove to be profitable for the company.&lt;ref&gt;{{cite web|url=http://www.psu.com/Duke-Nukem-profitable,-LA-Noire-ships-4-million-says-Take-Two--a012495-p0.php |title=Duke Nukem profitable, L.A. Noire ships 4 million says Take-Two |publisher=[[PlayStation Universe]] |date=2011-08-09 |accessdate=2011-08-10}}&lt;/ref&gt;
+
+==See also==
+{{Portal|United States|Video games}}
+*[[Continuous obsolescence]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*{{Official website|http://www.dukenukem.com}}
+*{{IMDb title|363582}}
+*[http://www.3drealms.com/news/duke_nukem/duke_nukem_forever/ ''Duke Nukem Forever'' News Archive] at [[3D Realms]] web site
+*Silverman, Dwight. &quot;[http://blog.chron.com/techblog/2011/05/sure-sign-of-the-apocalypse-duke-nukem-forever-is-completed/ Sure sign of the apocalypse: ''Duke Nukem Forever'' is completed].&quot; ''[[Houston Chronicle]]''. May 25, 2011.
+
+{{Duke Nukem series}}
+{{3D Realms Games}}
+{{Use mdy dates|date=August 2010}}
+
+[[Category:2011 video games]]
+[[Category:3D Realms games]]
+[[Category:Comedy video games]]
+[[Category:Duke Nukem]]
+[[Category:First-person shooters]]
+[[Category:Mac OS X games]]
+[[Category:PlayStation 3 games]]
+[[Category:Science fiction video games]]
+[[Category:Size change in fiction]]
+[[Category:Unreal Engine games]]
+[[Category:Vaporware]]&lt;!--Although the game is being released, please do not remove this category as it has significant material about the vaporware concept--&gt;
+[[Category:Video games developed in Canada]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the United States]]
+[[Category:Windows games]]
+[[Category:Xbox 360 games]]
+
+[[cs:Duke Nukem Forever]]
+[[da:Duke Nukem Forever]]
+[[de:Duke Nukem Forever]]
+[[es:Duke Nukem Forever]]
+[[fr:Duke Nukem Forever]]
+[[ko:듀크 뉴켐 포에버]]
+[[it:Duke Nukem Forever]]
+[[he:דיוק ניוקם לנצח]]
+[[nl:Duke Nukem Forever]]
+[[ja:デューク ニューケム フォーエバー]]
+[[pl:Duke Nukem Forever]]
+[[pt:Duke Nukem Forever]]
+[[ru:Duke Nukem Forever]]
+[[fi:Duke Nukem Forever]]
+[[sv:Duke Nukem Forever]]
+[[uk:Duke Nukem Forever]]
+[[zh:永远的毁灭公爵]]</text>
+      <sha1>pls1wqr4i7c3moz61eejhx5x4crajeq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

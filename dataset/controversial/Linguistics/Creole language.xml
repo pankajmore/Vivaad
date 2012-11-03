@@ -1,0 +1,1003 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Creole language</title>
+    <ns>0</ns>
+    <id>49823</id>
+    <revision>
+      <id>511222300</id>
+      <parentid>507569208</parentid>
+      <timestamp>2012-09-07T13:40:35Z</timestamp>
+      <contributor>
+        <ip>192.188.224.2</ip>
+      </contributor>
+      <comment>/* Geographic distribution */</comment>
+      <text xml:space="preserve" bytes="49713">A '''creole language''', or simply a '''creole''', is a stable [[natural language]] developed from the mixing of parent languages; creoles differ from [[pidgin]]s (which are believed by scholars to be necessary precedents of creoles) in that they have been [[Nativization|nativized]] by children as their primary language, with the result that they have features of natural languages that are normally missing from pidgins.
+[[File:Guadeloupe creole 2010-03-30.JPG|thumb|Road sign in [[Antillean Creole|Guadeloupe Creole]] meaning ''Slow down. Children are playing here''. The literal translation is &quot;Lift your foot. There are small people playing here&quot;.]]
+The vocabulary of a creole language consists of [[cognate]]s from the parent languages, though there are often clear phonetic and semantic shifts. On the other hand, the grammar often has original features but may differ substantially from those of the parent languages. Most often, the vocabulary comes from the dominant group and the grammar from the subordinate group, where such stratification exists.
+
+== Overview ==
+A creole is believed to arise when a pidgin, developed by adults for use as a second language, becomes the native and primary language of their children — a process known as [[nativization]].&lt;ref&gt;{{Harvcoltxt|Wardhaugh|2002|p=61}}&lt;/ref&gt; The pidgin-creole life cycle was studied by [[Robert A. Hall, Jr.|Hall]] in the 1960s.&lt;ref&gt;{{Harvcoltxt|Hall|1966}}&lt;/ref&gt;
+
+Creoles share more grammatical similarities with each other than with the languages from which they are phylogenetically derived.&lt;ref&gt;{{Harvcoltxt|Bickerton|1983|pp=116–122}}&lt;/ref&gt; However, there is no widely accepted theory that would account for those perceived similarities.&lt;ref&gt;{{Harvcoltxt|Winford|1997|p=138}}; cited in {{Harvcoltxt|Wardhaugh|2002}}&lt;/ref&gt; Moreover, no grammatical feature has been shown to be specific to creoles.&lt;ref&gt;{{Harvcoltxt|Wittmann|1999}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Mufwene|2000}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Gil|2001}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Muysken|Law|2001}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Lefebvre|2002}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|DeGraff|2003}}&lt;/ref&gt;
+
+Many of the creoles known today arose in the last 500 years, as a result of the worldwide expansion in European maritime power and trade in the [[Age of Discovery]], which led to extensive [[European colonialism|European colonial empires]] and an intense [[slave trade]]. Like most non-official and minority languages, creoles have generally been regarded as degenerate variants or [[dialect]]s of their parent languages. Because of that prejudice, many of the creoles that arose in the European colonies have become [[Extinct language|extinct]]. However, political and academic changes in recent decades have improved the status of creoles, both as living languages and as object of linguistic study.&lt;ref&gt;{{Harvcoltxt|DeCamp|1977}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Sebba|1997}}&lt;/ref&gt; Some creoles have even been granted the status of official or semi-official language.
+
+Linguists now recognize that creole formation is a universal phenomenon, not limited to the European colonial period, and an important aspect of language evolution (see {{Harvcoltxt|Vennemann|2003}}). For example, in 1933 [[Sigmund Feist]] postulated [[Germanic substrate hypothesis|a creole origin]] for the [[Germanic languages]].
+
+Other scholars, such as [[Salikoko Mufwene]], argue that pidgins and creoles arise independently under different circumstances, and that a pidgin need not always precede a creole nor a creole evolve from a pidgin. Pidgins, according to Mufwene, emerged among trade colonies among &quot;users who preserved their native vernaculars for their day-to-day interactions&quot;. Creoles, meanwhile, developed in settlement colonies in which speakers of a European language, often [[indentured servants]] whose language would be far from the standard in the first place, interacted extensively with non-European [[slave]]s, absorbing certain words and features from the slaves' non-European native languages, resulting in a heavily [[basilect]]alized version of the original language. These servants and slaves would come to use the creole as an everyday vernacular, rather than merely in situations in which contact with a speaker of the superstrate was necessary.&lt;ref&gt;{{cite web|url=http://humanities.uchicago.edu/faculty/mufwene/pidginCreoleLanguage.html |title=Salikoko Mufwene: &quot;Pidgin and Creole Languages&quot; |publisher=Humanities.uchicago.edu |date= |accessdate=2010-04-24}}&lt;/ref&gt;
+
+== History ==
+=== Origin ===
+The [[English language|English]] term ''creole'' comes from [[French language|French]] ''créole'', which is cognate with the [[Spanish language|Spanish]] term ''criollo'' and [[Portuguese language|Portuguese]] ''[[crioulo]]'', all descending from the verb ''criar'' (&quot;to breed&quot; or &quot;to raise&quot;), ultimately from [[Latin]] ''creare'' (&quot;to produce, create&quot;).&lt;ref&gt;{{Harvcoltxt|Holm|1988}}.&lt;/ref&gt; The specific sense of the term was coined in the 16th and 17th century, during the great expansion in European maritime power and trade that led to the establishment of European colonies in other continents.
+
+The terms ''criollo'' and ''crioulo'' were originally qualifiers used throughout the Spanish and Portuguese colonies to distinguish the members of an ethnic group that were born and raised locally from those who immigrated as adults. They were most commonly applied to nationals of the colonial power, e.g. to distinguish ''[[Criollo people|españoles criollos]]'' (people born in the colonies from Spanish ancestors) from ''españoles peninsulares'' (those born in the Iberian Peninsula, i.e. Spain). However in [[Brazil]] the term was also used to distinguish between ''negros crioulos'' (blacks born in Brazil from African slave ancestors) and ''negros africanos'' (born in Africa). Over time, the term and its derivatives (Creole, [[Kreyol]], [[Kriol]], [[Krio language|Krio]], etc.) lost the generic meaning and became the proper name of many distinct ethnic groups that developed locally from immigrant communities. Originally, therefore, the term &quot;creole language&quot; meant the speech of any of those [[creole peoples]].
+
+=== Geographic distribution ===
+As a consequence of colonial European trade patterns, most of the known European-based creole languages arose in the equatorial belt around the world and in areas with access to the oceans, including the coastal regions of the [[Americas]], western [[Africa]], [[Goa]] and along the west coast of [[India]], and along the coast of Southeast [[Asia]] up to [[Indonesia]], [[Macau]], the [[Philippines]], [[Malaysia]], [[Seychelles]] and [[Oceania]].
+
+Many of those creoles are now extinct, but others still survive in the [[Caribbean]], the north and east coasts of [[South America]] ([[The Guyanas]]), western [[Africa]], [[Australia]] (see [[Australian Kriol language]]), and in the [[Indian Ocean]].
+
+[[Atlantic Creole]] languages are based on European languages with elements from African and possibly [[Amerindian languages|Amerind]] languages. [[Indian Ocean]] Creole languages are based on European languages with elements from [[Malagasy language|Malagasy]] and possibly other Asian languages. There are, however, creoles like [[Nubi language|Nubi]] and [[Sango language|Sango]] that are derived solely from non-European languages.
+
+=== Social and political status ===
+Because of the generally low status of the Creole peoples in the eyes of prior European colonial powers, creole languages have generally been regarded as &quot;degenerate&quot; languages, or at best as rudimentary &quot;dialects&quot; of the politically dominant parent languages. Because of this prejudice, the word &quot;creole&quot; was generally used by linguists in opposition to &quot;language&quot;, rather than as a [[qualifier]] for it.&lt;ref&gt;See {{Harvcoltxt|Meijer|Muysken|1977}}.&lt;/ref&gt; This prejudice was compounded by the inherent instability of the [[colonialism|colonial system]], leading to the disappearance of creole languages, mainly due to dispersion or assimilation of their speech communities.&lt;ref&gt;See {{Harvcoltxt|Meijer|Muysken|1977}}.&lt;/ref&gt;
+
+Another factor that may have contributed to the relative neglect of creole languages in linguistics is that they do not fit the 19th century [[neogrammarian]] &quot;tree model&quot; for the evolution of languages, and its postulated regularity of sound changes (such as the earliest advocates of the [[wave model (linguistics)|wave model]], [[Johannes Schmidt (linguist)|Johannes Schmidt]] and [[Hugo Schuchardt]], the forerunners of modern [[sociolinguistics]]). This controversy of the late 19th century profoundly shaped modern approaches to the [[comparative method]] in [[historical linguistics]] and in [[creolistics]].&lt;ref&gt;{{Harvcoltxt|DeCamp|1977}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Meijer|Muysken|1977}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Traugott|1977}}&lt;/ref&gt;
+
+Because of social, political, and academic changes brought on by decolonization in the second half of the 20th century, creole languages have experienced revivals in the past few decades. They are increasingly being used in print and film, and in many cases, their community prestige has improved dramatically. In fact, some have been standardized, and are used in local schools and universities around the world.&lt;ref&gt;{{Harvcoltxt|DeCamp|1977}}&lt;/ref&gt;&lt;ref&gt;Holm (1988, 1989) &lt;!-- which one? --&gt;&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Sebba|1997}}&lt;/ref&gt; At the same time, linguists have began to come to the realization that creole languages are in no way inferior to other languages. They now use the term &quot;creole&quot; or &quot;creole language&quot; for any language suspected to have undergone creolization, terms that now imply no geographic restrictions nor ethnic prejudices.
+
+== Classification of creoles ==
+=== Historic classification ===
+According to their external history, four types of creoles have been distinguished: plantation creoles, fort creoles, [[Maroon (people)|maroon]] creoles, and creolized pidgins.&lt;ref&gt;{{Harvcoltxt|Arends|Muysken|Smith|1995|p=15}}&lt;/ref&gt; By the very nature of a creole language, the [[phylogeny|phylogenetic]] classification of a particular creole usually is a matter of dispute; especially when the [[pidgin]] precursor and its parent tongues (which may have been other creoles or pidgins) have disappeared before they could be documented.
+
+Phylogenetic classification traditionally relies on inheritance of the lexicon, especially of &quot;core&quot; terms, and of the grammar structure. However, in creoles, the core lexicon often has mixed origin, and the grammar is largely original. For these reasons, the issue of which language is ''the'' parent of a creole — that is, whether a language should be classified as a &quot;Portuguese creole&quot; or &quot;English creole&quot;, etc. — often has no definitive answer, and can become the topic of long-lasting controversies, where social prejudices and political considerations may interfere with scientific discussion.&lt;ref&gt;{{Harvcoltxt|DeCamp|1977}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Traugott |1977}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Sebba|1997}}&lt;/ref&gt;
+
+=== Substrate and superstrate ===
+The terms [[substratum|substrate]] and [[superstratum|superstrate]] are often used when two languages interact. However, the meaning of these terms is reasonably well-defined only in [[second language acquisition]] or [[language shift|language replacement]] events, when the native speakers of a certain source language (the substrate) are somehow compelled to abandon it for another target language (the superstrate).&lt;ref&gt;{{Harvcoltxt|Weinreich|1953}}&lt;/ref&gt; The outcome of such an event is that erstwhile speakers of the substrate will use some version of the superstrate, at least in more formal contexts. The substrate may survive as a second language for informal conversation. As demonstrated by the fate of many replaced European languages (such as [[Etruscan language|Etruscan]], [[Breton language|Breton]], and [[Venetian language|Venetian]]), the influence of the substrate on the official speech is often limited to pronunciation and a modest number of loanwords. The substrate might even disappear altogether without leaving any trace.&lt;ref&gt;{{Harvcoltxt|Weinreich|1953}}&lt;/ref&gt;
+
+However, there is dispute over the extent to which the terms &quot;substrate&quot; and &quot;superstrate&quot; are applicable to the genesis or the description of creole languages.&lt;ref&gt;{{Harvcoltxt|Mufwene|1993}}&lt;/ref&gt; The language replacement model may not be appropriate in creole formation contexts, where the emerging language is derived from multiple languages without any one of them being imposed as a replacement for any other.&lt;ref&gt;{{Harvcoltxt|Singler|1988}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|Singler|1996}}&lt;/ref&gt; The substratum-superstratum distinction becomes awkward when multiple superstrata must be assumed (such as in [[Papiamentu]]), when the substratum cannot be identified, or when the presence or the survival of substratal evidence is inferred from mere typological analogies.&lt;ref&gt;{{Harvcoltxt|Muysken|Law|2001}}&lt;/ref&gt; On the other hand, the distinction may be meaningful when the contributions of each parent language to the resulting creole can be shown to be very unequal, in a scientifically meaningful way.&lt;ref&gt;Recent investigations about substrates and superstrates, in creoles and other languages, includes {{Harvcoltxt|Feist|1932}}, {{Harvcoltxt|Weinreich|1953}}, {{Harvcoltxt|Jungemann|1955}}, {{Harvcoltxt|Martinet|1955}}, {{Harvcoltxt|Hall|1974}}, {{Harvcoltxt|Singler|1983}}, and {{Harvcoltxt|Singler|1988}}.&lt;/ref&gt; In the literature on [[Atlantic Creole]]s, &quot;superstrate&quot; usually means European and &quot;substrate&quot; non-European or African.&lt;ref&gt;{{Harvcoltxt|Parkvall|2000}}&lt;/ref&gt;
+
+=== Decreolization ===
+Since creole languages rarely attain official status, the speakers of a fully formed creole may eventually feel compelled to conform their speech to one of the parent languages. This [[decreolization]] process typically brings about a [[post-creole speech continuum]] characterized by large scale variation and [[hypercorrection]] in the language.&lt;ref&gt;{{Harvcoltxt|DeCamp|1977}}&lt;/ref&gt;
+
+== Shared features ==
+It is commonly assumed that, compared to other languages, creoles have a simpler grammar and more internal variability. However, these notions may be little more than prejudices.&lt;ref&gt;{{Harvcoltxt|Arends|Muysken|Smith|1995|p=9}}&lt;/ref&gt; (See also [[language complexity]].)
+
+Phylogenetic or [[linguistic typology|typological]] comparisons of creole languages have led to divergent conclusions. Similarities are usually higher among creoles derived from related languages, such as the [[languages of Europe]], than among broader groups that include also creoles based on non-[[Indo-European languages]] (like Nubi or Sango). [[French-based creole languages|French-based creoles]] in turn are more similar to each other (and to varieties of French) than to other European-based creoles. It was observed, in particular, that [[definite article]]s are mostly [[prenominal]] in [[English-based creole languages]] and English whereas they are generally [[postnominal]] in [[French-based creole languages|French creoles]] and in the [[Quebec French|variety of French]] that was [[History of Quebec French|exported to the colonies in the 17th and 18th century]].&lt;ref&gt;{{Harvcoltxt|Fournier|1998}},{{Harvcoltxt|Wittmann|1995}}, {{Harvcoltxt|Wittmann|1998}}.&lt;/ref&gt; Moreover the European languages which gave rise to the creole languages of European colonies all belong to the same subgroup of Western [[Indo-European languages|Indo-European]] and have highly convergent grammars; to the point that [[Sapir Whorf|Whorf]] joined them into a single [[Standard Average European]] language group.&lt;ref&gt;{{Harvcoltxt|Whorf|1956}}&lt;/ref&gt; French and English are particularly close, since English, through extensive borrowing, is typologically closer to French than to other Germanic languages.&lt;ref&gt;{{Harvcoltxt|Bailey|Maroldt|1977}}&lt;/ref&gt; Thus the claimed similarities between creoles may be mere consequences of similar parentage, rather than characteristic features of all creoles.
+
+== Creole genesis ==
+There are a variety of theories on the origin of creole languages, all of which attempt to explain the similarities among them. {{Harvcoltxt|Arends|Muysken|Smith|1995}} outline a fourfold classification of explanations regarding creole genesis:
+* Theories focusing on European input
+* Theories focusing on non-European input
+* Gradualist and developmental hypotheses
+* Universalist approaches
+
+=== Theories focusing on European input ===
+==== The monogenetic theory of pidgins and creoles ====
+The [[monogenetic theory of pidgins|monogenetic theory]] of pidgins and creoles hypothesizes that they are all derived from a single [[Mediterranean Lingua Franca]], via a West African Pidgin Portuguese of the 17th century, [[relexification|relexified]] in the so-called &quot;slave factories&quot; of Western Africa that were the source of the [[Atlantic slave trade]]. This theory was originally formulated by [[Hugo Schuchardt]] in the late 19th century and popularized in the late 1950s and early 1960s by Taylor,&lt;ref&gt;such as in {{Harvcoltxt|Taylor|1977}}&lt;/ref&gt; Whinnom,&lt;ref&gt;{{Harvcoltxt|Whinnom|1956}}, {{Harvcoltxt|Whinnom|1965}}&lt;/ref&gt; Thompson,&lt;ref&gt;{{Harvcoltxt|Thompson|1961}}&lt;/ref&gt; and Stewart.&lt;ref&gt;{{Harvcoltxt|Stewart|1962}}&lt;/ref&gt; However, this hypothesis is no longer actively investigated.
+
+==== The domestic origin hypothesis ====
+Proposed by {{Harvcoltxt|Hancock |1985}} for the origin of English-based creoles of the West Indies, the Domestic Origin Hypothesis argues that, towards the end of the 16th century, English-speaking traders began to settle in the Gambia and Sierra Leone rivers as well as in neighboring areas such as the Bullom and Sherbro coasts. These settlers intermarried with the local population leading to mixed populations, and, as a result of this intermarriage, an English pidgin was created. This pidgin was learned by slaves in slave depots, who later on took it to the West Indies and formed one component of the emerging English creoles.
+
+==== The European dialect origin hypothesis ====
+The [[French-based creole languages|French creoles]] are the foremost candidates to being the outcome of &quot;normal&quot; [[language change|linguistic change]] and their [[creoleness]] to be sociohistoric in nature and relative to their colonial origin.&lt;ref&gt;There are some similarities in this line of thinking with [[Ian F. Hancock|Hancock's]] domestic origin hypothesis.&lt;/ref&gt; Within this theoretical framework, a [[French-based creole languages|French creole]] is a language [[phylogenetic]]ally based on the [[French language]], more specifically on a 17th century [[Koiné language|koiné]] [[French language|French]] extant in [[Paris]], the French Atlantic harbours, and the nascent French colonies. Two descendants of the non-creole colonial koiné are still spoken in [[Canada]] (mostly in [[Québec]] and among the [[Acadian]] people of the Eastern Maritime provinces), the [[Prairies]], [[Louisiana]], [[Saint-Barthélemy]] ([[leeward]] portion of the island) and as [[Language isolate|isolate]]s in other parts of the Americas.&lt;ref&gt;Wittmann (1983, 1995, 2001), {{Harvcoltxt|Fournier|1998}}, {{Harvcoltxt|Fournier|Wittmann|1995}}; cf. the article on Quebec French and the History of Quebec French&lt;/ref&gt; Approaches under this hypothesis are compatible with [[gradualism]] in [[Language change|change]] and models of [[Creole language#Imperfect L2 learning|imperfect language transmission]] in [[Koiné language|koiné]] genesis.
+
+==== Foreigner talk and baby talk ====
+The Foreigner Talk (FT) hypothesis argues that a pidgin or creole language forms when native speakers attempt to simplify their language in order to address speakers who do not know their language at all. Because of the similarities found in this type of speech and speech directed to a small child, it is also sometimes called [[baby talk]].&lt;ref&gt;See, for example, {{Harvcoltxt|Ferguson|1971}}&lt;/ref&gt;
+
+{{Harvcoltxt|Arends|Muysken|Smith|1995}} suggest that four different processes are involved in creating Foreigner Talk:
+* Accommodation
+* Imitation
+* Telegraphic condensation
+* Conventions
+
+This could explain why creole languages have much in common, while avoiding a monogenetic model. However, {{Harvcoltxt|Hinnenkamp|1984}}, in analyzing German Foreigner Talk, claims that it is too inconsistent and unpredictable to provide any model for language learning.
+
+While the simplification of input was supposed to account for creoles' simple grammar, there are a number of problems with this explanation:&lt;ref&gt;{{Harvcoltxt|Wardhaugh|2002|p=73}}&lt;/ref&gt;
+# There are too many grammatical similarities amongst pidgins and creoles despite having very different [[lexifier]] languages.
+# Grammatical simplification can be explained by other processes, i.e. the innate grammar of [[Derek Bickerton|Bickerton's]] [[language bioprogram theory]].
+# Speakers of a creole's lexifier language often fail to understand, without learning the language, the grammar of a pidgin or creole.
+# Pidgins are more often used amongst speakers of different substrate languages than between such speakers and those of the lexifier language.
+
+Another problem with the FT explanation is its potential circularity. {{Harvcoltxt|Bloomfield|1933}} points out that FT is often based on the imitation of the incorrect speech of the non-natives, that is the pidgin. Therefore one may be mistaken in assuming that the former gave rise to the latter.
+
+==== Imperfect L2 learning ====
+The imperfect L2 ([[second language]]) learning hypothesis claims that pidgins are primarily the result of the imperfect L2 learning of the dominant lexifier language by the slaves. Research on naturalistic L2 processes has revealed a number of features of &quot;interlanguage systems&quot; that are also seen in pidgins and creoles:
+* invariant verb forms derived from the infinitive or the least marked finite verb form;
+* loss of determiners or use as determiners of demonstrative pronouns, adjectives or adverbs;
+* placement of a negative particle in preverbal position;
+* use of adverbs to express modality;
+* fixed single word order with no inversion in questions;
+* reduced or absent nominal plural marking.
+
+Imperfect L2 learning is compatible with other approaches, notably the European dialect origin hypothesis and the universalist models of language transmission.&lt;ref&gt;Based on 19th century intuitions, approaches underlying the imperfect L2 learning hypothesis have been followed up in the works of {{Harvcoltxt|Schumann|1978}}, {{Harvcoltxt|Anderson|1983}}, {{Harvcoltxt|Seuren|Wekker|1986}}, {{Harvcoltxt|Arends|Muysken|Smith|1995}}, {{Harvcoltxt|Geeslin|2002}}, {{Harvcoltxt|Hamilton|Coslett|2008}}.&lt;/ref&gt;
+
+=== Theories focusing on non-European input ===
+Theories focusing on the substrate, or non-European, languages attribute similarities amongst creoles to the similarities of African substrate languages. These features are often assumed to be transferred from the substrate language to the creole or to be preserved invariant from the substrate language in the creole through a process of [[relexification]]: the substrate language replaces the native [[lexical items]] with lexical material from the superstrate language while retaining the native grammatical categories.&lt;ref&gt;See the article on [[relexification]] for a discussion of the controversy surrounding the retaining of substrate grammatical features through relexification&lt;/ref&gt; The problem with this explanation is that the postulated substrate languages differ amongst themselves and with creoles in meaningful ways. {{Harvcoltxt|Bickerton|1981}} argues that the number and diversity of African languages and the paucity of a historical record on creole genesis makes determining lexical correspondences a matter of chance. {{Harvcoltxt|Dillard|1970}} coined the term &quot;cafeteria principle&quot; to refer to the practice of arbitrarily attributing features of creoles to the influence of substrate African languages or assorted substandard dialects of European languages.
+
+For a representative debate on this issue, see the contributions to {{Harvcoltxt|Mufwene|1993}}; for a more recent view, {{Harvcoltxt|Parkvall |2000}}.
+
+Because of the sociohistoric similarities amongst many (but by no means all) of the creoles, the [[Atlantic slave trade]] and the plantation system of the European colonies have been emphasized as factors by linguists such as {{Harvcoltxt|McWhorter|1999}}.
+
+=== Gradualist and developmental hypotheses ===
+One class of creoles might start as [[pidgin]]s, rudimentary second languages improvised for use between speakers of two or more non-intelligible native languages. Keith Whinnom (in {{Harvcoltxt|Hymes|1971}}) suggests that pidgins need three languages to form, with one (the superstrate) being clearly dominant over the others. The lexicon of a pidgin is usually small and drawn from the vocabularies of its speakers, in varying proportions. Morphological details like word [[inflection]]s, which usually take years to learn, are omitted; the syntax is kept very simple, usually based on strict word order. In this initial stage, all aspects of the speech — syntax, lexicon, and pronunciation — tend to be quite variable, especially with regard to the speaker's background.
+
+If a pidgin manages to be learned by the children of a community as a native language, it may become fixed and acquire a more complex grammar, with fixed phonology, syntax, morphology, and syntactic embedding. Pidgins can become full languages in only a single [[generation]]. &quot;Creolization&quot; is this second stage where the pidgin language develops into a fully developed native language. The vocabulary, too, will develop to contain more and more items according to a rationale of lexical enrichment.&lt;ref&gt;{{Harvcoltxt|Wardhaugh|2002|pp=56–57}}&lt;/ref&gt;
+
+=== Universalist approaches ===
+[[linguistic universal|Universalist]] models stress the intervention of specific general processes during the transmission of language from generation to generation and from speaker to speaker. The process invoked varies: a general tendency towards [[semantic]] [[transparency (linguistic)|transparency]], first [[language learning]] driven by universal process, or general process of [[discourse]] [[organization]]. The main universalist theory is still [[Derek Bickerton|Bickerton's]] [[language bioprogram theory]], proposed in the 1980s.&lt;ref&gt;See {{Harvcoltxt|Bickerton|1981}}, {{Harvcoltxt|Bickerton|1983}}, {{Harvcoltxt|Bickerton|1984}}, {{Harvcoltxt|Bickerton|1988}}, and {{Harvcoltxt|Bickerton|1991}}&lt;/ref&gt; Bickerton claims that creoles are inventions of the children growing up on newly founded [[plantations]]. Around them, they only heard pidgins spoken, without enough structure to function as [[natural language]]s; and the children used their own [[innate]] linguistic capacities to transform the pidgin input into a full-fledged language. The alleged common features of all creoles would then be the consequence of those innate abilities being universal.
+
+== Recent study ==
+The last decade has seen the emergence of some new questions about the nature of creoles: in particular, the question of how complex creoles are and the question of whether creoles are indeed &quot;exceptional&quot; languages.
+
+=== The creole prototype ===
+Some features that distinguish creole languages from noncreoles have been proposed (by Bickerton,&lt;ref&gt;See {{Harvcoltxt|Bickerton|1983}}&lt;/ref&gt; for example).
+
+[[John McWhorter]]&lt;ref&gt;See {{Harvcoltxt|McWhorter|1998}} and {{Harvcoltxt|McWhorter|2005}}&lt;/ref&gt; has proposed the following list of features to indicate a '''creole prototype''':
+* a lack of inflectional morphology (other than at most two or three inflectional affixes),
+* a lack of tone on monosyllabic words, and
+* a lack of semantically opaque word formation.
+
+McWhorter hypothesizes that these three properties exactly characterize a creole. However, the creole prototype hypothesis has been disputed:
+* [[Henri Wittmann]] (1999) and David {{Harvcoltxt|Gil|2001}} argue that languages such as [[Manding languages|Manding]], [[Soninke language|Soninke]], [[Magoua|Magoua French]] and [[Riau]] [[Indonesian language|Indonesian]] have all these three features but show none of the sociohistoric traits of creole languages.
+* Others (see overview in {{Harvcoltxt|Muysken|Law|2001}}) have demonstrated creoles that serve as counterexamples to McWhorter's hypothesis — the existence of [[inflectional morphology]] in [[Berbice Dutch Creole]], for example, or [[Tone (linguistics)|tone]] in [[Papiamentu]].&lt;ref&gt;{{Harvcoltxt|Muysken|Law |2001}}&lt;/ref&gt;
+
+=== Exceptionalism ===
+Building up on this discussion, McWhorter proposed that &quot;the world's simplest grammars are Creole grammars&quot;, claiming that every noncreole language's grammar is at least as complex as any creole language's grammar.&lt;ref&gt;{{Harvcoltxt|McWhorter|1998}}&lt;/ref&gt;&lt;ref&gt;{{Harvcoltxt|McWhorter||2005}}&lt;/ref&gt; Gil has replied that [[Riau Indonesian]] has a simpler grammar than [[Saramaccan]], the language McWhorter uses as a showcase for his theory.&lt;ref&gt;{{Harvcoltxt|Gil|2001}}&lt;/ref&gt; The same objections were raised by Wittmann in his 1999 debate with McWhorter.&lt;ref&gt;[http://homepage.mac.com/noula/ling/1999a-prototype.html Wittmann-McWhorter debate]&lt;/ref&gt;
+
+The lack of progress made in defining creoles in terms of their morphology and syntax has led scholars such as Robert Chaudenson, [[Salikoko Mufwene]] and [[Henri Wittmann]] to question the value of ''creole'' as a typological class; they argue that creoles are structurally no different from any other language, and that ''creole'' is a sociohistoric concept — not a linguistic one — encompassing displaced population and slavery.&lt;ref&gt;Mufwene (2000), Wittmann (2001)&lt;/ref&gt;
+
+{{Harvcoltxt|Thomason|Kaufman|1988}} spell out the idea of creole exceptionalism, claiming that creole languages are an instance of nongenetic language change due to language shift with abnormal transmission. Gradualists{{Who|date=April 2009}} question the abnormal transmission of languages in a creole setting and argue that the processes which created today's creole languages are no different from universal patterns of language change.
+
+Given these objections to ''creole'' as a concept, articles such as ''Against Creole Exceptionalism''&lt;ref&gt;i.e. {{Harvcoltxt|Degraff|2003}}&lt;/ref&gt; and ''Deconstructing Creole''&lt;ref&gt;i.e. {{Harvcoltxt|Ansaldo|Matthews|2007}}&lt;/ref&gt; have arisen which question the idea that creoles are exceptional in any meaningful way. Additionally, {{Harvcoltxt|Mufwene|2002}} argues that some [[Romance language]]s are potential creoles but that they are not considered as such by linguists because of a historical bias against such a view.
+
+== See also ==
+=== Related articles ===
+* [[Creolistics]]
+* [[Diglossia]]
+* [[Gradualism]]
+* [[Language change]]
+* [[Language contact]]
+* [[Lingua franca]]
+* [[Mixed language]]
+* [[Nation language]]
+* [[Nicaraguan Sign Language]]
+* [[Relexification]]
+* [[Substratum]]
+
+=== Creoles by main parent language ===
+* [[Arabic-based creole languages]]
+* Assamese based: [[Nagamese language|Nagamese]]
+* Chinese-based: [[Tangwang language|Tangwang]]
+* [[Dutch-based creole languages]]
+* [[English-based creole languages]]
+* [[French-based creole languages]]
+* German-based: [[Unserdeutsch language|Unserdeutsch]]
+* Kongo-based: [[Kituba language|Kituba]]
+* [[Malay-based creole languages]]
+* Ngbandi-based: [[Sango language|Sango]]
+* [[Portuguese-based creole languages]]
+* [[Spanish-based creole languages]]
+
+== References ==
+{{reflist|3}}
+
+== Publications ==
+* {{citation
+|editor-last=Anderson
+|editor-first=Roger W.
+|year=1983
+|title=Pidginization and Creolization as Language Acquisition
+|place=Rowley, MA
+|publisher=Newbury House
+}}
+* {{citation
+|last=Ansaldo
+|first= U.
+|last2=Matthews
+|first2=S.
+|year=2007
+|title=Deconstructing creole: The rationale
+|journal=Typological Studies in Language
+|volume=73
+|pages=1–20
+|issn=0167-7373
+}}
+* {{citation
+|last=Arends
+|first=Jacques
+|last2=Muysken
+|first2=Pieter
+|last3=Smith
+|first3=Norval
+|year=1995
+|title=Pidgins and creoles: An introduction
+|place=Amsterdam
+|publisher=Benjamins
+|isbn=90-272-5236-X
+}}
+* {{citation
+|last=Arends
+|first=Jacques
+|year=1989
+|title=Syntactic developments in Sranan : creolization as a gradual process
+|place=Nijmegen
+|isbn=90-900268-3-5
+}}
+* {{citation
+|last=Bailey
+|first=Charles J
+|last2=Maroldt
+|first2=Karl
+|editor-last=Meisel
+|editor-first=Jürgen
+|year=1977
+|chapter=The French lineage of English
+|title=Langues en contact – Pidgins – Creoles
+|place=Tübingen
+|publisher=Narr
+|pages=21–53
+}}
+* {{citation
+|last=Bickerton
+|first= Derek
+|authorlink=Derek Bickerton
+|title=Bastard Tongues: A Trailblazing Linguist Finds Clues to Our Common Humanity in the World's Lowliest Languages
+|url=http://books.google.com/?id=7yRB7V1oE4sC
+|publisher=Macmillan
+|year=2009
+|isbn=978-0-8090-2816-0
+}}
+* {{citation
+|last=Bickerton
+|first= Derek
+|authorlink=Derek Bickerton
+|title=Roots of Language
+|publisher=Karoma Publishers
+|year=1981
+|isbn=0-89720-044-6
+}}
+* {{citation
+|last=Bickerton
+|first= Derek
+|year=1983
+|title=Creole Languages
+|journal=Scientific American
+|volume=249
+|issue=8
+|pages=116–122
+|doi=10.1038/scientificamerican0783-116
+}}
+* {{citation
+|last=Bickerton
+|first= Derek
+|year=1984
+|title=The language bioprogram hypothesis
+|journal=The Behavioral an Brain Sciences
+|volume=7
+|pages=173–188
+|doi=10.1017/S0140525X00044149
+}}
+* {{citation
+|last=Bloomfield
+|first=L.
+|year=1933
+|title=Language
+|place=New York
+|publisher=Henry Holt
+}}
+* {{citation
+|last=DeCamp
+|first=David
+|editor-last=Valdman
+|editor-first=Albert
+|year=1977
+|chapter=The Development of Pidgin and Creole Studies
+|title=Pidgin and creole linguistics
+|place=[[Bloomington, IN|Bloomington]]
+|publisher=Indiana University Press
+|pages=3–20
+}}
+* {{citation
+|last=DeGraff
+|first=Michel
+|year=2001
+|title=On the origin of creoles: A Cartesian critique of Neo-Darwinian linguistics
+|url=http://web.mit.edu/linguistics/people/faculty/degraff/darwin/anti-simplest.html
+|journal=Linguistic Typology
+|volume=5
+|issue=2-3
+|pages=213–310
+}}
+* {{citation
+|last=DeGraff
+|first=Michel
+|year=2002
+|title=Relexification: A reevaluation
+|url=http://web.mit.edu/linguistics/people/faculty/degraff/degraff-anthling-44-04.pdf
+|journal=Linguistic Anthropology
+|volume=44
+|issue=4
+|pages=321–414
+}}
+* {{citation
+|last=DeGraff
+|first=Michel
+|year=2003
+|title=Against Creole Exceptionalism
+|journal=Language
+|volume=79
+|issue=2
+|pages=391–410
+|doi=10.1353/lan.2003.0114
+}}
+* {{citation
+|last=Dillard
+|first=J.L.
+|year=1970
+|title=Principles in the history of American English: Paradox, virginity, and cafeteria
+|journal=Florida Foreign Language Reporter
+|volume=8
+|pages=32–33
+}}
+* {{citation
+|last=Eckkrammer
+|first=Eva
+|editor=Hoogbergen, Wim
+|year=1994
+|chapter=How to Pave the Way for the Emancipation of a Creole Language. Papiamentu, or What Can a Literature Do for its Language.
+|title=Born Out of Resistance. On Caribbean Cultural Creativity
+|place=Utrecht
+|publisher=Isor-Publications
+}}
+* {{citation
+|last=Feist
+|first=Sigmund
+|year=1932
+|title=The Origin of the Germanic Languages and the Europeanization of North Europe
+|journal=Language
+|volume=8
+|pages=245–254
+|doi=10.2307/408831
+|jstor=408831
+|issue=4
+|publisher=Language, Vol. 8, No. 4
+}}
+* {{citation
+|last=Ferguson
+|first=C.A.
+|editor=Hymes, D.
+|year=1971
+|chapter=Absence of Copula and the Notion of Simplicity: A Study of Normal Speech, Baby Talk, Foreigner Talk and Pidgins.
+|title=Pidginization and Creolization of Languages
+|place=Cambridge
+|publisher=Cambridge University Press
+}}
+* {{citation
+|editor-last=Fournier
+|editor-first=Robert
+|editor2-last=Wittmann
+|editor2-first=Henri
+|year=1995
+|title=Le français des Amériques
+|place=Trois-Rivières
+|publisher=Presses universitaires de Trois-Rivières
+|ISBN=2-9802307-2-3
+}}
+* {{citation
+|last=Fournier
+|first=Robert
+|editor=Patrice Brasseur
+|year=1998
+|chapter=Des créolismes dans la distribution des déterminants et des complémenteurs en français québécois basilectal
+|title=Français d'Amérique: variation, créolisation, normalisation
+|pages=217–228
+|publisher=Université d'Avignon: Centre d'études canadiennes
+}}
+* {{citation
+|last=Geeslin
+|first=Kimberly L.
+|year=2002
+|title=Semantic transparency as a predictor of copula choice in second-language acquisition
+|journal=Linguistics
+|volume=40
+|issue=2
+|pages=439–468
+}}
+* {{citation
+|last=Gil
+|first=David
+|year=2001
+|title=Creoles, Complexity and Riau Indonesian
+|journal=Linguistic Typology
+|volume=5
+|pages=325–371
+}}
+* {{citation
+|last=Good
+|first=Jeff
+|year=2004
+|title=Tone and accent in Saramaccan: Charting a deep split in the phonology of a language
+|journal=Lingua
+|volume=114
+|issue=5
+|pages=575–619
+|doi=10.1016/S0024-3841(03)00062-7
+}}
+* {{citation
+|last=Hall
+|first=Robert A.
+|authorlink=Robert A. Hall, Jr.
+|year=1966
+|title=Pidgin and creole languages
+|place=Ithaca
+|publisher=Cornell University
+}}
+* {{citation
+|last=Hall
+|first=Robert A.
+|authorlink=Robert A. Hall, Jr.
+|title=External history of the Romance languages
+|place=New York
+|publisher=American Elsevier Publishing Company
+}}
+* {{citation
+|last=Hamilton
+|first=A. Cris
+|last2=Coslett
+|first2=H. Branch
+|year=2008
+|title=Role of inflectional regularity and semantic transparency in reading morphologically complex words: Evidence from acquired dyslexia
+|journal=Neurocase
+|volume=14
+|issue=4
+|pages=347–368
+}}
+* {{citation
+|last=Hancock
+|first=Ian F.
+|editor=Pieter Muysken
+|editor2= Norval Smith
+|year=1985
+|chapter=The domestic hypothesis, diffusion and componentiality: An account of Anglophone creole origins
+|title=Substrata versus universals in creole genesis
+|pages=71–102
+|place=Amsterdam
+|publisher=Benjamins
+}}
+* {{citation
+|last=Hinnenkamp
+|first=V.
+|editor=Sebba, M.
+|editor2=Todd, L.
+|year=1984
+|chapter=Eye-witnessing pidginization: Structural and Sociolinguistic Aspects of German and Turkish Foreigner Talk
+|title=Papers from the York Creole Conference, September 24–27, 1983
+|series=York Papers in Linguistics
+|issue=11
+}}
+* {{citation
+|last=Holm
+|first=John
+|year=1988
+|title=Pidgins and Creoles
+|volume=1
+|place=Cambridge
+|publisher=Cambridge University Press
+}}
+* {{citation
+|last=Holm
+|first=John
+|year=1989
+|title=Pidgins and Creoles
+|volume=2
+|place=Cambridge
+|publisher=Cambridge University Press
+}}
+* {{citation
+|last=Hunter Smith
+|first=Norval Selby
+|year=1987
+|title=The genesis of the Creole languages of Surinam
+|place=Amsterdam
+}}
+* {{citation
+|last=Hymes
+|first=D. H.
+| title=Pidginization and Creolization of Languages
+| publisher=Cambridge University Press
+| year=1971
+}}
+* {{citation
+|last=Jungemann
+|first=Fréderic H.
+|year=1955
+|title=La teoría del substrato y los dialectos hispano-romances y gascones
+|place=Madrid
+}}
+* {{citation
+|last=Lefebvre
+|first=Claire
+|year=2002
+|title=The emergence of productive morphology in creole languages: the case of Haitian Creole
+|journal=Yearbook of Morphology
+|pages=35–80
+}}
+* {{citation
+|last=Martinet
+|first=André
+|year=1955, 1964
+|title=Économie des changements phonétiques: traité de phonologie diachronique
+|place=Berne
+|publisher=Francke
+}}
+* {{citation
+|last=McWhorter
+|first=John H.
+|authorlink=John McWhorter
+|year=1998
+|title=Identifying the creole prototype: Vindicating a typological class
+|journal=Language
+|volume=74
+|pages=788–818
+|doi=10.2307/417003
+|jstor=417003
+|issue=4
+|publisher=Language, Vol. 74, No. 4
+}}
+* {{citation
+|last=McWhorter
+|first=John H.
+|editor-last=Huber
+|editor-first=M
+|editor2-last=Parkvall
+|editor2-first=M
+|year=1999
+|chapter=The Afrogenesis Hypothesis of Plantation Creole Origin
+|title=Spreading the Word: The Issue of Diffusion among the Atlantic Creoles
+|place=London
+|publisher=University of Westminster Press
+}}
+* {{citation
+|last=McWhorter
+|first=John H.
+|year=2005
+|title=Defining Creole
+|place=Oxford
+|publisher=Oxford University Press
+}}
+* {{citation
+|last=Meijer
+|first=Guus
+|last2=Muysken
+|first2=Pieter
+|editor-last=Valdman
+|editor-first=Albert
+|year=1977
+|chapter=On the beginnings of pidgin and creole studies: Schuchardt and Hesseling
+|title=Pidgin and creole linguistics
+|place=Bloomington
+|publisher=Indiana University Press
+|pages=21–45
+}}
+* {{citation
+|last=Meisel
+|first=Jürgen
+|authorlink=Jürgen M. Meisel
+|last2=
+|first2=
+|editor-last=
+|editor-first=
+|year=1977
+|chapter=
+|title=Langues en contact – Pidgins – Creoles
+|place=Tübingen
+|publisher=Narr
+|pages=
+}}
+* {{citation
+|editor-last=Mufwene
+|editor-first=Salikoko
+|year=1993
+|title=Africanisms in Afro-American language varieties
+|place=[[Athens, Georgia|Athens]]
+|publisher=University of Georgia Press
+|editor-link=Salikoko Mufwene
+}}
+* {{citation
+|last=Mufwene
+|first=Salikoko
+|editor-last=Neumann-Holzschuh
+|editor-first=Ingrid
+|editor2-last=Schneider
+|editor2-first=Edgar
+|year=2000
+|chapter=Creolization is a social, not a structural, process
+|title=Degrees of restructuring in creole languages
+|place=Amsterdam
+|publisher=John Benjamins
+|pages=65–84
+}}
+* {{citation
+|last=Mufwene
+|first=Salikoko
+|authorlink=Salikoko Mufwene
+|year=2002
+|title=The ecology of language evolution
+|place=Cambridge
+|publisher=Cambridge University Press
+}}
+* {{citation
+|last=Muysken
+|first=Pieter
+|last2=Law
+|first2=Paul
+|year=2001
+|title=Creole studies: A theoretical linguist’s field guide
+|journal=Glot International
+|volume=5
+|issue=2
+|pages=47–57
+}}
+* {{citation
+|last=Parkvall
+|first=Mikael
+|year=2000
+|title=Out of Africa: African influences in Atlantic Creoles
+|place=London
+|publisher=Battlebridge
+}}
+* {{citation
+|last=Schumann
+|first=John H.
+|year=1978
+|title=The Pidginization Process: A Model for Second Language Acquisition
+|place=Rowley, MA
+|publisher=Newbury House
+}}
+* {{citation
+|last=Sebba
+|first=Mark
+|title=Contact Languages: Pidgins and Creoles
+|publisher=MacMillan
+|year=1997
+|isbn=0-333-63024-6}}
+* {{citation
+|last=Seuren
+|first=Pieter A.M.
+|last2=Wekker
+|first2=Herman C.
+|editor-last=Muysken
+|editor-first=Pieter
+|editor2-last=Smith
+|editor2-first=Norval
+|year=1986
+|chapter=Semantic transparency as a factor in creole genesis.
+|title=Substrata Versus Universals in Creole Genesis
+|pages=57–70
+|place=Amsterdam
+|publisher=Benjamins
+}}
+* {{citation
+|last=Singler
+|first=John Victor
+|editor-last=Kaye
+|editor-first=Jonathan
+|editor2-last=Koopman
+|editor2-first=H.
+|editor3-last=Sportiche
+|editor3-first=D.
+|editor4-last=Dugas
+|editor4-first=A.
+|year=1983
+|chapter=The influence of African languages on pidgins and creoles
+|title=Current Approaches to African Linguistics
+|volume=2
+|pages=65–77
+|place=Dordrecht
+|publisher=Foris
+|isbn=90-70176-95-5
+}}
+* {{citation
+|last=Singler
+|first=John Victor
+|year=1988
+|title=The homogeneity of the substrate as a factor in pidgin/creole genesis.
+|journal=Language
+|volume=64
+|pages=27–51
+|doi=10.2307/414784
+|jstor=414784
+|issue=1
+|publisher=Language, Vol. 64, No. 1
+}}
+* {{citation
+|last=Singler
+|first=John Victor
+|year=1996
+|title=Theories of creole genesis, sociohistorical considerations, and the evaluation of evidence: The case of Haitian Creole and the Relexification Hypothesis
+|journal=Journal of Pidgin and Creole Languages
+|volume=11
+|pages=185–230
+|doi=10.1075/jpcl.11.2.02sin
+}}
+* {{citation
+|last=Stewart
+|first=William A.
+|editor=F.A. Rice
+|year=1962
+|title=Study of the role of second languages
+|pages=34–53
+|place=Washington, D.C.
+|publisher=Center for Applied Linguistics
+|chapter=Creole languages in the Caribbean
+}}
+* {{citation
+|last=Taylor
+|first=Douglas
+|year=1977
+|title=Languages in the West Indies
+|place=Baltimore
+|publisher=Johns Hopkins University Press
+}}
+* {{citation
+|last=Thomason
+|first=Sarah
+|authorlink=Sarah Thomason
+|last2=Kaufman
+|first2=Terrence
+|authorlink2=Terrence Kaufman
+|year=1988
+|title=Language contact, creolization, and genetic linguistics
+|place=Berkely
+|publisher=University of California Press
+|edition=first
+}}
+* {{citation
+|last=Thompson
+|first=R.W.
+|year=1961
+|title=A note on some possible affinities between the creole dialects of the Old World and those of the New
+|journal=Creole Language Studies
+|volume=2
+|pages=107–113
+}}
+* {{citation
+|last=Traugott
+|first=Elizabeth Closs
+|editor-last=Valdman
+|editor-first=Theo
+|year=1977
+|chapter=The Development of Pidgin and Creole Studies
+|title=Pidgin and creole linguistics
+|place=Bloomington
+|publisher=Indiana University Press
+|pages=70–98
+}}
+* {{citation
+|last=Vennemann
+|first=Theo
+|year=2003
+|editor-last=Bammesberger
+|editor-first=Alfred
+|editor2-last=Vennemann
+|editor2-first=Theo
+|chapter=Languages in prehistoric Europe north of the Alps
+|title=Languages in Prehistoric Europe
+|place=Heidelberg
+|publisher=C. Winter
+|pages=319–332
+}}
+* {{citation
+|last=Wardhaugh
+|first=Ronald
+|title=An Introduction to Sociolinguistics
+|edition=fourth
+|chapter=Pidgins and Creoles
+|publisher=Blackwell Publishing
+| year=2002
+|pages=57–86
+}}
+* {{citation
+|last=Winford
+|first=D
+|year=1997
+|title=Creole Formation in the Context of Contact Languages
+|journal=Journal of Pidign and Creole Language
+|volume=12
+|issue=1
+|pages=131–151
+}}
+* {{Citation
+|first = Uriel
+|last = Weinreich
+|origyear = 1953
+|year = 1979
+|title = Languages in contact: findings and problems
+|location = New York
+|publisher = Mouton Publishers
+|isbn = 978-90-279-2689-0
+}}
+* {{citation
+|last=Whinnom
+|first=Keith
+|year=1956
+|title=Spanish contact vernaculars in the Philippine Islands
+|place=Hong Kong
+}}
+* {{citation
+|last=Whinnom
+|first=Keith
+|year=1965
+|title=The origin of the European-based creoles and pidgins
+|journal=Orbis
+|volume=14
+|pages=509–27
+}}
+* {{citation
+|last=Wittmann
+|first=Henri
+|authorlink=Henri Wittmann
+|year=1983
+|title=Les réactions en chaîne en morphologie diachronique
+|url=http://homepage.mac.com/noula/ling/1983c-morphodia.pdf
+|journal=Actes du Colloque de la Société Internationale de Linguistique Fonctionnelle
+|volume=10
+|pages=285–92
+}}
+* {{citation
+|last=Wittmann
+|first=Henri
+|editor-last=Fournier
+|editor-first=Robert
+|editor2-last=Wittmann
+|editor2-first=Henri
+|year=1995
+|chapter=Grammaire comparée des variétés coloniales du français populaire de Paris du 17e siècle et origines du français québécois
+|url=http://homepage.mac.com/noula/ling/1995a-fda.pdf
+|title=Le français des Amériques
+|pages=281–334
+|place=Trois-Rivières
+|publisher=Presses universitaires de Trois-Rivières
+}}
+* {{citation
+|last=Wittmann
+|first=Henri
+|year=1998
+|title=Le français de Paris dans le français des Amériques
+|url=http://homepage.mac.com/noula/ling/1998a-fpparis.pdf
+|journal=Proceedings of the International Congress of Linguists
+|volume=16
+|place=Amsterdam
+|publisher=Elsevier
+}}
+* Wittmann, Henri (1999). &quot;Prototype as a typological yardstick to creoleness.&quot; ''The Creolist Archives Papers On-line'', Stockholms Universitet.[http://homepage.mac.com/noula/ling/1999a-prototype.html]
+* Wittmann, Henri (2001). [http://homepage.mac.com/noula/ling/2001c-lexical_diffusion/01h2LexDiffFin.html &quot;Lexical diffusion and the glottogenetics of creole French.&quot;] CreoList debate, parts I-VI, appendixes 1-9. ''The Linguist List'', Eastern Michigan University|Wayne State University
+* {{citation
+|last=Whorf
+|first=Benjamin
+|authorlink=Benjamin Lee Whorf
+|editor=John Carroll
+|year=1956
+|title=Language, Thought, and Reality: Selected Writings of Benjamin Lee Whorf
+|place=Cambirdge
+|publisher=MIT Press
+}}
+
+== External links ==
+* [http://www.mona.uwi.edu/dllp/spcl/home.html Society for Pidgin and Creole Linguistics (SPCL)]
+* [http://www.kreolmagazine.com Creole Magazine Discover The Creole Culture]
+* [http://www.umac.mo/fsh/dp/acblpe/ Association for Portuguese and Spanish Lexically Based Creoles (ACBLPE)]
+* [http://www.une.edu.au/langnet/index.html Language Varieties Web Site]
+* [http://creoles.free.fr/ Groupe Européen de Recherches en Langues Créoles]
+* [http://malavoi.martinique.univ-ag.fr/Recherch.html Groupe d'Etude et de Recherche en Espace Créolophone (GEREC)]
+* [http://www.unb.br/il/liv/crioul/textos/abecs.htm Associação Brasileira de Estudos Crioulos e Similares (ABECS)]
+* [http://www.scl-online.net/ Society for Caribbean Linguistics (SCL)]
+* [http://www.odlt.org The Online Dictionary of Language Terminology]
+* [http://www.answers.com/topic/creoles Answer.com: Definition &quot;Creoles&quot;]
+{{Commons category|Creole language}}
+
+{{DEFAULTSORT:Creole Language}}
+[[Category:Pidgins and creoles| ]]
+
+[[af:Kreooltaal]]
+[[als:Kreolsprachen]]
+[[ar:كريولية]]
+[[zh-min-nan:Creole gí-giân]]
+[[bg:Креолски език]]
+[[br:Yezhoù kreolek]]
+[[ca:Llengua criolla]]
+[[cs:Kreolština]]
+[[da:Kreolsprog]]
+[[de:Kreolsprachen]]
+[[dsb:Kreolska rěc]]
+[[es:Lengua criolla]]
+[[eo:Kreola lingvo]]
+[[eu:Kreolera]]
+[[fa:کریول]]
+[[fr:Créole]]
+[[fy:Kreoalsk]]
+[[ga:Fásteanga]]
+[[gl:Linguas crioulas]]
+[[ko:크리올 (언어학)]]
+[[hi:क्रियोल भाषा]]
+[[hsb:Kreolska rěč]]
+[[hr:Kreolski jezici]]
+[[io:Kreola linguo]]
+[[id:Bahasa kreol]]
+[[ia:Lingua creol]]
+[[it:Lingua creola]]
+[[he:שפה קריאולית]]
+[[ka:კრეოლური ენა]]
+[[sw:Krioli]]
+[[ht:Lang kreyòl]]
+[[la:Lingua creola]]
+[[lv:Kreolu valodas]]
+[[lt:Kreolų kalbos]]
+[[hu:Kreol nyelv]]
+[[ms:Bahasa campuran]]
+[[nl:Creoolse talen]]
+[[nds-nl:Kreoolsproake]]
+[[ja:クレオール言語]]
+[[no:Kreolspråk]]
+[[nn:Kreolspråk]]
+[[oc:Creòl (lenga)]]
+[[nds:Kreoolspraak]]
+[[pl:Języki kreolskie]]
+[[pt:Línguas crioulas]]
+[[ro:Limbă creolă]]
+[[ru:Креольские языки]]
+[[simple:Creole language]]
+[[sl:Kreolščina]]
+[[sr:Креолски језици]]
+[[sh:Kreolski jezici]]
+[[fi:Kreolikieli]]
+[[sv:Kreolspråk]]
+[[ta:கிரியோல் மொழி]]
+[[tr:Kreyol]]
+[[uk:Креольська мова]]
+[[ur:کریول زبانیں]]
+[[vec:Creolo]]
+[[vi:Ngôn ngữ Creole]]
+[[zh-yue:歸融話]]
+[[zh:克里奧爾語]]</text>
+      <sha1>nbjihxrfvdvabbf0mdth3sh2md7uhzl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

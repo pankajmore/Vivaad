@@ -1,0 +1,101 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>New</title>
+    <ns>0</ns>
+    <id>3001336</id>
+    <revision>
+      <id>520366264</id>
+      <parentid>520364734</parentid>
+      <timestamp>2012-10-29T03:00:15Z</timestamp>
+      <contributor>
+        <username>Lugia2453</username>
+        <id>17175611</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/50.43.20.245|50.43.20.245]] ([[User talk:50.43.20.245|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])</comment>
+      <text xml:space="preserve" bytes="1521">{{selfref|To start a new article in Wikipedia, see [[Help:Starting a new article]].}}
+{{wiktionarypar|new}}
+
+'''New''' is an [[adjective]] referring to something recently made, discovered, or created.
+
+'''New''' or '''NEW''' may refer to:
+{{TOC right}}
+== Film and music ==
+* [[New (film)|''New'' (film)]], a 2004 Tamil movie
+* [[New (song)|&quot;New&quot; (song)]], a song by No Doubt from ''Return of Saturn''
+* ''New'', an EP from Australian alternative rock band [[Regurgitator]]
+
+== Acronyms ==
+* [[Network of enlightened Women]], a conservative university women's organization
+* [[Net economic welfare]], a proposed macroeconomic indicator
+* [[Net explosive weight]], also known as net explosive quantity
+
+== Identification codes ==
+* [[Nepal Bhasa language]] ISO 639 language code
+* [[New Century Financial Corporation]] (NYSE stock abbreviation)
+* [[New Orleans Lakefront Airport]] (IATA airport code: NEW)
+* [[Newcraighall railway station]] (National Rail station code: NEW), in Scotland
+
+== Other uses ==
+* [[New (surname)]],  an English family name
+* [[new (C++)]], a built-in operator in the C++ programming language
+* [[NEW (TV station)]], the callsign of Network Ten's station in Perth, Western Australia
+* [[New River (disambiguation)]], various rivers
+
+== See also ==
+* [[GNU (disambiguation)]]
+* [[Neo (disambiguation)]]
+* [[News (disambiguation)]]
+* [[Nu (disambiguation)]]
+* {{lookfrom|New}}
+
+{{disambig}}
+
+[[de:NEW]]
+[[eo:NEW]]
+[[fr:NEW]]
+[[it:NEW]]
+[[ja:NEW]]
+[[ru:Новый]]
+[[simple:New]]
+[[uk:Новий]]</text>
+      <sha1>9m2qxhze1r1ngy8mbvys5n5m11sw19x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,473 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Internet</title>
+    <ns>0</ns>
+    <id>14539</id>
+    <revision>
+      <id>520505304</id>
+      <parentid>520179465</parentid>
+      <timestamp>2012-10-29T23:12:09Z</timestamp>
+      <contributor>
+        <username>Blethering Scot</username>
+        <id>6758766</id>
+      </contributor>
+      <minor/>
+      <comment>fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]</comment>
+      <text xml:space="preserve" bytes="76133">{{About|the public worldwide computer network system}}
+{{Internet}} {{Area networks}}
+{{pp-semi-vandalism|small=yes}}
+&lt;!-- The Internet and the WWW are different concepts – please do not muddle them in this article --&gt;
+The '''Internet''' is a global system of interconnected [[computer network]]s that use the standard [[Internet protocol suite]] (often called TCP/IP, although not all applications use TCP) to serve billions of users worldwide. It is a ''network of networks'' that consists of millions of private, public, academic, business, and government networks, of local to global scope, that are linked by a broad array of electronic, wireless and optical networking technologies. The Internet carries an extensive range of information resources and services, such as the inter-linked [[hypertext]] documents of the [[World Wide Web]] (WWW) and the [[information infrastructure|infrastructure]] to support email.
+
+Most traditional communications media including telephone, music, film, and television are reshaped or redefined by the Internet, giving birth to new services such as [[Voice over Internet Protocol]] (VoIP) and [[Internet Protocol Television]] (IPTV). Newspaper, book and other print publishing are adapting to [[Web site]] technology, or are reshaped into [[blogging]] and [[web feed]]s. The Internet has enabled and accelerated new forms of human interactions through [[instant messaging]], Internet forums, and [[social network service|social networking]]. [[Online shopping]] has boomed both for major retail outlets and small [[artisan]]s and traders. [[Business-to-business]] and [[financial services]] on the Internet affect [[supply chain]]s across entire industries.
+
+The origins of the Internet reach back to research of the 1960s, commissioned by the [[United States government]] in collaboration with private commercial interests to build robust, fault-tolerant, and distributed computer networks. The funding of a new U.S. [[Internet backbone|backbone]] by the [[National Science Foundation]] in the 1980s, as well as private funding for other commercial backbones, led to worldwide participation in the development of new networking technologies, and the merger of many networks. The [[commercialization]] of what was by the 1990s an international network resulted in its popularization and incorporation into virtually every aspect of modern human life. {{As of|2011}} more than 2.2 billion people—nearly a third of [[world population|Earth's Human population]]—used the services of the Internet.&lt;ref&gt;[http://www.internetworldstats.com/stats.htm Internet World Stats], updated 31 March 2011. Retrieved 8 November 2011.&lt;/ref&gt;
+
+The Internet has no centralized governance in either technological implementation or policies for access and usage; each constituent network sets its own standards. Only the overreaching definitions of the two principal [[name space]]s in the Internet, the [[IP address|Internet Protocol address]] space and the [[Domain Name System]], are directed by a maintainer organization, the [[Internet Corporation for Assigned Names and Numbers]] (ICANN). The technical underpinning and standardization of the core protocols ([[IPv4]] and [[IPv6]]) is an activity of the [[Internet Engineering Task Force]] (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise.
+
+==Terminology==
+{{See also|Internet capitalization conventions}}
+''Internet'' is a short form of the technical term [[internetwork]],&lt;ref&gt;{{cite encyclopedia |encyclopedia=[[Oxford English Dictionary]] |title=Internet, n. |url=http://dictionary.oed.com/cgi/entry/00304286 |accessdate=26 October 2010 |edition=Draft |date=March 2009 |quote=Shortened &lt; INTERNETWORK n., perhaps influenced by similar words in -net}}&lt;/ref&gt; the result of interconnecting computer networks with special gateways or routers.   Historically the word has been used, uncapitalized, as a verb and adjective since 1883 to refer to interconnected motions. It was also used from 1974 before ''the'' Internet, uncapitalized, as a verb meaning to connect together, especially for networks.&lt;ref&gt;Oxford English Dictionary, 2md ed., gives ninteenth-century use and pre-Internet verb use]&lt;/ref&gt; The Internet is also often referred to as ''the Net''.
+
+The ''Internet'', referring to the specific entire global system of IP networks, is a [[proper noun]] and written with an initial [[capital letter]].  In the media and common use it is often not capitalized: &quot;the internet&quot;. Some guides specify that the word should be capitalized as a noun but not capitalized as an adjective.&lt;ref&gt;[http://www.chicagomanualofstyle.org/16/ch07/ch07_sec076.html?para= &quot;7.76 Terms like 'web' and 'Internet'&quot;], ''Chicago Manual of Style'', University of Chicago, 16th edition&lt;/ref&gt;
+
+The terms ''Internet'' and ''World Wide Web'' are often used interchangeably in everyday speech; it is common to speak of going on the Internet when invoking a [[Web browser|browser]] to view Web pages. However, the Internet is a particular global computer network connecting millions of computing devices; the [[World Wide Web]] is just one of many [[Internet Services|services]] running on the Internet. The Web is a collection of interconnected documents ([[Web page]]s) and other [[Resource (Web)|resources]], linked by [[hyperlink]]s and [[Uniform Resource Locator|URLs]].&lt;ref&gt;{{cite web |url= http://www.w3.org/TR/html401/struct/links.html#h-12.1|title= Links |accessdate=13 August 2008 |work=HTML 4.01 Specification |publisher=World Wide Web Consortium |date=HTML 4.01 Specification | quote = [T]he link (or hyperlink, or Web link) [is] the basic hypertext construct. A link is a connection from one Web resource to another. Although a simple concept, the link has been one of the primary forces driving the success of the Web. }}&lt;/ref&gt;  In addition to the Web, a multitude of other services are implemented over the Internet, including [[e-mail]], file transfer, [[Remote administration|remote computer control]], [[newsgroup]]s, and [[online game]]s. Web (and other) services can be implemented on any intranet, accessible to network users.
+
+==History==
+[[File:Leonard-Kleinrock-and-IMP1.png|thumb|upright|Professor [[Leonard Kleinrock]] with the first ARPANET [[Interface Message Processor]]s at UCLA]]
+{{Main |History of the Internet |History of the World Wide Web}}
+Research into [[packet switching]] started in the early 1960s and packet switched networks such as Mark I at [[National Physical Laboratory (United Kingdom)|NPL in the UK]],&lt;ref name=&quot;BBC Technology&quot;&gt;[http://news.bbc.co.uk/1/hi/technology/8331253.stm Celebrating 40 years of the net], by Mark Ward, Technology correspondent, BBC News, 29 October 2009&lt;/ref&gt; [[ARPANET]], [[CYCLADES]],&lt;ref&gt;[http://www.cs.utexas.edu/users/chris/think/Cyclades/index.shtml &quot;A Technical History of CYCLADES&quot;], ''Technical Histories of the Internet &amp; other Network Protocols'', Computer Science Department, University of Texas Austin, 11 June 2002&lt;/ref&gt;&lt;ref&gt;
+[http://www.informatik.uni-trier.de/~ley/db/conf/ifip/ifip1977.html#Zimmermann77 &quot;The Cyclades Experience: Results and Impacts&quot;], Zimmermann, H., Proc. IFIP'77 Congress, Toronto, August 1977, pp. 465–469&lt;/ref&gt; [[Merit Network]],&lt;ref&gt;[http://www.merit.edu/about/history/article.php ''A Chronicle of Merit's Early History''], John Mulcahy, 1989, Merit Network, Ann Arbor, Michigan&lt;/ref&gt; [[Tymnet]], and [[Telenet]], were developed in the late 1960s and early 1970s using a variety of [[Communications protocol|protocols]]. The ARPANET in particular led to the development of protocols for [[internetworking]], where multiple separate networks could be joined together into a network of networks thanks to the work of [[United Kingdom|British]] scientist [[Donald Davies]] whose ground-breaking work on [[packet-switching|Packet Switching]] was essential to the system.&lt;ref&gt;[http://www.cs.utexas.edu/users/chris/think/NPL/index.shtml &quot;A Technical History of National Physical Laboratories (NPL) Network Architecture&quot;], ''Technical Histories of the Internet &amp; other Network Protocols'', Computer Science Department, University of Texas Austin, 11 June 2002&lt;/ref&gt;
+
+The first two nodes of what would become the [[ARPANET]] were interconnected between [[Leonard Kleinrock]]'s Network Measurement Center at the [[Henry Samueli School of Engineering and Applied Science|UCLA's School of Engineering and Applied Science]] and [[Douglas Engelbart|Douglas Engelbart's]] NLS system at [[SRI International]] (SRI) in [[Menlo Park, California]], on 29 October 1969.&lt;ref name=&quot;NetValley&quot;&gt;[http://www.netvalley.com/intval.html &quot;Roads and Crossroads of Internet History&quot;] by Gregory Gromov. 1995&lt;/ref&gt; The third site on the ARPANET was the Culler-Fried Interactive Mathematics center at the [[University of California at Santa Barbara]], and the fourth was the [[University of Utah]] Graphics Department. In an early sign of future growth, there were already fifteen sites connected to the young ARPANET by the end of 1971.&lt;ref&gt;{{cite book | authorlink = Katie Hafner | last = Hafner | first = Katie | title = Where Wizards Stay Up Late: The Origins Of The Internet | publisher = Simon &amp; Schuster | year = 1998 | isbn = 0-684-83267-4 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | author=[[Ronda Hauben]] | title=From the ARPANET to the Internet | year=2001 | url=http://www.columbia.edu/~rh120/other/tcpdigest_paper.txt | accessdate=28 May 2009}}&lt;/ref&gt; These early years were documented in the 1972 film [[Computer Networks: The Heralds of Resource Sharing]].
+
+Early international collaborations on ARPANET were sparse. For various political reasons, European developers were concerned with developing the [[X.25]] networks.&lt;ref&gt;{{cite web | title=Events in British Telecomms History | work=Events in British TelecommsHistory | url=http://www.sigtel.com/tel_hist_brief.html | archiveurl=http://web.archive.org/web/20030405153523/http://www.sigtel.com/tel_hist_brief.html | archivedate=5 April 2003 | accessdate=25 November 2005}}&lt;/ref&gt; Notable exceptions were the ''Norwegian Seismic Array'' ([[NORSAR]]) in 1972, followed in 1973 by Sweden with satellite links to the [[Tanum Municipality|Tanum]] Earth Station and [[Peter T. Kirstein]]'s research group in the UK, initially at the [[Institute of Computer Science]], London University and later at [[University College London]].&lt;ref&gt;{{cite web | title=NORSAR and the Internet | url=http://www.norsar.no/pc-5-30-NORSAR-and-the-Internet.aspx  | publisher=NORSAR | accessdate=5 June 2009}}&lt;/ref&gt;
+
+[[Image:NSFNET-backbone-T3.png|thumb|right|T3 NSFNET Backbone, c. 1992]]
+
+In December 1974, ''RFC 675 – Specification of Internet Transmission Control Program'', by Vinton Cerf, Yogen Dalal, and Carl Sunshine, used the term ''internet'', as a shorthand for ''internetworking''; later [[Request for Comments|RFCs]] repeat this use, so the word started out as an [[adjective]] rather than the [[noun]] it is today.&lt;ref&gt;{{cite journal | author=[[Barry M. Leiner]], [[Vinton G. Cerf]], [[David D. Clark]], [[Robert E. Kahn]], [[Leonard Kleinrock]], [[Daniel C. Lynch]], [[Jon Postel]], [[Lawrence Roberts (scientist)|Larry G. Roberts]], [[Stephen Wolff]] | title=A Brief History of Internet | year=2003 | url=http://www.isoc.org/internet/history/brief.shtml | accessdate=28 May 2009 }}&lt;/ref&gt;  Access to the ARPANET was expanded in 1981 when the [[National Science Foundation]] (NSF) developed the [[CSNET|Computer Science Network]] (CSNET).  In 1982, the [[Internet Protocol Suite]] (TCP/IP) was standardized and the concept of a world-wide network of fully interconnected TCP/IP networks called the Internet was introduced.
+
+TCP/IP network access expanded again in 1986 when the National Science Foundation Network ([[NSFNET]]) provided access to [[supercomputer]] sites in the United States from research and education organizations, first at 56 kbit/s and later at 1.5 Mbit/s and 45 Mbit/s.&lt;ref&gt;[http://www.merit.edu/about/history/pdf/NSFNET_final.pdf ''NSFNET: A Partnership for High-Speed Networking, Final Report 1987-1995''], Karen D. Frazer, Merit Network, Inc., 1995&lt;/ref&gt; Commercial [[internet service providers]] (ISPs) began to emerge in the late 1980s and early 1990s. The ARPANET was decommissioned in 1990. The Internet was commercialized in 1995 when NSFNET was decommissioned, removing the last restrictions on the use of the Internet to carry commercial traffic.&lt;ref name=ConneXions-April1996&gt;[http://www.merit.edu/networkresearch/projecthistory/nsfnet/nsfnet_article.php &quot;Retiring the NSFNET Backbone Service: Chronicling the End of an Era&quot;], Susan R. Harris and Elise Gerich, ''ConneXions'', Vol. 10, No. 4, April 1996&lt;/ref&gt; The Internet started a rapid expansion to Europe and Australia in the mid to late 1980s&lt;ref&gt;{{cite journal | author=[[Ben Segal]] | title=A Short History of Internet Protocols at CERN | year=1995 | url=http://www.cern.ch/ben/TCPHIST.html}}&lt;/ref&gt;&lt;ref&gt;[[RIPE|Réseaux IP Européens]] (RIPE)&lt;/ref&gt; and to Asia in the late 1980s and early 1990s.&lt;ref&gt;{{cite web | title=Internet History in Asia | work=16th APAN Meetings/Advanced Network Conference in Busan | url=http://www.apan.net/meetings/busan03/cs-history.htm | accessdate=25 December 2005}}&lt;/ref&gt;
+
+[[File:First Web Server.jpg|thumb|right|This [[NeXT Computer]] was used by [[Sir Tim Berners-Lee]] at [[CERN]] and became the world's first [[Web server]].]]
+
+Since the mid-1990s the Internet has had a tremendous impact on culture and commerce, including the rise of near instant communication by email, [[instant messaging]], [[Voice over Internet Protocol]] (VoIP) &quot;phone calls&quot;, [[Video chat|two-way interactive video calls]], and the [[World Wide Web]]&lt;ref&gt;[http://news.bbc.co.uk/2/hi/science/nature/5242252.stm How the web went world wide], Mark Ward, Technology Correspondent, BBC News. Retrieved 24 January 2011&lt;/ref&gt; with its [[discussion forums]], blogs, [[social networking]], and [[online shopping]] sites. Increasing amounts of data are transmitted at higher and higher speeds over fiber optic networks operating at 1-Gbit/s, 10-Gbit/s, or more. The Internet continues to grow, driven by ever greater amounts of online information and knowledge, commerce, entertainment and [[social networking]].&lt;ref&gt;{{cite web|url=http://clickz.com/showPage.html?page=3626274 |title=Brazil, Russia, India and China to Lead Internet Growth Through 2011 |publisher=Clickz.com |accessdate=28 May 2009}}&lt;/ref&gt;
+
+During the late 1990s, it was estimated that traffic on the public Internet grew by 100 percent per year, while the mean annual growth in the number of Internet users was thought to be between 20% and 50%.&lt;ref&gt;{{cite journal | url=http://www.dtc.umn.edu/~odlyzko/doc/internet.size.pdf |format=PDF| title=The size and growth rate of the Internet | accessdate=21 May 2007 | author=Coffman, K. G; [[Odlyzko]], A. M. | publisher=AT&amp;T Labs | date=2 October 1998}}&lt;/ref&gt; This growth is often attributed to the lack of central administration, which allows organic growth of the network, as well as the non-proprietary open nature of the Internet protocols, which encourages vendor interoperability and prevents any one company from exerting too much control over the network.&lt;ref&gt;{{cite book | last = Comer | first = Douglas | title = The Internet book | publisher=Prentice Hall | page = 64 | isbn = 0-13-233553-0 | year = 2006}}&lt;/ref&gt; As of 31 March 2011, the estimated total number of [[Internet users]] was 2.095&amp;nbsp;billion (30.2% of world population).&lt;ref name=&quot;stats1&quot;&gt;{{cite web |url=http://www.internetworldstats.com/stats.htm |title=World Internet Users and Population Stats |work=Internet World Stats |publisher=Miniwatts Marketing Group |date=22 June 2011 |accessdate=23 June 2011}}&lt;!-- previous cite {{cite web|url=http://www.50x15.com/en-us/internet_usage.aspx |title=AMD 50x15 - World Internet Usage |publisher=50x15.com |accessdate=6 November 2009}} --&gt;&lt;/ref&gt; It is estimated that in 1993 the Internet carried only 1% of the information flowing through two-way telecommunication, by 2000 this figure had grown to 51%, and by 2007 more than 97% of all telecommunicated information was carried over the Internet.&lt;ref&gt;[http://www.sciencemag.org/content/suppl/2011/02/08/science.1200970.DC1/Hilbert-SOM.pdf &quot;The World’s Technological Capacity to Store, Communicate, and Compute Information&quot;], Martin Hilbert and Priscila López (April 2011), [[Science (journal)|''Science'']], 332(6025), 60–65.&lt;/ref&gt;
+
+==Technology==
+
+===Protocols===
+{{Main|Internet protocol suite}}
+[[Image:UDP encapsulation.svg|thumb|right|300px|As the user data is processed down through the protocol stack, each layer adds an encapsulation at the sending host. Data is transmitted &quot;over the wire&quot; at the link level, left to right. The encapsulation stack procedure is reversed by the receiving host. Intermediate relays remove and add a new link encapsulation for retransmission, and inspect the IP layer for routing purposes.]]
+{{IP stack}}
+The communications infrastructure of the Internet consists of its hardware components and a system of software layers that control various aspects of the architecture. While the hardware can often be used to support other software systems, it is the design and the rigorous standardization process of the software architecture that characterizes the Internet and provides the foundation for its scalability and success. The responsibility for the architectural design of the Internet software systems has been delegated to the [[Internet Engineering Task Force]] (IETF).&lt;ref&gt;{{cite web|url=http://www.ietf.org/ |title=IETF Home Page |publisher=Ietf.org |accessdate=20 June 2009}}&lt;/ref&gt; The IETF conducts standard-setting work groups, open to any individual, about the various aspects of Internet architecture. Resulting discussions and final standards are published in a series of publications, each called a [[Request for Comments]] (RFC), freely available on the IETF web site. The principal methods of networking that enable the Internet are contained in specially designated RFCs that constitute the [[Internet Standard]]s.  Other less rigorous documents are simply informative, experimental, or historical, or document the best current practices (BCP) when implementing Internet technologies.
+
+The Internet standards describe a framework known as the [[Internet protocol suite]]. This is a model architecture that divides methods into a layered system of protocols (RFC 1122, RFC 1123). The layers correspond to the environment or scope in which their services operate. At the top is the [[application layer]], the space for the application-specific networking methods used in software applications, e.g., a web browser program.  Below this top layer, the [[transport layer]] connects applications on ''different hosts'' via the network (e.g., [[client–server model]]) with appropriate data exchange methods. Underlying these layers are the core networking technologies, consisting of two layers. The [[internet layer]] enables computers to identify and locate each other via [[IP address|Internet Protocol (IP) addresses]], and allows them to connect to one another via intermediate (transit) networks. Last, at the bottom of the architecture, is a software layer, the [[link layer]], that provides connectivity between hosts on the same local network link, such as a local area network ([[LAN]]) or a [[Dial-up Internet access|dial-up connection]]. The model, also known as [[TCP/IP]], is designed to be independent of the underlying hardware, which the model therefore does not concern itself with in any detail.  Other models have been developed, such as the [[Open Systems Interconnection]] (OSI) model, but they are not compatible in the details of description or implementation; many similarities exist and the TCP/IP protocols are usually included in the discussion of OSI networking.
+
+The most prominent component of the Internet model is the Internet Protocol (IP), which provides addressing systems ([[IP address]]es) for computers on the Internet. IP enables internetworking and in essence establishes the Internet itself.  IP Version 4 ([[IPv4]]) is the initial version used on the first generation of today's Internet and is still in dominant use. It was designed to address up to ~4.3&amp;nbsp;billion (10&lt;sup&gt;9&lt;/sup&gt;) Internet hosts. However, the explosive growth of the Internet has led to [[IPv4 address exhaustion]], which entered its final stage in 2011,&lt;ref&gt;{{cite web | last=Huston | first=Geoff | title=IPv4 Address Report, daily generated | url=http://www.potaroo.net/tools/ipv4/index.html | accessdate=20 May 2009}}&lt;/ref&gt; when the global address allocation pool was exhausted.  A new protocol version, IPv6, was developed in the mid-1990s, which provides vastly larger addressing capabilities and more efficient routing of Internet traffic. [[IPv6]] is currently in growing [[IPv6 deployment|deployment]] around the world, since Internet address registries ([[Regional Internet registry|RIRs]]) began to urge all resource managers to plan rapid adoption and conversion.&lt;ref&gt;{{cite web|url=https://www.arin.net/knowledge/about_resources/ceo_letter.pdf |title=Notice of Internet Protocol version 4 (IPv4) Address Depletion |format=PDF |accessdate=7 August 2009}}&lt;/ref&gt;
+
+IPv6 is not interoperable with IPv4. In essence, it establishes a parallel version of the Internet not directly accessible with IPv4 software. This means software upgrades or translator facilities are necessary for networking devices that need to communicate on both networks. Most modern computer operating systems already support both versions of the Internet Protocol. Network infrastructures, however, are still lagging in this development. Aside from the complex array of physical connections that make up its infrastructure, the Internet is facilitated by bi- or multi-lateral commercial contracts (e.g., [[peering agreement]]s), and by technical specifications or protocols that describe how to exchange data over the network. Indeed, the Internet is defined by its interconnections and routing policies.
+
+===Routing===
+[[File:Internet Connectivity Distribution &amp; Core.svg|500px|right|thumb|upright=2.5|Internet packet routing is accomplished among various tiers of Internet Service Providers.]]
+
+[[Internet Service Provider]]s connect customers (thought of at the &quot;bottom&quot; of the routing hierarchy) to customers of other ISPs. At the &quot;top&quot; of the routing hierarchy are ten or so [[Tier 1 network]]s, large telecommunication companies which exchange traffic directly &quot;across&quot; to all other Tier 1 networks via unpaid [[peering]] agreements. [[Tier 2 network]]s buy [[Internet transit]] from other ISP to reach at least some parties on the global Internet, though they may also engage in unpaid peering (especially for local partners of a similar size). ISPs can use a single &quot;upstream&quot; provider for connectivity, or use [[multihoming]] to provide protection from problems with individual links.  [[Internet exchange point]]s create physical connections between multiple ISPs, often hosted in buildings owned by independent third parties.{{citation needed|date=April 2012}}
+
+Computers and routers use [[routing table]]s to direct IP packets among locally connected machines. Tables can be constructed manually or automatically via [[DHCP]] for an individual computer or a [[routing protocol]] for routers themselves. In single-homed situations, a [[default route]] usually points &quot;up&quot; toward an ISP providing transit. Higher-level ISPs use the [[Border Gateway Protocol]] to sort out paths to any given [[Classless Inter-Domain Routing|range of IP addresses]] across the complex connections of the global Internet.{{citation needed|date=April 2012}}
+
+Academic institutions, large companies, governments, and other organizations can perform the same role as ISPs, engaging in peering and purchasing transit on behalf of their internal networks of individual computers. Research networks tend to interconnect into large subnetworks such as [[GEANT]], [[GLORIAD]], [[Internet2]], and the UK's [[national research and education network]], [[JANET]]. These in turn are built around smaller networks (see the list of [[:Category:Academic computer network organizations|academic computer network organizations]]).{{citation needed|date=April 2012}}
+
+Not all [[computer networks]] are connected to the Internet. For example, some [[classified United States website]]s are only accessible from separate secure networks.{{citation needed|date=April 2012}}
+
+===General structure===
+The Internet structure and its usage characteristics have been studied extensively. It has been determined that both the Internet IP routing structure and hypertext links of the World Wide Web are examples of [[scale-free network]]s.&lt;ref&gt;{{cite journal|last=A. L. Barab´asi|first=R. Albert|title=Statistical mechanics of complex networks|journal=Rev. Mod. Phys|year=2002|volume=74|pages=47–94|url=http://rmp.aps.org/abstract/RMP/v74/i1/p47_1|doi=10.1103/RevModPhys.74.47|last2=Barabási|first2=Albert-László}}&lt;/ref&gt;
+
+Many computer scientists describe the Internet as a &quot;prime example of a large-scale, highly engineered, yet highly complex system&quot;.&lt;ref&gt;Walter Willinger, Ramesh Govindan, Sugih Jamin, Vern Paxson, and Scott Shenker (2002). [http://www.pnas.org/cgi/content/full/99/suppl_1/2573 Scaling phenomena in the Internet], in ''Proceedings of the National Academy of Sciences, 99'', suppl. 1, 2573–2580&lt;/ref&gt; The Internet is heterogeneous; for instance, [[data transfer rate]]s and physical characteristics of connections vary widely. The Internet exhibits &quot;[[Emergence|emergent phenomena]]&quot; that depend on its large-scale organization. For example, data transfer rates exhibit temporal [[self-similarity]]. The principles of the routing and addressing methods for traffic in the Internet reach back to their origins in the 1960s when the eventual scale and popularity of the network could not be anticipated. Thus, the possibility of developing alternative structures is investigated.&lt;ref&gt;{{cite news|last=Jesdanun |first=Anick |url=http://seattletimes.nwsource.com/html/businesstechnology/2003667811_btrebuildnet16.html |title=Internet Makeover? Some argue it's time |publisher=Seattletimes.nwsource.com |date= 16 April 2007|accessdate=8 August 2011}}&lt;/ref&gt;
+The Internet structure was found to be highly robust&lt;ref&gt;{{cite journal|last=R. Cohen|first=K. Erez, D. ben-Avraham, [[Shlomo Havlin|S. Havlin]]|title=Resilience of the Internet to random breakdowns|journal=Phys. Rev. Lett|year=2000|volume=85|page=4625|url=http://havlin.biu.ac.il/Publications.php?keyword=Resilience+of+the+Internet+to+random+breakdowns&amp;year=*&amp;match=all}}&lt;/ref&gt; to random failures and very vulnerable to high degree attacks.&lt;ref&gt;{{cite journal|last=R. Cohen|first=K. Erez, D. ben-Avraham, [[Shlomo Havlin|S. Havlin]]|title=Breakdown of the Internet under intentional attack|journal=Phys. Rev. Lett|year=2001|volume=86|pages=3682–5|url=http://havlin.biu.ac.il/Publications.php?keyword=Breakdown+of+the+Internet+under+intentional+attack&amp;year=*&amp;match=all|doi=10.1103/PhysRevLett.86.3682|pmid=11328053|last2=Erez|first2=K|last3=Ben-Avraham|first3=D|last4=Havlin|first4=S|issue=16}}&lt;/ref&gt;
+
+==Governance==
+{{Main|Internet governance}}
+[[File:Icannheadquarters.jpg|thumb|ICANN headquarters in [[Marina Del Rey]], California, United States]]
+
+The Internet is a [[global network|globally distributed network]] comprising many voluntarily interconnected autonomous networks. It operates without a central governing body. However, to maintain interoperability, all technical and policy aspects of the underlying core infrastructure and the principal [[name space]]s are administered by the [[Internet Corporation for Assigned Names and Numbers]] (ICANN), headquartered in [[Marina del Rey, California]]. ICANN is the authority that coordinates the assignment of unique identifiers for use on the Internet, including [[domain name]]s, Internet Protocol (IP) addresses, application port numbers in the transport protocols, and many other parameters. Globally unified name spaces, in which names and numbers are uniquely assigned, are essential for the global reach of the Internet. ICANN is governed by an international board of directors drawn from across the Internet technical, business, academic, and other non-commercial communities. The government of the United States continues to have the primary role in approving changes to the [[DNS root zone]] that lies at the heart of the domain name system.&lt;ref&gt;[http://www.theregister.co.uk/2005/07/01/bush_net_policy/ &quot;Bush administration annexes internet&quot;], Kieren McCarthy, The Register, 1 July 2005&lt;/ref&gt;  ICANN's role in coordinating the assignment of unique identifiers distinguishes it as perhaps the only central coordinating body on the global Internet. On 16 November 2005, the [[World Summit on the Information Society]], held in [[Tunis]], established the [[Internet Governance Forum]] (IGF) to discuss Internet-related issues.
+
+==Modern uses==
+The Internet allows greater flexibility in working hours and location, especially with the spread of unmetered high-speed connections. The Internet can be accessed almost anywhere by numerous means, including through [[mobile Internet device]]s. Mobile phones, [[datacard]]s, [[handheld game console]]s and [[cellular router]]s allow users to connect to the Internet [[wireless]]ly. Within the limitations imposed by small screens and other limited facilities of such pocket-sized devices, the services of the Internet, including email and the web, may be available. Service providers may restrict the services offered and mobile data charges may be significantly higher than other access methods.
+
+Educational material at all levels from pre-school to post-doctoral is available from websites. Examples range from [[CBeebies]], through school and high-school revision guides, [[Virtual university|virtual universities]], to access to top-end scholarly literature through the likes of [[Google Scholar]]. For [[distance education]], help with [[homework]] and other assignments, self-guided learning, whiling away spare time, or just looking up more detail on an interesting fact, it has never been easier for people to access educational information at any level from anywhere. The Internet in general and the [[World Wide Web]] in particular are important enablers of both [[Education|formal]] and [[informal education]].
+
+The low cost and nearly instantaneous sharing of ideas, knowledge, and skills has made [[collaboration|collaborative]] work dramatically easier, with the help of [[collaborative software]]. Not only can a group cheaply communicate and share ideas but the wide reach of the Internet allows such groups more easily to form. An example of this is the [[free software movement]], which has produced, among other things, [[Linux]], [[Mozilla Firefox]], and [[OpenOffice.org]]. Internet chat, whether in the form of an [[IRC]] chat room or channel, via an [[instant messaging]] system, or a [[social networking]] website, allows colleagues to stay in touch in a very convenient way when working at their computers during the day.  Messages can be exchanged even more quickly and conveniently than via email. These systems may allow files to be exchanged, drawings and images to be shared, or voice and video contact between team members.
+
+[[Content management]] systems allow collaborating teams to work on shared sets of documents simultaneously without accidentally destroying each other's work. Business and project teams can share calendars as well as documents and other information. Such collaboration occurs in a wide variety of areas including scientific research, software development, conference planning, political activism and creative writing. Social and political collaboration is also becoming more widespread as both Internet access and [[computer literacy]] spread.
+
+The Internet allows computer users to remotely access other computers and information stores easily, wherever they may be. They may do this with or without [[computer security]], i.e. authentication and encryption technologies, depending on the requirements. This is encouraging new ways of working from home, collaboration and information sharing in many industries. An accountant sitting at home can [[audit]] the books of a company based in another country, on a [[server (computing)|server]] situated in a third country that is remotely maintained by IT specialists in a fourth. These accounts could have been created by home-working bookkeepers, in other remote locations, based on information emailed to them from offices all over the world. Some of these things were possible before the widespread use of the Internet, but the cost of private [[leased line]]s would have made many of them infeasible in practice. An office worker away from their desk, perhaps on the other side of the world on a business trip or a holiday, can access their emails, access their data using [[cloud computing]], or open a [[Remote Desktop Protocol|remote desktop]] session into their office PC using a secure [[Virtual Private Network]] (VPN) connection on the Internet. This can give the worker complete access to all of their normal files and data, including email and other applications, while away from the office. This concept has been referred to among [[system administrator]]s as the Virtual Private Nightmare,&lt;ref&gt;{{cite web|title=The Virtual Private Nightmare: VPN|url=http://librenix.com/?inode=5013|publisher=Librenix|accessdate=21 July 2010|date=4 August 2004}}&lt;/ref&gt; because it extends the secure perimeter of a corporate network into remote locations and its employees' homes.
+
+==Services==
+
+===World Wide Web===
+Many people use the terms ''Internet'' and ''World Wide Web'', or just the ''Web'', interchangeably, but the two terms are not [[synonymous]]. The [[World Wide Web]] is a global set of [[documents]], [[Computer graphics|images]] and other resources, logically interrelated by [[hyperlink]]s and referenced with [[Uniform Resource Identifier]]s (URIs). URIs symbolically identify services, [[web servers|servers]], and other databases, and the documents and resources that they can provide. [[Hypertext Transfer Protocol]] (HTTP) is the main access protocol of the World Wide Web, but it is only one of the hundreds of communication protocols used on the Internet. [[Web service]]s also use HTTP to allow software systems to communicate in order to share and exchange business logic and data.
+
+World Wide Web browser software, such as Microsoft's [[Internet Explorer]], [[Mozilla Firefox]], [[Opera (web browser)|Opera]], [[Apple Inc.|Apple]]'s [[Safari (web browser)|Safari]], and [[Google Chrome]], lets users navigate from one web page to another via hyperlinks embedded in the documents. These documents may also contain any combination of [[computer data]], including graphics, sounds, [[Plain text|text]], [[web video|video]], [[multimedia]] and interactive content that runs while the user is interacting with the page. [[Client-side scripting|Client-side software]] can include animations, [[web game|games]], [[office applications]] and scientific demonstrations. Through [[keyword (Internet search)|keyword]]-driven [[Internet research]] using [[Web search engine|search engine]]s like [[Yahoo! Search|Yahoo!]] and [[Google (search engine)|Google]], users worldwide have easy, instant access to a vast and diverse amount of online information. Compared to printed media, books, encyclopedias and traditional libraries, the World Wide Web has enabled the decentralization of information on a large scale.
+
+The Web has also enabled individuals and organizations to [[publish]] ideas and information to a potentially large [[audience]] online at greatly reduced expense and time delay. Publishing a web page, a blog, or building a website involves little initial [[cost]] and many cost-free services are available. Publishing and maintaining large, professional web sites with attractive, diverse and up-to-date information is still a difficult and expensive proposition, however. Many individuals and some companies and groups use ''web logs'' or blogs, which are largely used as easily updatable online diaries. Some commercial organizations encourage [[employees|staff]] to communicate advice in their areas of specialization in the hope that visitors will be impressed by the expert knowledge and free information, and be attracted to the corporation as a result. One example of this practice is [[Microsoft]], whose [[software developer|product developers]] publish their personal blogs in order to pique the public's interest in their work. Collections of personal web pages published by large service providers remain popular, and have become increasingly sophisticated. Whereas operations such as [[Angelfire]] and [[GeoCities]] have existed since the early days of the Web, newer offerings from, for example, Facebook and Twitter currently have large followings. These operations often brand themselves as [[social network service]]s rather than simply as web page hosts.
+
+[[Online advertising|Advertising]] on popular web pages can be lucrative, and [[e-commerce]] or the sale of products and services directly via the Web continues to grow.
+
+When the Web began in the 1990s, a typical web page was stored in completed form on a web server, formatted in [[HTML]], ready to be sent to a user's browser in response to a request. Over time, the process of creating and serving web pages has become more automated and more dynamic. Websites are often created using [[content management]] or [[wiki]] software with, initially, very little content. Contributors to these systems, who may be paid staff, members of a club or other organization or members of the public, fill underlying databases with content using editing pages designed for that purpose, while casual visitors view and read this content in its final HTML form.  There may or may not be editorial, approval and security systems built into the process of taking newly entered content and making it available to the target visitors.
+
+===Communication===
+Email is an important communications service available on the Internet. The concept of sending electronic text messages between parties in a way analogous to mailing letters or memos predates the creation of the Internet. Pictures, documents and other files are sent as [[email attachment]]s. Emails can be [[Carbon copy|cc-ed]] to multiple [[email address]]es.
+
+[[Internet telephony]] is another common communications service made possible by the creation of the Internet. [[VoIP]] stands for Voice-over-[[Internet Protocol]], referring to the protocol that underlies all Internet communication. The idea began in the early 1990s with [[walkie-talkie]]-like voice applications for personal computers. In recent years many VoIP systems have become as easy to use and as convenient as a normal telephone. The benefit is that, as the Internet carries the voice traffic, VoIP can be free or cost much less than a traditional telephone call, especially over long distances and especially for those with always-on Internet connections such as [[Cable modem|cable]] or [[ADSL]]. VoIP is maturing into a competitive alternative to traditional telephone service. Interoperability between different providers has improved and the ability to call or receive a call from a traditional telephone is available. Simple, inexpensive VoIP network adapters are available that eliminate the need for a personal computer.
+
+Voice quality can still vary from call to call, but is often equal to and can even exceed that of traditional calls. Remaining problems for VoIP include [[emergency telephone number]] dialing and reliability. Currently, a few VoIP providers provide an emergency service, but it is not universally available. Traditional phones are line-powered and operate during a power failure; VoIP does not do so without a [[uninterruptible power supply|backup power source]] for the phone equipment and the Internet access devices. VoIP has also become increasingly popular for gaming applications, as a form of communication between players. Popular VoIP clients for gaming include [[Ventrilo]] and [[Teamspeak]]. [[Wii]], [[PlayStation 3]], and [[Xbox 360]] also offer VoIP chat features.
+
+===Data transfer===
+[[File sharing]] is an example of transferring large amounts of data across the Internet. A [[computer file]] can be emailed to customers, colleagues and friends as an attachment. It can be uploaded to a website or [[File Transfer Protocol|FTP]] server for easy download by others. It can be put into a &quot;shared location&quot; or onto a [[file server]] for instant use by colleagues. The load of bulk downloads to many users can be eased by the use of &quot;[[mirror (computing)|mirror]]&quot; servers or [[peer-to-peer]] networks. In any of these cases, access to the file may be controlled by user [[authentication]], the transit of the file over the Internet may be obscured by [[encryption]], and money may change hands for access to the file. The price can be paid by the remote charging of funds from, for example, a credit card whose details are also passed – usually fully encrypted – across the Internet. The origin and authenticity of the file received may be checked by [[digital signature]]s or by [[MD5]] or other message digests. These simple features of the Internet, over a worldwide basis, are changing the production, sale, and distribution of anything that can be reduced to a computer file for transmission. This includes all manner of print publications, software products, news, music, film, video, photography, graphics and the other arts. This in turn has caused seismic shifts in each of the existing industries that previously controlled the production and distribution of these products.
+
+[[Streaming media]] is the real-time delivery of digital media for the immediate consumption or enjoyment by end users. Many radio and television broadcasters provide Internet feeds of their live audio and video productions. They may also allow time-shift viewing or listening such as Preview, Classic Clips and Listen Again features. These providers have been joined by a range of pure Internet &quot;broadcasters&quot; who never had on-air licenses. This means that an Internet-connected device, such as a computer or something more specific, can be used to access on-line media in much the same way as was previously possible only with a television or radio receiver. The range of available types of content is much wider, from specialized technical [[webcast]]s to on-demand popular multimedia services. [[Podcast]]ing is a variation on this theme, where – usually audio – material is downloaded and played back on a computer or shifted to a [[portable media player]] to be listened to on the move. These techniques using simple equipment allow anybody, with little censorship or licensing control, to broadcast audio-visual material worldwide.
+
+Digital media streaming increases the demand for network bandwidth.  For example, standard image quality needs 1 Mbit/s link speed for SD 480p, HD 720p quality requires 2.5 Mbit/s, and the top-of-the-line HDX quality needs 4.5 Mbit/s for 1080p.&lt;ref&gt;{{cite web|last=Morrison |first=Geoff |url=http://www.msnbc.msn.com/id/40241749/ns/technology_and_science-tech_and_gadgets |title=What to know before buying a 'connected' TV – Technology &amp; science – Tech and gadgets – Tech Holiday Guide |publisher=MSNBC |date=18 November 2010 |accessdate=8 August 2011}}&lt;/ref&gt;
+
+[[Webcam]]s are a low-cost extension of this phenomenon. While some webcams can give full-frame-rate video, the picture either is usually small or updates slowly. Internet users can watch animals around an African waterhole, ships in the [[Panama Canal]], traffic at a local roundabout or monitor their own premises, live and in real time. Video [[chat rooms]] and [[video conferencing]] are also popular with many uses being found for personal webcams, with and without two-way sound. YouTube was founded on 15 February 2005 and is now the leading website for free streaming video with a vast number of users. It uses a [[Adobe Flash|flash]]-based web player to stream and show video files. Registered users may upload an unlimited amount of video and build their own personal profile. YouTube claims that its users watch hundreds of millions, and upload hundreds of thousands of videos daily.&lt;ref&gt;{{cite web |url=http://www.youtube.com/t/fact_sheet |archiveurl=http://www.webcitation.org/5qyMMarNd |archivedate=4 July 2010|title=YouTube Fact Sheet|publisher=YouTube, LLC |accessdate=20 January 2009}}&lt;/ref&gt;
+
+==Access==
+{{Main |Internet access}}
+
+Common methods of [[Internet access]] in homes include dial-up, landline [[Broadband Internet access|broadband]] (over [[coaxial cable]], [[fiber optic]] or copper wires), [[Wi-Fi]], [[Satellite Internet|satellite]] and [[3G]]/[[4G]] technology [[mobile phone|cell phones]]. Public places to use the Internet include libraries and [[Internet cafe]]s, where computers with Internet connections are available. There are also [[Internet kiosk|Internet access points]] in many public places such as airport halls and coffee shops, in some cases just for brief use while standing. Various terms are used, such as &quot;public Internet kiosk&quot;, &quot;public access terminal&quot;, and &quot;Web [[payphone]]&quot;. Many hotels now also have public terminals, though these are usually fee-based. These terminals are widely accessed for various usage like ticket booking, bank deposit, online payment etc. Wi-Fi provides wireless access to computer networks, and therefore can do so to the Internet itself. [[Hotspot (Wi-Fi)|Hotspots]] providing such access include [[Wi-Fi#Internet access|Wi-Fi cafes]], where would-be users need to bring their own wireless-enabled devices such as a laptop or [[Personal Digital Assistant|PDA]]. These services may be free to all, free to customers only, or fee-based. A hotspot need not be limited to a confined location. A whole campus or park, or even an entire city can be enabled.
+
+[[Grassroots]] efforts have led to [[wireless community network]]s. Commercial Wi-Fi services covering large city areas are in place in London, [[Vienna]], [[Toronto]], San Francisco, [[Philadelphia]], Chicago and [[Pittsburgh]]. The Internet can then be accessed from such places as a park bench.&lt;ref&gt;{{cite web|last=Pasternak |first=Sean B. |url=http://www.bloomberg.com/apps/news?pid=10000082&amp;sid=aQ0ZfhMa4XGQ&amp;refer=canada |title=Toronto Hydro to Install Wireless Network in Downtown Toronto |publisher=Bloomberg |date=7 March 2006 |accessdate=8 August 2011}}&lt;/ref&gt; Apart from Wi-Fi, there have been experiments with proprietary mobile wireless networks like [[Ricochet (Internet service)|Ricochet]], various high-speed data services over cellular phone networks, and fixed wireless services. High-end mobile phones such as [[smartphone]]s in general come with Internet access through the phone network. Web browsers such as [[Opera (web browser)|Opera]] are available on these advanced handsets, which can also run a wide variety of other Internet software. More mobile phones have Internet access than PCs, though this is not as widely used.&lt;ref&gt;&quot;By 2013, mobile phones will overtake PCs as the most common Web access device worldwide&quot;, according a forecast in [http://www.gartner.com/it/page.jsp?id=1278413 &quot;Gartner Highlights Key Predictions for IT Organizations and Users in 2010 and Beyond&quot;], Gartner, Inc., 13 January 2010&lt;/ref&gt; An Internet access provider and protocol matrix differentiates the methods used to get online.
+
+An Internet blackout or outage can be caused by local signaling interruptions. Disruptions of [[submarine communications cable]]s may cause blackouts or slowdowns to large areas, such as in the [[2008 submarine cable disruption]].  Less-developed countries are more vulnerable due to a small number of high-capacity links.  Land cables are also vulnerable, as in 2011 when a woman digging for scrap metal severed most connectivity for the nation of Armenia.&lt;ref&gt;{{cite news|agency=The Guardian|url=http://www.guardian.co.uk/world/2011/apr/06/georgian-woman-cuts-web-access|title=Georgian woman cuts off web access to whole of Armenia|date=6 April 2011|accessdate=11 April 2012}}&lt;/ref&gt; Internet blackouts affecting almost entire countries can be achieved by governments as a form of [[Internet censorship]], as in the blockage of the [[Internet in Egypt]], whereby approximately 93%&lt;ref name=&quot;renesys1&quot;&gt;{{cite web| last =Cowie| first =James| title =Egypt Leaves the Internet| publisher =[[Renesys]]| url =http://www.renesys.com/blog/2011/01/egypt-leaves-the-internet.shtml | accessdate=28 January 2011 |archiveurl=http://www.webcitation.org/5w51j0pga |archivedate=28 January 2011|deadurl=no}}&lt;/ref&gt; of networks were without access in 2011 in an attempt to stop mobilization for [[Egyptian Revolution of 2011|anti-government protests]].&lt;ref&gt;{{cite news| url=http://www.bbc.co.uk/news/technology-12306041 |work=BBC News | title=Egypt severs internet connection amid growing unrest |date=28 January 2011}}&lt;/ref&gt;
+
+==Users==
+
+[[File:Internet users per 100 inhabitants ITU.svg|thumb|400px|&lt;Center&gt;'''Internet users per 100 inhabitants'''&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Source: [[International Telecommunication Union|ITU]]&lt;ref&gt;[http://www.itu.int/ITU-D/ict/statistics/material/excel/2011/Internet_users_01-11.xls &quot;Internet users per 100 inhabitants 2001–2011&quot;], International Telecommunications Union, Geneva. Retrieved 4 April 2012&lt;/ref&gt;&lt;/center&gt;]]
+
+[[File:InternetUsersByLanguagePieChart.svg|400px |thumb| right |&lt;center&gt;[[Languages used on the Internet|'''Internet users by language''']]&lt;ref name=NIUBL-IWS&gt;[http://www.internetworldstats.com/stats7.htm &quot;Number of Internet Users by Language&quot;], ''Internet World Stats'', Miniwatts Marketing Group, 31 May 2011. Retrieved 22 April 2012&lt;/ref&gt;&lt;/center&gt;]] 
+
+[[Image:WebsitesByLanguagePieChart.svg|400px |thumb | right |&lt;center&gt;[[Languages used on the Internet|'''Website content languages''']]&lt;ref name=UofCLBW&gt;{{cite web|title=Usage of content languages for websites|url=http://w3techs.com/technologies/overview/content_language/all|work=W3Techs.com|accessdate=30 December 2011}}&lt;/ref&gt;&lt;/center&gt;]]
+
+{{See also|Global Internet usage|English on the Internet|Unicode}}
+
+Overall Internet usage has seen tremendous growth. From 2000 to 2009, the number of Internet users globally rose from 394 million to 1.858 billion.&lt;ref&gt;[http://www.itu.int/ITU-D/ict/statistics/ Internet users graphs], Market Information and Statistics, International Telecommunications Union&lt;/ref&gt; By 2010, 22 percent of the world's population had access to computers with 1 billion [[Google]] searches every day, 300 million Internet users reading blogs, and 2 billion videos viewed daily on YouTube.&lt;ref&gt;http://www.antaranews.com/en/news/71940/google-earth-demonstrates-how-technology-benefits-ris-civil-society-govt&lt;/ref&gt;
+
+The prevalent language for communication on the Internet has been English. This may be a result of the origin of the Internet, as well as the language's role as a [[lingua franca]]. Early computer systems were limited to the characters in the [[ASCII|American Standard Code for Information Interchange]] (ASCII), a subset of the [[Latin alphabet]].
+
+After English (27%), the most requested languages on the [[World Wide Web]] are Chinese (23%), Spanish (8%), Japanese (5%), Portuguese and German (4% each), Arabic, French and Russian (3% each), and Korean (2%).&lt;ref&gt;[http://www.internetworldstats.com/stats7.htm Internet World Stats], updated for 30 June 2010. Retrieved 20 February 2011.&lt;/ref&gt;&lt;!-- Note that the use of these copyright statistics is dependent on &quot;giving due credit and establishing an active link back to www.internetworldstats.com&quot;, so please do not remove the citation above --&gt; By region, 42% of the world's [[Internet users]] are based in Asia, 24% in Europe, 14% in North America, 10% in Latin America and the [[Caribbean]] taken together, 6% in Africa, 3% in the Middle East and 1% in Australia/Oceania.&lt;ref name=inetstats&gt;[http://www.internetworldstats.com/stats.htm World Internet Usage Statistics News and Population Stats] updated for 30 June 2010. Retrieved 20 February 2011.&lt;/ref&gt;&lt;!-- Note that the use of these copyright statistics is dependent on &quot;giving due credit and establishing an active link back to www.internetworldstats.com&quot;, so please do not remove the citation above --&gt;  The Internet's technologies have developed enough in recent years, especially in the use of [[Unicode]], that good facilities are available for development and communication in the world's widely used languages. However, some glitches such as ''[[mojibake]]'' (incorrect display of some languages' characters) still remain.
+
+In an American study in 2005, the percentage of men using the Internet was very slightly ahead of the percentage of women, although this difference reversed in those under 30. Men logged on more often, spent more time online, and were more likely to be broadband users, whereas women tended to make more use of opportunities to communicate (such as email). Men were more likely to use the Internet to pay bills, participate in auctions, and for recreation such as downloading music and videos. Men and women were equally likely to use the Internet for shopping and banking.&lt;ref&gt;How men and women use the Internet Pew Research Center 28 December 2005&lt;/ref&gt;
+More recent studies indicate that in 2008, women significantly outnumbered men on most social networking sites, such as Facebook and Myspace, although the ratios varied with age.&lt;ref&gt;{{cite web |url=http://business.rapleaf.com/company_press_2008_07_29.html |title=Rapleaf Study on Social Network Users}}{{dead link|date=August 2011}}&lt;/ref&gt; In addition, women watched more streaming content, whereas men downloaded more.&lt;ref&gt;{{cite web|url=http://www.entrepreneur.com/tradejournals/article/178175272.html |title=Women Ahead Of Men In Online Tv, Dvr, Games, And Social Media. |publisher=Entrepreneur.com |date=1 May 2008 |accessdate=8 August 2011}}&lt;/ref&gt; In terms of blogs, men were more likely to blog in the first place; among those who blog, men were more likely to have a professional blog, whereas women were more likely to have a personal blog.&lt;ref&gt;{{cite web|url=http://technorati.com/blogging/state-of-the-blogosphere/ |title=Technorati's State of the Blogosphere |publisher=Technorati |accessdate=8 August 2011}}&lt;/ref&gt;
+
+==Social impact==
+{{Main|Sociology of the Internet}}
+The Internet has enabled entirely new forms of social interaction, activities, and organizing, thanks to its basic features such as widespread usability and access. In the first decade of the 21st century, the first generation is raised with widespread availability of Internet connectivity, bringing consequences and concerns in areas such as personal privacy and identity, and distribution of copyrighted materials.  These &quot;[[digital natives]]&quot; face a variety of challenges that were not present for prior generations.
+
+===Social networking and entertainment===
+{{see also|Social networking service#Social impact}}
+Many people use the World Wide Web to access news, weather and sports reports, to plan and book vacations and to find out more about their interests. People use [[online chat|chat]], messaging and email to make and stay in touch with friends worldwide, sometimes in the same way as some previously had [[pen pal]]s. The Internet has seen a growing number of [[Web desktop]]s, where users can access their files and settings via the Internet.
+
+[[Social network service|Social networking]] websites such as [[Facebook]], [[Twitter]], and [[MySpace]] have created new ways to socialize and interact. Users of these sites are able to add a wide variety of information to pages, to pursue common interests, and to connect with others. It is also possible to find existing acquaintances, to allow communication among existing groups of people. Sites like [[LinkedIn]] foster commercial and business connections. YouTube and [[Flickr]] specialize in users' videos and photographs.
+
+The Internet has been a major outlet for leisure activity since its inception, with entertaining social experiments such as [[MUD]]s and [[MOO]]s being conducted on university servers, and humor-related [[Usenet]] groups receiving much traffic. Today, many [[Internet forums]] have sections devoted to games and funny videos; short cartoons in the form of [[Flash animation|Flash movies]] are also popular. Over 6&amp;nbsp;million people use blogs or message boards as a means of communication and for the sharing of ideas. The pornography and gambling industries have taken advantage of the World Wide Web, and often provide a significant source of advertising revenue for other websites.&lt;ref&gt;[http://internet-filter-review.toptenreviews.com/internet-pornography-statistics.html &quot;Internet Pornography Statistics&quot;], Jerry Ropelato, Top Ten Reviews, 2006&lt;/ref&gt; Although many governments have attempted to restrict both industries' use of the Internet, in general this has failed to stop their widespread popularity.&lt;ref&gt;[http://abcnews.go.com/Business/SmallBiz/story?id=4151592 &quot;Do It Yourself! Amateur Porn Stars Make Bank&quot;], Russell Goldman, ABC News, 22 January 2008&lt;/ref&gt;
+
+Another area of leisure activity on the Internet is [[multiplayer gaming]].&lt;ref&gt;[http://internetgames.about.com/od/gamingnews/a/trendsdecade.htm &quot;Top Online Game Trends of the Decade&quot;], Dave Spohn, About.com, 15 December 2009&lt;/ref&gt; This form of recreation creates communities, where people of all ages and origins enjoy the fast-paced world of multiplayer games. These range from [[MMORPG]] to [[first-person shooter]]s, from [[role-playing video game]]s to [[online gambling]]. While online gaming has been around since the 1970s, modern modes of online gaming began with subscription services such as [[GameSpy Arcade|GameSpy]] and [[MPlayer.com|MPlayer]].&lt;ref&gt;[http://internetgames.about.com/od/gamingnews/a/timeline.htm &quot;Internet Game Timeline: 1963 – 2004&quot;], Dave Spohn, About.com, 2 June 2011&lt;/ref&gt; Non-subscribers were limited to certain types of game play or certain games. Many people use the Internet to access and download music, movies and other works for their enjoyment and relaxation. Free and fee-based services exist for all of these activities, using centralized servers and distributed peer-to-peer technologies. Some of these sources exercise more care with respect to the original artists' copyrights than others.
+
+Internet usage has been correlated to users' loneliness.&lt;ref&gt;{{cite web|author=Carole Hughes, Boston College |url=https://www2.bc.edu/~hughesc/abstract.html |title=The Relationship Between Internet Use and Loneliness Among College Students |publisher=Boston College |accessdate=11 August 2011}}&lt;/ref&gt;  Lonely people tend to use the Internet as an outlet for their feelings and to share their stories with others, such as in the &quot;[[I am lonely will anyone speak to me]]&quot; thread.
+
+[[Cybersectarianism]] is a new organizational form which involves: &quot;highly dispersed small groups of practitioners that may remain largely anonymous within the larger social context and operate in relative secrecy, while still linked remotely to a larger network of believers who share a set of practices and texts, and often a common devotion to a particular leader.  Overseas supporters provide funding and support; domestic practitioners distribute tracts, participate in acts of resistance, and share information on the internal situation with outsiders.  Collectively, members and practitioners of such sects construct viable virtual communities of faith, exchanging personal testimonies and engaging in collective study via email, on-line chat rooms and web-based message boards.&quot;&lt;ref&gt;Patricia M. Thornton, &quot;The New Cybersects: Resistance and Repression in the Reform era. “ In Elizabeth Perry and Mark Selden, eds., ''Chinese Society: Change, Conflict and Resistance'' (second edition) (London and New York: Routledge, 2003), pp. 149–50.&lt;/ref&gt;
+
+[[Cyberslacking]] can become a drain on corporate resources; the average UK employee spent 57 minutes a day surfing the Web while at work, according to a 2003 study by Peninsula Business Services.&lt;ref&gt;{{cite news|url=http://www.scotsman.com/news/net-abuse-hits-small-city-firms-1-892163 |title=Net abuse hits small city firms |work=The Scotsman  |date= 11 September 2003|accessdate=7 August 2009 |location=Edinburgh}}&lt;/ref&gt; [[Internet addiction disorder]] is excessive computer use that interferes with daily life. Psychologist Nicolas Carr believe that Internet use has other [[How internet use affects humans|effects on individuals]], for instance improving skills of scan-reading and interfering with the deep thinking that leads to true creativity.&lt;ref&gt;[http://www.theshallowsbook.com/nicholascarr/Nicholas_Carrs_The_Shallows.html ''The Shallows: What the Internet Is Doing to Our Brains''], Nicholas Carr, W. W. Norton, 7 June 2010, 276 pp., ISBN 0-393-07222-3, ISBN 978-0-393-07222-8&lt;/ref&gt;
+
+===Politics and political revolutions===
+The Internet has achieved new relevance as a political tool. The presidential campaign of [[Howard Dean]] in 2004 in the United States was notable for its success in soliciting donation via the Internet. Many political groups use the Internet to achieve a new method of organizing in order to carry out their mission, having given rise to [[Internet activism]], most notably practiced by rebels in the [[Arab Spring]].&lt;ref name = cascading&gt;{{cite web|url= http://www.miller-mccune.com/politics/the-cascading-effects-of-the-arab-spring-28575/|title=The Arab Uprising's Cascading Effects|publisher=Miller-mccune.com|date=23 February 2011|accessdate=27 February 2011}}&lt;/ref&gt;&lt;ref&gt;[http://www.etd.ceu.hu/2011/chokoshvili_davit.pdf The Role of the Internet in Democratic Transition: Case Study of the Arab Spring], Davit Chokoshvili, Master's Thesis, June 2011&lt;/ref&gt;
+
+The ''[[New York Times]]'' suggested that [[social media]] websites such as Facebook and Twitter helped people organize the political revolutions in Egypt where it helped certain classes of protesters organize protests, communicate grievances, and disseminate information.&lt;ref&gt;{{cite news| url=http://www.nytimes.com/2011/02/10/world/middleeast/10youth.html | work=The New York Times | first=David D. | last=Kirkpatrick | title=Wired and Shrewd, Young Egyptians Guide Revolt | date=9 February 2011}}&lt;/ref&gt;
+
+The potential of the Internet as a civic tool of communicative power was thoroughly explored by [[Simon R. B. Berdal]] in his thesis of 2004: {{quote|''As the globally evolving Internet provides ever new access points to virtual discourse forums, it also promotes new civic relations and associations within which communicative power may flow and accumulate. Thus, traditionally ... national-embedded peripheries get entangled into greater, international peripheries, with stronger combined powers... The Internet, as a consequence, changes the topology of the &quot;centre-periphery&quot; model, by stimulating conventional peripheries to interlink into &quot;super-periphery&quot; structures, which enclose and &quot;besiege&quot; several centres at once.''&lt;ref name=simonBerdal2004&gt;{{Citation
+ | last = Berdal
+ | first = S.R.B.
+ | author-link =
+ | title = Public deliberation on the Web: A Habermasian inquiry into online discourse
+ | place = Oslo
+ | publisher = University of Oslo
+ | year = 2004
+ | edition =
+ | url = http://www.duo.uio.no/publ/informatikk/2004/20535/SimonBerdal.pdf
+ |format=PDF| id =
+ | isbn =}}
+&lt;/ref&gt;}}
+
+Berdal, therefore, extends the [[Jürgen Habermas|Habermasian]] notion of the [[Public sphere]] to the Internet, and underlines the inherent global and civic nature that intervowen Internet technologies provide. To limit the growing civic potential of the Internet, Berdal also notes how &quot;self-protective measures&quot; are put in place by those threatened by it: {{quote|If we consider China’s attempts to filter &quot;unsuitable material&quot; from the Internet, most of us would agree that this resembles a self-protective measure by the system against the growing civic potentials of the Internet. Nevertheless, both types represent limitations to &quot;peripheral capacities&quot;. Thus, the Chinese government tries to prevent communicative power to build up and unleash (as the [[Tiananmen Square protests of 1989|1989 Tiananmen Square uprising]] suggests, the government may find it wise to install &quot;upstream measures&quot;). Even though limited, the Internet is proving to be an empowering tool also to the Chinese periphery: Analysts believe that Internet petitions have influenced policy implementation in favour of the public’s online-articulated will ...&lt;ref name=simonBerdal2004 /&gt;}}
+
+===Philanthropy===
+The spread of low-cost internet access in developing countries has opened up new possibilities for [[:Category:Peer-to-peer charities|peer-to-peer charities]], which allow individuals to contribute small amounts to charitable projects for other individuals.  Websites such as [[DonorsChoose]] and [[GlobalGiving]] allow small-scale donors to direct funds to individual projects of their choice.
+
+A popular twist on internet-based philanthropy is the use of [[peer-to-peer lending]] for charitable purposes. [[Kiva]] pioneered this concept in 2005, offering the first web-based service to publish individual loan profiles for funding. Kiva raises funds for local intermediary [[microfinance]] organizations which post stories and updates on behalf of the borrowers. Lenders can contribute as little as $25 to loans of their choice, and receive their money back as borrowers repay. Kiva falls short of being a pure peer-to-peer charity, in that loans are disbursed before being funded by lenders and borrowers do not communicate with lenders themselves.&lt;ref&gt;[http://blogs.cgdev.org/open_book/2009/10/kiva-is-not-quite-what-it-seems.php ''Kiva Is Not Quite What It Seems''], by David Roodman, Center for Global Development, 2 October 2009, as accessed  2 &amp; 16 January 2010&lt;/ref&gt;&lt;ref&gt;[http://www.nytimes.com/2009/11/09/business/global/09kiva.html?_r=1&amp;scp=1&amp;sq=Kiva&amp;st=cse ''Confusion on Where Money Lent via Kiva Goes''], by Stephanie Strom, in The New York Times, 8 November 2009, as accessed  2 &amp; 16 January 2010&lt;/ref&gt; 
+
+However, the recent spread of low cost Internet access in [[developing countries]] has made genuine international person-to-person  philanthropy increasingly feasible. In 2009 the US-based nonprofit [[Zidisha]] tapped into this trend to offer the first person-to-person microfinance platform to link lenders and borrowers across international borders without intermediaries. Members can fund loans for as little as a dollar, which the borrowers then use to develop business activities that improve their families' incomes while repaying loans to the members with interest. Borrowers access the internet via public cybercafes, donated laptops in village schools, and even smart phones, then create their own profile pages through which they share photos and information about themselves and their businesses. As they repay their loans, borrowers continue to share updates and dialogue with lenders via their profile pages. This direct web-based connection allows members themselves to take on many of the communication and recording tasks traditionally performed by local organizations, bypassing geographic barriers and dramatically reducing the cost of microfinance services to the entrepreneurs.&lt;ref&gt;[http://www.microfinancefocus.com/news/2010/02/07/zidisha-set-to-expand-in-peer-to-peer-microfinance-julia-kurnia/ &quot;Zidisha Set to &quot;Expand&quot; in Peer-to-Peer Microfinance&quot;, Microfinance Focus, Feb 2010]&lt;/ref&gt;
+
+===Censorship===
+{{Main |Internet censorship |Internet freedom}}
+
+Some governments, such as those of [[Burma]], [[Iran]], [[North Korea]], the [[People's Republic of China]], [[Saudi Arabia]], and the [[United Arab Emirates]] restrict what people in their countries can access on the Internet, especially political and religious content. This is accomplished through software that filters domains and content so that they may not be easily accessed or obtained without elaborate circumvention.&lt;ref&gt;[http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=12187 ''Access Controlled: The Shaping of Power, Rights, and Rule in Cyberspace''], Ronald J. Deibert, John G. Palfrey, Rafal Rohozinski, and Jonathan Zittrain (eds), MIT Press, April 2010, ISBN 0-262-51435-4, ISBN 978-0-262-51435-4&lt;/ref&gt;
+
+In Norway, Denmark, Finland, and Sweden, major Internet service providers have voluntarily, possibly to avoid such an arrangement being turned into law, agreed to restrict access to sites listed by authorities. While this list of forbidden URLs is supposed to contain addresses of only known child pornography sites, the content of the list is secret.&lt;ref name=&quot;The Register&quot;&gt;{{cite web | title=Finland censors anti-censorship site | work=[[The Register]] | url=http://www.theregister.co.uk/2008/02/18/finnish_policy_censor_activist/ | date=18 February 2008 | accessdate=19 February 2008}}&lt;/ref&gt; Many countries, including the United States, have enacted laws against the possession or distribution of certain material, such as [[child pornography]], via the Internet, but do not mandate filtering software. There are many free and commercially available software programs, called [[content-control software]], with which a user can choose to block offensive websites on individual computers or networks, in order to limit a child's access to pornographic materials or depiction of violence.
+
+==See also==
+{{Wikipedia books|Internet}}
+{{portal|Internet}}
+*[[Outline of the Internet]]
+*[[Index of Internet-related articles]]
+{{clear}}
+
+==References==
+{{Reflist |33em}}
+
+==External links==
+{{Sister project links|Internet}}
+
+===Organizations===
+*[http://www.isoc.org/ The Internet Society]
+*[http://cyber.law.harvard.edu/ Berkman Center for Internet and Society]
+*[http://ec.europa.eu/information_society/index_en.htm European Commission Information Society]
+*[http://www.livinginternet.com/  Living Internet], Internet history and related information, including information from many creators of the Internet
+
+===Articles, books, and journals===
+*[http://www.firstmonday.org/ ''First Monday''], a peer-reviewed journal on the Internet established in 1996 as a Great Cities Initiative of the University Library of the [[University of Illinois at Chicago]], ISSN: 1396-0466
+*[http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405196866.html ''Rise of the Network Society''], Manual Castells, Wiley-Blackwell, 1996 (1st ed) and 2009 (2nd ed), ISBN 978-1-4051-9686-4
+*[http://www.nsf.gov/about/history/nsf0050/internet/internet.htm &quot;The Internet: Changing the Way We Communicate&quot;] in [http://www.nsf.gov/about/history/nsf0050/index.jsp ''America's Investment in the Future''], [[National Science Foundation]], Arlington, Va. USA, 2000
+*[http://www.oup.com/us/catalog/general/subject/Sociology/EnvironmentTechnology/?view=usa&amp;ci=9780199255771 “Lessons from the History of the Internet”], Manuel Castells, in ''The Internet Galaxy'', Ch. 1, pp 9–35, Oxford University Press, 2001, ISBN 978-0-19-925577-1 ISBN10: 0-19-925577-6
+*[http://www.osce.org/fom/13836 &quot;Media Freedom Internet Cookbook&quot;] by the [[OSCE Representative on Freedom of the Media]] Vienna, 2004
+*[http://www.southbourne.com/articles/internet-explained ''The Internet Explained''], Vincent Zegna &amp; Mike Pepper, Sonet Digital, November 2005, Pages 1 – 7.
+*[http://discovermagazine.com/2007/jun/how-much-does-the-internet-weigh &quot;How Much Does The Internet Weigh?]&quot;, by Stephen Cass, [[Discover (magazine)|''Discover'']], 2007
+*[http://findarticles.com/p/articles/mi_m1200/is_25_171/ai_n19448170/ &quot;The Internet spreads its tentacles&quot;]{{Dead link|date=October 2012}}, Julie Rehmeyer, ''Science News'', Vol. 171, No. 25, pp.&amp;nbsp;387–388, 23 June 2007
+*[http://www.routledge.com/books/details/9780415352277/ ''Internet''], Lorenzo Cantoni &amp; Stefano Tardini, Routledge, 2006, ISBN 978-0-203-69888-4
+
+{{Media culture}}
+
+{{Use British English|date=August 2010}}
+{{Use dmy dates|date=August 2012}}
+&lt;!-- Please keep this list alphabetically organized. --&gt;
+
+[[Category:American inventions]]
+[[Category:Digital technology]]
+[[Category:Internet| ]]
+[[Category:Media technology]]
+[[Category:New media]]
+[[Category:Scientific revolution]]
+[[Category:Virtual reality]]
+[[Category:1969 introductions]]
+[[Category:Sociocultural globalization]]
+
+[[ace:Internèt]]
+[[af:Internet]]
+[[als:Internet]]
+[[am:ድረ ገጽ መረብ]]
+[[ar:إنترنت]]
+[[an:Internet]]
+[[arc:ܐܢܛܪܢܛ]]
+[[as:ইণ্টাৰনেট]]
+[[ast:Rede Internet]]
+[[az:İnternet]]
+[[bm:Ɛntɛrinɛti]]
+[[bn:ইন্টারনেট]]
+[[zh-min-nan:Internet]]
+[[map-bms:Internet]]
+[[ba:Интернет]]
+[[be:Інтэрнэт]]
+[[be-x-old:Інтэрнэт]]
+[[bh:इंटरनेट]]
+[[bg:Интернет]]
+[[bar:Internetz]]
+[[bs:Internet]]
+[[br:Internet]]
+[[ca:Internet]]
+[[cv:Тетел]]
+[[ceb:Internet]]
+[[cs:Internet]]
+[[cy:Rhyngrwyd]]
+[[da:Internet]]
+[[de:Internet]]
+[[et:Internet]]
+[[el:Διαδίκτυο]]
+[[eml:La Raid däl Raid]]
+[[es:Internet]]
+[[eo:Interreto]]
+[[ext:Internet]]
+[[eu:Internet]]
+[[fa:اینترنت]]
+[[fo:Alnet]]
+[[fr:Internet]]
+[[fy:Ynternet]]
+[[fur:Internet]]
+[[ga:Idirlíon]]
+[[gv:Eddyr-voggyl]]
+[[gd:Eadar-lìon]]
+[[gl:Internet]]
+[[gan:互聯網]]
+[[gu:ઇન્ટરનેટ]]
+[[xal:Интернет]]
+[[ko:인터넷]]
+[[ha:Yanar gizo]]
+[[hy:Համացանց]]
+[[hi:अंतरजाल]]
+[[hsb:Internet]]
+[[hr:Internet]]
+[[io:Interreto]]
+[[ig:Intanet]]
+[[ilo:Internet]]
+[[id:Internet]]
+[[ia:Internet]]
+[[iu:ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ]]
+[[os:Интернет]]
+[[is:Internetið]]
+[[it:Internet]]
+[[he:אינטרנט]]
+[[jv:Internèt]]
+[[kn:ಅಂತರ್ಜಾಲ]]
+[[pam:Aptas]]
+[[ka:ინტერნეტი]]
+[[csb:Internet]]
+[[kk:Интернет]]
+[[sw:Intaneti]]
+[[ht:Entènet]]
+[[ku:Înternet]]
+[[ky:Интернет]]
+[[lo:ອິນເຕີເນັດ]]
+[[ltg:Škārsteiklys]]
+[[la:Interrete]]
+[[lv:Internets]]
+[[lb:Internet]]
+[[lt:Internetas]]
+[[lij:Internet]]
+[[li:Internet]]
+[[ln:Ɛntɛrnɛ́tɛ]]
+[[lez:Интернет]]
+[[lmo:Internet]]
+[[hu:Internet]]
+[[mk:Интернет]]
+[[mg:Internet]]
+[[ml:ഇന്റർനെറ്റ്]]
+[[mr:महाजाल]]
+[[arz:انترنت]]
+[[mzn:اینترنت]]
+[[ms:Internet]]
+[[mwl:Anternete]]
+[[mn:Интернэт]]
+[[my:အင်တာနက်]]
+[[nah:Mātlatzālantli]]
+[[nl:Internet]]
+[[nds-nl:Internet]]
+[[ne:इण्टरनेट]]
+[[new:इन्टरनेट]]
+[[ja:インターネット]]
+[[ce:H̗ottinamaşa]]
+[[no:Internett]]
+[[nn:Internett]]
+[[nrm:Enternette]]
+[[oc:Internet]]
+[[mhr:Интернет]]
+[[or:ଇଣ୍ଟରନେଟ]]
+[[uz:Internet]]
+[[pag:Internet]]
+[[pnb:انٹرنیٹ]]
+[[pap:Internet]]
+[[ps:انټرنټ]]
+[[km:អ៊ីនធឺណេត]]
+[[tpi:Intanet]]
+[[nds:Internet]]
+[[pl:Internet]]
+[[pt:Internet]]
+[[kaa:İnternet]]
+[[ksh:Engornät]]
+[[ro:Internet]]
+[[rm:Internet]]
+[[qu:Internet]]
+[[rue:Інтернет]]
+[[ru:Интернет]]
+[[sah:Интэриниэт]]
+[[sa:अन्तरजालम्]]
+[[sg:Gbândasango]]
+[[stq:Internet]]
+[[sq:Interneti]]
+[[scn:Internet]]
+[[si:අන්තර්ජාලය]]
+[[simple:Internet]]
+[[sk:Internet]]
+[[sl:Internet]]
+[[cu:Мєждоусѣтиѥ]]
+[[szl:Internec]]
+[[so:Internet]]
+[[ckb:ئینتەرنێت]]
+[[sr:Интернет]]
+[[sh:Internet]]
+[[su:Internét]]
+[[fi:Internet]]
+[[sv:Internet]]
+[[tl:Internet]]
+[[ta:இணையம்]]
+[[kab:Internet]]
+[[tt:Päräwez]]
+[[te:ఇంటర్నెట్]]
+[[th:อินเทอร์เน็ต]]
+[[tg:Интернет]]
+[[tr:İnternet]]
+[[uk:Інтернет]]
+[[ur:جالبین]]
+[[ug:خەلقارالىق تور]]
+[[vec:Internet]]
+[[vi:Internet]]
+[[vo:Vüresod]]
+[[fiu-vro:Internet]]
+[[wa:Etrernete]]
+[[vls:Internet]]
+[[war:Internet]]
+[[wo:Internet]]
+[[yi:אינטערנעץ]]
+[[yo:Internet]]
+[[zh-yue:互聯網]]
+[[diq:İnternet]]
+[[bat-smg:Internets]]
+[[zh:互联网]]</text>
+      <sha1>rjg4xeikv737zxnsyg4t54apbbg7g80</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

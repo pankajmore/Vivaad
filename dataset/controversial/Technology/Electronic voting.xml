@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Electronic voting</title>
+    <ns>0</ns>
+    <id>371301</id>
+    <revision>
+      <id>517408077</id>
+      <parentid>515858987</parentid>
+      <timestamp>2012-10-12T14:43:29Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>/* Cryptographic verification */[[WP:CHECKWIKI]] error 61 fix, References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8459)</comment>
+      <text xml:space="preserve" bytes="59233">{{Electiontech}}
+'''Electronic voting''' (also known as '''e-voting''') is a term encompassing several different types of [[voting]], embracing both electronic means of casting a vote and electronic means of counting votes. 
+
+Electronic voting technology can include [[punched card]]s, [[optical scan voting system]]s and specialized voting kiosks (including self-contained [[#Direct-recording electronic (DRE) voting system|direct-recording electronic voting systems]], or DRE). It can also involve transmission of [[ballot]]s and votes via telephones, private [[computer network]]s, or the [[Internet]].
+
+In general, two main types of e-Voting can be identified:&lt;ref&gt;{{cite journal|last=Buchsbaum|first=T.|title=E-voting: International developments and lessons learnt|journal=Proceedings of Electronic Voting in Europe Technology, Law, Politics and Society. Lecture Notes in Informatics. Workshop of the ESF TED Programme together with GI and OCG |year=2004}}&lt;/ref&gt;&lt;ref name=Zissis&amp;Lekkas&gt;{{cite journal|last=Zissis|first=D.|coauthors=Lekkas|title=Securing e-Government and e-Voting with an open cloud computing architecture|journal=Government Information Quarterly|year=2011|month=April|volume=28|issue=2|pages=239–251|doi=10.1016/j.giq.2010.05.010}}&lt;/ref&gt;
+* e-voting which is physically supervised by representatives of governmental or independent electoral authorities (e.g. electronic voting machines located at polling stations);
+* remote e-Voting where voting is performed within the voter's sole influence, and is not physically supervised by representatives of governmental authorities (e.g. voting from one's personal computer, mobile phone, television via the internet (also called i-voting)).
+
+Electronic voting technology can speed the counting of ballots and can provide improved [[accessibility]] for disabled voters. However, there has been contention, especially in the [[United States]], that electronic voting, especially DRE voting, could facilitate [[electoral fraud]].
+
+==Overview==
+Electronic voting systems for electorates have been in use since the 1960s&lt;ref&gt;Bellis, Mary. [http://inventors.about.com/library/weekly/aa111300b.htm The History of Voting Machines]. ''About.com''.&lt;/ref&gt; when [[#Punch card voting|punched card]] systems debuted. Their first widespread use was in the USA where 7 counties switched to this method for the 1964 presidential election.&lt;ref&gt;Saltman, Roy.[http://csrc.nist.gov/publications/nistpubs/NBS_SP_500-30.pdf EFFECTIVE USE OF COMPUTING TECHNOLOGY IN VOTE-TALLYING]. ''NIST''.&lt;/ref&gt; The newer [[optical scan voting system]]s allow a computer to count a voter's mark on a ballot. [[DRE voting machine]]s which collect and tabulate votes in a single machine, are used by all voters in all elections in [[Brazil]] and [[India]], and also on a large scale in [[Venezuela]] and the [[United States]]. They have been used on a large scale in the [[Netherlands]] but have been decommissioned after public concerns. Internet voting systems have gained popularity and have been used for government elections and referendums in the [[United Kingdom]], [[Estonia]] and [[Switzerland]] as well as municipal elections in [[Canada]] and party primary elections in the United States and [[France]].&lt;ref&gt;[http://www.vote.caltech.edu/events/2007/VendorWkshp/Backert-Handout.pdf REMOTE VOTING TECHNOLOGY], Chris Backert [http://www.egovconsult.com/ e-Government Consulting]&lt;/ref&gt;
+
+There are also hybrid systems that include an electronic ballot marking device (usually a touch screen system similar to a DRE) or other [[assistive technology]] to print a [[voter verified paper audit trail]], then use a separate machine for electronic tabulation.
+
+===Paper-based electronic voting system===
+Sometimes called a &quot;[[Voting machine#Document ballot voting system|document ballot voting system]]&quot;, paper-based voting systems originated as a system where votes are cast and [[Vote counting system#Manual counting|counted by hand]], using paper ballots. With the advent of [[Vote counting system#Electromechanical and Optical scan counting|electronic tabulation]] came systems where paper cards or sheets could be marked by hand, but counted electronically. These systems included [[Voting machine#Punch card|punched card voting]], [[optical scan voting system#Marksense systems|marksense]] and later [[optical scan voting system#Digital pen voting systems|digital pen voting systems]].
+
+Most recently, these systems can include an Electronic Ballot Marker (EBM), that allow voters to make their selections using an [[Voting machine#With electronic input device|electronic input device]], usually a [[touch screen]] system similar to a DRE. Systems including a ballot marking device can incorporate different forms of [[assistive technology]].
+
+===Direct-recording electronic (DRE) voting system===
+{{further2|[[DRE voting machine]]}}
+[[Image:Urna eletrônica.jpeg|thumb|left|150px|Electronic voting machine by [[Premier Election Solutions]] (formerly Diebold Election Systems) used in all [[Brazil]]ian elections and plebiscites. Photo by Agência Brasil]]
+
+A direct-recording electronic (DRE) [[voting machine]] records votes by means of a [[ballot]] display provided with mechanical or electro-optical components that can be activated by the voter (typically buttons or a [[touchscreen]]); that processes data with computer software; and that records voting data and ballot images in [[computer memory|memory components]]. After the election it produces a tabulation of the voting data stored in a removable memory component and as printed copy. The system may also provide a means for transmitting individual ballots or vote totals to a central location for consolidating and reporting results from precincts at the central location. These systems use a precinct count method that tabulates ballots at the polling place. They typically tabulate ballots as they are cast and print the results after the close of polling.&lt;ref&gt;U.S. [[Election Assistance Commission]]: [http://www.eac.gov/voting%20systems/docs/vvsgvolumei.pdf/attachment_download/file 2005 Voluntary Voting System Guidelines]&lt;/ref&gt;
+
+In 1996, after tests conducted on more than 50 municipalities, the Brazilian Electoral Justice has launched their &quot;voting machine&quot;. Since 2000, all Brazilian voters are able to use the electronic ballot boxes to choose their candidates. In 2010 presidential election, which had more than 135 million voters, the result was defined 75 minutes after the end of voting. The electronic ballot box is made up of two micro-terminals (one located in the voting cabin and the other with the voting board representative) which are connected by a 5-meter cable. Externally, the micro-terminals have only a numerical keyboard, which does not accept any command executed by the simultaneous pressure of more than one key. In case of power failure, the internal battery provides the energy or it can be connected to an automotive battery. The Brazilian electronic ballot box serves today as a model for other countries.&lt;ref&gt;Brazilian Superior Electoral Court: [http://www.tse.gov.br/internet/ingles/voto_eletronico/voto_eletronico.htm Electronic voting]&lt;/ref&gt;
+
+In 2002, in the United States, the [[Help America Vote Act]] mandated that one handicapped accessible voting system be provided per polling place, which most jurisdictions have chosen to satisfy with the use of DRE voting machines, some switching entirely over to DRE. In 2004, 28.9% of the registered voters in the United States used some type of direct recording electronic voting system {{http://www.kidsvotingoh.org/insidefiles/activities/Voting%20Systems%20Handout-3copy.pdf}}, up from 7.7% in 1996.&lt;ref&gt;U.S. [[Federal Election Commission]]: [http://www.fec.gov/pages/dre.htm Direct Recording Electronic] - information page&lt;/ref&gt;
+
+In 2004, [[India]] had adopted Electronic Voting Machines (EVM) for its elections to the Parliament with 380 million voters had cast their ballots using more than a million voting machines.{{Citation needed|date=April 2009}} The Indian EVMs are designed and developed by two Government Owned Defense Equipment Manufacturing Units, [[Bharat Electronics Limited]] (BEL) and [[Electronics Corporation of India|Electronics Corporation of India Limited]] (ECIL). Both systems are identical, and are developed to the specifications of Election Commission of India. The System is a set of two devices running on 6V batteries. One device, the Voting Unit is used by the Voter, and another device called the Control Unit is operated by the Electoral Officer. Both units are connected by a 5 meter cable. The Voting unit has a Blue Button for every candidate, the unit can hold 16 candidates, but up to 4 units can be chained, to accommodate 64 candidates. The Control Units has Three buttons on the surface, namely, one button to release a single vote, one button to see the total number of vote cast till now, and one button to close the election process. The result button is hidden and sealed, It cannot be pressed unless the Close button is already pressed.
+
+===Public network DRE voting system===
+A public network DRE voting system is an election system that uses electronic ballots and transmits vote data from the polling place to another location over a public network. Vote data may be transmitted as individual ballots as they are cast, periodically as batches of ballots throughout the election day, or as one batch at the close of voting. This includes Internet voting as well as telephone voting.
+
+Public network DRE voting system can utilize either precinct count or central count method. The central count method tabulates ballots from multiple precincts at a central location.
+
+Internet voting can use remote locations (voting from any Internet capable computer) or can use traditional polling locations with voting booths consisting of Internet connected voting systems.
+
+Corporations and organizations routinely use Internet voting to elect officers and Board members and for other proxy elections. Internet voting systems have been used privately in many modern nations and publicly in the [[United States]], the [[United Kingdom|UK]], [[Switzerland]] and [[Estonia]]. In [[Switzerland]], where it is already an established part of local referendums, voters get their passwords to access the ballot through the postal service. Most voters in [[Estonia]] can cast their vote in local and parliamentary elections, if they want to, via the Internet, as most of those on the electoral roll have access to an e-voting system, the largest run by any [[European Union]] country. It has been made possible because most Estonians carry a national identity card equipped with a computer-readable microchip and it is these cards which they use to get access to the online ballot. All a voter needs is a computer, an electronic card reader, their ID card and its PIN, and they can vote from anywhere in the world. Estonian e-votes can only be cast during the days of [[Advance poll|advance voting]]. On election day itself people have to go to polling stations and fill in a paper ballot.
+
+==Analysis of electronic voting==
+[[Image:topvoter2.jpg|thumb|ISG TopVoter, a machine designed specifically to be used by voters with disabilities.]]
+Electronic voting systems may offer advantages compared to other voting techniques. An electronic voting system can be involved in any one of a number of steps in the setup, distributing, voting, collecting, and counting of ballots, and thus may or may not introduce advantages into any of these steps. Potential disadvantages exist as well including the potential for flaws or weakness in any electronic component.
+
+Charles Stewart of the [[Massachusetts Institute of Technology]] estimates that 1 million more ballots were counted in the 2004 USA presidential election than in 2000 because electronic voting machines detected votes that paper-based machines would have missed.&lt;ref&gt;Friel, Brian (November 2006)[http://nationaljournal.com/njcover.htm Let The Recounts Begin], [[National Journal]]&lt;/ref&gt;
+
+In May 2004 the U.S. [[Government Accountability Office]] released a report titled &quot;Electronic Voting Offers Opportunities and Presents Challenges&quot;,&lt;ref&gt;Government Accountability Office (May 2004) &quot;[http://www.gao.gov/new.items/d04766t.pdf Electronic Voting Offers Opportunities and Presents Challenges]&quot;&lt;/ref&gt; analyzing both the benefits and concerns created by electronic voting. A second report was released in September 2005 detailing some of the concerns with electronic voting, and ongoing improvements, titled &quot;Federal Efforts to Improve Security and Reliability of Electronic Voting Systems Are Under Way, but Key Activities Need to Be Completed&quot;.&lt;ref&gt;Government Accountability Office (September 2005) &quot;[http://www.gao.gov/new.items/d05956.pdf Federal Efforts to Improve Security and Reliability of Electronic Voting Systems Are Under Way, but Key Activities Need to Be Completed]&quot;&lt;/ref&gt;
+
+It has been demonstrated that as voting systems become more complex and include software, [[Election fraud#Physical tampering with voting machines|different methods of election fraud]] become possible. Others also challenge the use of electronic voting from a theoretical point of view, arguing that humans are not equipped for verifying operations occurring within an electronic machine and that because people cannot verify these operations, the operations cannot be trusted. Furthermore, some computing experts have argued for the broader notion that people cannot trust any programming they did not author.&lt;ref&gt;Thompson, Ken (August 1984) [http://www.acm.org/classics/sep95/ Reflections on Trusting Trust]&lt;/ref&gt;
+
+Critics of electronic voting, including security analyst [[Bruce Schneier]], note that &quot;computer security experts are unanimous on what to do (some voting experts disagree, but it is the computer security experts who need to be listened to; the problems here are with the computer, not with the fact that the computer is being used in a voting application)...DRE machines must have a voter-verifiable paper audit trails... Software used on DRE machines must be open to public scrutiny&quot;&lt;ref&gt;Schneier, Bruce (September 2004), [http://www.opendemocracy.net/ openDemocracy] [http://www.opendemocracy.net/media-voting/article_2213.jsp What’s wrong with electronic voting machines?]&lt;/ref&gt; to ensure the accuracy of the voting system.  Verifiable ballots are necessary because computers can and do malfunction, and because voting machines can be compromised.
+
+===Electronic ballots===
+Electronic voting systems may use ''electronic ballots'' to store votes in [[computer memory]]. Systems which use them exclusively are called DRE voting systems. When electronic ballots are used there is no risk of exhausting the supply of ballots.  Additionally, these electronic ballots remove the need for printing of paper ballots, a significant cost.&lt;ref&gt;&quot;http://post-journal.com/articles.asp?articleID=6218&quot;. ''The Post-Journal'' {{Dead link|date=December 2008}}&lt;/ref&gt; When administering elections in which ballots are offered in multiple languages (in some areas of the United States, public elections are required by the [[Voting Rights Act|National Voting Rights Act of 1965]]), electronic ballots can be programmed to provide ballots in multiple languages for a single machine.  The advantage with respect to ballots in different languages appears to be unique to electronic voting. For example, [[King County, Washington]]'s demographics require them under U.S. federal election law to provide ballot access in [[Chinese language|Chinese]]. With any type of paper ballot, the county has to decide how many Chinese-language ballots to print, how many to make available at each polling place, etc.  Any strategy that can assure that Chinese-language ballots will be available at all polling places is certain, at the very least, to result in a significant number of wasted ballots.{{Citation needed|date=August 2009}} (The situation with lever machines would be even worse than with paper: the only apparent way to reliably meet the need would be to set up a Chinese-language lever machine at each polling place, few of which would be used at all.)
+
+Critics argue the need for extra ballots in any language can be mitigated by providing a process to print ballots at voting locations.  They argue further, the cost of software validation, compiler trust validation, installation validation, delivery validation and validation of other steps related to electronic voting is complex and expensive, thus electronic ballots are not guaranteed to be less costly than printed ballots.
+
+===Accessibility===
+[[Image:Jellybuttons.jpg|thumb|A Hart eSlate DRE voting machine with jelly buttons for people with manual dexterity disabilities.]] Electronic voting machines can be made fully accessible for persons with disabilities. Punched card and optical scan machines are not fully accessible for the blind or visually impaired, and lever machines can be difficult for voters with limited mobility and strength.&lt;ref&gt;&quot;[http://www.pfaw.org/pfaw/general/default.aspx?oid=14581 Protecting the Integrity and Accessibility of Voting in 2004 and Beyond]&quot;. ''[[People for the American Way]]''&lt;/ref&gt; Electronic machines can use headphones, [[Sip-and-puff|sip and puff]], foot pedals, joy sticks and other [[adaptive technology]] to provide the necessary [[accessibility]].
+
+Organizations such as the [[Verified Voting Foundation]] have criticized the accessibility of electronic voting machines&lt;ref&gt;[http://verifiedvotingfoundation.org/article.php?id=1875 &quot;Disability Access to Voting Systems&quot;] ''[[Verified Voting Foundation]]''&lt;/ref&gt; and advocate alternatives. Some disabled voters (including the visually impaired) could use a [[tactile ballot]], a ballot system using physical markers to indicate where a mark should be made, to vote a secret paper ballot. These ballots can be designed identically to those used by other voters.&lt;ref&gt;[http://www.electionaccess.org/Bp/Ballot_Templates.htm &quot;Ballot Templates.&quot;] (tactile ballots) ''[[International Foundation for Election Systems]]''&lt;/ref&gt; However, other disabled voters (including voters with dexterity disabilities) could be unable to use these ballots.
+
+===Cryptographic verification===
+The concept of election verifiability through cryptographic solutions has emerged in the academic literature to introduce transparency and trust in electronic voting systems.&lt;ref&gt;{{cite journal|last=Juels|first=Ari|coauthors=Dario Catalano and Markus Jakobsson|title=Coercion-Resistant Electronic Elections|journal=Cryptology ePrint Archive|year=2002|month=November|issue=165|url=http://eprint.iacr.org/2002/165|accessdate=2 May 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last=Chaum|first=David|coauthors=Peter Y. A. Ryan and Steve Schneider|title=A Practical Voter-Verifable Election Scheme|journal=ESORICS'05: 10th European Symposium On Research In Computer Security|year=2005|volume=3679|series=LNCS|pages=118–139}}&lt;/ref&gt; It allows voters and election observers to verify that votes have been recorded, tallied and declared correctly, in a manner independent from the hardware and software running the election. Three aspects of verifiability are considered&lt;ref&gt;{{cite journal|last=Kremer|first=Steve|coauthors=Mark Ryan and Ben Smyth|title=Election verifiability in electronic voting protocols|journal=ESORICS'10: 15th European Symposium on Research in Computer Security|year=2010|volume=6345|pages=389–404}}&lt;/ref&gt; : individual, universal, and eligibility. Individual verifiability allows a voter can check that her own vote is included in the election outcome, universal verifiability allows voters or election observers to check that the election outcome corresponds to the votes cast, and eligibility verifiability allows voters and observers to check that each vote in the election outcome was cast by a uniquely registered voter.
+
+===Voter intent===
+Electronic voting machines are able to provide immediate feedback to the voter detecting such possible problems as [[undervote|undervoting]] and [[overvote|overvoting]] which may result in a [[spoiled ballot]]. This immediate feedback can be helpful in successfully determining [[voter intent]].
+
+===Transparency===
+It has been alleged by groups such as the UK-based [[Open Rights Group]]&lt;ref&gt;{{cite web|url=http://www.openrightsgroup.org/2007/06/20/org-election-report-highlights-problems-with-voting-technology-used/ |title=ORG Election Report highlights problems with voting technology used |publisher=Openrightsgroup.org |date= |accessdate=2010-05-24}}&lt;/ref&gt;&lt;ref&gt;http://www.openrightsgroup.org/2008/07/02/org-verdict-on-london-elections-insufficient-evidence-to-declare-confidence-in-results/&lt;/ref&gt; that a lack of testing, inadequate audit procedures, and insufficient attention given to system or process design with electronic voting leaves &quot;elections open to error and [[electoral fraud|fraud]]&quot;. 
+
+In 2009, the [[Federal Constitutional Court of Germany]] found that when using voting machines the &quot;verification of the result must be possible by the citizen reliably and without any specialist knowledge of the subject.&quot; The [[DRE voting machine|DRE]] Nedap-computers used till then did not fulfill that requirement. The decision did not ban electronic voting as such, but requires all essential steps in elections to be subject to public examinability.&lt;ref&gt;{{cite web|url=http://www.bundesverfassungsgericht.de/entscheidungen/rs20090303_2bvc000307en.html |title=Ruling of the Second Senate of the Federal Constitutional Court of Germany, 3 March 2009 |publisher=Bundesverfassungsgericht.de |date= |accessdate=2010-05-24}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bundesverfassungsgericht.de/pressemitteilungen/bvg09-019en.html |title=German Federal Constitutional Court, Press release no. 19/2009 of 3 March 2009 |publisher=Bundesverfassungsgericht.de |date= |accessdate=2010-05-24}}&lt;/ref&gt;
+
+===Audit trails and auditing===
+{{further2 | [[Voter Verified Paper Audit Trail]] and [[End-to-end auditable voting systems]]}}
+
+A fundamental challenge with any [[voting machine]] is assuring the votes were recorded as cast and tabulated as recorded. [[Voting machine#Non-document ballot voting system|Non-document ballot voting system]]s can have a greater burden of proof. This is often solved with an independently auditable system, sometimes called an Independent Verification, that can also be used in recounts or audits. These systems can include the ability for voters to verify how their votes were cast or further to verify how their votes were tabulated.
+
+A discussion draft argued by researchers at the [[National Institute of Standards and Technology]] (NIST) states, &quot;Simply put, the DRE architecture’s inability to provide for independent audits of its electronic records makes it a poor choice for an environment in which detecting errors and fraud is important.&quot;&lt;ref&gt;{{cite web|url=http://vote.nist.gov/DraftWhitePaperOnSIinVVSG2007-20061120.pdf |title=Draft white paper on VVPR |format=PDF |date= |accessdate=2010-05-24}}&lt;/ref&gt; The report does not represent the official position of NIST, and misinterpretations of the report has led NIST to explain that &quot;Some statements in the report have been misinterpreted. The draft report includes statements from election officials, voting system vendors, computer scientists and other experts in the field about what is potentially possible in terms of attacks on DREs. However, these statements are not report conclusions.&quot;&lt;ref&gt;[http://www.nist.gov/public_affairs/factsheet/draftvotingreport.htm Questions and Answers on the Draft Report: &quot;Requiring Software Independence in VVSG 2007: STS Recommendations for the TGDC&quot;]{{Dead link|date=May 2010}}&lt;/ref&gt;
+
+[[Image:Desi accuvote-tsx vvpat.jpg|thumb|A Diebold Election Systems, Inc. model AccuVote-TSx DRE voting machine with VVPAT attachment.]] 
+
+Various technologies can be used to assure voters that their vote was cast correctly, detect possible fraud or malfunction, and to provide a means to audit the original machine. Some systems include technologies such as cryptography (visual or mathematical), paper (kept by the voter or only verified), audio verification, and dual recording or witness systems (other than with paper).
+
+Dr. [[Rebecca Mercuri]], the creator of the [[Voter Verified Paper Audit Trail]] (VVPAT) concept (as described in her Ph.D. dissertation in October 2000 on the basic voter verifiable ballot system), proposes to answer the auditability question by having the voting machine print a paper ballot or other paper facsimile that can be visually verified by the voter before being entered into a secure location. Subsequently, this is sometimes referred to as the &quot;[[Mercuri method]].&quot; To be truly ''voter''-verified, the record itself must be verified by the voter and able to be done without assistance, such as visually or audibly.  If the voter must use a bar-code scanner or other electronic device to verify, then the record is not truly voter-verifiable, since it is actually the electronic device that is verifying the record for the voter. VVPAT is the form of Independent Verification most commonly found in [[elections in the United States]].
+
+[[End-to-end auditable voting systems]] can provide the voter with a receipt that can be taken home. This receipt does not allow voters to prove to others how they voted, but it does allow them to verify that their vote is included in the tally, all votes were cast by valid voters, and the results are tabulated correctly. End-to-end (E2E) systems include [[Punchscan]], [[ThreeBallot]] and [[Prêt à Voter]]. [[Scantegrity]] is an add-on that extends current optical scan voting systems with an E2E layer. The city of [[Takoma Park, Maryland]] used [[Scantegrity II]] for its November, 2009 election.&lt;ref&gt;{{Cite web
+| title =Pilot Study of the Scantegrity II Voting System Planned for the 2009 Takoma Park City Election
+| url =http://www.takomaparkmd.gov/committees/boe/documents/flyer_workshop_I_(02-19-09).pdf
+| postscript =&lt;!--None--&gt;
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+| last = Hardesty
+| first = Larry
+| title = Cryptographic voting debuts
+| work = MIT news
+| accessdate = 2009-11-30
+| url = http://web.mit.edu/newsoffice/2009/rivest-voting.html
+}}&lt;/ref&gt;
+
+Systems that allow the voter to prove how they voted are never used in U.S. public elections, and are outlawed by most state constitutions. The primary concerns with this solution are [[voter intimidation]] and [[vote selling]].
+
+An audit system can be used in measured random recounts to detect possible malfunction or fraud. With the VVPAT method, the paper ballot is often treated as the official ballot of record. In this scenario, the ballot is primary and the electronic records are used only for an initial count. In any subsequent recounts or challenges, the paper, not the electronic ballot, would be used for tabulation. Whenever a paper record serves as the legal ballot, that system will be subject to the same benefits and concerns as any paper ballot system. 
+
+To successfully audit any voting machine, a strict [[chain of custody]] is required.
+
+The solution was first demonstrated (New York City, March 2001) and used (Sacramento, California 2002) by AVANTE International Technology, Inc.. In 2004 Nevada was the first state to successfully implement a DRE voting system that printed an electronic record. The $9.3 million voting system provided by [[Sequoia Voting Systems]] included more than 2,600 [[AVC EDGE]] touchscreen DREs equipped with the [[VeriVote VVPAT]] component.
+&lt;ref&gt;[http://www.msnbc.msn.com/id/5937115/ ‘Paper trail’ voting system used in Nevada], [[Associated Press]] Sept. 7, 2004&lt;/ref&gt; The new systems, implemented under the direction of then Secretary of State [[Dean Heller]] replaced largely punched card voting systems and were chosen after feedback was solicited from the community through town hall meetings and input solicited from the [[Nevada Gaming Control Board]].&lt;ref&gt;[http://www.cnn.com/2004/TECH/10/28/nevada.evote/index.html Nevada improves odds with e-vote], [[CNN]] October 29, 2004&lt;/ref&gt;
+
+===Hardware===
+Inadequately secured hardware can be subject to a [[Election fraud#Physical tampering with voting machines|physical tampering]]. Some critics, such as the group &quot;Wij vertrouwen stemcomputers niet&quot; (&quot;We do not trust voting machines&quot;), charge that, for instance, foreign hardware could be inserted into the machine, or between the user and the central mechanism of the machine itself, using a [[man in the middle attack]] technique, and thus even sealing DRE machines may not be sufficient protection.&lt;ref&gt;{{cite web|url=http://www.wijvertrouwenstemcomputersniet.nl/images/9/91/Es3b-en.pdf |title=Nedap/Groenendaal ES3B voting computer a security analysis (chapter 7.1) |format=PDF |date= |accessdate=2010-05-24}}&lt;/ref&gt; This claim is countered by the position that review and testing procedures can detect fraudulent code or hardware, if such things are present, and that a thorough, verifiable [[chain of custody]] would prevent the insertion of such hardware or software.{{Citation needed|date=August 2010}}  [[Security seal]]s are commonly employed in an attempt to detect tampering, but testing by [[Argonne National Laboratory]] and others demonstrates that existing seals can usually be quickly defeated by a trained person using low-tech methods.&lt;ref&gt;{{cite web |title=Defeating Existing Tamper-Indicating Seals|publisher=[[Argonne National Laboratory]]|url=http://www.ne.anl.gov/capabilities/vat/defeat.html}}&lt;/ref&gt;
+
+===Software===
+Security experts, such as [[Bruce Schneier]], have demanded that voting machine [[source code]] should be publicly available for inspection.&lt;ref&gt;{{cite web|url=http://www.schneier.com/blog/archives/2004/11/the_problem_wit.html |title=The Problem with Electronic Voting Machines |publisher=Schneier.com |date= |accessdate=2010-05-24}}&lt;/ref&gt; Others have also suggested publishing voting machine software under a [[free software license]] as is done in [[Australia]].&lt;ref&gt;{{cite web|url=http://www.elections.act.gov.au/elections/electronicvoting.html |title=The electronic voting and counting system |publisher=Elections.act.gov.au |date= |accessdate=2010-05-24}}&lt;/ref&gt;
+
+===Testing and certification===
+{{See also|Certification of voting machines}}
+
+One method to any error with voting machines is [[parallel testing]], which are conducted on the Election Day with randomly picked machines. The [[Association for Computing Machinery|ACM]] published a study showing that, to change the outcome of the 2000 U.S. Presidential election, only 2 votes in each precinct would have needed to been changed.&lt;ref&gt;Di Franco, A., Petro, A., Shear, E., and Vladimirov, V. 2004. Small vote manipulations can swing elections. Commun. ACM 47, 10 (Oct. 2004), 43-45. DOI= http://doi.acm.org/10.1145/1022594.1022621&lt;/ref&gt;
+
+===Other===
+Criticisms can be mitigated by review and testing procedures to detect fraudulent code or hardware, if such things are present, and thorough a verifiable [[chain of custody]] to prevent the insertion of such hardware or software.
+
+Benefits can include reduced tabulation times and an increase of participation ([[voter turnout]]), particularly through the use of Internet voting.
+
+Those in opposition suggest alternate [[vote counting system]]s, citing [[Voting in Switzerland|Switzerland]] (as well as many other countries), which uses paper ballots exclusively, suggesting that electronic voting is not the only means to get a rapid count of votes. A country of a little over 7 million people, Switzerland publishes a definitive ballot count in about six hours. In villages, the ballots are even counted manually.
+
+Critics also note that it becomes difficult or impossible to verify the identity of a voter remotely, and that the introduction of public networks become more vulnerable and complex.
+
+It is not yet clear whether the [[total cost of ownership]] with electronic voting is lower than other systems.
+
+==Astronauts in orbit==
+Texas law has allowed American astronauts who cannot vote in person and are unable to vote via absentee ballot, such as those aboard the [[International Space Station]] and [[Mir]] space station, to cast their ballots in [[Election Day|federal elections]] electronically from orbit since 1997. Ballots are sent via secure email to the [[Johnson Spaceflight Center]] and then passed on the astronauts' home counties in Texas.&lt;ref&gt;{{cite news|title=Astronauts beam votes home|url=http://politicalticker.blogs.cnn.com/2010/11/02/astronauts-beam-votes-home/|newspaper=CNN|date=2 November 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=James |first=Kate|title=Astronauts Cast Vote From Space Thanks to 1997 Texas Law|url=http://news.gather.com/viewArticle.action?articleId=281474978657286|accessdate=2 November 2010|newspaper=Gather.com|date=2 November 2010}}&lt;/ref&gt;
+
+==Electronic voting examples==
+{{further2|[[Electronic voting examples]]}}
+Polling place electronic voting or Internet voting examples have taken place in Australia,&lt;ref&gt;Ron McCallum, 'Participating in Political and Public life' (2011) 32 AltLJ 80. [http://www.altlj.org/news-and-views/opinion/92-participating-in-political-and-public-life]&lt;/ref&gt; Belgium, Brazil, Canada, Estonia, the European Union, France, Germany, India, Ireland,{{Citation needed|date=January 2012}} Italy, the Netherlands, Norway, Peru, Romania, Switzerland, the United Kingdom, Venezuela, and the Philippines.
+
+==Documented problems==
+&lt;!-- This section is linked from [[United States presidential election, 2000]] --&gt;
+*A number of problems with voting systems in Florida since the [[United States presidential election, 2000|2000 Presidential election]].&lt;ref&gt;{{cite web|author=Dr. R. Mercuri |url=http://www.notablesoftware.com/Papers/BtF.html |title=Florida Primary 2002: Back to the Future |publisher=Notablesoftware.com |date=2002-09-11 |accessdate=2010-05-24}}&lt;/ref&gt;
+
+*Fairfax County, Virginia, November 4, 2003.  Some voters complained that they would cast their vote for a particular candidate and the indicator of that vote would go off shortly after.&lt;ref&gt;{{cite news|url=http://www.washingtonpost.com/wp-dyn/articles/A54432-2003Nov17.html |title=Fairfax To Probe Voting Machines (Washington Post, November 18, 2003) |publisher=Washingtonpost.com |date= November 18, 2003|accessdate=2010-05-24 | first1=David | last1=Cho | first2=Lisa | last2=Rein}}&lt;/ref&gt;
+
+*The [[Premier Election Solutions]] (formerly Diebold Election Systems) TSx voting system disenfranchised many voters in Alameda and San Diego Counties during the March 2, 2004 California presidential primary due to non-functional voter card encoders.&lt;ref&gt;Greg Lucas, ''&quot;State bans electronic balloting in 4 counties; Touch-screen firm accused of 'reprehensible,' illegal conduct&quot;'', San Francisco Chronicle (May 1, 2004) http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2004/05/01/MNG036EAF91.DTL&lt;/ref&gt; On April 30 California's secretary of state Kevin Shelley decertified all touch-screen machines and recommended criminal prosecution of Diebold Election Systems.&lt;ref&gt;Hardy, Michael (Mar. 3, 2004). [http://www.fcw.com/fcw/articles/2004/0503/web-evote-05-03-04.asp California nixes e-voting]. ''[http://www.fcw.com FCW.com]''.&lt;/ref&gt; The California Attorney-General decided against criminal prosecution, but subsequently joined a lawsuit against Diebold for fraudulent claims made to election officials. Diebold settled that lawsuit by paying $2.6 million.&lt;ref&gt;{{cite news|author=Associated Press |url=http://www.wired.com/news/evote/0,2645,65674,00.html |title=Diebold to Settle E-Voting Suit |publisher=Wired.com |date= November 10, 2004|accessdate=2010-05-24}}&lt;/ref&gt; On February 17, 2006 the California Secretary of State [[Bruce McPherson]] then recertified Diebold Election Systems [[DRE voting machine|DRE]] and Optical Scan Voting System.&lt;ref&gt;State of California Secretary of State (February 17, 2006). ''[http://www.ss.ca.gov/elections/voting_systems/diebold_cert.pdf Approval of use of Diebold Election Systems, Inc]''.&lt;/ref&gt;
+
+*Napa County, California, March 2, 2004, an improperly calibrated [[marksense]] scanner overlooked 6,692 [[absentee ballot]] votes.&lt;ref&gt;{{Cite news |last=Kim |first=Zetter |title=E-Vote Snafu in California County |work=Wired |date=2004-03-19|url=http://www.wired.com/politics/security/news/2004/03/62721}}
+&lt;/ref&gt;
+
+* Omesh Saigal, an IIT alumnus and IAS officer blew the top of the Election Commissioner Navin Chawla in front of the whole nation when he successfully demonstrated that the 2009 elections in India when Congress Party of India came back to power might be rigged. This forced the election commission to review the current EVMs and brought bad reputation for Mr. Navin Chawla.&lt;ref&gt;http://ia.rediff.com/www/news/2009/jul/04was-election-2009-rigged.htm&lt;/ref&gt;
+
+*On October 30, 2006 the [[Ministry of the Interior and Kingdom Relations (Netherlands)|Dutch Minister of the Interior]] withdrew the license of 1187 voting machines from manufacturer Sdu NV, about 10% of the total number to be used, because it was proven by the [[General Intelligence and Security Service]] that one could eavesdrop on voting from up to 40 meters using [[Van Eck phreaking]].&lt;ref&gt;http://www.minbzk.nl/contents/pages/82071/briefstemmachinses.pdf&lt;/ref&gt; National elections are to be held 24 days after this decision. The decision was forced by the Dutch [[grass roots]] organisation ''Wij vertrouwen stemcomputers niet''&lt;ref&gt;{{cite web|url=http://www.wijvertrouwenstemcomputersniet.nl/ |title=Wij vertrouwen stemcomputers niet - Wij vertrouwen stemcomputers niet |publisher=Wijvertrouwenstemcomputersniet.nl |date= |accessdate=2010-05-24}}&lt;/ref&gt; (&quot;We do not trust voting computers&quot;&lt;ref&gt;{{cite web|url=http://www.wijvertrouwenstemcomputersniet.nl/English |title=English - Wij vertrouwen stemcomputers niet |publisher=Wijvertrouwenstemcomputersniet.nl |date= |accessdate=2010-05-24}}&lt;/ref&gt;).&lt;ref&gt;AP via [http://www.iht.com/ International Herald Tribune] (October 30, 2006) [http://www.iht.com/articles/ap/2006/10/30/europe/EU_GEN_Netherlands_Voting_Machines.php Dutch government scraps plans to use voting computers in 35 cities including Amsterdam]&lt;/ref&gt;
+
+* Problems in the [[United States general elections, 2006]]:
+**During [[early voting]] in Miami, Hollywood and Fort Lauderdale, Florida in October 2006 three votes intended to be recorded for Democratic candidates were displaying as cast for Republican. Election officials attributed it to calibration errors in the touch screen of the voting system.&lt;ref&gt;[http://www.miami.com/mld/miamiherald/news/editorial/15889697.htm Test run for voting (Miami Herald, 10/31/2006)]{{Dead link|date=December 2008}}&lt;/ref&gt;
+**In Pennsylvania, a computer programming error forced some to cast paper ballots. In Indiana, 175 precincts also resorted to paper. Counties in those states also extended poll hours to make up for delays.&lt;ref name=&quot;forbes.com&quot;&gt;[http://www.forbes.com/business/commerce/feeds/ap/2006/11/07/ap3152794.html Poll Workers Struggle With E-Ballots]{{Dead link|date=December 2008}}&lt;/ref&gt;
+**Cuyahoga County, Ohio: The Diebold computer server froze and stopped counting votes then the printers jammed so paper copies could not be retrieved for many votes and there was no way to be sure of the accuracy of the votes when the votes were being counted.&lt;ref&gt;{{cite news| url=http://www.nytimes.com/2008/01/06/magazine/06Vote-t.html?pagewanted=3&amp;_r=1 | work=The New York Times | title=Can You Count on Voting Machines? | first=Clive | last=Thompson | date=January 6, 2008 | accessdate=March 29, 2010}}&lt;/ref&gt;
+**Waldenburg, Arkansas: The touch screen computer tallied zero votes for one mayoral candidate who confirmed that he certainly voted for himself and therefore there would be a minimum of one vote, this is a case of disappearing votes on touchscreen machines.&lt;ref name=&quot;forbes.com&quot;/&gt;
+**Sarasota, Florida: There was an 18,000 person &quot;undervote&quot; in a congressional election.&lt;ref name=&quot;forbes.com&quot;/&gt;  The subsequent [http://election.dos.state.fl.us/reports/2006ConDist13.shtml  investigation] found that the undervote was not caused by software error. Poor ballot design was widely acknowledged as the cause of the undervote.
+*Instances of faulty technology and security issues surrounding these machines were documented on August 1, 2001 in the Brennan Center at New York University Law School. NY University Law School released a report with more than 60 examples of e-voting machine failures in 26 states in 2004 and 2006. Examples included Spanish language ballots that were cast by voters but not counted in Sacramento in 2004.{{Citation needed|date=April 2009}}
+* In [[Finland]], the [[Supreme Administrative Court of Finland|Supreme Administrative Court]] declared invalid the results of a pilot electronic vote in three [[Municipalities of Finland|municipalities]], and ordered a rerun of the municipal elections. The system had an usability problem where the messages were ambiguous on whether the vote had been cast. In a total of 232 cases (2% of votes), voters had logged in, selected their vote but not confirmed it, and left the booth; the votes were not recorded.&lt;ref&gt;{{cite web | title=KHO: Kuntavaalit uusiksi Vihdissä, Karkkilassa ja Kauniaisissa | url=http://www.yle.fi/uutiset/talous_ja_politiikka/2009/04/kho_kuntavaalit_uusiksi_vihdissa_karkkilassa_ja_kauniaisissa_673059.html | work=YLE Uutiset, Talous ja politiikka | publisher=YLE | date=2009-04-09 | accessdate=2009-04-09}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; Following the failure of the pilot election, the Finnish government has abandoned plans to introduce electronic voting to the country.
+*2008 United States Elections:
+**Virginia, Tennessee, and Texas: Touch screen voting machines flipped votes in early voting trials.&lt;ref&gt;{{cite web|url=http://www.technologyreview.com/computing/21626/ |title=Technology Review |publisher=Technology Review |date= |accessdate=2010-05-24}}&lt;/ref&gt;
+** Humboldt County, California: A security flaw erased 197 votes from the computer database.&lt;ref&gt;{{cite news|url=http://www.guardian.co.uk/technology/2009/apr/30/e-voting-electronic-polling-systems|title=Why machines are bad at counting votes|last=Grossman|first=Wendy M|date=30 April 2009|publisher=The Guardian|accessdate=2009-07-14 | location=London}}&lt;/ref&gt;
+
+===California top to bottom review===
+In May 2007, [[California]] Secretary of State [[Debra Bowen]] commissioned a &quot;Top to Bottom review&quot; of all electronic voting systems in the state.  She engaged computer security experts led by the [[University of California]] to perform security evaluations of voting system source code as well as &quot;red teams&quot; running &quot;worst case&quot; Election Day scenarios attempting to identify vulnerabilities to tampering or error. The Top to Bottom review also included a comprehensive review of manufacturer documentation as well as a review of accessibility features and alternative language requirements.
+
+The end results of the tests was released in the four detailed Secretary of State August 3, 2007 resolutions (for Diebold Election Systems, Hart InterCivic, Sequoia Voting Systems and Elections Systems and Software, Inc.) and updated October 25, 2007 revised resolutions for Diebold and Sequoia voting systems.&lt;ref&gt;[http://www.sos.ca.gov/voting-systems/oversight/top-to-bottom-review.htm CA SoS Top to Bottom Review] Retrieved March 2, 2012&lt;/ref&gt;  The security experts found significant security flaws in all of the manufacturers' voting systems, flaws that could allow a single non-expert to compromise an entire election.
+
+On August 3, 2007 Bowen decertified machines that were tested in her top to bottom view including the ES&amp;S [[InkaVote]] machine, which was not included in the review because the company submitted it past the deadline for testing. The report issued July 27, 2007 was conducted by the expert &quot;red team&quot; attempting to detect the levels of technological vulnerability. Another report on August 2, 2007 was conducted by a source code review team to detect flaws in voting system source code. Both reports found that three of the tested systems fell far short of the minimum requirements specified in the 2005 Voluntary Voting System Guidelines (VVSG). Some of the systems tested were conditionally recertified with new stringed security requirements imposed.&lt;ref&gt;Simons, Barbara. August 13, 2007. [http://www.votetrustusa.org/index.php?option=com_content&amp;task=view&amp;id=2554&amp;Itemid=113 &quot;California: The Top to Bottom Review.&quot;] The Voter. Retrieved November 27, 2007.&lt;/ref&gt; The companies in question have until the February 2008 California Presidential Primaries to fix their security issues and insure that election results can be closely audited.
+
+The [[Premier Election Solutions]] (formerly [[Diebold Election Systems]]) AccuVote-TSx voting system was studied by a group of [[Princeton University]] computer scientists in 2006. Their results showed that the AccuVote-TSx was insecure and could be &quot;installed with vote-stealing software in under a minute.&quot; The scientists also said that machines can transmit computer viruses from one to another &quot;during normal pre- and post-election activity.&quot;&lt;ref&gt;Riordan, Theresa. 13 September 2006. [http://www.princeton.edu/main/news/archive/S15/81/66A80/index.xml] Princeton University. Retrieved March 6, 2008.&lt;/ref&gt;
+
+===2000 presidential election in Florida===
+Punched cards received considerable notoriety in 2000 when their uneven use in [[Voting machine#Punch card|Votomatic]] style systems in [[Florida]] was alleged to have affected the outcome of the [[United States presidential election, 2000|U.S. presidential election]]. Invented by Joseph P. Harris, Votomatic was manufactured for a time under license by IBM. William Rouverol, who built the prototype and wrote patents, stated that after the patents expired in 1982, lower quality machines had appeared on the market. The machines used in Florida had five times as many errors as a true Votomatic, he said.&lt;ref&gt;{{cite journal| title = IGS Votomatic Prototype Goes to the Smithsonian |journal = Institute of Governmental Studies, Public Affairs Report |volume = 42 | issue = 4 | date = Winter 2001 |publisher = University of California, Berkeley |url =http://www.igs.berkeley.edu/publications/par/winter2001/votomatic.htm| format =  &amp;ndash; &lt;sup&gt;[http://scholar.google.co.uk/scholar?hl=en&amp;lr=&amp;q=intitle%3AIGS+Votomatic+Prototype+Goes+to+the+Smithsonian&amp;as_publication=Institute+of+Governmental+Studies%2C+Public+Affairs+Report&amp;as_ylo=&amp;as_yhi=&amp;btnG=Search Scholar search]&lt;/sup&gt;}} {{Dead link|date=June 2008}}&lt;/ref&gt;
+
+Punched-card-based voting systems, the Votomatic system in particular, use special cards where each possible hole is pre-scored, allowing perforations to be made by the voter pressing a stylus through a guide in the [[voting machine]].  A problem with this system is the incomplete punch; this can lead to a smaller hole than expected, or to a mere slit in the card, or to a mere dimple in the card, or to a ''[[hanging chad]]''. This technical problem was claimed by the Democratic Party to have influenced the [[2000 U.S. presidential election]] in the state of [[Florida]]; critics claimed that punched card voting machines were primarily used in Democratic areas and that hundreds of ballots were not read properly or were disqualified due to incomplete punches, which allegedly tipped the vote in favor of [[George W. Bush]] over [[Al Gore]]. 
+
+Other punched card voting systems use a metal hole-punch mechanism that does not suffer nearly as much from this fault, although most states have eliminated punched card voting systems of all types after the 2000 Florida experience. [[South Korea]] still predominantly uses punched card ballots.{{Citation needed|reason=27/02/2010|date=February 2010}}
+
+==Recommendations for improvement==
+In December 2005 the US [[Election Assistance Commission]] unanimously adopted the 2005 [[Voluntary Voting System Guidelines]], which significantly increase security requirements for voting systems and expand access, including opportunities to vote privately and independently, for individuals with disabilities. The guidelines took effect in December 2007 replacing the 2002 Voting System Standards (VSS) developed by the [[Federal Election Commission]].
+
+Some groups such as the [[Open Voting Consortium]] believe that to restore voter confidence and to reduce the potential for fraud, all electronic voting systems must be completely available to public scrutiny.
+
+Also proposed is the requirement for use of open public standards and specifications such as the [[Election Markup Language]] (EML) standard developed by [[OASIS (organization)|OASIS]] and now under consideration by ISO ([http://docs.oasis-open.org/election/eml/v5.0/ see documents and schemas]).  These can provide consistent processes and mechanisms for managing and performing elections using computer systems.
+
+===Legislation===
+In the summer of 2004, the Legislative Affairs Committee of the [[Association of Information Technology Professionals]] issued a nine-point proposal for national standards for electronic voting.&lt;ref&gt;[http://www.aitp.org/newsletter/2004julaug/index.jsp?article=evoteside.htm &quot;Legislative Committee Resolution Awaiting BOD Approval&quot;]. (July 2004). ''[http://www.aitp.org/newsletter Information Executive]&lt;/ref&gt; In an accompanying article, the committee's chair, Charles Oriez, described some of the problems that had arisen around the country.&lt;ref&gt;Oriez, Charles (July 2004). [http://www.aitp.org/newsletter/2004julaug/index.jsp?article=evote.htm &quot;In Search of Voting Machines We Can Trust&quot;]. ''[http://www.aitp.org/newsletter Information Executive]&lt;/ref&gt;
+
+Legislation has been introduced in the United States Congress regarding electronic voting, including the Nelson-Whitehouse bill. This bill would appropriate as much as 1 billion dollars to fund states' replacement of touch screen systems with optical scan voting system. The legislation also addresses requiring audits of 3% of precincts in all federal elections. It also mandates some form of paper trail audits for all electronic voting machines by the year 2012 on any type of voting technology.&lt;ref&gt;Padgett, Tim. November 3, 2007. [http://www.time.com/time/nation/article/0,8599,1680451,00.html &quot;Voting out E Voting Machines&quot;] ''Time Magazine''. Retrieved November 28, 2007.&lt;/ref&gt;
+
+Another bill, HR.811 ([[Voter Confidence and Increased Accessibility Act of 2003|The Voter Confidence and Increased Accessibility Act of 2003]]), proposed by Representative [[Rush D. Holt, Jr.]], a Democrat from New Jersey, would act as an amendment to the Help America Vote Act of 2002 and require electronic voting machines to produce a paper audit trail for every vote.&lt;ref&gt;Rosenfeld, Steven. August 8, 2007. [http://www.alternet.org/story/59077/?page=entire The Fallout from California’s Ban on Electronic Voting Machines.]. Retrieved November 27, 2007.&lt;/ref&gt; The U.S. Senate companion bill version introduced by Senator Bill Nelson from Florida on November 1, 2007, necessitates the Director of the National Institute of Standards and Technology to continue researching and to provide methods of paper ballot voting for those with disabilities, those who do not primarily speak English, and those who do not have a high literacy rating. Also, it requires states to provide the federal office with audit reports from the hand counting of the voter verified paper ballots. Currently, this bill has been turned over to the [[United States Senate Committee on Rules and Administration]] and a vote date has not been set.&lt;ref&gt;2007 [http://thomas.loc.gov/cgi-bin/bdquery/z?d110:SN02295:@@@D&amp;summ2=m&amp;] The Library of Congress. Retrieved March 3, 2008.&lt;/ref&gt;
+
+During 2008, Congressman Holt, because of an increasing concern regarding the insecurities surrounding the use of electronic voting technology, submitted additional bills to Congress regarding the future of electronic voting. One, called the &quot;Emergency Assistance for Secure Elections Act of 2008&quot; (HR5036), states that the [[General Services Administration]] will reimburse states for the extra costs of providing paper ballots to citizens, and the costs needed to hire people to count them.&lt;ref name = &quot;2008-PDF-election&quot;&gt;2008 [http://electionarchive.org/ucvInfo/US/legislation/SummaryFlyer5036.pdf] Election Archives. Retrieved March 3, 2008.&lt;/ref&gt; This bill was introduced to the House on January 17, 2008.&lt;ref&gt;2008 [http://www.opencongress.org/bill/110-h5036/show] OpenCongress. Retrieved March 3, 2008.&lt;/ref&gt;  This bill estimates that $500 million will be given to cover costs of the reconversion to paper ballots; $100 million given to pay the voting auditors; and $30 million given to pay the hand counters. This bill provides the public with the choice to vote manually if they do not trust the electronic voting machines.&lt;ref name = &quot;2008-PDF-election&quot;/&gt; A voting date has not yet been determined.
+
+==Popular culture==
+In the 2006 film [[Man of the Year (2006 film)|''Man of the Year'']] starring [[Robin Williams]], the character played by Williams—a [[Jon Stewart]]-like comedic host of political talk show—wins the election for President of the United States when a software error in the electronic voting machines produced by the fictional manufacturer Delacroy causes votes to be tallied inaccurately.
+
+In ''Runoff'', a 2007 novel by [[Mark Coggins]], a surprising showing by the [[Green Party (United States)|Green Party]] candidate in a [[San Francisco Mayor|San Francisco Mayoral election]] forces a [[Two-round system|runoff]] between him and the highly favored establishment candidate—a plot line that closely parallels the actual results of the 2003 election. When the private-eye protagonist of the book investigates at the behest of a powerful Chinatown businesswoman, he determines that the outcome was rigged by someone who defeated the security on the city's newly installed e-voting system.&lt;ref&gt;{{cite web|url=http://www.januarymagazine.com/crfiction/runoff.html |title=January Magazine, &quot;The Fix Is In&quot; |publisher=Januarymagazine.com |date= |accessdate=2010-05-24}}&lt;/ref&gt;
+
+&quot;[[Hacking Democracy]]&quot; is a 2006 [[documentary film]] shown on [[HBO]]. Filmed over three years, it documents American citizens investigating anomalies and irregularities with electronic voting systems that occurred during America's 2000 and 2004 elections, especially in [[Volusia County, Florida]]. The film investigates the flawed integrity of electronic voting machines, particularly those made by [[Diebold Election Systems]] and culminates in the hacking of a [[Diebold]] election system in [[Leon County, Florida]].
+
+==Electronic voting manufacturers==
+*[[AccuPoll]]
+*[[Advanced Voting Solutions]], formerly [[Shoup Voting Machine Co.]]
+*[[Bharat Electronics Limited]] ([[India]])
+*[[Dominion Voting Systems]] ([[Canada]])
+*[[Electronics Corporation of India Limited|Electronics Corporation of India Ltd]]
+*[[ES&amp;S]] ([[USA]])
+*[[Hart InterCivic]] ([[USA]])
+*[[MicroVote]]
+*[[Nedap]] ([[Netherlands]])
+*[[Premier Election Solutions]] (formerly Diebold Election Systems) ([[USA]])
+* [[Safevote]]
+*[[Sequoia Voting Systems]] ([[USA]])
+*[[Smartmatic]]
+*[[UniLect]]
+*[[VOTEX / TM Technologies Elections Inc.]] ([[Canada]])
+
+==Academic efforts==
+*[[Prêt à Voter]]
+*[[Punchscan]]
+
+==See also==
+* [[Voting machine]]
+* [[Certification of voting machines]]
+* [[Electoral fraud]]
+* [[Vote counting system]]
+* [[E-democracy]]
+* [[Open Source Digital Voting Foundation]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.eac.gov Election Assistance Commission]
+* [http://vote.nist.gov/ Vote.NIST.gov] - The [[National Institute of Standards and Technology]] [[Help America Vote Act]] page.
+* [http://triinu.net/e-voting/ Practical Security Analysis of E-voting Systems] by Triinu Mägi, a master thesis studying the security of the Estonian e-voting system and SERVE (Secure Electronic Registration and Voting Experiment)
+* [http://elara.tk.informatik.tu-darmstadt.de/publications/2006/StefanWeber.diplom.pdf A Coercion-Resistant Cryptographic Voting Protocol - Evaluation and Prototype Implementation] by Stefan G. Weber, a master thesis analyzing countermeasures against coercion and vote buying in electronic voting schemes)
+* [http://ezine.pk/?e-voting-success-story&amp;id=41543 An Electronic Voting Case Study in KCA University, Kenya]
+* [http://www.electiontechnology.com/research.php The Election Technology Library research list] - A comprehensive list of research relating to technology use in elections.
+* [http://www.aceproject.org/ace-en/focus/e-voting/ E-Voting information] from [http://www.aceproject.org ACE Project]
+* [http://brainstorms.in/?p=309 How do we vote in India. ]
+* [http://www.brennancenter.org/stack_detail.asp?key=97&amp;subkey=38150&amp;init_key=105 The Machinery of Democracy: Voting System Security, Accessibility, Usability, and Cost] from [[Brennan Center for Justice]] at the [[New York University Law School]]
+* {{dmoz|Society/Politics/Campaigns_and_Elections/Electronic_Democracy/Electronic_Voting_Systems|Electronic Voting Systems}}
+* [http://www.npr.org/templates/story/story.php?storyId=90727541 NPR] summary of current technology status in the states of the U.S., as of May 2008.
+* [http://db.e-voting.cc/ E-Voting Database] Capacious Database on E-Voting around the world
+* [http://vvk.ee/voting-methods-in-estonia/engindex/ Internet Voting in Estonia]
+
+&lt;!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] &amp; [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    ======================= {{No more links}} =============================--&gt;
+
+{{DEFAULTSORT:Electronic Voting}}
+[[Category:Electronic voting| ]]
+[[Category:Information society]]
+
+[[ar:تصويت إلكتروني]]
+[[az:Elektron seçki]]
+[[bn:ইলেকট্রনিক ভোটিং]]
+[[de:Elektronische Wahl]]
+[[et:Elektrooniline hääletamine]]
+[[es:Voto electrónico]]
+[[fa:رأی‌گیری الکترونیکی]]
+[[fr:Vote électronique]]
+[[hi:इलेक्ट्रॉनिक वोटिंग]]
+[[id:Pemungutan suara elektronik]]
+[[it:Votazione elettronica]]
+[[he:הצבעה ממוחשבת]]
+[[kn:ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಮತದಾನ]]
+[[ja:電子投票]]
+[[pl:Głosowanie elektroniczne]]
+[[ru:Интернет-выборы]]
+[[fi:Sähköinen äänestys]]
+[[te:ఎలక్ట్రానిక్ ఓటింగ్]]
+[[tr:Elektronik seçim]]
+[[uk:Електронне голосування]]</text>
+      <sha1>hl3vpu8edi4bnvuuqdh5i7oilqczlm1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

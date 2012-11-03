@@ -1,0 +1,943 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tiger Woods</title>
+    <ns>0</ns>
+    <id>43356</id>
+    <revision>
+      <id>520798090</id>
+      <parentid>520797973</parentid>
+      <timestamp>2012-10-31T20:29:10Z</timestamp>
+      <contributor>
+        <username>Assassin20X</username>
+        <id>16539326</id>
+      </contributor>
+      <text xml:space="preserve" bytes="108194">{{about||the dog|Gayleward's Tiger Woods}}
+{{pp-move-indef}}{{pp-semi-blp|small=yes}}
+{{Infobox golfer
+| name = Tiger Woods
+| image = TigerWoodsOct2011.jpg
+| imagesize = 300px
+| caption = Woods at a [[Chevron World Challenge]] charity event (2011)
+| fullname = Eldrick Tont Woods
+| nickname = Tiger
+| birth_date = {{Birth date and age|mf=yes|1975|12|30}}
+| birth_place = [[Cypress, California]]
+| death_date = &lt;!-- {{Death date and age|mf=yes|YYYY|MM|DD|1975|12|30}} --&gt;
+| death_place =
+| height = {{Height|ft=6|in=1|precision=2}}
+| weight = {{convert|185|lb|kg st|abbr=on}}
+| nationality = {{USA}}
+| residence = [[Jupiter Island, Florida]]
+| spouse = [[Elin Nordegren]] (2004–2010)
+| partner =
+| children = Sam Alexis (b. 2007)&lt;br&gt;Charlie Axel (b. 2009)
+| college = [[Stanford University]] (two years)
+| yearpro = 1996
+| retired =
+| tour = [[PGA Tour]] (joined 1996)
+| prowins = 101&lt;ref&gt;This is calculated by adding Woods' 74 PGA Tour victories, 8 regular European Tour titles, 2 Japan Tour wins, 1 Asian Tour crown, and the 16 Other wins in his career.&lt;/ref&gt;
+| pgawins = [[List of career achievements by Tiger Woods#PGA Tour wins (74)|74]] ([[Golfers with most PGA Tour wins|2nd all time]])
+| eurowins = [[List of career achievements by Tiger Woods#European Tour wins (38)|38]] ([[Golfers with most European Tour wins|3rd all time]])&lt;ref&gt;These are the 14 majors, 16 WGC events, and his eight tour wins.&lt;/ref&gt;&lt;ref&gt;[http://www.europeantour.com/default.sps?pagegid=%7B00387D2B%2D9D40%2D40B9%2DB2AC%2DC46939A8370B%7D&amp;viewETGuide=true 2009 European Tour Official Guide Section 4 Page 577 PDF 21]{{dead link|date=September 2010}}. [[European Tour]]. Retrieved on April 21, 2009.&lt;/ref&gt;
+| japwins = [[List of career achievements by Tiger Woods#Japan Golf Tour wins (2)|2]]
+| asiawins = [[List of career achievements by Tiger Woods#Asian Tour wins (1)|1]]
+| auswins = [[List of career achievements by Tiger Woods#PGA Tour of Australasia wins (1)|1]]
+| champwins = &lt;!-- Number of Champions Tour wins --&gt;
+| otherwins = [[List of career achievements by Tiger Woods#Other professional wins (16)|16]]
+| majorwins = [[#Major championships|14]]
+| masters = '''Won''': [[1997 Masters Tournament|1997]], [[2001 Masters Tournament|2001]], [[2002 Masters Tournament|2002]], [[2005 Masters Tournament|2005]]
+| usopen = '''Won''': [[2000 U.S. Open (golf)|2000]], [[2002 U.S. Open (golf)|2002]], [[2008 U.S. Open (golf)|2008]]
+| open = '''Won''': [[2000 Open Championship|2000]], [[2005 Open Championship|2005]], [[2006 Open Championship|2006]]
+| pga = '''Won''': [[1999 PGA Championship|1999]], [[2000 PGA Championship|2000]], [[2006 PGA Championship|2006]], [[2007 PGA Championship|2007]]
+| wghofid = &lt;!-- World Golf Hall of Fame member ID --&gt;
+| wghofyear = &lt;!-- World Golf Hall of Fame year inducted --&gt;
+| award1 = [[PGA Tour Rookie of the Year|PGA Tour&lt;br&gt;Rookie of the Year]]
+| year1 = 1996
+| award2 = [[PGA Player of the Year]]
+| year2 = 1997, 1999, 2000, 2001, 2002, 2003, 2005, 2006, 2007, 2009
+| award3 = [[PGA Tour Player of the Year|PGA Tour&lt;br&gt;Player of the Year]]
+| year3 = 1997, 1999, 2000, 2001, 2002, 2003, 2005, 2006, 2007, 2009
+| award4 = [[PGA Tour#Money winners and most wins leaders|PGA Tour&lt;br&gt;leading money winner]]
+| year4 = 1997, 1999, 2000, 2001, 2002, 2005, 2006, 2007, 2009
+| award5 = [[Vardon Trophy]]
+| year5 = 1999, 2000, 2001, 2002, 2003, 2005, 2007, 2009
+| award6 = [[Vardon Trophy|Byron Nelson Award]]
+| year6 = 1999, 2000, 2001, 2002, 2003, 2005, 2006, 2007, 2009
+| award7 = [[FedEx Cup|FedEx Cup Champion]]
+| year7 = [[2007 FedEx Cup Playoffs|2007]], [[2009 FedEx Cup Playoffs|2009]]
+| award8 =
+| year8 =
+| awardssection = List of career achievements by Tiger Woods#Awards
+}}
+'''Eldrick Tont''' &quot;'''Tiger'''&quot; '''Woods''' (born December 30, 1975)&lt;ref&gt;{{Cite book |title=The Wicked Game: Arnold Palmer, Jack Nicklaus, Tiger Woods, and the Story of Modern Golf |last=Sounes |first=Howard |authorlink=Howard Sounes |publisher=[[Harper Collins]] |year=2004 |isbn=0-06-051386-1 |pages=120–121, 293}}&lt;/ref&gt;&lt;ref&gt;[http://i.cdn.turner.com/cnn/2010/images/08/23/final.judgment.pdf?hpt=T1 Divorce decree] August 23, 2010. Retrieved September 28, 2010.&lt;/ref&gt; is an American [[professional golfer]] whose achievements to date rank him among the most successful golfers of all time. Formerly the [[List of World Number One male golfers|World No. 1]], he was the highest-paid athlete in the world according to [[Forbes]] for several years.
+
+Woods turned professional in 1996, and by April 1997 he had already won his first major, the [[1997 Masters Tournament|1997 Masters]] in a record-breaking performance. He first reached the number one position in the [[Official World Golf Rankings|world rankings]] in June 1997. Through the 2000s, Woods was the dominant force in golf, spending 264 weeks from August 1999 to September 2004 and 281 weeks from June 2005 to October 2010 as world number one. From December 2009 to early April 2010, Woods took leave from professional golf to focus on his marriage after he admitted [[infidelity]]. His multiple infidelities were revealed by several different women, through many worldwide media sources.&lt;ref name=legend/&gt; This was followed by a loss of form, and his ranking gradually fell to a low of #58 in November 2011.&lt;ref name=Westwood&gt;{{cite news| url=http://news.bbc.co.uk/sport1/hi/golf/9143219.stm |work=BBC News  | title=Westwood becomes world number one | date=October 31, 2010}}&lt;/ref&gt;&lt;ref name=chevron/&gt; He snapped a career-long winless streak of 107 weeks when he captured the [[Chevron World Challenge]] in December 2011.&lt;ref name=chevron/&gt; As of October 28, 2012, he is ranked #2 after a 4th place finish at the [[CIMB Classic]] in Malaysia.&lt;ref&gt;[http://dps.endavadigital.net/owgr/doc/content/archive/2012/owgr43f2012.pdf Official World Golf Ranking – October 28 2012]. (PDF) . Retrieved October 28, 2012.&lt;/ref&gt; 
+
+Woods has broken numerous golf records. He has been world number one for the most consecutive weeks and for the greatest total number of weeks of any other golfer. He has been awarded [[PGA Player of the Year]] a record ten times,&lt;ref&gt;{{cite web|url=http://golf.about.com/b/2009/10/20/woods-wins-pga-player-of-the-year-award.htm|title=Woods Clinches PGA Player of the Year Award|last1= Kelley|first1=Brent|date=October 20, 2009|publisher=About.com: Golf|accessdate=December 2, 2009}}
+&lt;/ref&gt; the [[Vardon Trophy|Byron Nelson Award]] for lowest adjusted scoring average a record eight times, and has the record of leading the [[PGA Tour#Money winners and most wins leaders|money list]] in nine different seasons. 
+He has won 14 professional [[Men's major golf championships|major golf championships]], the second highest of any player ([[Jack Nicklaus]] leads with 18), and 74 [[PGA Tour]] events, 2nd all time behind [[Sam Snead]].&lt;ref&gt;{{cite web|title=Tracking Tiger|publisher=[[NBC Sports]]|url=http://nbcsports.msnbc.com/id/3295562/|accessdate=June 3, 2009}}&lt;/ref&gt; He has more [[Golfers with most wins in men's major championships|career major wins]] and [[Golfers with most PGA Tour wins|career PGA Tour wins]] than any other active golfer. He is the youngest player to achieve the career [[Grand Slam (golf)|Grand Slam]], and the youngest and fastest to win 50 tournaments on tour. Additionally, Woods is only the second golfer, after Jack Nicklaus, to have achieved a career Grand Slam three times. Woods has won 16 [[World Golf Championships]], and won at least one of those events in each of the first 11 years after they began in 1999.
+
+{{TOC limit|limit=3}}
+
+==Background and family==
+Woods was born '''Eldrick Tont Woods''' in [[Cypress, California]], to [[Earl Woods|Earl]] (1932–2006) and Kultida (Tida) Woods (born 1944). He is the only child of their marriage, but does have two half-brothers, Earl Jr. (born 1955) and Kevin (born 1957), and a half-sister, Royce (born 1958) from the 18-year marriage of Earl Woods and his first wife, Barbara Woods Gray.&lt;ref&gt;''His Father's Son: Earl and Tiger Woods'', by Tom Callahan, 2010; ''The Wicked Game'', by Howard Sounes, 2004&lt;/ref&gt; Earl, a retired [[lieutenant colonel]] and [[Vietnam War]] veteran, was of [[African American]], [[Indigenous peoples of the Americas|Native American]], and possibly Chinese ancestry.&lt;ref&gt;[http://www.telegraph.co.uk/news/obituaries/1517444/Earl-Woods.html Earl Woods]. Telegraph (June 5, 2006). Retrieved June 19, 2012.&lt;/ref&gt; Kultida (née Punsawad), originally from [[Thailand]] (where  Earl had met her on a tour of duty in 1968), is of mixed [[Thai people|Thai]], [[Han Chinese|Chinese]], and Dutch ancestry.&lt;ref name=&quot;Stripes&quot;&gt;{{cite news |title = Earning His Stripes |magazine=[[AsianWeek]] |url=http://www.asianweek.com/101196/tigerwoods.html |date=October 11, 1996 |accessdate=June 18, 2009}}&lt;/ref&gt; He refers to his ethnic make-up as ''&quot;Cablinasian&quot;'' (a [[syllabic abbreviation]] he coined from [[Caucasian race|'''Ca'''ucasian]], [[Black people|'''Bl'''ack]], [[Native Americans in the United States|American '''In'''dian]], and [[Asian people|'''Asian''']]).&lt;ref name=&quot;Cablinasian&quot;&gt;{{cite news |agency=Associated Press |title=Woods stars on Oprah, says he's 'Cablinasian' |newspaper=[[Lubbock Avalanche-Journal]] |date=April 23, 1997 |url=http://www.lubbockonline.com/news/042397/woods.htm |archiveurl=http://web.archive.org/web/20071212010355/http://www.lubbockonline.com/news/042397/woods.htm |archivedate=December 12, 2007 |accessdate=June 18, 2009}}&lt;/ref&gt;
+
+Woods' first name, Eldrick, was coined by his mother because it began with &quot;E&quot; (for Earl) and ended with &quot;K&quot; (for Kultida). His middle name Tont is a traditional Thai name. He was nicknamed Tiger in honor of his father's friend Col. Vuong Dang Phong, who had also been known as Tiger.&lt;ref&gt;{{cite web |title = Tiger's dad gave us all some lessons to remember |publisher=Golf Digest |author=Callahan, Tom |url = http://sports.espn.go.com/golf/news/story?id=2431953 |date=May 9, 2006 |accessdate =January 24, 2012}}&lt;/ref&gt;
+
+Woods has a niece, [[Cheyenne Woods]], who played for [[Wake Forest University]]'s golf team and turned professional in 2012, making her pro debut in the [[LPGA Championship]].&lt;ref&gt;{{cite news |url=http://offthebench.nbcsports.com/2012/06/07/tiger-woods-niece-makes-her-major-pro-golf-tourney-debut-today/ |title=Tiger Woods’ niece makes her major pro golf tourney debut today |accessdate=June 7, 2012 |date=June 7, 2012 |work=NBC Sports |author=Chandler, Rick}}&lt;/ref&gt;
+
+==Early life and amateur golf career==
+[[File:Tiger woods on Mike Douglas show.jpg|thumb|left|Woods at age 2 on ''[[The Mike Douglas Show]]''. From left, Tiger Woods, [[Mike Douglas]], [[Earl Woods]] and [[Bob Hope]] on October 6, 1978.]]
+
+Woods grew up in [[Orange County, California|Orange County]], California. He was a child prodigy, introduced to golf before the age of two, by his athletic father Earl, a single-figure handicap amateur golfer who had been one of the earliest African-American college [[baseball]] players at [[Kansas State University]].&lt;ref&gt;''Training a Tiger: Raising a Winner in Golf and in Life'', by [[Earl Woods]] and Pete McDaniel, 1997.&lt;/ref&gt; In 1978, Tiger putted against comedian [[Bob Hope]] in a television appearance on ''[[The Mike Douglas Show]]''. At age three, he shot a 48 over nine holes over the Cypress Navy course, and at age five, he appeared in ''[[Golf Digest]]'' and on [[American Broadcasting Company|ABC]]'s ''[[That's Incredible]]''.&lt;ref name=&quot;Timeline&quot;&gt;{{cite web|title = Tiger Woods Timeline|publisher=[[Infoplease]]|url=http://www.infoplease.com/spot/tigertime1.html|accessdate =May 12, 2007}}&lt;/ref&gt; Before turning seven, Tiger won the Under Age 10 section of the Drive, Pitch, and Putt competition, held at the Navy Golf Course in Cypress, California.&lt;ref&gt;''Training A Tiger'', by Earl Woods and Pete McDaniel, 1997, p. 64.&lt;/ref&gt; In 1984 at the age of eight, he won the 9–10 boys' event, the youngest age group available, at the [[Junior World Golf Championships]].&lt;ref name=&quot;JWGC84&quot;&gt;{{cite web|title = 1984 Champions|publisher=Junior World Golf Championships|url = http://www.juniorworldgolf.com/pchamps.php?pg=1984|accessdate =May 13, 2007}}&lt;/ref&gt; He first broke 80 at age eight.&lt;ref&gt;''The Wicked Game: Arnold Palmer, Jack Nicklaus, Tiger Woods, and the Story of Modern Golf'', by Howard Sounes, 2004, William Morrow, New York, ISBN 0-06-051386-1, p. 187; originally appeared in ''[[The Wall Street Journal]]'', Nike's Tiger Woods professional career launch advertisement, August 1996.&lt;/ref&gt; He went on to win the Junior World Championships six times, including four consecutive wins from 1988 to 1991.&lt;ref name=&quot;JWGC85&quot;&gt;{{cite web|title = 1985 Champions|publisher=Junior World Golf Championships|url = http://www.juniorworldgolf.com/pchamps.php?pg=1985|accessdate =May 13, 2007}}&lt;/ref&gt;&lt;ref name=&quot;JWGC88&quot;&gt;{{cite web|title = 1988 Champions|publisher=Junior World Golf Championships|url = http://www.juniorworldgolf.com/pchamps.php?pg=1988|accessdate =May 13, 2007}}&lt;/ref&gt;&lt;ref name=&quot;JWGC89&quot;&gt;{{cite web|title = 1989 Champions|publisher=Junior World Golf Championships|url = http://www.juniorworldgolf.com/pchamps.php?pg=1989.| accessdate =May 13, 2007}}&lt;/ref&gt;&lt;ref name=&quot;JWGC90&quot;&gt;{{cite web|title = 1990 Champions|publisher=Junior World Golf Championships |url=http://www.juniorworldgolf.com/pchamps.php?pg=1990| accessdate =May 13, 2007}}&lt;/ref&gt;&lt;ref name=&quot;JWGC91&quot;&gt;{{cite web|title = 1991 Champions|publisher=Junior World Golf Championships|url = http://www.juniorworldgolf.com/pchamps.php?pg=1991|accessdate =May 13, 2007}}&lt;/ref&gt;
+
+Woods' father Earl wrote that Tiger first beat him when he was 11 years old, with Earl trying his best. Earl lost to Tiger every time from then on.&lt;ref&gt;''Training A Tiger: A Father's Guide to Raising a Winner in Both Golf and Life'', by [[Earl Woods]] with Pete McDaniel, 1997, Harper Collins, New York, ISBN 0-06-270178-9, p. 23;&lt;/ref&gt;&lt;ref&gt;''The Wicked Game: Arnold Palmer, Jack Nicklaus, Tiger Woods, and the Story of Modern Golf'', by Howard Sounes.&lt;/ref&gt; Woods first broke 70 on a regulation golf course at age 12.&lt;ref name=&quot;callahan1&quot;&gt;''His Father's Son: Earl and Tiger Woods'', by Tom Callahan, 2010&lt;/ref&gt; 
+
+Woods' first major national junior tournament was the 1989 Big I, when he was 13 years old. Woods was paired with pro [[John Daly (golfer)|John Daly]], then relatively unknown, in the final round; the event's format placed a professional with each group of juniors who had qualified. Daly birdied three of the last four holes to beat Woods by only one stroke.&lt;ref&gt;''Training A Tiger: A Father's Guide to Raising a Winner in Both Golf and Life'', by [[Earl Woods]] with Pete McDaniel, 1997, Harper Collins, New York, ISBN 0-06-270178-9, p. 180.&lt;/ref&gt; As a young teenager, Woods first met [[Jack Nicklaus]] in Los Angeles at the [[Bel-Air Country Club]], when Nicklaus was performing a clinic for the club's members. Woods was part of the show, and impressed Nicklaus and the crowd with his skills and potential.&lt;ref&gt;''Jack Nicklaus: Memories and Mementos from Golf's Golden Bear'', by Jack Nicklaus with David Shedloski, 2007, Stewart, Tabori &amp; Chang, New York, ISBN 1-58479-564-6, p. 130.&lt;/ref&gt; Earl Woods had researched in detail the career accomplishments of Nicklaus, and had set his young son the goals of breaking those records.&lt;ref name=&quot;callahan1&quot;/&gt;
+
+While attending [[Western High School (Anaheim, California)|Western High School]] in Anaheim at the age of 15, Woods became the youngest ever [[U.S. Junior Amateur]] champion (a record which stood until it was broken by Jin Liu in 2010).&lt;ref name=&quot;USJA91&quot;&gt;{{cite web|title = 1991 U.S. Junior Amateur|publisher=U.S. Junior Amateur|url = http://www.usjunioram.org/2002/history/champions/1991.html|accessdate =May 13, 2007}}&lt;/ref&gt; He was named 1991's Southern California Amateur Player of the Year (for the second consecutive year) and Golf Digest Junior Amateur Player of the Year. In 1992, he defended his title at the U.S. Junior Amateur Championship, becoming the first multiple winner; competed in his first PGA Tour event, the [[Nissan Los Angeles Open]] (he missed the 36-hole cut); and was named Golf Digest Amateur Player of the Year, Golf World Player of the Year, and Golfweek National Amateur of the Year.&lt;ref name=&quot;USJA92&quot;&gt;{{cite web|title = 1992 U.S. Junior Amateur|publisher=U.S. Junior Amateur|url = http://www.usjunioram.org/2002/history/champions/1992.html|accessdate =May 12, 2007}}&lt;/ref&gt;&lt;ref name=&quot;IMG&quot;&gt;{{cite web|title = Tiger Woods|publisher=IMG Speakers|url =  http://www.imgspeakers.com/speakers/tiger_woods.aspx|archiveurl = http://web.archive.org/web/20070429145830/http://www.imgspeakers.com/speakers/tiger_woods.aspx|archivedate = April 29, 2007|accessdate =June 18, 2009}}&lt;/ref&gt;
+
+The following year, Woods won his third consecutive U.S. Junior Amateur Championship; he remains the event's only three-time winner.&lt;ref name=&quot;USJA93&quot;&gt;{{cite web|title = 1993 U.S. Junior Amateur|publisher=U.S. Junior Amateur|url = http://www.usjunioram.org/2002/history/champions/1993.html|accessdate =May 12, 2007}}&lt;/ref&gt; In 1994, at the [[TPC at Sawgrass]] in Florida, he became the youngest-ever winner of the [[United States Amateur Championship (golf)|U.S. Amateur Championship]], a record that stood until 2008 when it was broken by [[Danny Lee (golfer)|Danny Lee]].&lt;ref name=&quot;Sounes, p. 277&quot;&gt;Sounes, p. 277.&lt;/ref&gt; He was a member of the American team at the 1994 [[Eisenhower Trophy]] [[World Amateur Golf Team Championships]] (winning), and the 1995 [[Walker Cup]] (losing).&lt;ref name=&quot;IGF&quot;&gt;{{cite web|title = Notable Past Players|publisher=International Golf Federation|url = http://www.internationalgolffederation.org/History/notables.html|accessdate =May 13, 2007}}&lt;/ref&gt;&lt;ref name=&quot;Walker&quot;&gt;{{cite news| title = Ailing Woods Unsure for Walker Cup |newspaper=[[International Herald Tribune]]|author=Thomsen, Ian|date = September 9, 1995|url= http://www.nytimes.com/1995/09/09/sports/09iht-golf.t_0.html|accessdate =January 4, 2011}}&lt;/ref&gt;
+
+Woods graduated from Western High School in 1994 at age 18, and was voted &quot;Most Likely to Succeed&quot; among the graduating class. He had starred for the high school's golf team under coach Don Crosby.&lt;ref&gt;''The Wicked Game: Arnold Palmer, Jack Nicklaus, Tiger Woods, and the Story of Modern Golf'', by Howard Sounes, 2004, William Morrow, New York, ISBN 0-06-051386-1, information listed on inset photos between pages 168 and 169.&lt;/ref&gt;
+
+==College golf career==
+Woods was recruited very heavily by college golf powers, and chose [[Stanford University]], the 1994 [[NCAA]] Division I champion. He enrolled at Stanford in the fall of 1994 under a golf scholarship, winning his first collegiate event, the 40th Annual William H. Tucker Invitational, that September.&lt;ref name=&quot;Stanford&quot;&gt;{{cite web|title = Stanford Men's Golf Team—Tiger Woods| publisher=Stanford Men's Golf Team|author=Stanford Men's Golf Team| date = April 8, 2003|url = http://www.stanfordmensgolf.com/stanford_greats/tigerwoods.htm| accessdate =July 19, 2009}}&lt;/ref&gt; He declared a major in economics, and was nicknamed &quot;[[Steve Urkel|Urkel]]&quot; by college teammate [[Notah Begay III]].&lt;ref&gt;{{cite book|last=Rosaforte|first=Tim|title=Tiger Woods: The Makings of a Champion|publisher=St. Martin's Press|year=1997|pages=84, 101|isbn=0-312-96437-4}}&lt;/ref&gt; In 1995, he successfully defended his U.S. Amateur title at the [[Newport Country Club]] in [[Rhode Island]]&lt;ref name=&quot;Sounes, p. 277&quot;/&gt; and was voted Pac-10 Player of the Year, NCAA First Team All-American, and Stanford's Male Freshman of the Year (an award that encompasses all sports).&lt;ref name=&quot;PAC10&quot;&gt;{{cite web|title = PAC-10 Men's Golf|publisher=PAC-10 Conference|url = http://grfx.cstv.com/photos/schools/pac10/sports/c-golf/auto_pdf/m-golf-records.pdf|accessdate =May 13, 2007|format=PDF}}&lt;/ref&gt;&lt;ref name=&quot;Ages&quot;&gt;{{cite web| title = Tiger Woods through the Ages...|publisher=Geocities|url = http://www.geocities.com/Colosseum/2396/tigerwatch.html| accessdate =May 12, 2007|archiveurl=http://web.archive.org/web/20090730221824/http://geocities.com/Colosseum/2396/tigerwatch.html|archivedate=July 30, 2009}}&lt;/ref&gt; He participated in his first PGA Tour major, the 1995 [[Masters Tournament]], and tied for 41st as the only amateur to make the cut. At age 20 in 1996, he became the first golfer to win three consecutive U.S. Amateur titles&lt;ref&gt;Sounes, p. 277&lt;/ref&gt; and won the [[NCAA Division I Men's Golf Championships|NCAA individual golf championship]].&lt;ref name=&quot;NCAA&quot;&gt;{{cite web|title = Tiger Woods Captures 1996 NCAA Individual Title|publisher=Stanford University|url = http://gostanford.cstv.com/sports/m-golf/archive/stan-m-golf-96woodsncaa.html|accessdate =May 13, 2007}}&lt;/ref&gt; In winning the Silver Medal as leading amateur at [[The Open Championship]], he tied the record for an amateur aggregate score of 281.&lt;ref name=&quot;Open1996&quot;&gt;Rosaforte 1997, p. 160.&lt;/ref&gt; He left college after two years and turned professional.
+
+==Professional career==
+{{main|Professional golf career of Tiger Woods}}
+[[File:Tigerw.jpg|left|thumb|200px|Woods in 2001]]
+Woods became a [[professional golfer]] in August 1996, and immediately signed deals with [[Nike, Inc.]] and [[Titleist]] that ranked as the most lucrative endorsement contracts in golf history at that time.&lt;ref name=&quot;10Years1&quot;&gt;{{cite web|title = 10 Years of Tiger Woods Part 1
+|publisher=Golf Digest|author=Ron Sirak|url = http://sports.espn.go.com/golf/features/tigerwoods/index|accessdate =May 21, 2007}}&lt;/ref&gt;&lt;ref name=&quot;Hello&quot;&gt;{{cite web|title = Golf's first Billion-Dollar Man |publisher=Golf Digest|author=Ron Sirak|url = http://www.golfdigest.com/features/index.ssf?/features/gd200602top50.html |archiveurl = http://web.archive.org/web/20070513225510/http://www.golfdigest.com/features/index.ssf?/features/gd200602top50.html |archivedate = May 13, 2007 |accessdate =May 12, 2007}}&lt;/ref&gt; Woods was named ''[[Sports Illustrated]]'''s 1996 [[Sportsman of the Year]] and [[PGA Tour Rookie of the Year]].&lt;ref name=&quot;SI1996&quot;&gt;{{cite news| title = 1996: Tiger Woods|work=Sports Illustrated |author=Rick Reilly| date = December 23, 1996| url = http://sportsillustrated.cnn.com/features/2000/sportsman/1996/| accessdate =May 13, 2007}}&lt;/ref&gt; In April 1997, he won his first [[Men's major golf championships|major]], [[Masters Tournament|the Masters]], becoming the tournament's youngest-ever winner.&lt;ref name=&quot;10Years2&quot;&gt;{{cite web|title = 10 Years of Tiger Woods Part 2|publisher=Golf Digest|author=Ron Sirak|url = http://sports.espn.go.com/golf/features/tigerwoods/index?part=2|accessdate =May 21, 2007}}&lt;/ref&gt; Two months later, he set the record for the fastest-ever ascent to #1 in the [[Official World Golf Rankings]].&lt;ref name=&quot;No.1&quot;&gt;{{cite news|title = Woods scoops world rankings award|publisher=BBC Sport  |date =March 15, 2006|url = http://news.bbc.co.uk/sport1/hi/golf/4811212.stm
+|accessdate =May 12, 2007|location=London}}&lt;/ref&gt; After a lackluster 1998, Woods finished the 1999 season with eight wins, including the [[1999 PGA Championship|PGA Championship]], a feat not achieved since 1974.&lt;ref name=&quot;Truth&quot;&gt;
+{{cite web|title = The Truth about Tiger|publisher=Golf Digest|author=Jaime Diaz|url = http://www.golfdigest.com/features/index.ssf?/features/gd200501tigerdiaz1.html|archiveurl = http://web.archive.org/web/20070415073152/http://www.golfdigest.com/features/index.ssf?/features/gd200501tigerdiaz1.html|archivedate = April 15, 2007|accessdate =May 12, 2007}}&lt;/ref&gt;&lt;ref name=&quot;PGAPOY&quot;&gt;{{cite news|title=Woods is PGA Tour player of year|work=[[The Topeka Capital-Journal]]|agency=Associated Press|url=http://www.cjonline.com/stories/120199/spo_tiger01.shtml|accessdate=May 10, 2009}}&lt;/ref&gt; 
+
+In 2000, Woods achieved six consecutive wins, the longest winning streak since 1948. One of these was the 2000 [[U.S. Open (golf)|U.S. Open]], where he broke or tied nine tournament records in what Sports Illustrated called &quot;the greatest performance in golf history.&quot;&lt;ref&gt;{{cite news |title = Open and Shut |author=John Garrity |url = http://sportsillustrated.cnn.com/2005/golf/specials/tiger/2005/06/09/tiger.2000usopen/index.html |work=Sports Illustrated |date = June 26, 2000 |accessdate =August 15, 2007}}&lt;/ref&gt; At age 24, he became the youngest golfer to achieve the Career [[Grand Slam (golf)|Grand Slam]].&lt;ref name=&quot;10Years3&quot;&gt;{{cite web|title = 10 Years of Tiger Woods Part 3|publisher=Golf Digest|author=Ron Sirak| url = http://sports.espn.go.com/golf/features/tigerwoods/index?part=3|accessdate =May 21, 2007}}&lt;/ref&gt; At the end of 2000, Woods had won nine of the twenty PGA Tour events he entered and had broken the record for lowest scoring average in tour history. He was named the Sports Illustrated Sportsman of the Year, the only athlete to be honored twice, and was ranked by Golf Digest magazine as the twelfth-best golfer of all time.&lt;ref name=&quot;SI2000&quot;&gt;{{cite news
+|title = Tunnel Vision|work=Sports Illustrated |author=S.L.Price
+|date = April 3, 2000|url = http://sportsillustrated.cnn.com/features/2000/sportsman/flashbacks/woods/tunnel_vision/ |accessdate =May 13, 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://findarticles.com/p/articles/mi_m0HFI/is_7_51/ai_63015233 |title=50 Greatest Golfers of All Time: And What They Taught Us |accessdate=December 5, 2007 |last=Yocom |first=Guy |year=2000 |month=July |work=[[Golf Digest]]}}&lt;/ref&gt;
+
+[[File:TigerWoods2004RyderCup1.jpg|right|thumb|200px|Woods at the [[2004 Ryder Cup]]]]
+Woods' victory in the [[2001 Masters Tournament]] made him the first player to hold all four major professional golf titles at the same time.&lt;ref&gt;{{cite news|title=The remarkable drive of Tiger Woods|work=[[CNN]]|url=http://edition.cnn.com/CNN/Programs/people/shows/tiger/profile.html|accessdate=March 27, 2012}}&lt;/ref&gt; Following a stellar 2001 and 2002 in which Woods continued to dominate the tour, Woods' career hit a &quot;slump&quot;.&lt;ref name=&quot;Truth&quot;/&gt;&lt;ref name=&quot;Swing&quot;&gt;{{cite web|title = Woods is starting to own his swing|publisher=PGA Tour|author=Dave Shedloski|date =July 27, 2006
+|url = http://www.pgatour.com/story/9574086/|accessdate =May 12, 2007}}&lt;/ref&gt; He did not win a major in 2003 or 2004. In September 2004, [[Vijay Singh]] overtook Woods in the Official World Golf Rankings, breaking Woods' record streak of 264 weeks at #1.&lt;ref&gt;{{cite news|title=Hard labor pays off for Singh|work=Sports Illustrated |agency=Reuters|date=September 7, 2004|url=http://sportsillustrated.cnn.com/2004/golf/09/07/bc.sport.golf.singh/|accessdate=May 10, 2009}}&lt;/ref&gt; 
+
+Woods rebounded in 2005, winning six official PGA Tour money events and reclaiming the top spot in July after swapping it back and forth with Singh over the first half of the year.&lt;ref name=&quot;Doral05&quot;&gt;{{cite web| title = A Rivalry is Reborn | work=Golf World| author=Bob Verdi| url =http://www.golfdigest.com/newsandtour/index.ssf?/newsandtour/gw20050311doral.html| archiveurl = http://web.archive.org/web/20070514223355/http://www.golfdigest.com/newsandtour/index.ssf?/newsandtour/gw20050311doral.html | archivedate = May 14, 2007| accessdate =May 21, 2007}}&lt;/ref&gt;
+
+In 2006, Woods began dominantly, winning his first two PGA tournaments but failing to capture his fifth Masters championship in April.&lt;ref&gt;{{cite journal|last=Morfit|first=Cameron|title=Tiger Woods's Rivals Will Be Back. Eventually.|journal=Golf Magazine|date=March 6, 2006|url=http://www.golf.com/golf/tours_news/article/0,28136,1578436,00.html|accessdate=May 11, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Hack|first=Damon|title=Golf: Notebook; Trouble on Greens Keeps Woods From His Fifth Green Jacket|work=The New York Times|date=April 10, 2006|url=http://query.nytimes.com/gst/fullpage.html?res=9D01E4DA1E30F933A25757C0A9609C8B63|accessdate=May 11, 2009}}&lt;/ref&gt; Following the death of his father in May, Woods took a nine-week hiatus from the tour and appeared rusty upon his return at the U.S. Open, missing the [[#Cut streak|cut]] at [[Winged Foot]].&lt;ref&gt;{{cite news|last=Litsky|first=Frank|title=Earl Woods, 74, Father of Tiger Woods, Dies|work=The New York Times|date=May 4, 2006|url=http://www.nytimes.com/2006/05/04/sports/golf/04woods.html|accessdate=May 12, 2009}}&lt;/ref&gt; However, he quickly returned to form and ended the year by winning six consecutive tour events. At the season's close, with 54 wins and 12 majors wins, Woods had broken the tour records for both total wins and total majors wins over eleven seasons.&lt;ref name=&quot;Assoc06&quot;&gt;{{cite news|title = Man of the Year|publisher=PGA|agency=Associated Press|url = http://www1.pga.com/news/tours/pga-tour/woods122506.cfm|accessdate =June 18, 2009}}&lt;/ref&gt;[[File:Tiger Woods Masters 2006.jpg|thumb|left|250px|Woods at the [[2006 Masters Tournament]]]]
+
+Woods continued to excel in 2007 and the first part of 2008. In April 2008, he underwent knee surgery and missed the next two months on the tour.&lt;ref&gt;{{cite news|title = Tiger Woods undergoes knee surgery|agency=[[Agence France-Presse]]|date = April 15, 2008|url = http://afp.google.com/article/ALeqM5hPuabYvDiDWueCDOns9r7AE_yo5g|accessdate =December 10, 2008}}&lt;/ref&gt; Woods returned for the [[2008 U.S. Open (golf)|2008 U.S. Open]], where he struggled the first day but ultimately claimed a dramatic victory over [[Rocco Mediate]], after which Mediate said, &quot;This guy does things that are just not normal by any stretch of the imagination,&quot; and Kenny Perry added, &quot;He beat everybody on one leg.&quot;&lt;ref&gt;{{cite news|title = Tiger puts away Mediate on 91st hole to win U.S. Open|agency=Associated Press|publisher=ESPN|date = June 16, 2008|url = http://sports.espn.go.com/golf/usopen08/news/story?id=3446435|accessdate =December 30, 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Savage|first=Brendan|title=Rocco Mediate still riding U.S. Open high into Buick Open|work=[[Flint Journal]]|date=June 25, 2008|url=http://www.mlive.com/sports/flint/index.ssf/2008/06/rocco_mediate_still_riding_us.html|accessdate=June 19, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://seattletimes.nwsource.com/html/sports/2008018380_apglfbuickopen.html |title = Mediate makes the most of his brush with Tiger |author=Larry Lage |work=The Seattle Times |agency=Associated Press |date = June 26, 2008 |accessdate =June 19, 2009}}&lt;/ref&gt; Two days later, Woods announced that he would miss the remainder of the season due to further knee surgery, and that his knee was more severely damaged than previously revealed, prompting even greater praise for his U.S. Open performance. Woods called it &quot;my greatest ever championship.&quot;&lt;ref&gt;{{cite web|title=Tiger Woods to Undergo Reconstructive Knee Surgery and Miss Remainder of 2008 Season|publisher=TigerWoods.com|date=June 18, 2008|accessdate=June 18, 2008|url=http://www.tigerwoods.com/defaultflash.sps |author=Mark Steinberg}} {{dead link|date=October 2010 |url=http://www.tigerwoods.com/defaultflash.sps}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last = Dorman |first = Larry |title = Woods to Have Knee Surgery, Ending His Season |url = http://www.nytimes.com/2008/06/19/sports/golf/19golf.html |work=The New York Times |date = June 19, 2008 |accessdate =October 13, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url = http://www.guardian.co.uk/sport/2008/jun/17/usopengolf.tigerwoods |title = Woods savours 'greatest triumph' after epic duel with brave Mediate |author=Lawrence Donegan |work=The Guardian |location=UK |date = June 17, 2008 |accessdate =June 30, 2008}}&lt;/ref&gt; In Woods' absence, TV ratings for the remainder of the season suffered a huge decline from 2007.&lt;ref&gt;{{cite web|title = Tiger’s Return Expected To Make PGA Ratings Roar |date = February 25, 2009 |accessdate =March 30, 2009 |url = http://blog.nielsen.com/nielsenwire/tag/accenture-match-play-championship/ |publisher=The Nielsen Company 2009}}&lt;/ref&gt;
+
+Upon Woods' much-anticipated return in 2009, he performed well, including a spectacular performance at the [[2009 Presidents Cup]], but failed to win a major, the first year since 2004 that he had not done so.&lt;ref&gt;{{cite news |last=Dahlberg |first=Tim |title = Anything can happen: It did in Tiger's return |url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/01/SP691669HN.DTL |date = March 1, 2009 |work=San Francisco Chronicle |accessdate =July 1, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Ferguson|first=Doug|title=Americans win the Presidents Cup|date=October 12, 2009|url=http://www.times-news.com/localgolf/local_story_285000117.html/resources_printstory|newspaper=[[Cumberland Times-News]]|accessdate=December 17, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Barber|first=Phil|title=Americans win the Presidents Cup|work=[[The Press Democrat]]|date=October 11, 2009|url=http://www.pressdemocrat.com/article/20091011/SPORTS/910119981/1010/SPORTS?Title=Americans-win-the-Presidents-Cup|accessdate=October 27, 2009}}&lt;/ref&gt; After his marital infidelities came to light at the end of 2009 and received massive media coverage, Woods announced in December that he would be taking an indefinite break from competitive golf. In February 2010, he delivered a televised apology for his behavior. During this period, several companies ended their endorsement deals with Woods.
+
+Woods returned to competition in April at the [[2010 Masters Tournament]], where he finished in a tie for fourth place.&lt;ref&gt;{{cite news|url=http://sports.espn.go.com/golf/masters10/news/story?id=5075606|title=Mickelson wins Masters; Tiger 5 back|date=April 11, 2010|publisher=ESPN |accessdate=April 12, 2010}}&lt;/ref&gt; He followed the Masters with poor showings at the Quail Hollow Championship and the Players Championship, where he withdrew in the fourth round citing injury.&lt;ref&gt;{{cite news|url=http://sports.espn.go.com/golf/news/story?id=5152134|title=Woods misses sixth PGA Tour cut|date=May 1, 2010|publisher=ESPN |first=Bob|last=Harig|accessdate=May 1, 2010}}&lt;/ref&gt;  Shortly afterward, Woods' coach since 2003, Hank Haney, resigned the position; he was replaced in August by [[Sean Foley (golf instructor)|Sean Foley]].  The rest of the season went badly for Woods, who failed to win a single event for the first time since turning professional, while nevertheless finishing the season ranked #2 in the world.
+
+Woods' performance continued to suffer in 2011, taking its toll on his ranking. After falling to #7 in March, he rebounded to #5 with a strong showing at the [[2011 Masters Tournament]], where he tied for fourth place.&lt;ref&gt;pgatour.com, Official World Golf Ranking for March 27, 2011&lt;/ref&gt;&lt;ref&gt;pgatour.com, Official World Golf Ranking for April 11, 2011&lt;/ref&gt;&lt;ref&gt;pgatour.com, 2011 Masters tournament data&lt;/ref&gt; Due to leg injuries incurred at the Masters, he missed several summer events; in July he fired his longtime caddy [[Steve Williams (caddy)|Steve Williams]], replacing him temporarily with friend Bryon Bell.&lt;ref&gt;www.tigerwoods.com, June 7, 2011&lt;/ref&gt;&lt;ref&gt;Howard Sounes: ''The Wicked Game''&lt;/ref&gt; After returning to tournament play in August, Woods continued to falter, and his ranking gradually fell to a low of #58.&lt;ref name=chevron&gt;{{cite web |url=http://espn.go.com/golf/story/_/id/7231583/tiger-woods-moves-50th-official-world-golf-rankings |title=Tiger Woods moves to 50th in rankings |date=November 13, 2011|work=ESPN |accessdate=November 14, 2011}}&lt;/ref&gt; He rose to #50 in mid-November after a third-place win at the [[Emirates Australian Open]], and broke his winless streak with a victory at December's [[Chevron World Challenge]].&lt;ref name=chevron/&gt;&lt;ref&gt;pgatour.com, December 4, 2011, ''Tiger ends two-year winless streak''&lt;/ref&gt;
+
+Woods began his 2012 season with two tournaments (the [[Abu Dhabi HSBC Golf Championship]] and the [[AT&amp;T Pebble Beach National Pro-Am]]) where he started off well, but struggled on the final rounds. Following the [[WGC-Accenture Match Play Championship]], where he was knocked out in the second round by missing a 5-foot putt,&lt;ref&gt;{{cite web |url=http://espn.go.com/golf/story/_/id/7608618/nick-watney-ousts-tiger-woods-match-play-championship-second-round |title=Nick Watney eliminates Tiger Woods |first=Farrell |last=Evans |date=February 24, 2012 |work=ESPN.com |accessdate=February 24, 2012}}&lt;/ref&gt; Woods revised his putting technique and tied for second at the [[Honda Classic]], with the lowest final round score in his PGA Tour career. After a short time off due to another leg injury, Woods won the [[Arnold Palmer Invitational]], his first win on the PGA Tour since the [[BMW Championship (PGA Tour)|BMW Championship]] in September 2009. Following several dismal performances, Woods notched his 73rd PGA Tour win at the [[Memorial Tournament]] in June, tying [[Jack Nicklaus]]' record for most PGA Tour victories;&lt;ref&gt;{{cite news |url=http://timesofindia.indiatimes.com/sports/golf/top-stories/Tiger-wins-Memorial-to-match-Nicklaus-on-73-wins/articleshow/13791068.cms |title=Tiger wins Memorial to match Nicklaus on 73 wins |newspaper=[[The Times of India]] |date=June 4, 2012 |accessdate=June 7, 2012}}&lt;/ref&gt; a month later, Woods surpassed Nicklaus' record with a win at the [[AT&amp;T National]].&lt;ref&gt;{{cite news |url=http://www.bbc.co.uk/sport/0/golf/18668946 |title=Tiger Woods wins AT&amp;T to pass Jack Nicklaus record |work=BBC Sport |date=July 2, 2012 |accessdate=July 6, 2012}}&lt;/ref&gt;
+
+===Honors===
+[[File:Tiger Woods drives by Allison.jpg|thumb|Woods driving in 2007]]
+On August 20, 2007, California Governor [[Arnold Schwarzenegger]] and First Lady [[Maria Shriver]] announced that Woods would be inducted into the [[California Hall of Fame]]. He was inducted December 5, 2007 at [[The California Museum for History, Women and the Arts]] in Sacramento.&lt;ref&gt;{{cite news|title=Apple CEO among latest inductees to California Hall of Fame|work=San Diego Union-Tribune|date=August 20, 2007|url=http://www.signonsandiego.com/news/state/20070820-1459-ca-brf-norcal-halloffame.html|accessdate=July 15, 2009}}&lt;/ref&gt;&lt;ref&gt;[http://www.californiamuseum.org/Exhibits/Hall-of-Fame/inductees.html &quot;California Hall of Fame: 2007 Inductees&quot;], ''californiamuseum.org'', Retrieved on September 11, 2007.&lt;/ref&gt;
+
+He has been named &quot;Athlete of the Decade&quot; by the Associated Press in December 2009.&lt;ref&gt;{{cite web|title=Woods named top athlete of decade|publisher=ESPN|date=December 17, 2009|url=http://sports.espn.go.com/golf/news/story?id=4747530|accessdate=January 19, 2010}}&lt;/ref&gt;
+He has been named [[Associated Press Male Athlete of the Year]] a record-tying four times, and is the only person to be named ''[[Sports Illustrated]]'''s [[Sportsman of the Year]] more than once.
+
+Since his record-breaking win at the [[1997 Masters Tournament]], golf's increased popularity is commonly attributed to Woods' presence. He is credited by some sources for dramatically increasing prize money in golf, generating interest in new audiences, and for drawing the largest TV audiences in golf history.&lt;ref name=&quot;SI1996&quot;&gt;{{cite news| title = 1996: Tiger Woods|magazine=[[Sports Illustrated]]|author=Reilly, Rick|date = December 23, 1996|url=http://sportsillustrated.cnn.com/features/2000/sportsman/1996/|accessdate =March 30, 2009|publisher=CNN}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title = Tiger's Tour, 10 years after his Masters breakthrough |author=Slezak, Carol|date = April 1, 2007 |accessdate =March 30, 2009 |newspaper=[[Chicago Sun-Times]]|url = http://www.highbeam.com/doc/1P2-5840440.html}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title = Tiger 1997: The buzz that rocked the cradle |author=Reilly, Rick|author2=Garrity, John|author3=Diaz, Jaime|date = April 1, 1997|accessdate =March 30, 2009|publisher=Golf.com|magazine=[[Sports Illustrated]]|url=http://www.golf.com/golf/tours_news/article/0,28136,1594277,00.html}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title = With Tiger not a factor, preliminary ratings down for PGA |agency=Associated Press |date = August 20, 2001 |accessdate =March 30, 2009 |magazine=CNN/Sports Illustrated |url =http://sportsillustrated.cnn.com/golf/2001/pga_championship/news/2001/08/20/pga_ratings_ap/}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title = PGA jungle needs its Tiger on prowl |author=Ziemer, Tom|date = April 8, 2005 |accessdate =March 30, 2009 |newspaper=[[The Badger Herald]]|url=http://badgerherald.com/sports/2005/04/08/pga_jungle_needs_its.php}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last = Whitmer |first = Michael |title = Woods shows mettle again |newspaper=[[The Boston Globe]]|date=April 2, 2009|accessdate=August 11, 2009|url=http://www.boston.com/sports/golf/articles/2009/04/02/woods_shows_mettle_again/?page=full}}&lt;/ref&gt;
+
+===Endorsements===
+Woods has been called the world's most marketable athlete.&lt;ref name=&quot;sbr1&quot;&gt;Berger, Brian., [http://www.sportsbusinessradio.com/?q=node/616 &quot;Nike Golf Extends Contract with Tiger Woods&quot;], ''Sports business radio'', December 11, 2006, Retrieved on September 14, 2007.&lt;/ref&gt; Shortly after his 21st birthday in 1996, he began signing endorsement deals with numerous companies, including [[General Motors]], [[Titleist]], [[General Mills]], [[American Express]], [[Accenture]], and [[Nike, Inc.]] In 2000, he signed a 5-year, $105&amp;nbsp;million contract extension with Nike. It was the largest endorsing deal ever signed by an athlete at that time.&lt;ref name=&quot;ad1&quot;&gt;{{cite news |title= Six Degrees Of Tiger Woods|author=DiCarlo, Lisa|newspaper=Forbes|date=March 18, 2004|url=http://www.forbes.com/2004/03/18/cx_ld_0318nike.html|accessdate=December 17, 2009}}&lt;/ref&gt; Woods' endorsement has been credited with playing a significant role in taking the Nike Golf brand from a &quot;start-up&quot; golf company earlier in the past decade, to becoming the leading golf apparel company in the world, and a major player in the equipment and golf ball market.&lt;ref name=&quot;sbr1&quot; /&gt;&lt;ref name=&quot;end1&quot;&gt;[http://www.venturerepublic.com/resources/Branding_celebrities_brand_endorsements_brand_leadership.asp &quot; Branding and Celebrity Endorsements&quot;], ''VentureRepublic.com'', Retrieved on September 14, 2007.&lt;/ref&gt; Nike Golf is one of the fastest growing brands in the sport, with an estimated $600&amp;nbsp;million in sales.&lt;ref name=&quot;tm1&quot;&gt;Park, Alice., [http://www.time.com/time/magazine/article/0,9171,1609776,00.html &quot;Member of the Club&quot;], ''Time.com'', April 12, 2007, Retrieved on September 12, 2007.&lt;/ref&gt; Woods has been described as the &quot;ultimate endorser&quot; for Nike Golf,&lt;ref name=&quot;tm1&quot; /&gt; frequently seen wearing Nike gear during tournaments, and even in advertisements for other products.&lt;ref name=&quot;ad1&quot; /&gt; Woods receives a percentage from the sales of Nike Golf apparel, footwear, golf equipment, golf balls,&lt;ref name=&quot;sbr1&quot; /&gt; and has a building named after him at Nike’s headquarters campus in [[Beaverton, Oregon|Beaverton]], Oregon.&lt;ref name=&quot;ad3&quot;&gt;AP, [http://www.msnbc.msn.com/id/7493465/ &quot;Nike sees dollar signs in Woods’ magical shot&quot;], MSNBC.com, April 13, 2005, Retrieved on September 14, 2007.&lt;/ref&gt;
+
+In 2002, Woods was involved in every aspect of the launch of [[Buick]]'s [[Buick Rendezvous|Rendezvous]] [[SUV]]. A company spokesman stated that Buick was happy with the value of Woods' endorsement, pointing out that more than 130,000 Rendezvous vehicles were sold in 2002 and 2003. &quot;That exceeded our forecasts,&quot; he was quoted as saying, &quot;It has to be in recognition of Tiger.&quot; In February 2004, Buick renewed Woods' endorsement contract for another five years, in a deal reportedly worth $40&amp;nbsp;million.&lt;ref name=&quot;ad1&quot; /&gt;
+
+Woods collaborated closely with [[TAG Heuer]] to develop the world's first professional golf watch, released in April 2005.&lt;ref name=&quot;watch1&quot;&gt;Krakow, Gary., [http://www.msnbc.msn.com/id/9773121/ &quot;Tiger Woods watch is a technological stroke&quot;]{{dead link|date=September 2010}}, ''[[MSNBC]].com'', November 7, 2005, Retrieved on June 17, 2007.&lt;/ref&gt; The lightweight, [[titanium]]-construction watch, designed to be worn while playing the game, incorporates numerous innovative design features to accommodate golf play. It is capable of absorbing up to 5,000 [[g-force|Gs]] of shock, far in excess of the forces generated by a normal golf swing.&lt;ref name=&quot;watch1&quot; /&gt; In 2006, the TAG Heuer ''Professional Golf Watch'' won the prestigious ''[[iF product design award]]'' in the Leisure/Lifestyle category.&lt;ref name=&quot;watch2&quot;&gt;[http://www.best-watch.net/news/tag-heuer-monaco-calibre.html &quot;Tag Heuer's Innovative Creation Wins Prestigious Award&quot;], ''best-watch.net Watch News'', January 31, 2007, Retrieved on September 11, 2007.&lt;/ref&gt;
+[[File:Woods photo shoot.jpg|thumb|left|upright|Woods preparing for a photo shoot in 2006]]
+
+Woods also endorses the [[Tiger Woods PGA Tour]] series of video games; he has done so since 1999.&lt;ref&gt;{{cite journal|last=Woods|first=Tiger|coauthor=Rothman, Wilson|title=Q&amp;A with Tiger Woods|journal=Time|date=September 26, 2004|url=http://www.time.com/time/magazine/article/0,9171,1101041004-702139,00.html|accessdate=July 8, 2009}}&lt;/ref&gt; In 2006, he signed a six-year contract with [[Electronic Arts]], the series' publisher.&lt;ref&gt;{{cite web|title=Tiger Woods to play another six with EA|publisher=[[GameSpot]]|date=February 2, 2006|url=http://www.gamespot.com/news/6143591.html|accessdate=July 8, 2009|author=Tim Surette}}&lt;/ref&gt;
+
+In February 2007, along with Roger Federer and [[Thierry Henry]], Woods became an ambassador for the &quot;[[Global Gillette|Gillette]] Champions&quot; marketing campaign. Gillette did not disclose financial terms, though an expert estimated the deal could total between $10&amp;nbsp;million and $20&amp;nbsp;million.&lt;ref&gt;{{cite news |title = Gillette lands a trio of star endorsers |author=Jenn Abelson |work=Boston Globe |date = February 5, 2007 |accessdate =October 17, 2007 |url = http://www.boston.com/business/globe/articles/2007/02/05/gillette_lands_a_trio_of_star_endorsers/}}&lt;/ref&gt;
+
+In October 2007, [[Gatorade]] announced that Woods would have his own brand of sports drink starting in March 2008. &quot;Gatorade Tiger&quot; was his first U.S. deal with a beverage company and his first licensing agreement. Although no figures were officially disclosed, ''Golfweek'' magazine reported that it was for five years and could pay him as much as $100&amp;nbsp;million.&lt;ref&gt;{{cite news|title=Gatorade Unveils a Taste of Tiger|work=The Washington Post|date=October 17, 2007|url=http://www.washingtonpost.com/wp-dyn/content/article/2007/10/16/AR2007101601764.html|accessdate=June 25, 2009}}&lt;/ref&gt; The company decided in early fall 2009 to discontinue the drink due to weak sales.&lt;ref&gt;{{cite news|url=http://www.chicagotribune.com/business/sns-ap-us-tiger-woods-gatorade,0,4088989.story|title=Gatorade confirms it is dropping Tiger Woods drink, but decided to before fateful car wreck|date=December 9, 2009|agency=Associated Press|accessdate=December 9, 2009 | work=Chicago Tribune}}&lt;/ref&gt;
+
+According to ''Golf Digest'', Woods made $769,440,709 from 1996 to 2007,&lt;ref&gt;{{cite news |title = The Fortunate 50 |author=Jonah Freedman |url = http://sportsillustrated.cnn.com/more/specials/fortunate50/2007/ |work=Sports Illustrated | year=2007 |accessdate =May 20, 2008}}&lt;/ref&gt; and the magazine predicted that by 2010, Woods would pass one billion dollars in earnings.&lt;ref&gt;{{cite news|title=The Golf Digest 50|publisher=[[Golf Digest]]|url=http://www.golfdigest.com/magazine/2008/02/gd50|accessdate=January 11, 2007|date=February 2008|first=Ron|last=Sirak}}&lt;/ref&gt; In 2009, ''[[Forbes]]'' confirmed that Woods was indeed the world's first athlete to earn over a billion dollars in his career (before taxes), after accounting for the $10&amp;nbsp;million bonus Woods received for the [[FedEx Cup]] title.&lt;ref&gt;{{cite web|title=Report: Tiger richest athlete in history|publisher=ESPN|date=October 2, 2009|url=http://sports.espn.go.com/golf/news/story?id=4524640|accessdate=October 2, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Woods is sports' first billion-dollar man|work=Forbes|publisher=Yahoo! Sports|date=October 1, 2009|url=http://sports.yahoo.com/golf/pga/news?slug=ys-forbestiger100109&amp;prov=yhoo&amp;type=lgns|accessdate=October 2, 2009|author=Kurt Badenhausen}}&lt;/ref&gt; The same year, Forbes estimated his net worth to be $600&amp;nbsp;million, making him the second richest &quot;African American&quot; behind only [[Oprah Winfrey]].&lt;ref&gt;{{cite news |title=The Wealthiest Black Americans|author=Miller, Matthew|newspaper=Forbes|date=May 6, 2009|url=http://www.forbes.com/2009/05/06/richest-black-americans-busienss-billionaires-richest-black-americans.html|accessdate=December 17, 2009}}&lt;/ref&gt;
+
+In July 2011, Woods appeared on a 15-second Japanese television commercial, endorsing a heat back rub by Kowa Co., the Vantelin Kowa rub. Details of the deal, which was made in late 2010, were not disclosed.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/tvshowbiz/article-2011687/Tiger-Woods-endorses-Japanese-heat-rub-Is-really-appropriate.html |title=Is that really an appropriate item to be advertising? First look at Tiger Woods endorsing Japanese 'heat rub' |newspaper=[[Daily Mail]] |date=July 6, 2011 |accessdate=October 25, 2012 }} &lt;/ref&gt;
+
+In October 2012, it was announced that Woods had signed an exclusive endorsement deal with Fuse Science, Inc, a [[sports nutrition]] firm.&lt;ref&gt;{{cite web|url=http://www.pga.com/news/industry-news/sports-nutrition-firm-fuse-science-signs-sponsor-tiger-woods-bag |title=Sports nutrition firm Fuse Science signs on as sponsor of Woods' bag |publisher=[[PGA]] |author=Associated Press |accessdate=October 25, 2012 }} &lt;/ref&gt;
+
+===Tiger-proofing===
+Early in Woods' career, a small number of golf experts expressed concern about his impact on the competitiveness of the game and the public appeal of professional golf. Sportswriter Bill Lyon of [[Knight-Ridder]] asked in a column, &quot;Isn't Tiger Woods actually bad for golf?&quot; (though Lyon ultimately concluded that he was not).&lt;ref name=&quot;Bad&quot;&gt;{{cite news |title=Woods bad for golf? There's an unplayable lie |publisher=[[The Philadelphia Inquirer]] |author=Lyon, Bill |date=August 16, 2000 |accessdate=May 13, 2007}}&lt;/ref&gt; At first, some pundits feared that Woods would drive the spirit of competition out of the game of golf by making existing courses obsolete and relegating opponents to simply competing for second place each week.
+
+A related effect was measured by economist Jennifer Brown of the [[University of California, Berkeley]] who found that other golfers played worse when competing against Woods than when he was not in the tournament. The scores of highly skilled (exempt) golfers are nearly one stroke higher when playing against Woods. This effect was larger when he was on winning streaks and disappeared during his well-publicized slump in 2003–04. Brown explains the results by noting that competitors of similar skill can hope to win by increasing their level of effort, but that, when facing a &quot;superstar&quot; competitor, extra exertion does not significantly raise one's level of winning while increasing risk of injury or exhaustion, leading to reduced effort.&lt;ref&gt;Brown, Jennifer; [http://home.business.utah.edu/finmh/Brown_Quitters_Never_Win.pdf ''Quitters Never Win: The (Adverse) Incentive Effects of Competing with Superstars''], Job Market Paper, November 2007&lt;/ref&gt;
+
+Many courses in the PGA Tour rotation (including Major Championship sites like [[Augusta National Golf Club|Augusta National]]) have added yardage to their tees in an effort to reduce the advantage of long hitters like Woods, a strategy that became known as &quot;Tiger-Proofing&quot;. Woods said he welcomed the change, in that adding yardage to courses did not affect his ability to win.&lt;ref name=&quot;Open2005&quot;&gt;{{cite web |title = Tiger Woods Press Conference:The Open Championship |publisher=TigerWoods.com |author=ASAP Sports |date = July 12, 2005 |url = http://www.tigerwoods.com/defaultflash.sps?page=fullstorynews&amp;iNewsID=199184&amp;categoryID=&amp;pagenumber=1&amp;cat=0 |accessdate =May 13, 2007}}&lt;/ref&gt;
+
+==Playing style==
+[[File:TigerWoods2004RyderCup3.jpg|thumb|left|upright|Woods practicing before [[2004 Ryder Cup]] at [[Oakland Hills Country Club]] in [[Bloomfield Hills, Michigan|Bloomfield Hills]], Michigan]]
+
+When Woods first joined the professional tour in 1996, his long drives had a large impact on the world of golf.&lt;ref&gt;{{cite news |title = Woods threatens all records at the Masters |agency=Associated Press |archiveurl = http://web.archive.org/web/20050330233915/http://slam.canoe.ca/SlamGolf97Masters/apr13_tig.html|archivedate = March 30, 2005 |url = http://slam.canoe.ca/SlamGolf97Masters/apr12_mastersthird.html |publisher=[[Canadian Online Explorer]]|date = April 12, 1997|accessdate=August 6, 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url = http://sportsillustrated.cnn.com/augusta/stories/041497/20Woods.html |agency=Associated Press |title= Tiger had more than just length in annihilating Augusta |work=Sports Illustrated |date = April 14, 1997 |accessdate =June 20, 2009}}&lt;/ref&gt; However, when he did not upgrade his equipment in the following years (insisting upon the use of True Temper Dynamic Gold steel-shafted clubs and smaller steel clubheads that promoted accuracy over distance),&lt;ref&gt;{{cite web|url = http://www.golftransactions.com/equipment/truetemper070903.html |author=Cara Polinski |publisher=The Wire |title = True Temper Wins Again! |date =July 8, 2003 |accessdate =August 6, 2007}}&lt;/ref&gt; many opponents caught up to him. Phil Mickelson even made a joke in 2003 about Woods using &quot;inferior equipment&quot;, which did not sit well with [[Nike, Inc.|Nike]], [[Titleist]] or Woods.&lt;ref&gt;{{cite web|url = http://sports.espn.go.com/golf/story?id=1507979 |title = Woods, Mickelson clear the air, put spat behind them |publisher=ESPN |date = February 13, 2003 |accessdate =August 6, 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://www.golftoday.co.uk/news/yeartodate/news03/mickelson1.html |title = Phil Mickelson clarifies Tiger comments |publisher=Golf Today |accessdate =August 6, 2007}}&lt;/ref&gt; During 2004, Woods finally upgraded his driver technology to a larger clubhead and [[graphite]] shaft, which, coupled with his clubhead speed, made him one of the Tour's lengthier players off the [[Tee#Golf tee|tee]] once again.
+
+Despite his power advantage, Woods has always focused on developing an excellent all-around game. Although in recent years he has typically been near the bottom of the Tour rankings in driving accuracy, his iron play is generally accurate, his recovery and bunker play is very strong, and his putting (especially under pressure) is possibly his greatest asset. He is largely responsible for a shift to higher standards of athleticism amongst professional golfers, and is known for putting in more hours of practice than most.&lt;ref name=&quot;linkageinc&quot;&gt;{{cite web|title = CASE STUDY: Tiger Woods|publisher=Linkage Incorporated|url = http://www.linkageinc.com/company/news_events/link_learn_enewsletter/archive/2002/03_02_case_study_tiger_woods.aspx|archiveurl = http://web.archive.org/web/20061015151438/http://www.linkageinc.com/company/news_events/link_learn_enewsletter/archive/2002/03_02_case_study_tiger_woods.aspx|archivedate = October 15, 2006|accessdate =June 24, 2009}}&lt;/ref&gt;&lt;ref name=&quot;par&quot;&gt;{{cite web|title = When Par isn't good enough|publisher=APMP.org|url = http://209.85.165.104/search?q=cache:XkXY0D7wsSEJ:www.apmp.org/fv-63.aspx+tiger+woods+long+hours+of+practice&amp;hl=en&amp;ct=clnk&amp;cd=18&amp;gl=us|accessdate =May 12, 2007}}&lt;/ref&gt;&lt;ref name=&quot;CBS&quot;&gt;{{cite news|title = Tiger Woods Up Close And Personal|publisher=[[CBS News]]|author=Ed Bradley|date = September 3, 2006|url = http://www.cbsnews.com/stories/2006/03/23/60minutes/main1433767_page5.shtml|accessdate =May 13, 2007}}&lt;/ref&gt;
+
+From mid-1993, while he was still an amateur, until 2004, Woods worked almost exclusively with leading swing coach [[Butch Harmon]]. From mid-1997, Harmon and Woods fashioned a major redevelopment of Woods' full swing, achieving greater consistency, better distance control, and better [[kinesiology]]. The changes began to pay off in 1999.&lt;ref&gt;{{Cite book|title=The Pro: Lessons About Golf and Life from My Father, Claude Harmon, Sr.|author=Harmon, Butch |year=2006|publisher=Three Rivers Press|isbn=0-307-33804-5}}&lt;/ref&gt; From March 2004 to 2010, Woods was coached by [[Hank Haney]], who worked on flattening his swing plane. Woods continued to win tournaments with Haney, but his driving accuracy dropped significantly. Haney resigned in May 2010 and was replaced by [[Sean Foley (golf instructor)|Sean Foley]].
+&lt;ref&gt;[http://www.tsn.ca/golf/story/?id=330104 Canadian Swing Coach Foley Helping Tiger At PGA Championship], Canadian Press, August 10, 2010. Retrieved August 10, 2010&lt;/ref&gt;
+
+[[Mike Cowan|Mike &quot;Fluff&quot; Cowan]] served as Woods' caddy from the start of his professional career until March 1999.&lt;ref name=&quot;Fluff&quot;&gt;{{cite news|title = Woods Dismisses His Caddie Cowan|work=The New York Times|date=March 9, 1999|url = http://query.nytimes.com/gst/fullpage.html?res=9C04E1DA113FF93AA35750C0A96F958260|accessdate =May 13, 2007}}&lt;/ref&gt; He was replaced by [[Steve Williams (caddy)|Steve Williams]], who became a close friend of Woods and is often credited with helping him with key shots and putts.&lt;ref name=&quot;Caddie&quot;&gt;{{cite news|title = Tiger's Caddie Reflects on &quot;Defining&quot; Moment at Medinah|publisher=[[The Golf Channel]]|agency=Associated Press|date =August 8, 2006|url = http://www.thegolfchannel.com/core.aspx?page=15101&amp;select=20332|accessdate =May 13, 2007}}&lt;/ref&gt; In June 2011, Woods fired Williams and replaced him with Woods' friend Bryon Bell, on an interim basis. Joe LaCava, a former caddy of both [[Fred Couples]] and [[Dustin Johnson]], was hired by Woods shortly after.&lt;ref&gt;{{cite news |url=http://espn.go.com/golf/story/_/id/7019948/tiger-woods-hire-dustin-johnson-caddie-joe-lacava |title=Tiger Woods hires caddie Joe LaCava |work=ESPN |agency=Associated Press |date=September 27, 2011 |accessdate=July 23, 2012}}&lt;/ref&gt;
+
+==Equipment==
+'''As of 2012:'''&lt;ref name=&quot;bag&quot;&gt;{{cite web|title=Tiger's Bag|url=http://www.nike.com/nikeos/p/nikegolf/en_US/athletes/tiger-woods}}&lt;/ref&gt;&lt;ref&gt;[http://www.golfchannel.com/news/equipment-insider/whats-in-the-bag-tiger-woods-yani-tseng-march-27-2012/ What's in the Bag: Woods, Couples], golfchannel.com, accessed 30 March 2012&lt;/ref&gt;&lt;ref name=&quot;golftoday1&quot;&gt;[http://www.golftoday.co.uk/equipment/in_the_bag/tiger_woods.html What's in the bag of Tiger Woods?], golftoday.co.uk, accessed 30 March 2012&lt;/ref&gt;&lt;ref&gt;{{cite web|title=In the Bag|url=http://web.tigerwoods.com/aboutTiger/inTheBag}}&lt;/ref&gt;
+*Driver: [[Nike, Inc.|Nike]] VR Tour (8.5 degree; Graphite Design Tour AD DI 6x shaft)
+*[[Wood (golf)|Fairway Woods]]: Nike VR Pro Ltd 15° 3-wood and Nike SQ II 19° 5-Wood with Mitsubishi Diamana Blueboard 103 shaft
+*[[Iron (golf)|Irons]]: Nike VR Pro Blades (2-PW) (Tiger will put his 5 Wood or 2 Iron in the bag depending upon the course setup and conditions). All irons are 1 degree upright, have D4 swingweight, standard size Tour Velvet grips and True Temper Dynamic Gold X-100 shafts.&lt;ref name=&quot;golftoday1&quot;/&gt;
+*[[Iron (golf)#Wedges|Wedges]]: Nike VR Pro (56 and 60 degree; True Temper Dynamic Gold S400 shafts)
+*[[Putter (golf)|Putter]]: Nike Method 001
+*[[Golf ball|Ball]]: Nike ONE Tour D (with &quot;Tiger&quot; imprint)
+*[[Golf equipment#Gloves|Golf Glove]]: Nike Dri-FIT Tour glove
+*[[Golf equipment#Shoes|Golf Shoes]]: Nike TW Free Inspired Prototype
+*Driver club cover: ''Frank'', a plush tiger head club cover created by his mother. Frank has appeared in several commercials.&lt;ref name=&quot;Frank&quot;&gt;{{cite news|last=Cannizzaro|first=Mark|title=Tiger Pitch Ad-Nauseam|work=New York Post |date=August 29, 2007|url=http://www.nypost.com/seven/08292007/sports/tiger_pitch_ad_nauseam.htm|accessdate=June 24, 2009}}&lt;/ref&gt;
+&lt;!--
+'''Additional Notes:'''
+*Irons: Rumored to be a custom set hand-forged by Katsuhiro Miura of Miura Golf, and not available to the public. Although Miura is acknowledged to have created Tiger's Titleist-branded [[iron (golf)|irons]] when they sponsored him, Nike denies that Miura is making any Nike irons and Miura does not comment.&lt;ref&gt;[http://www.bloomberg.com/apps/news?pid=20601079&amp;sid=anpejfXY9Qyc&amp;refer=amsports Bloomberg.com: North American]&lt;/ref&gt;
+*Putter: Tiger has used the same exact putter since 1999, and has won 13 of his 14 majors with it.
+--&gt;
+
+==Career achievements==
+{{Main|List of career achievements by Tiger Woods}}
+
+Woods has won 74 official [[PGA Tour]] events including 14 [[Men's major golf championships|majors]]. He is 14–1 when going into the final round of a major with at least a share of the lead. He has been heralded as &quot;the greatest closer in history&quot; by multiple golf experts.&lt;ref&gt;{{cite web|title = Tiger is greatest closer ever|url =http://www.msnbc.msn.com/id/14002254/ |author=Mike Celizic |publisher=[[MSNBC]] |date = July 24, 2006 |accessdate=August 12, 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title = Goliath will surely fall one day. Or will he?|url =http://www.pga.com/pgachampionship/2007/news/pga_maginnes_081207.html |author=John Maginnes |publisher=[[PGA Tour]]|date =August 12, 2007 |accessdate =August 12, 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title = Cabrera wins devilish battle at U.S. Open|url =http://sports.espn.go.com/golf/usopen07/news/story?id=2907111 |agency=Associated Press |publisher=ESPN |date = June 20, 2007|accessdate =August 12, 2007}}&lt;/ref&gt; He owns the lowest career scoring average and the most career earnings of any player in PGA Tour history.
+
+He has spent the most consecutive and cumulative weeks atop the world rankings. He is one of five players (along with [[Gene Sarazen]], [[Ben Hogan]], [[Gary Player]], and Jack Nicklaus) to have won all four professional major championships in his career, known as the Career Grand Slam, and was the youngest to do so.&lt;ref&gt;{{cite news|last=Farrell|first=Andy|title=Woods moves majestically to grand slam|work=The Independent |location=UK|date=July 24, 2000|url=http://www.independent.co.uk/sport/golf/woods-moves-majestically-to-grand-slam-708668.html|accessdate=May 20, 2009}}&lt;/ref&gt; Woods is the only player to have won all four professional major championships in a row, accomplishing the feat in the 2000–2001 seasons.
+
+*'''[[List of career achievements by Tiger Woods#PGA Tour wins (74)|PGA Tour wins (74)]]'''
+*'''[[List of career achievements by Tiger Woods#European Tour wins (38)|European Tour wins (38)]]'''
+*'''[[List of career achievements by Tiger Woods#Japan Golf Tour wins (2)|Japan Golf Tour wins (2)]]'''
+*'''[[List of career achievements by Tiger Woods#Asian Tour wins (1)|Asian Tour wins (1)]]'''
+*'''[[List of career achievements by Tiger Woods#PGA Tour of Australasia wins (1)|PGA Tour of Australasia wins (1)]]'''
+*'''[[List of career achievements by Tiger Woods#Other professional wins (15)|Other professional wins (15)]] '''
+*'''[[List of career achievements by Tiger Woods#Amateur wins (21)|Amateur wins (21)]]'''
+
+===Major championships===
+
+====Wins (14)====
+{|class=&quot;sortable wikitable&quot;
+!Year!!Championship!!54 holes!!Winning score!!Margin!!Runner(s)-up
+|- style=&quot;background:#d0f0c0;&quot;
+| [[1997 Masters Tournament|1997]] ||[[Masters Tournament]] ||{{Hs|09}}9 shot lead ||{{Hs|-18}}−18 (70-66-65-69=270) ||{{Hs|12}}12 strokes ||{{flagicon|USA}} [[Tom Kite]]
+|- style=&quot;background:thistle;&quot;
+| [[1999 PGA Championship|1999]] ||[[PGA Championship]] ||{{Hs|00}}Tied for lead ||{{Hs|-11}}−11 (70-67-68-72=277) ||{{Hs|01}}1 stroke ||{{flagicon|ESP}} [[Sergio García]]
+|- style=&quot;background:#fbceb1;&quot;
+| [[2000 U.S. Open (golf)|2000]] ||[[U.S. Open (golf)|U.S. Open]] ||{{Hs|10}}10 shot lead ||{{Hs|-12}}−12 (65-69-71-67=272) ||{{Hs|15}}15 strokes ||{{flagicon|RSA}} [[Ernie Els]], {{flagicon|ESP}} [[Miguel Ángel Jiménez]]
+|- style=&quot;background:#abcdef;&quot;
+| [[2000 Open Championship|2000]] ||[[The Open Championship]] ||{{Hs|06}}6 shot lead ||{{Hs|-19}}−19 (67-66-67-69=269) ||{{Hs|08}}8 strokes ||{{flagicon|DNK}} [[Thomas Bjørn]], {{flagicon|RSA}} Ernie Els
+|- style=&quot;background:thistle;&quot;
+| [[2000 PGA Championship|2000]] ||PGA Championship &lt;small&gt; (2)&lt;/small&gt;||{{Hs|01}}1 shot lead ||{{Hs|-18}}−18 (66-67-70-67=270) ||{{Hs|00}}Playoff &lt;sup&gt;1&lt;/sup&gt; ||{{flagicon|USA}} [[Bob May (golfer)|Bob May]]
+|- style=&quot;background:#d0f0c0;&quot;
+| [[2001 Masters Tournament|2001]] ||Masters Tournament &lt;small&gt; (2)&lt;/small&gt;||{{Hs|01}}1 shot lead ||{{Hs|-16}}−16 (70-66-68-68=272) ||{{Hs|02}}2 strokes ||{{flagicon|USA}} [[David Duval]]
+|- style=&quot;background:#d0f0c0;&quot;
+| [[2002 Masters Tournament|2002]] ||Masters Tournament &lt;small&gt; (3)&lt;/small&gt;||{{Hs|00}}Tied for lead ||{{Hs|-12}}−12 (70-69-66-71=276) ||{{Hs|03}}3 strokes ||{{flagicon|RSA}} [[Retief Goosen]]
+|- style=&quot;background:#fbceb1;&quot;
+| [[2002 U.S. Open (golf)|2002]] ||U.S. Open &lt;small&gt; (2)&lt;/small&gt;||{{Hs|04}}4 shot lead ||{{Hs|-03}}−3 (67-68-70-72=277) ||{{Hs|03}}3 strokes ||{{flagicon|USA}} [[Phil Mickelson]]
+|- style=&quot;background:#d0f0c0;&quot;
+| [[2005 Masters Tournament|2005]] ||Masters Tournament &lt;small&gt; (4)&lt;/small&gt;||{{Hs|03}}3 shot lead ||{{Hs|-12}}−12 (74-66-65-71=276) ||{{Hs|00}}Playoff &lt;sup&gt;2&lt;/sup&gt; ||{{flagicon|USA}} [[Chris DiMarco]]
+|- style=&quot;background:#abcdef;&quot;
+| [[2005 Open Championship|2005]] ||The Open Championship &lt;small&gt; (2)&lt;/small&gt;||{{Hs|02}}2 shot lead ||{{Hs|-14}}−14 (66-67-71-70=274) ||{{Hs|05}}5 strokes ||{{flagicon|SCO}} [[Colin Montgomerie]]
+|- style=&quot;background:#abcdef;&quot;
+| [[2006 Open Championship|2006]] ||The Open Championship &lt;small&gt; (3)&lt;/small&gt;||{{Hs|01}}1 shot lead ||{{Hs|-18}}−18 (67-65-71-67=270) ||{{Hs|02}}2 strokes ||{{flagicon|USA}} Chris DiMarco
+|- style=&quot;background:thistle;&quot;
+| [[2006 PGA Championship|2006]] ||PGA Championship &lt;small&gt; (3)&lt;/small&gt;||{{Hs|00}}Tied for lead ||{{Hs|-18}}−18 (69-68-65-68=270) ||{{Hs|05}}5 strokes ||{{flagicon|USA}} [[Shaun Micheel]]
+|- style=&quot;background:thistle;&quot;
+| [[2007 PGA Championship|2007]] ||PGA Championship &lt;small&gt; (4)&lt;/small&gt;||{{Hs|03}}3 shot lead ||{{Hs|-08}}−8 (71-63-69-69=272) ||{{Hs|02}}2 strokes ||{{flagicon|USA}} [[Woody Austin]]
+|- style=&quot;background:#fbceb1;&quot;
+| [[2008 U.S. Open (golf)|2008]] ||U.S. Open &lt;small&gt; (3)&lt;/small&gt;||{{Hs|01}}1 shot lead ||{{Hs|-01}}−1 (72-68-70-73=283) ||{{Hs|00}}Playoff &lt;sup&gt;3&lt;/sup&gt; ||{{flagicon|USA}} [[Rocco Mediate]]
+|}
+&lt;sup&gt;1&lt;/sup&gt; Defeated May in three-hole playoff by 1 stroke: Woods (3-4-5=12), May (4-4-5=13) &lt;br /&gt;
+&lt;sup&gt;2&lt;/sup&gt; Defeated DiMarco with birdie on first extra hole&lt;br /&gt;
+&lt;sup&gt;3&lt;/sup&gt; Defeated Mediate with a par on 1st sudden death hole after 18-hole playoff was tied at even par
+
+====Results timeline====
+{| cellpadding=&quot;3&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size: 95%; border: #aaa solid 1px; border-collapse: collapse; text-align:center&quot;
+|- style=&quot;background:#eee;&quot;
+!align=&quot;left&quot;|Tournament
+!1995
+!1996
+!1997
+!1998
+!1999
+!2000
+!2001
+!2002
+!2003
+!2004
+!2005
+!2006
+!2007
+!2008
+!2009
+!2010
+!2011
+!2012
+|-
+| style=&quot;text-align:left;&quot;|[[Masters Tournament|The Masters]]
+|T41 &lt;span style=&quot;font-size:0.8em;&quot;&gt;LA&lt;/span&gt;
+|CUT
+| style=&quot;background:lime;&quot;|'''1'''
+| style=&quot;background:yellow;&quot;|T8
+|T18
+| style=&quot;background:yellow;&quot;|5
+| style=&quot;background:lime;&quot;|'''1'''
+| style=&quot;background:lime;&quot;|'''1'''
+|T15
+|T22
+| style=&quot;background:lime;&quot;|'''1'''
+| style=&quot;background:yellow;&quot;|T3
+| style=&quot;background:yellow;&quot;|T2
+| style=&quot;background:yellow;&quot;|2
+| style=&quot;background:yellow;&quot;|T6
+| style=&quot;background:yellow;&quot;|T4
+| style=&quot;background:yellow;&quot;|T4
+|T40
+|-
+| style=&quot;text-align:left;&quot;|[[U.S. Open (golf)|U.S. Open]]
+|WD
+|T82
+|T19
+|T18
+| style=&quot;background:yellow;&quot;|T3
+| style=&quot;background:lime;&quot;|'''1'''
+|T12
+| style=&quot;background:lime;&quot;|'''1'''
+|T20
+|T17
+| style=&quot;background:yellow;&quot;|2
+|CUT
+| style=&quot;background:yellow;&quot;|T2
+| style=&quot;background:lime;&quot;|'''1'''
+| style=&quot;background:yellow;&quot;|T6
+| style=&quot;background:yellow;&quot;|T4
+|DNP
+|T21
+|-
+| style=&quot;text-align:left;&quot;|[[The Open Championship]]
+|T68
+|T22 &lt;span style=&quot;font-size:0.8em;&quot;&gt;LA&lt;/span&gt;
+|T24
+| style=&quot;background:yellow;&quot;|3
+| style=&quot;background:yellow;&quot;|T7
+| style=&quot;background:lime;&quot;|'''1'''
+|T25
+|T28
+| style=&quot;background:yellow;&quot;|T4
+| style=&quot;background:yellow;&quot;|T9
+| style=&quot;background:lime;&quot;|'''1'''
+| style=&quot;background:lime;&quot;|'''1'''
+|T12
+|DNP
+|CUT
+|T23
+|DNP
+|style=&quot;background:yellow;&quot;|T3
+|-
+| style=&quot;text-align:left;&quot;|[[PGA Championship]]
+|DNP
+|DNP
+|T29
+| style=&quot;background:yellow;&quot;|T10
+| style=&quot;background:lime;&quot;|'''1'''
+| style=&quot;background:lime;&quot;|'''1'''
+|T29
+| style=&quot;background:yellow;&quot;|2
+|T39
+|T24
+| style=&quot;background:yellow;&quot;|T4
+| style=&quot;background:lime;&quot;|'''1'''
+| style=&quot;background:lime;&quot;|'''1'''
+|DNP
+| style=&quot;background:yellow;&quot;|2
+|T28
+|CUT
+|T11 
+|}
+
+&lt;span style=&quot;font-size:0.8em;&quot;&gt;LA&lt;/span&gt; = Low Amateur&lt;br /&gt;
+DNP = Did not play&lt;br /&gt;
+CUT = missed the half-way cut&lt;br /&gt;
+&quot;T&quot; indicates a tie for a place&lt;br /&gt;
+Green background for wins. Yellow background for top-10.
+
+====Summary====
+*Starts – 66
+*Wins – 14
+*2nd place finishes – 6
+*Top 3 finishes – 24
+*Top 5 finishes – 30
+*Top 10 finishes – 36
+*Top 25 finishes – 51
+*Missed cuts – 4
+*Most consecutive cuts made – 39
+*Longest streak of top-10s – 8
+
+===World Golf Championships===
+
+====Wins (16)====
+{| class=&quot;sortable wikitable&quot; style=&quot;font-size:95%;&quot;
+|-
+!Year!!Championship!!54 holes!!Winning score!!Margin!!Runner(s)-up
+|- style=&quot;background:#ffc;&quot;
+|[[1999 WGC-NEC Invitational|1999]]
+|[[WGC-NEC Invitational]]
+|align=center|{{Hs|05}}5 shot lead
+|align=center|{{Hs|-10}}–10 (66-71-62-71=270)
+|align=left|{{Hs|01}}1 stroke
+|{{flagicon|USA}} [[Phil Mickelson]]
+|- style=&quot;background:#ffd6d6;&quot;
+|[[1999 WGC-American Express Championship|1999]]
+|[[WGC-American Express Championship]]
+|align=center|{{Hs|-03}}1 shot deficit
+|align=center|{{Hs|-06}}–6 (71-69-70-68=278)
+|align=left|{{Hs|00}}Playoff &lt;sup&gt;1&lt;/sup&gt;
+|{{flagicon|ESP}} [[Miguel Ángel Jiménez]]
+|- style=&quot;background:#ffc;&quot;
+|[[2000 WGC-NEC Invitational|2000]]
+|[[WGC-NEC Invitational]] &lt;small&gt;(2)&lt;/small&gt;
+|align=center|{{Hs|09}}9 shot lead
+|align=center|{{Hs|-21}}–21 (64-61-67-67=259)
+|align=left|{{Hs|11}}11 strokes
+|{{flagicon|USA}} [[Justin Leonard]], {{flagicon|WAL}} [[Phillip Price]]
+|- style=&quot;background:#ffc;&quot;
+|[[2001 WGC-NEC Invitational|2001]]
+|[[WGC-NEC Invitational]] &lt;small&gt;(3)&lt;/small&gt;
+|align=center|{{Hs|-02}}2 shot deficit
+|align=center|{{Hs|-12}}–12 (66-67-66-69=268)
+|align=left|{{Hs|00}}Playoff &lt;sup&gt;2&lt;/sup&gt;
+|{{flagicon|USA}} [[Jim Furyk]]
+|- style=&quot;background:#ffd6d6;&quot;
+|[[2002 WGC-American Express Championship|2002]]
+|[[WGC-American Express Championship]] &lt;small&gt;(2)&lt;/small&gt;
+|align=center|{{Hs|05}}5 shot lead
+|align=center|{{Hs|-25}}–25 (65-65-67-66=263)
+|align=left|{{Hs|01}}1 stroke
+|{{flagicon|ZAF}} [[Retief Goosen]]
+|- style=&quot;background:#d6e8ff;&quot;
+|[[2003 WGC-Accenture Match Play Championship|2003]]
+|[[WGC-Accenture Match Play Championship]]
+|align=center|{{Hs|n/a}}n/a
+|align=center|{{Hs|n/a}}2 &amp; 1
+|align=left|{{Hs|n/a}}n/a
+|{{flagicon|USA}} [[David Toms]]
+|- style=&quot;background:#ffd6d6;&quot;
+|[[2003 WGC-American Express Championship|2003]]
+|[[WGC-American Express Championship]] &lt;small&gt;(3)&lt;/small&gt;
+|align=center|{{Hs|02}}2 shot lead
+|align=center|{{Hs|-06}}–6 (67-66-69-72=274)
+|align=left|{{Hs|02}}2 strokes
+|{{flagicon|AUS}} [[Stuart Appleby]], {{flagicon|USA}} [[Tim Herron]], {{flagicon|FJI}} [[Vijay Singh]]
+|- style=&quot;background:#d6e8ff;&quot;
+|[[2004 WGC-Accenture Match Play Championship|2004]]
+|[[WGC-Accenture Match Play Championship]] &lt;small&gt;(2)&lt;/small&gt;
+|align=center|{{Hs|n/a}}n/a
+|align=center|{{Hs|n/a}}3 &amp; 2
+|align=left|{{Hs|n/a}}n/a
+|{{flagicon|USA}} [[Davis Love III]]
+|- style=&quot;background:#ffc;&quot;
+|[[2005 WGC-NEC Invitational|2005]]
+|[[WGC-NEC Invitational]] &lt;small&gt;(4)&lt;/small&gt;
+|align=center|{{Hs|00}}Tied for lead
+|align=center|{{Hs|-06}}–6 (66-70-67-71=274)
+|align=left|{{Hs|01}}1 stroke
+|{{flagicon|USA}} [[Chris DiMarco]]
+|- style=&quot;background:#ffd6d6;&quot;
+|[[2005 WGC-American Express Championship|2005]]
+|[[WGC-American Express Championship]] &lt;small&gt;(4)&lt;/small&gt;
+|align=center|{{Hs|-02}}2 shot deficit
+|align=center|{{Hs|-10}}–10 (67-68-68-67=270)
+|align=left|{{Hs|00}}Playoff &lt;sup&gt;3&lt;/sup&gt;
+|{{flagicon|USA}} [[John Daly (golfer)|John Daly]]
+|- style=&quot;background:#ffc;&quot;
+|[[2006 WGC-Bridgestone Invitational|2006]]
+|{{sortname|WGC-Bridgestone|Invitational||WGC-NEC Invitational}} &lt;small&gt;(5)&lt;/small&gt;
+|align=center|{{Hs|-03}}1 shot deficit
+|align=center|{{Hs|-10}}–10 (67-64-71-68=270)
+|align=left|{{Hs|00}}Playoff &lt;sup&gt;4&lt;/sup&gt;
+|{{flagicon|USA}} [[Stewart Cink]]
+|- style=&quot;background:#ffd6d6;&quot;
+|[[2006 WGC-American Express Championship|2006]]
+|[[WGC-American Express Championship]] &lt;small&gt;(5)&lt;/small&gt;
+|align=center|{{Hs|06}}6 shot lead
+|align=center|{{Hs|-23}}–23 (63-64-67-67=261)
+|align=left|{{Hs|08}}8 strokes
+|{{flagicon|ENG}} [[Ian Poulter]], {{flagicon|AUS}} [[Adam Scott (golfer)|Adam Scott]]
+|- style=&quot;background:#ffd6d6;&quot;
+|[[2007 WGC-CA Championship|2007]]
+|{{sortname|WGC-CA|Championship||WGC-American Express Championship}} &lt;small&gt;(6)&lt;/small&gt;
+|align=center|{{Hs|04}}4 shot lead
+|align=center|{{Hs|-10}}–10 (71-66-68-73=278)
+|align=left|{{Hs|02}}2 strokes
+|{{flagicon|USA}} [[Brett Wetterich]]
+|- style=&quot;background:#ffc;&quot;
+|[[2007 WGC-Bridgestone Invitational|2007]]
+|{{sortname|WGC-Bridgestone|Invitational||WGC-NEC Invitational}} &lt;small&gt;(6)&lt;/small&gt;
+|align=center|{{Hs|-03}}1 shot deficit
+|align=center|{{Hs|-08}}–8 (68-70-69-65=272)
+|align=left|{{Hs|08}}8 strokes
+|{{flagicon|ENG}} [[Justin Rose]], {{flagicon|ZAF}} [[Rory Sabbatini]]
+|- style=&quot;background:#d6e8ff;&quot;
+|[[2008 WGC-Accenture Match Play Championship|2008]]
+|[[WGC-Accenture Match Play Championship]] &lt;small&gt;(3)&lt;/small&gt;
+|align=center|{{Hs|n/a}}n/a
+|align=center|{{Hs|n/a}}8 &amp; 7
+|align=left|{{Hs|n/a}}n/a
+|{{flagicon|USA}} [[Stewart Cink]]
+|- style=&quot;background:#ffc;&quot;
+|[[2009 WGC-Bridgestone Invitational|2009]]
+|{{sortname|WGC-Bridgestone|Invitational||WGC-NEC Invitationalz}} &lt;small&gt;(7)&lt;/small&gt;
+|align=center|{{Hs|-01}}3 shot deficit
+|align=center|{{Hs|-12}}–12 (68-70-65-65=268)
+|align=left|{{Hs|04}}4 strokes
+|{{flagicon|AUS}} [[Robert Allenby]], {{flagicon|IRL}} [[Pádraig Harrington]]
+|}
+
+&lt;sup&gt;1&lt;/sup&gt; Won on the first hole of a sudden-death playoff.&lt;br&gt;
+&lt;sup&gt;2&lt;/sup&gt; Won on the seventh hole of a sudden-death playoff.&lt;br&gt;
+&lt;sup&gt;3&lt;/sup&gt; Won on the second hole of a sudden-death playoff.&lt;br&gt;
+&lt;sup&gt;4&lt;/sup&gt; Won on the fourth hole of a sudden-death playoff.
+
+====Results timeline====
+{| class=&quot;wikitable&quot; style=&quot;text-align:center;&quot;
+|-
+!Tournament!!1999!!2000!!2001!!2002!!2003!!2004!!2005!!2006!!2007!!2008!!2009!!2010!!2011!!2012
+|-
+|align=&quot;left&quot;|[[WGC-Accenture Match Play Championship|Accenture Match Play Championship]]
+|style=&quot;background:yellow;&quot;|[[1999 WGC-Andersen Consulting Match Play Championship|QF]]
+|style=&quot;background:yellow;&quot;|[[2000 WGC-Andersen Consulting Match Play Championship|2]]
+|DNP
+|R64
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:#0f0;&quot;|'''1'''
+|R32
+|style=&quot;background:yellow;&quot;|[[2006 WGC-Accenture Match Play Championship|R16]]
+|style=&quot;background:yellow;&quot;|[[2007 WGC-Accenture Match Play Championship|R16]]
+|style=&quot;background:#0f0;&quot;|'''1'''
+|R32
+|DNP
+|R64
+|R32
+|-
+|align=&quot;left&quot;|[[WGC-Cadillac Championship|Cadillac Championship]]
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:yellow;&quot;|[[2000 WGC-American Express Championship|T5]]
+|NT&lt;sup&gt;1&lt;/sup&gt;
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:yellow;&quot;|[[2004 WGC-American Express Championship|9]]
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:yellow;&quot;|[[2008 WGC-CA Championship|5]]
+|style=&quot;background:yellow;&quot;|[[2009 WGC-CA Championship|T9]]
+|DNP
+|style=&quot;background:yellow;&quot;|[[2011 WGC-Cadillac Championship|T10]]
+|WD
+|-
+|align=&quot;left&quot;|[[WGC-Bridgestone Invitational|Bridgestone Invitational]]
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:yellow;&quot;|[[2002 WGC-NEC Invitational|4]]
+|style=&quot;background:yellow;&quot;|[[2003 WGC-NEC Invitational|T4]]
+|style=&quot;background:yellow;&quot;|[[2004 WGC-NEC Invitational|T2]]
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:#0f0;&quot;|'''1'''
+|style=&quot;background:#0f0;&quot;|'''1'''
+|DNP
+|style=&quot;background:#0f0;&quot;|'''1'''
+|T78
+|T37
+|style=&quot;background:yellow;&quot;|[[2012 WGC-Bridgestone Invitational|T8]]
+|-
+|align=&quot;left&quot;|[[WGC-HSBC Champions|HSBC Champions]]
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|style=&quot;background:yellow;&quot;|[[2009 WGC-HSBC Champions|T6]]
+|style=&quot;background:yellow;&quot;|[[2010 WGC-HSBC Champions|T6]]
+|DNP
+|DNP
+|}
+
+&lt;sup&gt;1&lt;/sup&gt;Cancelled due to [[September 11 attacks|9/11]]&lt;br&gt;
+DNP = Did not play&lt;br&gt;
+QF, R16, R32, R64 = Round in which player lost in match play&lt;br&gt;
+&quot;T&quot; = tied&lt;br&gt;
+NT = No Tournament&lt;br&gt;
+Green background for wins. Yellow background for top-10.&lt;br&gt;
+Note that the HSBC Champions did not become a WGC event until 2009.
+
+===PGA Tour career summary===
+{| class=&quot;wikitable&quot; style=&quot;text-align:center;&quot;
+! Year !! Wins (Majors) !! Earnings ($) !! Money list rank
+|-
+|1996
+|2
+|[http://www.pgatour.com/players/00/87/93/results/1996.html 790,594]
+|[http://www.pgatour.com/r/stats/1996/109.html 24]
+|-
+|1997
+|4 (1)
+|[http://www.pgatour.com/players/00/87/93/results/1997.html 2,066,833]
+|style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/1997/109.html 1]
+|-
+|1998
+|1
+|[http://www.pgatour.com/players/00/87/93/results/1998.html 1,841,117]
+|style=&quot;background:yellow;&quot;|[http://www.pgatour.com/r/stats/1998/109.html 4]
+|-
+|1999
+|8 (1)
+|[http://www.pgatour.com/players/00/87/93/results/1999.html 6,616,585]
+|style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/1999/109.html 1]
+|-
+|2000
+|9 (3)
+|[http://www.pgatour.com/players/00/87/93/results/2000.html 9,188,321]
+|style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/2000/109.html 1]
+|-
+|2001
+|5 (1)
+|[http://www.pgatour.com/players/00/87/93/results/2001.html 6,687,777]
+|style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/2001/109.html 1]
+|-
+|2002
+|5 (2)
+|[http://www.pgatour.com/players/00/87/93/results/2002.html 6,912,625]
+|style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/2002/109.html 1]
+|-
+|2003
+|5
+|[http://www.pgatour.com/players/00/87/93/results/2003.html 6,673,413]
+|style=&quot;background:yellow;&quot;|[http://www.pgatour.com/r/stats/2003/109.html 2]
+|-
+|2004
+|1
+|[http://www.pgatour.com/players/00/87/93/results/2004.html 5,365,472]
+|style=&quot;background:yellow;&quot;|[http://www.pgatour.com/r/stats/2004/109.html 4]
+|-
+|2005
+|6 (2)
+|[http://www.pgatour.com/players/00/87/93/results/2005.html 10,628,024]
+|style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/2005/109.html 1]
+|-
+|2006
+|8 (2)
+|[http://www.pgatour.com/players/00/87/93/results/2006.html 9,941,563]
+|style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/2006/109.html 1]
+|-
+|2007
+|7 (1)
+| [http://www.pgatour.com/players/00/87/93/results/2007.html 10,867,052]
+|style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/2007/109.html 1]
+|-
+|2008
+|4 (1)
+| [http://www.pgatour.com/players/r/?/00/87/93/results 5,775,000]
+|style=&quot;background:yellow;&quot;|[http://www.pgatour.com/r/stats/current/109.html 2]
+|-
+|2009
+|6
+| [http://www.pgatour.com/players/r/?/00/87/93/results 10,508,163]
+|style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/current/109.html 1]
+|-
+|2010
+|0
+| [http://www.pgatour.com/players/r/?/00/87/93/results 1,294,765]
+|[http://www.pgatour.com/r/stats/current/109.html 68]
+|-
+|2011
+|0
+| [http://www.pgatour.com/players/r/?/00/87/93/results 660,238]
+|[http://www.pgatour.com/r/stats/current/109.html 128]
+|-
+|2012*
+|3
+| [http://www.pgatour.com/players/r/?/00/87/93/results 6,133,158]
+|style=&quot;background:yellow;&quot;|[http://www.pgatour.com/r/stats/current/109.html 2]
+|-
+!Career*
+!74 (14)
+![http://www.pgatour.com/r/stats/current/110.html 100,950,700]
+!style=&quot;background:lime;&quot;|[http://www.pgatour.com/r/stats/current/110.html 1]
+|}
+: * As of September 23, 2012.
+
+==Other ventures==
+
+===Tiger Woods Foundation===
+The [[Tiger Woods Foundation]] was established in 1996 by Woods and his father Earl, with the primary goal of promoting golf among inner-city children.&lt;ref&gt;&quot;Mattingly Expected to Retire After Sitting Out 1996 Season.&quot; The Los Angeles Times, January 22, 1997.&lt;/ref&gt;&lt;ref&gt;Brennan, Patricia. &quot;The Changing Face of Golf; A CBS Profile of the Hottest Guy on the Links.&quot; The Washington Post, April 13, 1997.&lt;/ref&gt; The foundation has conducted junior golf clinics across the country, and sponsors the Tiger Woods Foundation National Junior Golf Team in the Junior World Golf Championships.&lt;ref name=clinton&gt;{{cite web  | title = With Clinton at his side, Woods opens his learning center  | publisher = GolfWeb Wire Services  | date = February 10, 2006  | url = http://www.pgatour.com/story/9223725/  | accessdate = January 20, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web | title = Programs: TWLC: Junior Golf Team  | publisher = Tiger Woods Foundation  | url = http://web.tigerwoodsfoundation.org/programs/twlc/juniorGolfTeam  | accessdate = January 20, 2012 }}&lt;/ref&gt; As of December 2010, TWF employed approximately 55 people.&lt;ref name=harig&gt;{{cite web  | last = Harig  | first = Bob  | title = Tiger Woods' foundation suffered greatly  | publisher = ESPN.com  | date = December 1, 2010  | url = http://sports.espn.go.com/golf/columns/story?columnist=harig_bob&amp;id=5865712  | accessdate = January 20, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news  | last = Lamport-Stokes  | first = Mark  | title = Tiger eyes legacy away from sport  | publisher = Reuters  | date = December 17, 2007  | url = http://www.reuters.com/article/2007/12/17/us-golf-tiger-idUSSP9924320071217  | accessdate = January 20, 2011}}&lt;/ref&gt;
+
+The foundation operates the [[Tiger Woods Learning Center]], a $50 million, 35,000-square-foot facility in [[Anaheim, California]], providing college-access programs for underserved youth.&lt;ref name=clinton/&gt;&lt;ref name=harig/&gt;&lt;ref name=stuart&gt;{{cite web | title = Tiger visits new TWLC Florida campus in Stuart  | publisher = Tiger Woods Foundation  | date = December 9, 2011  | url = http://web.tigerwoodsfoundation.org/news/article/2011120926138040/twlc/  | accessdate = January 20, 2012 }}&lt;/ref&gt; The TWLC opened in 2006 and features seven classrooms, extensive multi-media facilities and an outdoor golf teaching area.&lt;ref name=clinton/&gt; The center has since expanded to four additional campuses: two in [[Washington, DC]]; one in [[Philadelphia, Pennsylvania]]; and one in [[Stuart, Florida]].&lt;ref name=stuart/&gt;
+
+The foundation benefits from the annual [[Chevron World Challenge]] and [[AT&amp;T National]] golf tournaments hosted by Woods.&lt;ref name=harig/&gt; In October 2011, the foundation hosted the first Tiger Woods Invitational at Pebble Beach.&lt;ref&gt;{{cite web | title = Events: Tiger Woods Invitational  | publisher = Tiger Woods Foundation  | url = http://web.tigerwoodsfoundation.org/events/pebbleBeachInvitational/index  | accessdate = January 20, 2012 }}&lt;/ref&gt; Other annual fundraisers have included the concert events [[Block Party]], last held in 2009 in Anaheim, and [[Tiger Jam]], last held in 2011 in [[Las Vegas Valley|Las Vegas]] after a one-year hiatus.&lt;ref name=harig/&gt;&lt;ref&gt;{{cite web | title = The fifth annual Block Party raises more than $500,000  | publisher = Tiger Woods Foundation  | date = October 18, 2009  | url = http://web.tigerwoodsfoundation.org/news/article/200912247854336/block_party/  | accessdate = January 20, 2012 }}&lt;/ref&gt;&lt;ref&gt;{{cite web  | title = Tiger Woods Speaks About Injury, PGA Tour Athlets During Jam  | publisher = GolfLasVegasNow.com  | date = April 30, 2011  | url = http://www.golflasvegasnow.com/las-vegas-golf-news-news-96/67-news/1639-tiger-woods-speaks-about-injury-pga-tour-athletes-during-jam.html  | accessdate = January 20, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web  | last = Carpenter  | first = Eric  | title = Tiger Woods takes hiatus from OC foundation  | publisher = The Orange County Register  | date = December 14, 2009  | url = http://www.ocregister.com/news/woods-224136-foundation-tiger.html  | accessdate = January 20, 2011}}&lt;/ref&gt;
+
+===Tiger Woods Design===
+In November 2006, Woods announced his intention to begin designing golf courses around the world through a new company, [[Tiger Woods Design]].&lt;ref&gt;{{cite web  | last = Soltau  | first = Mark  | title = Tiger Woods' next step: Design golf courses  | publisher = ESPN.com  | date = November 6, 2006  | url = http://sports.espn.go.com/golf/news/story?id=2651591  | accessdate = January 20, 2011}}&lt;/ref&gt; A month later, he announced that the company's first course would be in [[Dubai]] as part of a 25.3 million-square-foot development, [[The Tiger Woods Dubai]].&lt;ref name=dubai&gt;{{cite news  | last = Wolfensberger  | first = Marc  | title = Tiger Woods Will Design First Golf Course in Dubai  | publisher = Bloomberg  | date = December 3, 2006  | url = http://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=aNvm0ZjXUZ3M  | accessdate = January 20, 2011}}&lt;/ref&gt; The Al Ruwaya Golf Course was initially expected to finish construction in 2009.&lt;ref name=dubai/&gt; As of February 2010, only seven holes had been completed; in April 2011, the New York Times reported that the project had been shelved permanently.&lt;ref&gt;{{cite news  | last = Fattah  | first = Zainab  | title = Tiger Woods’s Dubai Golf Resort Will Be Completed, Builder Says  | publisher = Bloomberg  | date = February 1, 2010  | url = http://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=a3KSfSvghqjA  | accessdate = January 20, 2011}}&lt;/ref&gt;&lt;ref name=sullivan&gt;Sullivan, Paul. [http://www.nytimes.com/2011/04/03/business/03tiger.html &quot;For Tiger Woods, a Golf Course Design Business Is in the Rough.&quot;] The New York Times, April 2, 2011.&lt;/ref&gt;
+
+Tiger Woods Design has taken on two other courses, neither of which has materialized. In August 2007, Woods announced The Cliffs at High Carolina, a private course in the [[Blue Ridge Mountains]] near [[Asheville, North Carolina]].&lt;ref&gt;{{cite web |title = Tiger to design his first U.S. course |work=ESPN |url = http://sports.espn.go.com/golf/news/story?id=2974491 |accessdate =August 15, 2007}}&lt;/ref&gt; After a groundbreaking in November 2008, the project suffered cash flow problems and suspended construction.&lt;ref name=sullivan/&gt; A third course, in [[Punta Brava Golf Club|Punta Brava]], Mexico, was announced in October 2008, but incurred delays due to issues with permits and an [[environmental impact study]].&lt;ref name=sullivan/&gt;&lt;ref&gt;{{cite news |last=Louis |first=Brian |coauthors=Taub, Daniel |title=Tiger Woods and Flagship to Build Mexico Golf Resort |publisher=Bloomberg L.P. |date=October 7, 2008 |url=http://www.bloomberg.com/apps/news?pid=20601103&amp;sid=ao2vcPf3MUek&amp;refer=us |accessdate=January 5, 2010}}&lt;/ref&gt; Construction on the Punta Brava course has not yet begun.&lt;ref name=sullivan/&gt;
+
+The problems encountered by these projects have been credited to factors including overly optimistic estimates of their value; declines throughout the global economy, particularly the [[United States housing bubble|U.S. crash in home prices]]; and decreased appeal of Woods following his 2009 infidelity scandal.&lt;ref name=sullivan/&gt;
+
+===Writings===
+Woods wrote a golf instruction column for ''[[Golf Digest]]'' magazine from 1997 to February 2011.&lt;ref&gt;{{cite news|title = New deal includes instruction, Web pieces|agency=Associated Press|date = May 8, 2002|publisher=ESPN|url = http://sports.espn.go.com/golf/story?id=1380039|accessdate =June 18, 2008}}&lt;/ref&gt; In 2001 he wrote a best-selling golf instruction book, ''How I Play Golf'', which had the largest print run of any golf book for its first edition, 1.5&amp;nbsp;million copies.&lt;ref&gt;{{cite news |url=http://www.usatoday.com/life/books/2001-10-09-tiger-woods.htm |title=Tiger Woods joins the club of golf book authors |accessdate=June 20, 2008 |last=Snider |first=Mike |date=October 9, 2001 |work=USA Today |publisher=[[Gannett Company]]}}&lt;/ref&gt;
+
+==Personal life==
+
+===Marriage and children===
+In November 2003, Woods became engaged to [[Elin Nordegren]], a Swedish former model and daughter of former minister of migration [[Barbro Holmberg]] and radio journalist [[Thomas Nordegren]].&lt;ref&gt;{{cite news |date=December 4, 2009 |url= http://www.cnn.com/2009/SHOWBIZ/12/03/elin.five.things.to.know/index.html?iref=mpstoryview
+|title= Five things you didn't know about Elin Nordegren|publisher=CNN|accessdate=December 15, 2009}}&lt;/ref&gt; They were introduced during The Open Championship in 2001 by Swedish golfer [[Jesper Parnevik]], who had employed her as an [[au pair]]. They married on October 5, 2004, at the [[Sandy Lane (resort)|Sandy Lane resort]] in [[Barbados]], and lived at [[Isleworth, Windermere, Florida|Isleworth]], a community in [[Windermere, Florida|Windermere]], a suburb of [[Orlando, Florida]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/golf/3715694.stm |title=Woods ties the knot |work=BBC Sport   |date=October 6, 2004 |accessdate=August 23, 2010}}&lt;/ref&gt;&lt;ref name=NYTJupiter&gt;{{cite news|title=Tiger Woods buys $40&amp;nbsp;million estate|date=January 1, 2006|newspaper=[[The New York Times]]|url=http://www.nytimes.com/2006/01/01/realestate/01iht-web.propbrfs2.html|accessdate=August 23, 2010}}&lt;/ref&gt; In 2006, they purchased a $39 million estate in [[Jupiter Island, Florida]], and began constructing a 10,000-square-foot home; Woods moved there in 2010 following the couple's divorce.&lt;ref name=NYTJupiter/&gt;&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/tvshowbiz/article-1324971/Tiger-Woods-new-50m-bachelor-pad---look-got.html |title=As Tiger Woods completes his £30m new home Elin reminds him what he HASN'T got |work=Daily Mail |location=UK |accessdate=October 30, 2010 |date=October 29, 2010 }}&lt;/ref&gt;
+
+Woods and Nordegren's first child, a daughter named Sam Alexis Woods, was born on June 18, 2007. Woods chose the name because his own father had always called him Sam.&lt;ref&gt;{{cite news |title=Woods played U.S. Open while wife was in hospital|author=White, Joseph|newspaper=USA Today|agency=Associated Press|date=July 3, 2007|url=http://www.usatoday.com/sports/golf/2007-07-03-2162604389_x.htm|accessdate=December 2, 2009}}&lt;/ref&gt; Their son, Charlie Axel Woods, was born on February 8, 2009.&lt;ref&gt;{{cite news|title=Tiger becomes dad for second time|url=http://sports.espn.go.com/golf/news/story?id=3893647|publisher=ESPN|agency=Associated Press|date=February 9, 2009|accessdate=February 9, 2009}}&lt;/ref&gt;
+
+{{Anchor|TWInfidelity}}
+
+===Infidelity scandal and fallout===
+On November 25, 2009, [[supermarket tabloid]] ''[[The National Enquirer]]'' published a story claiming that Woods had an [[extramarital sex|extramarital affair]] with New York City nightclub manager [[Rachel Uchitel]], a claim she denied.&lt;ref name=Apology&gt;{{cite news|url=http://www.reuters.com/article/2009/12/02/golf-woods-idUSGEE5B11VL20091202|title=Tiger Woods admits &quot;transgressions,&quot; apologizes|date=December 2, 2009|agency=[[Reuters]]|accessdate=January 23, 2012}}&lt;/ref&gt; Two days later, around 2:30 AM on November 27, Woods left home in his [[Cadillac Escalade]] SUV and, while still on his street, collided with a fire hydrant, a tree, and several hedges.&lt;ref name=UsaT&gt;{{cite news|url=http://www.usatoday.com/sports/golf/pga/2009-12-02-woods-crash-damage_N.htm|title=Woods crash did $3,200 damage to hydrant, tree |last=DiMeglio|first=Steve |date=December 3, 2009|newspaper=[[USA Today]]|accessdate=January 23, 2012}}&lt;/ref&gt; He was treated for minor facial lacerations and received a ticket for careless driving.&lt;ref name=UsaT/&gt;&lt;ref&gt;{{cite news |url=http://www.independent.co.uk/sport/golf/tiger-injured-in-latenight-car-accident-1830059.html |title=Tiger injured in late-night car accident |newspaper=The Independent|date=November 28, 2009 |accessdate=January 23, 2012 |first=James |last=Corrigan}}&lt;/ref&gt; Following intense media speculation about the accident, Woods released a statement on his website taking sole responsibility for the accident, calling it a &quot;private matter&quot; and crediting his wife for helping him from the car.&lt;ref&gt;{{cite news|url=http://www.usatoday.com/sports/golf/2009-11-29-4208750340_x.htm|title=Tiger Woods issues statement on crash |agency=Associated Press |date=November 30, 2009|newspaper=[[USA Today]]|accessdate=January 23, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://web.tigerwoods.com/news/article/200911297726222/news/|title=Statement from Tiger Woods|date=November 29, 2009|publisher=TigerWoods.com|accessdate=January 23, 2012|author=Tiger Woods}}&lt;/ref&gt; On November 30, Woods announced that he would not be appearing at his own charity golf tournament, the [[Chevron World Challenge]], nor any other tournaments in 2009, due to his injuries.&lt;ref&gt;{{cite news|title=Tiger Woods Cancels Tourney Appearance|publisher=CBS News|date=November 30, 2009|url=http://www.cbsnews.com/stories/2009/11/30/sportsline/main5838742.shtml|accessdate=September 21, 2010}}&lt;/ref&gt;
+
+On December 2, following the release by ''[[US Weekly]]'' of a voicemail message allegedly left by Tiger for a mistress, Woods released another statement in which he admitted &quot;transgressions&quot; and apologized to &quot;all of those who have supported [him] over the years&quot;, while reiterating his and his family's right to privacy.&lt;ref name=Apology /&gt;&lt;ref&gt;{{cite web|url=http://web.tigerwoods.com/news/article/200912027740572/news/|title=Tiger comments on current events|date=December 2, 2009|publisher=TigerWoods.com|accessdate=December 4, 2009|author=Tiger Woods}}&lt;/ref&gt; Over the next several days, more than a dozen women claimed in various media outlets to have had affairs with Woods.&lt;ref name=legend&gt;{{cite news|url=http://www.foxnews.com/wires/2009Dec12/0,4670,GLFTigerapossTerribleTime,00.html|title=Two weeks that shattered the legend of Tiger Woods|last=Dahlberg|first=Tim|date=December 12, 2009|agency=[[Associated Press]]|accessdate=January 23, 2012|work=Fox News}}&lt;/ref&gt; On December 11, he released a third statement admitting to infidelity and apologizing again, as well as announcing that he would be taking &quot;an indefinite break from professional golf.&quot;&lt;ref name=legend/&gt;
+
+In the days and months following Woods' admission of infidelity, several companies re-evaluated their relationships with him. [[Accenture]], [[AT&amp;T Inc.|AT&amp;T]], [[Gatorade]] and [[General Motors]] completely ended their sponsorship deals, while [[Gillette (brand)|Gillette]] suspended advertising featuring Woods.&lt;ref name=connection&gt;{{cite news|url=http://sports.espn.go.com/golf/news/story?id=4784720|title=AT&amp;T cuts connection with Woods|date=January 1, 2010|agency=Associated Press|publisher=ESPN|accessdate=January 23, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/business/8458194.stm|title=GM ends car loans for Tiger Woods|publisher=BBC News |date=January 13, 2010|accessdate=January 13, 2010|location=London}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/business/8540167.stm |title=Tiger Woods loses Gatorade sponsorship |publisher=BBC News  |date=February 27, 2010 |accessdate=September 5, 2010}}&lt;/ref&gt; [[TAG Heuer]] dropped Woods from advertising in December 2009 and officially ended their deal when his contract expired in August 2011.&lt;ref name=connection/&gt;&lt;ref name=&quot;tagexpired&quot;&gt;[[Daily Mail]], [http://www.dailymail.co.uk/news/article-2023597/Tiger-Woods-dropped-sponsor-TAG-Heuer-golf-rank-falls.html?ito=feeds-newsxml Another major blow for Tiger Woods as $10m sponsor Tag Heuer gives him the elbow] 8 August 2011. Retrieved 9 August 2011.&lt;/ref&gt; The magazine ''[[Golf Digest]]'' suspended Woods' monthly column beginning with the February 2010 issue.&lt;ref&gt;''[[Golf Digest]]'', February 2010.&lt;/ref&gt; In contrast, [[Nike, Inc.|Nike]] continued to support Woods, as did [[Electronic Arts]], which was working with Woods on the game ''[[Tiger Woods PGA Tour Online]]''.&lt;ref&gt;{{cite news|url=http://uk.reuters.com/article/2010/01/05/golf-woods-idUKN0420745020100105|title= EA Sports moves forward with Tiger game rollout |author=Klayman, Ben|date=January 4, 2010 |agency=Reuters|accessdate=January 23, 2012}}&lt;/ref&gt; A December 2009 study estimated the shareholder loss caused by Woods' affairs to be between $5 billion and $12 billion.&lt;ref&gt;[http://faculty.gsm.ucdavis.edu/~vstango/tiger003.pdf Shareholder Value Destruction following the Tiger Woods Scandal]{{dead link|date=September 2010}}, by Christopher R. Knittel and Victor Stango, University of California at Davis, December 28, 2009&lt;/ref&gt;&lt;ref&gt;[http://www.businesswire.com/portal/site/home/permalink/?ndmViewId=news_view&amp;newsId=20091228005221&amp;newsLang=en Tiger Woods Scandal Cost Shareholders up to $12&amp;nbsp;Billion, UC Davis Study Says], Business Wire, December 28, 2009&lt;/ref&gt;
+
+On February 19, 2010, Woods gave a televised statement in which he said he had been in a 45-day therapy program since the end of December. He again apologized for his actions. &quot;I thought I could get away with whatever I wanted to,&quot; he said. &quot;I felt that I had worked hard my entire life and deserved to enjoy all the temptations around me. I felt I was entitled. Thanks to money and fame, I didn't have to go far to find them. I was wrong. I was foolish.&quot; He said he did not know yet when he would be returning to golf.&lt;ref&gt;{{cite news|title=Tiger Woods apologises to wife Elin for affairs|publisher=BBC Sport |url=http://news.bbc.co.uk/sport1/hi/golf/8521060.stm|accessdate=February 23, 2010|date=February 19, 2010|location=London}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=ASAP Sports |url=http://web.tigerwoods.com/news/article/201002198096934/news/ |title=Transcript: Tiger's public statement |publisher=Web.tigerwoods.com |date=February 19, 2010 |accessdate=September 5, 2010}}&lt;/ref&gt; He announced a few weeks later on March 16 that he would be returning at the 2010 [[Masters Tournament]] on April 8.&lt;ref name=&quot;return&quot;&gt;{{cite web|title=Woods' return shows he's ready to win|publisher=Fox Sports|date=March 17, 2010|url=http://msn.foxsports.com/golf/story/Tiger-Woods-return-at-Masters-shows-he-is-ready-to-win?GT1=39002|accessdate=March 23, 2010|author=Jeff Rude}}&lt;/ref&gt;
+
+Woods and Nordegren divorced on August 23, 2010.&lt;ref&gt;{{cite web|url=http://www.people.com/people/article/0,,20414961,00.html |title=Tiger Woods and Elin Nordegren's Divorce Is Final |work=People |date=August 23, 2010 |accessdate=September 5, 2010|author=Steve Helling}}&lt;/ref&gt;
+
+===Other===
+[[File:Barack Obama meets Tiger Woods 4-20-09.jpg|right|thumb|Woods meets with United States President [[Barack Obama]] in the [[White House]].]]
+From childhood Woods was raised as a [[Buddhism|Buddhist]], and actively practised this faith from childhood until well into his adult professional golf career.&lt;ref&gt;{{cite news|title = Tiger Woods makes emotional apology for infidelity |work=BBC News |date = February 19, 2010|url = http://news.bbc.co.uk/sport2/hi/golf/8521060.stm|accessdate =February 26, 2010|location=London}} (also see here [http://newsvote.bbc.co.uk/2/hi/in_depth/8537575.stm?markResults=true&amp;a_01=3&amp;a_02=1&amp;a_03=2&amp;a_04=2&amp;a_05=1&amp;a_06=2&amp;a_07=1&amp;x=21&amp;y=13])&lt;/ref&gt; In a 2000 article, Woods was quoted as saying he &quot;believes in Buddhism... Not every aspect, but most of it.&quot;&lt;ref&gt;{{cite web|title=Gandhi and Tiger Woods|author=Wright, Robert|date = July 24, 2000|work=[[Slate (magazine)|Slate]]|url=http://www.slate.com/id/86898/|accessdate=August 13, 2007}}&lt;/ref&gt; He has attributed his deviations and infidelity to his losing track of Buddhism. He said that &quot;Buddhism teaches me to stop following every impulse and to learn restraint. Obviously I lost track of what I was taught.&quot;&lt;ref&gt;{{cite web|url=http://news.iskcon.org/node/2559/2010-02-23/tiger_woods_returns_to_buddhism|title=Tiger Woods Returns to Buddhism|accessdate=March 11, 2010|date=February 20, 2010|publisher=ISKCON News}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;
+
+Tiger Woods is registered to vote as an [[independent (politician)|independent]].&lt;ref&gt;{{cite news|url=http://www.latimes.com/news/nation-and-world/la-na-tiger-woods13-2009dec13,0,1748884.story?track=rss|title=How did Tiger keep his secrets?|date=December 13, 2009|first=Robin|last=Abcarian|work=Los Angeles Times|accessdate=December 13, 2009}}&lt;/ref&gt; In January 2009, Woods delivered a speech commemorating the military at the [[We Are One: The Obama Inaugural Celebration at the Lincoln Memorial]].&lt;ref&gt;{{cite news|title = Tiger to speak at Lincoln Memorial|agency=Associated Press|work=ESPN|date = January 16, 2009|url = http://sports.espn.go.com/golf/news/story?id=3838781|accessdate =January 20, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.golftoday.co.uk/news/yeartodate/news_09/tiger_woods_1.html |title=Tiger Woods gives speech at Obama inauguration |work=Golftoday.co.uk |date=January 21, 2009 |accessdate=May 4, 2009}}&lt;/ref&gt; In April 2009, Woods visited the [[White House]] while in the Washington, D.C. area promoting the golf tournament he hosts, the [[AT&amp;T National]].&lt;ref&gt;{{cite news|title = Tiger Woods In The White House|work=CBS|date = April 23, 2009|url = http://www.cbsnews.com/blogs/2009/04/23/politics/politicalhotsheet/entry4964474.shtml|accessdate =May 3, 2009 | first=Brian | last=Montopoli}}&lt;/ref&gt;
+
+Woods underwent [[Refractive surgery|laser eye surgery]] in 1999. Before this surgery, Woods eyesight was minus 11, meaning he was almost legally blind. He considered the surgery a big help in his career and a good alternative to the glasses and contact lenses.&lt;ref&gt;[http://www.golftoday.co.uk/news/yeartodate/news_07/tiger_woods_30.html Tiger Woods undergoes second laser eye surgery]. Golftoday.co.uk (May 15, 2007). Retrieved June 19, 2012.&lt;/ref&gt; He immediately started winning tour events after the surgery. He received money from TLC Laser Eye Centers to endorse them.&lt;ref&gt;Bestrom, Craig and Strege, John. [http://www.eyesurgeryusa.com/eye-surgery-articles/tiger-woods-lasik-laser-eye-syrgery.htm Eyes of the Tiger: Tiger Woods – LASIK laser eye surgery]. Eyesurgeryusa.com. Retrieved June 19, 2012.&lt;/ref&gt; In 2007, he had a second laser eye surgery when his vision began to deteriorate again.&lt;ref&gt;[http://www.golf.com/golf/tours_news/article/0,28136,1621439,00.html Woods has second laser eye surgery]. Golf.com (May 15, 2007). Retrieved June 19, 2012.&lt;/ref&gt;
+
+==See also==
+{{Portal|Biography|Golf|United States}}
+*[[Grand Slam (golf)#Career Grand Slam|Career Grand Slam Champions]]
+*[[List of golfers with most European Tour wins]]
+*[[List of golfers with most PGA Tour wins]]
+*[[List of longest PGA Tour win streaks]]
+*[[List of men's major championships winning golfers]]
+*[[List of World Number One male golfers]]
+*[[Most PGA Tour wins in a year]]
+*[[Most wins in one PGA Tour event]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+{{refbegin}}
+*{{Cite book|last=Andrisani|first=John|title=The Tiger Woods Way: An Analysis of Tiger Woods' Power-Swing Technique|publisher=[[Three Rivers Press]]|location=New York|year=1997|isbn = 0-609-80139-2|oclc=55124056}}
+*{{Cite book|last=Clary|first=Jack|title=Tiger Woods|publisher=Tiger Books International|location=Twickenham, England|year=1997|isbn=978-1-85501-954-6|oclc=40859379}}
+*{{Cite book|last= Feinstein|first=John|authorlink= John Feinstein|title = The Majors: In Pursuit of Golf's Holy Grail|publisher=[[Little, Brown]]|location=Boston|year=1999|isbn=978-0-316-27971-0|oclc=40602886}}
+*{{Cite book |title= Tiger Woods: A Biography|last= Londino|first= Lawrence J.|year= 2006|publisher=[[Greenwood Press]]|location= Westport, Conn|isbn= 978-0-313-33121-3|oclc=61109403}}
+*{{Cite book |last =Rosaforte|first=Tim|title = Raising the Bar: The Championship Years of Tiger Woods|publisher=[[Thomas Dunne Books]]|location=New York|year = 2000|isbn=978-0-312-27212-8|oclc=45248211}}
+*{{Cite book |title= How I Play Golf|last= Woods|first= Tiger|year= 2001|publisher=[[Warner Books]]|location= New York|isbn= 978-0-446-52931-0|oclc= 46992172}}
+*{{Cite book |title= Training a Tiger: A Father's Guide to Raising a Winner in Both Golf and Life|last1= Woods|first1= Earl|authorlink1= Earl Woods|last2= McDaniel|first2=Pete|year= 1997|publisher=[[HarperCollins Publishers]]|location= New York|isbn= 978-0-06-270178-7|oclc=35925055}}
+{{refend}}
+
+==External links==
+{{Sister project links|wikt=no|b=no|q=Tiger Woods|s=no|commons=Category:Tiger Woods|n=Tiger Woods|v=no}}
+*{{official website|http://www.tigerwoods.com}}
+*{{PGATour player|00/87/93}}
+*{{EuroTour player|218}}
+*{{JapanTour player|10875}}
+*{{OWGR|5321}}
+*[http://web.tigerwoodsfoundation.org/index Tiger Woods Foundation]
+*[http://www.twlc.org/ Tiger Woods Learning Center]
+*{{Twitter|tigerwoods}}
+*{{IMDb name|971329}}
+*{{Worldcat id|lccn-n95-39225}}
+*[http://www.mreplay.com/search_result.php?search_id=tiger+woods&amp;search_typ=search_videos Tiger Woods' Videos on mReplay]
+*[http://videos.espn.com/golf/tiger-woods.htm Tiger Woods Video on ESPN Video Archive]
+*[http://multimedia.foxsports.com/golf/tiger-woods.htm Tiger Woods Video on FoxSports Video Archive]
+
+{{Tiger Woods}}
+{{navboxes|title=Tiger Woods in the [[Men's major golf championships|major championships]]
+|list1=
+{{The Masters champions}}
+{{U.S. Open champions}}
+{{The Open champions}}
+{{PGA Champions}}
+{{Male golfers who have won 2 or more Major Championships in one year}}
+{{Men’s Career Grand Slam Champion golfers}}
+}}
+{{World Golf Championships winners}}
+{{Players Championship champions}}
+{{navboxes|title=Tiger Woods in the [[Ryder Cup]]
+|list1=
+{{1997 United States Ryder Cup team}}
+{{1999 United States Ryder Cup team}}
+{{2002 United States Ryder Cup team}}
+{{2004 United States Ryder Cup team}}
+{{2006 United States Ryder Cup team}}
+{{2010 United States Ryder Cup team}}
+{{2012 United States Ryder Cup team}}
+}}
+{{navboxes|title=Tiger Woods in the [[Presidents Cup]]
+|list1=
+{{1998 United States Presidents Cup team}}
+{{2000 United States Presidents Cup team}}
+{{2003 United States Presidents Cup team}}
+{{2005 United States Presidents Cup team}}
+{{2007 United States Presidents Cup team}}
+{{2009 United States Presidents Cup team}}
+{{2011 United States Presidents Cup team}}
+}}
+{{navboxes|title=Tiger Woods [[List of career achievements by Tiger Woods#Awards|awards and achievements]]
+|list1=
+{{Golf world number ones (men)}}
+{{PGA Tour Rookie of the Year}}
+{{PGA Players of the Year}}
+{{Associated Press Male Athlete of the Year navbox}}
+{{SI Sportsman of the Year}}
+{{Laureus World Sportsman of the Year}}
+{{FedEx Cup Playoffs}}
+}}
+
+{{Use mdy dates|date=May 2011}}
+{{Good article}}
+
+{{Authority control|LCCN=n/95/039225}}
+
+{{Persondata
+|NAME              = Woods, Tiger
+|ALTERNATIVE NAMES = Woods, Eldrick Tont
+|SHORT DESCRIPTION = Professional golfer
+|DATE OF BIRTH     = December 30, 1975
+|PLACE OF BIRTH    = Cypress, California, U.S.
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Woods, Tiger}}
+[[Category:Tiger Woods]]
+[[Category:1975 births]]
+[[Category:Living people]]
+[[Category:African-American golfers]]
+[[Category:American Buddhists]]
+[[Category:American male golfers]]
+[[Category:American people of Chinese descent]]
+[[Category:American people of Dutch descent]]
+[[Category:American people of Native American descent]]
+[[Category:American people of Thai descent]]
+[[Category:American philanthropists]]
+[[Category:American sportspeople of Asian descent]]
+[[Category:Golf writers and broadcasters]]
+[[Category:Golfers from California]]
+[[Category:Laureus World Sports Awards winners]]
+[[Category:Men's Career Grand Slam champion golfers]]
+[[Category:Native American sportspeople]]
+[[Category:People from Anaheim, California]]
+[[Category:People from Cypress, California]]
+[[Category:People from Jupiter Island, Florida]]
+[[Category:People from Windermere, Florida]]
+[[Category:PGA Tour golfers]]
+[[Category:Ryder Cup competitors for the United States]]
+[[Category:Sportspeople from Orange County, California]]
+[[Category:Stanford Cardinal men's golfers]]
+[[Category:Winners of men's major golf championships]]
+
+{{Link GA|no}}
+[[af:Tiger Woods]]
+[[ar:تايغر وودز]]
+[[bg:Тайгър Уудс]]
+[[ca:Tiger Woods]]
+[[cs:Tiger Woods]]
+[[cy:Tiger Woods]]
+[[da:Tiger Woods]]
+[[de:Tiger Woods]]
+[[et:Tiger Woods]]
+[[es:Tiger Woods]]
+[[eo:Tiger Woods]]
+[[eu:Tiger Woods]]
+[[fa:تایگر وودز]]
+[[fr:Tiger Woods]]
+[[ga:Tiger Woods]]
+[[gu:ટાઇગર વુડ્સ]]
+[[ko:타이거 우즈]]
+[[hi:टाइगर वुड्स]]
+[[hr:Tiger Woods]]
+[[id:Tiger Woods]]
+[[is:Tiger Woods]]
+[[it:Tiger Woods]]
+[[he:טייגר וודס]]
+[[jv:Tiger Woods]]
+[[kn:ಟೈಗರ್ ವುಡ್ಸ್]]
+[[sw:Tiger Woods]]
+[[lv:Taigers Vudss]]
+[[hu:Tiger Woods]]
+[[mr:टायगर वूड्स]]
+[[mn:Тайгер Вүдс]]
+[[my:တိုက်ဂါးဝုဒ်]]
+[[nl:Tiger Woods]]
+[[ne:टाइगर वुड्स]]
+[[ja:タイガー・ウッズ]]
+[[no:Tiger Woods]]
+[[nn:Tiger Woods]]
+[[pl:Tiger Woods]]
+[[pt:Tiger Woods]]
+[[ro:Tiger Woods]]
+[[ru:Вудс, Тайгер]]
+[[simple:Tiger Woods]]
+[[sk:Tiger Woods]]
+[[sl:Tiger Woods]]
+[[sr:Тајгер Вудс]]
+[[fi:Tiger Woods]]
+[[sv:Tiger Woods]]
+[[ta:டைகர் வுட்ஸ்]]
+[[te:టైగర్ వుడ్స్]]
+[[th:ไทเกอร์ วูดส์]]
+[[tr:Tiger Woods]]
+[[uk:Тайґер Вудс]]
+[[vi:Tiger Woods]]
+[[wuu:伍老虎]]
+[[zh:泰格·伍兹]]</text>
+      <sha1>f3pastkspx57g1fwjjlp31j7i9ixb2j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

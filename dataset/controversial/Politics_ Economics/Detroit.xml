@@ -1,0 +1,824 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Detroit</title>
+    <ns>0</ns>
+    <id>8687</id>
+    <revision>
+      <id>520976095</id>
+      <parentid>520751912</parentid>
+      <timestamp>2012-11-01T23:45:51Z</timestamp>
+      <contributor>
+        <username>JCam</username>
+        <id>1515212</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="131601">{{Redirect|Motor City}}
+{{About|the city in [[Michigan]]}}
+{{Use mdy dates|date=April 2012}}
+{{pp-move-indef}}
+{{Featured article}}
+{{Infobox settlement
+&lt;!-- See Template:Infobox settlement for additional fields and descriptions --&gt;
+| official_name           = Detroit
+| native_name_lang        = fr
+| settlement_type         = [[City]]
+| image_skyline           = Detroit Montage.jpg
+| imagesize               = 290px
+| image_caption           = Images from top to bottom, left to right: [[Downtown Detroit]] skyline, [[Spirit of Detroit]], [[Greektown Historic District|Greektown]], [[Ambassador Bridge]], [[Michigan Soldiers' and Sailors' Monument]], [[Fox Theatre (Detroit)|Fox Theatre]], and [[Comerica Park]].
+| image_flag              = Flag of Detroit, Michigan.svg
+| image_seal              = The Official City Seal of the City of Detroit, Michigan.svg
+| nickname                = The Motor City, Motown, Renaissance City, The D, Hockeytown, The Automotive Capital of the World, Rock City, The 313
+| motto                   = ''Speramus Meliora; Resurget Cineribus''&lt;br /&gt;&lt;small&gt;([[Latin]]: We Hope For Better Things; It Shall Rise From the Ashes)&lt;/small&gt;
+| image_map               = Wayne County Michigan Incorporated and Unincorporated areas Detroit highlighted.svg
+| mapsize                 = 250x200px
+| map_caption             = Location within [[Wayne County, Michigan]] and the state of [[Michigan]]
+| latd  = 42 |latm  = 19 |lats  = 53 |latNS  = N
+| longd = 83 |longm = 02 |longs = 45 |longEW = W
+| coordinates_display     = yes
+| coordinates_footnotes   =&lt;ref name=&quot;GNIS&quot;&gt;{{cite gnis|1617959|Detroit|2009-07-27}}.&lt;/ref&gt;
+| pushpin_map             = USA2
+| pushpin_map_caption     = Location within the [[Contiguous United States|contiguous United States of America]]
+| coordinates_region      = US-MI
+| subdivision_type        = [[List of countries|Country]]
+| subdivision_name        = {{flag|United States of America}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{flag|Michigan}}
+| subdivision_type2       = [[List of counties in Michigan|County]]
+| subdivision_name2       = [[Wayne County, Michigan|Wayne]]
+| established_title       = Founded
+| established_date        = 1701
+| established_title2      = Incorporated
+| established_date2       = 1806
+| government_footnotes    = &lt;!-- for references: use&lt;ref&gt; tags --&gt;
+| government_type         = [[Mayor-council government|Mayor-Council]]
+| leader_title            = [[List of mayors of Detroit, Michigan|Mayor]]
+| leader_name             = [[Dave Bing]]
+| leader_party            = [[Democratic Party (United States)|D]]
+| leader_title1           = [[Detroit City Council|City Council]]
+| leader_name1            = {{collapsible list|bullets=yes
+ | title = Members
+ | 1 = [[Charles Pugh]] – Council President
+ | 2 = [[Gary Brown (Detroit politician)|Gary Brown]] – Council President Pro-Tem
+ | 3 = [[JoAnn Watson]]
+ | 4 = [[Kenneth Cockrel, Jr.]]
+ | 5 = [[Saunteel Jenkins]]
+ | 6 = [[Andre Spivey]]
+ | 7 = [[James Tate (Detroit politician)|James Tate]]
+ | 8 = [[Brenda Jones (Detroit politician)|Brenda Jones]]
+ | 9 = [[Kwame Kenyatta]]
+ }}
+| area_footnotes          = &lt;!-- for references: use&lt;ref&gt; tags --&gt;
+| unit_pref               = US
+| area_magnitude          = 1 E8
+| area_total_sq_mi        = 143.0
+| area_land_sq_mi         = 138.8
+| area_water_sq_mi        = 4.2
+| area_urban_sq_mi        = 1295
+| area_metro_sq_mi        = 3913
+| elevation_footnotes     =&lt;ref name=&quot;GNIS&quot; /&gt;
+| elevation_ft            = 600
+| population_footnotes    =&lt;ref name=CensusCity/&gt;&lt;ref name=CensusCSA/&gt;
+| population_as_of        = 2011
+| population_total        = 706,585
+| population_rank         = [[List of United States cities by population|18th in U.S.]]
+| population_urban        = 3,863,924
+| population_metro        = 4,285,832 (US: [[List of United States metropolitan statistical areas|13th]])
+| population_blank1_title = [[Combined statistical area|CSA]]
+| population_blank1       = 5,207,434 (US: [[List of United States combined statistical areas|11th]])
+| population_density_sq_mi= {{#expr:713777/138.8 round 0}}
+| population_demonym      = Detroiter
+| population_note         =
+| timezone                = [[Eastern Time Zone (North America)|EST]]
+| utc_offset              = −5
+| timezone_DST            = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST          = −4
+| postal_code_type        =
+| postal_code             =
+| area_code               = [[Area code 313|313]]
+| blank_name              = [[Federal Information Processing Standard|FIPS code]]
+| blank_info              = 26-22000
+| blank1_name             = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info             = 1617959&lt;ref name=&quot;GNIS&quot; /&gt;
+| blank2_name             = Major airport
+| blank2_info             = [[Detroit Metropolitan Wayne County Airport]] (DTW)
+| website                 = [http://www.detroitmi.gov/ DetroitMI.gov]
+| footnotes               =
+}}
+'''Detroit''' ({{IPAc-en|icon|d|i|ˈ|t|r|ɔɪ|t}})&lt;ref&gt;{{cite web|url=http://www.merriam-webster.com/dictionary/detroit |title=Detroit – Definition and More from the Free Merriam-Webster Dictionary |publisher=Merriam-webster.com |date=April 25, 2007 |accessdate=July 1, 2010}}&lt;/ref&gt; is the [[List of cities in Michigan by population|largest city]] in the U.S. state of [[Michigan]], and the [[county seat|seat]] of [[Wayne County, Michigan|Wayne County]]. It is the major city among the primary cultural, financial, and transportation centers in the [[Metro Detroit]] area, a region of 5.2 million people, and serves as a major port on the [[Detroit River]] connecting the [[Great Lakes]] system to the [[Saint Lawrence Seaway]]. It was founded on July 24, 1701, by the French explorer, adventurer, and nobleman [[Antoine Laumet de La Mothe, sieur de Cadillac|Antoine de la Mothe, sieur de Cadillac]].
+
+In 2010, the city had a population of 713,777 and ranked as the [[List of United States cities by population|18th most populous city]] in the United States.&lt;ref name=CensusCity&gt;{{cite web|url=http://2010.census.gov/2010census/popmap/ipmtext.php?fl=26:2622000|accessdate=March 3, 2012|title=2010 Census Interactive Population Search|publisher=U.S. Census Bureau}}&lt;/ref&gt;  The name ''Detroit'' sometimes refers to the [[Metro Detroit]] area with a population of 4,296,250 for the six-county [[Metropolitan Statistical Area]],&lt;ref name=CensusMSA&gt;
+{{cite web|url=http://www.census.gov/popest/data/metro/totals/2011/tables/CBSA-EST2011-01.csv|title=Table 1. Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: April 1, 2010 to July 1, 2011|publisher=U.S. Census Bureau|accessdate=September 14, 2012}}&lt;/ref&gt; the United States' [[List of Metropolitan Statistical Areas|13th-largest]], and a population of 5,218,852 for the nine-county [[Combined Statistical Area]] as of the [[2010 United States Census|2010 Census]].&lt;ref name=CensusCSA&gt;{{cite web|url=http://www.census.gov/popest/data/metro/totals/2011/tables/CBSA-EST2011-02.csv|title=Table 2. Annual Estimates of the Population of Combined Statistical Areas: April 1, 2010 to July 1, 2011|publisher=U.S. Census Bureau|accessdate=September 14, 2012}}&lt;/ref&gt; The [[Detroit–Windsor]] area, a critical commercial link straddling the [[Canada–United States border|Canada–U.S. border]], has a total population of about 5,700,000.&lt;ref name=Agglomerations&gt;[http://www.citypopulation.de/World.html World Agglomerations] Retrieved on May 5, 2009.&lt;/ref&gt;
+
+Known as the world's traditional automotive center,&lt;ref&gt;Lawrence, Peter (2009).[http://www.cdf.org/issue_journal/interview_with_michigans_governor.html Interview with Michigan's Governor], Corporate Design Foundation. Retrieved on May 1, 2009.&lt;/ref&gt; &quot;Detroit&quot; is a [[metonym]] for the [[Automotive industry in the United States|American automobile industry]] and an important source of popular music legacies celebrated by the city's two familiar nicknames, the ''Motor City'' and ''[[Motown]]''.&lt;ref name=Britannica&gt;{{cite web|url=http://student.britannica.com/comptons/article-204598/Michigan|title=Michigan Cities|work=Encyclopædia Britannica Online| accessdate=April 8, 2007|quote=[Detroit] is the automobile capital of the world}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.sae.org/congress/|title=SAE World Congress convenes in Detroit|accessdate=April 12, 2007}}&lt;/ref&gt; Other nicknames arose in the 20th century, including ''City of Champions'' beginning in the 1930s for its successes in individual and team sport,&lt;ref name=City_of_Champions/&gt; ''The D'', ''D-Town'', ''[[Hockeytown]]'' (a trademark owned by the city's [[NHL]] club, the [[Detroit Red Wings|Red Wings]]), ''Rock City'' (after the [[Kiss (band)|Kiss]] song &quot;[[Detroit Rock City (song)|Detroit Rock City]]&quot;), and ''The [[Area code 313|313]]'' (its telephone area code)&lt;ref&gt;Commemorated in the 2002 movie ''8 Mile''.&lt;/ref&gt;&lt;ref name=Almanac2/&gt; Detroit became known as the &quot;[[Arsenal of Democracy|great arsenal of democracy]]&quot; for its support of the [[Military history of the United States during World War II|U.S. role]] among the [[Allies of World War II|Allied powers]] during World War II.&lt;ref name=arsenal&gt;{{Cite book|author=Davis, Michael W. R. |title=Detroit's Wartime Industry: Arsenal of Democracy (Images of America)|year=2007|publisher=Arcadia Publishing|isbn=0-7385-5164-3}}&lt;/ref&gt;
+
+Detroit and the surrounding region constitute a major center of commerce and global trade. The Detroit area emerged as a metropolitan region with construction of an extensive [[Roads and freeways in metropolitan Detroit|freeway system]] in the 1950s and 1960s which has expanded in ensuing decades. Freeways and [[Transportation in metropolitan Detroit|transit systems]] have facilitated movement throughout the region with millions of people taking up residence in the suburbs. Between 2000 and 2010, the city's population fell by 25%, from the [[Largest cities in the United States by population by decade#2000|nation's 10th largest city]] to 18th.&lt;ref name=Wisely/&gt; Commensurate with the shift of population and jobs to its suburbs, the city has had to adjust its role within the larger metropolitan area. [[Downtown Detroit]] has seen an increased role as an entertainment hub in the 21st century with the opening of three casino resort hotels, new stadiums, and a revitalized riverfront. The metropolitan region currently holds roughly one-half of the state's population.&lt;ref name=CensusCity/&gt;&lt;ref name=CensusMSA/&gt;
+
+== History ==
+
+&lt;!-- This section is a summary. Please make additions to the full History of... article. Thank you. --&gt;
+{{Main|History of Detroit}}
+The city's name originates from the [[Detroit River]] ({{lang-fr|link=no|le détroit du Lac Érié}}, meaning ''the strait of Lake Erie''), linking [[Lake Huron]] and [[Lake Erie]]; in the historical context, the strait included [[Lake Saint Clair (North America)|Lake St. Clair]] and the [[St. Clair River]].&lt;ref name=&quot;RivièreduDétroit&quot;&gt;{{cite web
+| url = http://www.archives.gov.on.ca/french/exhibits/franco_ontarian/big/big_36_map_detroit_river.htm
+| title = La rivière du Détroit depuis le lac Érié, 1764
+| accessdate =May 5, 2009
+}}&lt;/ref&gt;&lt;ref&gt;[[List of U.S. place names of French origin]]&lt;/ref&gt; Traveling up the Detroit River in 1679 on the ship ''[[Le Griffon]]'' with [[René-Robert Cavelier, Sieur de La Salle|Cavelier de La Salle]], Father [[Louis Hennepin]] noted the north bank of the river as an ideal location for a settlement.
+
+There, in 1701, the French officer [[Antoine Laumet de La Mothe, sieur de Cadillac|Antoine de La Mothe Cadillac]], along with fifty-one additional [[French-Canadians]], founded a settlement called [[Fort Detroit|Fort Ponchartrain du ''Détroit'']], naming it after the [[comte de Pontchartrain]], Minister of Marine under [[Louis XIV]]. France offered free land in order to attract families to Detroit, which grew to 800 people in 1765, the largest city between Montreal and New Orleans.&lt;ref&gt;[http://www.archives.gov.on.ca/ENGLISH/exhibits/franco_ontarian/detroit.htm French Ontario in the 17th and 18th centuries – Detroit]. ''Archives of Ontario'' July 14, 2008. Retrieved July 23, 2008.&lt;/ref&gt;
+[[File:Ste Anne de Detroit.jpg|upright|left|thumb|[[Ste. Anne de Detroit Catholic Church|Ste. Anne de Détroit]], founded in 1701, is the second oldest continuously operating [[Roman Catholic Archdiocese of Detroit|Roman Catholic]] parish in the United States. The present church was completed in 1887.&lt;ref name=Woodford/&gt;]]
+François Marie Picoté, sieur de Belestre ([[Montreal]] 1719–1793) was the last French military commander at Fort Detroit (1758–1760), surrendering the fort on November 29, 1760 to the British. The region's fur trade was an important economic activity. Detroit's city flag reflects this French heritage. (See [[Flag of Detroit, Michigan]]).&lt;ref name=Woodford/&gt;
+
+During the French and Indian War (1760), [[Kingdom of Great Britain|British]] troops gained control and shortened the name to ''Detroit''. Several tribes led by [[Chief Pontiac]], an [[Ottawa (tribe)|Ottawa]] leader, launched [[Pontiac's Rebellion]] (1763), including a [[siege of Fort Detroit]]. Partially in response to this, the British [[Royal Proclamation of 1763]] included restrictions on white settlement in unceded Indian territories. Detroit passed to the United States under the [[Jay Treaty]] (1796). In 1805, fire destroyed most of the settlement. A river warehouse and brick chimneys of the wooden homes were the sole structures to survive.&lt;ref&gt;[http://www.ste-anne.org/dempsey.html Ste. Anne of Detroit] ''St. Anne Church''. Retrieved on April 29, 2006.&lt;/ref&gt;
+
+From 1805 to 1847, Detroit was the capital of Michigan. As the city expanded, the street layout plan developed by [[Augustus B. Woodward]], Chief Justice of the [[Michigan Territory]] was followed. Detroit fell to British troops during the [[War of 1812]] in the [[Siege of Detroit]], was recaptured by the United States in 1813 and incorporated as a city in 1815.&lt;ref name=Woodford/&gt;
+
+Prior to the [[American Civil War]], the city's access to the Canadian border made it a key stop along the [[underground railroad]].&lt;ref name=Woodford/&gt;
+Then a Lieutenant, the future president [[Ulysses S. Grant]] was stationed in the city. His dwelling is still at the [[Michigan State Fairgrounds]]. Because of this local sentiment, many Detroiters volunteered to fight during the American Civil War, including the 24th Michigan Infantry Regiment (part of the legendary [[Iron Brigade]]) which fought with distinction and suffered 82% casualties at Gettysburg in 1863. At the arrival of the First Volunteer Infantry Regiment in Washington, Abraham Lincoln is quoted as saying &quot;Thank God for Michigan!&quot; Following the death of President [[Abraham Lincoln]], [[George Armstrong Custer]] delivered a eulogy to the thousands gathered near [[Campus Martius Park]]. Custer led the [[Michigan Brigade]] during the American Civil War and called them the ''Wolverines''.&lt;ref&gt;Rosentreter, Roger (July/August 1998). &quot;Come on you Wolverines, Michigan at Gettysburg.&quot; ''[[Michigan History magazine]]''.&lt;/ref&gt;
+
+During the late 19th and early 20th centuries, many of the city's [[Gilded Age]] mansions and buildings arose. Detroit was referred to as the ''Paris of the West'' for its architecture, and for Washington Boulevard, recently electrified by [[Thomas Edison]].&lt;ref name=Woodford&gt;Woodford, Arthur M. (2001). ''This is Detroit: 1701–2001''. Wayne State University Press&lt;/ref&gt; Strategically located along the [[Great Lakes]] waterway, Detroit emerged as a transportation hub. The city had grown steadily from the 1830s with the rise of shipping, shipbuilding, and manufacturing industries. In 1896, a thriving carriage trade prompted [[Henry Ford]] to build his first automobile in a rented workshop on Mack Avenue.  During this period, Detroit expanded its borders annexing all or part of several surrounding villages and townships.
+
+[[File:Fordpiquetteplant.jpg|thumb|left|[[Piquette Plant|Ford Piquette Avenue Plant]] (1904), a [[List of National Historic Landmarks in Michigan|National Historic Landmark]].]]
+In 1903 Ford founded the [[Ford Motor Company]]. Ford's manufacturing—and those of automotive pioneers [[William C. Durant]], the [[Dodge]] brothers, [[Packard]], and [[Walter Chrysler]]—reinforced Detroit's status as the world's automotive capital; it also served to encourage truck manufacturers such as Rapid and [[GMC (automobile)|Grabowsky]].&lt;ref name=Woodford/&gt;
+
+With the introduction of [[Prohibition]], smugglers used the river as a major conduit for Canadian spirits, organized in large part by the notorious [[The Purple Gang|Purple Gang]].&lt;ref&gt;Nolan, Jenny (June 15, 1999).[http://info.detnews.com/redesign/history/story/historytemplate.cfm?id=181 How Prohibition made Detroit a bootlegger's dream town]. Michigan History, ''The Detroit News''. Retrieved on November 23, 2007.&lt;/ref&gt; Strained racial relations were evident in the 1920s trial of Dr. [[Ossian Sweet]], a black Detroit physician acquitted of murder. A man died when shots were fired from Ossian's house into a threatening mob who gathered to try to force him out of a predominantly white neighborhood.&lt;ref&gt;Zacharias, Patricia (February 12, 2001). [http://info.detnews.com/redesign/history/story/historytemplate.cfm?id=201 'I have to die a man or live a coward' – the saga of Dr. Ossian Sweet]. Michigan History, ''The Detroit News''. Retrieved on November 23, 2007.&lt;/ref&gt;
+
+[[File:Hurlbut Memorial Gate Detroit MI.jpg|thumb|[[Hurlbut Memorial Gate|Chauncey Hurlbut Memorial Gate]] (1894) – restored in 2007. [[East Jefferson Avenue Residential TR|East Jefferson at Cadillac Blvd.]]]]
+With the factories came high-profile labor unions in the 1930s such as the [[United Auto Workers]] which initiated disputes with manufacturers. The labor activism during those years increased influence of union leaders in the city such as [[Jimmy Hoffa]] of the Teamsters and [[Walter Reuther]] of the autoworkers.
+The 1940s saw the construction of the world's first urban freeway system below ground level, [[M-8 (Michigan highway)|the Davison]]&lt;ref&gt;[http://www.michiganhighways.org/listings/MichHwys01-09.html#M-008 Michigan Highways]. ''michiganhighways.org'' Retrieved on April 30, 2006.&lt;/ref&gt; and the [[Automotive industry in the United States|American automobile industry]]'s productive capacity summoned to support the [[Allies of World War II|Allied powers]] during World War II which led to Detroit's nickname as the ''[[Arsenal of Democracy]]''.&lt;ref name=Willowrun&gt;Nolan, Jenny (January 28, 1997).[http://info.detnews.com/redesign/history/story/historytemplate.cfm?id=73&amp;category=locations Willow Run and the Arsenal of Democracy]. Michigan History, ''The Detroit News''. Retrieved on November 23, 2007.&lt;/ref&gt; There have been [[USS Detroit|six ships]] of the [[United States Navy]] named after the city, including [[USS Detroit (LCS-7)|USS ''Detroit'' (LCS-7)]].
+
+Industry spurred growth during the first half of the 20th century as the city drew tens of thousands of new residents, particularly workers from the Southern United States, to become the [[Largest cities in the United States by population by decade|United States' fourth largest]]. At the same time, tens of thousands of European immigrants located in the city. Social tensions rose with the rapid pace of growth. The ''color blind'' promotion policies of the auto plants resulted in racial tension that erupted into [[Detroit Race Riot (1943)|a full-scale riot in 1943]].&lt;ref&gt;Baulch, Vivian M. and Patricia Zacharias (February 11, 1999). [http://info.detnews.com/redesign/history/story/historytemplate.cfm?id=185 1943 Detroit race riots]. Michigan History, ''The Detroit News'' Retrieved on November 23, 2007.&lt;/ref&gt;
+
+Consolidation during the 1950s, especially in the automobile sector, streamlined the supply chain. An extensive freeway system constructed in the 1950s and 1960s had facilitated [[commuting]].  In 1940, the city held about one-third of the state's population, while the metropolitan region currently holds roughly one-half.&lt;ref name=Woodford/&gt; Commensurate with the shift of population and jobs to its suburbs, the city's tax base eroded.
+[[File:Broadway Avenue Historic District 2.jpg|thumb|[[Broadway Avenue Historic District (Detroit, Michigan)|Broadway Avenue Historic District]] built in the 1890s adjoins the [[Randolph Street Commercial Buildings Historic District]] which dates from the 1840s.]]
+During the [[African-American Civil Rights Movement (1955–1968)|African-American Civil Rights Movement]] of the 1950s and 1960s, Detroit witnessed social unrest, culminating in the [[12th Street Riot|Twelfth Street riot]] in July 1967. The gasoline crises of [[1973 oil crisis|1973]] and [[1979 energy crisis|1979]] impacted the U.S. auto industry as small cars from foreign makers made inroads.
+
+''Renaissance'' has been a common theme among city leaders, reinforced by the construction of the [[Renaissance Center]] in the late 1970s. This complex of skyscrapers, designed as a ''city within a city,'' together with other developments, slowed and eventually began to reverse the trend of businesses leaving [[Downtown Detroit]] by the late 1990s.&lt;ref name=Woodford/&gt;&lt;ref name=partnership/&gt;&lt;ref name=Bailey/&gt;
+[[File:RenCen.JPG|thumb|left|upright|The [[Renaissance Center]] along the [[Detroit International Riverfront|International Riverfront]]]]
+In 1980, Detroit hosted the [[Republican National Convention]] which nominated [[Ronald Reagan]] to a successful bid for President of the United States.  During the 1980s, vacant structures were demolished to make way for new development and revitalization.&lt;ref name=Woodford/&gt;
+
+In the 1990s, the city began to receive a revival with much of it centered in the [[Downtown Detroit|Downtown]], [[Midtown Detroit|Midtown]], and [[New Center, Detroit|New Center]] areas.  [[One Detroit Center]] (1993) arose on the city skyline. In the ensuing years, three casinos opened: [[MGM Grand Detroit]], [[MotorCity Casino Hotel|Motor City Casino]], and [[Greektown Casino Hotel|Greektown Casino]] which debuted as resort hotels in 2007–08. New downtown stadiums were constructed for the [[Detroit Tigers]] and [[Detroit Lions]] in 2000 and 2002, respectively; this put the Lions' home stadium in the city proper for the first time since 1974. The city also saw the historic [[Book Cadillac Hotel]] and the [[Fort Shelby Hotel]] reopen for the first time in over 20 years.&lt;ref name=partnership/&gt; The city hosted the 2005 [[MLB All-Star Game]], 2006 [[Super Bowl XL]], [[2006 World Series]], [[WrestleMania 23]] in 2007, and the [[NCAA]] Final Four in April 2009 all of which prompted many improvements to the downtown area. In 2011, [[Detroit Medical Center]] and [[Henry Ford Health System]] substantially increased investments in medical research facilities and hospitals in the city's [[Midtown Detroit|Midtown]] and [[New Center, Detroit|New Center]].&lt;ref name=&quot;Lane&quot;/&gt;&lt;ref name=Greene/&gt;
+
+The city's [[Detroit International Riverfront|riverfront]] is the focus of much development following the example of [[Windsor, Ontario]] which began its waterfront parkland conversion in the 1990s. In 2001, the first portion (stretching from Joe Louis Arena through Hart Plaza) of the [[Detroit International Riverfront|International Riverfront]] was completed as a part of the city's 300th anniversary celebration. In succeeding years, the waterfront gained miles of parks and fountains. In 2011, the Port Authority Passenger Terminal opened with the river walk connecting Hart Plaza to the Renaissance Center. This development is a mainstay in the city's plan to enhance its economy through tourism.&lt;ref name=Bailey&gt;Bailey, Ruby L.(August 22, 2007). The D is a draw: Most suburbanites are repeat visitors.''Detroit Free Press''. New Detroit Free Press-Local 4 poll conducted by Selzer and Co., finds, &quot;nearly two-thirds of residents of suburban Wayne, Oakland, and Macomb counties say they at least occasionally dine, attend cultural events or take in professional games in Detroit.&quot;&lt;/ref&gt; Along the river, developers are constructing upscale condominiums such as [[Watermark Detroit]]. Some city limit signs, particularly on the Dearborn border say &quot;Welcome to Detroit, The Renaissance City Founded 1701.&quot;&lt;ref name=Almanac2/&gt;&lt;ref name=partnership/&gt;
+
+== Geography ==
+
+=== Topography ===
+
+[[File:Large Detroit Landsat.jpg|thumb|A simulated-color [[satellite]] image of the Detroit metro area, including Windsor across the river, taken on [[NASA]]'s [[Landsat 7]] satellite]]
+According to the [[United States Census Bureau]], the city has a total area of {{convert|143.0|sqmi|km2}}; of this, {{convert|138.8|sqmi|km2}} is land and {{convert|4.2|sqmi|km2}} is water. Detroit is the principal city in [[Metro Detroit]] and [[Southeast Michigan]] situated in the [[Midwestern United States]] and the [[Great Lakes region (North America)|Great Lakes region]].
+
+The highest elevation in the city is in the [[University District, Detroit|University District]] neighborhood in northwestern Detroit, west of Palmer Park, sitting at a height of {{convert|670|ft|m}}. Detroit's lowest elevation is along its riverfront, sitting at a height of {{convert|579|ft|m}}. On its northeast border are the communities of [[Grosse Pointe]].
+[[File:James Scott Fountain - Detroit skyline.jpg|thumb|left || A view of the city from [[Belle Isle Park]]]]
+The [[Detroit River International Wildlife Refuge]] is the only international [[wildlife preserve]] in North America, uniquely located in the heart of a major metropolitan area. The Refuge includes islands, coastal wetlands, marshes, shoals, and waterfront lands along {{convert|48|mi|km|0}} of the [[Detroit River]] and [[Western Lake Erie]] shoreline. [[Grosse Ile (Michigan)|Grosse Ile]] is the largest island in the Detroit River and the most populated island in Michigan. [[Belle Isle Park]] is a {{convert|982|acre|sqmi ha|adj=on}} island park in the [[Detroit River]], between the Detroit and [[Windsor, Ontario]]. It is connected to the mainland by the [[MacArthur Bridge (Detroit)|MacArthur Bridge]] in Detroit. Belle Isle Park contains many sites of interest including the [[James Scott Memorial Fountain]], the [[Belle Isle Park|Anna Scripps Whitcomb Conservatory]], the [[Detroit Yacht Club]] on an adjacent island, a half-mile (800 m) beach, a golf course, a nature center, monuments, and gardens. The city skyline may be viewed from the island.
+
+Three road systems cross the city: the original French template, radial avenues from a Washington, D.C.-inspired system, and true [[Mile Road System (Detroit)|north–south roads]] from the [[Northwest Ordinance]] township system. The city is north of [[Windsor, Ontario]]. Detroit is the only major city along the U.S.–Canadian border in which one travels south in order to cross into Canada.
+
+Detroit has four border crossings: the [[Ambassador Bridge]] and the [[Detroit–Windsor Tunnel]] provide motor vehicle thoroughfares, with the [[Michigan Central Railway Tunnel]] providing railroad access to and from Canada. The fourth border crossing is the [[Detroit–Windsor Truck Ferry]], located near the Windsor Salt Mine and [[Zug Island]]. Near Zug Island, the southwest part of the city sits atop a {{convert|1500|acre|ha|sing=on}} salt mine that is {{convert|1100|ft|m|-1}} below the surface. The Detroit Salt Company mine has over {{convert|100|mi|km|}} of roads within.&lt;ref&gt;Zacharias, Patricia (January 23, 2000). [http://info.detnews.com/redesign/history/story/historytemplate.cfm?id=17 The ghostly salt city beneath Detroit]. Michigan History, ''The Detroit News''. Retrieved on November 23, 2007.&lt;/ref&gt;&lt;ref&gt;{{cite web
+| url=http://www.detroitsalt.com/home.htm |title=The Detroit Salt Company --Explore the City under the City. |accessdate=May 5, 2009 }}&lt;/ref&gt;
+
+=== Climate ===
+
+Detroit and the rest of southeastern Michigan have a [[humid continental climate]] ([[Köppen climate classification|Köppen]] ''Dfa'') which is influenced by the Great Lakes. Winters are cold, with moderate [[snowfall]] and temperatures at night dropping below {{convert|0|°F|1}} around three times a year, while summers are warm to hot with temperatures exceeding {{convert|90|°F|1}} on 13.3 days.&lt;ref name=NCDC&gt;
+{{Cite web
+  | url = http://www.nws.noaa.gov/climate/xmacis.php?wfo=dtx
+  | title = NOWData – NOAA Online Weather Data/
+  | publisher=[[National Oceanic and Atmospheric Administration]]
+  | accessdate=August 11, 2012
+}}&lt;/ref&gt; Snowfall, which typically peaks from December through February, averages {{convert|43.8|in|cm|0}} per season. Monthly averages range from {{convert|26.5|°F|1}} in January to {{convert|74.6|°F|1}} in July. The highest recorded temperature was {{convert|105|°F|1}} on July 24, 1934, while the lowest recorded temperature was {{convert|-21|°F|1}} on January 19, 1994.&lt;ref name = &quot;SE MI extremes&quot; &gt;
+{{cite web
+  | url = http://www.nws.noaa.gov/climate/xmacis.php?wfo=dtx
+  | title = NOWData – NOAA Online Weather Data
+  | publisher=[[National Oceanic and Atmospheric Administration]]
+  | accessdate =August 11, 2012
+}}&lt;/ref&gt;
+{{-}}
+
+&lt;center&gt;{{Weather box
+|collapsed = Y
+|location = the Detroit area
+|single line = Y
+|Jan record high F =  67
+|Feb record high F =  70
+|Mar record high F =  84
+|Apr record high F =  89
+|May record high F =  95
+|Jun record high F = 104
+|Jul record high F = 105
+|Aug record high F = 104
+|Sep record high F = 100
+|Oct record high F =  92
+|Nov record high F =  81
+|Dec record high F =  69
+|year record high F = 105
+|Jan high F = 32.0
+|Feb high F = 35.2
+|Mar high F = 45.8
+|Apr high F = 59.1
+|May high F = 69.9
+|Jun high F = 79.3
+|Jul high F = 83.4
+|Aug high F = 81.4
+|Sep high F = 74.0
+|Oct high F = 61.6
+|Nov high F = 48.8
+|Dec high F = 36.1
+|year high F = 58.9
+|Jan low F = 18.5
+|Feb low F = 20.5
+|Mar low F = 28.1
+|Apr low F = 38.9
+|May low F = 49.0
+|Jun low F = 59.1
+|Jul low F = 63.4
+|Aug low F = 62.3
+|Sep low F = 54.3
+|Oct low F = 42.8
+|Nov low F = 33.7
+|Dec low F = 23.6
+|year low F = 41.2
+|Jan record low F = −21
+|Feb record low F = −20
+|Mar record low F =  −4
+|Apr record low F =   8
+|May record low F =  26
+|Jun record low F =  36
+|Jul record low F =  42
+|Aug record low F =  38
+|Sep record low F =  29
+|Oct record low F =  17
+|Nov record low F =   0
+|Dec record low F = −11
+|year record low F = −21
+|Jan precipitation inch = 1.95
+|Feb precipitation inch = 2.01
+|Mar precipitation inch = 2.28
+|Apr precipitation inch = 2.90
+|May precipitation inch = 3.38
+|Jun precipitation inch = 3.51
+|Jul precipitation inch = 3.37
+|Aug precipitation inch = 3.00
+|Sep precipitation inch = 3.26
+|Oct precipitation inch = 2.52
+|Nov precipitation inch = 2.78
+|Dec precipitation inch = 2.45
+|precipitation colour = green
+|Jan snow inch = 12.9
+|Feb snow inch = 10.9
+|Mar snow inch = 7.1
+|Apr snow inch = 1.7
+|May snow inch = 0
+|Jun snow inch = 0
+|Jul snow inch = 0
+|Aug snow inch = 0
+|Sep snow inch = 0
+|Oct snow inch = 0.1
+|Nov snow inch = 1.4
+|Dec snow inch = 9.6
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 13.1
+|Feb precipitation days = 10.6
+|Mar precipitation days = 11.7
+|Apr precipitation days = 12.2
+|May precipitation days = 12.1
+|Jun precipitation days = 10.2
+|Jul precipitation days = 10.4
+|Aug precipitation days = 9.6
+|Sep precipitation days = 9.5
+|Oct precipitation days = 9.8
+|Nov precipitation days = 11.6
+|Dec precipitation days = 13.7
+|unit snow days = 0.1 in
+|Jan snow days = 10.6
+|Feb snow days = 8.3
+|Mar snow days = 5.5
+|Apr snow days = 1.6
+|May snow days = 0
+|Jun snow days = 0
+|Jul snow days = 0
+|Aug snow days = 0
+|Sep snow days = 0
+|Oct snow days = 0.2
+|Nov snow days = 2.3
+|Dec snow days = 8.4
+|Jan sun = 120.9
+|Feb sun = 138.4
+|Mar sun = 186.0
+|Apr sun = 216.0
+|May sun = 275.9
+|Jun sun = 303.0
+|Jul sun = 316.2
+|Aug sun = 282.1
+|Sep sun = 228.0
+|Oct sun = 176.7
+|Nov sun = 105.0
+|Dec sun =  86.8
+|year sun = 2435.0
+|source 1 = NOAA (normals 1981–2010, records 1874–2010)&lt;ref name = NCDC/&gt;&lt;ref name = &quot;SE MI extremes&quot;/&gt;
+|source 2 = HKO (sun, 1961–1990)&lt;ref name = HKO &gt;
+{{cite web
+  | url = http://www.hko.gov.hk/wxinfo/climat/world/eng/n_america/us/detroit_e.htm
+  | title = Climatological Normals of Detroit
+  | accessdate =May 13, 2010
+  | publisher=[[Hong Kong Observatory]]
+}}&lt;/ref&gt;
+|date=August 2010
+}} &lt;/center&gt;
+
+== Cityscape ==
+{{wide image|Detroit Night Skyline.JPG|800px|&lt;center&gt;[[Detroit International Riverfront]]&lt;/center&gt;}}
+
+=== Architecture ===
+{{Main|Architecture of metropolitan Detroit}}
+[[File:GrandBoulevardNewCenterDetroit.jpg|thumb|left || [[Cadillac Place]] (1923) left, with the [[Fisher Building]] (1928) are among the city's [[List of National Historic Landmarks in Michigan|National Historic Landmarks]].]]
+[[File:JMRDetroit1.jpg|thumb|upright|[[Wayne County Building]] (1897) [[Downtown Detroit|downtown]] by John and Arthur Scott]]
+Seen in panorama, Detroit's waterfront shows a variety of architectural styles. The [[Post-modern architecture|post modern]] neogothic spires of the [[One Detroit Center]] (1993) were designed to blend with the city’s [[Art Deco]] skyscrapers. Together with the [[Renaissance Center]], they form a distinctive and recognizable skyline. Examples of the [[Art Deco]] style include the [[Guardian Building]] and [[Penobscot Building]] downtown, as well as the [[Fisher Building]] and [[Cadillac Place]] in the [[New Center]] area near [[Wayne State University]]. Among the city's prominent structures are United States' largest [[Fox Theatre (Detroit)|Fox Theatre]], the [[Detroit Opera House]], and the [[Detroit Institute of Arts]].&lt;ref name=AIADetroit&gt;{{Cite book | author=Hill, Eric J. and John Gallagher | title= AIA Detroit: The American Institute of Architects Guide to Detroit Architecture| year=2002 | publisher=Wayne State University Press }}&lt;/ref&gt;&lt;ref name=DetArch&gt;{{Cite book | author=[[Robert Sharoff|Sharoff, Robert]] | title=American City: Detroit Architecture| publisher=Wayne State University Press| year=2005| isbn=0-8143-3270-6}}&lt;/ref&gt;
+
+While the [[Downtown Detroit|downtown]] and New Center areas contain high-rise buildings, the majority of the surrounding city consists of low-rise structures and single-family homes. Outside of the city's core, residential high-rises are found in neighborhoods such as the East Riverfront extending toward [[Grosse Pointe]] and the [[Palmer Park Apartment Building Historic District|Palmer Park]] neighborhood just west of Woodward. The University Commons-Palmer Park district in northwest Detroit is near the [[University of Detroit Mercy]] and [[Marygrove College]] which anchors historic neighborhoods including [[Palmer Woods Historic District|Palmer Woods]], [[Sherwood Forest Historic District|Sherwood Forest]], and the [[University District, Detroit|University District]].
+
+The [[List of Registered Historic Places in Detroit, Michigan|National Register of Historic Places]] lists several area neighborhoods and districts. Neighborhoods constructed prior to World War II feature the architecture of the times, with wood-frame and brick houses in the working-class neighborhoods, larger brick homes in middle-class neighborhoods, and ornate mansions in upper-class neighborhoods such as [[Brush Park Historic District|Brush Park]], [[Woodbridge Historic District|Woodbridge]], [[Indian Village Historic District (Detroit, Michigan)|Indian Village]], [[Palmer Woods Historic District|Palmer Woods]], [[Boston-Edison Historic District|Boston-Edison]], and others.
+
+[[File:DetroitStJoseph.JPG|thumb || left|[[St. Joseph Roman Catholic Church, Detroit|St. Joseph Catholic Church]] (1873) is a notable example of Detroit's ecclesial architecture.]]
+Some of the oldest neighborhoods are along the Woodward and [[East Jefferson Avenue Residential TR|East Jefferson]] corridors. Some newer residential construction may also be found along the Woodward corridor, the far west, and northeast. Some of the oldest extant neighborhoods include [[West Canfield Historic District|West Canfield]] and [[Brush Park Historic District|Brush Park]] which have both seen multi-million dollar restorations and construction of new homes and condominiums.&lt;ref name=partnership&gt;[http://web.archive.org/web/20080613121052/http://www.theworldiscoming.com/seethechange.html The world is coming, see the change]. ''City of Detroit Partnership''. Retrieved on November 24, 2007.&lt;/ref&gt;&lt;ref&gt;Pfeffer, Jaime (September 12, 2006).[http://www.modeldmedia.com/features/bpark61.aspx Falling for Brush Park].''Model D Media''. Retrieved on April 21, 2009.&lt;/ref&gt;
+[[File:DavidStottsitsamongDetroittowers.jpg|thumb|right|upright|[[Detroit Financial District]] viewed from the [[Detroit International Riverfront|International Riverfront]]]] Many of the city's architecturally significant buildings are on the [[National Register of Historic Places]] and the city has one of United States' largest surviving collections of late 19th and early 20th century buildings.&lt;ref name=DetArch/&gt; There are a number of architecturally significant churches and cathedrals throughout the city including [[St. Joseph Catholic Church, Detroit|St. Joseph's]], Old [[St. Mary Roman Catholic Church (Detroit, Michigan)|St. Mary's]], the [[Sweetest Heart of Mary Roman Catholic Church|Sweetest Heart of Mary]], and the [[Cathedral of the Most Blessed Sacrament]].&lt;ref name=&quot;AIADetroit&quot;/&gt;
+
+The city has substantial activity in urban design, historic preservation, and architecture.&lt;ref&gt;Cityscape Detroit.[http://www.cityscapedetroit.org/ www.cityscapedetroit.org] Retrieved on April 8, 2007.&lt;/ref&gt; A number of downtown redevelopment projects—of which [[Campus Martius Park]] is one of the most notable—have revitalized parts of the city. [[Grand Circus Park]] stands near the [[Detroit Theatre District|city's theater district]], [[Ford Field]], home of the [[Detroit Lions]], and [[Comerica Park]], home of the [[Detroit Tigers]].&lt;ref name=AIADetroit/&gt; Other projects include the demolition of the [[Ford Auditorium]] off of Jefferson St.
+
+The [[Detroit International Riverfront]] includes a partially completed three and one-half mile riverfront promenade with a combination of parks, residential buildings, and commercial areas from [[Hart Plaza]] to the MacArthur Bridge accessing [[Belle Isle (Michigan)|Belle Isle]] (the largest island park in a U.S. city). The riverfront includes [[Tri-Centennial State Park]] and Harbor, Michigan's first urban state park. The second phase is a two mile (3&amp;nbsp;km) extension from Hart Plaza to the [[Ambassador Bridge]] for a total of five miles (8&amp;nbsp;km) of parkway from bridge to bridge. Civic planners envision that the riverfront properties condemned under [[eminent domain]], with their pedestrian parks, will spur more residential development. Other major parks include Palmer (north of [[Highland Park, Michigan|Highland Park]]), River Rouge (in the southwest side), and [[Chene Park]] (on the east river downtown).&lt;ref&gt;Detroit News Editorial (December 13, 2002). At Last, Sensible Dream for Detroit's Riverfront. ''Detroit News''.&lt;/ref&gt;
+
+=== Neighborhoods ===
+{{Further|Neighborhoods in Detroit}}
+Detroit has a variety of neighborhood types. The revitalized Downtown, [[Midtown Detroit|Midtown]], and [[New Center, Detroit|New Center]] areas feature many historic buildings and are high density, while further out, particularly in the northeast and on the fringes,&lt;ref name=parcel/&gt; high vacancy levels are problematic, for which a number of solutions have been proposed. In 2007, [[Downtown Detroit]] was recognized as a best city neighborhood in which to retire among the United States' largest metro areas by CNN Money Magazine editors.&lt;ref&gt;Bigda, Carolyn, Erin Chambers, Lawrence Lanahan, Joe Light, Sarah Max, and Jennifer Merritt.[http://money.cnn.com/galleries/2007/moneymag/0710/gallery.bpretire.moneymag/18.html Detroit Best place to retire: Downtown]. CNN Money Magazine''. Retrieved July 5, 2012.&lt;/ref&gt;
+[[File:West Canfield Historic District 1 - Detroit Michigan.jpg|thumb|left|Historic homes in the [[West Canfield Historic District|West Canfield]] neighborhood in [[Midtown Detroit|Midtown]]]]
+[[Lafayette Park, Detroit|Lafayette Park]] is a [[Planning and development in Detroit|revitalized]] neighborhood on the city's [[East Jefferson Avenue Residential TR|east side]], part of the [[Ludwig Mies van der Rohe]] residential district.&lt;ref name=WallStreet1&gt;Vitullo-Martin, Julio, (December 22, 2007). [http://online.wsj.com/article/SB119827404882045751.html The Biggest Mies Collection: His Lafayette Park residential development thrives in Detroit].''The Wall Street Journal''.Retrieved July 5, 2012.&lt;/ref&gt; The {{convert|78|acre|ha|sing=on}} development was originally called the Gratiot Park. Planned by [[Mies van der Rohe]], [[Ludwig Hilberseimer]] and [[Alfred Caldwell]] it includes a landscaped, {{convert|19|acre|ha|sing=on}} park with no through traffic, in which these and other low-rise apartment buildings are situated.&lt;ref name=WallStreet1/&gt; Immigrants have contributed to the city's neighborhood revitalization, especially in southwest Detroit.&lt;ref name=Southwest2&gt;Rodriguez, Cindy (May 23, 2007).[http://teamowens313.wordpress.com/2007/05/23/detroit-style-neighborhood-revival/ A Detroit success story: Can-do spirit revives southwest neighborhood]. ''Detroit News''. teamowners313.wordpress.com. Retrieved July 5, 2012.&lt;/ref&gt; Southwest Detroit has experienced a thriving economy in recent years, as evidenced by new housing, increased business openings and the recently opened Mexicantown International Welcome Center.&lt;ref name=Southwest&gt;Williams, Corey (February 28, 2008).[http://www.usatoday.com/news/nation/2008-02-28-2962316916_x.htm New Latino Wave Helps Revitalize Detroit]. ''USA Today''. Retrieved July 5, 2012.&lt;/ref&gt;
+[[File:House on Edmund Detroit.jpg|thumb|upright|Historic restoration of the Lucien Moore House (1885), in [[Brush Park Historic District|Brush Park]], completed in 2006&lt;ref name=Pfeffer&gt;Pfeffer, Jaime (September 12, 2006).[http://www.modeldmedia.com/features/bpark61.aspx Falling for Brush Park].''Model D Media''. Retrieved July 5, 2012.&lt;/ref&gt;]]
+The city has numerous neighborhoods consisting of vacant properties resulting in low inhabited density in those areas, stretching city services and infrastructure. These neighborhoods are concentrated in the northeast and on the city's fringes.&lt;ref name=parcel/&gt; A 2009 parcel survey found about one fourth of residential lots in the city to be undeveloped or vacant, and about 10% of the city's housing to be unoccupied.&lt;ref name=parcel&gt;[http://www.detroitparcelsurvey.org/ Detroit Parcel Survey]. Retrieved on July 23, 2011.&lt;/ref&gt;&lt;ref name=&quot;MLIVEAP&quot;/&gt;&lt;ref name=&quot;Gallagher1&quot;/&gt;  The survey also reported that most (86%) of the city's homes are in good condition with a minority (9%) in fair condition needing only minor repairs.&lt;ref name=&quot;MLIVEAP&quot;&gt;Associated Press (February 10, 2010).[http://www.mlive.com/news/detroit/index.ssf/2010/02/survey_a_third_of_all_detroit.html Survey].''Mlive.com''. Retrieved July 5, 2012.&lt;/ref&gt;&lt;ref name=&quot;Gallagher1&quot;&gt;{{Cite news|title=Housing in Detroit
+| author=Gallagher, John|publisher=Detroit Free Press|pages=1A,9A|date=February 20, 2010|accessdate=November 27, 2011|url=http://www.d-acis.org/Home/parcelsurvey|deadurl=http://www.freep.com/article/20100220/BUSINESS04/2200371/1318/Survey-finds-third-of-Detroit-lots-vacant|quote=95% of Detroit homes are deemed suitable for occupancy, 86% of Detroit's single family homes are in good condition, 9% are generally in need of minor repair}}&lt;/ref&gt;&lt;ref name=parcel2&gt;Kavanaugh, Kelli B. (March 2, 2010).[http://www.modeldmedia.com/devnews/ressurvey030210.aspx Intensive property survey captures state of Detroit housing, vacancy]. ''Model D''. Retrieved July 5, 2012.&lt;/ref&gt; To deal with vacancy issues, the city has begun demolishing the derelict houses, razing 3,000 of the total 10,000 in 2010,&lt;ref&gt;{{cite web|url=http://www.freep.com/article/20100401/NEWS01/304010003/1318/3000-buildings-to-be-torn-down |title=Crews to start tearing down derelict buildings in Detroit &amp;#124; freep.com &amp;#124; Detroit Free Press |publisher=freep.com |date=April 1, 2010 |accessdate=July 1, 2010}}&lt;/ref&gt; but the resulting low density creates a strain on the city's infrastructure.  To remedy this, a number of solutions have been proposed including resident relocation from more sparsely populated neighborhoods and converting unused space to agricultural use, though the city expects to be in the planning stages for up to another two years.&lt;ref name=NextDetroit&gt;[http://web.archive.org/web/20080502164357/http://www.ci.detroit.mi.us/NextDetroit/tabid/1521/Default.aspx Next Detroit]. ''City of Detroit''. Retrieved July 5, 2012.&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.nytimes.com/2010/06/21/us/21detroit.html|title=Razing the City to Save the City|work=The New York Times|accessdate=June 23, 2010 | first=Susan | last=Saulny | date=June 20, 2010}}&lt;/ref&gt;
+
+The number of stray dogs in the city's derelict areas has been estimated at 20,000. Fifty-nine Detroit postal workers were attacked by stray dogs in 2010, according to a Detroit postmaster.&lt;ref&gt;[http://www.rollingstone.com/culture/news/city-of-strays-detroits-epidemic-of-50-000-wild-dogs-20120320#ixzz20r2DtdsX Detroit's epidemic]&lt;/ref&gt;
+
+Public funding and private investment have also been made with promises to rehabilitate neighborhoods.  In April 2008, the city announced a $300-million stimulus plan to create jobs and revitalize neighborhoods, financed by city bonds and paid for by earmarking about 15% of the wagering tax.&lt;ref name=&quot;NextDetroit&quot;/&gt; The city's working plans for neighborhood revitalizations include 7-Mile/Livernois, Brightmoor, East English Village, Grand River/Greenfield, North-End, and Osborn.&lt;ref name=NextDetroit/&gt; Private organizations have pledged substantial funding to the efforts.&lt;ref name=DEGA2&gt;[http://web.archive.org/web/20080204215849/http://www.degc.org/neighborhood-groups.aspx Community Development].''DEGA''. Retrieved on January 2, 2009.&lt;/ref&gt;&lt;ref name=Fund&gt;[http://www.cfsem.org/grants/special_grants/PDFs/CF_DetroitNeighborhoodsSingle.pdf Detroit Neighborhood Fund].''Community Foundation for Southeast Michigan''. Retrieved January 2, 2009.&lt;/ref&gt;  Additionally, the city has cleared a {{convert|1200|acre|ha|adj=on}} section of land for large-scale neighborhood construction, which the city is calling the ''Far Eastside Plan''.&lt;ref name=&quot;Rose1&quot;&gt;Rose, Judy (May 11, 2003).[http://articles.chicagotribune.com/2003-05-11/business/0305110484_1_development-plan-commercial-strips-houses Detroit to revive 1 neighborhood at a time].''Chicago Tribune''. Retrieved November 29, 2011.&lt;/ref&gt;  In 2011, Mayor Bing announced a plan to categorize neighborhoods by their needs and prioritize the most needed services for those neighborhoods.&lt;ref&gt;{{cite web|url=http://www.crainsdetroit.com/article/20110727/FREE/110729908/detroit-works-project-to-be-measured-in-three-demonstration-areas#|title=Detroit Works project to be measured in three demonstration areas
+| publisher=Crain's Detroit|date=July 27, 2011|accessdate=August 2, 2011}}&lt;/ref&gt;
+
+== Culture and contemporary life ==
+
+Downtown Detroit's population of young professionals is growing and retail is expanding.&lt;ref name=Detroitres&gt;Harrison, Sheena (June 25, 2007). [http://www.crainsdetroit.com/apps/pbcs.dll/article?AID=/20070625/SUB/70623003/-1/newsletter02 DEGA enlists help to spur Detroit retail]. ''Crain's Detroit Business.'' Retrieved on November 28, 2007. &quot;New downtown residents are largely young professionals according to Social Compact.&quot;&lt;/ref&gt;&lt;ref name=InsideDet&gt;Halaas, Jaime (December 20, 2005).[http://www.modeldmedia.com/features/loftdesign.aspx Inside Detroit Lofts]. Model D Media. Retrieved on November 28, 2007.&lt;/ref&gt; A number of luxury high rises have been built. The east river development plans include more luxury condominium developments.  This dynamic is luring many younger residents to the city's [[Downtown Detroit|Downtown]] along with the revitalized [[Midtown Detroit|Midtown]] and [[New Center, Detroit|New Center]] areas.&lt;ref name=Detroitres/&gt;&lt;ref name=InsideDet&gt;Halaas, Jaime (December 20, 2005).[http://www.modeldmedia.com/features/loftdesign.aspx Inside Detroit Lofts] Model D Media.&lt;/ref&gt;&lt;ref name=Marketprofile/&gt; A 2007 study found that Detroit's new downtown residents are predominantly young professionals (57 percent are ages 25–34, 45 percent have bachelor's degrees, 34 percent have a master's or professional degree).&lt;ref name=Detroitres/&gt;&lt;ref name=Marketprofile/&gt;&lt;ref name=Detroitstudy&gt;Reppert, Joe (October 2007).[http://downtowndetroit.org/ddp/newsroom/Detroit_Drill_Down_Report.pdf Detroit Neighborhood Market Drill Down]. ''Social Compact''. Retrieved on July 10, 2010.&lt;/ref&gt;  A desire to be closer to the urban scene has also attracted some young professionals to take up residence among the mansions of [[Grosse Pointe]] just outside the city.&lt;ref&gt;{{cite web|url=http://www.crainsdetroit.com/article/20070702/SUB/707010309# |title=Waterfront Living: River rebirth draws residents downtown – Detroit News and Information – Crain's Detroit Business |publisher=Crainsdetroit.com |date=July 2, 2007 |accessdate=July 1, 2010}}&lt;/ref&gt; Detroit's proximity to [[Windsor, Ontario]], provides for views and nightlife, along with Ontario's minimum drinking age of 19.&lt;ref name= Windsornightlife&gt;{{cite news
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2006/02/03/AR2006020302747.html
+| title = Detroit's Big Party Next Door. In Windsor, Temptation Waits for Players, Fans
+| accessdate =May 5, 2009
+| last = La Canfora
+| first = Jason
+| work=The Washington Post
+| date=February 4, 2006
+}}&lt;/ref&gt; A 2011 study by [[Walk Score]] recognized Detroit for its above average walkability among large U.S. cities.&lt;ref&gt;{{cite web |url=http://www.walkscore.com/rankings/cities/|title=2011 City and Neighborhood Rankings |publisher=Walk Score |year=2011 |accessdate=Aug 28, 2011}}&lt;/ref&gt; About two-thirds of suburban residents occasionally dine and attend cultural events or take in professional games in the city of Detroit.&lt;ref name=&quot;Visitor poll&quot;&gt;Bailey, Ruby L (August 22, 2007). The D is a draw: Most suburbanites are repeat visitors.''Detroit Free Press''. New Detroit Free Press-Local 4 poll conducted by Selzer and Co., finds, &quot;nearly two-thirds of residents of suburban Wayne, Oakland, and Macomb counties say they at least occasionally dine, attend cultural events or take in professional games in Detroit.&quot;&lt;/ref&gt;
+
+=== Entertainment and performing arts ===
+
+&lt;!-- This section is a summary of significant information. Please make longer contributions to the sub articles. Thank you. --&gt;
+{{Main|Culture of Detroit|Music of Detroit|Theatre in Detroit|Detroit celebrities}}
+[[File:Foxdetroitmarqueenightshot2.jpg|left|thumb|[[Fox Theatre (Detroit)|Fox Theatre]] lights up 'Foxtown' in downtown Detroit]]
+Live music has been a prominent feature of Detroit's nightlife since the late 1940s, bringing the city recognition under the nickname 'Motown'. The metropolitan area has many nationally prominent [[Theatre in Detroit|live music venues]]. Concerts hosted by [[Live Nation]] perform throughout the Detroit area. Large concerts are held at [[DTE Energy Music Theatre]] and [[The Palace of Auburn Hills]]. The [[Theatre in Detroit|Detroit Theatre District]] is the United States' second largest and hosts [[Broadway theatre|Broadway performances]].&lt;ref&gt;[http://web.archive.org/web/20080501085821/http://www.theworldiscoming.com/getinfo_coolstuff.html Firsts and facts] ''Detroit Tourism Economic Development Council''. Retrieved on July 24, 2008.&lt;/ref&gt;&lt;ref&gt;[http://www.°C.org/arts-culture.aspx Arts &amp; Culture] ''Detroit Economic Growth Corporation''. Retrieved on July 24, 2008. &quot;Detroit is home to the second largest theatre district in the United States.&quot;&lt;/ref&gt; Major theaters include the [[Fox Theatre (Detroit)|Fox Theatre]], [[Music Hall Center for the Performing Arts|Music Hall]], the [[Gem Theatre]], [[Detroit Masonic Temple|Masonic Temple Theatre]], the [[Detroit Opera House]], the [[Fisher Theatre]], [[The Fillmore Detroit]], [[St. Andrews Hall]], the [[Majestic Theatre (Detroit, Michigan)|Majestic Theatre]], and [[Orchestra Hall, Detroit|Orchestra Hall]] which hosts the renowned [[Detroit Symphony Orchestra]]. The [[Nederlander Organization]], the largest controller of Broadway productions in New York City, originated with the purchase of the [[Detroit Opera House]] in 1922 by the Nederlander family.&lt;ref name=Almanac2&gt;{{Cite book| author=Gavrilovich, Peter and Bill McGraw |title=The Detroit Almanac, 2nd edition|publisher=Detroit Free Press| year=2006|isbn=978-0-937247-48-8}}&lt;/ref&gt;
+
+[[Motown Motion Picture Studios]] with {{convert|535000|sqft|m2}} produces movies in Detroit and the surrounding area based at the Pontiac Centerpoint Business Campus for a film industry expected to employ over 4,000 people in the metro area.&lt;ref&gt;Gallaher, John and Kathleen Gray and Chris Christoff – (February 3, 2009). Pontiac film studio to bring jobs. ''Detroit Free Press''.&lt;/ref&gt;
+[[File:Greektownnew2.jpg|thumb|upright|[[Greektown Historic District]] in Detroit]]
+
+The city of Detroit has a rich musical heritage and has contributed to a number of different genres over the decades leading into the new millennium.&lt;ref name=Almanac2/&gt; Important music events in the city include: the [[Detroit International Jazz Festival]], the [[Detroit Electronic Music Festival]], the Motor City Music Conference (MC2), the Urban Organic Music Conference, the [[Concert of Colors]], and the hip-hop Summer Jamz festival.&lt;ref name=Almanac2/&gt;
+
+In the 1940s, [[Detroit blues]] artist [[John Lee Hooker]] became a long-term resident in the city's southwest Delray neighborhood. Hooker, among other important [[blues]] musicians migrated from his home in [[Mississippi]] bringing the [[Delta Blues]] to northern cities like Detroit. Hooker recorded for [[Fortune Records]], the biggest pre-Motown blues/soul label. During the 1950s, the city became a center for jazz, with stars performing in the [[Black Bottom, Detroit|Black Bottom]] neighborhood.&lt;ref name=Woodford/&gt; Prominent emerging [[Jazz]] musicians of the 1960s included: trumpet player [[Donald Byrd]] who attended Cass Tech and performed with Art Blakey and the Jazz Messengers early in his career and Saxophonist [[Pepper Adams]] who enjoyed a solo career and accompanied Byrd on several albums. The Graystone International Jazz Museum documents [[jazz]] in Detroit.&lt;ref&gt;{{cite web|title=The Graystone Online|url=http://www.ipl.org.ar/exhibit/detjazz/Graystone.html|publisher=Internet Public Library of the University of Michigan|accessdate=May 5, 2009}}&lt;/ref&gt;
+
+Other, prominent Motor City R&amp;B stars in the 1950s and early 1960s was [[Nolan Strong]], [[Andre Williams]] and [[Nathaniel Mayer]] – who all scored local and national hits on the Fortune Records label. According to Smokey Robinson, Strong was a primary influence on his voice as a teenager. The Fortune label was a family-operated label located on Third Avenue in Detroit, and was owned by the husband and wife team of Jack Brown and Devora Brown. Fortune, which also released country, gospel and rockabilly LPs and 45s, laid the groundwork for Motown, which became Detroit's most legendary record label.&lt;ref name=Carson&gt;{{Cite book |first= David A. |last= Carson |title= Noise, and Revolution: The Birth of Detroit Rock 'n' Roll |publisher= University of Michigan Press |year= 2005 |isbn= 0-472-11503-0 }}&lt;/ref&gt;
+
+[[File:MGMGrand Detroit1.jpg|thumb|left|[[MGM Grand Detroit]]]]
+[[Berry Gordy, Jr.]] founded [[Motown Records]] which rose to prominence during the 1960s and early 1970s with acts such as [[Stevie Wonder]], [[The Temptations]], [[The Four Tops]], [[Smokey Robinson &amp; The Miracles]], [[Diana Ross &amp; The Supremes]], the [[The Jackson 5|Jackson 5]], [[Martha and the Vandellas]], [[The Spinners (American band)|The Spinners]], [[Gladys Knight &amp; the Pips]], and [[Marvin Gaye]]. Artists were backed by the [[Funk Brothers]], the Motown house band that was featured in Paul Justman's 2002 documentary film [[Standing in the Shadows of Motown]], based on Allan Slutsky's book of the same name. [[The Motown Sound]] played an important role in the crossover appeal with popular music, since it was the first African American owned record label to primarily feature African-American artists. Gordy moved Motown to Los Angeles in 1972 to pursue film production, but the company has since returned to Detroit. [[Aretha Franklin]], another Detroit R&amp;B star, carried the Motown Sound; however, she did not record with Berry's Motown Label.&lt;ref name=Almanac2/&gt;
+
+Local artists and bands rose to prominence in the 1960s and 70s including: the [[MC5]], [[The Stooges]], [[Bob Seger]], [[Amboy Dukes]] featuring [[Ted Nugent]], [[Mitch Ryder]] and The Detroit Wheels, [[Rare Earth (band)|Rare Earth]], [[Alice Cooper]], and [[Suzi Quatro]]. The group [[Kiss (band)|Kiss]] emphasized the city's connection with rock in the song ''[[Detroit Rock City]]'' and the movie produced in 1999. In the 1980s, Detroit was an important center of the [[hardcore punk rock]] underground with many nationally known bands coming out of the city and its suburbs, such as [[The Necros]], [[The Meatmen]], and [[Negative Approach]].&lt;ref name=&quot;Carson&quot; /&gt;
+
+&lt;!-- This section is a summary of significant information. Please make longer contributions to the sub articles. Thank you. --&gt;
+In 1990s and the new millennium, the city has produced a number of influential [[hip hop music|hip hop]] artists, including [[Eminem]], the hip-hop artist with the highest cumulative sales, hip-hop producer [[J Dilla]], rapper and producer [[Esham]] and hip hop duo [[Insane Clown Posse]]. Detroit is cited as the birthplace of [[techno]] music.&lt;ref name=Woodford/&gt;&lt;ref&gt;{{cite web|author=Jessica Edwards |url=http://www.plexifilm.com/title.php?id=27 |title=High Tech Soul |publisher=Plexifilm |accessdate=July 1, 2010}}&lt;/ref&gt; Prominent [[Detroit techno]] artists include [[Juan Atkins]], [[Derrick May (musician)|Derrick May]], and [[Kevin Saunderson]]. The band [[Sponge (band)|Sponge]] toured and produced music, with artists such as [[Kid Rock]] and [[Uncle Kracker]].&lt;ref name=Almanac2/&gt;&lt;ref name=&quot;Carson&quot;/&gt; The city also has an active [[garage rock]] genre that has generated national attention with acts such as: [[The White Stripes]], [[The Von Bondies]], [[The Dirtbombs]], [[Electric Six]], and [[The Hard Lessons]].&lt;ref name=Almanac2/&gt;
+
+=== Tourism ===
+{{Main|Tourism in metropolitan Detroit}}
+[[File:DetroitInstituteoftheArts2010A.jpg|thumb|300px|&lt;center&gt;[[Detroit Institute of Arts]]&lt;/center&gt;]]
+Many of the area's prominent museums are located in the historic [[Detroit Cultural Center|cultural center]] neighborhood around [[Wayne State University]] and the [[College for Creative Studies]]. These museums include the [[Detroit Institute of Arts]], the [[Detroit Historical Museum]], [[Charles H. Wright Museum of African American History]], the [[Detroit Science Center]], as well as the main branch of the [[Detroit Public Library]]. Other cultural highlights include [[Hitsville U.S.A.|Motown Historical Museum]], the [[Pewabic Pottery]] studio and school, the [[Tuskegee Airmen]] Museum, [[Fort Wayne (Detroit)|Fort Wayne]], the Dossin Great Lakes Museum, the [[Museum of Contemporary Art Detroit]] (MOCAD), the Contemporary Art Institute of Detroit (CAID), and the Belle Isle Conservatory. In 2010, the G.R. N'Namdi Gallery opened in a {{convert|16000|sqft|m2|adj=on}} complex in Midtown. Important history of America and the Detroit area are exhibited at [[The Henry Ford]], the United States' largest indoor-outdoor museum complex.&lt;ref&gt;America's Story, Explore the States: Michigan (2006). [http://www.americaslibrary.gov/cgi-bin/page.cgi/es/mi/ford_1 Henry Ford Museum and Greenfield Village] ''Library of Congress'' Retrieved August 14, 2011.&lt;/ref&gt; The Detroit Historical Society provides information about tours of area churches, skyscrapers, and mansions. Inside Detroit, meanwhile, hosts tours, educational programming, and a downtown welcome center. Other sites of interest are the [[Detroit Zoo]] in [[Royal Oak, Michigan|Royal Oak]], the [[Cranbrook Art Museum]] in [[Bloomfield Hills, Michigan|Bloomfield Hills]], the [[Anna Scripps Whitcomb Conservatory]] on [[Belle Isle Park|Belle Isle]], and Walter P. Chrysler Museum in [[Auburn Hills, Michigan|Auburn Hills]].&lt;ref name=AIADetroit/&gt;
+
+[[File:Eastern Market Detroit flower.JPG|upright|thumb|[[Eastern Market Historic District|Eastern Market]]]]
+The city's [[Greektown Historic District|Greektown]] and three downtown casino resort hotels serve as part of an entertainment hub. The [[Eastern Market Historic District|Eastern Market]] farmer's distribution center is the largest open-air flowerbed market in the United States and has more than 150 foods and specialty businesses.&lt;ref&gt;[http://web.archive.org/web/20080506012105/http://www.easternmarket.org/page.cfm/19/ History of Eastern Market]. ''Eastern Market Merchant's Association''. Retrieved on March 8, 2006.&lt;/ref&gt; On Saturdays, about 45,000 people shop the city's historic [[Eastern Market Historic District|Eastern Market]].&lt;ref name=Easternmarket1&gt;[http://web.archive.org/web/20080405184940/www.modeldmedia.com/neighborhoods/easternmarket.aspx Eastern Market].''Model D Media'' (April 5, 2008). Retrieved January 24, 2011.&lt;/ref&gt; The [[Midtown, Detroit|Midtown]] and the [[New Center]] area are centered on [[Wayne State University]] and [[Henry Ford Hospital]]. Midtown has about 50,000 residents and attracts millions of visitors each year to its museums and cultural centers;&lt;ref name=Midtown2&gt;[http://web.archive.org/web/20080405014021/www.modeldmedia.com/neighborhoods/Midtown.aspx Midtown].''Model D Media'' (April 4, 2008). Retrieved on January 24, 2011.&lt;/ref&gt; for example, the Detroit Festival of the Arts in Midtown draws about 350,000 people.&lt;ref name=Midtown2/&gt;
+
+Annual summer events include the [[Detroit Electronic Music Festival|Electronic Music Festival]], [[Detroit International Jazz Festival|International Jazz Festival]], the [[Woodward Dream Cruise]], the African World Festival, the country music Hoedown, Noel Night, and [[Dally in the Alley]]. Within downtown, [[Campus Martius Park]] hosts large events, including the annual Motown Winter Blast. As the world's traditional automotive center, the city hosts the [[North American International Auto Show]]. Held since 1924, America's Thanksgiving Parade is one of the nation's largest.&lt;ref&gt;[http://www.theparade.org/ ''The Parade Company'']. Retrieved on October 28, 2007.&lt;/ref&gt; River Days, a five-day summer festival on the [[Detroit International Riverfront|International Riverfront]] lead up to the [[Windsor-Detroit International Freedom Festival]] fireworks, which draw super sized-crowds ranging from hundreds of thousands to over three million people.&lt;ref name=Almanac2/&gt;&lt;ref name=&quot;Visitor poll&quot;/&gt;&lt;ref name=Winterblast&gt;Fifth Third Bank rocks the Winter Blast.''[[Michigan Chronicle]]''. (March 14, 2006).&lt;/ref&gt;
+
+[[File:Heidelberg Project - Dotty Wotty House.jpg|thumb|left|&quot;Dotty-Wotty House&quot;—a part of the [[Heidelberg Project]]]]
+
+An important civic sculpture in Detroit is &quot;[[Spirit of Detroit]]&quot; by  [[Marshall Fredericks]] at the Coleman Young Municipal Center. The image is often used as a symbol of Detroit and the statue itself is occasionally dressed in sports jerseys to celebrate when a Detroit team is doing well.&lt;ref&gt;Baulch, Vivian M. (August 4, 1998). [http://info.detnews.com/redesign/history/story/historytemplate.cfm?id=159 Marshall Fredericks – the Spirit of Detroit]. Michigan History, ''The Detroit News''. Retrieved on November 23, 2007.&lt;/ref&gt; A memorial to [[Joe Louis]] at the intersection of Jefferson and Woodward Avenues was dedicated on October 16, 1986. The sculpture, commissioned by ''[[Sports Illustrated]]'' and executed by [[Robert Graham (sculptor)|Robert Graham]], is a 24-foot (7.3&amp;nbsp;m) long arm with a fisted hand suspended by a pyramidal framework.&lt;ref&gt;Sarah Karush, ''The Associated Press'' (February 23, 2004). [http://www.usatoday.com/sports/boxing/2004-02-23-louis-statue_x.htm Police arrest two men suspected of vandalizing Joe Louis statue]. ''USA Today''.&lt;/ref&gt;
+
+Artist Tyree Guyton created the controversial street art exhibit known as the [[Heidelberg Project]] in 1986, using found objects including cars, clothing and shoes found in the neighborhood near and on Heidelberg Street on the near East Side of Detroit.&lt;ref name=Almanac2/&gt; Guyton continues to work with neighborhood residents and tourists in constantly evolving the neighborhood-wide art installation.
+
+=== Sports ===
+
+[[File:Ford Field Super Bowl XL night.jpg|| thumb|Looking toward Ford Field the night of Super Bowl XL]]
+{{Further|Sports in Detroit|U.S. cities with teams from four major sports}}
+
+Detroit is one of 12 American metropolitan areas that are home to professional teams representing the four major sports in North America. All these teams but one play within the city of Detroit itself (the [[National Basketball Association|NBA's]] [[Detroit Pistons]] play in suburban [[Auburn Hills, Michigan|Auburn Hills]] at [[The Palace of Auburn Hills]]). There are three active major sports venues within the city: [[Comerica Park]] (home of the [[Major League Baseball]] team [[Detroit Tigers]]), [[Ford Field]] (home of the [[National Football League|NFL's]] [[Detroit Lions]]), and [[Joe Louis Arena]] (home of the [[National Hockey League|NHL's]] [[Detroit Red Wings]]). A 1996 marketing campaign promoted the nickname &quot;[[Hockeytown]]&quot;.&lt;ref name=Almanac2/&gt;
+
+In college sports, Detroit's central location within the Mid-American Conference has made it a frequent site for the league's championship events. While the MAC Basketball Tournament moved permanently to [[Cleveland]] starting in 2000, the MAC Football Championship Game has been played at Ford Field in Detroit since 2004, and annually attracts 25,000 to 30,000 fans. The [[University of Detroit Mercy]] has a [[National Collegiate Athletic Association|NCAA]] [[Division I (NCAA)|Division I]] program, and [[Wayne State University]] has both NCAA Division I and [[Division II (NCAA)|II]] programs. The NCAA football [[Little Caesars Pizza Bowl]] is held at Ford Field each December.
+
+In 2012, a group of residents of Detroit founded a soccer team called the [[Detroit City Football Club]].  The team was created to promote the community. The team plays in the Midwestern Division of the [[National Premier Soccer League]], and its nickname is ''Le Rouge''. &lt;ref&gt;http://www.detcityfc.com/&lt;/ref&gt;
+
+[[Sailboat]] racing is a major sport in the Detroit area. Lake Saint Clair is home to many yacht clubs which host regattas. [[Bayview Yacht Club]], the [[Detroit Yacht Club]], [[Crescent Sail Yacht Club]], [[Grosse Pointe Yacht Club]], The Windsor Yacht Club, and the Edison Boat Club each participate in and are governed by the Detroit Regional Yacht-Racing Association or [[DRYA]]. Detroit is home to many One-Design fleets including, but not limited to, North American 40s, Cal 25s, Cuthbertson and Cassian 35s, Crescent Sailboats, [[Express 27]]s, J 120s, J 105, Flying Scots, and many more.
+
+The [[Crescent Sailboat]], NA-40, and the [[L boat]] were designed and built exclusively in Detroit. Detroit also has a very active and competitive junior sailing program.
+
+[[File:Ford-Field-September-10-2006.jpg|thumb|left|[[Ford Field]], home of the [[Detroit Lions]]]]
+Since 1916, the city has been home to Unlimited [[Hydroplane racing]], held annually (with exceptions) on the Detroit River near Belle Isle. Often, the hydroplane [[hydroplane (boat)|boat]] race is for the APBA Challenge Cup, more commonly known as the [[Gold Cup (motorsport)|Gold Cup]] (first awarded in 1904, created by Tiffany) which is the oldest active motorsport trophy in the world.&lt;ref&gt;[http://www.gold-cup.com/ see History]. ''The Detroit APBA [[Gold Cup (motorsport)|Gold Cup]]''. Retrieved January 24, 2011.&lt;/ref&gt;
+
+The city hosted the [[Detroit Indy Grand Prix]] on [[Belle Isle Park]] from 1989 to 2001, 2007 to 2008, and 2012 and beyond. The event generated about $53&amp;nbsp;million in economic impact for the area.&lt;ref name=DetroitGP&gt;[http://detroitgp.com/ Detroit Belle Isle Grand Prix]. Retrieved January 24, 2011.&lt;/ref&gt; In 2007, open-wheel racing returned to Belle Isle with both [[Indy Racing League]] and [[American Le Mans Series]] Racing.&lt;ref name=2007IndyRacing&gt;{{cite news
+| url = http://www.sportingnews.com/yourturn/viewtopic.php?t=133002
+| archiveurl = http://web.archive.org/web/20080527190926/http://www.sportingnews.com/yourturn/viewtopic.php?t=133002
+| archivedate = May 27, 2008
+| title = Indy racing will return to Detroit
+| accessdate =May 5, 2009
+| date = September 29, 2006
+| agency=Associated Press
+}}&lt;/ref&gt;
+
+In the years following the mid-1930s, Detroit was referred to as the &quot;City of Champions&quot; after the Tigers, Lions, and Red Wings captured all three major professional sports championships in a seven-month period of time (the Tigers won the World Series in October, 1935; the Lions won the NFL championship in December, 1935; the Red Wings won the Stanley Cup in April, 1936).&lt;ref name=City_of_Champions&gt;{{cite web |last=Zacharias|first=Patricia|title=Detroit, the City of Champions |url=http://info.detnews.com/redesign/history/story/historytemplate.cfm?id=91|work=Michigan History, The Detroit News|date=August 22, 2000| accessdate=May 5, 2009}}&lt;/ref&gt; [[Gar Wood]] (a native Detroiter) won the [[Harmsworth Trophy]] for unlimited powerboat racing on the Detroit River in 1931. In the next year, 1932, Eddie &quot;The Midnight Express&quot; Tolan, a black student from Detroit's [[Cass Technical High School]], won the 100- and 200-meter races and two gold medals at the [[1932 Summer Olympics]]. [[Joe Louis]] won the heavyweight championship of the world in 1937. Also, in 1935 the Detroit Lions won the NFL championship. The Detroit Tigers have won ten American League pennants (The most recent being in 2006) and four World Series titles. In 1984, the [[Detroit Tigers]]' [[World Series]] championship, after which crowds had left three dead and millions of dollars in property damage. The Detroit Red Wings have won 11 [[Stanley Cup]]s (the most by an American NHL Franchise),&lt;ref&gt;{{cite web|url=http://info.detnews.com/history/story/index.cfm?id=91&amp;category=sports |title=''Detroit News''. Retrieved on April 8, 2007. |accessdate=July 1, 2010}}&lt;/ref&gt; the Detroit Pistons have won three NBA titles, and the Detroit Shock have won three WNBA titles.&lt;ref name=Almanac2/&gt;
+
+Detroit has the distinction of being the city which has made the most bids to host the Summer Olympics without ever being awarded the games: seven unsuccessful bids for the 1944, 1952, 1956, 1960, 1964, 1968 and 1972 games. It came as high as second place in the balloting two times, losing the 1964 games to Tokyo and the 1968 games to Mexico City.&lt;ref name=Almanac2/&gt;
+
+Detroit hosts many WWE events such as the 2007 WWE's [[WrestleMania 23]] which attracted 80,103 fans to [[Ford Field]]; the event marking the 20th anniversary of [[WrestleMania III]] which drew a reported 93,173 to the [[Pontiac Silverdome]] in nearby [[Pontiac, Michigan|Pontiac]] in 1987. The city hosted the [[Red Bull Air Race World Championship|Red Bull Air Race]] in 2008 on the [[Detroit International Riverfront|International Riverfront]].
+
+=== Media ===
+{{Main|Media in Detroit}}
+[[File:DetroitLibrary2010.jpg|thumb|300px|&lt;center&gt;[[Detroit Public Library]]&lt;/center&gt;]]
+The ''[[Detroit Free Press]]'' and ''[[The Detroit News]]'' are the major daily newspapers, both [[broadsheet]] publications published together under a [[joint operating agreement]]. Media philanthropy includes the ''Detroit Free Press'' high school journalism program and the Old Newsboys' Goodfellow Fund of Detroit.&lt;ref&gt;[http://www.oldnewsboysgoodfellows.org/ Old Newsboys' Goodfellow Fund of Detroit]. Retrieved on April 21, 2009.&lt;/ref&gt; In December, 2008, the [[Detroit Newspaper Partnership|Detroit Media Partnership]] announced that the two papers would reduce home delivery to three days a week, print reduced newsstand issues of the papers on non-delivery days and focus resources on Internet-based news delivery.&lt;ref&gt;{{cite web|url=http://www.detroitmedia.com/fptransform/dec1608pr.php |title=Bold Transformation Of Detroit Free Press And The Detroit News Lead Nation And Industry With Expanded Digital Offerings; Launch Of New Magazine; Colorful, Easy-To-Use Newsstand Editions |publisher=Detroitmedia.com |date=December 16, 2008 |accessdate=July 1, 2010 |archiveurl=http://web.archive.org/web/20100703095749/http://www.detroitmedia.com/fptransform/dec1608pr.php &lt;!-- Added by H3llBot --&gt; |archivedate=July 3, 2010}}&lt;/ref&gt; These changes went into effect in March, 2009. Founded in 1980, the ''[[Metro Times]]'' is a weekly publication, covering news, arts &amp; entertainment.&lt;ref&gt;[http://www.metrotimes.com/ Metro Times]&lt;/ref&gt; Also founded in 1935 and based in Detroit the [[Michigan Chronicle]] is one of the oldest and most respected African-American weekly newspapers in America. Covering politics, entertainment, sports and community events.&lt;ref&gt;[http://www.michronicleonline.com/ Michigan Chronicle]&lt;/ref&gt;
+The Detroit television market is the 11th largest in the United States;&lt;ref name=Nielson&gt;[http://www.nielsenmedia.com/DMAs.html Nielsen Media Research Local Universe Estimates (September 24, 2005)] ''The Nielson Company''&lt;/ref&gt; according to estimates that do not include audiences located in large areas of [[Ontario]], Canada ([[Windsor, Ontario|Windsor]] and its surrounding area on broadcast and cable TV, as well as several other cable markets in Ontario, such as the city of [[Ottawa]]) which receive and watch Detroit television stations.&lt;ref name=Nielson/&gt;
+
+Detroit has the 11th largest [[radio station|radio]] market in the United States,&lt;ref name=Arbitron&gt;[http://www.arbitron.com/radio_stations/mm001050.asp Market Ranks and Schedule)]. ''Arbitron.com''. Retrieved on January 23, 2008.&lt;/ref&gt; though this ranking does not take into account Canadian audiences.&lt;ref name=Arbitron/&gt;
+
+[[Hardcore Pawn]], an  American [[documentary]] [[reality television series]] produced for [[truTV]] features the day-to-day operations of American Jewelry and Loan, a family-owned [[pawn shop]] on Greenfield Road.
+
+== Economy ==
+{{Main|Economy of metropolitan Detroit}}
+[[File:GM HQ.jpg|upright|left|thumb|The [[Renaissance Center]] is the world headquarters of General Motors]]
+Detroit and the surrounding region constitute a major center of commerce and global trade, most notably as home to America's 'Big Three' automobile companies, [[General Motors]], [[Ford]], and [[Chrysler]]. About 80,500 people work in downtown Detroit, comprising one-fifth of the city's employment base.&lt;ref name=Marketprofile&gt;The Urban Markets Initiative, Brookings Institution Metropolitan Policy Program, The Social Compact Inc., University of Michigan Graduate Real Estate Program, (October 2006).[http://www.downtowndetroit.org/ddp/newsroom/Downtown_Detroit_in_Focus.pdf Downtown Detroit in Focus: A Profile of Market Opportunity].''Detroit Economic Growth Corporation'' and ''Downtown Detroit Partnership''. Retrieved on June 14, 2008.&lt;/ref&gt;&lt;ref&gt;Henion, Andy (March 22, 2007). City puts transit idea in motion.''The Detroit News''.(About 80,500 people work in downtown Detroit which is 21% of the city's employment base). Retrieved on May 14, 2007.&lt;/ref&gt; Detroit's six county [[Metro Detroit|Metropolitan Statistical Area]] has a population of about 4.3&amp;nbsp;million and a workforce of about 2.1&amp;nbsp;million.&lt;ref name=MILMI&gt;[http://www.milmi.org/ Michigan Department of Labor and Economic Growth]. Retrieved June 14, 2012.&lt;/ref&gt; In May 2012, the Department of Labor reported metropolitan Detroit's unemployment rate at 9.9%, with the city's unemployment rate for April 2012 at 15.8%.&lt;ref name=MILMI2&gt;[http://milmi.org/cgi/dataanalysis/AreaSelection.asp?tablename=Labforce &quot;Jobless rate&quot; Michigan Department of Labor and Economic Growth: Data Explorer.]&lt;/ref&gt;&lt;ref name=BLS&gt;Bureau of Labor Statistics (5/2011). [http://www.bls.gov/news.release/metro.t01.htm Civilian labor force and unemployment by state and metropolitan area]. ''U.S. Department of Labor''.&lt;/ref&gt; The Detroit MSA had a gross metropolitan product of $197.7 billion in 2010.&lt;ref&gt;{{cite web|title=Gross Metropolitan Product|url=http://greyhill.com/gross-metropolitan-product|publisher=Greyhill Advisors|accessdate=September 30, 2011}}&lt;/ref&gt;
+
+{{Detroit top city employers}}
+Firms in the region pursue [[emerging technologies]] including [[biotechnology]], [[nanotechnology]], information technology, and [[hydrogen fuel cell]] development. The city of Detroit has made efforts to lure the region's growth companies downtown with advantages such as a wireless Internet zone, business tax incentives, entertainment, an [[Detroit International Riverfront|International Riverfront]], and residential high rises. [[Compuware]] completed its [[Compuware World Headquarters|world headquarters]] in downtown Detroit in 2003. [[OnStar]], [[Blue Cross Blue Shield of Michigan|Blue Cross Blue Shield]], and [[HP Enterprise Services]] have located at the [[Renaissance Center]].  [[PricewaterhouseCoopers]] Plaza offices are adjacent to [[Ford Field]] and [[Ernst &amp; Young]] completed its office building at [[One Kennedy Square]] in 2006.
+
+In 2010, [[Quicken Loans]] relocated its world headquarters and 4,000 employees to downtown Detroit consolidating its suburban offices, a move considered of high importance to city planners to reestablish the historic downtown.&lt;ref name=Howes&gt;Howes, Daniel (November 12, 2007).[http://www.detnews.com/apps/pbcs.dll/article?AID=/20071112/UPDATE/711120450/1361 Quicken moving to downtown Detroit].''The Detroit News''. Retrieved on November 12, 2007.&lt;/ref&gt; Some [[Fortune 500]] companies headquartered in Detroit include [[General Motors]], auto parts maker [[American Axle|American Axle &amp; Manufacturing]], and [[DTE Energy Co.|DTE Energy]].&lt;ref&gt;[http://money.cnn.com/magazines/fortune/fortune500/states/M.html Fortune)]. ''CNNMoney.com''. Retrieved on April 8, 2007.&lt;/ref&gt; Other major industries include advertising, law, finance, biomedical research, health care, and computer software. The law firm of [[Miller, Canfield, Paddock &amp; Stone]], one of the largest in the U.S., has offices in both Detroit and Windsor. [[Wayne State University]] and medical service providers are major employers in the city.&lt;ref name=Almanac2/&gt;&lt;ref name=&quot;Lane&quot;/&gt;&lt;ref name=Greene/&gt; Metro Detroit area is one of the leading health care economies in the U.S. according to a 2003 study measuring health care industry components, with the region's hospital sector ranked fourth in the nation.&lt;ref name=healthstudy&gt;Devol, Ross C. and Rob Koepp (August 2003).[http://www.maricopa.edu/bwd/pdfs/healthpole003.pdf America's Health Care Economy].''Miliken Institute''. Retrieved on November 6, 2011.&lt;/ref&gt;
+[[File:BagleyMemorialFountainDetroit.jpg|left|thumb|upright| [[Compuware World Headquarters]] viewed from [[Bagley Memorial Fountain]] on [[Campus Martius Park|Cadillac Square]]]]
+Casino gaming plays an important economic role, with Detroit the largest city in the United States to offer casino resort hotels.&lt;ref name=Mink&gt;Mink, Randy, and Karen Mink (July 2001).Detroit Turns 300 – Detroit 300 Festival. ''Travel America'', World Publishing Co., Gale Group.&lt;/ref&gt; [[Caesars Windsor]], Canada's largest, complements the [[MGM Grand Detroit]], [[MotorCity Casino]], and [[Greektown Casino]] in Detroit. The casino hotels contribute significant tax revenue along with thousands of jobs for residents. Gaming revenues have grown steadily, with Detroit ranked as the fifth largest gambling market in the United States for 2007. When Casino Windsor is included, Detroit's gambling market ranks third or fourth. In an effort to support spending within the city, certain business owners set up &quot;mints&quot; to distribute the [[Detroit Community Scrip]]. The scrip is used at local clubs and bars to ensure some dollars stay within the city by establishing a note that is only legal tender at certain places.
+
+There are about four thousand factories in the area.&lt;ref&gt;World Book Inc., Volume 5. 2008.&lt;/ref&gt; The domestic auto industry is primarily headquartered in Metro Detroit. New vehicle production, sales, and jobs related to automobile use account for one of every ten jobs in the United States.&lt;ref&gt;Alliance of Automobile Manufacturers (2006). [http://web.archive.org/web/20080316083154/http://www.autoalliance.org/economic/ From the 2003 Study &quot;Contributions of the Automotive Industry to the U.S. Economy&quot; University of Michigan and the Center for Automotive Research] ''Autoalliance.com''. Retrieved on April 12, 2007.&lt;/ref&gt;
+The area is also an important source of engineering job opportunities.&lt;ref name=&quot;Anderson&quot;&gt;[http://www.andersoneconomicgroup.com/Publications/Detail/tabid/125/articleType/ArticleView/articleId/7994/Automation-Alleys-Technology-Industry-Report-2011-Edition.aspx Automation Alley Technology Industry Report (2011 Edition)].''Anderson Economic Group''. Retrieved August 14, 2011.&lt;/ref&gt; A 2004 Border Transportation Partnership study showed that 150,000 jobs in the [[Windsor-Detroit]] region and $13&amp;nbsp;billion in annual production depend on the City of Detroit's international border crossing.&lt;ref&gt;Detroit Regional Chamber (2006) [http://web.archive.org/web/20080506050524/http://www.detroitchamber.com/detroiter/articles.asp?cid=7&amp;detcid=531 Detroit/Windsor Border Update: Part I-Detroit River International Crossing Study] Retrieved on April 8, 2007.&lt;/ref&gt;
+[[File:ComericaTowerand1stnationaldetroit.jpg|left|thumb|upright|[[One Detroit Center]] overlooks the city's [[Detroit Financial District|financial district]].]]
+A rise in automated manufacturing using robotic technology has created related industries in the area; inexpensive labor in other parts of the world and increased competition have led to a steady transformation of certain types of manufacturing jobs in the region with the Detroit area gaining new lithium ion battery plants.&lt;ref&gt;Zemke, John (December 17, 2009).[http://www.metromodemedia.com/innovationnews/metrodetroitlithiumionplants0112.aspx Metro Detroit lands 2 of 4 new lithium ion battery plants].''Metromode''. Retrieved on March 12, 2010.&lt;/ref&gt;&lt;ref&gt;Walsh, Tom (August 29, 2009).[http://www.michigan.gov/gov/0,1607,7-168-29544_29546_29553-89199--,00.html FIRST Robotics Detroit Regional Competition]. ''Detroit Free Press''.&lt;/ref&gt;&lt;ref&gt;[http://www.freep.com/article/20090821/COL06/908210384/Army-to-create-jobs-in-Warren-expansion Army to create jobs in Warren expansion].''Detroit Free Press.''&lt;/ref&gt; In addition to property taxes, residents pay an income tax rate of 2.50%.&lt;ref&gt;{{cite web | url = http://www.detroitmi.gov/DepartmentsandAgencies/Finance/IncomeTaxDivision/FAQs/tabid/1654/Default.aspx | title = FAQS – City of Detroit | www.detroitmi.gov | accessdate =May 3, 2010 }}&lt;/ref&gt;
+
+The city has cleared sections of land while retaining a number of historically significant vacant buildings in order to spur redevelopment;&lt;ref name=autogenerated3&gt;Morice, Zach (September 21, 2007).[http://info.aia.org/aiarchitect/thisweek07/0921/0921p_detroit.cfm Planting community in fallow fields].''American Institute of Architects''. Retrieved on December 23, 2009.&lt;/ref&gt; though the city has struggled with finances, it issued bonds in 2008 to provide funding for ongoing work to demolish blighted properties.&lt;ref name=NextDetroit/&gt; In 2006, downtown Detroit reported $1.3&amp;nbsp;billion in restorations and new developments which increased the number of construction jobs in the city.&lt;ref name=partnership/&gt; In decade leading up to 2006, downtown Detroit gained more than $15&amp;nbsp;billion in new investment from private and public sectors.&lt;ref name=autogenerated2&gt;The Urban Markets Initiative, Brookings Institution Metropolitan Policy Program The Social Compact, Inc. University of Michigan Graduate Real Estate Program (October 2006).[http://www.downtowndetroit.org/ddp/market_data.htm Downtown Detroit In Focus: A Profile of Market Opportunity]. ''Downtown Detroit Partnership''. Retrieved on July 10, 2010.&lt;/ref&gt;
+
+The Detroit automakers and local manufacturing have made significant restructurings in response to market competition. GM began the initial public offering of stock in 2010.&lt;ref name=IPO&gt;Stoll, John D., and David McLaughlin (July 2, 2009).[http://online.wsj.com/article/SB124646098696280443.html General Motors Aims for IPO Next Year].''The Wall Street Journal''. Retrieved on July 10, 2009.&lt;/ref&gt; General Motors has invested heavily in all [[fuel cell]] equipped vehicles,&lt;ref&gt;Kiley, David (June 13, 2001). [http://www.usatoday.com/money/autos/2001-06-13-gm-hydrogen.htm GM buys stake in firm tapping hydrogen power]. ''USA Today''.&lt;/ref&gt; while [[Chrysler Corporation|Chrysler]] has focused research and development into [[biodiesel]]. In August 2009, Michigan and Detroit's auto industry received $1.36 B in grants from the U.S. Department of Energy for the manufacture of [[lithium-ion battery|lithium-ion batteries]].&lt;ref name=priddle&gt;Priddle, Alisa and David Shepardson (August 6, 2009).[http://www.detnews.com/article/20090806/AUTO01/908060429/1148/auto01/Mich.+gets+$1.3B+battery+jolt Mich. gets $1.3B battery jolt].''The Detroit News''. Retrieved August 6, 2009.&lt;/ref&gt; For 2010, the domestic automakers reported significant profits indicating the beginning of rebound along with an economic recovery for the Detroit area.&lt;ref&gt;Shoenberger, Robert (May 25, 2010).[http://www.cleveland.com/business/index.ssf/2010/05/rebounding_auto_industry_boost.html Rebounding auto industry boosts Shiloh Industries' second-quarter sales, profit]. ''Cleveland.com''. Retrieved on September 18, 2010.&lt;/ref&gt;
+&lt;ref name=Schroeder&gt;Schroeder, Robert (July 30, 2010).[http://www.marketwatch.com/story/obama-says-us-auto-industry-on-rebound-2010-07-30 Obama says U.S. auto industry on rebound]. ''Wall Street Journal.'' Retrieved on September 9, 2010.&lt;/ref&gt;&lt;ref&gt;[http://money.cnn.com/2010/08/12/news/companies/gm_results/index.htm GM posts profit, CEO Whitacre to retire].''CNN Money''. Retrieved on September 18, 2010.&lt;/ref&gt;&lt;ref name=Cwiek&gt;Cwiek, Sarah (November 30, 2010).[http://www.publicbroadcasting.net/michigan/news.newsmain/article/0/0/1731658/Michigan.Morning.Edition/New.study.shows.strong.economic.recovery.in.Metro.Detroit New study shows strong economic recovery in Metro Detroit]. ''NPR Michigan''. Retrieved December 5, 2010.&lt;/ref&gt;&lt;ref name=&quot;Brookings&quot;&gt;Oosting, Jonathan (December 1, 2010).  [http://www.mlive.com/news/detroit/index.ssf/2010/12/brookings_metro_detroit_econom.html Brookings: Metro Detroit economy on 'road to full recovery'].''Mlive''. Retrieved July 17, 2011.&lt;/ref&gt;
+
+== Demographics ==
+{{See also|Demographic history profile of Detroit}}
+[[File:Incomemap.jpg|thumb|left|280px|Per capita income by location; the dotted line represents the city boundary.]]
+In 2010, the city had 713,777 residents.&lt;ref name=&quot;CensusCity&quot;/&gt; The name ''Detroit'' sometimes refers to [[Metro Detroit]], a six-county area with a population of 4,296,250 for the [[Metropolitan Statistical Area]],&lt;ref name=&quot;CensusMSA&quot;/&gt; making it the United States' [[List of United States metropolitan areas|twelfth-largest]], and a population of 5,218,852 for the nine-county [[Combined Statistical Area]] as of the 2010 [[United States Census Bureau|Census Bureau]] estimates.&lt;ref name=&quot;CensusCSA&quot;/&gt; The [[Detroit-Windsor]] area, a critical commercial link straddling the [[Canada-U.S. border]], has a total population of about 5,700,000.&lt;ref name=Agglomerations/&gt; Immigration continues to play a role in the region's projected growth.&lt;ref&gt;[http://www.fairus.org/site/PageNavigator/facts/local_data_mi_detroit_ann Metro Area Factsheet: Detroit-Ann Arbor-Flint, Michigan CMSA].''Federation for Immigration Reform.'' Retrieved on April 4, 2009.&lt;/ref&gt; [[Oakland County, Michigan|Oakland County]] in Metro Detroit is among the more affluent counties in the U.S. with more than one million people.&lt;ref name=suburbsprofile&gt;{{cite web
+| url = http://www.oakgov.com/peds/assets/docs/community_profiles/OakCounty.pdf#search=%22Oakland%20County%20richest%22
+| archiveurl = http://web.archive.org/web/20080528115218/http://www.oakgov.com/peds/assets/docs/community_profiles/OakCounty.pdf
+| archivedate = May 28, 2008
+| title =2004–05 Community profile Oakland County
+| accessdate =May 5, 2009
+| quote = Oakland County also ranks as the fourth wealthiest county in the USA among counties with populations of more than one million people.
+}}&lt;/ref&gt;&lt;ref name=suburbsprofile2&gt;{{cite web| url = http://www.oakgov.com/globaloakland/oakland_county/fast_facts.html
+| title =Global Oakland Fast Facts
+| accessdate =November 27, 2011
+| quote = Oakland ranked 11th in per capita income among counties with populations over one million (2009)
+}}&lt;/ref&gt;
+&lt;ref name=&quot;Hopkins&quot;&gt;Hopkins, Carol (March 28, 2010).[http://dailytribune.com/articles/2010/03/28/news/srv0000007914103.txt Oakland still ranks among the nation's wealthiest counties]. ''Daily Tribune''. Retrieved November 27, 2011.&lt;/ref&gt;
+
+Poverty has been a continued problem in the city proper.&lt;ref name=time&gt;{{cite news| url=http://www.time.com/time/nation/article/0,8599,1925681,00.html | work=Time}}&lt;/ref&gt; For the 2010 [[American Community Survey]], median household income in the city was $25,787, and the median income for a family was $31,011. The per capita income for the city was $14,118. 32.3% of families had income at or below the federally defined poverty level. Out of the total population, 53.6% of those under the age of 18 and 19.8% of those 65 and older had income at or below the federally defined poverty line.
+{{DetroitCensusPop}}
+
+The city's population increased more than sixfold during the first half of the 20th century, fed largely by an influx of European, Middle Eastern ([[Lebanese Americans|Lebanese]]), ([[Assyrians in the United States|Assyrian/Chaldean]]), and Southern migrants to work in the burgeoning automobile industry.&lt;ref name=&quot;autogenerated1&quot;&gt;Baulch, Vivian M. (September 4, 1999). [http://info.detnews.com/redesign/history/story/historytemplate.cfm?id=109 Michigan's greatest treasure – Its people]. Michigan History, ''The Detroit News''. Retrieved on October 22, 2007.&lt;/ref&gt; In 1940, non-Hispanic [[Non-Hispanic Whites|whites]] were 90.4% of the city's population.&lt;ref&gt;{{cite web|title=Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=U.S. Census Bureau|url=http://www.census.gov/population/www/documentation/twps0076/twps0076.html}}&lt;/ref&gt; However, since 1950 the city has seen a major shift in its population to the suburbs. In 1910, fewer than 6,000 blacks called the city home;&lt;ref&gt;[http://info.detnews.com/redesign/history/story/historytemplate.cfm?id=70&amp;CFID=15600792&amp;CFTOKEN=21169095 Vivian M. Baulch,] &quot;How Detroit got its first black hospital,&quot; ''The Detroit News,'' November 28, 1995.&lt;/ref&gt; in 1930 more than 120,000 blacks lived in Detroit.&lt;ref&gt;&quot;[http://www.infoplease.com/spot/bhmcities1.html Important Cities in Black History]&quot;. Infoplease.com.&lt;/ref&gt; The thousands of African Americans who came to Detroit were part of the [[Great Migration (African American)|Great Migration]] of the 20th century.&lt;ref&gt;&quot;[http://bentley.umich.edu/research/publications/migration/ch1.php Detroit and the Great Migration, 1916–1929 by Elizabeth Anne Martin]&quot;. Bentley Historical Library, University of Michigan.&lt;/ref&gt;
+
+At its peak in 1950, the city was the fifth-largest in the United States, but has since seen a major shift in its population to the suburbs.
+The city population has dropped from 1,849,568 in 1950 to 713,777 in 2010.&lt;ref name=&quot;NYT Census&quot;&gt;{{cite news|last=Seelye|first=Katherine Q.|title=Detroit Population Down 25 Percent, Census Finds|url=http://www.nytimes.com/2011/03/23/us/23detroit.html?_r=1|work=The New York Times|date=March 22, 2011|accessdate=March 23, 2011}}&lt;/ref&gt; In the first decade of the 21st century, about two-thirds of the total black population in metropolitan area resided within the city limits of Detroit.&lt;ref name=Wisely&gt;{{cite news |title=Motor City population declines 25% |author=Wisely, John; Spangler, Todd |url=http://www.usatoday.com/news/nation/census/2011-03-22-michigan-census_N.htm |newspaper=USA Today |date=March 24, 2011 |accessdate=June 20, 2011}}&lt;/ref&gt;&lt;ref&gt;Towbridge, Gordon. &quot;[http://www.s4.brown.edu/cen2000/othersay/detroitnews/Stories/Racial%20divide%20widest%20in%20U_S_%20-%2001-14-02.pdf Racial divide widest in U.S].&quot; ''[[The Detroit News]]''. January 14, 2002. Retrieved on March 30, 2009.&lt;/ref&gt;
+
+As of the 2010 Census, there were 713,777 people, 269,445 households, and 162,924 families residing in the city. The population density was 5,144.3 people per square mile (1,986.2/km²). There were 349,170 housing units at an average density of 2,516.5 units per square mile (971.6/km²). The census reported that the city had 82.7% [[Race (U.S. Census)|African American]], 10.6% [[Race (U.S. Census)|White]] (7.8% non-Hispanic white), 1.1% [[Asian (U.S. Census)|Asian]], 0.4% [[Native American (U.S. Census)|Native American]], 0.02% [[Pacific Islander]], 3.0% [[Race (U.S. Census)|other races]], 2.2% two or more races. In addition, 6.8% of the population self-identified as [[Hispanic and Latino Americans|Hispanic]] or Latino, of any race, mainly made up of Mexicans and Puerto Ricans.&lt;ref&gt;[http://quickfacts.census.gov/qfd/states/26/2622000.html Detroit]&lt;/ref&gt; Additionally, Detroit has one of the U.S.'s largest concentrations of [[Hmong people]].&lt;ref name=&quot;Chou&quot;&gt;Chou, Kimberly. &quot;[http://www.michigandaily.com/content/growing-hmong-detroit].&quot; ''[[The Michigan Daily]]''. December 7, 2006. Retrieved on March 13, 2012.&lt;/ref&gt; After [[World War II]] many people from [[Appalachia]] settled in Detroit. Because the Detroit community negatively perceived the Appalachians, they formed communities and their children gained southern accents.&lt;ref&gt;Detroitblogger John. &quot;[http://www2.metrotimes.com/culture/story.asp?id=15003 Southland].&quot; ''[[Metro Times]]''. April 28, 2010. Retrieved on May 12, 2012.&lt;/ref&gt;
+
+There were 269,445 households out of which 34.4% have children under the age of 18 living with them, 21.5% were married couples living together, 31.4% had a female householder with no husband present, and 39.5% were non-families, 34.0% of all households were made up of individuals and 3.9% had someone living alone who is 65 years of age or older. The average household size was 2.59 and the average family size was 3.36.
+
+There is a wide age distribution in the city, with 31.1% under the age of 18, 9.7% from 18 to 24, 29.5% from 25 to 44, 19.3% from 45 to 64, and 10.4% who are 65 years of age or older. The median age was 31 years. For every 100 females there were 89.1 males. For every 100 females age 18 and over, there were 83.5 males.
+
+Detroit remains one of the most [[Racial segregation in the United States|racially segregated]] cities in the United States.&lt;ref name=NYT26Mar11&gt;{{cite news|last=Sugrue|first=Thomas J.|title=A Dream Still Deferred|url=http://www.nytimes.com/2011/03/27/opinion/27Sugrue.html|accessdate=27 July 2012|newspaper=New York Times|date=26 March 2011}}&lt;/ref&gt;&lt;ref name=Darden2010/&gt; Blacks moved to the city [[Great Migration (African American)|en masse]] to escape [[Jim Crow laws|Jim Crow]] in the south and find jobs.&lt;ref name=Martin92&gt;{{cite book|last=Martin|first=Elizabeth Anne|title=Detroit and the Great Migration 1916-1929|year=1992|publisher=University of Michigan|url=http://bentley.umich.edu/research/publications/migration/|chapter=City of Opportunity|quote=The thousands of African-Americans who flocked to Detroit were part of the &quot;Great Migration&quot; of the twentieth century.}}&lt;/ref&gt;  However, they soon found themselves excluded from white areas of the city--through [[Racially motivated crime|violence]], laws, and economic discrimination (e.g., [[redlining]]).&lt;ref name=DetroitDivided&gt;{{cite book|title=Detroit divided|year=2002|publisher=Russell Sage Foundation|location=New York|isbn=9780871542816|url=http://books.google.com/books?id=olcZfAD7cPEC&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false|coauthors=Reynolds Farley, Sheldon Danziger, Harry J. Holzer|chapter=The Evolution of Racial Segregation}}&lt;/ref&gt; White residents attacked black homes: breaking windows, starting fires, and exploding bombs.&lt;ref name=DetroitDivided /&gt;&lt;ref name=NYT26Mar11/&gt; This pattern was later magnified by white migration to the suburbs.&lt;ref name=Darden2010/&gt;
+
+A traditional boundary between black and white is [[Eight Mile Road]], which separates the city from whiter suburbs to the north.&lt;ref name=LangenfeldAbout&gt;{{cite web|last=Langenfeld|first=Jacob|title=Racial Segregation and Integration:  How Segregated or Integrated are Major Metroplitan Areas?|url=http://geography.about.com/od/urbaneconomicgeography/a/Racial-Segregation-And-Integration.htm|work=Geography|publisher=About.com|accessdate=27 July 2012|date=10 June 2011|quote=&quot;Detroit even shows a visible line where the segregation begins and ends in the northern part of the city: the infamous 8 Mile Road.&quot;}}&lt;/ref&gt;
+
+One of the implications of racial segregation, which correlates with class segregation, may be overall worse health for some populations.&lt;ref name=Darden2010&gt;{{cite journal|last=Darden|first=Joe|coauthors=Rahbar, Mohammad; Jezierski, Louise; Li, Min; Velie, Ellen|title=The Measurement of Neighborhood Socioeconomic Characteristics and Black and White Residential Segregation in Metropolitan Detroit: Implications for the Study of Social Disparities in Health|journal=Annals of the Association of American Geographers|date=1 January 2010|volume=100|issue=1|pages=137–158|doi=10.1080/00045600903379042|accessdate=27 July 2012|quote=In 2000, metropolitan Detroit was the most racially segregated large metropolitan area in the United States (Darden, Stokes, and Thomas 2007). Accompanying such extreme racial residential segregation is extreme class segregation.}}&lt;/ref&gt;&lt;ref name=Grady2012&gt;{{cite journal|last=Grady|first=Sue|coauthors=Darden, Joe|title=Spatial Methods to Study Local Racial Residential Segregation and Infant Health in Detroit, Michigan|journal=Annals of the Association of American Geographers|date=15 May 2012|doi=10.1080/00045608.2012.674898|accessdate=27 July 2012}}&lt;/ref&gt;
+
+According to the 2010 Census, segregation in Detroit has decreased in absolute and in relative terms. The number of integrated [[neighborhoods]] has increased from 100 in 2000 to 204 in 2010. The city has also moved down the ranking, from number one most segregated to number four.&lt;ref name=Wilkinson&gt;{{cite news|last=Wilkinson|first=Mike|title=Metro Detroit no longer most segregated|url=http://news.yahoo.com/blogs/detroit/metro-detroit-no-longer-most-segregated-143407993.html|accessdate=27 July 2012|newspaper=Yahoo News|date=29 March 2011}}&lt;/ref&gt;
+
+A 2011 [[op-ed]] in the New York Times attributed the decreased segregation rating to the overall exodus from the city, cautioning that these areas may soon become more segregated. This pattern already happened in the 1970s, when apparent integration was actually a precursor to [[white flight]] and resegregation.&lt;ref name=NYT26Mar11/&gt;
+
+[[De facto]] educational segregation in Detroit (and by extension elsewhere) was legally permitted by the U.S. Supreme Court in [[Milliken v. Bradley|''Milliken v. Bradley'', 418 U.S. 717]] (1974).&lt;ref name=Meinke2011&gt;{{cite journal|last=Meinke|first=Samantha|title=Milliken v. Bradley: The Northern Battle for Desegregation|journal=Michigan Bar Journal|year=2011|month=September|volume=90|issue=9|pages=20-22|url=http://www.michbar.org/journal/pdf/pdf4article1911.pdf}}&lt;/ref&gt;
+
+== Law and government ==
+{{Further|Government of Detroit|List of mayors of Detroit}}
+[[File:Spirit of Detroit-2560x1600.jpg|thumb|left|[[Coleman A. Young Municipal Center]] houses the City of Detroit offices]]
+The city government is run by a mayor and nine-member city council and clerk elected on an at-large nonpartisan ballot. Since voters approved the city's charter in 1974, Detroit has had a &quot;[[Mayor-council government|strong mayoral]]&quot; system, with the mayor approving departmental appointments. The council approves budgets but the mayor is not obligated to adhere to any earmarking. City ordinances and substantially large contracts must be approved by the council. The city clerk supervises elections and is formally charged with the maintenance of municipal records. Municipal elections for mayor, city council and city clerk are held at four-year intervals, in the year after presidential elections.&lt;ref&gt;Ward, George E. (July 1993). [http://www.crcmich.org/PUBLICAT/1990s/1993/rpt31002.pdf Detroit Charter Revision – A Brief History]. ''Citizens Research Council of Michigan'' (pdf file).&lt;/ref&gt; Following a November 2009 referendum, seven council members will be elected from districts beginning in 2013 while two will continue to be elected at-large.&lt;ref name=cdet&gt;Nelson, Gabe (November 3, 2009).[http://www.crainsdetroit.com/article/20091103/FREE/911039978 Voters overwhelmingly approve Detroit Proposal D].''Crains Detroit Business''. Retrieved on December 23, 2009.&lt;/ref&gt;
+[[File:Guardianinterior.jpg|thumb|upright|The landmark [[Guardian Building]] is [[Wayne County, Michigan|Wayne County]] headquarters.]]
+Detroit's courts are state-administered and elections are nonpartisan. The Probate Court for Wayne County is located in the Coleman A. Young Municipal Center in downtown Detroit. The Circuit Court is located across Gratiot Ave. in the Frank Murphy Hall of Justice, in downtown Detroit. The city is home to the Thirty-Sixth District Court, as well as the First District of the [[Michigan Court of Appeals]] and the [[United States District Court for the Eastern District of Michigan]]. The city provides law enforcement through the [[Detroit Police Department]] and emergency services through the [[Detroit Fire Department]]. 
+
+Detroit has several [[Town twinning|sister cities]], including [[Chongqing]] (People's Republic of China), [[Dubai]] (United Arab Emirates), [[Kitwe]] (Zambia), [[Minsk]] (Belarus), [[Nassau, Bahamas]], [[Toyota, Aichi|Toyota]] (Japan), and [[Turin]] (Italy).&lt;ref&gt;[http://sister-cities.org/ Online Directory: Michigan, United States (2011)]. ''Sister Cities International''. Retrieved August 14, 2011).&lt;/ref&gt;
+
+=== Politics ===
+
+Politically, the city consistently supports the [[Democratic Party (United States)|Democratic Party]] in state and national elections (local elections are nonpartisan). According to a study released by the Bay Area Center for Voting Research, Detroit is the most liberal large city in America,&lt;ref&gt;{{cite news|title=The Most Conservative and Liberal Cities in the United States|author=The Bay Area Center for Voting Research|date=August 11, 2005|url=http://alt.coxnewsweb.com/statesman/metro/081205libs.pdf|accessdate=September 12, 2009|format=PDF}}&lt;/ref&gt; measuring only the percentage of city residents who voted for the Democratic Party.&lt;ref&gt;{{cite web|url=http://govpro.com/ar/gov_imp_31439/ |title=Study Ranks America's Most Liberal and Conservative Cities |publisher=Govpro.com |date=August 16, 2005 |accessdate=July 1, 2010}}&lt;/ref&gt;
+
+In 2000, the City requested an investigation by the [[United States Justice Department]] into the [[Detroit Police Department]] which was concluded in 2003 over allegations regarding its use of force and civil rights violations. The city proceeded with a major reorganization of the Detroit Police Department.&lt;ref&gt;Lin, Judy and David Joser, (August 30, 2005). Detroit to trim 150 cops, precincts. ''Detroit News''.&lt;/ref&gt; 
+
+[[Planning and development in Detroit|Planning and development]] have been important issues. In 1973, the city elected its first black mayor, [[Coleman Young]]. Despite development efforts, his combative style during his five terms in office was not well received by many suburban residents.&lt;ref&gt;[http://www.cnn.com/US/9711/29/young.obit.pm/ Detroit's 'great warrior,' Coleman Young, dies (November 29, 1997)]. ''CNN.com''.&lt;/ref&gt; Mayor [[Dennis Archer]], a former Michigan Supreme Court Justice, refocused the city's attention on redevelopment with a plan to permit three casinos downtown. By 2008, three major casino resort hotels established operations in the city.
+
+=== Crime ===
+{{Further|Crime in Detroit|Detroit Police Department}}
+The city has seen a significant reduction in crime since the 1970s. The city had the sixth highest rate of violent crime among the 25 largest U.S. cities in 2007.&lt;ref name=UCR&gt;[http://www.fbi.gov/about-us/cjis/ucr/ucr]. Retrieved on January 17, 2009.&lt;/ref&gt; The rate of violent crime dropped 11 percent in 2008.&lt;ref&gt;{{cite web|url=http://www.mlive.com/news/detroit/index.ssf/2009/09/kym_worthy_on_reported_detroit.html|title=Detroit crime drops|publisher=Michigan Live LLC.|accessdate=September 18, 2009}}&lt;/ref&gt;  The violent crime rate is one of the highest in the United States.  Neighborhoodscout.com reported a crime rate of 62.18 per 1,000 residents for property crimes, and 16.73 per 1,000 for violent crimes (compared to national figures of 32 per 1,000 for property crimes and 5 per 1,000 for violent crime in 2008). &lt;ref name=&quot;Detroit crime rates and statistics&quot;&gt;{{cite web|url=http://www.neighborhoodscout.com/mi/detroit/crime/ |title=Detroit crime rates and statistics |publisher=Neighborhood Scout |accessdate=July 1, 2010}}&lt;/ref&gt;
+
+The city's downtown typically has lower crime than national and state averages.&lt;ref name=MIC&gt;Booza, Jason C. (July 23, 2008).[http://thedetroithub.com/site/user/files/2007RealityvsPerceptionsCrimeReport.pdf Reality v. Perceptions: An Analysis of Crime and Safety in Downtown Detroit]. Michigan Metropolitan Information Center, ''Wayne State University Center for Urban Studies''. Retrieved August 14, 2011.&lt;/ref&gt; According to a 2007 analysis, Detroit officials note that about 65 to 70 percent of homicides in the city were drug related,&lt;ref name=analysis&gt;Shelton, Steve Malik (January 30, 2008).[http://web.archive.org/web/20080802131457/http://www.michronicleonline.com/articlelive/articles/2322/1/Top-cop-urges-vigilance-against-crime/Page1.html Top cop urges vigilance against crime]. ''Michigan Chronicle''. Retrieved on March 17, 2008.&lt;/ref&gt; with the rate of unsolved murders roughly 70%.&lt;ref name= time&gt;[http://www.time.com/time/nation/article/0,8599,1925681,00.html Why Time Inc. Is in Motown]&lt;/ref&gt;
+
+In 2012, crime in the city was among the reasons for more expensive car insurance.&lt;ref name=&quot;car insurance&quot;&gt;{{cite web |url=http://education.yahoo.net/auto-insurance/articles/most_expensive_cities_for_car_insurance.htm?kid=1KQVK |title=Most Expensive Cities for Car Insurance |accessdate=17:20, Sunday February 19, 2012 (UTC) |date=February 19, 2012 |publisher=yahoo.com |quote=I...it has a high crime rate – it scored an 889 on the City-Data.com 2010 crime index, ...
+
+* Source: Runzheimer International. Average insurance rates are as of August 2011, and based on business driving for a 2012 Chevrolet Malibu LS. Assumes $100,000/$300,000/$50,000 liability limits, collision, and comprehensive with $500 deductibles, 100/300 uninsured motorist coverage, and any mandatory insurance coverage. }}&lt;/ref&gt;
+
+== Education ==
+
+=== Colleges and universities ===
+{{See also|Metro Detroit#Education|l1=Colleges and universities in Metro Detroit}}
+[[File:Old Main WSU - Detroit Michigan.jpg|thumb|[[Old Main (Wayne State University)|Old Main]], a historic building at [[Wayne State University]]]]
+[[File:UDMCommons.jpg|thumb|Commons at [[University of Detroit Mercy]]]]
+Detroit is home to several institutions of higher learning including [[Wayne State University]], a national research university with medical and [[Wayne State University Law School|law schools]] in the [[Midtown, Detroit|Midtown]] area offering hundreds of academic degrees and programs. The [[University of Detroit Mercy]], located in Northwest Detroit in the [[University District, Detroit|University District]], is a prominent Roman Catholic co-educational university affiliated with the [[Society of Jesus]] (the Jesuits) and the [[Sisters of Mercy]]. The [[University of Detroit Mercy]] offers more than a hundred academic degrees and programs of study including business, [[dentistry]], [[law school|law]], engineering, architecture, nursing and allied health professions. The [[University of Detroit Mercy School of Law]] is located [[Downtown Detroit|Downtown]] across from the [[Renaissance Center]]. Other institutions in the city include  the [[College for Creative Studies]], [[Lewis College of Business]], [[Marygrove College]] and [[Wayne County Community College]]. In June 2009, the [[Michigan State University College of Osteopathic Medicine]] which is based in [[East Lansing, Michigan|East Lansing]] opened a satellite campus located at the [[Detroit Medical Center]].  The [[University of Michigan]] was established in 1817 in Detroit and later moved to [[Ann Arbor, Michigan|Ann Arbor]] in 1837. In 1959, [[University of Michigan–Dearborn]] was established in neighboring [[Dearborn, Michigan|Dearborn]].
+
+=== Primary and secondary schools ===
+
+==== Public schools and charter schools ====
+
+With about 66,000 public school students (2011–12), the [[Detroit Public Schools]] (DPS) district is the largest [[school district]] in Michigan. Detroit has an additional 56,000 [[charter school|charter]] school students for a combined enrollment of about 122,000 students.&lt;ref name=charter/&gt;&lt;ref name=&quot;Enrollment&quot;&gt;Dawsey, Chastity Pratt (October 20, 2011). Detroit Public Schools hits enrollment goal. ''Detroit Free Press''&lt;/ref&gt;
+
+In the mid-to-late 1990s, the [[Michigan Legislature]] removed the locally elected board of education amid allegations of mismanagement and replaced it with a reform board appointed by the mayor and governor. The elected board of education was re-established following a city referendum in 2005. The first election of the new 11-member board of education occurred on November 8, 2005.&lt;ref&gt;LewAllen, Dave (August 3, 2005). [http://www1.wxyz.com/wxyz/nw_local_news/article/0,2132,WXYZ_15924_3974896,00.html Detroiters Vote for New School Board]. ''WXYZ.com''.&lt;/ref&gt; Due to growing Detroit Charter Schools enrollment, the city planned to close many public schools.&lt;ref name=charter&gt;Hing, Julianne (March 17, 2010).[http://colorlines.com/archives/2010/03/45_dps_schools_to_close_where_have_all_of_detroits_students_gone.html Where Have All The Students Gone?].''Color Lines.com''. Retrieved on August 19, 2010.&lt;/ref&gt; State officials report a 68% graduation rate for Detroit's public schools adjusted for those who change schools.&lt;ref&gt;Shultz, Marissa and Greg Wilkerson (June 13, 2007).[http://www.detnews.com/apps/pbcs.dll/article?AID=/20070613/SCHOOLS/706130409/1003/METRO Graduation rate].''Detroit News''.Retrieved on March 17, 2009.&lt;/ref&gt;&lt;ref name=&quot;Detroitk12&quot;&gt;[http://detroitk12.org/news/article/1605/ Detroit Public Schools news] (June 15, 2007). Retrieved March 9, 2011.&lt;/ref&gt; Public and charter school students in the city have had mixed results on standardized tests.&lt;ref&gt;[http://www.huffingtonpost.com/2011/07/08/detroit-charter-high-schools-underperform_n_893327.html Detroit Charter High Schools Underperform Public Counterparts, Analysis Shows | Huffington Post | huffingtonpost.com]&lt;/ref&gt;&lt;ref&gt;[http://www.freep.com/article/20091208/NEWS01/91208020/Detroit-students-scores-record-low-national-test Detroit students' scores a record low on national test | Detroit Free Press | freep.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+==== Private schools ====
+
+Detroit is served by various private schools, as well as parochial Roman Catholic schools operated by the [[Archdiocese of Detroit]]. The [[Archdiocese of Detroit]] lists a number of primary and secondary schools in the city, along with those in the metro area as Catholic education has emigrated to the suburbs.&lt;ref&gt;{{cite web|url=http://www.educationreport.org/pubs/mer/article.aspx?id=7247 |title=Detroit Catholic high school &quot;sees God in the challenges&quot; [Education Report&amp;#93; |publisher=Educationreport.org |accessdate=July 1, 2010}}&lt;/ref&gt;&lt;ref&gt;Pratt, Chastity, Patricia Montemurri, and Lori Higgins. &quot;[http://pqasb.pqarchiver.com/freep/access/1814901451.html?FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Mar+17%2C+2005&amp;author=CHASTITY+PRATT%3B+PATRICIA+MONTEMURRI%3B+LORI+HIGGINS&amp;pub=Detroit+Free+Press&amp;desc=PARENTS%2C+KIDS+SCRAMBLE+AS+EDUCATION+OPTIONS+NARROW&amp;pqatl=google PARENTS, KIDS SCRAMBLE AS EDUCATION OPTIONS NARROW].&quot; ''[[Detroit Free Press]]''. March 17, 2005. A1 News. Retrieved on April 30, 2011.&lt;/ref&gt; There are 23 Catholic high schools in the [[Roman Catholic Archdiocese of Detroit|Archdiocese of Detroit]].&lt;ref name=AOD/&gt; Of the three Catholic high schools in the city, two are operated by the [[Society of Jesus]] and the third is co-sponsored by the [[Sisters, Servants of the Immaculate Heart of Mary]] and the [[Congregation of St. Basil]].&lt;ref name=AOD&gt;{{cite web|url=http://www.aodonline.org/AODOnline/Catholic+Schools+2159/School+Locator+7699/SchoolLocator.htm#Z |title=Archdiocese of Detroit – Schools |publisher=Aodonline.org |accessdate=July 1, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://detroitcristorey.org/about |title=About &amp;#124; Detroit Cristo Rey High School |publisher=Detroitcristorey.org |accessdate=July 1, 2010}}&lt;/ref&gt;
+
+== Infrastructure ==
+
+=== Health systems ===
+
+[[File:SJHMCfromtheair.JPG|thumb|[[St. John Health|St. John Hospital &amp; Medical Center]] in Detroit]]
+Within the city of Detroit, there are over a dozen major hospitals which include the [[Detroit Medical Center]] (DMC), [[Henry Ford Hospital|Henry Ford Health System]], [[St. John Health|St. John Health System]], and the John D. Dingell VA Medical Center. The DMC, a regional [[Level I trauma center]], consists of Detroit Receiving Hospital and University Health Center, [[Children's Hospital of Michigan]], Harper University Hospital, Hutzel Women's Hospital, Kresge Eye Institute, Rehabilitation Institute of Michigan, Sinai-Grace Hospital, and the Karmanos Cancer Institute. The DMC has more than 2,000 licensed beds and 3,000 affiliated physicians. It is the largest private employer in the City of Detroit.&lt;ref name=WSUMED&gt;[http://web.archive.org/web/20060415162018/www.med.wayne.edu/about_the_school/ Organization History and Profile] ''Wayne State University'' Retrieved January 24, 2011.&lt;/ref&gt; The center is staffed by physicians from the [[Wayne State University]] School of Medicine, the largest single-campus medical school in the United States, and the United States' fourth largest medical school overall.&lt;ref name=WSUMED/&gt; [[Detroit Medical Center]] formally became a part of [[Vanguard Health Systems]] on December 30, 2010 as a for profit corporation. Vanguard has agreed to invest nearly $1.5 B in the Detroit Medical Center complex which will include $417 M to retire debts, at least $350 M in capital expenditures and an additional $500 M for new capital investment.&lt;ref name =Lane&gt;{{cite web|url=http://www.crainsdetroit.com/article/20100611/FREE/100619971 |title=For-profit Vanguard signs deal to buy nonprofit Detroit Medical Center – Detroit News and Information – Crain's Detroit Business |publisher=Crainsdetroit.com |date=June 11, 2010 |accessdate=July 1, 2010}}&lt;/ref&gt;&lt;ref name=Anstett&gt;Anstett, Patricia (March 20, 2010).[http://www.dmc.org/upload/docs/News/FREEP3202010.pdf $1.5&amp;nbsp;billion for new DMC].''Detroit Free Press''. DMC.org. Retrieved on June 12, 2010.&lt;/ref&gt; Vanguard has agreed to assume all debts and pension obligations.&lt;ref name=&quot;Lane&quot;/&gt; In 2010, [[Henry Ford Health System]] in the [[New Center, Detroit|New Center]] also announced a $500 M expansion in Detroit with plans for a biomedical research center.&lt;ref name=Greene&gt;Greene, Jay (April 5, 2010).[http://www.crainsdetroit.com/article/20100405/FREE/100409959 Henry Ford Health System plans $500&amp;nbsp;million expansion]. ''Crains Detroit Business''. Retrieved on June 12, 2010.&lt;/ref&gt; The metro area has many other hospitals including [[William Beaumont Hospital]], St. Joseph's, and [[University of Michigan Health System|University of Michigan Medical Center]].
+
+=== Transportation ===
+{{Main|Transportation in metropolitan Detroit}}
+With its proximity to Canada and its facilities, ports, major highways, rail connections and international airports, Detroit is an important transportation hub. The city has three international border crossings, the [[Ambassador Bridge]], [[Detroit-Windsor Tunnel]] and [[Michigan Central Railway Tunnel]], linking Detroit to [[Windsor, Ontario]]. The Ambassador Bridge is the single busiest border crossing in North America, carrying 27% of the total trade between the U.S. and Canada.&lt;ref&gt;[http://www.ops.fhwa.dot.gov/freight/freight_analysis/ambass_brdg/ambass_brdge_ovrvw.htm Ambassador Bridge Crossing Summary] (May 11, 2005). ''U.S. Department of Transportation''. Retrieved on April 8, 2007.&lt;/ref&gt;
+
+==== Airports ====
+
+[[Detroit Metropolitan Wayne County Airport]] (DTW), the area's principal airport, is located in nearby [[Romulus, Michigan|Romulus]] and is a primary hub for [[Delta Air Lines]] and a secondary hub for [[Spirit Airlines]]. [[Bishop International Airport]] (FNT) in [[Flint, Michigan]] is the second busiest commercial airport in the region. [[Coleman A. Young International Airport]] (DET), previously called Detroit City Airport, is on Detroit's northeast side. Although [[Southwest Airlines]] once flew from the airport, the airport now maintains only charter service and [[general aviation]].&lt;ref&gt;Sapte, Benjamin (2003). [http://web.archive.org/web/20060411080441/www.erau.edu/research/BA590/chapters/ch2.htm Southwest Airlines: Route Network Development since 1971]. ''Embry-Riddle Aeronautical University Retrieved on April 20, 2006.'' Retrieved January 24, 2011.&lt;/ref&gt; [[Willow Run Airport]], in far-western Wayne County near [[Ypsilanti, Michigan|Ypsilanti]], is a general aviation and cargo airport.
+
+==== Transit systems ====
+
+[[File:DPMoverRenCenstop.jpg|thumb|left|People Mover train comes into the [[Renaissance Center]] station]]
+[[Mass transit]] in the region is provided by bus services. The [[Detroit Department of Transportation]] (DDOT) provides service to the outer edges of the city. From there, the [[Suburban Mobility Authority for Regional Transportation|Suburban Mobility Authority for Regional Transportation (SMART)]] provides service to the suburbs. Cross border service between the downtown areas of Windsor and Detroit is provided by [[Transit Windsor]] via the Tunnel Bus.&lt;ref name=Tunnelbus&gt;{{cite web
+| url = http://www.citywindsor.ca/000600.asp
+| title = Routes and Schedules
+| accessdate =May 5, 2009
+| author=Transit Windsor.
+}}&lt;/ref&gt; It is also possible for those who cross to Detroit on the tunnel bus to use a Transit Windsor transfer for transfers onto Detroit Smart buses, allowing for travel around Metro Detroit from a single fare.
+
+An elevated rail system known as the [[Detroit People Mover|People Mover]], completed in 1987, provides daily service around a {{convert|2.9|mi|km}} loop downtown. A proposed [[bus rapid transit]] may serve as a link between the [[Detroit People Mover]] and [[SEMCOG Commuter Rail]] which extends from Detroit's [[New Center, Detroit|New Center]] area to [[The Henry Ford]], [[Dearborn, Michigan|Dearborn]], [[Detroit Metropolitan Airport]], [[Ypsilanti, Michigan|Ypsilanti]], and [[Ann Arbor, Michigan|Ann Arbor]].&lt;ref name=BRT&gt;Bing, Dave (December 18, 2011).[http://www.freep.com/article/20111218/OPINION05/112180413/Dave-Bing-Rapid-bus-system-is-a-win-for-metro-Detroit Dave Bing: Rapid bus system is a win for metro Detroit]. ''Detroit Free Press''.Retrieved December 18, 2011.&lt;/ref&gt;&lt;ref name=SEMCOGrail&gt;[http://www.semcog.org/AADD.aspx Ann Arbor – Detroit Regional Rail Project] ''SEMCOG''. Retrieved on February 4, 2010.&lt;/ref&gt;&lt;ref&gt;[http://www.detroittransit.org/cms.php?pageid=28#Ww Transportation Riders United, Detroit Transit Options for Growth Study]. Retrieved on September 12, 2008&lt;/ref&gt; [[Amtrak]] provides service to Detroit, operating its ''[[Wolverine (train)|Wolverine]]'' service between Chicago and [[Pontiac, Michigan|Pontiac]]. Baggage cannot be checked at this location; however, up to two suitcases in addition to any &quot;personal items&quot; such as briefcases, purses, laptop bags, and infant equipment are allowed on board as carry-ons. The [[Detroit (Amtrak station)|Amtrak station]] is located in the [[New Center, Detroit|New Center]] area north of downtown. The [[J.W. Westcott II]], which delivers mail to [[lake freighter]]s on the Detroit River, is the world's only floating post office.&lt;ref&gt;[http://continuouswave.com/boats/westcott/ America's Floating ZIP Code 48222] ''J.W. Westcott Homepage''. Retrieved on April 8, 2007.&lt;/ref&gt;
+
+==== Freeways ====
+{{Main|Roads and freeways in metropolitan Detroit}}
+
+Metro Detroit has an extensive toll-free network of [[freeway]]s administered by the [[Michigan Department of Transportation]]. Four major [[Interstate Highway]]s surround the city. Detroit is connected via [[Interstate 75 in Michigan|Interstate&amp;nbsp;75]] (I-75) and [[Interstate 96|I-96]] to [[Highway 401 (Ontario)|Kings Highway 401]] and to major [[Southern Ontario]] cities such as [[London, Ontario]] and the [[Greater Toronto Area]]. I-75 (Chrysler and Fisher freeways) is the region's main north–south route, serving [[Flint, Michigan|Flint]], [[Pontiac, Michigan|Pontiac]], [[Troy, Michigan|Troy]], and Detroit, before continuing south (as the Detroit–Toledo and Seaway Freeways) to serve many of the communities along the shore of Lake Erie.&lt;ref name=&quot;Cantor&quot;&gt;{{Cite book |last= Cantor |first= George |title= Detroit: An Insiders Guide to Michigan |year= 2005 |publisher= University of Michigan Press |isbn=0-472-03092-2}}&lt;/ref&gt;
+
+[[Interstate 94 in Michigan|I-94]] (Edsel Ford Freeway) runs east–west through Detroit and serves Ann Arbor to the west (where it continues to Chicago) and Port Huron to the northeast. The stretch of the current I-94 freeway from Ypsilanti to Detroit was one of America's earlier limited-access highways. [[Henry Ford]] built it to link the factories at Willow Run and Dearborn during World War II. A portion was known as the Willow Run Expressway. I-96 runs northwest–southeast through Livingston, Oakland and Wayne counties and (as the Jeffries Freeway through Wayne County) has its eastern terminus in downtown Detroit.&lt;ref name=&quot;Cantor&quot;/&gt;
+
+[[Interstate 275 (Michigan)|I-275]] runs north–south from I-75 in the south to the junction of I-96 and [[Interstate 696|I-696]] in the north, providing a bypass through the western suburbs of Detroit. [[Interstate 375 (Michigan)|I-375]] is a short spur route in downtown Detroit, an extension of the Chrysler Freeway. I-696 (Reuther Freeway) runs east–west from the junction of I-96 and I-275, providing a route through the northern suburbs of Detroit. Taken together, I-275 and I-696 form a semicircle around Detroit. Michigan state highways designated with the letter M serve to connect major freeways.&lt;ref name=&quot;Cantor&quot;/&gt;
+
+== Sister cities ==
+{{SisterCities|Detroit|seven}}&lt;ref&gt;{{cite web|url=http://www.detroitmi.gov/DepartmentsandAgencies/SisterCitiesProgram/tabid/710/Default.aspx |title=Sister Cities Program &amp;#124; City of Detroit |publisher=detroitmi.gov |accessdate=July 1, 2010}}&lt;/ref&gt;
+
+* {{Flagicon|JPN}} [[Toyota, Aichi|Toyota]], Japan&lt;ref&gt;{{cite web|url=http://www.city.toyota.aichi.jp/e/info/sister/sister_cities.html |title=International Sister Cities |publisher=City.toyota.aichi.jp |accessdate=July 1, 2010}}&lt;/ref&gt;
+* {{Flagicon|UAE}} [[Dubai]], United Arab Emirates
+* {{Flagicon|ITA}} [[Turin]], Italy&lt;ref&gt;{{cite web|url=http://www.comune.torino.it/relint/inglese/cittagemellate/detroit.shtml |title=Città di Torino – Relazioni Internazionali |publisher=Comune.torino.it |date=April 7, 1998 |accessdate=July 1, 2010}}&lt;/ref&gt;
+* {{Flagicon|ZAM}} [[Kitwe]], Zambia
+* {{Flagicon|Belarus}} [[Minsk]], Belarus
+* {{Flagicon|BAH}} [[Nassau, Bahamas|Nassau]], Bahamas
+* {{Flagicon|PRC}} [[Chongqing]], People's Republic of China
+
+== References ==
+{{reflist|2}}
+
+== Further reading ==
+{{portal|Geography|North America|United States|Michigan|Metro Detroit|New France}}
+* {{Cite book | author=Bak, Richard | year=2001 | title=Detroit Across 3 Centuries | publisher=Thompson Gale | isbn=1-58536-001-5}}
+* {{Cite book | author=Burton, Clarence M | year=1896 | title=Cadillac's Village: A History of the Settlement, 1701–1710 | publisher=Detroit Society for Genealogical Research | isbn=0-943112-21-4}}
+* {{Cite book | author=Burton, Clarence M | year=1912 | title=Early Detroit: A sketch of some of the interesting affairs of the olden time | publisher=Burton Abstracts | oclc=926958 }}
+* {{Cite book | author=Catlin, George B. | title=The Story of Detroit  | url=http://quod.lib.umich.edu/cgi/t/text/text-idx?c=micounty;idno=APK1036.0001.001 | year=1923 |publisher=[[The Detroit News]] Association}}
+* {{Cite book | author=Dunnigan, Brian Leigh | title=Frontier Metropolis, Picturing Early Detroit, 1701–1838 | publisher=[[Great Lakes Books]] | year=2001 | isbn=0-8143-2767-2}}
+* {{Cite book | author=Farley, Reynolds, et al. | title=Detroit Divided | publisher=Russell Sage Foundation Publications | year=2002 | isbn=0-87154-281-1}}
+* [http://openlibrary.org/works/OL161750W/The_history_of_Detroit_and_Michigan_or_The_metropolis_illustrat Farmer, Silas. (1884) (Jul 1969) ''The history of Detroit and Michigan, or, The metropolis illustrated: a chronological cyclopaedia of the past and present: including a full record of territorial days in Michigan, and the annuals of Wayne County'', in various formats at] [[Open Library]].
+* {{Cite book | author=Farmer, Silas | year=1889 | title=History of Detroit and Wayne County and Early Michigan | publisher=Omnigraphics Inc; Reprint edition (October 1998) | isbn=1-55888-991-4}}
+* Galster, George. (2012). ''Driving Detroit: The Quest for Respect in the Motor City'' University of Pennsylvania Press
+* {{Cite book| author=Gavrilovich, Peter and Bill McGraw |title=The Detroit Almanac, 2nd edition|publisher=Detroit Free Press| year=2006|isbn=978-0-937247-48-8}}
+* {{Cite book | author=Hill, Eric J. and John Gallagher | title= AIA Detroit: The American Institute of Architects Guide to Detroit Architecture| year=2002 | publisher=[[Wayne State University Press]] | isbn=0-8143-3120-3}}
+* {{Cite book | author=Parkman, Francis | title=The Conspiracy of Pontiac | year=1994 | publisher=[[University of Nebraska Press]] | isbn=0-8032-8737-2}}
+* {{Cite book | author=Poremba, David Lee | title=Detroit: A Motor City History (Images of America) | publisher=Arcadia Publishing | year=2003 | isbn=0-7385-2435-2}}
+* {{Cite book | author=Poremba, David Lee | title=Detroit in Its World Setting | publisher=Wayne State University | year=2001 | isbn=0-8143-2870-9}}
+* Powell, L. P (1901). &quot;Detroit, the Queen City,&quot; ''Historic Towns of the Western States'' (New York).
+* {{Cite book | author=[[Robert Sharoff|Sharoff, Robert]] | title=American City: Detroit Architecture| publisher=[[Wayne State University Press]]| year=2005| isbn=0-8143-3270-6}}
+* {{Cite book | author=Sobocinski, Melanie Grunow | title= Detroit and Rome: building on the past | publisher=Regents of the University of Michigan| year=2005 | isbn=0-933691-09-2}}
+* {{Cite book| author=Stahl, Kenneth.|title=Detroit’s Great Rebellion|year=2009|isbn=978-0-9799157-0-3}}
+* {{Cite book| author=Woodford, Arthur M.|title=This is Detroit 1701–2001|publisher=Wayne State University Press| year=2001|isbn=0-8143-2914-4}}
+
+== External links ==
+{{sister project links}}
+=== Municipal government and local Chamber of Commerce ===
+
+* [http://www.detroitmi.gov/ City of Detroit official website]
+* [http://www.visitdetroit.com/ Detroit Metro Convention &amp; Visitors Bureau]
+* [http://www.detroitchamber.com/ Detroit Regional Chamber of Commerce]
+
+=== Visitor's Guide ===
+
+* {{Wikitravel|Detroit}}
+
+=== Historical research and current events ===
+
+* [http://www.detroitentertainmentdistrict.com/ Detroit Entertainment District]
+* [http://www.detroithistorical.org/ Detroit Historical Museums &amp; Society]
+* [http://www.detroitriverfront.org/ Detroit Riverfront Conservancy]
+* [http://www.experiencedetroit.com/ Experience Detroit]
+* [http://dlxs.lib.wayne.edu/cgi/i/image/image-idx?c=vmc Virtual Motor City Collection] at [[Wayne State University]] Library, contains over 30,000 images of Detroit from 1890 to 1980
+*[http://global.truelithuania.com/detroit-michigan-10/ Lithuanian heritage in Detroit]
+
+{{Navboxes
+| title = Articles Relating to Detroit and [[Wayne County, MI|Wayne County]]
+| list =
+{{Detroit}}
+{{Cities of Wayne County, Michigan}}
+{{Metro Detroit}}
+{{Michigan}}
+{{USLargestCities}}
+{{Windsor, Ontario}}
+}}
+
+[[Category:Detroit, Michigan]]
+[[Category:Cities in Michigan]]
+[[Category:County seats in Michigan]]
+[[Category:Populated places on the Great Lakes]]
+[[Category:Former United States state capitals|Michigan]]
+[[Category:Metro Detroit]]
+[[Category:Michigan Neighborhood Enterprise Zone]]
+[[Category:Port settlements in the United States]]
+[[Category:Populated places established in 1701]]
+[[Category:Underground Railroad locations]]
+[[Category:Populated places in Michigan with African American majority populations]]
+[[Category:Populated places in Wayne County, Michigan]]
+[[Category:Detroit River]]
+
+[[af:Detroit]]
+[[ar:ديترويت، ميشيغان]]
+[[an:Detroit]]
+[[ast:Detroit]]
+[[az:Detroyt]]
+[[bn:ডেট্রয়েট]]
+[[zh-min-nan:Detroit]]
+[[be:Горад Дэтройт]]
+[[be-x-old:Дэтройт]]
+[[bg:Детройт]]
+[[bs:Detroit]]
+[[br:Detroit (Michigan)]]
+[[ca:Detroit]]
+[[cs:Detroit]]
+[[co:Detroit]]
+[[cy:Detroit]]
+[[da:Detroit]]
+[[de:Detroit]]
+[[et:Detroit]]
+[[el:Ντιτρόιτ]]
+[[es:Detroit]]
+[[eo:Detrojto]]
+[[ext:Detroit]]
+[[eu:Detroit]]
+[[fa:دیترویت]]
+[[fo:Detroit]]
+[[fr:Détroit (Michigan)]]
+[[fy:Detroit]]
+[[ga:Detroit, Michigan]]
+[[gl:Detroit, Michigan]]
+[[ko:디트로이트]]
+[[hy:Դետրոյթ]]
+[[hi:डेट्राइट, मिशिगन]]
+[[hr:Detroit, Michigan]]
+[[io:Detroit]]
+[[ig:Detroit]]
+[[id:Detroit]]
+[[ia:Detroit, Michigan]]
+[[ie:Detroit (Michigan)]]
+[[is:Detroit]]
+[[it:Detroit]]
+[[he:דטרויט]]
+[[pam:Detroit, Michigan]]
+[[ka:დეტროიტი]]
+[[kk:Детройт (Мичиган)]]
+[[kw:Detroit, Michigan]]
+[[sw:Detroit, Michigan]]
+[[ku:Detroit]]
+[[mrj:Детройт]]
+[[la:Detroitum]]
+[[lv:Detroita]]
+[[lt:Detroitas]]
+[[lmo:Detroit]]
+[[hu:Detroit]]
+[[mk:Детроит]]
+[[mr:डेट्रॉईट]]
+[[xmf:დეთროითი]]
+[[mzn:دیترویت]]
+[[ms:Detroit]]
+[[nl:Detroit (Michigan)]]
+[[ja:デトロイト]]
+[[no:Detroit]]
+[[nn:Detroit]]
+[[oc:Detroit]]
+[[pms:Detroit]]
+[[pl:Detroit]]
+[[pt:Detroit]]
+[[ro:Detroit]]
+[[qu:Detroit (Michigan)]]
+[[ru:Детройт]]
+[[sah:Детройт]]
+[[sc:Detroit]]
+[[sco:Detroit]]
+[[sq:Detroit]]
+[[scn:Detroit]]
+[[simple:Detroit]]
+[[sk:Detroit]]
+[[sl:Detroit]]
+[[szl:Detroit]]
+[[sr:Детроит]]
+[[sh:Detroit]]
+[[fi:Detroit]]
+[[sv:Detroit]]
+[[tl:Detroit, Misigan]]
+[[ta:டிட்ராயிட்]]
+[[te:డెట్రాయిట్]]
+[[th:ดีทรอยต์]]
+[[tg:Детройт]]
+[[tr:Detroit]]
+[[uk:Детройт]]
+[[ug:Détroyt]]
+[[vec:Detroit]]
+[[vi:Detroit]]
+[[vo:Detroit]]
+[[war:Detroit]]
+[[yi:דעטרויט]]
+[[yo:Detroit]]
+[[zh:底特律]]</text>
+      <sha1>i7l6cac9puskt3l9tik5e35id1jbipl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

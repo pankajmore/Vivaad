@@ -1,0 +1,589 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Indent style</title>
+    <ns>0</ns>
+    <id>294545</id>
+    <revision>
+      <id>520533218</id>
+      <parentid>518539280</parentid>
+      <timestamp>2012-10-30T03:01:46Z</timestamp>
+      <contributor>
+        <username>Xcvista</username>
+        <id>9841439</id>
+      </contributor>
+      <comment>/* Allman style */</comment>
+      <text xml:space="preserve" bytes="30179">{{Multiple issues|
+{{Refimprove|date=February 2007}}
+{{Original research|date=September 2011}}
+{{longintro|date=July 2012}}
+}}
+In [[computer programming]], an '''indent style''' is a convention governing the [[indentation]] of [[block (programming)|blocks]] of code to convey the program's structure. This article largely addresses the [[C (programming language)|C programming language]] and its descendants, but can be (and frequently is) applied to most other programming languages (especially those in the [[curly bracket programming language|curly bracket family]]). Indent style is just one aspect of [[programming style]].
+
+Indentation is not a requirement of most programming languages, where it is used as [[secondary notation]]. Rather, programmers indent to better convey the structure of their programs to human readers. In particular, indentation is used to show the relationship between [[control flow]] constructs such as conditions or loops and code contained within and outside them. However, some programming languages (such as [[Python (programming language)|Python]] and [[Occam programming language|Occam]]) use the indentation to determine the structure instead of using braces or keywords.
+
+The size of the indent is usually independent of the style. Many early programs used [[Tab key|tab]] characters for indentation, for simplicity and to save on source file size. [[Unix]] editors generally view tabs as equivalent to eight characters, while [[Apple Macintosh|Macintosh]] and [[Microsoft Windows]] environments would set them to four, creating confusion when code was transferred back and forth. Modern programming editors are now often able to set arbitrary indentation sizes, and will insert the appropriate combination of spaces and tabs. For [[Ruby (programming language)|Ruby]], many [[shell script|shell programming languages]], and some forms of [[HTML]] formatting, two spaces per indent level is generally used.
+
+The issue of using hard tabs or spaces is an ongoing debate in the programming community. Some programmers such as [[Jamie Zawinski]]&lt;ref&gt;
+[http://www.jwz.org/doc/tabs-vs-spaces.html &quot;Tabs versus Spaces: An Eternal Holy War.] by Jamie Zawinski 2000
+&lt;/ref&gt; feel that spaces instead of tabs increase cross-platform functionality.  Others, such as the writers of the [[WordPress]] coding standards,&lt;ref&gt;[http://codex.wordpress.org/WordPress_Coding_Standards#Indentation &quot;WordPress Coding Standards&quot;]&lt;/ref&gt; believe the opposite, that hard tabs increase cross-platform functionality.
+
+There are a number of computer programs that automatically correct indent styles as well as the length of [[tab]]s. A famous one among them is &lt;code&gt;[[indent (Unix)|indent]]&lt;/code&gt;, a program included with many [[Unix-like]] [[operating system]]s. These programs work best for those who use an indent style close to that considered &quot;proper&quot; by their programmers; those who use other styles will more likely become frustrated. indent has only been updated once since 2006 and does not work well either with C++ or GNU extensions to C.
+
+==K&amp;R style==
+The [[The C Programming Language (book)|K&amp;R]] style, so named because it was used in [[Brian Kernighan|Kernighan]] and [[Dennis Ritchie|Ritchie's]] book ''[[The C Programming Language (book)|The C Programming Language]]'', is commonly used in C. It is also used for [[C++]], [[C Sharp (programming language)|C#]], and others.
+
+When adhering to K&amp;R, each function has its opening brace at the next line on the same indentation level as its header, the statements within the braces are indented, and the closing brace at the end is on the same indentation level as the header of the function at a line of its own. The blocks inside a function, however, have their opening braces at the same line as their respective control statements; closing braces remain in a line of their own, unless followed by an '''else''' or '''while''' keyword.{{citation needed|date=August 2012}}
+
+In this style a control statement with only a single statement in its scope may omit the braces. ''The C Programming Language'' refers to this as fertile soil for bugs (programming logical errors) and discourages it.
+
+&lt;source lang=c&gt;
+int main(int argc, char *argv[])
+{
+    ...
+    while (x == y) {
+        something();
+        somethingelse();
+
+        if (some_error) {
+            /* the curly braces around this code block could be omitted */
+            do_correct();
+        } else
+            continue_as_usual();
+    }
+
+    finalthing();
+    ...
+}
+&lt;/source&gt;
+
+In old versions of the C programming language, the functions, however, were braced distinctly. The opening function brace of a function was placed on the line following after the declaration section and at the same indentation level as the declaration (header of the function). This is because in the original C language, argument types needed to be declared on the subsequent line (i. e., just after the header of the function), whereas when no arguments were necessary, the opening brace would not appear in the same line with the function declaration. The opening brace for function declarations was an exception to the currently basic rule stating that the statements and blocks of a function are all enclosed in the function braces.
+
+&lt;source lang=c&gt;
+/* Original pre-ISO C style without function prototypes */
+int main(argc, argv)
+    int   argc;
+    char  *argv[];
+{
+    ...
+}
+&lt;/source&gt;
+
+===Variant: 1TBS===
+Advocates of this style sometimes refer to it as &quot;the one true brace style&quot; (abbreviated as 1TBS or OTBS) because of the precedent set by C (although advocates of other styles have been known to use similarly strong language). The source code of the [[Unix]] [[kernel (computer science)|kernel]] was written in this style,&lt;ref&gt;{{cite web |url=http://v6.cuzuco.com/v6.pdf |title=Unix Operating System Source Code Level Six |publisher=University of New South Wales |author=J. Lions |date=June 1977}}&lt;/ref&gt; as was the [[Linux]] kernel.
+
+In this style, the constructs that allow insertions of new code lines are on separate lines, and constructs that prohibit insertions are on a single line. This principle is amplified by bracing every if, else, while, etc.—even single-line conditionals—so that insertion of a new line of code anywhere is always &quot;safe&quot; (i.e., such an insertion will not make the flow of execution disagree with the source code indentation).
+
+Advantages of this style are that the beginning brace does not require an extra line by itself; and the ending brace lines up with the statement it conceptually belongs to. One disadvantage of this style is that the ending brace of a block takes up an entire line by itself, which can be partially resolved in if/else blocks and do/while blocks:
+
+&lt;source lang=c&gt;
+//...
+    if (x &lt; 0) {
+        puts(&quot;Negative&quot;);
+        negative(x);
+    } else {
+        puts(&quot;Non-negative&quot;);
+        nonnegative(x);
+    }
+&lt;/source&gt;
+
+While this style may make it difficult to scan any source code for the opening brace of a block, it is not usually the opening brace itself that is interesting, but rather the controlling statement that introduced the block. It is easy to find the beginning of the block by locating the first line above the closing brace which is indented to the same level.
+
+While [[Java (programming language)|Java]] is often written in [[#Allman style|Allman]]{{Citation needed|date=June 2011}} or other styles, a significant body of Java code uses a minor variant of the [[Indent style#K&amp;R style|K&amp;R]] style in which the opening brace is on the same line as the class or method declaration, largely because [[Sun Microsystems|Sun]]'s original style guides&lt;ref&gt;{{Cite web
+| url=http://developers.sun.com/prodtech/cc/products/archive/whitepapers/java-style.pdf
+| title=Java Coding Style Guide
+| last=Reddy|first=Achut
+| publisher=Sun Microsystems
+| date=2000-03-30
+| accessdate=2008-05-30}}&lt;/ref&gt;&lt;ref&gt;{{Cite web
+| url=http://java.sun.com/docs/codeconv/CodeConventions.pdf
+| title=Java Code Conventions
+| publisher=Sun Microsystems
+| date=1997-09-12
+| accessdate=2008-05-30}}&lt;/ref&gt;&lt;ref&gt;{{Cite web
+| url=http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html
+| title=Code Conventions for the Java Programming Language
+| publisher=Sun Microsystems
+| date=1997-03-20
+| accessdate=2008-05-30}}&lt;/ref&gt; used this [[K&amp;R]] variant, and as a result most of the standard source code for the [[Java Class Library|Java API]] is written in this style. It is also a popular indent style for [[ActionScript]] and [[JavaScript]], along with the [[#Allman style|Allman style]].
+
+It should be noted that ''[[The C Programming Language (book)#Influence|The C Programming Language]]'' does not explicitly specify this style, though it is followed consistently throughout the book. Of note from the book:
+&lt;blockquote&gt;
+The position of braces is less
+important, although people hold passionate beliefs. We have chosen one of several popular
+styles. Pick a style that suits you, then use it consistently.
+&lt;/blockquote&gt;
+
+&lt;span id=&quot;BSD/Allman style&quot; /&gt;
+
+==Allman style==
+The Allman style is named after [[Eric Allman]]. It has been incorrectly referred to as &quot;ANSI style&quot;&lt;ref&gt;{{Cite web|title=Artistic Style |url=http://astyle.sourceforge.net/astyle.html |accessdate=2008-05-21}}&lt;/ref&gt; supposedly for its use in the documents describing the [[ANSI]] [[ANSI C|C]] standard (later adopted as the [[ISO C]] international standard), though in fact those documents use K&amp;R style.&lt;ref&gt;{{Cite web|title=Rationale for International Standard Programming Languages C (Revision 2)|url=http://www.open-std.org/jtc1/sc22/wg14/www/docs/n897.pdf |accessdate=2010-11-06}}&lt;/ref&gt; It is also sometimes known as &quot;BSD style&quot; since Allman wrote many of the utilities for [[Berkeley Software Distribution|BSD Unix]] (although this should not be confused with the different &quot;BSD KNF style&quot;; see below).
+
+This style puts the brace associated with a control statement on the next line, indented to the same level as the control statement. Statements within the braces are indented to the next level.
+
+&lt;source lang=c&gt;
+while (x == y)
+{
+    something();
+    somethingelse();
+}
+
+finalthing();
+&lt;/source&gt;
+
+This style is similar to the standard indentation used by the [[Pascal programming language]] and [[Transact-SQL]], where the braces are equivalent to the &lt;code&gt;begin&lt;/code&gt; and &lt;code&gt;end&lt;/code&gt; keywords.
+
+Advantages of this style are that the indented code is clearly set apart from the containing statement by lines that are almost completely [[White space (visual arts)|whitespace]], improving readability, and the closing brace lines up in the same column as the opening brace, making it easy to find matching braces. Additionally, the blocking style delineates the actual block of code from the associated control statement itself. Commenting-out the control statement, removing the control statement entirely, refactoring, or removing of the block of code is less likely to introduce syntax errors because of dangling or missing brackets.
+
+For example, the following is still syntactically correct:
+&lt;source lang=c&gt;
+//while (x == y)
+{
+    something();
+    somethingelse();
+}
+&lt;/source&gt;
+As is this:
+&lt;source lang=c&gt;
+//for (int i=0; i &lt; x; i++)
+//while (x == y)
+if (x == y)
+{
+    something();
+    somethingelse();
+}
+&lt;/source&gt;
+Even like this, with conditional compilation:
+&lt;source lang=c&gt;
+char c;
+#ifdef HAS_GETCH
+while ((c = getch()) != EOF)
+#else
+while ((c = getchar()) != EOF)
+#endif
+{
+    do_something(c);
+}
+&lt;/source&gt;
+
+A disadvantage of this style is that each of the enclosing braces occupies an entire line by itself without adding any actual code. This once was an important consideration when programs were usually edited on terminals that displayed only 24 lines, but is less significant with the larger resolutions of modern displays. Since the motivation of this style is to promote code readability by visually separating blocks from their control statements, screen real estate is only a secondary concern.
+
+This style is used by default in [[Microsoft Visual Studio]] 2005 and later versions. Microsoft has since then adopted the style throughout all of its documentation ([[MSDN]]) and internal programming methodologies for its C-based languages, namely C++ and C#.
+
+==BSD KNF style==
+Also known as [[Kernel Normal Form]] style, this is currently the form of most of the code used in the [[Berkeley Software Distribution]] operating systems.  Although mostly intended for kernel code, it is widely used as well in [[userland (computing)|userland]] code. It is essentially a thoroughly-documented variant of K&amp;R style as used in the Bell Labs Version 6 &amp; 7 [[UNIX]] source code.
+
+The hard tabulator (ts in [[vi]]) is kept at 8 columns, while a soft tabulator is often defined as a helper as well (sw in vi), and set at 4.
+
+The hard tabulators are used to indent code blocks, while a soft tabulator (4 spaces) of additional indent is used for all continuing lines which must be split over multiple lines.
+
+Moreover, function calls do not use a space before the parenthesis, although C language native statements such as &lt;code&gt;if&lt;/code&gt;, &lt;code&gt;while&lt;/code&gt;, &lt;code&gt;do&lt;/code&gt;, &lt;code&gt;switch&lt;/code&gt; and &lt;code&gt;return&lt;/code&gt; do (in the case where &lt;code&gt;return&lt;/code&gt; is used with parens).  Functions which declare no local variables in their top-level block should also leave an empty line after their opening block brace.
+
+Here follow a few samples:
+
+&lt;source lang=c&gt;
+while (x == y) {
+        something();
+        somethingelse();
+}
+finalthing();
+&lt;/source&gt;
+
+&amp;nbsp;
+&lt;source lang=c&gt;
+if (data != NULL &amp;&amp; res &gt; 0) {
+        if (JS_DefineProperty(cx, o, &quot;data&quot;,
+            STRING_TO_JSVAL(JS_NewStringCopyN(cx, data, res)),
+            NULL, NULL, JSPROP_ENUMERATE) != 0) {
+                QUEUE_EXCEPTION(&quot;Internal error!&quot;);
+                goto err;
+        }
+        PQfreemem(data);
+} else {
+        if (JS_DefineProperty(cx, o, &quot;data&quot;, OBJECT_TO_JSVAL(NULL),
+            NULL, NULL, JSPROP_ENUMERATE) != 0) {
+                QUEUE_EXCEPTION(&quot;Internal error!&quot;);
+                goto err;
+        }
+}
+&lt;/source&gt;
+
+&amp;nbsp;
+&lt;source lang=c&gt;
+static JSBool
+pgresult_constructor(JSContext *cx, JSObject *obj, uintN argc,
+    jsval *argv, jsval *rval)
+{
+
+        QUEUE_EXCEPTION(&quot;PGresult class not user-instantiable&quot;);
+
+        return (JS_FALSE);
+}
+&lt;/source&gt;
+
+==Whitesmiths style==
+The Whitesmiths style, also called Wishart style to a lesser extent, is less common today than the previous three. It was originally used in the documentation for the first commercial C compiler, the [[Whitesmiths|Whitesmiths Compiler]]. It was also popular in the early days of Windows, since it was used in three influential Windows programming books, ''[[Programmer's Guide to Windows]]'' by [[David Durant|Durant]], [[Geta Carlson|Carlson]] &amp; [[Paul Yao|Yao]], ''[[Programming Windows]]'' by [[Charles Petzold|Petzold]], and ''[[Windows 3.0 Power Programming Techniques]]'' by [[Peter Norton|Norton]] &amp; [[Paul Yao|Yao]].  [[Symbian Foundation]] continues to advocate this as the recommended bracing style for [[Symbian OS]] C++ mobile phone applications.
+
+This style puts the brace associated with a control statement on the next line, indented. Statements within the braces are indented to the same level as the braces.
+
+&lt;source lang=c&gt;
+while (x == y)
+    {
+    something();
+    somethingelse();
+    }
+
+finalthing();
+&lt;/source&gt;
+
+The advantages of this style are similar to those of the [[#Allman style|Allman style]] in that blocks are clearly set apart from control statements. However with Whitesmiths style, the block is still visually connected to its control statement instead of looking like an unrelated block of code surrounded by whitespace. Another advantage is that the alignment of the braces with the block emphasizes the fact that the entire block is conceptually (as well as programmatically) a single compound statement. Furthermore, indenting the braces emphasizes that they are subordinate to the control statement.
+
+A suggested disadvantage of this style is that the ending brace no longer lines up with the statement it conceptually belongs to. However, the closing brace belongs to the opening brace and not to the control statement.
+
+Additionally, this bracing style shows the logical flow of the code better, in that statements executed in sequence are on the same indentation level, and statements which depend on other statements are indented under them. (This is interpreting the braces as begin-block/end-block markers, and thus begin-block should be indented under the statement controlling its execution).
+
+An example:
+&lt;source lang=c&gt;
+if (data != NULL &amp;&amp; res &gt; 0)
+    {
+    if (!JS_DefineProperty(cx, o, &quot;data&quot;, STRING_TO_JSVAL(JS_NewStringCopyN(cx, data, res)),
+                           NULL, NULL, JSPROP_ENUMERATE))
+        {
+        QUEUE_EXCEPTION(&quot;Internal error!&quot;);
+        goto err;
+        }
+    PQfreemem(data);
+    }
+else if (!JS_DefineProperty(cx, o, &quot;data&quot;, OBJECT_TO_JSVAL(NULL),
+        NULL, NULL, JSPROP_ENUMERATE))
+    {
+    QUEUE_EXCEPTION(&quot;Internal error!&quot;);
+    goto err;
+    }
+&lt;/source&gt;
+
+However, if one adopts the styling rule that braces will be provided to every level of 'scope', then the above code could be written to replace the 'else if' with a separated 'if' in the scope of a clearly roped-off 'else' portion of the statement.
+
+&lt;source lang=c&gt;
+if (data != NULL &amp;&amp; res &gt; 0)
+    {
+    if (!JS_DefineProperty(cx, o, &quot;data&quot;, STRING_TO_JSVAL(JS_NewStringCopyN(cx, data, res)),
+                           NULL, NULL, JSPROP_ENUMERATE))
+        {
+        QUEUE_EXCEPTION(&quot;Internal error!&quot;);
+        goto err;
+        }
+    PQfreemem(data);
+    }
+else
+    {
+    if (!JS_DefineProperty(cx, o, &quot;data&quot;, OBJECT_TO_JSVAL(NULL),
+        NULL, NULL, JSPROP_ENUMERATE))
+        {
+        QUEUE_EXCEPTION(&quot;Internal error!&quot;);
+        goto err;
+        }
+    }
+&lt;/source&gt;
+
+Following the strategy shown above, some{{Who|date=June 2011}} would argue the code is inherently more readable, however issues arise in readability as more conditions are added, shown in this pseudo-code (although usually in this case, a switch statement would suffice)
+&lt;source lang=c&gt;
+else
+    {
+    if (stuff is true)
+        {
+        Do stuff
+        }
+    else
+        {
+        if (other stuff is true)
+            {
+            Do other stuff
+            }
+        else
+            {
+            if (stuff is still not true)
+                {
+                Do even more other stuff
+                }
+            }
+        }
+    }
+&lt;/source&gt;
+
+==GNU style==
+Like the [[#Allman style|Allman]] and Whitesmiths styles, [[GNU]] style puts braces on a line by themselves, indented by 2 spaces, except when opening a function definition, where they are not indented.&lt;ref name=&quot;gnu.org&quot;&gt;{{Cite web
+|url=http://www.gnu.org/prep/standards/html_node/Formatting.html
+|title=Formatting Your Source Code (From the [[GNU Coding Standards]])
+}}&lt;/ref&gt; In either case, the contained code is indented by 2 spaces from the braces.
+
+Popularised by [[Richard Stallman]], the layout may be influenced by his background of writing [[Lisp programming language|Lisp]] code.&lt;ref name=&quot;gnu.org&quot;&gt;{{Cite web|url=http://www.gnu.org/gnu/rms-lisp.html|title=My Lisp Experiences and the Development of GNU Emacs (Transcript of Richard Stallman's Speech, 28 Oct 2002, at the International Lisp Conference)}}&lt;/ref&gt; In Lisp the equivalent to a block (a progn) is a first class data entity and giving it its own indent level helps to emphasize that, whereas in C a block is just syntax.  Although not directly related to indentation, GNU coding style also includes a space before the bracketed list of arguments to a function.
+
+&lt;source lang=c&gt;
+static char *
+concat (char *s1, char *s2)
+{
+  while (x == y)
+    {
+      something ();
+      somethingelse ();
+    }
+  finalthing ();
+}
+&lt;/source&gt;&lt;ref name=&quot;gnu.org&quot;/&gt;
+
+This style combines the advantages of [[#Allman style|Allman]] and Whitesmiths, thereby removing the possible Whitesmiths disadvantage of braces not standing out from the block. One disadvantage is that the ending brace no longer lines up with the statement it conceptually belongs to.
+
+The [[GNU Coding Standards]] recommend this style and nearly all maintainers of [[GNU project]] software use it.
+
+The [[GNU Emacs]] text editor and the GNU systems' [[indent (Unix)|indent]] command will reformat code according to this style by default. Those who do not use GNU Emacs, or similarly extensible/customisable editors, may find that the automatic indenting settings of their editor are unhelpful for this style.  However, many editors defaulting to KNF style cope well with the GNU style when the tab width is set to 2 spaces; likewise, GNU Emacs adapts well to KNF style just by setting the tab width to 8 spaces.  In both cases, automatic reformatting will destroy the original spacing, but automatic line indentation will work correctly.
+
+==Horstmann style==
+The 1997 edition of ''Computing Concepts with C++ Essentials'' by Cay S. Horstmann adapts [[#Allman style|Allman]] by placing the first statement of a block on the same line as the opening brace.
+
+&lt;source lang=c&gt;
+while (x == y)
+{   something();
+    somethingelse();
+    //...
+    if (x &lt; 0)
+    {   printf(&quot;Negative&quot;);
+        negative(x);
+    }
+    else
+    {   printf(&quot;Non-negative&quot;);
+        nonnegative(x);
+    }
+}
+finalthing();
+&lt;/source&gt;
+
+This style combines the advantages of [[#Allman style|Allman]] by keeping the vertical alignment of the braces for readability and easy identification of blocks, with the saving of a line of the K&amp;R style. However the 2003 edition now uses Allman style throughout. [http://www.horstmann.com/bigcpp/styleguide.html]
+
+==Pico style==
+The style used most commonly in the [[Pico programming language]] by its designers is different from the aforementioned styles. The lack of return statements and the fact that semicolons are used in Pico as statement separators, instead of terminators, leads to the following syntax:
+
+&lt;!--no geshi support for pico--&gt;
+&lt;pre&gt;
+stuff(n):
+{ x: 3 * n;
+  y: doStuff(x);
+  y + x }
+&lt;/pre&gt;
+
+The advantages and disadvantages are similar to those of saving screen real estate with K&amp;R style.  One additional advantage is that the beginning and closing braces are consistent in application (both share space with a line of code), as opposed to K&amp;R style where one brace shares space with a line of code and one brace has a line to itself.
+
+==Banner style==
+The banner style can make visual scanning easier for some, since the &quot;headers&quot; of any block are the only thing extented at that level (the theory being that the closing control of the previous block interferes with the header of the next block in the K&amp;R and Allman styles).  In this style, which is to Whitesmiths as K&amp;R is to Allman, the closing control is indented as the last item in the list (and thus appropriately loses salience).
+
+&lt;source lang=c&gt;
+function1 () {
+  do stuff
+  do more stuff
+  }
+
+function2 () {
+  etc
+  }
+&lt;/source&gt;
+
+or, in a markup language...
+
+&lt;source lang=html4strict&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt; lots of stuff...
+      more stuff
+      &lt;/td&gt;
+    &lt;td&gt; alternative for short lines &lt;/td&gt;
+    &lt;td&gt; etc. &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tr&gt; ... etc
+  &lt;/table&gt;
+&lt;/source&gt;
+
+==Lisp style==
+
+A programmer may even go as far as to insert closing brackets in the last line of a block. This style makes indentation the only way of distinguishing blocks of code, but has the advantage of containing no uninformative lines. This could easily be called the Lisp style (because this style is very common in Lisp code) or the Python style (Python has no brackets, but the layout looks very similar, as evidenced by the following two code blocks).
+
+&lt;source lang=c&gt;
+ // In C
+ for (i = 0; i &lt; 10; i++) {
+     if (i % 2 == 0) {
+         doSomething (i); }
+     else {
+         doSomethingElse (i); } }
+&lt;/source&gt;
+
+&amp;nbsp;
+&lt;source lang=python&gt;
+ # In Python
+ for i in range(10):
+     if i % 2 == 0:
+         doSomething(i)
+     else:
+         doSomethingElse(i)
+&lt;/source&gt;
+
+&amp;nbsp;
+&lt;source lang=lisp&gt;
+ ;; In Lisp
+ (dotimes (i 10)
+   (if (evenp i)
+       (do-something i)
+       (do-something-else i)))
+&lt;/source&gt;
+
+==Ratliff style==
+
+In the book, &quot;Programmers at Work&quot;&lt;ref name=lammers&gt;{{cite book|last=Lammers|first=Susan|title=Programmers at Work|year=1986|publisher=Microsoft Press|isbn=0-914845-71-3}}&lt;/ref&gt;, C. Wayne Ratliff discussed using the style below. The style begins much like 1TBS but then the closing brace lines up with the indentation of the nested block.   Ratliff was the original programmer behind the popular dBase-II and dBase-III fourth-generation languages.  He indicated that it was originally documented in material from [[Digital Research|Digital Research Inc]].
+
+&lt;source lang=c&gt;
+ // In C
+ for (i = 0; i &lt; 10; i++) {
+     if (i % 2 == 0) {
+         doSomething(i);
+         }
+     else {
+         doSomethingElse(i);
+         }
+     }
+&lt;/source&gt;
+
+==Compact control readability style==
+
+This style makes it easy to skim the left edge of the code for control statements (whereas styles like 1TBS make statements such as &quot;else&quot; harder to see because they are after an end bracket on the same line). However it keeps the code more compact than styles like the Allman style, by putting opening brackets at the end of lines (as opposed to on their own lines).
+
+&lt;source lang=javascript &gt;
+// In JavaScript
+if (x == y) {
+    doSomethingA();
+    doSomethingB();
+}
+else {
+    doSomethingC();
+    doSomethingD();
+}
+&lt;/source&gt;
+
+==Other considerations==
+===Losing track of blocks===
+In certain situations, there is a risk of losing track of block boundaries. This is often seen in large sections of code containing many compound statements nested to many levels of indentation - by the time the programmer scrolls to the bottom of a huge set of nested statements, he may have lost track of which control statements go where.
+
+Programmers who rely on counting the opening braces may have difficulty with indentation styles such as K&amp;R, where the beginning brace is not visually separated from its [[Control flow|control statement]]. Programmers who rely more on indentation will gain more from styles that are vertically compact, such as K&amp;R, because the blocks are shorter.
+
+To avoid losing track of control statements such as [[for loop|for]], one can use a large indent, such as an 8-unit wide hard tab, along with breaking up large functions into smaller and more readable functions. Linux is done this way, as well as using the K&amp;R style.
+
+In [[Unix]]- or [[Linux]]-style systems, where [[vi]] or [[vim]] are often the default [[text editor]]s, one method for tracking block boundaries is to position the text cursor over one of the braces, and pressing the '%' key. Vi or vim will then bounce the cursor to the opposing brace. Since the text cursor's 'next' key (viz., the 'n' key) retained directional positioning information (whether the 'up' or 'down' key was previously pressed), the [[Macro_(computer_science)#Keyboard_and_mouse_macros|dot macro]] (the '.' key) could then be used to place the text cursor on the next brace,&lt;ref&gt;Linda Lamb, ''Learning the vi editor''. O'Reilly&lt;/ref&gt;  given an appropriate coding style. Alternatively, inspection of the block boundaries using the '%' key can be used to enforce a coding standard.
+
+Another way is to use inline comments added after the closing brace:
+
+&lt;source lang=c&gt;
+for (int i = 0; i &lt; total; i++) {
+    foo(bar);
+} //for (i)
+&lt;/source&gt;
+
+&amp;nbsp;
+&lt;source lang=c&gt;
+if (x &lt; 0) {
+   bar(foo);
+} //if (x &lt; 0)
+&lt;/source&gt;
+
+However, maintaining duplicate code in multiple locations is the major disadvantage of this method.
+
+Another solution is implemented in a [[folding editor]], which lets the developer hide or reveal blocks of code by their indentation level or by their compound statement structure. Many editors will also highlight matching brackets or braces when the caret is positioned next to one.
+
+===Statement insertion===
+K&amp;R style prevents another common error suffered when using the standard [[UNIX]] line editor, [[Ed_(text_editor)|ed]].  A statement mistakenly inserted between the control statement and the opening brace of the loop block turns the body of the loop into a single trip.
+
+&lt;source lang=c&gt;
+for (int i = 0; i &lt; total; i++)
+    whoops(bar);   /* repeated total times, with i from 0 to (total-1) */
+{
+    only_once();   /* Programmer intended this to be done total times */
+} //for (i) &lt;-- This comment is no longer valid, and is very misleading!
+&lt;/source&gt;
+
+K&amp;R style avoids this problem by keeping the control statement and the opening brace on the same line.
+
+==See also==
+* [[Secondary notation]]
+* [[Syntax highlighting]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+&lt;!-- Tips for referencing:
+
+For websites, use the formatting below (date/year are when you accessed the web page):
+{{Web reference | title=Title of page | work=Title of Complete Work | url=http://www.example.com | date=Month Day | year=Year}}
+
+For Books, use:
+{{Book reference | Author=Lincoln, Abraham; Grant, U. S.; &amp; Davis, Jefferson | Title=Resolving Family Differences Peacefully | Publisher=Gettysburg: Printing Press | Year=1861 | Editor=Stephen A. Douglas | ID=ISBN 0-12-345678-9}}
+
+For other sources, see: [[WP:CITET]]
+--&gt;
+* [http://syque.com/cstyle/index.htm ''C Style: Standards and Guidelines: Defining Programming Standards for Professional C Programmers''], Prentice Hall, ISBN 0-13-116898-3 / ISBN 978-0-13-116898-5  (complete text is also on-line). [[David Straker|Straker, David]] (1992).
+* [http://milan.adamovsky.com/2010/08/contextual-indent.html Contextual Indent]
+* [http://www.gnu.org/prep/standards/standards.html GNU Coding Standards]
+* [http://www.catb.org/jargon/html/I/indent-style.html Jargon File article on indent style]
+*{{dmoz|/Computers/Programming/Development_Tools/Source_Code_Formatters/|Source Code Formatters}}
+
+{{DEFAULTSORT:Indent Style}}
+[[Category:Software wars]]
+[[Category:Text editor features]]
+[[Category:Source code]]
+
+[[ar:أسلوب إزاحة]]
+[[de:Einrückungsstil]]
+[[es:Indentación]]
+[[fr:Style d'indentation]]
+[[ja:字下げスタイル]]
+[[pt:Indentação]]
+[[ru:Отступ (программирование)]]
+[[ta:உள்தள் பாணி]]</text>
+      <sha1>50hrlmnys0nwlevvt0kku89roo4oo46</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

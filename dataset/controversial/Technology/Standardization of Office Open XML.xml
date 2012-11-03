@@ -1,0 +1,546 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Standardization of Office Open XML</title>
+    <ns>0</ns>
+    <id>16146360</id>
+    <revision>
+      <id>517581030</id>
+      <parentid>507674505</parentid>
+      <timestamp>2012-10-13T14:52:17Z</timestamp>
+      <contributor>
+        <username>Magioladitis</username>
+        <id>1862829</id>
+      </contributor>
+      <minor/>
+      <comment>clean up using [[Project:AWB|AWB]] (8459)</comment>
+      <text xml:space="preserve" bytes="56604">{{distinguish|OpenOffice.org XML}}
+{{mergefrom|Office Open XML Intermediate 5 Month Ballot Results|discuss=Talk:Standardization_of_Office_Open_XML#Merge from article &quot;Office Open XML Ballot Results&quot;|date=January 2011}}
+{{Office Open XML}}
+The [[Office Open XML]] file formats were standardised between December 2006 and November 2008, first by the [[Ecma International]] consortium (where they became '''ECMA-376'''), and subsequently, after a contentious standardization process, by the [[International Organization for Standardization|ISO]]/[[International Electrotechnical Commission|IEC]]'s [[ISO/IEC|Joint Technical Committee 1]] (where they became '''ISO/IEC 29500:2008''').
+
+== Standardization within Ecma International ==
+
+More than a year after being asked by the [[European Union]] to standardize their [[Microsoft Office XML formats|Office 2003 XML formats]],&lt;ref&gt;{{cite web  
+| url=http://ec.europa.eu/idabc/en/document/2592/5588   
+| title=TAC approval on conclusions and recommendations on open document formats    
+| author=Telematics between Administrations Committee based on IDA expert group on open document formats   
+| publisher=IDABC - European eGovernment Services   
+| date=2004-05-25   
+| accessdate=2007-07-30}}&lt;/ref&gt; Microsoft submitted 2,000 pages of documentation for a new file format to the [[Ecma International]] consortium for it to be made into an [[open standard]].&lt;ref&gt;{{cite web
+| url=ec.europa.eu/idabc/servlets/Doc?id=27856
+| title=Presentation to IDABC ODEF Workshop 2007 - Berlin 
+| year=2007
+| publisher=Jean Paoli (Co-Chair Ecma TC45 &amp; General Manager, Interoperability and XML Architecture, Microsoft Corporation)
+| accessdate=2009-06-05}}&lt;/ref&gt; Ecma formed a technical committee (TC45) in order to produce and maintain a &quot;formal standard for office productivity applications that is fully compatible with the Office Open XML Formats, submitted by Microsoft”.&lt;ref name=&quot;tc45_press&quot;&gt;{{cite web
+| title=The new open standard safeguards the continued use of billions of existing documents 
+| url=http://www.ecma-international.org/news/PressReleases/PR_TC45_Dez2005.htm 
+| publisher=Ecma International 
+| accessdate=2007-01-28
+}}&lt;/ref&gt; The technical committee was chaired by two Microsoft employees&lt;ref name=&quot;tc45_main&quot;&gt;{{cite web
+| title= TC45 - Office Open XML Formats
+| url=http://www.ecma-international.org/memento/TC45.htm 
+| publisher=Ecma International 
+| accessdate=2007-02-08
+}}&lt;/ref&gt; and included members drawn from [[Apple Inc.|Apple]], [[Canon Inc.|Canon]], [[Intel]], NextPage, [[Novell]], [[Pioneer Corporation|Pioneer]], [[Statoil|Statoil ASA]], [[Toshiba]], [[Library of Congress|The United States Library of Congress]], [[British Library|The British Library]] and the [[Gnome Foundation]].&lt;ref&gt;{{cite web
+| url=http://www.ecma-international.org/memento/TC45-M.htm
+| title=TC45 - Office Open XML Formats
+| publisher=Ecma International
+| accessdate=2007-10-31}}&lt;/ref&gt;
+
+During standardisation within Ecma the specification grew to approximately 6,000 pages. It was approved as an Ecma standard (ECMA-376) on December 7, 2006.&lt;ref name=&quot;pr_tc45_dec2006&quot;&gt;{{cite press release
+| url=http://www.ecma-international.org/news/PressReleases/PR_TC45_Dec2006.htm
+| title=Ecma International approves Office Open XML standard
+| date=December 7, 2006
+| accessdate=2006-12-08
+| publisher=[[Ecma International]]
+}}&lt;/ref&gt; This standard (now referred to as the &quot;1st edition&quot; of ECMA-376) can be downloaded from them free of charge.&lt;ref&gt;[http://www.ecma-international.org/publications/standards/Ecma-376.htm Standard ECMA-376]&lt;/ref&gt;
+
+== International standardization ==
+Using their entitlement as an [[JTC1|ISO/IEC JTC 1]] external Category A liaison, Ecma International submitted ECMA-376 to the JTC 1 fast track standardization process. To meet the requirements of this process,&lt;ref name=&quot;jtc1-directives&quot;&gt;{{cite web
+| title=ISO/IEC JTC 1 Directives, 5th Edition, Version 2.0 
+| url=http://www.jtc1sc34.org/repository/0725c.htm  
+| publisher=iso 
+| accessdate=2007-01-28
+|archiveurl = http://web.archive.org/web/20061001181119/http://www.jtc1sc34.org/repository/0725c.htm &lt;!-- Bot retrieved archive --&gt; |archivedate = 2006-10-01}}&lt;/ref&gt;
+they submitted the documents ''&quot;Explanatory report on Office Open XML Standard (Ecma-376) submitted to JTC 1 for fast-track&quot;''&lt;ref name = &quot;JTC report&quot;&gt;[http://www.jtc1sc34.org/repository/0809c.htm Explanatory report on Office Open XML Standard (Ecma-376) submitted to JTC 1 for fast-track]&lt;/ref&gt; and &quot;Licensing conditions that Microsoft offers for Office Open XML&quot;.&lt;ref name = &quot;JTC licensing&quot;&gt;[http://www.jtc1sc34.org/repository/0810c.htm Licensing conditions that Microsoft offers for Office Open XML]&lt;/ref&gt; ISO and IEC classified the specification as DIS 29500 (Draft International Standard 29500) ''Information technology – Office Open XML file formats''.&lt;ref&gt;[http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=45515 ISO/IEC DIS 29500], Information technology – Office Open XML file formats&lt;/ref&gt;
+
+The fast track process consists of a contradictions phase, a ballot phase, and a ballot resolution phase.
+
+During the contradictions phase, ISO and IEC members submitted perceived contradictions to JTC 1. During the ballot phase the members voted on the specification as it was submitted by Ecma and submitted editorial and technical comments with their vote. In the ballot resolution phase the submitted comments were addressed and members invited to reconsider their vote.
+
+=== Interim ballot result ===
+In September 2007 eighty-seven [[ISO]] and [[International Electrotechnical Commission|IEC]] member countries had responded to the ballot.&lt;ref name=&quot;pr_ISO-refid-Ref1070&quot;&gt;{{cite press release
+| url=http://www.iso.org/iso/pressrelease.htm?refid=Ref1070
+| title= Vote closes on draft ISO/IEC DIS 29500 standard
+| date=September 4, 2007
+| accessdate=2007-09-04
+| publisher=[[International Organization for Standardization]]
+}}&lt;/ref&gt; There were 51 votes of &quot;approval&quot;, 18 votes of &quot;disapproval&quot; and 18 abstentions. &quot;P-members&quot;, who were required to vote, had to approve by 66.67% for the text to be approved. The P-members voted 17 in favour out of 32, below the required threshold for approval. Also, no more than 25% of the total member votes may be negative for the text to be approved, and this requirement was also not met since 26% of the total votes were negative. The standardization process then entered its ballot resolution phase, described below.
+
+=== Response to ballot comments ===
+
+Ecma produced a draft &quot;Disposition of Comments&quot; document that addresses the 1,027 distinct &quot;NB comments&quot; (that is, comments by national bodies) that had been submitted in the letter ballot phase. This document comprised 1,600 pages of commentary and proposed changes. The ISO and IEC members had 6 weeks to review this draft, and had an opportunity to participate in several informal conference call sessions with the Ecma TC45 to discuss it before the BRM.&lt;ref&gt;{{cite web 
+| url=http://www.ecma-international.org/news/TC45_current_work/Proposed%20dispositions%20for%20National%20Body%20comments%20on%20DIS%2029500%20complete.htm
+| title=Proposed dispositions for National Body comments on DIS 29500 complete – New phase to begin
+| author=Tom Ngo
+| publisher=Ecma International
+| date=2008-01-14
+| accessdate=2008-01-14}}&lt;/ref&gt;
+
+=== Ballot resolution process ===
+
+A Ballot Resolution Meeting (BRM) is an integral part of the ballot resolution phase. The outcome of, and period following, this meeting decided whether DIS 29500 succeeded or failed in its bid to become an International Standard. The DIS 29500 BRM took place in late February 2008.
+
+At the BRM, 873 proposed changes to the specification were submitted by Ecma (of their 1,027 responses, 154 proposed no change). Of these only 20% were discussed and modified in meeting sessions, given the 5 day time limit of the meeting. The remaining 80% were not discussed and were subject to a voting mechanism approved by the meeting (see Resolution 37 of the meeting resolutions cited below). Using this voting mechanism NBs could approve, disapprove or abstain on each and every one of these proposed changes. This allowed a set of approved changes to be decided upon without discussion.&lt;ref&gt;{{cite web
+| url=http://www.itscj.ipsj.or.jp/sc34/open/0989.pdf  
+|format=PDF| title=Resolutions of the ISO/IEC DIS 29500 Ballot Resolution Meeting  
+| author=SC 34}}&lt;/ref&gt;&lt;ref name=&quot;iso&quot;&gt;{{cite web
+| url=http://www.iso.org/iso/pressrelease.htm?refid=Ref1117
+| title=Ballot resolution meeting addresses comments on draft ISO/IEC 29500 standard 
+| publisher= ISO News and Media
+| date=2008-03-05 }}&lt;/ref&gt;
+
+With the original submitted draft used as the base, all the agreed-upon changes were applied by the Project Editor to create a new set of documents incorporating the changes agreed during the BRM. In parallel with this, NBs had 30 days after the BRM in which to decide whether to amend their votes of September 2, 2007.
+
+===Ballot result===
+
+A number of JTC 1 members took the opportunity to amend their votes, predominantly in favour of approval of DIS 29500. Thus, on April 2, 2008, ISO and IEC officially stated that the DIS 29500 had been approved for acceptance as an ISO/IEC Standard, pending any appeals. They stated that &quot;75% of the JTC 1 participating member votes cast positive and 14% of the total of national member body votes cast negative&quot;&lt;ref&gt;{{cite web
+| url=http://www.iso.org/iso/pressrelease.htm?refid=Ref1123
+| title=ISO/IEC DIS 29500 receives necessary votes for approval as an International Standard
+| date=2008-04-02
+| accessdate=2009-06-07
+| publisher=ISO
+| author=ISO/IEC}}&lt;/ref&gt;  In accordance with the JTC 1 directives the Project Editor had created a new version of the final text within a month of the BRM. After review, corrections and the resolution of appeals, this text was distributed to the members of SC34.&lt;ref&gt;[http://idippedut.dk/post/2008/09/26/IS-29500-has-been-sent-to-ITTF-for-publication.aspx IS 29500 has been sent to ITTF for publication] (Jesper Lund Stocholm, personal blog - &amp;ldquo;This will finally make it possible for the NBs of ISO to verify that the editorial instructions from the BRM has made it into the final text&amp;rdquo;)&lt;/ref&gt;
+
+===Appeals===
+
+Four JTC 1 members appealed the standardisation: the bodies of South Africa,&lt;ref name=&quot;SouthAfricaProtest&quot;&gt;{{cite web 
+| url=http://www.tectonic.co.za/?p=2444
+| title=South Africa appeals against ISO's OOXML decision
+| last=Otter 
+| first=Alastair
+| date=2008-05-23
+| publisher=Tectonic}}&lt;/ref&gt;&lt;ref&gt;{{cite web 
+| url = http://topicmaps.files.wordpress.com/2008/05/dis-29500-appeal-letter-iec-2008-05-22.pdf
+| title = Appeal from the South African national body regarding the outcome of the fast-track processing of DIS 29500 Office open XML
+| publisher = SABS ([[South African Bureau of Standards]])
+| date = 2008-05-22
+| accessdate = 2008-05-24|format=PDF}}&lt;/ref&gt; Brazil, India&lt;ref name=&quot;IndiaProtest&quot;&gt;{{cite web 
+| url=http://www.pcworld.com/businesscenter/article/146468/india_and_brazil_file_appeals_against_ooxml_standardization.html
+| title=India and Brazil File Appeals Against OOXML Standardization
+| last=Sayer 
+| first=Peter
+| date=2008-05-30
+| work=PC World}}&lt;/ref&gt; and [[Venezuela]].&lt;ref name=&quot;VenezuelaProtest&quot;&gt;{{cite web
+| url=http://news.zdnet.co.uk/software/0,1000000121,39427754,00.htm
+| title=Venezuela and India appeal OOXML ratification
+| last=Espiner
+| first=Tom
+| date=2008-06-02
+| publisher=ZDNet.co.uk}}&lt;/ref&gt;
+Since the appeals system is designed to find a solution by consensus, it was unlikely that the process would have resulted in ISO/IEC abandoning progress of DIS 29500.&lt;ref name=&quot;VenezuelaProtest&quot; /&gt; The CEOs of ISO and IEC advised the management board that these appeals should no longer be processed any further: the Secretary General of ISO is reported as stating: &quot;[t]he processing of the ISO/IEC DIS 29500 project has been conducted in conformity with the ISO/IEC JTC 1 Directives, with decisions determined by the votes expressed by the relevant ISO and IEC national bodies under their own responsibility, and consequently, for the reasons mentioned above, the appeals should not be processed further&quot;.&lt;ref name=&quot;ISOleadership&quot;&gt;{{cite web
+| url=http://arstechnica.com/news.ars/post/20080710-iso-leadership-encourages-rejection-of-ooxml-appeal.html
+| title=ISO leadership encourages rejection of OOXML appeal
+| last=Paul
+| first=Ryan
+| date=2008-07-10
+| accessdate=2008-07-10
+| publisher=Ars Technica
+}}&lt;/ref&gt;
+
+The main issue in the appeals was the BRM procedures{{Citation needed|date=June 2009}}. The 3 appealing countries did not appeal during the BRM and even all voted approval on the resolution that allowed for voting on each of the resolutions that had not been discussed in the plenary meeting through means of a form.&lt;ref&gt;http://www.itscj.ipsj.or.jp/sc34/open/0989.pdf&lt;/ref&gt; The three countries appealing used that form vote for a disapproval vote of most of the responses (in total only 4 countries did that) but failed to have a significant number of responses disapproved{{Citation needed|date=June 2009}}.
+
+The appeals did not get sufficient support of the National Bodies voting on the ISO and IEC management boards, and consequently the go-ahead was given to publish ISO/IEC DIS 29500, Information technology – Office Open XML formats, as an ISO/IEC International Standard.&lt;ref&gt;{{cite web
+| url=http://www.iso.org/iso/pressrelease.htm?refid=Ref1151
+| title=ISO and IEC members give go ahead on ISO/IEC DIS 29500
+| publisher=ISO
+| date=2008-08-15}}&lt;/ref&gt;
+
+===Publication===
+
+The International Standard ISO/IEC 29500:2008 was published in November 2008.&lt;ref&gt;http://electronics.ihs.com/news/2008/iso-iec-29500-112808.htm&lt;/ref&gt;
+
+=== Maintenance regime ===
+
+Following the standardization of ISO/IEC 29500, [[ISO/IEC JTC1/SC34]], as the designated maintenance group for the standard, established two ad hoc groups for deciding how the Standard would be maintained:&lt;ref&gt;{{cite web
+| url=http://www.itscj.ipsj.or.jp/sc34/open/1025.htm
+| title=Resolutions of SC 34 Plenary Meeting, 2008-04-05/09, Oslo, Norway
+| date=2008-04-09
+| publisher=ISO/IEC JTC 1 SC34 Secretariat}}&lt;/ref&gt; a group to collect comments on the newly approved standard, and a group to decide what structures should be used for long-term maintenance. The resulting recommendation&lt;ref&gt;{{cite web
+| url=http://www.itscj.ipsj.or.jp/sc34/open/1055.htm
+| date=2008-07-23
+| publisher=ISO/IEC JTC 1 SC34 Secretariat
+| title=Edited Notes, Acclamations and Attendance List of a Meeting of ISO/IEC JTC 1 SC 34 Ad Hoc Group 1 held in London, UK, 2008-07-21/22}}&lt;/ref&gt; was that [[ISO/IEC JTC1/SC34]] should assume full control of the maintenance work on ISO/IEC 29500. This decision was duly ratified&lt;ref&gt;{{cite web
+| url=http://www.itscj.ipsj.or.jp/sc34/open/1099.htm
+| date=2008-10-02
+| publisher=ISO/IEC JTC 1 SC34 Secretariat
+| title=Resolutions of ISO/IEC JTC 1/SC 34 Plenary Meeting, 2008-10-01, Jeju, Republic of Korea}}&lt;/ref&gt; at SC 34's September 2008 meeting on [[Jeju do|Jeju Island, Korea]]. Ecma were invited as a liaison to provide individual experts to contribute to the maintenance activity. This decision superseded an earlier proposal from Ecma, in which Ecma itself proposed it was responsible for maintenance.&lt;ref&gt;http://www.jtc1sc34.org/repository/0885.pdf&lt;/ref&gt;
+
+On May 21, 2008, Microsoft announced that it would be &quot;an active participant in the future evolution of [[ODF]], [[Open XML]], [[Open XML Paper Specification|XPS]] and [[PDF]] standards”.&lt;ref name=&quot;SupportedFormats&quot;&gt;{{cite web|url=http://www.microsoft.com/Presspass/press/2008/may08/05-21ExpandedFormatsPR.mspx |title=Microsoft Expands List of Formats Supported in Microsoft Office |publisher=Microsoft.com |date=2008-05-21 |accessdate=2009-05-19}}&lt;/ref&gt;
+
+ISO/IEC 29500 is maintained within Working Group 4 (&quot;WG 4”) of [[ISO/IEC JTC1/SC34]] under the convenorship of [[Murata Makoto|MURATA Makoto]] of Japan. 
+
+Under this maintenance regime the JTC 1 Directives apply, and these stipulate that:
+
+* Proposals to amend the text, and acceptance of any such amendments, are subject to normal JTC 1 voting processes (JTC 1 Directives&lt;ref name='jtc1-directives'/&gt; clause 15.5)
+* The standard cannot be &quot;stabilised” (no longer subject to periodic maintenance) except through approval in a JTC 1 ballot (JTC 1 Directives,&lt;ref name='jtc1-directives'/&gt; clause 15.6.2).
+* For the standard to be stabilised it must have passed through one review cycle (JTC 1 Directives,&lt;ref name='jtc1-directives'/&gt; clause 15.6.1). In this review cycle, the text would have to have been re-written to comply with ISO's formatting and verbal requirements (JTC 1 Directives,&lt;ref name='jtc1-directives'/&gt; clause 13.4).
+
+WG 4 has a web site and open document register.&lt;ref&gt;{{cite web
+ |url=http://www.itscj.ipsj.or.jp/sc34/wg4/
+ |date=2009-06-03
+ |publisher=ISO/IEC JTC 1/SC 34 Secretariat
+ |title=JTC 1/SC 34/WG4 - Office Open XML}}&lt;/ref&gt; Defect logs and statistics from WG 4 are available online.&lt;ref&gt;{{cite web
+ |url=http://www.itscj.ipsj.or.jp/sc34/wg4/statistics/DefectReportsOn29500.html
+ |title=Defect Reports on ISO/IEC 29500 (OOXML)
+ |publisher=ISO/IEC JTC 1/SC 34 Secretariat
+}}&lt;/ref&gt;
+
+At the WG4 meeting in Copenhagen, June 22–24, 2009, there were 16 people listed as present; 5 of these were employed by Microsoft, 4 by universities.&lt;ref&gt;{{cite web |url=http://www.itscj.ipsj.or.jp/sc34/wg4/archive/sc34-wg4-2009-0066.pdf |title=Minutes of the Copenhagen Meeting of ISO/IEC JTC 1/SC 34/WG4, 2009-06-22/24 |date=2009-06-30 |accessdate=2009-09-29}}&lt;/ref&gt;
+
+==Reactions to standardization==
+
+=== Complaints about the national bodies process ===
+[[Image:Demonstration against OOXML Oslo Norway 02.jpg|thumb|Protest against OOXML ISO standardization in [[Oslo]], Norway.]]
+[[Image:Candles for freedom.jpg|thumb|Office Open XML ISO standardization protest.]]
+There have been allegations that the ISO ballot process for Office Open XML was marred with voting irregularities and heavy-handed tactics by some stakeholders.&lt;ref name=&quot;ACCI_Memberlist&quot;&gt;{{cite news |first=Kelly |last=Fiveash 
+|title=OOXML approved as international standard? |url=http://www.channelregister.co.uk/2008/03/31/iso_ooxml_votes_approve/ |work=[[The Register]] 
+|date=2008-03-31 
+|accessdate=2008-04-01 }}&lt;/ref&gt;&lt;ref&gt;{{cite news 
+|url=http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9033701&amp;source=rss_news6 
+|first=Lai|last=Eric
+|title=Microsoft admits Swedish employee promised incentives for Open XML support
+|publisher=computerworld.com 
+|accessdate=2008-04-06 }}&lt;/ref&gt;&lt;ref&gt;[http://news.zdnet.co.uk/software/0,1000000121,39288959,00.htm Microsoft accused of rigging OOXML votes - ZDNet.co.uk]&lt;/ref&gt;
+* An ''[[Ars Technica]]'' article sources [[Groklaw]] stating that at Portugal's national body TC meeting, &quot;representatives from [[Microsoft]] attempted to argue that [[Sun Microsystems]], the creators and supporters of the competing [[OpenDocument]] format (ODF), could not be given a seat at the conference table because there was a lack of chairs.&quot;&lt;ref&gt;{{cite web
+| url=http://arstechnica.com/news.ars/post/20070726-office-open-xml-iso-certification-process-grows-even-murkier-for-microsoft.html?rel
+| title=Office Open XML ISO certification process grows even murkier for Microsoft
+| publisher=Ars Technica
+| date=July 26, 2007}}&lt;/ref&gt;
+* In Sweden, Microsoft notified the [[Swedish Standards Institute]] (SIS) that an employee sent a memo to two of its partners, requesting them to join the SIS committee and vote in favor of Office Open XML in return for &quot;marketing contributions&quot;.&lt;ref&gt;{{cite web
+|url=http://www.idg.se/2.1085/1.118337
+|title=Microsoft pressed partners in Sweden to vote for OOXML}}&lt;/ref&gt; Jason Matusow, a Director in the Corporate Standards Strategy Team at Microsoft, stated that the memo was the action of an individual employee acting outside company policy, and that the memo was retracted as soon as it was discovered.{{Citation needed|date=December 2009}}&lt;!-- old broken link: http://www.heise.de/english/newsticker/news/95270/ heise online - Swedish Standards Institute declares Open XML vote void --&gt; SIS have since changed its voting procedure so that a member has to actually participate before he is allowed to vote.&lt;ref&gt;[http://www.idg.se/2.1085/1.160154 IDG: Sis ändrar reglerna efter formatstriden]&lt;/ref&gt;
+* Sweden invalidated its vote (80% was for approval) as one company cast more than one vote, which is against SIS policy.&lt;ref&gt;[http://www.infoworld.com/article/07/08/31/Sweden-OOXML-vote-invalid_1.html Sweden's OOXML vote declared invalid | InfoWorld | News | 2007-08-31 | By Martin Wallström]&lt;/ref&gt;
+* Finnish IT journalists described that meeting as raising strong differences in opinions.&lt;ref&gt;http://www.tietokone.fi/uutta/uutinen.asp?news_id=31076&lt;/ref&gt;&lt;ref&gt;http://blogit.tietokone.fi/tietojakoneesta/2007/08/sahakka-microsoft-standardikiista/&lt;/ref&gt;
+* In Switzerland, SNV registered a vote of &quot;approval with comments,&quot; and there was some criticism about a &quot;conflict of interest&quot; regarding the chairman of the UK 14 sub-committee, who did not allow discussion of licensing, economic and political arguments.&lt;ref&gt;[http://siug.ch/ms-ooxml/fsfe-letter.pdf FSFE formal objection to the UK14 meeting]. Free Software Foundation Europe. 2007-08-13.&lt;/ref&gt;&lt;ref&gt;[http://siug.ch/ms-ooxml/appeal Appeal to the decision] by Swiss Internet User Group. August 14, 2007.&lt;/ref&gt; In addition, the chairman of the relevant SNV parent committee is also the secretary general of [[Ecma International]]{{Citation needed|date=June 2009}}, which approved OOXML as a standard. Further complaints regarded &quot;committee stuffing&quot;, which is however allowed by present SNV rules, and non-adherence to SNV rules by the UK 14 chairman, which resulted in a re-vote with the same result.{{Citation needed|date=June 2009}}
+* Australia's national standards body, [[Standards Australia]], was criticized for its handling of the OOXML process by the [[New Zealand Open Source Society]],&lt;ref&gt;{{cite news|url=http://computerworld.co.nz/news.nsf/news/16C7B66F72705F19CC2573F60010F2B4|title=NZOSS president weighs in on Aussie standards battle|first=Rodney|last=Gedda|date=February 21, 2008}}&lt;/ref&gt; the open source advisory firm Waugh Partners, [[Australian National University]] Professor Roger Clarke{{Citation needed|date=June 2009}}, OASIS lawyer Andrew Updegrove{{Citation needed|date=June 2009}}, IBM{{Citation needed|date=June 2009}} and Google{{Citation needed|date=June 2009}}. Standards Australia sent ISO SC 34 expert and XML and Schematron specialist [[Rick Jelliffe]] to the BRM, despite critics&lt;ref name=&quot;Trouble_down_under&quot;&gt;{{cite web
+|url=http://www.sutor.com/newsite/blog-open/?p=2064
+|title= Trouble down under on Australia's OOXML delegation}}&lt;/ref&gt; alleging that Jelliffe would not represent the views of those opposing the standardization. Jelliffe had previously been in the news after being offered payment by Microsoft to improve incorrect Wikipedia articles about Office Open XML.&lt;ref&gt;{{cite web
+|url=http://www.oreillynet.com/xml/blog/2007/01/an_interesting_offer.html
+|title=An interesting offer}}&lt;/ref&gt; Microsoft had bought a schema conversion tool from his company and he had performed the initial conversion of the Office Open XML schemas from XML Schemas to RELAX NG{{Citation needed|date=June 2009}}, both schema languages he had been involved in standardizing. It was alleged that Standards Australia had broken a previous public pledge to send two internal employees to the BRM.&lt;ref name=&quot;Computerworld_delegation&quot;&gt;{{cite news |first=Rodney |last=Gedda |title=Microsoft developer joins Aussie OOXML standards delegation |url=http://www.computerworld.com.au/index.php/id;445400562;fp;16;fpid;1 |publisher=[[Computerworld]] |location=Australia |date=2008-02-20 |accessdate=2008-03-31 }}&lt;/ref&gt;&lt;ref name=&quot;SMH_Bias&quot;&gt;{{cite news |first=Dylan |last=Bushell-Embling |title=Bias claim on big Office vote |url=http://www.smh.com.au/news/biztech/bias-claim-on-big-office-vote/2008/02/26/1203788290728.html |work=[[The Sydney Morning Herald]] |date=2008-02-26 |accessdate=2008-04-20 }}&lt;/ref&gt; However Standards Australia issued a press release denying this and stating that the Computerworld article was &quot;was riddled with inaccuracies and misrepresentations.”&lt;ref&gt;http://www.standards.org.au/downloads/080221_OOXML_BRM_Media_Release.pdf&lt;/ref&gt;
+* Norway's vote was decided by [[Standards Norway|Standard Norge]]; the mostly opposing viewpoints of the technical committee were ignored after members were unable to reach consensus. Membership in the technical committee had risen from 6–7 to 30 members; all of the pre-OOXML members argued in favour of a &quot;no&quot; vote.&lt;ref name=&quot;Open Letter to ISO by committee members&quot;&gt;{{cite web
+|url=http://people.opera.com/howcome/2008/ooxml/iso.html
+|title= Open letter to ISO
+| publisher=Members of the technical committee
+| date=April 7, 2008}}&lt;/ref&gt;&lt;ref name=&quot;Press release from Standard Norge&quot;&gt;{{cite web
+|url=http://www.standard.no/imaker.exe?id=18675
+|title= Orientation on Standards Norway’s handling of the vote on OOXML in ISO.
+| publisher=Standard Norge
+| date=April 4, 2008}}&lt;/ref&gt;&lt;ref name=&quot;OOXML Irregularities in Norway&quot;&gt;
+{{cite web
+|url=http://wiki.efn.no/2008-04_OOXML_irregularities_in_Norway
+|title= OOXML irregularities in Norway
+| publisher=Tobias Brox
+| date=April 6, 2008}}&lt;/ref&gt;&lt;ref name=&quot;Standards Norway’s handling of the vote on OOXML in ISO&quot;&gt;
+{{cite web
+| url=http://www.standard.no/pronorm-3/data/f/0/18/67/6_2401_0/2008-04-01_Standards_Norway_handling_of_the_OOXML_voting_in_ISO__3.pdf
+| format=PDF|title= Standards Norway’s handling of the vote on OOXML in ISO
+| publisher=Standard Norge
+| date=2008-04-02}}&lt;/ref&gt; In October 2008, 13 of the 23 members, 12 of which are associated with the open-source movement,&lt;ref&gt;{{cite web|url=http://broadcast.oreilly.com/2008/10/how-many-mavericks-does-it-tak.html|title=How many mavericks does it take to change a lyspære?}}&lt;/ref&gt; resigned&lt;ref&gt;{{cite web
+|url=http://arstechnica.com/news.ars/post/20081003-norwegian-standards-body-implodes-over-ooxml-controversy.html
+|title=Norwegian standards body implodes over OOXML controversy
+}}&lt;/ref&gt; after OOXML was ratified by ISO and all appeals were rejected.
+* The [[IDABC]] community programme (which is managed by the [[European Commission]]) runs the &quot;Open Source Observatory&quot; which is &quot;dedicated to Free/Libre/Open Source Software.&quot;&lt;ref&gt;[http://ec.europa.eu/idabc/en/chapter/452 IDABC - Open Source Observatory]&lt;/ref&gt;  Via its &quot;Open Source News&quot;, it has reported on reports which criticize the standardization process.
+** It states that the German IT news site Heise reports that in Germany, two opponents of Office Open XML, [[Deutsche Telekom]] and [[Google]], were not allowed to vote&lt;ref name=&quot;EU: Irregularities&quot;&gt;{{cite web
+|url=http://ec.europa.eu/idabc/en/document/7183/469
+|title= EU: Irregularities reported in OOXML ISO process
+| publisher=IDABC
+| date=August 28, 2007}}&lt;/ref&gt; because they tried to join the committee last-minute.&lt;ref&gt;[http://www.heise.de/newsticker/meldung/94766 heise online - Unstimmigkeiten bei DIN-Entscheid zu Microsofts OpenXML beklagt]&lt;/ref&gt; Open Source News says, &quot;Participants described the process as ludicrous.&quot;
+** It relays a report from Michiel Leenaars (director of the Internet Society Netherlands) that in the Netherlands, &quot;the chair of the national standardization committee deciding on OOXML, protested that the almost unanimous conditional approval was blocked by Microsoft.&quot;&lt;ref name=&quot;EU: Irregularities&quot;/&gt;
+** It reports on a report from Borys Musielak, a member of Poland's Linux community, who wrote on the PolishLinux website that Poland's technical committee KT 171 rejected Office Open XML.&lt;ref name=&quot;Poland vote&quot;&gt;{{cite web
+|url=http://ec.europa.eu/idabc/en/document/7181/531
+|title= PL: 'Poland likely to vote against OOXML'
+| publisher=IDABC
+| date=August 21, 2007}}&lt;/ref&gt; The vote was invalidated and assigned to KT 182.  A member of Poland's [[Linux]] community believes this was due to &quot;reorganisation in the Polish standardisation body.&quot;  KT 182 voted to approve Office Open XML.&lt;ref name=&quot;EU: No fast track approval for OOXML&quot;&gt;{{cite web 
+|url=http://ec.europa.eu/idabc/en/document/7197
+|title= EU: No fast track approval for OOXML
+| publisher=IDABC
+| date=September 6, 2007}}&lt;/ref&gt; 
+** It reports that in [[Andalusia|Andalucía]], the director of Andalucía's Department for Innovation complained that Microsoft submitted misinformation to [[AENOR|the Spanish National Body]] stating that it (Andalucía) supported the company's Office Open XML-proposal.&lt;ref name=&quot;Spanish misinformation&quot;&gt;{{cite web
+|url=http://ec.europa.eu/idabc/en/document/7169/531
+|title= ES: Andalucía protests distortion in OOXML standardisation committee
+| publisher=IDABC
+| date=August 6, 2007}}&lt;/ref&gt;
+** It reports that in Portugal, eleven companies (including [[IBM]]) and open source advocacy groups requested that Portugal's Ministry of Economy and Innovation investigate Portugal's vote on Office Open XML.&lt;ref&gt;{{cite web
+| url=http://ec.europa.eu/idabc/en/document/7190/504
+| title=PT: Opponents of OOXML file appeal
+| publisher=IDABC
+| date=September 4, 2007}}&lt;/ref&gt; 
+* In June 2008, the [[High Court of Justice]] in the United Kingdom rejected a complaint by the [[UKUUG|UK Unix and Open Systems User Group]] (UKUUG), requesting a review of the [[BSI Group|British Standard Institution]]'s decision to vote in favour of DIS 29500. The judge commented that &quot;this application does not disclose any arguable breach of the procedures of BSI or of rules of procedural fairness&quot;.&lt;ref&gt;{{cite news |first=Mark|last=Ballard|title=UK unix beardies appeal for $cash|url=http://www.theinquirer.net/gb/inquirer/news/2008/06/09/uk-unix-beardies-appeal-cash|work=[[The Inquirer]]|location=GB|date=2008-06-10|accessdate=2008-06-10 }}&lt;/ref&gt;
+
+===Other complaints===
+
+A further letter of protest was filed by Open Source Leverandørforeningen, a Danish [[open source]] vendor association &lt;ref name=&quot;DanishAppeal&quot;&gt;{{cite web
+| url = http://www.linuxjournal.com/content/denmark-backs-ooxml-outrage
+| title = Denmark Backs Up the OOXML Outrage
+| last = Ryan
+| first = Justin
+| date = 2008-06-02
+| publisher = LinuxJournal}}&lt;/ref&gt;
+although no appeal has been filed directly by Dansk Standard itself.
+
+In September 2008, a joint letter known as the [[Consegi declaration]] was issued and signed by 3 representatives for free software of the countries that issued appeals (South Africa, Brazil and Venezuela) as well as [[Ecuador]], [[Cuba]] and [[Paraguay]].
+
+After the specification was officially accepted as an ISO standard, [[Red Hat]]{{Citation needed|date=June 2009}} and [[IBM]]{{Citation needed|date=June 2009}} claimed the ISO is losing credibility, and
+Ubuntu founder [[Mark Shuttleworth]] commented &quot;We're not going to invest in trying to implement a standard that is poorly defined.”&lt;ref&gt;[http://arstechnica.com/news.ars/post/20080403-ooxml-critics-iso-approval-demonstrates-the-need-for-reform.html OOXML critics: ISO approval demonstrates the need for reform]&lt;/ref&gt;&lt;ref&gt;[http://blogs.zdnet.com/open-source/?p=2222 Ubuntu’s Shuttleworth blames ISO for OOXML’s win | Open Source | ZDNet.com]&lt;/ref&gt; IBM issued a press release stating: &quot;IBM will continue to be an active supporter of ODF. We look forward to being part of the community that works to harmonize ODF and OOXML for the sake of consumers, companies and governments, when OOXML control and maintenance is fully transferred to JTC1.”&lt;ref&gt;http://www.techradar.com/news/internet/ibm-responds-to-iso-ooxml-decision-297574&lt;/ref&gt;
+
+===Examination of fast track process===
+
+[[Deutsches Institut für Normung]] (DIN, Germany) voted &quot;yes&quot; on DIS 29500, and stated that DIN as a whole &quot;recognised that there has been no serious breach of JTC 1 and ISO rules”, but that, &quot;the conclusion has been reached that the rules for the fast-track procedure need to be amended”.&lt;ref name=&quot;DINFastTrack&quot;&gt;{{cite web
+| url=http://www.heise-online.co.uk/news/Brazil-and-India-lodge-appeal-against-ISO-standardisation-of-OOXML--/110845
+| title=Brazil and India lodge appeal against ISO standardisation of OOXML
+| last=Krempl
+| first=Stefan
+| date=2008-06-02
+| publisher=Heise Online UK}}&lt;/ref&gt;
+
+At the plenary meeting of [[JTC 1]] in [[Nara, Nara|Nara]], Japan that took place in November 2008, a resolution was passed which related to concerns express during the standardisation of ISO/IEC 29500.&lt;ref&gt;{{citation|url=http://www.itscj.ipsj.or.jp/sc34/open/1120.pdf|title=Resolutions Adopted at the 23rd Meeting of ISO/IEC JTC 1, 10–15 November 2008 in Nara, Japan}}&lt;/ref&gt; Resolution 49 was entitled &quot;Clarification on Consistency of Standards vs Competing Specifications” and contained the following text:
+
+&lt;blockquote&gt;JTC 1 recognizes its commitment to ISO's and IEC's &quot;one standard&quot; principle; however, it recognizes that neither it nor its SCs are in a position to mandate either the creation or the use of a single standard, and that there are times when multiple standards make the most sense in order to respond to the needs of the marketplace and of society at large. It is not practical to define, a priori, criteria for making these decisions. Therefore each standard must be judged by the National Bodies, based on their markets, on its own merits.&lt;/blockquote&gt;
+
+At a companion meeting of the Special Working Group on Directives (SWG-Directives) in [[Osaka]] a recommendation was made&lt;ref&gt;
+{{citation
+|url=http://www.itscj.ipsj.or.jp/sc34/open/1121.pdf
+|title=Recommendations from the November 2008 JTC 1 SWG-Directives Meeting in Osaka}}&lt;/ref&gt; describing series of &quot;concepts&quot; that would in future be applied to the Ballot Resolution process of future Fast Tracked standards. These mirrored the process that had taken place for ISO/IEC 29500:
+
+&lt;blockquote&gt;
+# The purpose is to review and address ballot comments
+# The meeting must have a separate agenda and be convened as a separate meeting even if it is in conjunction with/co-located with an SC/WG meeting
+# The comments must be discussed within a single meeting and NOT distributed over a series of meetings
+# The meeting is open to the Fast track Submitter and to all National Bodies regardless of whether or not the National Body has voted on the document under review – no limitation on which National Body can participate
+# The meeting participants represent their National Body and their National Body positions
+# All National Bodies have an equal say in any decisions made during the meeting
+# The Project Editor must prepare an Editor’s proposed disposition of ballot comments in sufficient time prior to the BRM to allow consideration by National Bodies. This editor’s proposed disposition of comments document will be reviewed during the ballot resolution meeting
+# A disposition of ballot comments approved during the meeting must be circulated following the meeting for the information of all National Bodies
+# When all comments have been addressed and a disposition of comments has been approved by the meeting, the BRM meeting criteria have been met&lt;/blockquote&gt;
+
+Standards lawyer Andy Updegrove (whose firm represents [[Organization for the Advancement of Structured Information Standards|OASIS]]) commented that he was &quot;startled and dismayed” at these concepts, since they &quot;basically add up to a ratification of the conduct of the Geneva BRM.&quot;&lt;ref&gt;http://www.consortiuminfo.org/standardsblog/article.php?story=20081123081845121&lt;/ref&gt;
+
+===Investigation of Microsoft by the European Commission===
+
+The European Commission has started an antitrust investigation into the interoperability of the Office Open XML format on the request of [[European Committee for Interoperable Systems]], described as &quot;a coalition of Microsoft's largest competitors&quot;.&lt;ref&gt;{{cite web 
+| url=http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/08/19
+| title=Press release by EU on Microsoft's antitrust investigation
+| publisher=EU
+| date=2008-01-14}}&lt;/ref&gt; Anonymous source(s) of the Wall Street Journal claim that this investigation also includes an investigation into whether Microsoft violated antitrust laws in the course of the standardization process.&lt;ref&gt;{{cite news
+| url=http://online.wsj.com/article/SB120242867034452081.html?mod=googlenews_wsj
+| title=Microsoft's Office Push Scrutinized by EU
+| date=February 8, 2008
+| work=The Wall Street Journal
+| first=Charles
+| last=Forelle}}&lt;/ref&gt; The Financial Times reports that European ISO members have confirmed receipt of a letter by the European Commission &quot;asking how they prepared for votes […] on acceptance of Microsoft's OOXML document format as a worldwide standard.”&lt;ref&gt;{{cite web | url=http://www.ft.com/cms/s/0/88e570a2-ea56-11dc-b3c9-0000779fd2ac.html?nclick_check=1
+| title=Probe into votes on Microsoft standard
+| publisher=Financial Times
+| date=March 5, 2008}}&lt;/ref&gt;
+
+=== Microsoft complaints about competitors ===
+In an open letter, Microsoft attacked [[IBM]]'s opposition to the Office Open XML standardization  process, saying
+&lt;blockquote&gt;On December 7, Ecma approved the adoption of Open XML as an international open standard. The vote was nearly unanimous; of the 21 members, IBM’s was the sole dissenting vote. IBM again was the lone dissenter when Ecma also agreed to submit Open XML as a standard for ratification by ISO/IEC JTC1.&lt;ref&gt;[http://www.microsoft.com/interop/letters/choice.mspx Interoperability, Choice and Open XML]&lt;/ref&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;IBM led a global campaign urging national bodies to demand that ISO/IEC JTC1 not even consider Open XML, because ODF had made it through ISO/IEC JTC1 first.&lt;/blockquote&gt;
+
+Nicos Tsilas, Microsoft's senior director of interoperability and intellectual property policy, downplaying Microsoft's American and EU conviction as abusers of monopoly power, expressed concern that IBM and the [[Free Software Foundation]] have been lobbying governments to mandate the use of the rival [[OpenDocument|OpenDocument format]] (ODF) to the exclusion of other formats. In his opinion, they are &quot;using government intervention as a way to compete&quot; as they &quot;couldn't compete technically.&quot;&lt;ref&gt;{{cite web 
+| url=http://news.zdnet.co.uk/software/0,1000000121,39292492,00.htm
+| title=Microsoft: IBM masterminded OOXML failure
+| date=2008-01-30
+| author=Brett Winterford
+| publisher=ZDNet Australia}}&lt;/ref&gt;&lt;ref&gt;{{cite web 
+| url=http://news.zdnet.co.uk/leader/0,1000002982,39292519,00.htm?r=147
+| title=Cruel truth surfaces in the OOXML war
+| date=January 30, 2008
+| publisher=ZDNet.co.uk}}&lt;/ref&gt;
+
+&lt;blockquote&gt;IBM have asked governments to have an open-source, exclusive purchasing policy.&lt;/blockquote&gt;
+
+==Arguments in support and criticism of Office Open XML standard==
+{{POV-section|date=February 2008}}
+
+===Support===
+&lt;!--all supporting sources are only from Microsoft and ecma--&gt;
+Microsoft believes its own format should be adopted. It has presented this argument on its &quot;community web site&quot;, a site owned and operated by Microsoft.&lt;ref name=microsoft&gt;{{cite web
+| url=http://www.openxmlcommunity.org/summary.aspx
+| title=Hear what Ecma has to say about Open XML (paragraph: Key benefits of Open XML)
+| author=Microsoft
+| publisher=OpenXMLcommunity.org }}&lt;/ref&gt;
+
+[[Sun Microsystems]] initially voted against approval of DIS 29500 in the [[INCITS]] V1 committee, but stated on the committee mailing list &quot;We wish to make it completely clear that we support DIS 29500 becoming an ISO Standard and are in complete agreement with its stated purposes of enabling interoperability among different implementations and providing interoperable access to the legacy of Microsoft Office documents.” and that &quot;We voted in the expectation that […] changes will be made and that a version of DIS 29500 capable of achieving its objectives would be approved as an ISO Standard.”.&lt;ref&gt;http://www.ibiblio.org/bosak/v1mail/200707/2007Jul16-081558.eml&lt;/ref&gt; 
+
+[[ODF Alliance]] India published an extensive technical report in 2007 containing concrete issues by members of the association, as well as replies from Microsoft.&lt;ref&gt;http://odfalliance.in/files/Response%20to%20Comments%20of%20June%2030th-1.pdf&lt;/ref&gt;
+
+In December 2007 [[Ecma International]] announced that many of reported issues will be taken into account in next edition of the standardisation proposal to [[ISO]].&lt;ref&gt;{{cite web 
+| url=http://www.ecma-international.org/news/TC45_current_work/New%20proposed%20dispositions%20extend%20progress%20in%20addressing%20all%20National%20Body%20comments.htm
+| title=New proposed dispositions extend progress in addressing all National Body comments, seek to document and resolve legacy issues – Nearly 2/3 of comments now reviewed
+| author=Ecma International
+| publisher=Ecma International}}&lt;/ref&gt;
+ 
+*  The [[British Library]] and the United States [[Library of Congress]] have participated in the work of Ecma TC45 and support the Office Open XML standard.&lt;ref name=&quot;ecma-international.org&quot;&gt;{{cite web|url=http://www.ecma-international.org/memento/TC45-M.htm |title=TC 45 Office Open XML formats committee (includes participation list) |publisher=Ecma-international.org |date= |accessdate=2009-09-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.xmlopen.org/ooxml-wiki/resources/BSI_OOXML_2007_05.pdf |title=Microsoft PowerPoint&amp;nbsp;— BSI OOXML v1b.ppt |format=PDF |date= |accessdate=2009-09-16}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://news.cnet.com/Microsoft-to-standardize-Office-formats/2100-1012_3-5965443.html |title=Microsoft to standardize Office formats&amp;nbsp;— CNET News |publisher=News.cnet.com |date=2005-11-22 |accessdate=2009-09-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.digitalpreservation.gov/library/challenge/formats_challenge.html |title=Meeting the Challenge: Office Open XML and PDF/A&amp;nbsp;— Digital Preservation (Library of Congress) |publisher=Digitalpreservation.gov |date=2008-04-02 |accessdate=2009-09-16}}&lt;/ref&gt;
+*Former [[Gnome Foundation]] board member [[Miguel de Icaza]], who started the [[GNOME]] and [[Mono (software)|Mono]] projects, showed support for the Office Open XML document format, stating &quot;OOXML is a superb standard and yet, it has been [[Fear uncertainty and doubt|FUD]]ed so badly by its competitors that serious people believe that there is something fundamentally wrong with it.”&lt;ref&gt;{{cite web|url=http://slashdot.org/article.pl?sid=07/10/28/175215 |title=GNOME Foundation Helping OOXML? |publisher=Slashdot |date= |accessdate=2009-05-19}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://linux.slashdot.org/article.pl?sid=07/09/10/2343256&amp;tid=109 |title=Slashdot &amp;#124; de Icaza calls OOXML a &quot;Superb Standard&quot; |publisher=Linux.slashdot.org |date= |accessdate=2009-05-19}}&lt;/ref&gt;
+* Patrick Durusau, the editor of the [[OpenDocument]] standard, has characterized OOXML as a &quot;poster child for the open standards development process”&lt;ref name=&quot;arstechnica&quot;&gt;{{cite web|last=Paul |first=Ryan |url=http://arstechnica.com/microsoft/news/2008/04/microsofts-office-open-xml-now-an-official-iso-standard.ars |title=Microsoft's Office Open XML now an official ISO standard |publisher=Ars Technica |date=2008-04-01 |accessdate=2009-09-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.durusau.net/publications/OpenXMLPosterChild.pdf |title=OpenXML: A Poster Child for Open Standards Development? |format=PDF |date= |accessdate=2009-09-16}}&lt;/ref&gt;
+
+====User base====
+The most widely used office productivity packages currently rely on various proprietary and reverse engineered [[binary file]] formats such as those created by successive releases of Microsoft Word, PowerPoint and Excel. However, OOXML is a new format which is not backwards or forwards compatible with any of the old Microsoft Office formats.&lt;ref&gt;http://www.noooxml.org/forum/t-39330/backwards-compatibility-lock-in&lt;/ref&gt;
+
+====Policy arguments====
+With regards to the alleged overlap in scope with the OpenDocument format, Ecma has provided the following policy arguments in favor of standardization: overlap in scope of ISO/IEC standards is common and can serve a practical purpose; Office Open XML addresses distinct user requirements; The OpenDocument format and Office Open XML are structured to meet different user requirements; and Office Open XML and Opendocument can serve as duo-standards.&lt;ref&gt;[http://www.ecma-international.org/news/TC45_current_work/Ecma%20responses.pdf -Response Document- National Body Comments from 30-Day Review of the Fast Track Ballot for ISO/IEC DIS 29500 (ECMA-376) Office Open XML File Formats]&lt;/ref&gt;
+
+====Technical arguments====
+The foundation technical argument for Office Open XML by its proponents is not based on quality or ease-of-use but on its being an XML version of the proprietary binary Microsoft formats:
+&lt;blockquote&gt;OpenXML was designed from the start to be capable of faithfully representing the pre-existing corpus of word-processing documents, presentations, and spreadsheets that are encoded in binary formats defined by Microsoft Corporation. The standardization process consisted of mirroring in XML the capabilities required to represent the existing corpus, extending them, providing detailed documentation, and enabling interoperability.&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;&lt;/blockquote&gt;
+
+A study comparing IS 29500:2008 and IS 26300:2006 (ODF 1.0) by the German Fraunhofer Institute found 
+&lt;blockquote&gt;It may be concluded that many of the functionalities, especially those found in simpler documents, can be translated between the standards, while the translation of other functionalities can prove complex or even impossible.&lt;ref&gt;{{cite web
+| url=http://regmedia.co.uk/2009/08/20/fokus_odf_ooxml_report.pdf
+| title=Document Interoperability: Open Document Format and Office Open XML
+| author=Dr. Klaus-Peter Eckert, Jan Henrik Ziesing, Ucheoma Ishionwu
+| page=90
+| format=PDF
+| publisher=Fraunhofer Verlag}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+* The use of the [[Open Packaging Convention]] which allows for [[Indirection]], [[Chunking (computing)|Chunking]] and Relative indirection.&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;
+* Uses the ZIP format, making ZIP part of the standard. Due to compression, files are smaller than current binary formats.&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;
+* It supports custom data elements for integration of data specific to an application or an organisation that wants to use the format.&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;
+* It defines spreadsheet formulas.&lt;ref&gt;{{cite web
+| url=http://tirania.org/blog/archive/2007/Jan-30.html
+| title=Miguel de Icaza blog post }}&lt;/ref&gt;
+* Office Open XML contains alternate representations for the XML schemas and extensibility mechanisms using RELAX NG (ISO/IEC 19757-2) and NVDL (ISO/IEC 19757-4.)&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;
+* No restriction on image, audio or video types, Book 1 §14.2.12.&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;
+* Embedded controls can be of any type, such as [[Java (programming language)|Java]] or [[ActiveX]], Book 1 §15.2.8.&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;
+* WordprocessingML font specifications can include font metrics and [[PANOSE]] information to assist in finding a substitution font if the original is not available, Book 3 §2.10.5.&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;
+* In the situation where a consuming application might not be capable of interpreting what a producing application wrote, Office Open XML defines an Alternate Content Block which can represent said data in an alternate format, such as an image. Book 3 §2.18.4.&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;
+* Internationalization support. For example date representation: In WordprocessingML (Book 4 §2.18.7) and SpreadsheetML (Book 4 §3.18.5), calendar dates after 1900 [[Common Era|CE]] can be written using [[Gregorian calendar|Gregorian]] (three variants), [[Hebrew calendar|Hebrew]], [[Islamic calendar|Hijri]], [[Japanese calendar|Japanese (Emperor Era)]], [[Korean calendar|Korean (Tangun Era)]], [[Saka calendar|Saka]], [[Taiwanese calendar|Taiwanese]], and [[Thai solar calendar|Thai]] formats. Also, there are several internationalization related spreadsheet conversion functions.&lt;ref name=&quot;ecma_tc45_white_paper&quot;&gt;{{cite web
+| url=http://www.ecma-international.org/news/TC45_current_work/OpenXML%20White%20Paper.pdf
+| title=Office Open XML Overview
+| author=Tom Ngo
+| page=6
+| format=PDF
+| publisher=Ecma International
+| date=December 11, 2006
+| accessdate=2007-01-23
+}}&lt;/ref&gt; 
+* Custom XML schema extensibility allows the addition of features to the format. This can, for instance, facilitate conversion from other formats and future features that are not part of the official specification.&lt;ref name=&quot;ecma_tc45_white paper&quot;/&gt;
+
+===Criticism===
+
+====Technical====
+{{Criticism section|date=December 2009}}
+The standard has been the subject of debate within the software industry. At over 6,000 pages, the specification is difficult to evaluate quickly.&lt;ref&gt;{{cite web
+| title=Changes to OOXML draft standard waved through
+| url=http://www.infoworld.com/article/08/02/29/Changes-to-OOXML-draft-standard-waved-through_1.html 
+| publisher=IDG News Service
+| accessdate=2008-02-29
+}}&lt;/ref&gt; Objectors also claim that there could be user confusion regarding the two standards because of the similarity of the &quot;Office Open XML&quot; name to both &quot;OpenDocument&quot; and &quot;OpenOffice&quot;. Objectors also argued that an ISO standard for documents already exists and there is no need for a second standard.&lt;ref name=groklaw&gt;http://www.groklaw.net/staticpages/index.php?page=20051216153153504&lt;/ref&gt;
+
+[[Google]] stated that &quot;the ODF standard, which achieves the same goal, is only 867 pages&quot; and that
+
+&lt;blockquote&gt;&lt;P&gt;If ISO were to give OOXML with its 6546 pages the same level of review that other standards have seen, it would take 18 years (6576 days for 6546 pages) to achieve comparable levels of review to the existing ODF standard (871 days for 867 pages) which achieves the same purpose and is thus a good comparison.&lt;/P&gt;
+&lt;P&gt;Considering that OOXML has only received about 5.5% of the review that comparable standards have undergone, reports about inconsistencies, contradictions and missing information are hardly surprising.&lt;ref name=&quot;GooglesPositiononOOXML&quot;&gt;{{cite web | url = http://www.odfalliance.org/resources/Google%20OOXML%20Q%20%20A.pdf | title = Google's Position on OOXML as a Proposed ISO Standard | date = 2008-02 | publisher = [[Google]]}}&lt;/ref&gt;&lt;/P&gt;&lt;/blockquote&gt;
+
+Opposers include [[Foundation for a Free Information Infrastructure|FFII]], the [[ODF Alliance]]&lt;ref&gt;{{cite web 
+| url=http://www.odfalliance.org/resources/OfficeOpenXMLFactSheet.pdf
+|format=PDF| title=Office Open XML factsheet
+| author=ODF Alliance
+| accessdate=2007}}&lt;/ref&gt; [[IBM]],&lt;ref&gt;{{cite web
+| url=http://www.incits.org/ref-docs/in071208.zip 
+| title=IBM Comments on INCITS LB 2212 - DIS 29500
+| publisher=INCITS (US standards body)}}&lt;/ref&gt; South Africa, and other nations that voiced strong opposition during standardization.
+
+The [[ODF Alliance]] UK Action Group has stated that with OpenDocument an ISO standard for Office files already exists.&lt;ref name=&quot;FSMcriticism&quot;&gt;{{cite web
+| url=http://www.freesoftwaremagazine.com/articles/odf_ooxml_technical_white_paper
+| title= ODF/OOXML technical white paper
+| publisher=Free Software Magazine
+|date=2 Mai 2007}}&lt;/ref&gt;
+Further, they argue that the Office Open XML file-format is heavily based on Microsoft's own [[Microsoft Office|Office applications]] and is thus not vendor-neutral, and that it has inconsistencies with existing ISO standards such as [[time standard|time]] and [[date format]]s and [[color code]]s.&lt;ref name=&quot;FSMcriticism&quot; /&gt;
+
+====Process manipulation====
+In addition, the standardization process itself has been questioned,&lt;ref name=groklaw/&gt;&lt;ref name=BRM&gt;http://www.tbray.org/ongoing/When/200x/2008/02/29/BRM-narrative&lt;/ref&gt; including claims of balloting irregularities by some technical committees, Microsoft representatives and Microsoft partners in trying to get Office Open XML approved.&lt;ref name=groklaw/&gt;&lt;ref name=BRM/&gt;  &quot;The editorial group who actually produce the spec is referred to as &quot;ECMA”, but in fact the work is mostly done by Microsoft people.&quot;&lt;ref name=BRM/&gt;
+
+===Post-adoption quotes===
+&lt;!-- Feel free to merge this section elsewhere, as I did not have a better section name idea --&gt;
+During a panel discussion on [[Red Hat]] Summit in [[Boston]] in June 2008 Microsoft's national technology officer Stuart McKee said that &quot;ODF has clearly won&quot;. He made also a following statement:&lt;ref&gt;[http://www.infoworld.com/article/08/06/19/Red_Hat_Summit_panel_Who_won_OOXML_battle_1.html Red Hat Summit panel: Who 'won' OOXML battle?]&lt;/ref&gt;&lt;ref&gt;[http://news.zdnet.co.uk/software/0,1000000121,39437722,00.htm Microsoft admits to standards ignorance pre-OOXML - ZDNet.co.uk&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+&lt;blockquote&gt;
+We found ourselves so far down the path of the standardisation process with no knowledge. We don't have a standards office. We didn't have a standards department in the company. I think the one thing that we would acknowledge and that we were frustrated with is that, by the time we realised what was going on and the competitive environment that was underway, we were late and there was a lot of catch-up. It was very difficult to enter into conversations around the world where the debate had already been framed.&lt;/blockquote&gt;
+
+On June 25, 2008, Gray Knowlton, a Group Product Manager for the Microsoft Office system made the following statements regarding the future of Open XML:&lt;ref&gt;http://blogs.technet.com/gray_knowlton/archive/2008/06/25/regarding-the-future-of-open-xml.aspx&lt;/ref&gt;
+
+&lt;blockquote&gt;Microsoft will continue to support the development of the specification and the adoption of the Open XML formats, in addition to the other work we are driving around document formats in Office. […] In the end, Open XML is still the better choice for the compatibility and line-of-business interoperability scenarios we have discussed throughout its history. […] while we are working on ODF moving forward, we will remain committed to Open XML and believe that it will be the format of choice for large parts of the global community.&lt;/blockquote&gt;
+
+In an interview [[Richard Stallman]], head of the [[Free Software Foundation]], said:&lt;ref&gt;[http://itmanagement.earthweb.com/osrc/article.php/12068_3753076_3 What do Free and Open Source Software Leaders Think of Microsoft?&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+&lt;blockquote&gt;Microsoft corrupted many members of ISO in order to win approval for its phony 'open' document format, OOXML. This was so governments that keep their documents in a Microsoft-only format can pretend that they are using 'open standards.' The government of South Africa has filed an appeal against the decision, citing the irregularities in the process.&lt;/blockquote&gt;
+
+On March 31, 2010, Dr Alex Brown, who had been the Convener of the February 2008 Ballot Resolution Meeting, posted an entry on his personal blog&lt;ref&gt;[http://www.adjb.net/post/Microsoft-Fails-the-Standards-Test.aspx Microsoft Fails the Standards Test]&lt;/ref&gt; in which he complained of Microsoft's lack of progress in adapting current and future versions of Microsoft Office to produce files in the Strict (as opposed to the Transitional) ISO 29500 format:
+
+&lt;blockquote&gt;On this count Microsoft seems set for failure. In its pre-release form Office 2010 supports not the approved Strict variant of OOXML, but the very format the global community rejected in September 2007, and subsequently marked as not for use in new documents&amp;thinsp;—&amp;thinsp;the Transitional variant. Microsoft are behaving as if the JTC 1 standardisation process never happened&amp;hellip;&lt;/blockquote&gt;
+
+Microsoft have responded that the next release of [[Microsoft Office]] (version 15) will fully support ISO/IEC 29500 Strict.&lt;ref name=&quot;Doug Mahugh blog&quot;&gt;{{cite web | url = http://blogs.msdn.com/b/dmahugh/archive/2010/04/06/office-s-support-for-iso-iec-29500-strict.aspx | title = Office’s Support for ISO/IEC 29500 Strict | author = Doug Mahugh | publisher = MSDN blogs | accessdate = 2011-02-18 }}&lt;/ref&gt;
+
+==See also==
+*[[OpenDocument standardization]]
+*[[Comparison of Office Open XML and OpenDocument]]
+*[[Comparison of document markup languages]]
+
+==References==
+{{Reflist|2}}
+
+&lt;!--check--&gt;
+
+{{DEFAULTSORT:Office Open XML standardization}}
+[[Category:Computer file formats]]
+[[Category:Ecma standards]]
+[[Category:ISO standards]]
+[[Category:Markup languages]]
+[[Category:Microsoft criticisms and controversies]]
+[[Category:Microsoft Office]]
+[[Category:Office Open XML]]
+[[Category:Open formats]]
+[[Category:Document-centric XML-based standards]]</text>
+      <sha1>1gwtnnh3u2drkehrzoj06m3mouqt5ep</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

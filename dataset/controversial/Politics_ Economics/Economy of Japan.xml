@@ -1,0 +1,487 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Economy of Japan</title>
+    <ns>0</ns>
+    <id>15578</id>
+    <revision>
+      <id>520758556</id>
+      <parentid>519706164</parentid>
+      <timestamp>2012-10-31T15:28:54Z</timestamp>
+      <contributor>
+        <username>Tjl1128</username>
+        <id>14877826</id>
+      </contributor>
+      <text xml:space="preserve" bytes="62561">{{Infobox economy
+|rank                = 3rd
+|country             = Japan
+|image               = Skyscrapers of Shinjuku 2009 January.jpg
+|width               = 300
+|caption             = Financial centre in [[Tokyo]]
+|currency            = [[Japanese Yen]] (JPY)
+|year                = 1 April - 31 March
+|organs              = [[Asia-Pacific Economic Cooperation|APEC]], [[World Trade Organization|WTO]], [[Organisation for Economic Co-operation and Development|OECD]], [[G-20 major economies|G-20]], [[G8]] and others
+|gdp                 = $5.984 trillion (2012 est.) (nominal; [[List of countries by GDP (nominal)|3rd]])
+                       $4.617 trillion (2012 est.) (PPP; [[List of countries by GDP (PPP)|4th]]) 
+|growth              = 1.4% ( Q2 2012) 
+|per capita          = $46,896 (2012 est.) (nominal; [[List of countries by GDP (nominal) per capita|12th]])&lt;br /&gt;
+                       $36,179 (2012 est.) (PPP; [[List of countries by GDP (PPP) per capita|24th]]) 
+|sectors             = agriculture: 1.2%, industry: 27.3%, services: 71.6% (2011 est.) 
+|inflation           = 0.3% (April 2011)&lt;ref name=&quot;latest_indicators&quot;&gt;{{cite web|url=http://www.stat.go.jp/english/index.htm|title= Latest indicators |publisher=Statistics Bureau, [[Ministry of Internal Affairs and Communications]] |accessdate=2011-06-09}}&lt;/ref&gt;
+|poverty             = 15.7%&lt;ref&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html CIA World factbook]&lt;/ref&gt;
+|gini                = 38.1 (2002)
+|labor               = 65.93 million (2011 est.) 
+|edbr                = 20th&lt;ref name=&quot; World Bank and International Financial Corporation &quot;&gt;{{cite web|url= http://www.doingbusiness.org/data/exploreeconomies/japan/|title= Doing Business in Japan 2012|publisher=[[World Bank]]|accessdate=2011-11-22}}&lt;/ref&gt;
+|occupations         = agriculture: 3.9%, industry: 26.2%, services: 69.8% (2010 est.) 
+|unemployment        = 4.6% (2011 est.)&lt;ref name=&quot;latest_indicators&quot;/&gt;
+|industries          = among world's largest and technologically advanced producers of [[motor vehicles]], electronic equipment, machine tools, [[steel]] and [[nonferrous metals]], ships, [[chemicals]], [[textiles]], processed foods  
+|exports             = $788 billion (2011 est.) 
+|export-goods        = motor vehicles 13.6%; semiconductors 6.2%; iron and steel products 5.5%; auto parts 4.6%; plastic materials 3.5%; power generating machinery 3.5% 
+|export-partners     = China 19.7%, US 15.5%, South Korea 8%, Hong Kong 5.2%, Thailand 4.6% (2011) 
+|imports             = $808.4 billion (2011 est.) 
+|import-goods        = petroleum 15.5%; liquid natural gas 5.7%; clothing 3.9%; semiconductors 3.5%; coal 3.5%; audio and visual apparatus 2.7%
+|import-partners     = China 21.5%, US 8.9%, Australia 6.6%, Saudi Arabia 5.9%, UAE 5%, South Korea 4.7% (2011) 
+|FDI                 = $161.4 billion (31 December 2010 est.)
+|debt                = $13.64 trillion / 229.77% of GDP (2011 est.)&lt;ref&gt;[http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2009&amp;ey=2016&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=158&amp;s=GGXWDG_NGDP&amp;grp=0&amp;a=&amp;pr1.x=79&amp;pr1.y=17]&lt;/ref&gt;
+|gross external debt = $2.719 trillion (30 June 2011) 
+|revenue             = $1.1trillion (2011 est.) 
+|expenses            = $1.157trillion (2011 est.) 
+|reserves            = US$1.154 trillion (April 2011)&lt;ref&gt;{{cite web |title=International Reserves and Foreign Currency Liquidity - JAPAN |date=12 May 2011 |publisher=International Monetary Fund |url=http://www.imf.org/external/np/sta/ir/IRProcessWeb/data/jpn/eng/curjpn.htm |accessdate=31 May 2011}}&lt;/ref&gt;
+|credit              = [[Standard &amp; Poor's]]:&lt;ref&gt;{{cite web |title= Sovereigns rating list |publisher=Standard &amp; Poor's |url=http://www.standardandpoors.com/ratings/sovereigns/ratings-list/en/eu/?subSectorCode=39 |accessdate=26 May 2011}}&lt;/ref&gt;&lt;br&gt;AA- (Domestic)&lt;br&gt;AA- (Foreign)&lt;br&gt;AAA (T&amp;C Assessment)&lt;br&gt;Outlook: Stable&lt;ref name=guardian&gt;{{cite news |title=How Fitch, Moody's and S&amp;P rate each country's credit rating |date=15 April 2011 |first1=Simon |last1=Rogers |first2=Ami |last2=Sedghi |work=The Guardian |url=http://www.guardian.co.uk/news/datablog/2010/apr/30/credit-ratings-country-fitch-moodys-standard |accessdate=31 May 2011 |location=London}}&lt;/ref&gt;&lt;br&gt;[[Moody's]]:&lt;ref name=guardian/&gt;&lt;br&gt;Aa2&lt;br&gt;Outlook: Negative&lt;br&gt;[[Fitch Group|Fitch]]:&lt;ref name=guardian/&gt;&lt;br&gt;A-&lt;br&gt;Outlook: Negative
+|aid                 = $9.7 billion [[Official Development Assistance|ODA]] (February 2007)
+|cianame             = ja
+|spelling            = Japan
+}}
+
+The '''economy of [[Japan]]''' is the third largest national economy in the world&lt;ref name=&quot;cnns&quot;&gt;{{cite news|url=http://edition.cnn.com/2011/BUSINESS/02/13/japan.economy.third/index.html|title=Japan: Economy slips to third in world|date=February 14, 2011|author=Kyung Lah|publisher=CNN.com}}&lt;/ref&gt; after the [[Economy of the United States|United States]] and the [[Economy of the People's Republic of China|People's Republic of China]] and is the world's second largest developed economy&lt;ref name=&quot;OECD&quot;&gt;{{cite news|url=http://www.oecd-ilibrary.org/economics/country-statistical-profile-japan_20752288-table-jpn.}}&lt;/ref&gt; According to the [[International Monetary Fund]], the country's per capita GDP (PPP) was at [[List of countries by GDP (PPP) per capita|$34,739]] or the 25th highest in 2011. Japan is a member of [[Group of Eight]]. Japanese economy can be fore-casted by [[Quarterly Tankan survey of business sentiment]] by the [[Bank of Japan]].&lt;ref&gt;http://www.boj.or.jp/en/statistics/tk/index.htm/&lt;/ref&gt;
+
+Japan is the world's [[Automotive industry in Japan|3rd largest automobile manufacturing country]], has the [[Electronics industry in Japan|largest electronics goods industry]], and is often ranked among the world's most innovative countries leading several measures of global patent filings.&lt;ref name=&quot;wipo&quot;&gt;{{cite news|url=http://www.wipo.int/ipstats/en/statistics/patents/}}&lt;/ref&gt; Facing increasing competition from China and South Korea, manufacturing in Japan today now focuses primarily on high-tech and precision goods, such as optical equipment, hybrid cars, and robotics.
+
+Japan is the world's largest creditor nation,&lt;ref name=&quot;creditor&quot;&gt;{{cite news|url=http://www.creditwritedowns.com/2011/08/japan-safe-haven.html}}&lt;/ref&gt; generally running an annual trade surplus and having a considerable net international investment surplus. As of 2010, Japan possesses 13.7% of the world's private financial assets (the 2nd largest in the world) at an estimated $14.6 trillion.&lt;ref name=&quot;fin&quot;&gt;{{cit news|url=http://www.huffingtonpost.com/2010/09/15/11-richest-countries_n_717558.html#s140021&amp;title=2_Japan}}&lt;/ref&gt; As of 2011, 68 of the Fortune 500 companies are based in Japan. 
+
+For three decades from 1960, Japan experienced rapid economic growth, which was referred to as the [[Japanese post-war economic miracle]]. By the guidance of [[Ministry of Economy, Trade and Industry]] ,&lt;ref&gt;http://www.unrisd.org/80256B3C005BCCF9/(httpAuxPages)/4AD5AF4732C0807FC1256C980035AA30/$file/nakamura.pdf&lt;/ref&gt; with average growth rates of 10% in the 1960s, 5% in the 1970s, and 4% in the 1980s, Japan was able to establish and maintain itself as the world's second largest economy from 1968 until 2010, when it was supplanted by the [[People's Republic of China]]. By 1990, income per capita in Japan equalled or surpassed that in most countries in the West.&lt;ref&gt;http://books.google.co.uk/books?id=7M2vqz1Nt0AC&amp;pg=PA1136&amp;dq=Japan+highest+standard+of+living+in+Asia&amp;hl=en&amp;sa=X&amp;ei=OnN_T6WbIuL80QXQ3uT5Bg&amp;ved=0CEAQ6AEwAA#v=onepage&amp;q=Japan%20highest%20standard%20of%20living%20in%20Asia&amp;f=false&lt;/ref&gt;
+
+However, in the second half of the 1980s, rising stock and real estate prices caused the Japanese economy to [[Overheating (economics)|overheat]] in what was later to be known as the [[Japanese asset price bubble]] caused by the policy of low [[interest rate]] by [[Bank of Japan]]. The [[economic bubble]] came to an abrupt end as the [[Tokyo Stock Exchange]] crashed in 1990–92 and real estate prices peaked in 1991. Growth in Japan throughout the 1990s at 1.5% was slower than growth in other major developed economies, giving rise to the term [[Lost Decade (Japan)|Lost Decade]]. Nonetheless, GDP per capita growth from 2001-2010 has still managed to outpace Europe and the United States.&lt;ref name=&quot;gap&quot;&gt;{{cite news|url=http://www.economist.com/node/21538745 | work=The Economist | title=Whose lost decade? | date=19 November 2011}}&lt;/ref&gt;
+
+A [[mountainous]], volcanic [[island country]], Japan has inadequate [[natural resources]] to support its growing economy and large population. Although many kinds of minerals were extracted throughout the country, most mineral resources had to be imported in the postwar era. Local deposits of metal-bearing ores were difficult to process because they were low grade. The nation's large and varied forest resources, which covered 70 percent of the country in the late 1980s, were not utilized extensively. Because of political decisions on local, prefectural, and nation levels, Japan decided not to exploit its forest resources for economic gain. Domestic sources only supplied between 25 and 30 percent of the nation's timber needs. Agriculture and fishing were the best developed resources, but only through years of painstaking investment and toil. The nation therefore built up the manufacturing and processing industries to convert raw materials imported from abroad. This strategy of economic development necessitated the establishment of a strong economic infrastructure to provide the needed energy, transportation, communications, and technological know-how.
+
+Deposits of [[gold]], [[magnesium]], and [[silver]] meet current industrial demands, but Japan is dependent on foreign sources for many of the minerals essential to modern industry. [[Iron ore]], [[copper]], [[bauxite]], and [[alumina]] must be imported, as well as many forest products.
+
+==Economic history==
+[[File:Hiroshige, Sugura street.jpg|thumb|An 1856 [[ukiyo-e]] depicting Echigoya, the current [[Mitsukoshi]].]]
+{{Main|Economic history of Japan}}
+
+The [[economic history of Japan]] is one of the most studied economies for its spectacular growth in three different periods. First was the foundation of [[Edo]] (in 1603) to whole inland economical developments, second was the [[Meiji Restoration]] (in 1868) to be the first non European power, third was after the [[surrender of Japan|defeat of World War II]] (in 1945) when the island nation rose to become the world's second largest economy.
+
+===First contacts with Europe (16th century)===
+&lt;!-- PLEASE MAKE CHANGES TO THE MAIN ARTICLES AND THEN UPDATE HERE--&gt;
+{{Main|Nanban trade}}
+Japan was considered as a country immensely rich in precious metals, mainly owing to [[Marco Polo]]'s accounts of gilded temples and palaces, but also due to the relative abundance of surface ores characteristic of a massive huge volcanic country, before large-scale deep-mining became possible in Industrial times. Japan was to become a major exporter of copper and silver during the period.
+
+[[Renaissance]] Japan was also perceived as a sophisticated [[feudal society]] with a high culture and a strong pre-industrial technology. It was densely populated and urbanized. Prominent European observers of the time seemed to agree that the Japanese ''&quot;excel not only all the other Oriental peoples, they surpass the Europeans as well&quot;'' ([[Alessandro Valignano]], 1584, &quot;Historia del Principo y Progresso de la Compania de Jesus en las Indias Orientales).
+
+Early European visitors were amazed by the quality of Japanese craftsmanship and metalsmithing. This stems from the fact that Japan itself is rather poor in natural resources found commonly in Europe, especially iron. Thus, the Japanese were famously frugal with their consumable resources; what little they had they used with expert skill.
+
+The cargo of the first Portuguese ships (usually about 4 smaller-sized ships every year) arriving in Japan almost entirely consisted of Chinese goods (silk, porcelain). The Japanese were very much looking forward to acquiring such goods, but had been prohibited from any contacts with the [[Emperor of China]], as a punishment for [[Wokou|Wakō]] pirate raids. The Portuguese (who were called ''Nanban'', lit. Southern Barbarians) therefore found the opportunity to act as intermediaries in Asian trade.
+
+===Edo period (1603–1868)===
+&lt;!-- PLEASE MAKE CHANGES TO THE MAIN ARTICLES AND THEN UPDATE HERE--&gt;
+
+The beginning of the [[Edo period]] coincides with the last decades of the [[Nanban trade period]], during which intense interaction with European powers, on the economic and religious plane, took place. It is at the beginning of the Edo period that Japan built her first ocean-going Western-style warships, such as the [[Japanese warship San Juan Bautista|''San Juan Bautista'']], a 500-ton [[galleon]]-type ship that transported a Japanese embassy headed by [[Hasekura Tsunenaga]] to the Americas, which then continued to Europe. Also during that period, the ''bakufu'' commissioned around 350 [[Red Seal Ships]], three-masted and armed trade ships, for intra-Asian commerce. Japanese adventurers, such as [[Yamada Nagamasa]], were active throughout Asia.
+
+In order to eradicate the influence of [[Christianization]], Japan entered in a period of isolation called [[sakoku]], during which its economy enjoyed stability and mild progress.{{Citation needed|date=June 2011}}
+
+Economic development during the Edo period included [[urbanization]], increased shipping of commodities, a significant expansion of domestic and, initially, foreign [[commerce]], and a diffusion of trade and [[handicraft]] industries. The [[construction]] trades flourished, along with banking facilities and [[merchant]] associations. Increasingly, [[Han (country subdivision)|''han'']] authorities oversaw the rising [[agriculture|agricultural]] production and the spread of rural handicrafts.
+
+By the mid-eighteenth century, Edo had a population of more than 1 million and [[Osaka]] and [[Kyoto]] each had more than 400,000 inhabitants. Many other [[castle town]]s grew as well. Osaka and Kyoto became busy trading and handicraft production centers, while Edo was the center for the supply of food and essential urban consumer goods.
+
+Rice was the base of the economy, as the daimyo collected the taxes from the peasants in the form of rice. Taxes were high, about 40% of the harvest. The rice was sold at the ''[[fudasashi]]'' market in [[Edo]]. To raise money, the daimyo used [[forward contract]]s to sell rice that was not even harvested yet. These contracts were similar to modern [[futures trading]].
+
+During the period, Japan progressively studied Western sciences and techniques (called ''[[rangaku]]'', literally &quot;Dutch studies&quot;) through the information and books received through the Dutch traders in [[Dejima]]. The main areas that were studied included geography, medicine, natural sciences, astronomy, art, languages, physical sciences such as the study of electrical phenomena, and mechanical sciences as exemplified by the development of Japanese clockwatches, or [[wadokei]], inspired from Western techniques.
+
+===Prewar period (1868–1945)===
+&lt;!-- PLEASE MAKE CHANGES TO THE MAIN ARTICLES AND THEN UPDATE HERE--&gt;
+
+Since the mid-19th century, after the Meiji restoration, the country was opened up to Western commerce and influence and Japan has gone through two periods of economic development. The first began in earnest in 1868 and extended through to World War II; the second began in 1945 and continued into the mid-1980s.
+
+Economic developments of the [[Empire of Japan|prewar period]] began with the “[[Fukoku kyōhei|Rich State and Strong Army Policy]]” by the [[Meiji government]]. During the [[Meiji period]] (1868–1912), leaders inaugurated a new Western-based education system for all young people, sent thousands of students to the United States and Europe, and hired more than 3,000 Westerners to teach modern science, mathematics, technology, and foreign languages in Japan ([[Oyatoi gaikokujin]]). The government also built railroads, improved road, and inaugurated a land reform program to prepare the country for further development.
+
+To promote [[industrialization]], the government decided that, while it should help private business to allocate resources and to plan, the public sector was best equipped to stimulate economic growth. The greatest role of government was to help provide good economic conditions for business. In short, government was to be the guide and business the producer. In the early Meiji period, the government built factories and shipyards that were sold to entrepreneurs at a fraction of their value. Many of these businesses grew rapidly into the larger [[conglomerate (company)|conglomerates]]. Government emerged as chief promoter of [[private enterprise]], enacting a series of probusiness policies.
+
+In the mid 1930s, the Japanese nominal wage rates were 10 times less than the one of the U.S (based on mid-1930s exchange rates), while the price level is estimated to have been about 44% the one of the U.S.&lt;ref&gt;{{cite book |last=Fukao |first=Kyoji |title=Real GDP in Pre-War East Asia: A 1934–36 Benchmark Purchasing Power Parity Comparison with the US |year=2007 |url=http://gpih.ucdavis.edu/files/Fukao_Ma_Yuan.pdf|format=PDF}}&lt;/ref&gt;
+
+===Postwar period (1945–present)===
+[[File:2005Japanese exports.PNG|thumb|right|Japanese exports in 2005]]
+
+{{See also|Japanese post-war economic miracle|Economic history of Japan}}
+
+From the 1960s to the 1980s, overall real economic growth has been called [[Japanese post-war economic miracle|a &quot;miracle&quot;]]: a 10% average in the 1960s, a 5% average in the 1970s and a 4% average in the 1980s.&lt;ref&gt;{{cite web |url=http://www.country-data.com/cgi-bin/query/r-7176.html | title = Japan: Patterns of Development | publisher = country-data.com | month = January | year = 1994 | accessdate=2006-12-28}}&lt;/ref&gt; By the late Eighties, Japan had moved from being a low-wage to a high-wage economy.&lt;ref&gt;Business in context: an introduction to business and its environment by David Needle&lt;/ref&gt; 
+
+Growth slowed markedly in the late 1990s also termed [[Lost Decade (Japan)|the Lost Decade]], largely due to the Bank of Japan's failure to cut interest rates quickly enough to counter after-effects of [[Japanese asset price bubble|over-investment during the late 1980s]]. Some economists believe that because the Bank of Japan failed to cut rates quickly enough, Japan entered a [[liquidity trap]]. Therefore, to keep its economy afloat, Japan ran massive budget deficits (added trillions in Yen to Japanese financial system) to finance large [[public works]] programs.
+
+[[File:Japan Product Export Treemap.jpg|thumb|left|200px|Graphical depiction of Japan Product 's product exports in 28 color coded categories.]]
+By 1998, Japan's public works projects still could not stimulate demand enough to end the economy's stagnation. In desperation, the Japanese government undertook &quot;structural reform&quot; policies intended to wring speculative excesses from the stock and real estate markets. Unfortunately, these policies led Japan into deflation on numerous occasions between 1999 and 2004. In his 1998 paper, Japan's Trap, Princeton economics professor [[Paul Krugman]] argued that based on a number of models, Japan had a new option. Krugman's plan called for a rise in inflation expectations to, in effect, cut long-term interest rates and promote spending.&lt;ref name=&quot;krugman&quot;&gt;{{cite web |url=http://web.mit.edu/krugman/www/japtrap.html |title=Japan's Trap | publisher = [[MIT]] | date = 1999-05-19 | accessdate=2007-06-06}}&lt;/ref&gt;
+
+Japan used another technique, somewhat based on Krugman's, called [[Quantitative easing]]. As opposed to flooding the money supply with newly printed money, the Bank of Japan expanded the money supply internally to raise expectations of inflation. Initially, the policy failed to induce any growth, but it eventually began to affect inflationary expectations. By late 2005, the economy finally began what seems to be a sustained recovery. GDP growth for that year was 2.8%, with an annualized fourth quarter expansion of 5.5%, surpassing the growth rates of the US and [[Economy of the European Union|European Union]] during the same period.&lt;ref&gt;Masake, Hisane. [http://www.atimes.com/atimes/Japan/HC02Dh01.html A farewell to zero]. ''Asia Times Online'' (2006-03-02). Retrieved on 2006-12-28.&lt;/ref&gt; Unlike previous recovery trends, domestic consumption has been the dominant factor of growth.
+
+Despite having interest rates down near zero for a long period of time, the Quantitative easing strategy did not succeed in stopping price deflation.&lt;ref&gt;{{cite news |last=Spiegel |first=Mark |title=Did Quantitative Easing by the Bank of Japan &quot;Work&quot;? |date=October 20, 2006 |url=http://www.frbsf.org/publications/economics/letter/2006/el2006-28.html}}&lt;/ref&gt; This led some economists, such as Paul Krugman, and some Japanese politicians, to speak of deliberately causing [[hyperinflation]].&lt;ref&gt;See, as one example, Paul Krugman's website, http://web.mit.edu/krugman/www/jpage.html&lt;/ref&gt; In July 2006, the zero-rate policy was ended. In 2008, the Japanese Central Bank still has the lowest interest rates in the developed world, deflation has still not been eliminated&lt;ref&gt;{{cite news |title=Economic survey of Japan 2008: Bringing an end to deflation under the new monetary policy framework |date=April 7, 2008 |url=http://www.oecd.org/document/12/0,3343,en_2649_34115_40363340_1_1_1_1,00.html}}&lt;/ref&gt; and the Nikkei 225 has fallen over approximately 50% (between June 2007 and December 2008). [[The Economist]] has suggested that improvements to bankruptcy law, land transfer law, and tax laws will aid Japan's economy. In recent years, Japan has been the top export market for almost 15 trading nations worldwide.
+
+==Infrastructure==
+[[File:JRC N700 series Z28.jpg|thumb|left|200px|[[Shinkansen N700 Series]]]]
+{{Main|Energy in Japan|Transportation in Japan}}
+
+As of 2005, one half of [[energy in Japan]] is produced from petroleum, a fifth from coal, and 14% from natural gas.&lt;ref&gt;[http://www.stat.go.jp/english/data/handbook/c07cont.htm Chapter 7 Energy], Statistical Handbook of Japan 2007&lt;/ref&gt; [[Nuclear power in Japan]] makes a quarter of electricity production but due to Fukushima Nuclear distaster there is large desire to end Japan's nuclear power program. {{Citation needed|date=February 2012}}
+
+Japan's road spending has been large.&lt;ref&gt;[http://query.nytimes.com/gst/fullpage.html?res=9500E3DC1031F932A35750C0A961958260 Japan's Road to Deep Deficit Is Paved With Public Works], New York Times in 1997&lt;/ref&gt; The 1.2 million kilometers of paved road are the main means of transportation.&lt;ref&gt;[http://www.stat.go.jp/english/data/handbook/c09cont.htm Chapter 9 Transport], Statistical Handbook of Japan&lt;/ref&gt; Japan has [[Right- and left-hand traffic|left-hand traffic]]. A single network of speed, divided, limited-access toll roads connects major cities and are operated by [[road pricing|toll-collecting enterprises]]. New and used cars are inexpensive. Car ownership fees and fuel levies are used to promote energy-efficiency.
+
+[[List of railway companies in Japan|Dozens of Japanese railway companies]] compete in regional and local passenger transportation markets; for instance, 7 [[Japan Railways Group|JR]] enterprises, [[Kintetsu Corporation]], [[Seibu Railway]], and [[Keio Corporation]]. Often, strategies of these enterprises contain [[real estate]] or [[Department stores in Japan|department stores next to stations]]. Some 250 high-speed [[Shinkansen]] trains connect major cities. All trains are known for punctuality.
+
+There are 176 airports and flying is a popular way to travel between cities. The largest domestic airport, [[Tokyo International Airport]], is [[World's busiest airports by passenger traffic|Asia's second busiest airport]]. The largest international gateways are [[Narita International Airport]] (Tokyo area), [[Kansai International Airport]] (Osaka/Kobe/Kyoto area), and [[Chūbu Centrair International Airport]] (Nagoya area). The largest ports include [[Nagoya Port]].
+
+Given its heavy dependence on imported energy, Japan has aimed to diversify its sources. Since the oil shocks of the 1970s, Japan has reduced dependence on petroleum as a source of energy from more than 75% in 1973 to about 57% at present. Other important energy sources are coal, liquefied natural gas, nuclear power, and hydropower. Demand for oil is also dampened by higher government taxes on automobile engines over 2000 cc, as well as on gasoline itself, currently 54 yen per liter sold retail. Kerosene is also used extensively for home heating in portable heaters, especially farther north. Many taxi companies run their fleets on liquefied gas with tanks in the car trunks. A recent success towards greater [[Fuel economy in automobiles|fuel economy]] was the introduction of mass-produced [[Hybrid vehicle]]s. Former Prime Minister Shinzo Abe, who was working on Japan's economic revival, signed a treaty with [[Saudi Arabia]] and [[UAE]] about the rising prices of oil.
+
+== Macro-economic trend ==
+[[File:Real GDP growth rate in Japan (1956-2008).png|250px|thumb|Real GDP growth rate from 1956 to 2008]]
+[[Image:Okun's law Japan.svg|thumb|250px|Quarterly change in the real GDP (blue) and the unemployment rate (red) of Japan from 2000 to 2010. See [[Okun's law]].]]
+This is a chart of trend of gross domestic product of Japan at market prices estimated by the [http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?sy=2008&amp;ey=2015&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=158&amp;s=NGDP%2CNGDPD%2CPCPIE&amp;grp=0&amp;a=&amp;pr1.x=41&amp;pr1.y=8 International Monetary Fund] with figures in millions of Japanese Yen. See also&lt;ref&gt;[http://www.stat.go.jp/english/data/chouki/03.htm Statistics Bureau Home Page]&lt;/ref&gt;&lt;ref&gt;[http://www.measuringworth.org/datasets/japandata What Were Japanese GDP, CPI, Wage, or Population Then?]&lt;/ref&gt;
+
+{| class=&quot;wikitable&quot; style=&quot;text-align: center;&quot;
+| '''Year''' || '''Gross Domestic Product''' || '''US Dollar Exchange''' || '''Inflation Index&lt;br/&gt;(2000=100)''' || '''Nominal Per Capita GDP&lt;br/&gt;(as % of USA)'''|| '''PPP Capita GDP&lt;br/&gt;(as % of USA)'''
+|-
+| 1955 || 8,369,500 || ￥360.00 || || 10.31 || -
+|-
+| 1960 || 16,009,700 || ￥360.00 || || 16.22 || -
+|-
+| 1965 || 32,866,000 || ￥360.00 || || 24.95 || -
+|-
+| 1970 || 73,344,900 || ￥360.00 || || 38.56 || -
+|-
+| 1975 || 148,327,100 || ￥297.26 || || 59.00 || -
+|-
+| 1980 || 240,707,315 || ￥225.82 || 100 || 105.85 || 71.87
+|-
+| 2005 || 502,905,400 || ￥110.01 || 97 || 85.04 || 71.03
+|-
+| 2010 || 477,327,134 || ￥88.54 || 98 || 89.8 || 71.49
+|}
+
+For purchasing power parity comparisons, the US Dollar is exchanged at ￥110.784 in 2010.
+
+== Services ==
+[[File:JA8089-2008-08-15-YVR.jpg|thumb|right|[[Japan Airlines]], though faced with massive debts as of 2010, is considered one of the largest airlines in the world.]]
+
+Japan's service sector accounts for about three-quarters of its total economic output. Banking, insurance, real estate, retailing, [[transportation in Japan|transportation]], and telecommunications are all major industries such as [[Mitsubishi UFJ Financial Group|Mitsubishi UFJ]], [[Mizuho Financial Group|Mizuho]], [[Nippon Telegraph and Telephone|NTT]], [[The Tokyo Electric Power Company|TEPCO]], [[Nomura Holdings|Nomura]], [[Mitsubishi Estate Co.|Mitsubishi Estate]], [[Tokio Marine &amp; Nichido Fire Insurance|Tokio Marine]], [[Mitsui Sumitomo Insurance|Mitsui Sumitomo]], [[East Japan Railway Company|JR East]], [[Seven &amp; I Holdings Co.|Seven &amp; I]], and [[Japan Airlines]] counting as one of the largest companies in the world. The [[Junichiro Koizumi|Koizumi]] government set [[Japan Post]], one of the country's largest providers of savings and insurance services for privatization by 2014. The six major [[keiretsu]]s are the [[Mitsubishi]], [[Sumitomo]], [[Fuyo]], [[Mitsui]], [[Dai-Ichi Kangyo]] and [[Sanwa Group|Sanwa]] Groups. Japan is home to 326 companies from the [[Forbes Global 2000]] or 16.3% (as of 2006).
+
+== Industry ==
+{{Main|Manufacturing in Japan}}
+
+[[File:LS 600h L Verdigris Mica.jpg|250px|right|thumb|[[Lexus LS]]. The rapid growth and success of [[Toyota]]'s [[Lexus]] and other Japanese automakers reflects Japan's strength and global dominance in the automobile industry.]]
+
+Japanese manufacturing is very diversified, with a variety of advanced industries that are highly successful.
+
+Industry is concentrated in several regions, in the following order of importance: the [[Kantō region]] surrounding Tokyo, especially the prefectures of [[Chiba Prefecture|Chiba]], [[Kanagawa Prefecture|Kanagawa]], [[Saitama Prefecture|Saitama]] and Tokyo (the [[Keihin region|Keihin industrial region]]); the [[Tōkai region]], including [[Aichi Prefecture|Aichi]], [[Gifu Prefecture|Gifu]], [[Mie Prefecture|Mie]], and [[Shizuoka Prefecture|Shizuoka]] prefectures (the [[Chukyo-Tokai industrial region]]); [[Kansai|Kinki]] (Kansai), including [[Osaka, Osaka|Osaka]], [[Kyoto, Kyoto|Kyoto]], [[Kobe, Hyogo|Kobe]], (the [[Hanshin Industrial Region|Hanshin industrial region]]); the southwestern part of [[Honshū]] and northern [[Shikoku]] around the [[Seto Inland Sea]] (the Setouchi industrial region); and the northern part of [[Kyūshū]] ([[Kitakyūshū]]). In addition, a long narrow belt of industrial centers is found between Tokyo and [[Fukuoka, Fukuoka|Fukuoka]], established by particular industries, that have developed as mill towns.
+
+Japan enjoys high technological development in many fields, including [[Japanese consumer electronics industry|consumer electronics]], [[automobile industry in Japan|automobile manufacturing]], [[semiconductor]] manufacturing, [[optical fiber]]s, [[optoelectronics]], [[optical media]], [[Fax|facsimile]] and [[Photocopying|copy machines]], and fermentation processes in [[fermentation (food)|food]] and [[fermentation (biochemistry)|biochemistry]].
+
+==Mining and petroleum exploration==
+
+{{Main|Mining in Japan}}
+
+==Agriculture==
+
+{{Main|Agriculture, forestry, and fishing in Japan}}
+
+[[File:RicePaddyInAutumnJapan2005-9Japan.jpg|thumb|Rice is a very important crop in Japan as shown here in a [[rice paddy]] in [[Kurihara, Miyagi]].]]
+Only 12% of Japan's land is suitable for cultivation. Due to this lack of arable land, a system of terraces is used to farm in small areas. This results in one of the world's highest levels of crop yields per unit area, with an overall agricultural self-sufficiency rate of about 50% on fewer than 56,000&amp;nbsp;km² (14 million acres) cultivated.
+
+Japan's small agricultural sector, however, is also highly subsidized and protected, with government regulations that favor small-scale cultivation instead of large-scale agriculture as practiced in North America.
+
+Imported rice, the most protected crop, is subject to tariffs of 490% and was restricted to a quota of only 7.2% of average rice consumption from 1968 to 1988. Imports beyond the quota are unrestricted in legal terms, but subject to a 341 yen per kilogram tariff. This tariff is now estimated at 490%, but the rate will soar to a massive 778% under new calculation rules to be introduced as part of the [[Doha Round]].&lt;ref&gt;&quot;http://www.bilaterals.org/article.php3?id_article=2378&quot;&lt;/ref&gt;
+
+Although Japan is usually self-sufficient in rice (except for its use in making rice crackers and processed foods) and wheat, the country must import about 50%&lt;ref&gt;&quot;http://www.skillclear.co.uk/japan/default.asp&quot;&lt;/ref&gt; of its requirements of other grain and fodder crops and relies on imports for most of its supply of meat. Japan imports large quantities of wheat, [[sorghum]], and [[soybean]]s, primarily from the United States. Japan is the largest market for EU agricultural exports. [[Apple]]s are also grown, mostly in [[Tohoku]] and [[Hokkaidō]]; Pears and Oranges are mainly grown in [[Shikoku]] and in [[Kyūshū]]. Pears and oranges were first introduced by Dutch traders, in [[Nagasaki, Nagasaki|Nagasaki]] in the late 18th century.
+
+=== Fishery ===
+[[File:Global fish catch 2004 &amp; 2005.jpg|thumb|left|200px|Global fish catch and Japan]]
+Japan ranked fifth in the world  in tonnage of fish caught—11.9 million tons in 1989, up slightly from 11.1 million tons in 1980. After the 1973 energy crisis, deep-sea fishing in Japan declined, with the annual catch in the 1980s averaging 2 million tons. Offshore fisheries accounted for an average of 50% of the nation's total fish catches in the late 1980s although they experienced repeated ups and downs during that period
+
+Coastal fishing by small boats, set nets, or breeding techniques accounts for about one third of the industry's total production, while offshore fishing by medium-sized boats makes up for more than half the total production. Deep-sea fishing from larger vessels makes up the rest. Among the many species of seafood caught are sardines, [[skipjack tuna]], crab, shrimp, salmon, [[pollock]], squid, clams, [[mackerel]], [[sea bream]], [[saury]], tuna and [[Japanese amberjack]]. Freshwater fishing takes up about 30% of Japan's fishing industry. Among the species of fish caught in the rivers of Japan are many different types and some freshwater crustaceans.
+
+Japan maintains one of the world's largest fishing fleets and accounts for nearly 15% of the global catch,&lt;ref&gt;&quot;https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html#Econ&quot;&lt;/ref&gt; prompting some claims that Japan's fishing is leading to depletion in fish stocks such as [[tuna]].&lt;ref&gt;&quot;http://www.atimes.com/oceania/AH31Ah01.html&quot;&lt;/ref&gt; Japan has also sparked controversy by supporting quasi-commercial [[whaling in Japan|whaling]].&lt;ref&gt;&quot;http://news.bbc.co.uk/1/hi/sci/tech/4118990.stm&quot;&lt;/ref&gt;
+
+==Labor force==
+[[File:Unemployment Rate of Japan 1953-2009.jpg|thumb|left|200px|Unemployment rate of Japan]]
+
+The claimed unemployment rate for June 2009 is 5.2% (5.4% male (up 0.1% from May 2009), 4.9% female (up 0.3% from May 2009)). [http://www.bloomberg.co.jp/apps/news?pid=90003007&amp;sid=a2b9qmzxMAcE&amp;refer=jp_economies] [http://www.bloomberg.com/apps/news?pid=20601068&amp;sid=a90dAL94wEos] This is regarded as an underestimate. Even part-time workers with extremely low hours are classified as employed.
+
+In July 2006, the unemployment rate in Japan was 4.1%, according to the [[Organisation for Economic Co-operation and Development|OECD]]. At the end of February 2009, it stood at 4.4% [http://www.ft.com/cms/s/0/2f7118e2-1d99-11de-9eb3-00144feabdc0.html] This seemingly modest rate however understates the situation. According to The Economist, the ratio of job offers to number of applicants has declined to just 0.59, from almost 1 at the start of 2008, while average work hours also declined. Average wages also went down by 2.9% over the 12 months ending in February. In 2008, [[Labor market of Japan|Japan's labor force]] consisted of some 66 million workers—40% of whom were women—and was rapidly shrinking. [http://www.prcdc.org/summaries/japan/japan.html]
+
+One major long-term concern for the Japanese labor force is a low birthrate. In the first half of 2005, the number of deaths in Japan exceeded the number of births, indicating that the decline in population, initially predicted to start in 2007, had already started. While one countermeasure for a declining birthrate would be to remove barriers to [[immigration]], the Japanese government has been reluctant to do so.
+
+In 1989, the predominantly public sector union confederation, SOHYO (General Council of Trade Unions of Japan), merged with RENGO (Japanese Private Sector Trade Union Confederation) to form the Japanese Trade Union Confederation. Labor union membership is about 12 million.
+
+== Law and government ==
+Japan ranks 20th of 183 countries in the [[Ease of Doing Business Index]] 2012.
+
+Japan has [[List of countries by tax revenue as percentage of GDP|one of the smallest tax rates]] in the developed world.&lt;ref name=&quot;oecd2008&quot;/&gt; After deductions, the majority of workers are free from [[personal income tax]]es. [[Value-added tax]] rate is only 5%, while corporate tax rates are high.&lt;ref name=&quot;oecd2008&quot;/&gt;
+
+[[Shareholder activism]] is rare despite the fact that the corporate law gives shareholders strong powers over managers. Recently, more shareholders have stood up against managers.&lt;ref&gt;[http://www.economist.com/business/displaystory.cfm?story_id=9414552 Activist shareholders swarm in Japan], The Economist&lt;/ref&gt;
+
+The government's liabilities include [[Japan public debt|the second largest public debt of any nation]]. Former Prime Minister [[Naoto Kan]] has called the situation 'urgent'.&lt;ref&gt;[http://www.japantoday.com/category/politics/view/kan-warns-of-greece-like-debt-crisis]&lt;/ref&gt;
+
+Japan's central bank has [[List of countries by foreign exchange reserves|the second largest foreign-exchange reserves]] after People's Republic of China.
+
+== Culture==
+
+===Overview===
+
+[[Nemawashi]] (根回し) in Japanese culture is an informal process of quietly laying the foundation for some proposed change or project, by talking to the people concerned, gathering support and feedback, and so forth. It is considered an important element in any major change, before any formal steps are taken, and successful ''nemawashi'' enables changes to be carried out with the consent of all sides.
+
+Japanese companies are known for management methods such as &quot;[[The Toyota Way]]&quot;. [[Kaizen]] ([[wikt:改善|改善]], Japanese for &quot;improvement&quot;) is a Japanese philosophy that focuses on continuous improvement throughout all aspects of life. When applied to the workplace, Kaizen activities continually improve all functions of a business, from manufacturing to management and from the CEO to the assembly line workers.&lt;ref&gt;{{Cite book
+ | last = Imai
+ | first = Masaaki
+ | title = Kaizen: The Key to Japan's Competitive Success
+ | location = New York, NY, USA
+ | publisher = Random House
+ | year = 1986
+}}&lt;/ref&gt; By improving standardized activities and processes, Kaizen aims to eliminate waste (see [[Lean manufacturing]]). Kaizen was first implemented in several Japanese businesses during the country's recovery after World War II, including Toyota, and has since spread to businesses throughout the world.&lt;ref&gt;Europe Japan Centre, Kaizen Strategies for Improving Team Performance, Ed. Michael Colenso, London: Pearson Education Limited, 2000&lt;/ref&gt; Ironically, Japanese workers work amongst the most hours per day even though kaizen is supposed to improve all aspects of life.
+
+Some companies have powerful enterprise unions and ''[[shuntō]]''.
+
+The [[Nenko System]] or Nenko Joretsu as it is called in Japan, is the Japanese system of promoting an employee in order of his or her proximity to [[retirement]]. The advantage of the system is that it allows older employees to achieve a higher salary level before retirement and that it usually brings more experience to the executive ranks. The disadvantage of the system is that it does not allow new talent to be merged with the experience and those with specialized skills cannot be promoted to the already crowded executive ranks. It also does not guarantee or even attempt to bring the &quot;right person for the right job&quot;.
+
+Relationships between government bureaucrats and companies are often cozy. {{Nihongo|[[Amakudari]]|天下り|amakudari|&quot;descent from heaven&quot;}} is the institutionalised practice where Japanese senior bureaucrats retire to high-profile positions in the private and public sectors. The practice is increasingly viewed as corrupt and a drag on unfastening ties between private sector and state that prevent economic and political reforms.
+
+[[Lifetime employment]] (''shushin koyo'') and seniority-based career advancement have been common in the [[Japanese work environment]].&lt;ref name=&quot;oecd2008&quot;&gt;[http://www.oecd.org/document/17/0,3343,en_2649_34111_40353553_1_1_1_1,00.html OECD: Economic survey of Japan 2008]&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.economist.com/displayStory.cfm?story_id=7193984 |title=Japan's Economy: Free at last |publisher=[[The Economist]] |date=2006-07-20 |accessdate=2007-03-29}}&lt;/ref&gt;
+
+Recently, Japan has begun to gradually move away from some of these norms.&lt;ref&gt;{{cite web |url=http://www. moneyweek.com/file/26181/why-germanys-economy-will-outshine-japan.html |title=Why Germany's economy will outshine Japan |publisher=MoneyWeek |date=2007-02-28 |accessdate=2007-03-28}}&lt;/ref&gt;&lt;ref&gt;[http://www.economist.com/specialreports/displayStory.cfm?story_id=10169956 The Economist: Going hybrid]&lt;/ref&gt;
+
+{{Nihongo|[[Salaryman]]|サラリーマン|''Sararīman''|salaried man}} refers to someone whose income is salary based; particularly those working for corporations. Its frequent use by Japanese corporations, and its prevalence in Japanese [[manga]] and anime has gradually led to its acceptance in English-speaking countries as a noun for a Japanese [[White-collar worker|white-collar]] businessman. The word can be found in many books and articles pertaining to Japanese culture. Immediately following World War II, becoming a salaryman was viewed as a gateway to a stable, middle-class lifestyle. In modern use, the term carries associations of long working hours, low prestige in the corporate hierarchy, absence of significant sources of income other than salary, [[wage slavery]], and [[karōshi]]. The term salaryman refers almost exclusively to males.
+
+An [[office lady]], often abbreviated OL (Japanese: オーエル ''Ōeru''), is a female [[office worker]] in Japan who performs generally [[pink collar]] tasks such as serving tea and [[secretary|secretarial]] or [[clerk (position)|clerical]] work. Like many unmarried Japanese, OLs often [[parasite single|live with their parents]] well into [[early adulthood]]. Office ladies are usually [[full time|full-time]] permanent staff, although the jobs they do usually have little opportunity for [[promotion (rank)|promotion]], and there is usually the [[wikt:tacit|tacit]] expectation that they leave their jobs once they get married.
+
+{{Nihongo|[[Freeter]]|フリーター|furītā}} (other spellings below) is a Japanese expression for people between the age of 15 and 34 who lack full time employment or are unemployed, excluding homemakers and students. They may also be described as ''[[underemployment|underemployed]]'' or [[freelance]] workers. These people do not start a [[career]] after [[Secondary education in Japan|high school]] or [[List of universities in Japan|university]] but instead usually live as [[parasite singles]] with their parents and earn some money with low skilled and low paid jobs. The low income makes it difficult for freeters to start a family, and the lack of qualifications makes it difficult to start a career at a later point in life.
+
+{{Nihongo|[[Karōshi]]|過労死|''karōshi''}}, which can be translated quite literally from Japanese as &quot;[[death from overwork]]&quot;, is occupational sudden death. The major medical causes of karōshi deaths are heart attack and stroke due to stress.
+
+{{Nihongo|[[Sōkaiya]]|総会屋|sōkaiya}}, (sometimes also translated as ''corporate bouncers'', ''meeting-men'', or ''corporate blackmailers'') are a form of specialized [[racketeer]] unique to Japan, and often associated with the [[yakuza]] that extort money from or blackmail companies by threatening to publicly [[Humiliation|humiliate]] companies and their management, usually in their {{Nihongo|annual meeting|総会|sōkai}}.
+
+{{Nihongo|[[Sarakin]]|サラ金}} is a Japanese term for moneylender, or [[loan shark]]. It is a contraction of the Japanese words for [[salaryman]] and cash. Around 14 million people, or 10% of the Japanese population, have borrowed from a ''sarakin''. In total, there are about 10,000 firms (down from 30,000 a decade ago); however, the top seven firms make up 70% of the market. The value of outstanding loans totals $100 billion. The biggest ''sarakin'' are publicly traded and often allied with [[List of banks in Japan|big banks]].&lt;ref name=&quot;economist&quot;&gt;[http://www.economist.com/finance/displaystory.cfm?story_id=11413090 Lenders of first resort], ''The Economist'', May 22, 2008&lt;/ref&gt;
+
+The first &quot;Western-style&quot; [[department stores in Japan|department store in Japan]] was [[Mitsukoshi]], founded in 1904, which has its root as a [[kimono]] store called Echigoya from 1673. When the roots are considered, however, [[Matsuzakaya]] has an even longer history, dated from 1611. The kimono store changed to a department store in 1910. In 1924, Matsuzakaya store in [[Ginza]] allowed street shoes to be worn indoors, something innovative at the time. [http://www.matsuzakaya.co.jp/corporate/history/honshi/index.shtml] These former kimono shop department stores dominated the market in its earlier history. They sold, or rather displayed, luxurious products, which contributed for their sophisticated atmospheres. Another origin of Japanese department store is that from railway company. There have been many [[private railway]] operators in the nation, and from 1920s, they started to build department stores directly linked to their lines' [[Terminal train station|termini]]. [[Seibu Department Stores|Seibu]] and [[Hankyu Department Stores|Hankyu]] are the typical examples of this type.
+
+From the 1980s onwards, Japanese department stores face fierce competition from supermarkets and convenience stores, gradually losing their presences. Still, ''depāto'' are bastions of several aspects of cultural conservatism in the country. Gift certificates for prestigious department stores are frequently given as formal presents in Japan. Department stores in Japan generally offer a wide range of services and can include [[Foreign exchange market|foreign exchange]], travel reservations, ticket sales for local concerts and other events.
+
+===Keiretsu===
+{{Main|Keiretsu}}
+A {{Nihongo|[[keiretsu]]|系列|extra=lit. ''system'' or ''series''}} is a set of companies with interlocking business relationships and shareholdings. It is a type of [[business group]]. The prototypical ''keiretsu'' appeared in Japan during the &quot;[[Japanese post-war economic miracle|economic miracle]]&quot; following World War II. Before Japan's surrender, Japanese industry was controlled by large family-controlled [[vertical monopoly|vertical monopolies]] called ''[[zaibatsu]]''. The [[Allies of World War II|Allies]] dismantled the ''zaibatsu'' in the late 1940s, but the companies formed from the dismantling of the ''zaibatsu'' were reintegrated.  The dispersed corporations were re-interlinked through share purchases to form horizontally integrated alliances across many industries. Where possible, ''keiretsu'' companies would also supply one another, making the alliances vertically integrated as well.  In this period, official government policy promoted the creation of robust trade corporations that could withstand pressures from intensified world trade competition.&lt;ref&gt;[http://select.nytimes.com/gst/abstract.html?res=F20616F63B5A107B93C5A8178CD85F408585F9&amp;scp=46&amp;sq=ogasawara&amp;st=p  &quot;Japan Again Plans Huge Corporations,&quot;] ''New York Times.'' July 17, 1954.&lt;/ref&gt;
+
+The major ''keiretsu'' were each centered around one bank, which lent money to the ''keiretsu's'' member companies and held equity positions in the companies. Each central bank had great control over the companies in the ''keiretsu'' and acted as a monitoring entity and as an emergency bail-out entity. One effect of this structure was to minimize the presence of [[hostile takeover]]s in Japan, because no entities could challenge the power of the banks.
+
+There are two types of ''keiretsu'': vertical and horizontal. Vertical ''keiretsu'' illustrates the organization and relationships within a company (for example all factors of production of a certain product are connected), while a horizontal ''keiretsu'' shows relationships between entities and industries, normally centered around a bank and trading company. Both are complexly woven together and self-sustain each other.
+
+The Japanese recession in the 1990s had profound effects on the keiretsu. Many of the largest banks were hit hard by bad loan portfolios and forced to merge or go out of business. This had the effect of blurring the lines between the keiretsu: [[Sumitomo Bank]] and [[Mitsui]] Bank, for instance, became [[Sumitomo Mitsui Banking Corporation]] in 2001, while [[Sanwa Bank]] (the banker for the Hankyu-Toho Group) became part of [[Bank of Tokyo-Mitsubishi UFJ]]. Additionally, many companies from outside the keiretsu system, such as [[Sony]], began outperforming their counterparts within the system.
+
+Generally, these causes gave rise to a strong notion in the business community that the old keiretsu system was not an effective business model, and led to an overall loosening of keiretsu alliances. While the keiretsu still exist, they are not as centralized or integrated as they were before the 1990s. This, in turn, has led to a growing [[corporate acquisition]] industry in Japan, as companies are no longer able to be easily &quot;bailed out&quot; by their banks, as well as rising [[derivative litigation]] by more independent shareholders.
+
+== Current economic issues ==
+The [[Junichiro Koizumi|Koizumi]] administration, which held office until 2006, enacted or attempted to pass (sometimes with failure) major [[privatization]] and foreign-investment laws intended to help stimulate Japan's economy. Although the effectiveness of these laws is still ambiguous, the economy began to respond, but [[Aging of Japan|Japan's aging population]] was expected to place further strain on growth in the future (Locke 2004).&lt;ref name=neoliberalism&gt;{{cite journal
+|url=http://www.btinternet.com/~pae_news/review/issue23.htm
+|title=Japan, Refutation of Neoliberalism
+|author=Robert Locke
+|issue=23
+|volume=5
+|journal=Post-Autistic Economics Review
+|date=January 5, 2004
+|accessdate=February 27, 2012}}&lt;/ref&gt;&quot;
+
+[[Keynesian economists]] claimed that Japan's economy was far stronger than generally believed (Locke 2004).&lt;ref name=&quot;neoliberalism&quot;/&gt; Some mainstream economists acknowledged that Japan, which unlike most developed countries had maintained its industrial base, and had [[List of countries by foreign exchange reserves|vast capital reserves]], had a strong economic outlook in 2004.
+
+The privatization of [[Japan Post]], the Japanese postal system, which also runs insurance and deposit-taking businesses, is a major issue.  A political battle over privatization caused a political stalemate in August 2005, and ultimately led to the dissolution of the Japanese [[House of Representatives of Japan|House of Representatives]].  The Postal Savings deposits, which have until now been used to fund public works projects, stands in excess of $1.9 trillion, and could be a major force in energizing the private sector.
+
+The Japanese monetary authorities' continued desire to depress the price of the [[Japanese yen]] relative to other key specific currencies to protect domestic business from imports may no longer be feasible.  The most recent record intervention in 2003 amounted to over 17 trillion yen, more than one third of one trillion  US dollars at the time and nearly 3% of Japan's 2003 GDP, being sold in favor of other non-yen denominated assets.  However, since 2005, Japan has not directly intervened to buy currency, as yen [[carry trade]] has effectively carried out the same task.
+
+Interestingly, international trade expanded by 60% from 91.4 trillion yen to 142.6 trillion yen from 2001 to 2006. Taking in account the economic participation rate, Japan's GDP per worker increased steadily during that period.
+
+The OECD downgraded its economic forecasts on March 20, 2008 for the Japan for the first half of 2008. Japan does not have room to ease fiscal or monetary policy, the 30-nation group warned. For Japan, the OECD said the pace of underlying growth appears to be softening despite support from buoyant neighboring Asian economies. The organization expects first-quarter GDP to be up 0.3 percent and predicts a rise of 0.2 in the second quarter (CNN 2008-03).&lt;ref&gt;[http://edition.cnn.com/2008/BUSINESS/03/20/oecd.recession.ap/index.html CNN] 2008/03/20&lt;/ref&gt;
+
+On November 17, 2008, Japanese government officials announced that the economy was in a [[recession]].&lt;ref&gt;{{cite news |first=Junko |last=Ogura |coauthors=[[Kyung Lah]] |title=Japan – world's No. 2 economy – in recession |curly=y |url=http://money.cnn.com/2008/11/16/news/international/japan_recession/index.htm?postversion=2008111620 |agency=[[CNN Money]] |work=[[CNN]] |date=November 16, 2008 |accessdate=November 17, 2008}}&lt;/ref&gt;  It was reported that Japan's economy contracted at an annual rate of 1.8% in the third quarter of 2008 and shrank 0.8% through the fiscal year that ends March 2009. In July 2009 unemployment reached a post-war high of 5.7 percent, according to the [[Japan Times]]. Although the economy recovered in 2010 [[list of countries by public debt|levels of public debt remain extremely high]], approaching 226% of GDP (Jackson 2010-04).&lt;ref name=diplomat&gt;{{cite article
+|url=http://the-diplomat.com/2010/04/06/who-controls-bank-of-japan/5/
+|title=Who Controls Bank of Japan?
+|journal=diplomat
+|author=Paul Jackson
+|date=April 6, 2010
+|accessdate=February 27, 2012
+}}&lt;/ref&gt;
+In 2012 the [[Organization for Economic Cooperation and Development]] (OECD) Yearbook editorial (Gurría 2012) stated that Japan's debt &quot;rose above 200% of GDP partly as a consequence of the tragic earthquake and the related reconstruction efforts.&lt;ref name=&quot;OECD_2012_ed&quot;&gt;{{cite report
+|url=http://www.oecd.org/document/32/0,3746,en_2649_201185_49417376_1_1_1_1,00.html
+|format=.html
+|chapter=Towards a positive legacy of a terrible crisis
+|title=OECD Yearbook 2012: Better Policies for Better Lives
+|author=Angel Gurría 
+|publisher=OECD
+|date=January 20, 2012
+|accessdate=February 27, 2012
+}}
+&lt;/ref&gt;&quot;
+
+On March 17, 2010 the [[Bank of Japan]] moved to boost yen reserves for 3-month bank loans to 20 trillion yen, although economists such as Richard Koo of the [[Nomura Research Institute]] see this as a move merely to please the [[Democratic Party of Japan]] because, as no money is leaving the financial system, there is no impact on long term rates in either the ordinary market or the [[Foreign exchange market]].&lt;ref name=diplomat/&gt; As a result of this the foreign press and the [[International Monetary Fund]] believe Japan should be doing more to help its economy recover (Jackson 2010-04).&lt;ref name=diplomat/&gt;
+
+In August 2010 the yen hit a 15-year high against the US dollar in nominal terms (BBC 2010-08).&lt;ref name=&quot;BBC News 15-year high&quot;&gt;{{cite news
+| url=  http://www.bbc.co.uk/news/business-11069511
+| title=  Japanese yen hits 15-year dollar high
+| publisher=  [[BBC News]]
+| date=  24 August 2010
+| accessdate= }}&lt;/ref&gt; In real exchange rate terms, however, the yen was still valued at less than its average since 1990.
+
+On October 2011, the Japanese Ministry of Finance spent around Y5 trillion-Y7.5 trillion ($60 billion-$80 billion) to buy dollars against the yen.The intervention came after the dollar touched a record low of 75.31 yen and pushed the world's main reserve currency up past 79 yen. The dollar, however, slipped below 78 in European trade (Reuters 2011-10-31).&lt;ref name=&quot;reuters&quot;&gt;{{cite news
+| url=  http://www.reuters.com/article/2011/10/31/us-japan-economy-yen-idUSTRE79U09Q20111031 | work=Reuters | title=Japan intervenes to tame soaring yen ahead of G20 | date=31 October 2011
+}}&lt;/ref&gt;
+
+== Other economic indicators ==
+[[File:Current Account Balance 2006.png|thumb|250px|Current account balance 2006&lt;ref&gt;[http://www.imf.org/external/pubs/ft/weo/2008/01/weodata/weorept.aspx?pr.x=90&amp;pr.y=11&amp;sy=2006&amp;ey=2008&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=512%2C446%2C914%2C666%2C612%2C668%2C614%2C672%2C311%2C946%2C213%2C137%2C911%2C962%2C193%2C674%2C122%2C676%2C912%2C548%2C313%2C556%2C419%2C678%2C513%2C181%2C316%2C682%2C913%2C684%2C124%2C273%2C339%2C921%2C638%2C948%2C514%2C943%2C218%2C686%2C963%2C688%2C616%2C518%2C223%2C728%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C522%2C692%2C622%2C694%2C156%2C142%2C624%2C449%2C626%2C564%2C628%2C283%2C228%2C853%2C924%2C288%2C233%2C293%2C632%2C566%2C636%2C964%2C634%2C182%2C238%2C453%2C662%2C968%2C960%2C922%2C423%2C714%2C935%2C862%2C128%2C716%2C611%2C456%2C321%2C722%2C243%2C942%2C248%2C718%2C469%2C724%2C253%2C576%2C642%2C936%2C643%2C961%2C939%2C813%2C644%2C199%2C819%2C184%2C172%2C524%2C132%2C361%2C646%2C362%2C648%2C364%2C915%2C732%2C134%2C366%2C652%2C734%2C174%2C144%2C328%2C146%2C258%2C463%2C656%2C528%2C654%2C923%2C336%2C738%2C263%2C578%2C268%2C537%2C532%2C742%2C944%2C866%2C176%2C369%2C534%2C744%2C536%2C186%2C429%2C925%2C178%2C746%2C436%2C926%2C136%2C466%2C343%2C112%2C158%2C111%2C439%2C298%2C916%2C927%2C664%2C846%2C826%2C299%2C542%2C582%2C443%2C474%2C917%2C754%2C544%2C698%2C941&amp;s=BCA&amp;grp=0&amp;a= Current account balance, U.S. dollars, Billions] from [[IMF]] World Economic Outlook Database, April 2008&lt;/ref&gt;]]
+
+'''[[Net international investment position]]:''' 266,223 \ billion&lt;ref&gt;{{cite web |url=http://www.mof.go.jp/english/international_policy/reference/iip/index.htm |title= International Investment Position of Japan (End of 2009) |publisher= Ministry of Finance, Japan |accessdate=May 8, 2011}}&lt;/ref&gt; (1st)&lt;ref&gt;{{cite web |url=http://www.nikkei.com/news/headline/article/g=96958A9C93819488E0EAE2E6E68DE2E0E2E7E0E2E3E399E3E3E4E2E2;df=2 |title=「日本売り」なぜ起きない 円安阻むからくりに迫る |accessdate=May 8, 2011 |publisher= Nihon Keizai Shimbun |date=May 8, 2011}}&lt;/ref&gt;
+
+'''Industrial Production Growth Rate:''' 7.5% (2010 est.)
+
+'''Investment (gross fixed):''' 20.3% of GDP (2010 est.)
+
+'''Household income or consumption by percentage share:'''
+* ''Lowest 10%:'' 4.8%
+* ''Highest 10%:'' 21.7% (1993)
+'''Agriculture – Products:''' rice, sugar beets, vegetables, fruit, pork, poultry, dairy products, eggs, fish
+
+'''Exports – Commodities:''' machinery and equipment, motor vehicles, semiconductors, chemicals
+
+'''Imports – Commodities:''' machinery and equipment, fuels, foodstuffs, chemicals, textiles, raw materials (2001)
+
+'''[[Exchange rates]]:'''&lt;br&gt;
+''Japanese Yen per US$1'' – 88.67 (2010), 93.57 (2009), 103.58 (2008), 117.99 (2007), 116.18 (2006), 109.690016 (2005), 115.933 (2003), 125.388 (2002), 121.529 (2001), 105.16 (January 2000), 113.91 (1999), 130.91 (1998), 120.99 (1997), 108.78 (1996), 94.06 (1995)
+
+'''Electricity:'''
+* ''Electricity – consumption:'' 925.5 billion [[kWh]] (2008)
+* ''Electricity – production:'' 957.9 billion kWh (2008 est.)
+* ''Electricity – exports:'' 0 kWh (2008)
+* ''Electricity – imports:'' 0 kWh (2008)
+
+'''Electricity – Production by source:'''
+* ''Fossil Fuel:'' 69.7%
+* ''Hydro:'' 7.3%
+* ''Nuclear:'' 22.5%
+* ''Other:'' 0.5% (2008)
+
+'''Electricity – Standards:'''
+* 100 [[volts]] at 50&amp;nbsp;Hz from the Oi River (in [[Shizuoka Prefecture|Shizuoka]]) Northward;
+* 100 [[volts]] at 60&amp;nbsp;Hz Southward
+
+'''Oil:'''
+* ''production:'' {{convert|132700|oilbbl/d|abbr=on}} (2009) ([[List of countries by oil production|46th]])
+* ''consumption:'' {{convert|4363000|oilbbl/d|abbr=on}} (2009) ([[List of countries by oil consumption|3rd]])
+* ''exports:'' {{convert|380900|oilbbl/d}} (2008) ([[List of countries by oil exports|64th]])
+* ''imports:'' {{convert|5033000|oilbbl/d}} (2008) ([[List of countries by oil imports|2nd]])
+* ''net imports:'' {{convert|4620000|oilbbl/d}} (2008 est.)
+* ''proved reserves:'' {{convert|44120000|oilbbl|abbr=on}} (1 January 2010 est.)
+
+== See also ==
+* [[Economic history of Japan]]
+* [[Tokugawa coinage]]
+* [[Japanese post-war economic miracle]]
+* [[Japanese asset price bubble]]
+* [[Machine orders]], an [[economic indicator]] specific to the Japanese economy
+* [[Quantitative easing]]
+
+==Notes==
+{{Reflist|2}}
+
+==External links==
+{{Commons category|Economy of Japan}}
+* [http://www5.cao.go.jp/keizai3/getsurei-e/index-e.html Cabinet Office Monthly Economic Report and Main Economic Indicators]
+* [http://www.oecd.org/document/25/0,3746,en_33873108_33873539_47675097_1_1_1_1,00.html Japan's economic outlook following the 11 March 2011 Earthquake]
+* [http://www.oecd.org/document/62/0,3746,en_33873108_33873539_47651390_1_1_1_1,00.html OECD Economic Survey of Japan 2011]
+* [http://www.oecd.org/document/23/0,3343,en_33873108_33873539_40375191_1_1_1_1,00&amp;&amp;en-USS_01DBC.html Economic survey of Japan 2008: Reforming the labour market to cope OECD with increasing dualism and population ageing]
+*[http://www.nbr.org/research/activity.aspx?id=178 Japan’s Debt Challenge], Q&amp;A with economist William W. Grimes (October 2011)
+* [http://www.imf.org/external/pubs/ft/wp/2009/wp0997.pdf Why Are Japanese Wages So Sluggish? IMF Working paper]
+* [http://iserp.columbia.edu/files/iserp/2007_09.pdf Long-Term Effects of a Recession at Labor Market Entry in Japan and the United States]
+* [http://www3.interscience.wiley.com/cgi-bin/fulltext/119957777/PDFSTART LABOR TURNOVER IN THE USA AND JAPAN: A TALE OF TWO COUNTRIES]
+* [http://repository.library.georgetown.edu/handle/10822/552494/search?query=geographic-region%3A%22Japan%22 Videos on Japan's Relations with the US] from the [http://repository.library.georgetown.edu/handle/10822/552494 Dean Peter Krogh Foreign Affairs Digital Archives]
+
+{{Navboxes|list1=  
+{{Japan topics}}
+{{Economy of Japan|uncollapsed}}
+{{APEC}}
+{{Organisation for Economic Co-operation and Development}}
+{{World Trade Organization}}
+{{Asia topic|Economy of}}
+}}
+
+{{DEFAULTSORT:Economy Of Japan}}
+[[Category:Economy of Japan| ]]
+[[Category:Organisation for Economic Co-operation and Development member economies|Japan]]
+
+[[ar:اقتصاد اليابان]]
+[[bn:জাপানের অর্থনীতি]]
+[[ca:Economia del Japó]]
+[[cy:Economi Japan]]
+[[de:Wirtschaft Japans]]
+[[es:Economía de Japón]]
+[[fa:اقتصاد ژاپن]]
+[[fr:Économie du Japon]]
+[[gl:Economía do Xapón]]
+[[ko:일본의 경제]]
+[[hi:जापान की अर्थव्यवस्था]]
+[[hr:Gospodarstvo Japana]]
+[[io:Ekonomio di Japonia]]
+[[id:Ekonomi Jepang]]
+[[it:Economia del Giappone]]
+[[he:כלכלת יפן]]
+[[lt:Japonijos ekonomika]]
+[[ms:Ekonomi Jepun]]
+[[ja:日本の経済]]
+[[oc:Economia de Japon]]
+[[pl:Gospodarka Japonii]]
+[[pt:Economia do Japão]]
+[[ro:Economia Japoniei]]
+[[ru:Экономика Японии]]
+[[fi:Japanin talous]]
+[[uk:Економіка Японії]]
+[[vi:Kinh tế Nhật Bản]]
+[[zh:日本經濟]]</text>
+      <sha1>pdn42nk3h1lbbgic1jyllj66nlkf8e5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

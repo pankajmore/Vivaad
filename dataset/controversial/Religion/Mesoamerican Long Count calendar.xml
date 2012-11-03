@@ -1,0 +1,440 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mesoamerican Long Count calendar</title>
+    <ns>0</ns>
+    <id>9530099</id>
+    <revision>
+      <id>520655233</id>
+      <parentid>520649895</parentid>
+      <timestamp>2012-10-30T22:02:23Z</timestamp>
+      <contributor>
+        <username>Senor Cuete</username>
+        <id>4511431</id>
+      </contributor>
+      <comment>NOT AGAIN!!!</comment>
+      <text xml:space="preserve" bytes="38533">The '''Mesoamerican Long Count calendar''' is a non-repeating, [[vigesimal]] (base-20) and base-18 calendar used by several [[Pre-Columbian]] [[Mesoamerica]]n cultures, most notably the [[Maya civilization|Maya]].  For this reason, it is sometimes known as the '''Maya''' (or '''Mayan''') '''Long Count calendar'''. Using a modified vigesimal tally, the Long Count calendar identifies a day by counting the number of days passed since a [[Mesoamerican creation myths|mythical creation date]] that corresponds to August 11, 3114 [[Common Era|BCE]] in the [[Proleptic Gregorian calendar|Gregorian calendar]].&lt;ref group=n&gt;The correlation between the Long Count and Western calendars is calculated according to the one used by a majority of Maya researchers, known as the (modified) GMT or Goodman-Martinez-Thompson correlation. An alternate correlation sometimes used puts the starting date two days later. August 11, 3114 BCE is a date in the [[proleptic Gregorian calendar]], which equates to September 6, 3114 BCE in the [[Julian calendar]] and −3113 in [[astronomical year numbering]].  See [[Mesoamerican Long Count calendar#Correlations between Western calendars and the Long Count|Correlations between Western calendars and the Long Count calendar section]] elsewhere in this article for details on correlations.&lt;/ref&gt;  The Long Count calendar was widely used on monuments.
+
+[[Image:East side of stela C, Quirigua.PNG|thumb|200px|right|East side of stela C, Quirigua with the mythical creation date of 13 baktuns, 0 katuns, 0 tuns, 0 uinals, 0 kins, 4 Ahau 8 Cumku - August 11, 3114 BCE in the [[proleptic Gregorian calendar]].]]
+
+==Background==
+Among other calendars devised in pre-Columbian Mesoamerica, two of the most widely used were the 365-day solar calendar (the Maya version is known as the ''[[Haab']]'') and the 260-day calendar, with 20 periods of 13 days.  In Mayan studies this 260-day calendar is known as the ''[[Tzolk'in]]''; the equivalent Aztec calendar is known by a Nahuatl name, ''[[tonalpohualli]]''.
+
+The Haab' and the Tzolk'in calendars identified and named the days, but not the years. The combination of a Haab' date and a Tzolk'in date identifies a specific date in a combination which did not occur again for 52 years.  The two calendars based on 365 days and 260 days repeat every 52 Haab' years, a period generally known as the [[Calendar Round]]. To designate dates over periods longer than 52 years, some Mesoamericans utilized the Long Count calendar.
+
+==Long Count periods==
+The Long Count calendar identifies a date by counting the number of days from a starting date that is generally calculated to be August 11, 3114 BCE in the proleptic Gregorian calendar or September 6 in the Julian calendar (or −3113 in astronomical year numbering).  There has been much debate over the precise correlation between the Western calendars and the Long Count calendars.  The August 11 date is based on the GMT correlation (see [[Mesoamerican Long Count calendar#Correlations between Western calendars and the Long Count|Correlations between Western calendars and the Long Count calendar section]] elsewhere in this article for details on correlations).
+
+The completion of 13 b'ak'tuns (August 11, 3114 BCE) marks the Creation of the world of human beings according to the Maya. On this day, [[Raised-up-Sky-Lord]] caused three stones to be set by associated gods at [[Lying-Down-Sky]], [[First-Three-Stone-Place]]. Because the sky still lay on the primordial sea, it was black. The setting of the three stones centered the cosmos which allowed the sky to be raised, revealing the {{nowrap|sun.&lt;ref&gt;Freidel, Schele &amp; Parker (1993, pp.59–75).&lt;/ref&gt;}}
+
+Rather than using a base-10 scheme, like Western numbering, the Long Count days were tallied in a base-20 and base-18 scheme.  Thus 0.0.0.1.5 is equal to 25, and 0.0.0.2.0 is equal to 40.  The Long Count is not consistently base-20, however, since the second digit from the right rolls over to zero when it reaches 18.  Thus 0.0.1.0.0 does not represent 400 days, but rather only 360 days.
+
+The following table shows the period equivalents as well as Maya names for these periods:
+&lt;center&gt;
+{| class=&quot;wikitable&quot;
+!Representation !!  Long Count subdivisions !!Days!!~ solar years
+|-
+| 0.0.0.0.1 ||  1 [[k'in]] ||1 ||1/365
+|-
+| 0.0.0.1.0 ||  1 [[winal]] = 20 k'in ||20 ||0.055
+|-
+| 0.0.1.0.0 ||  1 [[Tun (Maya calendar)|tun]] = 18 winal || 360 ||0.986
+|-
+| 0.1.0.0.0 ||  1 [[k'atun]] = 20 tun || 7,200 ||19.71
+|-
+| 1.0.0.0.0 ||  1 [[Baktun|b'ak'tun]] = 20 k'atun || 144,000 ||394.3
+|}
+&lt;/center&gt;
+Note that the name b'ak'tun is a back-formation invented by scholars. The numbered Long Count was no longer in use by the time the Spanish arrived in the [[Yucatán Peninsula]], although unnumbered k'atuns and tuns were still in use. Instead the Maya were using an abbreviated [[Maya calendar#Short Count|Short Count]].
+
+==Mesoamerican numerals==
+
+[[Image:maya.svg|thumb|Maya numerals]]
+Long Count dates are written with Mesoamerican numerals, as shown on this table. A dot represents ''1'' while a bar equals ''5''.  The shell glyph was used to represent the zero concept.  The Long Count calendar required the use of zero as a place-holder, and presents one of the earliest uses of the zero concept in history. See also [[0_(number)#History|History of zero]].
+
+On Maya monuments, the Long Count syntax is more complex.  The date sequence is given once, at the beginning of the inscription, and opens with the so-called ISIG (Introductory Series Initial Glyph) which reads ''tzik-a(h) hab’ [patron of Haab' month]''  (&quot;revered was the year-count with the patron [of the month]&quot;).&lt;ref&gt;Boot, p. 2.&lt;/ref&gt;  Next come the 5 digits of the Long Count, followed by the Calendar Round (tzolk'in and Haab') and [[Maya calendar#Supplementary Series|supplementary series]]. The supplementary series is optional and contains lunar data, for example, the age of the moon on the day and the calculated length of current lunation.&lt;ref group=n&gt;Notable in this sequence is the glyph with nine variant forms labeled G by early epigraphers.  It has been connected with the cycle of Lords of the Night known from colonial era sources in Central Mexico but alternate explanations have also been offered. See Thompson.&lt;/ref&gt; The text then continues with whatever activity occurred on that date.
+
+A drawing of a full Maya Long Count inscription is shown [[#Calculating a full Long Count date|below]].
+
+==Earliest Long Counts==
+The earliest Long Count inscription yet discovered is on Stela 2 at [[Chiapa de Corzo (Mesoamerican site)|Chiapa de Corzo]], [[Chiapas]], Mexico, showing a date of 36 BCE.&lt;ref group=n&gt;To clarify, there are Long Count inscriptions which refer to dates earlier than 36 BCE, but these were carved much later than those dates.&lt;/ref&gt; This table lists the six artifacts with the eight oldest Long Counts according to Vincent H. Malmström.&lt;ref&gt;Vincent H. Malmström, [http://www.dartmouth.edu/~izapa/CS-MM-Chap.%206.htm ''Cycles of the Sun, Mysteries of the Moon'' (Chapter 6)] Malmström's Gregorian dates are three or four days later than a correlation of 584283 would give (the Wikipedia table has been corrected).&lt;/ref&gt;
+
+{| class=&quot;wikitable&quot; style=&quot;margin:auto;&quot;
+!Archaeological site
+!Name
+!Gregorian date
+&lt;small&gt;GMT (584283) correlation&lt;/small&gt;
+!Long Count
+!Location
+|-
+|[[Chiapa de Corzo (Mesoamerican site)|Chiapa de Corzo]]
+|Stela 2
+|December 6, 36 BCE
+|7.16.3.2.13
+|Chiapas, Mexico
+|-
+|[[Tres Zapotes]]
+|Stela C
+|September 1, 32 BCE
+|7.16.6.16.18
+|[[Veracruz]], Mexico
+|-
+|[[El Baúl]]
+|Stela 1
+|March 2, 37 CE
+|7.19.15.7.12
+|[[Guatemala]]
+|-
+|[[Abaj Takalik]]
+|Stela 5
+|May 19, 103 CE
+|8.3.2.10.15
+|Guatemala
+|-
+|Abaj Takalik
+|Stela 5
+|June 3, 126 CE
+|8.4.5.17.11
+|Guatemala
+|-
+|[[La Mojarra]]
+|[[La Mojarra Stela 1|Stela 1]]
+|May 19, 143 CE
+|8.5.3.3.5
+|Veracruz, Mexico
+|-
+|La Mojarra
+|Stela 1
+|July 11, 156 CE
+|8.5.16.9.7
+|Veracruz, Mexico
+|-
+|Near La Mojarra
+|[[Tuxtla Statuette]]
+|March 12, 162 CE
+|8.6.2.4.17
+|Veracruz, Mexico
+|}
+
+Of the six sites, three are on the western edge of the Maya homeland and three are several hundred kilometers further west, leading most researchers to believe that the Long Count calendar predates the Maya.&lt;ref&gt;Diehl (2004, p.186).&lt;/ref&gt; La Mojarra Stela 1, the Tuxtla Statuette, Tres Zapotes Stela C, and Chiapa Stela 2 are all inscribed in an [[Epi-Olmec script|Epi-Olmec]], not Maya, style.&lt;ref&gt;&quot;A sketch of prior documentation of epi-Olmec texts&quot;, Section 5 in Peréz de Lara &amp; Justeson (2005).&lt;/ref&gt;  El Baúl Stela 2, on the other hand, was created in the [[Izapa]]n style. The first unequivocally Maya artifact is Stela 29 from [[Tikal]], with the Long Count date of 292 CE (8.12.14.8.15), more than 300 years after Stela 2 from Chiapa de Corzo.&lt;ref&gt;Coe &amp; Koontz (2002, p.87)&lt;/ref&gt;
+[[Image:Estela C de Tres Zapotes.jpg|thumb|250px|left|The back of Stela C from [[Tres Zapotes]], an Olmec archaeological site.&lt;br&gt;This is the second oldest Long Count date yet discovered.  The numerals 7.16.6.16.18 translate to September 1, 32 BCE (Gregorian). The glyphs surrounding the date are what is thought to be one of the few surviving examples of [[Epi-Olmec script]].]]
+[[Image:La Mojarra Inscription and Long Count date.jpg|thumb|200px|right|Detail showing three columns of glyphs from a portion of the 2nd century CE [[La Mojarra Stela 1]].  The left column gives a Long Count date of 8.5.16.9.7, or 156 CE. The two right columns visible are glyphs from the [[Epi-Olmec script]].]]
+{{clr}}
+
+== Correlations between Western calendars and the Long Count ==
+
+The Maya and western calendars are correlated by using a [[Julian day number]] of the starting date of the current creation – 13.0.0.0.0 4 Ajaw, 8 Kumk'u.&lt;ref group=n&gt;All extant Maya inscriptions that represent this base date wrote it with a 13 Bak'tuns, not 0, however, when using this as a base date in calculations this 13 functions mathematically as if it were a zero.&lt;/ref&gt; This is referred to as a correlation constant. The generally accepted correlation constant is the Modified Thompson 2, &quot;[[Joseph T. Goodman|Goodman]], [[Juan H. Martinez-Hernandez|Martinez]], [[J. Eric S. Thompson|Thompson]]&quot; – GMT correlation of 584,283 days. Using the GMT correlation the current creation started on September 6, 3114 BC ([[Julian calendar|Julian]]) or August 11 in the [[Proleptic Gregorian calendar]]. The study of correlating the Maya and western calendar is referred to as the correlation question.&lt;ref&gt;[http://www.mesoweb.com/publications/CAA_14/Thompson1935.pdf Maya chronology: The correlation question by J. Eric Thompson]&lt;/ref&gt;&lt;ref&gt;[http://books.google.com/books?id=VrSVFTyTOegC&amp;pg=PA73#v=onepage&amp;q=&amp;f=false ''Maya Hieroglyphic Writing'' by Sir John Eric Sidney Thompson]&lt;/ref&gt;&lt;ref&gt;[http://alignment2012.com/fap3.html Clarifications: The Correlation Debate]&lt;/ref&gt;&lt;ref&gt;[http://www.hermetic.ch/cal_stud/maya/chap2.htm The Correlation Problem]&lt;/ref&gt;&lt;ref&gt;[http://www.famsi.org/research/vanstone/2012/faq.html#correlation What is this correlation constant?]&lt;/ref&gt; In ''Breaking the Maya Code'', [[Michael D. Coe]] writes: &quot;In spite of oceans of ink that have been spilled on the subject, there now is not the slightest chance that these three scholars (conflated to GMT when talking about the correlation) were not right...&quot;.&lt;ref&gt;''Breaking the Maya Code'', 1992, p. 114.&lt;/ref&gt;
+
+The evidence for the GMT correlation is historical, astronomical, and archaeological:
+
+''Historical'': Calendar Round dates with a corresponding [[Julian calendar|Julian date]] are recorded in [[Diego de Landa]]'s ''[[Relación de las cosas de Yucatán]]'', the Chronicle of Oxcutzkab and the books of [[Chilam Balam]]. Oxcutzkab and de Landa record a date that is a Tun ending. Regarding these historical references in ''The Skywatchers'' [[Anthony F. Aveni|Aveni]] writes: &quot;All the assembled data are consistent with the equation November 2, 1539 = 11.16.0.0.0. Thus for the GMT, or 11.16 correlation we find that A = 584,283...&quot;.&lt;ref&gt;Anthony F. Aveni, ''The Sky Watchers'', 201, pp. 208–210.&lt;/ref&gt; The fall of the capital city of the Aztec Empire, [[Tenochtitlan]], occurred on August 13, 1521. A number of different chroniclers wrote that this was a [[Tzolk'in]] ([[Tonalpohualli]]) of 1 Snake. Post-conquest scholars such as [[Sahagún, Bernardino de|Sahagun]] and [[Diego Duran|Duran]] recorded [[Aztec calendar]] dates with a calendar date. Many indigenous Guatemalan communities, principally those speaking the Mayan languages known as Ixil, Mam, Pokomchí, and Quiché, keep the Tzolk'in and (in many cases) the Haab'&lt;ref&gt;Barbara Tedlock, Time and the Highland Maya Revised edition (1992 Page 1)&lt;/ref&gt; and in Veracruz, Oaxaca and Chiapas, Mexico&lt;ref&gt;Miles, Susanna W, &quot;An Analysis of the Modern Middle American Calendars: A Study in Conservation.&quot; In Acculturation in the Americas. Edited by Sol Tax, pp. 273–84. Chicago: University of Chicago Press, 1952.&lt;/ref&gt;  These are all consistent with the GMT correlation.
+
+''Astronomical'': Any correct correlation must match the astronomical content of classic inscriptions. The GMT correlation does an excellent job of matching lunar data in the [[Maya calendar#Supplementary Series|supplementary series]].&lt;ref&gt;[http://www.astras-stargate.com/lunarglyphs.html The Supplementary and Lunar Glyphs]&lt;/ref&gt; For example: An inscription at the Temple of the Sun at [[Palenque]] records that on Long Count 9.16.4.10.8 there were 26 days completed in a 30 day lunation.&lt;ref&gt;Fuls, Ancient Mesoamerica, 18 (2007), 273–282 Cambridge University Press. after Robertson 1991: Vol. 4 : p. 95.&lt;/ref&gt; This Long Count is also the entry date for the eclipse table of the [[Dresden Codex]]&lt;ref&gt;[http://www.biblioteces.net/ciencia/dresden/dresdencodex03.htm The Dresden Codex eclipse table by Michael John Finley]&lt;/ref&gt; {{#tag:ref|According to Thompson&lt;ref&gt;Thompson, J. Eric S. (1950). Maya Hieroglyphic Writing, an Introduction. Page 236&lt;/ref&gt; &quot;The point from which the moon age is counted is not surely known. The possibilities are disappearance of the old moon, conjunction, or appearance of the new moon... Beyer (1973a) believed that the calculation was made from the disappearance of the old moon. The latter method of counting (disappearance of the old moon) is still current in some Tzeltal, Chol, and Tzotzil villages in Chiapas...&quot;
+
+Using method three the new moon would have been the first evening when one could look to the west after sunset and see the thin crescent moon. Given our modern ability to know exactly where to look, when the crescent Moon is favorably located, from an excellent site, on rare occasions observers can see and photograph the crescent moon less than one day after conjunction. Generally, most observers won't see the new Moon until the first evening when the lunar phase day is at least 1.5.&lt;ref&gt;&quot;Sighting the Crescent Moon&quot;, ''Sky &amp; Telescope'', July 1994, 14&lt;/ref&gt;&lt;ref&gt;&quot;In Quest of the Youngest Moon&quot;, ''Sky &amp; Telescope'', December 1996, 104–105&lt;/ref&gt;&lt;ref&gt;&quot;Young Moons and the Islamic Calendar&quot;, ''Sky &amp; Telescope'', December 1996, 106&lt;/ref&gt;&lt;ref&gt;&quot;Seeking Thin Crescent Moons&quot;, ''Sky &amp; Telescope'', February 2004, 102–106&lt;/ref&gt;&lt;ref&gt;&quot;Young-Moon Hunting in 2005&quot;, ''Sky and Telescope'', February 2005, 75–76&lt;/ref&gt; If one assumes that that the new moon is the first day when the lunar phase day is at least 1.5 at six in the evening in time zone UTC−6 (the time zone of the Maya area) the GMT correlation will match many lunar inscriptions exactly. In this example the lunar phase day was 27.7 (26 days counting from zero) at 6&amp;nbsp;pm after a conjunction at 1:25&amp;nbsp;am {{nowrap|October 10, 755}} and a new Moon when the lunar phase day was 1.7 at 6&amp;nbsp;pm on {{nowrap|October 11, 755}} (Julian calendar). This works well for many but not all lunar inscriptions.
+
+Modern astronomers refer to the conjunction of the Sun and Moon (the time when the Sun and Moon have the same ecliptic longitude) as the new moon. In order for the Maya to have been able to calculate this they would they would have had to have a complete understanding of orbital mechanics, spherical trigonometry, etc. so this seems impossible.
+
+Method one seems to have been used for other inscriptions such as Quirgua stela E (9.17.0.0.0). Using method three it should have a moon age of 26 days when in fact it records a new moon.&lt;ref&gt;[http://books.google.com/books?id=GdlzA3yUlTUC&amp;pg=PA40&amp;lpg=PA40&amp;dq=Quirigua+Stela+E+Lunar+age&amp;source=bl&amp;ots=GQ0UpGuLZV&amp;sig=-N0jb28b-ZTTpchPGJglR2zBN4c&amp;hl=en&amp;sa=X&amp;ei=uCALT_6-BtDMiQKRrLS6CQ&amp;ved=0CD0Q6AEwBA#v=onepage&amp;q=Quirigua%20Stela%20E%20Lunar%20age&amp;f=false]&lt;/ref&gt; Using the GMT correlation at six AM in time zone -six this would be 2.25 days before conjunction so it could record the first day when one could not see the waning moon.
+
+Fuls&lt;ref&gt;Andreas Fuls Ancient Mesoamerica, 18 (2007), 273–282 Cambridge University Press.&lt;/ref&gt; Analysed these inscriptions and Concluded:&quot; Analysis of the Lunar Series shows that at least two different methods and formulas were used to calculate the moon’s age and position in the six-month cycle…&quot;|group=n}} which gives eclipse seasons when the Moon is near its [[Ascending node|ascending]] or [[Ascending node|descending]] node and an [[eclipse]] is likely to occur. Dates converted using the GMT correlation fall roughly in this eclipse season. The [[Dresden Codex]] contains a [[Venus]] table which records the [[heliacal rising]]s of Venus. The GMT correlation agrees with these to within a few days which is as accurately as these could have been observed by the ancient Maya.
+
+''Archaeological'': Various items that can be associated with specific Long Count dates have been [[Isotope dating|isotope dated]]. In 1959 the [[University of Pennsylvania]] [[carbon dating|carbon dated]] samples from ten wood lintels from [[Tikal]].&lt;ref&gt;[http://www.jstor.org/pss/277941 &quot;Review of radiocarbon dates from Tikal and the Maya calendar correlation problem&quot; by Elizabeth K. Ralph]&lt;/ref&gt; These were carved with a date equivalent to 741 AD using the GMT correlation. The average [[carbon dating|carbon date]] was 746±34 years.
+
+If a proposed correlation only has to agree with one of these lines of evidence there could be numerous other possibilities. Astronomers have proposed many correlations, for example: [[Floyd Lounsbury|Lounsbury]],&lt;ref&gt;[http://alignment2012.com/fap9.html Academic Confusion by John Major Jenkins]&lt;/ref&gt; Fuls, ''et al.'',&lt;ref&gt;[http://www.archaeoastronomie.de/mayaeng/corrtabl.htm The Correlation Question by Andreas Fuls]&lt;/ref&gt; Böhm and Böhm&lt;ref&gt;[http://www.hermetic.ch/cal_stud/maya/boehm/korelaceangl.doc Mayan Dating by Vladimir Böhm and Bohumil Böhm]&lt;/ref&gt; and Stock.&lt;ref&gt;[http://www.baktun.de/English/english.html Dating the Eclipse Table of the Dresden Codex and the Correlation Problem]&lt;/ref&gt;
+
+Today, {{CURRENTDATE}}, in the Long Count is {{Maya date}} (GMT correlation).
+
+{| class=&quot;wikitable&quot; align=left style=&quot;margin-left: 1.5em&quot;
+|+'''JDN correlations &lt;br&gt; to the Maya creation date'''&lt;br&gt;(after Thompson 1971, et al. and Aveni 1980)
+!Name !! Correlation
+|-
+|Bowditch||394,483
+|-
+|Willson||438,906
+|-
+|Smiley||482,699
+|-
+|Makemson||489,138
+|-
+|Modified Spinden||489,383
+|-
+|Spinden||489,384
+|-
+|Teeple||492,622
+|-
+|Dinsmoor||497,879
+|-
+|−4CR||508,363
+|-
+|−2CR||546,323
+|-
+|Stock||556,408
+|-
+|Goodman||584,280
+|-
+|Martinez-Hernandez||584,281
+|-
+|'''GMT'''||'''584,283'''
+|-
+|Modified Thompson 1||584,284
+|-
+|Thompson (Lounsbury)||584,285
+|-
+|Pogo||588,626
+|-
+|&lt;nowiki&gt;+2CR&lt;/nowiki&gt;||622,243
+|-
+|Böhm||622,261
+|-
+|Kreichgauer||626,927
+|-
+|&lt;nowiki&gt;+4CR&lt;/nowiki&gt;||660,203
+|-
+|Fuls, ''et al.''||660,208
+|-
+|Hochleitner||674,265
+|-
+|Schultz||677,723
+|-
+|Escalona-Ramos||679,108
+|-
+|Vaillant||679,183
+|-
+|Weitzel||774,078
+|}
+{{Clear right}}
+
+{| class=&quot;wikitable&quot; align=right style=&quot;margin-right: 1.5em&quot;
+!Long Count{{#tag:ref|Freidel, Schele &amp; Parker use 13 for higher order positions of piktuns and kalatuns (for example, 13.13.13.0.0.0.0) when not occupied by 1 or 0 to conform to the unlimited number of 13s larger than b'ak'tuns discussed in [[#Piktuns and higher orders|Piktuns and higher orders]]. B'ak'tuns {{nowrap|2–12 &amp; 14–19}} are interpolated between the authors' 13.13.1.0.0.0.0, 13.13.13.0.0.0.0 and 13.1.0.0.0.0.0.&lt;ref&gt;Freidel, Schele &amp; Parker (1993, p. 63)&lt;/ref&gt;|group=n}} !! Gregorian date&lt;br/&gt;&lt;small&gt;GMT (584283) correlation&lt;/small&gt;
+|-
+|align=right| 13.0.0.0.0 || August 11, 3114 BCE
+|-
+|align=right| 1.0.0.0.0 || November 13, 2720 BCE
+|-
+|align=right| 2.0.0.0.0 || February 16, 2325 BCE
+|-
+|align=right| 3.0.0.0.0 || May 21, 1931 BCE
+|-
+|align=right| 4.0.0.0.0 || August 23, 1537 BCE
+|-
+|align=right| 5.0.0.0.0 || November 26, 1143 BCE
+|-
+|align=right| 6.0.0.0.0 || February 28, 748 BCE
+|-
+|align=right| 7.0.0.0.0 || June 3, 354 BCE
+|-
+|align=right| 8.0.0.0.0 || September 5, 41 CE
+|-
+|align=right| 9.0.0.0.0 || December 9, 435
+|-
+|align=right| 10.0.0.0.0 || March 13, 830
+|-
+|align=right| 11.0.0.0.0 || June 15, 1224
+|-
+|align=right| 12.0.0.0.0 || September 18, 1618
+|-
+|align=right| 13.0.0.0.0 || December 21, 2012
+|-
+|align=right| 14.0.0.0.0 || March 26, 2407
+|-
+|align=right| 15.0.0.0.0 || June 28, 2801
+|-
+|align=right| 16.0.0.0.0 || October 1, 3195
+|-
+|align=right| 17.0.0.0.0 || January 3, 3590
+|-
+|align=right| 18.0.0.0.0 || April 7, 3984
+|-
+|align=right| 19.0.0.0.0 || July 11, 4378
+|-
+|align=right| 1.0.0.0.0.0 || October 13, 4772
+|}
+{{clr}}
+
+== 2012 and the Long Count ==
+{{main|2012 phenomenon}}
+
+According to the ''[[Popol Vuh]]'', a book compiling details of [[Mesoamerican creation accounts|creation accounts]] known to the [[K'iche' people|K'iche' Maya]] of the Colonial-era highlands, we are living in the fourth world.&lt;ref name=&quot;schele1&quot;&gt;Schele &amp; Freidel (1990, pp.429–430&lt;/ref&gt; The ''Popol Vuh'' describes the first three creations that the gods failed in making and the creation of the successful fourth world where men were placed. In the Maya Long Count, the previous creation ended at the start of a 14th b'ak'tun.
+
+The previous creation ended on a long count of 12.19.19.17.19. Another 12.19.19.17.19 will occur on December 20, 2012, followed by the start of the 14th b'ak'tun, 13.0.0.0.0, on December 21, 2012.{{#tag:ref|Various sources place this on other dates, notably on December 23.&lt;ref&gt;Schele and Friedel (1992).&lt;/ref&gt;|group=n}} There are only two references to the current creation's 13th b'ak'tun in the fragmentary Mayan corpus: [[Tortuguero (Maya site)|Tortuguero]] Monument 6, part of a ruler's inscription and the recently discovered La Corona Hieroglyphic Stairway 2, Block V. http://decipherment.wordpress.com/2012/06/30/notes-on-a-new-text-from-la-corona/
+
+Maya inscriptions occasionally reference future predicted events or commemorations that would occur on dates that lie beyond 2012 (that is, beyond the completion of the 13th ''b'ak'tun'' of the current era).  Most of these are in the form of &quot;distance dates&quot; where some Long Count date is given, together with a Distance Number that is to be added to the Long Count date to arrive at this future date.
+
+For example, on the west panel at the [[Temple of Inscriptions]] in [[Palenque]], a section of the text projects into the future to the 80th Calendar Round (CR) 'anniversary' of the famous Palenque ruler [[K'inich Janaab' Pakal]]'s accession to the throne (Pakal's accession occurred on a Calendar Round date 5 Lamat 1 Mol, at Long Count 9.9.2.4.8 equivalent to 27 July 615 CE in the proleptic Gregorian calendar).&lt;ref group=n&gt;Gregorian, using GMT correlation JDN=584283.&lt;/ref&gt; It does this by commencing with Pakal's birthdate 9.8.9.13.0{{nbsp|2}}8 Ajaw 13 Pop (24 March {{nowrap|603 CE Gregorian}}) and adding to it the Distance Number 10.11.10.5.8.&lt;ref name=&quot;Schele 1992, pp.93–95&quot;&gt;Schele (1992, pp.93–95)&lt;/ref&gt; This calculation arrives at the 80th Calendar Round since his accession, a day that also has a CR date of {{nowrap|5 Lamat 1 Mol}}, but which lies over 4,000 years in the future from Pakal's time—the day 21 October in the year 4772. The inscription notes {{Citation needed|date=December 2010}} that this day would fall eight days after the completion of the 1st ''piktun'' [since the creation or zero date of the Long Count system], where the ''piktun'' is the next-highest order above the ''b'ak'tun'' in the Long Count. If the completion date of that ''piktun''—13 October 4772—were to be written out in Long Count notation, it could be represented as 1.0.0.0.0.0. The 80th CR anniversary date, eight days later, would be 1.0.0.0.0.8{{nbsp|2}}{{nowrap|5 Lamat 1 Mol}}.&lt;ref name=&quot;Schele 1992, pp.93–95&quot;/&gt;&lt;ref&gt;Schele &amp; Freidel (1990, p.430 ''n.''39)&lt;/ref&gt;
+
+Despite the publicity generated by the 2012 date, Susan Milbrath, curator of Latin American Art and Archaeology at the [[Florida Museum of Natural History]], stated that &quot;We have no record or knowledge that [the Maya] would think the world would come to an end&quot; in 2012.&lt;ref name=Milbrath&gt;Susan Milbrath, Curator of Latin American Art and Archaeology, Florida Museum of Natural History, quoted in [http://www.usatoday.com/tech/science/2007-03-27-maya-2012_n.htm ''USA Today'', Wednesday, March 28, 2007, p. 11D]&lt;/ref&gt; &quot;For the ancient Maya, it was a huge celebration to make it to the end of a whole cycle,&quot; says Sandra Noble, executive director of the Foundation for the Advancement of Mesoamerican Studies in [[Crystal River, Florida]]. To render December 21, 2012, as a [[doomsday event]] or moment of cosmic shifting, she says, is &quot;a complete fabrication and a chance for a lot of people to cash in.&quot;&lt;ref name=Milbrath/&gt; &quot;There will be another cycle,&quot; says E. Wyllys Andrews V, director of the [[Tulane University]] Middle American Research Institute (MARI). &quot;We know the Maya thought there was one before this, and that implies they were comfortable with the idea of another one after this.&quot;&lt;ref&gt;[http://tulane.edu/news/newwave/062508_maya.cfm &quot;The Sky Is Not Falling&quot;] ''New Wave'', Tulane University, June 25, 2008.&lt;/ref&gt;
+
+==Calculating a full Long Count date==
+[[Image:Morley 1915 ISglyphs.jpg|thumb|right|180px|[[Chichen Itza]] Initial Series inscription. This date (glyphs A2, B2, …, A5) is 10.2.9.1.9 &amp;nbsp; 9 Muluk 7 Sak, equivalent to July 28, 878 (GMT Gregorian).]]
+
+As stated, a full Long Count date not only includes the five digits of the Long Count, but the 2-character Tzolk'in and the two-character Haab' dates as well.  The five digit Long Count can therefore be confirmed with the other four characters (the &quot;calendar round date&quot;).
+
+Taking as an example a Calendar Round date of 9.12.2.0.16 (Long Count) 5 Kib' (Tzolk'in) 14 Yaxk'in (Haab'). One can check whether this date is correct by the following calculation.
+
+It is perhaps easier to find out how many days there are since 4 Ajaw 8 Kumk'u, and show how the date 5 Kib' 14 Yaxk'in is derived.
+&lt;center&gt;
+{| class=&quot;wikitable&quot;
+|- align=right
+| 9 ||× 144000||= 1296000
+|- align=right
+| 12 ||× 7200 ||= 86400
+|- align=right
+| 2 ||× 360 ||= 720
+|- align=right
+| 0 ||× 20 ||= 0
+|- align=right
+| 16 ||× 1 ||= 16
+|-
+| ||Total days||= 1383136
+|}
+&lt;/center&gt;
+
+===Calculating the Tzolk'in date portion===
+The Tzolk'in date is counted forward from 4 Ajaw. To calculate the numerical portion of the Tzolk'in date, add 4 to the total number of days given by the date, and then divide total number of days by 13.
+
+: (4 + 1383136) / 13 = 106395 (and 5/13)
+
+This means that 106395 whole 13 day cycles have been completed, and the numerical portion of the Tzolk'in date is 5.
+
+To calculate the day, divide the total number of days in the long count by 20 since there are twenty day names.
+
+:1383136 / 20 = 69156 (and 16/20)
+
+This means 16 day names must be counted from Ajaw. This gives Kib'. Therefore, the Tzolk'in date is 5 Kib'.
+
+===Calculating the Haab' date portion===
+The Haab' date 8 Kumk'u is the ninth day of the eighteenth month. There are 17 days to the start of the next year.
+
+Subtract 17 days from the total, to find how many complete Haab' years are contained.
+
+:1383136 − 17 = 1383119
+
+Divide by 365
+
+:1383119 / 365 = 3789 and (134/365)
+
+Therefore, 3789 complete Haab' have passed, and the remainder 134 is the 135th day in the new Haab', since a remainder of 0 would indicate the first day.
+
+Find which month the day is in. Dividing the remainder 134 by 20, is six complete months, and a remainder of 14, indicating the 15th day. So, the date in the Haab' lies in the seventh month, which is Yaxk'in. The fifteenth day of Yaxk'in is 14, thus the Haab' date is 14 Yaxk'in.
+
+So the date of the long count date 9.12.2.0.16 5 Kib' 14 Yaxk'in is confirmed.
+
+==Piktuns and higher orders==
+There are also four rarely used higher-order periods above the b'ak'tun: ''piktun'', ''kalabtun'', ''k'inchiltun'', and ''alautun''. All of these words are inventions of Mayanists. Most inscriptions that use these are in the form of distance dates and Long Reckonings - they give a base date, a distance number that is added or subtracted and the resulting Long Count. By studying these Eric Thompson determined that the date of creation in 3114 BCE – 13.0.0.0.0 was actually ...13.13.0.0.0.0 in the extended version.  For example a Late Classic monument from [[Coba]], Stela 1.  The date of creation is expressed as 13.13.13.13.13.13.13.13.13.13.13.13.13.13.13.13.13.13.13.13.0.0.0.0, where the units are 13s in the nineteen places larger than the b'ak'tun.&lt;ref&gt;''Fig. 444'' in Wagner (2006, p.283)&lt;/ref&gt;&lt;ref&gt;Schele and Freidel (1992, p.430).&lt;/ref&gt; 
+
+The inscription on Quirigua stela F, or 6, shows a Long Count date of 9.16.10.0.0  1 Ahau 3 Zip (March 15, 761 Gregorian). The huge distance date of 1.8.13.0.9.16.10.0.0 is subtracted and the resulting date is given as (18.)13.0.0.0.0.0.0.0 1 Ahau 13 Yaxkin, which is equivalent to a day over 90 million years in the past. There is another distance date on Quirigua Stela D or 4, that gives a date of 9.16.15.0.0 7 Ahau 18 Pop (February 17, 766 Gregorian), to which is added 6.8.13.0.9.16.15.0.0, to give a date of (13.)13.0.0.0.0.0.0.0. This is over 400 million years after the date the stela was erected.
+
+The [[Dresden codex]] contains another method for linking Long Counts in the prior era to this one. These are not explicitly stated as Long Counts but are implied by a Ring Number – a distance number with the K'in coefficient enclosed in a red loop tied at the top. These are referred to as &quot;Long Reckonings&quot;. Long Reckonings are distance numbers which are based on a date in the preceding creation to give a date in the current one. Thompson uses the last example from the [[Dresden codex]]:
+
+Ring number (12) 12.12.17.3.1 13 Imix 9 Wo (7.2.14.19 before (13) 13.0.0.0.0)&lt;br /&gt;
+distance number (0) 10.13.13.3.2&lt;br /&gt;
+Long Count 10.6.10.6.3 13 Ak'bal 1 Kank'in
+
+A series of &quot;Serpent Numbers&quot; in the [[Dresden codex]] pp.&amp;nbsp;61–69 has Long Reckonings from a date 34,000 years in the past to classical Maya Long Counts.
+
+==See also==
+* [[Mesoamerican calendars]]
+* [[Aztec calendar]]
+* [[Maya calendar]]
+* [[Maya codices]]
+
+==Notes==
+&lt;references group=n/&gt;
+
+==References==
+{{reflist|2}}
+
+==Bibliography==
+{{refbegin|indent=yes}}&lt;!--BEGIN biblio format. If indent param. is used,   Pls use a colon (:) instead of asterisk (*) for bullet markers in the references list --&gt;
+: {{cite web |author={{aut|Boot, Eric}} |year=2002 |title=The Dos Pilas-Tikal Wars from the Perspective of Dos Pilas Hieroglyphic Stairway 4 |url=http://www.mesoweb.com/features/boot/DPLHS4.pdf |format=[[PDF]] |work=Mesoweb Articles |publisher=Mesoweb |accessdate=2007-03-15}}
+: {{cite book |author={{aut|Coe, Michael D.}} |authorlink=Michael D. Coe |year=1992 |title=Breaking the Maya Code |location=London and New York |publisher=[[Thames &amp; Hudson]] |isbn=0-500-05061-9 |oclc=26605966}}
+: {{cite book |author={{aut|Coe, Michael D.}} |authorlink=Michael D. Coe |coauthors=with {{aut|Rex Koontz}}|year=2002|origyear= |title=Mexico: from the Olmecs to the Aztecs |edition=5th, revised and enlarged |publisher=[[Thames &amp; Hudson]] |location=London and New York|isbn=0-500-28346-X |oclc=50131575}}
+: {{cite book |author={{aut|Coe, Michael D.}} |authorlink=Michael D. Coe |coauthors=and {{aut|[[Mark L Van Stone]]}} |year=2005 |title=Reading the Maya Glyphs |publisher=Thames &amp; Hudson |location=London |isbn=978-0-500-28553-4}}
+: {{cite book |author={{aut|Diehl, Richard}} |authorlink=Richard Diehl |year=2004 |title=The Olmecs: America's First Civilization |series=Ancient peoples and places series|publisher=[[Thames &amp; Hudson]] |location=London |isbn=0-500-02119-8 |oclc=56746987}}
+: {{cite book |author={{aut|Freidel, David}} |authorlink=David Friedel|   coauthors= and {{aut|Linda Schele}} and {{aut|Joy Parker}} |year=1993 |title=Maya Cosmos: Three thousand years on the shaman's path |publisher=[[William Morrow and Company|William Morrow]] |location=New York |isbn=0-88810-081-5{{Please check ISBN|reason=Check digit (5) does not correspond to calculated 7.}} |oclc=27430287}}
+: {{cite journal |author={{aut|Gronemeyer, Sven}} |year=2006 |title=Glyphs G and F: Identified as Aspects of the Maize God |url=http://www.wayeb.org/notes/wayeb_notes0022.pdf |format=[[PDF]] |journal=Wayeb Notes |volume=22 |pages=pp.1–23 |issn=1379-8286 |accessdate=2007-04-04}}
+: {{cite book |author={{aut|Kelley, David H.}} |authorlink=David H. Kelley|year=2005 |title=Exploring Ancient Skies: an Encyclopedic Survey of Archaeoastronomy |publisher=Springer Verlag |location=Berlin  |isbn=0-387-95310-8 }}
+: {{cite book |author={{aut|Kelley, David H.}} |authorlink=David H. Kelley|year=2008 |chapter=Archaeoastronomy |pages=451–464|title=[[Encyclopedia of Archaeology|Encyclopedia of Archaeology, Vol. 1: A]] |editor=[[Deborah M. Pearsall]] |publisher=[[Academic Press]] |location=Oxford |isbn=978-0-12-548030-7 |oclc=2007931569}}
+: {{cite news |author={{aut|MacDonald, G. Jeffrey}} |date=27 March 2007 |title=Does Maya calendar predict 2012 apocalypse? |url=http://www.usatoday.com/tech/science/2007-03-27-maya-2012_n.htm |format=online edition|newspaper=[[USA Today]] |publisher=[[Gannett Company]] |location=McLean, VA |page=11D |issn=0734-7456 |accessdate=2009-05-28}}
+: {{cite web |author={{aut|Pérez de Lara, Jorge}} |coauthors=and {{aut|John Justeson}} |year=2005 |title=Photographic Documentation of Monuments with Epi-Olmec Script/Imagery |url=http://www.famsi.org/reports/05084/index.html |work=The Foundation Granting Department: Reports Submitted to FAMSI |publisher=Foundation for the Advancement of Mesoamerican Studies, Inc. (FAMSI) |accessdate=2007-04-04}}
+: {{cite book |author={{aut|Schele, Linda}} |authorlink=Linda Schele|year=1992 |chapter=A New Look at the Dynastic History of Palenque|title=Supplement to the Handbook of Middle American Indians, Vol. 5: Epigraphy |editor=Victoria R. Bricker (Volume ed.), with Patricia A. Andrews |others=Victoria Reifler Bricker (general editor) |publisher=[[University of Texas Press]] |location=Austin |pages=82–109|isbn=0-292-77650-0 |oclc=23693597}}
+: {{cite book |author={{aut|Schele, Linda}} |authorlink=Linda Schele |coauthors= and {{aut|[[David Freidel]]}} |year=1990 |title=A Forest of Kings: The Untold Story of the Ancient Maya |edition=pbk reprint of 1990|publisher=[[Harper Perennial]] |location=New York |isbn=0-688-11204-8 |oclc=145324300}}
+: {{cite journal |author={{aut|Thompson, J. Eric S.}} |authorlink=J. Eric S. Thompson |year=1929 |title=Maya Chronology: Glyph G of the Lunar Series |journal=American Anthropologist, New Series |volume=31 |issue=2|pages=pp.223–231 |issn=0002-7294 |oclc=51205515 |doi=10.1525/aa.1929.31.2.02a00010}}
+: {{cite journal |author={{aut|Thompson, J. Eric S.}} |authorlink=J. Eric S. Thompson |year=1971 |title=Maya Hieroglyphic Writing, an Introduction. 3rd edition. Norman}}
+:  {{cite book|author={{aut|Van Stone, Mark L}}|authorlink=Mark L Van Stone |title=2012: Science and Prophecy of the Ancient Maya |year=2010 |location=California |publisher=Tlacaelel Press |isbn=978-0-9826826-0-9}}
+: {{cite conference | author={{aut|Voss, Alexander W.}} |coauthors= and {{aut|H. Juergen Kremer}} |year = 2000 |title=K'ak'-u-pakal, Hun-pik-tok' and the Kokom:The Political Organisation of Chichen Itza | booktitle =3rd European Maya Conference (1998) | url= http://ecoyuc.com.mx/articles.php?task=detail&amp;aid=1 |format=[[PDF]] | accessdate = 2005-10-26}}
+: {{cite book |author={{aut|Wagner, Elizabeth}} |year=2006 |chapter=Maya Creation Myths and Cosmology |pages=280–293 |editor=Nikolai Grube (ed.) |others=Eva Eggebrecht and Matthias Seidel (assistant eds.) |title=Maya: Divine Kings of the Rain Forest |location=Cologne |publisher=Könemann |isbn=3-8331-1957-8 |oclc=71165439}}
+{{refend}}&lt;!-- END biblio format style --&gt;
+
+==External links==
+* [http://www.marianotomatis.it/index.php?page=2012clock&amp;lang=en Today's date according to the Long Count, in form of a miles count.]
+* [http://research.famsi.org/schele_selects.php?image_number=490 Coba Stela 1 (Schele #4087)], partial illustration from the Linda Schele Drawings Collection of the monument from Coba with an expanded Long Count date
+* [http://www.mayacalendar.com/ The Maya Calendar by the Maya World Studies Center in Yucatán Mexico]
+* [http://www.michielb.nl/maya/calendar.html Maya calendar on michielb.nl, with conversion applet from Gregorian calendar to Maya date] (Uses the proleptic Gregorian calendar.)
+* [http://groups.google.com/group/utmesoamerica/browse_thread/thread/2ad64b039cb60983/0396cfd4957fd61e#0396cfd4957fd61e UT Mesoamerica Center Discussion Board]. (David Stuart's translation of Monument 6 at Tortuguero.)
+* [http://www.diagnosis2012.co.uk/mlink.htm Maya Calendar and Links on diagnosis2012.co.uk] (The calculator uses the proleptic Gregorian calendar. The site has a huge number of links to Maya calendar sites.)
+* [http://jqjacobs.net/archaeology/maya_astronomy.html The Dresden Codex Lunar Series and Sidereal Astronomy]
+* {{gutenberg|no=18973|name=Day Symbols of the Maya Year}} 1897 text by Cyrus Thomas.
+
+{{Calendars}}
+
+{{DEFAULTSORT:Mesoamerican Long Count Calendar}}
+[[Category:Mesoamerican calendars|Long Count]]
+[[Category:Specific calendars]]
+[[Category:Chronology]]
+[[Category:Obsolete calendars]]
+[[Category:2012 phenomenon]]
+
+{{Link FA|sl}}
+[[ca:Compte llarg]]
+[[de:Lange Zählung]]
+[[es:Cuenta larga]]
+[[fr:Compte long]]
+[[id:Kalender Hitung Panjang]]
+[[it:Calendario maya#Il Lungo computo]]
+[[nl:Lange telling]]
+[[ja:長期暦]]
+[[pt:Contagem longa]]
+[[sl:Mezoameriški koledar dolgega štetja]]
+[[uk:Мезоамериканський календар довгого рахунку]]
+[[zh:長紀曆]]</text>
+      <sha1>a83ob9xbyuao1eies0q7ms6vduvhtqe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

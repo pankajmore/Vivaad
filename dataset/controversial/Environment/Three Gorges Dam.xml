@@ -1,0 +1,750 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Three Gorges Dam</title>
+    <ns>0</ns>
+    <id>65192</id>
+    <revision>
+      <id>520784729</id>
+      <parentid>515084301</parentid>
+      <timestamp>2012-10-31T18:45:44Z</timestamp>
+      <contributor>
+        <username>Khalid Mahmood</username>
+        <id>2108244</id>
+      </contributor>
+      <text xml:space="preserve" bytes="67409">{{Use mdy dates|date=April 2012}}
+{{good article}}
+{{pp-semi-protected|small=yes}}
+{{Infobox dam
+| name               = Yangtze Three Gorges Project
+| official_name      = 长江三峡水利枢纽工程
+| image              = ThreeGorgesDam-China2009.jpg
+| image_size         = 250px
+| image_caption      = The dam in September 2009
+| image_alt          =
+| location_map       = China Hubei
+| location_map_width = 200px
+| location_map_text  = Location in Hubei
+| lat_d     = 30
+| lat_m     = 49
+| lat_s     = 23
+| lat_NS    = N
+| long_d    = 111
+| long_m    = 00
+| long_s    = 12
+| long_EW   = E
+| coordinates_type   = dim:3000_region:CN-42
+| coordinates_display= inline,title
+| coordinates_ref    =
+| country            = China
+| locale             = [[Sandouping]], [[Yiling District|Yiling]], Hubei
+| purpose            = Power, flood control, navigation
+| status             = O
+| construction_began = December 14, 1994
+| open               = 2008
+| demolished         =
+| cost               = [[Renminbi|¥]]180&amp;nbsp;billion (US$26&amp;nbsp;billion)
+| owner              = [[China Yangtze Power]] (subsidiary of [[China Three Gorges Corporation]])
+| type               = G
+| length             = {{Convert|2335|m|ft|0|abbr=on}}
+| height             = {{Convert|181|m|ft|0|abbr=on}}
+| crest_width        = {{Convert|40|m|ft|0|abbr=on}}
+| base_width         = {{Convert|115|m|ft|0|abbr=on}}
+| crosses            = [[Yangtze River]]
+| spillway_type      =
+| spillway_capacity  = {{Convert|116000|m3/s|cuft/s|abbr=on}}
+| reservoir          = [[Three Gorges Reservoir Region|Three Gorges Reservoir]]
+| reservoir_elevation= {{Convert|175|m|ft|0|abbr=on}}
+| reservoir_capacity = {{Convert|39.3|km3|acre.ft|abbr=on|lk=out}}
+| active_capacity    =
+| inactive_capacity  =
+| reservoir_catchment= {{Convert|1000000|km2|sqmi|abbr=on}}
+| reservoir_surface  = {{Convert|1045|km2|sqmi|0|abbr=on}}
+| reservoir_max_depth=
+| reservoir_length   ={{Convert|600|km|mi|abbr=on}}
+| reservoir_max_width={{Convert|1.1|km|mi|abbr=on}} avg.
+| tidal_range        =
+| plant_owner        =
+| plant_operator     =
+| plant_commission   = 2003–2012
+| plant_licence_exp  =
+| plant_decommission =
+| plant_type         = C
+| turbines           = 32 × 700 [[Megawatt|MW]]&lt;br/&gt;2 × 50 MW [[Francis-type]]
+| hydraulic_head     = Rated: {{Convert|80.6|m|ft|0|abbr=on}}&lt;br&gt;Maximum: {{Convert|113|m|ft|0|abbr=on}}&lt;ref&gt;{{cite web|title=Three Gorges Project|url=http://www.chincold.org.cn/dams/rootfiles/2010/07/20/1279253974143251-1279253974145520.pdf|publisher=Chinese National Committee on Large Dams|accessdate=2011-05-15}}&lt;/ref&gt;
+| installed_capacity    = 22.5 GW
+| capacity_factor    = 0.45
+| average_annual_gen = {{convert|80|TWh|abbr=on|lk=on}}
+| net_generation     = {{convert|556|TWh|abbr=on}} (2012)
+| website            =
+| as_of              =
+| extra              =
+}}{{Chinese|s=长江三峡大坝|t=長江三峡大壩|p=Chángjiāng Sānxiá Dàbà|pic=Wuhan-Flood-Memorial-0220.jpg|piccap=In his poem &quot;Swimming&quot; (1956), engraved on the [[1954 Yangtze River Floods|1954 Flood]] Memorial in [[Wuhan]], Mao Zedong envisions &quot;walls of stone&quot; to be erected upstream.&lt;ref&gt;{{cite web |url= http://www.marxists.org/reference/archive/mao/selected-works/poems/poems23.htm |title=&quot;Swimming&quot; by Mao Zedong |publisher=Marxists.org |accessdate=2009-08-01}}&lt;/ref&gt;}}
+
+The '''Three Gorges Dam''' is a [[hydroelectricity|hydroelectric]] dam that spans the [[Yangtze River]] by the town of [[Sandouping]], located in [[Yiling District]], [[Yichang]], [[Hubei]] province, China. The Three Gorges Dam is the world's largest [[power station]] in terms of [[installed capacity]] (22,500&amp;nbsp;[[megawatt|MW]]) but is second to [[Itaipu Dam]] with regard to the generation of electricity annually.&lt;ref name=iet2009&gt;{{cite web |url=http://kn.theiet.org/magazine/issues/0904/taming-the-yangtze-0904.cfm# |title=Taming the Yangtze |author=Acker, Fabian |date=2009-03-02 |work=IET magazine }}{{Dead link|date=May 2011}}&lt;/ref&gt;
+
+Except for a [[boat lift|ship lift]], the dam project was completed and fully functional as of July&amp;nbsp;4, 2012,&lt;ref&gt;{{cite web |url= http://www.ctg.com.cn/xwzx/news.php?mnewsid=60653 |title=三峡工程最后一台机组结束72小时试运行 |publisher=ctg.com.cn |accessdate=2012-06-23}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Three Gorges underground power station electrical and mechanical equipment is fully handed over production|url=http://www.ctg.com.cn/xwzx/news.php?mnewsid=62169|publisher=China Three Gorges Corporation|accessdate=8 July 2012|language=Chinese}}&lt;/ref&gt; when the last of the main [[Electrical generator|turbine]]s in the underground plant began production. Each main turbine has a capacity of 700&amp;nbsp;MW.&lt;ref name=iet2009/&gt;&lt;ref name=&quot;ctgpc1&quot;&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=30559 |title=三峡工程左右岸电站26台机组全部投入商业运行 |language=Chinese |publisher=China Three Gorges Project Corporation |date=2008-10-30 |accessdate=2008-12-06}}&lt;/ref&gt; The dam body was completed in 2006.  Coupling the dam's 32 main turbines with two smaller generators (50&amp;nbsp;MW each) to power the plant itself, the total electric generating capacity of the dam is 22,500&amp;nbsp;MW.&lt;ref name=iet2009/&gt;&lt;ref name=Xinhua20081007&gt;
+{{cite news| url=http://news.xinhuanet.com/english/2008-10/07/content_10162045.htm | title=:: Three Gorges reservoir raises water to target level| publisher=Xinhua| date=2008-10-07| accessdate=2010-11-23| quote=}}
+&lt;/ref&gt;&lt;ref name=inventspot&gt;{{cite web|title=Final Turbine at China's Three Gorges Dam Begins Testing|url=http://inventorspot.com/articles/final_turbine_chinas_three_gorges_dam_begins_testing|publisher=Inventor Spot|accessdate=2011-05-15}}&lt;/ref&gt;
+
+As well as producing electricity, the dam is intended to increase the Yangtze River's shipping capacity and reduce the potential for floods downstream by providing flood storage space. The Chinese government regards the project as a historic engineering, social and economic success,&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=32819 |title=中国长江三峡工程开发总公司 |publisher=Ctgpc.com.cn |date=2009-04-08 |accessdate=2009-08-01}}&lt;/ref&gt; with the design of state-of-the-art large turbines,&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=32325 |title=中国长江三峡工程开发总公司 |publisher=Ctgpc.com.cn |date=2009-03-10 |accessdate=2009-08-01}}&lt;/ref&gt; and a move toward limiting [[greenhouse gas]] emissions.&lt;ref&gt;{{cite web |url= http://www.hb.xinhuanet.com/zhibo/2009-02/03/content_15593414.htm |title=一座自主创新历史丰碑 三峡工程的改革开放之路 |publisher=Hb.xinhuanet.com |accessdate=2009-08-01}}&lt;/ref&gt; However, the dam flooded [[archaeological]] and cultural sites and displaced some 1.3&amp;nbsp;million people, and is causing significant ecological changes, including an increased risk of [[landslide]]s.&lt;ref&gt;{{cite web |url= http://unn.people.com.cn/GB/9105724.html |title=重庆云阳长江右岸现360万方滑坡险情-地方-人民网 |work=People's Daily  |accessdate=2009-08-01}} See also: {{cite web |url= http://news.xinhuanet.com/newscenter/2009-04/09/content_11157017.htm |title=探访三峡库区云阳故陵滑坡险情 |publisher=News.xinhuanet.com |accessdate=2009-08-01}}&lt;/ref&gt; The dam has been a controversial topic both domestically and abroad.&lt;ref name=&quot;controversy&quot;&gt;{{cite news |author=Lin Yang |title=China's Three Gorges Dam Under Fire |url= http://www.time.com/time/world/article/0,8599,1671000,00.html |work=Time |date=2007-10-12 |accessdate=2009-03-28 |quote=The giant Three Gorges Dam across China's Yangtze River has been mired in controversy ever since it was first proposed}} See also: {{cite news |last=Laris |first=Michael |title=Untamed Waterways Kill Thousands Yearly |url= http://www.washingtonpost.com/wp-srv/inatl/longterm/china/stories/death081798.htm |work=Washington Post |date=1998-08-17 |accessdate=2009-03-28 |quote=Officials now use the deadly history of the Yangtze, China's longest river, to justify the country's riskiest and most controversial infrastructure project&amp;nbsp;– the enormous Three Gorges Dam.}} and {{cite news |last=Grant |first=Stan |title=Global Challenges: Ecological and Technological Advances Around the World |url= http://edition.cnn.com/TRANSCRIPTS/0506/18/gc.01.html |publisher=CNN |date=2005-06-18 |accessdate=2009-03-28 |quote=China's engineering marvel is unleashing a torrent of criticism. [...] When it comes to global challenges, few are greater or more controversial than the construction of the massive Three Gorges Dam in Central China.}} and {{cite news |last=Gerin |first=Roseanne |title=Rolling on a River |url= http://www.bjreview.com.cn/eye/txt/2008-12/06/content_168792.htm |work=Beijing Review |date=2008-12-11 |accessdate=2009-03-28 |quote=..the 180-billion yuan ($26.3&amp;nbsp;billion) Three Gorges Dam project has been highly contentious.}}&lt;/ref&gt;
+
+==History==
+A large dam across the Yangtze River was originally envisioned by [[Sun Yat-sen]] in ''The International Development of China'', in 1919.&lt;ref&gt;{{cite news |author=Lin Yang |title=China's Three Gorges Dam Under Fire |url= http://www.time.com/time/world/article/0,8599,1671000,00.html |work=Time |date=2007-10-12 }}&lt;/ref&gt;&lt;ref name=&quot;autogenerated2006&quot;&gt;{{cite web |url= http://news.sina.com.cn/c/2006-10-23/113410303856s.shtml |title=中国国民党、亲民党、111新党访问团相继参观三峡工程_新闻中心_新浪网 |publisher=News.sina.com.cn |accessdate=2009-08-01}}&lt;/ref&gt; He stated that a dam capable of generating 30&amp;nbsp;million horsepower (22&amp;nbsp;GW) was possible downstream of the [[Three Gorges]].&lt;ref name=&quot;autogenerated2006&quot;/&gt; In 1932, the Nationalist government, led by [[Chiang Kai-shek]], began preliminary work on plans in the Three Gorges. In 1939, [[Second Sino-Japanese War|Japanese military forces]] occupied [[Yichang]] and surveyed the area. A design, the Otani plan, was completed for the dam in anticipation of a Japanese victory over China.
+
+In 1944, the United States [[Bureau of Reclamation]] chief design engineer, [[John L. Savage]], surveyed the area and drew up a dam proposal for the 'Yangtze River Project'.&lt;ref name=&quot;nasbio&quot;&gt;
+[http://books.nap.edu/html/biomems/jsavage.pdf John Lucian Savage Biography] by Abel Wolman &amp; W. H. Lyles, National Academy of Science, 1978.&lt;/ref&gt; Some 54 Chinese engineers went to the U.S. for training. The original plans called for the dam to employ a unique method for moving ships; the ships would move into locks located at the lower and upper ends of the dam and then cranes with cables would move the ships from one lock to the next. In the case of smaller water craft, groups of craft would be lifted together for efficiency. It is not known whether this solution was considered for its water-saving performance or because the engineers thought the difference in height between the river above and below the dam too great for alternative methods.&lt;ref&gt; [http://books.google.com/books?id=7SADAAAAMBAJ&amp;pg=PA98&amp;dq=popular+science+1930&amp;hl=en&amp;ei=G2rcTviEOcTj0QGanrDFDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CDYQ6AEwAThQ#v=onepage&amp;q&amp;f=true &quot;China's Dream Dam.&quot;] ''Popular Science'', July 1946&lt;/ref&gt; Some exploration, survey, economic study, and design work was done, but the government, in the midst of the [[Chinese Civil War]], halted work in 1947.
+
+After the 1949 Communist takeover, [[Mao Zedong]] supported the project, but began the [[Gezhouba Dam]] project nearby first, and economic problems including the [[Great Leap Forward]] and the [[Cultural Revolution]] slowed progress. After the [[1954 Yangtze River Floods]], in 1956, Mao Zedong authored &quot;Swimming&quot;, a poem about his fascination with a dam on the Yangtze River. In 1958, after the [[Hundred Flowers Campaign]], some engineers who spoke out against the project were imprisoned.&lt;ref name=&quot;WPhist&quot;&gt;{{cite news |work=Washington Post | author=Steven Mufson | url= http://www.washingtonpost.com/wp-srv/inatl/longterm/yangtze/yangtze.htm | title= The Yangtze Dam: Feat or Folly? | date=1997-11-09 | accessdate=2010-11-23 }}&lt;/ref&gt;
+
+During the 1980s, the idea of a dam reemerged. The [[National People's Congress]] approved the dam in 1992: out of 2,633 delegates, 1,767 voted in favour, 177 voted against, 664 forfeited, and 25 members did not vote.&lt;ref&gt;{{cite web |url= http://news.china.com/history/all/11025807/20110402/15882237.html |title=1992年4月3日全国人大批准兴建三峡工程 |publisher=News.rednet.cn |accessdate=2009-08-16}}&lt;/ref&gt; Construction started on December&amp;nbsp;14, 1994.&lt;ref name=&quot;allin&quot;&gt;{{cite journal
+|last = Allin | first = Samuel Robert Fishleigh
+|title = An Examination of China's Three Gorges Dam Project Based on the Framework Presented in the Report of The World Commission on Dams
+|publisher=Virginia Polytechnic Institute and State University
+|date = 2004-11-30
+|url = http://scholar.lib.vt.edu/theses/available/etd-12142004-125131/unrestricted/SAllin_010304.pdf
+|format = PDF
+|accessdate =2010-11-23}}
+&lt;/ref&gt; The dam was expected to be fully operational in 2009, but additional projects, such as the underground [[powerplant|power plant]] with six additional generators, delayed full operation until May 2012.&lt;ref name=&quot;WPhist&quot;/&gt;&lt;ref name=inventspot/&gt; The ship lift is expected to be completed in 2014.&lt;ref name=CnHubei20071110/&gt; The dam had raised the water level in the reservoir to {{Convert|172.5|m|0|abbr=on}} above sea level by the end of 2008 and the design maximum level of {{Convert|175|m|0|abbr=on}} by October 2010.&lt;ref name=Xin2010/&gt;&lt;ref&gt;{{cite web |url= http://news.sohu.com/20081106/n260480174.shtml |title=三峡完成172.5米蓄水 中游航道正常维护(图)-搜狐新闻 |publisher=News.sohu.com |accessdate=2009-08-16}}&lt;/ref&gt;
+[[Image:Threegorges.png|center|600px|thumb|Map of the location of the Three Gorges Dam and the most important cities along the Yangtze River]]
+
+==Composition and dimensions==
+{{Multiple image
+| align     = right
+| direction = vertical
+| image1    = TGDModelSpillwayView.jpg
+| width1    = 220
+| caption1  = Model of the Three Gorges Dam looking upstream, showing the dam body (middle left), the spillway (middle of the dam body) and the ship lift (to the right).
+| image2    = TGDModelShipLocks.jpg
+| width2    = 220
+| caption2  = Model of the Three Gorges Dam showing the ship lift and the ship lock. The ship lift is to the right of the dam body with its own designated waterway. The ship locks are to the right (northeast) of the ship lift.
+| image3    = TGDModelAuxSouthDam.jpg
+| width3    = 220
+| caption3  = Earthfill south dam in foreground with view along main dam. The wall beyond is to separate spillway and turbine flows from the lock and ship lift upstream approach channel. A similar separation is used on the downstream side, seen partially in the preceding image.
+}}
+
+Made of concrete and steel, the dam is {{Convert|2335|m|ft|0|abbr=on}} long and the top of the dam is {{convert|185|m|ft|0}} above sea level. The project used {{convert|27.2|e6m3|e6cuyd}} of concrete (mainly for the dam wall), 463,000 [[tonnes]] of steel (enough to build 63 [[Eiffel Tower]]s) and moved about {{convert|102.6|e6m3|e6cuyd}} of earth.&lt;ref name=&quot;ibib1&quot;&gt;
+{{cite news
+ | publisher=ibiblio.org
+ | url=http://www.ibiblio.org/chinesehistory/contents/07spe/specrep01.html#Quick%20Facts
+ | title=Three Gorges Dam Project&amp;nbsp;— Quick Facts
+ | accessdate =2010-11-23
+}}&lt;/ref&gt; The concrete dam wall is {{convert|181|m|ft|0}} high above the rock basis.
+
+When the water level is at its maximum of {{convert|175|m|ft|0}} above sea level, which is {{convert|110|m|ft|0}} higher than the river level downstream, the dam reservoir is on average about {{convert|660|km|mi|0}} in length and {{convert|1.12|km|ft}} in width. It contains {{convert|39.3|km3|acre.ft|abbr=on|lk=out}} of water and has a total surface area of {{convert|1045|km2}}. On completion, the reservoir flooded a total area of {{convert|632|km2}} of land, compared to the {{convert|1350|km2}} of reservoir created by the [[Itaipu Dam]].&lt;ref name=Xinhua20031121&gt;{{cite news
+|publisher=Xinhua Net
+|url=http://news.xinhuanet.com/ziliao/2003-05/30/content_896773.htm
+|title=三峡水库：世界淹没面积最大的水库 (Three Gorges reservoir: World submergence area biggest reservoir)
+|date=2003-11-21
+|accessdate =2008-04-10
+}}&lt;/ref&gt;
+
+==Economics==
+The government estimated that the Three Gorges Dam project would cost 180&amp;nbsp;billion yuan (US$22.5&amp;nbsp;billion).&lt;ref name=wpm2007/&gt; By the end of 2008, spending had reached 148.365&amp;nbsp;billion yuan, among which 64.613&amp;nbsp;billion yuan was spent on construction, 68.557&amp;nbsp;billion yuan on relocating affected residents, and 15.195&amp;nbsp;billion yuan on financing.&lt;ref&gt;{{cite web |url= http://chinaneast.xinhuanet.com/jszb/2009-01/11/content_15419027.htm |title=国家重大技术装备 |publisher=Chinaneast.xinhuanet.com |date=2009-01-11 |accessdate=2009-08-01}}&lt;/ref&gt; It is estimated that the construction cost will be recovered when the dam has generated {{convert|1000|TWh|link=in}} of electricity, yielding 250&amp;nbsp;billion yuan. Full cost recovery is expected to occur ten years after the dam starts full operation.&lt;ref name=wpm2007&gt;{{cite web |url= http://www.waterpowermagazine.com/story.asp?storyCode=2041318 |title=International Water Power and Dam Construction |publisher=Waterpowermagazine.com |date=2007-01-10 |accessdate=2009-08-01}}&lt;/ref&gt;
+
+Funding sources include the Three Gorges Dam Construction Fund, profits from the [[Gezhouba Dam]], loans from the [[China Development Bank]], loans from domestic and foreign commercial banks, [[corporate bond]]s, and revenue before and after the dam is fully operational. Additional charges were assessed as follows: Every province receiving power from the Three Gorges Dam has to pay ¥7.00&amp;nbsp;per MWh extra. Other provinces had to pay an additional charge of ¥4.00&amp;nbsp;per MWh. Tibet pays no surcharge.&lt;ref&gt;{{cite news
+|url=http://www.ctgpc.com.cn/sx/sxgczds.php?mClassId=015004
+|title=Three Gorges Dam
+|publisher=China Three Gorges Project Corporation
+|date=2003-04-20
+|accessdate=2007-04-29
+|language = Chinese
+}}&lt;/ref&gt;
+{{wide image|200407-sandouping-sanxiadaba-4.med.jpg|750px|Panorama of the Three Gorges Dam}}
+
+==Power generation and distribution==
+===Generating capacity===
+[[Image:Electricity production in China.PNG|thumb|Electricity production in China by source. Compare: The fully completed Three Gorges dam will contribute about 100&amp;nbsp;TWh of generation per year. {{legend|red|thermofossil}} {{legend|blue|hydroelectric}} {{legend|yellow|nuclear}}]]
+Power generation is managed by [[China Yangtze Power]], a listed subsidiary of [[China Three Gorges Corporation]] (CTGC) — a Central Enterprise [[State-owned enterprise|SOE]] administered by [[SASAC]]. The Three Gorges Dam is the world's largest capacity hydroelectric power station with 34&amp;nbsp;generators: 32 main generators, each with a capacity of 700&amp;nbsp;MW, and two plant power generators, each with capacity of 50&amp;nbsp;MW, making a total capacity of 22,500&amp;nbsp;MW.&lt;ref name=&quot;iet2009&quot;/&gt; Among those 32 main generators, 14 are installed in the north side of the dam, 12 in the south side, and the remaining six in the [[underground power station|underground power plant]] in the mountain south of the dam. The expected annual electricity generation will be over 100&amp;nbsp;TWh.&lt;ref&gt;{{cite web |url= http://www.hb.xinhuanet.com/zhibo/2008-12/04/content_15097047.htm |title=三峡机组国产化已取得成功 |language=Chinese |publisher=hb.xinhuanet.com |date=2008-12-04 |accessdate=2008-12-06}}&lt;/ref&gt;
+
+===Generators===
+The main generators weigh about 6,000&amp;nbsp;tonnes each and are designed to produce more than 700&amp;nbsp;MW of power. The designed [[Hydraulic head|head]] of the generator is {{convert|80.6|m|ft|sp=us}}. The flow rate varies between {{convert|600|-|950|m3/s|ft3/s}}  depending on the head available. The greater the head, the less water needed to reach full power. Three Gorges uses [[Francis turbine]]s. Turbine diameter is 9.7/10.4&amp;nbsp;m (VGS design/Alstom's design) and rotation speed is 75&amp;nbsp;revolutions per minute. Rated power is 778 [[Volt ampere|MVA]], with a maximum of 840&amp;nbsp;MVA and a [[power factor]] of 0.9. The generator produces electrical power at 20&amp;nbsp; [[Volt|kV]]. The outer diameter of the generator [[stator]] is 21.4/20.9&amp;nbsp;m. The inner diameter is 18.5/18.8&amp;nbsp;m. The stator, the biggest of its kind, is 3.1/3&amp;nbsp;m in height. Bearing load is 5050/5500 tonnes. Average efficiency is over 94%, and reaches 96.5%.&lt;ref&gt;{{cite news |url= http://news.xinhuanet.com/fortune/2008-08/28/content_9723523_2.htm |title=李永安:我水轮发电机组已具完全自主设计制造能力_财经频道_新华网 |language=Chinese |agency=Xinhua News Agency  |date=2008-08-28 |accessdate=2008-12-06}}&lt;/ref&gt;&lt;ref&gt;[http://www.eng.hawaii.edu/~panos/444_09_4_9.pdf THREE GORGES DAM by Matthew Morioka, Alireza Abrishamkar, Yve Kay CEE 491]&lt;/ref&gt;
+[[Image:Sanxia Runner04 300.jpg|thumb|Three Gorges Dam [[Francis turbine]]]]
+
+The generators are manufactured by two joint ventures. One of them includes [[Alstom]], [[ABB Group]], [[Kvaerner]], and the Chinese company Haerbin Motor. The other includes [[Voith]], [[General Electric]], [[Siemens]] (abbreviated as VGS), and the Chinese company Oriental Motor. The technology transfer agreement was signed together with the contract. Most of the generators are water-cooled. Some newer ones are air-cooled, which are simpler in design and manufacture and are easier to maintain.&lt;ref name=Chinacom20020726&gt;{{cite news
+|url= http://www.chinaccm.com/23/2307/230701/news/20020726/105549.asp
+|title=三峡工程及其水电机组概况 (Three Gorges Project and water and electricity unit survey)
+|publisher=中华商务网讯
+|date=2002-07-26
+|accessdate=2008-04-11
+|language = Chinese
+}} [http://www.webcitation.org/query?url=http%3A%2F%2Fbabelfish.yahoo.com%2Ftranslate_url%3Fdoit%3Ddone%26tt%3Durl%26intl%3D1%26fr%3Dbf-home%26trurl%3Dhttp%253A%252F%252Fwww.chinaccm.com%252F23%252F2307%252F230701%252Fnews%252F20020726%252F105549.asp%26lp%3Dzh_en%26btnTrUrl%3DTranslate&amp;date=2008-08-09 translation]
+&lt;/ref&gt;
+
+===Generator installation progress===
+The 14 north side main generators are in operation. The first (No.&amp;nbsp;2) started on July&amp;nbsp;10, 2003. The north side became completely operational September&amp;nbsp;7, 2005 with the implementation of generator No.&amp;nbsp;9. Full power (9,800&amp;nbsp;MW) was only reached on October&amp;nbsp;18, 2006 after the water level reached 156&amp;nbsp;m.&lt;ref&gt;{{cite news
+|url= http://www.gov.cn/jrzg/2006-10/18/content_416256.htm
+|title=Three Gorges Dam
+|publisher=Government of China
+|date=2006-10-18
+|accessdate=2007-05-15
+|language = Chinese
+}}&lt;/ref&gt;
+
+The 12 south side main generators are also in operation. No.&amp;nbsp;22 began operation on June&amp;nbsp;11, 2007 and No.&amp;nbsp;15 started up on October&amp;nbsp;30, 2008.&lt;ref name=&quot;ctgpc1&quot;/&gt; The sixth (No.&amp;nbsp;17) began operation on December&amp;nbsp;18, 2007, raising capacity to 14.1&amp;nbsp;GW, finally surpassing [[Itaipu Dam|Itaipu]] (14.0&amp;nbsp;GW), to become the world's largest hydropower plant by capacity.&lt;ref name=Ctgpc20080505&gt;
+{{cite news
+| url=http://www.ctgpc.com.cn/sx/news.php?mNewsId=28253
+| title=中国长江三峡工程开发总公司 (The manufacture domestically large-scale power set stability enhances unceasingly)
+| publisher=[[ctgpc]]
+| date=2008-05-05
+| accessdate=2008-08-09
+| quote=
+}} [http://www.webcitation.org/query?url=http%3A%2F%2Fbabelfish.yahoo.com%2Ftranslate_url%3Fdoit%3Ddone%26tt%3Durl%26intl%3D1%26fr%3Dbf-home%26trurl%3Dhttp%253A%252F%252Fwww.ctgpc.com.cn%252Fsx%252Fnews.php%253FmNewsId%253D28253%26lp%3Dzh_en%26btnTrUrl%3DTranslate&amp;date=2008-08-09 translation]
+&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=28982 |title=三峡右岸电站19号机组完成72小时试运行 |language=Chinese |publisher=China Three Gorges Project Corporation |date=2008-06-20 |accessdate=2008-12-06}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=29089 |title=中国长江三峡工程开发总公司 |publisher=Ctgpc.com.cn |date=2008-07-04 |accessdate=2009-08-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=29622 |title=三峡23号机组进入72小时试运行 |language=Chinese |publisher=China Three Gorges Project Corporation |date=2008-08-22 |accessdate=2008-12-06}}&lt;/ref&gt;
+ 
+The 6 underground main generators are also in operation as of May 23, 2012, when the last main generator, No. 27, finished its final test.&lt;ref&gt;{{cite web |url= http://www.ctg.com.cn/xwzx/news.php?mnewsid=60653 |title=三峡工程最后一台机组结束72小时试运行 |publisher=ctg.com.cn |accessdate=2012-06-23}}&lt;/ref&gt; raising capacity to 22.5 GW. After 9 years of construction, installation and testing, the power plant is now fully operational.&lt;ref name=inventspot/&gt;&lt;ref&gt;{{cite web|title=三峡地下电站30号机组充水启动 (Three Gorges Underground Power Station Unit No. 30, water-filled start)|url=http://www.ctgpc.com.cn/xwzx/news.php?mnewsid=48315|publisher=Three Gorges Corporation|accessdate=July 4, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Three Gorges underground power station water-filled start the third unit successfully put into operation in July plans|url=http://finance.ifeng.com/stock/roll/20110704/4224188.shtml|publisher=Fenghuang Wang|accessdate=July 10, 2011|language=Chinese}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=The last two units of the Three Gorges|url=http://finance.huanqiu.com/data/2012-02/2428192.html|publisher=Xinhua|accessdate=February 15, 2012|language=Chinese|date=February 11, 2012}}&lt;/ref&gt;
+
+===Output milestones===
+[[Image:Three gorges dam annual power output.JPG|thumb|Three Gorges Dam annual power output]]
+
+[[Image:Yangtze River flow rate at TGD site.JPG|thumb|Yangtze River flow rate comparing to the dam intake capacity]]
+By August 16, 2011, the plant had generated 500&amp;nbsp;TWh of electricity.&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/xwzx/news.php?mnewsid=49662 |title=三峡电站持续安稳运行累计发电突破5000亿千瓦时 |publisher=ctgpc.com.cn |accessdate=2011-08-28}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://gb.cri.cn/18824/2008/10/30/2945s2302630.htm |title=三峡工程左右岸电站26台机组全部投入商业运行 – 中国报道 – 国际在线 |language=Chinese |publisher=CRI online|date=2008-10-30 |accessdate=2008-12-06}}&lt;/ref&gt; In July 2008 it generated 10.3&amp;nbsp;TWh of electricity, its first month over 10&amp;nbsp;TWh.&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=29583 |title=三峡电站月发电量首过百亿千瓦时 |language=Chinese |publisher=China Three Gorges Project Corporation |date=2008-08-15 |accessdate=2008-12-06}}&lt;/ref&gt; On June&amp;nbsp;30, 2009, after the river flow rate increased to over 24,000&amp;nbsp;m&lt;sup&gt;3&lt;/sup&gt;, all 28 generators were switched on, producing only 16,100&amp;nbsp;MW because the head available during flood season is insufficient.&lt;ref&gt;{{cite web |url= http://www.hb.xinhuanet.com/zhibo/2009-06/30/content_16958373.htm |title=三峡电站26台发电机组投产后首次满负荷发电 |publisher=Hb.xinhuanet.com |accessdate=2009-08-01}}&lt;/ref&gt; During an August 2009 flood, the plant first reached its maximum output for a short period.&lt;ref name=&quot;ctgpc2&quot;&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=35674 |title=中国长江三峡工程开发总公司 |publisher=Ctgpc.com.cn |accessdate=2009-08-16}}&lt;/ref&gt;
+
+During the November to May dry season, power output is limited by the river's flow rate, as seen in the diagrams on the right. When there is enough flow, power output is limited by plant generating capacity. The maximum power-output curves were calculated based on the average flow rate at the dam site, assuming the water level is 175&amp;nbsp;m and the plant gross efficiency is 90.15%. The actual power output in 2008 was obtained based on the monthly electricity sent to the grid.&lt;ref&gt;{{cite web |url= http://www.sgcc.com.cn/dwxx/qydwyxqk/lsyxqk/default.shtml |title=国家电网公司-主要水电厂来水和运行情况 |publisher=Sgcc.com.cn |accessdate=2009-08-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.sgcc.com.cn/dwxx/sgddxx/gdzdxxxt/default.shtml |title=国家电网公司-国调直调信息系统 |publisher=Sgcc.com.cn |accessdate=2009-08-01}} [[State Grid Corporation]]&lt;/ref&gt;
+
+The Three Gorges Dam reached its design-maximum reservoir water level of {{Convert|175|m|0|abbr=on}} for the first time on October 26, 2010, in which the intended annual power-generation capacity of 84.7 TWh was realized.&lt;ref name=Xin2010&gt;[http://news.xinhuanet.com/english2010/china/2010-10/26/c_13575583.htm Water level at Three Gorges Project raised to full capacity&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+&lt;center&gt;
+{| class=&quot;wikitable&quot; style=&quot;text-align:right;&quot;
+|+ Annual Production of Electricity
+|-
+! Year
+! Number of&lt;br /&gt;installed units
+! TWh
+!
+|-
+| 2003
+| 6
+| 8.607 ||
+|-
+| 2004
+| 11
+| 39.155 ||
+|-
+| 2005
+| 14
+| 49.090 ||
+|-
+| 2006
+| 14
+| 49.250 ||
+|-
+| 2007
+| 21
+| 61.600 ||
+|-
+| 2008
+| 26
+| 80.812 ||&lt;ref&gt;{{cite web |url= http://www.cepn.sp.com.cn/bwtj/200901/t20090109_268374.htm |title=中国电力新闻网――电力行业的门户网站 |publisher=Cepn.sp.com.cn |accessdate=2009-08-01}}&lt;/ref&gt;
+|-
+| 2009
+| 26
+| 79.470 ||&lt;ref&gt;{{cite web|url=http://www.chinaequip.gov.cn/2010-01/08/c_13130850.htm |title=国家重大技术装备 |publisher=Chinaequip.gov.cn |date=2010-01-08 |accessdate=2010-08-20}}&lt;/ref&gt;
+|-
+| 2010
+| 26
+| 84.370 ||&lt;ref&gt;{{cite web|url=http://www.ctgpc.com.cn/xwzx/news.php?mnewsid=45908 |title=峡—葛洲坝梯级电站全年发电1006.1亿千瓦时 }}&lt;/ref&gt;
+|-
+| 2011
+| 29
+| 78.290 ||&lt;ref&gt;{{cite web|url=http://english.cri.cn/6909/2012/01/07/1461s675113.htm |title=Three Gorges Project Generates 78.29 Bln Kwh of Electricity in 2011 }}&lt;/ref&gt;
+|-
+| 2012
+| 32
+|25.907 ||&lt;ref&gt;{{cite web|url=http://210.77.176.122/jyxx/gjdwzdjyxx/index.php |title=国家电力市场直调交易信息 }}&lt;/ref&gt;
+|- style=&quot;background:#ccf;&quot;
+| Total
+| 29(32)
+| 556.551 ||
+|}
+&lt;/center&gt;
+
+===Distribution===
+The [[State Grid Corporation]] and [[China Southern Power Grid]] paid a flat rate of ¥250&amp;nbsp;per MWh (US$35.7) until July&amp;nbsp;2, 2008. Since then, the price has varied by province, from ¥228.7–401.8&amp;nbsp;per MWh. Higher-paying customers receive priority, such as [[Shanghai]].&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=29096 |title=中国长江三峡工程开发总公司 |publisher=Ctgpc.com.cn |date=2008-07-04 |accessdate=2009-08-01}}&lt;/ref&gt; Nine provinces and two cities consume power from the dam.&lt;ref name=&quot;chinagate&quot;&gt;{{cite news|publisher=Chinagate.com.cn
+|url=http://en.chinagate.com.cn/reports/2007-12/05/content_9348644.htm
+|title=Construction of the Three Gorges Project and Ecological Protection
+|date=2007-11-27
+|accessdate =2008-01-20
+}}&lt;/ref&gt;
+
+Power distribution and transmission infrastructure cost about 34.387&amp;nbsp;billion Yuan. Construction was completed in December 2007, one year ahead of schedule.&lt;ref&gt;{{cite news
+|url= http://www.sdpc.gov.cn/xwfb/t20071220_180047.htm
+|title=Three Gorges Dam
+|publisher=National Development and Reform Commission
+|date=2007-12-20
+|accessdate=2007-12-20
+|language = Chinese
+}}&lt;/ref&gt;
+
+Power is distributed over multiple 500 [[kilovolt]] (kV) transmission lines. Three [[Direct current]] (DC) lines to the East China Grid carry 7,200&amp;nbsp;MW: [[Three Gorges – Shanghai]] (3,000&amp;nbsp;MW), [[HVDC Three Gorges – Changzhou]] (3,000&amp;nbsp;MW), and [[HVDC Gezhouba – Shanghai]] (1,200&amp;nbsp;MW). The [[alternating current]] (AC) lines to the Central China Grid have a total capacity of 12,000&amp;nbsp;MW. The DC transmission line [[HVDC Three Gorges – Guangdong]] to the South China Grid has a capacity of 3,000&amp;nbsp;MW.&lt;ref name=&quot;abb&quot;&gt;{{cite web
+|url= http://www.abb.com/cawp/gad02181/f5933693d1a92404c1256d8800401782.aspx
+|title=Three Gorges, China
+|publisher=ABB Group
+|accessdate=2010-11-23
+|archiveurl = http://web.archive.org/web/20071013121502/http://www.abb.com/cawp/gad02181/f5933693d1a92404c1256d8800401782.aspx |archivedate = 2007-10-13}}&lt;/ref&gt;
+
+The dam was expected to provide 10% of China's power. However, electricity demand has increased more quickly than planned. Even fully operational, on average, it supports only about 1.7% of electricity demand in China in the year of 2011, when the Chinese electricity demand reached 4692.8 TWh.&lt;ref&gt;{{cite news|url= http://www.csee.net.cn/data/2006/0525/article_864.htm
+ |title=Three Gorges Dam
+ |publisher=Chinese Society for electrical engineering
+ |date=2006-05-25
+ |accessdate=2007-05-16
+ |language = Chinese
+ |archiveurl=http://web.archive.org/web/20070429120935/http://www.csee.net.cn/data/2006/0525/article_864.htm &lt;!--Added by H3llBot--&gt;
+ |archivedate=April 29, 2007
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.gov.cn/gzdt/2012-01/14/content_2044324.htm |title=能源局:2011年全社会用电量累计达46928亿千瓦时 }}&lt;/ref&gt;
+
+==Environmental impact==
+[[File:ThreeGorgesDam-Landsat7.jpg|thumb|right|250px|Satellite map showing areas flooded by the Three Gorges reservoir. Compare November 7, 2006 (above) with April 17, 1987 (below)]]
+
+===Emissions===
+According to the National Development and Reform Commission of China, 366&amp;nbsp;grams of coal would produce 1&amp;nbsp;kWh of electricity during 2006.&lt;ref&gt;{{cite news
+|url=http://www.ndrc.gov.cn/zjgx/t20070307_120213.htm
+|title=Three Gorges Dam
+|publisher=NDRC
+|date=2007-03-07
+|accessdate=2007-05-15
+|language = Chinese
+}}&lt;/ref&gt; At full power, Three Gorges reduces coal consumption by 31&amp;nbsp;million tonnes per year, avoiding 100&amp;nbsp;million tonnes of greenhouse gas emissions,&lt;ref&gt;{{cite web
+|url=http://www.carbonplanet.com/home/country_emissions.php
+|title=Greenhouse Gas Emissions By Country
+|publisher=Carbonplanet
+|year= 2006
+|accessdate=2010-11-23
+}}&lt;/ref&gt; millions of tonnes of dust, one&amp;nbsp;million tonnes of [[sulfur dioxide]], 370,000&amp;nbsp;tonnes of [[nitric oxide]], 10,000&amp;nbsp;tonnes of [[carbon monoxide]], and a significant amount of [[Mercury (element)|mercury]].&lt;ref&gt;{{cite news
+|url=http://www.ctgpc.com.cn/sxslsn/index.php
+|title=Three Gorges Dam
+|publisher=TGP
+|date=2006-06-12
+|accessdate=2007-05-15
+|language = Chinese
+}}&lt;/ref&gt; Hydropower saves the energy needed to mine, wash, and transport the coal from northern China.
+
+From 2003 to 2007, power production equaled that of 84&amp;nbsp;million tonnes of standard coal, reducing carbon dioxide by 190&amp;nbsp;million tonnes, sulfur dioxide by 2.29&amp;nbsp;million tonnes, and nitrogen oxides by 980,000&amp;nbsp;tonnes.&lt;ref name=Xinhuar2007023&gt;{{cite news
+| url=http://news.stockstar.com/info/darticle.aspx?id=GA,20080708,00069957&amp;columnid=76
+| title= 长江电力(600900)2008年上半年发电量完成情况公告 – 证券之星 (The Three Gorges sluice year transported goods volume may amount to 100,000,000&amp;nbsp;tons)
+|publisher=Xinhua
+| date=2007-01-23
+| accessdate=2008-08-09
+| quote=
+}} [http://www.webcitation.org/query?url=http%3A%2F%2Fbabelfish.yahoo.com%2Ftranslate_url%3Fdoit%3Ddone%26tt%3Durl%26intl%3D1%26fr%3Dbf-home%26trurl%3Dhttp%253A%252F%252Fwww.hb.xinhuanet.com%252Fzhengwu%252F2007-01%252F23%252Fcontent_9110876.htm%26lp%3Dzh_en%26btnTrUrl%3DTranslate&amp;date=2008-08-09 translation]
+&lt;/ref&gt;
+
+The dam increased the Yangtze's barge capacity sixfold, reducing carbon dioxide emission by 630,000&amp;nbsp;tonnes. From 2004 to 2007 a total of 198 million tonnes of goods passed through the ship locks. Compared to using trucking, barges reduced carbon dioxide emission by ten&amp;nbsp;million tonnes and lowered costs by 25%.&lt;ref name=Xinhuar2007023/&gt;
+
+===Erosion and sedimentation===
+Two hazards are uniquely identified with the dam.&lt;ref&gt;
+Topping, Audrey Ronning. Environmental controversy over the Three Gorges Dam. Earth Times News Service.&lt;/ref&gt; One is that sedimentation projections are not agreed upon, and the other is that the dam sits on a seismic fault. At current levels, 80% of the land in the area is experiencing erosion, depositing about 40&amp;nbsp;million tons of [[sediment]] into the [[Yangtze]] annually.&lt;ref name=&quot;autogenerated1&quot; /&gt; Because the flow is slower above the dam, much of this sediment will now settle there instead of flowing downstream, and there will be less sediment downstream.
+
+The absence of silt downstream has three effects:
+* Some hydrologists expect downstream riverbanks to become more vulnerable to flooding.&lt;ref&gt;{{cite news |url= http://chinese.wsj.com/gb/20070829/chw110745.asp?source=baidu |title=三峡大坝之忧 |work=The Wall Street Journal  |date=2007-08-28 |accessdate=2009-08-16}}&lt;/ref&gt;
+* Shanghai, more than {{convert|1600|km|abbr=on}} away, rests on a massive sedimentary plain. The &quot;arriving silt—so long as it does arrive—strengthens the bed on which Shanghai is built... the less the tonnage of arriving sediment the more vulnerable is this biggest of Chinese cities to inundation...&quot;&lt;ref&gt;{{cite book
+|last=Winchester
+|first=Simon
+|title= The River at the Center of the World
+|publisher=Henry Holt &amp; Co
+|place=New York
+|year=1998
+|page=228
+|isbn=978-0-8050-5508-5
+}}&lt;/ref&gt;
+* [[Benthic zone|Benthic]] sediment buildup causes biological damage and reduces aquatic [[biodiversity]].&lt;ref&gt;{{cite book
+|last1=Segers
+|first1=Henrik
+|last2=Martens
+|first2=Koen
+|title= The River at the Center of the World
+|publisher=Springer
+|year=2005
+|page=73
+|isbn=978-1-4020-3745-0
+}}&lt;/ref&gt;
+
+===Earthquakes and landslides===
+Erosion in the reservoir, induced by rising water, causes frequent major [[landslide]]s that have led to noticeable disturbance in the reservoir surface, including two incidents in May 2009 when somewhere between {{convert|20000|and|50000|m3|cuyd}} of material plunged into the flooded Wuxia Gorge of the [[Wu River (Yangtze River)|Wu River]].&lt;ref&gt;{{cite web |last=Yang|first=Sung |url= http://english.cri.cn/6909/2009/05/19/45s485830.htm |title=No Casualties in Three Gorges Dam Landslide |publisher=CRIEnglish.com |work=Xinhua News Network |accessdate=2009-06-03}}&lt;/ref&gt; Also, in the first four months of 2010, there were 97 significant landslides.&lt;ref name=&quot;poop&quot;/&gt;
+
+===Waste management===
+[[File:Maoping-Drinking-water-source-protection-area-4937.JPG|thumb|[[Zigui County]] seat [[source water protection]] area in [[Maoping, Hubei|Maoping Town]], a few km upstream of the dam]]
+The dam catalyzed improved upstream [[wastewater]] treatment around [[Chongqing]] and its suburban areas. According to the Ministry of Environmental Protection, as of April 2007 more than 50 new plants could treat 1.84&amp;nbsp;million tonnes per day, 65% of the total need. About 32 landfills were added, which could handle 7,664.5&amp;nbsp;tonnes of solid waste every day.&lt;ref name=Xinhua20080503&gt;{{cite news
+| url=http://www.hb.xinhuanet.com/zhibo/2008-05/03/content_13148105.htm
+| title=湖北省三峡治污项目三年内投入约23.5亿元 (In the Hubei Province Three Gorges anti-pollution project three years invest the approximately 2,350,000,000 Yuan)
+|publisher=Xinhua
+| date=2007-04-19
+| accessdate=2008-08-09
+| quote=
+}} [http://www.webcitation.org/query?url=http%3A%2F%2Fbabelfish.yahoo.com%2Ftranslate_url%3Fdoit%3Ddone%26tt%3Durl%26intl%3D1%26fr%3Dbf-home%26trurl%3Dhttp%253A%252F%252Fwww.hb.xinhuanet.com%252Fzhibo%252F2008-05%252F03%252Fcontent_13148105.htm%2B%26lp%3Dzh_en%26btnTrUrl%3DTranslate&amp;date=2008-08-09 translation]
+&lt;/ref&gt; Over one&amp;nbsp;billion tons of wastewater are released annually into the river,&lt;ref name=&quot;autogenerated1&quot;&gt;
+Qing, Dai, 9. The River Dragon Has Come!: The Three Gorges Dam and the Fate of China's Yangtze River and Its People (East Gate Book). Armonk, New York: M.E. Sharpe, 1997.&lt;/ref&gt; which was more likely to be swept away before the reservoir was created. This has left the water looking stagnant, polluted and murky.&lt;ref name=&quot;poop&quot;&gt;{{cite news|last=Richard Jones|first=Michael Sheridan|title=Chinese dam causes quakes and landslides|url=http://www.timesonline.co.uk/tol/news/environment/article7140217.ece|accessdate=2011-01-25|date=2010-05-30|location=London|work=The Times }}&lt;/ref&gt;
+
+===Forest cover===
+The Three Gorges area currently has 10% forestation, down from 20% in the 1950s.&lt;ref name=&quot;autogenerated1&quot; /&gt;
+
+The [[FAO]]'s research suggests that the Asia-Pacific region will, overall, gain about 6,000 square km of forest in 2008. That is quite a turnaround from the 13,000 square km net loss of forest each year in the 1990s. The main reason is China's huge reforestation effort. This accelerated after [[1998 Yangtze River floods|severe flooding in 1998]] convinced the government that it must restore tree cover, especially in the Yangtze's basin upstream of the Three Gorges Dam.&lt;ref&gt;
+Peter Collins, &quot;Falling here, rising there&quot; Page 63, The World in 2008, ''The Economist''&lt;/ref&gt;
+
+===Wildlife===
+Concerns about the potential wildlife impact of the Dam predate the [[National People's Congress]]'s approval in 1992.&lt;ref name=Li&gt;Li, Long (1989). ''[http://scholars.wlu.ca/etd/312/ Environmental planning of large-scale water projects: The Three Gorges Dam case, China]'' (M.A. thesis) Wilfrid Laurier University&lt;/ref&gt; This region has long been known for its rich biodiversity. It is home to 6,388 species of plants, which belong to 238 families and 1508 genera. Of these plant species, 57 percent are endangered.&lt;ref&gt;Wu, Jianguo, et al. “Three-Gorges Dam— Experiment in Habitat Fragmentation?” Science 300-5623 (May 23, 2003): 1239–1240.&lt;/ref&gt; These rare species are also used as ingredients in traditional Chinese medicines.&lt;ref&gt;Chetham, Deirdre. “Before the Deluge: The Vanishing World of the Yangtze's Three Gorges.” New York: Palgrave Macmillan, 2002.&lt;/ref&gt; Already, the percentage of forested area in the region surrounding the Three Gorges Dam has dropped from twenty percent in 1950 to less than ten percent as of 2002,&lt;ref&gt;Chetham, Deirdre. “Before the Deluge: The Vanishing World of the Yangtze's Three Gorges.”&lt;/ref&gt; negatively affecting all plant species in this locality. The region also provides habitats to hundreds of freshwater and terrestrial animal species.&lt;ref name=&quot;autogenerated1&quot;&gt;Wu, Jianguo, et al. “Three-Gorges Dam— Experiment in Habitat Fragmentation?”&lt;/ref&gt; Freshwater fish are especially affected by dams due to changes in the water temperature and flow regime. Many other fish are hurt in the turbine blades of the hydroelectric plants as well. This is particularly detrimental to the ecosystem of the region because the Yangtze River basin is home to 361 different fish species and accounts for twenty-seven percent of all endangered freshwater fish species in China.&lt;ref&gt;Xie, Ping. “Three-Gorges Dam: Risk to Ancient Fish.” Science 302-5648 (Nov 14, 2003): 1149.&lt;/ref&gt; Other aquatic species are being endangered by the dam, particularly the Baiji, or the [[Chinese River Dolphin]].&lt;ref name=&quot;autogenerated1&quot;/&gt;
+
+Of the 3,000 to 4,000 remaining [[critically endangered]] [[Siberian Crane]], a large number currently spend the winter in wetlands that will be destroyed by the Three Gorges Dam.&lt;ref&gt;{{cite news
+| url=http://american.edu/TED/threedam.htm
+| title= Three Gorges Dam Case Study
+| publisher= American University, The School of International Service
+| accessdate=2008-01-20
+}}&lt;/ref&gt; The dam contributed to the [[functional extinction]] of the [[Baiji]] Yangtze river dolphin.  Though it was close to this level even at the start of construction, the dam further decreased its habitat and increased ship travel, which are among the factors causing what will be its ultimate demise.  In addition, populations of the [[Yangtze sturgeon]] are guaranteed to be &quot;negatively affected&quot; by the dam.&lt;ref&gt;{{cite news
+| url=http://www.flathatnews.com/news/1304/three-gorges-dam-a-blessing-or-an-environmental-disaster
+| title= Three Gorges Dam: A Blessing or an Environmental Disaster?
+| author=Ethan Theuerkauf
+| publisher=The Flat Hat, the College of William and Mary's student newspaper
+| date=2007-10-02
+| accessdate=2008-01-20
+}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;
+
+==Floods, agriculture, industry==
+An important function of the dam is to control flooding, which is a major problem for the seasonal river of the Yangtze. Millions of people live downstream of the dam, with many large, important cities like [[Wuhan]], [[Nanjing]], and Shanghai situated adjacent to the river. Plenty of farm land and China's most important industrial area are built beside the river.
+
+The reservoir's flood storage capacity is {{convert|22|km3|acre.ft|lk=out}}. This capacity will reduce the frequency of major downstream flooding from once every ten years to once every 100&amp;nbsp;years. The dam is expected to minimize the effect of even a &quot;super&quot; flood.&lt;ref&gt;{{cite web |url= http://finance.people.com.cn/GB/1039/60370/62598/63180/4385148.html |title=三峡工程的防洪作用将提前两年实现-经济-人民网 |work=People's Daily  |accessdate=2009-08-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.chn-consulate-sapporo.or.jp/chn/ztxw/t252626.htm |title=三峡工程防洪、通航、发电三大效益提前全面发挥 |publisher=Chn-consulate-sapporo.or.jp |date=2006-05-16 |accessdate=2009-08-01}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt; [[1954 Yangtze River Floods|In 1954 the river flooded]] {{convert|193000|km2|sqmi|0|abbr=on}}, killing 33,169&amp;nbsp;people and forcing 18,884,000&amp;nbsp;people to move. The flood covered Wuhan, a city of eight million people, for over three months, and the [[Jingguang Railway]] was out of service for more than 100&amp;nbsp;days.&lt;ref&gt;{{cite web |url= http://www.people.com.cn/GB/jinji/222/10814/10824/10831/20030529/1003614.html |title=39.1931、1935、1954、1998年长江流域发生的4次大洪水造成了怎样的洪水灾害?? |work=People's Daily  |accessdate=2009-08-01}}&lt;/ref&gt; The 1954 flood carried {{convert|50|km3}} of water. The dam could only divert the water above Chenglingji, leaving {{convert|30|to|40|km3|cumi|abbr=on}} to be diverted.&lt;ref&gt;
+Dai, Qing. Yangtze! Yangtze!. UK: Earthscan Ltd, 1994., 184&lt;/ref&gt; Also the dam cannot protect against some of the large tributaries downstream, including the [[Xiang River|Xiang]], [[Zi River|Zishui]], [[Yuan River|Yuanshui]], [[Lishui River|Lishui]], [[Han River (Hanshui)|Hanshui]], and the [[Gan River (Jiangxi)|Gan]].
+
+[[1998 Yangtze River Floods|In 1998 a flood in the same area]] caused billions of dollars in damage; {{convert|2039|km2|sqmi|0|abbr=on}} of farm land were flooded. The flood affected more than 2.3&amp;nbsp;million people, killing 1,526.&lt;ref&gt;{{cite news
+|url=http://www.ctgpc.com.cn/sxslsn/index.php?mClassId=003000
+|title=Three Gorges Dam
+|publisher=CTGPC
+|date=2002-04-20
+|accessdate=2007-06-03
+|language = Chinese
+}}&lt;/ref&gt;
+
+In early August 2009, the largest flood in five years passed through the dam site. The dam limited the water flow to less than {{convert|40000|m3|cuyd}} per second, raising the upstream water level from 145.13&amp;nbsp;metres on August&amp;nbsp;1, 2009, to 152.88 on August&amp;nbsp;8, 2009. 4.27 cubic kilometres of flood water were captured and the river flow was cut by as much as 15,000 cubic metres per second.&lt;ref name=&quot;ctgpc2&quot;/&gt;
+
+The dam discharges its reservoir during the dry season between December and March every year.&lt;ref&gt;{{cite web |url= http://www.gov.cn/jrzg/2009-02/18/content_1235518.htm |title=经过不懈努力三峡枢纽主体工程建设任务提前完成 |publisher=Gov.cn |accessdate=2009-08-01}}&lt;/ref&gt; This increases the flow rate of the river downstream, and provides fresh water for agricultural and industrial usage. It also improves shipping conditions. The water level upstream drops from 175&amp;nbsp;m to 145&amp;nbsp;m,&lt;ref&gt;{{cite web |url= http://www.hb.xinhuanet.com/zhibo/2009-02/19/content_15732434.htm |title=三峡水库可如期消落至145米汛限水位 |publisher=Hb.xinhuanet.com |accessdate=2009-08-01}}&lt;/ref&gt; preparing for the rainy season. The water also powers the Gezhouba Dam downstream.
+
+Since the filling of the reservoir in 2003, the Three Gorges Dam has supplied an extra 11&amp;nbsp;cubic kilometres of fresh water to downstream cities and farms during the dry season.&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=35412 |title=中国长江三峡工程开发总公司 |publisher=Ctgpc.com.cn |date=2009-08-07 |accessdate=2009-08-16}}&lt;/ref&gt;
+{{Anchor|Navigation}}
+
+During the [[2010 South China floods]], in July, inflows at the Three Gorges Dam reached a peak of {{Convert|70000|m3/s|ft3/s|abbr=on}}, exceeding the peak during the [[1998 Yangtze River Floods]]. The dam's reservoir rose nearly {{Convert|3|m|ft|abbr=on}} in 24 hours and reduced the outflow to {{Convert|40000|m3/s|ft3/s|abbr=on}} in discharges downstream, effectively alleviating serious impacts on the middle and lower river.&lt;ref&gt;[http://www.easyseosolution.com/blog/archives/910 Three Gorges Dam will meet the first large-scale flood since being completed] July 20, 2010. Retrieved July 20, 2010.&lt;/ref&gt;&lt;ref&gt;{{zh icon}}{{cite web |publisher=SINA Corporation |url=http://news.sina.com.cn/c/2010-07-20/090920716433.shtml |title=三峡迎来7万立方米/秒特大洪峰 规模超1998年}}&lt;/ref&gt;
+
+==Navigating the dam==
+===Locks===
+[[Image:Three gorges dam locks view from vantage point.jpg|thumb|[[lock (water transport)|Ship locks]] for river traffic to bypass the Three Gorges Dam, May 2004]]
+The installation of [[lock (water transport)|ship locks]] is intended to increase river shipping from ten&amp;nbsp;million to 100&amp;nbsp;million tonnes annually, as a result transportation costs will be cut between 30 and 37%. Shipping will become safer, since the gorges are notoriously dangerous to navigate.&lt;ref name=Xinhuar2007023/&gt; Ships with much deeper draft will be able to navigate {{convert|2400|km}} upstream from Shanghai all the way to [[Chongqing]]. It is expected that shipping to Chongqing will increase fivefold.&lt;ref&gt;{{cite book |url=http://books.google.com/?id=yAgGHnENHjoC&amp;pg=PA377&amp;dq=three+gorges+dam#v=onepage&amp;q=three%20gorges%20dam&amp;f=false |title=World Regional Geography |author=Joseph J. Hobbs, Andrew Dolan |year=2008 |publisher=Cengage Learning |page=376 |isbn=978-0-495-38950-7 }}&lt;/ref&gt;&lt;ref name=WashingtonPost&gt;
+{{cite news
+| url         = http://www.washingtonpost.com/wp-srv/inatl/longterm/yangtze/stories/facts.htm
+| title       = The Three Gorges Dam
+| publisher   = [[Washington Post]]
+| date        = 1997
+| accessdate  = 2011-12-14
+| quote       = A maximum depth of 574 feet. This is expected to allow 10,000-ton ocean-going cargo ships and passenger liners to navigate 1,500 miles inland to Chongqing.
+| archiveurl  = http://www.webcitation.org/query?url=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-srv%2Finatl%2Flongterm%2Fyangtze%2Fstories%2Ffacts.htm&amp;date=2011-12-14
+| archivedate = 2011-12-14
+}}
+&lt;/ref&gt;
+
+There are two ship locks installed near the dam. Each of them is made up of five stages, with transit time at around four hours. Maximum vessel size is 10,000&amp;nbsp;tons.&lt;ref&gt;{{cite news
+|url=http://www.chinaeconomicreview.com/logistics/?cat=88
+|title=Yangtze as a vital logistics aid
+|publisher=China Economic Review
+|date=2007-05-30
+|accessdate=2007-06-03
+|language = Chinese
+}} {{Dead link|date=April 2012|bot=H3llBot}}
+&lt;/ref&gt; The locks are 280&amp;nbsp;m long, 35&amp;nbsp;m wide, and 5&amp;nbsp;m deep (918 x 114 x 16.4&amp;nbsp;ft).&lt;ref name=Moafs20020420&gt;{{cite web
+|url=http://www.moafs.org/newsletter/April%202002/3gorgestats.htm
+|title=Three Gorges Dam
+|publisher=Missouri Chapter American Fisheries Society
+|date=2002-04-20
+|accessdate=2010-11-23
+}} [http://www.webcitation.org/query?url=http%3A%2F%2Fwww.moafs.org%2Fnewsletter%2FApril%25202002%2F3gorgestats.htm&amp;date=2008-08-09 mirror]
+&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url=http://www.ctgpc.com/benefifs/benefifs_a_5.htm
+|title=Its Buildings with Biggest Indices
+|publisher=China Three Gorges Project
+|year=2002
+|accessdate=2010-11-23
+}}[http://www.webcitation.org/query?url=http%3A%2F%2Fwww.ctgpc.com%2Fbenefifs%2Fbenefifs_a_5.htm&amp;date=2008-08-09 mirror]
+&lt;/ref&gt; That is 30&amp;nbsp;m longer than those on the [[St Lawrence Seaway]], but half as deep. Before the dam was constructed, the maximum freight capacity at the Three Gorges site was 18.0&amp;nbsp;million tonnes per year. From 2004 to 2007, a total of 198&amp;nbsp;million tonnes of freight passed through the locks. The freight capacity of the river increased six&amp;nbsp;times and the cost of shipping was reduced by 25%. The total capacity of the ship locks is expected to reach 100&amp;nbsp;million tonnes per year.&lt;ref name=Xinhuar2007023/&gt;
+
+These locks are [[Lock gates#Special cases|staircase locks]], whereby inner lock gate pairs serve as both the upper gate and lower gate.  The [[Lock gates#Variations|gates]] are the vulnerable hinged type, which, if damaged, could temporarily render the entire flight unusable. As there are separate sets of locks for upstream and downstream traffic, this system is more water efficient than bi-directional staircase locks.
+
+===Ship lifts===
+In addition to the canal locks, a [[boat lift|ship lift]], a kind of elevator for vessels, is under construction. The ship lift is designed to be capable of lifting ships of up to 3,000&amp;nbsp;tons.&lt;ref name=Bbc2005050&gt;{{cite news
+|url=http://news.bbc.co.uk/2/hi/business/4512015.stm
+|title=China's west seeks to impress investors
+|publisher=BBC
+|date=2005-05-04
+|accessdate=2010-11-23
+| first=Nick
+| last=MacKie
+}} [http://www.webcitation.org/query?url=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fbusiness%2F4512015.stm&amp;date=2008-08-09 mirror]
+&lt;/ref&gt; The original plans specified a lift with the capacity to lift 11,500&amp;nbsp;ton vessels. The vertical distance traveled will be 113 metres,&lt;ref name=ChinaThreeGorgesProject&gt;{{cite web
+| url=http://www.ctgpc.com/benefifs/benefifs_a_5.htm
+| title=Its Buildings with Biggest Indices
+| publisher=China Three Gorges Project
+| year=2002
+| accessdate=2010-11-23
+}}&lt;/ref&gt; and the size of the ship lift's basin will be 120x18x3.5 metres. The ship lift, when completed, will take 30 to 40 minutes to transit, as opposed to the three to four hours for stepping through the locks.&lt;ref name=Bbc050504&gt;{{cite news
+| url=http://news.bbc.co.uk/2/hi/business/4512015.stm
+| title=China's west seeks to impress investors
+|publisher=BBC
+| date=2005-05-04
+| accessdate=2010-11-23
+| first=Nick
+| last=MacKie
+}}&lt;/ref&gt; One complicating factor is that the water level can vary dramatically. The ship lift must work even if water levels vary by {{convert|12|m|ft|sp=us}} on the lower side, and 30&amp;nbsp;metres on the upper side.
+
+The ship lift was not yet complete when the rest of the project was officially opened on May&amp;nbsp;20, 2006.&lt;ref name=TaipeiTimes20080521&gt;{{cite news
+|url=http://www.taipeitimes.com/News/world/archives/2006/05/21/2003309291
+|title=Three Gorges dam ready to go
+|date=2006-05-21
+|work=The Taipei Times 
+|accessdate=2010-11-23
+}} [http://www.webcitation.org/query?url=http%3A%2F%2Fwww.taipeitimes.com%2FNews%2Fworld%2Farchives%2F2006%2F05%2F21%2F2003309291&amp;date=2008-08-09 mirror]
+&lt;/ref&gt;&lt;ref name=CbsNews20060520&gt;{{cite news
+|url=http://www.cbsnews.com/stories/2006/05/20/world/main1638180.shtml
+|title=China Completes Three Gorges Dam
+|date=2006-05-20
+|publisher=[[CBS News]]
+|accessdate=2010-11-23
+}} [http://www.webcitation.org/query?url=http%3A%2F%2Fwww.cbsnews.com%2Fstories%2F2006%2F05%2F20%2Fworld%2Fmain1638180.shtml&amp;date=2008-08-09 mirror]
+&lt;/ref&gt; Construction of the ship lift started in October 2007 and is anticipated to be completed in 2014.&lt;ref name=CnHubei20071110&gt;{{cite news
+| url=http://news.cnhubei.com/hbrb/hbrbsglk/hbrb01/200711/t136849.shtml
+| title=三峡升船机开工建设_荆楚网 (Three Gorges ship lift operation construction)
+| publisher=[[CnHubei]]
+| date=2007-11-10
+| accessdate=2008-08-09
+| quote=
+}} [http://www.webcitation.org/query?url=http%3A%2F%2Fbabelfish.yahoo.com%2Ftranslate_url%3Fdoit%3Ddone%26tt%3Durl%26intl%3D1%26fr%3Dbf-home%26trurl%3Dhttp%253A%252F%252Fnews.cnhubei.com%252Fhbrb%252Fhbrbsglk%252Fhbrb01%252F200711%252Ft136849.shtml%26lp%3Dzh_en%26btnTrUrl%3DTranslate&amp;date=2008-08-09 translation]
+&lt;/ref&gt;
+
+==Relocation of residents==
+As of June 2008, China relocated 1.24&amp;nbsp;million residents (ending with [[Gaoyang, Hubei|Gaoyang]] in Hubei Province),&lt;ref&gt;{{cite web |url= http://www.ctgpc.com.cn/sx/news.php?mNewsId=29626 |title=三峡四期移民工程通过阶段性验收 |language=Chinese |publisher=China Three Gorges Project Corporation |date=2008-08-22 |accessdate=2008-12-06}}&lt;/ref&gt;&lt;ref name=autogenerated3&gt;{{cite news |url= http://chinese.wsj.com/gb/20080724/bch094619.asp?source=whatnews3 |title=中港台&amp;#93; 三峡库区城镇完成拆迁-华尔街日报 |work=The Wall Street Journal  |accessdate=2009-08-01}}&lt;/ref&gt; about 1.5% of the province's 60.3&amp;nbsp;million and [[Chongqing]] Municipality's 31.44&amp;nbsp;million population.&lt;ref name=&quot;MWC_News_101307&quot;&gt;{{cite news
+|url=http://mwcnews.net/content/view/17341&amp;Itemid=1
+|title= China dam to displace millions more
+|publisher=MWC News
+|date=2007-10-13
+|accessdate=2010-11-23
+|archiveurl = http://web.archive.org/web/20071014132058/http://mwcnews.net/content/view/17341&amp;Itemid=1 |archivedate = 2007-10-14}}&lt;/ref&gt; About 140,000&amp;nbsp;residents were relocated to other provinces.&lt;ref name=&quot;chinadaily2&quot;&gt;{{cite news
+|url=http://www.chinadaily.com.cn/english/doc/2004-07/15/content_348413.htm
+|title= More bid farewell to Three Gorges
+|author=Liang Chao
+|work=China Daily
+|date=2004-07-15
+|accessdate=2008-01-20
+}}&lt;/ref&gt;
+
+Relocation was completed on July&amp;nbsp;22, 2008.&lt;ref name=autogenerated3 /&gt; Some 2007 reports claimed that Chongqing Municipality will encourage an additional four&amp;nbsp;million people to move away from the dam to the main urban area of Chongqing by 2020.&lt;ref name=&quot;bbc12102007&quot;&gt;{{cite news
+|url=http://news.bbc.co.uk/2/hi/asia-pacific/7042660.stm
+|title= Millions forced out by China dam
+|publisher=BBC News
+|date=2007-10-12
+|accessdate=2008-01-20
+}}&lt;/ref&gt;&lt;ref name=&quot;xinhua11102007&quot;&gt;{{cite news
+|url=http://news.xinhuanet.com/english/2007-10/11/content_6864252.htm
+|title= Millions more face relocation from Three Gorges Reservoir Area
+|publisher=Xinhua
+|author=Wang Hongjiang
+|date=2007-10-11
+|accessdate=2008-01-20
+}}&lt;/ref&gt;&lt;ref name=&quot;xinhua26092007&quot;&gt;{{cite news
+|url=http://news.xinhuanet.com/english/2007-09/26/content_6796234.htm
+|title= China warns of environmental &quot;catastrophe&quot; from Three Gorges Dam
+|publisher=Xinhua
+|author=Jiang Yuxia
+|date=2007-09-26
+|accessdate=2010-11-23
+}}&lt;/ref&gt;
+However, the municipal government explained that the relocation is due to urbanization, rather than the dam, and people involved included other areas of the municipality.&lt;ref name=&quot;ccdv20071116&quot;&gt;{{cite news
+|url=http://ccdv.people.com.cn/GB/66982/6537524.html
+|title= 重庆澄清&quot;三峡库区二次移民四百万&quot;传闻
+|work=People's Daily 
+|author=Guo Jinjia, Yang Shanyin
+|date=2007-11-16
+|accessdate=2011-04-10
+}}&lt;/ref&gt;
+
+Allegedly, funds for relocating 13,000 farmers around Gaoyang disappeared after being sent to the local government, leaving residents without compensation.&lt;ref name=&quot;nationalgeographic&quot;&gt;{{cite news | url=http://news.bbc.co.uk/2/hi/asia-pacific/1925172.stm
+|title= Relocation for Giant Dam Inflames Chinese Peasants
+|author=Julie Chao
+|publisher=National Geographic
+|date=2001-05-15
+|accessdate=2008-01-20
+}}&lt;/ref&gt;
+
+==Other effects==
+===Culture and aesthetics===
+The {{convert|600|km|abbr=on}} long reservoir flooded some 1,300&amp;nbsp;archaeological sites and altered the appearance of the Three Gorges as the water level rose over {{convert|300|ft|abbr=on}}.&lt;ref&gt;{{cite news
+|url=http://www.worldchanging.com/archives/007682.html
+|title= Flotsam, Jetsam and the Three Gorges Dam
+|author=Regine Debatty
+|publisher=World Changing
+|date=2007-12-09
+|accessdate=2008-01-20
+}}&lt;/ref&gt; Cultural and historical relics are being moved to higher ground as they are discovered, but the flooding inevitably covered undiscovered relics. Some sites could not be moved because of their location, size, or design. For example, the [[hanging coffins]] site high in the [[Shen Nong Stream|Shen Nong Gorge]] is part of the cliffs.&lt;ref name=&quot;Hogan&quot;&gt;{{cite news
+|url=http://www.megalithic.co.uk/article.php?sid=17946
+|title= Shen Nong Gorge Hanging Coffins
+|author=C.Michael Hogan
+|publisher=The Megalithic Portal
+|editor=Andy Burnham
+|accessdate=2008-01-20
+}}&lt;/ref&gt;
+
+===National security===
+The [[United States Department of Defense]] reported that in [[Taiwan]], “proponents of strikes against the mainland apparently hope that merely presenting credible threats to China's urban population or high-value targets, such as the Three Gorges Dam, will deter Chinese military coercion.”&lt;ref&gt;{{cite web
+|url=http://www.defenselink.mil/pubs/d20040528PRC.pdf
+|title=Annual report on the military power of the People's Republic of China (.pdf)
+|publisher=[[US Department of Defense]]
+|accessdate=2007-01-28}}&lt;/ref&gt;
+
+The notion that the [[Military of the Republic of China|military in Taiwan]] would seek to destroy the dam provoked an angry response from the mainland Chinese media. [[People's Liberation Army]] General [[Liu Yuan (politician)|Liu Yuan]] was quoted in the ''[[China Youth Daily]]'' saying that the People's Republic of China would be &quot;seriously on guard against threats from [[Taiwan independence]] terrorists.&quot;&lt;ref&gt;{{cite news
+|date=2004-09-14
+|publisher=BBC
+|url=http://news.bbc.co.uk/1/hi/world/asia-pacific/3654772.stm
+|title=Troops sent to protect China dam
+|accessdate=2010-11-23}}&lt;/ref&gt;
+
+===Structural integrity===
+Days after the first filling of the reservoir, around 80 hairline cracks were observed in the dam's structure.&lt;ref&gt;{{cite web |url= http://internationalrivers.org/en/china/three-gorges-dam |title=Three Gorges Dam |publisher=International Rivers |accessdate=2009-06-03}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last=Adams|first=Jerry |url= http://www.awesomelibrary.org/Library/Local_Information/Asia/China/Three_Gorges_Dam.html |title=Three Gorges Dam |work=Electronic Data Interchange |publisher=Awesome Library |accessdate=2009-06-03}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.loe.org/series/3gorges/ |title=Three Gorges Dam |publisher=Living On Earth |accessdate=2009-06-03}}&lt;/ref&gt; The submerged spillway gates of the dam might pose a risk of [[cavitation]], similar to what severely damaged the poorly designed and cavitating spillways of the [[Glen Canyon Dam]] in the US state of [[Arizona]], which was unable to properly withstand the [[Risks of the Glen Canyon Dam#Colorado River Floods of 1983|Colorado river floods of 1983]].&lt;ref&gt;Steven Hannon. [http://www.glencanyon.org/publications/hiddenpassage/hp2stev.php The 1983 Flood at Glen Canyon]&lt;/ref&gt; However 163,000 concrete units of the Three Gorges dam all passed quality testing and the deformation was within design limits. An experts group gave the project overall a good quality rating.&lt;ref&gt;{{cite web |url= http://www.aqsiq.gov.cn/zjxw/zjxw/zjftpxw/200907/t20090721_122359.htm |title=三峡工程质量处于良好受控状态 |publisher=Aqsiq.gov.cn |accessdate=2009-08-16}}&lt;/ref&gt;
+
+==Upstream dams==
+[[Image:Yangtze longitudinal profile upstream.JPG|thumb|Longitudinal profile of upstream Yangtze River]]
+In order to maximize the utility of the Three Gorges Dam and cut down on sedimentation from the [[Jinsha River]], upstream of the Yangtze River before reaching [[Yibin]] in [[Sichuan]], authorities plan to build a series of dams downstream of Jinsha, including [[Wudongde Dam]], [[Baihetan Dam]], [[Xiluodu Dam]], and [[Xiangjiaba Dam]]. The total capacity of those four dams is 38,500&amp;nbsp;MW,&lt;ref&gt;{{cite web |url= http://www.chinapower.com.cn/newsarticle/1008/new1008554.asp |title=中国三峡总公司拟在金沙江上建４座梯级水电站 总装机容量为３８５０万千瓦_中国电力网(www.chinapower.com.cn)新闻中心 |publisher=chinapower.com.cn |accessdate=2009-08-01}}&lt;/ref&gt; almost double the capacity of the Three Gorges.&lt;ref&gt;{{cite news
+|url=http://www.usembassy-china.org.cn/sandt/estnews030703.htm
+|title= Beijing Environment, Science and Technology Update
+|publisher=U.S. Embassy in China
+|date=2003-03-07
+|accessdate=2008-01-20
+}}&lt;/ref&gt; Xiluodu and Xiangjiaba are under construction, while Baihetan is preparing for construction and Wudongde is seeking government approval. Another eight dams are in the midstream of the Jinsha and eight more upstream of it.&lt;ref&gt;{{cite news
+|url=http://www.waterpowermagazine.com/story.asp?storyCode=2041318
+|title= Beyond Three Gorges in China
+|publisher=Water Power Magazine
+|date=2007-01-10
+|accessdate=2010-11-23
+}}&lt;/ref&gt;
+{{Clear}}
+
+==See also==
+{{Portal|Renewable energy|Energy|Sustainable development}}
+* [[Energy policy of China]]
+* [[List of largest power stations in the world]]
+* [[List of largest hydroelectric power stations]]
+* [[List of power stations in China]]
+* [[List of dams and reservoirs in China]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons category|Three Gorges Dam}}
+*[http://www.ctg.com.cn/en/index.php China Three Gorges Corporation] (In English)
+*[http://www.cypc.com.cn/EN/index.html China Yangtze Power Co., Ltd.] - (In English)
+*{{cite web|url=http://www.youtube.com/watch?v=tjTh7A4jnbc |title=Three Gorges Power Plant Animation |publisher=YouTube }}
+
+{{Energy in the People's Republic of China}}
+
+[[Category:Hydroelectric power stations in Hubei]]
+[[Category:Dams in China]]
+[[Category:Yangtze River]]
+[[Category:Yichang]]
+[[Category:Gravity dams]]
+[[Category:Dam controversies]]
+[[Category:Dams completed in 2008]]
+
+{{Link GA|zh}}
+
+[[ar:سد القفلات الثلاث]]
+[[an:Entibo d'as Tres Foces]]
+[[zh-min-nan:Sam-kiap Chúi-pà]]
+[[be:ГЭС Тры цясніны]]
+[[be-x-old:ГЭС Тры цясьніны]]
+[[bg:Три клисури]]
+[[bs:Brana Tri sutjeske (Kina)]]
+[[br:Stankell an Teir C'hanienn]]
+[[ca:Presa de les Tres Gorges]]
+[[cs:Tři soutěsky (hráz)]]
+[[cy:Argae'r Tri Cheunant]]
+[[da:De Tre Slugters Dæmning]]
+[[de:Drei-Schluchten-Talsperre]]
+[[et:Kolme Kuristiku tamm]]
+[[es:Presa de las Tres Gargantas]]
+[[eo:Baraĵo Tri Gorĝoj]]
+[[eu:Hiru Arroiletako presa]]
+[[fa:سد سه‌دره]]
+[[fr:Barrage des Trois-Gorges]]
+[[gl:Encoro das Tres Gargantas]]
+[[gan:三峽大壩]]
+[[ko:싼샤 댐]]
+[[hr:Hidroelektrana Tri klanca]]
+[[id:Bendungan Tiga Ngarai]]
+[[is:Þriggja gljúfra stíflan]]
+[[it:Diga delle Tre Gole]]
+[[he:סכר שלושת הערוצים]]
+[[ka:სანსია]]
+[[la:Moles Trium Angustiarum]]
+[[lt:Trijų tarpeklių užtvanka]]
+[[hu:Három-szurdok-gát]]
+[[ml:ത്രീ ഗോർജസ് അണക്കെട്ട്]]
+[[mr:तीन दऱ्यांचे धरण]]
+[[arz:سد الخوانق التلاته]]
+[[ms:Empangan Tiga Gaung]]
+[[my:မြစ်ကျဉ်းသုံးသွယ် ရေကာတာ]]
+[[nl:Drieklovendam]]
+[[ja:三峡ダム]]
+[[no:De tre kløfters demning]]
+[[nn:Tre kløfter-demninga]]
+[[oc:Restanca de las Tres Gòrjas]]
+[[pl:Zapora Trzech Przełomów]]
+[[pnb:تن گلا بند]]
+[[pt:Hidrelétrica de Três Gargantas]]
+[[ro:Lacul Sanxia]]
+[[ru:Три ущелья (электростанция)]]
+[[simple:Three Gorges Dam]]
+[[sl:Jez Treh sotesk]]
+[[sr:Брана Три клисуре]]
+[[sh:Brana Tri kanjona]]
+[[fi:Kolmen rotkon pato]]
+[[sv:De tre ravinernas damm]]
+[[ta:மூன்று ஆழ்பள்ளத்தாக்கு அணை]]
+[[th:เขื่อนซานเสียต้าป้า]]
+[[uk:Три ущелини]]
+[[ur:تین گھاٹی بند]]
+[[vi:Đập Tam Hiệp]]
+[[war:Three Gorges Dam]]
+[[zh-yue:三峽大壩]]
+[[zh:长江三峡水利枢纽工程]]</text>
+      <sha1>a3yijjvraq912fxabesrhj4mtgsoemt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

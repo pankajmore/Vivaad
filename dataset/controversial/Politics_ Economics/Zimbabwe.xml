@@ -1,0 +1,869 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Zimbabwe</title>
+    <ns>0</ns>
+    <id>34399</id>
+    <revision>
+      <id>521096895</id>
+      <parentid>520962245</parentid>
+      <timestamp>2012-11-02T19:27:55Z</timestamp>
+      <contributor>
+        <username>LittleWink</username>
+        <id>9748448</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguated: [[Transvaal]] → [[South African Republic]]</comment>
+      <text xml:space="preserve" bytes="144028">{{Use British English|date=February 2012}}{{Use dmy dates|date=October 2012}}
+{{pp-move-indef}}{{Infobox country
+|native_name =Republic of Zimbabwe
+|common_name = Zimbabwe
+|image_flag =Flag of Zimbabwe.svg
+|image_coat =Coat_of_Arms_of_Zimbabwe.svg
+|image_map =Location Zimbabwe AU Africa.svg
+|image_map                   =Zimbabwe (orthographic projection).svg
+|map_caption = Location of Zimbabwe within the [[African Union]]
+|national_motto =&quot;Unity, Freedom, Work&quot;&lt;ref name=BEAVERCT&gt;{{cite journal | url=http://news.google.com/newspapers?id=AFwtAAAAIBAJ&amp;sjid=ydkFAAAAIBAJ&amp;pg=3340,2548451&amp;dq=zimbabwe+unity-freedom-work&amp;hl=en | title=Zimbabwe| publisher=The Beaver County Times | author=Beaver County Times | date=13 September 1981 | accessdate=2 November 2011}}&lt;/ref&gt;
+|national_anthem ={{Lang|sn-Latn|''[[National Anthem of Zimbabwe|Simudzai Mureza wedu WeZimbabwe]]''}}{{Nbsp|2}}&lt;small&gt;([[Shona language|Shona]])&lt;/small&gt;&lt;br /&gt;{{Lang|nd|''[[National Anthem of Zimbabwe|Kalibusiswe Ilizwe leZimbabwe]]''}}{{Nbsp|2}}&lt;small&gt;([[Northern Ndebele language|Sindebele]])&lt;br /&gt;&quot;Blessed be the land of Zimbabwe&quot;&lt;/small&gt;&lt;ref name=CIA-WF&gt;{{cite journal | url=https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html | title=The World Factbook – Zimbabwe| version=2011 | publisher=Central Intelligence Agency | author=CIA | year=2011 | accessdate=2 November 2011}}&lt;/ref&gt;
+|official_languages = [[South African English|English]],&lt;br/&gt; [[Shona language|Shona]],&lt;br/&gt;[[Northern Ndebele language|Sindebele]]
+|ethnic_groups = Shona 71%&lt;br&gt;Ndebele 16%&lt;br&gt;other African 11%&lt;br&gt;white 1%&lt;br&gt;mixed and Asian 1%&lt;br&gt;other 10.5%
+|ethnic_groups_year = 2000
+|demonym = Zimbabwean
+|capital =[[Harare]]
+|latd=17 |latm=50 |latNS=S |longd=31 |longm=3 |longEW=E
+|largest_city = Harare
+|government_type  = [[Semi-presidential republic]]
+|leader_title1    =[[List of Presidents of Zimbabwe|President]]
+|leader_name1     = [[Robert Mugabe]]
+|leader_title2    = [[Prime Minister of Zimbabwe|Prime Minister]]
+|leader_name2     = [[Morgan Tsvangirai]]
+|leader_title3    = [[Vice President of Zimbabwe|Vice President]]
+|leader_name3     = [[Joice Mujuru]]&lt;br /&gt;[[John Nkomo]]
+|leader_title4    = [[Deputy Prime Minister of Zimbabwe|Deputy Prime Minister]]
+|leader_name4     = [[Thokozani Khuphe]]&lt;br /&gt;[[Arthur Mutambara]]
+|legislature = [[Parliament of Zimbabwe|Parliament]]
+|upper_house = [[Senate of Zimbabwe|Senate]]
+|lower_house = [[House of Assembly of Zimbabwe|House of Assembly]]
+|area_rank =60th
+|area_magnitude =1 E11
+|area_km2 =390,757
+|area_sq_mi =150,871
+|percent_water =1
+|population_estimate = 12,619,600&lt;ref&gt;{{cite web|title=Population 2012 Country Ranks|url=http://www.photius.com/rankings/population/population_2012_0.html|publisher=Countries of the World|accessdate=15 October 2012}}&lt;/ref&gt;
+|population_estimate_rank =72nd
+|population_estimate_year =2012
+|population_census=
+|population_census_year =2012&lt;ref&gt;{{cite web|title=Census Results by Year-End|url=http://www.newzimbabwe.com/news-8881-Census+results+by+year-end+Biti/news.aspx|publisher=New Zimbabwe}}&lt;/ref&gt;
+|population_density_km2 =26
+|population_density_sq_mi =57
+|population_density_rank =170th
+|GDP_PPP = $6.127 billion&lt;ref name=imf2/&gt;
+|GDP_PPP_year = 2011
+|GDP_PPP_rank = 
+|GDP_PPP_per_capita = $487&lt;ref name=imf2/&gt;
+|GDP_PPP_per_capita_rank = 
+|GDP_nominal = $9.323 billion&lt;ref name=imf2&gt;{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=46&amp;pr.y=0&amp;sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=698&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a= |title=Zimbabwe|publisher=International Monetary Fund|accessdate=24 April 2012}}&lt;/ref&gt;
+|GDP_nominal_rank = 
+|GDP_nominal_year = 2011
+|GDP_nominal_per_capita = $741&lt;ref name=imf2/&gt;
+|GDP_nominal_per_capita_rank = 
+|sovereignty_type = [[Independence]]
+|sovereignty_note = {{nowrap|from the [[United Kingdom]]}}
+|established_event1 =[[Unilateral Declaration of Independence (Rhodesia)|Proclaimed]]
+|established_event2 =Recognized
+|established_date1 =11 November 1965
+|established_date2 =18 April 1980
+|Gini =50.1&lt;ref&gt;{{cite web|url=http://hdrstats.undp.org/en/indicators/161.html|title=Human Development report|publisher=UNDP|accessdate=15.apr.2010}}&lt;/ref&gt;
+|Gini_year =2009
+|Gini_category =&lt;span style=&quot;color:red;&quot;&gt;high&lt;/span&gt;
+|FSI =110.1 {{Increase}} 1.2
+|FSI_year =2007
+|FSI_rank =4th
+|FSI_category =&lt;span style=&quot;color:red;&quot;&gt;Alert&lt;/span&gt;
+|HDI ={{increase}} 0.376&lt;ref name=&quot;HDI&quot;&gt;{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=5 November 2010}}&lt;/ref&gt;
+|HDI_rank =173rd
+|HDI_year =2011
+|HDI_category =&lt;span style=&quot;color:red;&quot;&gt;low&lt;/span&gt;
+|currency =Various Currencies (South African Rand (R), Botswana Pula (P), British Pound (£), the United States Dollar ($) and Euro (€))&lt;ref&gt;{{cite web|url=http://wwp.greenwichmeantime.com/time-zone/africa/zimbabwe/currency/ |title=Zimbabwe Currency |publisher=Wwp.greenwichmeantime.com |accessdate=21 August 2011}}&lt;/ref&gt;
+|currency_code =ZWD
+|country_code =ZW
+|time_zone =[[Central Africa Time]]
+|utc_offset =+2
+|time_zone_DST =Not observed
+|utc_offset_DST =+2
+|drives_on = left
+|cctld =[[.zw]]
+|calling_code = [[+263]]
+|footnotes ={{note|a|a}} The [[Zimbabwean Dollar]] is no longer in active use after it was officially suspended by the government due to [[Hyperinflation in Zimbabwe|hyperinflation]]. The United States Dollar, [[South African Rand]], [[Botswana Pula]], [[British Pound Sterling]], and Euro are now used instead. The US Dollar has been adopted as the official currency for all government transactions with the new power-sharing regime.
+}}
+'''Zimbabwe''' ({{IPAc-en|z|ɪ|m|ˈ|b|ɑː|b|w|eɪ}} {{respell|zim|BAHB|way}}), officially the '''Republic of Zimbabwe''', is a [[landlocked country]] located in [[Southern Africa]], between the [[Zambezi]] and [[Limpopo River|Limpopo]] rivers. It is bordered by [[South Africa]] to the south, [[Botswana]] to the southwest, [[Zambia]] to the northwest and [[Mozambique]] to the east. The capital is [[Harare]]. Zimbabwe achieved recognised independence from Britain in April 1980, following a 14-year period as an unrecognised state under the predominantly [[White people in Zimbabwe|white]] [[minority rule|minority government]] of [[Rhodesia]], which [[Unilateral Declaration of Independence|unilaterally declared independence]] in 1965. Rhodesia briefly reconstituted itself as black-majority ruled [[Zimbabwe Rhodesia]] in 1979, but this order failed to gain international acceptance.
+
+Zimbabwe has three [[official languages]]: [[South African English|English]], [[Shona language|Shona]] and [[Northern Ndebele language|Ndebele]]. The country today equivalent to Zimbabwe was first demarcated by the [[British South Africa Company]] in the late 19th century; it became the [[self-governing colony]] of [[Southern Rhodesia]] in 1923. [[List of Presidents of Zimbabwe|President]] [[Robert Mugabe]] is the head of State and Commander in Chief of the [[Zimbabwe Defence Forces|armed forces]]. [[Morgan Tsvangirai]] is the [[Prime Minister of Zimbabwe|Prime Minister]]. Mugabe has been in power since the country's [[Lancaster House Agreement|internationally recognised independence in 1980]].
+
+== Etymology ==&lt;!--linked--&gt;
+{{further|Great Zimbabwe|Rhodesia (name)}}
+
+Zimbabwe was formerly known as [[Southern Rhodesia]] (1923), [[Rhodesia]] (1965), and [[Zimbabwe Rhodesia]] (1979).
+The name ''Zimbabwe'' was introduced from ca. 1960 in the context of the potential name of the country once independent, and used by the [[African independence movements|African nationalist]] factions in the [[Second Chimurenga]], the most major of which were the [[Zimbabwe African National Union]] (led by [[Robert Mugabe]] from 1975), and the [[Zimbabwe African People's Union]], led by [[Joshua Nkomo]] from its founding in the early 1960s.
+
+The name is based on a [[Shona language|Shona]] name for a ruined ancient city whose remains are now a protected site. It is officially referred to as [[Great Zimbabwe]], and was first recorded as ''Symbaoe'' in 1531 by Vicente Pegado, Captain of the [[Portugal|Portuguese]] garrison of [[Sofala]].
+
+There are two theories on the origin of the word &quot;Zimbabwe&quot;. Various sources hold that the word is derived from ''dzimba-dza-mabwe'', translated from the Karanga dialect of Shona as &quot;large houses of stone&quot; (''dzimba'' = plural of ''imba'', &quot;house&quot;; ''mabwe'' = plural of ''bwe'', &quot;stone&quot;).&lt;ref&gt;{{cite web|url=http://www.somalipress.com/zimbabwe-overview/zimbabwe-big-house-stone-1145.html|title=Zimbabwe – big house of stone|publisher=Somali Press|accessdate=14 December 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|title=Shona Class 5 revisited: a case against *ri as Class 5 nominal prefix |journal=Zambezia|year=1994|volume=21|pages=51–80|author=Michel Lafon|url=http://archive.lib.msu.edu/DMC/African%20Journals/pdfs/Journal%20of%20the%20University%20of%20Zimbabwe/vol21n1/juz021001005.pdf}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|title=Mediated monuments and national identity|author=Lawrence J. Vale|doi=10.1080/136023699373774|journal=Journal of Architecture|volume=4|year=1999|pages=391–408|issue=4}}&lt;/ref&gt; The Karanga-speaking Shona people are found around Great Zimbabwe in the modern-day [[Provinces of Zimbabwe|province]] of [[Masvingo Province|Masvingo]]. Archaeologist [[Peter Garlake]] claims that &quot;Zimbabwe&quot; is a contracted form of ''dzimba-hwe'' which means &quot;venerated houses&quot; in the Zezuru dialect of Shona, and is usually applied to chiefs' houses or graves.&lt;ref&gt;{{cite book |last=Garlake |first=Peter |authorlink=Peter Garlake |title=Great Zimbabwe: New Aspects of Archaeology |year=1973 |publisher=Thames &amp; Hudson |location=London|isbn= 978-0-8128-1599-3|page=13}}&lt;/ref&gt;
+
+== Geography and environment ==
+{{main|Geography of Zimbabwe}}
+Zimbabwe is a landlocked country in southern Africa, lying between latitudes [[15th parallel south|15°]] and [[23rd parallel south|23°S]], and longitudes [[25th meridian east|25°]] and [[34th meridian east|34°E]]. Most of the country is elevated in the central plateau (high veld) stretching from the southwest to the northwest at altitudes between 1,200 and 1,600 m. The country's east is mountainous with [[Mount Nyangani]] as the highest point at 2,592 m. About 20% of the country consists of the low veld under 900m. [[Victoria Falls]], one of the world's biggest and most spectacular waterfalls, is located in the country's northwest as part of the [[Zambezi]] river. The country has a tropical climate with a rainy season usually from late October to March. The climate is moderated by the altitude.
+
+=== Flora and fauna ===
+{{main|Wildlife of Zimbabwe}}
+The country is mostly savanna, although the moist and mountainous east supports tropical evergreen and hardwood forests. Trees include [[teak]] and [[mahogany]], knobthorn, msasa and baobab. Among the numerous flowers and shrubs are hibiscus, spider lily, leonotus, cassia, tree wisteria and dombeya.
+[[File:Curled trunk.jpg|thumb|left|Elephant at water hole in [[Hwange National Park]]]]
+
+There are around 350 species of mammals that can be found in Zimbabwe. There are also many snakes and lizards, over 500 bird species, and 131 fish species.
+
+=== Environmental issues ===
+Large parts of Zimbabwe were covered by forests with an abundant wildlife. Poverty, population growth and lack of fuel have led to extensive deforestation, which, along with poaching, has reduced the wildlife. Deforestation and woodland degradation are a major concern&lt;ref&gt;{{cite journal|doi=10.1016/S0167-8809(99)00156-5|title=Deforestation of woodlands in communal areas of Zimbabwe: is it due to agricultural policies?|year=2000|last1=Chipika|first1=J|journal=Agriculture, Ecosystems &amp; Environment|volume=79|page=175|last2=Kowero|first2=G.|issue=2–3}}&lt;/ref&gt; and have led to erosion and land degradation which diminish the amount of fertile soil. Zimbabwe is a country that relies mostly on hydroelectric power. Zimbabwe had once relied heavily on electricity from Mozambique and other neighboring countries, but due to the accumulation of debt Mozambique has cut off power supply to Zimbabwe. This has caused ZESA, Zimbabwe's main electricity supplier, to begin excessive load shedding all over Zimbabwe with some urban areas only having electricity three days a week. Thus the amount of deforestation has increased as the population in urban areas has also started using  firewood for fuel whereas before it was mainly the rural population due to lack of electricity in the rural areas. 
+Despite all this, Zimbabwe's climate, along with [[Malta]]'s, has been ranked highly on the index for the best climate to live in by some prestigious organisations.
+
+== History ==
+{{Main|History of Zimbabwe}}
+
+=== Pre-colonial era (1000–1887) ===
+{{further|Bantu expansion}}
+[[Image:Tower, Great Zimbabwe1.jpg|thumb|upright|Towers of [[Great Zimbabwe]]]]
+Proto-Shona speaking societies first emerged in the middle Limpopo valley in the 9th century before moving on to the Zimbabwean highlands. The Zimbabwean plateau eventually became the center of subsequent Shona states, beginning in ca. the 10th century.
+Around the early 10th century, trade developed with [[Shirazi era|Arab merchant]]s on the Indian Ocean coast, helping to develop the [[Kingdom of Mapungubwe]] in the 11th century. This was the precursor to the more impressive Shona civilisations that would dominate the region during the 13th to 15th centuries, evidenced by ruins at [[Great Zimbabwe]], near [[Masvingo]], and other smaller sites. The main archaeological site is a unique dry stone architecture.
+
+The Kingdom of Mapungubwe was the first in a series of sophisticated trade states developed in Zimbabwe by the time of the first European explorers from Portugal. They traded in gold, [[ivory]] and copper for cloth and glass.&lt;ref name=&quot;autogenerated241&quot;&gt;{{cite book |title=Historical Archaeology |last=Hall |first=Martin |coauthors=Stephen W. Silliman |year=2005 |publisher=Wiley Blackwell |isbn=978-1-4051-0751-8 |pages=241–244 |url= }}&lt;/ref&gt;
+
+From about 1300 until 1600, Mapungubwe was eclipsed by the [[Kingdom of Zimbabwe]]. This Shona state further refined and expanded upon Mapungubwe's stone architecture, which survives to this day at the ruins of the kingdom's capital of Great Zimbabwe. From c. 1450–1760, Zimbabwe gave way to the [[Kingdom of Mutapa]]. This Shona state ruled much of the area that is known as Zimbabwe today, and parts of central [[Mozambique]]. It is known by many names including the [[Mutapa Empire]], also known as ''Mwene Mutapa'' or ''Monomotapa'' as well as &quot;Munhumutapa,&quot; and was renowned for its stategic trade routes with the [[Arabs]] and Portugal. Eventually, however, the Portuguese sought to monopolise this influence and began a series of wars which left the empire in near collapse in the early 17th century.&lt;ref name=&quot;autogenerated241&quot;/&gt;
+
+As a direct response to increased European presence in the interior, a new Shona state emerged, known as the [[Rozwi Empire]]. Relying on centuries of military, political and religious development, the Rozvi (which means &quot;destroyers&quot;) removed the Portuguese from the Zimbabwe plateau by force of arms. They continued the stone building traditions of the Zimbabwe and Mapungubwe kingdoms while adding muskets to its arsenal and recruiting a professional army to defend its territory.
+
+Around 1821, the [[Zulu people|Zulu]] general [[Mzilikazi]] of the Khumalo clan successfully rebelled from King [[Shaka]] and created his own clan, the [[Ndebele people (Zimbabwe)|Ndebele]]. The Ndebele fought their way northwards into the [[South African Republic|Transvaal]], leaving a trail of destruction in their wake and beginning an era of widespread devastation known as the [[Mfecane]]. When [[Dutch people|Dutch]] [[Boers|trekboers]] converged on the Transvaal in 1836, they drove the tribe even further northward. By 1838, the Rozwi Empire, along with the other petty Shona states were conquered by the Ndebele and reduced to [[vassal]]dom.
+
+After losing their remaining South African lands in 1840, Mzilikazi and his tribe permanently settled the southwest of present-day Zimbabwe in what became known as [[Matabeleland]], establishing [[Bulawayo]] as their capital. Mzilikazi then organised his society into a military system with regimental [[kraal]]s, similar to those of Shaka, which was stable enough to repel further Boer incursions. Mzilikazi died in 1868 and, following a violent power struggle, was succeeded by his son, [[Lobengula]].
+
+=== Colonial era (1888–1965) ===
+{{Main|Southern Rhodesia|Federation of Rhodesia and Nyasaland}}
+
+[[File:Matabeleland.png|thumb|right|[[Matabeleland]] in the 19th century.]]
+In the 1880s, British colonists arrived with [[Cecil Rhodes]]'s [[British South Africa Company]].&lt;ref name=&quot;conquered&quot;&gt;{{cite web|url=http://www.worldtrek.org/odyssey/africa/062699/062699monicabula.html|title=So Who Was Shaka Zulu- Really?|publisher=The Odyssey|accessdate=14 December 2008}}&lt;/ref&gt; In 1888, Rhodes obtained a concession for [[Rudd Concession|mining rights]] from [[King Lobengula]] of the [[Ndebele people (Zimbabwe)|Ndebele]] peoples.&lt;ref name=&quot;mining&quot;&gt;Hensman, Howard. ''Cecil Rhodes: A Study of a Career''. p. 106–107.&lt;/ref&gt; He presented this concession to persuade the government of the United Kingdom to grant a [[royal charter]] to his [[British South Africa Company]] (BSAC) over [[Matabeleland]], and its subject states such as [[Mashonaland]] as well.&lt;ref name=&quot;treaties&quot;&gt;Parsons, Neil. ''A New History of Southern Africa, Second Edition'', 1993. London: Macmillan. pp. 178–181.&lt;/ref&gt;
+
+Rhodes used this document in 1890 to justify sending the [[Pioneer Column]], a group of Europeans protected by well-armed [[British South Africa Police]] (BSAP) through Matabeleland and into Shona territory to establish Fort Salisbury (now [[Harare]]). In 1893 and 1894, with the help of their new [[Maxim gun|maxim]] guns, the BSAP would go on to defeat the Ndebele in the [[First Matabele War]]. Rhodes additionally sought permission to negotiate similar concessions covering all territory between the [[Limpopo River]] and [[Lake Tanganyika]], then known as &quot;Zambesia&quot;.&lt;ref name=&quot;treaties&quot;/&gt;
+
+In accordance with the terms of aforementioned concessions and treaties,&lt;ref name=&quot;treaties&quot;/&gt; mass settlement was encouraged, with the British maintaining control over labour as well as precious metals and other mineral resources.&lt;ref name=&quot;bsac&quot;&gt;Bryce, James. ''Impressions of South Africa''. p. 170.&lt;/ref&gt; In 1895 the BSAC adopted the name &quot;[[Rhodesia (name)|Rhodesia]]&quot; for the territory, in honour of Rhodes. In 1898 &quot;[[Southern Rhodesia]]&quot; became the official denotation for the region south of the Zambezi,&lt;ref name=&quot;adopted&quot;&gt;{{cite web|url=http://www.nrzam.org.uk/NRJ/V3N1/V3N1.htm |publisher=Gray, J. A. (1956)|title=&quot;A Country in Search of a Name.&quot; ''The Northern Rhodesia Journal'' '''III''' (1) (1956). p. 78.|accessdate=14 December 2008}}&lt;/ref&gt; which later became Zimbabwe. The region to the north was administered separately and later termed [[Northern Rhodesia]] (now [[Zambia]]).
+
+Shortly after Rhodes' disastrous [[Jameson Raid]] on the [[South African Republic]], the Ndebele rebelled against their white rulers, led by their charismatic religious leader, Mlimo. The [[Second Matabele War]] lasted until 1897, when Mlimo was murdered. Shona agitators also staged unsuccessful revolts (known as [[Chimurenga]]) against encroachment upon their lands in 1896 and 1897.&lt;ref name=&quot;revolts&quot;&gt;Palamarek, Ernie. ''Hatari''. p. 132.&lt;/ref&gt; Following these failed insurrections, the Ndebele and Shona groups were finally subdued by the Rhodes administration, which organised the land with a disproportionate bias favouring Europeans, thus displacing many indigenous peoples.
+
+[[Image:1899railroad salisbury.jpg|thumb|left|Opening of the railway to Umtali in 1899]]
+Southern Rhodesia became a [[self-governing colony|self-governing]] [[British Empire|British colony]] in October 1923, subsequent to a 1922 referendum. Rhodesians served on behalf of the United Kingdom during World War II, mainly in the [[East African Campaign (World War II)|East African Campaign]] against [[Axis powers of World War II|Axis]] forces in [[Italian East Africa]]. Proportional to the civilised population, Southern Rhodesia contributed more per capita to both the First and Second World Wars than any other part of the Empire, including Britain itself.&lt;ref name=moorcraft/&gt;
+
+In 1953, in the face of African opposition,&lt;ref name=&quot;fed&quot;&gt;Parsons (1993). p. 292.&lt;/ref&gt; Britain consolidated the two Rhodesias with [[Nyasaland]] ([[Malawi]]) in the ill-fated [[Federation of Rhodesia and Nyasaland|Central African Federation]], which was essentially dominated by Southern Rhodesia. Growing [[African nationalism]] and general dissent, particularly in Nyasaland, persuaded Britain to dissolve the Union in 1963, forming three separate divisions. While multiracial democracy was finally introduced to Northern Rhodesia and Nyasaland, however, Southern Rhodesians of European ancestry continued to enjoy [[minority rule]].
+
+With Zambian independence, [[Ian Smith]]'s [[White supremacy|white-supremacist]] [[Rhodesian Front]] (RF) dropped the designation &quot;Southern&quot; in 1964 and issued a [[Unilateral Declaration of Independence]] (commonly abbreviated to &quot;UDI&quot;) from the United Kingdom on 11 November 1965, intent on effectively repudiating the recently adopted British policy of &quot;[[no independence before majority rule]]&quot;. It was the first such course taken by a British colony since the [[United States Declaration of Independence|American declaration]] of 1776, which Smith and others indeed claimed provided a suitable precedent to their own actions.&lt;ref name=&quot;moorcraft&quot;&gt;{{cite web
+|url=http://www.historytoday.com/paul-moorcraft/rhodesias-war-independence
+|publisher=http://www.historytoday.com/author/paul-moorcraft
+|title=Rhodesia's War of Independence
+|date=31 August 1990
+|work=History Today
+|first=Paul
+|last=Moorcraft
+|accessdate=15 January 2011
+|quote=[P]er head of (white) population Rhodesia had contributed more in both world wars than any other part of the empire, including the United Kingdom. ... There is little doubt now that after a few resignations here and there, the army, the Royal Navy and even the Royal Air Force (supposedly the most disaffected service) would have carried out any orders to subdue the first national treason against the Crown since the American War of Independence.}}&lt;/ref&gt;
+
+=== Independence and civil war (1965–1979) ===
+{{Main|Rhodesia|Second Chimurenga|Zimbabwe Rhodesia|Lancaster House Agreement}}
+
+[[File:Udi2-rho.jpg|thumb|[[Ian Smith]] signing the [[Unilateral Declaration of Independence (Rhodesia)|Unilateral Declaration of Independence]] on 11 November 1965 with his cabinet in audience.]]
+
+After UDI, the British government petitioned the United Nations for [[economic sanctions|sanctions]] against Rhodesia pending unsuccessful talks with the Smith regime in 1966 and 1968. In December 1966, the organisation complied, imposing the first mandatory trade embargo on an autonomous state.&lt;ref name=eafp&gt;Glenn P. Hastedt, ''Encyclopedia of American Foreign Policy'', Infobase Publishing, 2004, 143810989X, p 537.&lt;/ref&gt; These sanctions were expanded again in 1968.&lt;ref name=eafp /&gt;
+
+The United Kingdom deemed the Rhodesian declaration an act of rebellion, but did not re-establish control by force. A [[Second Chimurenga|guerilla war]] subsequently ensued when [[Joshua Nkomo]]'s [[Zimbabwe African People's Union]] (ZAPU) and [[Robert Mugabe]]'s [[Zimbabwe African National Union]] (ZANU), supported actively by neighbouring African nations, initiated guerilla operations against the white government.
+
+Ian Smith's [[Rhodesia|formation of a republic in 1970]] was recognised only by South Africa,&lt;ref name=&quot;only&quot;&gt;{{cite web|url=http://www.nationsencyclopedia.com/World-Leaders-2003/Malawi-POLITICAL-BACKGROUND.html|title=Malawi political background|publisher=NationsEncyclopedia.com|accessdate=14 December 2008}}&lt;/ref&gt;&lt;ref name=&quot;stalemate&quot;&gt;{{cite web|url=http://www.nationsencyclopedia.com/World-Leaders-2003/Zambia-POLITICAL-BACKGROUND.html|title=Zambia political background|publisher=NationsEncyclopedia.com|accessdate=14 December 2008}}&lt;/ref&gt; then governed under [[apartheid]].&lt;ref name=&quot;declaration&quot;&gt;Judd, Denis. ''Empire: The British Imperial Experience from 1765 to the Present''. p. 372.&lt;/ref&gt;&lt;ref name=&quot;desig&quot;&gt;Parsons (1993). pp. 318–320.&lt;/ref&gt; Meanwhile, Rhodesia's internal conflict intensified, eventually forcing him to open negotiations with the militant nationalists.
+
+[[File:Lancaster-House-Agreement.png|thumb|right|Bishop [[Abel Muzorewa]] signs the Lancaster House Agreement seated next to [[British Foreign Minister]] [[Lord Carrington]].]]
+In March 1978, Smith reached an accord with three African leaders, led by Bishop [[Abel Muzorewa]], who offered to leave the white population comfortably entrenched in exchange for the establishment of a biracial democracy. As a result of the [[Internal Settlement]], [[Zimbabwe Rhodesia general election, 1979|elections]] were held in April 1979, concluding with the [[United African National Council]] (UANC) carrying a majority of parliamentary seats. On 1 June 1979, Muzorewa, the UANC head, became prime minister and the country's name was changed to [[Zimbabwe Rhodesia]]. The internal settlement left control of the police, security forces, civil service and [[judiciary]] in settler hands. It also reserved one-third of the seats in parliament for whites.&lt;ref name=&quot;endsanctions&quot;&gt;{{cite news|url=http://news.bbc.co.uk/onthisday/hi/dates/stories/june/1/newsid_2492000/2492915.stm|title=On This Day|publisher=BBC News|accessdate=14 December 2008 | date=1 June 1979}}&lt;/ref&gt; On 12 June, the [[United States Senate]] voted to lift economic pressure on the former Rhodesia.
+
+Following the [[Commonwealth Heads of Government Meeting 1979|fifth Commonwealth Heads of Government Meeting]] (CHOGM), held in [[Lusaka]], Zambia from 1 to 7 August in 1979, the British government invited Muzorewa, Mugabe, and Nkomo to participate in a constitutional conference at [[Lancaster House]]. The purpose of the conference was to discuss and reach an agreement on the terms of an independence constitution, and provide for elections supervised under British authority allowing Zimbabwe Rhodesia to proceed to legal independence.&lt;ref name=&quot;chair&quot;&gt;Chung, Fay. ''Re-living the Second Chimurenga: memories from the liberation struggle in Zimbabwe'', Preben (INT) Kaarsholm. p. 242.&lt;/ref&gt; 
+
+With [[Lord Carrington]], [[Secretary of State for Foreign and Commonwealth Affairs]] of the United Kingdom, in the chair, these discussions were mounted from 10 September to 15 December in 1979, producing a total of 47 [[plenary session]]s.&lt;ref name=&quot;chair&quot;/&gt; On 1 December 1979, delegations from every major interest represented reached the [[Lancaster House Agreement]], effectively ending the guerilla war.&lt;ref name=&quot;lancaster&quot;&gt;Preston, Matthew. ''Ending Civil War: Rhodesia and Lebanon in Perspective.'' p. 25.&lt;/ref&gt;
+
+=== Post-Independence (1980–1999) ===
+{{Main|Gukurahundi}}
+
+Britain's [[Lord Soames]] was appointed governor to oversee the disarming of revolutionary fighters, the holding of elections and the granting of independence to an uneasy [[coalition]] government with Joshua Nkomo presiding. During the [[Zimbabwean parliamentary election, 1980|elections of February 1980]], Robert Mugabe and his ZANU secured a landslide victory.&lt;ref&gt;{{cite web|url=http://richardknight.homestead.com/files/zimletmarch80.htm |title=Letter by George M. Houser, Executive Director of the American Committee on Africa (ACOA), on the 1980 independence election in Rhodesia |author=George M. Houser |accessdate=1 December 2007}}&lt;/ref&gt;
+
+Opposition to what was perceived as a Shona takeover immediately erupted around [[Matabeleland]]. In November 1980 [[Enos Nkala]] made some inflammatory remarks directed at Mugabe's party during a rally near [[Bulawayo]]. This, unfortunately, was later deemed to have caused the first [[Entumbane]] uprising, which resulted in clashes between Nkomo and Mugabe supporters.&lt;ref&gt;{{cite web|url=http://www.thezimbabwetimes.com/?page_id=20 |title=Nyarota speaks |publisher=The Zimbabwe Times |date=29 January 2010 |accessdate=28 March 2010}}&lt;/ref&gt;
+
+In February 1981, there was a second uprising, which swiftly spread to Glenville and also to Connemara in the Midlands. Former Rhodesian security units were called in to stop the bloodletting, which they were able to do only after three hundred lives were lost.
+
+&lt;!-- Deleted image removed: [[Image:Ndebele-masacre.jpg|thumb|The dead lining the Matabeleland countryside.]] --&gt;
+The Matabele unrest led to what has become known as 'Gukurahundi' ({{Lang-sn|&quot;the early rain which washes away the}} [[chaff]] before the spring rains&quot;&lt;ref name=&quot;watch&quot;&gt;Nyarota, Geoffrey. ''Against the Grain''. p. 134.&lt;/ref&gt;) or the Matabeleland Massacres, which lasted from 1982 until 1985. Mugabe ordered his [[North Korea]]n-trained [[Zimbabwean Fifth Brigade|Fifth Brigade]] to occupy Matabeleland, crushing any resistance to his rule. It has been estimated that at least 20,000 Matabele were murdered and tens of thousands of others were tortured in military internment camps.&lt;ref&gt;|Breaking the Silence : Building True Peace. – Catholic Commission for Justice and Peace in Zimbabwe, p. 157.&lt;/ref&gt; The slaughter only ended after Nkomo and Mugabe reached a unity agreement in 1988 that merged their respective parties, creating the [[ZANU-PF|Zimbabwe African Union-Patriotic Front]].&lt;ref&gt;{{cite web|url=http://badley.info/history/ZANU-PF-Zimbabwe.event.html| title= Chronology of Zimbabwe| publisher=badley.info|accessdate=9 December 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/africa/country_profiles/1831470.stm|title=Timeline: Zimbabwe|publisher=BBC News|accessdate=9 December 2008 | date=15 October 2009}}&lt;/ref&gt;
+
+Zimbabwean elections in March 1990 resulted in another victory for Mugabe and his party, which claimed 117 of the 120 contested seats. Observers estimated [[voter turnout]] at only 54% and found the campaign to be &quot;neither free nor fair&quot;.&lt;ref&gt;{{cite web|url=http://www.eisa.org.za/WEP/zim1990election.htm|title=Zimbabwe: 1990 General Elections|accessdate=9 December 2008|publisher=EISA}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.uz.ac.zw/publications/books/pol.html |title=Voting for Democracy: A Study of Electoral Politics in Zimbabwe |publisher=Jonathon M. Moyo/University of Zimbabwe|accessdate=9 December 2008}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;
+
+During the 1990s, students, [[trade unionist]]s, and workers often demonstrated to express their growing discontent with increasingly despotic Mugabe rule. Students protested in 1990 against proposals for an increase in government control of universities and again in 1991 and 1992, clashing with law enforcement. The unions also criticised the government during this time. In 1992, national police prevented workers from staging anti-regime demonstrations. Widespread industrial unrest which continued into 1994, however, weakened Zimbabwe's sagging economy. In 1996, civil servants, nurses, and [[junior doctor]]s went on strike over salary issues.&lt;ref name=l&gt;{{cite news|url=http://africanhistory.about.com/od/zimbabwe/p/ZimbabweHist3.htm|title= A Brief History of Zimbabwe|work=[[About.com]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.eisa.org.za/WEP/zimoverview5.htm |title=Zimbabwe: ZANU PF hegemony and its breakdown (1990–1999)|publisher=EISA|accessdate=9 December 2008}}&lt;/ref&gt; The general health of the civilian population also began to significantly founder. By 1997 an estimated 25% of the population of Zimbabwe had been infected by HIV.&lt;ref name=k&gt;{{cite news|url=http://www.infoplease.com/ce6/world/A0862066.html|title=History of Zimbabwe|work=[[Infoplease]]}}&lt;/ref&gt;
+
+=== Economic difficulties and hyperinflation (1999–2008) ===
+Land issues, which the liberation movement had promised to solve, re-emerged as the main issue for the [[ZANU (PF)|ruling party]] around 1997. Despite majority rule and the existence of a &quot;willing-buyer-willing-seller&quot; land reform programme since the 1980s, white Zimbabweans continued to hold about 70% of the most [[arable land]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/africa/692638.stm |title=Britain's troubles with Mugabe|publisher=BBC News | date=3 April 2000}}&lt;/ref&gt; Robert Mugabe began to [[land reform in Zimbabwe|forcibly redistribute this land]] to his associates in 2000. The legality and constitutionality of the process has regularly been challenged in the Zimbabwean High and Supreme Courts. 
+
+While it is widely acknowledged that the land upheaval brought about much destruction, joblessness, hunger, and political violence, some 58,000 independent black farmers have since experienced limited success in reviving the gutted cash crop sectors through efforts on a smaller scale. Advocates of the ruling party have used this pretext to indicate that some measure of racial equality was achieved despite chaotic circumstances, claiming that black citizens must &quot;come first&quot; in Zimbabwe.&lt;ref&gt;{{cite web | url=http://www.nytimes.com/2012/07/21/world/africa/in-zimbabwe-land-takeover-a-golden-lining.html?pagewanted=all | title=In Zimbabwe Land Takeover, a Golden Lining | publisher=The New York Times | date=20 July 2012 | accessdate=21 July 2012 | author=Polgreen, Lydia}}&lt;/ref&gt;
+
+Mandatory confiscation of white farmland was affected by continuous droughts, as well as a serious lacking in inputs and finance, leading to a sharp decline in agricultural exports, which was traditionally the country's leading export-producing sector.&lt;ref name=&quot;humanrightswatch&quot;&gt;{{PDFlink|[http://www.hrw.org/reports/2002/zimbabwe/ZimLand0302.pdf Fast Track Land Reform in Zimbabwe] [[Human Rights Watch]]|175&amp;nbsp;KB}}&lt;/ref&gt; As a result, Zimbabwe experienced a severe hard-currency shortage that led to [[Hyperinflation in Zimbabwe|hyperinflation]] and chronic shortages in imported [[fuel]] and consumer goods.
+
+[[File:Harare Skyline.jpg|thumb|Harare in 2006]]
+Charged with committing numerous human rights abuses and running the economy of his own nation into the ground, Mugabe found himself beset with a wide range of sanctions&lt;ref&gt;{{cite web |url=http://en.wikipedia.org/wiki/Zimbabwe_Democracy_and_Economic_Recovery_Act_of_2001 |title=Zimbabwe Democracy and Economic Recovery Act of 2001 |year=2001}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://register.consilium.europa.eu/pdf/en/09/st05/st05304-ad01re01.en09.pdf |title=5304/09 ADD 1 RESTREINT UE}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.politicsweb.co.za/politicsweb/view/politicsweb/en/page71619?oid=94939&amp;sn=Detail |title=Individuals and entities from Zimbabwe on US sanctions list}}&lt;/ref&gt; imposed by the US government and European Union against his person and Zimbabwe at large.
+
+In 2002, the nation was suspended from the [[Commonwealth of Nations]] due to the reckless farm seizures and blatant [[Electoral fraud|election tampering]].&lt;ref name=&quot;tampering&quot;&gt;[http://www.humanrightsfirst.org/media/2003_alerts/1208.htm Zimbabwe suspended from Commonwealth]{{dead link|date=November 2010}}, HumanRightsFirst.org, 8 December 2003.&lt;/ref&gt; The following year, Zimbabwean officials voluntarily terminated its Commonwealth membership.&lt;ref&gt;{{cite web|url=http://www.thecommonwealth.org/press/31555/34582/35505/zimbabwes_withdrawal_from_the_commonwealth.htm |title=Commonwealth website confirms Zimbabwe &quot;terminated&quot; its membership with effect from 7 December 2003 |publisher=Thecommonwealth.org |date= |accessdate=6 June 2012}}&lt;/ref&gt;
+
+Following fraudulent elections in 2005, the government initiated &quot;[[Operation Murambatsvina]]&quot;, an effort to crack down on illegal markets and slums emerging in towns and cities. This action has been widely condemned by opposition and international figures, who attest to the fact that it has left a substantial section of urban poor homeless.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/africa/4188702.stm|title=Zimbabwe destruction: One man's story|date=30 August 2005|publisher=BBC|accessdate=19 December 2008}}&lt;/ref&gt; The Zimbabwean government has described the operation as an attempt to provide decent housing to the population, although authorities have yet to properly substantiate their claims.&lt;ref name=&quot;muram&quot;&gt;[http://news.amnesty.org/index/ENGAFR460152006 Zimbabwe: Housing policy built on foundation of failures and lies]{{dead link|date=November 2010}}, [[Amnesty International]], 9 August 2006.&lt;/ref&gt;
+
+[[File:Food insecurity in Zimbabwe.svg|thumb|right|300px|Map showing the food insecurity in Zimbabwe in June 2008]]
+Zimbabwe's economic and food crisis, described by some observers as the country's worst humanitarian crisis since independence, has been attributed in varying degrees to the government's price controls and farm confiscations, the HIV/AIDS epidemic, and a drought affecting the entire region.&lt;ref name=&quot;problems&quot;&gt;{{cite web|url=http://www.alertnet.org/thefacts/reliefresources/112239842449.htm |title=Crisis profile: Zimbabwe's humanitarian situation|publisher=Alertnet.org |date= 26 July 2005|accessdate=6 June 2012}}&lt;/ref&gt;
+
+Life expectancy at birth for males in Zimbabwe dramatically declined since 1990 from 60 to 42 years, among the lowest in the world. The amount of time a Zimbabwean citizen was expected to live in good health from birth was 39 years in 2010.&lt;ref&gt;{{cite web|url=http://www.who.int/gho/countries/zwe.pdf | title=Zimbabwe: health profile | publisher=The World Health Organization | date=17 August 2010 | accessdate=15 April 2011}}&lt;/ref&gt; Concurrently, the infant mortality rate has climbed from 53 to 81 deaths per 1,000 live births in the same period. {{As of|2009}}, 1.2 million [[HIV/AIDS in Zimbabwe|Zimbabweans live with HIV]].&lt;ref&gt;{{cite web|url=http://www.pepfar.gov/documents/organization/140428.pdf |title=Country Operational Plan: Zimbabwe |publisher=The U.S. President's Emergency Plan for AIDS Relief|date=28 September 2009 |accessdate=30 May 2010}}&lt;/ref&gt;
+
+On 29 March 2008, Zimbabwe held a [[Zimbabwean presidential election, 2008|presidential election]] along with a [[Zimbabwean parliamentary election, 2008|parliamentary election]]. The three major candidates were Robert Mugabe, [[Morgan Tsvangirai]] of the [[Movement for Democratic Change – Tsvangirai]] (MDC-T), and [[Simba Makoni]], an independent. The results of this election were withheld for two weeks, after which it was generally acknowledged that the MDC had achieved a majority of one seat in the lower house of parliament.
+
+In late 2008, problems in Zimbabwe reached crisis proportions in the areas of living standards, public health (with a major [[Zimbabwean cholera outbreak|cholera outbreak]] in December) and various basic affairs.&lt;ref name=Carter&gt;{{cite web|url=http://news.yahoo.com/s/ap/20081124/ap_on_re_af/af_zimbabwe|title=Carter warns situation appears dire in Zimbabwe|publisher=CELEAN JACOBSON, Associated Press Writer|accessdate=14 December 2008}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; Mugabe's mining of diamonds at [[Marange Diamond Fields|Marange]] in [[Chiadzwa]] became the subject of international attention as the [[World Diamond Council]] called for a clampdown on smuggling&lt;ref name=rapaport&gt;{{cite news|url=http://www.diamonds.net/news/NewsItem.aspx?ArticleID=24471|title=Diamond Industry Calls for Clampdown on Zimbabwe Smuggling|date=12 October 2008|publisher=Rapaport|accessdate=12 December 2008}}&lt;/ref&gt; and illegal miners were reported killed by the military.&lt;ref name=BBC&gt;{{cite news|last=Farira |first=David |url=http://news.bbc.co.uk/1/hi/7761268.stm |title=Eerie silence at Zimbabwe mine |publisher=BBC News |date=4 December 2008 |accessdate=6 June 2012}}&lt;/ref&gt;
+
+=== 2008–present ===
+In September 2008, a [[2008–2009 Zimbabwean political negotiations|power-sharing agreement]] was reached between Tsvangirai and President Mugabe, permitting the former to hold the office of prime minister. Due to ministerial differences between their respective political parties, the agreement was not fully implemented until 13 February 2009.
+
+In November 2010, the IMF described the Zimbabwean economy as &quot;completing its second year of buoyant economic growth after a decade of economic decline&quot;, briefly citing &quot;strengthening policies&quot; and &quot;favorable shocks&quot; as main reasons for the economic growth.&lt;ref&gt;{{cite web |url=http://www.imf.org/external/np/sec/pr/2010/pr10420.htm |title=Statement of the IMF’s Mission to Zimbabwe | year=2010 }}&lt;/ref&gt; By December, however, Mugabe was threatening to completely expropriate remaining privately owned companies in Zimbabwe unless &quot;western sanctions&quot; were lifted, claiming, &quot;Why should we continue having companies and organisations that are supported by Britain and America without hitting back? Time has come for us to [take] revenge. We can read the riot act and say this is 51 percent we are taking and if the sanctions persist we are taking over 100 percent.&quot;&lt;ref&gt;{{cite web|url=http://www.upi.com/Top_News/World-News/2010/12/18/Mugabe-wants-sanctions-removed/UPI-84591292686762/ |title=Mugabe wants sanctions removed |publisher=UPI.com |date=18 December 2010 |accessdate=21 August 2011}}&lt;/ref&gt;
+
+Journalist [[Nicholas D. Kristof]] reported that life continues to be considerably worse for the majority of the nation than under the Rhodesian Front, despite minor improvements since 2009.&lt;ref name=&quot;nyt&quot;&gt;{{cite news|url=http://www.nytimes.com/2010/04/08/opinion/08kristof.html|author=Nicholas D. Kristof|title=Postcard From Zimbabwe|location=Hwange|newspaper=New York Times|date=7 April 2010}}&lt;/ref&gt; Other studies, including a 2011 survey by [[Freedom House]], remain more optimistic, suggesting that living conditions have improved on a wider front since the power-sharing agreement.&lt;ref&gt;{{cite report|url=http://www.kubatana.net/docs/demgg/fh_changing_perceptions_political%20_110304.pdf|publisher=[[Freedom House]]|author=Susan Booysen|date=4 March 2011|accessdate=16 February 2012|title=Changing Perceptions in Zimbabwe – Nationwide Survey of the Political Climate in Zimbabwe November 2010 – January 2011}}&lt;/ref&gt; The [[United Nations]] [[Office for the Coordination of Humanitarian Affairs]] states in its 2012–2013 planning document that the &quot;humanitarian situation has improved in Zimbabwe since 2009, but conditions remain precarious for many people&quot;.&lt;ref&gt;{{cite report|title=OCHA in 2012–2013: Plan and Budget: Zimbabwe|publisher=[[United Nations]] [[Office for the Coordination of Humanitarian Affairs]]|url=http://www.unocha.org/ocha2012-13/zimbabwe|date=December 2011|accessdate=16 February 2012}}&lt;/ref&gt;
+
+Since May 2012, the European Union initiated a new commercial partnership agreement with Madagascar, Mauritius, Seychelles and Zimbabwe. The agreement engages the EU to remove import taxes and quota on products coming from Zimbabwe and the other countries mentioned above. In return, Zimbabwe and the other countries annul import taxes and quota on products coming from the EU.&lt;ref&gt;[http://madapolitics.wordpress.com/2012/05/15/first-commercial-partnership-agreement-between-eu-and-4-african-countries/ First Commercial Partnership Agreement between EU and 4 african countries], ''Madapolitics'', 15 mai 2012&lt;/ref&gt;
+
+== Administrative divisions ==
+{{Main|Provinces of Zimbabwe|Districts of Zimbabwe|Wards of Zimbabwe}}
+[[File:Administrative Divisions of Zimbabwe.svg|300px|thumb|right|[[Provinces of Zimbabwe|Administrative divisions of Zimbabwe]]]]
+
+Zimbabwe has a [[centralised government]] and is divided into eight provinces and two cities with provincial status, for administrative purposes. Each province has a provincial capital from where official business is usually carried out.&lt;ref name=&quot;factbook&quot;&gt;{{cite web|url=http://www.travlang.com/factbook/print/zi.html |title=The World Factbook |accessdate=13 November 2007}}&lt;/ref&gt;
+
+{| class=&quot;wikitable&quot; style=&quot;text-align:center;&quot;
+|-
+! Province !! Capital
+|-
+| [[Bulawayo]]|| Bulawayo
+|-
+| [[Harare]]|| Harare
+|-
+| [[Manicaland]] || [[Mutare]]
+|-
+| [[Mashonaland Central]] || [[Bindura]]
+|-
+| [[Mashonaland East]] || [[Marondera]]
+|-
+| [[Mashonaland West]] || [[Chinhoyi]]
+|-
+| [[Masvingo Province|Masvingo]] || [[Masvingo|Masvingo city]]
+|-
+| [[Matabeleland North]] || [[Lupane District]]
+|-
+| [[Matabeleland South]] || [[Gwanda]]
+|-
+| [[Midlands Province|Midlands]] || [[Gweru]]
+|}
+
+The names of most of the provinces were generated from the [[Mashonaland]] and [[Matabeleland]] divide at the time of colonisation: Mashonaland was the territory occupied first by the British South Africa Company Pioneer Column and Matabeleland the territory conquered during the [[First Matabele War]]. This corresponds roughly to the precolonial territory of the [[Shona people]] and the [[Matabele people]], although there are significant ethnic minorities in most provinces. Each province is headed by a Provincial Governor, appointed by the [[President of Zimbabwe|President]].&lt;ref name=constitution&gt;{{cite web|url=http://www.parlzim.gov.zw/cms/UsefulResourses/ZimbabweConstitution.pdf |format=PDF|title=Constitution of the Republic of Zimbabwe|publisher=Parliament of Zimbabwe|accessdate=19 December 2008}}{{dead link|date=June 2012}}&lt;/ref&gt; The provincial government is run by a Provincial Administrator, appointed by the Public Service Commission. Other government functions at provincial level are carried out by provincial offices of national government departments.&lt;ref&gt;{{cite web|url=http://www.parlzim.gov.zw/cms%5CActs%5CTitle29_LOCAL_GOVERNMENT/PROVINCIAL_COUNCILS_AND_ADMINISTRATION_ACT_29_11.pdf |format=PDF|title=Provincial Councils and Administration Act (Chapter 29:11)|publisher=Parliament of Zimbabwe|accessdate=19 December 2008}}{{dead link|date=June 2012}}&lt;/ref&gt;
+
+The provinces are subdivided into 59 [[Districts of Zimbabwe|districts]] and 1,200 [[Municipalities of Zimbabwe|wards]] (sometimes referred to as municipalities). Each district is headed by a District Administrator, appointed by the Public Service Commission. There is also a Rural District Council, which appoints a Chief Executive Officer. The Rural District Council is composed of elected ward councillors, the District Administrator and one representative of the chiefs (traditional leaders appointed under customary law) in the district. Other government functions at district level are carried out by district offices of national government departments.&lt;ref&gt;{{cite web|url=http://www.parlzim.gov.zw/cms%5CActs%5CTitle29_LOCAL_GOVERNMENT/RURAL_DISTRICT_COUNCILS_ACT_29_13.pdf |format=PDF|title=Rural District Councils Act (Chapter 29:13)|publisher=Parliament of Zimbabwe|accessdate=19 December 2008}}{{dead link|date=June 2012}}&lt;/ref&gt;
+
+At the ward level there is a Ward Development Committee, comprising the elected ward councillor, the kraalheads (traditional leaders subordinate to chiefs) and representatives of Village Development Committees. Wards are subdivided into villages, each of which has an elected Village Development Committee and a Headman (traditional leader subordinate to the kraalhead).&lt;ref&gt;{{cite web|url=http://www.parlzim.gov.zw/cms%5CActs%5CTitle29_LOCAL_GOVERNMENT/TRADITIONAL_LEADERS_ACT_29_17.pdf |format=PDF|title=Traditional Leaders Act (Chapter 29:17)|publisher=Parliament of Zimbabwe|accessdate=19 December 2008}}{{dead link|date=June 2012}}&lt;/ref&gt;
+
+== Government and politics ==
+{{Main|Politics of Zimbabwe|Elections in Zimbabwe}}
+[[File:Mugabe procession.png|thumb|right|[[Robert Mugabe]] heading to the opening of Parliament]]
+Zimbabwe is a republic with a [[semi-presidential system]] of government. Under the constitutional changes in 2005, an [[upper chamber]], the [[Senate of Zimbabwe|Senate]], was reinstated.&lt;ref name=&quot;reinstated&quot;&gt;[http://www.kubatana.net/html/archive/legisl/050916czamd17ac.asp?sector=LEGISL Constitution of Zimbabwe Amendment (No. 17) Act, 2005] NGO Network Alliance Project&lt;/ref&gt; The [[House of Assembly of Zimbabwe|House of Assembly]] is the [[lower chamber]] of Parliament.
+
+President [[Robert Mugabe]]'s [[Zimbabwe African National Union – Patriotic Front]] (commonly abbreviated ZANU-PF) has been the dominant political party in Zimbabwe since independence.&lt;ref&gt;Mugabe, Robert. (2007). Encyclopædia Britannica. ''Encyclopædia Britannica 2007 Ultimate Reference Suite.'' Chicago: Encyclopædia Britannica.&lt;/ref&gt; In 1987 then-prime minister Mugabe revised the constitution, abolishing the [[Parliamentary republic|ceremonial presidency]] and the prime ministerial posts to form an executive president, a [[Presidential system]]. His ZANU party has won every election since independence, in 1990 election the second-placed party, [[Edgar Tekere]]'s Zimbabwe Unity Movement, winning only 20% of the vote.&lt;ref&gt;{{cite web|url=http://www.newzimbabwe.com/pages/review27.15680.html|title=Tekere says Mugabe 'insecure' in new book |accessdate=6 January 2008 |archiveurl = http://web.archive.org/web/20071227185709/http://www.newzimbabwe.com/pages/review27.15680.html &lt;!-- Bot retrieved archive --&gt; |archivedate = 27 December 2007}}&lt;/ref&gt; During the 1995 parliamentary elections most opposition parties, including the ZUM, boycotted the voting, resulting in a near-sweep by the ruling party.&lt;ref name=&quot;Frankel&quot;&gt;Frankel, Matthew. [http://www.brookings.edu/opinions/2010/0526_myanmar_boycott_frankel.aspx &quot;Myanmar Boycott is Misguided&quot;], [http://www.brookings.edu/ The Brookings Institution], 26 May 2010.&lt;/ref&gt;  When the opposition returned to the polls in 2000, they won 57 seats, only five fewer than ZANU.&lt;ref name=&quot;Frankel&quot; /&gt;
+
+Presidential elections were again held in 2002 amid allegations of vote-rigging, intimidation and fraud.&lt;ref name=&quot;allegations&quot;&gt;[http://www.africa.upenn.edu/afrfocus/afrfocus041805.html Zimbabwe: Election Fraud Report], [[University of Pennsylvania]], 18 April 2005.&lt;/ref&gt; The [[Zimbabwe parliamentary elections, 2005|2005 Zimbabwe parliamentary elections]] were held on 31 March and multiple claims of vote rigging, election fraud and intimidation were made by the MDC and [[Jonathan Moyo]], calling for investigations into 32 of the 120 constituencies.&lt;ref name=&quot;moyo&quot;&gt;[http://www.iol.co.za/index.php?set_id=1&amp;click_id=84&amp;art_id=qw111061602454B251 Mugabe's former ally accuses him of foul play], 12 March 2005. ''Independent Online Zimbabwe''.&lt;/ref&gt; Jonathan Moyo participated in the elections despite the allegations and won a seat as an independent member of Parliament.
+
+General elections were again held in Zimbabwe on 30 March 2008.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/world/africa/7322468.stm |title=Zimbabwe stands 'on a precipice' |publisher=BBC News |date=31 March 2008 |accessdate=6 June 2012}}&lt;/ref&gt; The official results required a runoff between Mugabe and [[Morgan Tsvangirai]], the opposition leader; the MDC challenged these results,{{Citation needed|date=January 2011}} claiming widespread election fraud by the Mugabe government. The run-off was scheduled for 27 June 2008. On 22 June, citing the continuing unfairness of the process and refusing to participate in a &quot;violent, illegitimate sham of an election process&quot;, Tsvangirai pulled out of the presidential run-off, the ZEC held the run-off and President Mugabe received a landslide majority.&lt;ref&gt;{{Cite document |url=http://news.bbc.co.uk/1/hi/world/africa/7467990.stm |title=Mugabe rival quits election race |work=BBC News |date=22 June 2008 |publisher=BBC News |postscript=&lt;!--None--&gt; }}&lt;/ref&gt;
+
+The [[MDC-T]] led by Morgan Tsvangirai is now the majority in the Lower chamber of Parliament. The MDC split into two factions. One faction ([[MDC-M]]), now led by [[Arthur Mutambara]] contested the elections to the Senate, while the other, led by Morgan Tsvangirai, opposed to contesting the elections, stating that participation in a rigged election is tantamount to endorsing Mugabe's claim that past elections were free and fair. The opposition parties have resumed participation in national and local elections as recently as 2006. The two MDC camps had their congresses in 2006 with Morgan Tsvangirai being elected to lead [[MDC-T]], which has become more popular than the other group.&lt;ref name=&quot;findarticles1&quot;&gt;{{cite news |url=http://www.highbeam.com/doc/1P2-1660337.html |work=The Independent |location=UK |title=Contrast in styles as contenders hold rallies in Harare townships |accessdate=16 January 2011}}&lt;/ref&gt;
+[[File:Robert mugabe.tiff|thumb|left|Robert Mugabe with Chinese leader [[Hu Jintao]]]]
+Mutambara, a robotics professor and former [[NASA]] robotics specialist has replaced [[Welshman Ncube]] who was the interim leader of MDC-M after the split. Morgan Tsvangirai did not participate in the Senate elections, while the Mutambara faction participated and won five seats in the senate. The Mutambara formation has been weakened by defections from MPs and individuals who are disillusioned by their manifesto. As of 2008, the Movement for Democratic Change has become the most popular, with crowds as large as 20,000 attending their rallies as compared to between 500–5,000 for the other formation.&lt;ref name=&quot;findarticles1&quot;/&gt;
+
+On 28 April 2008, Tsvangirai and Mutambara announced at a joint news conference in [[Johannesburg]] that the two MDC formations were cooperating, enabling the MDC to have a clear parliamentary majority.&lt;ref name=SABCre&gt;[http://www.sabcnews.com/africa/southern_africa/0,2172,168544,00.html &quot;Zimbabwe’s MDC factions reunite&quot;]{{dead link|date=November 2010}}, SABC News, 28 April 2008.&lt;/ref&gt;&lt;ref name=Reunites&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/africa/7371823.stm |title=Opposition reunites in Zimbabwe |publisher=BBC News |date=28 April 2008 |accessdate=6 June 2012}}&lt;/ref&gt; Tsvangirai said that Mugabe could not remain President without a parliamentary majority.&lt;ref name=Reunites/&gt; On the same day, Silaigwana announced that the recounts for the final five constituencies had been completed, that the results were being collated and that they would be published on 29 April.&lt;ref&gt;Cris Chinaka, [http://www.int.iol.co.za/index.php?set_id=1&amp;click_id=84&amp;art_id=nw20080429090305447C903360 &quot;All eyes on Zim as ZEC wrap-up recount&quot;], Reuters (''IOL''), 29 April 2008.&lt;/ref&gt;
+
+In mid-September 2008, after protracted negotiations overseen by the leaders of South Africa and Mozambique, Mugabe and Tsvangirai signed a power-sharing deal which would see Mugabe retain control over the army. Donor nations have adopted a 'wait-and-see' attitude, wanting to see real change being brought about by this merger before committing themselves to funding rebuilding efforts, which are estimated to take at least five years. On 11 February 2009 Tsvangirai was sworn in as Prime Minister by President Mugabe.
+
+In November 2008, the government of Zimbabwe spent $7.3 million donated by the [[Global Fund to Fight AIDS, Tuberculosis and Malaria]]. A representative of the organisation declined to speculate on how the money was spent, except that it was not for the intended purpose, and the government has failed to honour requests to return the money.&lt;ref&gt;{{cite news|url=http://www.nytimes.com/2008/11/03/world/africa/03zimbabwe.html?_r=1&amp;oref=slogin |title=Aid Group Says Zimbabwe Misused $7.3 Million |publisher=Nytimes.com |date= |accessdate=6 June 2012}}&lt;/ref&gt;
+
+=== Human rights ===
+{{Main|Human rights in Zimbabwe}}
+[[File:Demonstration against Mugabe.JPG|thumb|right|Protesters against the Mugabe administration abroad; protests are &quot;discouraged&quot; by Zimbabwean police in Zimbabwe.&lt;ref&gt;{{cite web |url=http://www.abc.net.au/news/stories/2008/12/03/2437229.htm |title=Police baton charge Harare protesters |accessdate=7 December 2008 |publisher=ABC News}}&lt;/ref&gt;]]
+
+There are widespread reports of systematic and escalating violations of human rights in Zimbabwe under the [[Robert Mugabe|Mugabe administration]] and his party, the [[Zimbabwe African National Union - Patriotic Front|ZANU-PF]].
+
+According to human rights organisations such as [[Amnesty International]]&lt;ref name=&quot;AI&quot;&gt;{{cite web |url=http://web.amnesty.org/report2005/zwe-summary-eng |archiveurl=http://web.archive.org/web/20071203015112/http://web.amnesty.org/report2005/zwe-summary-eng |archivedate=3 December 2007 |title=Zimbabwe |accessdate=2 December 2007 |publisher=Amnesty International }}&lt;/ref&gt; and [[Human Rights Watch]]&lt;ref name=&quot;hrw&quot;&gt;{{cite web |url=http://hrw.org/englishwr2k7/docs/2007/01/11/zimbab14720.htm |title=Zimbabwe – Events of 2006 |accessdate=2 December 2007 |publisher=Human Rights Watch }}&lt;/ref&gt; the government of Zimbabwe violates the rights to shelter, food, [[freedom of movement]] and residence, [[freedom of assembly]] and the [[rule of law|protection of the law]]. There have been alleged assaults on the media, the [[political opposition]], [[civil society]] activists, and [[human rights defender]]s.
+
+Opposition gatherings are frequently the subject of brutal attacks by the police force, such as the crackdown on a 11 March 2007 [[Movement for Democratic Change – Tsvangirai|Movement for Democratic Change]] (MDC) rally and several others during the 2008 election campaign.&lt;ref&gt;{{cite news |url=http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=10517688 |title=Zimbabwe election violence spreads to Harare |accessdate=7 December 2008 |work=The New Zealand Herald |first=Raymond |last=Whitaker |date=22 June 2008}}&lt;/ref&gt; In the attacks of 2007, party leader [[Morgan Tsvangirai]] and 49 other opposition activists were arrested and severely beaten by the police. After his release, Morgan Tsvangirai told the [[BBC]] that he suffered head injuries and blows to the arms, knees and back, and that he lost a significant amount of blood.&lt;ref name=&quot;bbc_Morgan&quot;&gt;{{cite news |url=http://news.bbc.co.uk/2/hi/africa/6449691.stm |title=Unbowed Tsvangirai urges defiance |accessdate=2 December 2007 |date=14 March 2007 |publisher=BBC }}&lt;/ref&gt;
+
+[[File:ZBC logo.png|thumb|The [[Zimbabwe Broadcasting Corporation|ZBC]] is the public broadcaster]]
+Police action was strongly condemned by the [[United Nations Secretary-General|UN Secretary-General]], [[Ban Ki-moon]], the [[European Union]] and the United States.&lt;ref name=&quot;bbc_Morgan&quot;/&gt; While noting that the activists had suffered injuries, but not mentioning the cause of them,&lt;ref name=&quot;herald&quot;&gt;{{cite web |title=Opposition protesters’ case not heard |author=The Herald, Zimbabwe |date=14 March 2007 |url=http://www.herald.co.zw/inside.aspx?sectid=16333&amp;cat=1|archiveurl=http://web.archive.org/web/20070316181021/http://www.herald.co.zw/inside.aspx?sectid=16333&amp;cat=1 |archivedate=16 March 2007 |accessdate=14 March 2007}}&lt;/ref&gt; the Zimbabwean government-controlled daily newspaper ''[[The Herald (Zimbabwe)|The Herald]]'' claimed the police had intervened after demonstrators &quot;ran amok looting shops, destroying property, mugging civilians, and assaulting police officers and innocent members of the public&quot;. The newspaper also argued that the opposition had been &quot;willfully violating the ban on political rallies&quot;.&lt;ref name=&quot;herald&quot;/&gt;
+
+There are also abuses of media rights and access. The Zimbabwean government suppresses freedom of the press and freedom of speech.&lt;ref name=&quot;AI&quot;/&gt; It has also been repeatedly accused of using the public broadcaster, the [[Zimbabwe Broadcasting Corporation]], as a propaganda tool.&lt;ref name=&quot;propaganda&quot;&gt;[http://www.pressreference.com/Uz-Z/Zimbabwe.html Zimbabwe Press, Media, TV, Radio, Newspapers] ''Press Reference'', 2006.&lt;/ref&gt; Newspapers critical of the government, such as the ''[[Daily News (Harare)|Daily News]]'', closed after bombs exploded at their offices and the government refused to renew their license.&lt;ref name=&quot;bombs&quot;&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/world/africa/1141168.stm |title=Zimbabwe newspaper bombed |publisher=BBC News |date=28 January 2001 |accessdate=6 June 2012}}&lt;/ref&gt;&lt;ref name=&quot;license&quot;&gt;{{cite web|last=Wines |first=Michael |url=http://query.nytimes.com/gst/fullpage.html?res=9C05E0DB1E3BF934A35751C0A9629C8B63 |title=Zimbabwe: Newspaper Silenced |publisher=New York Times |date=7 February 2004 |accessdate=6 June 2012}}&lt;/ref&gt; [[BBC News]], [[Sky News]], and [[CNN]] were banned from filming or reporting from Zimbabwe. In 2009 reporting restrictions on the BBC and CNN were lifted.&lt;ref name=Telegraph&gt;[http://www.telegraph.co.uk/news/worldnews/africaandindianocean/zimbabwe/5935043/Zimbabwe-lifts-reporting-ban-on-BBC-and-CNN-after-eight-years.html &quot;Zimbabwe lifts reporting ban on BBC and CNN&quot;], ''[[Telegraph]]'', 30 July 2009.&lt;/ref&gt; Sky News continue to report on happenings within Zimbabwe from neighbouring countries like South Africa.&lt;ref name=&quot;networks&quot;&gt;{{cite news|author=Milton Nkosi |url=http://news.bbc.co.uk/newswatch/ukfs/hi/newsid_4400000/newsid_4401700/4401767.stm |title=Why did Zimbabwe ban the BBC? |publisher=BBC News |date=1 April 2005 |accessdate=6 June 2012}}&lt;/ref&gt;&lt;ref&gt;[http://zimbabwemetro.com/2008/06/22/al-jazeera-kicked-out-of-zimbabwe Al Jazeera kicked out of Zimbabwe]{{dead link|date=June 2012}}, 22 June 2008. ''Zimbabwe Metro''.&lt;/ref&gt;
+
+== Armed forces ==
+{{Main|Zimbabwe Defence Forces}}
+[[File:Flag of the Zimbabwe Defence Forces.svg|thumb|right|Flag of the [[Zimbabwe Defence Forces]]]]
+The existence of the Zimbabwe Defence Forces (ZDF) is enshrined in the Constitution of Zimbabwe, Chapter X, 96 (1), which states that, {{cquote|For the purpose of defending Zimbabwe, there shall be defence forces consisting of an army, an air force and such other branches, if any, of the defence forces as may be provided for by or under an [[act of parliament]].&lt;ref name=&quot;minist&quot;/&gt;}}
+
+The ZDF was set up by the integration of three belligerent forces – the [[Zimbabwe African National Liberation Army]] (ZANLA), the [[Zimbabwe People's Revolutionary Army]] (ZIPRA), and the [[Rhodesian Security Forces]] (RSF) – after the [[Second Chimurenga]] and Zimbabwean independence in 1980. The integration period saw the formation of The [[Zimbabwe National Army]] (ZNA) and [[Air Force of Zimbabwe]] (AFZ) as separate entities under the command of Rtd General [[Solomon Mujuru]] and Air Marshal [[Norman Walsh]] who retired in 1982, and was replaced by Air Marshal Azim Daudpota who handed over command to the late Rtd [[Air Chief Marshal]] [[Josiah Tungamirai]] in 1985.
+
+Although integration took place in the ZNA, there was no integration in the Air Force of Zimbabwe. Ex ZIPRA and ex ZANLA members who joined the Air Force particularly between 1980 and early 1982 did so as individuals. Consequently, many did not make the so-called &quot;grade&quot; and were dismissed from the Force unlike their colleagues in the ZNA who were protected by the integration directive. Before Norman Walsh left the Air Force, military aircraft were destroyed through sabotage at Thornhill Air Base in Gweru, in an operation believed to have been conducted by South African special forces.{{citation needed|date=May 2012}} A number of white officers were arrested and tortured and that led to an exodus of white commissioned officers from the AFZ.{{citation needed|date=May 2012}}
+
+The government responded by transferring Major General Josiah Tungamirai from the ZNA to the AFZ, becoming an Air Vice Marshal, who later deputised Air Marshal Daudpota, seconded from the Pakistan Air Force. The integration commanders handed over the Zimbabwean flags to then [[Lieutenant General]] [[Vitalis Zvinavashe]], who later became the first Commander Defence Forces (1993), and [[Air Marshal]] [[Perrance Shiri]] in 1992, and subsequently in the ZNA to then Lieutenant General Constantine Chiwenga in 1993.
+
+The approval of the Defence Amendment Bill saw the setting up of a single command for the Defence Forces in 1995. The late General Vitalis Zvinavashe became the first commander of the Zimbabwe Defence Forces, with the commanders of both the Army and the Air Force falling under his command. Following his retirement in December 2003, General Constantine Chiwenga, was promoted and appointed Commander of the Zimbabwe Defence Forces. Lieutenant General P. V. Sibanda replaced him as Commander of the Army.&lt;ref name=&quot;minist&quot;&gt;{{cite web|url=http://www.mod.gov.zw/zdf/zdf.htm |title=Zimbabwe Ministry of Defence |accessdate=17 November 2007|archiveurl=http://web.archive.org/web/20071102151320/http://www.mod.gov.zw/zdf/zdf.htm &lt;!--Added by H3llBot--&gt;|archivedate=2 November 2007}}&lt;/ref&gt;
+
+The ZNA currently has an active duty strength of 30,000. The Air Force has about 5,139 men assigned.&lt;ref name=&quot;Airforce of Zimbabwe&quot;&gt;{{cite web|url=http://www.zimbabwedefence.com/AFZ0.html|title=Zimbabwe Defence Forces News|publisher=ZDF News|accessdate=17 April 2009}}&lt;/ref&gt; The [[Zimbabwe Republic Police]] (includes Police Support Unit, Paramilitary Police) is also part of the defence force of Zimbabwe and numbers 25,000.&lt;ref&gt;{{cite web|url=http://www.zimbabwejournalists.com/story.php?art_id=3364&amp;cat=4 |title=Militarisation of Zimbabwe: Does the opposition stand a chance? |accessdate=6 January 2008}}{{dead link|date=June 2012}}&lt;/ref&gt;
+
+In 1999, the Government of Zimbabwe sent a sizeable military force into the Democratic Republic of [[Democratic Republic of the Congo|Congo]] to support the government of President [[Laurent Kabila]] during the [[Second Congo War]]. Those forces were largely withdrawn in 2002.
+
+=== Zimbabwe National Army ===
+{{Main|Zimbabwe National Army}}
+[[File:Flag of the Zimbabwe National Army.svg|thumb|Flag of the Army of Zimbabwe]]
+The Zimbabwe National Army or ZNA was created in 1980 from elements of the [[Rhodesian]] Army, integrated to a greater or lesser extent with combatants from the [[ZANLA]] and [[ZIPRA]] [[guerrilla warfare|guerrilla]] movements (the armed wings of, respectively, [[ZANU]] and [[ZAPU]]).
+
+Following majority rule in early 1980, [[British Army]] trainers oversaw the integration of guerrilla fighters into a [[battalion]] structure overlaid on the existing Rhodesian armed forces. For the first year, a system was followed where the top-performing candidate became battalion commander. If he or she was from ZANLA, then his or her second-in-command was the top-performing ZIPRA candidate, and vice versa.&lt;ref&gt;{{cite book | first=Peter | last=Godwin | authorlink=Peter Godwin (writer) | year=1996 | title=Mukiwa – A White Boy in Africa | isbn=0-333-67150-3 | publisher=Macmillan | location=London }}&lt;/ref&gt; This ensured a balance between the two movements in the command structure. From early 1981, this system was abandoned in favour of political appointments, and ZANLA and ZANU fighters consequently quickly formed the majority of battalion commanders in the ZNA.
+
+The ZNA was originally formed into four [[brigade]]s, composed of a total of 28 battalions. The brigade support units were composed almost entirely of specialists of the former Rhodesian Army, while unintegrated battalions of the [[Rhodesian African Rifles]] were assigned to the 1st, 3rd and 4th Brigades. The [[Zimbabwean Fifth Brigade|Fifth Brigade]] was formed in 1981 and disbanded in 1988 after allegations of brutality and murder during the brigade's occupation of [[Matabeleland]] in what has become known as [[Gukurahundi]] ({{Lang-sn|&quot;the early rain which washes away the chaff before the spring rains&quot;}}).&lt;ref name=&quot;watch&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.mod.gov.zw/army/zna.htm |title=Ministry of Defence, Zimbabwe |accessdate=11 November 2007|archiveurl=http://web.archive.org/web/20071102184314/http://www.mod.gov.zw/army/zna.htm &lt;!--Added by H3llBot--&gt;|archivedate=2 November 2007}}&lt;/ref&gt; The Brigade had been reformed by 2006, with its commander, Brigadier-General [[John Mupande]] praising its &quot;rich history&quot;.&lt;ref name=&quot;Herald Reporter&quot;&gt;{{cite news|url=http://www.zimbabwedefence.com/News_5th_Gets_Comm.html|publisher=Zimbabwe Defence Forces News|title=5th Brigade gets new commander|date=22 February 2006|accessdate=18 April 2009}}&lt;/ref&gt;
+
+== Economy ==
+{{Out of date|date=January 2010}}
+{{Main|Economy of Zimbabwe}}
+[[File:Zimbabwean Exports 2006.svg|thumb|Zimbabwean exports in 2006]]
+[[File:Key Crops production in Zimbabwe.svg|thumb|Crop production in Zimbabwe has considerably fallen in recent years]]
+Mineral exports, agriculture, and tourism are the main foreign currency earners of Zimbabwe.&lt;ref name = &quot;FA_Canada&quot;&gt;{{cite web |url=http://infoexport.gc.ca/ie-en/DisplayDocument.jsp?did=1589 |title=Country Profile – Zimbabwe |accessdate=2 December 2007 |publisher=Foreign Affairs and International Trade Canada |quote= Since the country is well endowed with natural resources such as minerals, [[arable land]] and [[wildlife]], many opportunities lie in resource-based activities such as mining, agriculture and tourism and their downstream industrial activities. }}&lt;/ref&gt; The mining sector remains very lucrative, with some of the world's largest [[platinum]] reserves being mined by [[Anglo American plc]] and Impala Platinum.&lt;ref name=nofix/&gt; The [[Marange diamond fields]], discovered in 2006, are considered the biggest diamond find in over a century.&lt;ref name=EarthTimes&gt;[http://www.earthtimes.org/articles/news/307012,chiadzwa-diamond-mining-company-in-trouble-with-zimbabwe-mps.html &quot;Chiadzwa diamond mining company in trouble with Zimbabwe MPs&quot;]{{dead link|date=June 2012}}, ''[[Earth Times]]'', 1 February 2010.&lt;/ref&gt; They have the potential to improve the fiscal situation of the country considerably, but almost all revenues from the field have disappeared in to the pockets of army officers and ZANU-PF politicians.&lt;ref&gt;{{cite web|url=http://www.hrw.org/en/reports/2009/06/26/diamonds-rough |title=Diamonds in the rough, report by Human Rights Watch |publisher=Hrw.org |date=26 June 2009 |accessdate=6 June 2012}}&lt;/ref&gt; Zimbabwe is the biggest trading partner of South Africa on the continent.&lt;ref name = &quot;AN_economy&quot;&gt;{{cite news |url=http://www.africanews.com/site/list_messages/12598 |title=Zimbabwe-South Africa economic relations since 2000 |accessdate=3 December 2007 |date=31 October 2007 |publisher=Africa News |quote=Zimbabwe remains South Africa's most important trading partner in Africa.}}&lt;/ref&gt;
+
+Zimbabwe maintained positive economic growth throughout the 1980s (5% GDP growth per year) and 1990s (4.3% GDP growth per year). The economy declined from 2000: 5% decline in 2000, 8% in 2001, 12% in 2002 and 18% in 2003.&lt;ref&gt;{{cite journal
+|url=http://www.cato.org/pubs/journal/cj25n3/cj25n3-12.pdf
+|title=The loss of property rights and the collapse of Zimbabwe
+|publisher=Cato Journal
+|author=Craig J. Richardson
+|format=PDF
+|volume=25
+|pages=541–565
+|accessdate=10 November 2010}}&lt;/ref&gt; The government of Zimbabwe faces a variety of economic problems after having abandoned earlier efforts to develop a market-oriented economy. Problems include a shortage of [[foreign exchange market|foreign exchange]], soaring inflation, and supply shortages. Zimbabwe's involvement from 1998 to 2002 in the war in the [[Democratic Republic of the Congo]] drained hundreds of millions of dollars from the economy.&lt;ref name=&quot;drained&quot;&gt;[http://www.hrforumzim.com/reports/tort990003/torture990003b.htm Organised Violence and Torture in Zimbabwe in 1999]{{dead link|date=June 2012}}, 1999. ''[[Zimbabwe Human Rights NGO Forum]]''.&lt;/ref&gt;
+
+The downward spiral of the economy has been attributed mainly to mismanagement and corruption by the government and the eviction of more than 4,000 white farmers in the controversial land redistribution of 2000.&lt;ref name=CNN-2000-04-18&gt;[http://archives.cnn.com/2000/WORLD/africa/04/18/zimbabwe.land.03/ ''&quot;Zimbabwe President Mugabe labels white farmers 'enemies'&quot;'']{{dead link|date=June 2012}}—[[CNN]]—18 April 2000.&lt;/ref&gt;&lt;ref name=Time-2002-02-18&gt;Robinson, Simon. [http://www.time.com/time/printout/0,8816,203620,00.html ''&quot;A Tale of Two Countries&quot;'']—[[Time Magazine]]—Monday, 18 February 2002.&lt;/ref&gt;&lt;ref name=USAToday-2002-06-24&gt;{{cite web|url=http://www.usatoday.com/news/world/2002/06/25/zimbabwe.htm |title='&amp;#39;&quot;Zimbabwe forbids white farmers to harvest&quot;'&amp;#39; |publisher=Usatoday.com |date=24 June 2002 |accessdate=6 June 2012}}&lt;/ref&gt;&lt;ref name=BBC-2002-08-15&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/africa/2192947.stm |title='&amp;#39;&quot;White farmers under siege in Zimbabwe&quot;'&amp;#39; |publisher=BBC News |date=15 August 2002 |accessdate=6 June 2012}}&lt;/ref&gt; Zimbabwe was previously an exporter of maize but has become a net importer.&lt;ref name=nofix/&gt; Tobacco exports and other exports of crops have also declined sharply. The fate of the white farmers was publicised in a documentary film ''[[Mugabe and the White African]]''.
+
+Tourism was an important industry for the country, but has been failing in recent years. The Zimbabwe Conservation Task Force released a report in June 2007, estimating 60% of Zimbabwe's wildlife has died since 2000 due to poaching and deforestation. The report warns that the loss of life combined with widespread [[deforestation]] is potentially disastrous for the tourist industry.&lt;ref&gt;{{cite news|title=Zimbabwe's Wildlife Decimated by Economic Crisis|author=Nick Wadhams|location=Nairobi|publisher=[[National Geographic News]]|date=1 August 2007|accessdate=5 August 2007|url=http://news.nationalgeographic.com/news/2007/08/070801-zimbabwe-animals.html}}&lt;/ref&gt;
+
+In November 2010, the IMF described the Zimbabwean economy as &quot;completing its second year of buoyant economic growth&quot;.&lt;ref&gt;{{cite news |url=http://af.reuters.com/article/topNews/idAFJOE6A70C320101108 |title=Zimbabwe economy buoyant, more reform needed: IMF | date=8 November 2010 | work=Reuters}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.talkzimbabwe.com/zimbabwe-economy-growing-imf-cms-884 |title=Zimbabwe economy growing: IMF | date=9 November 2010 }}&lt;/ref&gt;
+
+=== Hyperinflation 2003–2009 ===
+Inflation rose from an annual rate of 32% in 1998, to an official estimated high of 11,200,000% in August 2008 according to the country's Central Statistical Office.&lt;ref name=&quot;Zimbabwe inflation at 11,200,000&quot;&gt;{{cite news |url=http://edition.cnn.com/2008/BUSINESS/08/19/zimbabwe.inflation/index.html |title=Zimbabwe inflation hits 11,200,000 percent |accessdate=19 August 2008 |date=19 August 2008 |publisher=CNN }}&lt;/ref&gt; This represented a state of [[Hyperinflation in Zimbabwe|hyperinflation]], and the central bank introduced a new 100 billion dollar note.&lt;ref&gt;{{cite news |agency=[[Agence France-Presse]] |url=http://afp.google.com/article/ALeqM5hBpdlcnYSM6PN90n6Zjw-aG46VBA |title=Zimbabwe introduces 100-billion-dollar note |date=19 July 2008 |accessdate=28 March 2010}}&lt;/ref&gt; As of November 2008, unofficial figures put Zimbabwe's annual inflation rate at 516 [[quintillion]] percent, with prices doubling every 1.3 days. Zimbabwe's inflation crisis was in 2009 the second worst inflation spike in history, behind the hyperinflationary crisis of Hungary in 1946, in which prices doubled every 15.6 hours.&lt;ref&gt;{{cite news |work=The Daily Telegraph |location=London |url=http://www.telegraph.co.uk/news/worldnews/africaandindianocean/zimbabwe/3453540/Zimbabwe-hyperinflation-will-set-world-record-within-six-weeks.html |title=Zimbabwe hyperinflation 'will set world record within six weeks' |last=Berger |first=Sebastian |date=13 November 2009 |accessdate=4 April 2011 }}&lt;/ref&gt; By 2005, the purchasing power of the average Zimbabwean had dropped to the same levels in real terms as 1953.&lt;ref&gt;{{cite report |author=Clemens, Michael |coauthors=Moss, Todd |date=20 July 2005 |accessdate=4 April 2011 |title=Costs and Causes of Zimbabwe's Crisis |url=http://www.cgdev.org/content/publications/detail/2918/ |publisher=[[Center for Global Development]] }}&lt;/ref&gt; Local residents have largely resorted to buying essentials from neighbouring [[Botswana]], South Africa, and [[Zambia]].
+
+In 2005, the government, led by central bank governor [[Gideon Gono]], started making overtures that white farmers could come back. There were 400 to 500 still left in the country, but much of the land that had been confiscated was no longer productive.&lt;ref name=Meldrum-2005-05-21&gt;{{cite news |last=Meldrum |first=Andrew |url=http://www.guardian.co.uk/zimbabwe/article/0,2763,1489173,00.html |title=As country heads for disaster, Zimbabwe calls for return of white farmers |work=The Guardian |location=London |date=21 May 2005 |accessdate=4 April 2011 }}&lt;/ref&gt; In January 2007, the government even let some white farmers sign long term leases.&lt;ref name=Timberg-WP-2007-01-06&gt;{{cite news| last=Timberg |first=Craig |url=http://www.washingtonpost.com/wp-dyn/content/article/2007/01/05/AR2007010501746_pf.html |title=White Farmers Given Leases In Zimbabwe |work=Washington Post |date=6 January 2007 |accessdate=4 April 2011}}&lt;/ref&gt; But, at the same time, the government continued to demand that all remaining white farmers, who were given eviction notices earlier, vacate the land or risk being arrested.&lt;ref name=AP/WP-2007-02-05&gt;{{cite news |agency=[[Associated Press]] |work=Washington Post |url=http://www.washingtonpost.com/wp-dyn/content/article/2007/02/05/AR2007020501262_pf.html |title=Zimbabwe threatens white farmers |date=5 February 2007 |accessdate=4 April 2011}}&lt;/ref&gt;&lt;ref name=Chinaka-2007-08-08&gt;{{cite news |last=Chinaka |first=Cris |url=http://www.reuters.com/article/worldNews/idUSL0839141020070808 |title=Zimbabwe threatens white farmers on evictions |agency=[[Reuters]] |date=8 August 2007 |accessdate=4 April 2011}}&lt;/ref&gt;
+
+In August 2006, a revalued [[Zimbabwean dollar]] was introduced, equal to 1000 of the prior Zimbabwean dollars. The exchange rate fell from 24 old Zimbabwean dollars per U.S. dollar (USD) in 1998 to 250,000 prior or 250 new Zimbabwean dollars per USD at the official rate,&lt;ref name=&quot;usd&quot;&gt;{{cite web|url=http://www.rbz.co.zw|title=RBZ}}&lt;/ref&gt; and an estimated 120,000,000 old or 120,000 revalued Zimbabwean dollars per US dollar on the parallel market,&lt;ref&gt;{{cite web|url=http://www.zimbabwesituation.com/jun16a_2007.html#Z6|title=Zimbabwe Situation}}&lt;/ref&gt; in June 2007.
+
+In January 2009, Zimbabwe introduced a new Z$100 trillion banknote.&lt;ref&gt;{{cite news|author=Paul Lewis and agencies |url=http://www.guardian.co.uk/world/2009/jan/16/zimbabwe-hyper-inflation-mugabe-tsvangirai |title=Zimbabwe unveils 100 trillion dollar banknote |work=The Guardian |location=London |accessdate=28 March 2010  | date=16 January 2009}}&lt;/ref&gt; On 29 January, in an effort to counteract his country's runaway inflation, acting Finance Minister [[Patrick Chinamasa]] announced that Zimbabweans will be permitted to use other, more stable currencies (e.g. Sterling, Euro, [[South African Rand]], and the United States Dollar) to do business, alongside the Zimbabwe dollar.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/world/africa/7859033.stm |title=Zimbabwe abandons its currency |work=BBC News |date=29 January 2009 |accessdate=4 April 2011 }}&lt;/ref&gt;
+
+On 2 February 2009, the RBZ announced that a further 12 zeros were to be taken off the currency, with 1,000,000,000,000 (third) Zimbabwe dollars being exchanged for 1 new (fourth) dollar. New banknotes were introduced with a face value of Z$1, Z$5, Z$10, Z$20, Z$50, Z$100 and Z$500.The banknotes of the fourth dollar were to circulate alongside the third dollar, which remained [[legal tender]] until 30 June 2009.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/africa/7865259.stm |title=Zimbabwe dollar sheds 12 zeros |work=BBC News |date=2 February 2009 |accessdate=28 March 2010}}&lt;/ref&gt;
+
+==== Economic recovery ====
+
+Since the formation of the Unity Government in 2009, the Zimbabwean economy has been on the rebound. GDP grew by more than 5% in the year 2009 and 2011. Growth is forecast to reach 8% in 2010, buoyed by high mineral prices and the improving agriculture sector.  Zimbabwe produced 119 million kg of tobacco in the 2009/10 season, double the previous year’s output.&lt;ref&gt;{{cite news|url=http://www.zimbabwemetro.com/opinion/zimbabwe-double-the-previous-years-tobacco-output/|title=Zimbabwe double the previous year’s tobacco output |last=Malaba |first=Sakhile |date=3 September 2010 |accessdate=4 April 2011 |work=Metro Zimbabwe}}&lt;/ref&gt; Zimplats, the nation's largest platinum company, has proceeded with US$500 million in expansions, and is also continuing a separate US$2 billion project, despite threats by Mugabe to nationalise the company.&lt;ref&gt;{{cite news |url=http://www.thestandard.co.zw/business/29142-zimplats-ignores-seizure-threat.html |last=Dube |first=Jennifer |title=Zimplats ignores seizure threat |date=3 April 2011 |accessdate=4 April 2011 |newspaper=The Standard |location=Zimbabwe}}&lt;/ref&gt; The pan-African investment bank [[IMARA]] released a favourable report in February 2011 on investment prospects in Zimbabwe, citing an improved revenue base and higher tax receipts.&lt;ref&gt;{{cite press release |url=http://ir.imarainvestor.com/profiles/investor/ResLibraryView.asp?ResLibraryID=43595&amp;GoTopage=1&amp;Category=1211&amp;BzID=1648 |title=IMARA: Global investors get upbeat briefing on Zim prospects |date=17 February 2011 |accessdate=4 April 2011 |publisher=[[IMARA]] }}&lt;/ref&gt;
+
+=== Government view and international sanctions ===
+Mugabe points to foreign governments and alleged &quot;sabotage&quot; as the cause of the fall of the Zimbabwean economy, as well as the country's 80% formal unemployment rate.&lt;ref name=&quot;unemployment&quot;&gt;{{cite news|author=|url=http://www.economist.com/world/africa/displaystory.cfm?story_id=9475943 |title=How to stay alive when it all runs out, 12 July 2007 |publisher=Economist.com |date=12 July 2007 |accessdate=6 June 2012}}&lt;/ref&gt; Critics of Mugabe's administration blame Mugabe's controversial programme which sought to seize land from white commercial farmers. Mugabe has repeatedly blamed sanctions imposed on Zimbabwe by the [[European Union]] and the United States for the state of the Zimbabwean economy. According to the United States, these [[Economic sanctions|sanction]]s target only seven specific businesses owned or controlled by government officials and not ordinary citizens.&lt;ref&gt;{{cite press release |url=http://www.state.gov/r/pa/prs/ps/2004/30091.htm |title=Zimbabwe: Sanctions Enhancement |publisher=[[United States Department of State]] |date=2 March 2004 }}{{dead link|date=November 2010}}&lt;/ref&gt; 
+
+However in actuality the sanctions through the [[Zimbabwe Democracy and Economic Recovery Act of 2001]] have done the following: blocked credit and access to international financial and developmental programmes; prevented the cancellation of government debts; ensured sufficient pressure from IMF for payment of dues;confiscated cash proceeds from American companies providing machinery to Zimbabwean farms;frozen government financial assets, including those assets owned by citizens; deterred American and non-American companies from dealing with Zimbabwean companies . The bill further de facto ensured the Zimbabwan government couldn't interact properly with multilateral lending companies such as Bretton Woods.&lt;ref&gt;[[Zimbabwe Democracy and Economic Recovery Act of 2001]]&lt;/ref&gt;&lt;ref&gt;[http://www.newzimbabwe.com/pages/opinion248.16137.html Western sanctions source of Mugabe's demise&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://inhofe.senate.gov/public/index.cfm?FuseAction=PressRoom.PressReleases&amp;ContentRecord_id=84b0e327-b195-d917-7cbc-701827f7fbc4 United States Senator James Inhofe : Press Room&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://www.npr.org/blogs/thetwo-way/2012/05/25/153706791/un-human-rights-chief-sanctions-against-zimbabwe-are-backfiring UN Human Rights Chief: Sanctions Against Zimbabwe Are Backfiring : The Two-Way : NPR&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://www.newzimbabwe.com/pages/sanctions32.13170.html Economic sanctions undermine Zimbabwe's economy&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+The Zimbabwean government and its supporters attest that the idea that the loss of 4,000 white farmers led to the financial crises is Western propaganda, and in actuality it was Western policies to avenge the expulsion of their kin that sabotaged the economy, and this was motivated by racism and the wish to maintain white privilege in Zimbabwe.&lt;ref&gt;[http://news.sky.com/story/265649/mugabe-interview-the-full-transcript Mugabe Interview: The Full Transcript&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; [[Cynthia Mckinney]], an American congresswoman, responded to this bill in the following fashion:&lt;ref&gt;[http://newafricanmagazine.com/blogs/baffours-beefs/surgery-below-the-waist Surgery Below The Waist&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+&lt;blockquote&gt;&quot;There are many de jure and de facto one-party states in the world which are the recipients of support of the United States government. They are not the subject of Congressional legislative sanctions. To any honest observer, Zimbabwe's sin is that it has taken the position to right a wrong, whose resolution has been too long overdue&amp;nbsp;– to return its land to its people. The Zimbabwean government has said that a situation where 2 percent of the population owns 85 percent of the best land is untenable. Those who presently own more than one farm will no longer be able to do so. When we get right down to it, this legislation is nothing more than a formal declaration of United States complicity in a program to maintain white-skin privilege.&quot;&lt;/blockquote&gt;
+
+During a meeting of the [[Southern African Development Community]] in 2007, a call was issued for the sanctions to be removed.&lt;ref&gt;[http://fr.jpost.com/servlet/Satellite?cid=1173879224459&amp;pagename=JPost/JPArticle/ShowFull Analysis: Africa fails again to deal with Zimbabwe]{{dead link|date=November 2010}}, ''[[The Jerusalem Post]]'', 1 April 2007.&lt;/ref&gt;
+
+Taxes and tariffs are high for private enterprises, while state enterprises are strongly subsidised. State regulation is costly to companies; starting or closing a business is slow and costly.&lt;ref name=&quot;Heritage: Zimbabwe&quot;&gt;{{cite web|url=http://www.heritage.org/index/Country/Zimbabwe |title=Zimbabwe Economy: Facts, Data, &amp; Analysis on Economic Freedom |publisher=Heritage.org |date=12 January 2012 |accessdate=6 June 2012}}&lt;/ref&gt; Government spending was predicted to reach 67% of GDP in 2007.&lt;ref&gt;{{cite news|url=http://www.reuters.com/article/idUSL2961278920080629 |title=FACTBOX: Zimbabwe's meltdown in figures |publisher=Reuters |date= 29 June 2008|accessdate=30 May 2010}}&lt;/ref&gt; It used to be partly financed by printing money, which led to [[hyperinflation]]. The labour market is highly regulated; hiring a worker is cumbersome, firing a worker is difficult, and unemployment has risen to 80% (2005).&lt;ref name=&quot;Heritage: Zimbabwe&quot;/&gt;
+
+Since 1 January 2002, the government of Zimbabwe has had its lines of credit at international financial institutions frozen, through U.S. legislation called the [[Zimbabwe Democracy and Economic Recovery Act of 2001]] (ZDERA). Section 4C instructs the Secretary of the Treasury to direct directors at international financial institutions to veto the extension of loans and credit to the Zimbabwean government.&lt;ref&gt;{{cite news|url=http://www.govtrack.us/congress/billtext.xpd?bill=s107-494&amp;version=enr&amp;nid=t0%3Aenr%3A30|title=Zimbabwe Democracy And Economic Recovery Act of 2001 at Govtrack.us News|date=18 October 2011}}&lt;/ref&gt;
+
+In an effort to combat inflation and foster economic growth the Zimbabwean Dollar was suspended indefinitely on 12 April 2009.&lt;ref&gt;{{cite news|url=http://www.voanews.com/english/2009-04-12-voa9.cfm|title=Zimbabwe Suspends Use of Own Currency|publisher=VOA News|date=12 April 2009}}&lt;/ref&gt; Zimbabwe now allows trade in the United States Dollar and various other currencies such as the [[South African rand]], euro, Sterling, and [[Botswana pula]].
+
+== Demographics ==
+{{Main|Demographics of Zimbabwe}}
+
+[[File:Shona witch doctor (Zimbabwe).jpg|thumb|upright|A [[n'anga]] (or faith healer) of the majority (70%) [[Shona people|Shona]] people, holding a [[kudu]] horn trumpet]] 
+[[File:Zimbabwean women at Kariba, 1982.jpg|thumb|left|Zimbabwean women at Kariba. [[White people in Zimbabwe|White Zimbabweans]] currently comprise under 1% of the population.]]
+Zimbabwe's total population is 12&amp;nbsp;million.&lt;ref name = &quot;CIA The World Factbook&quot;&gt;{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html |title=Zimbabwe |work=[[The World Factbook]] |publisher=[[Central Intelligence Agency]] |date=15 May 2008 |accessdate=26 May 2008}}&lt;/ref&gt; According to the United Nations [[World Health Organisation]], the life expectancy for men was 37&amp;nbsp;years and the life expectancy for women was 34&amp;nbsp;years of age, the lowest in the world in 2006.&lt;ref&gt;{{cite book | title = The World Health Report 2006|url=http://www.who.int/entity/whr/2006/annex/06_annex1_en.pdf|chapter=Annex Table 1—Basic indicators for all Member States|author=The World Health Organization|format=PDF|accessdate=30 December 2008 | isbn = 92-4-156314-1 | year = 2007 | publisher = World Health Organization | location = Geneva}}&lt;/ref&gt; An association of doctors in Zimbabwe has made calls for President Mugabe to make moves to assist the ailing health service.&lt;ref&gt;{{cite news|title=In Zimbabwe, life ends before 40|author=Peta Thornycroft|location=Harare|work=Sydney Morning Herald|date=10 April 2006|accessdate=10 April 2006|url=http://www.smh.com.au/news/world/in-zimbabwe-life-ends-before-40/2006/04/09/1144521210993.html}}&lt;/ref&gt;
+The [[HIV/AIDS in Zimbabwe|HIV infection rate in Zimbabwe]] was estimated to be 14% for people aged 15–49 in 2009.&lt;ref name=&quot;UNAIDS&quot;&gt;{{cite web |url=http://www.unaids.org/en/regionscountries/countries/zimbabwe/ |title =Zimbabwe |accessdate=16 January 2011 |publisher=UNAIDS }}&lt;/ref&gt; [[UNESCO]] reported a decline in HIV prevalence among pregnant women from 26% in 2002 to 21% in 2004.&lt;ref name = &quot;UNESCO&quot;&gt;{{cite web |url=http://www.harare.unesco.org/educaids/zimprevalence.html |title =HIV Prevalence Rates Fall in Zimbabwe|accessdate=3 December 2007 |publisher=UNESCO }}&lt;/ref&gt;
+
+Some 85% of Zimbabweans are Christian; 62% of the population attends religious services regularly.&lt;ref&gt;{{cite encyclopedia|url=http://encarta.msn.com/encyclopedia_761575825_3/Zimbabwe.html|archiveurl=http://web.archive.org/web/20071031022353/http://encarta.msn.com/encyclopedia_761575825_3/Zimbabwe.html|archivedate=31 October 2007 |title=MSN Encarta |accessdate=13 November 2007}}&lt;/ref&gt; The largest Christian churches are [[Anglican]], Roman Catholic, [[Seventh-day Adventist Church|Seventh-day Adventist]]&lt;ref&gt;{{cite web|url=http://adventistatlas.org/ViewCountry.asp?CtryCode=zw |title=Zimbabwe |accessdate=22 January 2008}}&lt;/ref&gt; and [[Methodist]]. As in other African countries, Christianity may be mixed with enduring traditional beliefs. Besides Christianity, [[ancestor worship|ancestral worship]] is the most practised non-Christian religion, involving [[spirituality|spiritual]] intercession; the Mbira Dza Vadzimu, which means &quot;Voice of the Ancestors&quot;, an instrument related to many [[lamellophone]]s ubiquitous throughout Africa, is central to many ceremonial proceedings. Mwari simply means &quot;God the Creator&quot; (musika vanhu in Shona). Around 1% of the population is Muslim.&lt;ref name = &quot;US_state&quot;&gt;{{cite web |url=http://www.state.gov/g/drl/rls/irf/2005/51503.htm |title =Zimbabwe – International Religious Freedom Report 2005|accessdate=3 December 2007 |publisher=U.S. Department of State |quote=An estimated 1% of the total population is Muslim. }}&lt;/ref&gt;
+
+Bantu-speaking ethnic groups make up 98% of the population. The majority people, the [[Shona people|Shona]], comprise 70%. The [[Ndebele people (Zimbabwe)|Ndebele]] are the second most populous with 20% of the population.&lt;ref name=&quot;autogenerated1&quot;&gt;{{cite web|url=http://www.scholars.nus.edu.sg/post/zimbabwe/zpeople.html |title=The People of Zimbabwe |accessdate=13 November 2007 |archiveurl = http://web.archive.org/web/20070712141810/http://www.scholars.nus.edu.sg/post/zimbabwe/zpeople.html |archivedate = 12 July 2007}}&lt;/ref&gt;&lt;ref name=&quot;ethnic&quot;&gt;{{cite web|url=http://www.infoplease.com/ipa/A0108169.html |title=Ethnicity/Race of Zimbabwe |accessdate=6 January 2008}}&lt;/ref&gt; The Ndebele descended from [[Zulu people|Zulu]] migrations in the 19th century and the other tribes with which they intermarried. Up to one million Ndebele may have left the country over the last five years, mainly for South Africa. Other [[Bantu peoples|Bantu]] ethnic groups make up the third largest with 2 to 5%. These are [[Venda]], Tonga, [[Shangaan]], [[Kalanga language|Kalanga]], [[Sotho language|Sotho]], [[Ndau language|Ndau]] and [[Nambya]].&lt;ref name=&quot;ethnic&quot;/&gt;
+
+Minority ethnic groups include [[White people in Zimbabwe|white Zimbabweans]], who make up less than 1% of the total population. White Zimbabweans are mostly of British origin, but there are also [[Afrikaner]], [[Greeks in Zimbabwe|Greek]], [[Portuguese people|Portuguese]], [[Franco-Mauritian|French]] and [[Dutch people|Dutch]] communities. The white population dropped from a peak of around 278,000 or 4.3% of the population in 1975&lt;ref&gt;David Wiley, Allen F. Isaacman (1981). &quot;''Southern Africa: society, economy, and liberation''&quot;. p.55. Michigan State University, University of Minnesota&lt;/ref&gt; to possibly 120,000 in 1999 and was estimated to be no more than 50,000 in 2002, and possibly much less.&lt;ref&gt;Quarterly Digest Of Statistics, Zimbabwe Printing and Stationery Office, 1999.&lt;/ref&gt; Most emigration has been to the United Kingdom (Between [[Zimbabweans in the United Kingdom|200,000 and 500,000]] Britons are of Rhodesian or Zimbabwean origin), South Africa, Botswana, Zambia, Canada, Australia and New Zealand. [[Coloured|Mixed-race]] citizens form 0.5% of the population and various [[Asian people|Asian]] ethnic groups, mostly of Indian and Chinese origin, are also 0.5%.&lt;ref&gt;Quarterly Digest of Statistics, 1998, Zimbabwe Printing and Stationery Office&lt;/ref&gt;
+
+=== Largest cities ===
+
+{{Largest cities of Zimbabwe}}
+
+=== Language ===
+{{main|Languages of Zimbabwe}}
+Shona, Ndebele and English are the principal languages of Zimbabwe. Despite English being the [[official language]], less than 2.5%, mainly the white and [[Coloured]] (mixed race) minorities, consider it their native language. The rest of the population speak [[Bantu languages]] such as [[Shona language|Shona]] (70%), [[Northern Ndebele language|Ndebele]] (20%) and the other minority languages of [[Venda]], [[Tsonga language|Tsonga]], [[Shangaan]], [[Kalanga language|Kalanga]], [[Sotho language|Sotho]], [[Ndau language|Ndau]] and [[Nambya]].&lt;ref name=&quot;languages&quot;&gt;[http://www.gapadventures.com/docs/pdi/africa/Zimbabwe.pdf Zimbabwe]{{dead link|date=June 2012}} GAP Adventures&lt;/ref&gt; Shona has a rich oral tradition, which was incorporated into the first Shona novel, ''Feso'' by [[Solomon Mutswairo]], published in 1956.&lt;ref name=&quot;feso&quot;&gt;[http://www.unc.edu/~ottotwo/mothertongue.html Mother Tongue: Interviews with Musaemura B. Zimunya and Solomon Mutswairo] University of North Carolina at Chapel Hill&lt;/ref&gt; English is spoken primarily in the cities, but less so in rural areas. Radio and television news now broadcast in Shona, Ndebele and English.
+
+=== Refugee crisis ===
+The economic meltdown and repressive political measures in Zimbabwe have led to a flood of refugees into neighbouring countries. An estimated 3.4 million Zimbabweans, a quarter of the population, had fled abroad by mid 2007.&lt;ref&gt;{{cite news|url=http://observer.guardian.co.uk/world/story/0,,2115988,00.html|title=Refugees flood from Zimbabwe ''The Observer'' |work=The Guardian |location=London  | first=Andrew | last=Meldrum | date=1 July 2007 | accessdate=6 April 2010}}&lt;/ref&gt; Some 3 million of these have gone to South Africa and Botswana.&lt;ref&gt;{{cite web|url=http://www.sokwanele.com/articles/sokwanele/zimrefugeessufferinsouthafricaandzimbabwe_20July2007.html|title=Zimbabwean refugees suffer in Botswana and South Africa ''Sokwanele Civic Action Group''}}&lt;/ref&gt;
+
+Apart from the people who fled into the neighbouring countries, there are up to one million internally displaced persons (IDPs). There is no current comprehensive survey,&lt;ref name=IDMC&gt;{{cite web|url=http://www.internal-displacement.org/countries/zimbabwe''Internal|title=Displacement Monitoring Centre (IDMC), Internal displacement in Zimbabwe''}}&lt;/ref&gt; although the following figures are available:
+{| class=&quot;wikitable table&quot;
+|-
+! Survey
+! Number
+! Date
+! Source
+|-
+| national survey
+| 880–960,000
+| 2007
+| Zimbabwe Vulnerability Assessment Committee&lt;ref&gt;{{cite web|title=The Many Faces of Displacement: IDPs in Zimbabwe|publisher=[[Internal Displacement Monitoring Centre]]|location=Geneva|year=2008|format=PDF|url=http://www.unhcr.org/refworld/pdfid/48ad3b70c.pdf|accessdate=9 November 2010}}&lt;/ref&gt;
+|-
+| former farm workers
+| 1,000,000
+| 2008
+| UNDP&lt;ref name=IDMC/&gt;
+|-
+| victims of [[Operation Murambatsvina]]
+| 570,000
+| 2005
+| UN&lt;ref&gt;{{cite web|title=Report of the Fact-Finding Mission to Zimbabwe to assess the Scope and Impact of Operation Murambatsvina|author=Tibaijuka, A.K.|publisher=UN Special Envoy on Human Settlements Issues in Zimbabwe|location=Geneva|year=2005|format=PDF|url=http://www.un.org/News/dh/infocus/zimbabwe/zimbabwe_rpt.pdf|accessdate=13 April 2009}}&lt;/ref&gt;
+|-
+| people displaced by political violence
+| 36,000
+| 2008
+| UN&lt;ref name=IDMC/&gt;
+|}
+The above surveys do not include people displaced by [[Operation Chikorokoza Chapera]] or beneficiaries of the fast-track land reform programme but who have since been evicted.&lt;ref name=IDMC/&gt;
+
+== Health ==
+{{See also|HIV/AIDS in Zimbabwe|Zimbabwean cholera outbreak}}
+[[File:2008 Zimbabwe Cholera Outbreak Combined.svg|thumb|Map showing the spread of [[cholera]] in and around Zimbabwe put together from several sources.]]
+
+At independence, the policies of racial inequality were reflected in the disease patterns of the black majority. The first five years after independence saw rapid gains in areas such as immunisation coverage, access to health care, and contraceptive prevalence rate.&lt;ref&gt;Davies, R. and Sanders, D. 1998. Adjustment policies and the welfare of children: Zimbabwe, 1980–1985. In: Cornia, G.A., Jolly, R. and Stewart, F. (Eds.) ''Adjustment with a human face, Vol. II: country case studies''.Clarendon Press, Oxford, 272–99. [http://www.popline.org/docs/0891/272234.html]{{dead link|date=November 2010}}&lt;/ref&gt; Zimbabwe was thus considered internationally to have an achieved a good record of health development.&lt;ref&gt;Dugbatey, K. 1999. [http://www.ncbi.nlm.nih.gov/pubmed/10414831 National health policies: sub-Saharan African case studies (1980–1990)] ''Soc. Sci. Med.'', '''49''', 223–239.&lt;/ref&gt; The country suffered occasional outbreaks of acute diseases (such as [[Plague (disease)|plague]] in 1994). The gains on the national health were eroded by structural adjustment in the 1990s,&lt;ref&gt;Marquette, C.M. 1997. [http://dx.doi.org/10.1016/S0305-750X(97)00019-3 Current poverty, structural adjustment, and drought in Zimbabwe] ''World Development'', '''25''', 1141–1149&lt;/ref&gt; the impact of the [[HIV/AIDS in Zimbabwe|HIV/AIDS pandemic]]&lt;ref name=nofix/&gt; and the economic crisis since the year 2000. Zimbabwe now has one of the lowest life expectancies on Earth – 44 for men and 43 for women,&lt;ref&gt;{{cite web|url=http://unstats.un.org/unsd/demographic/products/socind/health.htm|title=United Nations Statistics Division|accessdate=7 December 2008}}&lt;/ref&gt; down from 60 in 1990. The rapid drop has been ascribed mainly to the HIV/AIDS pandemic. [[Infant mortality]] has risen from 5.9% in the late 1990s to 12.3% by 2004.&lt;ref name=nofix&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/business/7346042.stm|title=No quick fix for Zimbabwe's economy |date=14 April 2008|publisher=BBC|accessdate=19 December 2008 | first=Jorn | last=Madslien}}&lt;/ref&gt;
+
+The health system has more or less collapsed. By the end of November 2008, three of Zimbabwe's four major hospitals had shut down, along with the Zimbabwe [[Medical School]], and the fourth major hospital had two [[Hospital|ward]]s and no [[operating theatre]]s working.&lt;ref name=hospitals&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/world/africa/7714892.stm|title=The death throes of Harare's hospitals|date=7 November 2008|publisher=BBC |accessdate=3 December 2008 | first=Brian | last=Hungwe}}&lt;/ref&gt; Due to [[Hyperinflation in Zimbabwe|hyperinflation]], those hospitals still open are not able to obtain basic drugs and medicines.&lt;ref name=coping&gt;{{cite news|url=http://www.icrc.org/web/eng/siteeng0.nsf/html/zimbabwe-feature-261108?opendocument|title=Zimbabwe: coping with the cholera outbreak|date=26 November 2008|accessdate=3 December 2008}}&lt;/ref&gt; The ongoing political and economic crisis also contributed to the emigration of the doctors and people with medical knowledge.&lt;ref name=&quot;Zimbabwe cholera deaths near 500 &quot;&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/africa/7760088.stm|title=Zimbabwe cholera deaths near 500 |date=2 December 2008|publisher=BBC |accessdate=2 December 2008}}&lt;/ref&gt;
+
+In August 2008 large areas of Zimbabwe were struck by the ongoing [[cholera]] epidemic. By December 2008 more than 10,000 people had been infected in all but one of Zimbabwe's provinces and the outbreak had spread to [[Botswana]], Mozambique, South Africa and [[Zambia]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/uk/7768740.stm |title=PM urges Zimbabwe cholera action |publisher=BBC News |date=6 December 2008 |accessdate=6 June 2012}}&lt;/ref&gt;&lt;ref name=Milliband&gt;[http://www.timesonline.co.uk/tol/news/world/africa/article5294534.ece &quot;Miliband backs African calls for end of Mugabe&quot;], ''[[The Times]]'', 5 December 2008.&lt;/ref&gt; On 4 December 2008 the [[government of Zimbabwe|Zimbabwe government]] declared the outbreak to be a national emergency and asked for international aid.&lt;ref name=&quot;Zimbabwe declares national emergency over cholera&quot;&gt;{{cite news|url=http://www.reuters.com/article/worldNews/idUSTRE4B31T420081204?feedType=RSS&amp;feedName=worldNews&amp;rpc=69&amp;pageNumber=2&amp;virtualBrandChannel=0|title=Zimbabwe declares national emergency over cholera|date=4 December 2008|publisher=Reuters|accessdate=4 December 2008}}&lt;/ref&gt;&lt;ref name=emergency&gt;{{cite news|url=http://www.google.com/hostednews/afp/article/ALeqM5hsW9YNn1roEp0rzjeGSJo0pKcj2A|title=Zimbabwe declares cholera outbreak a national emergency|date=4 December 2008|agency=AFP|accessdate=4 December 2008}}&lt;/ref&gt; By 9 March 2009 The World Health Organization (WHO) estimated that 4,011 people had succumbed to the waterborne disease since the outbreak began in August 2008, and the total number of cases recorded had reached 89,018.&lt;ref name=&quot;On the cholera frontline&quot;&gt;[http://www.irinnews.org/Report.aspx?ReportId=83378 On the cholera frontline] 9 March 2009, [[IRIN]]&lt;/ref&gt; In [[Harare]], the city council offered free graves to cholera victims.&lt;ref name=rain&gt;{{cite news|url=http://africa.reuters.com/top/news/usnJOE4AT06A.html|title=Zimbabwe says cholera epidemic may spread with rain|date=30 November 2008|publisher=Reuters|accessdate=3 December 2008}}{{dead link|date=November 2010}}&lt;/ref&gt; There have been signs that the disease is abating, with cholera infections down by about 50 percent to around 4,000 cases a week.&lt;ref name=&quot;On the cholera frontline&quot;/&gt;
+
+=== Maternal and child health care ===
+In June 2011, the [[United Nations Population Fund]] released a report on [http://www.unfpa.org/sowmy/resources/docs/country_info/profile/en_Zimbabwe_SoWMy_Profile.pdf The State of the World's Midwifery]. It contained new data on the midwifery workforce and policies relating to newborn and maternal mortality for 58 countries. The 2010 maternal mortality rate per 100,000 births for Zimbabwe is 790.  This is compared with 624.3 in 2008 and 231.8 in 1990. The under 5 mortality rate, per 1,000 births is 93 and the neonatal mortality as a percentage of under 5's mortality is 32. The aim of this report is to highlight ways in which the [[Millennium Development Goals]] can be achieved, particularly Goal 4 – Reduce child mortality and Goal 5 – improve maternal health. In Zimbabwe the number of midwives per 1,000 live births is unavailable and 1 in 42 shows us the lifetime risk of death for pregnant women.&lt;ref name=&quot;SOWMY&quot;&gt;{{cite web|url=http://www.unfpa.org/sowmy/report/home.html|title=The State Of The World's Midwifery|publisher=United Nations Population Fund|date=Accessed August 2011}}&lt;/ref&gt;
+
+== Education ==
+{{Main|Education in Zimbabwe}}
+[[File:Literacy rate world-2009UNDP.gif|thumb|300px|right|Zimbabwe's adult literacy rate is amongst the highest in Africa.]]
+Zimbabwe has an [[literacy|adult literacy rate]] of approximately 90%+/- which is amongst the highest in Africa.&lt;ref name=&quot;literacy&quot;&gt;{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html#People |title=CIA World Factbook |publisher=Cia.gov |accessdate=29 December 2010}}&lt;/ref&gt;&lt;ref name=&quot;littwo&quot;&gt;[http://www.cso.gov.bw/html/liter_survey.htm Botswana Literacy Survey 2003]{{dead link|date=November 2010}}, [[Central Statistics Office]], Botswana&lt;/ref&gt;&lt;ref name=&quot;worldbank&quot;&gt;{{PDFlink|[http://www.sarpn.org.za/documents/d0000887/P1006-Zimbabwe_CAE_May2004.pdf Zimbabwe Country Assistance Evaluation] [[World Bank]]|344&amp;nbsp;KB}}&lt;/ref&gt; Since 1995 the adult literacy rate of Zimbabwe had steadily decreased, a trend shared by other African countries.&lt;ref&gt;{{cite web|url=http://hdrstats.undp.org/indicators/16.html |title=Human development index |author=United Nations Development Programme |accessdate=15 November 2007}}&lt;/ref&gt; In 2010, the [[United Nations Development Programme]] (UNDP) found that Zimbabwe's literacy rate had climbed to a high of 92% and had, once again, become the highest in Africa.&lt;ref name=IRINAfrica&gt;[http://ww.irinnews.org/Report.aspx?ReportId=89947 &quot;Unlicensed and outdoors or no school at all&quot;], ''[[IRIN]]'', 23 July 2010&lt;/ref&gt;&lt;ref name=AllAfrica&gt;[http://allafrica.com/stories/201007150032.html &quot;Zimbabwe: Country Leads in Africa Literacy Race&quot;], ''[[AllAfrica.com]]'', 14 July 2010&lt;/ref&gt; The education department has stated that 20,000 teachers have left Zimbabwe since 2007 and that half of Zimbabwe's children have not progressed beyond primary school.&lt;ref&gt;{{cite news|url=http://www.cnn.com/2009/WORLD/africa/09/25/zimbabwe.schools/index.html |author=Nkepile Mabuse |title=Zimbabwe schools begin fightback |accessdate=28 September 2009 | work=CNN | date=28 September 2009}}&lt;/ref&gt;
+
+The wealthier portion of the population usually send their children to independent schools as opposed to the [[government school|government-run]] schools which are attended by the majority as these are subsidised by the government. School education was made free in 1980, but since 1988, the government has steadily increased the charges attached to school enrolment until they now greatly exceed the real value of fees in 1980. The Ministry of Education of Zimbabwe maintains and operates the government schools but the fees charged by independent schools are regulated by the cabinet of Zimbabwe.
+
+Zimbabwe's education system consists of 2 years of pre-school, 7 years of primary and 6 years of secondary schooling before students can enter university in the country or abroad. The academic year in Zimbabwe runs from January to December, with three terms, broken up by one month holidays, with a total of 40 weeks of school per year. National examinations are written during the third term in November, with [[General Certificate of Education|&quot;O&quot; level]] and [[Advanced Level (UK)|&quot;A&quot; level]] subjects also offered in June.&lt;ref name=&quot;embassy&quot;&gt;{{cite web|url=http://harare.usembassy.gov/zimbabwe_educational_profile.html |title=Zimbabwe US Embassy |accessdate=15 November 2007}}&lt;/ref&gt;
+
+There are seven public universities as well as four church-related universities in Zimbabwe that are fully internationally accredited.&lt;ref name=&quot;embassy&quot;/&gt; The [[University of Zimbabwe]], the first and largest, was built in 1952 and is located in the Harare suburb of [[Mount Pleasant, Harare|Mount Pleasant]]. Notable [[alumni]] from Zimbabwean universities include [[Welshman Ncube]]; Peter Moyo (of Amabhubesi); [[Tendai Biti]], [[Secretary-General]] for the MDC; [[Chenjerai Hove]], Zimbabwean poet, novelist and essayist; and [[Arthur Mutambara]], President of one faction of the MDC. Many of the current politicians in the government of Zimbabwe have obtained degrees from universities in USA or other universities abroad.
+
+The highest professional board for accountants is the [[Institute of Chartered Accountants of Zimbabwe]] (ICAZ) with direct relationships with similar bodies in South Africa, Canada, the UK and Australia. A qualified [[Chartered Accountant]] from Zimbabwe is also a member of similar bodies in these countries after writing a conversion paper. In addition, Zimbabwean-trained doctors only require one year of residence to be fully licensed doctors in the United States. The [[Zimbabwe Institution of Engineers]] (ZIE) is the highest professional board for engineers.
+
+Education in Zimbabwe became under threat since the economic changes in 2000 with teachers going on strike because of low pay, students unable to concentrate because of hunger and the price of uniforms soaring making this standard a luxury. Teachers were also one of the main targets of Mugabe's attacks because he thought they were not strong supporters.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/world/africa/6566919.stm |author=Anonymous |title=BBC report on 40 years in Zimbabwe's schools |accessdate=3 November 2007 | date=19 April 2007 |work=BBC News}}&lt;/ref&gt;
+
+== Media ==
+{{Main|Media of Zimbabwe}}
+The media of Zimbabwe, once diverse, have come under tight restriction in recent years by the government, particularly during the growing economic and political crisis in the country. The Zimbabwean constitution promises freedom of the media and expression; the media is currently hampered by political interference and the implementation of strict media laws. In its 2008 report, [[Reporters Without Borders]] ranked the Zimbabwean media as 151st out of 173.&lt;ref name=rwb&gt;{{cite web|url=http://www.rsf.org/article.php3?id_article=29031 |title=Reporters without Borders Press Freedom Index |publisher=Rsf.org |accessdate=28 March 2010}}{{dead link|date=November 2010}}&lt;/ref&gt; The government also bans many foreign broadcasting stations from Zimbabwe, including the [[BBC]] (since 2001), [[CNN]], [[Canadian Broadcasting Corporation|CBC]], [[Sky News]], [[Channel 4]], [[American Broadcasting Company]], [[Australian Broadcasting Corporation|Australian Broadcasting Corporation (ABC)]] and [[Fox News]]. News agencies and newspapers from other Western countries and South Africa have also been banned from the country. In July 2009 the BBC and CNN were able to resume operations and report legally and openly from Zimbabwe. CNN welcomed the move. The Zimbabwe Ministry of Media, Information and Publicity stated that, &quot;the Zimbabwe government never banned the BBC from carrying out lawful activities inside Zimbabwe&quot;.&lt;ref name=&quot;Telegraph&quot;/&gt; The BBC also welcomed the move saying, &quot;we're pleased at being able to operate openly in Zimbabwe once again&quot;.&lt;ref name=BBC1&gt;{{cite web|author=Jon Williams |url=http://www.bbc.co.uk/blogs/theeditors/2009/07/resuming_operations_in_zimbabw.html |title=Resuming operations in Zimbabwe |publisher=Bbc.co.uk |date= |accessdate=6 June 2012}}&lt;/ref&gt;
+
+Privately owned news outlets used to be common; since the 2002 Access to Information and Protection of Privacy Act (AIPPA) was passed, a number have been shut down by the government, including ''The Daily News'' whose managing director Wilf Mbanga went on to form the influential [[The Zimbabwean]].&lt;ref name=rwb/&gt;&lt;ref name=cgmg&gt;[http://cgmg.jour.city.ac.uk/news.php?story=249 &quot;The nine lives of Wilf Mbanga&quot;]{{dead link|date=June 2012}}, ''[[Metrovox]]'', Mach 17, 2005.&lt;/ref&gt; As a result, many press organisations have been set up in both neighbouring and Western countries by [[exile]]d Zimbabweans. Because the internet is currently unrestricted, many Zimbabweans are allowed to access online news sites set up by exiled journalists.&lt;ref name=fh&gt;{{cite web|url=http://www.freedomhouse.org/template.cfm?page=251&amp;year=2007 |title=Freedom House 2007 Map of Press Freedom: Zimbabwe |publisher=Freedomhouse.org |date= |accessdate=6 June 2012}}&lt;/ref&gt; [[Reporters Without Borders]] claims the media environment in Zimbabwe involves &quot;surveillance, threats, [[imprison]]ment, censorship, [[blackmail]], abuse of power and denial of [[justice]] are all brought to bear to keep firm control over the news.&quot;&lt;ref name=rwb/&gt; The main published newspapers are [[The Herald (Zimbabwe)|''The Herald'']] and [[The Chronicle (Zimbabwe)|''The Chronicle'']] which are printed in Harare and Bulawayo respectively.
+
+In 2010 the Zimbabwe Media Commission was established by the inclusive, power-sharing government. In May 2010 the Commission licensed three new privately owned newspapers, including the previously banned Daily News, for publication.&lt;ref name=Reuters&gt;{{cite web|last=Banya |first=Nelson |url=http://www.reuters.com/article/idUSTRE64P5NX20100526 |title=Zimbabwe licenses new private newspapers |publisher=Reuters.com |date= |accessdate=6 June 2012}}&lt;/ref&gt; Reporters Without Borders described the decisions as a &quot;major advance&quot;.&lt;ref name=IFEX&gt;[http://www.ifex.org/zimbabwe/2010/05/28/licences_granted/ &quot;independent dailies allowed to resume publishing&quot;], ''[[International Freedom of Expression Exchange]]'', 28 May 2010.&lt;/ref&gt; In June 2010 NewsDay became the first independent daily newspaper to be published in Zimbabwe in seven years.&lt;ref name=Reuter&gt;{{cite web|url=http://www.reuters.com/article/idUSLDE65312720100604 |title=Zimbabwe gets first private daily newspaper in years |publisher=Reuters.com |date= |accessdate=6 June 2012}}&lt;/ref&gt;
+
+== Culture and recreation ==
+{{Main|Culture of Zimbabwe}}
+[[File:Masvingo Bus Terminus.jpg|thumb|A Zimbabwe market place and bus terminus]]
+
+Zimbabwe has many different cultures which may include [[beliefs]] and [[ceremonies]], one of them being [[Shona people|Shona]]. Zimbabwe's largest ethnic group is Shona. The Shona people have many sculptures and [[rock carving|carvings]] which are made with the finest materials available.
+
+Zimbabwe first celebrated its independence on 18 April 1980.&lt;ref name=&quot;indepday&quot;&gt;{{cite book|last=Owomoyela|first=Oyekan|year=2002|title=Culture and Customs of Zimbabwe|page=77|isbn=0-313-31583-3|publisher=Greenwood Press|location=Westport, Conn.}}&lt;/ref&gt; Celebrations are held at either the [[National Sports Stadium (Zimbabwe)|National Sports Stadium]] or [[Rufaro Stadium]] in Harare. The first independence celebrations were held in 1980 at the Zimbabwe Grounds. At these celebrations [[dove]]s are released to symbolise peace and fighter jets fly over and the [[National Anthem of Zimbabwe|national anthem]] is sung. The flame of independence is lit by the president after parades by the presidential family and members of the armed forces of Zimbabwe. The president also gives a speech to the people of Zimbabwe which is televised for those unable to attend the stadium.&lt;ref&gt;{{cite web|url=http://www.kas.de/proj/home/home/35/2/ |title=Zimbabwe Celebrates 25 years of Independence |accessdate=6 January 2008}}&lt;/ref&gt;
+
+=== Arts ===
+{{Main|Zimbabwean art}}
+
+Traditional arts in Zimbabwe include [[pottery]], [[basketry]], textiles, jewellery and carving. Among the distinctive qualities are symmetrically patterned woven baskets and stools carved out of a single piece of wood. Shona sculpture has become world famous in recent years having first emerged in the 1940s. Most subjects of [[rock carving|carved]] figures of stylised birds and human figures among others are made with [[sedimentary]] rocks such as [[soapstone]], as well as harder [[igneous]] rocks such as [[serpentine group|serpentine]] and the rare stone [[Serpentinite|verdite]]. Some of these Zimbabwean artefacts being found in countries like Singapore, China and Canada. i.e [[Dominic Benhura]]'s statue in the [[Swing me mama|Singapore botanic gardens]].
+
+Shona sculpture in essence has been a fusion of African [[folklore]] with European influences. World renowned Zimbabwean sculptors include Nicholas, Nesbert and Anderson Mukomberanwa, Tapfuma Gutsa, Henry Munyaradzi and Locardia Ndandarika. Internationally, Zimbabwean sculptors have managed to influence a new generation of artists, particularly Black Americans, through lengthy apprenticeships with master sculptors in Zimbabwe. Contemporary artists like New York sculptor M. Scott Johnson and California sculptor Russel Albans have learned to fuse both African and Afro-diasporic aesthetics in a way that travels beyond the simplistic mimicry of African Art by some Black artists of past generations in the U.S.
+
+Several authors are well known within Zimbabwe and abroad. [[Charles Mungoshi]] is renowned in Zimbabwe for writing traditional stories in English and in Shona and his poems and books have sold well with both the black and white communities.&lt;ref&gt;{{cite web|url=http://zimbabwe.poetryinternationalweb.org/piw_cms/cms/cms_module/index.php?obj_id=5752|title=Tribute to Charles Mungoshi|accessdate=2 November 2007}}&lt;/ref&gt; [[Catherine Buckle]] has achieved international recognition with her two books ''African Tears'' and ''Beyond Tears'' which tell of the ordeal she went through under the 2000 [[Land reform in Zimbabwe|Land Reform]].&lt;ref&gt;{{cite web|url=http://africantears.netfirms.com/beyondtears.htm|archiveurl=http://web.archive.org/web/20071030001000/http://africantears.netfirms.com/beyondtears.htm|archivedate=30 October 2007|title=Tribute to Cathy Buckle|accessdate=2 November 2007}}&lt;/ref&gt; [[Prime Minister of Rhodesia]], the late [[Ian Smith]], has also written two books &lt;nowiki&gt; – &lt;/nowiki&gt; ''[[The Great Betrayal]]'' and ''[[Bitter Harvest (2001 book)|Bitter Harvest]].'' The book ''[[The House of Hunger]]'' by [[Dambudzo Marechera]] won an award in the UK in 1979 and the Nobel Prize-winning author [[Doris Lessing]]'s first novel ''[[The Grass Is Singing]]'' is set in Rhodesia.
+
+Internationally famous artists include Henry Mudzengerere and Nicolas Mukomberanwa. A recurring theme in Zimbabwean art is the [[metamorphosis]] of man into beast.&lt;ref&gt;{{cite web|url=http://karaart.com/collections/shona/origins3.html |title=Cultural Origins of art |accessdate=6 January 2008|archiveurl=http://web.archive.org/web/20071104011154/http://karaart.com/collections/shona/origins3.html &lt;!--Added by H3llBot--&gt;|archivedate=4 November 2007}}&lt;/ref&gt; Zimbabwean musicians like [[Thomas Mapfumo]], [[Oliver Mtukudzi]], the [[Bhundu Boys]] and [[Audius Mtawarira]] have achieved international recognition. Among members of the white minority community, Theatre has a large following, with numerous theatrical companies performing in Zimbabwe's urban areas.
+
+=== Cuisine ===
+[[File:Boerewors raw.jpg|thumb|Raw [[Boerewors]]]]
+Like in many African countries, the majority of Zimbabweans depend on a few staple foods. &quot;Mealie meal&quot;, also known as [[cornmeal]], is used to prepare ''[[sadza]]'' or ''[[isitshwala]]'', as well as [[porridge]] known as ''bota'' or ''ilambazi''. Sadza is made by mixing the cornmeal with water to produce a thick paste/porridge. After the paste has been cooking for several minutes, more cornmeal is added to thicken the paste.
+
+This is usually eaten as lunch or dinner, usually with sides such as [[gravy]], vegetables ([[spinach]], [[chomolia]], [[spring greens]]/[[collard greens]]), [[beans]] and meat that has been stewed, grilled, roasted or sundried. Sadza is also commonly eaten with curdled milk ([[sour milk]]), commonly known as lacto (''mukaka wakakora''), or dried [[Tanganyika sardine]], known locally as ''kapenta'' or ''matemba''. Bota is a thinner porridge, cooked without the additional cornmeal and usually flavoured with [[peanut butter]], milk, butter, or [[jam]].&lt;ref&gt;{{cite web|url=http://www.zambuko.com/mbirapage/resource_guide/pages/culture/sadza_text.html | author=Zambuko.com |title=Sadza ne Nyama: A Shona Staple Dish |accessdate=3 November 2007}}&lt;/ref&gt; Bota is usually eaten for breakfast.
+
+[[Graduations]], [[weddings]], and any other family gatherings will usually be celebrated with the killing of a goat or cow, which will be barbecued or [[roasted]] by the family.
+
+[[Afrikaner]] recipes are popular though they are a small group (0.2%) within the white minority group. [[Biltong]], a type of [[jerky (food)|jerky]], is a popular snack, prepared by hanging bits of spiced raw meat to dry in the shade.&lt;ref&gt;{{cite web | author=Stephanie Hanes | title=Biltong: much more than just a snack | work=[[The Christian Science Monitor]] | date=20 September 2006 | url=http://www.csmonitor.com/2006/0920/p13s01-lifo.html | accessdate=3 October 2006}}&lt;/ref&gt; [[Boerewors]] is served with sadza. It is a long sausage, often well-spiced, composed of beef rather than pork, and barbecued.
+
+Since Zimbabwe was a British colony, some people there have adopted some colonial-era English eating habits. For example, most people will have porridge in the morning, as well as 10 o'clock tea (midday tea). They will have lunch, often leftovers from the night before, freshly cooked sadza, or sandwiches (which is more common in the cities). After lunch, there is usually 4 o'clock tea that is served before dinner. It is not uncommon for tea to be had after dinner.
+
+Rice, pasta, and potato based foods ([[french fries]] and [[mashed potato]]) also make up part of the Zimbabwean cuisine. A local favourite is rice cooked with peanut butter which is taken with thick gravy, mixed vegetables and meat. A potpourri of peanuts known as ''nzungu'', boiled and sundried maize, [[black-eyed peas]] known as ''nyemba'', [[bambara groundnut]] known as ''nyimo'' makes a traditional dish called ''mutakura''. Mutakura can also be the above ingredients cooked individually. One can also find local snacks such as ''maputi'' (roasted/popped maize kernels similar to [[popcorn]]), roasted and salted peanuts, [[sugar cane]], [[sweet potato]], pumpkin, indigenous fruit like [[horned melon]], ''gaka'', [[adansonia]], ''mawuyu'', [[uapaca kirkiana]], ''Sugar plum/Mazhanje'', and many others.
+
+=== Sports ===
+{{Main|Sport in Zimbabwe}}
+[[Image:1stXV.jpg|thumb|[[St George's College, Harare|Saint George]]'s First XV Rugby Team]]
+[[Association football|Football]] is the most popular sport in Zimbabwe, although [[rugby union]] and [[cricket]] also have a following, traditionally among the white minority. Zimbabwe has won eight Olympic medals, one in [[field hockey]] at the (boycotted) [[Zimbabwe at the 1980 Summer Olympics|1980 Summer Olympics]] in Moscow, and seven in swimming, three at the [[Zimbabwe at the 2004 Summer Olympics|2004 Summer Olympics]] and four at the [[Zimbabwe at the 2008 Summer Olympics|2008 Summer Olympics]].
+
+Zimbabwe has also done well in the [[Commonwealth Games]] and [[All-Africa Games]] in swimming with [[Kirsty Coventry]] obtaining 11 gold medals in the different competitions.&lt;ref&gt;{{cite news|url=http://sportsillustrated.cnn.com/olympics/2004/schedules/117BySport.html |title=2004 Olympic Games swimming results|accessdate=22 July 2007 | work=CNN}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.fina.org/events/WC/Montreal_2005/results/sw.php |title=Montreal 2005 Results|accessdate=9 June 2007 |archiveurl = http://web.archive.org/web/20070128064425/http://www.fina.org/events/WC/Montreal_2005/results/sw.php |archivedate = 28 January 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.fina.org/events/WC/Melbourne_2007/results/swimming.php|title=12th FINA World Championships|accessdate=9 June 2007 |archiveurl = http://web.archive.org/web/20070606111744/http://www.fina.org/events/WC/Melbourne_2007/results/swimming.php |archivedate = 6 June 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport3/commonwealthgames2002/bsp/statistics/results.stm |title=BBC Sport Commonwealth Games 2002 Statistics|accessdate=29 August 2007 |work=BBC News}}&lt;/ref&gt;
+Zimbabwe has also competed at [[The Championships, Wimbledon|Wimbledon]] and the [[Davis Cup]] in tennis, most notably with the Black family, which comprises [[Wayne Black]], [[Byron Black]] and [[Cara Black]]. Zimbabwe has also done well in golf.The Zimbabwean Nick Price held the official World Number 1 status longer than any player from Africa has ever done in the 24 year history of the Ranking.&lt;ref&gt;{{cite web|last=Gold |first=Jack Of |url=http://www.freetv4africa.co.uk/2012/05/africa-punching-above-its-weight-in.html |title=Africa punching above it's weight in golf |publisher=Free TV 4 Africa |date=29 May 2012 |accessdate=6 June 2012}}&lt;/ref&gt;
+
+Other sports played in Zimbabwe are basketball, volleyball, [[netball]], and [[water polo]], as well as [[Squash (sport)|squash]], [[motorsport]], martial arts, [[chess]], cycling, [[polocrosse]], [[kayaking]] and [[horse racing]]. However, most of these sports don't have international representatives but instead stay at a junior or national level.
+
+=== Music ===
+{{Main|Music of Zimbabwe}}
+{{Expand section|date=February 2012}}
+
+=== Scouting ===
+{{Main|The Boy Scouts Association of Zimbabwe}}
+[[File:Burnham sketch by baden-powell.jpg|left|thumb|upright|[[Robert Baden-Powell, 1st Baron Baden-Powell|Baden-Powell]]'s sketch of Chief of Scouts [[Frederick Russell Burnham|Burnham]], [[Matobo Hills]], 1896.]]
+It was in the [[Matabeleland]] region in Zimbabwe that, during the [[Second Matabele War]], [[Robert Baden-Powell, 1st Baron Baden-Powell|Robert Baden-Powell]], the founder of Scouting, and [[Frederick Russell Burnham]], the American born Chief of Scouts for the British Army, first met and began their lifelong friendship.&lt;ref name=&quot;scouting&quot;&gt;{{cite book |last=Burnham |first=Frederick Russell |authorlink=Frederick Russell Burnham |title=Scouting on Two Continents |publisher=Doubleday, Page &amp; company |year=1926 |pages=2; Chapters 3 &amp; 4 |oclc=407686}}&lt;/ref&gt; In mid-June 1896, during a scouting patrol in the [[Matobo Hills]], Burnham began teaching Baden-Powell [[woodcraft]]. Baden-Powell and Burnham discussed the concept of a broad training programme in woodcraft for young men, rich in exploration, [[tracking (hunting)|tracking]], [[fieldcraft]], and self-reliance.&lt;ref name=&quot;vanwyk&quot;&gt;{{cite book |last=van Wyk |first=Peter |year=2003|url=http://www.burnhamkingofscouts.com/| title=Burnham: King of Scouts |publisher=Trafford Publishing |isbn=1-4122-0028-8}}&lt;/ref&gt; It was also during this time in the Matobo Hills that Baden-Powell first started to wear his signature [[campaign hat]] like the one worn by Burnham.&lt;ref name=&quot;jeal&quot;&gt;{{cite book |first=Tim |last=Jeal |authorlink=Tim Jeal |title=Baden-Powell |publisher=[[Hutchinson (publisher)|Hutchinson]] |location=London |year=1989 |isbn=0-09-170670-X}}&lt;/ref&gt;
+
+Scouting in the former [[Rhodesia and Nyasaland]] started in 1909 when the first Boy Scout troop was registered. Scouting grew quickly and in 1924 Rhodesia and Nyasaland sent a large contingent to the second [[World Scout Jamboree]] in [[Ermelunden, Denmark]]. In 1959, Rhodesia hosted the Central African Jamboree at [[Ruwa]]. In 2009, Scouts celebrated 100 years of Scouting in Zimbabwe and hundreds of Scouts camped at [[Gordon Park, Zimbabwe|Gordon Park]], a Scout campground and training area, as part of these celebrations.&lt;ref&gt;{{cite web| title= Zimbabwe Scouts celebrate their centenary in a park that Baden-Powell had visited in 1936 | url= http://www.scout.org/en/around_the_world/africa/information_events/news/zimbabwe_scouts_celebrate_their_centenary_in_a_park_that_b_p_once_visited | accessdate =26 August 2009}}&lt;/ref&gt;
+
+Besides scouting, there are also leadership, life skills and general knowledge courses and training experiences mainly for school children ranging from pre-school to final year high school students and some times bthose beyond High school. These courses and outings, are held at places like ''Lasting Impressions'' ([http://www.youtube.com/watch?v=Q5GiuX0O_so Lasting Impressions ~Zimbabwe]), ''Far and Wide Zimbabwe'' ([http://www.farandwide.co.zw/ Far and wide.]) and ''Chimanimani Outward Bound'' ([http://www.outwardbound.net/locations/zimbabwe.php Outwardbound Zimbabwe]), Just to name a few.
+
+== Tourism ==
+{{Main|Tourism in Zimbabwe}}
+[[File:Tourism in Zimbabwe logo.jpg|thumb|The logo of the Zimbabwe Tourism Authority showing the Victoria Falls and the Zimbabwe Bird found at [[Great Zimbabwe]]]]
+[[File:Victoria5.jpg|thumb|[[Victoria Falls]], the end of the upper [[Zambezi]] and beginning of the middle Zambezi]]
+Since the Land Reform programme in 2000, tourism in Zimbabwe has steadily declined. After rising during the 1990s, (1.4 million tourists in 1999) industry figures described a 75% fall in visitors to Zimbabwe in 2000. By December, less than 20% of hotel rooms had been occupied.&lt;ref name=&quot;tourism&quot;&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/world/africa/1220218.stm |title=Sun sets on Zimbabwe tourism |author=Lewis Machipisa |accessdate=16 November 2007 |work=BBC News | date=14 March 2001}}&lt;/ref&gt; This has had a huge impact on the Zimbabwean economy. Thousands of jobs have been lost in the industry due to companies closing down or simply being unable to pay staff wages due to the decreasing number of tourists.
+
+Several airlines have also pulled out of Zimbabwe. Australia's [[Qantas]], Germany's [[Lufthansa]] and [[Austrian Airlines]] were among the first to pull out and most recently [[British Airways]] suspended all direct flights to Harare.&lt;ref name=&quot;tourism&quot;/&gt;&lt;ref&gt;{{cite news|url=http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/10/29/wairways129.xml |title=British Airways abandons flights to Zimbabwe |author=Sebastien Berger |accessdate=16 November 2007 |work=The Daily Telegraph |location=London  | date=29 October 2007}}&lt;/ref&gt; The country's flagship airline [[Air Zimbabwe]],  which operated flights throughout Africa and a few destinations in Europe and Asia, ceased operations in February 2012.&lt;ref&gt;{{cite web|last=Sibanda |first=Tichaona |url=http://allafrica.com/stories/201202231437.html |title=Zimbabwe: Air Zimbabwe Vanishes From the Skies Indefinitely |publisher=allAfrica.com |date=23 February 2012 |accessdate=6 June 2012}}&lt;/ref&gt; Many light aircraft charter companies operate in Zimbabwe, providing a quick and safe means of travel in the region. The biggest of these companies is Executive Air.
+
+Zimbabwe boasts several major tourist attractions. [[Victoria Falls]] on the [[Zambezi]], which are shared with Zambia, are located in the north west of Zimbabwe. Before the economic changes, much of the tourism for these locations came to the Zimbabwe side but now Zambia is the main beneficiary. The [[Victoria Falls National Park]] is also in this area and is one of the eight main [[national parks]] in Zimbabwe,&lt;ref&gt;{{cite web|url=http://www.zimbabwetourism.co.zw/hwange.htm |title=Zimbabwe Tourism Authority |accessdate=16 November 2007 |archiveurl = http://web.archive.org/web/20071203100122/http://www.zimbabwetourism.co.zw/hwange.htm &lt;!-- Bot retrieved archive --&gt; |archivedate = 3 December 2007}}&lt;/ref&gt; largest of which is [[Hwange National Park]].
+
+The [[Eastern Highlands]] are a series of mountainous areas near the border with [[Mozambique]]. The highest peak in Zimbabwe, [[Mount Nyangani]] at 2,593&amp;nbsp;m (8,507&amp;nbsp;ft) is located here as well as the [[Bvumba Mountains]] and the [[Nyanga National Park]]. [[World's View, Nyanga|World's View]] is in these mountains and it is from here that places as far away as 60–70&amp;nbsp;km (37–43&amp;nbsp;mi) are visible and, on clear days, the town of [[Rusape]] can be seen.
+
+[[File:Great Zimbabwe.png|thumb|Great Zimbabwe as featured on the defunct $50 note]]
+Zimbabwe is unusual in Africa in that there are a number of ancient ruined cities built in a unique [[dry stone]] style. The most famous of these are the [[Great Zimbabwe]] ruins in [[Masvingo]]. Other ruins include [[Khami|Khami Ruins, Zimbabwe]], [[Dhlo-Dhlo]] and [[Naletale]], although none of these is as famous as Great Zimbabwe.
+
+The [[Matobo National Park|Matobo Hills]] are an area of [[granite]] [[kopje]]s and wooded valleys commencing some {{convert|22|mi|km}} south of [[Bulawayo]] in southern Zimbabwe. The Hills were formed over 2,000 million years ago with granite being forced to the surface, then being eroded to produce smooth &quot;whaleback dwalas&quot; and broken kopjes, strewn with boulders and interspersed with thickets of vegetation. [[Mzilikazi]], founder of the [[Ndebele people (Zimbabwe)|Ndebele]] nation, gave the area its name, meaning 'Bald Heads'. They have become famous and a tourist attraction due to their ancient shapes and local wildlife. [[Cecil Rhodes]] and other early white [[Settler|pioneers]] like [[Leander Starr Jameson]] are buried in these hills at a site named World's View.&lt;ref&gt;{{cite web|url=http://zimbabwe.safari.co.za/spirit-of-zimbabwe.html |title=The Spirit of Matobo |accessdate=16 November 2007}}&lt;/ref&gt;
+
+== National symbols, insignia, and anthems ==
+[[Image:Gloriosa rothschildiana 01.jpg|thumb|upright|The [[Gloriosa (plant)|flame lily]], national flower of Zimbabwe]]
+[[Image:Zimbabwe cent.png|thumb|left|Reverse side of the defunct ten cent coin featuring the Zimbabwe Bird]]
+[[Image:Zimbabwe Bird.svg|thumb|upright|Traditional Zimbabwe Bird design]]
+The two main traditional symbols of Zimbabwe are the [[Zimbabwe Bird]] and the [[Balancing Rocks]].
+
+Other [[national emblem|national symbols]] exist, but have varying degrees of official usage, such as the [[Gloriosa (plant)|flame lily]] and the [[Sable Antelope]].
+
+=== Zimbabwe Bird ===
+{{Main|Zimbabwe Bird}}
+The stone-carved Zimbabwe Bird appears on the national flags and the coats of arms of both Zimbabwe and [[Rhodesia]], as well as on [[Rhodesian dollar|banknotes]] and coins (first on [[Coins of the Rhodesian pound|Rhodesian pound]] and then [[Coins of the Rhodesian dollar|Rhodesian dollar]]). It probably represents the [[Bateleur|Bateleur eagle]] or the [[African Fish Eagle]].&lt;ref&gt;{{cite journal|title=The Soapstone Birds from Great Zimbabwe |journal=African Arts|year=1985|volume=18|pages=68–73, 99–100|author=Thomas N. Huffman|jstor=3336358|issue=3|doi=10.2307/3336358}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|title=Review: The Soapstone Birds of Great Zimbabwe Symbols of a Nation by Edward Matenga |journal=The South African Archaeological Bulletin|year=2001|volume=56|pages=105–106|author=Paul Sinclair|jstor=3889033|issue=173/174|doi=10.2307/3889033}}&lt;/ref&gt;
+
+The famous [[soapstone]] bird carvings stood on walls and monoliths of the ancient city of [[Great Zimbabwe]], built, it is believed, sometime between the 13th and 16th centuries by ancestors of the [[Shona people|Shona]]. The ruins, which gave their name to modern Zimbabwe, cover some {{convert|1800|acre|km2}} and are the largest ancient stone construction in Zimbabwe.&lt;ref&gt;{{cite web | title = Great Zimbabwe |url=http://www.usp.nus.edu.sg/post/zimbabwe/art/greatzim/gz1.html|author= Prof. George P. Landow}}&lt;/ref&gt;
+
+When the ruins of Great Zimbabwe were excavated by treasure-hunters in the late 19th century, five of the carved birds they discovered were taken to South Africa by [[Cecil Rhodes]]. Four of the statues were returned to Zimbabwe by the South African government at independence, while the fifth remains at [[Groote Schuur]], Rhodes' former home in [[Cape Town]].
+
+=== Balancing Rocks ===
+{{Main|Balancing Rocks}}
+Balancing Rocks are geological formations all over Zimbabwe. The rocks are perfectly balanced without other supports. They are created when ancient granite intrusions are exposed to weathering, as softer rocks surrounding them erode away. They are often remarked on and have been depicted on both the [[banknotes of Zimbabwe]] and the [[Rhodesian dollar]] banknotes. The ones found on the current notes of Zimbabwe, named the Banknote Rocks, are located in [[Epworth, Zimbabwe|Epworth]], approximately {{convert|9|mi|km}} south east of Harare.&lt;ref&gt;{{cite web|url=http://members.fortunecity.com/madzimbabwe/Buildings/Natural/Balancing%20Rocks/BalancingRocks.html |title=Dzimba Dzemabwe |accessdate=15 November 2007}}&lt;/ref&gt; There are many different formations of the rocks, incorporating single and paired columns of 3 or more rocks. These formations are a feature of south and east tropical Africa from northern South Africa northwards to [[Sudan]]. The most notable formations in Zimbabwe are located in the [[Matobo National Park]] in [[Matabeleland]].
+
+== ICT ==
+The ICT sector of Zimbabwe has been growing at a fast pace. A report by the world’s leading mobile internet browser, Opera for June/July 2011 has ranked Zimbabwe as Africa’s fastest growing market.&lt;ref&gt;url=http://www.biztechafrica.com/article/zimbabwe-ranked-fastest-growing-internet-market/1007/ Zimbabwe Ranked Fastest growing Internet Market&lt;/ref&gt;
+
+== National anthem ==
+{{Main|National Anthem of Zimbabwe}}
+&quot;Blessed be the Land of Zimbabwe&quot; ({{Lang-sn|&quot;Simudzai Mureza wedu WeZimbabwe&quot;}}; {{Lang-nd|&quot;Kalibusiswe Ilizwe leZimbabwe&quot;}}) is the [[List of national anthems|national anthem]] of Zimbabwe. It was introduced in March 1994 after a nation-wide competition to replace &quot;{{Lang|sn|[[Ishe Komborera Africa]]}}&quot; as a distinctly Zimbabwean song. The winning entry was a song written by Professor [[Solomon Mutswairo]] and composed by Fred Changundega. It has been translated into all three of the main languages of Zimbabwe.
+{{-}}
+
+== See also ==
+{{portal|Zimbabwe}}
+*[[Index of Zimbabwe-related articles]]
+*[[Outline of Zimbabwe]]
+
+== References ==
+{{reflist|30em}}
+
+== Further reading ==
+* Barclay, Philip. ''Zimbabwe: Years of Hope and Despair'' (2010)
+*Bourne, Richard. ''Catastrophe: What Went Wrong in Zimbabwe?'' (2011); 302 pages
+* JoAnn McGregor and Ranka Primorac, eds. ''Zimbabwe's New Diaspora: Displacement and the Cultural Politics of Survival'' (Berghahn Books; 2010) 286 pages. Scholarly essays on displacement as a result of Zimbabwe's continuing crisis, with a focus on diasporic communities in Britain and South Africa; also explores such topics as the revival of Rhodesian discourse.
+*Meredith, Martin. ''Mugabe: Power, Plunder, and the Struggle for Zimbabwe's Future'' (2007) [http://www.amazon.com/dp/B003STCO04/ excerpt and text search]
+* Smith, Ian Douglas. ''Bitter Harvest: Zimbabwe and the Aftermath of its Independence'' (2008) [http://www.amazon.com/dp/1857826043/ excerpt and text search]
+* Peter Orner and Annie Holmes ''Hope Deferred: NARRATIVES OF ZIMBABWEAN LIVES''(2011) [http://www.voiceofwitness.org/hope-deferred/ excerpts]
+
+== External links ==
+{{Sister project links}}
+* {{Dmoz|Regional/Africa/Zimbabwe}}
+* [http://www.bbc.co.uk/news/world-africa-14113249 Zimbabwe profile] from the [[BBC News]]
+* {{wikiatlas|Zimbabwe}}
+* {{CIA World Factbook link|zi|Zimbabwe}}
+* [http://reliefweb.int/rw/dbc.nsf/doc104?OpenForm&amp;rc=1&amp;cc=zwe Humanitarian information coverage on ReliefWeb]
+* [http://ucblibraries.colorado.edu/govpubs/for/zimbabwe.htm Zimbabwe] from ''UCB Libraries GovPubs''
+* [http://report.globalintegrity.org/Zimbabwe Global Integrity Report: Zimbabwe]—anti-corruption policy scorecard
+* [http://www.parlzim.gov.zw/ Parliament of Zimbabwe]—official government site
+* [http://www.zim.gov.zw/ Zimbabwe Government Online] official government mirror site
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-z/zimbabwe.html Chief of State and Cabinet Members]
+* {{Wikitravel}}
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=ZW Key Development Forecasts for Zimbabwe] from [[International Futures]]
+* [http://www.voiceofwitness.org/hope-deferred Voice of Witness] – Narratives of Zimbabweans whose lives have been  affected by the country’s political,economic and human rights crises
+{{Zimbabwean topics}}
+{{Navboxes
+|state=collapsed
+|title={{Resize|105%|Geographic locale}}
+|list=
+{{Africa}}
+{{Geography of Zimbabwe}}
+{{Niger-Congo-speaking nations}}
+}}
+{{Navboxes
+|state=collapsed
+|title={{Resize|105%|International membership}}
+|list=
+{{G15}}
+{{Southern African Development Community}}
+{{African Union}}
+}}
+{{Navboxes
+|state=collapsed
+|title={{Resize|105%|History}}
+|list=
+{{Territories of the British Empire}}
+{{Languages of Zimbabwe}}
+}}
+
+{{good article}}
+
+[[Category:Zimbabwe| ]]
+[[Category:African countries]]
+[[Category:Bantu countries and territories]]
+[[Category:English-speaking countries and territories]]
+[[Category:G15 nations]]
+[[Category:Landlocked countries]]
+[[Category:Least developed countries]]
+[[Category:Member states of the African Union]]
+[[Category:Member states of the United Nations]]
+
+[[af:Zimbabwe]]
+[[als:Simbabwe]]
+[[am:ዚምባብዌ]]
+[[ang:Simbabwe]]
+[[ar:زيمبابوي]]
+[[an:Zimbabwe]]
+[[frp:Zimbaboue]]
+[[ast:Zimbabue]]
+[[az:Zimbabve]]
+[[bm:Zimbabwe]]
+[[bn:জিম্বাবুয়ে]]
+[[bjn:Zimbabwe]]
+[[zh-min-nan:Zimbabwe]]
+[[be:Зімбабвэ]]
+[[be-x-old:Зымбабвэ]]
+[[bcl:Simbabwe]]
+[[bg:Зимбабве]]
+[[bar:Simbabwe]]
+[[bo:ཛིམ་བབ་ཝི།]]
+[[bs:Zimbabve]]
+[[br:Zimbabwe]]
+[[ca:Zimbabwe]]
+[[cv:Зимбабве]]
+[[ceb:Zimbabwe]]
+[[cs:Zimbabwe]]
+[[ny:Zimbabwe]]
+[[sn:Zimbabwe]]
+[[cy:Zimbabwe]]
+[[da:Zimbabwe]]
+[[de:Simbabwe]]
+[[dv:ޒިމްބާބުވޭ]]
+[[nv:Hooghan Tsé Bee Ádaalyaaí Bikéyah]]
+[[dz:ཛིམ་བབ་ཝེ་]]
+[[et:Zimbabwe]]
+[[el:Ζιμπάμπουε]]
+[[es:Zimbabue]]
+[[eo:Zimbabvo]]
+[[ext:Zimbagüi]]
+[[eu:Zimbabwe]]
+[[ee:Zimbabwe]]
+[[fa:زیمبابوه]]
+[[hif:Zimbabwe]]
+[[fo:Simbabvi]]
+[[fr:Zimbabwe]]
+[[fy:Simbabwe]]
+[[ga:An tSiombáib]]
+[[gv:Yn Çhimbabwe]]
+[[gag:Zimbabve]]
+[[gd:Siombabue]]
+[[gl:Cimbabue - Zimbabwe]]
+[[ki:Zimbabwe]]
+[[hak:Sîn-pâ-pu-vî]]
+[[xal:Зимбабвудин Орн]]
+[[ko:짐바브웨]]
+[[hy:Զիմբաբվե]]
+[[hi:ज़िम्बाब्वे]]
+[[hsb:Simbabwe]]
+[[hr:Zimbabve]]
+[[io:Zimbabwe]]
+[[ilo:Zimbabwe]]
+[[bpy:জিম্বাবুয়ে]]
+[[id:Zimbabwe]]
+[[ie:Zimbabwe]]
+[[os:Зимбабве]]
+[[zu:IZimbabwe]]
+[[is:Simbabve]]
+[[it:Zimbabwe]]
+[[he:זימבבואה]]
+[[jv:Zimbabwe]]
+[[kn:ಜಿಂಬಾಬ್ವೆ]]
+[[pam:Zimbabwe]]
+[[ka:ზიმბაბვე]]
+[[kk:Зимбабве]]
+[[kw:Zimbabwe]]
+[[rw:Zimbabwe]]
+[[sw:Zimbabwe]]
+[[kg:Zimbabwe]]
+[[ht:Zimbabwe]]
+[[ku:Zîmbabwe]]
+[[mrj:Зимбабве]]
+[[ltg:Zimbabve]]
+[[la:Zimbabua]]
+[[lv:Zimbabve]]
+[[lb:Simbabwe]]
+[[lt:Zimbabvė]]
+[[lij:Zimbabwe]]
+[[li:Zimbabwe]]
+[[ln:Zimbabwe]]
+[[jbo:zimbabues]]
+[[lmo:Zimbabwe]]
+[[hu:Zimbabwe]]
+[[mk:Зимбабве]]
+[[ml:സിംബാബ്‌വെ]]
+[[mt:Żimbabwe]]
+[[mr:झिंबाब्वे]]
+[[arz:زيمبابوى]]
+[[mzn:زیمبابوه]]
+[[ms:Zimbabwe]]
+[[mn:Зимбабве]]
+[[my:ဇင်ဘာဘွေနိုင်ငံ]]
+[[nah:Zimbabhue]]
+[[nl:Zimbabwe]]
+[[ne:जिम्बाब्वे]]
+[[ja:ジンバブエ]]
+[[ce:Зимбабве]]
+[[no:Zimbabwe]]
+[[nn:Zimbabwe]]
+[[nov:Zimbabwe]]
+[[oc:Zimbabwe]]
+[[or:ଜିମ୍ବାୱେ]]
+[[uz:Zimbabve]]
+[[pnb:زمبابوے]]
+[[pap:Zimbabwe]]
+[[ps:زېمبابوې]]
+[[pms:Zimbabwe]]
+[[nds:Simbabwe]]
+[[pl:Zimbabwe]]
+[[pt:Zimbabwe]]
+[[kaa:Zimbabve]]
+[[crh:Zimbabve]]
+[[ksh:Simbabwe]]
+[[ro:Zimbabwe]]
+[[qu:Simbabwi]]
+[[ru:Зимбабве]]
+[[sah:Зимбабуэ]]
+[[se:Zimbabwe]]
+[[sa:जिम्बाबवे]]
+[[sg:Zimbäbwe]]
+[[sc:Zimbabwe]]
+[[sco:Zimbabwe]]
+[[stq:Simbabwe]]
+[[nso:Zimbabwe]]
+[[tn:Zimbabwe]]
+[[sq:Zimbabveja]]
+[[scn:Zimbabbui]]
+[[si:සිම්බාබ්වේ]]
+[[simple:Zimbabwe]]
+[[ss:IZimbabhwe]]
+[[sk:Zimbabwe]]
+[[sl:Zimbabve]]
+[[szl:Zimbabwe]]
+[[so:Simbaabwi]]
+[[ckb:زیمبابوی]]
+[[sr:Зимбабве]]
+[[sh:Zimbabve]]
+[[su:Zimbabwé]]
+[[fi:Zimbabwe]]
+[[sv:Zimbabwe]]
+[[tl:Simbabwe]]
+[[ta:சிம்பாப்வே]]
+[[tt:Зимбабве]]
+[[te:జింబాబ్వే]]
+[[th:ประเทศซิมบับเว]]
+[[ti:ዚምባብዌ]]
+[[tg:Зимбабве]]
+[[chy:Zimbabwe]]
+[[ve:Zimbagwe]]
+[[tr:Zimbabve]]
+[[uk:Зімбабве]]
+[[ur:زمبابوے]]
+[[ug:زىمبابۋې]]
+[[vec:Zinbàbue]]
+[[vi:Zimbabwe]]
+[[vo:Zimbabiyän]]
+[[fiu-vro:Zimbabwe]]
+[[zh-classical:辛巴威]]
+[[war:Zimbabwe]]
+[[wo:Simbaawee]]
+[[wuu:津巴布韦]]
+[[ts:Zimbabwe]]
+[[yi:זימבאבווע]]
+[[yo:Sìmbábúè]]
+[[zh-yue:津巴布韋]]
+[[diq:Zimbabwe]]
+[[bat-smg:Zėmbabvė]]
+[[zh:辛巴威]]</text>
+      <sha1>s8pyjfyyg88n5k53bg10wf6k44ou7vw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

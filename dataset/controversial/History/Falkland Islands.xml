@@ -1,0 +1,837 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Falkland Islands</title>
+    <ns>0</ns>
+    <id>7550182</id>
+    <revision>
+      <id>520434223</id>
+      <parentid>519997041</parentid>
+      <timestamp>2012-10-29T14:51:17Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>8066546</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.3) (Robot: Adding [[tl:Kapuluang Falkland]]</comment>
+      <text xml:space="preserve" bytes="98245">{{Redirect2|Falklands|Malvinas|other uses of Falklands|Falkland (disambiguation)|other uses of Malvinas|Malvinas (disambiguation)}}
+{{pp-protected|expiry=2013-01-21T12:03:44Z|small=yes}}
+&lt;!--Do not edit this article to include or remove any Spanish names without first discussing it on Talk. Any substantial changes without consensus on Talk may result in an immediate block from editing.--&gt;
+{{Infobox country
+|conventional_long_name = Falkland Islands
+|common_name = Falkland Islands
+|demonym = Falkland Islander
+|image_flag = Flag of the Falkland Islands.svg
+|image_coat = Coa Falkland.svg
+|symbol = Coat of arms of the Falkland Islands
+|image_map = Falkland Islands in United Kingdom.svg
+|national_motto = &quot;Desire the right&quot;
+|national_anthem = &quot;[[God Save the Queen]]&quot; (official)&lt;br /&gt;&quot;[[Song of the Falklands]]&quot;{{Ref label|anthem-note|a|}}
+|official_languages = [[English language|English]]
+|capital = [[Stanley, Falkland Islands|Stanley]]
+|latd=51 |latm=42 |latNS=S |longd=57 |longm=51 |longEW=W
+|largest_city = [[Stanley, Falkland Islands|Stanley]]
+|ethnic_groups = 61% [[Falkland Islander]]{{Ref label|islander-note|b|}}&lt;br /&gt; 29% British &lt;br /&gt; 2.6% [[Spanish people|Spanish]] &lt;br /&gt; 0.6% Japanese &lt;br /&gt; 6.5% [[Chile]]an &amp; Other&lt;ref&gt;{{cite web|author=Joshua Project |url=http://www.joshuaproject.net/countries.php?rog3=FK |title=Ethnic People Groups of Falkland Islands |publisher=Joshua Project |date= |accessdate=28 February 2010}}&lt;/ref&gt;
+|government_type = [[British Overseas Territories|British Overseas Territory]] ([[constitutional monarchy]] and [[parliamentary system|parliamentary]] [[representative democracy|democratic]] [[Dependent territory|dependency]])
+|leader_title1 = [[Monarchy of the United Kingdom|Monarch]]
+|leader_name1 = [[Elizabeth II]]
+|leader_title2 = [[Governor of the Falkland Islands|Governor]]
+|leader_name2 = [[Nigel Haywood]]&lt;ref name=HaywoodGovernor/&gt;
+|leader_title3 = [[Chief Executive of the Falkland Islands|Chief Executive]]
+|leader_name3 = [[Keith Padgett]]&lt;ref&gt;{{cite news|url=http://www.penguin-news.com/index.php/news/politics/item/278-new-chief-executive-for-falkland-islands-government |title=New Chief Executive for Falkland Islands Governmen | first = Janet | last = Robertson | authorlink = Janet Robertson |date=6 March 2012 |newspaper=[[Penguin News]] |publisher= |accessdate=6 March 2012}}&lt;/ref&gt;
+|legislature = [[Legislative Assembly of the Falkland Islands|Legislative Assembly]]
+|area_rank = 162nd
+|area_magnitude = 1 E10
+|area_km2 = 12,173
+|area_sq_mi = 4,700 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|percent_water = 0
+|population_estimate = 3,140&lt;ref name=cia&gt;{{cite web
+ |url = https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html
+ |title = Falkland Islands (Islas Malvinas)
+ |publisher=CIA
+ |accessdate =5 March 2010}}&lt;/ref&gt;
+|population_estimate_rank = 220th
+|population_estimate_year = July 2008
+|population_census =
+|population_census_year =
+|population_density_km2 = 0.26
+|population_density_sq_mi = 0.65 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|population_density_rank = 241st
+|GDP_PPP = $75&amp;nbsp;million
+|GDP_PPP_rank = 223rd
+|GDP_PPP_year = 2005
+|GDP_PPP_per_capita = $55,400 (2002 estimate)&lt;ref name=&quot;CIA&quot;&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html CIA World Factbook 2012.]&lt;/ref&gt;
+|GDP_PPP_per_capita_rank = 7th
+|sovereignty_type = [[History of the Falkland Islands|Establishment]]
+|established_event1 = [[Re-establishment of British rule on the Falkland Islands|British rule re-established]]
+|established_date1 = 1833
+|established_event2 = [[Crown Colony]]
+|established_date2 = 1841
+|established_event3 = [[British Nationality Act 1981|British&amp;nbsp;Dependent&amp;nbsp;Territory]] 
+|established_date3 = 1981{{Ref label|establishment-note|e|}}
+|established_event4 = [[British Overseas Territories|British Overseas Territory]] 
+|established_date4 = 2002
+|established_event5 = [[Constitution of the Falkland Islands|Current Constitution]]
+|established_date5 = 2009
+|HDI = n/a
+|HDI_rank =
+|HDI_year =
+|HDI_category =
+|currency = [[Falkland Islands pound]]{{Ref label|currency-note|c|}}
+|currency_code = FKP
+|iso3166code = FK
+|time_zone = [[Falkland Islands Time|FKT]]{{Ref label|time-note|d|}}
+|utc_offset = −4
+|time_zone_DST = [[Falkland Islands Summer Time|FKST]]
+|utc_offset_DST = −3
+|cctld = [[.fk]]
+|calling_code = 500
+|drives_on = left
+|footnotes =
+a. {{note|anthem-note}} &quot;[[Song of the Falklands]]&quot; is used as the islands' anthem at sporting events.&lt;br /&gt;
+b. {{note|islander-note}} The majority are of British origin.&lt;br /&gt;
+c. {{note|currency-note}} Fixed to the [[Pound sterling|Pound sterling (GBP)]].&lt;br&gt;
+d. {{note|time-note}} The Falklands has been on FKST since September 2010.&lt;ref&gt;{{cite news |url=http://en.mercopress.com/2011/03/31/falkland-islands-will-remain-on-summer-time-throughout-2011 |title=Falkland Islands will remain on summer time throughout 2011 |author= |date=31 March 2011 |newspaper=[[MercoPress]] |publisher= |accessdate=4 February 2012}}&lt;/ref&gt;&lt;br&gt;
+e. {{note|establishment-note}} Interrupted by [[Occupation of the Falkland Islands|Argentine military government]] in 1982}}
+&lt;!-- READ THIS FIRST!
+The first sentence has been established as a compromise consensus between many editors in a long and difficult discussion (see talk page). Trying to change the sentence will be reverted on sight without discussion by many of the editors part of the discussion. If you have overriding NEW arguments, please bring them to the talk page first!
+--&gt;
+The '''Falkland Islands''' ({{IPAc-en|ˈ|f|ɒ|l|k|l|ən|d}} or {{IPAc-en|ˈ|f|ɔː|l|k|l|ən|d}}; {{lang-es|Islas Malvinas}}) are an [[archipelago]] in the South [[Atlantic Ocean]], located more than {{convert|250|nmi|lk=on|abbr=off}} east of the coast of mainland [[South America]]. The archipelago which has an area of 4,700 square miles (12,173&amp;nbsp;km&lt;sup&gt;2&lt;/sup&gt;) comprises [[East Falkland]], [[West Falkland]], and 776 smaller islands. [[Stanley, Falkland Islands|Stanley]], the capital and only city, is on East Falkland. The islands, a [[British Overseas Territories|British Overseas Territory]], enjoy a large degree of [[self-governing|internal self-government]] with the [[United Kingdom]] guaranteeing good government and taking responsibility for their defence and foreign affairs.
+
+Controversy exists over the Falklands' original discovery and subsequent colonisation by Europeans. At various times there have been French, British, Spanish, and Argentine settlements. Britain [[Re-establishment of British rule on the Falkland Islands|re-established its rule in 1833]], though the islands continue to be [[Falkland Islands sovereignty dispute|claimed]] by [[Argentina]]. In 1982, following Argentina's [[1982 invasion of the Falkland Islands|invasion of the islands]], the two-month-long undeclared [[Falklands War]] between both countries resulted in the surrender of all Argentine forces and the return of the islands to British administration.
+
+The population, estimated at 3,140, primarily consists of native [[Falkland Islanders]], the majority being of British descent. Other ethnicities include French, [[Gibraltarian people|Gibraltarian]], and [[Scandinavia]]n. Immigration from the United Kingdom, [[Saint Helena]], and [[Chile]] has reversed a former population decline. The predominant and official language is English. Under the [[British Nationality (Falkland Islands) Act 1983|British Nationality Act of 1983]], Falkland Islanders are legally [[British nationality law|British citizens]].
+
+The islands lie on the boundary of the [[Oceanic climate|Subarctic maritime climate]] and [[Oceanic climate|Temperate maritime climate]] zones with both major islands having mountain ranges reaching to {{convert|700|m|ft}}. The islands are home to large bird populations, although many no longer breed on the main islands due to introduced species. Major economic activities include [[fishery|fishing]], [[tourism]], sheep farming with an emphasis on high-quality wool exports, and oil exploration. Oil exploration, licensed by the [[Falkland Islands Government]], remains controversial as a result of maritime disputes with Argentina.
+
+==Etymology==
+{{See also|List of Falkland Islands placenames}}
+
+The Falkland Islands took their English name from &quot;Falkland Sound&quot;, the channel between the two main islands, which was in turn named after [[Anthony Cary, 5th Viscount of Falkland]], by Captain [[John Strong (mariner)|John Strong]], who landed on the islands in 1690.&lt;ref&gt;{{Cite journal |last=Pepper |first=Peter J |title=Port Desire and the Discovery of the Falklands |journal=Falkland Islands Newsletter |edition=78 |year=2001 |month=March |url=http://www.falklands.info/history/histarticle19.html |accessdate=6 March 2010}}&lt;/ref&gt; The Spanish name, ''las (Islas) Malvinas'',&lt;ref name=&quot;WordReference&quot;&gt;{{cite web|url=http://www.wordreference.com/es/translation.asp?tranword=Falklands&amp;B10=Buscar&amp;dict=enes |title=Falklands |publisher=WordReference.com |accessdate=15 March 2010}}&lt;/ref&gt; is derived from the French name,&lt;ref name=&quot;Malouines&quot;&gt;{{cite web
+|url=http://www.falklands.info/history/history2.html
+|title=Part 2 – Fort St. Louis and Port Egmont
+|work = A Brief History of the Falkland Islands
+|publisher=Falkland Islands Information Portal
+|accessdate=17 August 2011}}&lt;/ref&gt; ''Îles Malouines'', named by [[Louis Antoine de Bougainville]] in 1764 after the first known settlers, mariners and fishermen from the [[Brittany|Breton]] port of [[Saint-Malo]] in France.&lt;ref name=&quot;Malouines&quot;/&gt; The [[ISO 3166|ISO]] designation is ''Falkland Islands (Malvinas)'' and its ISO country code is ''FK''.&lt;ref&gt;{{cite web|url=http://www.iso.org/iso/country_codes/iso_3166_code_lists/country_names_and_code_elements.htm|title=Country names and code elements |publisher=International Organization for Standardization |accessdate=17 August 2011}}&lt;/ref&gt;
+
+As a result of the [[Falkland Islands sovereignty dispute|sovereignty dispute]], the use of many Spanish names is considered offensive in the Falkland Islands, particularly those associated with the [[Falklands War|1982 invasion of the Falkland Islands]].&lt;ref&gt;{{cite web|url=http://www.falklands.info/background/99agree.html |title=Agreement of 14th July 1999 |publisher=Falklands.info |accessdate=23 July 2007}}&lt;/ref&gt; General Sir [[Jeremy Moore]] would not allow the use of ''Islas Malvinas'' in the [[Falklands War Argentine surrender|surrender document]], dismissing it as a [[propaganda]] term.&lt;ref&gt;{{cite web|url=http://www.psywar.org/falklands.php |title=PSYOP of the Falkland Islands War |publisher=Psywar.org |accessdate=23 July 2007}}&lt;/ref&gt;
+
+==History==
+===Prior to the Falklands War===
+{{Main|History of the Falkland Islands|Timeline of the history of the Falkland Islands}}
+
+Controversy exists as to who first discovered the Falkland Islands, with competing Portuguese, Spanish, and British claims in the 16th century.&lt;ref name=FI-H-00&gt;{{cite news|url=http://www.guardian.co.uk/uk/blog/2012/feb/02/who-first-owned-falkland-islands? |title=Who first owned the Falkland Islands? |publisher=The Guardian |date= 2 February 2012 |accessdate=11 February 2012}}&lt;/ref&gt;&lt;ref&gt;[[#Goebel|Goebel, 1971]], pp.&amp;nbsp;xiv–xv&lt;/ref&gt; While [[Amerindian]]s from [[Patagonia]] could have visited the Falklands,&lt;ref&gt;{{cite journal
+| author = G. Hattersley-Smith
+| year = 1983
+| month = June
+| title = Fuegian Indians in the Falkland Islands
+| journal = Polar Record
+| volume = 21
+| issue = 135
+| pages = 605–606
+| publisher = [[Cambridge University Press]]
+| doi = 10.1017/S003224740002204X
+| accessdate =1 February 2012
+| url = http://journals.cambridge.org/action/displayAbstract;jsessionid=C6D4151001DCF6AE8937B936C8FDCC62.journals?fromPage=online&amp;aid=5400340
+| quote =
+}}&lt;/ref&gt; the islands were uninhabited when discovered by Europeans.&lt;ref&gt;{{cite web|url=http://www.everyculture.com/Cr-Ga/Falkland-Islands.html |title=Culture of Falkland Islands – history, people, clothing, beliefs, food, life, immigrants, population, religion |accessdate=17 March 2011}}&lt;/ref&gt; The first reliable sighting is usually attributed to the Dutch explorer [[Sebald de Weert]] in 1600, who named the archipelago the Sebald Islands, a name they bore on Dutch maps into the 19th century.&lt;ref&gt;[[#Goebel|Goebel, 1971]], pp.&amp;nbsp;45–46&lt;/ref&gt;
+
+In 1690, Captain [[John Strong (mariner)|John Strong]] of the ''Welfare'' en route to [[Puerto Deseado]] was driven off course and reached the Falkland Islands instead, landing at Bold Cove. Sailing between the two principal islands, he called the passage &quot;Falkland Channel&quot; (now [[Falkland Sound]]), after Anthony Cary, 5th Viscount of Falkland, who as Commissioner of the [[Admiralty]] had financed the expedition. The island group takes its English name from this body of water.&lt;ref name=&quot;Falklands_Info&quot;&gt;{{cite web|url=http://www.falklands.info/history/history1.html |title=The Discovery of the Falkland Islands |accessdate=28 March 2011}}&lt;/ref&gt;
+
+[[File:John Byron-Joshua Reynolds-1759 .jpg|thumb|upright|[[John Byron]], by [[Joshua Reynolds]], 1759.]]
+In 1764, [[France|French navigator]] and military commander [[Louis Antoine de Bougainville]] founded the first settlement on Berkeley Sound, in present-day [[Port Louis, Falkland Islands|Port Louis]], [[East Falkland]].&lt;ref&gt;[[#Goebel|Goebel, 1971]], pp.&amp;nbsp;226&lt;/ref&gt; In 1765, British captain [[John Byron]] explored and claimed [[Saunders Island, Falkland Islands|Saunders Island]] on [[West Falkland]], where he named the harbour [[Port Egmont]] and a settlement was constructed in 1766.&lt;ref&gt;[[#Goebel|Goebel, 1971]], pp.&amp;nbsp;232,269&lt;/ref&gt; Unaware of the French presence, Byron claimed the island group for [[George III of the United Kingdom|King George III]]. Spain acquired the French colony in 1767, and placed it under a governor subordinate to the [[Governorate of the Río de la Plata#Buenos Aires Province governors|Buenos Aires colonial administration]]. In 1770, Spain attacked Port Egmont and expelled the British presence, [[Falklands Crisis (1770)|bringing the two countries to the brink of war]]. War was avoided by a peace treaty and the British return to Port Egmont.&lt;ref name=&quot;briefhistory2&quot;&gt;{{cite web|url=http://www.falklands.info/history/history2.html |title=A brief history of the Falkland Islands Part 2 – Fort St. Louis and Port Egmont |publisher=Falklands.info |accessdate=8 September 2007}}&lt;/ref&gt;
+
+In 1774, economic pressures leading up to the [[American Revolutionary War]] forced Great Britain to withdraw from many overseas settlements.&lt;ref name=&quot;briefhistory2&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.falklands.info/history/timeline.html |title=Falkland Islands Timeline: A chronology of events in the history of the Falkland Islands |publisher=Falklands.info |accessdate=25 August 2011}}&lt;/ref&gt; Upon withdrawal, the British left behind a [[commemorative plaque|plaque]] asserting Britain's continued claim. Spain maintained its governor until 1806 who, on his departure, left behind a plaque asserting Spanish claims. The remaining settlers were withdrawn in 1811.&lt;ref name=&quot;briefhistory2&quot;/&gt;
+
+In 1820, storm damage forced the [[privateer]] [[Heroína (ship)|''Heroína'']] to take shelter in the islands.&lt;ref name=&quot;Tatham pp. 308-309&quot;&gt;[[#Tatham|Tatham, 2008]], pp.&amp;nbsp;308–309&lt;/ref&gt; Her captain [[David Jewett]] raised the flag of the [[United Provinces of the River Plate]] and read a proclamation claiming the islands.&lt;ref name=&quot;Tatham pp. 308-309&quot;/&gt; This became public knowledge in [[Buenos Aires]] nearly a year later after the proclamation was published in the ''Salem Gazette''.&lt;ref name=&quot;Tatham pp. 308-309&quot;/&gt; After several failures, [[Luis Vernet]] established a settlement in 1828 with authorisation from the Republic of Buenos Aires and from Great Britain.&lt;ref name=&quot;Tatham&quot;&gt;{{cite book|chapter = Luis Vernet| last = Peter Pepper| first = Graham Pascoe  |editor=David Tatham|title=The Dictionary of Falklands Biography (Including South Georgia): From Discovery Up to 1981|url=http://books.google.com/books?id=0D0VNAAACAAJ|accessdate=15 August 2011|date=1 June 2008|publisher=D. Tatham|isbn=978-0-9558985-0-1|pages=540–546}}&lt;/ref&gt; In 1829, after asking for help from Buenos Aires, he was instead proclaimed Military and Civil Commander of the islands.&lt;ref name=&quot;Tatham&quot;/&gt; Additionally, Vernet asked the British to protect his settlement if they returned.&lt;ref&gt;{{cite book|author=Mary Cawkell|title=The history of the Falkland Islands|url=http://books.google.com/books?id=YG8VAAAACAAJ|accessdate=4 March 2012|date=31 August 2001|publisher=Anthony Nelson|isbn=978-0-904614-55-8|page=50}} ''&quot;On this visit he met Woodbine Parish who expressed great interest in his venture and asked Vernet to prepare a full report on the islands to submit to the British government.  On his side Vernet expressed the wish that, in the event of the British returning to the islands, HMG would take his settlement under their protection.&quot;''&lt;/ref&gt;
+
+A dispute over fishing and hunting rights resulted in a raid by the [[United States Navy|US]] warship [[USS Lexington (1825)|USS ''Lexington'']] in 1831.&lt;ref name=&quot;Tatham pp. 544&quot;&gt;{{cite book|chapter = Luis Vernet| last = Peter Pepper| first = Graham Pascoe |editor=David Tatham|title=The Dictionary of Falklands Biography (Including South Georgia): From Discovery Up to 1981|url=http://books.google.com/books?id=0D0VNAAACAAJ|accessdate=15 August 2011|date=1 June 2008|publisher=D. Tatham|isbn=978-0-9558985-0-1|pages=541–544}}&lt;/ref&gt;&lt;ref name=&quot;briefhistory3&quot;&gt;{{cite web|url=http://www.falklands.info/history/history3.html |title=A brief history of the Falkland Islands Part 3 |publisher=Falklands.info |accessdate=14 May 2011}}&lt;/ref&gt; The log of the ''Lexington'' reports only the destruction of arms and a powder store, but [[Luis Vernet#Vernet's role in the dispute over the Falkland Islands|Vernet]] made a  claim for compensation from the US Government  stating that the settlement was destroyed.&lt;ref name=&quot;Tatham pp. 544&quot;/&gt; (Compensation was rejected by the US Government of President Cleveland in 1885.)  The islands were declared free from all government, the seven senior members of the settlement were arrested for piracy&lt;ref&gt;{{cite web|url=http://www.ussduncan.org/silas_page13.htm |title=Silas Duncan and the Falklands' Incident |publisher=USS Duncan Reunion Association |year=2001 |accessdate=25 August 2011 |quote=The letters show that the USS Lexington, under the command of Silas Duncan, visited the Falklands in December, 1831, to investigate complaints by American fishermen that a &quot;band of pirates&quot; was operating from the islands. After finding what he considered proof that at least four American fishing ships had been captured, plundered, and even outfitted for war, Duncan took seven prisoners aboard Lexington and charged them with piracy. The leaders of the prisoners was Louis Vernet, a German, and Matthew Brisbane, an Englishman both of Buenos Aries.}}&lt;/ref&gt; and taken to [[Montevideo]],&lt;ref name=&quot;briefhistory3&quot;/&gt; where they were released without charge on the orders of Commodore Rogers.&lt;ref&gt;[[#Tatham|Tatham, 2008]], pp.&amp;nbsp;117&lt;/ref&gt;
+
+In November 1832, Argentina sent Commander Mestivier as an interim commander to found a penal settlement, but he was killed in a [[mutiny]] after four days.&lt;ref&gt;{{cite web|url=http://www.falklands.gov.fk/Historical_Dates.html |title=Historical Dates |publisher=Falkland Islands Government |accessdate=20 December 2010}}&lt;/ref&gt; The following January, British forces returned and requested the Argentine garrison leave. Don Pinedo, captain of the ARA ''Sarandi'' and senior officer present, protested but ultimately complied. Vernet's settlement continued, with the [[Ireland|Irishman]] [[William Dickson (Falklands)|William Dickson]]&lt;ref&gt;{{cite web
+|url=http://www.irlandeses.org/fmi.htm
+|title = The Irish in Falkland/Malvinas Islands
+|publisher = [[Society for Irish Latin American Studies]]
+|author = Edmundo Murray
+|accessdate =28 March 2012
+|date = 1 November 2005}}&lt;/ref&gt; tasked with raising the British flag for passing ships. Vernet's deputy, [[Matthew Brisbane]], returned and was encouraged by the British to continue the enterprise.&lt;ref&gt;[[s:Charles Darwin in the Falklands, 1833|Charles Darwin in the Falklands, 1833 (Extracts from Darwin's Diary)]]&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://darwin-online.org.uk/content/frameset?itemID=EHBeagleDiary&amp;viewtype=text&amp;pageseq=304&amp;keywords=falklands |title=Darwin's Beagle Diary (1831–1836)|page=304|publisher=The Complete Works of Charles Darwin Online|accessdate=23 July 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.cpel.uba.ar/filargenta/correo/malv0020.htm |title=Ocupación británica: Port Stanley (Puerto Argentino) |publisher=Escuela Superior de Comercio Carlos Pellegrini |language=Spanish |accessdate=23 July 2007}}&lt;/ref&gt; The settlement continued until August 1833, when the leaders were killed in the so-called [[Antonio Rivero|Gaucho murders]]. Subsequently, from 1834 the islands were governed as a British naval station until 1840 when the British Government decided to establish a permanent colony.&lt;ref&gt;{{cite web | url = http://www.falklands.info/history/history4.html | title = A Brief History of the Falkland Islands, Part 4 – The British Colonial Era | accessdate =2 September 2011 | last = Lewis | first = Jason | coauthors = Alison Inglis | quote = In 1839 a British merchant adventurer, G.T. Whittington, formed the Falkland Islands Commercial Fishery and Agricultural Association and tried to put pressure on the British government to proceed with the colonisation of the Falkland Islands. He published a leaflet entitled 'The Falkland Islands' containing material acquired indirectly from Vernet, and then presented to the government a petition signed by owner a hundred London merchants, shipowners and traders demanding that a public meeting be held to discuss the future of the Falkland Islands. In April 1840 he wrote to the Colonial Secretary, Lord Russell, proposing that the islands be colonised by his Association. In May the Colonial Land and Emigration Commissioners decided that the Falkland Islands were suitable for colonisation. }}&lt;/ref&gt;
+
+[[File:stan 001.jpg|right|thumb|Road sign to the capital]]
+A new harbour was built in Stanley,&lt;ref&gt;[[#Tatham|Tatham, 2008]], pp.&amp;nbsp;382&lt;/ref&gt; and the islands became a strategic point for navigation around [[Cape Horn]]. A [[World War I]] naval battle, the [[Battle of the Falkland Islands]], took place in December 1914, with a British victory over the smaller [[Imperial German]] Asiatic Fleet.&lt;ref&gt;[[#Tatham|Tatham, 2008]], pp.&amp;nbsp;510–511&lt;/ref&gt; During [[World War II]], Stanley served as a Royal Navy station and serviced ships which took part in the 1939 [[Battle of the River Plate]].&lt;ref&gt;{{cite web|url=http://www.nzetc.org/tm/scholarly/tei-WH2Navy-c4.html |title=CHAPTER 4 — The Battle of the River Plate |publisher=New Zealand Electronic Texts Centre |accessdate=28 March 2011}}&lt;/ref&gt;
+
+Sovereignty over the islands became an issue in the second half of the 20th century, when Argentina saw the creation of the [[UN]] as an opportunity to pursue its claim. Talks between British and Argentine foreign missions took place in the 1960s but failed to come to any meaningful conclusion. A major sticking point in all the negotiations was that the inhabitants preferred that the islands remain British territory.&lt;ref name=&quot;claim&quot;&gt;{{cite web|url=http://www.falklands.info/history/history5.html |title=A BRIEF HISTORY OF THE FALKLAND ISLANDS Part 5 – The Argentine Claim |publisher=Falklands.info |accessdate=28 March 2011}}&lt;/ref&gt;
+
+A result of these talks was the establishment of the islands' first air link. In 1971, the Argentine state airline [[LADE]] began a service between [[Comodoro Rivadavia]] and Stanley. A temporary strip was followed by the construction of a permanent airfield and flights between Stanley and Comodoro Rivadavia continued until 1982.&lt;ref name=&quot;LADE&quot;&gt;{{cite web|url=http://www1.hcdn.gov.ar/proyxml/expediente.asp?fundamentos=si&amp;numexp=4812-D-2006 |title=Líneas Aéreas Del Estado, LADE |publisher=Argentine National Congress, Chamber of Deputies |language=Spanish |date=25 August 2006 |accessdate=25 August 2011}}&lt;/ref&gt;&lt;ref name=&quot;Albatross&quot;&gt;{{cite web|url=http://www.asociacionatta.com.ar/aviones/avion30.htm |title=Grumman HU-16B Albatross |publisher=Asociación Tripulantes de Transporte Aéreo |language=Spanish |accessdate=25 August 2011}}&lt;/ref&gt;&lt;ref name=&quot;FAA&quot;&gt;{{cite web|url=http://www.asociacionatta.com.ar/aviones/avion23.htm |title=Fokker F-27 Troopship y Friendship |publisher=Asociación Tripulantes de Transporte Aéreo |language=Spanish |accessdate=25 August 2011}}&lt;/ref&gt; Further agreements gave [[YPF]], the Argentine national oil and gas company, a monopoly over the supply of the islands' energy needs.&lt;ref&gt;{{cite web | url = http://www.falklands.info/history/history5.html | title = A Brief History of the Falkland Islands, Part 5 – The Argentine Claim | accessdate =2 September 2011 | last = Lewis | first = Jason | coauthors = Alison Inglis | quote = In 1974 Britain and Argentina agreed that the islands would be supplied with petrol, diesel and oil by YPF, the Argentine State Oil Company, at mainland rates. Again, Islanders objected, increasingly uncomfortable at their economic dependence on Argentina.}}&lt;/ref&gt;
+
+===Falklands War and its aftermath===
+{{Main|Falklands War}}
+[[File:Argentine POWs guarded by 2 Para.jpg|thumb|left|British [[Parachute Regiment (United Kingdom)|paratroopers]] guard Argentine [[prisoners of war]]]]
+On 2 April 1982, Argentina [[1982 invasion of the Falkland Islands|invaded the Falkland Islands]] and [[South Georgia and the South Sandwich Islands|other British territories]] in the South Atlantic. The [[National Reorganization Process|military junta]] which had ruled Argentina since 1976 sought to maintain power by diverting public attention from the nation's [[National Reorganization Process#Economic policies|poor economic performance]] and the growing internal opposition and exploiting the long-standing feelings of the Argentines towards the islands.&lt;ref&gt;{{cite web|url=http://www.me.gov.ar/curriform/publica/sirlin_conv_dictadura.pdf |title=Las convocatorias nacionales de la última dictadura |publisher=Ministerio de Educación, Ciencia y Tecnología de la Nación |language=Spanish |date=18 September 2006 |accessdate=23 August 2011 |page=6}}&lt;/ref&gt; Several British writers hold that the United Kingdom's reduction in military capacity in the South Atlantic also encouraged the invasion.&lt;ref&gt;{{cite news |title=Guide to the conflict |work=Fight for the Falklands—20 years on |publisher=BBC News |url=http://news.bbc.co.uk/hi/english/static/in_depth/uk/2002/falklands/guide2.stm |quote=The Foreign Secretary, Lord Carrington, and two junior ministers had resigned by the end of the week &lt;nowiki&gt;[following the Argentine invasion]&lt;/nowiki&gt;. They took the blame for Britain's poor preparations and plans to decommission HMS ''Endurance'', the Navy's only Antarctic patrol vessel. It was a move which may have lead &lt;nowiki&gt;[sic]&lt;/nowiki&gt; the Junta to believe the UK had little interest in keeping the Falklands. |accessdate =18 March 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Secret Falklands fleet revealed |publisher=BBC News |quote=Lord Owen, who was foreign secretary in 1977, said that if Margaret Thatcher's Conservative government had taken similar action to that of five years earlier, the war would not have happened. |date=1 June 2005 |url=http://news.bbc.co.uk/1/hi/uk/4597581.stm |accessdate=18 March 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Casciani |first=Dominic |title=1976 Falklands invasion warning |publisher=BBC News |quote=The Franks Report into the eventual war noted that as tension mounted during 1977, the government covertly sent a small naval force to the islands—but did not repeat the move when relations worsened again in 1981–2. This has led some critics to blame prime minister Margaret Thatcher for the war, saying the decision to plan the withdrawal of the only naval vessel in the area sent the wrong signal to the military junta in Buenos Aires. |date=29 December 2006 |url=http://news.bbc.co.uk/1/hi/uk_politics/6213121.stm |accessdate=22 August 2011}}&lt;/ref&gt;
+
+The [[United Nations Security Council]] issued [[United Nations Security Council Resolution 502|Resolution 502]], calling on Argentina to withdraw forces from the islands and for both parties to seek a diplomatic solution.&lt;ref&gt;{{cite web|url=http://www.historycentral.com/HistoricalDocuments/UNReso502.html |title=UN Resolution 502 |publisher=Historycentral.com |accessdate=15 March 2010}}&lt;/ref&gt; International reaction ranged from support for Argentina in Latin American countries (except [[Chile]] and [[Colombia]]), to opposition in the [[Commonwealth of Nations|Commonwealth]] and Western Europe (apart from [[Spain]]&lt;ref&gt;{{cite book | first=Peter | last=Gold | title=Gibraltar, British or Spanish? | publisher=Routledge | year=2005 | isbn=0-415-34795-5 | url=http://books.google.es/books?id=u9YH_fLPu1MC&amp;lpg=PA37&amp;vq=Falklands&amp;hl=es&amp;pg=PA39#v=onepage&amp;q=Falklands/Malvinas&amp;f=false | page=39}}&lt;/ref&gt;). A divided United States administration, initially publicly neutral, eventually came out in support of the United Kingdom.&lt;ref&gt;{{cite web|url=http://web1.millercenter.org/poh/falklands/transcripts/falklands_2003_0515.pdf |title=The Falklands Roundtable |publisher=Miller Center, University of Virginia |date=16 May 2003 |accessdate=3 February 2012}}&lt;/ref&gt;
+
+The British sent an [[Expeditionary warfare|expeditionary force]] to retake the islands, leading to the Falklands War. After short but fierce naval and air battles, the British landed at [[San Carlos Water]] on 21 May, and a land campaign followed leading to the British taking the high ground surrounding Stanley on 11 June. The Argentine forces surrendered on 14 June 1982. The war resulted in the deaths of 255 British and 649 Argentine soldiers, sailors and airmen, as well as 3 civilian Falklanders.&lt;ref&gt;{{cite web
+|url = http://webarchive.nationalarchives.gov.uk/+/http://www.mod.uk/DefenceInternet/FactSheets/Falklands25BackgroundBriefing.htm
+|title = Falklands 25: Background Briefing
+|work = Defence Factsheet
+|publisher = United Kingdom Ministry of Defence
+|accessdate =28 March 2011}}&lt;/ref&gt;
+
+After the war, the British increased their military presence on the islands, constructing [[RAF Mount Pleasant]] and increasing the military garrison.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/hi/english/static/in_depth/uk/2002/falklands/guide7.stm |title=Guide to the conflict |work=Fight for the Falklands – Twenty Years On |publisher=BBC News |accessdate=23 August 2011}}&lt;/ref&gt; Although the United Kingdom and Argentina resumed diplomatic relations in 1990, no further negotiations on sovereignty have taken place.&lt;ref name=&quot;Briefing papers&quot;/&gt; Between 18,000 and 25,000 Argentine [[land mine]]s remain from the 1982 war dispersed in a number of minefields around Stanley, Port Howard, Fox Bay and Goose Green.&lt;ref name=&quot;Landmine Monitor&quot;&gt;{{cite web|url=http://lm.icbl.org/index.php/publications/display?url=lm/2002/falk_malv.html |title=FALKLANDS/MALVINAS |publisher=Landmine &amp; Cluster Munition Monitor |accessdate=27 July 2010}}&lt;/ref&gt; Information is available from the [[Explosive Ordnance Disposal]] Operation Centre in Stanley.&lt;ref name=&quot;Landmine Monitor&quot;/&gt; In 2009 mine clearance began at Surf Bay, and further clearances took place at Sapper Hill, Goose Green and Fox Bay. Further clearance work was due to begin in 2011.&lt;ref&gt;{{cite web|url=http://en.mercopress.com/2011/02/12/falklands-minefield-clearance-next-phase-moves-to-the-capital-stanley-common |title=Falklands’ minefield clearance next phase moves to the capital Stanley Common |accessdate =28 March 2011 |date=12 February 2011 |publisher=Mercopress}}&lt;/ref&gt;
+
+==Sovereignty dispute==
+{{Main|Falkland Islands sovereignty dispute}}
+[[File:Malvinas-cartel.JPG|thumb|A sign at the Argentine-Brazilian border, translated into English, proclaims &quot;The Malvinas are Argentine&quot;. Several signs like this exist in Argentina.]]
+Although the United Nations [[Special Committee on Decolonization]] includes the Falkland Islands on the [[United Nations list of Non-Self-Governing Territories]],&lt;ref&gt;{{cite web
+|url = http://www.un.org/News/Press/docs/2009/gaspd422.doc.htm
+|title = Remaining 16 Non-Self-Governing Territories on United Nations List Are &quot;16 Too Many&quot;, Fourth Committee Told, As It Takes Up Cluster of Decolonization Issues
+|date = 5 October 2009
+|publisher = Department of Public Information, United Nations
+|accessdate =17 May 2011}}&lt;/ref&gt; it has been asserted that the Falkland Islands is one of 16 territories which have too small a population &quot;to survive as viable, fully independent state.&quot;&lt;ref&gt;{{cite web
+|url = http://www.nationsencyclopedia.com/United-Nations/Independence-of-Colonial-Peoples-PROGRESS-OF-DECOLONIZATION.html
+|title = Independence of Colonial Peoples – Progress of decolonization
+|publisher = Encyclopedia of the Nations
+|accessdate =17 May 2011}}&lt;/ref&gt; Both the United Kingdom and the Argentine governments claim responsibility for the islands. The United Kingdom bases its claim on continuous administration of the islands since 1833 (apart from the [[Occupation of the Falkland Islands|Argentine military occupation in 1982]]) and the islanders’ &quot;right to self determination, including their right to remain British if that is their wish&quot;.&lt;ref&gt;{{cite web
+|url = http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/country-profile/south-america/falkland-islands/
+|title = Falkland Islands (British Overseas Territory)
+|publisher = United Kingdom Foreign and Commonwealth Office
+|work = Travel &amp; living abroad
+|accessdate =17 May 2011}}&lt;/ref&gt; Argentina claims that it acquired the islands from Spain when Argentina became independent in 1816 and that the United Kingdom exceeded their authority by allegedly expelling the Argentine settlers in 1833.&lt;ref name=AR_FA/&gt; The islanders reject the Argentine sovereignty claim.&lt;ref name=&quot;Scare&quot;&gt;{{cite news
+|url=http://www.telegraph.co.uk/news/worldnews/southamerica/7287195/Falkland-Islands-Argentina-cant-scare-us-say-islanders.html |title=Falkland Islands: Argentina can't scare us, say islanders
+|last=Leonard
+|first=Tom
+|newspaper=Daily Telegraph
+|date=22 February 2010
+|accessdate=23 August 2011}}&lt;/ref&gt;
+
+===Before the Falklands War===
+Shortly after the formation of the United Nations in 1945, Argentina asserted its right to sovereignty over the Falkland Islands and its dependencies. In 1947, the United Kingdom offered to submit the case over the [[Falkland Islands Dependencies]] to the [[International Court of Justice]] at The Hague, but Argentina refused the offer. A unilateral application by the United Kingdom in 1955 to the Court in respect of Argentine encroachment ended in deadlock when Argentina announced that it would not respect the decision of the court.&lt;ref&gt;{{cite web|archiveurl=http://web.archive.org/web/20110606073350/http://www.raf.mod.uk/falklands/preface.html |archivedate=6 June 2011 |url=http://www.raf.mod.uk/falklands/preface.html |work=The Falkland Islands – A history of the 1982 conflict |title=Preface to a conflict |publisher=Royal Air Force |accessdate=6 February 2012}}&lt;/ref&gt;
+
+In the late 1960s, as part of the United Kingdom's [[decolonisation]] policy, secret discussions were held by the British and Argentine governments to identify a means by which the United Kingdom could cede the islands to Argentina while protecting the rights and way of life of the islanders. Details of the talks were leaked and the islanders protested against the talks having taken place. Subsequently however, economic and transport links between Argentina and the islands were established, but the political situation remained unchanged.&lt;ref&gt;{{cite web
+|url = http://www.globalsecurity.org/military/library/report/1987/CRD.htm
+|title = &lt;nowiki&gt;The Argentine Seizure Of The Malvinas [Falkland] Islands: History and Diplomacy&lt;/nowiki&gt;
+|last = Chenette
+|first = Richard D
+|date = 4 May 1987
+|publisher = Marine Corps Staff and Command College}}&lt;/ref&gt; In April 1982 Argentine military forces invaded the islands, leading to the Falklands War.
+
+===After the Falklands War===
+The dispute over control of the islands has continued since the Falklands War,&lt;ref name=AR_FA&gt;{{cite web|url=http://www.cancilleria.gov.ar/portal/seree/malvinas/homeing.html |title=Islas Malvinas, Georgias del Sur y Sandwich del Sur |publisher=Secretaría de Relaciones Exteriores [Argentine Ministry of Foreign Affairs] |accessdate=6 March 2010}}&lt;/ref&gt; although diplomatic relations between Argentina and the UK were resumed in 1990.&lt;ref name=&quot;Briefing papers&quot;&gt;{{cite web|url=http://www.parliament.uk/briefing-papers/SN05602.pdf |title=Argentina and the Falkland Islands |publisher=House of Commons Library |date=22 June 2010 |accessdate=17 August 2011}}&lt;/ref&gt; In 1994 Argentina [[1994 reform of the Argentine Constitution|added its claim]] to the islands to the [[Constitution of Argentina|Argentine constitution]], stating that this claim must be pursued in a manner &quot;respectful of the way of life of their inhabitants and according to the principles of international law&quot;.&lt;ref&gt;{{cite web|url=http://pdba.georgetown.edu/Constitutions/Argentina/argen94_e.html |title=Argentina Constitution, Georgetown University |publisher=Georgetown University |date=16 July 2008 |accessdate=15 March 2010}}&lt;/ref&gt; Since the war, successive Argentine governments have stated their intention to pursue their claim to the islands by peaceful means. Kirchner, [[Argentine general election, 2003|campaigning for president]] in 2003, regarded the islands as a top priority, taking actions such as banning flights to the Falklands from Argentine airspace. In June 2003 the issue was brought before a United Nations committee, and attempts have been made to open talks with the United Kingdom to resolve the issue of the islands.&lt;ref name=&quot;Briefing papers&quot;/&gt;
+
+In 1998, in retaliation for the arrest in London of the former Chilean president [[Augusto Pinochet]], the [[Chile]]an government banned flights between [[Punta Arenas]] and Stanley, thus isolating the islands from the rest of the world. [[Uruguay]] and [[Brazil]] refused to authorise direct flights between their territories and Stanley. This forced the islands' government to enter negotiations with the Argentine government and led to Argentina authorising direct flights between its territory and Stanley, on condition that Argentine citizens be allowed on the islands.&lt;ref&gt;[http://falklands.info/history/99comm.html Falklands.info], Agreement of 14 July 1999&lt;/ref&gt;
+
+[[File:CFK y Gordon brown .jpg|thumb|left|alt=Christina Fernández shaking hands with Gordon Brown|Argentine President [[Cristina Kirchner]] with the then British Prime Minister [[Gordon Brown]] in 2009]]
+In 2007, 25 years after the war, Argentina reasserted its claim over the Falkland Islands, asking for the UK to resume talks on sovereignty.&lt;ref&gt;{{cite news |title=Argentina Reasserts Claim to Falkland Islands |date=3 January 2007 |publisher=Voice of America |url=http://voanews.com/english/archive/2007-01/2007-01-03-voa29.cfm |work=VOA News |pages = |accessdate=3 January 2009}}{{dead link|date=February 2012}}&lt;/ref&gt; In March 2009, British Prime Minister [[Gordon Brown]] stated in a meeting with Argentine President [[Cristina Fernández]] that there would be no talks over the future sovereignty of the Falkland Islands.&lt;ref name=&quot;Vinadelmar&quot;&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/7969463.stm |title=No talks on Falklands, says Brown |publisher=BBC News |date=28 March 2009 |accessdate=11 February 2012}}&lt;/ref&gt; As far as the governments of the UK and of the Falkland Islands are concerned, there is no issue to resolve. The Falkland Islanders consider themselves as almost entirely British and maintain their allegiance to the United Kingdom.&lt;ref&gt;
+{{cite news|title=Falkland Islands: Argentina can't scare us, say islanders |publisher=The Telegraph |location=London |url=http://www.telegraph.co.uk/news/worldnews/southamerica/7287195/Falkland-Islands-Argentina-cant-scare-us-say-islanders.html |date=22 February 2010 |accessdate=13 January 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.guardian.co.uk/uk/2009/mar/28/falkland-islands-sovereignty-argentina |title = Falkland Islands sovereignty talks out of the question, says Gordon Brown |work=The Guardian |location=London |date=28 March 2009 |accessdate=29 April 2009 |first=Nicholas |last=Watt}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.falklands.gov.fk/overview.php |title=Falkland Islands Government Overview |publisher=Falkland Islands Government |accessdate=15 March 2010}}&lt;/ref&gt;
+
+In October 2007 a British spokeswoman confirmed that Britain intended to submit a claim&lt;ref name=&quot;Reuters_Antartica&quot;&gt;
+{{cite news|first=Kate |last=Kelland |title=Britain to claim a million square km of Antarctica |url=http://uk.reuters.com/article/domesticNews/idUKL1721422020071017 |publisher=Reuters |date=18 October 2007 |accessdate=20 October 2007}}&lt;/ref&gt; to the UN to extend seabed territory around the Falklands and [[South Georgia and the South Sandwich Islands|South Georgia]], in advance of the expiry of the deadline&lt;ref name=&quot;Prof_Dodds&quot;&gt;{{cite news |first=Prof Klaus|last=Dodds|title=Icy imperialism or reinforcement of the Antarctic treaty? |url=http://politics.guardian.co.uk/foreignaffairs/story/0,,2194803,00.html |work=The Guardian | location=London|date=19 October 2007 |accessdate=20 October 2007}}&lt;/ref&gt; for territorial claims following Britain's ratification of the [[United Nations Convention on the Law of the Sea|1982 Law of the Sea Convention]].&lt;ref name=&quot;Law_of_The_Sea&quot;&gt;{{cite web|url=http://www.globelaw.com/LawSea/lsconts.htm |title=Table of Contents to the UN Law of the Sea Convention |publisher=Globelaw.com |date=10 December 1982 |accessdate=15 March 2010}}&lt;/ref&gt; This claim would enable Britain to control activities such as fishing within the zone, in areas not conflicting with the [[Antarctic Treaty]].&lt;ref name=&quot;Prof_Boyle&quot;&gt;{{cite news |first=Prof Alan|last=Boyle|title=Icy imperialism or reinforcement of the Antarctic treaty? |url=http://politics.guardian.co.uk/foreignaffairs/story/0,,2194803,00.html |work=The Guardian | location=London|date=19 October 2007 |accessdate=20 October 2007}}&lt;/ref&gt; Argentina has indicated it will challenge any British claim to Antarctic territory and the area around the Falkland Islands and South Georgia.&lt;ref name=&quot;Argentine_protests&quot;&gt;{{cite news |first=Owen |last=Boycott |title=Argentina ready to challenge Britain's Antarctic claims |url=http://www.guardian.co.uk/environment/2007/oct/19/climatechange.fossilfuels |work=The Guardian |location=London |date=19 October 2007 |accessdate=20 October 2007}}&lt;/ref&gt; Argentina made a similar claim in 2009,&lt;ref&gt;{{cite news|last=Piette |first=Candace |url=http://news.bbc.co.uk/1/hi/world/americas/8011539.stm |title=Americas &amp;#124; Argentina claims vast ocean area |publisher=BBC News |date=22 April 2009 |accessdate=15 March 2010}}&lt;/ref&gt; and the United Kingdom quickly protested against these claims.&lt;ref&gt;{{cite news |url=http://www.mailonsunday.co.uk/news/worldnews/article-1172802/Not-fast-says-Britain-Argentina-makes-fresh-appeal-UN-Falkland-Islands.html |title='Not so fast,' says Britain as Argentina makes fresh appeal to UN over Falkland Islands |work=[[Mail on Sunday]] |date=23 April 2009}}&lt;/ref&gt;
+
+In 2009, when delegates from the Falkland Islands were invited to the [[World Summit on Fishing Sustainability]], the Argentine delegation protested and walked out of the conference.&lt;ref name=&quot;Briefing papers&quot;/&gt; In February 2010, the Argentine government announced that ships traversing Argentine territorial waters en route to the Falklands, South Georgia and the South Sandwich Islands would require a permit, as part of a dispute over British oil exploration near the Falklands. The British and Falkland governments stated that Falklands-controlled waters were unaffected.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/business/8518982.stm |title=Argentina toughens shipping rules in Falklands oil row |publisher=BBC News |date=17 February 2010 |accessdate=17 August 2011}}&lt;/ref&gt; On 12 June 2012, the Falkland Islands government announced it would hold a [[Falkland Islands sovereignty referendum, 2013|referendum]] on the political status of the islands in the first half of 2013.&lt;ref&gt;{{cite web | url=http://www.bbc.co.uk/news/uk-18412195 | title=Falkland Islands to hold referendum on sovereignty | publisher=BBC| date=12 June 2012 | accessdate=12 June 2012}}&lt;/ref&gt;
+
+==Politics and government==
+{{Main|Politics of the Falkland Islands}}
+The islands are a [[British Overseas Territory]] which, under the [[Falkland Islands Constitution|2009 Constitution]], enjoys a large degree of internal self-government, with the United Kingdom guaranteeing good government and taking responsibility for defence and foreign affairs.&lt;ref name=&quot;Constitution&quot;&gt;{{cite news|title= New Year begins with a new Constitution for the Falklands |url=http://en.mercopress.com/2009/01/01/new-year-begins-with-a-new-constitution-for-the-falklands |publisher=MercoPress |date=1 January 2009 |postscript =Links to the text of the constitution. |accessdate=14 March 2011}}&lt;/ref&gt;&lt;ref name = constitutiontext&gt;{{cite web|url=http://www.falklands.gov.fk/site/legco/constitution-2008.pdf |title=The Falkland Islands Constitution Order 2008 |publisher=The Queen in Council |date =5 November 2008 |accessdate=16 March 2011}}&lt;/ref&gt;
+
+[[Executive (government)|Executive authority]] is vested in the [[Elizabeth II of the United Kingdom|Queen]] and is exercised by the [[Governor of the Falkland Islands|Governor]] on her behalf. The Governor is also responsible for the administration of [[South Georgia and the South Sandwich Islands]], as these islands have no native inhabitants. The governor acts on the advice of the [[Executive Council of the Falkland Islands|Executive Council]], composed of himself as chairman, the [[Chief Executive of the Falkland Islands|Chief Executive]], [[Director of Finance of the Falkland Islands|Director of Finance]] and three elected Legislative Assembly Members.&lt;ref name = constitutiontext/&gt; The current Governor [[Nigel Haywood]] took office in October 2010.&lt;ref name=HaywoodGovernor&gt;{{cite web
+|url=http://en.mercopress.com/2009/09/01/british-consul-in-basra-next-falkland-islands-governor |title=British consul in Basra next Falkland Islands governor |publisher=MercoPress |date=1 September 2009 |author=Lisa Watson |accessdate=18 March 2011}}&lt;/ref&gt;
+
+The [[Legislative Assembly of the Falkland Islands|Legislative Assembly]] consists of the Chief Executive, Director of Finance and the eight members elected for four-year terms by [[universal suffrage]], of whom five are from [[Stanley, Falkland Islands|Stanley]] and three from [[Camp (Falkland Islands)|Camp]].&lt;ref name = constitutiontext/&gt; There are no political parties, and no formal opposition. It is presided over by the [[Speaker of the Legislative Assembly of the Falkland Islands|Speaker]],&lt;ref&gt;{{cite web|url=http://www.falklands.gov.fk/assembly/ |title=Welcome to the Falkland Islands Government Legislative Assembly Website |publisher=Falkland Islands Government |accessdate=10 August 2012}}&lt;/ref&gt; currently [[Keith Biles]].&lt;ref&gt;{{cite web|url=http://www.falklands.gov.fk/assembly/The_Assembly.html |title=The Speaker |publisher=Falkland Islands Government |accessdate=10 August 2012}}&lt;/ref&gt; The [[Falkland Islands general election, 2009|last election]], the first under the 2009 constitution, took place on Thursday 5 November 2009.&lt;ref&gt;{{cite web|url=http://www.falklands.gov.fk//documents/6%20Nov%20-%20Election.pdf |title=Record Turnout in First Falklands Election Held Under New Constitution |publisher=Falkland Islands Government |date=6 November 2009 |accessdate=10 August 2012}}&lt;/ref&gt;
+
+[[Justice]] is administered by a resident senior magistrate and a non-resident Chief Justice of the islands who visits the islands at least once a year. The senior magistrate handles petty criminal cases, civil, commercial, admiralty and family cases and is also the island's coroner. The Chief Justice handles serious criminal cases and hears appeals.&lt;ref&gt;{{cite web|url = http://www.falklands.gov.fk/Government.html |publisher=Falkland Islands Government |title=Government |accessdate=14 March 2011}}&lt;/ref&gt; The constitution binds the judiciary to comply with decisions of the [[European Court of Human Rights]] when hearing cases related to [[human rights]].&lt;ref name=constitutiontext/&gt;
+
+Freedom of expression in the Falkland Islands is guaranteed by the constitution, with the United Kingdom's superior courts explicitly empowered to hear appeals.&lt;ref name = constitutiontext/&gt; Freedom of the press is comparable to that of the United Kingdom;&lt;ref name=pressreference/&gt; which, in turn, in the view of many [[Press Freedom Index|commentators]], is significantly better than that of any other South American country.&lt;ref&gt;{{cite web|url = http://en.rsf.org/press-freedom-index-2010,1034.html |title = Press Freedom Index 2010 |publisher = Reporters without borders |date = 20 October 2010 |accessdate =27 April 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://www.photius.com/rankings/freedom_of_the_press_2008.html |title = Freedom of the Press 2008 – Country Rankings |publisher = Information Technology Associates|accessdate =4 April 2011}}&lt;/ref&gt;
+
+===Military===
+{{Main|Military of the Falkland Islands}}
+[[File:Fk-fidf.gif|thumb|right|Badge of the [[Falkland Islands Defence Force]]]]
+A British military garrison is stationed on the Falkland Islands, and the islands also have a [[company (military unit)|company]]-sized [[light infantry]] [[Falkland Islands Defence Force|unit]] (FIDF) that is completely funded by the [[Politics of the Falkland Islands|Falklands government]] (£400,000 in 2009).&lt;ref name=timesfidf&gt;{{cite news
+|url=http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7052002.ece
+|title=Falklands Defence Force better equipped than ever, says commanding officer
+|date=6 March 2010
+|last=Fletcher
+|first=Martin
+|newspaper=The Times
+|accessdate=18 March 2011}}&lt;/ref&gt; The unit is trained under a secondment arrangement with the [[Ministry of Defence (United Kingdom)|MOD]] – {{As of|2010|lc=on}} the FIDF employed a [[Royal Marine]] [[Warrant Officer|WO2]] as a permanent staff instructor and a major as commanding officer; the rest of the force are part-timers. It is equipped with [[quad bike]]s, [[inflatable boat]]s and [[Land Rover]]s and is armed with heavy machineguns, grenade launchers and sniper rifles. In addition to defence duties, the force provides a mountain rescue service and has been trained by the [[Royal Navy]] in mounting armed deterrence against illegal fishing activity.&lt;ref name=timesfidf/&gt;&lt;ref&gt;{{cite web
+|url=http://www.falklands.info/history/histarticle24.html
+|title=Falkland Islands Defence Force: 150 years of Voluntary Service
+|last=Biggs
+|first=Peter
+|publisher=Falklands.info
+|date=November 2004
+|accessdate=18 March 2011}}&lt;/ref&gt;
+
+===Education===
+{{Main|Education in the Falkland Islands}}
+There are approximately 380 children between the ages of 5 and 16 on the islands (excluding families of military personnel).&lt;ref&gt;{{cite web
+|url=http://www.falklands.gov.fk/documents/Census%20Report%202006.pdf
+|title=Falkland Islands Census Statistics 2006
+|publisher=Falkland Islands Government
+|accessdate=19 March 2011}}&lt;/ref&gt; Their education, which follows the English system, is free and compulsory. Primary education is available at Stanley where there are boarding facilities, at [[RAF Mount Pleasant]] for children of service personnel and at a number of rural settlements where remote learning is supported by the Stanley based Camp Education Unit. The Islands' only secondary school is in Stanley and offers boarding facilities and 12 subjects to [[GCSE]] level. After 16, suitably qualified students may study at two colleges in England for their A-levels or for vocational qualifications. The government pays for older students to attend higher education, usually in the UK.&lt;ref&gt;{{cite web
+|url=http://www.falklands.gov.fk/Education.html
+|publisher=Falkland Islands Government
+|title=Education |accessdate=16 March 2011}}&lt;/ref&gt;
+
+===Medical care===
+The Falkland Islands Government Health and Social Services Department provides medical and dental care for the islands.&lt;ref name=fighealth&gt;{{cite web
+|url=http://www.falklands.gov.fk/Health_Services.html
+|title=Health Services
+|publisher=Falkland Islands Government
+|accessdate =24 May 2010}}&lt;/ref&gt; The King Edward VII Memorial Hospital (KEMH), completed in 1987, is Stanley's only hospital. It is run jointly by the Falkland Islands Government and the UK Ministry of Defence.&lt;ref&gt;{{cite web
+|url=http://www.thecommonwealth.org/YearbookInternal/140416/140425/falkland_islands/
+|title=United Kingdom – Falkland Islands
+|publisher=Commonwealth Secretariat
+|year=2011
+|accessdate=18 March 2011}}&lt;/ref&gt; Specialist medical care is provided by visiting ophthalmologists, gynaecologists, ENT surgeons, orthopaedic surgeons, oral surgeons and psychiatrists from the United Kingdom. Patients needing emergency treatment are air-lifted to the United Kingdom or to [[Santiago, Chile|Santiago]] ([[Chile]]).&lt;ref name=fighealth/&gt;&lt;ref&gt;{{cite web
+|url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/south-america/falkland-islands
+|title=South America and South Atlantic Islands – Falkland Islands (British Overseas Territory)
+|publisher=United Kingdom Foreign and Commonwealth Office
+|date=18 March 2010
+|accessdate=24 May 2010}}&lt;/ref&gt;
+
+==Geography==
+{{Main|Geography of the Falkland Islands}}
+[[File:Falkland Islands topographic map-en.svg|thumb|300px|Map of the Falkland Islands]]
+
+The Falkland Islands are located in the [[South Atlantic Ocean]] on a projection of the Patagonian continental shelf about {{convert|250|nmi|mi km|0}} from the Patagonia coastline and slightly to the north of the southerly tip of [[Cape Horn]] and of its undersea extension, the [[Scotia Arc]]. In ancient geological time this shelf was part of [[Gondwana]], which around 400 million years ago broke from what is now Africa and drifted westwards relative to Africa.&lt;ref name=&quot;epk&quot;&gt;{{cite web|url=http://www.epd.gov.fk/wp-content/uploads/Falkland%20Islands%20State%20of%20the%20Environment%20Report%202008_final_sm.pdf |title=Falkland Islands State of the Environment Report 2008 |last1=Otley |first1=Helen |last2=Munro |first2=Grant |last3=Clausen |firs34=Andrea |last4=Ingham |first4=Becky |publisher=Environmental Planning Department Falkland Islands Government |date=May 2008 |accessdate=25 March 2011}}&lt;/ref&gt;
+
+The Falklands, which have a total land area of 4,700 square miles (12,173&amp;nbsp;km&lt;sup&gt;2&lt;/sup&gt;) and a [[coastline]] estimated at 800&amp;nbsp;miles (1288&amp;nbsp;km),&lt;ref name=cia/&gt; comprise two main islands, [[West Falkland]] and [[East Falkland]] and about 776 small islands. The islands are heavily indented by sounds and fjords and have many natural harbours.&lt;ref name=&quot;islands&quot;&gt;{{cite web|title=The Islands: Location
+ | publisher=Falkland Islands Government
+ | url = http://www.falklands.gov.fk/Location.html
+ | accessdate =25 March 2011}}&lt;/ref&gt; &lt;!-- The metric measurements come from the source footnoted. The Imperial measurements are derived from them. --&gt; The two main islands are separated by the [[Falkland Sound]].&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/200784/Falkland-Sound |title=Falkland Sound |publisher=Encyclopaedia Britannica |accessdate=17 August 2012}}&lt;/ref&gt;
+
+[[File:2386116148 1de2537b92.jpg|left|thumb|upright|[[San Carlos Water]], one of many inlets on [[East Falkland]]]]
+[[East Falkland]], which contains the capital [[Stanley, Falkland Islands|Stanley]] and the British military base at [[RAF Mount Pleasant|Mount Pleasant]], is the more populous of the two main islands.&lt;ref name=&quot;Backgroundgeography&quot;&gt;{{cite web
+|url=http://www.falklands.info/background/geography.html
+|title= Geography
+|publisher= Falklands.info
+|accessdate=24 July 2010}}
+&lt;/ref&gt;
+
+Both West Falkland and the northern part of East Falkland have [[mountain range]]s that are underlaid with [[Palaeozoic]] rock, which, as a result of secondary forces associated with [[continental drift]] are at 120° to each other.&lt;ref name=&quot;seabirds&quot;&gt;{{cite web
+|url = http://www.seabirds.org/data.htm
+|author = Mike Bingham
+|title = Falklands/Falkland Islands
+|publisher = International Penguin Conservation Work Group
+|accessdate =24 March 2011}}&lt;/ref&gt; The highest point of the islands is [[Mount Usborne]], {{convert|705|m|ft}} on East Falkland, while [[Mount Adam, Falkland Islands|Mount Adam]] on West Falkland is only {{convert|5|m}} lower.&lt;ref name=&quot;Backgroundgeography&quot;/&gt;
+The southern part of East Falkland, the Lafonia Peninsula, which is connected to the rest of the island by a 4&amp;nbsp;km narrow isthmus, is dissimilar to the rest of the island. Most of Lafonia is a flat plain underlain by younger [[Mesozoic]] rock, but in the north west is [[Permian]] rock which is similar to that of parts of Ecca Pass in South Africa.&lt;ref name=&quot;seabirds&quot;/&gt;&lt;ref name=&quot;Britlinks&quot;&gt;{{cite web|url=http://www.britlink.org/eastfalkland.html |title=East Falkland Island |publisher=Britlink.org |accessdate=25 March 2011}}&lt;/ref&gt;
+
+===Climate===
+{{Main|Climate of the Falkland Islands}}
+The Falkland Islands lie on the boundary of the [[Oceanic climate|Subarctic maritime climate]] and [[Oceanic climate|Temperate maritime climate]] zones&lt;ref&gt;{{cite web
+|url = http://sedac.ciesin.columbia.edu/place/downloads/maps/detailed/Detail_South_America_ClimateZone-Stckdbar.pdf
+|title = Climate zones: South America
+|publisher = Socioeconomic Data and Applications Center, [[Columbia University]]
+|location = New York
+|accessdate =14 June 2012}}&lt;/ref&gt; ([[Köppen climate classification|Köppen]] ''Cfc'' and ''Cfc'') that is very much influenced by the proximity of the [[Andes]], the cool [[Atlantic Ocean|South Atlantic]] ocean with its northerly Patagonian current and the [[Antarctic Peninsula]] land mass some {{convert|600|nmi|-2}} to the south&lt;ref&gt;{{cite web
+|url = http://www.antarctica.ac.uk/met/momu/International_Antarctic_Weather_Forecasting_Handbook/7.2_Sub_Antarctic_Islands.php
+|title = Representative sub–Antarctic Islands: The Falkland Islands
+|work = The International Antarctic Weather Forecasting Handbook
+|publisher = [[British Antarctic Survey]]
+|first1 =John
+|last1 = Turner
+|first2 = Steve
+|last2 = Pendlebury
+|date = 5 November 2008
+|accessdate =12 June 2012}}&lt;/ref&gt; giving the islands a narrow annual temperature range. The January average maximum temperature is about 13°C (55°F), and the July maximum average temperature is about 4°C (39°F). The average rainfall in Stanley is {{convert|604|mm}},&lt;ref&gt;{{cite web
+|url = http://www.falkland-islands.climatemps.com/
+|title = Stanley, Falkland Islands
+|publisher =  climatetemps.com
+|accessdate =10 July 2012}}&lt;/ref&gt; East Falkland as a whole {{convert|534|mm}} and West Falkland as a whole {{convert|555|mm}} with the flat areas, and in particular [[Lafonia]] being much drier than the mountainous areas.&lt;ref&gt;{{cite web
+|url = http://www.epd.gov.fk/wp-content/uploads/10.0%20FI%20Climate%20Change%20Project.pdf
+|title = Climate Change in the Falkland Islands – A Project by the United Kingdom Falkland Islands Trust.
+|first = Jim
+|last = McAdam
+|publisher = United Kingdom Falkland Islands Trust
+|date = 15 March 2012
+|accessdate =14 June 2012}}&lt;/ref&gt; [[Humidity]] and winds are however constantly high. Snow and sleet are frequent in winter, although snowfall is rarely deep. Gales are very frequent, particularly in winter.&lt;ref name=&quot;autogenerated2&quot;&gt;{{cite news|url=http://news.bbc.co.uk/weather/hi/country_guides/newsid_9383000/9383965.stm |title=Falkland Islands |publisher=BBC News |date=22 March 2011 |accessdate=18 August 2011}}&lt;/ref&gt;
+
+Weather conditions are known to be extremely changeable, with it not being unusual to face all four seasons in one afternoon.  The reason for this is the many wind directions resulting in many air masses mixing at the [[Drake Passage]], which is often an area of low pressures.
+
+Whilst being located as far south as the [[U.K]] is north, the absence of a warming current like the [[Gulf Stream]] means temperatures are considerably colder than comparable areas in North West Europe.  Weather forecasts are given by a local branch of the UK's [[Met Office]].&lt;ref&gt;[http://www.youtube.com/watch?v=P3IIAx8hRnA&amp;list=PL2766F789289DB6CA&amp;index=6&amp;feature=plcp The Met Men of The Falkland Islands 13.06.12 – BFBS News]&lt;/ref&gt;
+{{clear}}
+{{Weather box
+|location = Stanley, Falkland Islands
+|metric first = yes
+|single line = yes
+|Jan record high C = 24
+|Feb record high C = 23
+|Mar record high C = 21
+|Apr record high C = 17
+|May record high C = 14
+|Jun record high C = 11
+|Jul record high C = 10
+|Aug record high C = 11
+|Sep record high C = 15
+|Oct record high C = 18
+|Nov record high C = 22
+|Dec record high C = 22
+|Jan high C = 13
+|Feb high C = 13
+|Mar high C = 12
+|Apr high C = 9
+|May high C = 7
+|Jun high C = 5
+|Jul high C = 4
+|Aug high C = 5
+|Sep high C = 7
+|Oct high C = 9
+|Nov high C = 11
+|Dec high C = 12
+|Jan low C = 6
+|Feb low C = 5
+|Mar low C = 4
+|Apr low C = 3
+|May low C = 1
+|Jun low C = −1
+|Jul low C = −1
+|Aug low C = −1
+|Sep low C = 1
+|Oct low C = 2
+|Nov low C = 3
+|Dec low C = 4
+|Jan record low C = −1
+|Feb record low C = −1
+|Mar record low C = −3
+|Apr record low C = −6
+|May record low C = −7
+|Jun record low C = −11
+|Jul record low C = −9
+|Aug record low C = −11
+|Sep record low C = −11
+|Oct record low C = −6
+|Nov record low C = −3
+|Dec record low C = −2
+|Jan precipitation mm = 71
+|Feb precipitation mm = 58
+|Mar precipitation mm = 64
+|Apr precipitation mm = 66
+|May precipitation mm = 66
+|Jun precipitation mm = 53
+|Jul precipitation mm = 51
+|Aug precipitation mm = 51
+|Sep precipitation mm = 38
+|Oct precipitation mm = 41
+|Nov precipitation mm = 51
+|Dec precipitation mm = 71
+|Jan humidity = 78
+|Feb humidity = 79
+|Mar humidity = 82
+|Apr humidity = 86
+|May humidity = 88
+|Jun humidity = 89
+|Jul humidity = 89
+|Aug humidity = 87
+|Sep humidity = 84
+|Oct humidity = 80
+|Nov humidity = 75
+|Dec humidity = 77
+|source 1 = BBC Weather&lt;ref name=&quot;BBC Weather&quot;&gt;{{cite web | url = http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT004760 | title = BBC Weather: Stanley, Falkland Islands | accessdate =13 January 2010 | publisher=BBC |date=June 2011}}{{Dead link|date=August 2011}}&lt;/ref&gt;
+|date=August 2010
+}}
+
+==Biodiversity==
+{{Main|Wildlife of the Falkland Islands}}
+[[Biogeography|Biogeographically]], the Falkland Islands are classified as part of the [[Antarctic ecozone]]&lt;ref&gt;{{cite web|url=http://cmsdata.iucn.org/downloads/udvardy.pdf |title=A Classification of the Biogeographical Provinces of the World |pages=37–38 |author=Miklos D F Udvardy |publisher=IUCN |year=1975 |accessdate=25 March 2011}}&lt;/ref&gt; and [[Antarctic Floristic Kingdom]].&lt;ref&gt;{{Cite journal|url=http://www.iscv.cl/pdfs/PDFSeminars/BioGeografia/Bibliografia/IIFundamentosteoricosymetodosBiog/2bVicarianzadispersionBiogeograf/BIOGEO2.PDF |title=The biogeographic regions reconsidered |page=518 |author=C Barry Cox |journal=Journal of Biogeography |volume=28 |year=2001 |accessdate=25 March 2011}}{{dead link|date=February 2012}}&lt;/ref&gt; Strong connections exist with the flora and fauna of [[Patagonia]] in South America.&lt;ref name=&quot;epk&quot;/&gt; The only terrestrial mammal upon the arrival of Europeans was the [[warrah]], a kind of fox found on both major islands.&lt;ref name=&quot;Britlinks&quot;/&gt;&lt;ref name=&quot;Darwin 1839&quot;&gt;Darwin, C.R. 1839. ''The zoology of the Voyage of H.M.S. Beagle. During the years 1832–1836. Part II. Mammalia.'' Smith Elder, London.&lt;/ref&gt; It became extinct in the mid 19th century.&lt;ref name=&quot;Backgroundgeography&quot;/&gt;&lt;ref name=&quot;Paddle 2000&quot;&gt;Paddle, R. 2000. pp.234–235 ''in'' The Last Tasmanian Tiger. The history and extinction of the Thylacine. Cambridge University Press, Cambridge, UK.&lt;/ref&gt; 14 species of [[marine mammal]]s frequent the surrounding waters.&lt;ref name=&quot;visitorfalklands&quot;&gt;{{cite web|url=http://www.visitorfalklands.com/assets/documents/falklands-factsheet.pdf |title=Falklands factsheet |publisher=Falkland Islands Tourist Board |accessdate=25 March 2011}}&lt;/ref&gt; The elephant seal, the fur seal, and the sea lions all breed on the islands, and the largest elephant seal breeding site has over 500 animals in it.&lt;ref name=&quot;gov.fk&quot;/&gt; 227 bird species have been seen on the islands,&lt;ref name=&quot;epk&quot;/&gt; over 60 of which are known to breed on the islands.&lt;ref name=&quot;gov.fk&quot;&gt;{{cite web|url=http://www.falklands.gov.fk//Environment.html |title=Nature |publisher=Falkland Islands Government |accessdate=25 March 2011}}&lt;/ref&gt; There are two endemic species of bird, and 14 endemic [[subspecies]].&lt;ref name=&quot;epk&quot;/&gt; There are five penguin species breeding on the islands, and over 60% of the global [[black-browed albatross]] population also breed in the area.&lt;ref name=&quot;visitorfalklands&quot;/&gt;
+
+[[File:Gypsy-Cove.jpg|thumb|alt=Five penguins walking up a grassy slope against the wind|Penguins at [[Gypsy Cove]]]]
+There are no native [[reptile]]s or [[amphibian]]s on the islands. Over 200 species of insects have been recorded, along with 43 [[spider]] species and 12 [[worm]] species. Only 13 terrestrial invertebrates are recognised as [[Endemism|endemic]], although information on many species is lacking and it is suspected up to two thirds of species found are actually endemic. Due to the island environment, many insect species have developed reduced or absent wings. There are around 129 freshwater invertebrates, the majority being [[rotifer]]; however, the identification of some species remains in dispute.&lt;ref name=&quot;epk&quot;/&gt; Six species of fish are found in freshwater areas, including [[zebra trout]] and [[falklands minnow]]s.&lt;ref name=&quot;epk&quot;/&gt; Different species of [[krill]] are found in Falkland waters, with [[Lobster Krill]] inhabiting the warmer waters in the north.&lt;ref name=&quot;seabirds&quot;/&gt;
+
+There are no native tree species on the archipelago, although two species of bushes, [[Chiliotrichum diffusum|fachine]] and [[Hebe elliptica|native box]] are found. Other vegetation consists of [[grass]]es and [[fern]]s.&lt;ref name=&quot;Backgroundgeography&quot;/&gt; Around 363 species of [[vascular plant]]s, 21 species of [[fern]]s and [[clubmoss]]es and 278 species of [[flowering plant]]s have been recorded on the islands. Of the vascular plants, 171 are believed to be native and 13 to be endemic.&lt;ref name=&quot;epk&quot;/&gt; Some [[bog]]s and [[fen]]s exist and support some freshwater plant species, but these are not common on the islands.&lt;ref name=&quot;seabirds&quot;/&gt; [[Tussac grass]], which averages {{convert|2|m|ft|1|abbr=on|1}} in height but can reach up to {{convert|4|m|ft|0|abbr=on|0}}, is found within 300&amp;nbsp;m (1,000&amp;nbsp;ft) of the coast where it forms bands around larger islands. The dense canopies formed create an insulated [[micro-climate]] suitable for many birds and invertebrates.&lt;ref name=&quot;seabirds&quot;/&gt; The [[Pale Maiden]] (''Sisyrinchium jubatum'') is the islands' national flower.&lt;ref name=&quot;gov.fk&quot;/&gt;
+
+There is little long-term data on habitat changes, so the extent of human impact is unclear.&lt;ref name=&quot;epk&quot;/&gt; Vegetation such as tussac grass, fachine, and native box have been heavily impacted by introduced grazing animals. Many breeding birds similarly only live on offshore islands, where introduced animals such as cats and rats are not found.&lt;ref name=&quot;seabirds&quot;/&gt; Virtually the entire area of the islands is used as [[pasture]] for [[domestic sheep|sheep]]. There is also an introduced [[reindeer]] population, which was brought to the islands in 2001 for commercial purposes.&lt;ref name=cia/&gt; Rats&lt;ref name=&quot;Britlinks&quot;/&gt; and [[Grey fox]]es have been introduced and are having a detrimental impact on birds that nest on the shores, as are [[feral cat]]s. 22 introduced plant species are thought to provide a significant threat to local flora.&lt;ref name=&quot;epk&quot;/&gt;
+
+==Economy==
+{{Main|Economy of the Falkland Islands}}
+[[File:Port-William.JPG|thumb|A squid trawler, and a cruise ship in [[Port William, Falkland Islands|Port William]] representing two trends in recent economic development]]
+Except for defence, the islands are self sufficient with annual exports of $125&amp;nbsp;million and imports of $90&amp;nbsp;million (2004 estimate).&lt;ref name=cia&gt;{{cite web
+ | title=Falkland Islands (Islas Malvinas)
+ | work=The World Factbook
+ | publisher=CIA
+ | date=28 February 2011
+ | url=https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html
+ | accessdate=8 March 2011}}&lt;/ref&gt; The Falkland Islands use the [[Falkland pound]], which circulates interchangeably with the pound [[Pound sterling|sterling]] and which is backed by the pound sterling on a one-for-one basis.&lt;ref name = NewCoin&gt;{{cite web
+|url = http://www.falklands.gov.fk/assembly/documents/197-10.pdf
+|title = Commemorative Coin – Lifetime of Service
+|date = 17 August 2010
+|publisher = Executive Council of the Falkland Islands Government
+|accessdate =31 December 2010}}&lt;/ref&gt; Falkland coins are produced in the United Kingdom;&lt;ref&gt;{{cite web
+|url=http://www.currencymuseum.net/falklandis.htm
+|title=The history of the Falkland Islands pound
+|article=Wills online paper money
+|accessdate=16 July 2010}}&lt;/ref&gt; coins are identical in size to the United Kingdom currency but with local designs on the reverse. The Falkland Islands also [[Postage stamps and postal history of the Falkland Islands|issue their own stamps]]. Both the coins and stamps are a source of revenue from overseas collectors.&lt;ref name = NewCoin/&gt;
+
+Farmland accounts for {{convert|1123985|ha|sqmi|abbr=on}}, more than 90% of the Falklands land area.&lt;ref name=Farms&gt;{{cite web
+|url=http://www.agriculture.gov.fk/publications/farming_statistics/2008-2009.pdf |title=Biennial Report 2008/9
+|publisher=Falklands Island Government Department of Agriculture
+|date=31 May 2009
+|accessdate=18 April 2010}}&lt;/ref&gt; Since 1984, efforts to diversify the economy have made fishing the largest part of the economy and brought increasing income from tourism.&lt;ref&gt;[http://www.guardian.co.uk/environment/2004/apr/04/food.business LA, Paris, Port Stanley?], Frank Kane, [[The Observer]], 4 April 2004&lt;/ref&gt; [[Domestic sheep|Sheep]] farming was formerly the main source of income for the islands and still plays an important part with high quality wool exports going to the UK. According to the Falklands Government Statistics there are over 500,000 sheep on the islands with roughly 60% on East Falkland and 40% on West Falkland.&lt;ref name=Farms/&gt;
+
+The government has operated a fishing zone policy since 1986 with the sale of fishing licences to foreign countries. These licences have recently raised only [[Falkland Islands pound|£]]12 to 15&amp;nbsp;million a year in revenue, as opposed to £20m to £25m annually during the 1990s. Locally registered fishing boats are also in operation. More than 75% of the annual catch of 200,000 tonnes (220,000 short tons) is [[Squid (food)|squid]].&lt;ref&gt;{{cite web|url=http://www.falklands.gov.fk//Fisheries.html |title=Fisheries |publisher=Falkland Islands Government |accessdate =14 Julyl 2010}}&lt;/ref&gt;
+
+[[File:FalklandEconomicZone.png|thumb|left|300px|Map of the Falkland Islands economic zone in relation to its neighbours]]
+Tourism has grown rapidly. The islands have become a regular port of call for the growing market of cruise ships with more than 36,000 visitors in 2004.&lt;ref&gt;{{cite news|url=http://www.falklands.info/background/lifearticle31.html |title=Four Seasons and more than 3,000 Tourists in One Day |last=Jaffray |first=Sharon |newspaper=Penguin News |date=22 April 2005 |accessdate=17 August 2011}}&lt;/ref&gt;
+
+A 1995 agreement between the UK and Argentina had set the terms for exploitation of offshore resources including [[oil reserves]]&lt;ref&gt;{{cite news
+|first=Calvin |last=Sims
+|title=Britain and Argentina Reach an Accord on Falkland Oil Rights
+|url=http://www.nytimes.com/1995/09/20/world/britain-and-argentina-reach-an-accord-on-falkland-oil-rights.html?pagewanted=1
+|work=The New York Times
+|date=20 September 1995
+|accessdate=10 May 2010}}&lt;/ref&gt; as geological surveys had shown there might be up to 60&amp;nbsp;billion barrels (9.5&amp;nbsp;billion cubic metres) of oil under the seabed surrounding the islands.&lt;ref&gt;{{cite news
+|url=http://www.guardian.co.uk/uk/2010/feb/07/falkland-islands-oil-britain-argentina |title = Falklands oil prospects stir Anglo-Argentine tensions
+|newspaper=The Guardian
+|date=7 February 2010
+|first1=Rory
+|last1=Carroll
+|first2=Annie
+|last2=Kelly
+|accessdate=23 August 2011}}&lt;/ref&gt; However, in 2007 Argentina unilaterally withdrew from the agreement;&lt;ref&gt;{{cite news |first=Sophie |last=Arie |title=Argentina snubs UK over oil deal as anniversary nears |url=http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/03/29/warg29.xml |work=The Daily Telegraph |date=3 April 2007 |accessdate=20 October 2007}}&lt;/ref&gt; Falklands Oil and Gas Limited then signed an agreement with [[BHP Billiton]] to investigate the potential exploitation of oil reserves.&lt;ref name=&quot;Times_Oil_Deal&quot;&gt;
+{{cite news |first=Carl |last=Mortished |title=BHP Billiton strikes $100m Falklands drilling deal |url=http://business.timesonline.co.uk/tol/business/industry_sectors/natural_resources/article2577806.ece |work=The Times |date=3 October 2007 |accessdate=20 October 2007}}&lt;/ref&gt; Due to the difficult climatic conditions of the southern seas exploitation will be difficult, though economically viable; the continuing sovereignty dispute with Argentina is also hampering progress.&lt;ref name=&quot;Argentine_response&quot;&gt;{{cite news |first=Jude |last=Webber |title=Argentina protests at Falklands oil stake |url=http://www.ft.com/cms/s/0/aa2294fe-71d7-11dc-8960-0000779fd2ac.html?nclick_check=1 |publisher=The Financial Times |date=3 October 2007 |accessdate=20 October 2007}}&lt;/ref&gt;
+
+In February 2010 exploratory drilling for oil was begun by [[Desire Petroleum]],&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/8527307.stm |title=Drilling for oil begins off the Falkland Islands |publisher=BBC News |date=22 February 2010 |accessdate=15 March 2010}}&lt;/ref&gt; but the results from the first test well were disappointing.&lt;ref&gt;{{cite news|url=http://www.independent.co.uk/news/business/news/explorers-fail-to-strike-oil-in-test-sites-off-falklands-1930807.html |title=Explorers fail to strike oil in test sites off Falklands |work=The Independent |date=30 March 2010 |accessdate=9 June 2010 |first=Nick |last=Clark}}&lt;/ref&gt; Two months later, on 6 May 2010, [[Rockhopper Exploration]] announced that &quot;it may have struck oil&quot;.&lt;ref&gt;{{cite news
+|url=http://news.bbc.co.uk/1/hi/business/10100769.stm
+|title=Falklands oil firm Rockhopper claims discovery
+|publisher=BBC News
+|date=6 May 2010
+|accessdate=6 May 2010}}&lt;/ref&gt; Subsequent tests showed it to be a commercially viable find;&lt;ref&gt;{{cite web
+|url=http://www.rockhopperexploration.co.uk/pdf/Result_of_Flow_Test_FINAL_RNS.pdf
+|title=Result of Flow Test- Sea Lion 14/10-2
+|publisher=Rockhopper Exploration plc
+|date=17 September 2010
+|accessdate=21 September 2010}}&lt;/ref&gt; an appraisal project was launched &lt;ref&gt;{{cite web
+|url=http://www.rockhopperexploration.co.uk/pdf/14-10_4_%20well_result_FINAL.pdf
+|title=Appraisal well update
+|publisher=Rockhopper Exploration plc
+|date=21 March 2011
+|accessdate=27 March 2011}}&lt;/ref&gt; and on 14 September 2011 Rockhopper Exploration announced that plans were under way for oil production to commence in 2016, through the use of [[floating production storage and offloading]] (FPSO) technology.&lt;ref&gt;{{cite web
+|url = http://www.rockhopperexploration.co.uk/pdf/cap_markets/RKH_CapMark_Section_04Development.pdf
+|title = Capital Markets Presentation – Development
+|publisher = Rockhopper Exploration plc
+|date = 14 September 2011
+|accessdate =14 September 2011}}&lt;/ref&gt;
+
+==Demographics==
+{{See also|Falkland Islanders|Origins of Falkland Islanders}}
+[[File:WhaleboneArchCathedral.JPG|thumb|[[Christ Church Cathedral (Falkland Islands)|Christ Church Cathedral]] with an arch made of whale bone, Stanley]]
+The population of the Falkland Islands is primarily of British descent (about 70 percent of the population), mainly as a result of [[Scottish people|Scottish]] and [[Welsh people|Welsh]] immigration to the islands.&lt;ref&gt;{{cite book|first=Patrick|last=Vincent|title=The Geographical Journal, Vol. 149, No. 1, pp 16–17|month=March | year=1983}}&lt;/ref&gt; In the 2006 census, some Islanders identified themselves as of [[French people|French]], [[Gibraltarian people|Gibraltarian]], and [[Scandinavia]]n descent.&lt;ref name=2006Census&gt;{{cite web |url=http://www.falklands.gov.fk/documents/Census%20Report%202006.pdf|title=Falkland Islands Census Statistics, 2006|publisher=Falkland Islands Government|accessdate=4 June 2010}}&lt;/ref&gt; Other minorities include those from [[Chile]] and [[Saint Helena]], many of whom have become assimilated.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/uk_news/6683677.stm |title=Falklands questions answered |publisher=BBC News |date=4 June 2007 |accessdate=17 August 2012}}&lt;/ref&gt; Among the few Argentines currently residing in the islands is Maria Strange, wife of the author and historian [[Ian Strange]].&lt;ref name='telegraph 2010-02-28'&gt;{{cite news | first = Tom | last = Leonard | title = 'We must educate the Argentines' | date = 28 February 2010 | url = http://www.telegraph.co.uk/news/worldnews/southamerica/falklandislands/7332262/We-must-educate-the-Argentines.html | work = The Telegraph | accessdate =8 February 2012}}&lt;/ref&gt;
+
+Residents of the Falklands are often called &quot;[[Kelpers]]&quot;&lt;ref name=&quot;Tweedie&quot;&gt;{{cite news|url=http://www.telegraph.co.uk/news/worldnews/southamerica/falklandislands/9176205/How-the-good-life-came-to-the-Kelpers.html |title=How the good life came to the Kelpers |last=Tweedie |first=Neil |newspaper=The Telegraph |date=31 March 2012 |accessdate=17 August 2012}}&lt;/ref&gt; or &quot;Islanders&quot;.&lt;ref&gt;{{cite web|url=http://www.falklands.gov.fk//Falklands_Life.html |title=People |publisher=Falkland Islands Government |accessdate=17 August 2012}}&lt;/ref&gt; The legal term for having the right of residence is &quot;belonging to the islands&quot;.&lt;ref name = constitutiontext/&gt; From 1 January 1983, as provided in the [[British Nationality (Falkland Islands) Act 1983]], the islanders have been full [[British nationality law|British citizens]].&lt;ref&gt;{{cite web|url=http://www.legislation.gov.uk/ukpga/1983/6 |title=British Nationality (Falkland Islands) Act 1983 |publisher=The National Archives |accessdate=10 August 2012}}&lt;/ref&gt;
+
+A population decline leading up to the Falklands War has reversed, with the population bolstered by immigration from the British island of Saint Helena, and Chile&lt;ref name=&quot;Tweedie&quot;/&gt; though figures for immigration are skewed by including children born to Falkland Islander women who for medical reasons travelled abroad for their confinement as being &quot;born abroad&quot;.&lt;ref name=2006Census/&gt; Historical census figures show that the population rose from an estimate of 287 in 1851 to 2,272 in 1911. The population was 2,094 in 1921 and 2,392 in 1931, but it then declined to 1,813 in 1980.&lt;ref name=2006Census/&gt; However, the population recorded in the 2001 census was higher than at any previous point in history.&lt;ref&gt;{{cite web|url=http://www.falklands.info/background/census2001r.html |title=Summary Report |publisher=Falklands.info |accessdate=17 August 2012}}&lt;/ref&gt; The population later rose to 2,955 (2006 census). The 2006 census recorded 2,115 people in Stanley and 477 in Mount Pleasant, 194 in the rest of East Falkland, 127 in West Falkland and 42 people in all the other islands. These figures exclude all military personnel and their families, but include 477 people who were present in the Falkland Islands in connection with the military garrison.&lt;ref name=&quot;2006Census&quot;/&gt;
+
+The age distribution of the islands residents is skewed towards people of working age {{nowrap|(20–60)}} – 65% as opposed to 21% aged below 20 and 14% aged above 60. Males outnumber females by 53% to 47% with the deviation being most prominent in the {{nowrap|20–60}} age group.&lt;ref name=2006Census/&gt; In the 2006 census, 67.2% of the islanders identified themselves as being [[Christian]]s, 31.5% either declined to answer or had no religious affiliation and the remaining 1.3% (39 individuals) identified themselves as adherents of other faiths.&lt;ref name=2006Census/&gt; The islands have three churches, one for each of the [[Church of England]], [[Roman Catholic]] and [[United Free Church]] communities.&lt;ref&gt;{{cite web
+|url = http://www.falklandislands.com/contents/view/177
+|title = Churches and Religion
+|publisher = Falkland Islands Tourist Board
+|accessdate =2 June 2012}}&lt;/ref&gt;
+
+==Infrastructure==
+===Media===
+The islands have two weekly newspapers – ''The Penguin News'', published by Mercopress and the ''Teaberry Express'' published by Falkland Islands News Network.&lt;ref name=pressreference&gt;{{cite web
+|url = http://www.pressreference.com/Co-Fa/Falkland-Islands.html
+|title = Falkland Islands
+|publisher = Press Reference
+|accessdate =4 April 2011}}&lt;/ref&gt;
+
+Falkland Islands technical standards for radio and television are identical to those in the United Kingdom or, in the case of [[Medium Wave]] broadcasts, the Americas. There are approximately 1000 television sets and 1000 radio receivers on the islands.&lt;ref name=pressreference/&gt; Two terrestrial television channels are broadcast by the [[British Forces Broadcasting Service#Television|British Forces Broadcasting Service (BFBS)]] while [[KTV Ltd.]] relay a number of satellite services such as [[BBC]], [[CNN]] via [[cable television|cable]] to subscribers in Stanley.&lt;ref&gt;{{cite web
+|url = http://www.ktv.co.fk/
+|title = KTV Ltd (Home Page)
+|publisher = KTV Ltd.
+|accessdate =4 April 2011}}&lt;/ref&gt; Radio broadcasting is supported by seven FM radio stations and one AM radio station. The first broadcasting service, the Falkland Islands Broadcasting Service, established in 1929 used landlines connected to a speaker in people's homes. This was upgraded to wireless in 1942 and a 5&amp;nbsp;kW medium wave transmitter installed in 1954. VHF was introduced in 1999. In 2005 the service was privatised and renamed [[Falkland Islands Radio Service]] (FIRS).&lt;ref&gt;{{cite web
+|url = http://www.firs.co.fk/station_history.php
+|title = Station History
+|publisher = Falkland Islands Radio Service
+|accessdate =4 April 2011}}&lt;/ref&gt;
+
+===Telephone===
+The first telephones in the Falklands were installed by the Falkland Island Company in 1880, with lines to all settlements in Camp being installed by 1907. In 1911, Marconi built a telegraph office that permitted telegrams to be sent to [[Montevideo]]. In 1950, the fixed line telephone service to Camp was replaced by a radio service;&lt;ref name=C&amp;WHistory&gt;{{cite web
+|url = http://www.cwfi.co.fk/index.php?option=com_content&amp;view=article&amp;id=46&amp;Itemid=53
+|title = About us
+|publisher = Cable &amp; Wireless Falkland Islands
+|accessdate =11 August 2012}}&lt;/ref&gt; the 2006 census showed that of the 307 2-metre radio receivers in the islands, 129 were located in Camp.&lt;ref name=2006Census/&gt; In 1989, Cable and Wireless won the contract to provide the Island's national and international telephone services.&lt;ref name=C&amp;WHistory/&gt; In 2006, a [[GSM|GSM 900]] mobile network was installed,&lt;ref&gt;{{cite web
+|url=http://www.gsmworld.com/ROAMING/GSMINFO/net_fkcw.shtml
+|title=GSM coverage in the Falkland Islands
+|publisher=Gsmworld.com
+|accessdate=11 August 2012}}&lt;/ref&gt;
+
+In 2006, broadband was successfully implemented in Stanley and Mount Pleasant Complex, and was rolled out across the islands in 2008/09.&lt;ref name=C&amp;WHistory/&gt; The [[International Telecommunication Union]] figures for 2011 identified the Falkland Islands as having the [[List of countries by number of Internet users|highest proportion of internet users]] in the world – 96.38%.&lt;ref&gt;{{cite web|url=http://www.itu.int/ITU-D/ict/statistics/material/excel/20112/ictwebsite/Internet_users_01-11_2.xls |title=Internet users per 100 inhabitants |publisher=International Telecommunication Union |format=Excel |accessdate =29 October 2011}}&lt;/ref&gt;
+
+===Transport===
+{{Main|Transport in the Falkland Islands}}
+[[File:Falkland Islands road.jpg|thumb|right|Typical Falkland Islands road]]
+In 1982, the Falkland Islands had no roads outside Stanley, only tracks.&lt;ref&gt;{{cite web
+|url = http://www.falklands.gov.fk/documents/Falklands%20Focus%20Issue%2081,%20July%2007.pdf
+|title = Falkland Focus – News from the Falkland Islands Government
+|date = July/August 2007
+|accessdate =29 December 2010}}&lt;/ref&gt; By 2007, the Falkland Islands had a road network of {{convert|786|km|mi|disp=output number only}}&amp;nbsp;miles (786&amp;nbsp;km) which in 2012 had been extended to {{convert|862|km|mi|disp=output number only}}&amp;nbsp;miles (862&amp;nbsp;km) linking to all occupied mainland settlements.&lt;ref&gt;{{cite web
+|url = http://www.falklands.gov.fk/Transport_&amp;_Communication.html#
+|title = Transport and Communication
+|publisher = Falkland Islands Government
+|accessdate =18 July 2010}}
+''Source uses metric units.''&lt;/ref&gt;&lt;ref&gt;{{cite web
+|title = Priorities for Roads Maintenance, Increased Funding for Grading, Capping and for Surfacing the MPA Road
+|url = http://www.falklands.gov.fk/assembly/documents/39-12P.pdf
+|date = 25 April 2012
+|publisher = Falkland Islands Executive Council
+|accessdate =16 August 2012}}
+''Source uses metric units.''&lt;/ref&gt;  Speed limits are 25&amp;nbsp;mph (40&amp;nbsp;km/h) in built-up areas and 40&amp;nbsp;mph (64&amp;nbsp;km/h) elsewhere.&lt;ref&gt;{{cite web
+|url=http://www.falklandislands.com/assets/documents/falklands-factsheet.pdf
+|title=The Falkland Islands
+|publisher=Falkland Islands Tourist Board
+|accessdate =19 May 2010}}&lt;/ref&gt; {{as of|2006}}, the Falkland Islands had 67 motor vehicles per 100 people, with 4x4 vehicles accounting for 66% of the total.&lt;ref name=2006Census/&gt;
+
+The Falkland Islands have two airports with paved runways – the main international airport [[RAF Mount Pleasant]], {{convert|27|mi}} west of Stanley.&lt;ref&gt;{{cite web|url=http://www.mapcrow.info/Distance_between_London_UK_and_Port_Stanley_FK.html |title={{convert|43.28|km|2|abbr=on|2|disp=flip}} in Map Crow Travel Distance Calculator |publisher=Mapcrow.info |date=23 October 2007 |accessdate=15 March 2010}}&lt;/ref&gt; opened in 1986 and the smaller [[Port Stanley Airport]] on the outskirts of Stanley, opened in 1979 following the 1971 Anglo-Argentine agreement regarding an air link between the countries.&lt;ref&gt;{{cite web
+|title= Stanley Airport Celebrates 25th Birthday
+|url= http://www.falklands.info/history/histarticle7.html
+|publisher=Falklands.info
+|date=March 2004
+|accessdate=27 March 2011}}&lt;/ref&gt; Mount Pleasant is used for military purposes and for heavy aircraft that require long runways, whereas Stanley is used for internal flights and smaller aircraft.
+
+The [[Royal Air Force]] operates flights from [[RAF Mount Pleasant]] to [[RAF Brize Norton]] in Oxfordshire, England, with a refuelling stop at [[RAF Ascension Island]]. RAF flights are on [[Lockheed TriStar (RAF)|TriStars]] although charter aircraft are often used if the TriStars are required for operational flights.&lt;ref&gt;{{cite news|url=http://en.mercopress.com/2010/01/27/air-seychelles-begins-operating-brize-norton-falklands-air-bridge |title=Air Seychelles begins operating Brize Norton-Falklands Air Bridge |publisher=MercoPress |date=28 January 2011 |accessdate=18 August 2011}}&lt;/ref&gt; Local military air support – moving of personnel, equipment and supplies around the islands is carried out under contract by [[British International Helicopters|British International (BRINTEL)]] who operate two [[H-3 Sea King|Sikorsky S61N]] helicopters. The principal civilian air operator at Mount Pleasant is [[LAN (airline)|LAN Airlines]] who operate weekly flights to [[Santiago, Chile]] via [[Punta Arenas]] with an additional stop once a month at [[Río Gallegos]], Argentina.&lt;ref&gt;{{cite web|url=http://xtold.visitorfalklands.com/content/view/186/175/ |title=Official Tourism Website of the Falkland Islands |publisher=Xtold.visitorfalklands.com |date=18 August 2009 |accessdate=9 June 2010}}{{Dead link|date=August 2011}}&lt;/ref&gt;
+
+[[File:DHC-7-dash-7.jpg|thumb|The [[De Havilland Canada Dash 7|Dash-7]] of the [[British Antarctic Survey]] at Stanley]]
+The main operator at Port Stanley Airport is the [[Falkland Islands Government Air Service]] (FIGAS) that operates [[Britten-Norman Islander|Islander]] aircraft which can use the grass airstrips at most settlements. Flight schedules, which are broadcast on the radio every evening, are planned on a daily basis according to passenger needs.&lt;ref&gt;{{cite web
+|url = http://www.falklandislands.com/contents/view/116
+|title = Internal flights (FIGAS)
+|publisher = Falkland Islands Tourist Board
+|accessdate =27 March 2011}}&lt;/ref&gt;
+Private operators from Stanley include the [[British Antarctic Survey]] who operate an air link to the [[Rothera Research Station]] on the [[Antarctic Peninsula]] and also serve other British bases in the [[British Antarctic Territory]] using a [[de Havilland Canada Dash 7]].
+{{Clear}}
+
+==See also==
+{{portal|Latin America|United Kingdom}}
+* [[Outline of the Falkland Islands]]
+* [[List of islands]]
+* [[Index of Falkland Islands-related articles]]
+&lt;!-- *[[List of people from the Falkland Islands]] --&gt;
+&lt;!-- *[[List of places in the Falkland Islands]] --&gt;
+{{clear}}
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+{{refbegin|30em}}
+* {{cite book|author=Julius Goebel|title=The struggle for the Falkland Islands: a study in legal and diplomatic history|url=http://books.google.com/books?id=V_lNAAAAMAAJ|accessdate=17 March 2011|date=August 1971|publisher=Kennikat Press|isbn=978-0-8046-1390-3|ref=Goebel}}
+* {{cite book|author=David Tatham|title=The Dictionary of Falklands Biography (Including South Georgia): From Discovery Up to 1981|url=http://books.google.com/books?id=0D0VNAAACAAJ|accessdate=17 March 2011|date=1 June 2008|publisher=D. Tatham|isbn=978-0-9558985-0-1|ref=Tatham}}
+{{refend}}
+
+==Further reading==
+{{refbegin|30em}}
+* L.L. Ivanov et al. [[s:The Future of the Falkland Islands and Its People|''The Future of the Falkland Islands and Its People''.]] Sofia: Manfred Wörner Foundation, 2003. Printed in Bulgaria by Double T Publishers. 96 pp.&amp;nbsp;ISBN 954-91503-1-3
+* Carlos Escudé and Andrés Cisneros, eds. [http://www.cema.edu.ar/ceieg/arg-rree/historia_indice00.htm ''Historia de las Relaciones Exteriores Argentinas''.] Work developed and published under the auspices of the Argentine Council for International Relations (CARI). Buenos Aires: GEL/Nuevohacer, 2000. (in Spanish) ISBN 950-694-546-2
+* Graham Pascoe and Peter Pepper [http://www.falklandshistory.org/gettingitright.pdf Getting it right: the real history of the Falklands/Malvinas.] May 2008.
+* [http://www.samueljohnson.com/falklands.html Thoughts on the Late Transactions Respecting Falkland's Islands by Samuel Johnson 1771]
+* Greig, D.W. [http://www.austlii.com/au/journals/AUYrBkIntLaw//1978/2.pdf Sovereignty and the Falkland Islands Crisis.] ''Australian Year Book of International Law''. Vol. 8 (1983). pp.&amp;nbsp;20–70. ISSN: 0084-7658
+* César Caviedes. [http://lasa-2.univ.pitt.edu/LARR/prot/search/retrieve/?Vol=29&amp;Num=2&amp;Start=172 Conflict Over The Falkland Islands: A Never-Ending Story?] ''Latin American Research Review''. Vol. 29 (1994) No. 2. pp.&amp;nbsp;172–187.
+{{refend}}
+
+==External links==
+{{Sister project links|commons=Falkland Islands}}
+* {{Wikiatlas|Falkland Islands}}
+* {{Wikitravel|Falkland Islands}}
+* {{CIA World Factbook link|fk|Falkland Islands (Islas Malvinas)}}
+* {{dmoz|Regional/South_America/Falkland_Islands/}}
+* [http://www.falklands.gov.fk/ Falkland Islands Government] official site
+* [http://www.visitorfalklands.com/ The Falkland Islands Tourist Board]
+* [http://www.falklandislands.com/ Falkland Islands Tourism]
+&lt;!-- * [http://www.falklands.gov.fk/FI_Development_Corporation.html Falkland Islands Development Corporation] TEMP link in case the official site link below stops working - Paine Ellsworth --&gt;
+* [http://www.fidc.co.fk/ Falkland Islands Development Corporation] official site
+&lt;!-- NOTE: The above link for FIDC's &quot;official site&quot;, as of 1 March 2010, sometimes works and sometimes does not. It is not really a &quot;dead link&quot;, so please don't remove it. The commented link above it can be used if the &quot;official site&quot; link stops working altogether. – Paine Ellsworth --&gt;
+* [http://www.falklandnews.com/ Falkland Islands News Network] official site
+* [http://www.falklands.info/ Falkland Islands Information Portal]
+* {{cite web | url = http://www.falklands.gov.fk/Historical_Dates.html | title = Historical Dates | accessdate =17 March 2011 | publisher = The Falkland Islands Government}}
+* {{cite web | url = http://www.falklands.info/history/history2.html | title = A BRIEF HISTORY OF THE FALKLAND ISLANDS, Part 2 – Fort St. Louis and Port Egmont | accessdate =17 March 2011 | last = Lewis | first = Jason | coauthors = Alison Inglis | publisher = Falkland Islands Information Portal}}
+* {{cite web | url = http://www.falklands.info/history/timeline.html | title = FALKLAND ISLANDS TIMELINE A Chronology of events in the history of the Falkland Islands | accessdate =17 March 2011 | last = Lewis | first = Jason | coauthors = Alison Inglis | publisher = Falkland Islands Information Portal}}
+{{Navboxes
+|title = Articles Related to the Falkland Islands
+|list =
+{{Falkland Islands topics|state=uncollapsed}}
+{{Navboxes
+|title = [[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale
+|list =
+'''[[Geographic coordinate system|Lat. &lt;small&gt;and&lt;/small&gt; Long.]] {{Coord|51|42|S|57|51|W|display=inline}} &lt;span style=&quot;color:darkblue;&quot;&gt;(Stanley)&lt;/span&gt;'''
+{{British dependencies}}
+{{Countries of South America}}
+{{Peri-Antarctic countries and overseas territories}}
+{{Outlying territories of European countries}}
+}}
+{{Navboxes
+|title = Territorial disputes
+|list =
+{{Territorial disputes involving the United Kingdom}}
+{{Territorial disputes involving Argentina}}
+}}
+{{English dialects by continent}}
+{{English official language clickable map}}
+}}
+{{Geography of South America}}
+{{South America topic|Climate of}}
+{{Use British English|date=August 2010}}
+{{Outlying territories of European countries}}
+{{Use dmy dates|date=October 2012}}
+{{coord|51|41|S|59|10|W|scale:2500000_source:GNS|display=title}}
+
+[[Category:Falkland Islands| ]]
+[[Category:Disputed islands]]
+[[Category:English-speaking countries and territories]]
+[[Category:Geographical naming disputes]]
+[[Category:States and territories established in 1833]]
+
+{{Link GA|no}}
+&lt;!--Interwikis--&gt;
+
+[[af:Falkland-eilande]]
+[[ang:Folcland Īegland]]
+[[ar:جزر فوكلاند]]
+[[an:Islas Malvinas]]
+[[ast:Islles Malvines]]
+[[az:Folklend adaları]]
+[[bn:ফক্‌ল্যান্ড দ্বীপপুঞ্জ]]
+[[zh-min-nan:Falkland Kûn-tó]]
+[[be:Фалклендскія астравы]]
+[[be-x-old:Фолклэндзкія астравы]]
+[[bcl:Islang Falkland]]
+[[bg:Фолкландски острови]]
+[[bs:Falklandska ostrva]]
+[[br:Inizi Maloù]]
+[[ca:Illes Malvines]]
+[[ceb:Kapupud-ang Falkland]]
+[[cs:Falklandy]]
+[[cy:Ynysoedd y Falklands]]
+[[da:Falklandsøerne]]
+[[de:Falklandinseln]]
+[[dv:ފޯލްކުލޭންޑު ޖަޒީރާ]]
+[[dsb:Falklandy]]
+[[et:Falklandi saared]]
+[[el:Νήσοι Φώκλαντ]]
+[[es:Islas Malvinas]]
+[[eo:Insuloj Falklandoj]]
+[[eu:Falkland uharteak]]
+[[fa:جزایر فالکلند]]
+[[hif:Falkland Islands]]
+[[fo:Falklandsoyggjar]]
+[[fr:Îles Malouines]]
+[[fy:Falklâneilannen]]
+[[ga:Oileáin Fháclainne]]
+[[gd:Na h-Eileanan Fàclainn]]
+[[gl:Illas Malvinas - Falkland Islands]]
+[[gu:ફૉકલેન્ડ ટાપુઓ]]
+[[hak:Fuk-khiet-làn khiùn-tó]]
+[[ko:포클랜드 제도]]
+[[hy:Ֆոլկլենդյան կղզիներ]]
+[[hi:फ़ॉकलैंड द्वीपसमूह]]
+[[hsb:Falklandske kupy]]
+[[hr:Falklandski otoci]]
+[[io:Falklandi]]
+[[bpy:ফ্লাকল্যান্ড দ্বীপমালা]]
+[[id:Kepulauan Falkland]]
+[[ia:Insulas Falkland]]
+[[os:Фолкленды (Мальвины) сакъадæхтæ]]
+[[is:Falklandseyjar]]
+[[it:Isole Falkland]]
+[[he:איי פוקלנד]]
+[[jv:Kapuloan Falkland]]
+[[ka:ფოლკლენდის კუნძულები]]
+[[kk:Фолкленд аралдары]]
+[[kw:Ynysow Falkland]]
+[[rw:Ibirwa bya Folukilande]]
+[[sw:Visiwa vya Falkland]]
+[[mrj:Фолкленд ошмаотывлӓ]]
+[[la:Insulae Malvinae]]
+[[lv:Folklenda Salas]]
+[[lb:Falkland Inselen]]
+[[lt:Folklando (Malvinų) Salos]]
+[[lij:Isoe Falkland]]
+[[li:Falklandeilen]]
+[[hu:Falkland-szigetek]]
+[[mk:Фолкландски Острови]]
+[[ml:ഫോക്ക്‌ലാന്റ് ദ്വീപുകൾ]]
+[[mr:फॉकलंड द्वीपसमूह]]
+[[xmf:ფოლკლენდიშ კოკეფი]]
+[[arz:جزر فوكلاند]]
+[[mzn:فالکلند]]
+[[ms:Kepulauan Falkland]]
+[[nl:Falklandeilanden]]
+[[ja:フォークランド諸島]]
+[[no:Falklandsøyene]]
+[[nn:Falklandsøyane]]
+[[nrm:Îles Falkland]]
+[[nov:Falklande Isles]]
+[[oc:Illas Malvinas]]
+[[nds:Falklandinseln]]
+[[pl:Falklandy]]
+[[pt:Ilhas Malvinas]]
+[[ro:Insulele Falkland]]
+[[qu:Malwina wat'akuna]]
+[[ru:Фолклендские острова]]
+[[sah:Фолклэнд арыылара]]
+[[se:Falklandsullot]]
+[[sq:Ishujt Falkland]]
+[[scn:Ìsuli Falkland]]
+[[simple:Falkland Islands]]
+[[sk:Falklandy]]
+[[sl:Falklandski otoki]]
+[[sr:Фолкландска острва]]
+[[sh:Falklandi]]
+[[su:Kapuloan Falkland]]
+[[fi:Falklandinsaaret]]
+[[sv:Falklandsöarna]]
+[[tl:Kapuluang Falkland]]
+[[ta:போக்லாந்து தீவுகள்]]
+[[tt:Фолкленд утраулары]]
+[[th:หมู่เกาะฟอล์กแลนด์]]
+[[tg:Ҷазираҳои Фолкланд]]
+[[tr:Falkland Adaları]]
+[[uk:Фолклендські острови]]
+[[ur:جزائر فاکلینڈ]]
+[[ug:فالكلاند تاقىم ئاراللىرى]]
+[[vi:Quần đảo Falkland]]
+[[zh-classical:福克蘭群島]]
+[[war:Kapuropud-an Falkland]]
+[[wo:Dunu Falkland]]
+[[wuu:富克朗特群岛]]
+[[yi:פאלקלאנד אינזלען]]
+[[yo:Àwọn Erékùṣù Falkland]]
+[[zh-yue:福克蘭羣島]]
+[[bat-smg:Malvėnu salas]]
+[[zh:福克兰群岛]]</text>
+      <sha1>36fm45d06zanoylfoqhjv06e0z4ik50</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

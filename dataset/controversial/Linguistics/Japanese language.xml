@@ -1,0 +1,601 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Japanese language</title>
+    <ns>0</ns>
+    <id>15606</id>
+    <revision>
+      <id>521109653</id>
+      <parentid>521105794</parentid>
+      <timestamp>2012-11-02T21:03:38Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>8066546</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.3) (Robot: Modifying [[pa:ਜਾਪਾਨੀ ਬੋਲੀ]] to [[pa:ਜਾਪਾਨੀ ਭਾਸ਼ਾ]]</comment>
+      <text xml:space="preserve" bytes="68337">{{Infobox language
+|name = Japanese |nativename={{lang|ja|日本語}} ''Nihongo''
+|pronunciation ={{IPA-ja|nihoŋɡo|}}
+|states = [[Japan]]
+|ethnicity=[[Japanese people|Japanese]] ([[Yamato people|Yamato]])
+|speakers = 127 million
+|date = 2007
+| ref=&lt;ref&gt;[[Nationalencyklopedin]] &quot;Världens 100 största språk 2007&quot; The World's 100 Largest Languages in 2007&lt;/ref&gt;
+|familycolor = Altaic
+|fam1=[[Altaic languages|Altaic]] (controversial)
+|fam2 = [[Japonic languages|Japonic]]
+|script = [[Japanese writing system|Japanese logographs and syllabaries]], [[Chinese characters]], [[rōmaji]], [[Siddham script]] (occasionally in Buddhist temples.)
+|nation = 
+|iso1 = ja
+|iso2 = jpn
+|iso3 = jpn
+|lingua = 45-CAA-a
+|image = Nihongo.svg
+|imagecaption = ''Nihongo'' (''Japanese'') &lt;br&gt;in [[Japanese writing system|Japanese script]]
+|imagesize = 75px
+|imageheader = 
+|map=
+|mapcaption=
+|notice=IPA
+}}
+{{Contains Japanese text}}
+{{Nihongo|'''Japanese'''|日本語|Nihongo|{{IPA-ja|nihoŋɡo||ja-nihongo.ogg}}}} is an [[East Asian]] [[language]] spoken by over 120&amp;nbsp;million&lt;ref&gt;{{cite web|url=http://web.mit.edu/jpnet/articles/JapaneseLanguage.html|title= Japanese Language|publisher=MIT|accessdate=2009-05-13}}&lt;/ref&gt; people in [[Japan]] and [[overseas Japanese]] communities. It is a member of the [[Japonic languages|Japonic]] (or Japanese-Ryukyuan) language family, which has a number of proposed relationships with other languages, none of which have gained wide acceptance among [[historical linguistics|historical linguists]] (see [[Classification of Japonic]]).&lt;ref&gt;Shibatani, Masayoshi. (1990). ''The languages of Japan''. Cambridge: Cambridge University Press. p 94.&lt;/ref&gt;
+
+Japanese is an [[agglutinative language]] and a [[mora (linguistics)|mora]]-timed language. It has a relatively small sound inventory, and a lexically significant [[Japanese pitch accent|pitch-accent]] system. It is distinguished by a complex system of [[Honorific speech in Japanese|honorifics]] reflecting the nature of Japanese society, with verb forms and particular vocabulary to indicate the relative status of the speaker, the listener, and persons mentioned in conversation. Japanese vowels are [[monophthong|pure]].
+
+The Japanese language is written with a combination of three scripts: [[Chinese characters]] called {{Nihongo|''[[kanji]]''|漢字}}, and two [[syllabary|syllabic]] (or [[Mora (linguistics)|moraic]]) scripts made of modified [[Chinese characters]], {{Nihongo|''[[hiragana]]''|ひらがな or 平仮名}} and {{Nihongo|''[[katakana]]''|カタカナ or 片仮名}}. The [[Latin script]] is also often used in modern Japanese, especially for company names and logos, advertising, and when entering Japanese text into a computer. [[Arabic numerals]] are generally used for numbers, but traditional [[Sino-Japanese vocabulary|Sino-Japanese]] numerals are also commonplace (see [[Japanese numerals]]).
+
+Although Japanese is written using Chinese characters, and has historically imported many words of Chinese origin, the two languages are not considered to have a [[Genetic relationship (linguistics)|genealogical relationship]].
+
+==History==
+
+===Prehistory===
+A common ancestor of Japanese and Ryukyuan languages or dialects is thought{{by whom|date=August 2012}} to have been brought to Japan by settlers coming from either continental Asia or nearby Pacific islands (or both) sometime in the early- to mid-2nd century BC (the [[Yayoi period]]), replacing the language(s) of the original [[Jōmon]] inhabitants,&lt;ref&gt;{{cite news|url=http://www.nytimes.com/2011/05/04/world/asia/04language.html|title=Finding on Dialects Casts New Light on the Origins of the Japanese People|first=Nicholas|last=Wade|work=[[The New York Times]]|date=May 4, 2011|accessdate=May 7, 2011}}&lt;/ref&gt; including the ancestor of the modern [[Ainu language]]. Very little is known about the Japanese of this period – because writing had yet to be introduced from China, there is no direct evidence; so anything that can be discerned about this period of Japanese must be based on reconstructions of [[Old Japanese]].
+
+===Old Japanese===
+{{main|Old Japanese}}
+Old Japanese is the first attested written form of Japanese – the earliest text, the [[Kojiki]], dates to the early 8th century AD; the end of Old Japanese coincides with the end of the [[Nara period]] in 794. Old Japanese uses the [[Man'yōgana]] system of writing, which uses kanji for their phonetic values as well as semantic. Based on the Man'yōgana system, Old Japanese can be reconstructed as having 88 distinct syllables; texts written with Man'yōgana use two different kanji for each of the syllables now pronounced {{lang|ja|き ki, ひ hi, み mi, け ke, へ he, め me, こ ko, そ so, と to, の no, も mo, よ yo and ろ ro}}&lt;ref&gt;Shinkichi Hashimoto (February 3, 1918)「国語仮名遣研究史上の一発見―石塚龍麿の仮名遣奥山路について」『帝国文学』26-11(1949『文字及び仮名遣の研究(橋本進吉博士著作集 第3冊)』(岩波書店)。&lt;/ref&gt; (the Kojiki has 88, but all later texts have 87, the distinction between mo&lt;sub&gt;1&lt;/sub&gt; and mo&lt;sub&gt;2&lt;/sub&gt; apparently being lost immediately following its composition). This set of syllables shrinks to 67 in [[Early Middle Japanese]] (though some were added through Chinese influence).
+
+Due to these extra syllables, it has been hypothesized that Old Japanese's vowel system was larger than Modern Japanese's – perhaps containing up to eight vowels. According to [[Shinkichi Hashimoto]], the extra in Man'yōgana derive from differences between the vowels of the syllables in question.&lt;ref&gt;大野 晋 (1953)『上代仮名遣の研究』(岩波書店)p.126&lt;/ref&gt; These differences would indicate that Old Japanese had an eight-vowel system,&lt;ref&gt;大野 晋 (1982)『仮名遣いと上代語』(岩波書店)p.65&lt;/ref&gt; in contrast to later Japanese's five vowels. The vowel system would have to have shrunk some time between these texts and the invention of the [[kana]] in the early 9th century. According to this view, the eight-vowel system of ancient Japanese would resemble that of the Uralic and [[Altaic language]] families.&lt;ref&gt;有坂 秀世 (1931)「国語にあらはれる一種の母音交替について」『音声の研究』第4輯(1957年の『国語音韻史の研究 増補新版』(三省堂)&lt;/ref&gt; However, it is not fully certain that the alternation between syllables necessarily reflects a difference in the vowels rather than the consonants – at the moment, the only undisputed fact is that they are different syllables.
+
+Old Japanese does not have {{IPA|/h/}}, but rather {{IPA|/ɸ/}} (preserved in modern ''fu'', {{IPA|/ɸɯ/}}), which has been reconstructed to an earlier {{IPA|/*p/}}. Man'yōgana also has a symbol for {{IPA|/je/}}, which merges with {{IPA|/e/}} before the end of the period.
+
+Several fossilizations of Old Japanese grammatical elements remain in the modern language – the genitive particle ''tsu'' (superseded by modern ''no'') is preserved in words such as ''matsuge'' (&quot;eyelash&quot;, lit. &quot;hair of the eye&quot;); modern ''mieru'' (&quot;to be visible&quot;) and ''kikoeru'' (&quot;to be audible&quot;) retain what may have been a frequentative suffix -''ru'' (''kikoyu'' &gt; ''kikoyuru'' (the attributive form, which slowly replaced the plain form starting in the late Heian period) &gt; ''kikoeru'' (as all shimo-nidan verbs in modern Japanese did)); and the genitive particle ''ga'' remains in intentionally archaic speech.
+
+===Early Middle Japanese===
+{{main|Early Middle Japanese}}
+Early Middle Japanese is the Japanese of the [[Heian period]], from 794 to 1185. Early Middle Japanese sees a significant amount of Chinese influence on the language's phonology – length distinctions become phonemic for both consonants and vowels, and series of both labialised (e.g. ''kwa'') and palatalised (''kya'') consonants are added.{{Citation needed|date=February 2011}} Intervocalic {{IPA|/ɸ/}} merges with {{IPA|/w/}} by the 11th century.
+The end of Early Middle Japanese sees the beginning of a shift where the attributive form (Japanese ''rentaikei'') slowly replaces the uninflected form (''shūshikei'').
+
+===Late Middle Japanese===
+{{main|Late Middle Japanese}}
+Late Middle Japanese covers the years from 1185 to 1600, and is normally divided into two sections, roughly equivalent to the [[Kamakura period]] and the [[Muromachi period]], respectively. The later forms of Late Middle Japanese are the first to be described by non-native sources, in this case the [[Jesuits|Jesuit]] and [[Franciscans|Franciscan]] missionaries; and thus there is better documentation of Late Middle Japanese phonology than for previous forms (for instance, the [[Arte da Lingoa de Iapam]]). Among other sound changes, the sequence {{IPA|/au/}} merges to {{IPA|/ɔː/}}, in contrast with {{IPA|/oː/}}; {{IPA|/p/}} is reintroduced from Chinese; and {{IPA|/we/}} merges with {{IPA|/je/}}. Some forms rather more familiar to Modern Japanese speakers begin to appear – the continuative ending -''te'' begins to reduce onto the verb (e.g. ''yonde'' for earlier ''yomite''), the -k- in the final syllable of adjectives drops out (''shiroi'' for earlier ''shiroki''); and some forms exist where modern standard Japanese has retained the earlier form (e.g. ''hayaku'' &gt; ''hayau'' &gt; ''hayɔɔ'', where modern Japanese just has ''hayaku'', though the alternative form is preserved in the standard greeting ''o-hayō gozaimasu'' &quot;good morning&quot;; this ending is also seen in ''o-medetō'' &quot;congratulations&quot;, from ''medetaku'').
+
+Late Middle Japanese has the first loanwords from European languages – now-common words borrowed into Japanese in this period include ''pan'' (&quot;bread&quot;) and ''tabako'' (&quot;tobacco&quot;, now &quot;cigarette&quot;), both from [[Portuguese language|Portuguese]].
+
+===Modern Japanese===
+{{See also|Early Modern Japanese}}
+Modern Japanese is considered to begin with the [[Edo period]] in 1600. Since old to middle, the de facto Standard Japanese had been Kansai dialect, especially Kyoto. However, during the Edo period, Edo (now Tokyo) developed into the largest city in Japan, and Edo Tokyo dialect became the Standard Japanese position. Since the end of [[Sakoku]] in 1853, the flow of loanwords from European languages has increased significantly – the last half-century or so has seen a very large volume of words borrowed from English,&lt;ref&gt;Miura, Akira, ''English in Japanese'', Weatherhill, 1998.&lt;/ref&gt; especially words about technology, including ''pasokon'' (a shortening of &quot;personal computer&quot;), ''intānetto'' (&quot;[[Internet]]&quot;), and ''kamera'' (&quot;camera&quot;). Due to the large quantities of English loanwords, modern Japanese has developed a distinction between {{IPA|/tɕi/}} and {{IPA|/ti/}}, and {{IPA|/dʑi/}} and {{IPA|/di/}}; with the latter in each pair only found in loanwords.
+
+==Geographic distribution==
+Although Japanese is spoken almost exclusively in Japan, it has been spoken outside. Before and during [[World War II]], when [[Imperial Japan|Japan]] occupied [[Korea]], [[Taiwan]], parts of [[China]], the [[Philippines]], and various Pacific islands,&lt;ref&gt;Japanese is listed as one of the official languages of [[Angaur]] state, [[Palau]] ([http://www.ethnologue.com/show_country.asp?name=PW Ethnologe], [https://www.cia.gov/library/publications/the-world-factbook/geos/ps.html CIA World Factbook]). However, very few Japanese speakers were recorded in the [http://www.spc.int/prism/country/pw/stats/PalauStats/Publication/2005CENSUS.pdf 2005 census].&lt;/ref&gt; locals in [[Greater East Asia Co-Prosperity Sphere|those countries]] learned Japanese as the language of the empire. As a result, many elderly people in these countries can still speak Japanese.
+
+Japanese emigrant communities (the largest of which are to be found in [[Brazil]],&lt;ref name=&quot;IBGE traça perfil dos imigrantes&quot;&gt;[http://madeinjapan.uol.com.br/2008/06/21/ibge-traca-perfil-dos-imigrantes/ IBGE traça perfil dos imigrantes]&lt;/ref&gt; with 1.4 million to 1.5 million Japanese immigrants and descendants, according to Brazilian [[Brazilian Institute of Geography and Statistics|IBGE]] data, more than the 1.2 million of the [[United States]]&lt;ref&gt;[http://factfinder.census.gov/servlet/IPTable?_bm=y&amp;-geo_id=01000US&amp;-qr_name=ACS_2005_EST_G00_S0201&amp;-qr_name=ACS_2005_EST_G00_S0201PR&amp;-qr_name=ACS_2005_EST_G00_S0201T&amp;-qr_name=ACS_2005_EST_G00_S0201TPR&amp;-reg=ACS_2005_EST_G00_S0201:041;ACS_2005_EST_G00_S0201PR:041;ACS_2005_EST_G00_S0201T:041;ACS_2005_EST_G00_S0201TPR:041&amp;-ds_name=ACS_2005_EST_G00_&amp;-_lang=en US Census data 2005]&lt;/ref&gt;) sometimes employ Japanese as their primary language. Approximately 12% of [[Hawaii]] residents speak Japanese,&lt;ref&gt;[http://www.mla.org/map_data_results&amp;mode=lang_tops&amp;SRVY_YEAR=2000&amp;lang_id=723 Japanese speakers by state according to MLA Language Map Data Center]&lt;/ref&gt; with an estimated 12.6% of the population of Japanese ancestry in 2008. Japanese emigrants can also be found in [[Peru]], [[Argentina]], [[Australia]] (especially in the eastern states), [[Canada]] (especially in [[Vancouver]] where 1.4% of the population has Japanese ancestry&lt;ref&gt;http://www12.statcan.ca/census-recensement/2006/dp-pd/hlt/97-562/pages/page.cfm?Lang=E&amp;Geo=CMA&amp;Code=933&amp;Data=Count&amp;Table=2&amp;StartRec=1&amp;Sort=3&amp;Display=All&amp;CSDFilter=5000&lt;/ref&gt;), the [[United States]] (notably [[California]], where 1.2% of the population has Japanese ancestry,{{Citation needed|date=February 2009}} and [[Hawaii]]), and the [[Philippines]] (particularly in [[Davao]] and [[Laguna (province)|Laguna]]).
+
+===Official status===
+Japanese is the ''[[de facto]]'' official language of Japan. There is a form of the language considered standard: {{nihongo|''hyōjungo''|標準語|}}, meaning &quot;standard Japanese&quot;, or {{nihongo|''kyōtsūgo''|共通語|}}, &quot;common language&quot;. The meanings of the two terms are almost the same. ''Hyōjungo'' or ''kyōtsūgo'' is a conception that forms the counterpart of dialect. This normative language was born after the {{nihongo|[[Meiji Restoration]]|明治維新|meiji ishin|1868}} from the language spoken in the higher-class areas of Tokyo (see [[Yamanote]]) for communicating necessity. ''Hyōjungo'' is taught in schools and used on television and in official communications. It is the version of Japanese discussed in this article.
+
+Formerly, standard {{nihongo|Japanese in writing|文語|[[Bungo (Japanese language)|bungo]]|&quot;literary language&quot;}} was different from {{nihongo|colloquial language|口語|[[Kogo (Japanese language)|kōgo]]}}. The two systems have different rules of grammar and some variance in vocabulary. ''Bungo'' was the main method of writing Japanese until about 1900; since then ''kōgo'' gradually extended its influence and the two methods were both used in writing until the 1940s. ''Bungo'' still has some relevance for historians, literary scholars, and lawyers (many Japanese laws that survived [[World War II]] are still written in ''bungo'', although there are ongoing efforts to modernize their language). ''Kōgo'' is the dominant method of both speaking and writing Japanese today, although ''bungo'' grammar and vocabulary are occasionally used in modern Japanese for effect.
+
+===Dialects===
+{{Main|Japanese dialects}}
+{{See also|Japanese Archipelago}}
+[[File:Japanese dialects-en.png|thumb|right|350px|Map of Japanese dialects and Japonic languages]]
+
+Dozens of dialects are spoken in Japan. The profusion is due to many factors, including the length of time the archipelago has been inhabited, its mountainous island terrain, and Japan's long history of both external and internal isolation. Dialects typically differ in terms of [[Japanese pitch accent|pitch accent]], inflectional [[morphology (linguistics)|morphology]], [[vocabulary]], and particle usage. Some even differ in [[vowel]] and [[consonant]] inventories, although this is uncommon.
+
+The main distinction in Japanese accents is between {{nihongo|Tokyo-type|東京式|Tōkyō-shiki}} and {{nihongo|Kyoto-Osaka-type|京阪式|Keihan-shiki}}. Within each type are several subdivisions. Kyoto-Osaka-type dialects are in the central region, roughly formed by [[Kansai region|Kansai]], [[Shikoku]], and western [[Hokuriku region]]s.
+
+Dialects from peripheral regions, such as [[Tōhoku Region|Tōhoku]] or [[Kagoshima Prefecture|Kagoshima]], may be unintelligible to speakers from other parts of the country. There are some [[language island]]s in mountain villages or isolated islands such as [[Hachijōjima|Hachijō-jima island]] whose dialect are descended from the Eastern dialect of [[Old Japanese]]. Dialects of the [[Kansai region]] are spoken or known by many Japanese, and [[Osaka]] dialect in particular is associated with comedy (see [[Kansai dialect]]). Dialects of Tōhoku and North [[Kantō region|Kantō]] are associated with typical farmers.
+
+The [[Ryūkyūan languages]], spoken in [[Okinawa Prefecture|Okinawa]] and the [[Amami Islands]] (politically part of [[Kagoshima Prefecture|Kagoshima]]), are distinct enough to be considered a separate branch of the [[Japonic languages|Japonic]] family; not only is each language unintelligible to Japanese speakers, but most are unintelligible to those who speak other Ryūkyūan languages. However, in contrast to linguists, many ordinary Japanese people tend to consider the Ryūkyūan languages as dialects of Japanese. This is the result of the official language policy of the Japanese government, which has declared those languages to be dialects and prohibited their use in schools. 
+
+Standard Japanese has become prevalent nationwide (including the Ryūkyū islands) due to [[education]], [[mass media]], and an increase of mobility within Japan, as well as economic integration.
+
+===Classification===
+{{See also|Classification of Japonic}}
+
+Japanese is a member of the [[Japonic languages]] family, which also includes the [[Ryukyuan languages|languages]] spoken throughout the [[Ryūkyū Islands]]. As these closely related languages are commonly treated as dialects of the same language, Japanese is often called a [[language isolate]], but strictly speaking this is a misnomer, since the Ryukyuan languages are linguistically distinct.
+
+The hypothesis that Japanese might be related to [[Korean language|Korean]] has had some supporters due to some apparent overlap in vocabulary and similar grammatical features that have been elaborated upon by such researchers as [[Samuel Martin (linguist)|Samuel E. Martin]]&lt;ref&gt;eg Martin 1966, 1990&lt;/ref&gt; and [[Roy Andrew Miller]].&lt;ref&gt;eg Miller 1971, 1996&lt;/ref&gt; Other linguists, most notably [[Alexander Vovin]], argue, however, that the similarities are not due to any genetic relationship, but rather to a ''[[sprachbund]]'' effect and heavy borrowing especially from ancient Korean into Western Old Japanese.&lt;ref&gt;Vovin 2008&lt;/ref&gt; A good example might be Middle Korean ''sàm'' and Japanese ''asa'' ‘hemp’.&lt;ref&gt;Whitman 1985: 232, also found in Martin 1966: 233&lt;/ref&gt; This word seems to be cognate, but while it is well-attested in Western Old Japanese and Northern Ryūkyū, in Eastern Old Japanese it only occurs in compounds, and it is only present in three subdialects of the South-Ryūkyūan dialect group. Then, the doublet ''wo'' ‘hemp’ is attested in Western Old Japanese and Southern Ryūkyū. It is thus plausible to assume a borrowed term.&lt;ref&gt;Vovin 2008: 211-212&lt;/ref&gt; See [[East Asian languages#Morphology|East Asian languages]] for morphological features shared among languages of the East Asian ''sprachbund''.
+
+==Phonology==
+{{Main|Japanese phonology}}
+{{IPA notice}}
+
+All Japanese vowels are pure—that is, there are no [[diphthong]]s, only [[monophthong]]s. The only unusual vowel is the high back vowel {{IPA|/ɯ/}} {{Audio|U (Japanese).ogg|''listen''}}, which is like {{IPA|/u/}}, but [[roundedness|compressed]] instead of rounded. Japanese has five vowels, and [[vowel length]] is phonemic, with each having both a short and a long version.  Elongated vowels are usually denoted with a line over the vowel (a [[macron]]) in [[Romanization of Japanese|rōmaji]], or a [[chōonpu]] succeeding the vowel in Japanese.
+
+Some Japanese consonants have several [[allophone]]s, which may give the impression of a larger inventory of sounds. However, some of these allophones have since become phonemic. For example, in the Japanese language up to and including the first half of the 20th century, the phonemic sequence {{IPA|/ti/}} was [[palatalization|palatalized]] and realized phonetically as {{IPA|[tɕi]}}, approximately ''chi'' {{Audio|Chi_(Japanese).ogg|''listen''}}; however, now {{IPA|/ti/}} and {{IPA|/tɕi/}} are distinct, as evidenced by words like ''tī'' {{IPA|[tiː]}} &quot;Western style tea&quot; and ''chii'' {{IPA|[tɕii]}} &quot;social status&quot;.
+
+The &quot;r&quot; of the Japanese language (technically a [[lateral consonant|lateral]] [[apical consonant|apical]] postalveolar flap), is of particular interest, sounding to most English speakers to be something between an &quot;l&quot; and a [[retroflex consonant|retroflex]] &quot;r&quot; depending on its position in a word. The &quot;g&quot; is also notable; unless it starts a sentence, it is pronounced {{IPA|/ŋ/}}, like the ''ng'' in &quot;sing,&quot; in the Kanto prestige dialect and in other eastern dialects.
+
+The syllabic structure and the [[phonotactics]] are very simple: the only [[consonant cluster]]s allowed within a syllable consist of one of a subset of the consonants plus {{IPA|/j/}}. These type of clusters only occur in onsets. However, consonant clusters across syllables are allowed as long as the two consonants are a nasal followed by a [[homorganic]] consonant. [[Consonant length]] (gemination) is also phonemic.
+
+==Grammar==
+&lt;!--Please keep in mind that this section is intended to be a summary and should not dominate the article. If you feel like going in-depth about something regarding Japanese grammar, please add it to the main article linked below.--&gt;
+{{Main|Japanese grammar}}
+
+===Sentence structure===
+Japanese word order is classified as [[subject–object–verb]]. Unlike many [[Indo-European languages]], the only strict rule of word order is that the verb must be placed at the end of a sentence; other elements in the sentence may be in various orders for emphasis, or possibly omitted.&lt;ref&gt;{{cite web | last = Allen | first = Kim | title = Japanese Sentence Structure | year = 2000 | url = http://kimallen.sheepdogdesign.net/Japanese/senstruc.html | accessdate = 2008-02-29}}&lt;/ref&gt; This is because the Japanese sentence elements are marked with [[Japanese particles|particles]] that identify their grammatical functions.
+
+The basic sentence structure is [[topic–comment]]. For example, ''Kochira wa Tanaka-san desu'' ({{lang|ja|こちらは田中さんです}}). ''kochira'' (&quot;this&quot;) is the topic of the sentence, indicated by the particle '' wa''. The verb is ''desu'', a [[Copula (linguistics)|copula]], commonly translated as &quot;to be&quot; or &quot;it is&quot; (though there are other verbs that can be translated as &quot;to be&quot;), though technically it holds no meaning and is used to give a sentence 'politeness'. As a phrase, ''Tanaka-san desu'' is the comment. This sentence literally translates to &quot;As for this person, (it) is Mr./Ms. Tanaka.&quot; Thus Japanese, like many other Asian languages, is often called a [[topic-prominent language]], which means it has a strong tendency to indicate the topic separately from the subject, and the two do not always coincide. The sentence ''Zō wa hana ga nagai '' ({{lang|ja|象は鼻が長い}}) literally means, &quot;As for elephant(s), (the) nose(s) (is/are) long&quot;. The topic is ''zō'' &quot;elephant&quot;, and the subject is ''hana'' &quot;nose&quot;.
+
+In Japanese, the subject or object of a sentence need not be stated if it is obvious from context. As a result of this grammatical permissiveness, there is a tendency to gravitate towards brevity; Japanese speakers tend to omit [[pronoun]]s on the theory they are inferred from the previous sentence, and are therefore understood. In the context of the above example, ''hana-ga nagai'' would mean &quot;[their] noses are long,&quot; while ''nagai'' by itself would mean &quot;[they] are long.&quot; A single verb can be a complete sentence: ''Yatta!'' ({{lang|ja|やった!}})&quot;[I / we / they / etc] did [it]!&quot;. In addition, since adjectives can form the predicate in a Japanese sentence (below), a single adjective can be a complete sentence: ''Urayamashii!'' ({{lang|ja|羨ましい!}})&quot;[I'm] jealous [of it]!&quot;.
+
+While the language has some words that are typically translated as pronouns, these are not used as frequently as pronouns in some Indo-European languages, and function differently. Instead, Japanese typically relies on special verb forms and auxiliary verbs to indicate the direction of benefit of an action: &quot;down&quot; to indicate the out-group gives a benefit to the in-group; and &quot;up&quot; to indicate the in-group gives a benefit to the out-group. Here, the in-group includes the speaker and the out-group does not, and their boundary depends on context. For example, ''oshiete moratta'' ({{lang|ja|教えてもらった}}) (literally, &quot;explained&quot; with a benefit from the out-group to the in-group) means &quot;[he/she/they] explained [it] to [me/us]&quot;. Similarly, ''oshiete ageta'' ({{lang|ja|教えてあげた}}) (literally, &quot;explained&quot; with a benefit from the in-group to the out-group) means &quot;[I/we] explained [it] to [him/her/them]&quot;. Such beneficiary auxiliary verbs thus serve a function comparable to that of pronouns and prepositions in Indo-European languages to indicate the actor and the recipient of an action.
+
+[[Japanese pronouns|Japanese &quot;pronouns&quot;]] also function differently from most modern Indo-European pronouns (and more like nouns) in that they can take modifiers as any other noun may. For instance, one does not say in English:
+: *The amazed he ran down the street. (grammatically incorrect insertion of a pronoun)
+But one ''can'' grammatically say essentially the same thing in Japanese:
+: {{lang|ja|驚いた彼は道を走っていった。}}
+: ''Odoroita kare wa michi o hashitte itta.'' (grammatically correct)
+
+This is partly because these words evolved from regular nouns, such as ''kimi'' &quot;you&quot; ({{lang|ja|君}} &quot;lord&quot;), ''anata'' &quot;you&quot; ({{lang|ja|あなた}} &quot;that side, yonder&quot;), and ''boku'' &quot;I&quot; ({{lang|ja|僕}} &quot;servant&quot;). This is why some linguists do not classify Japanese &quot;pronouns&quot; as pronouns, but rather as referential nouns, much like Spanish ''usted'' (contracted from ''vuestra merced'', &quot;your [(flattering [[Majestic plural|majestic]]) [[Majestic plural|plural]]] grace&quot;) or Portuguese ''o senhor''. Japanese personal pronouns are generally used only in situations requiring special emphasis as to who is doing what to whom.
+
+The choice of words used as pronouns is correlated with the sex of the speaker and the social situation in which they are spoken: men and women alike in a formal situation generally refer to themselves as ''watashi'' ({{lang|ja|私}} &quot;private&quot;) or ''watakushi'' (also {{lang|ja|私}}), while men in rougher or intimate conversation are much more likely to use the word ''ore'' ({{lang|ja|俺}} &quot;oneself&quot;, &quot;myself&quot;) or ''boku''. Similarly, different words such as ''anata'', ''kimi'', and ''omae'' ({{lang|ja|お前}}, more formally {{lang|ja|御前}} &quot;the one before me&quot;) may be used to refer to a listener depending on the listener's relative social position and the degree of familiarity between the speaker and the listener. When used in different social relationships, the same word may have positive (intimate or respectful) or negative (distant or disrespectful) connotations.
+
+Japanese often use titles of the person referred to where pronouns would be used in English. For example, when speaking to one's teacher, it is appropriate to use ''sensei'' ({{lang|ja|先生}}, teacher), but inappropriate to use ''anata''. This is because ''anata'' is used to refer to people of equal or lower status, and one's teacher has higher status.
+
+===Inflection and conjugation===
+Japanese nouns have no grammatical number, gender or article aspect. The noun ''hon'' ({{lang |ja|本}}) may refer to a single book or several books; ''hito'' ({{lang|ja|人}}) can mean &quot;person&quot; or &quot;people&quot;; and ''ki'' ({{lang |ja|木}}) can be &quot;tree&quot; or &quot;trees&quot;. Where number is important, it can be indicated by providing a quantity (often with a [[Japanese counter word|counter word]]) or (rarely) by adding a suffix.&lt;!--example? meaning &quot;hito-tachi&quot; and &quot;mono-domo&quot;?--&gt; Words for people are usually understood as singular. Thus ''Tanaka-san'' usually means ''Mr./Ms. Tanaka''. Words that refer to people and animals can be made to indicate a group of individuals through the addition of a collective suffix (a noun suffix that indicates a group), such as ''-tachi'', but this is not a true plural: the meaning is closer to the English phrase &quot;and company&quot;. A group described as ''Tanaka-san-tachi'' may include people not named Tanaka. Some Japanese nouns are effectively plural, such as ''hitobito'' &quot;people&quot; and ''wareware'' &quot;we/us&quot;, while the word ''tomodachi'' &quot;friend&quot; is considered singular, although plural in form.
+
+Verbs are [[Japanese verb conjugations|conjugated]] to show tenses, of which there are two: past and present, or non-past, which is used for the present and the future. For verbs that represent an ongoing process, the ''-te iru'' form indicates a continuous (or progressive) [[grammatical aspect|aspect]], similar to the suffix ''ing'' in English. For others that represent a change of state, the ''-te iru'' form indicates a perfect aspect. For example, ''kite iru'' means &quot;He has come (and is still here)&quot;, but ''tabete iru'' means &quot;He is eating&quot;.
+
+Questions (both with an interrogative pronoun and yes/no questions) have the same structure as affirmative sentences, but with intonation rising at the end. In the formal register, the question particle ''-ka'' is added. For example, ''Ii desu'' ({{lang|ja|いいです}}) &quot;It is OK&quot; becomes ''Ii desu-ka'' ({{lang|ja|いいですか？}}) &quot;Is it OK?&quot;. In a more informal tone sometimes the particle ''-no'' ({{lang|ja|の}}) is added instead to show a personal interest of the speaker: ''Dōshite konai-no?'' &quot;Why aren't (you) coming?&quot;. Some simple queries are formed simply by mentioning the topic with an interrogative intonation to call for the hearer's attention: ''Kore wa?'' &quot;(What about) this?&quot;; ''Namae wa?'' ({{lang|ja|名前は？}}) &quot;(What's your) name?&quot;.
+
+Negatives are formed by inflecting the verb. For example, ''Pan o taberu'' ({{lang|ja|パンを食べる。}}) &quot;I will eat bread&quot; or &quot;I eat bread&quot; becomes ''Pan o tabenai'' ({{lang|ja|パンを食べない。}}) &quot;I will not eat bread&quot; or &quot;I do not eat bread&quot;. Plain negative forms are actually ''i''-adjectives (see below) and inflect as such, e.g. ''Pan o tabenakatta'' ({{lang|ja|パンを食べなかった。}}) &quot;I did not eat bread&quot;.
+
+The so-called ''-te'' verb form is used for a variety of purposes: either progressive or perfect aspect (see above); combining verbs in a temporal sequence (''Asagohan o tabete sugu dekakeru'' &quot;I'll eat breakfast and leave at once&quot;), simple commands, conditional statements and permissions (''Dekakete-mo ii?'' &quot;May I go out?&quot;), etc.
+
+The word ''da'' (plain), ''desu'' (polite) is the [[Copula (linguistics)#Japanese|copula]] verb. It corresponds approximately to the English ''be'', but often takes on other roles, including a marker for tense, when the verb is conjugated into its past form ''datta'' (plain), ''deshita'' (polite). This comes into use because only ''i''-adjectives and verbs can carry tense in Japanese. Two additional common verbs are used to indicate existence (&quot;there is&quot;) or, in some contexts, property: ''aru'' (negative ''nai'') and ''iru'' (negative ''inai''), for inanimate and animate things, respectively. For example, ''Neko ga iru'' &quot;There's a cat&quot;, ''Ii kangae-ga nai'' &quot;[I] haven't got a good idea&quot;.
+
+The verb &quot;to do&quot; (''suru'', polite form ''shimasu'') is often used to make verbs from nouns (''ryōri suru'' &quot;to cook&quot;, ''benkyō suru'' &quot;to study&quot;, etc.) and has been productive in creating modern slang words. Japanese also has a huge number of compound verbs to express concepts that are described in English using a verb and an adverbial particle (e.g. ''tobidasu'' &quot;to fly out, to flee,&quot; from ''tobu'' &quot;to fly, to jump&quot; + ''dasu'' &quot;to put out, to emit&quot;).
+
+There are three types of adjective (see [[Japanese adjectives]]):
+# {{lang|ja|形容詞}} ''keiyōshi'', or ''i'' adjectives, which have a [[Japanese verb conjugations|conjugating]] ending ''i'' ({{lang|ja|い}}) (such as {{lang|ja|暑い}} ''atsui'' &quot;to be hot&quot;) which can become past ({{lang|ja|暑かった}} ''atsukatta'' &quot;it was hot&quot;), or negative ({{lang|ja|暑くない}} ''atsuku nai'' &quot;it is not hot&quot;). Note that ''nai'' is also an ''i'' adjective, which can become past ({{lang|ja|暑くなかった}} ''atsuku nakatta'' &quot;it was not hot&quot;).
+#: {{lang|ja|暑い日}} ''atsui hi'' &quot;a hot day&quot;.
+# {{lang|ja|形容動詞}} ''keiyōdōshi'', or ''na'' adjectives, which are followed by a form of the [[Copula (linguistics)|copula]], usually ''na''. For example ''hen'' (strange)
+#: {{lang|ja|変なひと}} ''hen na hito'' &quot;a strange person&quot;.
+# {{lang|ja|連体詞}} ''rentaishi'', also called true adjectives, such as ''ano'' &quot;that&quot;
+#: {{lang|ja|あの山}} ''ano yama'' &quot;that mountain&quot;.
+
+Both ''keiyōshi'' and ''keiyōdōshi'' may [[predicate (grammar)|predicate]] sentences. For example,
+: {{lang|ja|ご飯が熱い。}} ''Gohan ga atsui.'' &quot;The rice is hot.&quot;
+: {{lang|ja|彼は変だ。}} ''Kare wa hen da.'' &quot;He's strange.&quot;
+Both inflect, though they do not show the full range of conjugation found in true verbs.
+The ''rentaishi'' in Modern Japanese are few in number, and unlike the other words, are limited to directly modifying nouns. They never predicate sentences. Examples include ''ookina'' &quot;big&quot;, ''kono'' &quot;this&quot;, ''iwayuru'' &quot;so-called&quot; and ''taishita'' &quot;amazing&quot;.
+
+Both ''keiyōdōshi'' and ''keiyōshi'' form [[adverb]]s, by following with ''ni'' in the case of ''keiyōdōshi'':
+: {{lang|ja|変になる}} ''hen ni naru'' &quot;become strange&quot;,
+and by changing ''i'' to ''ku'' in the case of ''keiyōshi'':
+: {{lang|ja|熱くなる}} ''atsuku naru'' &quot;become hot&quot;.
+
+The grammatical function of nouns is indicated by [[postposition]]s, also called [[Japanese particles|particles]]. These include for example:
+* '''{{lang|ja|が}} ''ga''''' for the [[nominative case]]. Not necessarily a subject.
+: {{lang|ja|'''彼が'''やった。}}'''''Kare ga''' yatta.'' &quot;'''He''' did it.&quot;
+* '''{{lang|ja|に}} ''ni''''' for the [[dative case]].
+: {{lang|ja|'''田中さんに'''あげて下さい。}} '''''Tanaka-san ni''' agete kudasai'' &quot;Please give it '''to Mr. Tanaka'''.&quot;
+It is also used for the [[lative]] case, indicating a motion to a location.
+: {{lang|ja|'''日本に'''行きたい。}} '''''Nihon ni''' ikitai'' &quot;I want to go '''to Japan'''.&quot;
+* '''{{lang|ja|の}} ''no''''' for the [[genitive case]], or nominalizing phrases.
+: {{lang|ja|'''私の'''カメラ。}} '''watashi no''' kamera'' &quot;'''my''' camera&quot;
+: {{lang|ja|スキーに行く'''の'''が好きです。}} ''Sukī-ni iku '''no''' ga suki desu'' &quot;(I) like go'''ing''' skiing.&quot;
+* '''{{lang|ja|を}} ''o''''' for the [[accusative case]]. Not necessarily an object.
+: {{lang|ja|'''何を'''食べますか。}} '''''Nani o''' tabemasu ka?'' &quot;'''What''' will (you) eat?&quot;
+* '''{{lang|ja|は}} ''wa''''' for the topic. It can co-exist with the case markers listed above, and it overrides ''ga'' and (in most cases) ''o''.
+: {{lang|ja|'''私は'''寿司がいいです。}} '''''Watashi wa''' sushi ga ii desu.'' (literally) &quot;'''As for me''', sushi is good.&quot; The nominative marker ''ga'' after ''watashi'' is hidden under ''wa''.
+
+Note: The subtle difference between '''''wa''''' and '''''ga''''' in Japanese cannot be derived from the English language as such, because the distinction between sentence topic and subject is not made there. While ''wa'' indicates the topic, which the rest of the sentence describes or acts upon, it carries the implication that the subject indicated by ''wa'' is not unique, or may be part of a larger group.
+: ''Ikeda-san '''wa''' yonjū-ni sai da.'' &quot;As for Mr. Ikeda, he is forty-two years old.&quot; Others in the group may also be of that age.
+Absence of ''wa'' often means the subject is the [[focus (linguistics)|focus]] of the sentence.
+: ''Ikeda-san '''ga''' yonjū-ni sai da.'' &quot;It is Mr. Ikeda who is forty-two years old.&quot; This is a reply to an implicit or explicit question, such as &quot;who in this group is forty-two years old?&quot;
+
+===Politeness===
+{{Main|Honorific speech in Japanese}}
+
+Japanese has an extensive grammatical system to express politeness and formality.
+
+The Japanese language can express differing levels in social status. The differences in social position are determined by a variety of factors including job, age, experience, or even psychological state (e.g., a person asking a favour tends to do so politely). The person in the lower position is expected to use a polite form of speech, whereas the other might use a more plain form. Strangers will also speak to each other politely. Japanese children rarely use polite speech until they are teens, at which point they are expected to begin speaking in a more adult manner. ''See [[uchi-soto]]''.
+
+Whereas ''teineigo'' ({{lang|ja|丁寧語}}) (polite language) is commonly an [[inflection]]al system, ''sonkeigo'' ({{lang|ja|尊敬語}}) (respectful language) and ''kenjōgo'' ({{lang|ja|謙譲語}}) (humble language) often employ many special honorific and humble alternate verbs: ''iku'' &quot;go&quot; becomes ''ikimasu'' in polite form, but is replaced by ''irassharu'' in honorific speech and ''ukagau'' or ''mairu'' in humble speech.
+
+The difference between honorific and humble speech is particularly pronounced in the Japanese language. Humble language is used to talk about oneself or one's own group (company, family) whilst honorific language is mostly used when describing the interlocutor and their group. For example, the ''-san'' suffix (&quot;Mr&quot; &quot;Mrs.&quot; or &quot;Miss&quot;) is an example of honorific language. It is not used to talk about oneself or when talking about someone from one's company to an external person, since the company is the speaker's &quot;group&quot;. When speaking directly to one's superior in one's company or when speaking with other employees within one's company about a superior, a Japanese person will use vocabulary and inflections of the honorific register to refer to the in-group superior and their speech and actions. When speaking to a person from another company (i.e., a member of an out-group), however, a Japanese person will use the plain or the humble register to refer to the speech and actions of their own in-group superiors. In short, the register used in Japanese to refer to the person, speech, or actions of any particular individual varies depending on the relationship (either in-group or out-group) between the speaker and listener, as well as depending on the relative status of the speaker, listener, and third-person referents.
+
+Most [[noun]]s in the Japanese language may be made polite by the addition of ''o-'' or ''go-'' as a prefix. ''o-'' is generally used for words of native Japanese origin, whereas ''go-'' is affixed to words of Chinese derivation. In some cases, the prefix has become a fixed part of the word, and is included even in regular speech, such as ''gohan'' 'cooked rice; meal.' Such a construction often indicates deference to either the item's owner or to the object itself. For example, the word ''tomodachi'' 'friend,' would become ''o-tomodachi'' when referring to the friend of someone of higher status (though mothers often use this form to refer to their children's friends). On the other hand, a polite speaker may sometimes refer to ''mizu'' 'water' as ''o-mizu'' in order to show politeness.
+
+Most Japanese people employ politeness to indicate a lack of familiarity. That is, they use polite forms for new acquaintances, but if a relationship becomes more intimate, they no longer use them. This occurs regardless of age, social class, or gender.
+
+==Vocabulary==
+{{further|Yamato kotoba|Kango|Gairaigo}}
+The original language of Japan, or at least the original language of a certain population that was ancestral to a significant portion of the historical and present Japanese nation, was the so-called ''[[yamato kotoba]]'' ({{lang|ja|大和言葉}} or infrequently {{lang|ja|大和詞}}, i.e. &quot;[[Yamato people|Yamato]] words&quot;), which in scholarly contexts is sometimes referred to as ''wago'' ({{lang|ja|和語}} or rarely {{lang|ja|倭語}}, i.e. the &quot;[[Wa (Japan)|Wa]] words&quot;). In addition to words from this original language, present-day Japanese includes a number of words that were either borrowed from [[Chinese language|Chinese]] or constructed from Chinese roots following Chinese patterns. These words, known as ''[[Sino-Japanese vocabulary|kango]]'' ({{lang|ja|漢語}}), entered the language from the 5th century onwards via contact with Chinese culture. According to the ''Shinsen Kokugo Jiten'' (新選国語辞典) [[Japanese dictionary]], ''kango'' comprise 49.1% of the total vocabulary, ''wago'' make up 33.8%, other foreign words or ''[[gairaigo]]'' ({{lang|ja|外来語}}) account for 8.8%, and the remaining 8.3% constitute hybridized words or ''konshugo'' ({{lang|ja|混種語}}) that draw elements from more than one language.&lt;ref&gt;新選国語辞典, 金田一京助, 小学館, 2001, ISBN 4-09-501407-5&lt;/ref&gt;
+
+There are also a great number of words of mimetic origin in Japanese, with Japanese having a rich collection of [[Japanese sound symbolism|sound symbolism]], both onomatopoeia for physical sounds, and more abstract words. A [[wikt:Category:ja:Ainu derivations|small number of words]] have come into Japanese from the [[Ainu language]]. ''Tonakai'' ([[reindeer]]), ''rakko'' ([[sea otter]]) and ''[[shishamo]]'' ([[Smelts|smelt]], a type of fish) are well-known examples of words of Ainu origin.
+
+Words of different origins occupy different [[Register (sociolinguistics)|registers]] in Japanese. Like Latin-derived words in English, ''kango'' words are typically perceived as somewhat formal or academic compared to equivalent Yamato words. Indeed, it is generally fair to say that an English word derived from Latin/French roots typically corresponds to a Sino-Japanese word in Japanese, whereas a simpler Anglo-Saxon word would best be translated by a Yamato equivalent.
+
+Incorporating vocabulary from [[languages of Europe|European languages]] began with [[Japanese words of Portuguese origin|borrowings from Portuguese]] in the 16th century, followed by words from [[Dutch language|Dutch]] during Japan's [[sakoku|long isolation]] of the [[Edo period]]. With the [[Meiji Restoration]] and the reopening of Japan in the 19th century, borrowing occurred from [[German language|German]], [[French language|French]], and [[English language|English]]. Today most borrowings are from English.
+
+In the Meiji era, the Japanese also coined many neologisms using Chinese roots and morphology to translate European concepts;{{Citation needed|date=May 2010}} these are known as [[wasei kango]] (Japanese-made Chinese words). Many of these were then imported into Chinese, Korean, and Vietnamese via their kanji in the late 19th and early 20th centuries.{{Citation needed|date=May 2010}} For example, ''seiji'' 政治 (&quot;politics&quot;), and ''kagaku'' 化学 (&quot;chemistry&quot;) are words derived from Chinese roots that were first created and used by the Japanese, and only later borrowed into Chinese and other East Asian languages. As a result, Japanese, Chinese, Korean, and Vietnamese share a large common corpus of vocabulary in the same way a large number of Greek- and Latin-derived words – both inherited or borrowed into European languages, or modern coinages from Greek or Latin roots – are shared among modern European languages – see [[classical compound]].{{Citation needed|date=May 2010}}
+
+In the past few decades, ''[[wasei-eigo]]'' (&quot;made-in-Japan English&quot;) has become a prominent phenomenon. Words such as ''wanpatān'' {{lang|ja|ワンパターン}} (&lt; ''one'' + ''pattern'', &quot;to be in a rut&quot;, &quot;to have a one-track mind&quot;) and ''sukinshippu'' {{lang|ja|スキンシップ}} (&lt; ''skin'' + ''-ship'', &quot;physical contact&quot;), although coined by compounding English roots, are nonsensical in most non-Japanese contexts; exceptions exist in nearby languages such as Korean however, which often use words such as ''skinship'' and ''rimokon'' (remote control) in the same way as in Japanese.
+
+The popularity of many Japanese cultural exports has made some native Japanese words familiar in English, including ''[[futon]], [[haiku]], [[judo]], [[kamikaze]], [[karaoke]], [[karate]], [[ninja]], [[origami]], [[Pulled rickshaw|rickshaw]]'' (from {{lang|ja|人力車}} ''jinrikisha''), ''[[samurai]], [[Sayonara (disambiguation)|sayonara]], [[sudoku]], [[sumo]], [[sushi]], [[tsunami]], [[tycoon]]''.  See [[list of English words of Japanese origin]] for more.
+
+==Writing system==
+{{Main|Japanese writing system|Japanese braille}}
+{{Calligraphy}}
+Literacy was introduced to Japan in the form of the [[Chinese writing system]], by way of [[Baekje]] before the 5th century.&lt;ref&gt;&quot;[http://www.asiasocietymuseum.org/buddhist_trade/koreajapan.html Buddhist Art of Korea &amp; Japan],&quot; Asia Society Museum; &quot;[http://www.japan-guide.com/e/e2046.html Kanji],&quot; JapanGuide.com; &quot;[http://encarta.msn.com/encyclopedia_761568150_4/Pottery.html Pottery],&quot; MSN Encarta; &quot;[http://www.japanvisitor.com/index.php?cID=359&amp;pID=334&amp;cName=Japanese History of Japan],&quot; JapanVisitor.com. [http://www.webcitation.org/5kwPni5fJ Archived] 2009-10-31.&lt;/ref&gt; Using this language, the Japanese king [[Five kings of Wa|Bu]] presented a petition to [[Emperor Shun of Liu Song]] in AD 478.&lt;ref&gt;[[Book of Song]] 順帝昇明二年，倭王武遣使上表曰：封國偏遠，作藩于外，自昔祖禰，躬擐甲冑，跋渉山川，不遑寧處。東征毛人五十國，西服衆夷六十六國，渡平海北九十五國，王道融泰，廓土遐畿，累葉朝宗，不愆于歳。臣雖下愚，忝胤先緒，驅率所統，歸崇天極，道逕百濟，裝治船舫，而句驪無道，圖欲見吞，掠抄邊隸，虔劉不已，毎致稽滯，以失良風。雖曰進路，或通或不。臣亡考濟實忿寇讎，壅塞天路，控弦百萬，義聲感激，方欲大舉，奄喪父兄，使垂成之功，不獲一簣。居在諒闇，不動兵甲，是以偃息未捷。至今欲練甲治兵，申父兄之志，義士虎賁，文武效功，白刃交前，亦所不顧。若以帝德覆載，摧此強敵，克靖方難，無替前功。竊自假開府儀同三司，其餘咸各假授，以勸忠節。詔除武使持節督倭、新羅、任那、加羅、秦韓六國諸軍事、安東大將軍、倭國王。至齊建元中，及梁武帝時，并來朝貢。&lt;/ref&gt; After the ruin of Baekje, Japan invited scholars from China to learn more of the Chinese writing system. Japanese emperors gave an official rank to Chinese scholars (続守言/薩弘格/&lt;ref&gt;[[Nihon shoki]] Chapter 30:持統五年 九月己巳朔壬申。賜音博士大唐続守言。薩弘恪。書博士百済末士善信、銀人二十両。&lt;/ref&gt;&lt;ref&gt;[[Nihon shoki]] Chapter 30:持統六年 十二月辛酉朔甲戌。賜音博士続守言。薩弘恪水田人四町&lt;/ref&gt; 袁晋卿&lt;ref&gt;[[Shoku Nihongi]] 宝亀九年 十二月庚寅。玄蕃頭従五位上袁晋卿賜姓清村宿禰。晋卿唐人也。天平七年随我朝使帰朝。時年十八九。学得文選爾雅音。為大学音博士。於後。歴大学頭安房守。&lt;/ref&gt;) and spread the use of Chinese characters from the 7th century to the 8th century.
+
+[[Image:Nihongo ichiran 01-converted.svg|thumb|200px|Table of Kana: [[Hiragana]] top, [[Katakana]] in the center and Romanized equivalents at the bottom]]
+
+At first, the Japanese wrote in [[Classical Chinese]], with Japanese names represented by characters used for their meanings and not their sounds. Later, during the 7th century AD, the Chinese-sounding phoneme principle was used to write pure Japanese poetry and prose, but some Japanese words were still written with characters for their meaning and not the original Chinese sound. This is when the history of Japanese as a written language begins in its own right. By this time, the Japanese language was already distinct from the [[Ryukyuan languages]].&lt;ref&gt;Heinrich, Patrick. [http://www.sicri-network.org/ISIC1/j.%20ISIC1P%20Heinrich.pdf &quot;What leaves a mark should no longer stain: Progressive erasure and reversing language shift activities in the Ryukyu Islands,&quot;] First International Small Island Cultures Conference at [[Kagoshima University]], Centre for the Pacific Islands, February 7–10, 2005; citing [[Shiro Hattori]]. (1954) ''Gengo nendaigaku sunawachi goi tokeigaku no hoho ni tsuite'' (&quot;Concerning the Method of Glottochronology and Lexicostatistics&quot;), ''Gengo kenkyu'' (''Journal of the Linguistic Society of Japan''), Vols. 26/27.&lt;/ref&gt;
+
+An example of this mixed style is the [[Kojiki]], which was written in AD 712. They then started to use Chinese characters to write Japanese in a style known as ''man'yōgana'', a syllabic script which used Chinese characters for their sounds in order to transcribe the words of Japanese speech syllable by syllable.
+
+Over time, a writing system evolved. [[Chinese characters]] ([[kanji]]) were used to write either words borrowed from Chinese, or Japanese words with the same or similar meanings. Chinese characters were also used to write grammatical elements, were simplified, and eventually became two syllabic scripts: [[hiragana]] and [[katakana]] which were developed based on [[Manyogana]] from Baekje.&lt;ref&gt;[http://journals.cambridge.org/production/action/cjoGetFulltext?fulltextid=70352] John R. BENTLEY, &quot;The origin of Manyogana&quot;, Bulletin of the School of Oriental and African Studies (2001), 64: 59-73, Cambridge University Press.&lt;/ref&gt; However this hypothesis &quot;Manyogana from Baekje&quot; is denied by other scholars.&lt;ref&gt;{{cite book|url=http://books.google.com/?id=_MMbNwAACAAJ&amp;dq=%E6%97%A5%E6%9C%AC%E5%81%BD%E5%8F%B2&amp;cd=3|editor=Shunpei Mizuno|title= 韓国人の日本偽史―日本人はビックリ! |language=Japanese |publisher= Shogakukan |year=2002 |isbn=4-09-402716-5}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=http://books.google.com/?id=qwBgGQAACAAJ&amp;dq=%E6%97%A5%E6%9C%AC%E5%81%BD%E5%8F%B2&amp;cd=2|editor=Shunpei Mizuno|title= 韓vs日「偽史ワールド」 |language=Japanese |publisher= Shogakukan |year=2007 |isbn=4-09-387703-3}}&lt;/ref&gt;
+
+Modern Japanese is written in a mixture of three main systems: [[kanji]], characters of Chinese origin used to represent both Chinese [[loanword]]s into Japanese and a number of native Japanese [[morpheme]]s; and two [[syllabary|syllabaries]]: [[hiragana]] and [[katakana]]. The [[Latin script]] is also sometimes used, mostly in acronyms and other abbreviations. Arabic numerals are much more common than the kanji when used in counting, but kanji numerals are still used in compounds, such as {{lang|ja|統一}} ''tōitsu'' (&quot;unification&quot;).
+
+''[[Hiragana]]'' are used for words without kanji representation, for words no longer written in kanji, and also following kanji to show conjugational endings. Because of the way verbs (and adjectives) in Japanese are [[Japanese verb conjugations|conjugated]], kanji alone cannot fully convey Japanese tense and mood, as kanji cannot be subject to variation when written without losing its meaning. For this reason, hiragana are suffixed to the ends of kanji to show verb and adjective conjugations. Hiragana used in this way are called [[okurigana]]. Hiragana can also be written in a superscript called [[furigana]] above or beside a kanji to show the proper reading. This is done to facilitate learning, as well as to clarify particularly old or obscure (or sometimes invented) readings.
+
+''[[Katakana]]'', like hiragana, are a syllabary; katakana are primarily used to write foreign words, plant and animal names, and for emphasis. For example &quot;Australia&quot; has been adapted as ''Ōsutoraria'' ({{lang|ja|オーストラリア}}), and &quot;supermarket&quot; has been adapted and shortened into ''sūpā'' ({{lang|ja|スーパー}}).
+
+Historically, attempts to limit the number of kanji in use commenced in the mid-19th century, but did not become a matter of government intervention until after Japan's defeat in the Second World War. During the period of post-war occupation (and influenced by the views of some U.S. officials), various schemes including the complete abolition of kanji and exclusive use of rōmaji were considered. The ''[[jōyō kanji]]'' (&quot;common use kanji&quot;, originally called ''[[tōyō kanji]]'' [kanji for general use]) scheme arose as a compromise solution.
+
+Japanese students begin to learn kanji from their first year at elementary school. A guideline created by the Japanese Ministry of Education, the list of ''[[kyōiku kanji]]'' (&quot;education kanji&quot;, a subset of ''[[jōyō kanji]]''), specifies the 1,006 simple characters a child is to learn by the end of sixth grade. Children continue to study another 1,130 characters in junior high school, covering in total 2,136 ''[[jōyō kanji]]''. The official list of ''[[jōyō kanji]]'' was revised several times, but the total number of officially sanctioned characters remained largely unchanged.
+
+As for kanji for personal names, the circumstances are somewhat complicated. ''[[Jōyō kanji]]'' and ''[[jinmeiyō kanji]]'' (an appendix of additional characters for names) are approved for registering personal names. Names containing unapproved characters are denied registration. However, as with the list of ''[[jōyō kanji]]'', criteria for inclusion were often arbitrary and led to many common and popular characters being disapproved for use. Under popular pressure and following a court decision holding the exclusion of common characters unlawful, the list of ''[[jinmeiyō kanji]]'' was substantially extended from 92 in 1951 (the year it was first decreed) to 983 in 2004. Furthermore, families whose names are not on these lists were permitted to continue using the older forms.
+
+==Study by non-native speakers==
+{{Category see also|Japanese-language education by country}}
+Many major universities throughout the world provide Japanese language courses, and a number of secondary and even primary schools worldwide offer courses in the language. This is much changed from before [[World War II]]; in 1940, only 65 Americans not [[Japanese American|of Japanese descent]] were able to read, write and understand the language.&lt;ref&gt;[[Beate Sirota Gordon]] commencement address at [[Mills College]], May 14, 2011. [http://www.c-span.org/Events/Sotomayor-Denzel-Washington-GE-CEO-Speak-to-Graduates/10737421758-10/ &quot;Sotomayor, Denzel Washington, GE CEO Speak to Graduates,&quot;] C-SPAN (US). May 30, 2011; retrieved 2011-05-30&lt;/ref&gt;
+
+International interest in the Japanese language dates from the 19th century but has become more prevalent following Japan's economic bubble of the 1980s and the global popularity of [[Japanese popular culture]] (such as [[anime]] and [[video game]]s) since the 1990s. About 2.3 million people studied the language worldwide in 2003: 900,000 South Koreans, 389,000 Chinese, 381,000 Australians, and 140,000 Americans studied Japanese in lower and higher educational institutions.
+
+In Japan, more than 90,000 foreign students studied at [[List of universities in Japan|Japanese universities]] and Japanese [[language school]]s, including 77,000 Chinese and 15,000 South Koreans in 2003. In addition, local governments and some [[non-profit organisation|NPO]] groups provide free Japanese language classes for foreign residents, including [[Japanese Brazilian]]s and foreigners married to Japanese nationals. In the United Kingdom, study of the Japanese language is supported by the [[British Association for Japanese Studies]]. In Ireland, Japanese is offered as a language in the [[Irish Leaving Certificate|Leaving Certificate]] in some schools.
+
+The Japanese government provides standardized tests to measure spoken and written comprehension of Japanese for second language learners; the most prominent is the [[Japanese Language Proficiency Test]] (JLPT), which features five levels of exams (changed from four levels in 2010), ranging from elementary (N5) to advanced (N1). The JLPT is only offered twice a year. The Japanese External Trade Organization [[JETRO]] organizes the ''Business Japanese Proficiency Test'' which tests the learner's ability to understand Japanese in a business setting.  The Japan Kanji Aptitude Testing Foundation, which took over the BJT from JETRO in 2009, announced in August 2010 that the test would be discontinued in 2011 due to financial pressures on the Foundation. However, it has since issued a statement to the effect that the test will continue to be available as a result of support from the Japanese government.&lt;ref&gt;http://www.kanken.or.jp/bjt/english/index.html, http://www.kanken.or.jp/bjt/pdf/statement-e.pdf&lt;/ref&gt;
+
+When learning Japanese in a college setting, students are usually first taught how to pronounce [[romaji]]. From that point, they are taught the two main syllabaries, with [[kanji]] usually being introduced in the second semester. Focus is usually first on polite (distal) speech, which is what students would be expected to use when interacting with native speakers. Casual speech and formal speech usually follow polite speech, as well as the usage of honorifics.
+
+==See also==
+{{Portal|Japan|Language}}
+* [[Aizuchi]]
+* [[Culture of Japan]]
+* [[Henohenomoheji]]
+* [[Japanese dictionaries]]
+* [[Japanese language and computers]]
+* [[Japanese literature]]
+* [[Japanese name]]
+* [[Japanese orthography issues]]
+* [[Wiktionary:Category:Japanese language|Japanese words]] and [[Wiktionary:Category:Japanese derivations|words derived from Japanese in other languages]] at [[Wiktionary]], Wikipedia's sibling project
+* [[Late Old Japanese]]
+* [[Rendaku]]
+* [[Romanization of Japanese]]
+** [[Hepburn romanization]]
+* ''[[Shogakukan Progressive Japanese-English Dictionary|Shogakukan Progressive Japanese–English Dictionary]]'' (book)
+* [[Yojijukugo]]
+* [[Japanese Sign Language family]]
+
+==Notes==
+{{reflist|2}}
+
+==References==
+* Bloch, Bernard (1946). Studies in colloquial Japanese I: Inflection. ''Journal of the American Oriental Society'', ''66'', pp.&amp;nbsp;97–130.
+* Bloch, Bernard (1946). Studies in colloquial Japanese II: Syntax. ''Language'', ''22'', pp.&amp;nbsp;200–248.
+* Chafe, William L. (1976). Giveness, contrastiveness, definiteness, subjects, topics, and point of view. In C. Li (Ed.), ''Subject and topic'' (pp.&amp;nbsp;25–56). New York: Academic Press. ISBN 0-12-447350-4.
+* Dalby, Andrew. (2004). [http://www.credoreference.com/entry/dictlang/japanese  &quot;Japanese,&quot;] in ''Dictionary of Languages: the Definitive Reference to More than 400 Languages.'' New York: Columbia University Press. 10-ISBN 0231115687/13-ISBN 9780231115681; 10-ISBN 0231115695/13-ISBN 9780231115698; [http://www.worldcat.org/title/dictionary-of-languages-the-definitive-reference-to-more-than-400-languages/oclc/474656178  OCLC 474656178]
+* Frellesvig, Bjarke (2010). ''A history of the Japanese language''. Cambridge: Cambridge University Press. ISBN 978-0-521-65320-6.
+* Kuno, Susumu (1973). ''The structure of the Japanese language''. Cambridge, MA: MIT Press. ISBN 0-262-11049-0.
+* Kuno, Susumu. (1976). &quot;Subject, theme, and the speaker's empathy: A re-examination of relativization phenomena,&quot; in Charles N. Li (Ed.), ''Subject and topic'' (pp.&amp;nbsp;417–444). New York: Academic Press. ISBN 0-12-447350-4.
+* Martin, Samuel E. (1975). ''A reference grammar of Japanese''. New Haven: Yale University Press. ISBN 0-300-01813-4.
+* McClain, Yoko Matsuoka. (1981). ''Handbook of modern Japanese grammar:'' {{lang|ja|口語日本文法便覧}} [''Kōgo Nihon bumpō'']. Tokyo: Hokuseido Press. ISBN 4-590-00570-0; ISBN 0-89346-149-0.
+* Miller, Roy (1967). ''The Japanese language''. Chicago: University of Chicago Press.
+* Miller, Roy (1980). ''Origins of the Japanese language: Lectures in Japan during the academic year, 1977–78''. Seattle: University of Washington Press. ISBN 0-295-95766-2.
+* Mizutani, Osamu; &amp; Mizutani, Nobuko (1987). ''How to be polite in Japanese:'' {{lang|ja|日本語の敬語}} [''Nihongo no keigo'']. Tokyo: [[The Japan Times]]. ISBN 4-7890-0338-8.
+* Shibatani, Masayoshi (1990). Japanese. In B. Comrie (Ed.), ''The major languages of east and south-east Asia''. London: Routledge. ISBN 0-415-04739-0.
+* Shibatani, Masayoshi (1990). ''The languages of Japan''. Cambridge: Cambridge University Press. ISBN 0-521-36070-6 (hbk); ISBN 0-521-36918-5 (pbk).
+* Shibamoto, Janet S. (1985). ''Japanese women's language''. New York: Academic Press. ISBN 0-12-640030-X. Graduate Level
+* Tsujimura, Natsuko (1996). ''An introduction to Japanese linguistics''. Cambridge, MA: Blackwell Publishers. ISBN 0-631-19855-5 (hbk); ISBN 0-631-19856-3 (pbk). Upper Level Textbooks
+* Tsujimura, Natsuko (Ed.) (1999). ''The handbook of Japanese linguistics''. Malden, MA: Blackwell Publishers. ISBN 0-631-20504-7. Readings/Anthologies
+
+==Further reading==
+*{{cite book
+|url=http://books.google.com/books?id=6SkYAAAAYAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false
+|title=A text-book of colloquial Japanese
+|volume=
+|year=1907
+|author=Rudolf Lange
+|editor=Christopher Noss
+|publisher=Methodist publishing house
+|edition=REVISED ENGLISH EDITION
+|location=TOKYO
+|isbn=
+|quote=
+|page=
+|pages=588
+|date=
+|accessdate=1st of March 2012  }}(ALL RIGHTS RESERVED COPYRIGHT 1903 BY CHRISTOPHER NOSS REPRINTED APRIL 1907 BY THE METHODIST PUBLISHING HOUSE TOKYO, JAPAN)(Original from the New York Public Library)(Digitized Apr 2, 2008)
+*{{cite book
+|url=http://books.google.com/books?id=Q2suAAAAYAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false
+|title=A text-book of colloquial Japanese
+|volume=
+|year=1907
+|author=Rudolf Lange
+|editor=Christopher Noss
+|publisher=Methodist publishing house
+|edition=REVISED ENGLISH EDITION
+|location=TOKYO
+|isbn=
+|quote=
+|page=
+|pages=588
+|date=
+|accessdate=1 March 2012}}(ALL RIGHTS RESERVED COPYRIGHT 1903 BY CHRISTOPHER NOSS REPRINTED APRIL 1907 BY THE METHODIST PUBLISHING HOUSE TOKYO, JAPAN)(Original from Harvard University)(Digitized Oct 10, 2008)
+*{{cite book
+|url=http://books.google.com/books?id=BmwwAQAAMAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false
+|title=A Text-book of Colloquial Japanese
+|volume=
+|year=1903
+|coauthors=Rudolf Lange, Christopher Noss
+|editor=
+|publisher=Methodist Publishing House
+|edition=ENGLISH EDITION
+|location=THE KANEKO PRESS NORTH JAPAN COLLEGE SENDAI
+|isbn=
+|quote=
+|page=
+|pages=573
+|date=
+|accessdate=1 March 2012}}(TOKYO METHODIST PUBLISHING HOUSE 1903)
+*{{cite book
+|url=http://books.google.com/books?id=PhVCAAAAIAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false
+|title=A text-book of colloquial Japanese: based on the Lehrbuch der japanischen umgangssprache by Dr. Rudolf Lange
+|volume=
+|year=1903
+|author=Rudolf Lange
+|editor=Christopher Noss
+|publisher=Methodist publishing house
+|edition=REVISED ENGLISH EDITION
+|location=TOKYO
+|isbn=
+|quote=
+|page=
+|pages=588
+|date=
+|accessdate=1 March 2012}}(ALL RIGHTS RESERVED COPYRIGHT 1903 BY CHRISTOPHER NOSS REPRINTED APRIL 1907 BY THE METHODIST PUBLISHING HOUSE TOKYO, JAPAN)(Original from the University of California)(Digitized Oct 10, 2007)
+
+==External links==
+{{Wikibooks}}
+{{Wikiversity}}
+&lt;!--Please do not add links to Japanese learning sites here: they will probably be removed, because Wikipedia is not a directory of links, however useful they may be. The [[Open Directory Project]] (dmoz.org), however, IS a directory of links. Consider adding your site there instead.--&gt;
+{{interwiki|code=ja}}
+* [http://www.kokken.go.jp/en/ The National Institute for Japanese Language]
+* [[WikiTravel:Japanese phrasebook|Japanese phrasebook]] on [[WikiTravel]]
+* [http://tangorin.com/handbook/ Japanese Language Student's Handbook]
+{{wiktionary}}
+{{Japanese language}}
+
+&lt;br /&gt;
+
+{{DEFAULTSORT:Japanese Language}}
+[[Category:Japanese language| ]]
+[[Category:Agglutinative languages]]
+[[Category:Languages of Japan]]
+[[Category:Languages of Palau]]
+[[Category:Subject–object–verb languages]]
+
+{{Link GA|ru}}
+{{Link FA|ia}}
+{{Link FA|ja}}
+{{Link FA|sco}}
+{{Link FA|vi}}
+
+[[ace:Bahsa Jeupun]]
+[[kbd:Японыбзэ]]
+[[af:Japannees]]
+[[als:Japanische Sprache]]
+[[am:ጃፓንኛ]]
+[[ang:Iapanisc sprǣc]]
+[[ab:Иапон бызшәа]]
+[[ar:لغة يابانية]]
+[[an:Idioma chaponés]]
+[[arc:ܠܫܢܐ ܝܦܢܝܐ]]
+[[ast:Xaponés]]
+[[az:Yapon dili]]
+[[bn:জাপানি ভাষা]]
+[[bjn:Bahasa Japang]]
+[[zh-min-nan:Ji̍t-pún-oē]]
+[[map-bms:Basa Jepang]]
+[[be:Японская мова]]
+[[be-x-old:Японская мова]]
+[[bcl:Hapones]]
+[[bg:Японски език]]
+[[bar:Japanische Språch]]
+[[bo:ཉི་ཧོང་སྐད།]]
+[[bs:Japanski jezik]]
+[[br:Japaneg]]
+[[ca:Japonès]]
+[[cv:Япон чĕлхи]]
+[[ceb:Hinapones]]
+[[cs:Japonština]]
+[[cy:Japaneg]]
+[[da:Japansk (sprog)]]
+[[de:Japanische Sprache]]
+[[dv:ޖަޕާނީ]]
+[[dsb:Japańšćina]]
+[[et:Jaapani keel]]
+[[el:Ιαπωνική γλώσσα]]
+[[es:Idioma japonés]]
+[[eo:Japana lingvo]]
+[[eu:Japoniera]]
+[[fa:زبان ژاپنی]]
+[[hif:Japanese bhasa]]
+[[fo:Japanskt mál]]
+[[fr:Japonais]]
+[[fy:Japansk]]
+[[ga:An tSeapáinis]]
+[[gv:Shapaanish]]
+[[gd:Seapanais]]
+[[gl:Lingua xaponesa]]
+[[gan:日语]]
+[[hak:Ngi̍t-ngî]]
+[[xal:Нипонмудн келн]]
+[[ko:일본어]]
+[[hy:Ճապոներեն]]
+[[hi:जापानी भाषा]]
+[[hsb:Japanšćina]]
+[[hr:Japanski jezik]]
+[[io:Japoniana linguo]]
+[[ilo:Pagsasao a Hapón]]
+[[id:Bahasa Jepang]]
+[[ia:Lingua japonese]]
+[[zu:IsiJapani]]
+[[is:Japanska]]
+[[it:Lingua giapponese]]
+[[he:יפנית]]
+[[jv:Basa Jepang]]
+[[kl:Japanimiusut]]
+[[kn:ಜಪಾನಿ ಭಾಷೆ]]
+[[pam:Hapon (amanu)]]
+[[ka:იაპონური ენა]]
+[[kk:Жапон тілі]]
+[[kw:Nihonek]]
+[[rw:Ikiyapani]]
+[[sw:Kijapani]]
+[[kv:Япон кыв]]
+[[ku:Zimanê japonî]]
+[[lad:Lingua japonesa]]
+[[lez:Япон чӀал]]
+[[lo:ພາສາຍີ່ປຸ່ນ]]
+[[la:Lingua Iaponica]]
+[[lv:Japāņu valoda]]
+[[lb:Japanesch]]
+[[lt:Japonų kalba]]
+[[li:Japans]]
+[[ln:Lizapɔ́]]
+[[jbo:ponbau]]
+[[lmo:Lengua giapponesa]]
+[[hu:Japán nyelv]]
+[[mk:Јапонски јазик]]
+[[mg:Japonezy]]
+[[ml:ജാപ്പനീസ് ഭാഷ]]
+[[mi:Reo Hapani]]
+[[mr:जपानी भाषा]]
+[[arz:لغه يابانى]]
+[[mzn:جاپونی]]
+[[ms:Bahasa Jepun]]
+[[cdo:Nĭk-buōng-ngṳ̄]]
+[[mdf:Япунонь кяль]]
+[[mn:Япон хэл]]
+[[my:ဂျပန်ဘာသာစကား]]
+[[nah:Xapontlahtōlli]]
+[[nl:Japans]]
+[[nds-nl:Japans]]
+[[new:जापानी भाषा]]
+[[ja:日本語]]
+[[ce:Yaponhoyn mott]]
+[[no:Japansk]]
+[[nn:Japansk]]
+[[oc:Japonés]]
+[[uz:Yapon tili]]
+[[pa:ਜਾਪਾਨੀ ਭਾਸ਼ਾ]]
+[[pnb:جاپانی]]
+[[km:ភាសាជប៉ុន]]
+[[pms:Lenga giaponèisa]]
+[[tpi:Tokples Siapan]]
+[[pl:Język japoński]]
+[[pt:Língua japonesa]]
+[[ty:Reo Tāpōnē]]
+[[ro:Limba japoneză]]
+[[qu:Nihun simi]]
+[[rue:Японьскый язык]]
+[[ru:Японский язык]]
+[[sah:Дьоппуон тыла]]
+[[se:Japánagiella]]
+[[sa:जापानी भाषा]]
+[[sco:Japanese leid]]
+[[sq:Gjuha japoneze]]
+[[scn:Lingua giappunisa]]
+[[simple:Japanese language]]
+[[sk:Japončina]]
+[[sl:Japonščina]]
+[[ckb:زمانی ژاپۆنی]]
+[[sr:Јапански језик]]
+[[sh:Japanski jezik]]
+[[su:Basa Jepang]]
+[[fi:Japanin kieli]]
+[[sv:Japanska]]
+[[tl:Wikang Hapones]]
+[[ta:ஜப்பானிய மொழி]]
+[[kab:Tajapunit]]
+[[roa-tara:Lènga giapponese]]
+[[tt:Япон теле]]
+[[th:ภาษาญี่ปุ่น]]
+[[tg:Забони ҷопонӣ]]
+[[tr:Japonca]]
+[[tk:Ýapon dili]]
+[[uk:Японська мова]]
+[[ur:جاپانی (زبان)]]
+[[ug:ياپون تىلى]]
+[[za:Vah Nditbonj]]
+[[vi:Tiếng Nhật]]
+[[fiu-vro:Jaapani kiil]]
+[[wa:Djaponès (lingaedje)]]
+[[war:Hinapon]]
+[[wuu:日语]]
+[[yi:יאפאניש]]
+[[yo:Èdè Japaní]]
+[[zh-yue:日文]]
+[[bat-smg:Japuonu kalba]]
+[[zh:日语]]</text>
+      <sha1>702tuwlzntvgesylwv8u1xxetauhatj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

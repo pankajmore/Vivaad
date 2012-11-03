@@ -1,0 +1,3689 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alzheimer's disease</title>
+    <ns>0</ns>
+    <id>18914017</id>
+    <revision>
+      <id>520433304</id>
+      <parentid>520429183</parentid>
+      <timestamp>2012-10-29T14:44:08Z</timestamp>
+      <contributor>
+        <username>SkepticalRaptor</username>
+        <id>16238756</id>
+      </contributor>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Firigoyen|Firigoyen]] ([[User talk:Firigoyen|talk]]): Statement must be supported by [[WP:MEDRS]]. ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve" bytes="170061">{{Redirect|Alzheimer}}
+{{pp-semi|small=yes}}{{pp-move-indef}}
+{{Infobox disease
+|Name=Alzheimer's disease
+|Image=Alzheimer's_disease_brain_comparison.jpg
+|Caption=Comparison of a normal aged brain (left) and the brain of a person with Alzheimer's (right). Differential characteristics are pointed out.
+|DiseasesDB=490
+|ICD10={{ICD10|G|30||g|30}}, {{ICD10|F|00||f|00}}
+|ICD9={{ICD9|331.0}}, {{ICD9|290.1}}
+|ICDO=
+|OMIM=104300
+|MedlinePlus=000760
+|eMedicineSubj=neuro
+|eMedicineTopic=13
+|MeshID=D000544
+|GeneReviewsNBK=NBK1161
+|}}
+'''Alzheimer's disease''' ('''AD'''), also known in medical literature as '''Alzheimer disease''', is the most common form of [[dementia]]. There is no cure for the disease, which [[degenerative disease|worsens as it progresses]], and eventually leads to [[Terminal illness|death]]. It was first described by German psychiatrist and neuropathologist [[Alois Alzheimer]] in 1906 and was named after him.&lt;ref name=&quot;pmid9661992&quot;/&gt; Most often, AD is diagnosed in people over 65&amp;nbsp;years of age,&lt;ref&gt;{{vcite journal
+|author=Brookmeyer R., Gray S., Kawas C.
+|title=Projections of Alzheimer's disease in the United States and the public health impact of delaying disease onset
+|journal=[[American Journal of Public Health]]
+|volume=88
+|issue=9
+|pages=1337–42
+|year=1998
+|month=September
+|pmid=9736873
+|pmc=1509089
+|doi=10.2105/AJPH.88.9.1337
+}}&lt;/ref&gt; although the less-prevalent [[early-onset Alzheimer's]] can occur much earlier. In 2006, there were {{Nowrap|26.6 million}} sufferers worldwide. Alzheimer's is predicted to affect 1 in 85 people globally by 2050.&lt;ref name=&quot;Brookmeyer2007&quot;/&gt;
+
+Although Alzheimer's disease develops differently for every individual, there are many common symptoms.&lt;ref name=&quot;alzheimers.org&quot;&gt;
+{{cite web
+|title=What is Alzheimer's disease?
+|url=http://www.alzheimers.org.uk/site/scripts/documents_info.php?documentID=100
+|publisher=Alzheimers.org.uk
+|year=2007
+|month=August
+|accessdate=2008-02-21
+}}&lt;/ref&gt; Early symptoms are often mistakenly thought to be 'age-related' concerns, or manifestations of [[Stress (biological)|stress]].&lt;ref name=&quot;pmid17222085&quot;&gt;{{vcite journal
+|author=Waldemar G
+|title=Recommendations for the diagnosis and management of Alzheimer's disease and other disorders associated with dementia: EFNS guideline
+|journal=Eur J Neurol
+|volume=14
+|issue=1
+|pages=e1–26
+|year=2007
+|month=January
+|pmid=17222085
+|doi=10.1111/j.1468-1331.2006.01605.x
+|author-separator=,
+|author2=Dubois B
+|author3=Emre M
+|display-authors=3
+|last4=Georges
+|first4=J.
+|last5=McKeith
+|first5=I. G.
+|last6=Rossor
+|first6=M.
+|last7=Scheltens
+|first7=P.
+|last8=Tariska
+|first8=P.
+|last9=Winblad
+|first9=B.
+}}&lt;/ref&gt; In the early stages, the most common symptom is difficulty in remembering recent events. When AD is suspected, the diagnosis is usually confirmed with tests that evaluate behaviour and [[cognitive tests|thinking abilities]], often followed by a [[neuroimaging|brain scan]] if available.&lt;ref name=&quot;alzres&quot;&gt;
+{{cite web
+|title=Alzheimer's diagnosis of AD
+|url=http://www.alzheimersresearchuk.org/diagnosis/
+|publisher=Alzheimer's Research Trust
+|accessdate=2008-02-29
+}}&lt;/ref&gt; As the disease advances, symptoms can include [[Mental confusion|confusion]], irritability and aggression, [[mood swing]]s, trouble with language, and [[long-term memory]] loss. As the sufferer declines they often withdraw from family and society.&lt;ref name=&quot;pmid17222085&quot;/&gt;&lt;ref name=&quot;pmid17823840&quot;&gt;
+{{vcite journal
+|author=Tabert MH, Liu X, Doty RL, Serby M, Zamora D, Pelton GH, Marder K, Albers MW, Stern Y, Devanand DP
+|title=A 10-item smell identification scale related to risk for Alzheimer's disease
+|journal=Ann. Neurol.
+|volume=58
+|issue=1
+|pages=155–160
+|year=2005
+|pmid=15984022
+|doi=10.1002/ana.20533
+}}&lt;/ref&gt;  Gradually, bodily functions are lost, ultimately leading to death.&lt;ref name=&quot;nihstages&quot;&gt;
+{{cite web
+|title=About Alzheimer's Disease: Symptoms
+|url=http://www.nia.nih.gov/alzheimers/topics/symptoms
+|publisher=National Institute on Aging
+|accessdate=2011-12-28
+}}&lt;/ref&gt; Since the disease is different for each individual, [[prognosis|predicting how it will affect]] the person is difficult. AD develops for an unknown and variable amount of time before becoming fully apparent, and it can progress undiagnosed for years. On average, the life expectancy following diagnosis is approximately seven years.&lt;ref name=&quot;pmid3776457&quot;&gt;{{vcite journal
+|author=Mölsä PK, Marttila RJ, Rinne UK
+|title=Survival and cause of death in Alzheimer's disease and multi-infarct dementia
+|journal=Acta Neurol Scand
+|volume=74
+|issue=2
+|pages=103–7
+|year=1986
+|month=August
+|pmid=3776457
+|doi=10.1111/j.1600-0404.1986.tb04634.x
+}}&lt;/ref&gt; Fewer than three percent of individuals live more than fourteen years after diagnosis.&lt;ref name=&quot;pmid7793228&quot;&gt;{{vcite journal
+|author=Mölsä PK, Marttila RJ, Rinne UK
+|title=Long-term survival and predictors of mortality in Alzheimer's disease and multi-infarct dementia
+|journal=ActaNeurol Scand
+|volume=91
+|issue=3
+|pages=159–64
+|year=1995
+|month=March
+|pmid=7793228
+}}&lt;/ref&gt;
+
+The cause and progression of Alzheimer's disease are not well understood. Research indicates that the disease is associated with [[Senile plaques|plaques]] and [[neurofibrillary tangles|tangles]] in the [[brain]].&lt;ref name=&quot;pmid15184601&quot;/&gt; Current treatments only help with the symptoms of the disease. There are no available treatments that stop or reverse the progression of the disease. {{as of
+|2012}}, more than 1000 [[clinical trials]] have been or are being conducted to find ways to treat the disease, but it is unknown if any of the tested treatments will work.&lt;ref name=&quot;CT&quot;&gt;{{cite web
+|url=http://www.clinicaltrials.gov/ct2/results?term=alzheimer
+|title=Clinical Trials. Found 1012 studies with search of: alzheimer
+|accessdate=2011-01-10
+|publisher=US National Institutes of Health
+}}&lt;/ref&gt; [[Mental exercise|Mental stimulation]], [[exercise]], and a [[balanced diet]] have been suggested as ways to delay cognitive symptoms (though not brain pathology) in healthy older individuals, but there is no conclusive evidence supporting an effect.&lt;ref name=&quot;prevention1&quot;&gt;
+{{cite web
+|title=More research needed on ways to prevent Alzheimer's, panel finds
+|url=http://www.nia.nih.gov/alzheimers/announcements/2010/06/more-research-needed-ways-prevent-alzheimers-panel-finds
+|format=PDF
+|publisher=National Institute on Aging
+|accessdate=2008-02-29
+|date=2006-08-29
+}}&lt;/ref&gt;
+
+Because AD cannot be cured and is degenerative, the sufferer relies on others for assistance. The role of the main [[caregiver]] is often taken by the spouse or a close relative.&lt;ref name=&quot;metlife.com&quot;&gt;{{cite web
+|title=The MetLife study of Alzheimer's disease: The caregiving experience
+|month=August
+|year=2006
+|publisher=MetLife Mature Market Institute
+|format=PDF
+|accessdate=2011-02-05
+|url=http://www.metlife.com/assets/cao/mmi/publications/studies/mmi-alzheimers-disease-caregiving-experience-study.pdf
+| archiveurl= http://web.archive.org/web/20110108073750/http://www.metlife.com/assets/cao/mmi/publications/studies/mmi-alzheimers-disease-caregiving-experience-study.pdf| archivedate= 8 January 2011 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Alzheimer's disease is known for [[caregiving and dementia|placing a great burden on caregivers]]; the pressures can be wide-ranging, involving social, psychological, physical, and economic elements of the caregiver's life.&lt;ref name=&quot;pmid17662119&quot;&gt;{{vcite journal
+|author=Thompson CA, Spilsbury K, Hall J, Birks Y, Barnes C, Adamson J
+|title=Systematic review of information and support interventions for caregivers of people with dementia
+|journal=BMC Geriatr
+|volume=7
+|page=18
+|year=2007
+|pmid=17662119
+|pmc=1951962
+|doi=10.1186/1471-2318-7-18
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid10489656&quot;&gt;{{vcite journal
+|author=Schneider J, Murray J, Banerjee S, Mann A
+|title=EUROCARE: a cross-national study of co-resident spouse carers for people with Alzheimer's disease: I—Factors associated with carer burden
+|journal=International Journal of Geriatric Psychiatry
+|volume=14
+|issue=8
+|pages=651–661
+|year=1999
+|month=August
+|pmid=10489656
+|doi=10.1002/(SICI)1099-1166(199908)14:8&lt;651::AID-GPS992&gt;3.0.CO;2-B
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid10489657&quot;&gt;{{vcite journal
+|author=Murray J, Schneider J, Banerjee S, Mann A
+|title=EUROCARE: a cross-national study of co-resident spouse carers for people with Alzheimer's disease: II—A qualitative analysis of the experience of caregiving
+|journal=International Journal of Geriatric Psychiatry
+|volume=14
+|issue=8
+|pages=662–667
+|year=1999
+|month=August
+|pmid=10489657
+|doi=10.1002/(SICI)1099-1166(199908)14:8&lt;662::AID-GPS993&gt;3.0.CO;2-4
+}}&lt;/ref&gt; In [[developed country|developed countries]], AD is one of the most costly diseases to society.&lt;ref name=&quot;pmid15685097&quot;&gt;{{vcite journal
+|author=Bonin-Guillaume S, Zekry D, Giacobini E, Gold G, Michel JP
+|title=Impact économique de la démence (English: The economical impact of dementia)
+|language=French
+|journal=Presse Med
+|issn=0755-4982
+|volume=34
+|issue=1
+|pages=35–41
+|year=2005
+|month=January
+|pmid=15685097
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid9543467&quot;&gt;{{vcite journal
+|author=Meek PD, McKeithan K, Schumock GT
+|title=Economic considerations in Alzheimer's disease
+|journal=Pharmacotherapy
+|volume=18
+|issue=2 Pt 2
+|pages=68–73; discussion 79–82
+|year=1998
+|pmid=9543467
+}}&lt;/ref&gt;
+{{TOC limit|3}}
+
+==Characteristics==
+The disease course is divided into four stages, with progressive patterns of [[cognitive]] and [[functional symptom|functional]] [[Disability|impairments]].
+
+===Pre-dementia===
+The first symptoms are often mistakenly attributed to [[ageing]] or [[Stress (biological)|stress]].&lt;ref name=&quot;pmid17222085&quot;/&gt; Detailed [[neuropsychological test]]ing can reveal mild cognitive difficulties up to eight years before a person fulfils the clinical criteria for [[diagnosis]] of AD.&lt;ref name=&quot;pmid15324363&quot;&gt;{{vcite journal
+|author=Bäckman L, Jones S, Berger AK, Laukka EJ, Small BJ
+|title=Multiple cognitive deficits during the transition to Alzheimer's disease
+|journal=J Intern Med
+|volume=256
+|issue=3
+|pages=195–204
+|year=2004
+|month=Sep
+|pmid=15324363
+|doi=10.1111/j.1365-2796.2004.01386.x
+}}&lt;/ref&gt; These early symptoms can affect the most complex [[Activities of daily living|daily living activities]].&lt;ref&gt;{{vcite journal
+|author=Nygård L
+|title=Instrumental activities of daily living: a stepping-stone towards Alzheimer's disease diagnosis in subjects with mild cognitive impairment?
+|journal=Acta Neurol Scand
+|volume=Suppl
+|issue=179
+|pages=42–6
+|year=2003
+|month=
+|pmid=12603250
+|doi=10.1034/j.1600-0404.107.s179.8.x
+}}&lt;/ref&gt; The most noticeable deficit is memory loss, which shows up as difficulty in remembering recently learned facts and inability to acquire new information.&lt;ref name=&quot;pmid15324363&quot;/&gt;&lt;ref name=&quot;pmid12603249&quot;&gt;{{vcite journal
+|author=Arnáiz E, Almkvist O
+|title=Neuropsychological features of mild cognitive impairment and preclinical Alzheimer's disease
+|journal=Acta Neurol. Scand., Suppl.
+|volume=179
+|pages=34–41
+|year=2003
+|pmid=12603249
+|doi=10.1034/j.1600-0404.107.s179.7.x
+}}&lt;/ref&gt;
+
+Subtle problems with the [[executive functions]] of [[attention|attentiveness]], [[planning]], flexibility, and [[abstraction|abstract thinking]], or impairments in [[semantic memory]] (memory of meanings, and concept relationships) can also be symptomatic of the early stages of AD.&lt;ref name=&quot;pmid15324363&quot;/&gt; [[Apathy]] can be observed at this stage, and remains the most persistent [[neuropsychiatry|neuropsychiatric]] symptom throughout the course of the disease.&lt;ref&gt;{{vcite journal
+|author=Landes AM, Sperry SD, Strauss ME, Geldmacher DS
+|title=Apathy in Alzheimer's disease
+|journal=J Am Geriatr Soc
+|volume=49
+|issue=12
+|pages=1700–7
+|year=2001
+|month=Dec
+|pmid=11844006
+|doi=10.1046/j.1532-5415.2001.49282.x
+}}&lt;/ref&gt; The preclinical stage of the disease has also been termed [[mild cognitive impairment]],&lt;ref name=&quot;pmid12603249&quot;/&gt; but whether this term corresponds to a different diagnostic stage or identifies the first step of AD is a matter of dispute.&lt;ref name=&quot;pmid17279076&quot;&gt;
+{{vcite journal
+|author=Petersen RC
+|title=The current status of mild cognitive impairment—what do we tell our patients?
+|journal=Nat Clin Pract Neurol
+|volume=3
+|issue=2
+|pages=60–1
+|year=2007
+|month=February
+|pmid=17279076
+|doi=10.1038/ncpneuro0402
+}}&lt;/ref&gt;
+
+===Early===
+In people with AD the increasing impairment of learning and memory eventually leads to a definitive diagnosis. In a small portion of them, difficulties with language, executive functions, [[perception]] ([[agnosia]]), or execution of movements ([[apraxia]]) are more prominent than memory problems.&lt;ref name=&quot;pmid10653284&quot;&gt;
+{{vcite journal
+|author=Förstl H, Kurz A
+|title=Clinical features of Alzheimer's disease
+|journal=European Archives of Psychiatry and Clinical Neuroscience
+|volume=249
+|issue=6
+|pages=288–290
+|year=1999
+|pmid=10653284
+|doi=10.1007/s004060050101
+}}&lt;/ref&gt; AD does not affect all memory capacities equally. [[long-term memory|Older memories]] of the person's life ([[episodic memory]]), facts learned ([[semantic memory]]), and [[implicit memory]] (the memory of the body on how to do things, such as using a fork to eat) are affected to a lesser degree than new facts or memories.&lt;ref name=&quot;pmid1300219&quot;&gt;
+{{vcite journal
+|author=Carlesimo GA, Oscar-Berman M
+|title=Memory deficits in Alzheimer's patients: a comprehensive review
+|journal=Neuropsychol Rev
+|volume=3
+|issue=2
+|pages=119–69
+|year=1992
+|month=June
+|pmid=1300219
+|doi=10.1007/BF01108841
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid8821346&quot;&gt;
+{{vcite journal
+|author=Jelicic M, Bonebakker AE, Bonke B
+|title=Implicit memory performance of patients with Alzheimer's disease: a brief review
+|journal=International Psychogeriatrics
+|volume=7
+|issue=3
+|pages=385–392
+|year=1995
+|pmid=8821346
+|doi=10.1017/S1041610295002134
+}}&lt;/ref&gt;
+
+[[primary progressive aphasia|Language problems]] are mainly characterised by a shrinking [[vocabulary]] and decreased word [[fluency]], which lead to a general impoverishment of oral and [[written language]].&lt;ref name=&quot;pmid10653284&quot;/&gt;&lt;ref name=&quot;pmid1856925&quot;&gt;{{cite journal |author=Taler V, Phillips NA |title=Language performance in Alzheimer's disease and mild cognitive impairment: a comparative review |journal=J Clin Exp Neuropsychol |volume=30 |issue=5 |pages=501–56 |year=2008 |month=July |pmid=18569251 |doi=10.1080/13803390701550128 |url=}}&lt;/ref&gt; In this stage, the person with Alzheimer's is usually capable of communicating basic ideas adequately.&lt;ref name=&quot;pmid10653284&quot;/&gt;&lt;ref name=&quot;pmid1856925&quot;/&gt;&lt;ref name=&quot;pmid7967534&quot;&gt;{{vcite journal
+|author=Frank EM
+|title=Effect of Alzheimer's disease on communication function
+|journal=J S C Med Assoc
+|volume=90
+|issue=9
+|pages=417–23
+|year=1994
+|month=September
+|pmid=7967534
+}}&lt;/ref&gt; While performing [[fine motor skill|fine motor tasks]] such as writing, drawing or dressing, certain movement coordination and planning difficulties ([[apraxia]]) may be present but they are commonly unnoticed.&lt;ref name=&quot;pmid10653284&quot;/&gt; As the disease progresses, people with AD can often continue to perform many tasks independently, but may need assistance or supervision with the most cognitively demanding activities.&lt;ref name=&quot;pmid10653284&quot;/&gt;
+
+===Moderate===
+Progressive deterioration eventually hinders independence, with subjects being unable to perform most common activities of daily living.&lt;ref name=&quot;pmid10653284&quot;/&gt; Speech difficulties become evident due to an inability to [[Anomic aphasia|recall vocabulary]], which leads to frequent incorrect word substitutions ([[paraphasia]]s). Reading and writing skills are also progressively lost.&lt;ref name=&quot;pmid10653284&quot;/&gt;&lt;ref name=&quot;pmid7967534&quot;/&gt; Complex motor sequences become less coordinated as time passes and AD progresses, so the risk of falling increases.&lt;ref name=&quot;pmid10653284&quot;/&gt; During this phase, memory problems worsen, and the person may fail to recognise close relatives.&lt;ref name=&quot;pmid10653284&quot;/&gt; [[Long-term memory]], which was previously intact, becomes impaired.&lt;ref name=&quot;pmid10653284&quot;/&gt;
+
+Behavioural and [[neuropsychiatric]] changes become more prevalent. Common manifestations are [[Wandering (dementia)|wandering]], [[irritability]] and [[labile affect]], leading to crying, outbursts of unpremeditated [[aggression]], or resistance to caregiving.&lt;ref name=&quot;pmid10653284&quot;/&gt; [[Sundowning (dementia)|Sundowning]] can also appear.&lt;ref&gt;{{vcite journal
+|author=Volicer L, Harper DG, Manning BC, Goldstein R, Satlin A
+|title=Sundowning and circadian rhythms in Alzheimer's disease
+|journal=Am J Psychiatry
+|volume=158
+|issue=5
+|pages=704–11
+|year=2001
+|month=May
+|pmid=11329390
+|url=http://ajp.psychiatryonline.org/cgi/content/full/158/5/704
+|accessdate=2008-08-27
+|doi=10.1176/appi.ajp.158.5.704
+}}&lt;/ref&gt; Approximately 30% of people with AD develop [[Delusional misidentification syndrome|illusionary misidentifications]] and other [[delusion]]al symptoms.&lt;ref name=&quot;pmid10653284&quot;/&gt; Subjects also lose insight of their disease process and limitations ([[anosognosia]]).&lt;ref name=&quot;pmid10653284&quot;/&gt; [[Urinary incontinence]] can develop.&lt;ref name=&quot;pmid10653284&quot;/&gt; These symptoms create [[Stress (biological)|stress]] for relatives and caretakers, which can be reduced by moving the person from [[home care]] to other [[Nursing home|long-term care facilities]].&lt;ref name=&quot;pmid10653284&quot;/&gt;&lt;ref name=&quot;pmid7806732&quot;&gt;{{vcite journal
+|author=Gold DP, Reis MF, Markiewicz D, Andres D
+|title=When home caregiving ends: a longitudinal study of outcomes for caregivers of relatives with dementia
+|journal=J Am Geriatr Soc
+|volume=43
+|issue=1
+|pages=10–6
+|year=1995
+|month=January
+|pmid=7806732
+}}&lt;/ref&gt;
+
+===Advanced===
+During the final stage of AD, the person is completely dependent upon caregivers.&lt;ref name=&quot;pmid10653284&quot;/&gt; Language is reduced to simple phrases or even single words, eventually leading to complete loss of speech.&lt;ref name=&quot;pmid10653284&quot;/&gt;&lt;ref name=&quot;pmid7967534&quot;/&gt; Despite the loss of verbal language abilities, people can often understand and return emotional signals.&lt;ref name=&quot;pmid10653284&quot;/&gt; Although aggressiveness can still be present, extreme [[apathy]] and [[exhaustion]] are much more common results.&lt;ref name=&quot;pmid10653284&quot;/&gt;
+People with AD will ultimately not be able to perform even the simplest tasks without assistance.&lt;ref name=&quot;pmid10653284&quot;/&gt; [[musculature|Muscle mass]] and mobility deteriorate to the point where they are bedridden, and they lose the ability to feed themselves.&lt;ref name=&quot;pmid10653284&quot;/&gt; AD is a terminal illness, with the cause of death typically being an external factor, such as infection of [[bedsore|pressure ulcers]] or [[pneumonia]], not the disease itself.&lt;ref name=&quot;pmid10653284&quot;/&gt;
+
+==Cause==
+[[File:TAU HIGH.JPG|thumb|right|Upright|Microscopic image of a neurofibrillary tangle, conformed by hyperphosphorylated [[tau protein]]]]
+The cause for most Alzheimer's cases is still essentially unknown&lt;ref&gt;
+{{cite web
+|url=http://www.alz.org/research/science/alzheimers_disease_causes.asp
+|title=What We Know Today About Alzheimer's Disease
+|publisher=Alzheimer's Association
+|accessdate=1 October 2011
+|quote=While scientists know Alzheimer's disease involves progressive brain cell failure, the reason cells fail isn't clear.
+}}
+&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url=http://www.med.nyu.edu/adc/forpatients/ad.html#causes
+|title=Alzheimer's Disease: Causes
+|publisher=NYU Medical Center/NYU School of Medicine
+|accessdate=30 September 2011
+|quote=The cause of Alzheimer's disease is not yet known, but scientists are hoping to find the answers by studying the characteristic brain changes that occur in a patient with Alzheimer's disease. In rare cases when the disease emerges before the age of sixty-five, these brain changes are caused by a genetic abnormality. Scientists are also looking to genetics as well as environmental factors for possible clues to the cause and cure of Alzheimer's disease.
+}}
+&lt;/ref&gt; (except for 1% to 5% of cases where genetic differences have been identified).
+Several competing [[hypotheses]] exist trying to explain the cause of the disease. The oldest, on which most currently available drug therapies are based, is the ''[[cholinergic]] hypothesis'',&lt;ref name=&quot;pmid10071091&quot;&gt;{{vcite journal|author=Francis PT, Palmer AM, Snape M, Wilcock GK|title=The cholinergic hypothesis of Alzheimer's disease: a review of progress|journal=J. Neurol. Neurosurg. Psychiatr.|volume=66|issue=2|pages=137–47|year=1999|month=February|pmid=10071091|pmc=1736202|doi=10.1136/jnnp.66.2.137|url=}}&lt;/ref&gt; which proposes that AD is caused by reduced synthesis of the [[neurotransmitter]] [[acetylcholine]]. The cholinergic hypothesis has not maintained widespread support, largely because medications intended to treat acetylcholine deficiency have not been very effective. Other cholinergic effects have also been proposed, for example, initiation of large-scale aggregation of amyloid,&lt;ref name=&quot;pmid15236795&quot;&gt;{{vcite journal
+|author=Shen ZX
+|title=Brain cholinesterases: II. The molecular and cellular basis of Alzheimer's disease
+|journal=Med Hypotheses
+|volume=63
+|issue=2
+|pages=308–21
+|year=2004
+|pmid=15236795
+|doi=10.1016/j.mehy.2004.02.031
+}}&lt;/ref&gt; leading to generalised neuroinflammation.&lt;ref name=&quot;pmid12934968&quot;&gt;{{vcite journal
+|author=Wenk GL
+|title=Neuropathologic changes in Alzheimer's disease
+|journal=J Clin Psychiatry
+|volume=64 Suppl 9
+|pages=7–10
+|year=2003
+|pmid=12934968
+}}&lt;/ref&gt;
+
+In 1991, the ''[[amyloid beta|amyloid]] hypothesis'' postulated that beta-amyloid (βA) deposits are the fundamental cause of the disease.&lt;ref name=&quot;pmid1763432&quot;&gt;{{vcite journal
+|author=Hardy J, Allsop D
+|title=Amyloid deposition as the central event in the aetiology of Alzheimer's disease
+|journal=Trends Pharmacol. Sci.
+|volume=12
+|issue=10
+|pages=383–88
+|year=1991
+|month=October
+|pmid=1763432
+|doi=10.1016/0165-6147(91)90609-V
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid11801334&quot;&gt;{{vcite journal
+|author=Mudher A, Lovestone S
+|title=Alzheimer's disease-do tauists and baptists finally shake hands?
+|journal=Trends Neurosci.
+|volume=25
+|issue=1
+|pages=22–26
+|year=2002
+|month=January
+|pmid=11801334
+|doi=10.1016/S0166-2236(00)02031-2
+}}&lt;/ref&gt; Support for this postulate comes from the location of the gene for the [[amyloid precursor protein]] (APP) on [[chromosome 21]], together with the fact that people with [[trisomy 21]] ([[Down Syndrome]]) who have an extra [[gene dosage|gene copy]] almost universally exhibit AD by 40&amp;nbsp;years of age.&lt;ref name=&quot;pmid16904243&quot;&gt;{{vcite journal
+|author=Nistor M
+|title=Alpha- and beta-secretase activity as a function of age and beta-amyloid in Down syndrome and normal brain
+|journal=Neurobiol Aging
+|volume=28
+|issue=10
+|pages=1493–1506
+|year=2007
+|month=October
+|pmid=16904243
+|doi=10.1016/j.neurobiolaging.2006.06.023
+|last12=Head
+|first12=E
+|author-separator=,
+|author2=Don M
+|author3=Parekh M
+|display-authors=3
+|last4=Sarsoza
+|first4=F.
+|last5=Goodus
+|first5=M.
+|last6=Lopez
+|first6=G.E.
+|last7=Kawas
+|first7=C.
+|last8=Leverenz
+|first8=J.
+|last9=Doran
+|first9=E.
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid15639317&quot;&gt;{{vcite journal
+|author=Lott IT, Head E
+|title=Alzheimer disease and Down syndrome: factors in pathogenesis
+|journal=Neurobiol Aging
+|volume=26
+|issue=3
+|pages=383–89
+|year=2005
+|month=March
+|pmid=15639317
+|doi=10.1016/j.neurobiolaging.2004.08.005
+}}&lt;/ref&gt; Also [[APOE4]], the major genetic risk factor for AD, leads to excess amyloid buildup in the brain.&lt;ref name=&quot;pmid7566000&quot;&gt;{{vcite journal
+|author=Polvikoski T
+|title=Apolipoprotein E, dementia, and cortical deposition of beta-amyloid protein
+|journal=N Engl J Med
+|volume=333
+|issue=19
+|pages=1242–47
+|year=1995
+|month=November
+|pmid=7566000
+|doi=10.1056/NEJM199511093331902
+|author-separator=,
+|author2=Sulkava R
+|author3=Haltia M
+|display-authors=3
+|last4=Kainulainen
+|first4=Katariina
+|last5=Vuorio
+|first5=Alpo
+|last6=Verkkoniemi
+|first6=Auli
+|last7=Niinistö
+|first7=Leena
+|last8=Halonen
+|first8=Pirjo
+|last9=Kontula
+|first9=Kimmo
+}}&lt;/ref&gt; Further evidence comes from the finding that [[Genetically modified organism|transgenic]] mice that express a mutant form of the human APP gene develop fibrillar amyloid plaques and Alzheimer's-like brain pathology with spatial learning deficits.&lt;ref&gt;Transgenic mice:
+*{{vcite journal
+|author=Games D
+|title=Alzheimer-type neuropathology in transgenic mice overexpressing V717F beta-amyloid precursor protein
+|journal=Nature
+|volume=373
+|issue=6514
+|pages=523–27
+|year=1995
+|month=February
+|pmid=7845465
+|doi=10.1038/373523a0
+|author-separator=,
+|author2=Adams D
+|author3=Alessandrini R
+|display-authors=3
+|last4=Barbour
+|first4=Robin
+|last5=Borthelette
+|first5=Patricia
+|last6=Blackwell
+|first6=Catherine
+|last7=Carr
+|first7=Tony
+|last8=Clemens
+|first8=James
+|last9=Donaldson
+|first9=Thomas
+}}
+*{{vcite journal
+|author=Masliah E, Sisk A, Mallory M, Mucke L, Schenk D, Games D
+|title=Comparison of neurodegenerative pathology in transgenic mice overexpressing V717F beta-amyloid precursor protein and Alzheimer's disease
+|journal=J Neurosci
+|volume=16
+|issue=18
+|pages=5795–811
+|year=1996
+|month=September
+|pmid=8795633
+}}
+*{{vcite journal
+|author=Hsiao K
+|title=Correlative memory deficits, Abeta elevation, and amyloid plaques in transgenic mice
+|journal=Science
+|volume=274
+|issue=5284
+|pages=99–102
+|year=1996
+|month=October
+|pmid=8810256
+|doi=10.1126/science.274.5284.99
+|author-separator=,
+|author2=Chapman P
+|author3=Nilsen S
+|display-authors=3
+|last4=Eckman
+|first4=C.
+|last5=Harigaya
+|first5=Y.
+|last6=Younkin
+|first6=S.
+|last7=Yang
+|first7=F.
+|last8=Cole
+|first8=G.
+}}
+*{{vcite journal
+|author=Lalonde R, Dumont M, Staufenbiel M, Sturchler-Pierrat C, Strazielle C.
+|title=Spatial learning, exploration, anxiety, and motor coordination in female APP23 transgenic mice with the Swedish mutation
+|journal=Brain Research (journal)
+|volume=956
+|pages=36–44|pmid=12426044
+|doi=10.1016/S0006-8993(02)03476-5
+|year=2002
+|issue=1
+}}&lt;/ref&gt;
+
+An experimental vaccine was found to clear the amyloid plaques in early human trials, but it did not have any significant effect on dementia.&lt;ref name=&quot;pmid18640458&quot;&gt;{{vcite journal
+|author=Holmes C
+|title=Long-term effects of Abeta42 immunisation in Alzheimer's disease: follow-up of a randomised, placebo-controlled phase I trial
+|journal=Lancet
+|volume=372
+|issue=9634
+|pages=216–23
+|year=2008
+|month=July
+|pmid=18640458
+|doi=10.1016/S0140-6736(08)61075-2
+|last12=Nicoll
+|first12=JA
+|author-separator=,
+|author2=Boche D
+|author3=Wilkinson D
+|display-authors=3
+|last4=Yadegarfar
+|first4=Ghasem
+|last5=Hopkins
+|first5=Vivienne
+|last6=Bayer
+|first6=Anthony
+|last7=Jones
+|first7=Roy W
+|last8=Bullock
+|first8=Roger
+|last9=Love
+|first9=Seth
+}}&lt;/ref&gt; Researchers have been led to suspect non-plaque βA [[oligomer]]s (aggregates of many monomers) as the primary pathogenic form of βA. These toxic oligomers, also referred to as amyloid-derived diffusible ligands (ADDLs), bind to a surface receptor on neurons and change the structure of the synapse, thereby disrupting neuronal communication.&lt;ref name=&quot;pmid17251419&quot;&gt;
+{{vcite journal
+|author=Lacor PN
+|title=Aß Oligomer-Induced Aberrations in Synapse Composition, Shape, and Density Provide a Molecular Basis for Loss of Connectivity in Alzheimer's Disease
+|journal=Journal of Neuroscience
+|volume=27
+|issue=4
+|pages=796–807
+|year=2007
+|month=January
+|pmid=17251419
+|doi=10.1523/JNEUROSCI.3501-06.2007
+|last2=Buniel
+|first2=MC
+|last3=Furlow
+|first3=PW
+|last4=Clemente
+|first4=AS
+|last5=Velasco
+|first5=PT
+|last6=Wood
+|first6=M
+|last7=Viola
+|first7=KL
+|last8=Klein
+|first8=WL
+|author-separator=,
+|display-authors=1
+}}&lt;/ref&gt;
+One receptor for βA oligomers may be the [[PRNP|prion protein]], the same protein that has been linked to [[Bovine Spongiform Encephalopathy|mad cow disease]] and the related human condition, [[Creutzfeldt-Jakob disease]], thus potentially linking the underlying mechanism of these neurodegenerative disorders with that of Alzheimer's disease.&lt;ref name=&quot;pmid19242475&quot;&gt;
+{{vcite journal
+|author=Lauren J
+|title=Cellular Prion Protein Mediates Impairment of Synaptic Plasticity by Amyloid-β Oligomers
+|journal=Nature
+|volume=457
+|issue=7233
+|pages=1128–32
+|year=2009
+|month=February
+|pmid=19242475
+|doi=10.1038/nature07761
+|pmc=2748841
+|author-separator=,
+|author2=Gimbel D
+|display-authors=2
+|last3=Nygaard
+|first3=Haakon B.
+|last4=Gilbert
+|first4=John W.
+|last5=Strittmatter
+|first5=Stephen M.
+}}&lt;/ref&gt;
+
+In 2009, this theory was updated, suggesting that a close relative of the beta-amyloid protein, and not necessarily the beta-amyloid itself, may be a major culprit in the disease. The theory holds that an amyloid-related mechanism that prunes neuronal connections in the brain in the fast-growth phase of early life may be triggered by ageing-related processes in later life to cause the neuronal withering of Alzheimer's disease.&lt;ref name=&quot;Nikolaev&quot;&gt;{{vcite journal
+|author=Nikolaev A, McLaughlin T, O'Leary D, [[Marc Tessier-Lavigne|Tessier-Lavigne M]]
+|date=19 February 2009
+|title=APP binds DR6 to cause axon pruning and neuron death via distinct caspases
+|journal=Nature
+|volume=457
+|issue=7232
+|pages=981–989
+|issn=0028-0836
+|pmid=19225519
+|pmc=2677572
+|doi=10.1038/nature07767}}
+&lt;/ref&gt; N-APP, a fragment of APP from the peptide's [[N-terminus]], is adjacent to beta-amyloid and is cleaved from APP by one of the same enzymes. N-APP triggers the self-destruct pathway by binding to a neuronal receptor called death receptor 6 (DR6, also known as [[TNFRSF21]]).&lt;ref name=&quot;Nikolaev&quot;/&gt; DR6 is highly expressed in the human brain regions most affected by Alzheimer's, so it is possible that the N-APP/DR6 pathway might be hijacked in the [[ageing brain]] to cause damage. In this model, beta-amyloid plays a complementary role, by depressing synaptic function.
+
+A 2004 study found that deposition of amyloid plaques does not correlate well with neuron loss.&lt;ref name=&quot;pmid15039236&quot;&gt;{{vcite journal
+|author=Schmitz C
+|title=Hippocampal Neuron Loss Exceeds Amyloid Plaque Load in a Transgenic Mouse Model of Alzheimer's Disease
+|journal=Am J Pathol
+|volume=164
+|issue=4
+|pages=1495–1502
+|year=2004
+|month=April
+|pmid=15039236
+|pmc=1615337
+|last12=Steinbusch
+|first12=HW
+|last13=Pradier
+|first13=L
+|first14=TA
+|doi=10.1016/S0002-9440(10)63235-X
+|author-separator=,
+|author2=Rutten BP
+|author3=Pielen A
+|display-authors=3
+|last4=Bayer
+|first4=Stephanie
+|last5=Wirths
+|first5=Oliver
+|last6=Tremp
+|first6=Günter
+|last7=Czech
+|first7=Christian
+|last8=Blanchard
+|first8=Veronique
+|last9=Multhaup
+|first9=Gerd
+}}&lt;/ref&gt; This observation supports the ''tau hypothesis'', the idea that [[tau protein]] abnormalities initiate the disease cascade.&lt;ref name=&quot;pmid11801334&quot;/&gt; In this model, hyperphosphorylated tau begins to pair with other threads of tau. Eventually, they form [[neurofibrillary tangles]] inside nerve cell bodies.&lt;ref name=&quot;pmid1669718&quot;&gt;{{vcite journal
+|author=Goedert M, Spillantini MG, Crowther RA
+|title=Tau proteins and neurofibrillary degeneration
+|journal=Brain Pathol
+|volume=1
+|issue=4
+|pages=279–86
+|year=1991
+|month=July
+|pmid=1669718
+|doi=10.1111/j.1750-3639.1991.tb00671.x
+}}&lt;/ref&gt; When this occurs, the [[microtubules]] disintegrate, collapsing the neuron's transport system.&lt;ref name=&quot;pmid15615638&quot;&gt;{{vcite journal
+|author=Iqbal K
+|title=Tau pathology in Alzheimer disease and other tauopathies
+|journal=Biochim Biophys Acta
+|volume=1739
+|issue=2–3
+|pages=198–210
+|year=2005
+|month=January
+|pmid=15615638
+|doi=10.1016/j.bbadis.2004.09.008
+|url=
+|last12=Grundke-Iqbal
+|first12=I
+|author-separator=,
+|author2=Alonso Adel C
+|author3=Chen S
+|display-authors=3
+|last4=Chohan
+|first4=M. Omar
+|last5=El-Akkad
+|first5=Ezzat
+|last6=Gong
+|first6=Cheng-Xin
+|last7=Khatoon
+|first7=Sabiha
+|last8=Li
+|first8=Bin
+|last9=Liu
+|first9=Fei
+}}&lt;/ref&gt; This may result first in malfunctions in biochemical communication between neurons and later in the death of the cells.&lt;ref name=&quot;pmid17127334&quot;&gt;{{vcite journal
+|author=Chun W, Johnson GV
+|title=The role of tau phosphorylation and cleavage in neuronal cell death
+|journal=Front Biosci
+|volume=12
+|pages=733–56
+|year=2007
+|pmid=17127334
+|doi=10.2741/2097
+}}&lt;/ref&gt;
+
+[[Herpes simplex#Alzheimer's disease|Herpes simplex]] virus type 1 has also been proposed to play a causative role in people carrying the susceptible versions of the [[Apolipoprotein E|apoE]] gene.&lt;ref name=&quot;pmid18487848&quot;&gt;
+{{vcite journal
+|author=Itzhaki RF, Wozniak MA|title=Herpes simplex virus type 1 in Alzheimer's disease: the enemy within
+|journal=J Alzheimers Dis
+|volume=13
+|issue=4
+|pages=393–405
+|year=2008
+|month=May
+|pmid=18487848
+|doi=
+|issn=1387-2877
+|url=http://iospress.metapress.com/openurl.asp?genre=article&amp;issn=1387-2877&amp;volume=13&amp;issue=4&amp;spage=393
+|accessdate=2011-02-05
+}}&lt;/ref&gt;
+
+Another hypothesis asserts that the disease may be caused by age-related [[myelin]] breakdown in the brain. Iron released during myelin breakdown is hypothesised to cause further damage. Homeostatic myelin repair processes contribute to the development of proteinaceous deposits such as beta-amyloid and tau.&lt;ref&gt;{{cite journal |author=Bartzokis G |title=Alzheimer's disease as homeostatic responses to age-related myelin breakdown |journal=Neurobiol. Aging |volume=32 |issue=8 |pages=1341–71 |year=2011 |month=August |pmid=19775776 |pmc=3128664 |doi=10.1016/j.neurobiolaging.2009.08.007 |url=}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Bartzokis G, Lu PH, Mintz J |title=Quantifying age-related myelin breakdown with MRI: novel therapeutic targets for preventing cognitive decline and Alzheimer's disease |journal=J. Alzheimers Dis. |volume=6 |issue=6 Suppl |pages=S53–9 |year=2004 |month=December |pmid=15665415 |doi= |url=}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Bartzokis G, Lu PH, Mintz J |title=Human brain myelination and beta-amyloid deposition in Alzheimer's disease |journal=Alzheimers Dement |volume=3 |issue=2 |pages=122–5 |year=2007 |month=April |pmid=18596894 |pmc=2442864 |doi=10.1016/j.jalz.2007.01.019 |url=}}&lt;/ref&gt;
+
+[[Oxidative stress]] and dys-[[homeostasis]] of [[biometal (biology)]] metabolism may be significant in the formation of the pathology.&lt;ref&gt;{{cite journal |author=Su B, Wang X, Nunomura A, ''et al.'' |title=Oxidative stress signaling in Alzheimer's disease |journal=Curr Alzheimer Res |volume=5 |issue=6 |pages=525–32 |year=2008 |month=December |pmid=19075578 |pmc=2780015 |doi=10.2174/156720508786898451 |url=}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Kastenholz B, Garfin DE, Horst J, Nagel KA |title=Plant metal chaperones: a novel perspective in dementia therapy |journal=Amyloid |volume=16 |issue=2 |pages=81–3 |year=2009 |pmid=20536399 |doi=10.1080/13506120902879392 |url=}}&lt;/ref&gt;
+
+AD individuals show 70% loss of [[locus coeruleus]] cells that provide [[norepinephrine]] (in addition to its neurotransmitter role) that locally diffuses from &quot;varicosities&quot; as an endogenous [[antiinflammatory]] agent in the microenvironment around the neurons, glial cells, and blood vessels in the neocortex and hippocampus.&lt;ref name=&quot;Heneka&quot;&gt;Heneka MT, Nadrigny F, Regen T, Martinez-Hernandez A, Dumitrescu-Ozimek L, Terwel D, Jardanhazi-Kurutz D, Walter J, Kirchhoff F, Hanisch UK, Kummer MP. (2010). [http://www.pnas.org.libproxy.ucl.ac.uk/content/107/13/6058.full.pdf Locus ceruleus controls Alzheimer's disease pathology by modulating microglial functions through norepinephrine.] Proc Natl Acad Sci U S A. 107:6058–6063  {{doi|10.1073/pnas.0909586107}} PMID 20231476&lt;/ref&gt; It has been shown that norepinephrine stimulates mouse microglia to suppress βA-induced production of cytokines and their [[phagocytosis]] of βA.&lt;ref name=&quot;Heneka&quot;/&gt; This suggests that degeneration of the locus ceruleus might be responsible for increased βA deposition in AD brains.&lt;ref name=&quot;Heneka&quot;/&gt;
+
+==Pathophysiology==
+{{Main|Biochemistry of Alzheimer's disease}}
+[[File:Alzheimer dementia (3) presenile onset.jpg|thumb|[[Histopathology|Histopathologic]] image of senile plaques seen in the cerebral cortex of a person with Alzheimer's disease of presenile onset. Silver impregnation.]]
+
+===Neuropathology===
+Alzheimer's disease is characterised by loss of [[neuron]]s and [[synapse]]s in the [[cerebral cortex]] and certain subcortical regions. This loss results in gross [[atrophy]] of the affected regions, including degeneration in the [[temporal lobe]] and [[parietal lobe]], and parts of the [[frontal cortex]] and [[cingulate gyrus]].&lt;ref name=&quot;pmid12934968&quot;/&gt; Studies using [[magnetic resonance imaging|MRI]] and [[positron emission tomography|PET]] have documented reductions in the size of specific brain regions in people with AD as they progressed from mild cognitive impairment to Alzheimer's disease, and in comparison with similar images from healthy older adults.&lt;ref&gt;{{cite journal |author=Desikan RS, Cabral HJ, Hess CP, ''et al.'' |title=Automated MRI measures identify individuals with mild cognitive impairment and Alzheimer's disease |journal=Brain |volume=132 |issue=Pt 8 |pages=2048–57 |year=2009 |month=August |pmid=19460794 |pmc=2714061 |doi=10.1093/brain/awp123 |url=}}&lt;/ref&gt;&lt;ref&gt;{{vcite journal|author=Moan R|title=MRI software accurately IDs preclinical Alzheimer's disease|journal=Diagnostic Imaging|date=July 20, 2009|url=http://www.diagnosticimaging.com/news/display/article/113619/1428344}}&lt;/ref&gt;
+
+Both [[amyloid plaques]] and [[neurofibrillary tangle]]s are clearly visible by [[microscopy]] in brains of those afflicted by AD.&lt;ref name=&quot;pmid15184601&quot;&gt;{{vcite journal
+|author=Tiraboschi P, Hansen LA, Thal LJ, Corey-Bloom J
+|title=The importance of neuritic plaques and tangles to the development and evolution of AD
+|journal=Neurology
+|volume=62
+|issue=11
+|pages=1984–9
+|year=2004
+|month=June
+|pmid=15184601
+}}&lt;/ref&gt; Plaques are dense, mostly [[insoluble]] deposits of [[beta-amyloid]] [[peptide]] and [[Cell (biology)|cellular]] material outside and around neurons. Tangles (neurofibrillary tangles) are aggregates of the microtubule-associated protein tau which has become hyperphosphorylated and accumulate inside the cells themselves. Although many older individuals develop some plaques and tangles as a consequence of ageing, the brains of people with AD have a greater number of them in specific brain regions such as the temporal lobe.&lt;ref name=&quot;pmid8038565&quot;&gt;{{vcite journal
+|author=Bouras C, Hof PR, Giannakopoulos P, Michel JP, Morrison JH
+|title=Regional distribution of neurofibrillary tangles and senile plaques in the cerebral cortex of elderly patients: a quantitative evaluation of a one-year autopsy population from a geriatric hospital
+|journal=Cereb. Cortex
+|volume=4
+|issue=2
+|pages=138–50
+|year=1994
+|pmid=8038565
+|doi=10.1093/cercor/4.2.138
+}}&lt;/ref&gt; [[Lewy body|Lewy bodies]] are not rare in the brains of people with AD.&lt;ref name=&quot;pmid11816795&quot;&gt;{{vcite journal
+|author=Kotzbauer PT, Trojanowsk JQ, Lee VM
+|title=Lewy body pathology in Alzheimer's disease
+|journal=J Mol Neurosci
+|volume=17
+|issue=2
+|pages=225–32
+|year=2001
+|month=Oct
+|pmid=11816795
+|doi=10.1385/JMN:17:2:225
+}}&lt;/ref&gt;
+
+===Biochemistry===
+[[File:Amyloid-plaque formation-big.jpg|300px|thumb|border|Enzymes act on the APP (amyloid precursor protein) and cut it into fragments. The beta-amyloid fragment is crucial in the formation of senile plaques in AD.]]
+Alzheimer's disease has been identified as a [[protein folding|protein misfolding]] disease ([[proteopathy]]), caused by accumulation of abnormally folded [[beta amyloid|amyloid beta]] and [[amyloid tau]] proteins in the brain.&lt;ref name=&quot;pmid14528050&quot;&gt;{{vcite journal
+|author=Hashimoto M, Rockenstein E, Crews L, Masliah E
+|title=Role of protein aggregation in mitochondrial dysfunction and neurodegeneration in Alzheimer's and Parkinson's diseases
+|journal=Neuromolecular Med.
+|volume=4
+|issue=1–2
+|pages=21–36
+|year=2003
+|pmid=14528050
+|doi=10.1385/NMM:4:1-2:21
+}}&lt;/ref&gt; Plaques are made up of small [[peptide]]s, 39–43&amp;nbsp;[[amino acid]]s in length, called [[beta-amyloid]] (Aβ). Beta-amyloid is a fragment from a larger protein called [[amyloid precursor protein]] (APP), a [[transmembrane protein]] that penetrates through the neuron's membrane. APP is critical to neuron growth, survival and post-injury repair.&lt;ref name=&quot;pmid16822978&quot;&gt;{{vcite journal
+|author=Priller C, Bauer T, Mitteregger G, Krebs B, Kretzschmar HA, Herms J
+|title=Synapse formation and function is modulated by the amyloid precursor protein
+|journal=J. Neurosci.
+|volume=26
+|issue=27
+|pages=7212–21
+|year=2006
+|month=July
+|pmid=16822978
+|doi=10.1523/JNEUROSCI.1450-06.2006
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid12927332&quot;&gt;{{vcite journal
+|author=Turner PR, O'Connor K, Tate WP, Abraham WC
+|title=Roles of amyloid precursor protein and its fragments in regulating neural activity, plasticity and memory
+|journal=Prog. Neurobiol.
+|volume=70
+|issue=1
+|pages=1–32
+|year=2003
+|month=May
+|pmid=12927332
+|doi=10.1016/S0301-0082(03)00089-3
+}}&lt;/ref&gt; In Alzheimer's disease, an unknown process causes APP to be divided into smaller fragments by [[enzymes]] through [[proteolysis]].&lt;ref name=&quot;pmid15787600&quot;&gt;{{vcite journal
+|author=Hooper NM
+|title=Roles of proteolysis and lipid rafts in the processing of the amyloid precursor protein and prion protein
+|journal=Biochem. Soc. Trans.
+|volume=33
+|issue=Pt 2
+|pages=335–8
+|year=2005
+|month=April
+|pmid=15787600
+|doi=10.1042/BST0330335
+}}&lt;/ref&gt; One of these fragments gives rise to fibrils of beta-amyloid, which form clumps that deposit outside neurons in dense formations known as [[senile plaques]].&lt;ref name=&quot;pmid15184601&quot;/&gt;&lt;ref name=&quot;pmid15004691&quot;&gt;{{vcite journal
+|author=Ohnishi S, Takano K
+|title=Amyloid fibrils from the viewpoint of protein folding
+|journal=Cell. Mol. Life Sci.
+|volume=61
+|issue=5
+|pages=511–24
+|year=2004
+|month=March
+|pmid=15004691
+|doi=10.1007/s00018-003-3264-8
+}}&lt;/ref&gt;
+[[File:TANGLES HIGH.jpg|300px|thumb|In Alzheimer's disease, changes in tau protein lead to the disintegration of microtubules in brain cells.]]
+
+AD is also considered a [[tauopathy]] due to abnormal aggregation of the [[tau protein]]. Every neuron has a [[cytoskeleton]], an internal support structure partly made up of structures called [[microtubules]]. These microtubules act like tracks, guiding nutrients and molecules from the body of the cell to the ends of the [[axon]] and back. A protein called ''tau'' stabilises the microtubules when [[phosphorylation|phosphorylated]], and is therefore called a [[microtubule-associated protein]]. In AD, tau undergoes chemical changes, becoming [[Hyperphosphorylation|hyperphosphorylated]]; it then begins to pair with other threads, creating neurofibrillary tangles and disintegrating the neuron's transport system.&lt;ref name=&quot;pmid17604998&quot;&gt;{{vcite journal
+|author=Hernández F, Avila J
+|title=Tauopathies
+|journal=Cell. Mol. Life Sci.
+|volume=64
+|issue=17
+|pages=2219–33
+|year=2007
+|month=September
+|pmid=17604998
+|doi=10.1007/s00018-007-7220-x
+}}&lt;/ref&gt;
+
+===Disease mechanism===
+Exactly how disturbances of production and aggregation of the beta-amyloid peptide gives rise to the pathology of AD is not known.&lt;ref name=&quot;pmid17622778&quot;&gt;{{vcite journal
+|author=Van Broeck B, Van Broeckhoven C, Kumar-Singh S
+|title=Current insights into molecular mechanisms of Alzheimer disease and their implications for therapeutic approaches
+|journal=Neurodegener Dis
+|volume=4
+|issue=5
+|pages=349–65
+|year=2007
+|pmid=17622778
+|doi=10.1159/000105156
+}}&lt;/ref&gt; The amyloid hypothesis traditionally points to the accumulation of beta-amyloid [[peptide]]s as the central event triggering neuron degeneration. Accumulation of aggregated amyloid [[fibril]]s, which are believed to be the toxic form of the protein responsible for disrupting the cell's [[calcium]] [[ion]] [[homeostasis]], induces [[programmed cell death]] ([[apoptosis]]).&lt;ref name=&quot;pmid2218531&quot;&gt;{{vcite journal
+|author=Yankner BA, Duffy LK, Kirschner DA
+|title=Neurotrophic and neurotoxic effects of amyloid beta protein: reversal by tachykinin neuropeptides
+|journal=Science
+|volume=250
+|issue=4978
+|pages=279–82
+|year=1990
+|month=October
+|pmid=2218531
+|doi=10.1126/science.2218531
+}}&lt;/ref&gt; It is also known that βA selectively builds up in the [[Mitochondrion|mitochondria]] in the cells of Alzheimer's-affected brains, and it also inhibits certain [[enzyme]] functions and the utilisation of [[glucose]] by neurons.&lt;ref name=&quot;pmid17424907&quot;&gt;{{vcite journal
+|author=Chen X, Yan SD
+|title=Mitochondrial Abeta: a potential cause of metabolic dysfunction in Alzheimer's disease
+|journal=IUBMB Life
+|volume=58
+|issue=12
+|pages=686–94
+|year=2006
+|month=December
+|pmid=17424907
+|doi=10.1080/15216540601047767}}&lt;/ref&gt;
+
+Various inflammatory processes and [[cytokine]]s may also have a role in the pathology of Alzheimer's disease. [[Inflammation]] is a general marker of [[Tissue (biology)|tissue]] damage in any disease, and may be either secondary to tissue damage in AD or a marker of an immunological response.&lt;ref name=&quot;pmid15681814&quot;&gt;{{vcite journal
+|author=Greig NH
+|title=New therapeutic strategies and drug candidates for neurodegenerative diseases: p53 and TNF-alpha inhibitors, and GLP-1 receptor agonists
+|journal=Ann. N. Y. Acad. Sci.
+|volume=1035
+|pages=290–315
+|year=2004
+|month=December
+|pmid=15681814
+|doi=10.1196/annals.1332.018
+|author-separator=,
+|author2=Mattson MP
+|author3=Perry T
+|display-authors=3
+|last4=Chan
+|first4=SL
+|last5=Giordano
+|first5=T
+|last6=Sambamurti
+|first6=K
+|last7=Rogers
+|first7=JT
+|last8=Ovadia
+|first8=H
+|last9=Lahiri
+|first9=DK
+}}&lt;/ref&gt;
+
+Alterations in the distribution of different [[neurotrophic factor]]s and in the expression of their receptors such as the [[brain derived neurotrophic factor]] (BDNF) have been described in AD.&lt;ref&gt;{{vcite journal
+|author=Tapia-Arancibia L, Aliaga E, Silhol M, Arancibia S
+|title=New insights into brain BDNF function in normal aging and Alzheimer disease
+|journal=[[Brain Research Reviews]]
+|volume=59
+|issue=1
+|pages=201–20
+|year=2008
+|month=Nov
+|pmid=18708092
+|doi=10.1016/j.brainresrev.2008.07.007
+}}&lt;/ref&gt;&lt;ref&gt;{{vcite journal
+|doi=10.1111/j.1601-183X.2007.00378.x
+|author=Schindowski K, Belarbi K, Buée L
+|title=Neurotrophic factors in Alzheimer's disease: role of axonal transport
+|journal=[[Genes, Brain and Behavior]]
+|volume=7
+|issue=Suppl 1
+|pages=43–56
+|year=2008
+|month=Feb
+|pmid=18184369
+|pmc=2228393
+}}&lt;/ref&gt;
+
+===Genetics===
+The vast majority of cases of Alzheimer's disease are sporadic, meaning that they are not genetically inherited although some genes may act as risk factors. On the other hand, around 0.1% of the cases are familial forms of [[autosome|autosomal]] dominant (not sex-linked) inheritance, which usually have an onset before age 65.&lt;ref name=&quot;pmid16876668&quot;&gt;{{vcite journal
+|author=Blennow K, de Leon MJ, Zetterberg H
+|title=Alzheimer's disease
+|journal=Lancet
+|volume=368
+|issue=9533
+|pages=387–403
+|year=2006
+|month=July
+|pmid=16876668
+|doi=10.1016/S0140-6736(06)69113-7
+|url=
+}}&lt;/ref&gt; This form of the disease is known as [[Familial Alzheimer disease|Early onset familial Alzheimer's disease]].
+
+Most of autosomal dominant familial AD can be attributed to mutations in one of three genes: [[amyloid precursor protein]] (APP) and [[presenilin]]s 1 and 2.&lt;ref name=&quot;pmid18332245&quot;&gt;{{vcite journal
+|author=Waring SC, Rosenberg RN
+|title=Genome-wide association studies in Alzheimer disease
+|journal=Arch Neurol
+|volume=65
+|issue=3
+|pages=329–34
+|year=2008
+|month=March
+|pmid=18332245
+|doi=10.1001/archneur.65.3.329
+}}&lt;/ref&gt; Most mutations in the APP and presenilin genes increase the production of a small protein called [[βA]]42, which is the main component of [[senile plaques]].&lt;ref name=&quot;pmid8938131&quot;&gt;{{vcite journal
+|author=Selkoe DJ
+|title=Translating cell biology into therapeutic advances in Alzheimer's disease
+|journal=Nature
+|volume=399
+|issue=6738 Suppl
+|pages=A23–31
+|year=1999
+|month=June
+|pmid=10392577
+|doi=10.1038/19866
+}}&lt;/ref&gt; Some of the mutations merely alter the ratio between βA42 and the other major forms—e.g., βA40—without increasing βA42 levels.&lt;ref name=&quot;pmid8938131&quot;&gt;{{vcite journal
+|author=Borchelt DR
+|title=Familial Alzheimer's disease-linked presenilin 1 variants elevate βA1-42/1-40 ratio in vitro and in vivo
+|journal=Neuron|volume=17|issue=5|pages=1005–13
+|year=1996|month=Nov
+|pmid=8938131
+|doi=10.1016/S0896-6273(00)80230-5
+|last12=Wang|first12=R
+|last13=Seeger|first13=M|first14=AI|first15=SE|first16=NG|first17=NA|first18=DL|first19=SG
+|last20=Sisodia|first20=SS
+|author-separator=,
+|author2=Thinakaran G
+|author3=Eckman CB
+|display-authors=3
+|last4=Levey
+|last5=Gandy
+|last6=Copeland
+|last7=Jenkins
+|last8=Price
+|last9=Younkin
+|first4=Michael K.
+|first5=Frances
+|first6=Tamara
+|first7=Cristian-Mihail
+|first8=Grace
+|first9=Sophia
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid17254019&quot;&gt;{{vcite journal
+|author=Shioi J
+|title=FAD mutants unable to increase neurotoxic Aβ 42 suggest that mutation effects on neurodegeneration may be independent of effects on Abeta
+|journal=J Neurochem.|volume=101|issue=3|pages=674–81
+|year=2007|month=May
+|pmid=17254019
+|doi=10.1111/j.1471-4159.2006.04391.x
+|author-separator=,
+|author2=Georgakopoulos A
+|author3=Mehta P
+|display-authors=3
+|last4=Kouchi
+|first4=Zen
+|last5=Litterst
+|first5=Claudia M.
+|last6=Baki
+|first6=Lia
+|last7=Robakis
+|first7=Nikolaos K.
+}}&lt;/ref&gt; This suggests that presenilin mutations can cause disease even if they lower the total amount of βA produced and may point to other roles of presenilin or a role for alterations in the function of APP and/or its fragments other than βA.
+
+Most cases of Alzheimer's disease do not exhibit autosomal-dominant inheritance and are termed sporadic AD. Nevertheless genetic differences may act as [[risk factors]]. The best known genetic risk factor is the inheritance of the ε4 [[allele]] of the [[apolipoprotein E]] (APOE).&lt;ref name=&quot;pmid8446617&quot;&gt;{{vcite journal
+|author=Strittmatter WJ
+|title=Apolipoprotein E: high-avidity binding to beta-amyloid and increased frequency of type 4 allele in late-onset familial Alzheimer disease
+|journal=Proc. Natl. Acad. Sci. USA|volume=90|issue=5|pages=1977–81
+|year=1993|month=March
+|pmid=8446617
+|pmc=46003
+|doi=10.1073/pnas.90.5.1977
+|author-separator=,
+|author2=Saunders AM
+|author3=Schmechel D
+|display-authors=3
+|last4=Pericak-Vance
+|first4=M
+|last5=Enghild
+|first5=J
+|last6=Salvesen
+|first6=GS
+|last7=Roses
+|first7=AD
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid16567625&quot;&gt;{{vcite journal
+|author=Mahley RW, Weisgraber KH, Huang Y
+|title=Apolipoprotein E4: A causative factor and therapeutic target in neuropathology, including Alzheimer's disease
+|journal=Proc. Natl. Acad. Sci. U.S.A.|volume=103|issue=15|pages=5644–51
+|year=2006|month=April
+|pmid=16567625
+|pmc=1414631
+|doi=10.1073/pnas.0600549103
+|url=
+}}&lt;/ref&gt; Between 40 and 80% of people with AD possess at least one APOEε4 allele.&lt;ref name=&quot;pmid16567625&quot;/&gt; The APOEε4 allele increases the risk of the disease by three times in heterozygotes and by 15 times in homozygotes.&lt;ref name=&quot;pmid16876668&quot;/&gt; However, this &quot;genetic&quot; effect is not necessarily purely genetic. For example, certain Nigerian populations have no relationship between presence or dose of APOEε4 and incidence or age-of-onset for Alzheimer's disease.&lt;ref name=&quot;pmid16434658&quot;&gt;{{vcite journal
+|author=Hall K, Murrell J, Ogunniyi A, Deeg M, Baiyewu O, Gao S, Gureje O, Dickens J, Evans R, Smith-Gamble V, Unverzagt FW, Shen J, Hendrie H
+|title=Cholesterol, APOE genotype, and Alzheimer disease: An epidemiologic study of Nigerian Yoruba
+|journal=Neurology|volume=66|issue=2|pages=223–227
+|year=2006|month=January
+|pmid=16434658
+|pmc=2860622
+|doi=10.1212/01.wnl.0000194507.39504.17
+|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860622/
+}}&lt;/ref&gt;
+&lt;ref name=&quot;pmid16278853&quot;&gt;{{vcite journal
+|author=Gureje O, Ogunniyi A, Baiyewu O, Price B, Unverzagt FW, Evans RM, Smith-Gamble V, Lane KA, Gao S, Hall KS, Hendrie HC, Murrell JR
+|title=APOE ε4 Is Not Associated with Alzheimer's Disease in Elderly Nigerians
+|journal=Ann Neurol|volume=59|issue=1|pages=182–185
+|year=2006|month=January
+|pmid=16278853
+|pmc=2855121
+|doi=10.1002/ana.20694
+|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855121/
+}}&lt;/ref&gt; Geneticists agree that numerous other genes also act as risk factors or have protective effects that influence the development of late onset Alzheimer's disease,&lt;ref name=&quot;pmid18332245&quot;/&gt; but results such as the Nigerian studies and the incomplete [[penetrance]] for all genetic risk factors associated with sporadic Alzheimers indicate a strong role for environmental effects. Over 400 genes have been tested for association with late-onset sporadic AD,&lt;ref name=&quot;pmid18332245&quot;/&gt; most with null results.&lt;ref name=&quot;pmid16876668&quot;/&gt;
+
+==Diagnosis==
+[[File:PET Alzheimer.jpg|thumb|right||Upright|[[Positron emission tomography|PET scan]] of the brain of a person with AD showing a loss of function in the temporal lobe]]
+Alzheimer's disease is usually diagnosed clinically from the patient history, collateral history from relatives, and clinical observations, based on the presence of characteristic [[Neurology|neurological]] and [[neuropsychology|neuropsychological]] features and the [[Diagnosis of exclusion|absence of alternative conditions]].&lt;ref name=&quot;pmid17407994&quot;&gt;{{vcite journal
+|author=Mendez MF
+|title=The accurate diagnosis of early-onset dementia
+|journal=International Journal of Psychiatry Medicine
+|volume=36
+|issue=4
+|pages=401–412
+|year=2006
+|pmid=17407994
+|doi=10.2190/Q6J4-R143-P630-KW41
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid17018549&quot;&gt;{{vcite journal
+|author=Klafki HW, Staufenbiel M, Kornhuber J, Wiltfang J
+|title=Therapeutic approaches to Alzheimer's disease
+|journal=Brain
+|volume=129
+|issue=Pt 11
+|pages=2840–55
+|year=2006
+|month=November
+|pmid=17018549
+|doi=10.1093/brain/awl280
+}}&lt;/ref&gt; Advanced [[medical imaging]] with [[computed tomography]] (CT) or [[magnetic resonance imaging]] (MRI), and with [[single photon emission computed tomography]] (SPECT) or [[positron emission tomography]] (PET) can be used to help exclude other cerebral pathology or subtypes of dementia.&lt;ref&gt;
+{{cite book
+|url=http://www.nice.org.uk/nicemedia/pdf/CG042quickrefguide.pdf
+|format=PDF
+|title=Dementia: Quick reference guide
+|publisher=(UK) [[National Institute for Health and Clinical Excellence]]
+|location=London
+|month=November
+|year=2006
+|isbn=1-84629-312-X
+|accessdate=2008-02-22
+| archiveurl= http://web.archive.org/web/20080227161412/http://www.nice.org.uk/nicemedia/pdf/CG042quickrefguide.pdf| archivedate= 27 February 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Moreover, it may predict conversion from prodromal stages (mild cognitive impairment) to Alzheimer's disease.&lt;ref name=&quot;pmid16327345&quot;&gt;{{vcite journal
+|author=Schroeter ML, Stein T, Maslowski N, Neumann J
+|title=Neural Correlates of Alzheimer's Disease and Mild Cognitive Impairment: A Systematic and Quantitative Meta-Analysis involving 1,351 Patients
+|journal=NeuroImage
+|volume=47
+|issue=4
+|pages=1196–1206
+|year=2009
+|pmid=19463961
+|pmc=2730171
+|doi=10.1016/j.neuroimage.2009.05.037
+}}&lt;/ref&gt;
+
+[[Neuropsychological assessment|Assessment of intellectual functioning]] including memory testing can further characterise the state of the disease.&lt;ref name=&quot;pmid17222085&quot;/&gt; Medical organisations have created diagnostic criteria to ease and standardise the diagnostic process for practicing physicians. The diagnosis can be confirmed with very high accuracy [[Autopsy|post-mortem]] when brain material is available and can be examined [[Histology|histologically]].&lt;ref name=&quot;pmid6610841&quot;&gt;{{vcite journal
+|author=McKhann G, Drachman D, Folstein M, Katzman R, Price D, Stadlan EM
+|title=Clinical diagnosis of Alzheimer's disease: report of the NINCDS-ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer's Disease
+|journal=Neurology
+|volume=34
+|issue=7
+|pages=939–44
+|year=1984
+|month=July
+|pmid=6610841
+}}&lt;/ref&gt;
+
+===Criteria===
+The [[National Institute of Neurological and Communicative Disorders and Stroke]] (NINCDS) and the [[Alzheimer's Disease and Related Disorders Association]] (ADRDA, now known as the [[Alzheimer's Association]]) established the most commonly used [[NINCDS-ADRDA Alzheimer's Criteria]] for diagnosis in 1984,&lt;ref name=&quot;pmid6610841&quot;/&gt; extensively updated in 2007.&lt;ref name=&quot;pmid17616482&quot;&gt;{{vcite journal
+|author=Dubois B
+|title=Research criteria for the diagnosis of Alzheimer's disease: revising the NINCDS-ADRDA criteria
+|journal=Lancet Neurol
+|volume=6
+|issue=8
+|pages=734–46
+|year=2007
+|month=August
+|pmid=17616482
+|doi=10.1016/S1474-4422(07)70178-3
+|last12=O'brien
+|first12=J
+|last13=Pasquier
+|first13=F
+|first14=P
+|first15=M
+|first16=S
+|first17=Y
+|first18=PJ
+|first19=P
+|author-separator=,
+|author2=Feldman HH
+|author3=Jacova C
+|display-authors=3
+|last4=Robert
+|last5=Rossor
+|last6=Salloway
+|last7=Stern
+|last8=Visser
+|last9=Scheltens
+|first4=Steven T
+|first5=Pascale
+|first6=Jeffrey
+|first7=André
+|first8=Douglas
+|first9=Serge
+}}&lt;/ref&gt; These criteria require that the presence of [[Developmental disability|cognitive impairment]], and a suspected dementia syndrome, be confirmed by [[Neuropsychological assessment|neuropsychological testing]] for a clinical diagnosis of possible or probable AD. A [[histopathologic]] confirmation including a [[microscopic]] examination of [[brain tissue]] is required for a definitive diagnosis. Good [[Reliability (statistics)|statistical reliability]] and [[Validity (statistics)|validity]] have been shown between the diagnostic criteria and definitive histopathological confirmation.&lt;ref name=&quot;pmid7986174&quot;&gt;{{vcite journal
+|author=Blacker D, Albert MS, Bassett SS, Go RC, Harrell LE, Folstein MF
+|title=Reliability and validity of NINCDS-ADRDA criteria for Alzheimer's disease. The National Institute of Mental Health Genetics Initiative
+|journal=Arch. Neurol.
+|volume=51
+|issue=12
+|pages=1198–204
+|year=1994
+|month=December
+|pmid=7986174
+}}&lt;/ref&gt; Eight cognitive domains are most commonly impaired in AD—[[memory]], [[language]], [[perception|perceptual skills]], [[attention]], constructive abilities, [[orientation (mental)|orientation]], [[problem solving]] and functional abilities. These domains are equivalent to the NINCDS-ADRDA Alzheimer's Criteria as listed in the ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' (DSM-IV-TR) published by the [[American Psychiatric Association]].&lt;ref&gt;{{cite book
+|last=American Psychiatric Association
+|title=Diagnostic and statistical manual of mental disorders: DSM-IV-TR
+|edition=4th Edition Text Revision
+|publisher=American Psychiatric Association
+|year=2000
+|location=Washington,  DC
+|isbn=0-89042-025-4
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid8752526&quot;&gt;{{vcite journal
+|author=Ito N
+|title=[Clinical aspects of dementia]
+|language=Japanese
+|journal=Hokkaido Igaku Zasshi
+|volume=71
+|issue=3
+|pages=315–20
+|year=1996
+|month=May
+|pmid=8752526
+}}&lt;/ref&gt;
+
+===Techniques===
+[[File:InterlockingPentagons.svg|right|thumb|Neuropsychological [[screening test]]s can help in the diagnosis of AD. In the tests, people are instructed to copy drawings similar to the one shown in the picture, remember words, read, and subtract serial numbers.]]
+
+[[Neuropsychological test]]s such as the [[mini-mental state examination]] (MMSE) are widely used to evaluate the cognitive impairments needed for diagnosis. More comprehensive test arrays are necessary for high reliability of results, particularly in the earliest stages of the disease.&lt;ref name=&quot;pmid1512391&quot;&gt;{{vcite journal
+|author=Tombaugh TN, McIntyre NJ
+|title=The mini-mental state examination: a comprehensive review
+|journal=J Am Geriatr Soc
+|volume=40
+|issue=9
+|pages=922–35
+|year=1992
+|month=September
+|pmid=1512391
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid9987708&quot;&gt;{{vcite journal
+|author=Pasquier F
+|title=Early diagnosis of dementia: neuropsychology
+|journal=J. Neurol.
+|volume=246
+|issue=1
+|pages=6–15
+|year=1999
+|month=January
+|pmid=9987708
+|doi=10.1007/s004150050299
+}}&lt;/ref&gt; [[Neurological examination]] in early AD will usually provide normal results, except for obvious cognitive impairment, which may not differ from that resulting from other diseases processes, including other causes of dementia.
+
+Further neurological examinations are crucial in the [[differential diagnosis]] of AD and other diseases.&lt;ref name=&quot;pmid17222085&quot;/&gt; Interviews with family members are also utilised in the assessment of the disease. Caregivers can supply important information on the daily living abilities, as well as on the decrease, over time, of the person's [[mental function]].&lt;ref name=&quot;pmid16327345&quot;&gt;{{vcite journal
+|author=Harvey PD
+|title=The validation of a caregiver assessment of dementia: the Dementia Severity Scale
+|journal=Alzheimer Dis Assoc Disord
+|volume=19
+|issue=4
+|pages=186–94
+|year=2005
+|pmid=16327345
+|doi=10.1097/01.wad.0000189034.43203.60
+|author-separator=,
+|author2=Moriarty PJ
+|author3=Kleinman L
+|display-authors=3
+|last4=Coyne
+|first4=Karin
+|last5=Sadowsky
+|first5=Carl H
+|last6=Chen
+|first6=Michael
+|last7=Mirski
+|first7=Dario F
+}}&lt;/ref&gt; A caregiver's viewpoint is particularly important, since a person with AD is commonly unaware of his own [[anosognosia|deficits]].&lt;ref name=&quot;pmid15738860&quot;&gt;{{vcite journal
+|author=Antoine C, Antoine P, Guermonprez P, Frigard B
+|title=[Awareness of deficits and anosognosia in Alzheimer's disease.]
+|language=French
+|journal=Encephale
+|volume=30
+|issue=6
+|pages=570–7
+|year=2004
+|pmid=15738860
+|doi=10.1016/S0013-7006(04)95472-3
+}}&lt;/ref&gt; Many times, families also have difficulties in the detection of initial dementia symptoms and may not communicate accurate information to a physician.&lt;ref name=&quot;pmid16197855&quot;&gt;{{vcite journal
+|author=Cruz VT, Pais J, Teixeira A, Nunes B
+|title=[The initial symptoms of Alzheimer disease: caregiver perception]
+|language=Portuguese
+|journal=Acta Med Port
+|volume=17
+|issue=6
+|pages=435–44
+|year=2004
+|pmid=16197855
+}}&lt;/ref&gt;
+
+Another recent objective marker of the disease is the analysis of [[cerebrospinal fluid]] for beta-amyloid or tau proteins,&lt;ref name=&quot;pmid17612711&quot;&gt;{{vcite journal
+|author=Marksteiner J, Hinterhuber H, Humpel C
+|title=Cerebrospinal fluid biomarkers for diagnosis of Alzheimer's disease: beta-amyloid(1–42), tau, phospho-tau-181 and total protein
+|journal=Drugs Today
+|volume=43
+|issue=6
+|pages=423–31
+|year=2007
+|month=June
+|pmid=17612711
+|doi=10.1358/dot.2007.43.6.1067341
+}}&lt;/ref&gt; both total tau protein and phosphorylated tau&lt;sub&gt;181P&lt;/sub&gt; protein concentrations.&lt;ref name=demeyer/&gt; Searching for these proteins using a [[Lumbar puncture|spinal tap]] can predict the onset of Alzheimer's with a [[sensitivity and specificity|sensitivity]] of between 94% and 100%.&lt;ref name=demeyer/&gt; When used in conjunction with existing [[Functional neuroimaging|neuroimaging]] techniques, doctors can identify people with significant memory loss who are already developing the disease.&lt;ref name=demeyer&gt;{{vcite journal
+|author=De Meyer G, Shapiro F, Vanderstichele H, Vanmechelen E, Engelborghs S, De Deyn PP, Coart E, Hansson O, Minthon L, Zetterberg H, Blennow K, Shaw L, Trojanowski JQ
+|title=Diagnosis-Independent Alzheimer Disease Biomarker Signature in Cognitively Normal Elderly People
+|journal=Arch Neurol.
+|volume=67
+|issue=8
+|pages=949–56
+|year=2010
+|month=August
+|pmid=20697045
+|doi=10.1001/archneurol.2010.179
+|pmc=2963067
+}}&lt;/ref&gt; Spinal fluid tests are commercially available, unlike the latest neuroimaging technology.&lt;ref&gt;{{cite news
+|author=Kolata G
+|title=Spinal-Fluid Test Is Found to Predict Alzheimer's
+|url=http://www.nytimes.com/2010/08/10/health/research/10spinal.html
+|work=[[The New York Times]]
+|date=August 9, 2010
+|accessdate=August 10, 2010
+| archiveurl= http://web.archive.org/web/20100811000745/http://www.nytimes.com/2010/08/10/health/research/10spinal.html| archivedate= 11 August 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Alzheimer's was diagnosed in one-third of the people who did not have any symptoms in a 2010 study, meaning that disease progression occurs well before symptoms occur.&lt;ref&gt;{{cite news
+|author=Roan S
+|title=Tapping into an accurate diagnosis of Alzheimer's disease
+|url=http://www.latimes.com/health/boostershots/aging/la-heb-alzheimers-20100809,0,5683387.story
+|work=[[Los Angeles Times]]
+|date=August 9, 2010
+|accessdate=August 10, 2010
+| archiveurl= http://web.archive.org/web/20100811104029/http://www.latimes.com/health/boostershots/aging/la-heb-alzheimers-20100809,0,5683387.story| archivedate= 11 August 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+Supplemental testing provides extra information on some features of the disease or is used to rule out other diagnoses. [[Blood test]]s can identify other causes for dementia than AD&lt;ref name=&quot;pmid17222085&quot;/&gt;—causes which may, in rare cases, be reversible.&lt;ref&gt;{{vcite journal
+|author=Clarfield AM
+|title=The decreasing prevalence of reversible dementias: an updated meta-analysis
+|journal=Arch. Intern. Med.
+|volume=163
+|issue=18
+|pages=2219–29
+|year=2003
+|month=October
+|pmid=14557220
+|doi=10.1001/archinte.163.18.2219
+}}&lt;/ref&gt; It is common to perform [[thyroid function tests]], assess [[Vitamin B12|B12]], rule out [[syphilis]], rule out metabolic problems (including tests for kidney function, electrolyte levels and for diabetes), assess levels of heavy metals (e.g. lead, mercury) and anaemia. (See differential diagnosis for Dementia). (It is also necessary to rule out [[delirium]]).
+
+[[Psychological testing|Psychological tests]] for [[clinical depression|depression]] are employed, since depression can either be concurrent with AD (see [[Depression of Alzheimer disease]]), an early sign of cognitive impairment,&lt;ref&gt;{{vcite journal|author=Sun x|title=Amyloid-Associated Depression: A Prodromal Depression of Alzheimer Disease?|journal=Arch Gen Psychiatry|volume=65|issue=5|pages=542–550|year=2008|url=http://archpsyc.ama-assn.org/cgi/content/short/65/5/542|doi=10.1001/archpsyc.65.5.542|pmid=18458206|last1=Sun|first1=X|last2=Steffens|first2=DC|last3=Au|first3=R|last4=Folstein|first4=M|last5=Summergrad|first5=P|last6=Yee|first6=J|last7=Rosenberg|first7=I|last8=Mwamburi|first8=DM|last9=Qiu|first9=WQ|pmc=3042807|author-separator=,|display-authors=3}}&lt;/ref&gt; or even the cause.&lt;ref name=&quot;pmid9153154&quot;&gt;{{vcite journal
+|author=Geldmacher DS, Whitehouse PJ
+|title=Differential diagnosis of Alzheimer's disease
+|journal=Neurology
+|volume=48
+|issue=5 Suppl 6
+|pages=S2–9
+|year=1997
+|month=May
+|pmid=9153154
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid17495754&quot;&gt;{{vcite journal
+|author=Potter GG, Steffens DC
+|title=Contribution of depression to cognitive impairment and dementia in older adults
+|journal=Neurologist
+|volume=13
+|issue=3
+|pages=105–17
+|year=2007
+|month=May
+|pmid=17495754
+|doi=10.1097/01.nrl.0000252947.15389.a9
+}}&lt;/ref&gt;
+
+====Imaging====
+When available as a diagnostic tool, [[single photon emission computed tomography]] (SPECT) and [[positron emission tomography]] (PET) neuroimaging are used to confirm a diagnosis of Alzheimer's in conjunction with evaluations involving [[mental status examination]].&lt;ref name=&quot;pmid16785801&quot;&gt;{{vcite journal
+|author=Bonte FJ, Harris TS, Hynan LS, Bigio EH, White CL
+|title=Tc-99m HMPAO SPECT in the differential diagnosis of the dementias with histopathologic confirmation
+|journal=Clin Nucl Med
+|volume=31
+|issue=7
+|pages=376–8
+|year=2006
+|month=July
+|pmid=16785801
+|doi=10.1097/01.rlu.0000222736.81365.63
+}}&lt;/ref&gt; In a person already having dementia, SPECT appears to be superior in differentiating Alzheimer's disease from other possible causes, compared with the usual attempts employing mental testing and [[medical history]] analysis.&lt;ref name=&quot;pmid15545324&quot;&gt;{{vcite journal
+|author=Dougall NJ, Bruggink S, Ebmeier KP
+|title=Systematic review of the diagnostic accuracy of 99mTc-HMPAO-SPECT in dementia
+|journal=Am J Geriatr Psychiatry
+|volume=12
+|issue=6
+|pages=554–70
+|year=2004
+|pmid=15545324
+|doi=10.1176/appi.ajgp.12.6.554
+}}&lt;/ref&gt; Advances have led to the proposal of new diagnostic criteria.&lt;ref name=&quot;pmid17222085&quot;/&gt;&lt;ref name=&quot;pmid17616482&quot;/&gt;
+
+A new technique known as [[Pittsburgh compound B|PiB PET]] has been developed for directly and clearly imaging beta-amyloid deposits [[in vivo]] using a [[Radioactive tracer|tracer]] that [[Binding (molecular)|binds]] selectively to the A-beta deposits.&lt;ref&gt;PiB PET:
+*{{vcite journal
+|author=Kemppainen NM
+|title=Cognitive reserve hypothesis: Pittsburgh Compound B and fluorodeoxyglucose positron emission tomography in relation to education in mild Alzheimer's disease
+|journal=Ann. Neurol.
+|volume=63
+|issue=1
+|pages=112–8
+|year=2008
+|month=January
+|pmid=18023012
+|doi=10.1002/ana.21212
+|author-separator=,
+|author2=Aalto S
+|author3=Karrasch M
+|display-authors=3
+|last4=Någren
+|first4=Kjell
+|last5=Savisto
+|first5=Nina
+|last6=Oikonen
+|first6=Vesa
+|last7=Viitanen
+|first7=Matti
+|last8=Parkkola
+|first8=Riitta
+|last9=Rinne
+|first9=Juha O.
+}}
+*{{vcite journal
+|author=Ikonomovic MD
+|title=Post-mortem correlates of in vivo PiB-PET amyloid imaging in a typical case of Alzheimer's disease
+|journal=Brain
+|volume=131
+|issue=Pt 6
+|pages=1630–45
+|year=2008
+|month=June
+|pmid=18339640
+|pmc=2408940
+|doi=10.1093/brain/awn016
+|last12=Hope
+|first12=CE
+|last13=Isanski
+|first13=BA
+|first14=RL
+|first15=ST
+|author-separator=,
+|author2=Klunk WE
+|author3=Abrahamson EE
+|display-authors=3
+|last4=Hamilton
+|last5=Dekosky
+|first4=C. A.
+|first5=J. C.
+|last6=Tsopelas
+|first6=N. D.
+|last7=Lopresti
+|first7=B. J.
+|last8=Ziolko
+|first8=S.
+|last9=Bi
+|first9=W.
+}}
+*{{vcite journal
+|author=Jack CR
+|title=11C PiB and Structural MRI Provide Complementary Information in Imaging of AD and Amnestic MCI
+|journal=Brain
+|volume=131
+|issue=Pt 3
+|pages=665–80
+|year=2008
+|month=March
+|pmid=18263627
+|doi=10.1093/brain/awm336
+|pmc=2730157
+|author-separator=,
+|author2=Lowe VJ
+|author3=Senjem ML
+|display-authors=3
+|last4=Weigand
+|first4=S. D.
+|last5=Kemp
+|first5=B. J.
+|last6=Shiung
+|first6=M. M.
+|last7=Knopman
+|first7=D. S.
+|last8=Boeve
+|first8=B. F.
+|last9=Klunk
+|first9=W. E.
+}}&lt;/ref&gt; The PiB-PET compound uses [[carbon-11]] PET scanning. Recent studies suggest that PiB-PET is 86% accurate in predicting which people with mild cognitive impairment will develop Alzheimer's disease within two years, and 92% accurate in ruling out the likelihood of developing Alzheimer's.&lt;ref&gt;{{vcite journal
+|author=Abella HA
+|title=Report from SNM: PET imaging of brain chemistry bolsters characterization of dementias
+|journal=Diagnostic Imaging|date=June 16, 2009
+|url=http://www.diagnosticimaging.com/imaging-trends-advances/cardiovascular-imaging/article/113619/1423022
+}}&lt;/ref&gt;
+
+A similar PET scanning [[radiopharmaceutical]] compound called (E)-4-(2-(6-(2-(2-(2-([&lt;sup&gt;18&lt;/sup&gt;F]-fluoroethoxy)ethoxy)ethoxy)pyridin-3-yl)vinyl)-N-methyl benzenamine, or &lt;sup&gt;18&lt;/sup&gt;F AV-45, or florbetapir-fluorine-18, or simply [[florbetapir]], contains the longer-lasting radionuclide [[fluorine-18]], has recently been created, and tested as a possible diagnostic tool in Alzheimer's disease.&lt;ref&gt;{{vcite journal
+|journal=Q J Nucl Med Mol Imaging
+|date=2009 Aug
+|volume=53
+|issue=4
+|pages=387–93
+|title=The use of the exploratory IND in the evaluation and development of &lt;sup&gt;18&lt;/sup&gt;F-PET radiopharmaceuticals for amyloid imaging in the brain: a review of one company's experience
+|author=Carpenter AP Jr, Pontecorvo MJ, Hefti FF, Skovronsky DM
+|pmid=19834448
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Leung K|url=http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=micad&amp;part=AV-45-18F|title=(E)-4-(2-(6-(2-(2-(2-(&lt;sup&gt;18&lt;/sup&gt;F-fluoroethoxy)ethoxy)ethoxy)pyridin-3-yl)vinyl)-N-methyl benzenamine &lt;nowiki&gt;[[&lt;/nowiki&gt;&lt;sup&gt;18&lt;/sup&gt;F&lt;nowiki&gt;]AV-45]&lt;/nowiki&gt;|work=Molecular Imaging and Contrast Agent Database|date=April 8, 2010|accessdate=2010-06-24}}&lt;/ref&gt;&lt;ref&gt;{{cite news
+|author=[[Gina Kolata|Kolata G]]
+|url=http://www.nytimes.com/2010/06/24/health/research/24scans.html
+|title=Promise Seen for Detection of Alzheimer's
+|work=[[The New York Times]]
+|date=June 23, 2010
+|accessdate=June 23, 2010
+| archiveurl= http://web.archive.org/web/20100628040531/http://www.nytimes.com/2010/06/24/health/research/24scans.html| archivedate= 28 June 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;&lt;ref name=&quot;pmid20501908&quot;&gt;{{vcite journal|doi=10.2967/jnumed.109.069088|journal=J Nucl Med|date=2010 Jun|volume=51|issue=6|pages=913–20|title=In Vivo Imaging of Amyloid Deposition in Alzheimer's Disease using the Novel Radioligand 18FAV-45 (Florbetapir F 18)|author=Wong DF, Rosenberg PB, Zhou Y, Kumar A, Raymont V, Ravert HT, Dannals RF, Nandi A, Brasić JR, Ye W, Hilton J, Lyketsos C, Kung HF, Joshi AD, Skovronsky DM, Pontecorvo MJ|pmid=20501908|laysummary=http://www.diagnosticimaging.com/news/display/article/113619/1598949|pmc=3101877}}&lt;/ref&gt; Florbetapir, like PiB, binds to beta-amyloid, but due to its use of fluorine-18 has a half-life of 110 minutes, in contrast to PiB's radioactive half life of 20 minutes. Wong ''et al.'' found that the longer life allowed the tracer to accumulate significantly more in the brains of people with AD, particularly in the regions known to be associated with beta-amyloid deposits.&lt;ref name=&quot;pmid20501908&quot;/&gt;
+
+One review predicted that amyloid imaging is likely to be used in conjunction with other markers rather than as an alternative.&lt;ref name=&quot;pmid19847050&quot;&gt;{{vcite journal
+|author=Rabinovici GD, Jagust WJ
+|journal=Behav Neurol
+|year=2009
+|volume=21
+|issue=1
+|pages=117–28
+|title=AMYLOID IMAGING IN AGING AND DEMENTIA: TESTING THE AMYLOID HYPOTHESIS IN VIVO
+|pmid=19847050
+|pmc=2804478
+|doi=10.3233/BEN-2009-0232
+|url=http://iospress.metapress.com/content/23338q121v142311/
+}}&lt;/ref&gt;
+
+Volumetric [[magnetic resonance imaging|MRI]] can detect changes in the size of brain regions. Measuring those regions that atrophy during the progress of Alzheimer's disease is showing promise as a diagnostic indicator. It may prove less expensive than other imaging methods currently under study.&lt;ref name=&quot;pmid18445747&quot;&gt;{{vcite journal
+|author=O'Brien JT
+|title=Role of imaging techniques in the diagnosis of dementia
+|journal=Br J Radiol
+|date=2007 Dec
+|volume=80|issue=Spec No 2|pages=S71–7
+|pmid=18445747
+|doi=10.1259/bjr/33117326
+}}&lt;/ref&gt;
+
+====Non-Imaging biomarkers====
+Recent studies have shown that people with AD had decreased [[glutamate]] (Glu) as well as decreased Glu/[[creatine]] (Cr), Glu/myo-inositol (mI), Glu/N-acetylaspartate (NAA), and NAA/Cr ratios compared to normal people. Both decreased NAA/Cr and decreased [[hippocampus|hippocampal]] glutamate may be an early indicator of AD.&lt;ref name=&quot;pmid 19501936&quot;&gt;{{vcite journal
+|author=Rupsingh R, Borrie M, Smith M, Wells JL, Bartha R
+|title=Reduced hippocampal glutamate in Alzheimer disease
+|journal=[[Neurobiol Aging]]|year=2009|month=June
+|pmid=19501936
+|doi=10.1016/j.neurobiolaging.2009.05.002
+|volume=32
+|issue=5
+|pages=802–810
+}} (primary source)&lt;/ref&gt;
+
+Early research in mouse models may have identified markers for AD. The applicability of these markers is unknown.&lt;ref name=&quot;pmid21215375&quot;&gt;{{vcite journal
+|author=Reddy MM, Wilson R, Wilson J, Connell S, Gocke A, Hynan L, German D, Kodadek T
+|title=Identification of Candidate IgG Antibody Biomarkers for Alzheimer's Disease Through Screening of Synthetic Combinatorial Libraries
+|journal=Cell
+|volume=144
+|issue=1
+|pages=132–42
+|year=2011
+|month=January
+|pmid=21215375
+|doi=10.1016/j.cell.2010.11.054
+|url=
+|pmc=3066439
+}} (primary source)&lt;/ref&gt;
+
+A small human study in 2011 found that monitoring blood [[dehydroepiandrosterone]] (DHEA) variations in response to an oxidative stress could be a useful proxy test: the subjects with MCI did not have a DHEA variation, while the healthy controls did.&lt;ref&gt;{{vcite journal|journal=J Alzheimers Dis|date=2011-01-01|volume=24|issue=1|pages=5–16|title=A lead study on oxidative stress-mediated dehydroepiandrosterone formation in serum: the biochemical basis for a diagnosis of Alzheimer's disease|author=Rammouz G, Lecanu L, Aisen P, Papadopoulos V|pmid=21335661|doi=10.3233/JAD-2011-101941}} (primary source)&lt;/ref&gt;
+
+==Prevention==
+[[File:Honoré Daumier 032.jpg|right|thumb|Intellectual activities such as playing [[chess]] or regular social interaction have been linked to a reduced risk of AD in epidemiological studies, although no causal relationship has been found.]]
+
+At present, there is no definitive evidence to support that any particular measure is effective in preventing AD.&lt;ref&gt;Prevention recommendations not supported:
+*{{vcite journal|author=Kawas CH|title=Medications and diet: protective factors for AD?|journal=Alzheimer Dis Assoc Disord|volume=20|issue=3 Suppl 2|pages=S89–96|year=2006|pmid=16917203|doi=}}
+*{{vcite journal|author=Luchsinger JA, Mayeux R|title=Dietary factors and Alzheimer's disease|journal=Lancet Neurol|volume=3|issue=10|pages=579–87|year=2004|pmid=15380154|doi=10.1016/S1474-4422(04)00878-6}}
+*{{vcite journal|author=Luchsinger JA, Noble JM, Scarmeas N|title=Diet and Alzheimer's disease|journal=Curr Neurol Neurosci Rep|volume=7|issue=5|pages=366–72|year=2007|pmid=17764625|doi=10.1007/s11910-007-0057-8}}
+*{{cite press release|url=http://www.nih.gov/news/health/apr2010/od-28.htm|title=Independent Panel Finds Insufficient Evidence to Support Preventive Measures for Alzheimer's Disease|date=April 28, 2010|publisher=[[National Institutes of Health]]}}
+*{{cite web|url=http://consensus.nih.gov/2010/alzstatement.htm|title=NIH State-of-the-Science Conference: Preventing Alzheimer's Disease and Cognitive Decline|date=April 26–28, 2010|author=Daviglus ML ''et al.''}}&lt;/ref&gt; Global studies of measures to prevent or delay the onset of AD have often produced inconsistent results.
+However, epidemiological studies have proposed relationships between certain modifiable factors, such as diet, cardiovascular risk, pharmaceutical products, or intellectual activities among others, and a population's likelihood of developing AD. Only further research, including clinical trials, will reveal whether these factors can help to prevent AD.&lt;ref&gt;
+{{vcite journal
+|author=Szekely CA, Breitner JC, Zandi PP
+|title=Prevention of Alzheimer's disease
+|journal=Int Rev Psychiatry
+|volume=19
+|issue=6
+|pages=693–706
+|year=2007
+|pmid=18092245
+|doi=10.1080/09540260701797944
+}}&lt;/ref&gt;
+
+Although cardiovascular risk factors, such as [[hypercholesterolemia|hypercholesterolaemia]], [[hypertension]], [[diabetes]], and smoking, are associated with a higher risk of onset and course of AD,&lt;ref name=&quot;pmid18299540&quot;&gt;{{vcite journal
+|author=Patterson C, Feightner JW, Garcia A, Hsiung GY, MacKnight C, Sadovnick AD
+|title=Diagnosis and treatment of dementia: 1. Risk assessment and primary prevention of Alzheimer disease
+|journal=CMAJ
+|volume=178
+|issue=5
+|pages=548–56
+|year=2008
+|month=February
+|pmid=18299540
+|pmc=2244657
+|doi=10.1503/cmaj.070796
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid17483665&quot;&gt;{{vcite journal
+|author=Rosendorff C, Beeri MS, Silverman JM
+|title=Cardiovascular risk factors for Alzheimer's disease
+|journal=Am J Geriatr Cardiol
+|volume=16
+|issue=3
+|pages=143–9
+|year=2007
+|pmid=17483665
+|doi=10.1111/j.1076-7460.2007.06696.x
+}}&lt;/ref&gt; [[statins]], which are [[cholesterol]] lowering drugs, have not been effective in preventing or improving the course of the disease.&lt;ref name=&quot;pmid17927279&quot;&gt;{{vcite journal
+|author=Reiss AB, Wirkowski E
+|title=Role of HMG-CoA reductase inhibitors in neurological disorders: progress to date
+|journal=Drugs
+|volume=67
+|issue=15
+|pages=2111–20
+|year=2007
+|pmid=17927279|doi=10.2165/00003495-200767150-00001
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid17877925&quot;&gt;{{vcite journal
+|author=Kuller LH
+|title=Statins and dementia
+|journal=Curr Atheroscler Rep
+|volume=9
+|issue=2
+|pages=154–61
+|year=2007
+|month=August
+|pmid=17877925
+|doi=10.1007/s11883-007-0012-9
+}}&lt;/ref&gt; The components of a [[Mediterranean diet]], which include fruit and vegetables, [[bread]], [[wheat]] and other [[cereal]]s, [[olive oil]], [[fish]], and [[red wine]], may all individually or together reduce the risk and course of Alzheimer's disease.&lt;ref name=&quot;pmid18088206&quot;&gt;{{vcite journal
+|author=Solfrizzi V
+|title=Lifestyle-related factors in predementia and dementia syndromes
+|journal=Expert Rev Neurother
+|volume=8
+|issue=1
+|pages=133–58
+|year=2008
+|month=January
+|pmid=18088206
+|doi=10.1586/14737175.8.1.133
+|url=
+|author-separator=,
+|author2=Capurso C
+|author3=D'Introno A
+|display-authors=3
+|last4=Colacicco
+|first4=Anna Maria
+|last5=Santamato
+|first5=Andrea
+|last6=Ranieri
+|first6=Maurizio
+|last7=Fiore
+|first7=Pietro
+|last8=Capurso
+|first8=Antonio
+|last9=Panza
+|first9=Francesco
+}}&lt;/ref&gt; The diet's beneficial cardiovascular effect has been proposed as the mechanism of action.&lt;ref name=&quot;pmid18088206&quot;/&gt; There is limited evidence that light to moderate use of alcohol, particularly red wine, is associated with lower risk of AD.&lt;ref&gt;{{vcite journal
+|author=Panza F, Capurso C, D'Introno A, Colacicco AM, Frisardi V, Lorusso M, Santamato A, Seripa D, Pilotto A, Scafato E, Vendemiale G, Capurso A, Solfrizzi V.
+|title=Alcohol drinking, cognitive functions in older age, predementia, and dementia syndromes
+|journal=J Alzheimers Dis
+|volume=17
+|issue=1
+|pages=7–31
+|date=May 2009
+|pmid=19494429
+|doi=10.3233/JAD-2009-1009
+|last12=Capurso
+|first12=A
+|last13=Solfrizzi
+|first13=V
+}}&lt;/ref&gt;
+
+Reviews on the use of [[vitamin]]s have not found enough evidence of efficacy to recommend vitamin C,&lt;ref name=&quot;pmid16227450&quot;&gt;{{vcite journal
+|author=Boothby LA, Doering PL
+|title=Vitamin C and vitamin E for Alzheimer's disease
+|journal=Ann Pharmacother
+|volume=39
+|issue=12
+|pages=2073–80
+|year=2005
+|month=December
+|pmid=16227450
+|doi=10.1345/aph.1E495
+|url=
+}}&lt;/ref&gt; E,&lt;ref name=&quot;pmid16227450&quot;/&gt;&lt;ref&gt;{{vcite journal
+|author=Isaac MG, Quinn R, Tabet N
+|title=Vitamin E for Alzheimer's disease and mild cognitive impairment
+|journal=Cochrane Database Syst Rev
+|volume=
+|issue=3
+|pages=CD002854
+|year=2008
+|pmid=18646084
+|doi=10.1002/14651858.CD002854.pub2
+|url=
+}}&lt;/ref&gt; or folic acid with or without vitamin B&lt;sub&gt;12&lt;/sub&gt;,&lt;ref&gt;{{vcite journal
+|author=Malouf R, Grimley Evans J
+|title=Folic acid with or without vitamin B&lt;sub&gt;12&lt;/sub&gt; for the prevention and treatment of healthy elderly and demented people
+|journal=Cochrane Database Syst Rev
+|volume=
+|issue=4
+|pages=CD004514
+|year=2008
+|pmid=18843658
+|doi=10.1002/14651858.CD004514.pub2
+|url=
+}}&lt;/ref&gt; as preventive or treatment agents in AD. Additionally vitamin E is associated with important health risks.&lt;ref name=&quot;pmid16227450&quot;/&gt; Trials examining [[folic acid]] (B9) and other B vitamins failed to show any significant association with cognitive decline.&lt;ref&gt;{{vcite journal
+|title=Effect of folic acid, with or without other B vitamins, on cognitive decline: meta-analysis of randomized trials
+|author=Wald DS, Kasturiratne A, Simmonds M
+|journal=[[The American Journal of Medicine]]
+|date=June 2010
+|volume=123
+|pmid=20569758
+|issue=6
+|pages=522–527.e2
+|doi=10.1016/j.amjmed.2010.01.017
+|pii=S0002-9343(10)00131-2
+}}&lt;/ref&gt; [[Docosahexaenoic acid]], an Omega 3 fatty acid, has not been found to slow decline.&lt;ref&gt;{{vcite journal|author=Quinn JF|title=Docosahexaenoic acid supplementation and cognitive decline in Alzheimer disease: a randomized trial|journal=JAMA|volume=304|issue=17|pages=1903–11|year=2010|month=November|pmid=21045096|doi=10.1001/jama.2010.1510|url=|author-separator=,|author2=Raman R|author3=Thomas RG|display-authors=3|last4=Yurko-Mauro|first4=K.|last5=Nelson|first5=E. B.|last6=Van Dyck|first6=C.|last7=Galvin|first7=J. E.|last8=Emond|first8=J.|last9=Jack|first9=C. R.}}&lt;/ref&gt;
+
+Long-term usage of [[non-steroidal anti-inflammatory drug]] (NSAIDs) is associated with a reduced likelihood of developing AD.&lt;ref name=&quot;pmid17612054&quot;&gt;{{vcite journal
+|author=Szekely CA, Town T, Zandi PP
+|title=NSAIDs for the chemoprevention of Alzheimer's disease
+|journal=Subcell Biochem
+|volume=42
+|issue=
+|pages=229–48
+|year=2007
+|month=
+|pmid=17612054
+|doi=10.1007/1-4020-5688-5_11
+|series=Subcellular Biochemistry
+|isbn=978-1-4020-5687-1
+}}&lt;/ref&gt; Human [[postmortem]] studies, in [[animal model]]s, or [[in vitro]] investigations also support the notion that NSAIDs can reduce inflammation related to amyloid plaques.&lt;ref name=&quot;pmid17612054&quot;/&gt; However trials investigating their use as palliative treatment have failed to show positive results while no prevention trial has been completed.&lt;ref name=&quot;pmid17612054&quot;/&gt; [[Curcumin]] from the [[curry]] spice [[turmeric]] has shown some effectiveness in preventing [[brain damage]] in [[mouse model]]s due to its anti-inflammatory properties.&lt;ref&gt;{{vcite journal
+|author=Ringman JM, Frautschy SA, Cole GM, Masterman DL, Cummings JL
+|title=A Potential Role of the Curry Spice Curcumin in Alzheimer's Disease
+|journal=Curr Alzheimer Res
+|issn=1567-2050
+|volume=2
+|issue=2
+|pages=131–6
+|year=2005
+|month=April
+|pmid=15974909
+|pmc=1702408
+|doi=10.2174/1567205053585882
+}}&lt;/ref&gt;&lt;ref&gt;{{vcite journal
+|author=Aggarwal BB, Harikumar KB
+|title=Potential Therapeutic Effects of Curcumin, the Anti-inflammatory Agent, Against Neurodegenerative, Cardiovascular, Pulmonary, Metabolic, Autoimmune and Neoplastic Diseases
+|journal=Int J Biochem Cell Biol
+|volume=41
+|issue=1
+|pages=40–59
+|year=2009
+|month=January
+|pmid=18662800
+|doi=10.1016/j.biocel.2008.06.010
+|pmc=2637808
+}}&lt;/ref&gt; [[Hormone therapy|Hormone replacement therapy]], although previously used, is no longer thought to prevent dementia and in some cases may even be related to it.&lt;ref name=&quot;pmid19370593&quot;&gt;{{vcite journal
+|author=Farquhar C, Marjoribanks J, Lethaby A, Suckling JA, Lamberts Q
+|title=Long term hormone therapy for perimenopausal and postmenopausal women
+|journal=Cochrane Database Syst Rev
+|volume=
+|issue=2
+|pages=CD004143
+|date=15 April 2009
+|pmid=19370593
+|doi=10.1002/14651858.CD004143.pub3
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid19401958&quot;&gt;{{vcite journal
+|author=Barrett-Connor E, Laughlin GA
+|title=Endogenous and Exogenous Estrogen, Cognitive Function and Dementia in Postmenopausal Women: Evidence from Epidemiologic Studies and Clinical Trials
+|journal=Semin Reprod Med
+|volume=27
+|issue=3
+|date=May 2009
+|pages=275–82
+|pmc=2701737
+|doi=10.1055/s-0029-1216280
+|pmid=19401958
+|last1=Barrett-Connor
+|first1=E
+|last2=Laughlin
+|first2=GA
+}}&lt;/ref&gt; There is inconsistent and unconvincing evidence that [[Ginkgo Biloba|ginkgo]] has any positive effect on cognitive impairment and dementia,&lt;ref&gt;{{vcite journal
+|author=Birks J, Grimley Evans J
+|title=Ginkgo biloba for cognitive impairment and dementia
+|journal=Cochrane Database Syst Rev
+|volume=
+|issue=1
+|pages=CD003120
+|year=2009
+|pmid=19160216
+|doi=10.1002/14651858.CD003120.pub3
+|url=http://mrw.interscience.wiley.com/cochrane/clsysrev/articles/CD003120/frame.html
+|accessdate=2009-08-13
+}}&lt;/ref&gt; and a recent study concludes that it has no effect in reducing the rate of AD incidence.&lt;ref&gt;{{vcite journal
+|author=DeKosky ST
+|title=Ginkgo biloba for Prevention of Dementia: A Randomized Controlled Trial
+|journal=Journal of the American Medical Association
+|year=2008
+|volume=300
+|issue=19
+|pages=2253–2262
+|pmid=19017911
+|doi=10.1001/jama.2008.683
+|url=http://jama.ama-assn.org/cgi/content/full/300/19/2253
+|accessdate=2008-11-18
+|last12=Robbins
+|first12=JA
+|last13=Tracy
+|first13=RP
+|first14=NF
+|first15=L
+|first16=BE
+|first17=RL
+|first18=CD
+|first19=Investigators
+|pmc=2823569
+|author-separator=,
+|author2=Williamson JD
+|author3=Fitzpatrick AL
+|display-authors=3
+|last4=Woolard
+|last5=Dunn
+|last6=Snitz
+|last7=Nahin
+|last8=Furberg
+|last9=Ginkgo Evaluation Of Memory (Gem) Study
+|first4=R. A.
+|first5=D. G.
+|first6=J. A.
+|first7=O. L.
+|first8=G.
+|first9=M. C.
+}}&lt;/ref&gt; A 21-year study found that coffee drinkers of 3–5 cups per day at midlife had a 65% reduction in risk of dementia in late-life.&lt;ref&gt;{{vcite journal
+|author=Eskelinen MH, Ngandu T, Tuomilehto J, Soininen H, Kivipelto M
+|title=Midlife coffee and tea drinking and the risk of late-life dementia: a population-based CAIDE study
+|journal=J Alzheimers Dis
+|volume=16
+|issue=1
+|pages=85–91
+|year=2009
+|month=January
+|pmid=19158424
+|doi=10.3233/JAD-2009-0920
+}}&lt;/ref&gt;
+
+People who engage in intellectual activities such as reading, playing board games, completing crossword puzzles, playing [[musical instrument]]s, or regular [[social interaction]] show a reduced risk for Alzheimer's disease.&lt;ref name=&quot;pmid16917199&quot;&gt;{{cite pmid|16917199}}&lt;/ref&gt; This is compatible with the [[cognitive reserve]] theory, which states that some life experiences result in more efficient neural functioning providing the individual a cognitive reserve that delays the onset of dementia manifestations.&lt;ref name=&quot;pmid16917199&quot;/&gt; Education delays the onset of AD syndrome, but is not related to earlier death after diagnosis.&lt;ref name=&quot;pmid19026089&quot;&gt;{{vcite journal
+|author=Paradise M, Cooper C, Livingston G
+|title=Systematic review of the effect of education on survival in Alzheimer's disease
+|journal=Int Psychogeriatr
+|volume=21
+|issue=1
+|pages=25–32
+|year=2009
+|month=February
+|pmid=19026089
+|doi=10.1017/S1041610208008053
+}}&lt;/ref&gt; Learning a second language even later in life seems to delay getting Alzheimer disease.&lt;ref&gt;{{cite news|url=http://yourlife.usatoday.com/health/medical/alzheimers/story/2011/02/Speaking-2-languages-may-delay-getting-Alzheimers/43903878/1?csp=34news&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+usatoday-NewsTopStories+%28News+-+Top+Stories%29|work=USA Today|title=Most Popular E-mail Newsletter}}&lt;/ref&gt;
+[[Physical activity]] is also associated with a reduced risk of AD.&lt;ref name=&quot;pmid19026089&quot;/&gt;
+
+Two studies have shown that [[medical marijuana]] may be effective in inhibiting the progress of AD. The active ingredient in marijuana, [[THC]], may prevent the formation of deposits in the brain associated with Alzheimer's disease. THC was found to inhibit acetylcholinesterase more effectively than commercially marketed drugs.&lt;ref&gt;{{Vcite journal|author=Eubanks LM|title=A Molecular Link Between the Active Component of Marijuana and Alzheimer's Disease Pathology|journal=Molecular Pharmaceutics|volume=3|issue=6|pages=773–7|year=2006|pmid=17140265|pmc=2562334|doi=10.1021/mp060066m|month=November|issn=1543-8384|format=Free full text|author-separator=,|author2=Rogers CJ|author3=Beuscher AE|display-authors=3|last4=Koob|first4=George F.|last5=Olson|first5=Arthur J.|last6=Dickerson|first6=Tobin J.|last7=Janda|first7=Kim D.}}&lt;/ref&gt;&lt;ref&gt;{{vcite journal|journal=[[Br J Pharmacol]]|volume=152|issue=5|pages=655–62|date=2007 November|doi=10.1038/sj.bjp.0707446|pmc=2190031|pmid=17828287|title=Alzheimer's disease; taking the edge off with cannabinoids?|author=Campbell VA, Gowran A}}&lt;/ref&gt; A recent review of the clinical research has found no evidence that cannabinoids are effective in the improvement of disturbed behaviour or in the treatment of other symptoms of AD or dementia.&lt;ref&gt;{{cite PMID| 19370677}}&lt;/ref&gt;
+
+Some studies have shown an increased risk of developing AD with [[environmental factor]]s such the intake of [[metal]]s, particularly [[aluminium]],&lt;ref name=&quot;pmid17522444&quot;&gt;{{vcite journal
+|author=Shcherbatykh I, Carpenter DO
+|title=The role of metals in the etiology of Alzheimer's disease
+|journal=J Alzheimers Dis
+|volume=11
+|issue=2
+|pages=191–205
+|year=2007
+|month=May
+|pmid=17522444
+}}&lt;/ref&gt;&lt;ref&gt;{{vcite journal
+|author=Rondeau V, Commenges D, Jacqmin-Gadda H, Dartigues JF
+|title=Relation between aluminum concentrations in drinking water and Alzheimer's disease: an 8-year follow-up study
+|journal=Am J Epidemiol
+|volume=152
+|issue=1
+|pages=59–66
+|year=2000
+|month=July
+|pmid=10901330
+|pmc=2215380
+|doi=10.1093/aje/152.1.59
+}}&lt;/ref&gt; or exposure to [[solvent]]s.&lt;ref name=&quot;pmid7771442&quot;&gt;{{vcite journal
+|author=Kukull WA
+|title=Solvent exposure as a risk factor for Alzheimer's disease: a case-control study
+|journal=Am J Epidemiol
+|volume=141
+|issue=11
+|pages=1059–71; discussion 1072–9
+|year=1995
+|month=June
+|pmid=7771442
+|author-separator=,
+|author2=Larson EB
+|author3=Bowen JD
+|display-authors=3
+|last4=McCormick
+|first4=WC
+|last5=Teri
+|first5=L
+|last6=Pfanschmidt
+|first6=ML
+|last7=Thompson
+|first7=JD
+|last8=O'Meara
+|first8=ES
+|last9=Brenner
+|first9=DE
+}}&lt;/ref&gt; The quality of some of these studies has been criticised,&lt;ref&gt;{{vcite journal
+|author=Santibáñez M, Bolumar F, García AM
+|title=Occupational risk factors in Alzheimer's disease: a review assessing the quality of published epidemiological studies
+|journal=Occupational and Environmental Medicine
+|volume=64
+|issue=11
+|pages=723–732
+|year=2007
+|pmid=17525096
+|doi=10.1136/oem.2006.028209
+|pmc=2078415
+}}&lt;/ref&gt; and other studies have concluded that there is no relationship between these environmental factors and the development of AD.&lt;ref&gt;{{vcite journal
+|author=Seidler A
+|title=Occupational exposure to low frequency magnetic fields and dementia: a case–control study
+|journal=Occup Environ Med
+|volume=64
+|issue=2
+|pages=108–14
+|year=2007
+|month=February
+|pmid=17043077
+|doi=10.1136/oem.2005.024190
+|pmc=2078432
+|author-separator=,
+|author2=Geller P
+|author3=Nienhaus A
+|display-authors=3
+|last4=Bernhardt
+|first4=T.
+|last5=Ruppe
+|first5=I.
+|last6=Eggert
+|first6=S.
+|last7=Hietanen
+|first7=M.
+|last8=Kauppinen
+|first8=T.
+|last9=Frolich
+|first9=L.
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid12222737&quot;&gt;{{vcite journal
+|author=Rondeau V
+|title=A review of epidemiologic studies on aluminum and silica in relation to Alzheimer's disease and associated disorders
+|journal=Rev Environ Health
+|volume=17
+|issue=2
+|pages=107–21
+|year=2002
+|pmid=12222737
+|doi=10.1515/REVEH.2002.17.2.107
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid9115023&quot;&gt;{{vcite journal
+|author=Martyn CN, Coggon DN, Inskip H, Lacey RF, Young WF
+|title=Aluminum concentrations in drinking water and risk of Alzheimer's disease
+|journal=Epidemiology
+|volume=8
+|issue=3
+|pages=281–6
+|year=1997
+|month=May
+|pmid=9115023
+|doi=10.1097/00001648-199705000-00009
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid9861186&quot;&gt;{{vcite journal
+|author=Graves AB, Rosner D, Echeverria D, Mortimer JA, Larson EB
+|title=Occupational exposures to solvents and aluminium and estimated risk of Alzheimer's disease
+|journal=Occup Environ Med
+|volume=55
+|issue=9
+|pages=627–33
+|year=1998
+|month=September
+|pmid=9861186
+|pmc=1757634
+|doi=10.1136/oem.55.9.627
+}}&lt;/ref&gt;
+
+While some studies suggest that [[extremely low frequency]] electromagnetic fields may increase the risk for Alzheimer's disease, reviewers found that further epidemiological and laboratory investigations of this hypothesis are needed.&lt;ref&gt;{{Vcite journal|title=Health Effects of Exposure to EMF|author=Scientific Committee on Emerging and Newly Identified Health Risks-SCENIHR|date=January 2009|publisher=Directorate General for Health&amp;Consumers; European Commission|location=Brussels|pages=4–5|url=http://ec.europa.eu/health/ph_risk/committees/04_scenihr/docs/scenihr_o_022.pdf|accessdate=2010-04-27|postscript=&lt;!--None--&gt;}}&lt;/ref&gt; Smoking is a significant AD risk factor.&lt;ref&gt;{{vcite journal
+|author=Cataldo JK, Prochaska JJ, Glantz SA
+|title=Cigarette smoking is a risk factor for Alzheimer's disease: An analysis controlling for tobacco industry affiliation
+|journal=J Alzheimers Dis
+|year=2010
+|volume=19
+|issue=2
+|pages=465–80
+|pmid=20110594
+|doi=10.3233/JAD-2010-1240
+|pmc=2906761
+}}&lt;/ref&gt;
+[[Inflammation#Systemic effects|Systemic markers]] of the [[innate immune system]] are risk factors for late-onset AD.&lt;ref&gt;{{vcite journal|last1=Eikelenboom|first1=P|last2=Van Exel|first2=E|last3=Hoozemans|first3=JJ|last4=Veerhuis|first4=R|last5=Rozemuller|first5=AJ|last6=Van Gool|first6=WA|title=Neuroinflammation – an early event in both the history and pathogenesis of Alzheimer's disease|journal=Neuro-degenerative diseases|volume=7|issue=1–3|pages=38–41|year=2010|pmid=20160456|doi=10.1159/000283480}}&lt;/ref&gt;
+
+==Management==
+There is no cure for Alzheimer's disease; available treatments offer relatively small symptomatic benefit but remain [[palliative care|palliative]] in nature. Current treatments can be divided into pharmaceutical, psychosocial and caregiving.
+
+===Pharmaceutical===
+[[File:Donepezil 1EVE.png‎|right|thumb|Three-dimensional [[molecular model]] of [[donepezil]], an [[acetylcholinesterase inhibitor]] used in the treatment of AD symptoms]]
+[[File:Memantine.svg|right|thumb||Upright|Molecular structure of [[memantine]], a medication approved for advanced AD symptoms]]
+Five medications are currently used to treat the cognitive manifestations of AD: four are [[acetylcholinesterase inhibitor]]s ([[tacrine]], [[rivastigmine]], [[galantamine]] and [[donepezil]]) and the other ([[memantine]]) is an [[NMDA receptor antagonist]].&lt;ref&gt;{{cite journal |author=Pohanka|first=M |title=Cholinesterases, a target of pharmacology and toxicology|journal=Biomedical Papers Olomouc |volume=155 |issue=3 |pages=219–229 |year=2011 |pmid=22286807 |doi=10.5507/bp.2011.036|url=  http://biomed.papers.upol.cz/pdfs/bio/2011/03/02.pdf }}&lt;/ref&gt; No drug has an indication for delaying or halting the progression of the disease.
+
+Reduction in the activity of the [[cholinergic]] neurons is a well-known feature of Alzheimer's disease.&lt;ref name=&quot;pmid8534419&quot;&gt;{{vcite journal
+|author=Geula C, Mesulam MM
+|title=Cholinesterases and the pathology of Alzheimer disease
+|journal=[[Alzheimer Dis Assoc Disord]]
+|volume=9 Suppl 2
+|pages=23–28
+|year=1995
+|pmid=8534419
+}}&lt;/ref&gt; [[Acetylcholinesterase inhibitor]]s are employed to reduce the rate at which [[acetylcholine]] (ACh) is broken down, thereby increasing the concentration of ACh in the brain and combating the loss of ACh caused by the death of cholinergic neurons.&lt;ref name=&quot;pmid11105732&quot;&gt;{{vcite journal
+|doi=10.4088/JCP.v61n1101
+|author=Stahl SM
+|title=The new cholinesterase inhibitors for Alzheimer's disease, Part 2: illustrating their mechanisms of action
+|journal=[[J Clin Psychiatry]]
+|volume=61
+|issue=11
+|pages=813–814
+|year=2000
+|pmid=11105732
+}}&lt;/ref&gt; Cholinesterase inhibitors approved for the management of AD symptoms are [[donepezil]] (brand name ''Aricept''),&lt;ref&gt;{{cite web
+|url=http://www.nlm.nih.gov/medlineplus/druginfo/meds/a697032.html
+|title=Donepezil
+|accessdate=2010-02-03
+|date=2007-01-08
+|publisher=[[US National Library of Medicine]]
+|work=[[Medline Plus]]
+| archiveurl= http://web.archive.org/web/20100222202242/http://www.nlm.nih.gov/medlineplus/druginfo/meds/a697032.html| archivedate= 22 February 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; [[galantamine]] (''Razadyne''),&lt;ref&gt;{{cite web
+|url=http://www.nlm.nih.gov/medlineplus/druginfo/meds/a699058.html
+|title=Galantamine
+|accessdate=2010-02-03
+|date=2007-01-08
+|publisher=[[US National Library of Medicine]]
+|work=[[Medline Plus]]
+| archiveurl= http://web.archive.org/web/20100211191949/http://www.nlm.nih.gov/medlineplus/druginfo/meds/a699058.html| archivedate= 11 February 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; and [[rivastigmine]] (branded as ''Exelon''&lt;ref&gt;{{cite web
+|url=http://www.nlm.nih.gov/medlineplus/druginfo/meds/a602009.html
+|title=Rivastigmine
+|accessdate=2010-02-03
+|date=2007-01-08
+|publisher=[[US National Library of Medicine]]
+|work=[[Medline Plus]]
+| archiveurl= http://web.archive.org/web/20100222204026/http://www.nlm.nih.gov/medlineplus/druginfo/meds/a602009.html| archivedate= 22 February 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;). There is evidence for the efficacy of these medications in mild to moderate Alzheimer's disease,&lt;ref name=&quot;pmid16437532&quot;&gt;{{vcite journal
+|author=Birks J
+|title=Cholinesterase inhibitors for Alzheimer's disease
+|journal=Cochrane Database Syst Rev
+|issue=1
+|pages=CD005593
+|year=2006
+|pmid=16437532
+|doi=10.1002/14651858.CD005593
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid19370562&quot;&gt;{{vcite journal
+|journal=[[Cochrane Database Syst Rev]]
+|date=2009-04-15
+|pages=CD001191
+|issue=2
+|at=CD001191
+|title=Rivastigmine for Alzheimer's disease
+|author=Birks J, Grimley Evans J, Iakovidou V, Tsolaki M, Holt FE
+|pmid=19370562
+|doi=10.1002/14651858.CD001191.pub2
+}}&lt;/ref&gt; and some evidence for their use in the advanced stage. Only donepezil is approved for treatment of advanced AD dementia.&lt;ref name=&quot;pmid16437430&quot;&gt;{{vcite journal
+|author=Birks J, Harvey RJ
+|title=Donepezil for dementia due to Alzheimer's disease
+|journal=[[Cochrane Database Syst Rev]]
+|issue=1
+|pages=CD001190
+|date=2006-01-25
+|pmid=16437430
+|doi=10.1002/14651858.CD001190.pub2
+}}&lt;/ref&gt; The use of these drugs in [[mild cognitive impairment]] has not shown any effect in a delay of the onset of AD.&lt;ref name=&quot;pmid18044984&quot;&gt;{{vcite journal
+|author=Raschetti R, Albanese E, Vanacore N, Maggini M
+|title=Cholinesterase Inhibitors in Mild Cognitive Impairment: A Systematic Review of Randomised Trials
+|journal=[[PLoS Med]]
+|volume=4
+|issue=11
+|pages=e338
+|year=2007
+|pmid=18044984
+|doi=10.1371/journal.pmed.0040338
+|pmc=2082649
+}}&lt;/ref&gt; The most common [[adverse drug reaction|side effects]] are [[nausea]] and [[vomiting]], both of which are linked to cholinergic excess. These side effects arise in approximately 10–20% of users and are mild to moderate in severity. Less common secondary effects include [[muscle cramp]]s, decreased [[heart rate]] ([[bradycardia]]), decreased [[appetite]] and weight, and increased [[gastric acid]] production.&lt;ref&gt;{{cite journal |author=Birks J |title=Cholinesterase inhibitors for Alzheimer's disease |journal=Cochrane Database Syst Rev |volume= |issue=1 |pages=CD005593 |year=2006 |pmid=16437532 |doi=10.1002/14651858.CD005593 |url=}}&lt;/ref&gt;
+
+[[Glutamate]] is a useful excitatory [[neurotransmitter]] of the [[nervous system]], although excessive amounts in the [[brain]] can lead to [[Cell (biology)|cell]] death through a process called [[excitotoxicity]] which consists of the overstimulation of glutamate [[Receptor (biochemistry)|receptors]]. Excitotoxicity occurs not only in Alzheimer's disease, but also in other neurological diseases such as [[Parkinson's disease]] and [[multiple sclerosis]].&lt;ref name=&quot;pmid16424917&quot;&gt;{{vcite journal
+|author=Lipton SA
+|title=Paradigm shift in neuroprotection by NMDA receptor blockade: memantine and beyond
+|journal=[[Nat Rev Drug Discov]]
+|volume=5
+|issue=2
+|pages=160–170
+|year=2006
+|pmid=16424917
+|doi=10.1038/nrd1958
+}}&lt;/ref&gt; [[Memantine]] (brand names ''Akatinol'')&lt;ref&gt;{{cite web
+|url=http://www.nlm.nih.gov/medlineplus/druginfo/meds/a604006.html
+|title=Memantine
+|accessdate=2010-02-03
+|date=2004-01-04
+|publisher=US National Library of Medicine (Medline)
+| archiveurl= http://web.archive.org/web/20100222203921/http://www.nlm.nih.gov/medlineplus/druginfo/meds/a604006.html| archivedate= 22 February 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; is a noncompetitive [[NMDA receptor antagonist]] first used as an anti-[[influenza]] agent. It acts on the [[glutamatergic system]] by blocking [[NMDA receptor]]s and inhibiting their overstimulation by glutamate.&lt;ref name=&quot;pmid16424917&quot;/&gt; Memantine has been shown to be moderately efficacious in the treatment of moderate to severe Alzheimer's disease. Its effects in the initial stages of AD are unknown.&lt;ref name=&quot;pmid15495043&quot;&gt;{{vcite journal
+|author=Areosa Sastre A, McShane R, Sherriff F
+|title=Memantine for dementia
+|journal=[[Cochrane Database Syst Rev]]
+|issue=4
+|pages=CD003154
+|year=2004
+|pmid=15495043
+|doi=10.1002/14651858.CD003154.pub2
+}}&lt;/ref&gt; Reported adverse events with memantine are infrequent and mild, including [[hallucination]]s, [[confusion]], [[dizziness]], [[headache]] and [[fatigue (medical)|fatigue]].&lt;ref&gt;{{cite web
+|url=http://www.frx.com/pi/namenda_pi.pdf
+|title=Namenda Prescribing Information
+|accessdate=2008-02-19
+|format=PDF
+|publisher=[[Forest Pharmaceuticals]]
+| archiveurl= http://web.archive.org/web/20080227161413/http://www.frx.com/pi/namenda_pi.pdf| archivedate= 27 February 2008 &lt;!--DASHBot--&gt;| deadurl= no}} (primary source)&lt;!-- also available at http://web.archive.org/web/*/http://www.frx.com/pi/namenda_pi.pdf --&gt;&lt;/ref&gt; The combination of memantine and donepezil has been shown to be &quot;of [[Statistical significance|statistically significant]] but clinically marginal effectiveness&quot;.&lt;ref name=&quot;pmid18316756&quot;&gt;{{vcite journal
+|author=Raina P
+|title=Effectiveness of cholinesterase inhibitors and memantine for treating dementia: evidence review for a clinical practice guideline
+|journal=[[Annals of Internal Medicine]]
+|volume=148
+|issue=5
+|pages=379–397
+|year=2008
+|pmid=18316756
+|author-separator=,
+|author2=Santaguida P
+|author3=Ismaila A
+|display-authors=3
+|last4=Patterson
+|first4=C
+|last5=Cowan
+|first5=D
+|last6=Levine
+|first6=M
+|last7=Booker
+|first7=L
+|last8=Oremus
+|first8=M
+}}&lt;/ref&gt;
+
+[[Antipsychotic]] drugs are modestly useful in reducing [[aggression]] and [[psychosis]] in Alzheimer's disease with behavioural problems, but are associated with serious adverse effects, such as [[cerebrovascular]] events, [[extra-pyramidal|movement difficulties]] or cognitive decline, that do not permit their routine use.&lt;ref&gt;Antipsychotics use:
+*{{vcite journal
+|author=Ballard CG, Waite J
+|title=The effectiveness of atypical antipsychotics for the treatment of aggression and psychosis in Alzheimer's disease
+|journal=[[Cochrane Database Syst Rev]]
+|issue=1
+|pages=CD003476
+|year=2006
+|pmid=16437455
+|doi=10.1002/14651858.CD003476.pub2
+}}
+*{{vcite journal
+|author=Ballard C, Lana MM, Theodoulou M ''et al''.
+|title=A Randomised, Blinded, Placebo-Controlled Trial in Dementia Patients Continuing or Stopping Neuroleptics (The DART-AD Trial)
+|journal=[[PLoS Med]]
+|volume=5
+|issue=4
+|pages=e76
+|year=2008
+|pmid=18384230
+|doi=10.1371/journal.pmed.0050076
+|pmc=2276521
+}}
+*{{vcite journal
+|author=Sink KM, Holden KF, Yaffe K
+|title=Pharmacological treatment of neuropsychiatric symptoms of dementia: a review of the evidence
+|journal=[[J Am Med Assoc]]
+|volume=293
+|issue=5
+|pages=596–608
+|year=2005
+|pmid=15687315
+|doi=10.1001/jama.293.5.596
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid19138567&quot;&gt;
+{{vcite journal
+|author=Ballard C, Hanney ML, Theodoulou M, Douglas S, McShane R, Kossakowski K, Gill R, Juszczak E, Yu L-M, Jacoby R
+|title=The dementia antipsychotic withdrawal trial (DART-AD): long-term follow-up of a randomised placebo-controlled trial
+|journal=[[Lancet Neurology]]
+|date=9 January 2009
+|pmid=19138567
+|doi=10.1016/S1474-4422(08)70295-3
+|laysummary=http://www.physorg.com/news150695213.html
+|volume=8
+|page=151
+|issue=2
+|pages=151–7
+}}&lt;/ref&gt; When used in the long-term, they have been shown to associate with increased mortality.&lt;ref name=&quot;pmid19138567&quot;/&gt;
+
+[[Huperzine A]] while promising, requires further evidence before it use can be recommended.&lt;ref&gt;{{vcite journal|author=Li J, Wu HM, Zhou RL, Liu GJ, Dong BR|title=Huperzine A for Alzheimer's disease|journal=Cochrane Database Syst Rev|volume=|issue=2|pages=CD005592|year=2008|pmid=18425924|doi=10.1002/14651858.CD005592.pub2|url=http://www2.cochrane.org/reviews/en/ab005592.html}}&lt;/ref&gt;
+
+===Psychosocial intervention===
+[[File:Snoezelruimte.JPG|righ|thumb||Upright|A specifically designed room for sensory integration therapy, also called [[snoezelen]]; an emotion-oriented psychosocial intervention for people with dementia]]
+[[Psychosocial]] interventions are used as an adjunct to pharmaceutical treatment and can be classified within behaviour-, emotion-, cognition- or stimulation-oriented approaches. Research on efficacy is unavailable and rarely specific to AD, focusing instead on dementia in general.&lt;ref name=&quot;pracGuideAPA&quot;&gt;{{cite web
+|url=http://www.psychiatryonline.com/pracGuide/loadGuidelinePdf.aspx?file=AlzPG101007
+|format=PDF
+|title=Practice Guideline for the Treatment of Patients with Alzheimer's disease and Other Dementias
+|publisher=[[American Psychiatric Association]]
+|month=October
+|year=2007
+|accessdate=2007-12-28
+|doi=10.1176/appi.books.9780890423967.152139
+}}&lt;/ref&gt;
+
+[[Behavior modification|Behavioural interventions]] attempt to identify and reduce the antecedents and consequences of problem behaviours. This approach has not shown success in improving overall functioning,&lt;ref name=&quot;pmid16323385&quot;&gt;{{vcite journal
+|author=Bottino CM
+|title=Cognitive rehabilitation combined with drug treatment in Alzheimer's disease patients: a pilot study
+|journal=Clin Rehabil
+|volume=19
+|issue=8
+|pages=861–869
+|year=2005
+|pmid=16323385
+|doi=10.1191/0269215505cr911oa
+|author-separator=,
+|author2=Carvalho IA
+|author3=Alvarez AM
+|display-authors=3
+|last4=Avila
+|first4=Renata
+|last5=Zukauskas
+|first5=Patrícia R
+|last6=Bustamante
+|first6=Sonia EZ
+|last7=Andrade
+|first7=Flávia C
+|last8=Hototian
+|first8=Sérgio R
+|last9=Saffi
+|first9=Fabiana
+}}&lt;/ref&gt;
+but can help to reduce some specific problem behaviours, such as [[Urinary incontinence|incontinence]].&lt;ref name=&quot;pmid11342679&quot;&gt;{{vcite journal
+|author=Doody RS
+|title=Practice parameter: management of dementia (an evidence-based review). Report of the Quality Standards Subcommittee of the American Academy of Neurology
+|journal=Neurology
+|volume=56
+|issue=9
+|pages=1154–1166
+|year=2001
+|pmid=11342679
+|author-separator=,
+|author2=Stevens JC
+|author3=Beck C
+|display-authors=3
+|last4=Dubinsky
+|first4=RM
+|last5=Kaye
+|first5=JA
+|last6=Gwyther
+|first6=L
+|last7=Mohs
+|first7=RC
+|last8=Thal
+|first8=LJ
+|last9=Whitehouse
+|first9=PJ
+}}&lt;/ref&gt; There is a lack of high quality data on the effectiveness of these techniques in other behaviour problems such as wandering.&lt;ref name=&quot;pmid17253573&quot;&gt;{{vcite journal
+|author=Hermans DG, Htay UH, McShane R
+|title=Non-pharmacological interventions for wandering of people with dementia in the domestic setting
+|journal=Cochrane Database Syst Rev
+|issue=1
+|pages=CD005994
+|year=2007
+|pmid=17253573
+|doi=10.1002/14651858.CD005994.pub2
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid17096455&quot;&gt;{{vcite journal
+|author=Robinson L, Hutchings D, Dickinson HO ''et al''.
+|title=Effectiveness and acceptability of non-pharmacological interventions to reduce wandering in dementia: a systematic review
+|journal=Int J Geriatr Psychiatry
+|volume=22
+|issue=1
+|pages=9–22
+|year=2007
+|pmid=17096455
+|doi=10.1002/gps.1643
+}}&lt;/ref&gt;
+
+Emotion-oriented interventions include [[reminiscence therapy]], [[validation therapy]], supportive [[psychotherapy]], [[sensory integration]], also called [[snoezelen]], and [[simulated presence therapy]]. Supportive psychotherapy has received little or no formal scientific study, but some clinicians find it useful in helping mildly impaired people adjust to their illness.&lt;ref name=&quot;pracGuideAPA&quot;/&gt; Reminiscence therapy (RT) involves the discussion of past experiences individually or in group, many times with the aid of photographs, household items, music and sound recordings, or other familiar items from the past. Although there are few quality studies on the effectiveness of RT, it may be beneficial for [[cognition]] and [[Mood (psychology)|mood]].&lt;ref name=&quot;pmid15846613&quot;&gt;{{vcite journal
+|author=Woods B, Spector A, Jones C, Orrell M, Davies S
+|title=Reminiscence therapy for dementia
+|journal=Cochrane Database Syst Rev
+|issue=2
+|pages=CD001120
+|year=2005
+|pmid=15846613
+|doi=10.1002/14651858.CD001120.pub2
+}}&lt;/ref&gt;
+Simulated presence therapy (SPT) is based on [[Attachment theory|attachment theories]] and involves playing a recording with voices of the closest relatives of the person with Alzheimer's disease. There is partial evidence indicating that SPT may reduce [[challenging behaviour]]s.&lt;ref name=&quot;pmid19023729&quot;&gt;{{vcite journal
+|author=Zetteler J
+|title=Effectiveness of simulated presence therapy for individuals with dementia: a systematic review and meta-analysis
+|journal=Aging Ment Health
+|volume=12
+|issue=6
+|pages=779–85
+|year=2008
+|month=November
+|pmid=19023729
+|doi=10.1080/13607860802380631
+}}&lt;/ref&gt;
+Finally, validation therapy is based on acceptance of the reality and personal truth of another's experience, while sensory integration is based on exercises aimed to stimulate [[sense]]s. There is little evidence to support the usefulness of these therapies.&lt;ref name=&quot;pmid12917907&quot;&gt;{{vcite journal
+|author=Neal M, Briggs M
+|title=Validation therapy for dementia
+|journal=Cochrane Database Syst Rev
+|issue=3
+|pages=CD001394
+|year=2003
+|pmid=12917907
+|doi=10.1002/14651858.CD001394
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid12519587&quot;&gt;{{vcite journal
+|author=Chung JC, Lai CK, Chung PM, French HP
+|title=Snoezelen for dementia
+|journal=Cochrane Database Syst Rev
+|issue=4
+|pages=CD003152
+|year=2002
+|pmid=12519587
+|doi=10.1002/14651858.CD003152
+}}&lt;/ref&gt;
+
+The aim of cognition-oriented treatments, which include reality orientation and [[Rehabilitation (neuropsychology)|cognitive retraining]], is the reduction of [[cognitive deficit]]s. Reality orientation consists in the presentation of information about time, place or person in order to ease the understanding of the person about its surroundings and his or her place in them. On the other hand cognitive retraining tries to improve impaired capacities by exercitation of mental abilities. Both have shown some efficacy improving cognitive capacities,&lt;ref name=&quot;pmid17636652&quot;&gt;{{vcite journal
+|author=Spector A, Orrell M, Davies S, Woods B
+|title=Withdrawn: Reality orientation for dementia
+|journal=Cochrane Database Syst Rev
+|issue=3
+|pages=CD001119
+|year=2000
+|pmid=17636652
+|doi=10.1002/14651858.CD001119.pub2
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid12948999&quot;&gt;{{vcite journal
+|author=Spector A, Thorgrimsen L, Woods B ''et al''.
+|title=Efficacy of an evidence-based cognitive stimulation therapy programme for people with dementia: randomised controlled trial
+|journal=Br J Psychiatry
+|volume=183
+|pages=248–254
+|year=2003
+|pmid=12948999
+|doi=10.1192/bjp.183.3.248
+|issue=3
+}}&lt;/ref&gt; although in some studies these effects were transient and negative effects, such as frustration, have also been reported.&lt;ref name=&quot;pracGuideAPA&quot;/&gt;
+
+Stimulation-oriented treatments include [[Art therapy|art]], [[Music therapy|music]] and [[Animal-assisted therapy|pet]] therapies, [[Physical therapy|exercise]], and any other kind of [[Recreational therapy|recreational activities]]. Stimulation has modest support for improving behaviour, mood, and, to a lesser extent, function. Nevertheless, as important as these effects are, the main support for the use of stimulation therapies is the change in the person's routine.&lt;ref name=&quot;pracGuideAPA&quot;/&gt;
+
+===Caregiving===
+{{Further2|[[Caregiving and dementia]]}}
+
+Since Alzheimer's has no cure and it gradually renders people incapable of tending for their own needs, caregiving essentially is the treatment and must be carefully managed over the course of the disease.
+
+During the early and moderate stages, modifications to the living environment and lifestyle can increase [[patient safety]] and reduce caretaker burden.&lt;ref name=&quot;pmid11220813&quot;&gt;{{vcite journal
+|author=Gitlin LN, Corcoran M, Winter L, Boyce A, Hauck WW
+|title=A randomized, controlled trial of a home environmental intervention: effect on efficacy and upset in caregivers and on daily function of persons with dementia
+|journal=Gerontologist
+|volume=41
+|issue=1
+|pages=4–14
+|date=1 February 2001
+|pmid=11220813
+|url=http://gerontologist.gerontologyjournals.org/cgi/pmidlookup?view=long&amp;pmid=11220813
+|accessdate=2008-07-15
+|doi=10.1093/geront/41.1.4
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid15860476&quot;&gt;{{vcite journal
+|author=Gitlin LN, Hauck WW, Dennis MP, Winter L
+|title=Maintenance of effects of the home environmental skill-building program for family caregivers and individuals with Alzheimer's disease and related disorders
+|journal=J. Gerontol. A Biol. Sci. Med. Sci.
+|volume=60
+|issue=3
+|pages=368–74
+|year=2005
+|month=March
+|pmid=15860476
+|doi=10.1093/gerona/60.3.368
+}}&lt;/ref&gt; Examples of such modifications are the adherence to simplified routines, the placing of safety locks, the labelling of household items to cue the person with the disease or the use of modified daily life objects.&lt;ref name=&quot;pracGuideAPA&quot;/&gt;&lt;ref&gt;
+{{cite web
+|url=http://www.alz.org/Health/Treating/agitation.asp
+|title=Treating behavioral and psychiatric symptoms
+|year=2006
+|accessdate=2006-09-25
+|publisher=Alzheimer's Association
+|archiveurl=http://web.archive.org/web/20060925112503/http://www.alz.org/Health/Treating/agitation.asp|archivedate=2006-09-25}}&lt;/ref&gt;&lt;ref name=&quot;pmid15297089&quot;&gt;
+{{vcite journal
+|author=Dunne TE, Neargarder SA, Cipolloni PB, Cronin-Golomb A
+|title=Visual contrast enhances food and liquid intake in advanced Alzheimer's disease
+|journal=Clinical Nutrition
+|volume=23
+|issue=4
+|pages=533–538
+|year=2004
+|pmid=15297089
+|doi=10.1016/j.clnu.2003.09.015
+}}&lt;/ref&gt; The patient may also become incapable of feeding themselves, so they require food in smaller pieces or pureed.&lt;ref&gt;{{cite book
+|author=Dudek, Susan G.
+|title=Nutrition essentials for nursing practice
+|publisher=Lippincott Williams &amp; Wilkins
+|location=Hagerstown, Maryland
+|year=2007
+|page=360
+|isbn=0-7817-6651-6
+|oclc=
+|doi=
+|url=http://books.google.com/?id=01zo6yf0IUEC&amp;pg=PA360&amp;dq=alzheimer%27s+chew
+|accessdate=2008-08-19
+}}&lt;/ref&gt; When [[Dysphagia|swallowing difficulties]] arise, the use of [[feeding tube]]s may be required. In such cases, the medical efficacy and ethics of continuing feeding is an important consideration of the caregivers and family members.&lt;ref name=&quot;pmid16415742&quot;&gt;{{vcite journal
+|author=Dennehy C
+|title=Analysis of patients' rights: dementia and PEG insertion
+|journal=Br J Nurs
+|volume=15
+|issue=1
+|pages=18–20
+|year=2006
+|pmid=16415742
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid16556924&quot;&gt;{{vcite journal
+|author=Chernoff R
+|title=Tube feeding patients with dementia
+|journal=Nutr Clin Pract
+|volume=21
+|issue=2
+|pages=142–6
+|year=2006
+|month=April
+|pmid=16556924
+|doi=10.1177/0115426506021002142
+}}&lt;/ref&gt; The use of physical restraints is rarely indicated in any stage of the disease, although there are situations when they are necessary to prevent harm to the person with AD or their caregivers.&lt;ref name=&quot;pracGuideAPA&quot;/&gt;
+
+As the disease progresses, different medical issues can appear, such as [[dental disease|oral and dental disease]], [[Bedsore|pressure ulcers]], [[malnutrition]], [[hygiene]] problems, or [[Respiratory system|respiratory]], [[human skin|skin]], or [[human eye|eye]] [[infection]]s. Careful management can prevent them, while professional treatment is needed when they do arise.&lt;ref name=&quot;pmid10369823&quot;&gt;{{vcite journal
+|author=Gambassi G, Landi F, Lapane KL, Sgadari A, Mor V, Bernabei R
+|title=Predictors of mortality in patients with Alzheimer's disease living in nursing homes
+|journal=J. Neurol. Neurosurg. Psychiatr.
+|volume=67
+|issue=1
+|pages=59–65
+|year=1999
+|month=July
+|pmid=10369823
+|pmc=1736445
+|doi=10.1136/jnnp.67.1.59
+}}&lt;/ref&gt;&lt;ref&gt;Medical issues:
+*{{vcite journal
+|author=Head B
+|title=Palliative care for persons with dementia
+|journal=Home Healthc Nurse
+|volume=21
+|issue=1
+|pages=53–60; quiz 61
+|year=2003
+|month=January
+|pmid=12544465
+|doi=10.1097/00004045-200301000-00012
+}}
+*{{vcite journal
+|author=Friedlander AH, Norman DC, Mahler ME, Norman KM, Yagiela JA
+|title=Alzheimer's disease: psychopathology, medical management and dental implications
+|journal=J Am Dent Assoc
+|volume=137
+|issue=9
+|pages=1240–51
+|year=2006
+|month=September
+|pmid=16946428
+}}
+*{{vcite journal
+|author=Belmin J
+|title=Practical guidelines for the diagnosis and management of weight loss in Alzheimer's disease: a consensus from appropriateness ratings of a large expert panel
+|journal=J Nutr Health Aging
+|volume=11
+|issue=1
+|pages=33–7
+|year=2007
+|pmid=17315078
+|author2=Expert Panel and Organisation Committee
+}}
+*{{vcite journal
+|author=McCurry SM, Gibbons LE, Logsdon RG, Vitiello M, Teri L
+|title=Training caregivers to change the sleep hygiene practices of patients with dementia: the NITE-AD project
+|journal=J Am Geriatr Soc
+|volume=51
+|issue=10
+|pages=1455–60
+|year=2003
+|month=October
+|pmid=14511168
+|doi=10.1046/j.1532-5415.2003.51466.x
+}}
+*{{vcite journal
+|author=Perls TT, Herget M
+|title=Higher respiratory infection rates on an Alzheimer's special care unit and successful intervention
+|journal=J Am Geriatr Soc
+|volume=43
+|issue=12
+|pages=1341–4
+|year=1995
+|month=December
+|pmid=7490383
+}}&lt;/ref&gt; During the final stages of the disease, treatment is centred on relieving discomfort until death.&lt;ref name=&quot;pmid12854952&quot;&gt;{{vcite journal
+|author=Shega JW
+|title=Palliative Excellence in Alzheimer Care Efforts (PEACE): a program description
+|journal=J Palliat Med
+|volume=6
+|issue=2
+|pages=315–20
+|year=2003
+|month=April
+|pmid=12854952
+|doi=10.1089/109662103764978641
+|author-separator=,
+|author2=Levin A
+|author3=Hougham GW
+|display-authors=3
+|last4=Cox-Hayley
+|first4=Deon
+|last5=Luchins
+|first5=Daniel
+|last6=Hanrahan
+|first6=Patricia
+|last7=Stocking
+|first7=Carol
+|last8=Sachs
+|first8=Greg A.
+}}&lt;/ref&gt;
+
+A small recent study in the US concluded that people whose caregivers had a realistic understanding of the prognosis and clinical complications of late dementia were less likely to receive aggressive treatment near the end of life.
+&lt;ref&gt;{{vcite journal
+|author=Mitchell SL
+|title=The Clinical Course of Advanced Dementia
+|journal=N Engl J Med
+|volume=361
+|issue=16
+|pages=1529–38
+|year=2009
+|month=Oct
+|pmid=19828530
+|doi=10.1056/NEJMoa0902234
+|pmc=2778850
+|author-separator=,
+|author2=Teno JM
+|author3=Kiely DK
+|display-authors=3
+|last4=Shaffer
+|first4=Michele L.
+|last5=Jones
+|first5=Richard N.
+|last6=Prigerson
+|first6=Holly G.
+|last7=Volicer
+|first7=Ladislav
+|last8=Givens
+|first8=Jane L.
+|last9=Hamel
+|first9=Mary Beth}}&lt;/ref&gt;
+
+===Feeding tubes===
+There is strong evidence that [[feeding tubes]] do not help people with advanced Alzheimer's [[dementia]] gain weight, regain strength or function, prevent aspiration pneumonias, or improve quality of life.&lt;ref&gt;{{vcite journal|url=http://jama.ama-assn.org/content/282/14/1365.short|title=Tube Feeding in Patients With Advanced Dementia, October 13, 1999, Finucane et al. 282 (14): 1365 — JAMA|publisher=Jama.ama-assn.org|date=1999-10-13|accessdate=2011-06-16|pmid=10527184|doi=10.1001/jama.282.14.1365|last1=Finucane|first1=TE|last2=Christmas|first2=C|last3=Travis|first3=K|volume=282|issue=14|pages=1365–70|journal=JAMA : the journal of the American Medical Association}}&lt;/ref&gt;&lt;ref&gt;{{vcite journal|url=http://archinte.ama-assn.org/cgi/content/abstract/157/3/327|title=Arch Intern Med – Abstract: The Risk Factors and Impact on Survival of Feeding Tube Placement in Nursing Home Residents With Severe Cognitive Impairment, 10 FEBRUARY 1997, Mitchell et al. 157 (3): 327|doi=10.1001/archinte.1997.00440240091014|publisher=Archinte.ama-assn.org|date=1997-02-10|accessdate=2011-06-16|author1=Susan L. Mitchell}}&lt;/ref&gt;&lt;ref&gt;{{vcite journal|url=http://archinte.ama-assn.org/cgi/content/abstract/161/4/594|title=Arch Intern Med – Abstract: High Short-term Mortality in Hospitalized Patients With Advanced Dementia: Lack of Benefit of Tube Feeding, February 26, 2001, Meier et al. 161 (4): 594|doi=10.1001/archinte.161.4.594|publisher=Archinte.ama-assn.org|date=2001-02-26|accessdate=2011-06-16|last1=Meier|first1=D. E.|journal=Archives of Internal Medicine|volume=161|issue=4|pages=594–9|pmid=11252121|last2=Ahronheim|first2=JC|last3=Morris|first3=J|last4=Baskin-Lyons|first4=S|last5=Morrison|first5=RS}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.drplace.com/Feeding_Tubes_in_Patients_with_Severe_Dementia.16.28273.htm|title=Feeding Tubes in Patients with Severe Dementia|publisher=Drplace.com|date=2002-04-15|accessdate=2011-06-16}}&lt;/ref&gt;
+
+==Prognosis==
+[[File:Alzheimer and other dementias world map - DALY - WHO2004.svg|thumb|[[Disability-adjusted life year]] for Alzheimer and other dementias per 100,000&amp;nbsp;inhabitants in 2004.
+{{Multicol}} 
+{{legend|#b3b3b3|no data}}
+{{legend|#ffff65|≤&amp;nbsp;50}}
+{{legend|#fff200|50–70}}
+{{legend|#ffdc00|70–90}}
+{{legend|#ffc600|90–110}}
+{{legend|#ffb000|110–130}}
+{{legend|#ff9a00|130–150}}
+{{Multicol-break}} 
+{{legend|#ff8400|150–170}}
+{{legend|#ff6e00|170–190}}
+{{legend|#ff5800|190–210}}
+{{legend|#ff4200|210–230}}
+{{legend|#ff2c00|230–250}}
+{{legend|#cb0000|≥&amp;nbsp;250}}
+{{Multicol-end}}]]
+
+The early stages of Alzheimer's disease are difficult to diagnose. A definitive diagnosis is usually made once cognitive impairment compromises daily living activities, although the person may still be living independently. The symptoms will progress from mild cognitive problems, such as memory loss through increasing stages of cognitive and non-cognitive disturbances, eliminating any possibility of independent living, especially in the late stages of the disease.&lt;ref name=&quot;pmid10653284&quot;/&gt;
+
+[[Life expectancy]] of the population with the disease is reduced.&lt;ref name=&quot;pmid3776457&quot;/&gt;&lt;ref name=&quot;pmid8757016&quot;&gt;{{vcite journal
+|author=Bowen JD
+|title=Predictors of mortality in patients diagnosed with probable Alzheimer's disease
+|journal=Neurology
+|volume=47
+|issue=2
+|pages=433–9
+|year=1996
+|month=August
+|pmid=8757016
+|author-separator=,
+|author2=Malter AD
+|author3=Sheppard L
+|display-authors=3
+|last4=Kukull
+|first4=WA
+|last5=McCormick
+|first5=WC
+|last6=Teri
+|first6=L
+|last7=Larson
+|first7=EB
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid12580712&quot;&gt;{{vcite journal
+|author=Dodge HH, Shen C, Pandav R, DeKosky ST, Ganguli M
+|title=Functional transitions and active life expectancy associated with Alzheimer disease
+|journal=Arch. Neurol.
+|volume=60
+|issue=2
+|pages=253–9
+|year=2003
+|month=February
+|pmid=12580712
+|doi=10.1001/archneur.60.2.253
+}}&lt;/ref&gt; The mean life expectancy following diagnosis is approximately seven years.&lt;ref name=&quot;pmid3776457&quot;/&gt; Fewer than 3% of people live more than fourteen years.&lt;ref name=&quot;pmid7793228&quot;/&gt; Disease features significantly associated with reduced survival are an increased severity of cognitive impairment, decreased functional level, history of falls, and disturbances in the neurological examination. Other coincident diseases such as [[Heart disease|heart problems]], [[Diabetes mellitus|diabetes]] or history of [[alcohol abuse]] are also related with shortened survival.&lt;ref name=&quot;pmid8757016&quot;/&gt;&lt;ref name=&quot;pmid15068977&quot;&gt;{{vcite journal
+|author=Larson EB
+|title=Survival after initial diagnosis of Alzheimer disease
+|journal=Ann. Intern. Med.
+|volume=140
+|issue=7
+|pages=501–9
+|year=2004
+|month=April
+|pmid=15068977
+|author-separator=,
+|author2=Shadlen MF
+|author3=Wang L
+|display-authors=3
+|last4=McCormick
+|first4=WC
+|last5=Bowen
+|first5=JD
+|last6=Teri
+|first6=L
+|last7=Kukull
+|first7=WA
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid7792352&quot;&gt;{{vcite journal
+|author=Jagger C, Clarke M, Stone A
+|title=Predictors of survival with Alzheimer's disease: a community-based study
+|journal=Psychol Med
+|volume=25
+|issue=1
+|pages=171–7
+|year=1995
+|month=January
+|pmid=7792352
+|doi=10.1017/S0033291700028191
+}}&lt;/ref&gt; While the earlier the age at onset the higher the total survival years, life expectancy is particularly reduced when compared to the healthy population among those who are younger.&lt;ref name=&quot;pmid12580712&quot;/&gt; Men have a less favourable survival prognosis than women.&lt;ref name=&quot;pmid7793228&quot;/&gt;&lt;ref name=&quot;pmid15883266&quot;&gt;{{vcite journal
+|author=Ganguli M, Dodge HH, Shen C, Pandav RS, DeKosky ST
+|title=Alzheimer disease and mortality: a 15-year epidemiological study
+|journal=Arch. Neurol.
+|volume=62
+|issue=5
+|pages=779–84
+|year=2005
+|month=May
+|pmid=15883266
+|doi=10.1001/archneur.62.5.779
+}}&lt;/ref&gt;
+
+The disease is the underlying [[Death|cause of death]] in 70% of all cases.&lt;ref name=&quot;pmid3776457&quot;/&gt; [[Pneumonia]] and [[dehydration]] are the most frequent immediate causes of death, while [[cancer]] is a less frequent cause of death than in the general population.&lt;ref name=&quot;pmid3776457&quot;/&gt;&lt;ref name=&quot;pmid15883266&quot;/&gt;
+{{clear}}
+
+==Epidemiology==
+{| align=&quot;left&quot; border=&quot;2&quot; class=&quot;wikitable&quot; style=&quot;text-align:center&quot;
+|+Incidence rates&lt;br /&gt; after age 65&lt;ref name=&quot;pmid17727890&quot;/&gt;
+|-
+! Age !! New affected&lt;br /&gt; per thousand&lt;br /&gt; person–years
+|-
+!65–69
+|&amp;nbsp;3
+|-
+!70–74
+|&amp;nbsp;6
+|-
+!75–79
+|&amp;nbsp;9
+|-
+!80–84
+|23
+|-
+!85–89
+|40
+|-
+!90–&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;!-- The nonbreaking spaces to the left of this comment make the numbers line up properly. --&gt;
+|69
+|}
+
+Two main measures are used in [[epidemiology|epidemiological]] studies: incidence and prevalence. [[Incidence (epidemiology)|Incidence]] is the number of new cases per unit of person–time at risk (usually number of new cases per thousand person–years); while [[prevalence]] is the total number of cases of the disease in the population at any given time.
+
+Regarding incidence, [[cohort study|cohort]] [[longitudinal studies]] (studies where a disease-free population is followed over the years) provide rates between 10 and 15 per thousand person–years for all dementias and 5–8 for AD,&lt;ref name=&quot;pmid17727890&quot;&gt;{{vcite journal
+|author=Bermejo-Pareja F, Benito-León J, Vega S, Medrano MJ, Román GC
+|title=Incidence and subtypes of dementia in three elderly populations of central Spain
+|journal=J. Neurol. Sci.
+|volume=264
+|issue=1–2
+|pages=63–72
+|year=2008
+|month=January
+|pmid=17727890
+|doi=10.1016/j.jns.2007.07.021
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid12028245&quot;&gt;{{vcite journal
+|author=Di Carlo A
+|title=Incidence of dementia, Alzheimer's disease, and vascular dementia in Italy. The ILSA Study
+|journal=J Am Geriatr Soc
+|volume=50
+|issue=1
+|pages=41–8
+|year=2002
+|month=January
+|pmid=12028245
+|doi=10.1046/j.1532-5415.2002.50006.x
+|last12=Ilsa Working
+|first12=Group
+|author-separator=,
+|author2=Baldereschi M
+|author3=Amaducci L
+|display-authors=3
+|last4=Lepore
+|first4=Vito
+|last5=Bracco
+|first5=Laura
+|last6=Maggi
+|first6=Stefania
+|last7=Bonaiuto
+|first7=Salvatore
+|last8=Perissinotto
+|first8=Egle
+|last9=Scarlato
+|first9=Guglielmo
+}}&lt;/ref&gt; which means that half of new dementia cases each year are AD. Advancing age is a primary risk factor for the disease and incidence rates are not equal for all ages: every five years after the age of 65, the risk of acquiring the disease approximately doubles, increasing from 3 to as much as 69 per thousand person years.&lt;ref name=&quot;pmid17727890&quot;/&gt;&lt;ref name=&quot;pmid12028245&quot;/&gt; There are also sex differences in the incidence rates, women having a higher risk of developing AD particularly in the population older than 85.&lt;ref name=&quot;pmid12028245&quot;/&gt;&lt;ref&gt;{{vcite journal
+|author=Andersen K
+|title=Gender differences in the incidence of AD and vascular dementia: The EURODEM Studies. EURODEM Incidence Research Group
+|journal=Neurology
+|volume=53
+|issue=9
+|pages=1992–7
+|year=1999
+|month=December
+|pmid=10599770
+|last12=Martinez-Lage
+|first12=JM
+|last13=Stijnen
+|first13=T
+|first14=A
+|author-separator=,
+|author2=Launer LJ
+|author3=Dewey ME
+|display-authors=3
+|last4=Hofman
+|first4=L
+|last5=Ott
+|first5=A
+|last6=Copeland
+|first6=JR
+|last7=Dartigues
+|first7=JF
+|last8=Kragh-Sorensen
+|first8=P
+|last9=Baldereschi
+|first9=M
+}}&lt;/ref&gt;
+
+Prevalence of AD in populations is dependent upon different factors including incidence and survival. Since the incidence of AD increases with age, it is particularly important to include the mean age of the population of interest. In the United States, Alzheimer prevalence was estimated to be 1.6% in 2000 both overall and in the 65–74 age group, with the rate increasing to 19% in the 75–84 group and to 42% in the greater than 84 group.&lt;ref&gt;2000 U.S. estimates:
+*{{vcite journal
+|author=Hebert LE, Scherr PA, Bienias JL, Bennett DA, Evans DA
+|title=Alzheimer disease in the US population: prevalence estimates using the 2000 census
+|journal=Arch. Neurol.
+|volume=60
+|issue=8
+|pages=1119–22
+|year=2003
+|month=August
+|pmid=12925369
+|doi=10.1001/archneur.60.8.1119
+}}
+*{{cite web
+|title=Profiles of general demographic characteristics, 2000 census of population and housing, United States
+|year=2001
+|publisher=U.S. Census Bureau
+|url=http://www.census.gov/prod/cen2000/dp1/2kh00.pdf
+|format=PDF
+|accessdate=2008-08-27
+| archiveurl= http://web.archive.org/web/20080819203118/http://www.census.gov/prod/cen2000/dp1/2kh00.pdf| archivedate= 19 August 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Prevalence rates in less developed regions are lower.&lt;ref name=&quot;pmid16360788&quot;/&gt; The [[World Health Organization]] estimated that in 2005, 0.379% of people worldwide had dementia, and that the prevalence would increase to 0.441% in 2015 and to 0.556% in 2030.&lt;ref name=&quot;isbn9789241563369&quot;&gt;{{cite book
+|last=World Health Organization
+|title=Neurological Disorders: Public Health Challenges
+|publisher=World Health Organization
+|year=2006
+|location=Switzerland
+|pages=204–207
+|url=http://www.who.int/mental_health/neurology/neurodiso/en/index.html
+|isbn=978-92-4-156336-9}}&lt;/ref&gt; Other studies have reached similar conclusions.&lt;ref name=&quot;pmid16360788&quot;&gt;{{vcite journal
+|author=Ferri CP
+|title=Global prevalence of dementia: a Delphi consensus study
+|journal=Lancet
+|volume=366
+|issue=9503
+|pages=2112–7
+|year=2005
+|month=December
+|pmid=16360788
+|pmc=2850264
+|doi=10.1016/S0140-6736(05)67889-0
+|last12=Mathers
+|first12=C
+|last13=Menezes
+|first13=PR
+|first14=E
+|first15=M
+|first16=International
+|author-separator=,
+|author2=Prince M
+|author3=Brayne C
+|display-authors=3
+|last4=Rimmer
+|last5=Scazufca
+|last6=Alzheimer's Disease
+|first4=Henry
+|first5=Laura
+|first6=Mary
+|last7=Hall
+|first7=Kathleen
+|last8=Hasegawa
+|first8=Kazuo
+|last9=Hendrie
+|first9=Hugh}}&lt;/ref&gt; Another study estimated that in 2006, 0.40% of the world population (range 0.17–0.89%; absolute number {{Nowrap|26.6 million}}, range {{Nowrap|11.4–59.4 million}}) were afflicted by AD, and that the prevalence rate would triple and the absolute number would quadruple by 2050.&lt;ref name=&quot;Brookmeyer2007&quot;&gt;2006 prevalence estimate:
+*{{vcite journal
+|author=Brookmeyer R, Johnson E, Ziegler-Graham K, MH Arrighi
+|title=Forecasting the global burden of Alzheimer's disease
+|journal=Alzheimer's and Dementia
+|volume=3
+|issue=3
+|pages=186–91
+|year=2007
+|month=July
+|doi=10.1016/j.jalz.2007.04.381
+|url=http://works.bepress.com/cgi/viewcontent.cgi?article=1022&amp;context=rbrookmeyer
+|accessdate=2008-06-18
+|pmid=19595937
+|last1=Brookmeyer
+|first1=R
+|last2=Johnson
+|first2=E
+|last3=Ziegler-Graham
+|first3=K
+|last4=Arrighi
+|first4=HM
+}}
+*{{vcite journal
+|url=http://un.org/esa/population/publications/wpp2006/WPP2006_Highlights_rev.pdf
+|format=PDF
+|accessdate=2008-08-27
+|year=2007
+|title=World population prospects: the 2006 revision, highlights
+|publisher=Population Division, Department of Economic and Social Affairs, United Nations
+|version=Working Paper No. ESA/P/WP.202
+|author1=&lt;Please add first missing authors to populate metadata.&gt;
+}}&lt;/ref&gt;
+
+==History==
+[[File:Auguste D aus Marktbreit.jpg|thumb|Alois Alzheimer's patient [[Auguste Deter]] in 1902. Hers was the first described case of what became known as Alzheimer's disease.]]
+The [[Classical antiquity|ancient Greek and Roman]] [[philosopher]]s and [[physician]]s associated old age with increasing [[dementia]].&lt;ref name=&quot;pmid9661992&quot;&gt;{{vcite journal
+|author=Berchtold NC, Cotman CW
+|title=Evolution in the conceptualization of dementia and Alzheimer's disease: Greco-Roman period to the 1960s
+|journal=Neurobiol. Aging
+|volume=19
+|issue=3
+|pages=173–89
+|year=1998
+|pmid=9661992
+|doi=10.1016/S0197-4580(98)00052-9
+}}&lt;/ref&gt; It was not until 1901 that German [[psychiatry|psychiatrist]] [[Alois Alzheimer]] identified the first case of what became known as Alzheimer's disease in a fifty-year-old woman he called [[Auguste D]]. He followed her case until she died in 1906, when he first reported publicly on it.&lt;ref&gt;Auguste D.:
+*{{vcite journal
+|author=Alzheimer Alois
+|title=Über eine eigenartige Erkrankung der Hirnrinde 
+|trans_title=About a peculiar disease of the cerebral cortex
+|journal=Allgemeine Zeitschrift fur Psychiatrie und Psychisch-Gerichtlich Medizin
+|volume=64
+|issue=1–2
+|pages=146–148
+|year=1907
+|language={{de icon}}
+}}
+*{{vcite journal
+|author=Alzheimer Alois
+|title=About a peculiar disease of the cerebral cortex 
+|coauthor=L. Jarvik and H. Greenson (English transl.)
+|journal=Alzheimer Dis Assoc Disord
+|volume=1
+|issue=1
+|pages=3–8
+|year=1987
+|pmid=3331112
+}}
+*{{cite book
+|author=Maurer Ulrike, Maurer Konrad
+|title=Alzheimer: the life of a physician and the career of a disease
+|publisher=Columbia University Press
+|location=New York
+|year=2003
+|page=270
+|isbn=0-231-11896-1
+|oclc=
+}}&lt;/ref&gt; During the next five years, eleven similar cases were reported in the [[medical literature]], some of them already using the term Alzheimer's disease.&lt;ref name=&quot;pmid9661992&quot;&gt;{{vcite journal
+|author=Berchtold NC, Cotman CW
+|title=Evolution in the conceptualization of dementia and Alzheimer's disease: Greco-Roman period to the 1960s
+|journal=Neurobiology of Aging
+|volume=19
+|issue=3
+|pages=173–189
+|year=1998
+|pmid=9661992
+|doi=10.1016/S0197-4580(98)00052-9
+}}&lt;/ref&gt; The disease was first described as a distinctive disease by [[Emil Kraepelin]] after suppressing some of the clinical (delusions and hallucinations) and pathological features (arteriosclerotic changes) contained in the original report of Auguste D.&lt;ref&gt;{{vcite journal
+|author=Berrios G E
+|title=Alzheimer's disease: a conceptual history
+|journal=Int. J. Ger. Psychiatry
+|volume=5
+|issue=6
+|pages=355–365
+|year=1990
+|month=
+|pmid=
+|doi=10.1002/gps.930050603
+}}&lt;/ref&gt; He included ''Alzheimer's disease'', also named ''presenile'' [[dementia]] by Kraepelin, as a subtype of ''senile dementia'' in the eighth edition of his ''Textbook of Psychiatry'', published on {{nowrap|July 15,}} 1910.&lt;ref name=&quot;isbn1-4325-0833-4&quot;&gt;{{cite book
+|author=Kraepelin Emil, Diefendorf A. Ross (translated by)
+|title=Clinical Psychiatry: A Textbook For Students And Physicians (Reprint)
+|publisher=Kessinger Publishing
+|date=2007-01-17
+|page=568
+|isbn=1-4325-0833-4
+|oclc=
+}}&lt;/ref&gt;
+
+For most of the 20th century, the diagnosis of Alzheimer's disease was reserved for individuals between the ages of 45 and 65 who developed symptoms of dementia. The terminology changed after 1977 when a conference on AD concluded that the clinical and [[pathological]] manifestations of presenile and senile dementia were almost identical, although the authors also added that this did not rule out the possibility that they had different causes.&lt;ref name=&quot;isbn0-89004-225-X&quot;&gt;{{cite book
+|author=Katzman Robert, Terry Robert D, Bick Katherine L (editors)
+|title=Alzheimer's disease: senile dementia and related disorders
+|publisher=Raven Press
+|location=New York
+|year=1978
+|page=595
+|isbn=0-89004-225-X
+|oclc=
+}}&lt;/ref&gt; This eventually led to the diagnosis of ''Alzheimer's disease'' independently of age.&lt;ref name=&quot;pmid9702682&quot;&gt;{{vcite journal
+|author=Boller F, Forbes MM
+|title=History of dementia and dementia in history: an overview
+|journal=J. Neurol. Sci.
+|volume=158
+|issue=2
+|pages=125–33
+|year=1998
+|month=June
+|pmid=9702682
+|doi=10.1016/S0022-510X(98)00128-2
+}}&lt;/ref&gt; The term ''senile dementia of the Alzheimer type'' (SDAT) was used for a time to describe the condition in those over 65, with classical Alzheimer's disease being used for those younger. Eventually, the term Alzheimer's disease was formally adopted in medical [[nomenclature]] to describe individuals of all ages with a characteristic common symptom pattern, disease course, and [[neuropathology]].&lt;ref name=&quot;pmid3531918&quot;&gt;{{vcite journal
+|author=Amaducci LA, Rocca WA, Schoenberg BS
+|title=Origin of the distinction between Alzheimer's disease and senile dementia: how history can clarify nosology
+|journal=Neurology
+|volume=36
+|issue=11
+|pages=1497–9
+|year=1986
+|month=November
+|pmid=3531918
+}}&lt;/ref&gt;
+
+==Society and culture==
+===Social costs===
+Dementia, and specifically Alzheimer's disease, may be among the most costly diseases for society in Europe and the United States,&lt;ref name=&quot;pmid15685097&quot;/&gt;&lt;ref name=&quot;pmid9543467&quot;/&gt; while their cost in other countries such as [[Argentina]],&lt;ref name=&quot;pmid16870037&quot;&gt;{{vcite journal
+|author=Allegri RF
+|title=Economic impact of dementia in developing countries: an evaluation of costs of Alzheimer-type dementia in Argentina
+|journal=Int Psychogeriatr
+|volume=19
+|issue=4
+|pages=705–18
+|year=2007
+|month=August
+|pmid=16870037
+|doi=10.1017/S1041610206003784
+|author-separator=,
+|author2=Butman J
+|author3=Arizaga RL
+|display-authors=3
+|last4=Machnicki
+|first4=Gerardo
+|last5=Serrano
+|first5=Cecilia
+|last6=Taragano
+|first6=Fernando E.
+|last7=Sarasola
+|first7=Diego
+|last8=Lon
+|first8=Leandro
+}}&lt;/ref&gt; or [[South Korea]],&lt;ref name=&quot;pmid16858741&quot;&gt;{{vcite journal
+|author=Suh GH, Knapp M, Kang CJ
+|title=The economic costs of dementia in Korea, 2002
+|journal=Int J Geriatr Psychiatry
+|volume=21
+|issue=8
+|pages=722–8
+|year=2006
+|month=August
+|pmid=16858741
+|doi=10.1002/gps.1552
+}}&lt;/ref&gt; is also high and rising. These costs will probably increase with the [[ageing]] of society, becoming an important [[Social issues|social problem]]. AD-associated costs include direct medical costs such as [[nursing]] [[home care]], direct nonmedical costs such as in-home [[day care]], and indirect costs such as lost [[productivity]] of both patient and caregiver.&lt;ref name=&quot;pmid9543467&quot;/&gt; Numbers vary between studies but dementia costs worldwide have been calculated around $160&amp;nbsp;billion,&lt;ref name=&quot;pmid16401889&quot;&gt;{{vcite journal
+|author=Wimo A, Jonsson L, Winblad B
+|title=An estimate of the worldwide prevalence and direct costs of dementia in 2003
+|journal=Dement Geriatr Cogn Disord
+|volume=21
+|issue=3
+|pages=175–81
+|year=2006
+|pmid=16401889
+|doi=10.1159/000090733
+}}&lt;/ref&gt; while costs of Alzheimer in the United States may be $100&amp;nbsp;billion each year.&lt;ref name=&quot;pmid9543467&quot;/&gt;
+
+The greatest origin of costs for society is the [[long-term care]] by [[Health care provider|health care professionals]] and particularly [[institutionalisation]], which corresponds to 2/3 of the total costs for society.&lt;ref name=&quot;pmid15685097&quot;/&gt; [[Cost-of-living index|The cost of living]] at home is also very high,&lt;ref name=&quot;pmid15685097&quot;/&gt; especially when informal costs for the family, such as caregiving time and caregiver's lost earnings, are taken into account.&lt;ref name=&quot;pmid11445614&quot;&gt;{{vcite journal
+|author=Moore MJ, Zhu CW, Clipp EC
+|title=Informal costs of dementia care: estimates from the National Longitudinal Caregiver Study
+|journal=J Gerontol B Psychol Sci Soc Sci
+|volume=56
+|issue=4
+|pages=S219–28
+|year=2001
+|month=July
+|pmid=11445614
+|doi=10.1093/geronb/56.4.S219
+}}&lt;/ref&gt;
+
+Costs increase with dementia severity and the presence of behavioural disturbances,&lt;ref name=&quot;pmid16676288&quot;&gt;{{vcite journal
+|author=Jönsson L
+|title=Determinants of costs of care for patients with Alzheimer's disease
+|journal=Int J Geriatr Psychiatry
+|volume=21
+|issue=5
+|pages=449–59
+|year=2006
+|month=May
+|pmid=16676288
+|doi=10.1002/gps.1489
+|author-separator=,
+|author2=Eriksdotter Jönhagen M
+|author3=Kilander L
+|display-authors=3
+|last4=Soininen
+|first4=Hilkka
+|last5=Hallikainen
+|first5=Merja
+|last6=Waldemar
+|first6=Gunhild
+|last7=Nygaard
+|first7=Harald
+|last8=Andreasen
+|first8=Niels
+|last9=Winblad
+|first9=Bengt
+}}&lt;/ref&gt; and are related to the increased caregiving time required for the provision of physical care.&lt;ref name=&quot;pmid11445614&quot;/&gt; Therefore any treatment that slows cognitive decline, delays institutionalisation or reduces caregivers' hours will have economic benefits. Economic evaluations of current treatments have shown positive results.&lt;ref name=&quot;pmid9543467&quot;/&gt;
+
+===Caregiving burden===
+{{Further2|[[Caregiving and dementia]]}}
+The role of the main [[Caregiving and dementia|caregiver]] is often taken by the spouse or a close relative.&lt;ref name=&quot;metlife.com&quot;/&gt; Alzheimer's disease is known for placing a great burden on [[carer|caregivers]] which includes social, psychological, physical or economic aspects.&lt;ref name=&quot;pmid17662119&quot;/&gt;&lt;ref name=&quot;pmid10489656&quot;/&gt;&lt;ref name=&quot;pmid10489657&quot;&gt;{{vcite journal
+|author=Murray J, Schneider J, Banerjee S, Mann A
+|title=EUROCARE: a cross-national study of co-resident spouse carers for people with Alzheimer's disease: II—A qualitative analysis of the experience of caregiving
+|journal=Int J Geriatr Psychiatry
+|volume=14
+|issue=8
+|pages=662–7
+|year=1999
+|month=August
+|pmid=10489657
+|doi=10.1002/(SICI)1099-1166(199908)14:8&lt;662::AID-GPS993&gt;3.0.CO;2-4
+}}&lt;/ref&gt; Home care is usually preferred by people with AD and their families.&lt;ref name=&quot;pmid18044111&quot;&gt;{{vcite journal
+|author=Zhu CW, Sano M
+|title=Economic considerations in the management of Alzheimer's disease
+|journal=Clin Interv Aging
+|volume=1
+|issue=2
+|pages=143–54
+|year=2006
+|pmid=18044111
+|doi=10.2147/ciia.2006.1.2.143
+|pmc=2695165
+}}&lt;/ref&gt; This option also delays or eliminates the need for more professional and costly levels of care.&lt;ref name=&quot;pmid18044111&quot;/&gt;&lt;ref&gt;{{vcite journal
+|author=Gaugler JE, Kane RL, Kane RA, Newcomer R
+|title=Early community-based service utilization and its effects on institutionalization in dementia caregiving
+|journal=Gerontologist
+|volume=45
+|issue=2
+|pages=177–85
+|year=2005
+|month=April
+|pmid=15799982
+|doi=10.1093/geront/45.2.177
+}}&lt;/ref&gt; Nevertheless two-thirds of nursing home residents have dementias.&lt;ref name=&quot;pracGuideAPA&quot;/&gt;
+
+[[Depression of Alzheimer disease|Dementia]] caregivers are subject to high rates of physical and [[mental disorder|mental]] disorders.&lt;ref name=&quot;pmid12480441&quot;&gt;{{vcite journal
+|author=Ritchie K, Lovestone S
+|title=The dementias
+|journal=Lancet
+|volume=360
+|issue=9347
+|pages=1759–66
+|year=2002
+|month=November
+|pmid=12480441
+|doi=10.1016/S0140-6736(02)11667-9
+}}&lt;/ref&gt; Factors associated with greater psychosocial problems of the primary caregivers include having an affected person at home, the carer being a spouse, demanding behaviours of the cared person such as depression, behavioural disturbances, hallucinations, sleep problems or walking disruptions and [[social isolation]].&lt;ref name=&quot;pmid2241719&quot;&gt;{{vcite journal
+|author=Brodaty H, Hadzi-Pavlovic D
+|title=Psychosocial effects on carers of living with persons with dementia
+|journal=Aust N Z J Psychiatry
+|volume=24
+|issue=3
+|pages=351–61
+|year=1990
+|month=September
+|pmid=2241719
+|doi=10.3109/00048679009077702
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid9646153&quot;&gt;{{vcite journal
+|author=Donaldson C, Tarrier N, Burns A
+|title=Determinants of carer stress in Alzheimer's disease
+|journal=Int J Geriatr Psychiatry
+|volume=13
+|issue=4
+|pages=248–56
+|year=1998
+|month=April
+|pmid=9646153
+|doi=10.1002/(SICI)1099-1166(199804)13:4&lt;248::AID-GPS770&gt;3.0.CO;2-0
+}}&lt;/ref&gt; Regarding economic problems, family caregivers often give up time from work to spend 47&amp;nbsp;hours per week on average with the person with AD, while the costs of caring for them are high. Direct and indirect costs of caring for an Alzheimer's patient average between $18,000 and $77,500 per year in the United States, depending on the study.&lt;ref name=&quot;metlife.com&quot;/&gt;&lt;ref name=&quot;pmid11445614&quot;/&gt;
+
+[[Cognitive behavioral therapy|Cognitive behavioural therapy]] and the teaching of [[Coping (psychology)|coping strategies]] either individually or in group have demonstrated their efficacy in improving caregivers' psychological health.&lt;ref name=&quot;pmid17662119&quot;/&gt;&lt;ref name=&quot;pmid11511058&quot;&gt;{{vcite journal
+|author=Pusey H, Richards D
+|title=A systematic review of the effectiveness of psychosocial interventions for carers of people with dementia
+|journal=Aging Ment Health
+|volume=5
+|issue=2
+|pages=107–19
+|year=2001
+|month=May
+|pmid=11511058
+|doi=10.1080/13607860120038302
+}}&lt;/ref&gt;
+
+===Notable cases===
+{{Further2|[[Alzheimer's in the media]]}}
+[[File:Ronald Reagan Charlton Heston.jpg|thumb|[[Charlton Heston]] and [[Ronald Reagan]] at a meeting in the [[White House]]. Both of them would later be diagnosed with Alzheimer's disease.]]
+
+As Alzheimer's disease is highly prevalent, many notable people have developed it. Well-known examples are former [[United States President]] [[Ronald Reagan]] and Irish writer [[Iris Murdoch]], both of whom were the subjects of scientific articles examining how their cognitive capacities deteriorated with the disease.&lt;ref name=&quot;pmid15574466&quot;&gt;{{vcite journal
+|author=Garrard P, Maloney LM, Hodges JR, Patterson K
+|title=The effects of very early Alzheimer's disease on the characteristics of writing by a renowned author
+|journal=Brain
+|volume=128
+|issue=Pt 2
+|pages=250–60
+|year=2005
+|month=February
+|pmid=15574466
+|doi=10.1093/brain/awh341
+|url=http://brain.oxfordjournals.org/cgi/content/full/128/2/250
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid15461232&quot;&gt;{{vcite journal
+|author=Sherman FT
+|title=Did President Reagan have mild cognitive impairment while in office? Living longer with Alzheimer's Disease
+|journal=Geriatrics
+|volume=59
+|issue=9
+|pages=11, 15
+|year=2004
+|month=September
+|pmid=15461232
+|url=http://www.modernmedicine.com/modernmedicine/article/articleDetail.jsp?id=121676
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid15788549&quot;&gt;{{vcite journal
+|author=Venneri A, Forbes-Mckay KE, Shanks MF
+|title=Impoverishment of spontaneous language and the prediction of Alzheimer's disease
+|journal=Brain
+|volume=128
+|issue=Pt 4
+|pages=E27
+|year=2005
+|month=April
+|pmid=15788549
+|doi=10.1093/brain/awh419
+|url=
+}}&lt;/ref&gt; Other cases include the retired [[Association football|footballer]] [[Ferenc Puskas]],&lt;ref&gt;{{cite news
+|url=http://news.bbc.co.uk/sport1/hi/football/europe/6155766.stm
+|title=Hungary legend Puskas dies at 79
+|publisher=BBC News|date=2006-11-17
+|accessdate=2008-01-25}}
+&lt;/ref&gt; the former [[Prime Minister]]s [[Harold Wilson]] (United Kingdom) and [[Adolfo Suárez]] ([[Spain]]),&lt;ref&gt;{{cite web
+|url=http://www.number10.gov.uk/history-and-tour/prime-ministers-in-history/harold-wilson
+|title=Prime Ministers in History:  Harold Wilson
+|publisher=10 Downing Street
+|location=London
+|accessdate=2008-08-18
+| archiveurl= http://web.archive.org/web/20080825211328/http://www.number10.gov.uk/history-and-tour/prime-ministers-in-history/harold-wilson| archivedate= 25 August 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url=http://www.elpais.com/articulo/espana/padre/reconocio/Rey/noto/carino/elpepiesp/20080718elpepinac_11/Tes
+|title=Mi padre no reconoció al Rey pero notó el cariño
+|publisher=El País
+|location=Madrid
+|year=2008
+|accessdate=2008-10-01
+}}&lt;/ref&gt; the actress [[Rita Hayworth]],&lt;ref&gt;{{cite web
+|url=http://www.alz.org/galas/Rita/overview.asp
+|title=Chicago Rita Hayworth Gala
+|publisher=Alzheimer's Association
+|year=2007
+|accessdate=2010-02-03}}
+&lt;/ref&gt; the actor [[Charlton Heston]],&lt;ref&gt;{{cite news
+|url=http://archives.cnn.com/2002/US/08/09/heston.illness/
+|title=Charlton Heston has Alzheimer's symptoms
+|publisher=CNN
+|date=2002-08-09
+|accessdate=2008-01-25| archiveurl= http://web.archive.org/web/20080201123928/http://archives.cnn.com/2002/US/08/09/heston.illness/| archivedate= 1 February 2008 &lt;!--DASHBot--&gt;| deadurl= no}}
+&lt;/ref&gt; the novelist [[Terry Pratchett]],&lt;ref&gt;{{cite news
+|url=http://www.guardian.co.uk/books/2007/dec/12/news.michellepauli1
+|author=Pauli Michelle
+|title=Pratchett announces he has Alzheimer's
+|publisher=Guardian News and Media
+|date=2007-12-12
+|accessdate=2008-08-18
+|location=London| archiveurl= http://web.archive.org/web/20080929202626/http://www.guardian.co.uk/books/2007/dec/12/news.michellepauli1| archivedate= 29 September 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Indian politician [[George Fernandes]],&lt;ref&gt;{{cite web|url=http://www.dnaindia.com/india/report_george-fernandes-being-treated-for-alzheimer-s-by-yoga-guru-ramdev_1336547|title=George Fernandes being treated for Alzheimer's by Yoga Guru Ramdev|publisher=''[[DNA (newspaper)|DNA]]''|accessdate=2010-01-19|date=2010-01-19| archiveurl= http://web.archive.org/web/20100122212320/http://www.dnaindia.com/india/report_george-fernandes-being-treated-for-alzheimer-s-by-yoga-guru-ramdev_1336547| archivedate= 22 January 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+and the 2009 [[Nobel Prize]] in Physics recipient [[Charles K. Kao]].&lt;ref&gt;{{cite web
+|url=http://www.chinadaily.com.cn/hkedition/2009-10/09/content_8768287.htm
+|title=Nobel winner Kao coping with fame and Alzheimer's
+|publisher=China Daily
+|accessdate=2011-02-06
+|date=2009-10-09
+| archiveurl= http://web.archive.org/web/20110124104804/http://www.chinadaily.com.cn/hkedition/2009-10/09/content_8768287.htm| archivedate= 24 January 2011 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+AD has also been portrayed in films such as: ''[[Iris (film)|Iris]]'' (2001), based on [[John Bayley (writer)|John Bayley]]'s memoir of his wife Iris Murdoch;&lt;ref&gt;{{cite book
+|title=Iris: a memoir of Iris Murdoch
+|author=Bayley John
+|publisher=Abacus
+|location=London
+|year=2000
+|isbn=978-0-349-11215-2
+|oclc=41960006}}&lt;/ref&gt;
+''[[The Notebook (film)|The Notebook]]'' (2004), based on [[Nicholas Sparks (author)|Nicholas Sparks]]' 1996 [[The Notebook (novel)|novel of the same name]];&lt;ref&gt;{{cite book
+|title=The notebook
+|author=Sparks Nicholas
+|year=1996
+|publisher=Thorndike Press
+|location=Thorndike, Maine
+|page=268
+|isbn=0-7862-0821-X}}
+&lt;/ref&gt; ''[[A Moment to Remember]]'' (2004);''[[Thanmathra]]'' (2005);&lt;ref&gt;{{cite web
+|url=http://www.webindia123.com/movie/regional/thanmatra/index.htm
+|title=Thanmathra
+|publisher=Webindia123.com
+|accessdate=2008-01-24}}
+&lt;/ref&gt; ''[[Memories of Tomorrow (Ashita no Kioku)]]'' (2006), based on Hiroshi Ogiwara's novel of the same name;&lt;ref&gt;{{cite book
+|author=Ogiwara Hiroshi
+|year=2004
+|title=Ashita no Kioku
+|location=Tōkyō
+|publisher=Kōbunsha
+|isbn=978-4-334-92446-1
+|oclc=57352130
+|language={{jp icon}}
+|isbn-status=May be invalid – please double check
+}}&lt;/ref&gt; ''[[Away from Her]]'' (2006), based on [[Alice Munro]]'s [[short story]] &quot;[[Hateship, Friendship, Courtship, Loveship, Marriage|The Bear Came over the Mountain]]&quot;.&lt;ref&gt;{{cite book
+|title=[[Hateship, Friendship, Courtship, Loveship, Marriage|Hateship, Friendship, Courtship, Loveship, Marriage: Stories]]
+|author=Munro Alice
+|location=New York
+|publisher=A.A. Knopf
+|year=2001
+|isbn=978-0-375-41300-1
+|oclc=46929223
+|chapter-url=The bear came over the mountain}}&lt;/ref&gt; Documentaries on Alzheimer's disease include ''Malcolm and Barbara: A Love Story'' (1999) and ''Malcolm and Barbara: Love's Farewell'' (2007), both featuring [[Malcolm Pointon]].&lt;ref&gt;Malcolm and Barbara:
+*{{cite web
+|url=http://www.dfgdocs.com/Directory/Titles/700.aspx
+|title=Malcolm and Barbara: A love story
+|publisher=Dfgdocs
+|accessdate=2008-01-24}}
+*{{cite web
+|url=http://www.bbc.co.uk/cambridgeshire/content/articles/2007/08/06/pointon_audio_feature.shtml
+|title=Malcolm and Barbara: A love story
+|publisher=BBC Cambridgeshire
+|accessdate=2008-03-02}}
+*{{cite news
+|url=http://www.guardian.co.uk/media/2007/aug/07/broadcasting.itv
+|title=Alzheimer's film-maker to face ITV lawyers
+|publisher=Guardian Media
+|date=2007-08-07
+|accessdate=2008-01-24
+|location=London
+|author=Plunkett J| archiveurl= http://web.archive.org/web/20080115132419/http://www.guardian.co.uk/media/2007/aug/07/broadcasting.itv| archivedate= 15 January 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+==Research directions==
+{{Main|Alzheimer's disease clinical research}}
+
+{{as of
+|2012}}, the safety and efficacy of more than 400 pharmaceutical treatments had been or were being investigated in 1012 [[clinical trial]]s worldwide, and approximately a quarter of these compounds are in [[Phase&amp;nbsp;III]] trials, the last step prior to review by regulatory agencies.&lt;ref name=&quot;CT&quot;/&gt;
+
+One area of clinical research is focused on treating the underlying disease pathology. Reduction of [[beta-amyloid]] levels is a common target of compounds&lt;ref&gt;
+{{vcite journal
+|author=Lashuel HA, Hartley DM, Balakhaneh D, Aggarwal A, Teichberg S, [[David J E Callaway|Callaway DJE]]
+|title=New class of inhibitors of [[beta-amyloid]] fibril formation. Implications for the mechanism of pathogenesis in Alzheimer's disease
+|url=http://www.jbc.org/cgi/content/abstract/277/45/42881
+|journal=[[Journal of Biological Chemistry|J Biol Chem]]
+|year=2002
+|volume=277
+|pages=42881–42890
+|pmid=12167652
+|doi=10.1074/jbc.M206593200
+|issue=45
+}}&lt;/ref&gt; (such as [[apomorphine]]) under investigation. [[Immunotherapy]] or [[vaccination]] for the amyloid protein is one treatment modality under study.&lt;ref&gt;
+{{vcite journal
+|author=Dodel r, Neff F, Noelker C, Pul R, Du Y, Bacher M Oertel W.
+|title=Intravenous Immunoglobulins as a Treatment for Alzheimer's Disease: Rationale and Current Evidence
+|url=http://adisonline.com/drugs/Abstract/2010/70050/Intravenous_Immunoglobulins_as_a_Treatment_for.1.aspx
+|journal=Drugs
+|year=2010
+|volume=70
+|pages=513–528
+|pmid=20329802
+|doi=10.2165/11533070-000000000-00000
+|issue=5
+}}&lt;/ref&gt; Unlike preventative vaccination, the putative therapy would be used to treat people already diagnosed. It is based upon the concept of training [[Immune system|the immune system]] to recognise, attack, and reverse deposition of amyloid, thereby altering the course of the disease.&lt;ref&gt;Vaccination:
+*{{vcite journal
+|author=Hawkes CA, McLaurin J
+|title=Immunotherapy as treatment for Alzheimer's disease
+|journal=Expert Rev Neurother
+|volume=7
+|issue=11
+|pages=1535–48
+|year=2007
+|month=November
+|pmid=17997702
+|doi=10.1586/14737175.7.11.1535
+}}
+*{{vcite journal
+|author=Solomon B
+|title=Clinical immunologic approaches for the treatment of Alzheimer's disease
+|journal=Expert Opin Investig Drugs
+|volume=16
+|issue=6
+|pages=819–28
+|year=2007
+|month=June
+|pmid=17501694
+|doi=10.1517/13543784.16.6.819
+}}
+*{{vcite journal
+|author=Woodhouse A, Dickson TC, Vickers JC
+|title=Vaccination strategies for Alzheimer's disease: A new hope?
+|journal=Drugs Aging
+|volume=24
+|issue=2
+|pages=107–19
+|year=2007
+|pmid=17313199
+|doi=10.2165/00002512-200724020-00003
+}}&lt;/ref&gt; An example of such a vaccine under investigation was ACC-001,&lt;ref&gt;{{cite web|url=http://www.clinicaltrials.gov/ct/show/NCT00498602
+|title=Study Evaluating ACC-001 in Mild to Moderate Alzheimers Disease Subjects
+|work=Clinical Trial|publisher=US National Institutes of Health
+|accessdate=2008-06-05
+|date=2008-03-11}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url=http://clinicaltrials.gov/ct2/show/NCT00479557|title=Study Evaluating Safety, Tolerability, and Immunogenicity of ACC-001 in Subjects With Alzheimer's Disease
+|publisher=US National Institutes of Health
+|accessdate=2008-06-05
+}}&lt;/ref&gt; although the trials were suspended in 2008.&lt;ref&gt;{{cite web
+|url=http://www.medpagetoday.com/MeetingCoverage/AAN/tb/9165
+|title=Alzheimer's Disease Vaccine Trial Suspended on Safety Concern|publisher=Medpage Today
+|accessdate=2008-06-14
+|date=2008-04-18}}&lt;/ref&gt; Another similar agent is [[bapineuzumab]], an antibody designed as identical to the naturally induced anti-amyloid antibody.&lt;ref&gt;{{cite web
+|url=http://clinicaltrials.gov/ct2/show/NCT00574132
+|title=Bapineuzumab in Patients With Mild to Moderate Alzheimer's Disease/ Apo_e4 non-carriers
+|work=Clinical Trial
+|accessdate=2008-03-23
+|publisher=US National Institutes of Health
+|date=2008-02-29
+| archiveurl= http://web.archive.org/web/20080322093853/http://clinicaltrials.gov/ct2/show/NCT00574132?| archivedate= 22 March 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Other approaches are neuroprotective agents, such as AL-108,&lt;ref&gt;{{cite web
+|url=http://clinicaltrials.gov/ct2/show/NCT00422981
+|title=Safety, Tolerability and Efficacy Study to Evaluate Subjects With Mild Cognitive Impairment
+|work=Clinical Trial
+|accessdate=2008-03-23
+|publisher=US National Institutes of Health
+|date=2008-03-11
+}}&lt;/ref&gt; and metal-protein interaction attenuation agents, such as PBT2.&lt;ref&gt;{{cite web
+|url=http://clinicaltrials.gov/ct2/show/NCT00471211
+|title=Study Evaluating the Safety, Tolerability and Efficacy of PBT2 in Patients With Early Alzheimer's Disease
+|work=Clinical Trial
+|accessdate=2008-03-23
+|publisher=US National Institutes of Health
+|date=2008-01-13
+}}&lt;/ref&gt; A [[tumor necrosis factor-alpha|TNFα]] receptor [[fusion protein]], [[etanercept]] has showed encouraging results.&lt;ref name=&quot;pmid16926764&quot;&gt;Etanercept research:
+*{{vcite journal
+|author=Tobinick E, Gross H, Weinberger A, Cohen H
+|title=TNF-alpha Modulation for Treatment of Alzheimer's Disease: A 6-Month Pilot Study
+|journal=MedGenMed
+|volume=8
+|issue=2
+|page=25
+|year=2006
+|pmid=16926764
+|pmc=1785182
+}}
+*{{vcite journal
+|author=Griffin WS
+|title=Perispinal etanercept: Potential as an Alzheimer therapeutic
+|journal=J Neuroinflammation
+|volume=5
+|page=3
+|year=2008
+|pmid=18186919
+|pmc=2241592
+|doi=10.1186/1742-2094-5-3
+}}
+*{{vcite journal
+|author=Tobinick E
+|title=Perispinal etanercept for treatment of Alzheimer's disease
+|journal=Curr Alzheimer Res
+|volume=4
+|issue=5
+|pages=550–2
+|year=2007
+|month=December
+|pmid=18220520
+|doi=10.2174/156720507783018217
+}}
+&lt;/ref&gt;
+
+In 2008, two separate clinical trials showed positive results in modifying the course of disease in mild to moderate AD with [[methylthioninium chloride]] (trade name ''[[rember]]''), a drug that inhibits tau aggregation,&lt;ref&gt;{{vcite journal
+|title=Tau aggregation inhibitor (TAI) therapy with remberTM arrests disease progression in mild and moderate Alzheimer's disease over 50 weeks
+|author=Wischik Claude M, Bentham Peter, Wischik Damon J, Seng Kwang Meng
+|journal=Alzheimer's &amp; Dementia
+|publisher=Alzheimer's Association
+|year=2008
+|month=July
+|volume=4
+|issue=4
+|page=T167
+|url=http://www.abstractsonline.com/viewer/viewAbstractPrintFriendly.asp?CKey={E7C717CF-8D73-41E0-8DB0-FA92205978CD}&amp;SKey={68E04DB5-AB1C-4F7B-9511-DA3173F4F755}&amp;MKey={CFC5F7C6-CB6A-40C4-BC87-B30C9E64B1CC}&amp;AKey={50E1744A-0C52-45B2-BF85-2A798BF24E02}
+|accessdate=2008-07-30
+|doi=10.1016/j.jalz.2008.05.438
+}}&lt;/ref&gt;&lt;ref&gt;
+{{vcite journal
+|author=Harrington Charles
+|title=Methylthioninium chloride (MTC) acts as a Tau aggregation inhibitor (TAI) in a cellular model and reverses Tau pathology in transgenic mouse models of Alzheimer's disease
+|journal=Alzheimer's &amp; Dementia
+|publisher=Alzheimer's Association
+|year=2008
+|month=July
+|pages=T120–T121
+|doi=10.1016/j.jalz.2008.05.259
+|volume=4
+|issue=4
+|author-separator=,
+|author2=Rickard Janet E
+|author3=Horsley David
+|display-authors=3
+|last4=Harrington
+|first4=Kathleen A.
+|last5=Hindley
+|first5=Kathleen P.
+|last6=Riedel
+|first6=Gernot
+|last7=Theuring
+|first7=Franz
+|last8=Seng
+|first8=Kwang Meng
+|last9=Wischik
+|first9=Claude M.
+}}&lt;/ref&gt; and [[dimebon]], an [[antihistamine]].&lt;ref name=&quot;pmid18640457&quot;&gt;{{vcite journal
+|author=Doody RS
+|title=Effect of dimebon on cognition, activities of daily living, behaviour, and global function in patients with mild-to-moderate Alzheimer's disease: a randomised, double-blind, placebo-controlled study
+|journal=Lancet
+|volume=372
+|issue=9634
+|pages=207–15
+|year=2008
+|month=July
+|pmid=18640457
+|doi=10.1016/S0140-6736(08)61074-0
+|author-separator=,
+|author2=Gavrilova SI
+|author3=Sano M
+|display-authors=3
+|last4=Thomas
+|first4=Ronald G
+|last5=Aisen
+|first5=Paul S
+|last6=Bachurin
+|first6=Sergey O
+|last7=Seely
+|first7=Lynn
+|last8=Hung
+|first8=David
+|last9=Dimebon
+|first9=Investigators
+}}&lt;/ref&gt;
+The consecutive Phase-III trial of Dimebon failed to show positive effects in the primary and secondary endpoints.&lt;ref&gt;{{cite web|url=http://www.alzforum.org/new/detail.asp?id=2387|title=Dimebon Disappoints in Phase 3 Trial|publisher=Alzforum.org|date=|accessdate=2011-02-05}}&lt;/ref&gt;
+
+The possibility that AD could be treated with [[antiviral drug|antiviral]] medication is suggested by a study showing colocation of [[herpes simplex]] virus with amyloid plaques.&lt;ref&gt;{{vcite journal|author=Wozniak M, Mee A, Itzhaki R|title=Herpes simplex virus type 1 DNA is located within Alzheimer's disease amyloid plaques|journal=J Pathol|volume=217|issue=1|pages=131–138|year=2008|pmid=18973185|doi=10.1002/path.2449}}&lt;/ref&gt;
+
+Preliminary research on the effects of meditation on retrieving memory and cognitive functions have been encouraging. Limitations of this research can be addressed in future studies with more detailed analyses.&lt;ref&gt;{{vcite journal|pages=517–26|last1=Newberg|first1=AB|issue=2|last2=Wintering|first2=N|last3=Khalsa|first3=DS|last4=Roggenkamp|first4=H|last5=Waldman|first5=MR|author8=Newberg AB, Wintering N, Khalsa DS, Roggenkamp H, Waldman MR|volume=20|title=Meditation effects on cognitive function and cerebral blood flow in subjects with memory loss: a preliminary study|year=2010|journal=[[Journal of Alzheimer's Disease]]|url=http://www.j-alz.com/issues/20/vol20-2.html|pmid=20164557|doi=10.3233/JAD-2010-1391}} (primary source)&lt;/ref&gt;
+
+An FDA panel voted unanimously to recommend approval of [[florbetapir]] (tradename: Amyvid), which is currently used in an investigational study. The agent can detect Alzheimer's brain plaques, but will require additional clinical research before it can be made available commercially.&lt;ref&gt;{{vcite journal|author=Clark CM, Schneider JA, Bedell BJ, Beach TG, Bilker WB, Mintun MA, Pontecorvo MJ, Hefti F, Carpenter AP, Flitter ML, Krautkramer MJ, Kung HF, Coleman RE, Doraiswamy PM, Fleisher AS, Sabbagh MN, Sadowsky CH, Reiman PE, Zehntner SP, Skovronsky DM|title=FDA recommends approval of new compound in Alzheimer's detection|journal=[[J Am Med Assoc]]|date=2011-01-19|volume=305|issue=3|pages=275–83|url=http://www.usatoday.com/yourlife/health/medical/alzheimers/2011-01-22-alzheimersfda21_ST_N.htm?csp=34news&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+usatoday-NewsTopStories+%28News+-+Top+Stories%29|doi=10.1001/jama.2010.2008}}&lt;/ref&gt;
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+{{Spoken Wikipedia|Alzheimer's Disease.ogg|2008-09-12}}
+{{refbegin}}
+*{{cite book
+|title=Alzheimer's Disease: Unraveling the Mystery
+|url=http://www.nia.nih.gov/alzheimers/publication/alzheimers-disease-unraveling-mystery
+|publisher=US Department of Health and Human Services, National Institute on Aging, NIH
+|year=2008
+}}
+*{{cite book
+|title=Can Alzheimer's Disease Be Prevented?
+|url=http://www.globalaging.org/health/us/2009/prevented.pdf |publisher=US Department of Health and Human Services, National Institute on Aging, NIH
+|year=2009
+}}
+*{{cite book
+|title=Caring for a Person with Alzheimer's Disease: Your Easy-to-Use Guide from the National Institute on Aging
+|url=http://www.nia.nih.gov/alzheimers/publication/caring-person-alzheimers-disease
+|publisher=US Department of Health and Human Services, National Institute on Aging, NIH
+|year=2009
+}}
+*{{vcite journal
+|author=Cummings JL, Frank JC, Cherry D, Kohatsu ND, Kemp B, Hewett L, Mittman B
+|title=Guidelines for managing Alzheimer's disease: Part&amp;nbsp;I. Assessment
+|journal=American Family Physician
+|volume=65
+|issue=11
+|pages=2263–2272
+|year=2002
+|pmid=12074525
+|url=http://www.aafp.org/afp/20020601/2263.html
+}}
+*{{vcite journal
+|author=Cummings JL, Frank JC, Cherry D, Kohatsu ND, Kemp B, Hewett L, Mittman B
+|title=Guidelines for managing Alzheimer's disease: Part&amp;nbsp;II. Treatment
+|journal=American Family Physician
+|volume=65
+|issue=12
+|pages=2525–2534
+|year=2002
+|pmid=12086242
+|url=http://www.aafp.org/afp/20020615/2525.html
+}}
+*{{cite web
+|title=Alzheimer's Behavior Management: Learn to manage common behavior problems
+|url=http://www.helpguide.org/elder/alzheimers_behavior_problems.htm
+|author=Russell D, Barston S, White M
+|publisher=helpguide.org
+|date=2007-12-19
+|accessdate=2008-02-29
+| archiveurl= http://web.archive.org/web/20080223082753/http://www.helpguide.org/elder/alzheimers_behavior_problems.htm| archivedate= 23 February 2008 &lt;!--DASHBot--&gt;| deadurl= no}}
+{{refend}}
+
+==External links==
+{{Commons category|Alzheimer's disease}}
+*[http://www.nia.nih.gov/alzheimers/alzheimers-disease-research-centers Alzheimer's Disease Research Centers] National Institute of Aging
+*[http://www.nia.nih.gov/alzheimers Alzheimer's Disease Education and Referral (ADEAR) Center] National Institute of Aging
+*[http://www.alz.org/index.asp Alzheimer's Association] Alzheimer's Association
+*[http://memory.ucsf.edu/ UCSF Memory and Aging Center] University of California San Francisco
+
+{{Mental and behavioral disorders|selected=neurological}} 
+{{CNS diseases of the nervous system }}
+{{Amyloidosis}}
+{{featured article}}
+
+{{DEFAULTSORT:Alzheimer's Disease}}
+[[Category:Alzheimer's disease| ]]
+[[Category:Ailments of unknown etiology]]
+[[Category:Unsolved problems in neuroscience]]
+[[Category:Learning disabilities]]
+[[Category:Psychiatric diagnosis]]
+[[Category:Dementia]]
+[[Category:Aphasias]]
+
+{{Link GA|es}}
+{{Link GA|ru}}
+{{Link FA|no}}
+
+[[af:Alzheimer se siekte]]
+[[ar:مرض ألزهايمر]]
+[[an:Malautía d'Alzheimer]]
+[[ast:Alzheimer]]
+[[az:Alçheimer xəstəliyi]]
+[[bn:আলঝেইমার’স ডিজিজ]]
+[[be:Хвароба Альцгеймера]]
+[[be-x-old:Хвароба Альцгаймэра]]
+[[bg:Болест на Алцхаймер]]
+[[bs:Alzheimerova bolest]]
+[[ca:Malaltia d'Alzheimer]]
+[[cs:Alzheimerova choroba]]
+[[cy:Clefyd Alzheimer]]
+[[da:Alzheimers sygdom]]
+[[de:Alzheimer-Krankheit]]
+[[et:Alzheimeri tõbi]]
+[[el:Νόσος Αλτσχάιμερ]]
+[[es:Enfermedad de Alzheimer]]
+[[eo:Alzheimer-malsano]]
+[[eu:Alzheimer]]
+[[fa:بیماری آلزایمر]]
+[[hif:Alzheimer's disease]]
+[[fr:Maladie d'Alzheimer]]
+[[fy:Sykte fan Alzheimer]]
+[[ga:Galar Alzheimer]]
+[[gl:Alzhéimer]]
+[[gan:老人痴呆症]]
+[[ko:알츠하이머병]]
+[[hy:Ալցհայմերի հիվանդություն]]
+[[hi:अलजाइमर रोग]]
+[[hr:Alzheimerova bolest]]
+[[io:Alzheimer-maladeso]]
+[[ilo:Sakit ni Alzheimer]]
+[[id:Alzheimer]]
+[[is:Alzheimer]]
+[[it:Malattia di Alzheimer]]
+[[he:מחלת אלצהיימר]]
+[[jv:Alzheimer]]
+[[kn:ಆಲ್‌ಝೈಮರ್‌‌ನ ಕಾಯಿಲೆ]]
+[[ka:ალცჰაიმერის დაავადება]]
+[[sw:Ugonjwa wa Alzheimer]]
+[[la:Morbus Alzheimerianus]]
+[[lv:Alcheimera slimība]]
+[[lb:Alzheimer]]
+[[lt:Alzheimerio liga]]
+[[hu:Alzheimer-kór]]
+[[mk:Алцхајмерова болест]]
+[[ml:ആൽറ്റ്സ്‌ഹൈമേഴ്സ് രോഗം]]
+[[ms:Penyakit Alzheimer]]
+[[mn:Альцхаймерын өвчин]]
+[[my:အယ်လ်ဇိုင်းမား ရောဂါ]]
+[[nl:Ziekte van Alzheimer]]
+[[ne:अल्जाइमर]]
+[[ja:アルツハイマー型認知症]]
+[[no:Alzheimers sykdom]]
+[[nn:Alzheimers sjukdom]]
+[[oc:Malautiá d'Alzheimer]]
+[[pnb:الزایمر]]
+[[pl:Choroba Alzheimera]]
+[[pt:Mal de Alzheimer]]
+[[ro:Boala Alzheimer]]
+[[ru:Болезнь Альцгеймера]]
+[[sq:Sëmundja e Alzheimerit]]
+[[scn:Morbu di Alzheimer]]
+[[si:ඇල්zසයිම' රෝගය]]
+[[simple:Alzheimer's disease]]
+[[sk:Alzheimerova choroba]]
+[[sl:Alzheimerjeva bolezen]]
+[[sr:Алцхајмерова болест]]
+[[sh:Alzheimerova bolest]]
+[[su:Panyakit Alzheimer]]
+[[fi:Alzheimerin tauti]]
+[[sv:Alzheimers sjukdom]]
+[[ta:ஆல்சைமர் நோய்]]
+[[te:మతిమరపు వ్యాధి]]
+[[th:โรคอัลไซเมอร์]]
+[[tr:Alzheimer hastalığı]]
+[[uk:Хвороба Альцгеймера]]
+[[ur:الزائمر]]
+[[vi:Bệnh Alzheimer]]
+[[war:Sakit nga Alzheimer]]
+[[yi:אלצהיימערס קרענק]]
+[[zh-yue:腦退化]]
+[[bat-smg:Alzhaimerė lėga]]
+[[zh:阿兹海默病]]</text>
+      <sha1>os193a3eku9df4wru4pmxv2upuzy8r9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,435 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Brittany</title>
+    <ns>0</ns>
+    <id>38748</id>
+    <revision>
+      <id>520635260</id>
+      <parentid>520629463</parentid>
+      <timestamp>2012-10-30T19:41:24Z</timestamp>
+      <contributor>
+        <username>Paul Barlow</username>
+        <id>4709</id>
+      </contributor>
+      <comment>Undid revision 520629463 by [[Special:Contributions/75.151.57.113|75.151.57.113]] ([[User talk:75.151.57.113|talk]]) [[WP:OVERLINK]]</comment>
+      <text xml:space="preserve" bytes="37679">{{Use dmy dates|date=May 2011}}
+{{two other uses|the cultural region in the north-west of France|the current French administrative region|Brittany (administrative region)|other uses|Brittany (disambiguation)}}
+{{Infobox Settlement
+&lt;!--See Template:Infobox Settlement for additional fields that may be available--&gt;
+&lt;!--See the Table at Infobox Settlement for all fields and descriptions of usage--&gt;
+&lt;!-- Basic info ----------------&gt;
+|name =Brittany &lt;!-- at least one of the first two fields must be filled in --&gt;
+|official_name = 
+|other_name = 
+|native_name =''Bretagne'' / ''Breizh'' / ''Bertaèyn'' &lt;!-- if different from the English name --&gt;
+|nickname =
+|settlement_type = &lt;!-- e.g. Town, Village, City, etc.--&gt;
+|total_type = &lt;!-- to set a non-standard label for total area and population rows --&gt;
+|motto = ''Kentoc'h mervel eget bezañ saotret'' &lt;br /&gt;&lt;small&gt;''Rather death than dishonour''&lt;/small&gt;
+|anthem = None (''[[de jure]]'')&lt;br /&gt;''[[De facto]]'' &quot;''[[Bro Gozh ma Zadoù]]''&quot; &lt;br/&gt;&lt;small&gt;''Old Land of My Fathers&lt;/small&gt;
+&lt;!-- images and maps -----------&gt;
+|image_skyline =
+|imagesize =
+|image_caption =
+|image_flag = Gwenn ha du.svg
+|flag_size =
+|image_seal =
+|seal_size =
+|image_shield = COA fr BRE.svg
+|shield_size =75px
+|image_blank_emblem =
+|blank_emblem_type =
+|blank_emblem_size =
+|image_map = Localisation Duché de Bretagne.svg
+|mapsize =
+|map_caption = 
+|image_map1 =
+|mapsize1 =
+|map_caption1 =
+|image_dot_map =
+|dot_mapsize =
+|dot_map_caption =
+|dot_x = |dot_y =
+|pushpin_map = &lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;
+|pushpin_label_position = &lt;!-- the position of the pushpin label: left, right, top, bottom, none --&gt;
+|pushpin_map_caption =
+|pushpin_mapsize =
+&lt;!-- Location ------------------&gt;
+|subdivision_type = Country
+|subdivision_name = {{flag|France}}
+|subdivision_type1 =
+|subdivision_name1 =
+|subdivision_type2 =
+|subdivision_name2 =
+&lt;!-- | Demonym = [[Breton people| Bretons]] ------------------&gt;
+&lt;!-- Smaller parts (e.g. boroughs of a city) and seat of government --&gt;
+|seat_type =
+|seat =
+|parts_type = Largest settlements
+|parts_style = &lt;!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+ Default is list if up to 5 items, coll if more than 5--&gt;
+|parts = &lt;!-- parts text, or header for parts list --&gt;
+|p1 =[[Nantes]]
+|p2 = [[Rennes]]
+|p3=[[Brest, France|Brest]]
+|p4=[[Lorient]]
+|p5=[[Quimper, Finistère|Quimper]]
+|p6= [[Vannes]]
+|p7=[[Redon, Ille-et-Vilaine|Redon]]
+|p8= [[Saint-Brieuc]]
+|p9= [[Saint-Nazaire]]
+|p10= &lt;!-- etc. up to p50: for separate parts to be listed--&gt;
+&lt;!-- Politics -----------------&gt;
+|government_footnotes =
+|government_type =
+|leader_title =
+|leader_name = &lt;!--add (no-break space) to leader names to disable automatic links--&gt;
+|leader_title1 =
+|leader_name1 =
+|established_title = &lt;!-- Settled --&gt;
+|established_date =
+&lt;!-- Area ---------------------&gt;
+|area_magnitude =
+|unit_pref =&lt;!--Enter: Imperial, to display imperial before metric--&gt;
+|area_footnotes =
+|area_total_km2 =34023 &lt;!-- ALL fields with measurements are subject to automatic unit conversion--&gt;
+|area_land_km2 = &lt;!--See table @ Template:Infobox Settlement for details on unit conversion--&gt;
+|area_water_km2 =
+|area_total_sq_mi =13136
+|area_land_sq_mi =
+|area_water_sq_mi =
+|area_water_percent =
+&lt;!-- Elevation --------------------------&gt;
+|elevation_footnotes = &lt;!--for references: use&lt;ref&gt;tags--&gt;
+|elevation_m =
+|elevation_ft =
+|elevation_max_m =
+|elevation_max_ft =
+|elevation_min_m =
+|elevation_min_ft =
+&lt;!-- Population -----------------------&gt;
+|population_as_of =January 2007 estimate
+|population_footnotes =
+|population_note =
+|population_total =4,365,500
+|population_density_km2 = &lt;!--For automatic calculation, any density field may contain: auto --&gt;
+|population_density_sq_mi =
+&lt;!-- General information ---------------&gt;
+|timezone = CET
+| utc_offset = +1
+|timezone_DST = CEST
+| utc_offset_DST = +2
+|coor_type = &lt;!-- can be used to specify what the coordinates refer to --&gt;
+|latd= |latm= |lats= |latNS=
+|longd= |longm= |longs= |longEW=
+&lt;!-- Area/postal codes &amp; others --------&gt;
+|postal_code_type = &lt;!-- enter ZIP code, Postcode, Post code, Postal code... --&gt;
+|postal_code =
+|area_code =
+|website =
+|footnotes =
+}}
+
+'''Brittany''' ({{lang-fr|Bretagne}} {{IPA-fr|bʁə.taɲ||fr-Bretagne.ogg}}; {{lang-br|Breizh}}, pronounced {{IPA-br|brɛjs|}}; [[Gallo language|Gallo]]: ''Bertaèyn'') is a cultural region in the north-west of France. Previously a [[Kingdom of Brittany|kingdom]] and then a [[Duchy of Brittany|duchy]], Brittany was [[Union between Brittany and France|united]] to the [[Kingdom of France]] in 1532 as a [[Province of France|province]]. Brittany has also been referred to as ''Less'', ''Lesser'' or ''Little'' Britain (as opposed to ''Great Britain''). Brittany is considered as one of the six [[Celtic nations]].&lt;ref&gt;{{cite web|url=http://www.celticleague.net/ |title=The Celtic League |publisher=The Celtic League |date= |accessdate=3 May 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.festival-interceltique.com/festival/nations-celtes.cfm |title=Festival Interceltique de Lorient 2010 |publisher=Festival Interceltique de Lorient |date= |accessdate=3 May 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://us.franceguide.com/Cultural-Brittany.html?NodeID=1&amp;EditoID=193027 |title=Official website of the French Government Tourist Office: Brittany |publisher=Us.franceguide.com |date= |accessdate=3 May 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=iKIWY4P9uFwC |title=The Celtic connection |publisher=Google Books |date=30 March 1986 |accessdate=3 May 2011}}&lt;/ref&gt;
+
+Brittany occupies the northwest peninsula of continental Europe in northwest France. It is bordered by the [[English Channel]] to the north, the Celtic Sea and the Atlantic Ocean to the west, and the [[Bay of Biscay]] to the south. Its land area is 34,023&amp;nbsp;km² {{nowrap|(13,136 sq mi)}}. The historical province of Brittany is divided into five departments: [[Finistère]] in the west, [[Côtes-d'Armor]] in the north, [[Ille-et-Vilaine]] in the north east, [[Loire-Atlantique]] in the south east and [[Morbihan]] in the south on the Bay of Biscay.
+
+In 1956, French [[Regions of France|regions]] were created by gathering [[Departments of France|departments]] between them.&lt;ref&gt;Michèle Cointet, op. cit., pp. 183–216 (p. 216 pour la citation)&lt;/ref&gt; The [[Brittany (administrative region)|Region of Brittany]] comprises, since then, four of the five Breton departments (80% of historical Brittany), while the remaining area of the old Brittany, the [[Loire-Atlantique]] department, around Nantes, forms part of the [[Pays de la Loire]] region. This territorial organisation is regularly contested. The Kingdom and the [[Duchy of Brittany]], the province of Brittany, and the modern Region of Brittany cover the Western part of [[Armorica]], as it was known during the period of Roman occupation. 
+
+In January 2007 the population of historic Brittany was estimated to be 4,365,500. Of these, 71% lived in the region of Brittany, while 29% lived in the region of Pays-de-la-Loire. At the 1999 census, the largest [[metropolitan area]]s were [[Nantes]] (711,120 inhabitants), [[Rennes]] (521,188 inhabitants), and [[Brest, France|Brest]] (303,484 inhabitants).
+
+==History==
+{{main|History of Brittany}}
+The peninsula that came to be known as Brittany was a centre of ancient [[megalith]]ic constructions in the [[Neolithic]] era. It has been called the &quot;core area&quot; of megalithic culture.&lt;ref&gt;Mark Patton, ''Statements in Stone: Monuments and Society in Neolithic Brittany'', Routledge, 1993, p.1&lt;/ref&gt; It later became the territory of several Celtic tribes, of which the most powerful was the [[Veneti (Gaul)|Veneti]]. After [[Julius Caesar]]'s conquest of [[Gaul]], the area became known to the Romans as [[Armorica]], from the Celtic term for &quot;coastal area&quot;. Its transformation into Brittany occurred in the late Roman period, with the establishment of [[Britons (historical)|Romano-British]] settlement in the area. The history behind such an establishment is unclear, but medieval Breton and [[Wales|Welsh]] sources connect it to a figure known as [[Conan Meriadoc]]. Welsh literary sources assert that Conan came to Armorica with the Roman usurper [[Magnus Maximus]], who took his British troops to Gaul to enforce his claims and settled them in Armorica. Regardless of the truth of this story, Brythonic (British Celtic) settlement probably increased during the [[Anglo-Saxon invasion of Britain]] in the 5th century. Scholars such as [[Léon Fleuriot]] have suggested a two-wave model of migration from Britain which saw the emergence of an independent Breton people and established the dominance of the [[Brythonic languages|Brythonic]] [[Breton language]] in Armorica.&lt;ref&gt;[[Léon Fleuriot]], ''Les origines de la Bretagne: l’émigration'', Paris, Payot, 1980.&lt;/ref&gt; Over time the Armorican British colony expanded, forming a group of petty kingdoms which were later unified in the 840s under [[Nominoe]] in resistance to [[Franks|Frank]]ish control.&lt;ref&gt;Smith, Julia M. H. ''Province and Empire: Brittany and the Carolingians'', Cambridge University Press, 1992, pp.80–83.&lt;/ref&gt;
+
+[[File:Anne de Bretagne-Jean Bourdichon-reverse.jpg|thumb|left|[[Anne of Brittany]]]][[File:Bretagne historique.png|thumb|right|Historical regions of Brittany in the 14th century]]In the mid-9th century Nominoe and his successors won a series of victories over the Franks which secured an independent [[Duchy of Brittany]]. In the [[High Middle Ages]] the Duchy was sometimes allied to England and sometimes to France. The pro-English faction was victorious in 1364 in the [[Breton War of Succession]], but the independent Breton army was eventually defeated by the French in 1488, leading to dynastic union with France following the marriage of Duchess [[Anne of Brittany]] to two kings of France in succession.&lt;ref&gt;Constance De La Warr, ''A Twice Crowned Queen: Anne of Brittany'', Peter Owen, 2005&lt;/ref&gt; In 1532 the Duchy was [[Union between Brittany and France|incorporated into France]].
+
+Two significant revolts occurred in the 17th and 18th centuries: the [[Revolt of the papier timbré]] (1675) and the [[Pontcallec Conspiracy]] (1719). Both arose from attempts to resist centralisation and assert Breton constitutional exceptions to tax.&lt;ref&gt;Joël Cornette, Le marquis et le Régent. Une conspiration bretonne à l'aube des Lumières, Paris, Tallandier, 2008.&lt;/ref&gt; The Duchy was legally abolished during the [[French Revolution]] and divided into five [[Departments of France|departments]]. The area became a centre of [[royalist]] and Catholic resistance to the Revolution during the [[Chouannerie]]. During the [[Second French Empire|Second Empire]] conservative Catholic values were reasserted. When the Republic was reinstituted in 1871, there were rumours that Breton troops were mistrusted and mistreated at [[Camp Conlie]] during the [[Franco-Prussian War]] because of fears that they were a threat to the Republic.&lt;ref&gt;{{cite web|url=http://www.rennes.fr/fileadmin/user_upload/Telechargements/rennais/rn382/histoire.pdf |title=Rennes, guide histoire |format=PDF |date= |accessdate=3 May 2011}}&lt;/ref&gt;
+
+In the 19th century the [[Celtic Revival]] led to the foundation of the [[Breton Regionalist Union]] (URB) and later to independence movements linked to [[Ireland|Irish]], [[Wales|Welsh]] and [[Scotland|Scottish]] independence parties in the UK and to [[pan-Celticism]]. There was a cultural renaissance in the 20th century associated with the movement [[Seiz Breur]].&lt;ref&gt;[[J. R. Rotté]], ''[[Seiz Breur|Ar Seiz Breur]]. Recherches et réalisations pour un art Breton moderne, 1923–1947'', 1987.&lt;/ref&gt; The alliance of the [[Breton National Party]] with [[Nazi Germany]] in World War II weakened Breton nationalism in the post-war period. In 1956, Brittany was legally reconstituted as the [[Brittany (administrative region)|Region of Brittany]], although the region excluded the ducal capital of [[Nantes]] and the [[Loire-Atlantique|surrounding area]]. Over this period the Breton language declined precipitously. Children were not allowed to speak Breton at school, and were punished by teachers if they did. Famously, signs in schools read: &quot;It is forbidden to speak Breton and to spit on the floor&quot; (&quot;Il est interdit de parler breton et de cracher par terre&quot;).&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=h99nAAAAMAAJ&amp;q=%22Il+est+interdit+de+parler+breton+et+de+cracher+par+terre%22&amp;dq=%22Il+est+interdit+de+parler+breton+et+de+cracher+par+terre%22&amp;ei=BcJMS8PWMILmzASN-dn2Cw&amp;cd=2 |title=Annales de Bretagne et des pays de l ... – Google Books |publisher=Google Books |date=19 June 2008 |accessdate=3 May 2011}}&lt;/ref&gt; As a result, a generation of native Breton speakers were made to feel ashamed of their language and avoided speaking it or teaching it to their children. These factors contributed to the decline of Breton. Nevertheless Brittany retained its cultural distinctiveness.
+
+==Sights==
+[[File:Kermario-Mitte und -West.jpg|thumb|Megaliths at [[Carnac]].]]
+[[File:Castle-Vitre-France3.jpg|thumb|[[Vitré, Ille-et-Vilaine|Vitré]], old [[fortified town]].]]
+[[Image:CapFrehelLightHouse.jpg|thumb|[[Cap Fréhel]]]]
+Brittany is home to many [[megalith]]ic monuments which are scattered across the [[peninsula]]. The largest alignments are near Karnag/[[Carnac]]. The purpose of these monuments is still unknown, and many local people are reluctant to entertain speculation on the subject. 
+
+Brittany is also known for its [[calvary (sculpture)|calvary sculptures]], elaborately carved crucifixion scenes found at crossroads in villages and small towns, especially in Western Brittany.
+
+Besides its numerous intact [[manor house|manors]] and [[château]]x, Brittany also has several old [[fortified town]]s. The walled city of [[Saint-Malo]] (''Sant-Maloù''), a popular tourist attraction, is also an important [[seaport|port]] linking Brittany with England and the [[Channel Islands]]. It was the birthplace of the historian [[Louis Duchesne]], the acclaimed author [[François-René de Chateaubriand|Chateaubriand]], the corsair [[Robert Surcouf|Surcouf]] and the explorer [[Jacques Cartier]]. The town of [[Roscoff]] (''Rosko'') is served by ferry links with England and [[Ireland]].
+
+Significant urban centres include:
+:* [[Nantes]] (Gallo: ''Naunnt'', Breton: ''Naoned'') : 282,853 inhabitants in the commune (2006), 804,833 in the urban area.
+:* [[Rennes]] (Gallo: ''Resnn'', Breton: ''Roazhon'') : 209,613 inhabitants in the commune (2006), 521,188 in the urban area.
+:* [[Brest, France|Brest]] (Breton ''Brest'') : 148,316 inhabitants in the commune (2006), 300,000 in the urban area.
+:* [[Saint-Nazaire]] (Gallo: ''Saint-Nazère'', Breton: ''Sant-Nazer'') : 71,373 inhabitants in the commune (2006); located in the urban area of Nantes.
+:* [[Lorient]] (Breton: ''an Oriant'') : 58,547 inhabitants in the commune (2006), 190,000 in the urban area.
+:* [[Quimper, Finistère|Quimper]] (Breton: ''Kemper'') : 64,900 inhabitants in the commune (2006).
+:* [[Vannes]] (Breton: ''Gwened'', Gallo: ''Vann'') : 53,079 inhabitants in the commune (2006), 132,880 in the urban area.
+:* [[Saint-Brieuc]] (Gallo: ''Saint-Bérieu'', Breton: ''Sant-Brieg'') : 46,437 inhabitants in the commune (2006), 121,237 in the urban area (2005).
+:* [[Saint-Malo]] (Gallo: ''Saent-Malô'', Breton: ''Sant-Maloù'') : 52,737 inhabitants in the commune (2007), 81,962 in the urban area.
+:* [[Redon, Ille-et-Vilaine|Redon]] (Gallo: ''Rdon'', Breton: ''Redon'') : 9,601 inhabitants in the commune (2006), 52,758 in the urban area.
+
+The island of [[Île d'Ouessant|Ushant]] (Breton: ''Enez Eusa'', French: ''Ouessant'') is the north-westernmost point of Brittany and France, and marks the entrance to the English Channel. Other islands off the coast of Brittany include:
+:*[[Bréhat]] ''enez Vriad''
+:*[[Île de Batz|Batz]] ''enez Vaz''
+:*[[Molène]] ''Molenez''
+:*[[Île de Sein|Sein]] ''enez Sun''
+:*[[Glénan islands]] ''inizi Glenan''
+:*[[Groix]] ''enez Groe''
+:*[[Belle Île]] ''ar Gerveur''
+:*[[Houat]] ''Houad''
+:*[[Hoëdic]] ''Edig''
+:*[[Île-aux-Moines]] ''Enizenac'h''
+:*[[Île-d'Arz]] ''an Arzh''
+&lt;br /&gt;
+The coast at Brittany is unusual due to its colouring. The [[Côte de Granit Rose]] (pink granite coast) is located in the Côtes d'Armor department of Brittany. It stretches for more than {{convert|30|km|mi}} from [[Plestin-les-Greves]] to [[Louannec]] and is one of the outstanding coastlines of Europe. This special pink rock is very rare and can be found in only three other places in the world, [[Ontario, Canada]], Corsica and China.&lt;ref&gt;{{cite web|url=http://www.frenchconnections.co.uk/en/guide/miniguidepage/150687-cote-de-granit-ros%C3%A9---brittany |title=Cote de Granit Rosé (pink granite coast) |publisher=Frenchconnections.co.uk |accessdate=6 February 2009}}&lt;/ref&gt;
+
+The landscape has inspired artists, including [[Paul Signac]], [[Marc Chagall]], [[Raymond Wintz]] and his wife Renee Carpentier Wintz, who both painted coastal and village scenes. [[Paul Gauguin]] and his famous [[School of Pont-Aven]] in the [[Finistère]] department, Brittany also painted many village scenes.
+
+==Festivals==
+[[File:FIL2009-010 KevrennAlre.jpg|thumb|right|The Breton musical group ''Kevrenn Alre'' at the [[Festival Interceltique de Lorient]]]]
+Brittany has a vibrant calendar of festivals and events. Several are of course maritime themed while others reflect Brittany’s lively music heritage or the region’s diverse culture.
+Traditional Breton festivals, ''fest noz'' in Breton, regularly take place in towns and villages throughout Brittany and include local music and dancing. Brittany also hosts some of France’s biggest contemporary music festivals.
+
+'''Cultural festivals'''
+* Festival de Cornouaille: July (Quimper, Finistère)
+A long-established festival that showcases Brittany’s cultural diversity.
+
+* Les Filets Bleus: August ([[Concarneau]], Finistère)
+This long-standing festival celebrates fishing traditions in the coastal town of Concarneau.
+
+* [[Festival Interceltique de Lorient]]: August (Lorient, Morbihan)
+An internationally renowned festival that celebrates Celtic traditions.
+
+* Festival du Film Britannique: October ([[Dinard]], Côtes-d’Armor)
+This British film festival screens previews of British films in France.
+
+'''Music festivals'''
+* [[Art Rock]]: May (Saint-Brieuc, Côtes d'Armor)
+Pop, rock and electro festival.
+
+* [[Vieilles Charrues Festival|Vieilles Charrues]]: July ([[Carhaix]], Finistère)
+This music festival is the Breton equivalent of [[Glastonbury Festival|Glastonbury]] in the UK.
+
+* Festival du Bout du Monde: August ([[Crozon]], Finistère)
+This world music festival
+
+* Astropolis: August (Brest, Finistère)
+A prominent electro and techno festival.
+
+* [[La Route du Rock]]: August ([[St-Malo]], Ille-et-Vilaine)
+Pop and rock, often with an Anglo-Saxon flavour.
+
+* [[Rencontres Trans Musicales|Les Transmusicales]]: December (Rennes, Ille-et-Vilaine)
+Known for showcasing brand new acts : Nirvana and Portishead did some of their early gigs at this festival.
+
+'''Maritime festivals'''
+* Fêtes Maritimes de Brest: July (Brest, Finistère)
+This sailing event takes place every 4 years (the next one is in 2012).
+
+* [[Route du Rhum|La Route du Rhum]]: November (St-Malo, Ille-et-Vilaine)
+This transatlantic single-handed yacht race takes place every 4 years (the next one is in 2014).
+
+==Regional languages==
+{{main|Breton language|Gallo language}}
+[[Image:Breton dialectesiji2009.gif|thumb|left|[[Lower Brittany]] (in colours), where the Breton language is traditionally spoken and [[Upper Brittany]] (in shades of grey), where the Gallo language is traditionally spoken. The changing shades indicate the advance of Gallo and French, and retreat of Breton from AD900.]] [[Image:Road signs bilingual Breton in Quimper.jpg|thumb|right|Bilingual road signs can be seen in traditional Breton-speaking areas.]]
+French, the only [[official language]] of the French Republic, is today spoken throughout Brittany. The two [[regional language]]s are supported by the regional authorities within the constitutional limits: [[Breton language|Breton]], strongest in the west but to be seen all over Brittany, is a [[Celtic language]] most closely related to [[Cornish language|Cornish]] and [[Welsh language|Welsh]]. [[Gallo language|Gallo]], which is spoken in the east, is one of the romance [[Langues d'oïl]].
+
+Breton was traditionally spoken in the west ({{lang-br|[[Breizh-Izel]]}}, or [[Lower Brittany]]), and Gallo in the east ({{lang-fr|pays Gallo}}, {{lang-br|Breizh Uhel}}, [[Gallo language|Gallo]]: ''Haùtt-Bertaèyn'', or [[Upper Brittany]]). The dividing line stretched from [[Plouha]] on the north coast to a point to the south east of [[Vannes]]. French had, however, long been the main language of the towns. The Breton-speaking area once covered territory much farther east than its current distribution.
+
+Since the 13th century, long before the union of Brittany and France, the main administrative language of the Duchy of Brittany was French, and previously it was Latin. Breton (in the West) and Gallo (in the East) remained the two languages of the rural population of Brittany, but since the [[Middle Ages]] the [[bourgeoisie]], the [[nobility]], and the higher [[clergy]] spoke French. Government policies in the 19th and 20th centuries, which forbade the speaking of Breton in schools, along with the demands of education, pushed many non-French speakers into adopting the French language. Nevertheless, until the 1960s Breton was spoken and understood by most of the inhabitants of western Brittany.
+
+In the Middle Ages, Gallo gradually expanded into formerly Breton-speaking areas. Now restricted to a much reduced territory in the east of Brittany, Gallo finds itself under pressure from the dominant [[Francophone]] culture. It is also felt by some to be threatened by the Breton [[language revival]], which is gaining ground in territories that were not previously part of the main Breton-speaking area.
+
+''[[Diwan (school)|Diwan]]'' (&quot;seed&quot;) schools, where classes are taught in Breton by the [[language immersion|immersion method]], play an important part in the revival of the Breton language. These schools are privately funded, as they receive no French central government support. The issue of whether they should be funded by the State has long been, and remains, controversial. Some bilingual classes are also provided in ordinary schools.{{citation needed|date=January 2011}}
+
+Bilingual (Breton and French) road signs may be seen in some areas, especially in the traditional Breton-speaking area of [[Lower Brittany]]. Signage in Gallo is much rarer.
+
+Some villages have received an influx of English-speaking immigrants and [[second-home]] owners, adding to the linguistic diversity.
+
+'''Be Breizh''': Breizh is the Breton word for Brittany and given that the Bretons are particularly proud of their roots, you will see the word – or simply the letters BZH – in evidence throughout the region. Along with the black and white Breton flag (the Gwenn Ha Du) and the triskell, you will see these symbols of Breton identity [[List_of_international_vehicle_registration_codes#Notes|on cars]], t-shirts and shop fronts. In 2011, the regional tourist board adopted the phrase ‘Be Breizh’ to sum up this unique Breton spirit.
+
+==Religion==
+[[File:Bretagne Finistere StJeanTrolimon 11032.jpg|thumb|Sculpted &quot;calvaries&quot; can be found in many villages.]][[File:Bretagne Finistere Bodilis1 tango7174.jpg|thumb|right|The Notre-Dame church in [[Bodilis]], Finistère]] While Christianization may have occurred during Roman occupation, the first recorded Christian missionaries came to the region from [[Wales]] and are known as the &quot;Seven founder saints&quot;:
+
+* [[Paul Aurelian|Paol Aoreliann]], at [[Saint-Pol-de-Léon]] (Breton: ''Kastell-Paol''),
+* [[Tudwal]], at [[Tréguier]] (Breton: ''Landreger''),
+* [[Brioc|Brieg]], at [[Saint-Brieuc]] (Breton: ''Sant-Brieg'', Gallo: ''Saent-Berioec''),
+* [[Malo (saint)|Maloù]], at [[Saint-Malo]] (Breton: ''Sant-Maloù'', Gallo: ''Saent-Malô''),
+* [[Samson of Dol|Samsun of Dol]], at [[Dol-de-Bretagne]] (Breton: ''Dol'', Gallo: ''Dóu''),
+* [[Padarn]], at [[Vannes]] (Breton: ''Gwened''),
+* [[Corentin of Quimper|Kaourintin]], at [[Quimper, Finistère|Quimper]] (Breton: ''Kemper'').
+
+Other notable early evangelizers are [[Gildas]] and the Irish saint [[Columbanus]]. With more than 300 &quot;[[saint]]s&quot; (only a few recognised by the Catholic Church), the region is strongly Catholic. Since the 19th century at least, Brittany has been known as one of the most devoutly Catholic regions in France, in contrast to many other more secularised areas (see &quot;[[Julian Maunoir|Bl. Julien Maunoir]]&quot;). The proportion of students attending Catholic private schools is the highest in France. As in other Celtic regions, the legacy of [[Celtic Christianity]] has left a rich tradition of local saints and monastic communities, often commemorated in place names beginning ''Lan'', ''Lam'', ''Plou'' or ''Lok''. The [[patron saint]] of Brittany is [[Saint Anne]], the Virgin's mother. But the most famous saint is Saint [[Ivo of Kermartin]] ('saint Yves' in French, 'sant Erwan' in Breton), a 13th century priest who devoted his life to the poor.
+
+Once a year, believers go on a &quot;[[Pardon (ceremony)|Pardon]]&quot;, the saint's [[feast day]] of the parish. It often begins with a procession followed by a mass in honour of the saint. There is always a secular side, with some food and craft stalls. The three most famous Pardons are:
+* from Sainte-Anne d'Auray/Santez-Anna-Wened, where a poor farmer in the 17th century explained how the saint had ordered him to build a chapel in her honour.
+* from [[Tréguier]]/Landreger, in honour of St Yves, the patron saint of the judges, advocates, and any profession involved in justice.
+* from [[Locronan]]/Lokorn, in honour of St [[Ronan of Locronan|Ronan]], with a ''[[troménie]]'' (a procession, 12&amp;nbsp;km-long) and numerous people in traditional costume (Locronan is also very close to a more known city [[Douarnenez]] which used to be the very famous rendez-vous point for all sailers in the world every 4 years).
+
+There is a very old [[pilgrimage]] called the ''[[Tro Breizh]]'' (tour of Brittany), where the pilgrims walk around Brittany from the grave of one of the seven founder saints to another. Historically, the pilgrimage was made in one trip (a total distance of around 600&amp;nbsp;km) for all seven saints. Nowadays, however, pilgrims complete the circuit over the course of several years. In 2002, the Tro Breizh included a special pilgrimage to [[Wales]], symbolically making the reverse journey of the Welshmen Sant Paol, Sant Brieg, and Sant Samzun. It is believed that whoever does not make the pilgrimage at least once in his lifetime will be condemned to make it after his death, advancing only by the length of his coffin each seven years.&lt;ref&gt;''Bretagne: poems'' (in French), by Amand Guérin,
+Published by P. Masgana, 1842: page 238&lt;/ref&gt;
+
+Many distinctive traditions and customs have also been preserved in Brittany. The most powerful folk figure is the [[Ankou]] or the &quot;Reaper of Death&quot;. Sometimes a skeleton wrapped in a shroud with the Breton flat hat, sometimes described as a real human being (the last dead of the year, devoted to bring the dead to Death), he makes his journeys by night carrying an upturned scythe which he throws before him to reap his harvest. Sometimes he is on foot but mostly he travels with a cart, the ''Karrig an Ankou'', drawn by two oxen and a lean horse. Two servants dressed in the same shroud and hat as the Ankou pile the dead into the cart, and to hear it creaking at night means you have little time left to live.&lt;ref&gt;[[Anatole le Braz]], ''La Legende de la Mort'', BiblioBazaar reprint, LLC, 2009, pp. 430ff.&lt;/ref&gt;
+
+==Breton music==
+{{main|Music of Brittany}}
+Brittany is an area of strong [[Celts|Celtic]] heritage, rich in its cultural heritage. Though long under the control of France and influenced by French traditions, Brittany has retained and, since the early 1970s, revived its own folk music, modernising and adapting it into folk rock and other fusion genres (see, for example, [[Alan Stivell]], [[Dan Ar Braz]], and [[Red Cardell]]).
+
+==Gastronomy==
+[[File:Coreff-pression-brune-et-ambree.jpg|thumb|right|150px|A Coreff [[porter (beer)|porter]] and a Coreff [[pale ale]].]]
+[[File:Galette kichijoji.jpg‎|thumb|right|150px|A Galette with savory stuffing.]] 
+
+Although some white wine is produced near the [[Loire River|Loire]], the traditional drinks of Brittany are:
+* [[cider]] ({{lang-br|sistr or chistr}}) – Brittany is the second largest cider-producing region in France;&lt;ref&gt;{{cite web|url=http://servijer.net/mediaoueg/Le-Cidre |title=Le Cidre – Mediaoueg , Ar Vediaoueg – La Médiathèque |publisher=Servijer.net |date= |accessdate=3 May 2011}}&lt;/ref&gt; Traditionally served in a ceramic cup resembling an English Tea cup (&quot;bolennad&quot; in Breton, &quot;bolée&quot; in French).
+*beer ({{lang-br|bier}}) – Brittany has a long beer brewing tradition, tracing its roots back to the seventeenth century; Young artisanal brewers are keeping a variety of beer types alive,&lt;ref&gt;{{cite web|url=http://www.bierbreizh.info/ |title=bierbreizh – Accueil |publisher=Bierbreizh.info |date= |accessdate=3 May 2011}}&lt;/ref&gt; such as ''Coreff de Morlaix'', ''Tri Martolod'' and ''Britt'';
+* a sort of [[mead]] made from wild honey called ''[[chouchen]]n'';
+* an apple [[eau de vie]] called ''lambig''.
+
+Historically Brittany was a beer-producing region. However, as wine was increasingly imported from other regions of France, beer drinking and production slowly came to an end in the early to mid-20th century. In the 1970s, due to a regional comeback, new breweries started to open and there are now about 20 of them. [[Whisky]] is also produced by a handful of distilleries with excellent results, such as ''Eddu'' distillery at Plomelin near Quimper, which elaborates a real and successful creation using buckwheat, ''Glann ar Mor'' distillery which makes an un-peated Single Malt, as well as a peated expression named ''Kornog''. Another recent drink is ''[[kir (cocktail)|kir]] Breton'' ([[crème de cassis]] and cider) which may be served as an [[apéritif]]. Tourists often try a mix of bread and red wine.
+
+Surrounded by the sea, Brittany offers a wide range of fresh seafood and fish, especially [[mussel]]s and [[oyster]]s. Among the seafood specialities is a fish stew called [[cotriade]].
+
+;Galettes
+Large, thin [[pancakes]] made from [[buckwheat]] flour (blé noir) are eaten with ham, eggs and other savoury fillings. They are made with plain buckwheat flour and water in Eastern Brittany and called ''[[galette]]s'' (Breton: ''galetes''). La Galette Saucisse, a hot grilled pure pork Breton sausage wrapped in a cold galette, is the &quot;fast food&quot; of Eastern Brittany, sold from road side stands, and served at every occasion from football matches to the local school fête.&lt;ref&gt;{{cite web|url=http://fr.wikipedia.org/wiki/Galette_saucisse |title=Galette saucisse – Wikipédia |language={{fr icon}} |publisher=Fr.wikipedia.org |date=25 April 2011 |accessdate=3 May 2011}}&lt;/ref&gt;
+In the western parts of Brittany buckwheat pancakes are made with eggs and called ''[[crêpe]]s de blé noir'' (Breton: ''krampouezh''). Galettes are often served with a cup of cider, but in Brittany they should traditionally be accompanied by Breton [[buttermilk]] called ''lait ribot'' (Breton: ''laezh-ribod''). Brittany also has a dish similar to the [[pot-au-feu]] known as the [[Kig ha farz]], which consists of stewed pork or beef with [[buckwheat]] dumplings.
+
+Thin crêpes made from wheat flour are eaten for dessert or for breakfast. They may be served cold with local butter. Other [[pastry|pastries]], such as ''[[kouign amann]]'' (&quot;butter cake&quot; in Breton) made from bread dough, butter and sugar, or ''[[Far Breton|far]]'', a sort of sweet [[Yorkshire pudding]], or ''[[clafoutis]]'' with prunes, are traditional.
+
+==Climate==
+Located on the west coast of France, Brittany has a warm, temperate climate. Rainfall occurs regularly – which has helped keep its [[countryside]] green and wooded, but sunny, cloudless days are also common. The climate is similar to [[Cornwall]].
+
+In general, Brittany has a moderate climate during both summer and winter. In the summer months temperatures in the region can reach {{convert|30|°C|°F|0|lk=on}}, yet the climate remains comfortable, especially when compared to parts of France south of the [[Loire River|Loire]]. In Brittany a common expression and response to people complaining about the rain is ''&quot;En Bretagne, il ne pleut que sur les cons&quot;'', which literally translates as &quot;In Brittany, it only rains on the idiots&quot;, and should be understood as if one is not pleased with Brittany, he should leave it.
+
+Brittany's most popular summer resorts are on the south coast ([[La Baule-Escoublac|La Baule]], [[Belle Île]], [[Gulf of Morbihan]]), although the wilder and more exposed north coast (the Côte de granite rose, [[Perros-Guirec]], etc.) also attracts summer tourists.
+
+==Transport==
+[[File:Pont aven plymouth.jpg|thumb|right|MV ''Pont-Aven'', the flagship that serves the routes connecting Brittany to England and [[Ireland]]]]Airports in Brittany serving destinations in France, Great Britain and [[Ireland]] include [[Brest Bretagne Airport|Brest]], [[Dinard - Pleurtuit - Saint-Malo Airport|Saint-Malo]], [[Lorient South Brittany Airport|Lorient]] and [[Rennes - Saint-Jacques Airport|Rennes]]. Flights between Brittany and the [[Channel Islands]] are served by [[Saint-Brieuc - Armor Airport|Saint-Brieuc]] airport. Several cities in Great Britain and Ireland are also served from [[Nantes Atlantique Airport|Nantes]], Loire-Atlantique department and former capital of the historic province of Brittany. The main airlines include, among others, [[Ryanair]], [[Flybe]], [[Aer Arann]], [[Aer Lingus]], [[Air France]] and [[EasyJet]].
+Others smaller airport operates domestic flights in [[Quimper - Cornouaille Airport|Quimper]], and [[Lannion - Côte de Granit Airport|Lannion]]
+
+[[TER Bretagne]] is the regional train that operates in Brittany and the [[TGV]] train services link the region with cities such as Paris, [[Lyon]], [[Marseille]], and [[Lille]] in France. In addition there are ferry services that take passengers, vehicles and freight to Ireland, England and the Channel Islands.
+
+[[Brittany Ferries]] operates the following regular services:
+*[[Plymouth]]-[[Roscoff]] (''Armorique'', ''Pont-Aven'', certain winter sailings operated by ''Bretagne'')
+*[[Portsmouth]]-[[St Malo]] (''Bretagne'' with winter service operated by ''Pont-Aven'')
+*[[Roscoff]]-[[Cork (city)|Cork]] (''Pont-Aven'', occasionally ''Bretagne'')
+
+Irish Ferries operates the following routes:
+*[[Rosslare Europort|Rosslare]]-[[Roscoff]]
+
+==Image gallery==
+&lt;center&gt;&lt;gallery&gt;
+File:Parlement de Bretagne (fleurs)-2006.jpg|[[Parlement of Brittany]] in [[Rennes]]
+File:Bretagne Morbihan Locmariaquer 14011.jpg|[[Neolithic]] complex at [[Locmariaquer]], Morbihan
+File:Nantes - château.jpg|[[Castle of the Dukes of Brittany]] in [[Nantes]]
+File:Phare de Ploumanac'h 41184.jpg|[[Perros-Guirec|The Ploumanac'h Lighthouse]]
+File:Bagad Arduinn Sedan 02.jpg|The [[Bagad]] Arduinn
+File:Lancieux - Moulin 04.2007.jpg|The Windmill at [[Lancieux]]
+File:Rennes Place Rallier du Baty.JPG|Timber Framed houses at Place Rallier du Baty in Rennes
+File:TDP 29 br.jpg|''Les Tas de Pois'' off the Pointe de Penhir in [[Camaret-sur-Mer]]
+&lt;/gallery&gt;&lt;/center&gt;
+
+{{portal|Geography|&lt;!-- Eurasia --&gt;|Europe|&lt;!-- Western Europe --&gt;|France|Brittany|Celts}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{commons|Bretagne|Brittany}}
+{{Wikisource1911Enc|Brittany}}
+{{InterWiki|code=br|Breton}}
+&lt;!-- please keep this link: Dmoz page holds a Wikipedia back link --&gt;
+*{{ODP|Regional/Europe/France/Regions/Brittany|Brittany}}
+*[http://www.brittanytourism.com/ The official site for Brittany Tourism – Brittany Regional Tourist Board]
+*[http://www.breizh.net/identity/ Personelezh Breizh e saozneg – Breton identity]
+*[http://westernfrancetouristboard.com/brittany.html Western France Tourist Board] Brittany tourism information
+*[http://www.bretagne.com]
+
+{{Celtic nations}}
+{{Historic Provinces of France}}
+
+{{coord|48|00|N|3|00|W|region:FR_type:adm1st_source:kolossus-cawiki|display=title}}
+
+[[Category:Brittany|*]]
+[[Category:Celtic culture]]
+[[Category:Celtic nations]]
+
+{{Link FA|ast}}
+{{Link FA|eu}}
+
+[[an:Bretanya (rechión historica)]]
+[[frp:Bretagne]]
+[[ast:Bretaña (nación celta)]]
+[[be-x-old:Брэтанія]]
+[[br:Breizh]]
+[[ca:Bretanya]]
+[[cs:Bretaňský poloostrov]]
+[[cy:Llydaw]]
+[[et:Bretagne'i poolsaar]]
+[[es:Bretaña]]
+[[eo:Bretonio]]
+[[eu:Bretainia]]
+[[fa:بروتاین]]
+[[fr:Bretagne]]
+[[gv:Yn Vritaan (çheer)]]
+[[gd:A' Bhreatainn Bheag]]
+[[gl:Bretaña (histórica)]]
+[[ko:브르타뉴 반도]]
+[[ia:Britannia]]
+[[ka:ბრეტანი (ისტორიული მხარე)]]
+[[kk:Бретан түбегі]]
+[[kw:Breten Vian]]
+[[mk:Бретања]]
+[[xmf:ბრეტანი (ისტორიული აკანი)]]
+[[nl:Bretagne (schiereiland)]]
+[[ja:ブルターニュ半島]]
+[[no:Bretagne (historisk region)]]
+[[oc:Bretanha (istorica)]]
+[[ru:Бретань (историческая область)]]
+[[sco:Breetany]]
+[[sl:Bretanija]]
+[[ta:பிரித்தானி]]
+[[tr:Breton]]
+[[uk:Бретань (історична область)]]
+[[zh:布列塔尼半岛]]</text>
+      <sha1>k46aqxsrqc0rb5zd8vbf7pcb1foe8qs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

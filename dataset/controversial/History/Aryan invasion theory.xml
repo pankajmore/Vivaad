@@ -1,0 +1,75 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aryan invasion theory</title>
+    <ns>0</ns>
+    <id>6454037</id>
+    <revision>
+      <id>511631598</id>
+      <parentid>511630866</parentid>
+      <timestamp>2012-09-10T03:02:49Z</timestamp>
+      <contributor>
+        <username>Riley Huntley</username>
+        <id>16130333</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted unconstructive edit(s) by [[Special:Contributions/99.50.238.176|99.50.238.176]] 
+Am I wrong? [[User_talk:Riley_Huntley|Tell me!]] Thanks, Riley Huntley.</comment>
+      <text xml:space="preserve" bytes="594">The term '''Aryan invasion theory''' may refer to
+*postulated migrational and controversial scenarios of prehistoric [[Indo-Aryan migration]] 
+*in 19th and early 20th century racialism:
+** [[Historical definitions of races in India]]
+** [[Aryan race]]
+*in late 20th century:
+**[[Out of India theory]]
+**[[Indigenous Aryans]]
+
+==See also==
+*[[Indo-European studies]]
+*[[Historiography and nationalism]]
+
+{{disambig}}
+
+[[fr:Théorie de l'invasion aryenne]]
+[[nl:Arische invasietheorie]]
+[[ru:Арийское завоевание]]
+[[sv:Antikens och forntidens Indien#Den ariska invasionsteorin]]</text>
+      <sha1>ecbjjsfd1h1m9sya1c3q24pj24w1c36</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

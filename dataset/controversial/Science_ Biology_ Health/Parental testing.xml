@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Parental testing</title>
+    <ns>0</ns>
+    <id>235169</id>
+    <revision>
+      <id>517391112</id>
+      <parentid>512020357</parentid>
+      <timestamp>2012-10-12T13:15:10Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:CHECKWIKI]] error 61 fix, References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8459)</comment>
+      <text xml:space="preserve" bytes="10084">'''Parental testing''' is the use of [[genetic fingerprinting]] to determine whether two individuals have a biological parent–child relationship. A paternity test establishes genetic proof whether a man is the biological father of an individual, and a maternity test establishes whether a woman is the biological mother of an individual.  Though genetic testing is the most reliable standard, older methods also exist, including [[blood type|ABO blood group typing]], analysis of various other [[protein]]s and [[enzyme]]s, or using [[human leukocyte antigen]] [[antigen]]s. The current techniques for paternal testing are using [[polymerase chain reaction]] (PCR) and [[restriction fragment length polymorphism]]. Paternity testing can now also be performed while the woman is still pregnant from a blood draw.&lt;ref&gt;[http://www.nejm.org/doi/full/10.1056/NEJMc1113044 &quot;A Noninvasive Test to Determine Paternity in Pregnancy&quot; New England Journal of Medicine May 3, 2012]&lt;/ref&gt;&lt;ref&gt;[http://www.nytimes.com/2012/06/20/health/paternity-blood-tests-that-work-early-in-a-pregnancy.html?pagewanted=all &quot;Paternity Blood Tests That Work Early in a Pregnancy&quot; New York Times June 20, 2012]&lt;/ref&gt;
+DNA testing is currently the most advanced and accurate technology to determine parentage. In a DNA parentage test, the result (called the 'probability of parentage)&lt;ref&gt;[http://bioforensics.com/conference/Paternity/ &quot;Probability of Paternity&quot; Dr. Ron Ostrowski, UNC Charlotte]&lt;/ref&gt; is 0% when the alleged parent is not biologically related to the child and the probability of parentage is typically 99.99% when the alleged parent is biologically related to the child. However, while almost all individuals have a single and distinct set of genes, rare individuals, known as &quot;[[chimera (genetics)|chimeras]]&quot;, have at least two different sets of genes. There have been several cases of DNA profiling that falsely &quot;proved&quot; that a mother was unrelated to her children.&lt;ref&gt;{{cite web|url=http://abcnews.go.com/Primetime/story?id=2315693 |title=Two Women Don't Match Their Kids' DNA |publisher=Abcnews.go.com |date=2006-08-15 |accessdate=2010-04-03}}&lt;/ref&gt;
+
+==DNA profiling==
+{{main|DNA profiling}}
+The [[DNA]] of an individual is very nearly the same in each and every somatic (nonreproductive) [[cell (biology)|cell]]. [[Sexual reproduction]] brings the DNA of both parents together randomly to create a unique combination of genetic material in a new cell, so the genetic material of an individual is derived from the genetic material of both their parents in roughly equal amounts. This genetic material is known as the nuclear [[genome]] of the individual, because it is found in the [[Cell nucleus|nucleus]].
+
+Comparing the DNA sequence of an individual to that of another individual can show whether one of them was derived from the other. Specific sequences are usually looked at to see whether they were copied verbatim from one of the individual's genome to the other. If that was the case, then the genetic material of one individual could have been derived from that of the other (i.e., one is the parent of the other).  Besides the nuclear DNA in the nucleus, the [[mitochondria]] in the cells also have their own genetic material termed the [[mitochondrial genome]]. Mitochondrial DNA comes only from the mother, without any shuffling.
+
+Proving a relationship based on comparison of the mitochondrial genome is much easier than that based on the nuclear genome. However, testing the mitochondrial genome can prove only if two individuals are related by [[common descent]] through maternal lines only from a common ancestor and is, thus, of limited value (for instance, it could not be used to test for paternity).
+
+In testing the paternity of a male child, comparison of the [[Y chromosome]] can be used since it is passed directly from father to son.
+
+In the US, [[AABB]] has regulations for DNA paternity and family relationship testing, however, AABB-accreditation is not necessary. DNA test results are legally admissible if the collection and the processing follows a chain of custody.
+
+== History ==
+With [[PCR]] being developed between 1975 and 1980 and the first [[restriction enzyme]] isolated in 1970, highly accurate parental testing was not a possibility before 1970.
+
+== Legal evidence ==
+The DNA parentage test that follows strict [[chain of custody]] can generate legally admissible results that are used for child support, inheritance, social welfare benefits, immigration, or adoption purposes. To satisfy the chain-of-custody legal requirements, all tested parties have to be properly identified and their specimens collected by a third-party professional who is not related to any of the tested parties and has no interest in the outcome of the test.
+
+The [[Legal burden of proof|quantum of evidence]] needed is [[clear and convincing evidence]], that is, more evidence than an ordinary case in [[civil litigation]], but much less than beyond a [[reasonable doubt]] required to convict a defendant in a criminal case.
+
+In recent years, immigration authorities in various countries such as U.S., U.K., Canada, Australia, France, and others have been requesting immigration petitioners and beneficiaries in a family-based immigration case to voluntarily take the DNA parentage test when primary documents such as birth certificate to prove biological relationship are missing or inadequate.
+
+In the U.S., immigration applicants bear the responsibility of arranging and paying for DNA testing. The U.S. immigration authorities require that the DNA test, if pursued, be performed by one of the laboratories accredited by the [[AABB]] (formerly American Association of Blood Banks).
+
+The U.S. Department of State&lt;ref&gt;[http://travel.state.gov/visa/immigrants/info/info_1337.html DNA and Parentage Blood Testing]&lt;/ref&gt; and [[USCIS]]&lt;ref&gt;[http://www.uscis.gov/files/pressrelease/genetic_testing.pdf Genetic Relationship Testing]&lt;/ref&gt; provide information concerning the DNA parentage test request for immigration purposes.
+
+Although paternity tests are more common than maternity tests, there may be circumstances in which the biological mother of the child is unclear. Examples include cases of an [[adopted]] child attempting to reunify with his or her biological mother, potential [[Babies switched at birth|hospital mix-ups]], and [[in vitro fertilization]] where the laboratory may have implanted an unrelated embryo inside the mother.
+
+Other factors such as new laws regarding reproductive technologies using donated eggs and sperm and surrogate mothers can mean that the female giving birth is not necessarily the legal mother of the child. For example, in Canada, the federal Human Assisted Reproduction Act provides for the use of hired surrogate mothers. The legal mother of the child may, in fact, be the egg donor. Similar laws are in place in the United Kingdom and Australia.
+
+== Legal issues ==
+In the [[United Kingdom|UK]], there were no restrictions on paternity tests until the [[Human Tissue Act 2004]] came into force in September 2006.  Section 45 states that it is an offence to possess without appropriate consent any human bodily material with the intent of analyzing its DNA. Legally declared fathers have access to paternity testing services under the new regulations, provided the putative parental DNA being tested is their own.
+
+Tests are sometimes ordered by courts when proof of paternity is required. In the UK, the [[Ministry of Justice]] accredits bodies that can conduct this testing.  The [[Department of Health (United Kingdom)|Department of Health]] produced a voluntary code of practice on genetic paternity testing in 2001. This document is currently under review, and responsibility for it has been transferred to the [[Human Tissue Authority]].
+
+If parental testing is being submitted for legal purposes in the U.S. including immigration, testing must be ordered through a lab that has [[AABB]] accreditation for Relationship DNA testing. All accredited labs are listed on the AABB's website.&lt;ref&gt;[http://www.aabb.org/Content/Accreditation/Parentage_Testing_Accreditation_Program/AABB_Accredited_Parentage_Testing_Laboratories/]&lt;/ref&gt; In the state of New York, only legally admissible testing is allowed by law and requires either a physician prescription or court order. Labs must also have NYSDOH accreditation.
+
+==Reverse Paternity Testing==
+Reverse paternity determination is the ability to establish the biological father when the father of a person, or a suspect, is not available.  The test uses the STR [[alleles]] in mother and her child, other children and brothers of the alleged father and deduction of genetic constitution of the father by the basis of genetic laws to create a rough amalgamation.  The advantage of this knowledge is the ability to compare the father's DNA when a direct sample of the father is not available.  An episode of [[Solved (TV series)]] shows this test used to see if a blood sample matches with the victim of a kidnapping.
+
+==See also==
+*[[Paternity fraud]]
+*[[Mosaic (genetics)|Mosaicism]] and [[chimerism]], rare genetic conditions that can result in false negative results on DNA-based tests
+*[[Non-paternity event]]
+
+'''Genetic:'''
+* [[Heritability]]
+* [[List of Mendelian traits in humans]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.hta.gov.uk/_db/_documents/2006-07-04_Approved_by_Parliament_-_Code_of_Practice_1_-_Consent.pdf]: The HTA's code of practice on Consent
+* [http://www.uvm.edu/~biology/Classes/296D/23_Paternity.pdf] - www.UVM.com
+
+{{DEFAULTSORT:Parental Testing}}
+[[Category:Applied genetics]]
+[[Category:Family law]]
+[[Category:Parenting]]
+[[Category:Paternity|Testing]]
+
+[[cs:Paternitní test]]
+[[de:Abstammungsgutachten]]
+[[es:Prueba de paternidad]]
+[[fr:Test de paternité]]
+[[ko:친자검사]]
+[[it:Test di paternità]]
+[[he:בדיקת סמני DNA]]
+[[nl:Vaderschapsonderzoek]]
+[[pl:Badanie ojcostwa]]
+[[pt:Teste de paternidade]]
+[[fi:Isyystutkimus]]
+[[sv:Faderskapsundersökning]]
+[[uk:Тест на батьківство]]
+[[zh:亲子鉴定]]</text>
+      <sha1>66a7ghxq3v0uhikibsi4od5z3dy3seu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

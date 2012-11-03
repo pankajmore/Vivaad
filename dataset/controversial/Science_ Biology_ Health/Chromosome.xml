@@ -1,0 +1,495 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chromosome</title>
+    <ns>0</ns>
+    <id>6438</id>
+    <revision>
+      <id>520426989</id>
+      <parentid>520153783</parentid>
+      <timestamp>2012-10-29T13:55:56Z</timestamp>
+      <contributor>
+        <username>JYBot</username>
+        <id>16596343</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.1) (Robot: Adding [[tg:Хромосома]]</comment>
+      <text xml:space="preserve" bytes="45828">{{For|a non-technical introduction to the topic|Introduction to genetics}}
+[[File:Chromosome.svg|thumb|250px|Diagram of a replicated and condensed [[metaphase]] eukaryotic chromosome. (1) [[Chromatid]]&amp;nbsp;– one of the two identical parts of the chromosome after [[S phase]]. (2) [[Centromere]]&amp;nbsp;– the point where the two chromatids touch, and where the microtubules attach. (3) Short arm. (4) Long arm.]]
+A '''chromosome''' is an organized structure of [[DNA]] and [[protein]] found in [[Cell (biology)|cells]]. It is a single piece of coiled DNA containing many [[gene]]s, [[regulatory sequence|regulatory elements]] and other [[genetic sequence|nucleotide sequences]]. Chromosomes also contain DNA-bound proteins, which serve to package the DNA and control its functions.
+
+Chromosomes vary widely between different [[organism]]s. The DNA molecule may be circular or linear, and can be composed of 100,000 to over 3,750,000,000&lt;ref&gt;{{cite journal|author=Paux E, Sourdille P, Salse J, ''et al.''|title=A Physical Map of the 1-Gigabase Bread Wheat Chromosome 3B|journal=Science|volume=322|issue=5898|pages=101–104|year=2008|doi=10.1126/science.1161847 |pmid=18832645}}&lt;/ref&gt; &lt;ref&gt;{{cite journal|author=Pellicer J, Fay M F and Leitch I J|title=The largest eukaryotic genome of them all?|journal=Botanical Journal of the Linnean Society|volume=164|pages=10–15|year=2010|doi=10.1111/j.1095-8339.2010.01072.x}}&lt;/ref&gt; [[nucleotides]] in a long chain. Typically, [[eukaryote|eukaryotic]] cells (cells with nuclei) have large linear chromosomes and [[prokaryotic]] cells (cells without defined nuclei) have smaller circular chromosomes, although there are many exceptions to this rule. Also, cells may contain more than one type of chromosome; for example, [[mitochondria]] in most [[eukaryote]]s and [[chloroplast]]s in plants have their own small chromosomes.
+
+In eukaryotes, nuclear chromosomes are packaged by proteins into a condensed structure called [[chromatin]]. This allows the very long DNA molecules to fit into the [[cell nucleus]]. The structure of chromosomes and chromatin varies through the [[cell cycle]]. Chromosomes are the essential unit for cellular division and must be replicated, divided, and passed successfully to their daughter cells so as to ensure the genetic diversity and survival of their [[offspring|progeny]]. Chromosomes may exist as either duplicated or unduplicated. Unduplicated chromosomes are single linear strands, whereas duplicated chromosomes contain two identical copies (called [[chromatids]]) joined by a [[centromere]].
+
+Compaction of the duplicated chromosomes during [[mitosis]] and [[meiosis]] results in the classic four-arm structure (pictured to the right). Chromosomal recombination plays a vital role in genetic diversity. If these structures are manipulated incorrectly, through processes known as chromosomal instability and translocation, the cell may undergo [[mitotic catastrophe]] and die, or it may unexpectedly evade [[apoptosis]] leading to the progression of [[cancer]].
+
+In practice &quot;chromosome&quot; is a rather loosely defined term. In prokaryotes and [[virus]]es, the term [[genophore]] is more appropriate when no chromatin is present. However, a large body of work uses the term chromosome regardless of chromatin content. In prokaryotes, DNA is usually arranged as a loop, which is tightly coiled in on itself, sometimes accompanied by one or more smaller, circular DNA molecules called [[plasmid]]s. These small circular genomes are also found in mitochondria and chloroplasts, reflecting their bacterial origins. The simplest genophores are found in viruses: these DNA or [[RNA]] molecules are short linear or circular genophores that often lack structural proteins.{{Citation needed|date=February 2012}}{{explain}}
+
+The word ''chromosome'' comes from the [[Greek language|Greek]] {{lang|grc|χρῶμα}} (''chroma'', colour) and {{lang|grc|σῶμα}} (''soma'', body) due to their property of being very strongly stained by particular [[dye]]s.
+
+
+== History ==
+[[Image:Theodor boveri walter sutton.png|right|thumb|190px|[[Walter Sutton]] (left) and [[Theodor Boveri]] (right) independently developed the chromosome theory of inheritance in 1902.]]
+In a series of experiments beginning in the mid-1880s, [[Theodor Boveri]] gave the definitive demonstration that chromosomes are the [[Vector (molecular biology)|vector]]s of [[heredity]]. His two principles were the ''continuity'' of chromosomes and the ''individuality'' of chromosomes.{{Citation needed|date=April 2009}}{{explain}} It is the second of these principles that was so original.{{Citation needed|date=April 2009}} [[Wilhelm Roux]] suggested that each chromosome carries a different [[genetic load]]. Boveri was able to test and confirm this hypothesis. Aided by the rediscovery at the start of the 1900s of [[Gregor Mendel]]'s earlier work, Boveri was able to point out the connection between the rules of inheritance and the behaviour of the chromosomes. Boveri influenced two generations of American cytologists: [[Edmund Beecher Wilson]], [[Walter Sutton]] and [[Theophilus Painter]] were all influenced by Boveri (Wilson and Painter actually worked with him).
+
+In his famous textbook ''The Cell in Development and Heredity'', Wilson linked together the independent work of Boveri and Sutton (both around 1902) by naming the chromosome theory of inheritance the &quot;[[Boveri-Sutton Chromosome Theory|Sutton-Boveri Theory]]&quot; (the names are sometimes reversed).&lt;ref&gt;Wilson, E.B. (1925). ''The Cell in Development and Heredity'', Ed. 3. Macmillan, New York. p. 923.&lt;/ref&gt; [[Ernst Mayr]] remarks that the theory was hotly contested by some famous geneticists: [[William Bateson]], [[Wilhelm Johannsen]], [[Richard Goldschmidt]] and [[T.H. Morgan]], all of a rather dogmatic turn of mind. Eventually, complete proof came from chromosome maps in Morgan's own lab.&lt;ref&gt;Mayr, E. (1982). ''The growth of biological thought''. Harvard. p. 749.&lt;/ref&gt;
+
+==Prokaryotes==
+The prokaryotes&amp;nbsp;– [[bacteria]] and [[archaea]]&amp;nbsp;– typically have a single [[Circular bacterial chromosome|circular chromosome]], but many variations exist.&lt;ref&gt;{{cite journal|author=Thanbichler M, Shapiro L|title=Chromosome organization and segregation in bacteria|journal=J. Struct. Biol.|volume=156|issue=2|pages=292–303|year=2006|pmid=16860572|doi= 10.1016/j.jsb.2006.05.007}}&lt;/ref&gt; Most bacteria's chromosome can range in size from only 160,000 [[base pair]]s in the [[endosymbiont|endosymbiotic]] bacterium ''[[Candidatus Carsonella ruddii]]'',&lt;ref&gt;{{cite journal|author=Nakabachi A, Yamashita A, Toh H, Ishikawa H, Dunbar H, Moran N, Hattori M|title=The 160-kilobase genome of the bacterial endosymbiont Carsonella|journal=Science|volume=314|issue=5797|pages=267|year=2006|pmid=17038615|doi=10.1126/science.1134196}}&lt;/ref&gt; to 12,200,000 base pairs in the soil-dwelling bacterium ''[[Sorangium cellulosum]]''.&lt;ref&gt;{{cite journal|author=Pradella S, Hans A, Spröer C, Reichenbach H, Gerth K, Beyer S|title=Characterisation, genome size and genetic manipulation of the myxobacterium Sorangium cellulosum So ce56|journal=Arch Microbiol|volume=178|issue=6|pages=484–92|year=2002|pmid=12420170|doi= 10.1007/s00203-002-0479-2}}&lt;/ref&gt; [[Spirochaete]]s of the [[genus]] ''Borrelia'' are a notable exception to this arrangement, with bacteria such as ''[[Borrelia burgdorferi]]'', the cause of [[Lyme disease]], containing a single linear chromosome.&lt;ref&gt;{{cite journal|author=Hinnebusch J, Tilly K|title=Linear plasmids and chromosomes in bacteria|journal=Mol Microbiol|volume=10|issue=5 |pages=917–22 |year=1993|pmid = 7934868 |doi=10.1111/j.1365-2958.1993.tb00963.x}}&lt;/ref&gt;
+
+=== Structure in sequences ===
+Prokaryotic chromosomes have less sequence-based structure than eukaryotes. Bacteria typically have a single point (the [[origin of replication]]) from which replication starts, whereas some archaea contain multiple replication origins.&lt;ref&gt;{{cite journal |author=Kelman LM, Kelman Z|title=Multiple origins of replication in archaea|journal=Trends Microbiol.|volume=12|issue=9|pages= 399–401|year=2004|pmid=15337158|doi=10.1016/j.tim.2004.07.001}}&lt;/ref&gt; The genes in prokaryotes are often organized in [[operons]], and do not usually contain [[intron]]s, unlike eukaryotes.
+
+=== DNA packaging ===
+[[Prokaryote]]s do not possess nuclei. Instead, their DNA is organized into a structure called the [[nucleoid]].&lt;ref&gt;{{cite journal|author=Thanbichler M, Wang SC, Shapiro L|title=The bacterial nucleoid: a highly organized and dynamic structure|journal= J. Cell. Biochem.|volume=96|issue=3|pages=506–21|year=2005|pmid=15988757|doi=10.1002/jcb.20519}}&lt;/ref&gt; The nucleoid is a distinct structure and occupies a defined region of the bacterial cell. This structure is, however, dynamic and is maintained and remodeled by the actions of a range of histone-like proteins, which associate with the bacterial chromosome.&lt;ref&gt;{{cite journal|author= Sandman K, Pereira SL, Reeve JN|title=Diversity of prokaryotic chromosomal proteins and the origin of the nucleosome|journal=Cell. Mol. Life Sci.|volume=54|issue=12|pages=1350–64|year=1998|pmid=9893710|doi=10.1007/s000180050259}}&lt;/ref&gt; In [[archaea]], the DNA in chromosomes is even more organized, with the DNA packaged within structures similar to eukaryotic nucleosomes.&lt;ref&gt;{{cite journal|author=Sandman K, Reeve JN|title=Structure and functional relationships of archaeal and eukaryal histones and nucleosomes| doi=10.1007/s002039900122|journal=Arch. Microbiol.|volume=173|issue=3|pages=165–9|year=2000|pmid=10763747}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|author=Pereira SL, Grayling RA, Lurz R, Reeve JN|title=Archaeal nucleosomes|doi=10.1073/pnas.94.23.12633|journal=Proc. Natl. Acad. Sci. U.S.A.|volume=94|issue=23|pages=12633–7|year=1997|pmid=9356501|url=http://www.pnas.org/cgi/pmidlookup?view=long&amp;pmid=9356501|pmc=25063}}&lt;/ref&gt;
+
+Bacterial chromosomes tend to be tethered to the [[plasma membrane]] of the bacteria. In molecular biology application, this allows for its isolation from plasmid DNA by centrifugation of lysed bacteria and pelleting of the membranes (and the attached DNA).
+
+Prokaryotic chromosomes and plasmids are, like eukaryotic DNA, generally [[Mechanical properties of DNA#Supercoiled DNA|supercoiled]]. The DNA must first be released into its relaxed state for access for [[Transcription (genetics)|transcription]], regulation, and [[DNA replication|replication]].
+
+[[File:Chromatin Structures.png|thumb|center|1180px|'''Fig. 2:''' The major structures in DNA compaction; [[DNA]], the [[nucleosome]], the 10nm &quot;beads-on-a-string&quot; fibre, the 30nm fibre and the [[metaphase]] chromosome.]]
+
+== In eukaryotes ==
+{{See also|Eukaryotic chromosome fine structure}}
+[[Eukaryotes]] ([[cell (biology)|cells]] with nuclei such as those found in plants, yeast, and animals) possess multiple large linear chromosomes contained in the cell's nucleus. Each chromosome has one [[centromere]], with one or two arms projecting from the centromere, although, under most circumstances, these arms are not visible as such. In addition, most eukaryotes have a small circular [[mitochondria]]l [[Mitochondrial DNA|genome]], and some eukaryotes may have additional small circular or linear [[cytoplasm]]ic chromosomes.
+
+In the nuclear chromosomes of [[eukaryote]]s, the uncondensed DNA exists in a semi-ordered structure, where it is wrapped around [[histone]]s (structural [[protein]]s), forming a composite material called [[chromatin]].
+
+=== Chromatin ===
+{{Main|Chromatin}}
+Chromatin is the complex of DNA and protein found in the [[eukaryote|eukaryotic]] nucleus, which packages chromosomes. The structure of chromatin varies significantly between different stages of the [[cell cycle]], according to the requirements of the DNA.
+
+==== Interphase chromatin ====
+During [[interphase]] (the period of the [[cell cycle]] where the cell is not dividing), two types of [[chromatin]] can be distinguished:
+* [[Euchromatin]], which consists of DNA that is active, e.g., being expressed as protein.
+* [[Heterochromatin]], which consists of mostly inactive DNA. It seems to serve structural purposes during the chromosomal stages. Heterochromatin can be further distinguished into two types:
+** ''Constitutive heterochromatin'', which is never expressed. It is located around the centromere and usually contains [[Repeated sequence (DNA)|repetitive sequences]].
+** ''Facultative heterochromatin'', which is sometimes expressed.
+
+
+==== Metaphase chromatin and division ====
+{{see also|mitosis|meiosis}}
+&lt;!-- too many pictures! [[Image:ChickenChromosomesBMC Genomics5-56Fig4.jpg|thumb|200px|right|Chicken chromosomes during [[metaphase]], with highlighted [[locus (genetics)|genetic loci]]]] --&gt;
+[[File:HumanChromosomesChromomycinA3.jpg|thumb|200px|right|Human chromosomes during [[metaphase]]]]
+In the early stages of [[mitosis]] or [[meiosis]] (cell division), the chromatin strands become more and more condensed. They cease to function as accessible genetic material ([[Transcription (genetics)|transcription]] stops) and become a compact transportable form. This compact form makes the individual chromosomes visible, and they form the classic four arm structure, a pair of sister [[chromatids]] attached to each other at the [[centromere]]. The shorter arms are called ''p arms'' (from the [[French language|French]] ''petit'', small) and the longer arms are called ''q arms'' (''q'' follows ''p'' in the Latin alphabet; q-g &quot;grande&quot;). This is the only natural context in which individual chromosomes are visible with an optical [[microscope]].
+
+During mitosis, [[microtubule]]s grow from centrosomes located at opposite ends of the cell and also attach to the centromere at specialized structures called [[kinetochores]], one of which is present on each sister [[chromatid]]. A special DNA base sequence in the region of the kinetochores provides, along with special proteins, longer-lasting attachment in this region. The microtubules then pull the chromatids apart toward the centrosomes, so that each daughter cell inherits one set of chromatids. Once the cells have divided, the chromatids are uncoiled and DNA can again be transcribed. In spite of their appearance, chromosomes are structurally highly condensed, which enables these giant DNA structures to be contained within a cell nucleus (Fig. 2).
+
+=== Human chromosomes ===
+Chromosomes in humans can be divided into two types: autosomes and sex chromosomes. Certain genetic traits are linked to a person's sex and are passed on through the sex chromosomes. The autosomes contain the rest of the genetic hereditary information. All act in the same way during cell division. Human cells have 23 pairs of chromosomes (22 pairs of autosomes and one pair of sex chromosomes), giving a total of 46 per cell. In addition to these, human cells have many hundreds of copies of the [[mitochondrial genome]]. [[DNA sequencing|Sequencing]] of the human genome has provided a great deal of information about each of the chromosomes. Below is a table compiling statistics for the chromosomes, based on the [[Sanger Institute]]'s human genome information in the [[Vertebrate and Genome Annotation Project|Vertebrate Genome Annotation (VEGA) database]].&lt;ref&gt;[http://vega.sanger.ac.uk/Homo_sapiens/index.html Vega.sanger.ad.uk], all data in this table was derived from this database, November 11, 2008.&lt;/ref&gt; Number of genes is an estimate as it is in part based on [[gene prediction]]s. Total chromosome length is an estimate as well, based on the estimated size of unsequenced [[heterochromatin]] regions.
+
+[[File:Genes and base pairs on chromosomes.svg|frame|Estimated number of genes and base pairs (in mega base pairs) on each human chromosome]]
+
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:right&quot;
+|-
+! Chromosome !! [[Genes]] !! Total [[Nucleobase|base pairs]] !! Sequenced base pairs&lt;ref&gt;Sequenced percentages are based on fraction of euchromatin portion, as the [[Human Genome Project]] goals called for determination of only the [[euchromatin|euchromatic]] portion of the genome. [[Telomere]]s, [[centromere]]s, and other [[heterochromatin|heterochromatic]] regions have been left undetermined, as have a small number of unclonable gaps. See http://www.ncbi.nlm.nih.gov/genome/seq/ for more information on the Human Genome Project.&lt;/ref&gt;
+|-
+| [[Chromosome 1 (human)|1]] || 4,220 || 247,199,719 || 224,999,719
+|-
+| [[Chromosome 2 (human)|2]] || 1,491 || 242,751,149 || 237,712,649
+|-
+| [[Chromosome 3 (human)|3]] || 1,550 || 199,446,827 || 194,704,827
+|-
+| [[Chromosome 4 (human)|4]] || 446 || 191,263,063 || 187,297,063
+|-
+| [[Chromosome 5 (human)|5]] || 609 || 180,837,866 || 177,702,766
+|-
+| [[Chromosome 6 (human)|6]] || 2,281 || 170,896,993 || 167,273,993
+|-
+| [[Chromosome 7 (human)|7]] || 2,135 || 158,821,424 || 154,952,424
+|-
+| [[Chromosome 8 (human)|8]] || 1,106 || 146,274,826 || 142,612,826
+|-
+| [[Chromosome 9 (human)|9]] || 1,920 || 140,442,298 || 120,312,298
+|-
+| [[Chromosome 10 (human)|10]] || 1,793 || 135,374,737 || 131,624,737
+|-
+| [[Chromosome 11 (human)|11]] || 379 || 134,452,384 || 131,130,853
+|-
+| [[Chromosome 12 (human)|12]] || 1,430 || 132,289,534 || 130,303,534
+|-
+| [[Chromosome 13 (human)|13]] || 924 || 114,127,980 || 95,559,980
+|-
+| [[Chromosome 14 (human)|14]] || 1,347 || 106,360,585 || 88,290,585
+|-
+| [[Chromosome 15 (human)|15]] || 921 || 100,338,915 || 81,341,915
+|-
+| [[Chromosome 16 (human)|16]] || 909 || 88,822,254 || 78,884,754
+|-
+| [[Chromosome 17 (human)|17]] || 1,672 || 78,654,742 || 77,800,220
+|-
+| [[Chromosome 18 (human)|18]] || 519 || 76,117,153 || 74,656,155
+|-
+| [[Chromosome 19 (human)|19]] || 1,555 || 63,806,651 || 55,785,651
+|-
+| [[Chromosome 20 (human)|20]] || 1,008 || 62,435,965 || 59,505,254
+|-
+| [[Chromosome 21 (human)|21]] || 578 || 46,944,323 || 34,171,998
+|-
+| [[Chromosome 22 (human)|22]] || 1,092 || 49,528,953 || 34,893,953
+|-
+| [[X chromosome|X (sex chromosome)]] || 1,846 || 154,913,754 || 151,058,754
+|-
+| [[Y chromosome|Y (sex chromosome)]] || 454 || 57,741,652 || 25,121,652
+|-class=&quot;sortbottom&quot;
+! Total !! 32,185 || 3,079,843,747 || 2,857,698,560
+|}
+
+=== Evolution of eukaryotic chromosome ===
+{{Expand section|date=October 2012}}
+
+== Number of chromosomes in various organisms ==
+{{main|List of number of chromosomes of various organisms}}
+
+=== Eukaryotes ===
+These tables give the total number of chromosomes (including sex chromosomes) in a cell nucleus. For example, human cells are [[diploid]] and have 22 different types of [[autosome]], each present as two copies, and two [[sex chromosomes]]. This gives 46 chromosomes in total. Other organisms have more than two copies of their chromosomes, such as [[Common wheat|bread wheat]], which is ''hexaploid'' and has six copies of seven different chromosomes&amp;nbsp;– 42 chromosomes in total.
+{| border=&quot;0&quot;
+| STYLE=&quot;vertical-align: top&quot;|
+{| class=&quot;wikitable&quot; style=&quot;float:left; margin:1em 0 1em 1em&quot;
+|+ Chromosome numbers in some plants
+|-
+! Plant Species !! #
+|-
+| ''[[Arabidopsis thaliana]]'' (diploid)&lt;ref&gt;{{cite journal|author=Armstrong SJ, Jones GH|title=Meiotic cytology and chromosome behaviour in wild-type Arabidopsis thaliana|journal=J. Exp. Bot.|volume=54 |issue=380 |pages=1–10 |year=2003 |month=January |pmid=12456750 |url=http://jexbot.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=12456750 |doi=10.1093/jxb/54.380.1}}&lt;/ref&gt; || 10
+|-
+| [[Rye]] (diploid)&lt;ref&gt;{{cite journal|author=Gill BS, Kimber G|title=The Giemsa C-Banded Karyotype of Rye|journal=Proc. Natl. Acad. Sci. U.S.A.|volume=71|issue=4|pages=1247–9|year=1974|month=April|pmid=4133848|pmc=388202|doi=10.1073/pnas.71.4.1247}}&lt;/ref&gt; || 14
+|-
+| [[Maize]] (diploid or palaeotetraploid)&lt;ref&gt;{{cite journal|author=Kato A, Lamb JC, Birchler JA|title=Chromosome painting using repetitive DNA sequences as probes for somatic chromosome identification in maize |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=101 |issue=37 |pages=13554–9 |year=2004 |month=September |pmid=15342909 |pmc=518793 |doi=10.1073/pnas.0403659101 |url=http://www.pnas.org/cgi/pmidlookup?view=long&amp;pmid=15342909}}&lt;/ref&gt; || 20
+|-
+| [[Einkorn wheat]] (diploid)&lt;ref name=Dubcovsky&gt;{{cite journal |author=Dubcovsky J, Luo MC, Zhong GY, ''et al.'' |title=Genetic Map of Diploid Wheat, Triticum Monococcum L., and Its Comparison with Maps of Hordeum Vulgare L |journal=Genetics |volume=143 |issue=2 |pages=983–99 |year=1996 |pmid=8725244 |pmc=1207354}}&lt;/ref&gt; || 14
+|-
+| [[Durum wheat]] (tetraploid)&lt;ref name=Dubcovsky/&gt; || 28
+|-
+| [[Bread wheat]] (hexaploid)&lt;ref name=Dubcovsky/&gt; || 42
+|-
+| Cultivated tobacco (tetraploid)&lt;ref&gt;{{cite journal |author=Kenton A, Parokonny AS, Gleba YY, Bennett MD |title=Characterization of the Nicotiana tabacum L. genome by molecular cytogenetics |journal=Mol. Gen. Genet. |volume=240 |issue=2 |pages=159–69 |year=1993 |month=August |pmid=8355650 |doi=10.1007/BF00277053}}&lt;/ref&gt; || 48
+|-
+| [[Ophioglossum|Adder's Tongue Fern]] (diploid)&lt;ref&gt;{{cite journal |author=Leitch IJ, Soltis DE, Soltis PS, Bennett MD |title=Evolution of DNA amounts across land plants (embryophyta) |journal=Ann. Bot. |volume=95 |issue=1 |pages=207–17 |year=2005 |pmid=15596468 |url=http://aob.oxfordjournals.org/cgi/content/full/95/1/207 | doi = 10.1093/aob/mci014}}&lt;/ref&gt; || approx. 1,200
+|}
+| STYLE=&quot;vertical-align: top&quot;|
+{| class=&quot;wikitable&quot; style=&quot;float:left; margin:1em 0 1em 1em&quot;
+|+ Chromosome numbers (2n) in some animals
+|-
+! Species !! # !! Species !! #
+|-
+| [[Drosophila melanogaster|Common fruit fly]] || 8
+| [[Guinea Pig]]&lt;ref&gt;{{cite journal |author=Umeko Semba, Yasuko Umeda, Yoko Shibuya, Hiroaki Okabe, Sumio Tanase and Tetsuro Yamamoto |title=Primary structures of guinea pig high- and low-molecular-weight kininogens | doi = 10.1016/j.intimp.2004.06.003|journal=International Immunopharmacology |volume=4 |issue=10–11 |pages=1391–1400 |year=2004 |url=http://www.sciencedirect.com/science/article/B6W7N-4CX6PRC-1/2/97487fdf611a04e3c88690da9e6d853b |pmid=15313436}}&lt;/ref&gt;|| 64
+|-
+| [[Guppy]] (''poecilia reticulata'')&lt;ref&gt;{{cite web |url=http://fancyguppy.webs.com/genetics.htm |title=The Genetics of the Popular Aquarium Pet - Guppy Fish |accessdate=2009-12-06}}&lt;/ref&gt; || 46
+| [[Garden snail]]&lt;ref&gt;{{cite journal |author=Vitturi R, Libertini A, Sineo L, ''et al.'' |title=Cytogenetics of the land snails Cantareus aspersus and C. mazzullii (Mollusca: Gastropoda: Pulmonata) |journal=Micron |volume=36 |issue=4 |pages=351–7 |year=2005 |pmid=15857774 |doi=10.1016/j.micron.2004.12.010}}&lt;/ref&gt; || 54
+|-
+| [[Earthworm]] (''Octodrilus complanatus'')&lt;ref&gt;{{cite journal |author=Vitturi R, Colomba MS, Pirrone AM, Mandrioli M |title=rDNA (18S-28S and 5S) colocalization and linkage between ribosomal genes and (TTAGGG)(n) telomeric sequence in the earthworm, Octodrilus complanatus (Annelida: Oligochaeta: Lumbricidae), revealed by single- and double-color FISH | doi = 10.1093/jhered/93.4.279|journal=J. Hered. |volume=93 |issue=4 |pages=279–82 |year=2002 |pmid=12407215 |url=http://jhered.oxfordjournals.org/cgi/content/full/93/4/279}}&lt;/ref&gt; || 36
+| [[Tibetan fox]] || 36
+|-
+| [[Domestic cat]]&lt;ref&gt;{{cite journal |author=Nie W, Wang J, O'Brien PC, ''et al.'' |title=The genome phylogeny of domestic cat, red panda and five mustelid species revealed by comparative chromosome painting and G-banding |journal=Chromosome Res. |volume=10 |issue=3 |pages=209–22 |year=2002 |pmid=12067210 |doi=10.1023/A:1015292005631}}&lt;/ref&gt; || 38
+| [[Domestic pig]] || 38
+|-
+| [[Laboratory mouse]]&lt;ref name=Romanenko&gt;{{Cite journal
+| doi = 10.1007/s00335-006-0081-z
+| pmid = 17143584
+| issn = 0938-8990
+| volume = 17
+| issue = 12
+| pages = 1183–1192
+| last = Romanenko
+| first = Svetlana A
+| coauthors = Polina L Perelman, Natalya A Serdukova, Vladimir A Trifonov, Larisa S Biltueva, Jinhuan Wang, Tangliang Li, Wenhui Nie, Patricia C. M. O'Brien, Vitaly T. Volobouev, Roscoe Stanyon, Malcolm A. Ferguson-Smith, Fengtang Yang, Alexander S. Graphodatsky
+| title = Reciprocal chromosome painting between three laboratory rodent species
+| journal = Mammalian Genome: Official Journal of the International Mammalian Genome Society
+| accessdate = 2009-10-14
+| date = 2006-12
+| url = http://www.ncbi.nlm.nih.gov/pubmed/17143584
+}}&lt;/ref&gt;&lt;ref name=Painter&gt;[http://www.esp.org/foundations/genetics/classical/holdings/Genetics/Genetics-1928-13-2-180.pdf A Comparison of the chromosomes of the rat and mouse with reference to the question of chromosome homology in mammals]&lt;/ref&gt; || 40
+| [[Laboratory rat]]&lt;ref name=Painter/&gt; || 42
+|-
+| [[Rabbit]] (''Oryctolagus cuniculus'')&lt;ref&gt;{{Cite journal
+| doi = 10.1159/000069807
+| issn = 1424-859X
+| volume = 98
+| issue = 2–3
+| pages = 199–205
+| last = Hayes
+| first = H.
+| coauthors = C. Rogel-Gaillard, C. Zijlstra, N.A. de Haan, C. Urien, N. Bourgeaux, M. Bertaud, A.A. Bosma
+| title = Establishment of an R-banded rabbit karyotype nomenclature by FISH localization of 23 chromosome-specific genes on both G- and R-banded chromosomes
+| journal = Cytogenetic and Genome Research
+| accessdate = 2009-10-14
+| year = 2002
+| url = http://content.karger.com/produktedb/produkte.asp?typ=fulltext&amp;file=CGR98199
+| pmid = 12698004
+}}&lt;/ref&gt; || 44
+| [[Syrian hamster]]&lt;ref name=Romanenko/&gt; || 44
+|-
+| [[Hare]]s&lt;ref&gt;{{cite journal |author=T.J. Robinson, F. Yang, W.R. Harrison| title=Chromosome painting refines the history of genome evolution in hares and rabbits (order Lagomorpha) |journal=Cytogenic and Genetic Research |volume=96 |pages=223–227 |year=2002 |doi = 10.1159/000063034 |url=http://content.karger.com/ProdukteDB/produkte.asp?Aktion=ShowAbstract&amp;ArtikelNr=63034&amp;Ausgabe=228416&amp;ProduktNr=224037 |pmid=12438803 |issue=1–4}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://wildlife1.wildlifeinformation.org/s/00Ref/BooksContents/b605.htm |title=Rabbits, Hares and Pikas. Status Survey and Conservation Action Plan |section= 4.W4 |pages= 61–94}}&lt;/ref&gt;|| 48
+| [[Human]]&lt;ref name=Grouchy/&gt; ||46
+|-
+| [[Gorilla]]s&lt;!--both species--&gt;, [[Chimpanzee]]s&lt;!--both species--&gt;&lt;ref name=Grouchy&gt;{{cite journal |author=De Grouchy J |title=Chromosome phylogenies of man, great apes, and Old World monkeys |journal=Genetica |volume=73 |issue=1–2 |pages=37–52 |year=1987 |pmid=3333352}}&lt;/ref&gt; || 48
+| [[Domestic sheep]] || 54
+|-
+| [[Elephant]]s&lt;ref&gt;{{cite journal |author=Houck ML, Kumamoto AT, Gallagher DS, Benirschke K |title=Comparative cytogenetics of the African elephant (Loxodonta africana) and Asiatic elephant (Elephas maximus) |journal=Cytogenet. Cell Genet. |volume=93 |issue=3–4 |pages=249–52 |year=2001 |pmid=11528120 |doi=10.1159/000056992 |last3=Gallagher}}&lt;/ref&gt; || 56&lt;!-- taxon? --&gt;
+| [[Cattle|Cow]] || 60
+|-
+| [[Donkey]] || 62
+| [[Horse]] || 64
+|-
+| [[Dog]]&lt;ref&gt;{{cite journal |author=Wayne RK, Ostrander EA |title=Origin, genetic diversity, and genome structure of the domestic dog |journal=BioEssays |volume=21 |issue=3 |pages=247–57 |year=1999 |pmid=10333734 | doi = 10.1002/(SICI)1521-1878(199903)21:3&lt;247::AID-BIES9&gt;3.0.CO;2-Z}}&lt;/ref&gt; || 78
+| [[Kingfisher]]&lt;ref&gt;{{cite journal |author=Burt DW |title=Origin and evolution of avian microchromosomes |journal=Cytogenet. Genome Res. |volume=96 |issue=1–4 |pages=97–112 |year=2002 |pmid=12438785 |doi=10.1159/000063018}}&lt;/ref&gt; || 132
+|-
+| [[Goldfish]]&lt;ref&gt;{{cite journal |author=Ciudad J, Cid E, Velasco A, Lara JM, Aijón J, Orfao A |title=Flow cytometry measurement of the DNA contents of G0/G1 diploid cells from three different teleost fish species |journal=Cytometry |volume=48 |issue=1 |pages=20–5 |year=2002 |pmid=12116377 | doi = 10.1002/cyto.10100}}&lt;/ref&gt; || 100-104
+| [[Bombyx mori|Silkworm]]&lt;ref&gt;{{cite journal |author=Yasukochi Y, Ashakumary LA, Baba K, Yoshido A, Sahara K |title=A Second-Generation Integrated Map of the Silkworm Reveals Synteny and Conserved Gene Order Between Lepidopteran Insects |journal=Genetics |volume=173 |issue=3 |pages=1319–28 |year=2006 |pmid=16547103 |doi=10.1534/genetics.106.055541 |pmc=1526672}}&lt;/ref&gt; || 56
+|}
+| STYLE=&quot;vertical-align: top&quot;|
+{| class=&quot;wikitable&quot; style=&quot;float:right; margin:1em 0 1em 1em&quot;
+|+ Chromosome numbers in other organisms
+|-
+! Species !! Large&lt;br /&gt;Chromosomes !! Intermediate&lt;br /&gt;Chromosomes !! [[Microchromosome]]s
+|-
+| ''[[Trypanosoma brucei]]'' || 11 || 6 || ~100
+|-
+|[[Domestic Pigeon]] (''Columba livia domestics'')&lt;ref&gt;{{Cite journal
+| doi = 10.1266/jjg.44.163
+| issn = 1880-5787
+| volume = 44
+| issue = 3
+| pages = 163–170
+| last = Itoh
+| first = Masahiro
+| coauthors = Tatsuro Ikeuchi, Hachiro Shimba, Michiko Mori, Motomichi Sasaki, Sajiro Makino
+| title = A COMPARATIVE KARYOTYPE STUDY IN FOURTEEN SPECIES OF BIRDS
+| journal =  Japanese Journal of Genetics
+| accessdate = 2009-10-14
+| year = 1969
+| url = http://www.journalarchive.jst.go.jp/english/jnlabstract_en.php?cdjournal=ggs1921&amp;cdvol=44&amp;noissue=3&amp;startpage=163
+}}&lt;/ref&gt; || 18 || - || 59-63
+|-
+| [[Chicken]]&lt;ref&gt;{{cite journal |author=Smith J, Burt DW |title=Parameters of the chicken genome (Gallus gallus) |journal=Anim. Genet. |volume=29 |issue=4 |pages=290–4 |year=1998 |pmid=9745667 |doi=10.1046/j.1365-2052.1998.00334.x}}&lt;/ref&gt; || 8 || 2 sex chromosomes || 60
+|}
+|}
+
+Normal members of a particular eukaryotic [[species]] all have the same number of nuclear chromosomes (see the table). Other eukaryotic chromosomes, i.e., mitochondrial and plasmid-like small chromosomes, are much more variable in number, and there may be thousands of copies per cell.
+
+[[File:PLoSBiol3.5.Fig1bNucleus46Chromosomes.jpg|thumb|200px|left|The 23 human chromosome territories during [[prometaphase]] in [[fibroblast]] cells.]]
+
+[[Asexual reproduction|Asexually reproducing]] species have one set of chromosomes, which are the same in all body cells. However, asexual species can be either haploid or diploid.
+
+[[sexual reproduction|Sexually reproducing]] species have [[somatic cell]]s (body cells), which are [[ploidy#Diploid|diploid]] [2n] having two sets of chromosomes, one from the mother and one from the father. [[Gamete]]s, reproductive cells, are [[ploidy#Haploid and monoploid|haploid]] [n]: They have one set of chromosomes. Gametes are produced by [[meiosis]] of a diploid [[germ line]] cell. During meiosis, the matching chromosomes of father and mother can exchange small parts of themselves ([[Chromosomal crossover|crossover]]), and thus create new chromosomes that are not inherited solely from either parent. When a male and a female gamete merge ([[fertilization]]), a new diploid organism is formed.
+
+Some animal and plant species are [[polyploid]] [Xn]: They have more than two sets of [[homologous chromosome]]s. Plants important in agriculture such as [[tobacco]] or [[wheat]] are often polyploid, compared to their ancestral species. Wheat has a haploid number of seven chromosomes, still seen in some [[cultivar]]s as well as the wild progenitors. The more-common [[pasta]] and [[bread]] wheats are polyploid, having 28 (tetraploid) and 42 (hexaploid) chromosomes, compared to the 14 (diploid) chromosomes in the wild wheat.&lt;ref&gt;Sakamura, T. (1918), ''Kurze Mitteilung uber die Chromosomenzahlen und die Verwandtschaftsverhaltnisse der Triticum-Arten''. Bot. Mag., 32: 151-154.&lt;/ref&gt;
+
+=== Prokaryotes ===
+[[Prokaryote]] [[species]] generally have one copy of each major chromosome, but most cells can easily survive with multiple copies.&lt;ref&gt;Charlebois R.L. (ed) 1999. ''Organization of the prokaryote genome''. ASM Press, Washington DC.&lt;/ref&gt; For example, ''[[Buchnera (proteobacteria)|Buchnera]]'', a [[symbiosis|symbiont]] of [[aphid]]s has multiple copies of its chromosome, ranging from 10–400 copies per cell.&lt;ref&gt;{{cite journal |author=Komaki K, Ishikawa H |title=Genomic copy number of intracellular bacterial symbionts of aphids varies in response to developmental stage and morph of their host |journal=Insect Biochem. Mol. Biol. |volume=30 |issue=3 |pages=253–8 |year=2000 |month=March |pmid=10732993 |doi=10.1016/S0965-1748(99)00125-3}}&lt;/ref&gt; However, in some large bacteria, such as ''[[Epulopiscium fishelsoni]]'' up to 100,000 copies of the chromosome can be present.&lt;ref&gt;{{cite journal |author=Mendell JE, Clements KD, Choat JH, Angert ER |title=Extreme polyploidy in a large bacterium |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=105 |issue=18 |pages=6730–4 |year=2008 |month=May |pmid=18445653 |doi=10.1073/pnas.0707522105 |url=http://www.pnas.org/cgi/pmidlookup?view=long&amp;pmid=18445653 |pmc=2373351}}&lt;/ref&gt; Plasmids and plasmid-like small chromosomes are, as in eukaryotes, very variable in copy number. The number of plasmids in the cell is almost entirely determined by the rate of division of the plasmid&amp;nbsp;– fast division causes high copy number.
+
+== Karyotype ==
+{{main|Karyotype}}
+[[File:NHGRI human male karyotype.png|thumb|right|200px|'''Figure 3''': Karyogram of a human male]]
+In general, the '''karyotype''' is the characteristic chromosome complement of a [[eukaryote]] [[species]].&lt;ref&gt;{{cite book |author=White, M. J. D. |title=The chromosomes |publisher=Chapman and Hall, distributed by Halsted Press, New York |location=London |year=1973 |pages=28 |isbn=0-412-11930-7 |edition=6th}}&lt;/ref&gt; The preparation and study of karyotypes is part of [[cytogenetics]].
+
+Although the [[DNA replication|replication]] and [[Transcription (genetics)|transcription]] of [[DNA]] is highly standardized in [[eukaryotes]], ''the same cannot be said for their karyotypes'', which are often highly variable. There may be variation between species in chromosome number and in detailed organization.
+In some cases, there is significant variation within species. Often there is:
+:1. variation between the two sexes
+:2. variation between the [[germ-line]] and [[soma]] (between [[gametes]] and the rest of the body)
+:3. variation between members of a population, due to [[polymorphism (biology)|balanced genetic polymorphism]]
+:4. [[allopatric speciation|geographical variation]] between [[Race (classification of human beings)|races]]
+:5. [[mosaic (genetics)|mosaics]] or otherwise abnormal individuals.
+Also, variation in karyotype may occur during development from the fertilised egg.
+
+The technique of determining the karyotype is usually called ''karyotyping''. Cells can be locked part-way through division (in metaphase) [[in vitro]] (in a reaction vial) with [[colchicine]]. These cells are then stained, photographed, and arranged into a ''karyogram'', with the set of chromosomes arranged, autosomes in order of length, and sex chromosomes (here X/Y) at the end: Fig. 3.
+
+Like many sexually reproducing species, humans have special [[XY sex-determination system|gonosomes]] (sex chromosomes, in contrast to [[autosome]]s). These are XX in females and XY in males. &lt;!--- Irrelevant in this section:&quot;In females, one of the two X chromosomes is inactive and can be seen under a microscope as [[Barr body|Barr bodies]].&quot;---&gt;
+
+=== Historical note ===
+Investigation into the human karyotype took many years to settle the most basic question: ''How many chromosomes does a normal [[diploid]] human cell contain?'' In 1912, [[Hans von Winiwarter]] reported 47 chromosomes in [[spermatogonia]] and 48 in [[oogonia]], concluding an [[XO sex-determination system|XX/XO]] [[Sex-determination system|sex determination mechanism]].&lt;ref&gt;{{cite journal |author=von Winiwarter H |title=Études sur la spermatogenese humaine |journal=Arch. Biologie |volume=27 |issue=93 |pages=147–9 |year=1912}}&lt;/ref&gt; [[Theophilus Painter|Painter]] in 1922 was not certain whether the diploid number of man is 46 or 48, at first favouring 46.&lt;ref&gt;{{cite journal |author=Painter TS |title=The spermatogenesis of man |journal=Anat. Res. |volume=23 |issue= |pages=129 |year=1922}}&lt;/ref&gt; He revised his opinion later from 46 to 48, and he correctly insisted on humans having an [[XY sex-determination system|XX/XY]] system.&lt;ref&gt;{{cite journal |author=Painter TS |title=Studies in mammalian spermatogenesis II. The spermatogenesis of man |journal=J. Exp. Zoology |volume=37 |issue= 3|pages=291–336 |year=1923 |doi=10.1002/jez.1400370303}}&lt;/ref&gt;
+
+New techniques were needed to definitively solve the problem:
+:1. Using cells in culture
+:2. Pretreating cells in a [[Tonicity#Hypotonicity|hypotonic solution]], which swells them and spreads the chromosomes
+:3. Arresting [[mitosis]] in [[metaphase]] by a solution of [[colchicine]]
+:4. Squashing the preparation on the slide forcing the chromosomes into a single plane
+:5. Cutting up a photomicrograph and arranging the result into an indisputable karyogram.
+
+It took until 1954 before the human diploid number was confirmed as 46.&lt;ref&gt;{{cite journal |doi=10.1111/j.1601-5223.1956.tb03010.x |author=Tjio JH, Levan A |title=The chromosome number of man |journal=Hereditas |volume=42 |issue= |pages=1–6 |year=1956}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|author=Ford C.E, Hamerton J.L|title=The Chromosomes of Man|journal=Nature|volume=178|pages=1020–1023|year=1956|doi=10.1038/1781020a0|pmid=13378517|issue=4541}}&lt;/ref&gt; Considering the techniques of Winiwarter and Painter, their results were quite remarkable.&lt;ref&gt;Hsu T.C. ''Human and mammalian cytogenetics: a historical perspective''. Springer-Verlag, N.Y. p10: &quot;It's amazing that he [Painter] even came close!&quot;&lt;/ref&gt; Chimpanzees (the closest living relatives to modern humans) have 48 chromosomes.
+
+== Aberrations ==
+{{main|Chromosome abnormality|aneuploidy}}
+[[File:Single Chromosome Mutations.png|thumb|right|The three major single chromosome mutations; deletion (1), duplication (2) and inversion (3).]]
+[[File:Two Chromosome Mutations.png|thumb|right|The two major two-chromosome mutations; insertion (1) and translocation (2).]]
+[[File:Chromosome 21.gif|In Down syndrome, there are three copies of chromosome 21|thumb]]
+
+Chromosomal aberrations are disruptions in the normal chromosomal content of a cell and are a major cause of genetic conditions in humans, such as [[Down syndrome]], although most aberrations have little to no effect. Some chromosome abnormalities do not cause disease in carriers, such as [[translocations]], or [[chromosomal inversions]], although they may lead to a higher chance of bearing a child with a chromosome disorder. Abnormal numbers of chromosomes or chromosome sets, called [[aneuploidy]], may be lethal or may give rise to genetic disorders. [[Genetic counseling]] is offered for families that may carry a chromosome rearrangement.
+
+The gain or loss of DNA from chromosomes can lead to a variety of [[genetic disorders]]. Human examples include:
+* [[Cri du chat]], which is caused by the [[Genetic deletion|deletion]] of part of the short arm of chromosome 5. &quot;Cri du chat&quot; means &quot;cry of the cat&quot; in French; the condition was so-named because affected babies make high-pitched cries that sound like those of a cat. Affected individuals have wide-set eyes, a small head and jaw, moderate to severe mental health issues, and are very short.
+* [[Down syndrome]], the most common trisomy, usually caused by an extra copy of chromosome 21 ([[trisomy 21]]). Characteristics include decreased muscle tone, stockier build, asymmetrical skull, slanting eyes and mild to moderate developmental disability.&lt;ref&gt;{{cite book|last=Miller|first=Kenneth R.|title=Biology|publisher=Prentice Hall|location=Upper Saddle River, New Jersey|year=2000|edition=5th |pages=194–5|chapter=9-3|isbn=0-13-436265-9|accessdate=2008-03-31}}&lt;/ref&gt;
+* [[Edwards syndrome]], or trisomy-18, the second-most-common trisomy.{{cn|date=April 2012}} Symptoms include motor retardation, developmental disability and numerous congenital anomalies causing serious health problems. Ninety percent of those affected die in infancy. They have characteristic clenched hands and overlapping fingers.
+* [[Isodicentric 15]], also called idic(15), partial tetrasomy 15q, or inverted duplication 15 (inv dup 15).
+* [[Jacobsen syndrome]], which is very rare. It is also called the terminal 11q deletion disorder.&lt;ref&gt;[http://www.11q.org European Chromosome 11 Network&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Those affected have normal intelligence or mild developmental disability, with poor expressive language skills. Most have a bleeding disorder called [[Paris-Trousseau syndrome]].
+* [[Klinefelter's syndrome]] (XXY). Men with Klinefelter syndrome are usually sterile, and tend to be taller and have longer arms and legs than their peers. Boys with the syndrome are often shy and quiet, and have a higher incidence of [[speech delay]] and [[dyslexia]]. Without testosterone treatment, some may develop [[gynecomastia]] during puberty.
+* [[Patau Syndrome]], also called D-Syndrome or trisomy-13. Symptoms are somewhat similar to those of trisomy-18, without the characteristic folded hand.
+* [[Small supernumerary marker chromosome]]. This means there is an extra, abnormal chromosome. Features depend on the origin of the extra genetic material. [[Cat-eye syndrome]] and [[Isodicentric 15|isodicentric chromosome 15 syndrome]] (or Idic15) are both caused by a supernumerary marker chromosome, as is [[Pallister-Killian syndrome]].
+* [[Triple-X syndrome]] (XXX). XXX girls tend to be tall and thin and have a higher incidence of dyslexia.
+* [[Turner syndrome]] (X instead of XX or XY). In Turner syndrome, female sexual characteristics are present but underdeveloped. Females with Turner syndrome often have a short stature, low hairline, abnormal eye features and bone development and a &quot;caved-in&quot; appearance to the chest.
+* [[XYY syndrome]]. XYY boys are usually taller than their siblings. Like XXY boys and XXX girls, they are more likely to have learning difficulties.
+* [[Wolf-Hirschhorn syndrome]], which is caused by partial deletion of the short arm of chromosome 4. It is characterized by severe growth retardation and severe to profound mental health issues.
+
+== See also ==
+* [[Deletion (genetics)|Genetic deletion]]
+* For information about chromosomes in [[genetic algorithm]]s, see [[chromosome (genetic algorithm)]]
+* [[Genetic genealogy]]
+** [[Genealogical DNA test]]
+* [[List of number of chromosomes of various organisms]]
+* [[Locus (genetics)|Locus]] (explains gene location nomenclature)
+* [[Maternal influence on sex determination]]
+* [[Sex-determination system]]
+** [[XY sex-determination system]]
+*** [[X chromosome|X-chromosome]]
+**** [[X-inactivation]]
+*** [[Y chromosome|Y-chromosome]]
+**** [[Y-chromosomal Aaron]]
+**** [[Y-chromosomal Adam]]
+* [[Lampbrush chromosome]]
+* [[Polytene chromosome]]
+== References ==&lt;!-- FolBiolKraków56:241. --&gt;
+{{reflist|2}}
+
+== External links ==
+{{commons category|Chromosomes}}
+* [http://hopes.stanford.edu/basics/dna/b0.html An Introduction to DNA and Chromosomes] from [[HOPES]]: Huntington's Outreach Project for Education at Stanford
+* [http://atlasgeneticsoncology.org/Educ/PolyMecaEng.html Chromosome Abnormalities at AtlasGeneticsOncology]
+* [http://learn.genetics.utah.edu/content/begin/traits/predictdisorder/ What Can Our Chromosomes Tell Us?], from the University of Utah's Genetic Science Learning Center
+* [http://learn.genetics.utah.edu/content/begin/traits/karyotype/index.html Try making a karyotype yourself], from the University of Utah's Genetic Science Learning Center
+* [http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/C/Chromosomes.html Kimballs Chromosome pages]
+* [http://www.genomenewsnetwork.org/categories/index/genome/chromosomes.php Chromosome News from Genome News Network]
+* [http://www.chromosomehelpstation.com/eurochromnet.htm Eurochromnet], European network for Rare Chromosome Disorders on the Internet
+* [http://www.ensembl.org Ensembl.org], [[Ensembl]] project, presenting chromosomes, their [[gene]]s and [[synteny|syntenic]] loci graphically via the web
+* [https://www3.nationalgeographic.com/genographic/index.html Genographic Project]
+* [http://ghr.nlm.nih.gov/ghr/chromosomes Home reference on Chromosomes] from the U.S. National Library of Medicine
+* [http://www.dna-rainbow.org Visualisation of human chromosomes] and comparison to other species
+* [http://www.rarechromo.org Unique - The Rare Chromosome Disorder Support Group] Support for people with rare chromosome disorders
+
+{{chromo}}
+
+[[Category:Chromosomes| ]]
+[[Category:Nuclear substructures]]
+[[Category:Cytogenetics]]
+
+{{Link GA|es}}
+{{Link FA|ca}}
+{{Link FA|de}}
+
+[[als:Chromosom]]
+[[ar:صبغي]]
+[[ast:Cromosoma]]
+[[az:Xromosom]]
+[[bn:ক্রোমোজোম]]
+[[zh-min-nan:Liám-sek-thé]]
+[[be:Храмасома]]
+[[bg:Хромозома]]
+[[bs:Hromozom]]
+[[br:Kromozom]]
+[[ca:Cromosoma]]
+[[cs:Chromozom]]
+[[cy:Cromosom]]
+[[da:Kromosom]]
+[[de:Chromosom]]
+[[et:Kromosoom]]
+[[el:Χρωμόσωμα]]
+[[es:Cromosoma]]
+[[eo:Kromosomo]]
+[[eu:Kromosoma]]
+[[fa:کروموزوم]]
+[[fr:Chromosome]]
+[[gl:Cromosoma]]
+[[hak:Ngiam-set-thí]]
+[[ko:염색체]]
+[[hy:Քրոմոսոմ]]
+[[hi:गुण सूत्र]]
+[[hr:Kromosomi]]
+[[io:Kromosomo]]
+[[id:Kromosom]]
+[[is:Litningur]]
+[[it:Cromosoma]]
+[[he:כרומוזום]]
+[[jv:Kromosom]]
+[[kn:ವರ್ಣತಂತು (ಕ್ರೋಮೋಸೋಮ್)]]
+[[ka:ქრომოსომა]]
+[[ht:Kwomozòm]]
+[[ku:Kromozom]]
+[[ky:Хромосомалар]]
+[[la:Chromosoma]]
+[[lv:Hromosoma]]
+[[lt:Chromosoma]]
+[[lmo:Cromusoma]]
+[[hu:Kromoszóma]]
+[[mk:Хромозом]]
+[[ms:Kromosom]]
+[[mn:Хромосом]]
+[[nl:Chromosoom]]
+[[ne:क्रोमोजोम]]
+[[ja:染色体]]
+[[no:Kromosom]]
+[[oc:Cromosòma]]
+[[pl:Chromosom]]
+[[pt:Cromossomo]]
+[[ro:Cromozom]]
+[[ru:Хромосома]]
+[[sq:Kromozomi]]
+[[simple:Chromosome]]
+[[sk:Chromozóm]]
+[[sl:Kromosom]]
+[[ckb:کرۆمۆسۆم]]
+[[sr:Хромозом]]
+[[su:Kromosom]]
+[[fi:Kromosomi]]
+[[sv:Kromosom]]
+[[ta:நிறப்புரி]]
+[[tt:Хромосома]]
+[[te:వారసవాహిక]]
+[[th:โครโมโซม]]
+[[tg:Хромосома]]
+[[tr:Kromozom]]
+[[uk:Хромосома]]
+[[ur:لونجسیمہ]]
+[[vi:Nhiễm sắc thể]]
+[[yi:כראמאזאם]]
+[[yo:Krómósómù]]
+[[zh:染色体]]</text>
+      <sha1>0bypp9itu7vywcvb5pxf0lm0xld8uj0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

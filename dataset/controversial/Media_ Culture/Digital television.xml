@@ -1,0 +1,280 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Digital television</title>
+    <ns>0</ns>
+    <id>8271</id>
+    <revision>
+      <id>520087036</id>
+      <parentid>520086557</parentid>
+      <timestamp>2012-10-27T08:46:14Z</timestamp>
+      <contributor>
+        <username>Chaufri</username>
+        <id>10578637</id>
+      </contributor>
+      <minor/>
+      <comment>/* Effect on existing analog technology */ Analog is getting Stopped in india in select cities by 31st October 2012...</comment>
+      <text xml:space="preserve" bytes="24598">{{pp-move-indef}}
+{{Table Digital video broadcast standards}}
+{{Refimprove|date=May 2010}}
+{{See also|Digital terrestrial television}}
+'''Digital television''' ('''DTV''') is the transmission of audio and video by digitally processed and multiplexed signal, in contrast to the totally analog and channel separated signals used by [[analog TV]]. It is an innovative service that represents a significant evolution in television technology since color television in the 1950s.&lt;ref&gt;Kruger, L. G. (2001). Digital Television: An Overview. Hauppauge, New York: Nova Publishers.&lt;/ref&gt; Many countries are replacing  broadcast [[analog television]] with digital television to allow other uses of the television [[radio spectrum]]. Several regions of the world are in different stages of adaptation and are implementing different broadcasting standards. There are four different digital television terrestrial broadcasting standards (DTTB) and they are:
+'''Advanced Television System Committee''' ('''ATSC''') uses eight-level vestigial sideband ('''8 VSB''') for terrestrial broadcasting. This standard has been adopted in the United States and in other countries.
+'''Digital Video Broadcasting-Terrestrial''' ('''DVB-T''') uses coded orthogonal frequency-division multiplexing ('''C-OFDM''') modulation and supports hierarchical transmission. This standard has been adapted in Europe and Australia.
+'''Terrestrial Integrated Services Digital Broadcasting''' ('''ISDB-T''') is a system designed to provide good reception to fix receivers and also portable or mobile receivers. It utilizes OFDM and two-dimensional interleaving. It supports hierarchical transmission of up to three layers and uses MPEG-2 video and advanced audio coding. This standard has been adopted in Japan and most of South America.
+'''Digital Terrestrial Multimedia Broadcasting''' ('''DTMB''') adopts time-domain synchronous('''TDS''')- OFDM technology utilizing a pseudo random signal frame to serve as the guard interval ('''GI''') of the OFDM block and the training symbol. The DTMB standard has been adopted in the People's Republic of China ('''PRC'''), including Hong Kong and Macau.&lt;ref&gt;Ong, C. Y., Song, J., Pan, C., &amp; Li, Y.(2010, May). Technology and Standards of Digital Television Terrestrial Multimedia Broadcasting [Topics in Wireless Communications], Communications Magazine, IEEE , 48(5),119-127&lt;/ref&gt;
+
+== Technical information ==
+=== Formats and bandwidth ===
+Digital television supports many different picture formats defined by the [[broadcast television system]]s which are a combination of size, [[aspect ratio]] (width to height ratio).
+
+With [[digital terrestrial television]] (DTV) broadcasting, the range of formats can be broadly divided into two categories: [[high definition television]] (HDTV) for the transmission of [[high-definition video]] and [[standard-definition television]] (SDTV). These terms by themselves are not very precise, and many subtle intermediate cases exist.
+
+One of several different HDTV formats that can be transmitted over DTV is: 1280&amp;nbsp;×&amp;nbsp;720 [[pixel]]s in [[progressive scan]] mode (abbreviated ''[[720p]]'') or 1920&amp;nbsp;×&amp;nbsp;1080 pixels in [[interlaced video]] mode (''[[1080i]]''). Each of these utilizes a [[16:9]] [[aspect ratio]]. (Some televisions are capable of receiving an HD resolution of 1920&amp;nbsp;×&amp;nbsp;1080 at a 60&amp;nbsp;Hz progressive scan frame rate — known as [[1080p]].)  HDTV cannot be transmitted over current analog [[television channel]]s because of [[channel capacity]] issues.
+
+Standard definition TV (SDTV), by comparison, may use one of several different formats taking the form of various aspect ratios depending on the technology used in the country of broadcast. For [[4:3]] aspect-ratio broadcasts, the 640&amp;nbsp;×&amp;nbsp;480 format is used in [[NTSC]] countries, while 720&amp;nbsp;×&amp;nbsp;576 is used in [[PAL]] countries. For [[16:9]] broadcasts, the 720&amp;nbsp;×&amp;nbsp;480 format is used in NTSC countries, while 720&amp;nbsp;×&amp;nbsp;576 is used in PAL countries. However, broadcasters may choose to reduce these resolutions to save bandwidth (e.g., many DVB-T channels in the United Kingdom use a horizontal resolution of 544 or 704 pixels per line).&lt;ref&gt;[http://dtt.me.uk Latest snapshots - Freeview/DTT bitrates] (Mendip transmitter, UK)&lt;/ref&gt;
+
+Each [[commercial broadcasting]] [[terrestrial television]] DTV channel in North America is permitted to be broadcast at a [[bit rate]] up to 19 [[megabit]]s per second. However, the broadcaster does not need to use this entire bandwidth for just one broadcast channel. Instead the broadcast can use the channel to include [[PSIP]] and can also subdivide across several video [[subchannel]]s (aka feeds) of varying quality and compression rates, including non-video [[datacasting]] services that allow one-way high-[[bandwidth (computing)|bandwidth]] streaming of data to computers like [[National Datacast]].
+
+A broadcaster may opt to use a standard-definition ([[SDTV]]) digital signal instead of an [[HDTV]] signal, because current convention allows the [[Bandwidth (signal processing)|bandwidth]] of a DTV channel (or &quot;[[multiplex (TV)|multiplex]]&quot;) to be subdivided into multiple [[digital subchannel]]s, (similar to what most FM [[radio station]]s offer with [[HD Radio]]), providing multiple feeds of entirely different [[television program]]ming on the same channel. This ability to provide either a single HDTV feed or multiple lower-resolution feeds is often referred to as distributing one's &quot;[[bit budget]]&quot; or [[multicasting]]. This can sometimes be arranged automatically, using a [[statistical multiplexer]] (or &quot;stat-mux&quot;). With some implementations, image resolution may be less directly limited by bandwidth; for example in [[DVB-T]], broadcasters can choose from several different modulation schemes, giving them the option to reduce the transmission [[bitrate]] and make reception easier for more distant or mobile viewers.
+
+=== Reception ===
+There are a number of different ways to receive digital television. One of the oldest means of receiving DTV (and TV in general) is using an [[Television antenna|antenna]] (known as an ''aerial'' in some countries). This way is known as [[Digital terrestrial television]] (DTT). With DTT, viewers are limited to whatever channels the antenna picks up. Signal quality will also vary.
+
+Other ways have been devised to receive digital television. Among the most familiar to people are [[digital cable]] and [[digital satellite]]. In some countries where transmissions of TV signals are normally achieved by [[microwaves]], digital [[MMDS]] is used. Other standards, such as [[Digital multimedia broadcasting]] (DMB) and [[DVB-H]], have been devised to allow handheld devices such as [[mobile phones]] to receive TV signals. Another way is [[IPTV]], that is receiving TV via Internet Protocol, relying on [[Digital Subscriber Line]] (DSL) or optical cable line. Finally, an alternative way is to receive digital TV signals via the open Internet. For example, there is P2P (peer-to-peer) Internet television software that can be used to watch TV on a computer.
+
+Some signals carry [[encryption]] and specify use conditions (such as &quot;may not be recorded&quot; or &quot;may not be viewed on displays larger than 1 m in diagonal measure&quot;) backed up with the force of law under the [[WIPO Copyright Treaty]] and national [[legislation]] implementing it, such as the U.S. [[Digital Millennium Copyright Act]]. Access to encrypted channels can be controlled by a removable [[smart card]], for example via the Common Interface ([[DVB-CI]]) standard for Europe and via [[Point Of Deployment]] (POD) for IS or named differently [[CableCard]].
+
+=== Protection parameters for terrestrial DTV broadcasting ===
+{{Clarify|date=March 2008}}
+Digital television signals must not interfere with each other, and they must also coexist with analog television until it is phased out.
+The following table gives allowable signal-to-noise and signal-to-interference ratios for various interference scenarios. This table is a crucial regulatory tool for controlling the placement and power levels of stations. Digital TV is more tolerant of interference than analog TV, and this is the reason a smaller range of channels can carry an all-digital set of television stations.{{Citation needed|reason=As far as I know, it's the data compression possible with digital that makes higher channel density possible.|date=September 2011}}
+
+{| class=&quot;wikitable&quot;
+|-
+! System Parameters&lt;br /&gt;&lt;small&gt;(protection ratios)&lt;/small&gt;
+! Canada [13]
+! USA [5]
+! EBU [9, 12]&lt;br /&gt;&lt;small&gt;ITU-mode M3&lt;/small&gt;
+! Japan &amp; Brazil [36, 37]&lt;ref&gt;ISDB-T (6&amp;nbsp;MHz, 64QAM, R=2/3), Analog TV (M/NTSC).&lt;br /&gt;&lt;/ref&gt;
+|-
+! C/N for AWGN Channel
+| +19.5 dB&lt;br /&gt;(16.5 dB&lt;ref name=&quot;protection_parameters_table_note_a&quot;&gt;The Canadian parameter, C/(N+I) of noise plus co-channel DTV interface should be 16.5 dB.&lt;br /&gt;&lt;/ref&gt;)
+| +15.19 dB
+| +19.3 dB
+| +19.2 dB
+|-
+! Co-Channel DTV into Analog TV
+| +33.8 dB
+| +34.44 dB
+| +34 ~ 37 dB
+| +38 dB
+|-
+! Co-Channel Analog TV into DTV
+| +7.2 dB
+| +1.81 dB
+| +4 dB
+| +4 dB
+|-
+! Co-Channel DTV into DTV
+| +19.5 dB&lt;br /&gt;(16.5 dB&lt;ref name=&quot;protection_parameters_table_note_a&quot; /&gt;)
+| +15.27 dB
+| +19 dB
+| +19 dB
+|-
+! Lower Adjacent Channel DTV into Analog TV
+| −16 dB
+| −17.43 dB
+| −5 ~ −11 dB&lt;ref name=&quot;protection_parameters_table_note_c&quot;&gt;Depending on analog TV systems used.&lt;/ref&gt;
+| −6 dB
+|-
+! Upper Adjacent Channel DTV into Analog TV
+| −12 dB
+| −11.95 dB
+| −1 ~ −10&lt;ref name=&quot;protection_parameters_table_note_c&quot; /&gt;
+| −5 dB
+|-
+! Lower Adjacent Channel Analog TV into DTV
+| −48 dB
+| −47.33 dB
+| −34 ~ −37 dB&lt;ref name=&quot;protection_parameters_table_note_c&quot; /&gt;
+| −35 dB
+|-
+! Upper Adjacent Channel Analog TV into DTV
+| −49 dB
+| −48.71 dB
+| −38 ~ −36 dB&lt;ref name=&quot;protection_parameters_table_note_c&quot; /&gt;
+| −37 dB
+|-
+! Lower Adjacent Channel DTV into DTV
+| −27 dB
+| −28 dB
+| −30 dB
+| −28 dB
+|-
+! Upper Adjacent Channel DTV into DTV
+| −27 dB
+| −26 dB
+| −30 dB
+| −29 dB
+|}
+
+=== Interaction ===
+Interaction happens between the TV watcher and the DTV system. It can be understood in different ways, depending on which part of the DTV system is concerned. It can also be an interaction with the STB only (to tune to another TV channel or to browse the [[Electronic program guide|EPG]]).
+
+Modern DTV systems are able to provide interaction between the end-user and the broadcaster through the use of a return path. With the exceptions of coaxial and fiber optic cable, which can be bidirectional, a dialup modem, Internet connection, or other method is typically used for the return path with unidirectional networks such as satellite or antenna broadcast.
+
+In addition to not needing a separate return path, cable also has the advantage of a [[communication channel]] localized to a neighborhood rather than a city (terrestrial) or an even larger area (satellite). This provides enough customizable bandwidth to allow true [[video on demand]].
+
+=== 1-segment broadcasting ===
+[[1seg]] (1-segment) is a special form of [[ISDB]]. Each channel is further divided into 13 segments. The 12 segments of them are allocated for [[HDTV]] and remaining segment, the 13th, is used for narrowband receivers such as mobile television or [[cell phone]].
+{{main|1seg}}
+
+== Comparison analog vs digital ==
+{{further2|[[Analog television]]}}
+{{Refimprove section|date=November 2009}}
+DTV has several advantages over analog TV, the most significant being that digital channels take up less bandwidth, and the bandwidth needs are continuously variable, at a corresponding reduction in image quality depending on the level of compression as well as the resolution of the transmitted image. This means that digital broadcasters can provide more digital channels in the same space, provide [[high-definition television]] service, or provide other non-television services such as multimedia or interactivity. DTV also permits special services such as multiplexing (more than one program on the same channel), electronic program guides and additional languages (spoken or subtitled). The sale of non-television services may provide an additional revenue source.
+
+Digital and analog signals react differently to interference. For example, common problems with analog television include [[Ghosting (television)|ghosting]] of images, noise from weak signals, and many other potential problems which degrade the quality of the image and sound, although the program material may still be watchable.  With digital television, the audio and video must be synchronized digitally, so reception of the digital signal must be very nearly complete; otherwise, neither audio nor video will be usable.  Short of this complete failure, &quot;blocky&quot; video is seen when the digital signal experiences interference.
+
+=== Effect on existing analog technology ===
+Television sets with only analog tuners cannot decode digital transmissions.  When analog broadcasting over the air ceases, users of sets with analog-only tuners may use other sources of programming (e.g. cable, recorders) or may purchase set-top converter boxes to tune in the digital signals. In the United States, a [[Coupon-eligible converter box|government-sponsored coupon]] was available to offset the cost of an external converter box. Analog switch-off (of full-power stations) took place on June 12, 2009 in the United States,&lt;ref&gt;{{cite web|url=http://www.dtv.gov/affected.html |title=The Digital TV Transition: Will You Be Affected? |accessdate=2009-11-02 |work=FCC }}&lt;/ref&gt; July 24, 2011 in Japan,&lt;ref&gt;{{cite web|url=http://www.broadcastingcable.com/blog/BC_DC_Eggerton_on_Washington/15430-New_DTV_Hard_Date_July_24_2011_.php |title=New DTV Hard Date: July 24, 2011? |accessdate=2009-11-02 |work=B&amp;C }}&lt;/ref&gt; August 31, 2011 in Canada,&lt;ref&gt;{{cite web|url=http://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/DTV_PLAN_Dec08-e.pdf/$file/DTV_PLAN_Dec08-e.pdf |title=DTV Post-Transition Allotment Plan |accessdate=2009-11-02 |format=PDF |work=Spectrum Management and Telecommunications }}&lt;/ref&gt; February 13, 2012 in Pan-Arab States, and is scheduled for October 24, 2012 in the United Kingdom&lt;ref&gt;{{cite web|url=http://www.digitaluk.co.uk/when_do_i_switch |title=When do I switch? |accessdate=2009-11-02 |work=Digital UK }}&lt;/ref&gt; and Ireland,&lt;ref&gt;{{Cite web|url=http://www.digitaltelevision.ie/News/launch+of+website.htm|title=Digital Terrestrial Television for Ireland – What are the benefits, when will it happen? New website to answer questions}}&lt;/ref&gt;by October 31, 2012 in India (select cities only), by December 31, 2013 in Australia,&lt;ref&gt;{{cite web|url=http://www.digitalready.gov.au/ |title=When do I switch? |accessdate=2010-05-14 |work=Digital Ready AU }}&lt;/ref&gt; by 2015 in the Philippines and Uruguay and by 2017 in Costa Rica.
+
+===Disappearance of TV-audio receivers===
+Prior to the conversion to digital TV, analog television broadcast audio for TV channels on a separate FM carrier frequency  from the video signal. This FM audio signal could be heard using standard radios equipped with the appropriate tuning circuits.
+
+However, after the relatively recent [[digital television transition|transition of many countries to digital TV]], no portable radio manufacturer has yet developed an alternative method for portable radios to play just the audio signal of digital TV channels. ([[DTV radio]] is not the same thing.)
+
+=== Environmental issues ===
+The adoption of a broadcast standard incompatible with existing analog receivers has created the problem of large numbers of analog receivers being discarded during [[digital television transition]]. An estimated 99 million unused analog TV receivers are currently in storage in the US alone&lt;ref&gt;[http://www.jsonline.com/news/wisconsin/38198929.html Unloading that old TV not quite so simple], Lee Bergquist, [[Milwaukee Journal-Sentinel]], January 23, 2009&lt;/ref&gt; and, while some obsolete receivers are being retrofitted with converters, many more are simply dumped in [[landfill]]s&lt;ref&gt;[http://www.tonawanda-news.com/local/local_story_027233552.html North Tonawanda: council discusses future TV disposal], Neale Gulley, Tonawanda News, January 27, 2009&lt;/ref&gt; where they represent a source of toxic metals such as [[lead]] as well as lesser amounts of materials such as [[barium]], [[cadmium]] and [[chromium]].&lt;ref&gt;[http://www.wltx.com/news/story.aspx?storyid=69896&amp;catid=306 Old Toxic TVs Cause Problems], USA TODAY, January 27, 2009&lt;/ref&gt;
+
+While the [[glass]] in [[cathode ray tube]]s contains an average of {{convert|3.62|kg|lb}} of lead&lt;ref&gt;[http://news.bbc.co.uk/1/hi/technology/7820229.stm Campaigners highlight 'toxic TVs'], Maggie Shiels, [[BBC News]], 9 January 2009&lt;/ref&gt; {{Verify credibility|date=July 2011}} (amount varies from 1.08&amp;nbsp;lb to 11.28&amp;nbsp;lb, depending on screen size but the lead is &quot;stable and immobile&quot;&lt;ref&gt;{{cite web |title=Lead in Cathode Ray Tubes (CRTs) Information Sheet** |date=2001-11-30 |url=http://www.premierinc.com/quality-safety/tools-services/safety/topics/computers/downloads/k_3_lead_in_crts.pdf |format=PDF |page=1 |publisher=[[Electronic Industries Alliance]] |accessdate=2009-09-29}}&lt;/ref&gt;) which can have long-term negative effects on the environment if dumped as landfill,&lt;ref&gt;{{cite journal |first=C.S. |last=Poon |title=Management of CRT glass from discarded computer monitors and TV sets |year=2008 |journal=Waste Management |volume=28 |pages=1499–1499 |url=http://ewasteguide.info/biblio/management-cr |doi=10.1016/j.wasman.2008.06.001 |quote=number of studies have demonstrated that the neck and funnel glasses of CRT are hazardous wastes, while the panel glass exhibits little toxicity. |accessdate=2009-09-29 |pmid=18571917 |issue=9}}&lt;/ref&gt; the glass envelope can be recycled at suitably equipped facilities.&lt;ref&gt;[http://www.wcsh6.com/news/local/story.aspx?storyid=99680&amp;catid=2 What To Do With Your Old TV's], Mike Webster, [[WCSH-TV]], January 28, 2009&lt;/ref&gt; Other portions of the receiver may be subject to disposal as [[hazardous material]].
+
+Local restrictions on disposal of these materials vary widely; in some cases [[second-hand store]]s have refused to accept working color television receivers for resale due to the increasing costs of disposing of unsold TVs. Those [[thrift store]]s which are still accepting donated TVs have reported significant increases  in good-condition working used television receivers abandoned by viewers who often expect them not to work after digital transition.&lt;ref&gt;[http://www.sun-sentinel.com/business/custom/consumer/sfl-flhlpvasquez0119sbjan19,0,4669489.column Many people throwing out perfectly good TVs over digital confusion], Daniel Vasquez, Sun-Sentinel, Florida, January 19, 2009&lt;/ref&gt;
+
+In Michigan, one recycler has estimated that as many as one household in four will dispose of or recycle a TV set in the next year.&lt;ref&gt;[http://detnews.com/apps/pbcs.dll/article?AID=/20090123/METRO/901230383 Trashing the tube: Digital conversion may spark glut of toxic waste], Jennifer Chambers, [[Detroit News]], January 23, 2009&lt;/ref&gt; The digital television transition, migration to [[high-definition television]] receivers and the replacement of CRTs with flatscreens are all factors in the increasing number of discarded analog CRT-based television receivers.
+
+=== Technical limitations ===
+{{Unreferenced section|date=November 2009}}
+
+==== Compression artifacts and allocated bandwidth ====
+DTV images have some picture defects that are not present on analog television or motion picture cinema, because of present-day limitations of bandwidth and compression algorithms such as [[MPEG-2]]. This defect is sometimes referred to as &quot;[[mosquito noise]]&quot;.&lt;ref&gt;{{cite web
+ | author=Le Dinh, Phuc-Tue; Patry, Jacques
+ | url=http://www.videsignline.com/howto/180207350
+ | title=Video compression artifacts and MPEG noise reduction
+ | work=ideo Imaging DesignLine | date=February 24, 2006
+ | accessdate=April 30, 2010 }}&lt;/ref&gt;
+
+Because of the way the human visual system works, defects in an image that are localized to particular features of the image or that come and go are more perceptible than defects that are uniform and constant.  However, the DTV system is designed to take advantage of other limitations of the human visual system to help mask these flaws, e.g. by allowing more [[compression artifacts]] during fast motion where the eye cannot track and resolve them as easily and, conversely, minimizing artifacts in still backgrounds that may be closely examined in a scene (since time allows).
+
+=== Effects of poor reception ===
+Changes in signal reception from factors such as degrading antenna connections or changing weather conditions may gradually reduce the quality of analog TV. The nature of digital TV results in a perfectly decodable video initially, until the receiving equipment starts picking up interference that overpowers the desired signal or if the signal is too weak to decode. Some equipment will show a garbled picture with significant damage, while other devices may go directly from perfectly decodable video to no video at all or lock up. This phenomenon is known as the digital [[cliff effect]].
+
+For remote locations, distant channels that, as analog signals, were previously usable in a snowy and degraded state may, as digital signals, be perfectly decodable or may become completely unavailable. The use of higher frequencies will add to these problems, especially in cases where a clear line-of-sight from the receiving antenna to the transmitter is not available.
+
+== Timeline of transition ==
+{{Further|Digital television transition}}
+
+== See also ==
+* [[Broadcast television systems]]
+
+== Notes &amp; references ==
+{{Reflist|2}}
+
+== Further reading ==
+* [[Jeffrey A. Hart|Hart, Jeffrey A.]], [http://inethub.olvi.net.ua/ftp/Library/SomeLibrary/Techno/Hart%20J.A.%20-%20Technology,%20Television%20and%20Competition%5Bc%5D%20The%20Politics%20of%20Digital%20TV%20%282004%29%28en%29.pdf ''Television, technology, and competition : HDTV and digital TV in the United States, Western Europe, and Japan''], New York : Cambridge University Press, 2004. ISBN 0-521-82624-1
+
+== External links ==
+{{Commons category|Digital television}}
+*[http://engineering.utsa.edu/~dakopian/teaching_files/WirelessComm/CommunicationForTV/OverviewDTV.pdf Overview of Digital Television Development Worldwide] [[Proceedings of the IEEE]], VOL. 94, NO. 1, JANUARY 2006 ([[University of Texas at San Antonio]])
+* [http://www.dtv.gov/ The FCC's U.S. consumer-oriented DTV website]
+* [http://www.ricability-digitaltv.org.uk/ Digital TV Consumer test reports - UK Government-funded website to support Digital Switchover]
+* [http://www.simplifydigital.co.uk/digital-tv/ The UK's Ofcom accredited impartial comparison service for digital TV]
+* {{wikiHow|Set-up-a-DTV-Digital-Converter-Box-and-Antenna|Set up a DTV Digital Converter Box and Antenna}}
+* {{wikiHow|Scan-for-DTV-Channels-Using-a-Digital-TV-Converter-Box|Scan for DTV Channels Using a Digital TV Converter Box (and why this must be done 11 June 2009 in US)}}
+* {{wikiHow|Use-Your-Older-VCR%2C-TiVo%2C-or-DVR-With-a-DTV-Converter-Box|Use Your Older VCR, TiVo, or DVR With a DTV Converter Box}}
+* [http://www.hdtvantenna.com/ Finding-the-Right-DTV-Antenna-for-your-location]
+
+{{Digital television deployments}}
+{{Telecommunications}}
+
+{{DEFAULTSORT:Digital Television}}
+[[Category:Digital television| ]]
+[[Category:History of television]]
+[[Category:Film and video technology]]
+[[Category:Television terminology]]
+
+[[af:Digitale televisie]]
+[[ar:تلفزة رقمية]]
+[[bg:Цифрова телевизия]]
+[[ca:Televisió digital]]
+[[da:Digitalt tv]]
+[[de:Digitales Fernsehen]]
+[[et:Digitelevisioon]]
+[[es:Televisión digital]]
+[[eo:Cifereca televido]]
+[[fr:Télévision numérique]]
+[[gl:Televisión dixital]]
+[[ko:디지털 텔레비전]]
+[[id:Televisi digital]]
+[[is:Stafrænt sjónvarp]]
+[[it:Televisione digitale]]
+[[lo:ໂທລະພາບແບບດິຈິຕໍລ໌]]
+[[la:Televisio digitalis]]
+[[lv:Ciparu televīzija]]
+[[hu:Digitális televíziózás]]
+[[ms:Televisyen digital]]
+[[nl:Digitale televisie]]
+[[ja:デジタルテレビ放送]]
+[[no:Digital-TV]]
+[[nn:Digitalt fjernsyn]]
+[[pl:Telewizja cyfrowa]]
+[[pt:Televisão digital]]
+[[ru:Цифровое телевидение]]
+[[sk:Digitálna televízia]]
+[[sl:Digitalna televizija]]
+[[fi:Digitaalitelevisio]]
+[[sv:Digital television]]
+[[th:โทรทัศน์ระบบดิจิทัล]]
+[[uk:Цифрове телебачення]]
+[[vi:Truyền hình kỹ thuật số]]
+[[zh:数字电视]]</text>
+      <sha1>e39yyr9t2ncrci34j56e11io2gxmr5j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,752 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Northern Ireland</title>
+    <ns>0</ns>
+    <id>21265</id>
+    <revision>
+      <id>518892906</id>
+      <parentid>518319804</parentid>
+      <timestamp>2012-10-20T16:48:49Z</timestamp>
+      <contributor>
+        <username>Gerakibot</username>
+        <id>4112738</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.1) (Robot: Adding [[bar:Nordirland]]</comment>
+      <text xml:space="preserve" bytes="120928">{{For|the European Parliament constituency|Northern Ireland (European Parliament constituency)}}
+{{pp-semi-indef}}{{Use British English|date=May 2012}}
+{{pp-move-indef}}
+{{Infobox country
+|conventional_long_name = Northern Ireland
+|native_name        = ''Tuaisceart Éireann&lt;br /&gt;Norlin Airlann''
+|motto              =
+|image_map          = Northern Ireland in the UK and Europe.svg
+|map_caption        = {{map caption|location_color=dark green|subregion=the United Kingdom|subregion_color=light green|region=the European continent|region_color=dark grey}}
+|official_languages = English&lt;br/&gt;Irish&lt;br/&gt;[[Ulster Scots dialects|Ulster Scots]]{{Smallsup|1}}
+|demonym =
+|common_name        = Northern Ireland
+|capital            = [[Belfast]]
+|latd=54 |latm=35.456 |latNS=N |longd=5 |longm=50.4 |longEW=W
+|largest_city       = Belfast
+|government_type    =  [[Consociational]] [[Devolution in the United Kingdom|devolved government]] within a [[constitutional monarchy]]
+|leader_title1      = [[Monarchy of the United Kingdom|Monarch]]
+|leader_name1       = [[Elizabeth II]]
+|leader_title2      = [[First Minister and deputy First Minister|First Minister]]
+|leader_name2       = [[Peter Robinson (politician)|Peter Robinson]] [[Member of the Legislative Assembly (Northern Ireland)|MLA]]
+|leader_title3      = [[First Minister and deputy First Minister|deputy First Minister]]
+|leader_name3       = {{nowrap|[[Martin McGuinness]] [[Member of Parliament|MP]] [[Member of the Legislative Assembly (Northern Ireland)|MLA]] }} 
+|leader_title4      = [[Prime Minister of the United Kingdom]]
+|leader_name4       = [[David Cameron]] [[Member of Parliament|MP]] 
+|leader_title5      = [[Secretary of State for Northern Ireland|Secretary of State]] &lt;br/&gt; (in the [[UK government]])
+|leader_name5       = [[Theresa Villiers]] [[Member of Parliament|MP]]
+|sovereignty_type   = Establishment
+|established_event1 = {{nowrap|[[Government of Ireland Act 1920|Government of Ireland Act]]}}
+|established_date1  = 3 May 1921
+|legislature = [[Northern Ireland Assembly]]
+|area_rank          =
+|area_magnitude     = 1 E10
+|area_km2           = 13,843
+|area_sq_mi         = 5,345
+|percent_water      =
+|population_estimate      = 
+|population_estimate_rank =
+|population_estimate_year = 
+|population_census        = 1,810,900 &lt;ref name=http://www.irishtimes.com/newspaper/breaking/2012/0716/breaking24.html&gt;{{cite web|title=NI population highest ever recorded|url=http://www.irishtimes.com/newspaper/breaking/2012/0716/breaking24.html|publisher=Irish Times|accessdate=16 July 2012}}&lt;/ref&gt;  
+|population_census_year   = 2011
+|population_density_km2   = 131
+|population_density_sq_mi = 339
+|population_density_rank  =
+|ethnic_groups = 99.15% [[White people|White]] (91.0% Northern Ireland born, 8.15% other white) &lt;br/&gt; 0.41% [[Asian people|Asian]] &lt;br/&gt; 0.10% [[Irish Traveller]] &lt;br/&gt; 0.34% others.&lt;ref&gt;{{cite web|url=http://www.nisranew.nisra.gov.uk/census/Excel/commissioned_output/EXT20032908c.xls |title=Northern Ireland Census 2001 Commissioned Output |publisher=[[NISRA]] |year= 2001 |accessdate=8 December 2009}}&lt;/ref&gt;
+|GDP_PPP            = £33.2 billion
+|GDP_PPP_year       = 2002
+|GDP_PPP_per_capita = £19,603
+|currency           = [[Pound sterling]]
+|currency_code      = GBP
+|country_code       = UKN
+|time_zone          = GMT
+|date_format     = dd/mm/yyyy ([[Anno Domini|AD]])
+|drives_on          = left
+|utc_offset         = +0
+|time_zone_DST      = BST
+|utc_offset_DST     = +1
+|cctld              = [[.uk]]{{Smallsup|2}}
+|calling_code       = [[Telephone numbers in the United Kingdom|+44]]{{Smallsup|3}}
+|footnote1 = [[Languages in the United Kingdom|Officially recognised languages]]: Northern Ireland has no official language. The use of English has been established through precedent. Irish and Ulster Scots are officially recognised minority languages
+|footnote2 = [[.ie]], in common with the [[Republic of Ireland]], and also [[.eu]], as part of the [[European Union]]. [[ISO 3166-1]] is [[Great Britain|GB]], but [[.gb]] is unused
+|footnote3 = +44 is always followed by 28 when calling landlines. The code is 028 within the UK and 048 from the Republic of Ireland
+}}
+
+'''Northern Ireland''' ({{lang-ga|Tuaisceart Éireann}} {{IPA-ga|ˈt̪ˠuəʃcəɾˠt̪ˠ ˈeːɾʲən̪ˠ|pron|Tuaisceart_Eireann.ogg}}, [[Ulster Scots dialects|Ulster Scots]]: ''Norlin Airlann'' or ''Norlin Airlan'') is [[Countries of the United Kingdom|a part]] of the [[United Kingdom]] in the north-east of the island of [[Ireland]]. It is [[#descriptions|variously described]] as a [[Countries of the United Kingdom|country]], [[ISO 3166-2:GB|province]] or [[NUTS regions|region]] of the UK, amongst other terms.&lt;ref name=&quot;alphabeticalNI&quot;&gt;{{cite|author1=S. Dunn|author2=H. Dawson|year=2000|title=An Alphabetical Listing of Word, Name and Place in Northern Ireland and the Living Language of Conflict|publisher=Edwin Mellen Press|location=Lampeter|quote=One specific problem - in both general and particular senses - is to know what to call Northern Ireland itself: in the general sense, it is not a country, or a province, or a state - although some refer to it contemptuously as a statelet: the least controversial word appears to be jurisdiction, but this might change.}}&lt;/ref&gt;&lt;ref name=&quot;interpretingNI&quot;&gt;{{cite|author1=J. Whyte|author2=G. FitzGerald|year=1991|title=Interpreting Northern Ireland|publisher=Oxford University Press|location=Oxford|quote=One problem must be adverted to in writing about Northern Ireland. This is the question of what name to give to the various geographical entities. These names can be controversial, with the choice often revealing one's political preferences. ... some refer to Northern Ireland as a 'province'. That usage can arouse irritation particularly among nationalists, who claim the title 'province' should be properly reserved to the four historic provinces of Ireland-Ulster, Leinster, Munster, and Connacht. If I want to a label to apply to Northern Ireland I shall call it a 'region'. Unionists should find that title as acceptable as 'province': Northern Ireland appears as a region in the regional statistics of the United Kingdom published by the British government.}}&lt;/ref&gt;&lt;ref name=&quot;placeApart&quot;&gt;{{cite|author=D. Murphy|year=1979|title=A Place Apart|publisher=Penguin Books|location=London|quote=Next - what noun is appropriate to Northern Ireland? 'Province' won't do since one-third of the province is on the wrong side of the border. 'State' implies more self-determination than Northern Ireland has ever had and 'country' or 'nation' are blatantly absurd. 'Colony' has overtones that would be resented by both communities and 'statelet' sounds too patronizing, though outsiders might consider it more precise than anything else; so one is left with the unsatisfactory word 'region'.}}&lt;/ref&gt; Northern Ireland shares [[Republic of Ireland–United Kingdom border|a border]] with the [[Republic of Ireland]] to the south and west. As of [[United Kingdom Census 2011|2011]], its population was 1,810,900, constituting about 30% of the island's total population and about 3% of the [[population of the United Kingdom]]. Since the signing of the [[Good Friday Agreement]] in 1998, Northern Ireland is largely self-governing. According to the agreement, Northern Ireland co-operates with the rest of Ireland – from which it was [[Partition of Ireland|partitioned in 1921]] – on some policy areas, while other areas are [[Reserved matters|reserved]] for the [[Government of the United Kingdom]], though the Republic of Ireland &quot;may put forward views and proposals&quot;.&lt;ref name=&quot;gfa&quot;&gt;{{citation|url=http://www.nio.gov.uk/agreement.pdf|title=Agreement reached in the multi-party negotiation|author1=Government of the United Kingdom of Great Britain and Northern Ireland|author2=Government of Ireland|year=1998}}&lt;/ref&gt;
+
+Northern Ireland was for many years the site of a violent and bitter inter-communal conflict – [[the Troubles]] – which was caused by divisions between [[Nationalists (Ireland)|nationalists]], who see themselves as Irish and are predominantly Roman Catholic, and [[Unionism in Ireland|unionists]], who see themselves as British and are predominantly Protestant. (Additionally, people from both sides of the community may describe themselves as Northern Irish.)&lt;ref&gt;{{cite web |url=http://www.ark.ac.uk/nilt/2010/Community_Relations/NINATID.html |title=Which of these best describes the way you think of yourself? |year=2011 |work=Northern Ireland Life and Times Survey |accessdate=21 August 2011}}&lt;/ref&gt; Unionists want Northern Ireland to remain as a part of the United Kingdom,&lt;ref&gt;{{cite web |url=http://www.uup.org/policy/standing-up-for-northern-ireland/index.php |archiveurl=http://web.archive.org/web/20090504140541/http://www.uup.org/policy/standing-up-for-northern-ireland/index.php |archivedate=4 May 2009 |title=Standing up for Northern Ireland |publisher=[[Ulster Unionist Party]] |accessdate=2 August 2008}}&lt;/ref&gt; while nationalists want [[United Ireland|reunification]] with the rest of Ireland, independent of British rule.&lt;ref&gt;Richard Jenkin, 1997, ''Rethinking ethnicity: arguments and explorations'', SAGE Publications: London: &quot;In Northern Ireland the objectives of contemporary nationalists are the reunification of Ireland and the removal of British government.&quot;&lt;/ref&gt;&lt;ref&gt;Peter Dorey, 1995, ''British politics since 1945'', Blackwell Publishers: Oxford: &quot;Just as some Nationalists have been prepared to use violence in order to secure Irish reunification, so some Unionists have been prepared to use violence in order to oppose it.&quot;&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.sinnfein.ie/policies/document/155 |title=Strategy Framework Document: Reunification through Planned Integration: Sinn Féin’s All Ireland Agenda |archiveurl=http://web.archive.org/web/20060716075752/http://www.sinnfein.ie/policies/document/155 |archivedate=16 July 2006}} Sinn Fein. Retrieved 2 August 2008.&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.sdlp.ie/policy_details.php?id=78 |title=Policy Summaries: Constitutional Issues |archiveurl=http://web.archive.org/web/20090618145438/http://www.sdlp.ie/policy_details.php?id=78 |archivedate=18 June 2009 |publisher=[[Social Democratic and Labour Party]] |accessdate=2 August 2008}}&lt;/ref&gt; Since 1998, most of the paramilitary groups involved in the Troubles have ceased their armed campaigns.
+
+[[Economy of Northern Ireland|Northern Ireland]] has traditionally been the most industrialised region of the island. After declining as a result of [[The Troubles|political and social turmoil]] in the second half of the 20th century, it has grown significantly since the 1990s. This is in part due to a &quot;peace dividend&quot; and in part due to links and increased trade with the Republic of Ireland.
+
+Prominent [[Culture of Northern Ireland|artists and sports persons]] from Northern Ireland include [[Van Morrison]], [[Rory McIlroy]] and [[George Best]]. Others from that part of the island prefer to define themselves as Irish, e.g. [[Seamus Heaney]] and [[Liam Neeson]]. Cultural links between Northern Ireland, the rest of Ireland and the rest of the UK are complex, with Northern Ireland sharing both the [[culture of Ireland]] and the [[culture of the United Kingdom]]. In most sports, the island of Ireland fields a single team, a notable exception being association football. Northern Ireland [[Northern Ireland at the Commonwealth Games|competes separately]] at the [[Commonwealth Games]] and athletes from Northern Ireland may compete for either [[Great Britain at the Olympics|Great Britain]] or [[Ireland at the Olympics|Ireland]] at the [[Olympic Games]].
+
+==History==
+{{Main|History of Northern Ireland}}
+{{See also|History of Ireland}}
+[[Image:CIMG1495 ScraboHorizView.JPG|thumb|left|[[Scrabo Tower]], [[County Down]]]]
+The region that is now Northern Ireland was the bedrock of the [[Nine Years War (Ireland)|Irish war of resistance]] against [[Kingdom of England|English]] [[Plantations of Ireland|programmes of colonialism]] in the late 16th century. The English-controlled [[Kingdom of Ireland]] had been declared by the English king [[Henry VIII of England|Henry VIII]] in 1542, but Irish resistance made English control fragmentary. Following Irish defeat at the [[Battle of Kinsale]], though, the region's [[Gaels|Gaelic]], Roman Catholic [[aristocracy]] [[Flight of the Earls|fled to continental Europe]] in 1607 and the region became subject to major programmes of colonialism by Protestant English (mainly [[Anglican]]) and Scottish (mainly [[Presbyterianism|Presbyterian]]) settlers. Between 1610 and 1717 perhaps as many as 100,000 Lowlanders came across from Scotland, and by the latter date there were some five Scots to every three Irishmen and one Englishman in Ulster.&lt;ref&gt;{{cite journal |url=http://www.americanheritage.com/articles/magazine/ah/1970/1/1970_1_28.shtml |title=The Scotch-Irish |journal=[[American Heritage Magazine]] |author=James G. Leyburn |date=December 1970 |volume= 22 |issue=1 |archiveurl=http://web.archive.org/web/20081203112227/http://www.americanheritage.com/articles/magazine/ah/1970/1/1970_1_28.shtml |archivedate=3 December 2008}}&lt;/ref&gt; [[Irish Rebellion of 1641|A rebellion in 1641]] by Irish aristocrats against English rule resulted in a massacre of settlers in Ulster in the context of a [[Wars of the Three Kingdoms|war breaking out between England, Scotland and Ireland]] fuelled by religious intolerance in government. Victories by English forces in that war and further Protestant victories in the [[Williamite War in Ireland]] toward the close of the 17th century solidified [[Church of Ireland|Anglican]] rule in Ireland. In Northern Ireland, the iconic victories of the [[Siege of Derry]] (1689) and the [[Battle of the Boyne]] (1690) in this latter war are still celebrated today by the [[Unionism in Ireland|Unionist]] community (both Anglican and Presbyterian).
+
+Following the victory of 1691, and contrary to the terms of the [[Treaty of Limerick]], a series of [[penal laws]] was passed  by the [[Protestant Ascendancy|Anglican ruling class]] in Ireland. Their intention was to materially disadvantage the Catholic community and, to a lesser extent, the Presbyterian community. In the context of open institutional discrimination, the 18th century saw [[secret societies|secret, militant societies]] develop in communities in the region and act on [[Sectarianism|sectarian]] tensions in violent attacks. These events escalated at the end of the century following an event known as the [[Battle of the Diamond]], which saw the supremacy of the Anglican and Presbyterian [[Peep o'Day Boys]] over the Catholic [[Defenders (Ireland)|Defenders]] and leading to the formation of the (Anglican) [[Orange Order]]. [[1798 Rebellion|A rebellion in 1798]] led by the cross-community Belfast-based [[Society of the United Irishmen]] and inspired by the [[French Revolution]] sought to break the constitutional ties between Ireland and Britain and unite Irishmen and -women of all communities. Following this, in an attempt to quell sectarianism and force the removal of discriminatory laws (and to prevent the spread of French-style republicanism to Ireland), the government of the [[Kingdom of Great Britain]] pushed for the two kingdoms to be merged. The new state, formed in 1801, the [[United Kingdom of Great Britain and Ireland]], was governed from a single government and parliament based in London.
+
+Between 1717 and 1775 some 250,000 people from Ulster emigrated to the American colonies.&lt;ref&gt;{{Cite book
+  | last = Thernstrom
+  | first = Stephan
+  | title = Harvard encyclopedia of American ethnic groups
+  | url = http://books.google.com/books?id=npQ6Hd3G4kgC&amp;pg=PA896&amp;dq#v=onepage&amp;q=&amp;f=false
+  | publisher=Harvard University Press
+  | year = 1980
+  | page = 896
+  | isbn = 0-674-37512-2
+  | accessdate =29 October 2011}}
+&lt;/ref&gt; It is estimated that there are more than 27&amp;nbsp;million descendants of the [[Ulster Scots people|Scots-Irish]] migration now living in the U.S.&lt;ref&gt;{{cite web|url=http://www.powells.com/biblio/1-9780767916899-1 |title=Born Fighting: How the Scots-Irish Shaped America |publisher=Powells.com |date=12 August 2009 |accessdate=30 April 2010}}&lt;/ref&gt;
+
+===Partition of Ireland===
+[[Image:Carson signing Solemn League and Covenant.jpg|thumbnail|Signing of the [[Ulster Covenant]] in 1912 in opposition to Home Rule]]
+During the 19th century, [[Catholic Emancipation|legal reforms]] started in the late 18th century removed statutory discrimination against Catholics and progressive programmes enabled tenant farmers to buy land from landlords. By the close of the century, autonomy for Ireland within the United Kingdom, known as ''[[Home Rule]]'', was regarded as highly likely. In 1912, it became a certainty. A clash between the House of Commons and House of Lords over a controversial budget produced the [[Parliament Act 1911]], which enabled the veto of the Lords to be overturned. The House of Lords veto had been the unionists' main guarantee that Home Rule would not be enacted, because the majority of members of the House of Lords were unionists. In response, opponents to home Rule from [[Conservative Party (UK)|Conservative and Unionist Party]] leaders such as [[Bonar Law|Andrew Bonar Law]] and by Dublin-based [[barrister]] [[Edward Carson|Sir Edward Carson]] to militant unionists in Ireland threatened the use of violence. In 1914, [[Larne Gun Running|they smuggled thousands of rifles and rounds of ammunition]] from [[German Empire|Imperial Germany]] for use by the [[Ulster Volunteers]], a paramilitary organisation opposed to the implementation of Home Rule.
+
+[[Unionism in Ireland|Unionists]] were in a minority on the island of Ireland as a whole, but were a majority in the northern province of Ulster{{Citation needed|date=April 2011}} and a very large majority in [[County Antrim]] and [[County Down]], with small majorities in [[County Armagh]] and [[County Londonderry]]. There were substantial numbers also concentrated in [[County Fermanagh]] and [[County Tyrone]].&lt;ref name=&quot;StephenGwynn&quot;&gt;{{cite book |url=http://books.google.ie/books?id=IWnrSFoQVw0C&amp;pg=PA525&amp;dq=%22northern+ireland%22+partition+two+counties+nationalist+majority+tyrone+fermanagh#v=onepage&amp;q=%22northern%20ireland%22%20partition%20two%20counties%20nationalist%20majority%20tyrone%20fermanagh&amp;f=false |first=Stephen |last=Gwynn |authorlink=Stephen Gwynn |chapter=The birth of the Irish Free State |title=The History of Ireland |year=2009 |origyear=1923 |publisher=Macmillan |isbn=978-1-113-15514-6}}&lt;/ref&gt; These six counties would later constitute Northern Ireland. All of the remaining 26 counties which later became the Republic of Ireland were overwhelmingly majority-nationalist.
+
+In 1914, the ''[[Third Home Rule Act]],'' which contained provision for a &quot;temporary&quot; partition of these six counties from the rest of Ireland, received [[Royal Assent]]. However, its implementation was suspended before it came into effect owing to the outbreak of the [[First World War]]. The war was expected to last only a few weeks but in fact lasted four years. By the end of the war (during which the 1916 [[Easter Rising]] had taken place), the Act was seen as unimplementable. Public opinion in the majority &quot;[[Nationalism (Ireland)|nationalist]]&quot; community (who sought greater independence from Britain) had shifted during the war from a demand for home rule to one for full independence. In 1919, [[David Lloyd George]] proposed a new bill which would divide Ireland into two Home Rule areas: twenty-six counties being ruled from [[Dublin]] and six being ruled from [[Belfast]]. Straddling these two areas would be a shared [[Lord Lieutenant of Ireland]] who would appoint both governments and a [[Council of Ireland]], which Lloyd George believed would evolve into an all-Ireland parliament.&lt;ref&gt;{{cite book|last=Pilkington|first=Colin|authorlink=Colin Pilkington|title=Devolution in Britain Today|publisher=[[Manchester University Press]]|year=2002|page=75|isbn=0-7190-6076-1 }}&lt;/ref&gt; Events had however overtaken the government. In the [[United Kingdom general election, 1918|general election of 1918]], the pro-independence [[Sinn Féin]] won 73 of the 105 parliamentary seats in Ireland and unilaterally established the [[First Dáil]], an extrajudicial parliament in Ireland.
+
+[[Partition of Ireland|Ireland was partitioned]] between Northern Ireland and [[Southern Ireland]] in 1921 under the terms of Lloyd George's [[Government of Ireland Act 1920]]&lt;ref&gt;Northern Ireland became a distinct region of the United Kingdom, by [[Order in Council]] on 3 May 1921 (Statutory Rules &amp; Orders published by authority (SR&amp;O) 1921, No. 533). Its constitutional roots remain the [[Act of Union 1800|Act of Union]], two complementary Acts, one passed by the [[Parliament of Great Britain]], the other by the pre-1801 [[Parliament of Ireland]].&lt;/ref&gt; during the [[Anglo-Irish War|war of independence]] between Ireland and British forces. At the conclusion of that war on 6 December 1922, under the terms of the [[Anglo-Irish Treaty|resulting treaty]], Northern Ireland provisionally became an autonomous part of the newly independent [[Irish Free State]], with the right to opt out of it.
+
+===Northern Ireland===
+[[File:Coat of Arms of Northern Ireland.svg|thumb|left|The [[Coat of Arms of Northern Ireland|coat of arms]] granted in 1924 to the then [[Executive Committee of the Privy Council of Northern Ireland|Government of Northern Ireland]], used officially until that government's [[Northern Ireland Constitution Act 1973|abolition]] in 1973]]
+
+As expected, the [[Parliament of Northern Ireland]] resolved on 7 December 1922 (the day after the establishment of the Irish Free State) to make the following address to the [[George V of the United Kingdom|King]] to exercise, within the one month allowed, the right to opt out of the Irish Free State: ''&quot;Most Gracious Sovereign, We, your Majesty's most dutiful and loyal subjects, the Senators and Commons of Northern Ireland in Parliament assembled, having learnt of the passing of the [[Irish Free State Constitution Act 1922]], being the Act of Parliament for the ratification of the Articles of Agreement for a Treaty between Great Britain and Ireland, do, by this humble Address, pray your Majesty that the powers of the Parliament and Government of the Irish Free State shall no longer extend to Northern Ireland&quot;''.&lt;ref&gt;[http://stormontpapers.ahds.ac.uk/stormontpapers/pageview.html?volumeno=2&amp;pageno=1145#bak-2-1149 Northern Ireland Parliamentary Report, 7 December 1922]&lt;/ref&gt;&lt;ref&gt;[http://www.nationalarchives.ie/topics/anglo_irish/dfaexhib2.html Anglo-Irish Treaty, sections 11, 12]&lt;/ref&gt; Shortly afterwards, [[Irish Boundary Commission|a commission]] was established to decide on the territorial boundaries between the Irish Free State and Northern Ireland. Owing to the outbreak of [[Irish Civil War|civil war in the Free State]], the work of the commission was delayed until 1925. Leaders in Dublin expected a substantial reduction in the territory of Northern Ireland, with nationalist areas moving to the Free State. However the commission's report recommended only that some small portions of land should be ceded from the Free State to Northern Ireland. To prevent argument, this report was suppressed and, in exchange for a waiver to the Free State's obligations to the UK's public debt and the dissolution of the Council of Ireland (sought by the [[Government of Northern Ireland]]), the initial six-county border was maintained with minor changes.
+
+In June 1940, to encourage the neutral Irish state to join with the [[Allies of World War II|Allies]], British Prime Minister [[Winston Churchill]] indicated to the [[Taoiseach]] [[Éamon de Valera]] that the United Kingdom would push for Irish unity, but believing that Churchill could not deliver, de Valera declined the offer.&lt;ref&gt;&quot;Anglo-Irish Relations, 1939–41: A Study in Multilateral Diplomacy and Military Restraint&quot; in ''Twentieth Century British History'' (Oxford Journals, 2005), ISSN 1477-4674&lt;/ref&gt; (The British did not inform the Government of Northern Ireland that they had made the offer to the Dublin government, and De Valera's rejection was not publicised until 1970).
+
+The [[Ireland Act 1949]] gave the first legal guarantee to the [[Parliament of Northern Ireland|Parliament]] and [[Executive Committee of the Privy Council of Northern Ireland|Government]] of Northern Ireland that the region would not cease to be part of the United Kingdom without the consent of the majority of its citizens.
+
+==The Troubles==
+{{Main|The Troubles}}
+
+[[The Troubles]], starting in the late 1960s, consisted of about thirty years of recurring acts of intense violence between elements of Northern Ireland's [[Irish nationalism|nationalist]] community (principally Roman Catholic) and [[Unionist (Ireland)|unionist]] community (principally Protestant) during which 3,254 people were killed.&lt;ref&gt;Malcolm Sutton’s book, “Bear in Mind These Dead: An Index of Deaths from the Conflict in Ireland 1969–1993.&lt;/ref&gt; The conflict was caused by the disputed status of Northern Ireland within the United Kingdom and the discrimination against the nationalist minority by the dominant unionist majority.&lt;ref&gt;{{cite web|url=http://cain.ulst.ac.uk/hmso/cameron2.htm#chap16 |title=The Cameron Report – Disturbances in Northern Ireland (1969) |publisher=http://cain.ulst.ac.uk |accessdate=29 October 2011}}&lt;/ref&gt; From 1967 to 1972 the [[Northern Ireland Civil Rights Association]], modelling itself on the US civil rights movement, led a campaign of [[civil resistance]] to anti-Catholic discrimination in housing, employment, policing, and electoral procedures (the franchise being limited to property-owning rate-payers, thereby excluding most Catholics). However NICRA's campaign, and the reaction to it, proved to be a precursor to a more violent period.&lt;ref&gt;Richard English, “The Interplay of Non-violent and Violent Action in Northern Ireland, 1967–72”, in [[Adam Roberts (scholar)|Adam Roberts]] and [[Timothy Garton Ash]] (eds.), ''Civil Resistance and Power Politics: The Experience of Non-violent Action from Gandhi to the Present'', Oxford University Press, 2009, ISBN 978-0-19-955201-6, pp. 75–90. [http://books.google.com/books?id=BxOQKrCe7UUC&amp;dq=Civil+resistance+and+power+politics&amp;source=gbs_navlinks_s]&lt;/ref&gt; As early as 1969, armed campaigns of paramilitary groups began, including the [[Provisional IRA campaign 1969-1997|Provisional IRA campaign of 1969–1997]] which was aimed at the end of British rule in Northern Ireland and the creation of a new &quot;all-Ireland&quot;, &quot;thirty-two county&quot; [[Irish Republic]], and the [[Ulster Volunteer Force (1966)|Ulster Volunteer Force]], formed in 1966 in response to the perceived erosion of both the British character and unionist domination of Northern Ireland. The state security forces – the [[British Army]] and the police (the [[Royal Ulster Constabulary]]) – were also involved in the violence. The British government's point of view is that its forces were neutral in the conflict, trying to uphold law and order in Northern Ireland and the right of the people of Northern Ireland to democratic self-determination. [[Irish republicans]] regarded the state forces as &quot;[[combatants]]&quot; in the conflict, alleging [[The Troubles#Collusion between security forces and loyalist paramilitaries|collusion between the state forces and the loyalist paramilitaries]] as proof of this (loyalists are against the union of Ireland).  The &quot;Ballast&quot; investigation by the [[Police Ombudsman]] has confirmed that British forces, and in particular the RUC, did collude with [[Ulster Loyalism|loyalist]] paramilitaries, were involved in murder, and did obstruct the course of justice when such claims had previously been investigated,&lt;ref name=&quot;Ballast&quot;&gt;[http://www.policeombudsman.org//Publicationsuploads/BALLAST%20PUBLIC%20STATEMENT%2022-01-07%20FINAL%20VERSION.pdf The Ballast report]: &quot;...the Police Ombudsman has concluded that this was collusion by certain police officers with identified UVF informants.&quot;&lt;/ref&gt; although the extent to which such collusion occurred is still hotly disputed.
+
+As a consequence of the worsening security situation, autonomous regional government for Northern Ireland was suspended in 1972. Alongside the violence, there was a political deadlock between the major political parties in Northern Ireland, including those who condemned violence, over the future status of Northern Ireland and the form of government there should be within Northern Ireland. In 1973, [[Northern Ireland referendum, 1973|Northern Ireland held a referendum]] to determine if it should remain in the United Kingdom, or be part of a united Ireland. The vote went heavily in favour (98.9%) of maintaining the status quo with approximately 57.5% of the total electorate voting in support, but only 1% of Catholics voted following a boycott organised by the [[Social Democratic and Labour Party]] (SDLP).&lt;ref&gt;{{cite news| url=http://news.bbc.co.uk/onthisday/hi/dates/stories/march/9/newsid_2516000/2516477.stm |work=BBC News | title=1973: Northern Ireland votes for union | date=9 March 1973 | accessdate=20 May 2010}}&lt;/ref&gt;
+
+===Peace process===
+{{Main|Northern Ireland peace process}}
+
+The Troubles were brought to an uneasy end by a [[Northern Ireland peace process|peace process]] which included the declaration of ceasefires by most paramilitary organisations and the complete decommissioning of their weapons, the reform of the police, and the corresponding withdrawal of army troops from the streets and from sensitive border areas such as South Armagh and [[Fermanagh]], as agreed by the signatories to the Belfast Agreement (commonly known as the &quot;[[Good Friday Agreement]]&quot;). This reiterated the long-held British position, which had never before been fully acknowledged by successive Irish governments, that Northern Ireland will remain within the United Kingdom until a majority votes otherwise. The [[Constitution of Ireland]] was amended in 1999 to remove a claim of the &quot;Irish nation&quot; to sovereignty over the whole of Ireland (in Article 2), a claim qualified by an acknowledgement that Ireland could only exercise legal control over the territory formerly known as the Irish Free State. The new [[Articles 2 and 3 of the Constitution of Ireland|Articles 2 and 3]], added to the Constitution to replace the earlier articles, implicitly acknowledge that the status of Northern Ireland, and its relationships within the rest of the United Kingdom and with Ireland, would only be changed with the agreement of a majority of voters in both jurisdictions (Ireland voting separately). This aspect was also central to the Belfast Agreement which was signed in 1998 and ratified by referendums held simultaneously in both Northern Ireland and the Republic. At the same time, the British Government recognised for the first time, as part of the prospective, the so-called &quot;Irish dimension&quot;: the principle that the people of the island of Ireland as a whole have the right, without any outside interference, to solve the issues between North and South by mutual consent.&lt;ref name=&quot;Parliament&quot;&gt;[http://www.publications.parliament.uk/pa/cm199394/cmhansrd/1993-12-15/Debate-1.html Parliamentary debate]: &quot;The British government agree that it is for the people of the island of Ireland alone, by agreement between the two parts respectively, to exercise their right of self-determination on the basis of consent, freely and concurrently given, North and South, to bring about a united Ireland, if that is their wish.&quot;&lt;/ref&gt; The latter statement was key to winning support for the agreement from nationalists and republicans. It also established a devolved power-sharing government within Northern Ireland, which must consist of both unionist and nationalist parties.
+
+These institutions were suspended by the [[British Government]] in 2002 after [[Police Service of Northern Ireland]] (PSNI) allegations of spying by people working for Sinn Féin at the Assembly ([[Stormontgate]]). The resulting case against the accused Sinn Féin member collapsed.
+
+On 28 July 2005, the Provisional IRA declared an end to its campaign and has since decommissioned what is thought to be all of its [[arsenal]]. This final act of decommissioning was performed in accordance with the Belfast Agreement of 1998, and under the watch of the [[Independent International Commission on Decommissioning]] and two external church witnesses. Many unionists, however, remain sceptical. This IRA decommissioning is in contrast to Loyalist paramilitaries who have so far refused to decommission many weapons. It is not thought that this will have a major effect on further political progress as political parties linked to Loyalist paramilitaries do not attract significant support and will not be in a position to form part of a government in the near future. Sinn Féin, on the other hand, with their (real and perceived) links to militant republicanism, are the largest nationalist party in Northern Ireland.
+
+Politicians elected to the Assembly at the [[Northern Ireland Assembly election, 2003|2003 Assembly election]] were called together on 15 May 2006 under the Northern Ireland Act 2006&lt;ref&gt;{{cite web|url=http://www.opsi.gov.uk/acts/acts2006/ukpga_20060017_en_1 |title=Northern Ireland Act 2006 (c. 17) |publisher=Opsi.gov.uk |accessdate=16 June 2010}}&lt;/ref&gt; for the purpose of electing a [[First Minister of Northern Ireland]] and a [[deputy First Minister of Northern Ireland]] and choosing the members of an Executive (before 25 November 2006) as a preliminary step to the restoration of devolved government in Northern Ireland.
+
+Following the [[Northern Ireland Assembly election, 2007|election]] held on 7 March 2007, devolved government returned to Northern Ireland on 8 May 2007 with [[Democratic Unionist Party]] (DUP) leader [[Ian Paisley]] and Sinn Féin deputy leader [[Martin McGuinness]] taking office as First Minister and deputy First Minister, respectively.&lt;ref&gt;(BBC)&lt;/ref&gt; The current First Minister is Peter Robinson, having taken over as leader of the Democratic Unionist Party, and the current deputy First Minister is [[Martin McGuinness]] of Sinn Féin.
+
+==Politics==
+{{main|Politics of Northern Ireland}}
+
+===Background===
+
+The main political divide in Northern Ireland is between Unionists or Loyalists who wish to see Northern Ireland continue as part of the United Kingdom and [[Irish Nationalist|Nationalist]]s or [[Irish republicanism|Republicans]] who wish to see Northern Ireland join the rest of Ireland, independent from the United Kingdom.  These two opposing views are linked to deeper cultural divisions. Unionists are overwhelmingly Protestant, descendants of mainly [[Scotland|Scottish]], English, [[Wales|Welsh]] and [[Huguenot]] settlers as well as [[Gaels|Old Gaelic]] Irishmen who had converted to one of the Protestant denominations. Nationalists are predominantly Catholic and descend from the population predating the settlement, with a minority from Scottish Highlanders as well as some converts from Protestantism. Discrimination against nationalists under the [[Parliament Buildings (Northern Ireland)|Stormont]] government (1921–1972) gave rise to the nationalist [[Northern Ireland Civil Rights Association|civil rights movement]] in the 1960s.&lt;ref&gt;{{cite web|url=http://cain.ulst.ac.uk/issues/discrimination/whyte.htm |title=Professor John H. Whyte paper on discrimination in Northern Ireland |publisher=Cain.ulst.ac.uk |accessdate=16 June 2010}}&lt;/ref&gt; 
+
+Some Unionists argue that any discrimination was not just due to religious or political bigotry, but also the result of more complex socio-economic, socio-political and geographical factors.&lt;ref&gt;{{cite web|url=http://cain.ulst.ac.uk/issues/discrimination/sum.htm |title=CAIN website key issues discrimination summary |publisher=Cain.ulst.ac.uk |date=5 October 1968 |accessdate=16 June 2010}}&lt;/ref&gt; Whatever the cause, the existence of discrimination, and the manner in which Nationalist anger at it was handled, were a major contributing factor which led to the long-running conflict known as [[the Troubles]]. The political unrest went through its most violent phase between 1968 and 1994.&lt;ref&gt;Lord Scarman, &quot;Violence and Civil Disturbances in Northern Ireland in 1969: Report of Tribunal of Inquiry&quot; Belfast: HMSO, Cmd 566. (known as the ''Scarman Report'')&lt;/ref&gt;
+
+As of 2007, 36% of the population define themselves as Unionist, 24% as [[Irish Nationalism|Nationalist]] and 40% define themselves as neither.&lt;ref&gt;{{cite web|url=http://www.ark.ac.uk/nilt/2007/Political_Attitudes/UNINATID.html |title=Ark survey, 2007. Answer to the question &quot;Generally speaking, do you think of yourself as a unionist, a nationalist or neither?&quot; |publisher=Ark.ac.uk |date=17 May 2007 |accessdate=16 June 2010}}&lt;/ref&gt; According to a 2009 opinion poll, 69% express longterm preference of the maintenance of Northern Ireland's membership of the United Kingdom (either [[direct rule|directly ruled]] or with [[Devolution|devolved government]]), while 21% express a preference for membership of a united Ireland.&lt;ref&gt;[http://www.ark.ac.uk/nilt/2007/Political_Attitudes/NIRELND2.html Answers to the question &quot;Do you think the long-term policy for Northern Ireland should be for it (one of the following)]&quot;&lt;/ref&gt; This discrepancy can be explained by the overwhelming preference among Protestants to remain a part of the UK (91%), while Catholic preferences are spread across a number of solutions to the constitutional question including remaining a part of the UK (47%), a united Ireland (40%), Northern Ireland becoming an independent state (5%), and those who &quot;don't know&quot; (5%).&lt;ref&gt;[http://www.ark.ac.uk/nilt/2009/Political_Attitudes/NIRELND2.html Ark survey, 2009]. Answers to the question &quot;Do you think the long-term policy for Northern Ireland should be for it to [one of the following]&quot;&lt;/ref&gt; 
+
+Official voting figures, which reflect views on the &quot;national question&quot; along with issues of candidate, geography, personal loyalty and historic voting patterns, show 54% of Northern Ireland voters vote for Pro-Unionist parties, 42% vote for Pro-Nationalist parties and 4% vote &quot;other&quot;. Opinion polls consistently show that the election results are not necessarily an indication of the electorate's stance regarding the constitutional status of Northern Ireland.
+
+Most of the population of Northern Ireland are at least nominally Christian. The ethno-political loyalties are allied, though not absolutely, to the Roman Catholic and Protestant denominations and these are the labels used to categorise the opposing views. This is, however, becoming increasingly irrelevant as the [[Irish Question]] is very complicated. Many voters (regardless of religious affiliation) are attracted to Unionism's [[National conservatism|conservative]] policies, while other voters are instead attracted to the traditionally leftist, nationalist Sinn Féin and SDLP and their respective party platforms for [[Democratic Socialism]] and [[Social Democracy]].&lt;ref name=&quot;autogenerated2009&quot;&gt;{{cite web|url=http://www.ark.ac.uk/nilt/2009/Political_Attitudes/NIRELND2.html |title=NI Life and Times Survey – 2009: NIRELND2 |publisher=Ark.ac.uk |year=2009 |accessdate=13 July 2010}}&lt;/ref&gt;
+
+For the most part, Protestants feel a strong connection with Great Britain and wish for Northern Ireland to remain part of the United Kingdom. Many Catholics however, generally aspire to a United Ireland or are less certain about how to solve the constitutional question. In the 2009 survey by Northern Ireland Life and Times, 47% of Northern Irish Catholics supported Northern Ireland remaining a part of the United Kingdom, either by direct rule (8%) or devolved government (39%).&lt;ref name=&quot;autogenerated2009&quot;/&gt;
+
+Protestants have a slight majority in Northern Ireland, according to the latest Northern Ireland Census. The make-up of the [[Northern Ireland Assembly]] reflects the appeals of the various parties within the population.  Of the 108 [[Member of the Legislative Assembly (Northern Ireland)|MLA]]s, 55 are Unionists and 44 are Nationalists (the remaining nine are classified as &quot;other&quot;).
+
+===Governance===
+{{Main|Elections in Northern Ireland|Northern Ireland law}}
+[[Image:StormontGeneral.jpg|thumb|left|[[Parliament Buildings (Northern Ireland)|Parliament Buildings]] at [[Parliament Buildings (Northern Ireland)|Stormont]], Belfast, seat of the assembly.]]
+
+Since 1998, Northern Ireland has [[devolution|devolved]] government within the United Kingdom. The UK Government and UK Parliament are responsible for [[reserved and excepted matters]]. Reserved matters are a list of policy area (such as [[civil aviation]], [[units of measurement]], and [[human genetics]]), which Parliament may devolve to Northern Ireland Assembly at some time in future. Excepted matters (such as [[international relations]], taxation and elections) are never expected to be considered for devolution. On all other matters, the [[Northern Ireland Executive]] together with the 108-member [[Northern Ireland Assembly]] may legislate and govern for Northern Ireland. Additionally, devolution in Northern Ireland is dependent upon participation by members of the Northern Ireland executive in the [[North/South Ministerial Council]], which co-ordinates areas of co-operation (such as agriculture, education and health) between Northern Ireland and the Republic of Ireland.
+
+Elections to the Northern Ireland Assembly are by [[single transferable vote]] with six representatives (Member of the Legislative Assembly, MLAs) elected from 18 [[List of parliamentary constituencies in Northern Ireland|parliamentary constituencies]]. Eighteen representatives to the lower house of the UK parliament (Members of Parliament, MPs) are elected from the same constituencies using the [[First-past-the-post voting|first-past-the-post]] system. However, not all of these take their seats. Sinn Féin MPs, currently five, refuse to take the oath to serve the Queen that is required of all MPs. In addition, the upper house of the UK parliament, the [[House of Lords]], currently has some 25 appointed [[List of Northern Ireland members of the House of Lords|members from Northern Ireland]]. Northern Ireland itself forms [[Northern Ireland (European Parliament constituency)|a single constituency]] for elections to the [[European Union]].
+
+The [[Northern Ireland Office]] represents the UK government in Northern Ireland on reserved matters and represents Northern Ireland's interests within the UK Government. Additionally, the [[Government of Ireland]] also has the right to &quot;put forward views and proposals&quot; on non-devolved matters in relation to Northern Ireland. The Northern Ireland Office is led by the [[Secretary of State for Northern Ireland]], who sits in the [[Cabinet of the United Kingdom]].
+
+[[Image:StormontChamber.JPG|thumb|right|[[Parliament Buildings (Northern Ireland)|Assembly Chamber]] at [[Parliament Buildings (Northern Ireland)|Stormont]].]]
+Northern Ireland is a distinct legal [[jurisdiction]], separate the two other jurisdictions in the United Kingdom ([[English law|England and Wales]] and [[Scots law|Scotland]]). [[Northern Ireland law]] developed from Irish law that existed before the [[partition of Ireland]] in 1921. Northern Ireland is a [[common law]] jurisdiction and although its common law is similar to that in England and Wales. However, there are some important differences in law and procedure between Northern Ireland and England and Wales. The body of [[Statutory law|statute law]] law affecting Northern Ireland reflects the history of Northern Ireland, including Acts of the Parliament of the United Kingdom, the Northern Ireland Assembly, the former [[Parliament of Northern Ireland]] and the [[Parliament of Ireland]], along with some Acts of the [[Parliament of England]] and of the [[Parliament of Great Britain]] that were extended to Ireland under [[Poynings' Law]] between 1494 and 1782.
+
+=== Citizenship and identity ===
+{{Further2|[[British nationality law]] and [[Irish nationality law]]}}
+
+Several studies and surveys performed between 1971 and 2006 have indicated that, in general, Protestants in Northern Ireland see themselves primarily as ''British'', whereas Roman Catholics regard themselves primarily as ''Irish''.&lt;ref&gt;Breen, R., Devine, P. and Dowds, L. (editors), 1996: ISBN 0-86281-593-2. Chapter 2 [http://cain.ulst.ac.uk/othelem/research/nisas/rep5c2.htm 'Who Wants a United Ireland? Constitutional Preferences among Catholics and Protestants' by Richard Breen (1996), in, Social Attitudes in Northern Ireland: The Fifth Report] Retrieved 24 August 2006; Summary: In 1989—1994, 79% Protestants replied &quot;British&quot; or &quot;Ulster&quot;, 60% of Catholics replied &quot;Irish.&quot;&lt;/ref&gt;&lt;ref&gt;[http://www.ark.ac.uk/nilt/1999/Community_Relations/NINATID.html Northern Ireland Life and Times Survey, 1999;  Module:Community Relations, Variable:NINATID] Summary:72% of Protestants replied &quot;British&quot;. 68% of Catholics replied &quot;Irish&quot;.&lt;/ref&gt;&lt;ref&gt;[http://www.ark.ac.uk/nilt/1999/Community_Relations/BRITISH.html Northern Ireland Life and Times Survey.  Module:Community Relations. Variable:BRITISH.] Summary: 78% of Protestants replied &quot;Strongly British.&quot;&lt;/ref&gt;&lt;ref&gt;[http://www.ark.ac.uk/nilt/1999/Community_Relations/IRISH.html Northern Ireland Life and Times Survey, 1999; Module:Community Relations, Variable:IRISH] Summary: 77% of Catholics replied &quot;Strongly Irish.&quot;&lt;/ref&gt;&lt;ref&gt;Institute of Governance, 2006 ''&quot;National identities in the UK: do they matter?&quot;''
+Briefing No. 16, January 2006; Retrieved from {{PDFlink|{{cite web |url=http://www.institute-of-governance.org/forum/Leverhulme/briefing_pdfs/IoG_Briefing_16.pdf |title=IoG_Briefing |archiveurl=http://web.archive.org/web/20060822152404/http://www.institute-of-governance.org/forum/Leverhulme/briefing_pdfs/IoG_Briefing_16.pdf |archivedate=22 August 2006}}|211&amp;nbsp;KB}} on 24 August 2006. Extract: &quot;Three-quarters of Northern Ireland’s Protestants regard themselves as British, but only 12 per cent of Northern Ireland’s Catholics do so. Conversely, a majority of Catholics (65%) regard themselves as Irish, whilst very few Protestants (5%) do likewise. Very few Catholics (1%) compared to Protestants (19%) claim an Ulster identity but a Northern Irish identity is shared in broadly equal measure across religious traditions.&quot;''Details from attitude surveys are in [[Demographics and politics of Northern Ireland]].''&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.esrcsocietytoday.ac.uk/ESRCInfoCentre/Plain_English_Summaries/governance_and_citizenship/structure/index32.aspx?ComponentId=17242&amp;SourcePageId=11746 |title=L219252024 – Public Attitudes to Devolution and National Identity in Northern Ireland |work=University of York Research Project 2002–2003 |archiveurl=http://web.archive.org/web/20100823123158/http://www.esrcsocietytoday.ac.uk/ESRCInfoCentre/Plain_English_Summaries/governance_and_citizenship/structure/index32.aspx?ComponentId=17242&amp;SourcePageId=11746 |archivedate=23 August 2010}}&lt;/ref&gt;&lt;ref&gt;Northern Ireland: Constitutional Proposals and the Problem of Identity, by J. R. Archer The Review of Politics, 1978&lt;/ref&gt;&lt;ref&gt;{{PDFlink|{{cite web |url=http://www.ucd.ie/spire/text%20files/todd-achangedirishnationalism.pdf |title= Chapter 7 &gt; A changed Irish nationalism? The significance of the Belfast Agreement of 1998 |archiveurl=http://web.archive.org/web/20070510015756/http://www.ucd.ie/spire/text+files/todd-achangedirishnationalism.pdf |archivedate=10 May 2007}}|131&amp;nbsp;KB}} A changed Irish nationalism? The significance of the Belfast Agreement of 1998, by Joseph Ruane and Jennifer Todd&lt;/ref&gt; This does not however account for the complex identities within Northern Ireland, given that many of the population regard themselves as &quot;Ulster&quot; or &quot;Northern Irish&quot;, either as a primary or secondary identity. 
+
+A 2008 survey found that 57% of Protestants described themselves as British, while 32% identified as Northern Irish, 6% as Ulster and 4% as Irish. Compared to a similar survey carried out in 1998, this shows a fall in the percentage of Protestants identifying as British and Ulster, and a rise in those identifying as Northern Irish. The 2008 survey found that 61% of Catholics described themselves as Irish, with 25% identifying as Northern Irish, 8% as British and 1% as Ulster. These figures were largely unchanged from the 1998 results.&lt;ref&gt;{{cite web|url=http://www.ark.ac.uk/nilt/2008/Community_Relations/NINATID.html |title=Northern Ireland Life and Times Survey, 2008; Module:Community Relations, Variable:IRISH |publisher=Ark.ac.uk |date=17 May 2007 |accessdate=16 June 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ark.ac.uk/nilt/1998/Community_Relations/NINATID.html |title=Northern Ireland Life and Times Survey, 1998; Module:Community Relations, Variable:IRISH |publisher=Ark.ac.uk |date=9 May 2003 |accessdate=16 June 2010}}&lt;/ref&gt;
+
+People born in Northern Ireland are, with some exceptions, deemed by UK law to be [[British nationality law|citizens of the United Kingdom]]. They are also, with similar exceptions, entitled to be [[Irish nationality law|citizens of Ireland]]. This entitlement was reaffirmed in the 1998 [[Good Friday Agreement]] between the British and Irish governments, which provides that:
+
+&lt;blockquote&gt;&quot;...it is the birthright of all the people of Northern Ireland to identify themselves and be accepted as Irish or British, or both, as they may so choose, and accordingly [the two governments] confirm that their right to hold both British and Irish citizenship is accepted by both Governments and would not be affected by any future change in the status of Northern Ireland.''&lt;/blockquote&gt;
+
+As a result of the Agreement, the [[Constitution of Ireland|Constitution of the Republic of Ireland]] was amended. The current wording provides that people born in Northern Ireland are entitled to be Irish citizens on the same basis as people from any other part of the island of Ireland.&lt;ref&gt;{{cite web|url=http://www.taoiseach.gov.ie/eng/?docID=243 |title=Department Of the Taoiseach |publisher=Taoiseach.gov.ie |accessdate=16 June 2010}}&lt;/ref&gt;
+
+Neither government, however, extends its citizenship to all persons born in Northern Ireland. Both governments exclude some people born in Northern Ireland, in particular persons born without one parent who is a British or Irish citizen. The Irish restriction was given effect by the [[Twenty-seventh Amendment of the Constitution of Ireland|Twenty-seventh amendment to the Irish Constitution]] in 2004. The position in UK nationality law is that most of those born in Northern Ireland are UK nationals, whether or not they so choose. Renunciation of British citizenship requires the payment of a fee, currently £229.&lt;ref&gt;[http://www.ukba.homeoffice.gov.uk/britishcitizenship/givingupcitizenship/cost/ UK Border Agency website]&lt;/ref&gt;
+
+==Geography and climate==
+{{Main|Geography of Ireland|Geography of the United Kingdom}}
+
+[[Image:Causeway-code poet-4.jpg|thumb|left|The [[Giant's Causeway]], [[County Antrim]]]]
+
+Northern Ireland was covered by an [[ice sheet]] for most of the last [[ice age]] and on numerous previous occasions, the legacy of which can be seen in the extensive coverage of [[drumlin]]s in Counties Fermanagh, Armagh, Antrim and particularly Down. The centrepiece of Northern Ireland's geography is [[Lough Neagh]], at {{convert|151|sqmi|km2|0}} the largest freshwater lake both on the island of Ireland and in the [[British Isles]]. A second extensive lake system is centred on Lower and Upper [[Lough Erne]] in Fermanagh. The largest island of Northern Ireland is [[Rathlin Island|Rathlin]], off the north Antrim coast. [[Strangford Lough]] is the largest inlet in the British Isles, covering {{convert|150|km2|sqmi|0|abbr=on}}.
+
+There are substantial uplands in the [[Sperrin Mountains]] (an extension of the [[Caledonian fold mountains]]) with extensive gold deposits, [[granite]] [[Mourne Mountains]] and [[basalt]] [[Antrim Plateau]], as well as smaller ranges in [[County Armagh|South Armagh]] and along the Fermanagh–Tyrone border. None of the hills are especially high, with [[Slieve Donard]] in the dramatic Mournes reaching {{convert|849|m|ft|0}}, Northern Ireland's highest point. Belfast's most prominent peak is [[Cavehill]]. The volcanic activity which created the Antrim Plateau also formed the eerily geometric pillars of the [[Giant's Causeway]] on the north Antrim coast. Also in north Antrim are the [[Carrick-a-Rede Rope Bridge]], [[Mussenden Temple]] and the [[Glens of Antrim]].
+
+[[Image:Mournes wiki.jpg|thumb|right|The [[Mourne Mountains]], [[County Down]]]]
+
+The Lower and Upper [[River Bann]], [[River Foyle]] and [[River Blackwater, Northern Ireland|River Blackwater]] form extensive fertile lowlands, with excellent [[arable land]] also found in North and East Down, although much of the hill country is marginal and suitable largely for animal husbandry.
+
+The valley of the [[River Lagan]] is dominated by Belfast, whose metropolitan area includes over a third of the population of Northern Ireland, with heavy urbanisation and industrialisation along the Lagan Valley and both shores of [[Belfast Lough]].
+
+The whole of Northern Ireland has a [[maritime climate|temperate maritime climate]], rather wetter in the west than the east, although cloud cover is persistent across the region. The weather is unpredictable at all times of the year, and although the seasons are distinct, they are considerably less pronounced than in interior Europe or the eastern seaboard of North America. Average daytime maximums in Belfast are {{convert|6.5|°C|°F}} in January and {{convert|17.5|°C|°F}} in July. The damp climate and extensive deforestation in the 16th and 17th centuries resulted in much of the region being covered in rich green grassland.{{Citation needed|date=May 2012}} The highest maximum temperature recorded was {{convert|30.8|°C|°F}} at Knockarevan, near [[Garrison, County Fermanagh]] on 30 June 1976 and at Belfast on 12 July 1983.{{Citation needed|date=May 2012}} The lowest minimum temperature recorded was {{convert|-18.7|°C|°F|1}} at [[Castlederg]], [[County Tyrone]] on 23 December 2010.&lt;ref name=MetO2010-12 /&gt;
+
+===Counties===
+
+{{Main|Counties of Northern Ireland}}
+[[Image:MussendenTemple.jpg|thumb|left|[[Mussenden Temple]], [[County Londonderry]]]]
+Northern Ireland consists of six historic [[Counties of Ireland|counties]]: [[County Antrim]], [[County Armagh]], [[County Down]], [[County Fermanagh]], [[County Londonderry]],&lt;ref&gt;Many Nationalists use the name ''County Derry''. {{Selfref|Wikipedia policy is to use Londonderry for the county and Derry for the city. The name usage does not indicate an endorsement for either community's opinions.}}&lt;/ref&gt; [[County Tyrone]]
+
+These counties are no longer used for local government purposes; instead there are twenty-six [[districts of Northern Ireland]] which have different geographical extents, even in the case of those named after the counties from which they derive their name. [[Fermanagh District Council]] most closely follows the borders of the county from which it takes its name. Most districts are based around large towns, for instance Coleraine Borough Council derives its name from the town of Coleraine in County Londonderry.
+
+Although counties are no longer used for governmental purpose, they remain a popular means of describing where places are. They are officially used while applying for an [[Irish passport]], which requires one to state one's county of birth. The name of county then appears in both Irish and English on the passport's information page, as opposed to the town or city of birth on the United Kingdom passport. The [[Gaelic Athletic Association]] still uses the counties as its primary means of organisation and fields representative teams of each [[GAA county]]. The original system of [[License plates of Northern Ireland|car registration numbers]] largely based on counties still remains in use. In 2000 the [[Big Number Change#Northern Ireland|telephone numbering system]] was restructured into an 8 digit scheme with the first digit reflecting the county.
+
+The county boundaries still appear on Ordnance Survey of Northern Ireland Maps and the Phillips Street Atlases, among others. With their decline in official use, there is often confusion surrounding towns and cities which lie near county boundaries, such as Belfast and [[Lisburn]], which are split between counties Down and Antrim (the majorities of both cities, however, are in Antrim).
+
+==Symbols==
+{{See also|Northern Ireland flags issue}}
+[[File:Flax flowers.jpg|thumb|right|The logo for the Northern Ireland assembly is based on the flower of the [[flax]] plant.&lt;ref name=&quot;NI logo&quot;&gt;{{cite web|author=Northern Ireland Assembly Information Office |url=http://www.niassembly.gov.uk/io/logo.htm |title=Northern Ireland Assembly logo |publisher=Niassembly.gov.uk |accessdate=13 November 2010}}&lt;/ref&gt;]]
+
+Northern Ireland comprises a patchwork of communities whose national loyalties are represented in some areas by flags flown from flagpoles or lamp posts. The [[Union Jack]] and the former [[flag of Northern Ireland|Northern Ireland flag]] are flown in some loyalist areas, and the Tricolour, adopted by republicans as the [[flag of Ireland]] in 1848, is flown in some republican areas. Even [[curb (road)|kerbstones]] in some areas are painted red-white-blue or green-white-orange, depending on whether local people express unionist/loyalist or nationalist/republican sympathies.&lt;ref&gt;[http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/7748005.stm Vandals curbed by plastic edging] BBC News, 25 November 2008.&lt;/ref&gt;
+
+The official flag is that of the state having sovereignty over the territory, i.e. the [[Union Flag]].&lt;ref&gt;[http://www.opsi.gov.uk/sr/sr2000/20000347.htm Statutory Rule 2000 No. 347]&lt;/ref&gt; The former Northern Ireland flag, also known as the &quot;[[Ulster Banner]]&quot; or &quot;Red Hand Flag&quot;, is a banner derived from the coat of arms of the [[Government of Northern Ireland]] until 1972. Since 1972, it has had no official status. The Union Flag and the Ulster Banner are used exclusively by unionists. UK flags policy states that in Northern Ireland, &quot;The Ulster flag and the [[Saint Patrick's Saltire|Cross of St Patrick]] have no official status and, under the Flags Regulations, are not permitted to be flown from Government Buildings.&quot;&lt;ref&gt;[http://www.parliament.uk/commons/lib/research/briefings/snpc-04474.pdf The Union Flag and Flags of the United Kingdom] House of Commons Library, 3 June 2008.&lt;/ref&gt;&lt;ref&gt;[http://flags.net/NOIR.htm Northern Irish flags from the World Flag Database].&lt;/ref&gt;
+
+The [[Irish Rugby Football Union]] and the Church of Ireland have used the [[Saint Patrick's Saltire]] or &quot;Cross of St Patrick&quot;. This red [[saltire]] on a white field was used to represent Ireland in the flag of the [[United Kingdom of Britain and Ireland]]. It is still used by some [[British army]] regiments. Foreign flags are also found, such as the [[Palestinian territories|Palestinian]] flags in some Nationalist areas and [[Israel]]i flags in some Unionist areas. 
+
+The United Kingdom [[national anthem]] of &quot;[[God Save the Queen]]&quot; is often played at state events in Northern Ireland. At the [[Commonwealth Games]] and some other sporting events, the Northern Ireland team uses the Ulster Banner as its flag - notwithstanding its lack of official status - and the ''[[Londonderry Air]]'' (usually set to [[lyrics]] as ''[[Danny Boy]]''), which also has no official status, as its [[national anthem]].&lt;ref&gt;''Sport, Nationalism and Globalization: European and North American Perspectives'' by Alan Bairner (ISBN 978-0791449127), p38&lt;/ref&gt;&lt;ref&gt;''Sport, Sectarianism and Society in a Divided Ireland'' by John Sugden and Alan Bairner (ISBN 978-0718500184), p60&lt;/ref&gt; The [[Northern Ireland national football team|Northern Ireland football team]] also uses the Ulster Banner as its flag but uses &quot;God Save The Queen&quot; as its national anthem.&lt;ref&gt;{{cite web |url=http://www.fifa.com/en/organisation/confederations/associationdetails/0,1483,NIR,00.html?countrycode=NIR |title=FIFA.com: Northern Ireland, Latest News |archiveurl=http://web.archive.org/web/20051210203557/http://www.fifa.com/en/organisation/confederations/associationdetails/0,1483,NIR,00.html?countrycode=NIR |archivedate=10 December 2005}}&lt;/ref&gt;
+Major [[Gaelic Athletic Association]] matches are opened by the Irish national anthem, &quot;[[Amhrán na bhFiann]] (The Soldier's Song)&quot;, which is also used by most other all-Ireland sporting organisations.&lt;ref&gt;{{cite web
+|url=http://cain.ulst.ac.uk/csc/reports/sugdenharvie/sugdenharvie95-3.htm
+|title=Sport and Community Relations in Northern Ireland 3.2 Flags and anthems
+|author=John Sugden and Scott Harvie
+|year=1995
+|accessdate=26 May 2008
+}}&lt;/ref&gt;
+Since 1995, the [[Ireland rugby union team]] has used a specially commissioned song, &quot;[[Ireland's Call]]&quot; as the team's anthem. The Irish national anthem is also played at Dublin home matches, being the anthem of the host country.&lt;ref&gt;{{cite news
+|quote=the band played ''Nkosi Sikelel' iAfrika'' and ''Die Stem'' for the Springboks and ''Soldier's Song,'' the national anthem that is otherwise known as ''Amhran na bhFiann,'' and ''Ireland's Call,'' the team's official rugby anthem.
+|url=http://www.highbeam.com/doc/1P1-103809383.html
+|author=Peter Berlin
+|publisher=International Herald Tribune via HighBeam Research
+|date=29 December 2004
+|accessdate=26 May 2008
+|title=Long unsung teams live up to anthems: Rugby Union
+}}&lt;/ref&gt;
+
+[[Northern Irish murals]] have become well-known features of Northern Ireland, depicting past and present divisions, both also documenting peace and cultural diversity. Almost 2,000 murals have been documented in Northern Ireland since the 1970s.
+
+===Alternative names===
+{{Main|Alternative names for Northern Ireland}}
+[[Image:Bogside (27), August 2009.JPG|thumb|left|[[Free Derry]] mural]]
+Many people inside and outside Northern Ireland use other names for Northern Ireland, depending on their point of view. Disagreement on names, and the reading of political symbolism into the use or non-use of a word, also attaches itself to some urban centres. The most famous example is whether Northern Ireland's second city should be called [[Derry-Londonderry name dispute|&quot;Derry&quot; or &quot;Londonderry&quot;]].
+
+Choice of language and nomenclature in Northern Ireland often reveals the cultural, ethnic and religious identity of the speaker. The first [[Deputy First Minister of Northern Ireland]], [[Seamus Mallon]], was criticised by unionist politicians for calling the region the &quot;North of Ireland&quot; while Sinn Féin has been criticised in some Irish newspapers for still referring to the &quot;Six Counties&quot;.&lt;ref&gt;{{cite news|author=Independent.ie |url=http://www.independent.ie/national-news/mallon-kickstarts-tenure-in-diplomatic-mode-437702.html |title=Sunday Independent article on Mallon and the use of &quot;Six Counties&quot; |work=The Irish Independent  |date=2 July 1998 |accessdate=16 June 2010}}&lt;/ref&gt;
+
+Those who do not belong to any group but lean towards one side often tend to use the language of that group. Supporters of unionism in the British media (notably the ''[[Daily Telegraph]]'' and the ''[[Daily Express]]'') regularly call Northern Ireland &quot;Ulster&quot;.&lt;ref&gt;{{cite news|last=Peterkin |first=Tom |url=http://www.telegraph.co.uk/news/uknews/1509280/IRA-fuel-smuggling-drove-oil-giants-to-abandon-Ulster.html |title=Example of Daily Telegraph use of &quot;Ulster&quot; in text of an article, having used &quot;Northern Ireland&quot; in the opening paragraph |work=The Daily Telegraph |location=UK |date=31 January 2006 |accessdate=16 June 2010}}&lt;/ref&gt; Some nationalist and republican-leaning media outlets in Ireland almost always use &quot;North of Ireland&quot;, &quot;the North&quot; or the &quot;Six Counties&quot;.
+
+Government and cultural organisations in Northern Ireland often use the word &quot;Ulster&quot; in their title; for example, the [[University of Ulster]], the [[Ulster Museum]], the [[Ulster Orchestra]], and [[BBC Radio Ulster]].
+
+Although some news bulletins since the 1990s have opted to avoid all contentious terms and use the official name, Northern Ireland, the term &quot;the North&quot; remains commonly used by broadcast media in the Republic, to the annoyance of some Unionists.{{Citation needed|date=August 2008}} [[Bertie Ahern]], the former [[Taoiseach]], now almost always refers to &quot;Northern Ireland&quot; in public, having previously only used &quot;the North&quot;. For Northern Ireland's second largest city, broadcasting outlets which are unaligned to either community and broadcast to both use both names interchangeably, often starting a report with &quot;Londonderry&quot; and then using &quot;Derry&quot; in the rest of the report. However, within Northern Ireland, print media which are aligned to either community (the ''[[News Letter]]'' is aligned to the unionist community while the ''[[Irish News]]'' is aligned to the nationalist community) generally use their community's preferred term. British newspapers with unionist leanings, such as the ''[[Daily Telegraph]]'', usually use the language of the unionist community. However the more left-wing ''[[The Guardian|Guardian]]'' recommends in its style guide using &quot;Derry&quot; and &quot;County Derry&quot;, and &quot;not Londonderry&quot;.&lt;ref&gt;{{cite news|url=http://www.guardian.co.uk/styleguide/d |title=The Guardian style guide |work=The Guardian  |location=UK |date=14 December 2008 |accessdate=16 June 2010}}&lt;/ref&gt;
+
+The division in nomenclature is sometimes seen in the names of organisations associated with one or other of the main communities, but there are numerous exceptions. In [[Gaelic Athletic Association|Gaelic games]], followed mainly by nationalists, the [[GAA county]] is &quot;[[Derry GAA|Derry]]&quot;, but in sports followed mainly by unionists, clubs tend to avoid the use of &quot;Londonderry&quot; in favour of more precise locales ([[Glendermott Cricket Club]]) or neutral terms ([[Ulster Hockey Union#Current membership|Foyle Hockey Club]]). &quot;Derry&quot; is also used in the names of both the [[Diocese of Derry and Raphoe|Church of Ireland]] and [[Roman Catholic Diocese of Derry|Roman Catholic]] dioceses, and by one of the largest Protestant [[fraternal organisation|fraternal societies]], the [[Apprentice Boys of Derry]]. There is no agreement on how to decide on a name. When the nationalist-controlled local council voted to rename the city &quot;Derry&quot; unionists objected, stating that as it owed its city status to a [[Royal Charter]], only a charter issued by [[Elizabeth II of the United Kingdom|the Queen]] could change the name. The Queen has not intervened on the matter and thus the council is now called the Derry City Council while the city is still officially Londonderry. Nevertheless, the council has printed two sets of stationery – one for each term – and its policy is to reply to correspondence using whichever term the original sender used.
+
+At times of high communal tension, each side regularly complains of the use of the nomenclature associated with the other community by a third party such as a media organisation, claiming such usage indicates evident &quot;bias&quot; against their community.
+
+;Unionist/Loyalist
+* '''''[[Ulster]]''''', strictly speaking, refers to the province of Ulster, of which six of nine historical counties are in Northern Ireland. The term &quot;Ulster&quot; is widely used by the Unionist community and the British press as shorthand for Northern Ireland, and is also favoured by [[Ulster nationalism|Ulster nationalists]].&lt;ref&gt;Examples of usage of this term include [[Radio Ulster]], [[Ulster Orchestra]] and [[Royal Ulster Constabulary|RUC]]; political parties such as the ''[[Ulster Unionist Party]]''; paramilitary organisations including the ''[[Ulster Defence Association]]'' and ''[[Ulster Volunteer Force (1966)|Ulster Volunteer Force]]''; and political campaigns such as ''&quot;[[Ulster Says No]]&quot;'' and ''[[Save Ulster from Sodomy]]''.&lt;/ref&gt; In the past, calls have been made for Northern Ireland's name to be changed to Ulster. This proposal was formally considered by the Government of Northern Ireland in 1937 and again in 1949 but no change was made.&lt;ref&gt;Parliamentary Reports of the Parliament of Northern Ireland, Volume 20 (1937) and ''The Times'', 6 January 1949 – See also [[Alternative names for Northern Ireland]]&lt;/ref&gt;
+
+* '''''The Province''''' refers literally to the historic Irish province of Ulster but today is used by some as shorthand for Northern Ireland. The [[BBC]], in its editorial guidance for ''Reporting the United Kingdom'', states that &quot;the Province&quot; is an appropriate secondary synonym for Northern Ireland, while &quot;Ulster&quot; is not. It also suggests that &quot;people of Northern Ireland&quot; should be preferred to &quot;British&quot;, and the term &quot;mainland&quot; should be avoided in reference to Great Britain in relation to Northern Ireland.&lt;ref&gt;{{cite web |title=Editorial Policy, Guidance Note |publisher=BBC  |url=http://www.bbc.co.uk/editorialguidelines/page/guidance-uk-full#style-and-language |accessdate=20 April 2012 |date=undated}} &quot;The term “province” is often used synonymously with Northern Ireland and it is normally appropriate to make secondary references to “the province”.&quot;&lt;/ref&gt;
+
+;Nationalist/Republican
+* '''''North of Ireland''''' (''Tuaisceart na hÉireann'') or '''''North-East Ireland''''' (''Oirthuaisceart Éireann'')- to emphasise the link of Northern Ireland to the rest of the island, and so by implication playing down Northern Ireland's links with Great Britain.&lt;ref&gt;{{cite web |url=http://larkspirit.com/history/ni.html |title=Example of &quot;North of Ireland&quot; |archiveurl=http://web.archive.org/web/20060518210934/http://www.larkspirit.com/history/ni.html |archivedate=18 May 2006}}&lt;/ref&gt;
+
+* '''''The Six Counties''''' (''na Sé Chontae'') – language used by republicans e.g. Sinn Féin, which avoids using the name given by the British-enacted ''Government of Ireland Act 1920''. (The Republic is similarly described as the ''Twenty-Six Counties''.)&lt;ref&gt;{{cite web|url=http://sinnfein.ie/history |title=Sinn Féin usage of &quot;Six Counties&quot; |publisher=Sinnfein.ie |date=14 August 1969 |accessdate=16 June 2010}}&lt;/ref&gt; Some of the users of these terms contend that using the official name of the region would imply acceptance of the legitimacy of the ''Government of Ireland Act''.
+
+* '''''The Occupied Six Counties'''''. The state of Ireland, whose legitimacy is not recognised by republicans opposed to the Belfast Agreement, is described as &quot;The Free State&quot;, referring to the [[Irish Free State]], which gained independence (as a Dominion) in 1922.&lt;ref&gt;{{cite web|url=http://www.irishfreedomcommittee.net/FAQs.htm |title=Examples of usage by the United States-based extreme republican &quot;Irish Freedom Committee&quot; |publisher=Irishfreedomcommittee.net |date=6 May 2007 |accessdate=16 June 2010}}&lt;/ref&gt;
+
+* '''''British-Occupied Ireland'''''. Similar in tone to the ''Occupied Six Counties'' this term is used by more dogmatic anti-[[Good Friday Agreement]] republicans who still hold that the [[First Dáil]] was the last legitimate government of Ireland and that all governments since have been foreign imposed usurpations of Irish national self-determination.&lt;ref&gt;{{cite web|url=http://www.webcitation.org/query?url=http://www.geocities.com/athens/atrium/1678/ian.html&amp;date=2009-10-25+12:51:49 |title=Usage on &quot;Gaelmail.com&quot;, a republican website |publisher=Webcitation.org |accessdate=13 November 2010}}&lt;/ref&gt;
+
+* '''''Fourth Green Field''''' (''An Cheathrú Gort Glas'').{{Citation needed|date=November 2009}} From the song ''[[Four Green Fields]]'' by [[Tommy Makem]] which describes Ireland as divided with one of the four green fields (the traditional [[provinces of Ireland]]) being &quot;In strangers' hands&quot;, referring to the partition of Ireland.
+
+;Other
+* '''''The North''''' (''An Tuaisceart'') – used to describe Northern Ireland in the same way that &quot;The South&quot; is used to describe the Republic.{{Citation needed|date=November 2009}}
+* '''''Norn Iron''''' – is an informal and affectionate{{Citation needed|date=July 2010}} local nickname used by both nationalists and unionists to refer to Northern Ireland, derived from the pronunciation of the words &quot;Northern Ireland&quot; in an exaggerated Ulster accent (particularly one from the Greater Belfast area). The phrase is seen as a light-hearted way to refer to Northern Ireland, based as it is on regional pronunciation. Often refers to the [[Northern Ireland national football team]].
+
+===&lt;span id=&quot;descriptions&quot;&gt;Descriptions&lt;/span&gt;===
+
+There is no generally accepted term to describe what Northern Ireland is: province, region, country or something else.&lt;ref name=&quot;alphabeticalNI&quot;/&gt;&lt;ref name=&quot;interpretingNI&quot;/&gt;&lt;ref name=&quot;placeApart&quot;/&gt; The choice of term can be controversial and can reveal the writer's political preferences.&lt;ref name=&quot;interpretingNI&quot;/&gt; This has been noted as a problem by several writers on Northern Ireland, with no generally recommended solution.&lt;ref name=&quot;alphabeticalNI&quot;/&gt;&lt;ref name=&quot;interpretingNI&quot;/&gt;&lt;ref name=&quot;placeApart&quot;/&gt;
+
+Owing in part to the way in which the United Kingdom and Northern Ireland came into being, there is no legally defined term to describe what Northern Ireland 'is'. There is also no uniform or guiding way to refer to Northern Ireland amongst the agencies of the UK government. For example, the websites of the Office of the Prime Minister of the United Kingdom&lt;ref name=Number10CountriesWithinACountry/&gt; and the UK Statistics Authority&lt;ref name=UKStatisticsAuthorityGeographyOfTheUK&gt;{{cite web
+|url=http://www.statistics.gov.uk/geography/uk_countries.asp
+|title=The Countries of the UK
+|publisher=[[UK Statistics Authority]]
+|work=statistics.gov.uk – geography – beginners' guide to UK geography
+|date=11 November 2005
+|accessdate=11 November 2009
+|archiveurl=http://www.webcitation.org/5lClXN00l
+|archivedate=11 November 2009
+|quote=The top-level division of administrative geography in the UK is the 4 countries – England, Scotland, Wales and Northern Ireland.
+}}&lt;/ref&gt; describe the United Kingdom as being made up of four countries, one of these being Northern Ireland. Other pages&lt;ref&gt;Example: {{cite web |url=http://www.number10.gov.uk/Page8031|title=‘Normalisation’ plans for Northern Ireland unveiled|date=1 August 2005|publisher=Office of the Prime Minister of the United Kingdom|accessdate=11 November 2009}} or {{cite web |url=http://www.number10.gov.uk/Page8031|title=26&amp;nbsp;January&amp;nbsp;2006|date=1 August 2005|publisher=Office of the Prime Minister of the United Kingdom|accessdate=11 November 2009}}&lt;/ref&gt; on the same websites refer to Northern Ireland specifically as a &quot;province&quot; as do publications of the UK Statistics Authority.&lt;ref&gt;Example: {{Citation|author=Office for National Statistics|editor=|title=Britain 2000: the Official Yearbook of the United Kingdom|year= 1999|publisher=The Stationary Office|place= London|ref=}} or {{Citation|author=Office for National Statistics|editor=|title=UK electoral statistics 1999|year= 1999|publisher=Office for National Statistics|place= London|ref=}}&lt;/ref&gt; The website of the Northern Ireland Statistics and Research Agency also refers to Northern Ireland as being a province&lt;ref&gt;{{cite web |url=http://www.nisra.gov.uk/publications/default.asp10.htm|title=The Population of Northern Ireland|publisher=Northern Ireland Statistical Research Agency|accessdate=11 November 2009}}&lt;/ref&gt; as does the website of the Office of Public Sector Information&lt;ref&gt;Example: {{cite web |url=http://www.statutelaw.gov.uk/help/Background_Northern_Ireland.htm |title=Background – Northern Ireland|publisher=Office of Public Sector Information|accessdate=11 November 2009 |archiveurl=http://web.archive.org/web/20090106044313/http://www.statutelaw.gov.uk./help/Background_Northern_Ireland.htm |archivedate=6 January 2009}} or {{cite web |url=http://www.nisra.gov.uk/publications/default.asp10.htm|title=Acts of the Northern Ireland Assembly (and other primary legislation for Northern Ireland)|publisher=Office of Public Sector Information|accessdate=11 November 2009}}&lt;/ref&gt; and other agencies within Northern Ireland.&lt;ref name=&quot;fortnight&quot;&gt;{{Citation|editor=|title= |periodical = Fortnight|year= 1992|ref=}}&lt;/ref&gt; Publications of HM Treasury&lt;ref&gt;{{Citation|author=Sir David Varney December|editor=|title=Review of Tax Policy in Northern Ireland|year= 2007|publisher=Her Majesty's Stationary Office|place= London|ref=}}&lt;/ref&gt; and the Department of Finance and Personnel of the Northern Ireland Executive,&lt;ref&gt;{{Citation|author=Department of Finance and Personnel|editor=|title=The European Sustainable Competitiveness Programme for Northern Ireland|year= 2007|publisher=Northern Ireland Executive|place= Belfast|ref=}}&lt;/ref&gt; on the other hand, describe Northern Ireland as being a &quot;region of the UK&quot;. The UK's submission to the 2007 [[United Nations Conference on the Standardization of Geographical Names]] defines the UK as being made up of two countries (England and Scotland), one [[principality]] (Wales) and one province (Northern Ireland).&lt;ref&gt;{{citation|author=United Kingdom|title=Report of the United Kingdom of Great Britain and Northern Ireland|year=2007|work=Report by Governments on the Situation in their Countries on the Progress Made in the Standardization of Geographical Names Since the Eight Conferences|publisher=United Nations|location=New York|url=http://replay.web.archive.org/20090327044249/http://unstats.un.org/unsd/geoinfo/9th-UNCSGN-Docs/E-CONF-98-48-Add1.pdf|accessdate=29 October 2011}}&lt;/ref&gt;
+
+Unlike England, Scotland and Wales, Northern Ireland has no history of being an independent country or of being a nation in its own right.&lt;ref name=&quot;niPolitics&quot;&gt;{{Citation|author=A Aughey and D Morrow|editor= |title= Northern Ireland Politics|year= 1996|publisher=Longman|place= London|ref=}}&lt;/ref&gt;  Some writers describe the United Kingdom as being made up of three countries and one province&lt;ref name=&quot;economyOfMega&quot;&gt;{{Citation|author=P Close, D Askew, Xin X|editor= |title= The Beijing Olympiad: the political economy of a sporting mega-event|year= 2007|publisher=Routledge|place= Oxon|ref=economyOfMega}}&lt;/ref&gt; or point out the difficulties with calling Northern Ireland a country.&lt;ref name=&quot;dictPolSci&quot;&gt;{{Citation|editor= |title= Global Encyclopedia of Political Geography|year= 2009|place=|ref=}}&lt;/ref&gt; Authors writing specifically about Northern Ireland dismiss the idea that Northern Ireland is a &quot;country&quot; in general terms,&lt;ref name=&quot;alphabeticalNI&quot;/&gt;&lt;ref name=&quot;placeApart&quot;/&gt;&lt;ref name=&quot;organisationalApproach&quot;&gt;{{Citation|author=M Crenshaw|editor=|title= An Organizational Approach to the Analysis of Political Terrorism|periodical = Orbis|year= 1985|volume =29|issue =3|ref=}}&lt;/ref&gt;&lt;ref name=&quot;marketsAndMoral&quot;&gt;{{Citation|author=P Kurzer|editor= |title= Markets and moral regulation: cultural change in the European Union|year= 2001|publisher=Cambridge University Press|place= Cambridge|ref=}}&lt;/ref&gt; and draw contrasts in this respect with England, Scotland and Wales.&lt;ref name=&quot;promoKnowledge&quot;&gt;{{Citation|editor=J Morrill|title= The promotion of knowledge: lectures to mark the Centenary of the British Academy 1992–2002|year= 2004|publisher=Oxford University Press|place= Oxford|ref=}}&lt;/ref&gt; Even for the period covering the first 50 years of Northern Ireland's existence, the term ''country'' is considered inappropriate by some political scientists on the basis that many decisions were still made in London.&lt;ref name=&quot;niPolitics&quot;/&gt; The absence of a distinct nation of Northern Ireland, separate within the island of Ireland, is also pointed out as being a problem with using the term&lt;ref name=&quot;placeApart&quot;/&gt;&lt;ref name=&quot;unionistPolitics&quot;&gt;{{Citation|author=F. Cochrane|editor= |title= Unionist politics and the politics of Unionism since the Anglo-Irish Agreement|year= 2001|publisher=Cork University Press|place= Cork|ref=}}&lt;/ref&gt;&lt;ref name=&quot;americanRevival&quot;&gt;{{Citation|author=W V Shannon|editor=K M. Cahill |title= The American Irish revival: a decade of the Recorder|year= 1984|publisher=Associated Faculty Press|place=|ref=}}&lt;/ref&gt; and is in contrast to England, Scotland and Wales.&lt;ref name=&quot;theorizingNat&quot;&gt;{{Citation|author=R Beiner|editor= |title= Theorizing Nationalism|year= 1999|publisher=State University of New York Press|place= Albany|ref=}}&lt;/ref&gt;
+
+Many commentators prefer to use the term &quot;province&quot;, although that is also not without problems. It can arouse irritation, particularly among nationalists, for whom the title province is properly reserved for the traditional province of Ulster, of which Northern Ireland occupies six out of nine counties.&lt;ref name=&quot;interpretingNI&quot;/&gt;&lt;ref name=&quot;dictPolSci&quot;/&gt; The BBC style guide is to refer to Northern Ireland as a province, and use of the term is common in literature and newspaper reports on Northern Ireland and the United Kingdom. Some authors have described the meaning of this term as being equivocal: referring to Northern Ireland as being a province both of the United Kingdom and of the traditional country of Ireland.&lt;ref name=&quot;unionistPolitics&quot;/&gt;
+
+&quot;Region&quot; is used by several UK government agencies and the European Union. Some authors choose this word but note that it is &quot;unsatisfactory&quot;.&lt;ref name=&quot;interpretingNI&quot;/&gt;&lt;ref name=&quot;placeApart&quot;/&gt; Northern Ireland can also be simply described as &quot;part of the UK&quot;, including by UK government offices.&lt;ref name=Number10CountriesWithinACountry&gt;{{cite web|url=http://www.number10.gov.uk/Page823|title=countries within a country|year=2003|publisher=The official site of the Prime Minister's Office |archiveurl=http://webarchive.nationalarchives.gov.uk/+/http:/www.number10.gov.uk/Page823 |archivedate=9 September 2008  }}&lt;/ref&gt;
+
+==Economy==
+{{Main|Economy of Northern Ireland|Transport in Northern Ireland}}
+[[Image:'Titanic Quarter' development, Abercorn Basin, Belfast - geograph.org.uk - 1378153.jpg|thumb|right|Goliath crane of [[Harland &amp; Wolff]] in [[Belfast]].]]
+
+The Northern Ireland economy is the smallest of the four economies making up the United Kingdom. Northern Ireland has traditionally had an industrial economy, most notably in shipbuilding, rope manufacture and textiles, but most heavy industry has since been replaced by services, primarily the public sector. 
+
+Tourism also plays a big role in the local economy. More recently the economy has benefited from major investment by many large multi-national corporations into high tech industry. These large organisations are attracted by government subsidies and the skilled workforce in Northern Ireland.
+
+The local economy has seen contraction during the recent global economic downturn, in response the Northern Ireland Assembly has sent trade missions to countries including the USA, India and plan to visit China. Along with this, the Assembly are in discussion with the [[Chancellor of the Exchequer]] [[George Osbourne]] in order to gain taxation powers, which would enable the Northern Ireland Corporation Tax rate to be reduced in line with that of the Republic of Ireland.
+
+==Transport==
+[[Image:Approaching Seahill station - geograph.org.uk - 243422.jpg|thumb|An [[Northern Ireland Railways|NIR]] train]]
+Northern Ireland is served by three airports – [[Belfast International Airport|Belfast International]] near [[Antrim, County Antrim|Antrim]], [[George Best Belfast City Airport|George Best Belfast City]] integrated into the railway network at [[Sydenham railway station, Northern Ireland|Sydenham]] in East Belfast, and [[City of Derry Airport|City of Derry]] in County Londonderry.
+
+Major sea ports at [[Larne]] and [[Port of Belfast|Belfast]] carry passengers and freight between Great Britain and Northern Ireland.
+
+Passenger railways are operated by [[Northern Ireland Railways]]. With [[Iarnrod Éireann]] (Irish Rail),  [[Northern Ireland Railways]] co-operates in providing the joint [[Enterprise (train)|Enterprise]] service between [[Dublin Connolly]] and [[Belfast Central railway station|Belfast Central]]. Main railway lines linking to and from [[Belfast Great Victoria Street railway station]] and [[Belfast Central railway station|Belfast Central]] are:
+
+* The [[Belfast–Derry railway line|Derry Line]] and the Portrush Branch.
+* The Larne Line
+* The Bangor Line
+* The [[Portadown railway station|Portadown]] Line
+
+Main motorways are:
+* [[M1 motorway (Northern Ireland)|M1]] connecting Belfast to the south and west, ending in [[Dungannon]]
+* [[M12 motorway (Northern Ireland)|M12]] connecting the [[M1 motorway (Northern Ireland)|M1]] to [[Portadown]]
+* [[M2 motorway (Northern Ireland)|M2]] connecting Belfast to the north.  An unconnected section of the [[M2 motorway (Northern Ireland)|M2]] also by-passes [[Ballymena]]
+* [[M22 motorway (Northern Ireland)|M22]] connecting the [[M2 motorway (Northern Ireland)|M2]] to near [[Randalstown]]
+* [[M3 motorway (Northern Ireland)|M3]] connecting the M1 and M2 in Belfast with the A2 dual carriageway to [[Bangor, County Down|Bangor]]
+* [[M5 motorway (Northern Ireland)|M5]] connecting Belfast to [[Newtownabbey]]
+
+The cross-border road connecting the ports of [[Larne]] in Northern Ireland and [[Rosslare Harbour]] in the Republic of Ireland is being upgraded as part of an EU-funded scheme. [[European route E01]] runs from Larne through the island of Ireland, Spain and Portugal to [[Seville]].
+
+==Demography==
+{{Main|Demography of Northern Ireland|Religion in Northern Ireland}}
+{{bar box
+|title= Religion in Northern Ireland 
+|titlebar=#ddd
+|left1=Religion
+|right1=Percent
+|float=right
+|bars=
+{{bar percent|Protestantism*|lightblue|45.57}}
+{{bar percent|Roman Catholicism|blue|40.26}}
+{{bar percent|[[Irreligion|No religion]]|grey|13.88}}
+{{bar percent|Non-Christian religions|yellow|0.30}}
+|caption=&lt;small&gt;* [[Church of Ireland]], [[Presbyterian Church in Ireland]] and others&lt;/small&gt;
+}}
+The population of Northern Ireland has increased annually since 1978. The population in 2010 was estimated to be just under 1.8 million,&lt;ref name=&quot;NISRA&quot;&gt;{{cite web|url=http://www.nisra.gov.uk/archive/demography/population/midyear/Statistical%20Report%20-%20MYE%20NI%202010.pdf|title=Population and Migration Estimates Northern Ireland (2010) – Statistical Report|publisher=[[NISRA]]|year=2011|accessdate=21 February 2012}}&lt;/ref&gt; up from just under 1.7 million in the [[United Kingdom Census 2001|2001 UK census]]. This constitutes just under 3% of the population of the United Kingdom (62 million) and just over 28% of the population of the island of Ireland (6.3 million).
+
+In terms of ethnicity, the population of Northern Ireland is almost entirely [[White people|white]] (99.15%). 91% of people are Northern Ireland born, with 4.8% being born elsewhere in the UK and 2.3% being born in the Republic of Ireland. [[Irish Traveller]]s accounted for 0.1% of the population. The largest non-white ethnic groups were [[Asian people|Asians]] (0.4%), of which [[Overseas Chinese|Chinese]] accounted for 60.7%, [[Non-resident Indian and Person of Indian Origin|Indian]] for 23% and [[Pakistani people|Pakistani]] for 9.8% of the total. [[Black people]] of various origins accounted for 0.06% of the population of Northern Ireland and people of mixed ethnicity accounted for 0.2%.&lt;ref&gt;{{cite web|url=http://www.nisranew.nisra.gov.uk/census/Census2001Output/commissioned_output.html|title=Northern Ireland Census 2001 Commissioned Output|work=Census 2001 Output|publisher=Northern Ireland Statistics and Research Agency|year=2007|accessdate=11 March 2012}}&lt;/ref&gt;
+
+In the 2001 census, 45.6% of the population identified as belonging to Protestant or other non-Roman Catholic denominations. The largest of these denominations were the [[Presbyterian Church in Ireland]] and the [[Church of Ireland]] and the [[Methodist Church in Ireland]] being 20.7%, 15.3% and 3.5% of the total population respectively. The largest single denomination is the [[Roman Catholicism in Ireland|Roman Catholic Church]], to which is the 40.3% of the population identified. Additionally, 6.1% of the population are Christian or Christian related and 0.3% identified with non-Christian religions, while 13.9% identified with no religion.&lt;ref&gt;{{cite web|url=http://www.nisranew.nisra.gov.uk/census/Excel/KS07a%20DC.xls |title=Northern Ireland Census 2001, Table KS07a: Religion |accessdate=16 June 2010}}&lt;/ref&gt; In terms of community background (i.e. one's own religion or the religion one was brought up in), 53.1% of the Northern Ireland's population came from a Protestant background, 43.8% came from a Catholic background, 0.4% from non-Christian backgrounds and 2.7% non-religious backgrounds in the same census.&lt;ref&gt;{{cite web|url=http://www.nisranew.nisra.gov.uk/census/Excel/KS07b%20DC.xls |title=Northern Ireland Census 2001, Table KS07b: Community background: religion or religion brought up in |accessdate=16 June 2010}}&lt;/ref&gt;
+{{-}}
+{| class=&quot;infobox&quot; style=&quot;text-align:center; width:97%; margin-right:10px; font-size:90%&quot;
+! colspan=&quot;7&quot; style=&quot;background:#e9e9e9; padding:0.3em;&quot; 0; line-height:1.2em;|[[List of towns and villages in Northern Ireland|Cities and towns by population]]&lt;ref&gt;{{cite web|url=http://www.nisra.gov.uk/archive/demography/publications/urban_rural/ur_gaz.pdf |title=Statistical Classification and Delineation of Settlements|publisher=Northern Ireland Statistics and Research Agency |date= February 2005}}&lt;/ref&gt;
+|-
+!rowspan=21|
+[[File:City Hall And The Belfast Wheel.jpg|150px|]]&lt;br&gt;&lt;small&gt;[[Belfast]]&lt;/small&gt;&lt;br&gt;
+[[File:Guildhall, Derry, August 2010.JPG|border|150px|]]&lt;br&gt;&lt;small&gt;[[Derry]]&lt;/small&gt;&lt;br&gt;
+! style=&quot;text-align:center; background:#f5f5f5;&quot;| &lt;small&gt;#&lt;/small&gt;
+! style=&quot;text-align:left; background:#f5f5f5;&quot;| [[List of settlements in Northern Ireland by population|Settlement]]
+! style=&quot;text-align:center; background:#f5f5f5;&quot;| Population
+! style=&quot;text-align:center; background:#f5f5f5;&quot;| Metro population
+!rowspan=21|
+[[File:Lisburn Market House.JPG|border|150px|]]&lt;br&gt;&lt;small&gt;[[Lisburn]]&lt;/small&gt;&lt;br&gt;
+[[File:Newry Townhall - geograph.org.uk - 1476695.jpg|border|150px|]]&lt;br&gt;&lt;small&gt;[[Newry]]&lt;/small&gt;&lt;br&gt;
+|-
+| style=&quot;background:#f0f0f0&quot;| 1 ||align=left | '''[[Belfast]]''' || 276,705 || 579,726 ||
+|-
+| style=&quot;background:#f0f0f0&quot;| 2 ||align=left | '''[[Derry]]''' || 83,652 || 90,663  ||
+|-
+| style=&quot;background:#f0f0f0&quot;| 3 ||align=left | '''[[Lisburn]]'''&lt;ref name=BelfastMetro&gt;Part of [[Belfast metropolitan area]]&lt;/ref&gt; || 71,403 || 
+|-
+| style=&quot;background:#f0f0f0&quot;| 4 ||align=left | '''[[Newtownabbey]]'''&lt;ref name=BelfastMetro/&gt; || 62,022||
+|-
+| style=&quot;background:#f0f0f0&quot;| 5 ||align=left | '''[[Bangor, County Down|Bangor]]'''&lt;ref name=BelfastMetro/&gt; || 58,368||
+|-
+| style=&quot;background:#f0f0f0&quot;| 6 ||align=left | '''[[Craigavon]]''' || 57,651
+|-
+| style=&quot;background:#f0f0f0&quot;| 7 ||align=left | '''[[Castlereagh (borough)|Castlereagh]]'''&lt;ref name=BelfastMetro/&gt; || 54,636||
+|-
+| style=&quot;background:#f0f0f0&quot;| 8 ||align=left | '''[[Ballymena]]''' || 28,704
+|-
+| style=&quot;background:#f0f0f0&quot;| 9 ||align=left | '''[[Newtownards]]''' || 27,795
+|-
+| style=&quot;background:#f0f0f0&quot;| 10 ||align=left | '''[[Newry]]''' || 27,300 || 
+|}
+{{-}}
+
+===Languages===
+{{Main|Languages of the United Kingdom|Languages of Ireland}}
+[[File:English dialects in Ulster contrast.png|thumb|right|Approximate boundaries of the current and historical English/[[Scots language|Scots]] dialects in [[Ulster]]. Mid-Ulster English is in light blue. Ulster Scots (green) is no longer spoken in that entire area. The Irish-speaking [[Gaeltacht]] is not shown.]]
+
+English is spoken as a first language by almost all of the Northern Ireland population. It is the ''de facto'' official language and [[the Administration of Justice (Language) Act (Ireland) 1737]] prohibits the use of languages other than English in legal proceedings.
+
+Under the [[Belfast Agreement|Good Friday Agreement]], Irish and [[Ulster Scots dialects|Ulster Scots]] (Ulster dialects of the [[Scots language]]), sometimes known as ''Ullans'', are recognised as &quot;part of the cultural wealth of Northern Ireland&quot;.&lt;ref&gt;{{PDFlink|[http://www.nio.gov.uk/agreement.pdf The Agreement]|204&amp;nbsp;KB}}&lt;/ref&gt; Two all-island bodies for the promotion of these were created under the Agreement: the [[Ulster Scots Agency]], which promotes the Ulster Scots dialect and culture, and ''[[Foras na Gaeilge]]'', which promotes the Irish language. These operate separately under the aegis of [[the North/South Language Body]], which reports to the [[North/South Ministerial Council]].
+
+The [[British government]] in 2001 ratified the [[European Charter for Regional or Minority Languages]]. Irish (in Northern Ireland) was specified under Part III of the Charter, with a range of specific undertakings in relation to education, translation of statutes, interaction with public authorities, the use of placenames, media access, support for cultural activities and other matters. A lower level of recognition was accorded to Ulster Scots, under Part II of the Charter.&lt;ref&gt;[http://www.coe.int/t/dg4/education/minlang/report/EvaluationReports/UKECRML3_en.pdf Council of Europe Charter monitoring report, 2010]&lt;/ref&gt;
+
+====English====
+{{Main|Mid-Ulster English}}
+
+The dialect of English spoken in Northern Ireland shows influence from the lowland [[Scots language]].&lt;ref&gt;{{Cite book|url=http://books.google.co.uk/books?id=aPPexF5hyIkC&amp;pg=PA90&amp;dq=DIALECT+OF+NORTHERN+IRELAND+COMES+FROM+SCOTLAND#v=onepage&amp;q=DIALECT%20OF%20NORTHERN%20IRELAND%20COMES%20FROM%20SCOTLAND&amp;f=false|title=Dialects across borders|author=Markku Filppula|publisher=John Benjamins Publishing Co, Amsterdam|year=2005|page=90|accessdate=2 January 2011}}&lt;/ref&gt; There are supposedly some minute differences in pronunciation between Protestants and Catholics, the best known of which is the name of the letter ''h'', which Protestants tend to pronounce as &quot;aitch&quot;, as in [[British English]], and Catholics tend to pronounce as &quot;haitch&quot;, as in [[Hiberno-English]]. However, geography is a much more important determinant of dialect than religious background.
+
+====Irish====
+[[Image:Gaeilig in Uladh.jpg|thumb|The percentage of people in each administrative area in [[Ulster]] who have the ability to speak Irish. (Counties of the [[Republic of Ireland]] and District council areas of Northern Ireland.)]]
+{{Main|Irish language in Northern Ireland|Ulster Irish}}
+
+The Irish language ({{lang-ga|an Ghaeilge}}), or ''Gaelic'', is the native language of the island of Ireland.&lt;ref&gt;{{cite book |last=Ryan |first=James G. |title=Irish Records: Sources for Family and Local History |publisher=Flyleaf Press |year=1997 |page=40 |isbn=978-0-916489-76-2}}&lt;/ref&gt; It was spoken predominantly throughout what is now Northern Ireland before the [[Ulster Plantations]] in the 17th century and most place names in Northern Ireland are [[anglicised]] versions of a Gaelic name. Today, the language is associated with Irish nationalism (and thus with the Catholic community). However, in the 19th century, the language was seen as a common heritage, with Ulster Protestants playing a leading role in the [[Gaelic revival]].
+
+In the 2001 census, 10% of the population of Northern Ireland claimed &quot;some knowledge of Irish&quot;&lt;ref name = &quot;nisra.gov.uk-Census2001&quot;&gt;Northern Ireland Statistics and Research Agency [http://www.nisranew.nisra.gov.uk/Census/Census2001Output/UnivariateTables/uv_tables1.html#irish%20language Census 2001 Output]&lt;/ref&gt; and 4.7% reported being able to &quot;speak, read, write and understand&quot; Irish.&lt;ref name = &quot;nisra.gov.uk-Census2001&quot;/&gt; In another survey, from 1999, 1% of respondents said they spoke it as their main language at home.&lt;ref name = &quot;Survey-NorthernIreland&quot;&gt;Northern Ireland LIFE &amp; TIMES Survey: [http://www.ark.ac.uk/nilt/1999/Community_Relations/MAINLANG.html What is the main language spoken in your own home?]&lt;/ref&gt;
+
+The dialect spoken in Northern Ireland, Ulster Irish or Donegal Irish,&lt;ref name=&quot;pipex1&quot;&gt;{{cite web |url=http://www.ultach.dsl.pipex.com/english/faqs.htm |archiveurl=http://web.archive.org/web/20090416045904/http://www.ultach.dsl.pipex.com/english/faqs.htm |archivedate=16 April 2009 |title=Frequently-Asked Questions about the Irish Language |publisher=Ultach |accessdate=7 February 2012}}&lt;/ref&gt; is the one closest to [[Scottish Gaelic]] (which developed into a separate language from Irish Gaelic in the 17th century). Some words and phrases are shared with Scots Gaelic, and the dialects of east Ulster – those of Rathlin Island and the Glens of Antrim – were very similar to the dialect of Argyll, the part of Scotland nearest to Northern Ireland.
+
+Use of the Irish language in Northern Ireland today is politically sensitive. The erection by some [[Local government in Northern Ireland|district councils]] of bilingual street names in both English and Irish,&lt;ref&gt;The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1995 (No. 759 (N.I. 5))[http://www.statutelaw.gov.uk/content.aspx?LegType=All+Primary&amp;PageNumber=25&amp;NavFrom=2&amp;parentActiveTextDocId=1011237&amp;activetextdocid=1011254]&lt;/ref&gt; invariably in predominantly nationalist districts, is resisted by unionists who claim that it creates a &quot;chill factor&quot; and thus harms community relationships. Efforts by members of the [[Northern Ireland Assembly]] to legislate for some official uses of the language have failed to achieve the required cross-community support, and the UK government has declined to legislate.
+
+====Ulster Scots====
+{{Main|Ulster Scots dialects}}
+
+Ulster Scots comprises varieties of the [[Scots language]] spoken in Northern Ireland. For a native English speaker, &quot;[Ulster Scots] is comparatively accessible, and even at its most intense can be understood fairly easily with the help of a glossary.&quot;&lt;ref name = &quot;Poilin-BBC&quot;&gt;Aodan Mac Poilin, 1999, [http://www.bbc.co.uk/northernireland/learning/history/stateapart/agreement/culture/support/cul2_c011.shtml &quot;Language, Identity and Politics in Northern Ireland&quot;] in Ulster Folk Life Vol. 45, 1999&lt;/ref&gt;
+
+Along with the Irish language, the Good Friday Agreement recognised the dialect as part of Northern Ireland's unique culture and the [[St Andrews Agreement]] recognised the need to &quot;enhance and develop the Ulster Scots language, heritage and culture&quot;.&lt;ref&gt;{{PDFlink|{{cite web |url=http://www.nio.gov.uk/st_andrews_agreement.pdf |title=St Andrews Agreement |archiveurl=http://web.archive.org/web/20061104144328/http://www.nio.gov.uk/st_andrews_agreement.pdf |archivedate=4 November 2006}}|131&amp;nbsp;KB}}&lt;/ref&gt; 
+
+Approximately 2% of the population claim to speak Ulster Scots.&lt;ref&gt;Northern Ireland LIFE &amp; TIMES Survey: [http://www.ark.ac.uk/nilt/1999/Community_Relations/USPKULST.html Do you yourself speak Ulster-Scots?]&lt;/ref&gt; However, the number speaking it as their main language in their home is negligible.&lt;ref name = &quot;Survey-NorthernIreland&quot;/&gt;
+
+====Sign languages====
+{{Main|British sign language|Irish sign language|Northern Ireland sign language}}
+
+The most common [[sign language]] in Northern Ireland is [[Northern Ireland Sign Language]] (NISL). However, since, in the past, Catholic families tended to send their deaf children to schools in Dublin, [[Irish Sign Language]] (ISL) is commonly used among many older deaf people from Catholic families.
+
+Irish Sign Language (ISL) has some influence from the French family of sign language, which includes [[American Sign Language]] (ASL). NISL takes a large component from the British family of sign language (which also includes [[Auslan]]) with many borrowings from ASL. It is described as being related to Irish Sign Language at the [[syntactic]] level while the [[lexicon]] is based on [[British Sign Language]] (BSL)&lt;ref name=&quot;Janzen&quot;&gt;{{cite book |last=Janzen |first=Terry |title=Topics in Signed Language Interpreting: Theory And Practice |url=http://books.google.com/books?id=ylfJtF3vQUwC&amp;pg |accessdate=22 June 2008 |year=2005 |publisher=[[John Benjamins Publishing Company]] |location=Amsterdam |isbn=90-272-1669-X |oclc=60742155 |pages=256 &amp; 265}}&lt;/ref&gt; and ASL.{{Citation needed|date=November 2009}}
+
+{{As of|2004|03}} the [[British Government]] recognises only British Sign Language and Irish Sign Language as the official sign languages used in Northern Ireland.&lt;ref name=&quot;dcal&quot;&gt;{{cite web |url=http://www.dcalni.gov.uk/index/languages/sign_language.htm |title=Sign Language |accessdate=22 June 2008 |publisher=[[Department of Culture, Arts and Leisure]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.nio.gov.uk/paul-murphy-announces-recognition-for-sign-language/media-detail.htm?newsID=8540 |title=Paul Murphy announces recognition for sign language |accessdate=22 June 2008 |date=30 March 2004 |publisher=[[Northern Ireland Office]]|quote=I am pleased to announce formal recognition for both British and Irish Sign Languages in Northern Ireland.}}&lt;/ref&gt;
+
+==Culture==
+{{Main|Culture of Northern Ireland}}
+{{See also|Culture of Ulster|Culture of Ireland|Culture of the United Kingdom}}
+[[Image:Memoriallodge.jpg|thumb|right|[[The Twelfth]] is a [[bank holiday]] and a [[public holiday]] involving [[Orange Order]] parades]]
+With its improved international reputation, Northern Ireland has recently witnessed rising numbers of tourists. Attractions include cultural festivals, musical and artistic traditions, countryside and geographical sites of interest, [[public house]]s, welcoming hospitality and sports (especially golf and fishing). Since 1987 [[public house]]s have been allowed to open on Sundays, despite some opposition.
+
+The [[Ulster Cycle]] is a large body of prose and verse centring around the traditional heroes of the [[Ulaid]] in what is now eastern Ulster. This is one of the four major cycles of [[Irish Mythology]]. The cycle centres around the reign of [[Conchobar mac Nessa]], who is said to have been king of Ulster around the time of Christ. He ruled from [[Emain Macha]] (now Navan Fort near Armagh), and had a fierce rivalry with queen [[Medb]] and king Ailill of Connacht and their ally, [[Fergus mac Róich]], former king of Ulster. The foremost hero of the cycle is Conchobar's nephew [[Cúchulainn]].
+
+==Sport==
+{{Main|Sport in Northern Ireland}}
+
+In Northern Ireland, sport is popular and important in the lives of many people. Sports tend to be organised on an [[all-Ireland]] basis and Northern Ireland and the Republic of Ireland often field a single team.&lt;ref name=&quot;theherald1&quot;&gt;[http://www.heraldscotland.com/how-do-other-sports-in-the-island-cope-with-the-situation-1.877873 How do other sports in the island cope with the situation?] The Herald, 3 April 2008&lt;/ref&gt; The most notable exception is association football, which has separate governing bodies for each jurisdiction.&lt;ref name=&quot;theherald1&quot;/&gt;
+
+===Field sports===
+
+The [[Irish Football Association]] (IFA) is the organising body for association football in Northern Ireland.  The highest level of competition within Northern Ireland is the [[IFA Premiership]]. However, the best Northern Irish players tend to play for clubs in the English or Scottish leagues. There is also an all-island tournament, the [[Setanta Cup]], which includes six IFA Premiership teams and six teams from [[League of Ireland Premier Division|the Republic of Ireland's premier league]]. Despite Northern Ireland's small population, [[Northern Ireland national football team|its international team]] qualified for the [[FIFA World Cup|World Cup]] in [[1958 FIFA World Cup|1958]], [[1982 FIFA World Cup|1982]] and [[1986 FIFA World Cup|1986]], making it to the quarter-finals in 1958 and 1982.
+
+The six counties of Northern Ireland are among the nine governed by the [[Ulster Rugby|Ulster branch]] of the [[Irish Rugby Football Union]], the governing body of [[rugby union]] in Ireland.  Ulster is one of the four professional provincial teams in Ireland and competes in the [[Magners League|Celtic League]] and [[Heineken Cup|European Cup]] and won the [[Heineken Cup|European Cup]] in 1999. In international competitions, the [[Ireland national rugby union team|Ireland national rugby team]] recent successes include four [[Triple Crown (rugby union)|Triple Crown]]s between 2004 and 2009 and a [[Grand Slam (rugby union)|Grand Slam]] in 2009 in the [[Six Nations Championship]].
+
+The [[Ireland national rugby league team]] has participated in the [[Rugby League Emerging Nations Tournament|Emerging Nations Tournament]] (1995), the Super League World Nines (1996), the World Cup (2000 and 2008), European Nations Cup (since 2003) and Victory Cup (2004). The Ireland A rugby league team compete annually in the Amateur Four Nations competition (since 2002) and the St Patrick's Day Challenge (since 1995).
+
+The [[Ireland cricket team]] is an associate member of the [[International Cricket Council]]. It participated in [[2007 Cricket World Cup]] and qualified for the Super 8s and did the same in the [[2009 ICC World Twenty20]]. Ireland are current champions of [[ICC Intercontinental Cup]]. One of Ireland's regular international venues is [[Stormont (cricket ground)|Stormont]] in Belfast.
+
+Gaelic games include [[Gaelic football]], [[hurling]], [[Gaelic handball|handball]] and [[rounders]]. Of the four, football is the most popular in Northern Ireland.  Players play for local clubs with the best being selected for their county teams. The [[Ulster GAA]] is the branch of the [[Gaelic Athletic Association]] that is responsible for the nine counties of Ulster, which include the six of Northern Ireland. These nine county teams participate in the [[Ulster Senior Football Championship]], [[Ulster Senior Hurling Championship]], [[All-Ireland Senior Football Championship]] and [[All-Ireland Senior Hurling Championship]].  Recent successes for Northern Ireland's teams include [[Armagh GAA|Armagh]]'s 2002 [[All-Ireland Senior Football Championship]] win and [[Tyrone GAA|Tyrone]]'s wins in 2003, 2005 and 2008.
+
+===Golf===
+[[File:Rory McIlroy at the Memorial Golf Tournament.jpg|thumb|right|Prominent Northern Irish golfer [[Rory McIlroy]]]]
+
+Perhaps Northern Ireland's most notable successes in professional sport have come in golf. Northern Ireland has contributed more major champions in the modern era than any other European country, with three in the space of just 14 months from the [[U.S. Open (golf)|US Open]] in 2010 to [[The Open|the Open Championship]] in 2011. Notable golfers include [[Fred Daly (golfer)|Fred Daly]] (winner of [[The Open]] in 1947), Ryder Cup players [[Ronan Rafferty]] and [[David Feherty]], leading European Tour professionals [[David Jones (golfer)|David Jones]], [[Michael Hoey (golfer)|Michael Hoey]] (a winner on Tour in 2011) and [[Gareth Maybin]], as well as three recent major winners [[Graeme McDowell]] (winner of the [[U.S. Open (golf)|US Open]] in 2010, the first European to do so since 1970), [[Rory McIlroy]] (winner of the [[U.S. Open (golf)|U.S. Open]] in 2011) and [[Darren Clarke]] (winner of [[The Open]] in 2011).&lt;ref&gt;{{cite news|work=Daily News |location=New York |title=Northern Ireland's Graeme McDowell wins U.S. Open at Pebble Beach, ends European losing streak|url=http://www.nydailynews.com/sports/more_sports/2010/06/20/2010-06-20_northern_irelands_graeme_mcdowell_wins_us_open_at_pebble_beach_ends_european_los.html#ixzz0sG74YZKd|last=Gagne|first=Matt|accessdate=29 June 2010|date=20 June 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news|author=Lawrence Donegan at Congressional |url=http://www.guardian.co.uk/sport/2011/jun/20/rory-mcilroy-us-open |title=US Open 2011: Remarkable Rory McIlroy wins by eight shots &amp;#124; Sport |work=The Guardian  |location=UK |accessdate=23 August 2011 |date=20 June 2011}}&lt;/ref&gt; Northern Ireland has also contributed several players to the Great Britain and Ireland [[Walker Cup]] team, including [[Alan Dunbar]] and [[Paul Cutler (golfer)|Paul Cutler]] who played on the victorious 2011 team in Scotland.
+
+The [[Golfing Union of Ireland]], the governing body for men's and boy's amateur golf throughout Ireland and the oldest golfing union in the world, was founded in Belfast in 1891. Northern Ireland's golf courses include the Royal Belfast Golf Club (the earliest, formed in 1881), [[Royal Portrush Golf Club]], which is the only course outside Great Britain to have hosted [[The Open Championship]], and [[Royal County Down Golf Club]] (''[[Golf Digest]]'' magazine's top-rated course outside the United States).&lt;ref&gt;{{cite book|last=Redmond|first=John|title=The Book of Irish Golf|page=10|publisher=Pelican Publishing Company|year=1997}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.golfdigest.com/golf-courses/golf-courses/2009-05/100greatestinternational_golfcourses?currentPage=2|accessdate=21 June 2010|title=The Best Of The Rest: A World Of Great Golf|year=2009|publisher=Golf Digest|page=2}}&lt;/ref&gt;
+
+===Snooker===
+
+Northern Ireland has produced two world snooker champions; [[Alex Higgins]], who won the title in 1972 and 1982, and [[Dennis Taylor]], who won in 1985. The highest ranked Northern Ireland professional on the world circuit presently is [[Mark Allen (snooker player)|Mark Allen]] from Antrim. The sport is governed locally by the [[Northern Ireland Billiards and Snooker Association]] who run regular ranking tournaments and competitions.
+
+==Education==
+{{Main|Education in Northern Ireland}}
+[[Image:QUB.jpg|thumb|right| [[Queen's University Belfast]]]]
+
+Unlike most areas of the United Kingdom, in the last year of primary school many children sit entrance examinations for [[Grammar schools in the United Kingdom|grammar schools]]. 
+
+[[Integrated Education|Integrated schools]], which attempt to ensure a balance in enrolment between pupils of Protestant, Roman Catholic and other faiths (or none) are becoming increasingly popular, although Northern Ireland still has a primarily ''de facto'' religiously segregated education system. In the primary school sector, forty schools (8.9% of the total number) are Integrated Schools and thirty two (7.2% of the total number) are [[Gaelscoileanna]].
+
+The two main universities in Northern Ireland are [[Queen's University Belfast|The Queen's University of Belfast]], and the [[University of Ulster]].
+
+==Media and communications==
+The [[BBC]] has a division called [[BBC Northern Ireland]] with headquarters in Belfast. As well as broadcasting standard UK-wide programmes, BBC NI produces local content, including a news break-out called [[BBC Newsline]]. The [[ITV]] franchise in Northern Ireland is [[Ulster Television]] (UTV). The state-owned [[Channel 4]] and the privately-owned [[Channel 5 (UK)|Channel 5]] also broadcast in Northern Ireland and access is also available to satellite and cable services.&lt;ref&gt;{{cite web|url=http://www.ukfree.tv/txdetail.php?a=IJ287750 |title=Freeview on Divis TV transmitter &amp;#124; ukfree.tv – independent free digital TV advice |publisher=ukfree.tv |accessdate=23 August 2011}}&lt;/ref&gt;  All Northern Ireland viewers must obtain a UK TV licence to watch live television transmissions.
+
+[[RTÉ]], the national broadcaster of the Republic of Ireland, is available over the air to some parts of Northern Ireland via reception overspill&lt;ref&gt;{{cite web|url=http://www.irish-tv.com/ccarn.asp |title=Over forty years of Irish TV History |publisher=Irish TV |accessdate=23 August 2011}}&lt;/ref&gt; and via satellite or cable.  After the digital switchover, RTÉ and the Irish-language channel, [[TG4]], will be available over the air from signals broadcast inside Northern Ireland.&lt;ref&gt;{{cite web|url=http://www.advanced-television.com/index.php/2010/12/21/rte-and-tg4-on-freeview-hd-in-northern-ireland/ |title=RTÉ and TG4 on Freeview HD in Northern Ireland |publisher=Advanced Television |date=21 December 2010 |accessdate=23 August 2011}}&lt;/ref&gt;
+
+As well as the standard UK-wide radio stations from the BBC, Northern Ireland is home to many local radio stations, such as [[Cool FM]], [[Belfast CityBeat|CityBeat]], and [[Q102.9]]. The BBC has two regional radio stations which broadcast in Northern Ireland, [[BBC Radio Ulster]] and [[BBC Radio Foyle]].
+
+The ''[[Belfast Telegraph]]'' is the leading newspaper, and UK and Irish national newspapers are also available. There is a range of local newspapers such as the ''[[The News Letter|News Letter]]'' and the ''[[The Irish News|Irish News]]''.&lt;ref&gt;{{cite web|url=http://www.world-newspapers.com/northern-ireland.html |title=Northern Ireland Newspapers |publisher=World-newspapers.com |accessdate=23 August 2011}}&lt;/ref&gt;
+
+Northern Ireland uses the same telecommunications and postal services as the rest of the United Kingdom at standard domestic rates and there are no mobile roaming charges between Great Britain and Northern Ireland.&lt;ref&gt;{{cite web|url=http://www2.royalmail.com/customer-service/service-updates/northern-ireland |title=Royal Mail Customer Service – Offering help and advice |publisher=.royalmail.com |accessdate=23 August 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.btnorthernireland.com/ |title=BT in Northern Ireland &amp;#124; At home |publisher=Btnorthernireland.com |accessdate=23 August 2011}}&lt;/ref&gt; People in Northern Ireland who live close to the border with the Republic of Ireland may inadvertently switch over to the Irish mobile networks, causing international roaming fees to be applied.&lt;ref&gt;{{cite web|author=Southgate Amateur Radio Club |url=http://www.southgatearc.org/news/jan2005/comreg_ofcom.htm |title=Comreg and Ofcom publish first report on cross-border telecoms issues |publisher=Southgatearc.org |accessdate=23 August 2011}}&lt;/ref&gt; Northern Ireland can be called from the Republic of Ireland at trunk rates, as opposed to international rates, using [[Telephone numbers in the Republic of Ireland|the 048 prefix]].
+
+==See also==
+{{portal|Northern Ireland}}
+*[[Outline of Northern Ireland]]
+*[[List of people from Northern Ireland]]
+*[[National parks of Northern Ireland]]
+{{clear}}
+
+==References==
+{{reflist|2|refs=
+{{cite web
+  | title = Population and Migration Estimates Northern Ireland (2009) – Statistical Report
+  | publisher=[[Northern Ireland Statistics and Research Agency]]
+  | date = 24 June 2010
+  | url = http://www.nisra.gov.uk/archive/demography/population/midyear/mye_report_2009.pdf
+  | format = PDF
+  | accessdate =11 November 2010}}&lt;/ref&gt;
+&lt;ref name=MetO2010-12&gt;
+{{cite web
+|title= Met Office: UK climate: December 2010
+|publisher=[[Met Office]]
+|date= 2011-01
+|url= http://www.metoffice.gov.uk/climate/uk/2010/december.html
+|archiveurl= http://www.webcitation.org/5vevEL06U
+|archivedate= 11 January 2011}}
+&lt;/ref&gt;
+}}
+
+== Further reading ==
+* [[Jonathan Bardon]], ''A History of Ulster'' (Blackstaff Press, Belfast, 1992), ISBN 0-85640-476-4
+* Brian E. Barton, ''The Government of Northern Ireland, 1920–1923'' (Athol Books, 1980)
+* [[Paul Bew]], Peter Gibbon and Henry Patterson '' The State in Northern Ireland, 1921–72: Political Forces and Social Classes, Manchester'' (Manchester University Press, 1979)
+*{{Cite book |author=Tony Geraghty |title=The Irish War |publisher=Johns Hopkins University Press |year=2000 |isbn=0-8018-7117-4 |authorlink=Tony Geraghty}}
+* [[Robert Kee]], ''The Green Flag: A History of Irish Nationalism'' (Penguin, 1972–2000), ISBN 0-14-029165-2
+* Osborne Morton, ''Marine Algae of Northern Ireland'' (Ulster Museum, Belfast, 1994), ISBN 0-900761-28-8
+* Henry Patterson, ''Ireland Since 1939: The Persistence of Conflict'' (Penguin, 2006), ISBN 978-1-84488-104-8
+* P. Hackney (ed.) ''Stewart's and Corry's Flora of the North-east of Ireland'' 3rd edn. (Institute of Irish Studies, Queen's University of Belfast, 1992), ISBN 0-85389-446-9(HB)
+
+==External links==
+{{Sister project links|Northern Ireland}}
+* [http://www.northernireland.gov.uk/ Northern Ireland Executive] (Northern Ireland [[Devolution|devolved]] government)
+* [http://www.nio.gov.uk/ Northern Ireland Office] (UK central government)
+* [http://www.discovernorthernireland.com/ Discover Northern Ireland] ([[Northern Ireland Tourist Board]])
+
+{{Northern Ireland topics|state=collapsed}}
+{{Navboxes
+|title = Northern Ireland and the United Kingdom
+|list  =
+{{Ireland topics                          |state=collapsed}}
+{{Counties and cities of Northern Ireland |state=collapsed}}
+{{Northern Ireland heads of government    |state=collapsed}}
+{{Northern Ireland Executive              |state=collapsed}}
+{{Northern Ireland Office                 |state=collapsed}}
+{{Constituencies in Northern Ireland      |state=collapsed}}
+{{Districts of Northern Ireland           |state=collapsed}}
+{{United Kingdom constituents and affiliations}}
+{{United Kingdom topics}}
+}}
+{{Navboxes
+|title = International membership and history
+|list  =
+{{Celtic nations |state=collapsed}}
+{{British peoples}}
+{{British Isles}}
+{{English official language clickable map}}
+&lt;!--Template removed per [[Wikipedia:Templates_for_deletion/Log/2008_April_7#Template:Germanic-speaking_regions_of_Europe]]--&gt;
+{{Irish states since 1171}}
+}}
+
+&lt;!--Overcategorisation?:
+
+--&gt;
+{{Use dmy dates|date=May 2012}}
+
+[[Category:NUTS 1 statistical regions of the European Union]]
+[[Category:NUTS 1 statistical regions of the United Kingdom]]
+[[Category:Northern Ireland| ]]&lt;!--Keep at top of list (eponymous category)--&gt;
+[[Category:United Kingdom|Northern Ireland]]
+[[Category:Celtic countries and territories]]
+[[Category:English-speaking countries and territories]]
+[[Category:Scots-speaking countries]]
+[[Category:History of Ireland]]
+[[Category:Northern Europe]]
+[[Category:Western Europe]]
+[[Category:Home rule in the United Kingdom|Ireland, Northern]]
+[[Category:States and territories established in 1921]]
+[[Category:Island countries]]
+[[Category:NUTS 2 statistical regions of the United Kingdom]]
+
+{{Link FA|sco}}
+&lt;!--Interwikis--&gt;
+
+[[af:Noord-Ierland]]
+[[ang:Norðerne Īrland]]
+[[ar:أيرلندا الشمالية]]
+[[an:Irlanda d'o Norte]]
+[[ast:Irlanda del Norte]]
+[[az:Şimali İrlandiya]]
+[[zh-min-nan:Pak Éire]]
+[[be:Паўночная Ірландыя]]
+[[be-x-old:Паўночная Ірляндыя]]
+[[bg:Северна Ирландия]]
+[[bar:Nordirland]]
+[[bs:Sjeverna Irska]]
+[[br:Norzhiwerzhon]]
+[[ca:Irlanda del Nord]]
+[[cv:Çурçĕр Ирланди]]
+[[cs:Severní Irsko]]
+[[cy:Gogledd Iwerddon]]
+[[da:Nordirland]]
+[[de:Nordirland]]
+[[dsb:Pódpołnocna Irska]]
+[[et:Põhja-Iirimaa]]
+[[el:Βόρεια Ιρλανδία]]
+[[es:Irlanda del Norte]]
+[[eo:Nord-Irlando]]
+[[ext:Irlanda del Norti]]
+[[eu:Ipar Irlanda]]
+[[fa:ایرلند شمالی]]
+[[fo:Norðurírland]]
+[[fr:Irlande du Nord]]
+[[fy:Noard-Ierlân]]
+[[ga:Tuaisceart Éireann]]
+[[gv:Nerin Hwoaie]]
+[[gd:Èirinn a Tuath]]
+[[gl:Irlanda do Norte - Northern Ireland]]
+[[gu:નોર્ધન આયર્લેન્ડ]]
+[[xal:Ар Гәәлгүдин Таңһч]]
+[[ko:북아일랜드]]
+[[hy:Հյուսիսային Իռլանդիա]]
+[[hi:उत्तरी आयरलैंड]]
+[[hsb:Sewjerna Irska]]
+[[hr:Sjeverna Irska]]
+[[io:Nord-Irlando]]
+[[ilo:Irlánda del Norte]]
+[[id:Irlandia Utara]]
+[[ia:Irlanda del Nord]]
+[[os:Цæгат Ирланди]]
+[[is:Norður-Írland]]
+[[it:Irlanda del Nord]]
+[[he:צפון אירלנד]]
+[[jv:Irlandia Lor]]
+[[kn:ಉತ್ತರ ಐರ್ಲೆಂಡ್‌‌]]
+[[ka:ჩრდილოეთი ირლანდია]]
+[[kw:Wordhen Gledh]]
+[[ht:Ilann dinò]]
+[[ku:Bakurê Îrlandê]]
+[[la:Hibernia Septentrionalis]]
+[[lv:Ziemeļīrija]]
+[[lb:Nordirland]]
+[[lt:Šiaurės Airija]]
+[[lij:Irlanda do Nòrd]]
+[[ln:Irlandí ya Nola]]
+[[hu:Észak-Írország]]
+[[mk:Северна Ирска]]
+[[ml:വടക്കൻ അയർലണ്ട്]]
+[[mt:Irlanda ta' Fuq]]
+[[mr:उत्तर आयर्लंड]]
+[[arz:ايرلاندا الشماليه]]
+[[ms:Ireland Utara]]
+[[cdo:Báe̤k Ái-ī-làng]]
+[[mn:Умард Ирланд]]
+[[nl:Noord-Ierland]]
+[[nds-nl:Noord-Ierlaand]]
+[[ja:北アイルランド]]
+[[no:Nord-Irland]]
+[[nn:Nord-Irland]]
+[[nrm:Irlande du Nord]]
+[[oc:Irlanda del Nòrd]]
+[[pnb:اتلا آئرلینڈ]]
+[[km:អៀរឡង់​ខាងជើង]]
+[[pms:Irlanda dël Nòrd]]
+[[tpi:Noten Aialan]]
+[[pl:Irlandia Północna]]
+[[pt:Irlanda do Norte]]
+[[ro:Irlanda de Nord]]
+[[rmy:Nordutno Irland]]
+[[rm:Irlanda dal Nord]]
+[[qu:Chinchay Ilanda]]
+[[ru:Северная Ирландия]]
+[[sco:Northren Ireland]]
+[[sq:Irlanda Veriore]]
+[[scn:Irlanna dû Nord]]
+[[simple:Northern Ireland]]
+[[sk:Severné Írsko]]
+[[sl:Severna Irska]]
+[[so:Waqooyiga Ayrland]]
+[[sr:Северна Ирска]]
+[[sh:Sjeverna Irska]]
+[[su:Irlandia Kalér]]
+[[fi:Pohjois-Irlanti]]
+[[sv:Nordirland]]
+[[tl:Hilagang Irlanda]]
+[[ta:வட அயர்லாந்து]]
+[[tt:Төньяк Ирландия]]
+[[tet:Irlanda Norte]]
+[[th:ไอร์แลนด์เหนือ]]
+[[tg:Ирландияи Шимолӣ]]
+[[tr:Kuzey İrlanda]]
+[[uk:Північна Ірландія]]
+[[ur:شمالی آئرلینڈ]]
+[[vec:Irlanda del Nord]]
+[[vi:Bắc Ireland]]
+[[war:Amihanan nga Irlanda]]
+[[yi:צפון אירלאנד]]
+[[yo:Írẹ́lándì Apáàríwá]]
+[[zh-yue:北愛爾蘭]]
+[[diq:İrlanda Zımey]]
+[[zea:Noord-Ierland]]
+[[zh:北爱尔兰]]</text>
+      <sha1>ousoev7crq5bg8hikbvxmq37dw2vbkw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

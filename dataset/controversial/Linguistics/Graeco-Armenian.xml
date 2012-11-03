@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Graeco-Armenian</title>
+    <ns>0</ns>
+    <id>4321115</id>
+    <revision>
+      <id>508406033</id>
+      <parentid>507469027</parentid>
+      <timestamp>2012-08-21T05:36:35Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>11292982</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.2+) (Robot: Adding [[hy:Հունահայկական հիպոթեզ]]</comment>
+      <text xml:space="preserve" bytes="5461">{{Hypothetical Indo-European subfamilies}}
+'''Graeco-Armenian''' (also '''Helleno-Armenian''') is the hypothetical common ancestor of the [[Greek language|Greek]] and [[Armenian language|Armenian]] languages which postdates the [[Proto-Indo-European language]] (PIE). Its status is comparable to that of the [[Italo-Celtic]] grouping: each is widely considered plausible without being accepted as established ''communis opinio''.
+
+The hypothetical Proto-Graeco-Armenian stage would need to date to the [[3rd millennium BC]], only barely differentiated from either late PIE or [[Graeco-Armeno-Aryan]]. 
+
+== History ==
+The hypothesis originates with [[Holger Pedersen (linguist)|Pedersen]] (1924), who noted that the number of Greek-Armenian lexical cognates is greater than that of agreements between Armenian and any other Indo-European language. [[Antoine Meillet|Meillet]] (1925, 1927) further investigated morphological and phonological agreement, postulating that the parent languages of Greek and Armenian were dialects in immediate geographical proximity in the [[PIE|parent language]]. Meillet's hypothesis became popular in the wake of his ''Esquisse'' (1936). Solta (1960) does not go as far as postulating a Proto-Graeco-Armenian stage, but he concludes that considering both the lexicon and morphology, Greek is clearly the dialect most closely related to Armenian. Hamp (1976:91) supports the Graeco-Armenian thesis, anticipating even a time &quot;when we should speak of Helleno-Armenian&quot; (meaning the postulate of a Graeco-Armenian proto-language). 
+Clackson (1994:202) is again more reserved, holding the evidence in favour of a positive Graeco-Armenian sub-group to be inconclusive and tends to include [[Armenian language|Armenian]] into a larger [[Graeco-Armeno-Aryan]] family. 
+
+Evaluation of the hypothesis is tied up with the analysis of the poorly attested [[Phrygian language]]. While Greek is attested from very early times, allowing a secure reconstruction of a [[Proto-Greek language]] dating to the late 3rd millennium, the history of Armenian is opaque. It is strongly linked with  [[Indo-Iranian languages]]; in particular, it is a [[Satem]] language. 
+
+The earliest testimony of the [[Armenian language]] dates to the 5th century AD (the Bible translation of [[Mesrob Mashtots]]). The earlier history of the language is unclear and the subject of much speculation.
+It is clear that Armenian is an [[Indo-European language]], but its development is opaque. In any case, Armenian has many layers of [[loanwords]] and shows traces of long [[language contact]] with Greek and [[Indo-Iranian languages|Indo-Iranian]]. Nakhleh, [[Tandy Warnow|Warnow]], Ringe, and Evans (2005) compared various phylogeny methods and found that five procedures (maximum parsimony, weighted and unweighted maximum compatibility, neighbor joining, and the technique of Gray and Atkinson) support a Graeco-Armenian subgroup.&lt;ref&gt;[http://language.psy.auckland.ac.nz/files/gray_and_atkinson2003/grayatkinson2003.pdf Russell D. Gray and Quentin D. Atkinson, Language-tree divergence times support the Anatolian theory of Indo-European origin, Nature 426 (27 November 2003) 435-439]&lt;/ref&gt;&lt;ref&gt;http://www.isrl.illinois.edu/~amag/langev/paper/nakhleh05NWRE.html&lt;/ref&gt;
+
+An interrelated problem is whether there is a &quot;Balkan Indo-European&quot; subgroup of Indo-European, which would comprise not only Greek and Armenian, but also [[Albanian language|Albanian]] and possibly some dead languages on the Balkans. This theory has been argued for in various publications by scholars such as G. Neumann, G. Klingenschmitt, J. Matzinger, J. H. Holst. This Balkan subgroup in turn is supported by the lexicostatistical method of H.J.Holm&lt;ref&gt;Hans J. Holm (2008): The Distribution of Data in Word Lists and its Impact on the Subgrouping of Languages. In: Christine Preisach, Hans Burkhardt, Lars Schmidt-Thieme, and Reinhold Decker (Editors): Data Analysis, Machine Learning, and Applications. Proc. of the 31th Annual Conference of the German Classification Society (GfKl), University of Freiburg, March 7-9, 2007. Heidelberg-Berlin: Springer.&lt;/ref&gt;
+
+==References==
+* [[James Clackson]], ''The Linguistic Relationship between Armenian and Greek'', Publications of the Philological Society, 30, Blackwell (1994), ISBN 0-631-19197-6.
+*[[Eric P. Hamp]], in Davis and Meid (eds.) FS Palmer, Innsbruck (1976)
+*R. Schmitt, 'Die Erforschung des Klassisch-Armenischen seit Meillet (1936)', ''Kratylos'' 17 (1972), 1-68.
+*Holst, Jan Henrik ''Armenische Studien'', Wiesbaden: Harrassowitz (2009).
+*[[Antoine Meillet|A. Meillet]] in ''BSL'' 26 (1925), 1-6
+*[[Antoine Meillet|A. Meillet]] in ''BSL'' 27 (1927), 129-135.
+*[[Antoine Meillet|A. Meillet]], ''Esquisse d'une grammaire comparée de l'arménien classique'', Vienna (1936) 
+*[[Holger Pedersen (linguist)|H. Pedersen]], s.v. 'Armenier' in Ebert (ed.), ''Reallexikon der Vorgeschichte'', Berlin (1924).
+*[[G. R. Solta]], ''Die Stellung des Armenischen im Kreise der Indogermanischen Sprachen'', Vienna (1960)
+
+===Footnotes===
+{{Reflist}}
+
+==See also==
+*[[Armenian hypothesis]]
+*[[Proto-Armenian]]
+*[[Graeco-Armeno-Aryan]]
+
+{{Greek language}}
+[[Category:Indo-European languages]]
+[[Category:Indo-European linguistics]]
+[[Category:Armenian languages]]
+[[Category:Greek language]]
+
+[[de:Balkanindogermanisch]]
+[[hy:Հունահայկական հիպոթեզ]]
+[[id:Bahasa Yunani-Armenia]]
+[[ru:Греко-армянская гипотеза]]</text>
+      <sha1>k7kaldflrcf7dtuybdxh3f2x5z59c7c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

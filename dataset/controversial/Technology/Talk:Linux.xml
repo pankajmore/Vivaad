@@ -1,0 +1,279 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Linux</title>
+    <ns>1</ns>
+    <id>8252870</id>
+    <revision>
+      <id>521163544</id>
+      <parentid>521157650</parentid>
+      <timestamp>2012-11-03T05:31:35Z</timestamp>
+      <contributor>
+        <username>Walter Görlitz</username>
+        <id>121745</id>
+      </contributor>
+      <comment>Reverted 2 edits by [[Special:Contributions/50.4.241.143|50.4.241.143]] ([[User talk:50.4.241.143|talk]]): We don't edit the comments left by others. ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve" bytes="41172">{{Skip to talk}}
+{{Talk header|noarchive=yes}}
+{{notaforum}}
+{{ArticleHistory
+|action1=FAC|action1date=02:59, 19 Jan 2005|action1link=Wikipedia:Featured article candidates/Linux/archive1|action1result=not promoted|action1oldid=9501185
+|action2=PR|action2date=12:19, 21 July 2005|action2link=Wikipedia:Peer review/Linux/archive1|action2result=reviewed|action2oldid=19210160
+|action3=FAC|action3date=16:34, 14 December 2005|action3link=Wikipedia:Featured article candidates/Linux/archive2|action3result=not promoted|action3oldid=31322562
+|action4=GAN|action4date=23 October 2006|action4link=/Archive 9#GA failed|action4result=not listed|action4oldid=83237332
+|action5=PR|action5date=15:58, 14 March 2007|action5link=Wikipedia:Peer review/Linux/archive2|action5result=reviewed|action5oldid=115032456
+|action6=GAN|action6date=12 July 2007|action6result=listed|action6oldid=144012389
+|topic=Engtech
+|action7=PR|action7date=02:07, 29 May 2008|action7link=Wikipedia:Peer review/Linux/archive3|action7oldid=215495060
+|action8=GAR|action8date=05:41, 7 December 2010 (UTC)|action8result=delisted|action8link=Wikipedia:Good article reassessment/Linux/1|action8oldid=401004734
+|currentstatus=DGA
+|topic=Engineering and technology
+}}
+{{wpb|
+{{WPLinux|class=B|importance=Top}}
+{{WikiProject Technology|class=B|importance=Top}}
+{{WikiProject Software|class=B|importance=Top|computing-importance=top}}
+{{WPFS|class=B|importance=top}}
+{{WPCD}}
+{{WikiProject Computing|class=B|importance=Top}}
+}}
+{{to do|collapsed=yes}}
+{{ notice
+| header = Useful info from archives|&amp;nbsp;
+* Merge this article with [[Linux distribution]]: '''No''', this is a [[WP:SUMMARY]] style article for the broader Linux picture
+* Can we rename this page to GNU/Linux? '''No''', the vast majority of people and companies call it Linux, and we already mention the alternate name in the lead and its own subsection.
+* Do we need the GNU history? '''Yes''', GNU played an important role in the development of Linux as we know it today.
+* For previously discussed criticism of Linux, see [[Talk:Linux/Archive 2#Criticism|Archive 2]], [[Talk:Linux/Archive 6#Critisisms|Archive 6]], [[Talk:Linux/Archive 7#&quot;Criticism&quot; section|Archive 7]], [[Talk:Linux/Archive 10#User-friendly?|Archive 10]], [[Talk:Linux/Archive 17#I disagree with the belief that including criticism in an article in unencyclopedic|Archive 17]], and [[Talk:Linux/Archive 20#Suggestion for research: Criticism of Linux|Archive 20]].
+}}
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav}}
+|maxarchivesize = 31K
+|counter = 35
+|minthreadsleft = 4
+|algo = old(60d)
+|archive = Talk:Linux/Archive %(counter)d
+}}{{User:HBC Archive Indexerbot/OptIn
+|target=Talk:Linux/Archive index
+|mask=Talk:Linux/Archive &lt;#&gt;
+|mask=Talk:Linux/Name
+|mask=Talk:Linux/Referring to this article
+|leading_zeros=0
+|indexhere=yes
+}}{{archives|auto=short|search=yes|bot=MiszaBot|age=60|index=/Archive index|&lt;center&gt;
+* [[/Name]]: discussion of &quot;Linux&quot; versus &quot;GNU/Linux&quot;
+* [[/Referring to this article]]: Terminology used in other articles to refer to this subject
+&lt;/center&gt;
+}}
+
+== Linux is a *KERNEL*, Not an OS ==
+
+Linux on its own is not an operating system.  It's a *kernel* and framework upon which LInux-based OSes work from.  Can anyone provide reliable factual evidence that Linux is an OS and not a kernel (on its own)?  Because GNU/Linux is an OS, but Linux on its own isnt.  --[[User:TrekCaptainUSA|TrekCaptainUSA]] ([[User talk:TrekCaptainUSA|talk]]) 16:36, 29 March 2012 (UTC)
+
+:To save everybody's time, let me quote from the header of this talk page: &quot;Can we rename this page to GNU/Linux? No, the vast majority of people and companies call it Linux, and we already mention the alternate name in the lead and its own subsection.&quot; [[User:man with one red shoe|man with one &lt;font color=&quot;red&quot;&gt;red&lt;/font&gt; shoe]] 21:05, 29 March 2012 (UTC)
+
+
+I think we are facing a mistake counting the pro and con opinions each time this question comes out. From a large pool of people sustaining the Linux=kernel idea, each time comes somebody new, never seen before, to express his rightful opinion. Then, always the same little oligarchy that literally owns the article blocks the newcomer with its great majority of 4-5 persons against the single. If we go back in the archive and count all the ones that have expressed themselves favorable to call Linux only what it is, a kernel, we likely discover that those are the great majority.
+
+However, keeping your joke that Wikipedia must reflect the widespread common knowledge rather than reflect the &quot;right, correct principles of the elite&quot;, you too are failing to play this game right two chapters above where I discussed &quot;''Linux as a _family_ of operating systems''&quot;. Doesn't the common knowledge understand Linux (or, better, GNU/Linux) as a family of operating systems, rather then as a single OS being, under your opinion, be '''erroneously''' referred to with wrong names such as Debian, Ubuntu, etc.?
+
+This again is your game to play Wikipedia's rules under you own tastes, those of a minor elite that prevents the great majority of us from editing our article the right way.
+
+[[User:Medende|Medende]] ([[User talk:Medende|talk]]) 05:03, 30 March 2012 (UTC)
+
+:You have to keep in mind that this article is not related only with GNU/Linux, but also treats on mobile systems like Android, which has nothing to do with GNU.--[[User:Luizdl|Luizdl]] ([[User talk:Luizdl|talk]]) 16:11, 30 March 2012 (UTC)
+
+:: [[User:Luizdl|Luizdl]], of course those specific sections can easily be moved to a more comprehensive Linux article not directly related with GNU and more loose on the concept of Linux-based OSes. The whole article has been forced to grown wonky upon a wrong base title improperly named &quot;Linux&quot;.
+:: [[User:Medende|Medende]] ([[User talk:Medende|talk]]) 18:18, 30 March 2012 (UTC)
+
+:::Wikipedia is not about [[WP:TRUTH|&quot;truth&quot;]] (and by the way, who establishes the truth?), it's about using verified sources, most of the sources use the &quot;incorrect&quot; term the way is used in this page, according to Wikipedia naming policies this is the name we should use even if you consider it incorrect. Any arguments about its validity or invalidity are red herrings because we cannot establish here on Wikipedia what's the correct use of words, what we can do here we can establish what is the majority use in reliable sources. If you can prove that majority of sources use GNU/Linux then we'll change the name of the article, otherwise please don't waste the time of editors with things that have been discussed over and over for years. [[User:man with one red shoe|man with one &lt;font color=&quot;red&quot;&gt;red&lt;/font&gt; shoe]] 00:27, 31 March 2012 (UTC)
+
+:::: I'm absolutely with your opinion. But then, even without starting digging into search engines for this and speaking with data out of the hand, what is the absolutely most common way to refer to Linux? As a family of operating system comprising Debian and Ubuntu for example, or as a single OS? I think I won't need to present references for this. You'd be kidding if this isn't an hypocritical play of Wikipedia rules.
+:::: [[User:Medende|Medende]] ([[User talk:Medende|talk]]) 01:14, 31 March 2012 (UTC)
+
+:::::Yeah, that's me the hypocrite... yet, I keep seeing titles like [http://www.zdnet.com/blog/open-source/red-hat-the-first-billion-dollar-linux-company-has-arrived/10692 Red Hat: the first billion dollar Linux company has arrived] or [http://www.wired.com/wiredenterprise/2012/03/red-hat/ this] that mentions &quot;Meet Red Hat: the billion-dollar Linux company.&quot; I somehow don't feel the need to ask them what do they mean by &quot;Linux company&quot;. Please troll the news writers first to write the &quot;correct&quot; name or to specify '''exactly''' what they mean by &quot;Linux&quot; and then come back here. Talking about hypocrisy, it's hypocrisy to come with a claim that we don't know what writers mean by &quot;Linux&quot; because it serves your interests to promote your truth in this article. [[User:man with one red shoe|man with one &lt;font color=&quot;red&quot;&gt;red&lt;/font&gt; shoe]] 12:56, 31 March 2012 (UTC)
+
+The article says that Linux is an operating system, which is not the same the same thing as the Linux kernel. &quot;The Linux operating system&quot; must have some defining characteristic that makes it a single thing, and not refer to any operating system which uses the Linux kernel. If such a definition can be reached, Android is probably not included because so many of the user space programs used are so different to those used in other Linux-based operating systems. It is possible that there is so much diversity among Linux-based operating systems that it would be incorrect to say that they are a versions of single &quot;Linux operating system&quot;. (The situation may have changed since previous discussions on this Wikipedia talk page, e.g. with the popularity of Android.) I think that a title like &quot;Linux-based operating system&quot; or &quot;Overview of operating systems based on the Linux kernel&quot; would be better. [[User:Count Truthstein|Count Truthstein]] ([[User talk:Count Truthstein|talk]]) 12:47, 1 April 2012 (UTC)
+:All of the defining characteristics of Linux (or Unix for that matter) are in the kernel: process handling, char/block devices, ... GNU is simply a layer on top that doesn't really define anything. You can't make a Linux OS by adding all of the GNU tools to a (say) FreeBSD kernel - and call it Linux - on the other hand you can remove all of the GNU tools... and it would still be Linux (and still be an operating system). Embedded Linux is a good example of this. --[[User:KimDabelsteinPetersen|Kim D. Petersen]] ([[User talk:KimDabelsteinPetersen|talk]]) 11:37, 7 April 2012 (UTC)
+::It's tautological to say that the defining characteristics of Linux are in the kernel because Linux *is* a kernel. It's false to say that all of the defining characteristics of Unix are in the kernel. (Examples are the common Unix commands, the convention of using programs that communicate via pipes, the Unix directory structure, etc., and GNU handles some of that.) It's tautological to say that you can't make a Linux OS without Linux. (You can't make a GNU OS without GNU either. So what?) It's irrelevant to say that you can make a Linux OS without GNU. (You can make a GNU OS without Linux.) What is the point you're trying to make here? I'm sure we all know that neither absolutely requires the other, although in practice they are almost always used together, and what is commonly called &quot;Linux&quot; refers to the combination of GNU and Linux and some other software, with GNU comprising the plurality of it -- ten times as much as Linux. If &quot;GNU/Linux&quot; is used so rarely as to be irrelevant, then the use of &quot;Linux&quot; to refer to non-GNU systems is surely an order of magnitude less relevant.
+
+::In answer to Count Truthstein, I would simply say that the defining characteristic of a &quot;Linux operating system&quot; is that it uses Linux (the kernel) and Android is clearly included in that definition. He may have a point in that the thing that you call &quot;Linux&quot; describes Android as well, yet you don't call Android &quot;Linux&quot;. You may say it's a weak argument because the primary creator of Android -- Google -- calls it &quot;Android&quot;. And it may remain a weak argument, but I would still note that the primary creator of &quot;Linux&quot; (the operating system) is the GNU Project, and they call it &quot;GNU/Linux&quot;. If someone argues &quot;the primary creator, Linus, calls it 'Linux'&quot;, then they are only referring to the kernel (since that's what Linus created), and the same argument can be turned around to say &quot;well, the primary creator of the 'Linux operating system', the GNU Project, calls it 'GNU/Linux'&quot;. Anyway, Android is closely analogous to GNU/Linux. GNU/Linux is the userspace (largely comprised of GNU) plus Linux, the kernel. Android is the userspace (largely provided by Google) plus Linux, the kernel. If one is to use clear and consistent definitions of terms, then it would be inconsistent to insist on calling GNU/Linux &quot;Linux&quot; while calling Android &quot;Android&quot;. However, if you simply go by popularity, then I cannot argue.
+
+::And I believe you are wrong to stick to such a pedantic definition of an operating system ('the layer that mediates between the hardware and the userspace'). By that reasoning, MS-DOS and Windows are not operating systems, but aggregations that include small operating systems inside of them somewhere. (They have parts that interface with the hardware, i.e. kernels or &quot;operating systems&quot; as you use the term, but they are not named after their kernels. The MS-DOS kernel has no name, and the Windows kernel has at times been unnamed or referred to by an internal codename only.) &quot;Unix&quot; as popularly used, like &quot;Windows&quot; and &quot;MS-DOS&quot;, has always referred to the entire system of software, including the userspace. Just as Unix, Windows, and MS-DOS are operating systems, GNU and GNU/Linux are operating systems too. On the other hand, Linux cannot power any machine by itself; it needs a userspace (even if it's only init). It's ridiculous to say that Linux is an operating system when it cannot make a computer operate. Linux always forms a ''part'' of an operating system; it is the kernel of it.
+
+::That said, I must grudgingly admit that &quot;Linux&quot; is probably the name that best fits Wikipedia's official policies and should be chosen when there's a dispute, but I strongly disagree with Chris Cunningham's one man crusade to bulk-replace references to &quot;GNU/Linux&quot; on Wikipedia with &quot;Linux&quot;, unilaterally overruling the many people who worked on those articles. [[Special:Contributions/184.78.155.105|184.78.155.105]] ([[User talk:184.78.155.105|talk]]) 07:19, 17 April 2012 (UTC)
+::: &quot;I would still note that the primary creator of &quot;Linux&quot; (the operating system) is the GNU Project, and they call it &quot;GNU/Linux&quot; &quot; -- How so? Creators of Linux distributions are different companies and communities that use free code that's available to them. They get to name their final products, not whoever wrote the original code. Even more, I highly doubt that GNU part is the majority of the code in a Linux distribution, actually it's not even the biggest part. I am glad though that you agree that Linux fits the best Wikipedia's naming policies. [[User:man with one red shoe|man with one &lt;font color=&quot;red&quot;&gt;red&lt;/font&gt; shoe]] 18:18, 17 April 2012 (UTC)
+::::I agree.  What's especially tedious about this recurring argument is consistent confusion between ''operating systems'' and ''applications''.  Just because applications are commonly distributed with an operating system does not make them part of the operating system.  Within the field of serious computer science, the term operating system has some specific meaning, correctly reflected in the opening paragraph of our own [[Operating system]] article: ''&quot;An '''operating system''' ('''OS''') is a set of [[Computer program|programs]] that  manage [[computer hardware]] resources and provide common services for [[application software]]. The operating system is a vital component of the [[system software]] in a computer system. Application programs require an operating system which are usually separate programs, but can be combined in simple systems.&quot;''  Using the term as it's understood within the field, the operating system is ''Linux'', not GNU anything.  The GNU stuff is all application layer.  [[User:Msnicki|Msnicki]] ([[User talk:Msnicki|talk]]) 22:10, 17 April 2012 (UTC)
+:::::Just to feed this infinite troll... What's especially tedious about this recurring argument is consistent confusion between ''operating systems'' and ''kernel''. A kernel alone doesn't operate anything. Applications cannot talk with it (like in ''provide common services for [[application software]]'') without at least a libc (which most common flavor for Linux is... know what?... [[GNU C Library]] as in ''GNU/Linux'') A kernel alone cannot even boot by itself, without a bootloader (I won't tell that the most common Linux bootloader is [[GNU GRUB]]. Yes, as in ''GNU/Linux''). And the list is quite long. Without userspace tools, without an init system, that mounts the disks in the right order, spawns the ttys etc, my computer computes as much as my teapot does and can hardly seen as running an operating system (if the definition of ''operating'' hasn't change since the last time I checked) [[Special:Contributions/78.229.224.75|78.229.224.75]] ([[User talk:78.229.224.75|talk]]) 23:11, 21 May 2012 (UTC)
+
+Perhaps this article should be merged into this one [[Linux_kernel|http://en.wikipedia.org/wiki/Linux_kernel]] all the information relating specifically to the kernel should be moved there, and this page should be used to describe Linux systems specifically, as in systems that use the Linux kernel, I agree that GNU is not required for Linux to function, yet ''something'' is required to make it run, as Msnickiar said, an application layer. This page should not be renamed, GNU/Linux, as not all systems use GNU. It should be renamed Linux Systems, which while describing GNU/Linux, also describes, Systems such as Android, which do not use GNU, and all kernel specific information should be moved to the Linux Kernel Page
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 19:49, 21 May 2012 (UTC)
+
+----
+
+In the above (long) discussion, an easily supportable point is hidden beneath the &quot;Linux or GNU/Linux?&quot; and &quot;kernel or operating system?&quot; questions - at the very least, and all sides would agree on this I believe: ''&quot;Linux is a Unix-like operating system&quot;'' is ''less correct'' than ''&quot;Linux is a '''family of''' Unix-like operating systems&quot;''. Could that small change please be considered upon, without other baggage from the above discussion? This lack of distinction is the first that meets the eye in this article, and as it stands it directly clashes with he first sentences in the articles for every Linux distribution. &quot;Family of&quot; would remove this discrepancy, ''and'' make it easier on the eye for a lot of people.
+
+Also, the article ''already says this'', under the &quot;GNU/Linux&quot; section: &quot;The media and common usage, however, refers to this ''family of'' operating systems simply as ''Linux'', as do many large Linux distributions&quot;.
+
+It is possible to discuss anything in absurdum (as is shown above), but in all honesty: this would be a small change, it would stop contradicting other articles, it would stop contradicting itself, it would still not contradict sources, etc. It is still not perhaps a perfectly rigorous definition of the word &quot;Linux&quot;, but it would seem to be the one reflected in &quot;media and common usage&quot;, as the article itself admits later, and that is what should be reflected at Wikipedia in this case, correct? [[Special:Contributions/46.239.104.5|46.239.104.5]] ([[User talk:46.239.104.5|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 08:00, 2 August 2012 (UTC)&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: The lead used to contain &quot;family of&quot;, but it was removed when it was pointed out that few or no reliable sources use this framing and that all it did was make the lead mushier. It's okay in the article body where we can use our own phrasing to clarify the matter, but not in the lead. What's more, it's certainly not the case that this terminology is commonplace: Mac OS X is commonly referred to as &quot;an operating system&quot;, as is Windows 7, and even Unix itself as a whole. The current wording is stable precisely because so few people take issue with it. [[User:Thumperward|Chris Cunningham (user:thumperward)]] ([[User talk:Thumperward|talk]]) 10:57, 7 August 2012 (UTC)
+
+:: I personally find that the &quot;Linux is an operating system&quot;-mantra cements confusion from new users that is difficult to clear up, and perhaps that the introduction 'should' be mushy since it is a complex issue.
+
+:: But let's not reiterate the above discussion and try to be constructive instead: perhaps a more extensive &quot;What is Linux?&quot; section ( naming not decided :-) ) should be most fitting in this article and better satisfy the NPOV criteria. This is ''not'' the same as simply the &quot;GNU/Linux naming controversy&quot;, which is more specific and actually a subset of this wider question. It could be somewhat based on http://www.linux.org/article/view/what-is-linux and other sources. I believe this should be central to the &quot;Linux&quot; article on Wikipedia - people who look at this want to know what Linux is, and right now it is incomplete in my (and some other vocal participants above) eyes. [[Special:Contributions/46.239.104.5|46.239.104.5]] ([[User talk:46.239.104.5|talk]])
+
+It seems to me that people do not understand the topic well. So I'll clarify: There are two views, one that tells the operating system is the kernel ([[Andrew S. Tanenbaum]] and maybe [[Linus Torvalds]]). The other view is [[Richard Stallman]], the kernel is a part of the operating system.
+
+The only contradiction between these views is what is an operating system.
+
+But the name of these articles is a complete confusion between these views. Neither assumes the position of this article. We are using the term operating system to refer to something that is not the kernel. But calling it Linux.
+
+In both views the article should refer to the Linux kernel.
+
+But one of them say the kernel is the operating system and do not speak anything other than the kernel.
+
+In another made ​​it clear that Linux is a kernel, not an operating system and do not speak anything other than the kernel.
+
+So both views agree to use the term &quot;Linux&quot; to refer to the kernel and nothing else.
+
+Therefore a reasonable interpretation of these two views say:
+* The article Linux refers to nothing more than the kernel
+* The proper name of this article is &quot;Linux based systems&quot;, or distributions that use the Linux kernel.
+* When we say Linux based systems we talk about GNU/Linux and Android.
+* Never use the name Linux to refer to Linux-based systems.
+* If you want to use Linux to refer to something other than the kernel, the proper name is GNU/Linux or Android.
+--[[User:Gonzalfj|Gonzalfj]] ([[User talk:Gonzalfj|talk]]) 11:40, 12 October 2012 (UTC)
+
+== Suggestion to revise introduction ==
+
+I recently had a conversation with a newbie who wanted to know &quot;where do I download the Linux operating system?&quot; At first I thought he meant the Linux kernel, but he actually meant the entire operating system. It took me some time to explain that you download Linux distributions, and that there is no single central official Linux OS. The lede and introduction of this article does not help to dispel this impression, describing Linux as simply &quot;a Unix-like computer operating system.&quot; Despite the fact that versions of Windows are far less diverse than distros of Linux, the [[Microsoft Windows]] article still describes it as a &quot;series&quot; of operating systems rather than simply &quot;an operating system&quot;. However, I am also aware of the deeply entrenched Linux / GNU/Linux name conflict, and would prefer to avoid that as well. I would suggest something similar to the following:
+
+:'''Linux''' is a family of free and open source operating systems, maintained by different organizations, each based on the Linux kernel.
+
+Failing this, could we add something to clarify the fact that there is no single, official Linux OS? Thank you! [[User:Dcoetzee|Dcoetzee]] 22:50, 12 August 2012 (UTC)
+
+: Paragraph 3 could perhaps do with a little clarification on the &quot;no official vendor&quot; point, but the lead sentence arrived at its present succinct state after copious discussion (see the talk archives). It needs to impart information first and foremost, rather than being mush designed not to offend anyone. (As for versions of proprietary OSes being &quot;far less diverse than distros of Linux&quot;, what is currently known as Microsoft Windows uses a completely new kernel from what was commonly known as Microsoft Windows fifteen years ago, which in turn was derived from an iterative rewrite of a 16-bit OS. Let's not even discuss what happened with Mac OS.) [[User:Thumperward|Chris Cunningham (user:thumperward)]] ([[User talk:Thumperward|talk]]) 12:15, 16 August 2012 (UTC)
+
+In my opinion, we should not say organization because that is saying that all distrobutions are mantained by a company, and this is false, anyone can create an os that uses the linux kernel. Also Linux is a kernel, not an os, so we should say that linux is the commonly used name for the systems, rather than the system itself, like this.
+
+:'''Linux''' is the name used for a family of free and open source operating systems, maintained by different groups, each based on the Linux kernel.
+
+Again, this is my opinion. A consensus may be needed for this.
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 00:06, 13 August 2012 (UTC)
+
+: Please take the time to peruse the talk archives (voluminous I know, but ''packed'' with information) regarding the &quot;only a kernel&quot; point. That is an opinion rather than a fact, and rather a minority one. [[User:Thumperward|Chris Cunningham (user:thumperward)]] ([[User talk:Thumperward|talk]]) 12:15, 16 August 2012 (UTC)
+::If you have good arguments why the article intro is fine as it is, could you state them here instead of telling people to go and read the talk page archives? Or at least link to the relevant sections in the archives. [[User:Count Truthstein|Count Truthstein]] ([[User talk:Count Truthstein|talk]]) 09:54, 28 August 2012 (UTC)
+:::Everything that could be said about this issue was said a thousand times... asking people to repeat themselves only because you cannot be bothered to read what was written before is not a reasonable request. [[User:man with one red shoe|man with one &lt;font color=&quot;red&quot;&gt;red&lt;/font&gt; shoe]] 03:10, 29 August 2012 (UTC)
+::::Can someone summarize what was said before? Reading through the past pages states that there is major confusion about, GNU, GNU/Linux, Linux and Linux Distribution.
+*GNU, A free software project.
+
+*GNU/Linux, A Linux distribution that contains large amounts of GNU code
+
+*Linux, a kernel developed by Linus Torvalds
+
+*Linux Distribution, an operating system that uses Linux as it's kernel.
+
+I think that there should be a page for GNU, a page for Linux, and a page for Linux distribution.
+I think that this page will be have to be divided and merged to those articles.
+I am likely repeating what has been said before, yet, it is not feasible to salvage through 6 years of text trying to find the answer. Can someone who has been following this for more time than me summarize the outcome of previous options presented? I am sorry if this is not helping, but this article contains mass amounts of confusing information, and something should be done.
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 02:52, 2 September 2012 (UTC)
+:Not quite - GNU/Linux is not a Linux distribution - it refers to any Linux distribution or operating system based on Linux which uses a substantial quantity of GNU projects. (On a second look, that could be what you said.) Then we have the use of the word &quot;Linux&quot; to mean something very similar to &quot;GNU/Linux&quot; - not Linux, but an operating system which uses Linux. [[User:Count Truthstein|Count Truthstein]] ([[User talk:Count Truthstein|talk]]) 09:56, 2 September 2012 (UTC)
+::Yes, that is what I said, I think a GNU/Linux page does not need to exist as relevant information from Linux can be moved to the Linux distribution article, or the information from the Linux distribution article can be moved to Linux, however [[Talk:Linux_distribution#large_overlap_between_Linux_and_Linux_distribution.2C_merge.3F|this]] seems to be a previous attempted merge, but I think it would be best if the Linux Kernel information from this article were distributed to Linux Kernel, and then Linux distribution can be merge into this one. Does this idea stand a chance?
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 14:00, 2 September 2012 (UTC)
+
+:Not with me.  I'm pretty tired of this recurring FSF agenda to paste the name GNU onto every reference to Linux.  It's a transparent attempt to take credit for something they didn't do and it's based on confusing people about what an operating system is.  An operating system is not all the    applications that anyone runs on it.  An [[operating system]] (as correctly defined here on Wikipedia) is the software that manages the hardware resources and provides services for applications.  [[User:Msnicki|Msnicki]] ([[User talk:Msnicki|talk]]) 14:24, 2 September 2012 (UTC)
+::That wasn't what I said though, I said that we don't need a GNU/Linux page, what I am saying is that this page seems to be a combination of Linux Distribution and Linux Kernel and such is confusing.
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 14:30, 2 September 2012 (UTC)
+
+:Okay, let me try again.  I disagree with the argument that we should divide this article into separate distribution and kernel articles.  It'd be the camel's nose in the tent to paste GNU onto Linux in the distribution article and from there to everywhere else.  [[User:Msnicki|Msnicki]] ([[User talk:Msnicki|talk]]) 14:43, 2 September 2012 (UTC)
+::Why would that happen? The article would be called Linux distribution and would contain information about components of a Linux distribution, including those provided by the GNU project. This doesn't mean that the article would refer to such distributions as GNU/Linux. [[User:Count Truthstein|Count Truthstein]] ([[User talk:Count Truthstein|talk]]) 14:56, 2 September 2012 (UTC)
+:::It would happen because that's the FSF agenda.  [[User:Msnicki|Msnicki]] ([[User talk:Msnicki|talk]]) 15:54, 2 September 2012 (UTC)
+::::What is this &quot;FSF agenda&quot; you keep referring to?
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 18:09, 2 September 2012 (UTC)
+
+:Please see [[GNU/Linux naming controversy]], identified as the main article at [[Linux#GNU/Linux]] in this article.  [[User:Msnicki|Msnicki]] ([[User talk:Msnicki|talk]]) 20:33, 2 September 2012 (UTC)
+::That has nothing to do with the idea I said above, GNU has nothing to do with this, I said that [[Linux]] and [[Linux distribution]] and [[Linux Kernel]] are confused in this article, and this article should either have kernel relevant information merged into [[Linux Kernel]] and then merged with [[Linux distribution]] or that this article should have kernel relevant information merged into [[Linux Kernel]] and then [[Linux distribution]] merged with this.
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 21:42, 2 September 2012 (UTC)
+:You asked what the FSF agenda was and I answered.  The point is, you're welcome to your opinion but there's a long-standing consensus that opposes you and as several editors have tried to explain, it's probably not going to change.  [[User:Msnicki|Msnicki]] ([[User talk:Msnicki|talk]]) 22:01, 2 September 2012 (UTC)
+::The long-standing consensus is for GNU/Linux, I am not saying anything about GNU/Linux, I am saying that &quot;Linux&quot; article is a combination of [[Linux Kernel]] and [[Linux Distribution]], I said that it may be wise to move kernel information to Linux Kernel, and then merge [[Linux Distribution]] into [[Linux]] or the reverse of that, the GNU/Linux consensus does not apply as I am not trying to rename the article, in fact, I said at the beginning of one of my posts that a GNU/Linux page does not need to exist. You referring to GNU/Linux long standing consensus is completely irrelevant.
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 22:48, 2 September 2012 (UTC)
+:::The Linux article discusses [[Linux kernel]] and [[Linux distribution]] the same way the [[Atlanta]] article discusses [[History of Atlanta]] and [[Economy of Atlanta]], this is the primary article for the subject, and it needs to at least touch base on what makes Linux what it is.  Also, the longstanding consensus on Wikipedia is not for the use of &quot;GNU/Linux&quot; as that is a term not used by the overwhelming majority of reliable sources, it is a fringe term. - [[User:SudoGhost|Sudo]][[User_talk:SudoGhost#top|Ghost]] 23:14, 2 September 2012 (UTC)
+::::Okay, although an operating system is different that a city. Does anyone support my idea to merge away Linux Distribution or reverse?
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 01:18, 3 September 2012 (UTC)
+:::::Absolutely not.  If you're focusing on &quot;operating system is different than a city&quot; then you're missing the point by a mile; the content is not the point, ''how the content is handled'' is.  There is absolutely no reason to &quot;merge away&quot; content from this article. - [[User:SudoGhost|Sudo]][[User_talk:SudoGhost#top|Ghost]] 01:23, 3 September 2012 (UTC)
+:::::Yes, I think it's a good idea. [[User:Count Truthstein|Count Truthstein]] ([[User talk:Count Truthstein|talk]]) 15:01, 3 September 2012 (UTC)
+{{od}} Could we ''please'' stop feeding this? The editor who raised this has been pointed at our FAQ and the talk archives: it is not worth anyone's time to attempt to re-argue the point over the name simply because that editor deigns not to heed those directions. [[User:Thumperward|Chris Cunningham (user:thumperward)]] ([[User talk:Thumperward|talk]]) 13:27, 3 September 2012 (UTC)
+:It's unreasonable to expect anybody to read through 35 pages of archives to find the place that a supposed consensus was reached. In the archives which I have read, people have put forward various arguments about the name and purpose of this article. I understand by a consensus that the majority of editors will be convinced on the virtues of the arguments put forth towards the consensus, but when did this happen? Even if this happened, it is still acceptable to discuss questions such as these because consensus can change. [[User:Count Truthstein|Count Truthstein]] ([[User talk:Count Truthstein|talk]]) 15:10, 3 September 2012 (UTC)
+:: It is not unreasonable to expect that editors should be able to browse the archive box, which contains a prominent link to [[talk:Linux/Name]], an exhaustive RfC on the subject. Asking for it to be summarised yet again here is no more reasonable than turning up at [[talk:theory of evolution]] and asking for a summary of the discussion which led to the consensus that Wikipedia present the theory of evolution as fact. [[User:Thumperward|Chris Cunningham (user:thumperward)]] ([[User talk:Thumperward|talk]]) 15:19, 3 September 2012 (UTC)
+:::I agree, I can see people coming to this page and asking again and again for explanations and summaries, if they don't do their minimum due diligence they don't really deserve an answer. Also, if they don't come up with new arguments or new ideas nobody has to re-debate the same debates that went for 20 pages or more. The header of the talk page does a good job of informing the people of the issues that were already talked to death:
+:::*Merge this article with Linux distribution: No, this is a WP:SUMMARY style article for the broader Linux picture
+:::*Can we rename this page to GNU/Linux? No, the vast majority of people and companies call it Linux, and we already mention the alternate name in the lead and its own subsection.
+:::*Do we need the GNU history? Yes, GNU played an important role in the development of Linux as we know it today.
+:::*For previously discussed criticism of Linux, see Archive 2, Archive 6, Archive 7, Archive 10, Archive 17, and Archive 20.
+::::[[User:man with one red shoe|man with one &lt;font color=&quot;red&quot;&gt;red&lt;/font&gt; shoe]] 04:12, 5 September 2012 (UTC)
+The box labelled &quot;Useful info from archives&quot; doesn't actually link to archives, apart from discussion of criticism of Linux, which isn't what is being discussed here. It appears just to be a list of somebody's opinions. Regarding the link to [[talk:Linux/Name]], that it is a discussion of something different. To repeat what [[User:Ziiike]] said up the page: &quot;The long-standing consensus is for GNU/Linux, I am not saying anything about GNU/Linux, I am saying that &quot;Linux&quot; article is a combination of [[Linux Kernel]] and [[Linux Distribution]], I said that it may be wise to move kernel information to Linux Kernel, and then merge [[Linux Distribution]] into [[Linux]] or the reverse of that, the GNU/Linux consensus does not apply as I am not trying to rename the article, in fact, I said at the beginning of one of my posts that a GNU/Linux page does not need to exist. You referring to GNU/Linux long standing consensus is completely irrelevant.&quot; Do you understand why the page [[talk:Linux/Name]] is irrelevant to what is being discussed here, apart from a few short sections like [[Talk:Linux/Name#Primary_meaning_is_.22Linux_distribution.22]]? It is quite clear that no consensus was reached in those sections, just different editors stating their opinions. [[User:Count Truthstein|Count Truthstein]] ([[User talk:Count Truthstein|talk]]) 14:04, 5 September 2012 (UTC)
+:We seem to be going round and round one central point:  Yes, everyone understands that you and Ziiike would like to make a change and that you don't think the reasons the rest of us have given for opposing a change are very good or even particularly responsive to your arguments.  But here on WP, it's not enough to have what you think is the better argument.  You have to have consensus support.  You don't have that nor is it happening.  That's the part that's getting tedious for the rest of us.  [[User:Msnicki|Msnicki]] ([[User talk:Msnicki|talk]]) 14:41, 5 September 2012 (UTC)
+::No..... The reason I posted this here is to gain consensus. What is tedious for all of you? All I am asking for is everyones opinion and trying to find a common ground, if that happens there will be a consensus. I am saying the Linux and Linux Distribution are the same thing in the context that most people use the term &quot;Linux&quot;. Linux, commonly means an operating system that includes the [[Linux Kernel]]. A [[Linux Distribution]] commonly means an operating system that includes the [[Linux Kernel]]. I am asking that to be addressed and asking for opinions. As there was no consensus reached, it ended because someone rudely criticized one of the users in the argument. Perhaps this idea of merging Linux Distribution into this article can be considered?
+[[User:Ziiike|Ziiike]] ([[User talk:Ziiike|talk]]) 20:24, 5 September 2012 (UTC)
+:No.  A thousand times, no.  [[User:Msnicki|Msnicki]] ([[User talk:Msnicki|talk]]) 20:29, 5 September 2012 (UTC)
+:No. Distribution != Operating system. Each are distinct... And at this moment in time, where Linux is integrated into so many gadgets, the distinction is getting even more important. --[[User:KimDabelsteinPetersen|Kim D. Petersen]] ([[User talk:KimDabelsteinPetersen|talk]]) 20:47, 16 September 2012 (UTC)
+
+{{od}} [http://en.wikipedia.org/wiki/Special:Search?search=merge+to+linux+distribution&amp;prefix=Talk%3ALinux%2F&amp;fulltext=Search&amp;fulltext=Search The search box is not that hard to use]. [[User:Thumperward|Chris Cunningham (user:thumperward)]] ([[User talk:Thumperward|talk]]) 11:21, 6 September 2012 (UTC)
+
+: Yes, where is the consensus? At [[Talk:Linux/Archive_15#Merged_version]] you suggested that the articles should be merged, the opposite of your opinion now. Please try and be more civil in your comments and implying that the people who disagree with you are idiots. [[User:Count Truthstein|Count Truthstein]] ([[User talk:Count Truthstein|talk]]) 15:01, 16 September 2012 (UTC)
+
+:: I once disagreed with it, and then after a very long discussion my position changed. I'm not implying that anyone is an idiot, but nor am I devoting any more of my own time (far too much of which has been sunk into this talk page already) summarising the results of previous discussions simply to be told that my recollection is faulty because it doesn't match up with a given newcomer's expectations. [[User:Thumperward|Chris Cunningham (user:thumperward)]] ([[User talk:Thumperward|talk]]) 14:18, 5 October 2012 (UTC)
+
+== Linux Page ==
+
+{{edit semi-protected|answered=yes}}
+&lt;!-- Begin request --&gt;
+I would like you to say that Linux Mint is based off of Ubuntu.
+&lt;!-- End request --&gt;
+[[User:QuantumKnowledge|QuantumKnowledge]] ([[User talk:QuantumKnowledge|talk]]) 22:01, 11 October 2012 (UTC)
+:Why?  Linux Mint is not mentioned in this article, and that's not what the article is about, why is this clarification necessary at [[Linux]], when it's already provided [[Linux Mint|at the appropriate article]]? - [[User:SudoGhost|Sudo]][[User_talk:SudoGhost#top|Ghost]] 22:33, 11 October 2012 (UTC)
+
+== Damn Vulnerable Linux ==
+
+Is [[Damn Vulnerable Linux]] still a useful Linux release? --[[User:Dthomsen8|DThomsen8]] ([[User talk:Dthomsen8|talk]]) 15:08, 12 October 2012 (UTC)
+:Who knows? It was [http://en.wikipedia.org/w/index.php?title=Linux&amp;curid=6097297&amp;diff=517411964&amp;oldid=516295830 you who added it] to the article. I suggest it might be better in [[List of Linux distributions]], which this article is not. --[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 16:22, 12 October 2012 (UTC)
+::Thank you for the suggestion. Now added to the [[List of Linux distributions]].--[[User:Dthomsen8|DThomsen8]] ([[User talk:Dthomsen8|talk]]) 23:42, 12 October 2012 (UTC)</text>
+      <sha1>3gmq0k2dn262ixgez793k199m3l7b9w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

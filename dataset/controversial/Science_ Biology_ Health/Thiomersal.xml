@@ -1,0 +1,179 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Thiomersal</title>
+    <ns>0</ns>
+    <id>221998</id>
+    <revision>
+      <id>521076394</id>
+      <parentid>518890568</parentid>
+      <timestamp>2012-11-02T17:02:49Z</timestamp>
+      <contributor>
+        <username>SkepticalRaptor</username>
+        <id>16238756</id>
+      </contributor>
+      <comment>/* Autism */ Cleanup. Also, removed weasel words.</comment>
+      <text xml:space="preserve" bytes="20778">{{Redirect-distinguish2|Merthiolate|[[Hypermarcas]]' brand name for [[chlorhexidine digluconate]],&lt;ref&gt;[http://www.hypermarcas.com.br/marca_medicamento.php?lang=en_us&amp;id=259 Hypermarcas Pharmaceutical Company]&lt;/ref&gt; which is also sold under the brand name &quot;Merthiolate&quot;}}
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 440820672
+|   Name = Thiomersal
+|   ImageFile = Thiomersal-2D-skeletal-B.png
+|   ImageSize = 200px
+|   ImageName = Thiomersal
+|   ImageFile2 = Thiomersal-from-xtal-3D-vdW.png
+|   ImageSize2 = 200px
+|   IUPACName = Ethyl(2-mercaptobenzoato-(2-)-O,S)&lt;br /&gt;mercurate(1-) sodium
+|   OtherNames = Mercury((o-carboxyphenyl)thio)ethyl sodium salt
+|   Name = Thiomersal
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10772045
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 508338
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2225PI3MOV
+| InChI = 1/C7H6O2S.C2H5.Hg.Na/c8-7(9)5-3-1-2-4-6(5)10;1-2;;/h1-4,10H,(H,8,9);1H2,2H3;;/q;;2*+1/p-2/rC9H10HgO2S.Na/c1-2-10-13-8-6-4-3-5-7(8)9(11)12;/h3-6H,2H2,1H3,(H,11,12);/q;+1/p-1
+| InChIKey = RTKIYNMVFMVABJ-TYXNQWANAP
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 9546
+| SMILES = [Na+].[O-]C(=O)c1ccccc1S[Hg]CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H6O2S.C2H5.Hg.Na/c8-7(9)5-3-1-2-4-6(5)10;1-2;;/h1-4,10H,(H,8,9);1H2,2H3;;/q;;2*+1/p-2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RTKIYNMVFMVABJ-UHFFFAOYSA-L
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 54-64-8
+| RTECS = OV8400000
+| EINECS = 200-210-4
+| ATCCode_prefix = D08
+| ATCCode_suffix = AK06
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = [[carbon|C]]&lt;sub&gt;9&lt;/sub&gt;[[hydrogen|H]]&lt;sub&gt;9&lt;/sub&gt;[[Mercury (element)|Hg]][[sodium|Na]][[Oxygen|O]]&lt;sub&gt;2&lt;/sub&gt;[[sulfur|S]]
+|   MolarMass = 404.81 g/mol
+|   Appearance = White or slightly yellow powder
+|   Density = 2.508 g/cm³&lt;ref name=molstruct/&gt;
+|   Solubility = 1000 g/l (20&amp;nbsp;°C)
+|   MeltingPt = 232&amp;ndash;233&amp;nbsp;°C (decomposition)
+|   BoilingPt =
+|   pKa =
+  }}
+| Section4 = {{Chembox Thermochemistry
+|   DeltaHf =
+  }}
+| Section7 = {{Chembox Hazards
+|   EUClass = Very toxic ('''T+''')&lt;br/&gt;Dangerous for the environment ('''N''')&lt;br/&gt; Repr. Cat. 1
+|   NFPA-H = 3
+|   NFPA-F = 1
+|   NFPA-R = 1
+|   RPhrases = {{R26/27/28}} {{R33}} {{R40}} {{R50/53}} {{R60}} {{R61}}
+|   SPhrases = {{S13}} {{S28}} {{S36}} {{S45}} {{S53}} {{S60}} {{S61}}
+|   FlashPt = 250&amp;nbsp;°C
+|   ExternalMSDS = [http://www.conncoll.edu/offices/envhealth/MSDS/neuroscience/thimerosal.pdf External MSDS]
+  }}
+}}
+
+'''Thiomersal''' ([[International Nonproprietary Name|INN]]), and commonly known in the US as '''thimerosal''', is an [[organomercury]] compound. This compound is a well established [[antiseptic]] and [[antifungal agent]].
+
+The pharmaceutical corporation [[Eli Lilly and Company]] gave thiomersal the trade name '''Merthiolate'''. It has been used as a [[preservative]] in [[vaccine]]s, [[immunoglobulin]] preparations, [[Allergy#Diagnosis|skin test antigens]], [[antivenin]]s, [[ophthalmology|ophthalmic]] and nasal products, and [[tattoo]] inks. Its use as a vaccine preservative is [[Thiomersal controversy|controversial]], and it is being phased out from routine childhood vaccines in the United States, the [[European Union]], and a few other countries.&lt;ref name=drugsaf/&gt;
+
+==Structure==
+Thiomersal features mercury(II) with a coordination number 2, ''i.e.'' two ligands are attached to Hg, the [[thiolate]] and the ethyl group.  The [[carboxylate]] group is not coordinated, but confers solubility in water.  Like other two-coordinate Hg(II) compounds, the coordination geometry of Hg is linear, with a 180° S-Hg-C angle.  Typically, organomercury thiolate compounds are prepared from organomercury chlorides.&lt;ref name=&quot;molstruct&quot;&gt;{{ cite journal | first1 = J. G. | last1 = Melnick | first2 = K. | last2 = Yurkerwich | first3 = D. | last3 = Buccella | first4 = W. | last4 = Sattler | first5 = G. | last5 = Parkin | title = Molecular Structures of Thimerosal (Merthiolate) and Other Arylthiolate Mercury Alkyl Compounds | journal = [[Inorganic Chemistry (journal)|Inorg. Chem.]] | year = 2008 | volume = 47 | issue = 14 | pmid = 18533648 | pages = 6421–6426 | doi = 10.1021/ic8005426 }}&lt;/ref&gt;
+
+==Use==
+Thiomersal's main use is as an antiseptic and antifungal agent. In multidose injectable drug delivery systems, it prevents serious adverse effects such as the ''[[Staphylococcus]]'' infection that, in one 1928 incident, killed 12 of 21 children [[inoculate]]d with a [[diphtheria]] vaccine that lacked a preservative.&lt;ref name=T-in-vaccines/&gt; Unlike other vaccine preservatives used at the time, thiomersal does not reduce the potency of the vaccines that it protects.&lt;ref name=Baker&gt;{{cite journal |journal= Am J Public Health |year=2008 |title= Mercury, Vaccines, and Autism: One Controversy, Three Histories |author= Baker JP |doi=10.2105/AJPH.2007.113159 |pmid=18172138 |volume=98 |issue=2 |pages=244–53 |pmc= 2376879}}&lt;/ref&gt; [[Bacteriostatic]]s like thiomersal are not needed in more-expensive single-dose injectables.&lt;ref&gt;{{cite web | url = http://www.fda.gov/cber/vaccine/thimfaq.htm | title = Thimerosal in Vaccines: Frequently Asked Questions | publisher = [[Food and Drug Administration (United States)|Food and Drug Administration]] | accessdate = 2008-03-09 }}&lt;/ref&gt;
+
+In the United States, countries in the European Union and a few other affluent countries, thiomersal is no longer used as a preservative in routine childhood [[vaccination schedule]]s.&lt;ref name=&quot;drugsaf&quot;&gt;{{cite journal |journal= Drug Saf |year=2005 |volume=28 |issue=2 |pages=89–101 |title= Thiomersal in vaccines: balancing the risk of adverse effects with the risk of vaccine-preventable disease |author= Bigham M, Copes R |pmid=15691220 |doi= 10.2165/00002018-200528020-00001}}&lt;/ref&gt; In the U.S., the only exceptions among vaccines routinely recommended for children are some formulations of the inactivated influenza vaccine for children older than two years.&lt;ref&gt;{{cite web |title= Thimerosal in seasonal influenza vaccine |url=http://cdc.gov/FLU/ABOUT/QA/thimerosal.htm |date=2007-10-26 |accessdate=2008-04-02 |author= Coordinating Center for Infectious Diseases |publisher= Centers for Disease Control and Prevention |archiveurl = http://web.archive.org/web/20080411133237/http://www.cdc.gov/FLU/ABOUT/QA/thimerosal.htm |archivedate = 2008-04-11}}&lt;/ref&gt; Several vaccines that are not routinely recommended for young children do contain thiomersal, including DT ([[diphtheria]] and [[tetanus]]), Td (tetanus and diphtheria), and TT (tetanus toxoid); other vaccines may contain a trace of thiomersal from steps in manufacture.&lt;ref name=T-in-vaccines&gt;{{cite web |date=2008-06-03 |url=http://www.fda.gov/cber/vaccine/thimerosal.htm |accessdate=2008-07-25 |title= Thimerosal in vaccines |publisher= Center for Biologics Evaluation and Research, U.S. Food and Drug Administration}}&lt;/ref&gt; Also, four rarely used treatments for pit viper, coral snake, and black widow venom still contain thiomersal.&lt;ref&gt;{{cite web |date=2004-09-09 |url=http://www.fda.gov/cber/blood/mercplasma.htm |accessdate=2007-10-01 |title= Mercury in plasma-derived products |publisher= U.S. Food and Drug Administration |archiveurl = http://web.archive.org/web/20070929122259/http://www.fda.gov/cber/blood/mercplasma.htm &lt;!-- Bot retrieved archive --&gt; |archivedate = 2007-09-29}}&lt;/ref&gt; Outside North America and Europe, many vaccines contain thiomersal; the [[World Health Organization]] has concluded that there is no evidence of toxicity from thiomersal in vaccines and no reason on safety grounds to change to more expensive single-dose administration.&lt;ref&gt;{{cite web |title= Thiomersal and vaccines |author= Global Advisory Committee on Vaccine Safety |publisher= World Health Organization |url=http://www.who.int/vaccine_safety/topics/thiomersal/en/index.html |date=2006-07-14 |accessdate=2007-11-20}}&lt;/ref&gt;
+
+==Toxicology==
+Thiomersal is very toxic by inhalation, ingestion, and in contact with skin (EC [[hazard symbol]] T+), with a danger of cumulative effects. It is also very toxic to aquatic organisms and may cause long-term adverse effects in aquatic environments (EC hazard symbol N).&lt;ref&gt;{{cite web |url=http://www.merck-chemicals.com/documents/sds/emd/int/en/8170/817043.pdf |format=PDF |date=2005-06-12 |accessdate=2010-01-01 |publisher=Merck |title=Safety data sheet, Thiomersal Ph Eur, BP, USP }}&lt;/ref&gt; In the body, it is metabolized or degraded to [[ethylmercury]] (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;5&lt;/sub&gt;Hg&lt;sup&gt;+&lt;/sup&gt;) and [[thiosalicylate]].&lt;ref name=T-in-vaccines/&gt;
+
+Few studies of the toxicity of thiomersal in humans have been performed. Cases have been reported of severe [[Mercury poisoning|poisoning]] by accidental exposure or attempted suicide, with some fatalities.&lt;ref&gt;{{cite journal |journal=Environ Health Perspect |year=2002 |volume=110 |issue=S1 |pages=11–23 |title=The three modern faces of mercury |author=Clarkson TW |pmid=11834460 |pmc=1241144 |url=http://www.ehponline.org/members/2002/suppl-1/11-23clarkson/clarkson-full.html |doi=10.1289/ehp.02110s111 }}&lt;/ref&gt; Animal experiments suggest that thiomersal rapidly dissociates to release ethylmercury after injection; that the disposition patterns of mercury are similar to those after exposure to equivalent doses of ethylmercury chloride; and that the central nervous system and the kidneys are targets, with lack of motor coordination being a common sign. Similar signs and symptoms have been observed in accidental human poisonings. The mechanisms of toxic action are unknown. Fecal excretion accounts for most of the elimination from the body. Ethylmercury clears from blood with a [[half-life]] of about 18 days in adults. Ethylmercury is eliminated from the brain in about 14 days in infant monkeys. 
+Risk assessment for effects on the nervous system have been made by extrapolating from dose-response relationships for [[methylmercury]].&lt;ref name=Clarkson/&gt; Methylmercury and ethylmercury distributes to all body tissues, crossing the [[blood–brain barrier]] and the [[placental barrier]], and ethylmercury also moves freely throughout the body.&lt;ref&gt;{{cite journal |author=Clarkson TW, Vyas JB, Ballatori N |title=Mechanisms of mercury disposition in the body |journal= Am J Ind Med |volume=50 |issue=10 |pages=757–64 |year=2007 |pmid=17477364 |doi=10.1002/ajim.20476 }}&lt;/ref&gt; Concerns based on extrapolations from methylmercury caused thiomersal to be removed from U.S. childhood vaccines, starting in 1999. Since then, it has been found that ethylmercury is eliminated from the body and the brain significantly faster than methylmercury, so the late-1990s risk assessments turned out to be overly conservative.&lt;ref name=Clarkson/&gt;  Though inorganic mercury metabolized from ethylmercury has a much longer half-life in the brain, at least 120 days, it appears to be much less toxic than the inorganic mercury produced from mercury vapor, for reasons not yet understood.&lt;ref name=Clarkson&gt;{{cite journal |journal=Crit Rev Toxicol |year=2006 |volume=36 |issue=8 |pages=609–62 |title=The toxicology of mercury and its chemical compounds |author=Clarkson TW, Magos L |doi=10.1080/10408440600845619 |pmid=16973445 }}&lt;/ref&gt;
+
+===Allergies===
+Thiomersal is used in [[patch testing]] for people who have dermatitis, conjunctivitis, and other potentially allergic reactions. A 2007 study in Norway found that 1.9% of adults had a positive patch test reaction to thiomersal;&lt;ref&gt;{{cite journal |journal= Contact Dermatitis |year=2007 |volume=56 |issue=1 |pages=10–5 |title= Allergic contact sensitization in the general adult population: a population-based study from Northern Norway |author= Dotterud LK, Smith-Sivertsen T |doi=10.1111/j.1600-0536.2007.00980.x |pmid=17177703}}&lt;/ref&gt; a higher prevalence of contact allergy (up to 6.6%) was observed in German populations.&lt;ref name=Uter&gt;{{cite journal |journal= J Clin Epidemiol |year=2004 |volume=57 |issue=6 |pages=627–32 |title= The prevalence of contact allergy differed between population-based and clinic-based data |author= Uter W, Ludwig A, Balda BR |doi=10.1016/j.jclinepi.2003.04.002 |pmid=15246132}}&lt;/ref&gt; Thiomersal-sensitive individuals can receive [[Intramuscular injection|intramuscular]] rather than [[subcutaneous]] immunization,&lt;ref&gt;{{cite journal |journal= Contact Dermatitis |year=1991 |volume=24 |issue=1 |pages=6–10 |title= Vaccination despite thimerosal sensitivity |author= Aberer W |doi=10.1111/j.1600-0536.1991.tb01621.x |pmid=2044374}}&lt;/ref&gt; so contact allergy is usually clinically irrelevant.&lt;ref name=Uter/&gt; Thiomersal allergy has decreased in Denmark, probably because of its exclusion from vaccines there.&lt;ref&gt;{{cite journal |journal= Contact Dermatitis |year=2007 |volume=57 |issue=5 |pages=287–99 |title= The epidemiology of contact allergy in the general population—prevalence and main findings |author= Thyssen JP, Linneberg A, Menné T, Johansen JD |doi=10.1111/j.1600-0536.2007.01220.x |pmid=17937743 |url=http://www.blackwell-synergy.com/doi/full/10.1111/j.1600-0536.2007.01220.x}}&lt;/ref&gt; In a recent study of Polish children and adolescents with chronic/recurrent eczema, positive reactions to thiomersal were found in 11.7% of children (7-8 y.o.) and 37.6% of adolescents (16-17 y.o.). This difference in the sensitization rates can be explained by changing exposure patterns: The adolescents have received six thiomersal-preserved vaccines during their life course, with the last immunization taking place 2–3 years before the mentioned study, younger children received only four thiomersal-preserved vaccines, with the last one applied 5 years before the study, while further immunizations were performed with new thiomersal-free vaccines.&lt;ref&gt;{{cite journal |journal= Pediatr Allergy Immunol |year=2011 |volume=22 |issue=2 |pages=252–6 |title= The most important contact sensitizers in Polish children and adolescents with atopy and chronic recurrent eczema as detected with the extended European Baseline Series |author= Czarnobilska E, Obtulowicz K, Dyga W, Spiewak R |pmid=20969635 |doi=10.1111/j.1399-3038.2010.01075.x}}&lt;/ref&gt;
+
+===Autism===
+{{main|Thiomersal controversy}}
+
+Following a review of mercury-containing food and drugs mandated in 1999, the [[Centers for Disease Control]] (CDC) and the [[American Academy of Pediatrics]] asked vaccine manufacturers to remove thiomersal from vaccines as a purely precautionary measure, and it was rapidly phased out of most U.S. and European vaccines.&lt;ref name=&quot;Baker&quot;/&gt;&lt;ref&gt;{{cite web |url=http://www.fda.gov/cber/vaccine/thimfaq.htm |date=2007-06-07 |accessdate=2008-07-22 |title= Thimerosal in vaccines: frequently asked questions (FAQs) |publisher= Center for Biologics Evaluation and Research, U.S. Food and Drug Administration}}&lt;/ref&gt;  Many parents took the action to remove thiomersal, in the setting of a perceived increasing rate of autism as well as increasing number of vaccines in the childhood vaccination schedule, as indicating that the preservative was the cause of autism.&lt;ref name=&quot;Baker&quot; /&gt; The [[scientific consensus]] is that there is no scientific evidence supporting these claims, including the observation that the rate of autism continues to climb despite elimination of thiomersal from routine childhood vaccines.&lt;ref name=DeStefano&gt;{{cite journal |journal= Clin Pharmacol Ther |year=2007 |volume=82 |issue=6 |pages=756–9 |title= Vaccines and autism: evidence does not support a causal association |author= DeStefano F |doi=10.1038/sj.clpt.6100407 |pmid=17928818}}&lt;/ref&gt;&lt;ref name=Doja&gt;{{cite journal |journal= Can J Neurol Sci |year=2006 |volume=33 |issue=4 |pages=341–6 |title= Immunizations and autism: a review of the literature |author= Doja A, Roberts W |pmid=17168158}}&lt;/ref&gt;&lt;ref name=IOM2004/&gt; Major scientific and medical bodies such as the [[Institute of Medicine]]&lt;ref name=IOM2004&gt;{{cite book |author= Immunization Safety Review Committee, Board on Health Promotion and Disease Prevention, [[Institute of Medicine]] |title= Immunization Safety Review: Vaccines and Autism |publisher= The National Academies Press |location= Washington, DC |year=2004 |isbn=0-309-09237-X |url=http://www.nap.edu/catalog/10997.html}}&lt;/ref&gt; and [[World Health Organization]]&lt;ref name=WHO&gt;{{cite web |author= World Health Organization |year=2006 |url=http://who.int/vaccine_safety/topics/thiomersal/questions/en/ |title= Thiomersal and vaccines: questions and answers |accessdate=2009-05-19}}&lt;/ref&gt;  as well as governmental agencies such as the [[Food and Drug Administration]]&lt;ref name=T-in-vaccines/&gt; and the CDC&lt;ref name=CDC&gt;{{cite web |author= Centers for Disease Control |date=2008-02-08 |url=http://www.cdc.gov/vaccinesafety/updates/thimerosal.htm |title= Mercury and vaccines (thimerosal) |accessdate=2009-05-19}}&lt;/ref&gt; reject any role for thiomersal in autism or other neurodevelopmental disorders.&lt;ref name=Sugarman&gt;{{cite journal |journal=N Engl J Med |year=2007 |volume=357 |issue=13 |pages=1275–7 |title=Cases in vaccine court—legal battles over vaccines and autism |author=Sugarman SD |pmid=17898095 |url=http://content.nejm.org/cgi/content/full/357/13/1275 |doi= 10.1056/NEJMp078168 }}&lt;/ref&gt;  This controversy has caused harm due to parents attempting to treat their autistic children with unproven and possibly dangerous treatments, discouraging parents from vaccinating their children due to fears about thiomersal toxicity&lt;ref name=Harris&gt;{{cite news |work= New York Times |url=http://nytimes.com/2005/06/25/science/25autism.htm |date=2005-06-25 |title= On autism's cause, it's parents vs. research |author= Harris G, O'Connor A |accessdate=2010-07-02}}&lt;/ref&gt; and diverting resources away from research into more promising areas for the [[cause of autism]].&lt;ref name=Offit&gt;{{cite journal |journal= N Engl J Med |year=2007 |volume=357 |issue=13 |pages=1278–9 |title= Thimerosal and vaccines—a cautionary tale |author= Offit PA |doi=10.1056/NEJMp078187 |pmid=17898096 |url=http://content.nejm.org/cgi/content/full/357/13/1278 |authorlink= Paul Offit}}&lt;/ref&gt; Thousands of lawsuits have been filed in a [[vaccine court|U.S. federal court]] to seek damages from alleged toxicity from vaccines, including those purportedly caused by thiomersal.&lt;ref&gt;Autism cases in vaccine court:
+*{{cite journal |journal= N Engl J Med |year=2007 |volume=357 |issue=13 |pages=1275–7 |title= Cases in vaccine court—legal battles over vaccines and autism |author= Sugarman SD |pmid=17898095 |url=http://content.nejm.org/cgi/content/full/357/13/1275 |doi= 10.1056/NEJMp078168}}
+*{{cite web |author= [[U.S. Court of Federal Claims]] |date=2007-09-28 |url=http://www.uscfc.uscourts.gov/OSM/OSMAutism.htm |title= Vaccine Program/Office of Special Masters Omnibus Autism Proceeding |accessdate=2007-11-24 |archiveurl = http://web.archive.org/web/20071023235955/http://www.uscfc.uscourts.gov/OSM/OSMAutism.htm &lt;!-- Bot retrieved archive --&gt; |archivedate = 2007-10-23}}&lt;/ref&gt;
+
+==History==
+[[Morris Kharasch]], a [[chemist]] at the [[University of Maryland, College Park|University of Maryland]], filed a patent application for thiomersal in 1927;&lt;ref&gt;{{US patent|1672615}} &quot;Alkyl mercuric sulphur compound and process of producing it&quot;.&lt;/ref&gt; Eli Lilly later marketed the compound under the trade name Merthiolate.&lt;ref name=&quot;Baker&quot;/&gt; [[In vitro]] tests conducted by Lilly investigators H. M. Powell and W. A. Jamieson found that it was forty to fifty times as effective as [[phenol]] against ''[[Staphylococcus aureus]]''.&lt;ref name=&quot;Baker&quot;/&gt; It was used to kill bacteria and prevent contamination in antiseptic ointments, creams, jellies, and sprays used by consumers and in hospitals, including nasal sprays, eye drops, contact lens solutions, [[immunoglobulin]]s, and vaccines. Thiomersal was used as a preservative ([[bactericide]]) so that multidose vials of vaccines could be used instead of single-dose vials, which are more expensive. By 1938, Lilly's assistant director of research listed thiomersal as one of the five most important drugs ever developed by the company.&lt;ref name=&quot;Baker&quot;/&gt;
+
+== See also ==
+* [[Mercury (element)]]
+* [[Nitromersol]], a related antimicrobial
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{Mercury compounds}}
+{{vaccines}}
+{{Antiseptics and disinfectants}}
+
+[[Category:Thiolates]]
+[[Category:Eli Lilly and Company]]
+[[Category:Organomercury compounds]]
+[[Category:Excipients]]
+[[Category:Sodium compounds]]
+[[Category:Benzoates]]
+
+[[de:Thiomersal]]
+[[es:Thiomersal]]
+[[fa:تیومرسال]]
+[[fr:Thiomersal]]
+[[it:Thimerosal]]
+[[ja:チメロサール]]
+[[pl:Tiomersal]]
+[[pt:Timerosal]]
+[[ro:Thimerosal]]
+[[ru:Мертиолят]]
+[[fi:Tiomersaali]]
+[[sv:Tiomersal]]
+[[tr:Tiyomersal]]
+[[zh:硫柳汞]]</text>
+      <sha1>0npno0c0d6p8r9ixh5xefkkbv3w7d4s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

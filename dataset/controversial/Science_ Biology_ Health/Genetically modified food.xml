@@ -1,0 +1,171 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Genetically modified food</title>
+    <ns>0</ns>
+    <id>216102</id>
+    <revision>
+      <id>521112257</id>
+      <parentid>521111854</parentid>
+      <timestamp>2012-11-02T21:24:23Z</timestamp>
+      <contributor>
+        <username>Widr</username>
+        <id>13975403</id>
+      </contributor>
+      <comment>Reverted 3 edits by [[Special:Contributions/165.24.252.40|165.24.252.40]] ([[User talk:165.24.252.40|talk]]): Unexplained removal. ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve" bytes="23658">[[File:C5 plum pox resistant plum.jpg|thumb|[[Plum]]s genetically engineered for resistance to [[plum pox]], a disease carried by [[aphid]]s.]]
+
+'''Genetically modified foods''' ('''GM foods''', or '''biotech foods''') are foods derived from [[genetically modified organism]]s (GMOs), such as [[genetically modified crops]] or [[genetically modified fish]].  GMOs have had specific changes introduced into their DNA by [[genetic engineering]] techniques. These techniques are much more precise&lt;ref&gt;[http://www.bis.gov.uk/files/file15655.pdf GM Science Review First Report], Prepared by the UK GM Science Review panel (July 2003). Chairman Professor Sir David King, Chief Scientific Advisor to the UK Government, P 9&lt;/ref&gt; than [[mutagenesis]] (mutation breeding) where an organism is exposed to radiation or chemicals to create a non-specific but stable change. Other techniques by which humans modify food organisms include selective breeding; plant breeding, and animal breeding, and [[somaclonal variation]]. 
+
+Commercial sale of genetically modified foods began in 1994, when Calgene first marketed its [[Flavr Savr]] delayed ripening tomato.&lt;ref name=&quot;James 1996&quot;&gt;{{cite web|last=James|first=Clive|title=Global Review of the Field Testing and Commercialization of Transgenic Plants: 1986 to 1995|url=http://www.isaaa.org/kc/Publications/pdfs/isaaabriefs/Briefs%201.pdf|publisher=The International Service for the Acquisition of Agri-biotech Applications|accessdate=17 July 2010|year=1996}}&lt;/ref&gt; Typically, genetically modified foods are [[transgenic plant]] products: [[Transgenic soybean|soybean]], [[Transgenic maize|corn]], [[canola]], [[Genetically modified rice|rice]], and [[cotton seed oil]]. These may have been engineered for faster growth, resistance to pathogens, production of extra nutrients, or any other beneficial purpose. GM livestock have also been experimentally developed, although as of July 2010 none are currently on the market.&lt;ref&gt;http://www.fda.gov/animalveterinary/developmentapprovalprocess/geneticengineering/geneticallyengineeredanimals/ucm113672.htm&lt;/ref&gt; 
+
+Critics have objected to GM foods on several grounds, including safety issues,&lt;ref name=NRC2004&gt;NRC. (2004). Safety of Genetically Engineered Foods: Approaches to Assessing Unintended Health Effects. National Academies Press. [http://www.nap.edu/catalog.php?record_id=10977#toc Free full text].&lt;/ref&gt; [[ecology|ecological]] concerns, and [[economics|economic]] concerns raised by the fact GM plants (and potentially animals) that are food sources are subject to [[intellectual property]] law.
+
+This article covers GM food, per se.   There are separate articles on other aspects of genetic engineering.  The [[genetic engineering]] article focuses on history and methods of genetic engineering, and on applications of genetic engineering and of GMOs.  The article on [[genetically modified organisms|GMOs]] focuses on what organisms have been genetically engineered and for what purposes.  The two articles cover much of the same ground but with different organizations (sorted by application in the genetic engineering article; sorted by organism in the GMO article).   There are separate articles on [[genetically modified crops]] (which have more to do with agriculture than food), [[regulation of the release of genetic modified organisms|regulation]], and [[genetically modified food controversies|controversies]].
+
+==Method of production==
+{{Main|Genetic Engineering|Genetically modified organism}}
+[[image:Breeding transgenesis cisgenesis.svg|thumb|right|300px|Comparison of conventional plant breeding with transgenic and cisgenic genetic modification.]]
+The two primary methods of producing genetically modified plants from which food is derived, are [[transgenesis]] and [[cisgenesis]]. Transgenic plants have genes inserted into them that are derived from another species, whereas [[cisgenesis|Cisgenic]] plants are made using genes found within the same species or a closely related one, where conventional [[plant breeding]] can occur. Some breeders and scientists argue that cisgenic modification is useful for plants that are difficult to [[crossbreed]] by conventional means (such as [[potatoe]]s), and that plants in the cisgenic category should not require the same level of legal regulation as other genetically modified organisms.&lt;ref&gt;[http://www.newscientist.com/article/mg19926671.600-how-the-humble-potato-could-feed-the-world.html Deborah MacKenzie, &quot;How the humble potato could feed the world&quot; (cover story) New Scientist No 2667 2 August 2008 30-33]&lt;/ref&gt;
+
+Genetically engineered plants are generated in a laboratory by altering their genetic makeup and are tested in the laboratory for desired qualities. This is usually done by adding one or more [[gene]]s to a plant's [[genome]] using [[genetic engineering]] techniques. Most genetically modified plants are generated by the [[Gene gun|biolistic method]] (particle gun) or by ''[[Agrobacterium tumefaciens]]'' mediated transformation.   Once satisfactory plants are produced, sufficient seeds are gathered, and the companies producing the seed need to apply for [[Regulation of the release of genetic modified organisms|regulatory approval to field-test the seeds]].  If these field tests are successful, the company must seek regulatory approval for the crop to be marketed (see [[Regulation of the release of genetic modified organisms]]).  Once that approval is obtained, the seeds are mass produced, and sold to farmers.  The farmers produce [[genetically modified crops]], which also contain the inserted gene and its protein product.  The farmers then sell their crops as commodities into the food supply market, in countries where such sales are permitted.
+
+==History==
+Scientists first discovered that DNA can transfer between organisms in 1946.&lt;ref&gt;{{cite journal | author = Lederberg J, Tatum EL | title = Gene recombination in ''E. coli'' | journal = Nature | year = 1946 | volume = 158 | pages = 558 | url = | doi = 10.1038/158558a0 | issue = 4016 |bibcode = 1946Natur.158..558L }}&lt;/ref&gt;  The first genetically modified plant was produced in 1983, using an antibiotic-resistant tobacco plant. In 1994, the transgenic [[Flavr Savr]] tomato was approved by the FDA for marketing in the US - the modification allowed the tomato to delay ripening after picking.&lt;ref name=&quot;James 1996&quot; /&gt;  In the US in 1995, the following transgenic crops received marketing approval: [[canola]] with modified oil composition (Calgene), ''[[Bacillus thuringiensis]]'' (Bt) corn/maize (Ciba-Geigy), cotton resistant to the herbicide [[bromoxynil]] (Calgene), Bt cotton (Monsanto), Bt potatoes (Monsanto), soybeans resistant to the herbicide [[glyphosate]] (Monsanto), virus-resistant squash (Asgrow), and additional delayed ripening tomatoes (DNAP, Zeneca/Peto, and Monsanto).&lt;ref name=&quot;James 1996&quot; /&gt;   In 2000, with the production of [[golden rice]], scientists genetically modified food to increase its nutrient value for the first time.  As of 2011, the U.S. leads a list of multiple countries in the production of GM crops, and 25 GM crops had received regulatory approval to be grown commercially.&lt;ref name=James2011&gt;{{cite web|last=James|first=C|title=ISAAA Brief 43, Global Status of Commercialized Biotech/GM Crops: 2011|work=ISAAA Briefs|publisher=International Service for the Acquisition of Agri-biotech Applications (ISAAA)|location=Ithaca, New York|year=2011|url=http://www.isaaa.org/resources/publications/briefs/43/executivesummary/default.asp|accessdate=2012-06-02}}&lt;/ref&gt;
+[[File:Golden Rice.jpg|thumb|[[Golden rice]] (right) compared to white rice (left). Golden rice contains [[beta-carotene]], a precursor of [[vitamin A]], and was the first genetically modified crop in which an entire biosynthetic pathway was engineered.]]
+
+==Foods made from GM crops==
+{{Expand section|date=September 2012}}
+Currently, there are several [[Genetically_modified_crops#Examples_of_genetically_modified_crops|GM crops]] that are food sources.  As of September 2012 there were no genetically modified animals approved for use as food, but a [[genetically modified fish|genetically modified salmon]] was near FDA approval at that time.&lt;ref name=NYTImes2012&gt;Andrew Pollack for the New York Times. [http://www.nytimes.com/2012/05/22/business/kakha-bendukidze-holds-fate-of-gene-engineered-salmon.html?pagewanted=all &quot;An Entrepreneur Bankrolls a Genetically Engineered Salmon&quot;]  Published: May 21, 2012.  Accessed September 3, 2012 [http://www.nytimes.com/2012/05/22/business/kakha-bendukidze-holds-fate-of-gene-engineered-salmon.html?pagewanted=all]&lt;/ref&gt;  
+
+In some cases, the product is directly consumed as food, but In most cases, crops that have been genetically modified are sold as commodities, which are further processed into food ingredients.
+
+===Fruits and vegetables===
+
+[[Carica papaya|Papaya]] has been genetically modified to resist the [[Papaya ringspot virus|ringspot virus]].  The New York Times stated that &quot;in the early 1990s, Hawaii’s papaya industry was facing disaster because of the deadly papaya ringspot virus. Its single-handed savior was a breed engineered to be resistant to the virus. Without it, the state’s papaya industry would have collapsed. Today, 80% of Hawaiian papaya is genetically engineered, and there is still no conventional or organic method to control ringspot virus.&quot;&lt;ref&gt;Ronald, Pamela and McWilliams, James [http://www.nytimes.com/2010/05/15/opinion/15ronald.html?_r=2&amp;ref=opinion Genetically Engineered Distortions] The New York Times, May 14, 2010, Retrieved July 26, 2010.&lt;/ref&gt;    
+
+The New Leaf potato, brought to market by [[Monsanto]] in the late 1990s, was developed for the fast food market, but was withdrawn from the market in 2001&lt;ref&gt;after http://www.monsanto.com/newsviews/Pages/new-leaf-potato.aspx&lt;/ref&gt; after fast food retailers did not pick it up and food processors ran into export problems.&lt;ref name=PotatoPro&gt;http://www.potatopro.com/newsletters/20100310.htm&lt;/ref&gt;   There are currently no transgenic potatoes marketed for human consumption.&lt;ref name=PotatoPro /&gt;   However, in October 2011 BASF requested cultivation and marketing approval as a feed and food from the EFSA for its Fortuna&lt;!-- see de:Fortuna (Kartoffel) fr:Fortuna (pomme de terre) --&gt; potato, which was made resistant to [[Phytophthora infestans|late blight]] by adding two resistance genes, blb1 and blb2, which originate from the Mexican wild potato Solanum bulbocastanum.&lt;ref&gt;Research in Germany, November 17, 2011. [http://www.research-in-germany.de/84190/2011-11-17-business-basf-applies-for-approval-for-another-biotech-potato.html Business BASF applies for approval for another biotech potato]&lt;/ref&gt;&lt;ref&gt;Burger, Ludwig (31 October 2011) [http://www.reuters.com/article/2011/10/31/us-basf-idUSTRE79U41Q20111031 BASF applies for EU approval for Fortuna GM potato] Reuters, Frankfurt. Retrieved 29 December 2011&lt;/ref&gt; 
+
+As of 2005, about 13% of the zucchini grown in the US was genetically modified to resist three viruses; the zucchini is also grown in Canada.&lt;ref name=NCFAP2006&gt;Johnson, Stanley R. et al [http://www.ncfap.org./documents/2007biotech_report/Quantification_of_the_Impacts_on_US_Agriculture_of_Biotechnology_Executive_Summary.pdf Quantification of the Impacts on US Agriculture of Biotechnology-Derived Crops Planted in 2006] National Center for Food and Agricultural Policy, Washington DC, February 2008. Retrieved August 12, 2010.&lt;/ref&gt;
+
+===Vegetable oil===
+
+Most [[vegetable oil]] used in the US is produced from GM crops.&lt;ref&gt;Michelle Simon for Food Safety News.  August 24, 2011.  [http://www.foodsafetynews.com/2011/08/conagra-sued-over-gmo-100-natural-cooking-oils/ ConAgra Sued Over GMO ’100% Natural’ Cooking Oils]&lt;/ref&gt;  Vegetable oil is sold directly to consumers as [[cooking oil]], [[margarine]], and [[shortening]], and is used in prepared foods.  
+
+There is no, or a vanishingly small amount amount of, protein or DNA remaining in vegetable oil from the original GM crop.&lt;ref&gt;[http://www.nal.usda.gov/fnic/foodcomp/Data/SR18/nutrlist/sr18a203.pdf USDA Alphabetical list of protein content of foods -- see Oils]&lt;/ref&gt; Vegetable oil is made of [[triglycerides]] extracted from plants or seeds and then refined, and may be further processed via [[hydrogenation]] to turn liquid oils into solids.   The refining process&lt;ref&gt;[http://www.madehow.com/Volume-1/Cooking-Oil.html How Cooking Oil is Made]&lt;/ref&gt; removes all, or nearly all non-triglyceride ingredients.&lt;ref&gt;Crevel RW, et al (2000) [http://www.ncbi.nlm.nih.gov/pubmed/10722892 Allergenicity of refined vegetable oils.] Food Chem Toxicol. 2000 Apr;38(4):385-93.  Article analyzed oil for protein content - this is a non-GM oil but shows the principle&lt;/ref&gt;
+
+====Cooking oil, margarine, and shortening====
+
+[[Cooking oil]], [[margarine]], and [[shortening]] found in grocery stores may be made from several crops, among them, the GM crops [[canola]], [[maize|corn]], or [[soybeans]].&lt;ref&gt;[http://www.imace.org/about-margarine/how-to-produce-and-use-margarine/ ingredients of margarine]&lt;/ref&gt;
+
+[[Canola]], of which 93% of the US crop is GM, is mainly used to produce vegetable oil.  The genetic modifications are for resistance to herbicides (glyphosate or glufosinate) and for improved oil compositions.  Approximately 43% of a canola seed is oil.&lt;ref name=&quot;soyatech&quot;&gt;[http://www.soyatech.com/canola_facts.htm Soyatech.com]&lt;/ref&gt; What remains is a rapeseed meal that is used as high quality [[Compound feed|animal feed]].  Canola oil is a key ingredient in many foods and is sold directly to consumers as [[margarine]] or cooking oil, and is the third most widely consumed vegetable oil in the world.&lt;ref name=&quot;What Is Canola Oil?&quot;&gt;http://www.canolainfo.org/canola/index.php&lt;/ref&gt;   The oil has many non-food uses, including making [[lipstick]]s.&lt;ref name=&quot;cc&quot;&gt;Canola Council of Canada [http://www.canola-council.org/canola_oil_the_truth.aspx Canola Oil - The Myths Debunked] accessdate=2011-10-19&lt;/ref&gt;
+
+As for [[soybeans]], approximately 95% of the US crop is GM, and approximately 85% of the world's soybean crop is processed into soybean meal and vegetable oil.&lt;ref&gt;{{cite web|url=http://www.soyatech.com/canola_facts.htm|title=Canola Oil|publisher=Soyatech|accessdate=February 18, 2012}}&lt;/ref&gt; The bulk of the soybean crop is grown for oil production, with the high-protein defatted and &quot;toasted&quot; soy meal used as livestock feed and dog food. 98% of the U.S. soybean crop is used for livestock feed.&lt;ref&gt;David Bennett for Southeast Farm Press, February 5, 2003 [http://southeastfarmpress.com/mag/farming_world_soybean_consumption/index.html World soybean consumption quickens]&lt;/ref&gt;&lt;ref name=britannica&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/557184/soybean|title=Soybean|publisher=Encyclopedia Britannica Online|accessdate=February 18, 2012}}&lt;/ref&gt; A smaller percentage of soybeans are used directly for human consumption.
+
+[[Maize]] (called corn, in the US) and cornmeal (ground dried maize) constitute a staple food in many regions of the world.  Grown since 1997 in the United States and Canada, 86% of the US maize crop was genetically modified in 2010&lt;ref&gt;[http://usda.mannlib.cornell.edu/usda/nass/Acre/2010s/2010/Acre-06-30-2010.pdf  National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture, Acreage report for 2010]&lt;/ref&gt; and 32% of the worldwide maize crop was GM in 2011.&lt;ref&gt;[http://www.isaaa.org/resources/publications/biotech_crop_annual_update/download/02%20Corn%202012.pdf ISAAA Biotech Maize Update 2011]&lt;/ref&gt;  In 2011, 49% of the total maize harvest was used for livestock feed (including the percentage from [[distillers grains]]), 27% went to ethanol production, 13% was exported, 4.1% of the US corn harvest was made into [[high fructose corn syrup]], and the rest was used for other sweeteners, cornstarch, making alcohol for beverages, for cereal, and for seed - so less than 10% of the harvest was used for human food or drink.&lt;ref&gt;[http://www.ncga.com/uploads/useruploads/woc_2012.pdf 2012 World of Conn, National Corn Growers Association]&lt;/ref&gt;   Corn oil is sold directly as cooking oil and to make shortening and margarine.&lt;ref name=CornPoster&gt;[http://www.ncga.com/uploads/useruploads/cornusesposter.pdf Poster of corn products]&lt;/ref&gt;&lt;ref&gt;Institute of Shortening and Edible Oils, 2006. [http://www.iseo.org/FoodFatsOils2006.pdf Food Fats and Oils] accessdate=2011-11-19&lt;/ref&gt;
+
+[[Cottonseed oil]] is used as a salad and cooking oil, both domestically and industrially.&lt;ref&gt;National Cottonseed Producers Association [http://www.cottonseed.com/publications/facts.asp Twenty Facts about Cottonseed Oil]&lt;/ref&gt;  Approximately 93% of the US cotton crop is GM.
+
+====Vegetable oil in prepared foods====
+Corn oil is used to make vitamin carriers, as a source of [[lecithin]], as an ingredient in prepared foods like mayonnaise, sauces, and soups; to fry potato chips and French fries.&lt;ref name=CornPoster /&gt;&lt;ref name=&quot;corn dot org&quot;&gt;Corn Refiners Association. [http://www.corn.org/wp-content/uploads/2009/12/CornOil.pdf Corn Oil] 5th Edition. 2006&lt;/ref&gt;
+
+===Sugar===
+The United States imports 10% of its sugar from other countries, while the remaining 90% is extracted from domestically grown [[sugar beet]] and sugarcane.  Of the domestically grown sugar crops, half of the extracted sugar is derived from sugar beet, and the other half is from sugarcane.
+
+After deregulation in 2005, glyphosate-resistant sugar beet was extensively adopted in the United States.  95% of sugar beet acres in the US were planted with glyphosate-resistant seed in 2011.&lt;ref name=James2011&gt;[http://www.isaaa.org/resources/publications/briefs/43/executivesummary/default.asp ISAAA Brief 43-2011. Executive Summary: Global Status of Commercialized Biotech/GM Crops: 2011]&lt;/ref&gt; Sugar beets that are herbicide-tolerant have been approved in Australia, Canada, Colombia, EU, Japan, Korea, Mexico, New Zealand, Philippines, Russian Federation, Singapore, and USA.&lt;ref name=&quot;ISAAA Pocket Guide&quot;&gt;[http://www.isaaa.org/resources/publications/pocketk/2/default.asp ISAAA Pocket K No. 2: Plant Products of Biotechnology]&lt;/ref&gt;  
+
+The food products of sugar beets are refined sugar and molasses. Pulp remaining from the refining process is used as animal feed.    The sugar produced from GM sugarbeets is highly refined and contains no DNA or protein—it is just [[sucrose]], the same as sugar produced from non-GM sugarbeets.&lt;ref&gt;Food and Agriculture Organization of the United Nations (2009) [http://www.eastagri.org/publications/pub_docs/4_Sugar_web.pdf Sugar Beet: White Sugar see p. 9]&lt;/ref&gt;
+
+==Detection==
+Testing on GMOs in food and feed is routinely done using molecular techniques like [[DNA microarrays]] or [[qPCR]]. These tests can be based on screening genetic elements (like p35S, tNos, pat, or bar) or event-specific markers for the official GMOs (like Mon810, Bt11, or GT73).
+The array-based method combines [[multiplex (assay)|multiplex]] PCR and array technology to screen samples for different potential GMOs,&lt;ref&gt;[http://bgmo.jrc.ec.europa.eu/home/docs.htm BGMO.jrc.ec.europa.eu]&lt;/ref&gt; combining different approaches (screening elements, plant-specific markers, and event-specific markers).
+
+The qPCR is used to detect specific GMO events by usage of specific [[Primer (molecular biology)|primers]] for screening elements or event-specific markers. Controls are necessary to avoid false positive or false negative results. For example, a test for [[CaMV]] is used to avoid a false positive in the event of a virus contaminated sample.
+
+In a January 2010 paper&lt;ref&gt;{{cite journal|last1=Costa|first1=Joana|last2=Mafra|first2=Isabel|last3=Amaral|first3=Joana S.|last4=Oliveira|first4=M.B.P.P.|title=Monitoring genetically modified soybean along the industrial soybean oil extraction and refining processes by polymerase chain reaction techniques|journal=Food Research International|volume=43|page=301|year=2010|doi=10.1016/j.foodres.2009.10.003}}&lt;/ref&gt; the extraction and detection of DNA along a complete industrial soybean oil processing chain was described to monitor the presence of Roundup Ready (RR) soybean: &quot;The amplification of soybean lectin gene by end-point polymerase chain reaction (PCR) was successfully achieved in all the steps of extraction and refining processes, until the fully refined soybean oil. The amplification of RR soybean by PCR assays using event-specific primers was also achieved for all the extraction and refining steps, except for the intermediate steps of refining (neutralisation, washing and bleaching) possibly due to sample instability. The real-time PCR assays using specific probes confirmed all the results and proved that it is possible to detect and quantify genetically modified organisms in the fully refined soybean oil. To our knowledge, this has never been reported before and represents an important accomplishment regarding the traceability of genetically modified organisms in refined oils.&quot;
+
+==Regulation==
+{{main|Regulation of the release of genetic modified organisms}}
+
+The regulation of genetic engineering concerns the approaches taken by governments to assess and manage the risks associated with the use of genetic engineering technology and the development and release of genetically modified organisms (GMO). There are differences in the regulation of GMOs between countries, with some of the most marked differences occurring between the USA and Europe. Regulation varies in a given country depending on the intended use of the products of the genetic engineering. For example, a crop not intended for food use is generally not reviewed by authorities responsible for food safety,&lt;ref name=PotatoPro&gt;[http://www.potatopro.com/newsletters/20100310.htm PotatoPro]&lt;/ref&gt; while GM crops intended for use in human or animal food are reviewed by such authorities.  Additionally, various govern the importation of GM commodities, as well as food made using GM commodities.
+
+==Controversy==
+{{Main|Genetically modified food controversies}}
+
+There are controversies around GM food on several levels, including whether food produced with it is safe, whether it should be labeled and if so how, whether agricultural biotech is needed to address world hunger now or in the future, and more specifically to GM crops—intellectual property and market dynamics; environmental effects of GM crops; and GM crops' role in industrial agricultural more generally.
+
+==See also==
+* ''[[The Future of Food]]''
+* ''[[California Proposition 37 (2012)]]''
+
+==References==
+{{Reflist|2}}
+
+{{DEFAULTSORT:Genetically Modified Food}}
+[[Category:Food industry]]
+[[Category:Genetically modified organisms in agriculture]]
+[[Category:Genetic engineering]]
+[[Category:Environmental issues]]
+[[Category:Emerging technologies]]
+
+{{Link GA|ja}}
+[[ar:غذاء معدل جينيا]]
+[[ca:Aliment transgènic]]
+[[de:Gentechnisch verändertes Lebensmittel]]
+[[et:Geneetiliselt muundatud toit]]
+[[el:Γενετικά τροποποιημένα τρόφιμα]]
+[[es:Alimento transgénico]]
+[[eu:Janari transgeniko]]
+[[fr:Aliment génétiquement modifié]]
+[[gl:Alimentos transxénicos]]
+[[hi:आनुवांशिक संशोधित फसल]]
+[[is:Erfðabreytt matvæli]]
+[[lt:Genetiškai modifikuotas maistas]]
+[[ml:ജി.എം. വിള]]
+[[ja:遺伝子組み換え作物]]
+[[no:Genmodifisert mat]]
+[[nn:Genmodifisert mat]]
+[[sv:Genmodifierade livsmedel]]
+[[ta:மரபணு மாற்றுப் பயிர்]]
+[[uk:Генетично модифікована їжа]]
+[[vi:Thực phẩm biến đổi gen]]
+[[zh:基因改造食品]]</text>
+      <sha1>lhnbigtrrhhlcm5wtz3nirnlkcayj90</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>
