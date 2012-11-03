@@ -1,6 +1,7 @@
 import requests
 import os
 import errno
+import time
 from BeautifulSoup import BeautifulSoup
 
 def find_categories(tree):
@@ -15,11 +16,16 @@ def find_categories(tree):
         links[str(category)] = titles
     return links
 
-def download_article(title):
+def download_article(title,category):
     url = "http://en.wikipedia.org/w/api.php"
     payload = {'action': 'query', 'titles': title, 'format': 'json', 'export': 'exportnowrap'}
-    r = requests.get(url, params = payload)
-    return r.json['query']['export']['*']
+    try:
+        r = requests.get(url, params = payload)
+        save_article_to_file(category, title, r.json['query']['export']['*'])
+    except requests.exceptions.ConnectionError:
+        print "Connection Refused... Retrying in 5 seconds"
+        time.sleep(5)
+        download_article(title,category)
 
 def save_article_to_file(category, title, text):
     category = category.replace("/", "_")
@@ -43,8 +49,7 @@ def crawl():
     links = find_categories(soup)
     for category in links.keys():
         for title in links[category]:
-            text = download_article(title)
-            save_article_to_file(category,title,text)
+            download_article(title, category)
             print "Article %s in category %s has been saved" %(title,category)
 
 def main():
