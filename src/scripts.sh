@@ -10,6 +10,8 @@ bzcat output.xml.bz2 |
 
 find extracted -name '*bz2' -exec bunzip2 -c {} \; > text.xml
 rm -rf extracted
+rm -rf output.xml.bz2
 
 # Remove all xml/html tags from a file
 sed -n '/^$/!{s/<[^>]*>//g;p;}' text.xml > text.txt
+rm -rf text.xml
