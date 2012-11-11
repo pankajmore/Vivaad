@@ -1,7 +1,7 @@
 import os
 
 folder1="../dataset/controversial/Politics_ Economics/"
-folder2="../dataset/non-controversial/Politics/"
+folder2="../dataset/non-controversial/Economics/"
 
 common = set(os.listdir(folder1)).intersection(set(os.listdir(folder2)))
 

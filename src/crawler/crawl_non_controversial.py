@@ -3,7 +3,6 @@ import os
 import errno
 import time
 from BeautifulSoup import BeautifulSoup
-import crawl_controverial as cc
 
 def find_pages(tree):
     titles = []
@@ -44,15 +43,9 @@ def make_sure_path_exists(path):
         if exception.errno != errno.EEXIST:
             raise
 
-def list_controversial_articles_by_category(category):
-    rc = requests.get("http://en.wikipedia.org/wiki/Wikipedia:List_of_controversial_issues")
-    ccsoup = BeautifulSoup(rc.text)
-    links = cc.find_categories(soup)
-    return links[category]
-
 def crawl():
-    category = "Politics"
-    r = requests.get("http://en.wikipedia.org/wiki/List_of_politics-related_topics")
+    category = "History"
+    r = requests.get("http://en.wikipedia.org/wiki/Index_of_history_articles")
     soup = BeautifulSoup(r.text)
     titles = find_pages(soup)
     for title in titles:
