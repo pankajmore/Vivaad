@@ -1,0 +1,939 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Jesus</title>
+    <ns>1</ns>
+    <id>3365565</id>
+    <revision>
+      <id>522379228</id>
+      <parentid>522371634</parentid>
+      <timestamp>2012-11-10T20:33:45Z</timestamp>
+      <contributor>
+        <username>Humanpublic</username>
+        <id>17099472</id>
+      </contributor>
+      <comment>/* WP:RSN assessment of the sources */</comment>
+      <text xml:space="preserve" bytes="178357">{{pp-move-indef}}
+{{Skip to talk}}
+{{talk header|search=yes}}
+{{User:MiszaBot/config
+|maxarchivesize = 200K
+|counter = 118
+|minthreadsleft = 4
+|algo = old(10d)
+|archive = Talk:Jesus/Archive %(counter)d
+}}
+{{ArticleHistory
+|action1=FAC
+|action1date=10:51, 17 January 2004
+|action1link=Wikipedia:Featured article candidates/Archived nominations/June 2003 to January 2004#Jesus Christ
+|action1result=not promoted
+|action1oldid=6800469 
+
+|action2=FAC
+|action2date=18:41, 2 Jun 2004
+|action2link=Wikipedia:Featured article candidates/Archived nominations/May 2004#Jesus Christ
+|action2result=not promoted
+|action2oldid=6800976
+
+|action3=FAC
+|action3date=06:42, 3 Aug 2004
+|action3link=Wikipedia:Featured article candidates/Archived nominations/July 2004#Jesus
+|action3result=not promoted
+|action3oldid=6801172
+
+|action4=FAC
+|action4date=00:48, 2 Nov 2004
+|action4link=Wikipedia:Featured article candidates/Archived nominations/November 2004#Jesus
+|action4result=not promoted
+|action4oldid=7044553
+
+|action5=AFD
+|action5date=18:15, 3 May 2005
+|action5link=Wikipedia:Articles for deletion/Jesus
+|action5result=kept
+|action5oldid=
+
+|action6=PR
+|action6date=00:30, 6 October 2005
+|action6link=Wikipedia:Peer review/Jesus/archive1
+|action6result=reviewed
+|action6oldid=24854473
+
+|action7=GAN
+|action7date=07:48, 12 December 2005
+|action7result=listed
+|action7oldid=31027124
+
+|action8=FAC
+|action8date=02:23, 15 December 2005
+|action8link=Wikipedia:Featured article candidates/Jesus/archive1
+|action8result=not promoted
+|action8oldid=31414159
+
+|action9=PR
+|action9date=16:38, 14 April 2006
+|action9link=Wikipedia:Peer review/Jesus/archive2
+|action9result=reviewed
+|action9oldid=48433670
+
+|action10=PR
+|action10date=18:44, 27 November 2006
+|action10link=Wikipedia:Peer review/Jesus/archive3
+|action10result=reviewed
+|action10oldid=90476227
+
+|action11=FAC
+|action11date=03:52, 21 April 2007
+|action11link=Wikipedia:Featured article candidates/Jesus/archive2
+|action11result=not promoted
+|action11oldid=124510613
+
+|action12=WAR
+|action12date=00:09, 21 August 2007
+|action12link=Wikipedia:WikiProject Biography/A-class review/Jesus
+|action12result=approved
+|action12oldid=152509285
+
+| action13       = GAR
+| action13date   = 18:07, 12 July 2009 (UTC)
+| action13link   = Wikipedia:Good article reassessment/Jesus/2
+| action13result = delisted
+| action13oldid  =
+
+|currentstatus=DGA
+|topic=Philrelig
+}}
+{{WikiProjectBannerShell|collapsed=yes|1=
+{{WPReligion|class=B|importance=Top}}
+{{WikiProject Christianity
+|class=B
+|importance=Top
+|anglicanism=yes
+|catholicism=yes
+|core-topics-work-group=yes
+|eastern-orthodoxy=yes
+|jesus-work-group=yes
+|latter-day-saint-movement=yes
+|oriental-orthodoxy=yes
+|anglicanism-importance=top
+|catholicism-importance=top
+|core-topics-work-group-importance=top
+|core-topics-importance=top
+|eastern orthodoxy-importance=top
+|jesus-importance=top
+|latter-day-saint-movement-importance=top
+|oriental-orthodoxy-importance=top
+|messianic-judaism=yes
+|messianic-judaism-importance=Top|saints=yes|saints-importance=Top|theology-work-group=yes|theology-importance=Top|bible=yes|bible-importance=Top
+}}
+{{WikiProject Islam|class=B|importance=mid}}
+{{WikiProject Biography|living=no|class=A|listas=Jesus|core=yes}}
+{{WikiProject Bahá'í Faith|class=B|importance=High}}
+{{WikiProject Mythology|class=B|importance=High}}
+{{WikiProject Bible|class=B|importance=Top}}
+{{WikiProject Religion|class=B|importance=Top}}
+{{WP1.0|v0.5=pass|class=B|importance=Top|category=Philrelig|VA=yes}}
+}}
+{{controversial (history)}}
+{{pbneutral}}
+{{notforum}}
+{{calm talk}}
+{{Round In Circles}}
+{{auto archiving notice|bot=MiszaBot|age=10|dounreplied=yes}}
+{{anchor|JesusFAQ}}
+{{FAQ}}
+{{todo}}
+{{User:HBC Archive Indexerbot/OptIn 
+|target=/Archive index |mask=/Archive &lt;#&gt;|leading_zeros=0 |indexhere=yes 
+}}
+{{Talk:Jesus/archivebox}}
+
+{{American English|small=yes|reason=very first non-redirect edit (2001-NOV-21) used spelling &quot;Savior&quot; and &quot;recognize&quot;.}}
+
+== Seeking opinions on sources ==
+
+Based on past and present discussions, it may be a good idea to seek opinions on the use of sources within this page, specially with respect to existence. The sources and statements in question are:
+
+:* '''A''': [[Bart Ehrman]]: &quot;He certainly existed, as virtually every competent scholar of antiquity, Christian or non-Christian, agrees&quot; B. Ehrman, 2011 ''Forged : writing in the name of God'' ISBN 978-0-06-207863-6 [[HarperOne]] Press page 285
+
+:* '''B''': [[Robert M. Price]] agrees that this perspective runs against the views of the majority of scholars: Robert M. Price &quot;Jesus at the Vanishing Point&quot; in ''The Historical Jesus: Five Views'' edited by James K. Beilby &amp; Paul Rhodes Eddy, 2009 [[InterVarsity Press]] Press, ISBN 028106329X page 61
+
+:* '''C''' [[Michael Grant (author)|Michael Grant]] states that &quot;In recent years, 'no serious scholar has ventured to postulate the non historicity of Jesus' or at any rate very few, and they have not succeeded in disposing of the much stronger, indeed very abundant, evidence to the contrary.&quot; in ''Jesus: An Historian's Review of the Gospels'' by Michael Grant 2004 ISBN 1898799881 Rigel Publications page 200
+
+:* '''D''' [[Robert E. Van Voorst]] states that biblical scholars and classical historians regard theories of non-existence of Jesus as effectively refuted. Van Voorst, Robert E (2000). ''Jesus Outside the New Testament: An Introduction to the Ancient Evidence''. [[William B. Eerdmans]] ISBN 0-8028-4368-9 page 16
+
+:* '''E''' [[James D. G. Dunn]] &quot;Paul's understanding of the death of Jesus&quot; in ''Sacrifice and Redemption'' edited by S. W. Sykes (Dec 3, 2007) [[Cambridge University Press]] ISBN 052104460X pages 35-36 states that the theories of non-existence of Jesus are &quot;a thoroughly dead thesis&quot;
+
+:* '''F''' [[Richard A. Burridge]] states: &quot;There are those who argue that Jesus is a figment of the Church’s imagination, that there never was a Jesus at all. I have to say that I do not know any respectable critical scholar who says that any more.&quot; in ''Jesus Now and Then'' by Richard A. Burridge and Graham Gould (Apr 1, 2004) ISBN 0802809774 [[William B. Eerdmans]] Press page 34
+
+:* '''G''' [[Graham Stanton]] in ''The Gospels and Jesus'' by Graham Stanton, 1989 ISBN 0192132415 [[Oxford University Press]], page 145 states that &quot;Today nearly all historians, whether Christians or not, accept that Jesus existed&quot;
+
+My view is that Ehrman is a really well established professor in the field and [[Harper Collins]] is certainly WP:RS. Price (an atheist) is making a statement that assesses the field as relates to his view (directly related). Grant is a highly respected scholar - and no one here is disputing him anyway. Van Voorst's book has been called the &quot;best recent discussion on the topic&quot; and &quot;The fullest compilation of all this data&quot;. Dunn, Burridge and Stanton are highly decorated professors with books by reliable publishers.
+
+Moreover, I think it is essential to observe three points:
+
+:* There are ''no opposing sources'' whatsover. No one is saying that there are sources that dispute Ehrman's statement, or Van Voorst's quote, etc. There is no opposition whatsover in terms of other [[WP:RS]] sources to what the sources say.
+
+:* These scholars are not expressing their own opinions, bu are providing a survey of the [[WP:RS/AC|Academic consensus]] per [[WP:RS/AC]]. The only methodology they are using is ''counting'' how many people are on each side of the debate
+
+:* All of these scholars (almost all well established professors) are intimately involved in the field. They are not new to the topic.
+
+I think these are totally [[WP:RS]] sources. 
+
+Comments from other editors will be appreciated. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:47, 25 September 2012 (UTC)
+
+:one of the books listed in the bibliography at the end - [[E P Sanders]],  ''the Historical figure of Jesus''  - [[Paul Johnson]] called it 'a non-dogmatic study of the evidence by a leading expert' - so maybe using Sanders as a source would be good to add to the others , he is widely respected - the other sources seem fair enough too as you say- and   i think from what i've heard said elsewhere- by [[John Romer (Egyptologist)|John Romer]] on the TV series 'Testament'  for eg.-  the sentence in the lead as it stands is fair enough imo. [[User:Sayerslle|Sayerslle]] ([[User talk:Sayerslle|talk]]) 21:31, 25 September 2012 (UTC)
+
+::Yes, as you said Sanders is widely respected, and a non-believer. Further down, the page currently says: &quot;both E.P. Sanders and [[Paula Fredriksen]] support the historicity of the crucifixion, but contend that Jesus did not foretell of his own crucifixion, and that his prediction of the crucifixion is a Christian story&quot; And Fredriksen is also highly respected and a non-believers, as is [[Geza Vermes]] who is also quoted. So there are plenty of respected scholars who are quoted. The reason for using the 8 sources above, however, was that they are not even expressing their own view, just &quot;counting how many scholars there are on each side of the debate&quot; per [[WP:RS/AC]]. And as you said the statements they make are consistent, reasonable by modern scholarly standards and have no conflict with any sources we have seen. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 21:39, 25 September 2012 (UTC)
+
+:::I'd say we're overdoing it if I hadn't watched the discussion about the statement supported by all those sources. They are clearly reliable; the scholars we cite are experts in their field and should know the consensus among their colleagues, and no sources dispute the conclusion they draw. What more could we possibly want? [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 23:41, 25 September 2012 (UTC)
+::::Of course they're reliable when it comes to their colleagues, I object to wording that goes beyond that circle. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 19:18, 26 September 2012 (UTC)
+
+{{od}}
+Two points: First, it must be clarified that [[biblical scholar]]ship is distinct from theology and as the Oxford Handbook of Biblical Studies states it includes archaeology, Egyptology, textual criticism, linguistics, history, sociology and theology. So these authors are fully immersed in the field and know who writes what. 
+:I don't think I said or implied anything about theology, the term I used was biblical scholarship or NT scholarship. I'm well aware of the difference as I pointed out to you earlier. If you think the article needs to spell that out more clearly, then I'm not stopping you. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 02:54, 27 September 2012 (UTC)
+
+Secondly you can not (really not) modify what a source says and take half of what it says. Let me clarify this with an example:
+
+:* Professor A (who teaches in Germany) writes that [[List of largest lakes of Europe|Lake Ladoga]] is the largest lake in Europe.
+
+:* You think he does not necessarily know of the lakes in Spain and should only talk about lakes in Eastern Europe.
+
+:* You do not have any professor B who says there is a larger lake anywhere in Europe. So no source disputes professor A.
+
+You cannot modify the quote by professor A to say &quot;Lake Ladoga is the largest lake in Eastern Europe&quot;. You can not do that. And that is specially true if there is ''not even one source'' that disputes what professor A states. Moreover, we have six other sources that confirm what professor A states. 
+:This is not the situation we're in. It's not that professor X makes a factual statement Y, it's that professor A makes a statement about a consensus of scholars in field B holding opinion C. The situation we're dealing with is statements about an academic consensus, for which WP has specific rules, which I mentioned to you before, after having pointed out my line of argument was emphatically not what you just said. And in fact right below you go on to mention the self-same criteria! [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 02:54, 27 September 2012 (UTC)
+
+Per [[WP:RS/AC]]:
+
+:''Any statement in Wikipedia that academic consensus exists on a topic must be sourced rather than being based on the opinion or assessment of editors.''
+
+You can not use your own assessment of the scholarly consensus. If professor A said Europe, you cannot modify it to say half of Europe based on your own assessment. That is Wikipedia policy. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:40, 26 September 2012 (UTC)
+:Why do I have to keep pointing out that I was arguing precisely that the sources offered do not meet the standards WP sets for making statements about an academic consensus, rather than offering my own assessment. You accuse me of offering my own assessment, when in fact I was insisting we shouldn't and should instead use WP's specific criteria for this case. In this vein I'm claiming your set of sources do not support the very wide consensus that is being alleged. Your complaints of not getting sources contradicting &quot;opinion C&quot; amounts to asking for personal assessment of a consensus, precisely what you've argued we shouldn't be doing! [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 02:54, 27 September 2012 (UTC)
+
+=== Analysis of whether the quoted sources support the statement ===
+
+New section so as not to disrupt the flow of arguments made by History2007.
+
+It is my understanding that in order to make a statement S &quot;a majority of scholars in field X hold opinion Y&quot; WP verifiability criteria require a quote from a source RS who is a) a reliable source on field X who b) actually states S, as opposed to some vaguely similar statement or as opposed to merely stating Y. It is not generally sufficient that RS is a reliable source on a related field. As an example, we would not generally accept a physicist as a RS on mathematics. Nevertheless additional evidence might be produced to demonstrate that specific individuals from neighbouring fields do qualify. It is my understanding that Grant is an example of this.
+
+If I'm wrong about these things, then I'll be happy to be better informed, especially if people go about it in a friendly way, instead of shouting down legitimate and sincere concerns.
+
+Now, let me go through the quoted sources one by one and explain where I think they do not meet the standards. If my understanding above about the required criteria is defective, then all this may be moot, but let's get to that when people have had the opportunity to respond.
+
+But before I start, let me stress that I consider all these scholars fine sources that have valuable things to say that ought to be quoted in the article. My concern is to find a wording that doesn't misrepresent the strength of academic opinion on the matter. Even if you don't share the concern yourself, I hope you'll agree that the concern is at least legitimate, in that if the wording were to mislead ordinary readers as to the strength of academic consensus, then that would be a bad thing.
+
+The statement S that we are considering is &quot;Virtually all scholars of antiquity agree that Jesus existed.&quot; The trouble here is that scholarship of antiquity is not a single field, it includes classics, ancient history, biblical scholarship and who knows what, and scholars are not generally competent in all subfields. For example, the average ancient historian is not generally expected to be up to speed with the details of thinking among biblical scholars. I think that generally speaking classicists ought to be allowed as reliable sources on opinions among classicists etc, and that additional evidence would be needed to quote them on the thinking among biblical scholars.
+
+Again, maybe I'm wrong about this, but hopefully you'll at least see where I'm coming from before you run to Arbcom or wherever before having engaged my arguments.
+
+Now on to the sources. 
+
+:* '''A''': [[Bart Ehrman]]: &quot;He certainly existed, as virtually every competent scholar of antiquity, Christian or non-Christian, agrees&quot; B. Ehrman, 2011 ''Forged : writing in the name of God'' ISBN 978-0-06-207863-6 [[HarperOne]] Press page 285
+::The statement S clearly does match what is said in the article, but while Ehrman is a scholar of antiquity, he cannot be expected to speak for all scholars of antiquity, in particular ancient historians or classicists. He does look like an excellent source for biblical scholars. That still leaves us in need of additional sources for the other subfields.
+
+:* '''B''': [[Robert M. Price]] agrees that this perspective runs against the views of the majority of scholars: Robert M. Price &quot;Jesus at the Vanishing Point&quot; in ''The Historical Jesus: Five Views'' edited by James K. Beilby &amp; Paul Rhodes Eddy, 2009 [[InterVarsity Press]] Press, ISBN 028106329X page 61
+::No evidence has been offered that Price has supported statement S. He is merely paraphrased as saying his views runs against the majority of scholars, presumably those who have published on the matter. It says nothing about the vast majority who haven't, while statement S does. Price's claim is far less sweeping than S. In addition, Price is a biblical scholar, so again we only have the subfield of biblical scholarship covered.
+
+:* '''C''' [[Michael Grant (author)|Michael Grant]] states that &quot;In recent years, 'no serious scholar has ventured to postulate the non historicity of Jesus' or at any rate very few, and they have not succeeded in disposing of the much stronger, indeed very abundant, evidence to the contrary.&quot; in ''Jesus: An Historian's Review of the Gospels'' by Michael Grant 2004 ISBN 1898799881 Rigel Publications page 200
+::Grant is a classicist and historian and therefore covers two bases. Again, he makes a far less sweeping statement than S. He says nothing about a majority of scholars of antiquity, instead he refers to the much, much smaller group of scholars who have published on the subject. 
+
+:* '''D''' [[Robert E. Van Voorst]] states that biblical scholars and classical historians regard theories of non-existence of Jesus as effectively refuted. Van Voorst, Robert E (2000). ''Jesus Outside the New Testament: An Introduction to the Ancient Evidence''. [[William B. Eerdmans]] ISBN 0-8028-4368-9 page 16
+::Van Voorst covers biblical scholarship, but not classical historians. Again, he makes a far less sweeping statement than S. No mention of the vast legions of scholars of antiquity who are neither biblical scholars nor classical historians or of the vast majority who have never published on the matter or those who are professionally agnostic on the issue.
+
+:* '''E''' [[James D. G. Dunn]] &quot;Paul's understanding of the death of Jesus&quot; in ''Sacrifice and Redemption'' edited by S. W. Sykes (Dec 3, 2007) [[Cambridge University Press]] ISBN 052104460X pages 35-36 states that the theories of non-existence of Jesus are &quot;a thoroughly dead thesis&quot;
+::Again, a biblical scholar, though this time with an even more sweeping statement. The brief quote doesn't allow further analysis.
+
+:* '''F''' [[Richard A. Burridge]] states: &quot;There are those who argue that Jesus is a figment of the Church’s imagination, that there never was a Jesus at all. I have to say that I do not know any respectable critical scholar who says that any more.&quot; in ''Jesus Now and Then'' by Richard A. Burridge and Graham Gould (Apr 1, 2004) ISBN 0802809774 [[William B. Eerdmans]] Press page 34
+::Yet another biblical scholar. He merely states that he doesn't know any respectable critical scholar who disagrees, which is not the same as saying virtually all scholars of antiquity agree. Maybe he doesn't know enough people, or not outside the field of historical critical bible scholarship, or perhaps the vast majority of scholars of antiquity don't hold a professional opinion on the matter.
+
+:* '''G''' [[Graham Stanton]] in ''The Gospels and Jesus'' by Graham Stanton, 1989 ISBN 0192132415 [[Oxford University Press]], page 145 states that &quot;Today nearly all historians, whether Christians or not, accept that Jesus existed&quot;
+::Stanton is a biblical scholar, not a historian, so his statement on historians doesn't count. He doesn't make any statement about other scholars of antiquity, so he's no help there either.
+
+Now, don't get me wrong. It's not as if these fine gentlemen have nothing important to say. I think that together they amply demonstrate something that to the best of my knowledge no one has disputed:
+
+''The vast majority of scholars who have published on the issue of the historicity of Jesus have come out in favour of it. Only a small group of serious scholars and a somewhat larger group of nonserious scholars dispute it.''
+
+I'd be happy with that statement, but that's not what S says. In my opinion S enlists vast legions of scholars in support of historicity who have never published on it or even studied it. ''That's'' what I want to change, and I believe I should be able to count on your help to find a form of words that alleviates my concerns, or at the very least that you don't sabotage this or go running off to Arbcom or whatever to quash discussion. My initial proposal to change the wording to &quot;biblical scholars&quot; didn't meet your approval, and I'd love to hear other constructive suggestions.
+
+Another thing that deserves to be mentioned, or at the very least not denied by implication, is that while the vast majority of scholars who have published on the issue have been professional &quot;scholars of antiquity&quot; and that by definition every serious scholar from another field who has studied the matter is at least a nonprofessional &quot;scholar of antiquity&quot;, the scholars tend to come from one very specific subfield, namely biblical scholarship. It is true that there have been scholars from other fields (modern history, ancient history, classics, English literature and no doubt others), but they are a tiny minority among a vast majority of biblical scholars, just like mythicists are a tiny minority among scholars in general. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 20:18, 26 September 2012 (UTC)
+
+:So the long and short of it is this: You think the situation is described by:
+
+::* '''I''': ''The vast majority of scholars who have published on the issue of the historicity of Jesus have come out in favour of it.'' 
+
+::* '''II''': ''Only a small group of serious scholars and a somewhat larger group of nonserious scholars dispute it.''
+
+:The first problem is that you do not have a source for &quot;I&quot;. But you have ''effectively conceded'' that all the sources above are ''totally valid''. Again, in terms of the above, you can not (really not) construct your own quote that &quot;&quot;Lake Ladoga is the largest lake among all lakes in Europe which have been measured by a team of geologists&quot;. If professor A has a quote Q that says &quot;Lake Ladoga is the largest lake in Europe&quot;, you cannot perform interior decoration on his quote to construct quote Q2 to fit your personal assessment. Secondly, there are no &quot;nonserious scholars&quot;. I think you mean to refer to &quot;popular writers&quot; who do not hold academic positions. They are generally called popular writers, and in terms of scholarship, they matter not. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 21:24, 26 September 2012 (UTC)
+::Statement S was not presented as a quoted opinion, and does not represent a common quote, but a summary of various views. The wording is certainly very different from what the other sources than Ehrman have said, which is not surprising since they all use different wording.
+::As for &quot;conceding&quot; a point, I have never disagreed that these are fine sources to use in the article, and I have repeatedly said they are fine. What I did and do say is that they do not meet what I believe to be the technical criteria (reliable source from the field in question, clear statement about a majority of opinion among the whole group for which it is being claimed) for the claim about academic consensus among a certain group of scholars ''as it is currently worded''. It's fine to disagree on the specifics, and even better to see if we might reach agreement. I'd be fine with changing the wording of the claim, or with turning the claim into a quote by a named source rather than a sourced statement per standard WP:NPOV procedure. It doesn't help if you react to strawman arguments I didn't make and have ''repeatedly'' and ''emphatically'' denied making or even agreeing with. You didn't like my suggestions, perhaps you have suggestions of your own. I'd like to think we all have the same goal here, to serve neutrality and verifiability.
+::You didn't address my point about the individual scholars not being qualified to act as a RS about the whole group (scholars of antiquity) for the which the claim of censensus is made, nor the fact that except for Ehrman and Dunn they don't even make the sweeping statement. More importantly, you show no sign of constructively helping me address a sincere concern. Instead you seem to be responding combatively. You didn't like my initial suggestion of saying &quot;biblical scholars&quot;, nor my second attempt at a rephrasing that addresses my concerns. Perhaps you have constructive suggestions of your own?
+::I didn't understand your point about nonserious scholars. Grant says very few serious scholars have disagreed with historicity. I don't know of a better term for the group of scholars whom he does not take seriously than nonserious scholars. Maybe it's not an important point, but I'd like to make sure I understand your point. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 01:10, 27 September 2012 (UTC)
+
+{{od}}
+I have addressed your point N times now, with N rapidly approaching infinity. I think Ehrman is ''totally qualified'' to address the issue and his statement is ''exactly right''. And I think the distinction you are making about their specialties is absolute nitpicking, artificial and surreal. I am sorry that is ''exactly'' what I think.  
+
+Look:
+
+:* These professors (Ehrman, Grant, Van Voorst, etc.) all read the same journals that Goggle Scholar and Google books search. There are just a few major universities, a few major books and these professors do not have to go to Mars to find out which scholars support the historicity of Jesus and which do not. That is clear to everyone on this planet.  
+
+:* Everyone mentioned here (the professors) and the editors who type here, and the other Wikipedia articles all &quot;agree&quot; on the same thing: only a handful of people with PhDs (or perhaps even less) who teach at universities deny the existence of Jesus.
+
+So trying to denigrate these professors based on their specialties, reconstruct what they say by adding long qualifiers, etc. is surreal, artificial and incorrect, specially when there are no opposing sources. I am sorry, that is exactly what I think. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 04:53, 27 September 2012 (UTC)
+:I came back with a hunch that I had perhaps misunderstood your request for an opposing opinion, and that you were asking for an opinion contradicting consensus rather than one contradicting existence. But I see you are back to your snooty, intransigent and uncooperative attitude. You still haven't addressed my sincere concern or offered any help. Either offer to help or kindly get out of the way.
+:I am not denigrating these professors, I have repeatedly said positive things about them. I am not questioning whether they can do a Google search, but that is not the relevant criterion, since you and I can do a Google search too and that emphatically is not enough ground for a statement on consensus as WP:RS/AC clearly states. The question is not whether Ehrman can do a Google search, it's whether he is a reliable source on historians and I contend it is far from obvious he is. I'm open to persuasion he is if additional evidence is offered, or if you engage with my argument instead of simply repeating your own. That way you might lead me to see the error of my ways, or to clarify my argument and either way increase understanding.
+:Let me add another consideration to the mix: I believe Ehrman himself, and if not him then other prominent HJ researchers, have criticised the historian Richard Carrier as being unqualified to offer an opinion on the historicity of Jesus because he is a historian, not a biblical scholar with knowledge of Aramaic, Hebrew and Syriac. So are we to believe that Ehrman is qualified to speak about historians because he is a biblical scholar, but historians aren't qualified to speak about biblical scholars? That's a strange double standard. And by your reasoning, is Ehrman qualified to address the opinion of a majority of the combined set of biblical scholars and nuclear physicists, being a member of that combined set?
+:Why is it that you are so defensive about Ehrman's qualifications to speak about historians and scholars of antiquity in general? Why insist on Ehrman's wording and not choose Grant's formulation instead? [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 15:06, 27 September 2012 (UTC)
+:''* Everyone mentioned here (the professors) and the editors who type here, and the other Wikipedia articles all &quot;agree&quot; on the same thing: only a handful of people with PhDs (or perhaps even less) who teach at universities deny the existence of Jesus.''
+::A point I have made several times myself. But that is not what the statement &quot;a majority of scholars of antiquity hold that Jesus existed&quot; says, the latter is a much more sweeping statement. And yet you appear to insist on the sweeping statement, despite my concern it will mislead people as to the size of the academic consensus. Maybe you don't share my concern, but why not help me alleviate it? What harm could possibly come of it? I don't see any, but if you do, kindly speak up. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 15:13, 27 September 2012 (UTC)
+
+:::Again, as stated before, you have no basis for your view that 7 scholars listed above are not capable of counting how many people there are on each side of the debate. The only way they could not know that is if there are scholars they are unaware of, or journals they are unaware of. And where are these hiding scholars who oppose historicity? And why is it that the likes of Ehrman, Van Voorst or Grant are unaware of them or their views? Are these other scholars on Mars? Do we need to send the Mars rover to look for them? No.
+::::Again, you misstate my position. My view was emphatically not that Ehrman et al cannot count, in fact I explicitly stated that that was ''not'' the issue. My point is that they do not meet WP technical criteria of WP:RS/AC if the consensus in question is to extend to neighbouring fields. Counting is not enough, not if you or I do it, not if someone from a neighbouring field does it. A consensus in a field needs an expert from exactly that field. And scholarship of &quot;antiquity&quot; isn't even a field, it encompasses a number of fields, and Ehrman is only an expert in one, and Grant in two. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 12:09, 29 September 2012 (UTC)
+:::As all sources and lists indicate, there are &quot;a handful of academics&quot; (or less) who deny historicity and you have ''directly admitted'' that they are a &quot;tiny minority&quot;. Do you have &quot;a few sources&quot; that per WP:RS/AC state that a good number of scholars of antiquity have stated that they are agnostic on the existence of Jesus? Or is that your &quot;personal opinion?&quot; The long and short of it is that you seem to think these 7 professors are not capable of counting the number of people on each side of the debate, and based on your own superior knowledge you know better and need to remedy their errors. That is not so. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 15:57, 27 September 2012 (UTC)
+::::I have no such sources, nor do I need them because the onus is on those alleging consensus to support it by reliable sources, not on those who oppose them (or are merely skeptical, like myself) to find reliable sources. By WP policy mere counting is not enough, and I don't need to remedy their &quot;error&quot;, you are the one who needs to find reliable sources. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 12:09, 29 September 2012 (UTC)
+
+{{od}}
+Ok, that is good. You have now clearly stated that you have no sources that oppose the sources presented such as Ehrman/VanVoorst/etc. or that provide any different assessment. However, regarding your statement that &quot;by WP policy mere counting is not enough&quot; you seem to be confusing the number of scholars surveyed per [[WP:RS/AC]] with the &quot;internal Wikipedia policy&quot; [[WP:CON]] where counting is not enough. WP:CON applies to Wiki-editors, not expressions of academic consensus among scholars, most of whom have been fortunate enough never to have read Wikipedia policies. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 12:24, 29 September 2012 (UTC)
+
+===No academic still teaching at a major university denies the existence of Jesus===
+Given the length of the discussion above, I think a more solid analysis would be in order, instead of abstract discussions. So here is a list compiled from the Wiki page on [[Christ myth theory]] which lists the main proponents of the myth theory as G. A. Wells, Alvar Ellegård, Robert M. Price, Thomas L. Thompson, Richard Carrier and Earl Doherty. I have also done other web searches.
+
+The list makes it clear that 
+
+:* &quot;''not a single academic still teaching at a major university denies the existence of Jesus''.&quot; 
+
+If any editor here knows of any other academics, please enlighten me. I would like to know.
+
+Here is the list:
+
+:* [[Alvar Ellegård]]: He was a professor of English and died in 2008. 
+
+:* [[Robert M. Price]]: He has a PhD is theology and is a biblical scholar. He is said to be teaching at the &quot;[http://www.jctseminary.org Johnnie Colemon Theological Seminary]&quot;, an organization [[WP:NOTE|not notable enough]] as of this writing to have a Wikipedia which seems to be just a website without an actual campus or actual classes, or any [[Higher education accreditation in the United States|higher education accreditation]]. He also teaches at [[Center_for_Inquiry#CFI_Institute|CFI Institute]] which does not seem to be a university of any type, and mostly teaches online courses or summer classes. Price can be considered a scholar, but he does not teach at a major institution. He acknowledges that hardly any one agrees with him.
+
+:* [[Thomas L. Thompson]]: Was a professor of theology in Sweden (now retired) and denies existence. Thompson's arguments were never accepted by the academic community at large and he worked as an interior decorator for over a decade until he found a position.
+:::Heh, talk about denigrating scholars. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 13:19, 29 September 2012 (UTC)
+::::I was being nice, saying interior decorator. The second paragraph of his Wiki-bio says other things. I was being nice. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 13:25, 29 September 2012 (UTC)
+
+:* [[Richard Carrier]]: He has a PhD, but is not an academic and does not teach at any university. Carrier's professional occupation (beyond his blog) remains unclear.
+
+In this list there are only two clear ex-academics who deny existence: Ellegård and Thompson plus Price who is a biblical scholar and may be considered a scholar, but not an academic really. That makes 3 at best. [[R. Joseph Hoffmann]] supports Gnosticism, but is not a direct denier of existence and listed as a supporter of existence by the Wikipedia page on Christ myth theory. 
+
+Are there 30 scholars out there who deny existence? No. Do any of them still teach at a major institution? No. Even if Carrier is considered a scholar, that is still less than a handful of deniers, but none of these people is currently holding an academic position at a major institution.
+ 
+[[G. A. Wells]] is a professor of German. He was (and is) widely acknowledged as the leader of the Christ myth theorists. Wells no longer denies the existence of Jesus. Wells did a U-turn in his last book after the evidence from the [[Q source]] documents had been explained to him. 
+
+There are also academics such as [[John P. Meier]], [[Donald Akenson]] and [[Hector Avalos]] who have criticized the methods used in biblical studies but none of these on their own denies the existence of Jesus, and Meier is a strong supporter of existence. [[Paula Fredriksen]] considers the Christian gospels to be mostly fiction but she firmly supports the existence of Jesus. There are hardly any academics (depending on if one counts Price in or out, etc.) that deny existence and still teach in a major institution. 
+
+Then there are the popular writers generally listed as Earl Doherty, John Allegro, Acharya S, Christopher Hitchens, Timothy Freke and Peter Gandy. None of these writers has a PhD, none has been an academic and Doherty and Acharya own the small publishing companies that self-publish their books. There are also a number of non-academics who write popular or self-published books to support existence, but none of these matter in terms of &quot;academic support&quot;, either way. 
+
+So really, there is no &quot;academic support&quot; for the non-existence of Jesus among professors who are still teaching at major institutions. If there are a significant number of professors
+who deny the existence of Jesus, they must be teaching on Mars, and perhaps the [[Mars rover]] will find them soon. But there are ''certainly'' no professors teaching at Harvard, Princeton, Oxford, Cambridge, Stanford or Berkeley who deny the existence of Jesus. That seems certain. 
+
+If there are professors currently teaching at major institutions who deny the existence of Jesus, please do inform me. Thank you. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 05:52, 28 September 2012 (UTC)
+
+::There's no archaeological evidence to support the historicity of Jesus Christ, a Magical Figure to do with Religion and The Bible. It does not make any difference what scholars think and believe, the evidence shows there is no evidence for a historical Christ. The Bible is a collection of contrived documents founded on religious faith. The established Church was not founded on historical provenance but rather on what people preferred to believe. Mention all these points to University scholars who BELIEVE in a historical Jesus Christ and they all remain silent. This Wikipedia article is a product of religious propaganda. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 12:20, 28 September 2012 (UTC)
+
+:::Give me five minutes live time on television with Bart Ehrman, he will provide no answers to any of the points because the historical evidence just does not exist about Jesus Christ. I have raised these points about historicity with scholars and they remained silent on the matter. Everything exists solely on the basis of special pleading.  [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 12:32, 28 September 2012 (UTC)
+
+::::Given that you are a new user (I presume) I would suggest a reading of [[WP:V]]. Wikipedia does not work on debates on TV, or personal opinions, but what sources state. And Ehrman (who is no longer a Christian) is not the only scholar who supports existence, there are many, many of others, e.g. [[Geza Vermes]], etc.. I have a feeling Vermes would be a livelier debate, if you want to take him on... But in any case, all Wkipedi can use are &quot;sources, not facts&quot;. WP:V explains that. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 13:42, 28 September 2012 (UTC)
+
+:::::What scholars privately believe and what constitutes independent historical evidence are two different issues. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 13:48, 28 September 2012 (UTC)
+
+{{od}}
+That is a worthwhile point to explain. What scholars &quot;privately believe&quot; can not be used in Wikipedia. A scholar may privately believe that the earth is triangular, but unless he publishes that in a reputable source it can not be used in Wikipedia per [[WP:V]]. Please read that policy page. Thank you. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 13:51, 28 September 2012 (UTC)
+
+:Scholars have indeed expressed their personal and private beliefs that Jesus Christ existed in reliable and reputable sources, and that's all they amount to. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 13:59, 28 September 2012 (UTC)
+
+::Once they have ''expressed it'' in a publication, it is a public statement, no longer private. But I will stop now. This is not a &quot;content issue&quot; any more, a &quot;policy issue&quot; per WP:V. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 14:01, 28 September 2012 (UTC)
+
+:::I will stop as well now, since there never will be any honest and reliable Wikipedia article on this subject matter. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 14:05, 28 September 2012 (UTC)
+::::That may be true, but History2007 was correct in the argument he just made. One of the techniques we have on WP to deal with issues of bias is that of [[WP:NPOV]]. If a source makes a potentially controversial, subjective statement, we can always rephrase it as &quot;source X says Y&quot;, which is an objective statement about someone holding an opinion. So instead of saying &quot;the minimum wage leads to youth unemployment&quot;, we can say &quot;economist X says that the minimum wage leads to youth unemployment&quot;.
+::::We don't do that if source X merely states the common position in the field in question. If challenged, we can always look for a source that supports the alleged consensus. We don't do that by counting, or by constructing an argument that some expert should be able to count, instead we rely on the criterion set by [[WP:RS/AC]], which is a statement by an academic in the field, not about the ''truth'' of the statement, but as to the ''consensus'' in that specific field. It's not necessary that the expert agrees with the statement himself, just that he states there exists a consensus.
+::::The source in question may happen to know that the consensus in fact extends to other fields, but unless he happens to be an expert in those fields too, as far as WP is concerned this is insufficient evidence about a consensus in the other fields. For instance we can use an expert in homeopathy claiming a consensus among practitioners of homeopathy as sufficient evidence to state that there is in fact such a consensus.
+::::Whether we personally agree with the statement, or believe in homeopathy doesn't matter. It also doesn't matter if we can produce a count of proponents and opponents that appears to contradict the expert, since as far as WP is concerned mere counting isn't enough. We rely on experts on specific fields to make that determination for us. It's a different matter if the expert were to claim that physicists also agree. It may be true (at least in theory, you and I might doubt it, but since we aren't experts our opinions don't count), but since an expert on homeopathy isn't automatically an expert on physics, any claim about a consensus by physicists doesn't count. If we can find a physicist who agrees as to the consensus among physicists, then of course we can support the consensus among physicists too.
+::::On the other hand, if we were to find an expert in the field who explicitly denies there is a consensus, then we can't simply pick the expert we prefer and either further analysis of the sources is necessary, or we simply cannot make a statement as to consensus on WP because the experts disagree. Note that this is different from finding an expert who merely disagrees about the truth of the underlying statement, rather than an academic consensus about it. This does not disqualify the expert making the claim about consensus, not even if we can produce a hundred sources contradicting the underlying statement. Conversely, the absence of a source contradicting the underlying statement cannot be taken as evidence of a consensus, as that would amount to something even less than counting. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 12:47, 29 September 2012 (UTC)
+
+::::By the way, any evidence as to what Jesus' [[User:Lung salad|favorite salad]] was? [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 14:09, 28 September 2012 (UTC)
+
+:Not to defend the approach of [[User:Nittoditto|Nittoditto]] (nor his claim), but the argument by [[User:History2007|History2007]] (looking at a small, necessarily incomplete list, applying an arguably arbitrary criterion, and then generalizing from those 5 instances to the universe) is not remotely sound. --[[User:Stephan Schulz|Stephan Schulz]] ([[User talk:Stephan Schulz|talk]]) 14:20, 28 September 2012 (UTC)
+
+:: I have made no claim that the list is complete. What I ask is: does anyone else have a larger list? Is there a larger list of PhD level academics who deny existence? My comment ended with that question. If there are 30 academics who deny existence, Wikipedia should mention them on the [[Christ myth theory]] page. Is there a longer list? [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 14:25, 28 September 2012 (UTC)
+
+:::Let's apply the subject matter from the perspective of objective evidence, not from the personal and private beliefs of scholars with PhDs (that doesn't count for much) [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 14:25, 28 September 2012 (UTC)
+::::Sorry, but that is nonsense. To be able to evaluate historical evidence, a significant amount of specialized skill and knowledge is required. A PhD in an appropriate field is neither necessary nor sufficient for that, but it is strongly correlated with the required qualifications. If you don't understand that, it's strong evidence that you suffer from a rather severe case of [[Dunning-Kruger effect]]. --[[User:Stephan Schulz|Stephan Schulz]] ([[User talk:Stephan Schulz|talk]]) 14:33, 28 September 2012 (UTC)
+
+::::In that case, let's start taking the theories of Professor Eisenmann seriously. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 14:36, 28 September 2012 (UTC)
+:::::Eisenman doesn't as far as I know address the existence of a consensus, either among biblical scholars or more generally among scholars of antiquity. Even if Eisenmann is right, that merely means a majority of biblical scholars is wrong about their reconstructions of the HJ (which Eisenmann doesn't deny BTW, he is not a mythicist), not that they are wrong about there being a consensus. There is nothing wrong with stating there is a consensus among biblical scholars if that consensus does exist (and we have sufficient evidence for that), even if you and I were to disagree they are correct. The consensus is a fact, and it is a useful thing to mention in the article. The problem is that the consensus is being alleged for a far wider group of scholars than is warranted by the sources. In the case of Ehrman not because he doesn't make the sweeping claim, he does, but because he is only an expert in one of the subfields in question, which isn't enough. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 13:02, 29 September 2012 (UTC)
+
+{{od}}
+I marked Nittoditto's user page as a sock puppet of indef-blocked [[User:Lung salad]], and he did not even bother to deny it. Just too familiar. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 15:19, 28 September 2012 (UTC)
+
+=== Two-Fold Presentation Perspective ===
+
+Wikipedia articles should be written from the following two-fold perspective: 1) providing current scholarly opinion and scholarly position and, 2) the nature of the evidence pertinent to the relevant subject matter. Thus for this article it can be presented that 99.9% of scholars believe in a historical Jesus Christ, while at the same time presenting there is no evidence for a historical Jesus Christ, providing relevant details (many of which are not found in Wikipedia articles as of today, 28 September 2012. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 12:48, 28 September 2012 (UTC)
+
+:As it happens, the article currently states: &quot;No documents written by Jesus exist,[366] and no specific archaeological remnants are directly attributed to him.&quot; However, it seems that you are aware of the fact that as you said &quot;99.9% of scholars believe in a historical Jesus&quot;. So I agree with that part. And the article states that &quot;few modern scholars now want to overlook the archaeological discoveries that clarify the nature of life in Galilee and Judea during the time of Jesus.&quot; So archeology is a current interest among scholars, but not led them to deny existence. So Wikipedia ''can not hint'' that that issue results in non-exitence since the same applies to many other historical figures. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 13:36, 28 September 2012 (UTC)
+
+::There is no archaeological evidence to support the historical existence of Jesus, so it's a reduntant reference about archeological discoveries that do not offer any proof of existence. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 13:40, 28 September 2012 (UTC)
+
+:::Per [[WP:V]], the two of us can not debate this. What you need is to find [[WP:RS]] sources that state that &quot;the lack of archeological evidence disproves the existence of Jesus&quot;. Once you have found those reliable sources, Wikipedia can include it, not before. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 13:47, 28 September 2012 (UTC)
+:::I think the issue here is that Nittoditto is trying to force the round peg of historical study through the square hole of the scientific method.  The historicity of figures is not determined solely through archaeological evidence.[[User:Farsight001|Farsight001]] ([[User talk:Farsight001|talk]]) 14:24, 28 September 2012 (UTC)
+
+::::This case involves a Magical Religious Figure appearing within the context of Apocalyptic Judaic Eschatology. Not within sober historical chronicle. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 14:31, 28 September 2012 (UTC)
+
+::::I think Nittoditto may well be [[user:Lung salad|an old acquaintance]]... But I can not be bothered to do SPI now... [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 14:28, 28 September 2012 (UTC)
+
+::::You'd have a point, Nittoditto, if anything you just said was even remotely accurate or applicable, but it isn't.  I feel as though you are missing the point at the most fundamental level. [[User:Farsight001|Farsight001]] ([[User talk:Farsight001|talk]]) 14:58, 28 September 2012 (UTC)
+
+:::::The Bible is not a contrived Religious Book built on faith and Jesus Christ was not a Magical Religious Figure. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:03, 28 September 2012 (UTC)
+
+:::::That argument was so familiar, I marked Nittoditto's page as a sockpuppet... I am ready bet on that now. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 15:00, 28 September 2012 (UTC)
+:::::Now you're getting it, Ditto.  True or false, the bible is not &quot;contrived&quot;, nor was it built on faith.  Jesus Christ is not &quot;magical&quot;.  These are nothing but tag lines anti-theists have used for years to get under the skin of and generally piss off believers.  They have no realistic merit and are just plain inaccurate descriptors.[[User:Farsight001|Farsight001]] ([[User talk:Farsight001|talk]]) 15:08, 28 September 2012 (UTC)
+
+::::::Now you are presenting yourself honestly, as you truly are, and what the fabric of this article truly represents. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:10, 28 September 2012 (UTC)
+
+:::::::I have dealt with Nittoditto before. He is a sock puppet of indef-blocked user Lung salad, and has not even denied the puppet placed on his user page. He will come back with a new account in a few days and say the same things again. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 15:12, 28 September 2012 (UTC)
+
+=== Winning the Argument ===
+
+By presenting opinions and theories as facts and by cheating. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:07, 28 September 2012 (UTC)
+:Yes, you are doing those things, but I'd be willing to bet that you and Charlie Sheen are the only ones who actually think that constitutes winning.[[User:Farsight001|Farsight001]] ([[User talk:Farsight001|talk]]) 15:09, 28 September 2012 (UTC)
+
+::This article is built on the platform of religious faith, as are the opinions held by those scholars who thinly design their objectives as &quot;historical arguments&quot;, the definitive study of this subject matter has yet to be presented. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:13, 28 September 2012 (UTC)
+
+:::So the only remaining question is: what is your [[user:Lung salad|next user name]] going to be? [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 15:15, 28 September 2012 (UTC)
+
+:::Yet another dodge. Whenever discussion material evaporates, change the subject matter. Better still, become Matthew Hopkins Witchfinder General. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:18, 28 September 2012 (UTC)
+
+::::Why are you bringing this argument here and not the [[Historicity of Jesus]] where it belongs? [[User:Marauder40|Marauder40]] ([[User talk:Marauder40|talk]]) 15:19, 28 September 2012 (UTC)
+
+::::::&lt;s&gt;He may well bring it to a that page with a new puppet user name there in a few days...&lt;/s&gt; [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 15:23, 28 September 2012 (UTC)
+
+::::::I take that back. It seems that he has [http://en.wikipedia.org/wiki/Special:Contributions/Excogitator69 already been there] and [http://en.wikipedia.org/w/index.php?title=User_talk%3AExcogitator69&amp;diff=514538475&amp;oldid=514527801 was zapped] for it. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 16:40, 28 September 2012 (UTC)
+
+:::::::This is the only strategy available to this person because their argument has evaporated (if they had any argument to begin with). Their only course available to engage in discussions is by obliterating those they discuss with. A Crusade. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:27, 28 September 2012 (UTC)
+
+:::::I replied to the person who introduced the section &quot;No academic still teaching at a major university denies the existence of Jesus&quot; - I did not begin it (if you were addressing me). [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:21, 28 September 2012 (UTC)
+
+::This article is built on the platform of scholarship and research and reliable sources, not faith.  If it were built on faith, it would be devoid of citations, but clearly, it is not.  Furthermore, much of our scholars we cite are irreligious, many of them even atheist, not that their faith is something wikipedia gives a shit about.  No one's faith is a factor in whether or not they are a reliable source for information here.  Nor do they &quot;thinly design&quot; their objectives as historical arguments.  This is their profession, their career - what they do for a living.  It is their job to present historical arguments and they are well respected for their expertise, which is exactly why we use them as sources - they actually have the definitive study of the subject matter.  Many of them helped write it all.  If you don't like this, then you have a problem not with the information presented here, but rather with the way an encyclopedia functions, which, in that case, I can only recommend you leave all your property behind and go live of the land in a forest, otherwise, you will find yourself perpetually pissed off at the way society functions.[[User:Farsight001|Farsight001]] ([[User talk:Farsight001|talk]]) 15:33, 28 September 2012 (UTC)
+
+:::So when these &quot;irreligious&quot; scholars are challenged, why the silence? [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:35, 28 September 2012 (UTC)
+
+::::Look Lung salad, you used to say &quot;all scholars are wafflers&quot;, &quot;scholars do not matter&quot;, &quot;scholars are dismissed&quot;, etc. You have said the same things before, never understood [[WP:V]], and not gotten anywhere on Wikipedia. Take a hint, you will get blocked again if someone bothers to do a SPI. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 15:40, 28 September 2012 (UTC)
+
+:::::Yet another dodge, their argument has certainly evaporated. [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:43, 28 September 2012 (UTC)
+
+:::::::I corresponded with the late [[F F Bruce]] during the 1970s in response to one of his books and he failed to respond to any of my points, I still have his letters [[User:Nittoditto|Nittoditto]] ([[User talk:Nittoditto|talk]]) 15:46, 28 September 2012 (UTC)
+
+::::Because the challenge is without merit.  Because you have no [[WP:RS]] for this challenge, no [[WP:RS]] to support your notion.  So even if the challenge had merit, we couldn't do anything about it.  If reliable sources tell us that the sky is red, we report that the sky is red, despite the fact that we can see clearly that it is blue.  Get it now?[[User:Farsight001|Farsight001]] ([[User talk:Farsight001|talk]]) 15:54, 28 September 2012 (UTC)
+
+:Been away from the Internet for the past three days. A quick review of the past several thousand words generated over that period above leads me to two questions....
+:1. Why do (some?) Christians feel the need to prove the historical existence of Jesus, when the whole thing is a matter of faith?
+:2. How many non-Christian scholars' opinions have been ascertained? [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 16:54, 28 September 2012 (UTC)
+::To the first question, this is not a discussion forum.  We are here to try to improve the article, not muse about why Christians should or should not care about the historicity of Jesus.
+::To the second question, read above.  This has been gone over in detail already.  Furthermore, as already explained, the religious affiliation of the scholars we reference is irrelevant.  It matters only that they are [[WP:RS]].  There is no rule, policy, or guideline that in any way restricts use of a source based on their personal beliefs.[[User:Farsight001|Farsight001]] ([[User talk:Farsight001|talk]]) 16:58, 28 September 2012 (UTC)
+
+:::Yes, there is ''no Wikipolicy'' which prohibits the use of references by Muslim scholars on Islam pages, Buddhist scholars on Buddhism pages, Jewish scholars on Judaism pages, etc. And the other point is that believing the gospel narratives about miracles, etc. may be a matter of faith, but scholars such as [[Paula Fredriksen]] and [[Geza Vermes]] who have renounced Christianity still defend existence. And atheists such as Wells and Dawkins no longer deny it. So supporting existence is not a matter of faith but historical analysis. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 17:15, 28 September 2012 (UTC)
+:::::But what's the point of &quot;proving&quot; it? And &quot;no longer deny&quot; proves nothing. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 17:21, 28 September 2012 (UTC)
+
+::::To Farsight's first response above, I await your condemnation of every other post above from the past three days that expressed an opinion.
+::::To the second, if a claimed reliable source does not consider the thoughts of ALL the world's scholars, Christian or otherwise, it's not too reliable, is it?  [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 17:19, 28 September 2012 (UTC)
+
+{{od}}
+Who said it does not consider the &quot;publications/statements of all scholars&quot;. They say &quot;virtually all scholars&quot;, not &quot;virtually all left handed scholars&quot;. As for the &quot;thoughts of ALL the world's scholars&quot; that is of course impossible to do without access to their private thoughts. They may think the earth is flat in their thoughts but if they do not say that in print, how can anyone know what they think sans hypnotism? But seriously, one can not use the unpublished thoughts of scholars, and the only way is in terms of what they say or write in public, etc. As I said above, if there are 20 academics who deny existence, I would like to know who they are, and the page on [[Christ myth theory]] should include their names. But that is just an informational issue, the main issue is that there are no sources that state &quot;a good number of scholars support non-existence&quot;. We have never seen a source that even ''comes close'' to saying that. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 17:38, 28 September 2012 (UTC)
+
+:LOL. First you make a silly, one-sided demand for names from just one side of the discussion, then you ask for proof of a negative. Philosophically, that cannot be done. Your unthinking bias here is clearly on display. And the expression &quot;''virtually all''&quot; is classic [[WP:WEASEL]] wording. Can you provide a precise definition of the term? [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 17:41, 28 September 2012 (UTC)
+
+::I do not think it is silly to state as a confirmation of the statement that there hardly any scholars who support non-existence. Do you have sources that say there are? If so, please provide your sources. And again, access to the private thoughts of people is just impossible, of course. As for definition of &quot;virtually all&quot; please see [http://www.merriam-webster.com/dictionary/virtually a dictionary], of course, or [http://en.wikipedia.org/wiki/Special:Search?search=%22virtually+all%22&amp;sourceid=Mozilla-search various] cases. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 17:53, 28 September 2012 (UTC)
+
+:::Stop asking for proof of a negative. And please read [[WP:WEASEL]]. &lt;small&gt;(It might also be good if you actually read my posts properly. You're a very hard man to truly discuss things with. Sadly, I typically find that with hard core believers.)&lt;/small&gt; [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 17:54, 28 September 2012 (UTC)
+
+::::I see no reason not to ask for sources. Sources are the bedrock of Wikipedia. I have read the page on weasel, I have done a few edits in the past. That is not a weasel word, as evidenced by the hundreds and hundreds uses on Wikipedia and it does not appear on the weasel page. That is clear. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 17:58, 28 September 2012 (UTC)
+
+:::History2007 did not ask for proof of a negative.  He asked if you have sources that say there are many scholars who support non-existence.  That is a logical positive, not a negative.  Asking for proof that there are no sources would be the logical negative, but that request was not made by him.[[User:Farsight001|Farsight001]] ([[User talk:Farsight001|talk]]) 19:51, 28 September 2012 (UTC)
+::::Yes, you are correct, of course. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:56, 28 September 2012 (UTC)
+
+::::By the way, in the unlikely case that he meant do not ask for &quot;proof that Jesus did not exist&quot; (as proof of the negative) one should comment that those proofs are common, e.g. Galileo's proof that very tall humans never existed because weight goes up by cube and bone strength by square, etc. But that is probably not what he meant. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 20:07, 28 September 2012 (UTC)
+
+:::History2007 asks for many things, some possible, some impossible. It's common for the argument of someone whose position is based on faith rather than rational analysis to leap around like that. Good points in opposition are simply deflected and the subject changed. I have made my rational points here. Keep thinking up new ones for your own irrational position. &lt;small&gt;(Not an insult. Faith is, by definition, irrational.)&lt;/small&gt; I shall part ways for the moment. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 23:02, 28 September 2012 (UTC)
+::::WP:WEASEL is misapplied here.  The sources cited say &quot;the majority of scholars accept the historical existence of Jesus of Nazareth.&quot;  It would be weasel words (and OR) to take a few scholar saying they think Jesus existed and use that to say the majority of scholars believe Jesus existed, but that's not the case here.  If this article is guilty of WP:WEASEL, then so is the [[Evolution]] article for the line &quot;Biologists agree that descent with modification is one of the most reliably established facts in science&quot; (citing only one source, no less).  If RSs say &quot;all/most scholars accept this,&quot; we '''have to''' say that all/most scholars accept this unless a contrary RS is presented.  History2007 did not ask for proof for a negative, he asked for a contrary source.
+::::HiLo48, actually read the article and check out the sources before making honestly rather insulting assertions about other users (you rewrapped Lung Salad's &quot;History2007 is Christian and therefore incapable of reason&quot; attacks in a more polite package, but it's still the same bollocks).  You are the one who has deflected and changed the subject here.  A contrary source is asked for, you say that there's no way to prove a negative.  Contrary sources are differentiated from proof for a negative, and you dismiss an editor and the possibility of rational discussion with them for what almost amounts to an ad hominem attack.  [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 23:23, 28 September 2012 (UTC)
+:::::Stop deflecting the fucking argument!! I was commenting on History2007's use of the words &quot;''virtually all''&quot;. (17:38, 28 September 2012 above.) Now you're telling me I should be commenting on something else, precisely the behaviour I described for History2007. My point is made. Go read some books on logic and consistency.  [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 23:31, 28 September 2012 (UTC)
+{{od}}Wow, you didn't even read my post, did you? (Seeing how you initially had me confused with History2007, I'm pretty sure of it). WP:Weasel no more applies to &quot;virtually all&quot; here than &quot;Biologists agree&quot; does in the Evolution article, because the sources themselves say &quot;all/most scholars think this.&quot; Argument directly confronted and shot down, not deflected. If we are going to change it, we need sources contradicting that wording. Counter-argument presented, which you have ignored. Get over your [[WP:IDHT]] and accept that your argument was wrong. [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 23:41, 28 September 2012 (UTC)
+:I heard, and I know you're wrong. &quot;Virtually all&quot; is [[WP:WEASEL]]. Plain and simple. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 01:04, 29 September 2012 (UTC)
+::Then go over to [[Evolution]], and place weasel word tags next to &quot;Biologists agree...&quot;  It's no different.  [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 01:14, 29 September 2012 (UTC)
+
+::This is getting bizarre. Firstly, as [[User:Ian.thomson|Ian.thomson]] said, the statement on &quot;virtually all&quot; scholars of antiquity is based, almost literally, on a reliable source. Thus, &quot;virtually all&quot; is not a weasel word but a statement explicitly in line with the requirements of [[WP:RS/AC]]. Secondly, History2007 is not asking for proof of any negative - he's asking for proof of the existence of a significant minority of scholars disputing Jesus' existence - such as a reliable source stating, &quot;There is a significant number of scholars who doubt Jesus ever existed.&quot; How is that a negative? Such sources apparently don't exist, and therefore we need not couch our sourced statement about the vast majority accepting Jesus' existence in qualifiers, but that's something else entirely. I could rant on about various other points, but most of them already have been made by History2007, Ian.Thompson and Farsight001. I'll just say that I'm much less sure than History2007 about [[User:Nittoditto|Nittoditto]]'s status as a sockpuppet (I'd expect Lung salad would by now have flown into a rage about Catholic bias and censorship), but that doesn't mean Nittoditto's arguments hold any more water: He correctly pointed out that we should cover the evidence about Jesus' existence, and we already do. So far, so good. But his claims about the &quot;Magical Religious Figure&quot; ignore what the article currently says on existence and are a straw man (unless he holds that being a &quot;Jewish teacher from Galilee in Roman Judaea who was baptized by John the Baptist, and was crucified in Jerusalem on the orders of the Roman Prefect, Pontius Pilate&quot; is the same as being a &quot;Magical Religious Figure&quot;). [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 01:20, 29 September 2012 (UTC)
+
+:::The SPI conclusion was that Lung salad's check is stale, because Lung salad edited too long ago. It does not say if he was or not. But let me note that he did not deny being a puppet. FYI, there were a couple of other clues that he is not aware of upfront that made me recognize him very quickly, but I will not type what they are here, of course.  
+
+:::Regarding the discussion with HiLo on the &quot;virtually all&quot; that is a really peripheral issue, for it does not even discuss the substance of the discussion, namely that in effect, scholars who deny existence can be counted on one hand, with a few fingers to spare. That statement seems to be opposed by ''no source we have ever seen'', and supported in multiple sources. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 05:33, 29 September 2012 (UTC)
+
+{{cot|Short typo discussion, resolved}}
+From the Year of Death section:
+
+Isaac Newton was one of the '''''firs''''' astronomers to estimate the date of the crucifixion [[User:Anaheyla|Anaheyla]] ([[User talk:Anaheyla|talk]]) 23:50, 28 September 2012 (UTC)
+:Fixed it, thank you for pointing it out. [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 23:52, 28 September 2012 (UTC)
+{{cob}}
+
+===Does anyone dispute that there are &quot;less than a handful&quot; of scholars of antiquity who oppose the existence of Jesus?===
+To get back to the point, let us clarify the following issue:
+
+:* Are there ''any sources whatsoever'' that dispute that there are &quot;less than a handful&quot; of scholars of antiquity who oppose the existence of Jesus?
+
+:* Is any editor aware of a list of more than a handful of modern scholars of antiquity who continue to dispute the existence of Jesus?
+::I for one am not aware of more than a handful, if that many, and of those Davies only argues that mythicism should be taken seriously as a possibility. Price goes further, but only a little because while he believes the case for mythicism is stronger than historicy, historicity remains a serious possibility. He is fond of saying things like &quot;who the heck knows though&quot;, treating the matter as unknowable to the degree we might want to know it. 
+::Note that I'm not challenging the ''truth'' of the statement about &quot;scholars of antiquity&quot; here (although I do doubt it), I'm challenging its ''verifiability''. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 12:19, 29 September 2012 (UTC)
+
+:::There may be a confusion here about WP:CON being only an internal policy, as stated above. It is not an external policy, and does not apply to academic statements, as above. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 12:43, 29 September 2012 (UTC)
+::::Fine, I'll go and find the relevant policy page. Note that at long last you have finally started to reply to my substantive arguments. This is the sort of argument I was asking for. Not conceding the point yet, but I'll go and have a look. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 13:29, 29 September 2012 (UTC)
+
+I think that is the central issue, and I have seen no sources that dispute that hardly any Myth theory scholars that dispute existence remain nor have I seen a longer list of Myth theory scholars who deny existence anywhere in the literature, or on Wikipedia. 
+:Agreed, and I wish that was all the article said. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 12:19, 29 September 2012 (UTC)
+::And your source for that would be...? [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 12:43, 29 September 2012 (UTC)
+:::My source for what? [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 13:15, 29 September 2012 (UTC)
+::::For &quot;I wish that was all the article said.&quot; [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 13:21, 29 September 2012 (UTC)
+:::::Huh, don't you mean you want me to address how I think the article says more than that? I don't need a source for expressing a wish.[[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 13:31, 29 September 2012 (UTC)
+
+So please let me ask again: Is there a &quot;source&quot;? Is there a long list? Not that I can see here, or anywhere. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 06:09, 29 September 2012 (UTC)
+
+:Wow, could you put your POV more blatantly on display? Let me first assure you, you can remain a good Christian even if you can't prove that Jesus existed. God just wants you to believe it. So don't be so desperate to prove it. And you're doing it again. You seem to want to go down the path of saying &quot;Because nobody among the handful of editors watching here can show me such a list, no such list exists.&quot; Sorry, such a double negative approach is not a valid way to use reliable sources. If, however, you found a truly impartial, independent, reliable source saying that 98% (or whatever) of objective scholars say that Jesus existed, all would be fine. But you won't find such a source. Impartial and independent would mean not Christian and already biased, as you are. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 06:20, 29 September 2012 (UTC)
+
+::Let me provide a suggestion here: focus on content, not the other editors. Now, I did not employ the type of logic you suggest about the list. Trust me, I used to be a logician. We do have sources that say that virtually all scholars of antiquity support it. 
+
+::The reason I mentioned the list and asked for opposing sources is that if those scholars had been &quot;way off the mark&quot;, someone in the opposing camp would have written: &quot;Ehrman/VanVoorst/etc. are mad, because scholars A, B, C, D ... Q and myself oppose it.&quot; No one in the opposing camp has stated that. So any attempt at suggesting that Ehrman/VanVoorst/etc. are ignorant or biased will hence be set back because such arguments to paint them as ignorant/biased will be seen as &quot;source free&quot; and based on personal opinion. 
+
+::In any debate among scholars, there are ''always'' (I mean always) opposing sides. And the opposing scholars on each side criticize the views of the others. If the assessment of Ehrman/VanVoorst/etc. had been off the mark, there would have been screams among the opposition. Now, there is silence among the tiny opposition. Think of this way if someone writes &quot;virtually all scholars agree that there is no global warming&quot;, would that not create screams among the opposition? Would you not find opposing sources? But just accusing the author of being biased because he may be against global warming has no basis here, in case all pro-warming people have already conceded. That is the case here. 
+
+::And as a side note, interestingly, you did not provide &quot;any sources&quot; to dispute the statement of the overview by Ehrman/VanVoorst/etc. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 08:07, 29 September 2012 (UTC)
+
+:::This everlasting and boring debate continues to continue because of the deliberate blurring of two completely different issues: Issue 1) Was there a 1st century Jew named Jesus/Jeshua/? who preached a semi-Jewish message around Nazareth/Jerusalem and got himself executed by the Romans, vs Issue 2) Was there a 1st century incarnated divinity working miracles around Nazareth/Jerusalem who deliberately sacrificed himself to ransom mankind from death and bring them/us eternal paradise? &quot;Virtually all&quot; scholars who bother to hold an opinion on the first issue seem to support the existence of the Jewish preacher, but a large number of serious scholars actively deny the validity of the second issue. It however seems to comfort some people to erroneously conflate scholarly support for the first issue with support for the second issue. If the article could be allowed to clearly distinguish between the two issues, we could all move on. [[User:Wdford|Wdford]] ([[User talk:Wdford|talk]])
+::: (ec, and apparent partial [[mind meld]]) I think the question is somewhat ill-posed, because &quot;the existence of Jesus&quot; can be interpreted to mean anything from &quot;the existence of a person named Yeoshua (or variants) in palestine around the the beginning of the first millenium&quot; to &quot;the existence of an apocalyptic Jewish preacher baptised by John the Baptist and executed by the Romans&quot; to &quot;the existence of the Son of God, born of a virgin, wandering the Earth (and the waters), turning water into wine (now that's a useful parlour trick!) and the whole shebang&quot;. The first is not seriously disputed by anybody, the second is plausible but likely wrong in some aspects, the third is very very implausible. Either Jesus is a complete literary invention, or there is a historical core onto which later Christian stories have been grafted. Most scholars think there is such a core, but they differ quite a bit about the size of this core. --[[User:Stephan Schulz|Stephan Schulz]] ([[User talk:Stephan Schulz|talk]]) 08:59, 29 September 2012 (UTC)
+
+{{od}}
+I totally agree with Wdford and Stephan Schulz on this. The issue is at times confused by readers who assume &quot;existence of Jesus&quot; means &quot;divinity of Jesus&quot; or the &quot;accuracy of Biblical narratives&quot;. Virtually all scholars agree that a certain person called Jesus/Yeoshua walked the streets of Jerusalem. Do they agree that he was divine? Not at all. Do they even agree that he called any disciples? Not at all: some think he existed but never had disciples. Do they agree that he performed even one miracle (or magic act of illusion)? Not at all. Do they agree that he even said &quot;one of the parables claimed in the Bible&quot;? Not at all. So forget divinity, beyond walking, baptism and crucifixion scholars agree on nothing else. But they do agree on the existence part as a separate issue from divinity as both Wdford and Stephan Schulz explained. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 09:32, 29 September 2012 (UTC)
+
+:As an interesting side note, to confirm the theme of the statements above, various scholars reject the names of the disciples from a ''historical perspective'' and some think there were 12 of them, but that no one knows their names via historical analysis. Some scholars do not agree that there were 12 disciples, etc. but accept the existence of some disciples, etc. Others hold that there were never any disciples. So historicity is a separate issue from biblical interpretation and scholars distinguish the issue of historicity from the discussion of biblical narrative. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 09:49, 29 September 2012 (UTC)
+
+::The article says that all scholars agree he was baptised, crucified, and had disciples. So, History2007 is sort of proving my point. History2007 does raise an interesting point. If the person who actually existed is not what most people mean by the term &quot;Jesus&quot;, is it really fair to say that Jesus existed? Can somebody who wasn't baptised and had no disciples really be said to be Jesus? An interesting topic.... [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 18:51, 29 September 2012 (UTC)
+
+:::Yes, that is an interesting point. If he had no disciples, who was he? But as is the article says that almost all scholars agree on existence, baptism and crucifixion, and that the gospels say he had disciples. The only 3 items agreed on are the walked/baptized/crucified items. As a side issue, it is the Crossan camp that says he had no disciples, but had many followers that changed over time and he never selected 12 apostles and 70 disciples among them. Their &quot;portrait&quot; is of some preacher who imposed no organizational hierarchy but wanted a flat organization. But then I always find Crossan's comment funny: &quot;scholars who write biographies of Jesus, think they are doing biography, but are often doing autobigraphy&quot;. Although the portraits are different, they do have a lot of overlap in many cases. The crucifixion by Pilate part is however, a more certain identifier, given the reign of Pilate, etc. But the real analysis often takes place ''not'' by reading the gospels, but the many intermediate documents. As stated above [[G. A. Wells]] changed his mind after the [[Q source]] issues had been explained in response to his views. So just reading the gospels is not part of the analysis, and different scholars use different reasoning methods to arrive at the conclusion. But I have a feeling that the &quot;identification issue&quot;, although interesting, is beyond the scope of this page and could only be addressed in a long separate article on its own. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:12, 29 September 2012 (UTC)
+
+::::You lot really are having a lovely little love-in right here, aren't you? The only reason I can see for the existence of the last few posts is that some of you feel the need to say to yourselves &quot;''Jesus existed, so it supports my Christianity''&quot;. Guys, you don't need to think that way to be a good Christian, and you don't need to post that love-fest above. Just stick to making this a better article. And forget your beliefs when deciding what's important for Wikipedia. That's probably what irks me the most here, the determination by some here to prove that Jesus existed. It's not actually important. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 01:07, 30 September 2012 (UTC)
+{{od}}
+Take your [[WP:BATTELGROUND]] attitude and bigoted and unfounded accusations of bias elsewhere, you blind fool. Many of the people involved in this discussion are not Christian, and those who actually look at the sources are not siding with you in your crusade. That you assume that everyone not siding with you is a Christian only shows you're too much of a crusading bigot to contribute anything worthwhile. [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 01:17, 30 September 2012 (UTC)
+
+=== Following the example set by other articles, the current phrasing &quot;virtually all&quot; is just fine ===
+
+The evolution article outright says &quot;Biologists agree (evolution is a fact)&quot; without saying which biologists, but &quot;(all competent) biologists.&quot;
+#If someone came into that article and said &quot;not all biologists agree,&quot; we'd ask for a source demonstrating that a notable number of (competent and respected) biologists disagree. - No such source has been provided
+#If someone said that &quot;(all) biologists&quot; is weasel, we'd point out that the source says &quot;all biologists.&quot; - We have 6 sources, and they're not being accepted by a the lunatic fringe who refuses to provide sources for their position.
+#If someone said that the article was being controlled by atheists or agnostics, and that the atheists or agnostics were incapable of a discussion about the bigger picture, we'd dismiss them as a bigot. - And yet, NittoDitto and HiLo48 have not been told to quit attacking other editors.
+#If someone ignored/dismissed the Christians in the discussion, or the Christians cited in the evolution article, to continue to push their previous &quot;point,&quot; they'd be considered tendentious. - Only 2 of the 6 sources cited are by Christians, only half (at most) of those in this discussion ID as Christian.
+#Anyone joining this someone in this behavior would be rebuked. - And yet HiLo48 [[WP:IDHT|continues to miss the point]].
+
+Why is all of this being allowed here?  It shouldn't be, it's the same situation.
+
+HiLo48, you've previously been reasonable in other articles, but you're letting your righteous defense against American conservative fundamentalist POVs turn into a bigoted anti-Christian POV.  Bring in a source demonstrating that a notable number of respectable scholars believe Jesus did not exist, or shut up and leave.  Otherwise, your insistence that History2007 is acting out of POV, especially when a number of non-Christian editors are agreeing with him, is nothing but a bigoted attack.
+
+This discussion did not need to go on this long.  NittoDitto should have been dismissed as a [[WP:FRINGE]] POV-pusher [[WP:SPA]], and [[The pot calling the kettle black|pot-- I mean HiLo48]], should not have let his personal beliefs blind him to the possibility that editors of other beliefs might be capable of properly editing within policies and guidelines.  [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 14:18, 29 September 2012 (UTC)
+
+:Right, but this is not &quot;another article&quot; - some standards may be different here. And what HiLo has said is nowhere as bad as our old friend Lung salad has said in the past and Nittoditto has repeated now. But I would note that both Wdford (who opposes the bible) and Stephan Schulz (who is perhaps the middle ground) have been totally logical on the issues. And the discussion with Martijn Meijering may just be converging now. So all is not lost, and logic may yet prevail. I would shrug off HiLo's comments so we will not have to waste 3 days on WP:ANI - but you are right that he should ease off. What I did learn here that was fascinating was the [[Dunning-Kruger]] diagnosis of Nittodito - I had never heard of that, but it does explain a lot about expert dismissal. So I guess Wikipedia is educational in the end. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 14:34, 29 September 2012 (UTC)
+::I agree that everyone else has been reasonable, and I thank them for it.  I've mentioned whose behavior I found unacceptable. [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 14:38, 29 September 2012 (UTC)
+
+Evolution is treated as fact in more peer-reviewed science journals than you can shake a stick at. As far as I can tell, the existence of Jesus is not treated as fact by any peer-reviewed journal of history at all. It certainly isn't common. The sources here are popular books, and most of them are Christian publishing houses. Bart Ehrman's training is in divinity and Bible colleges, and he is not a professor of history. [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 18:38, 29 September 2012 (UTC)
+
+:It goes back to the question of: &quot;Is Ehrman using his expertise in the subject?&quot; or is &quot;Ehrman using his knowledge of what has been published/stated&quot;. One can debate if Ehrman/ProfessorX, etc. have views which are biased. But the expertise here is knowing the scholars of antiquity and counting. So these are really different issues. And again [[biblical scholar]]ship is not theology, as the Oxford Handbook states on that page, and New Testament scholars do study history etc. So the &quot;fact&quot; discussed here is not the existence of Jesus but a &quot;count of scholars of antiquity&quot;. So the real question is &quot;does Ehrman know how to count up to 5?&quot; [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:03, 29 September 2012 (UTC)
+
+{{od}}
+I should probably make another point here, namely that Ehrman is not the only source stating that and Van Voorst effectively says the same, as do the other sources. Van Voorst's book has received endorsements as the &quot;best on the topic&quot; from ''all sides''. A number of other professors recommend Van Voorst, but I was surprised of the endorsement by [[Richard Carrier]] who is in the opposite camp. On his blog on July 11, 2012 Carrier reviewed the book &quot;Is This Not the Carpenter? The Question of the Historicity of the Figure of Jesus&quot; and criticized the treatment of non-Christian sources by Lester Grabbe in that book. Carrier then said to his readers: &quot;I would recommend you simply buy and use Van Voorst on this subject&quot;. I was impressed that Carrier recommended van Voorst. So his book is really solid, and well accepted within the field. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:44, 29 September 2012 (UTC)
+
+:&quot;Robert E. Van Voorst (born 5 June 1952) is a Professor of New Testament Studies at Western Theological Seminary, in Holland, Michigan, and has published scholarly works in early Christian writings and New Testament Greek. He received his B.A. in Religion from Hope College in Holland, Michigan, his M.Div. from Western Theological Seminary, and his Ph.D. in New Testament from Union Theological Seminary in New York City. He has served at Lycoming College (Methodist)&quot; Eerdmans is a Christian publishing house. Are there any academic, peer-reviewed articles? [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 20:00, 29 September 2012 (UTC)
+
+::Actually [[WP:RS]] does not work that way, specially given that Van Voorst is not expressing his own opinion on the existence of Jesus, but doing a headcount of the other scholars. I think you need to read [[WP:USEBYOTHERS]] regarding Van Voorst. Try [http://www.google.com/search?q=%22Robert+E.+Van+Voorst%22&amp;btnG=Search+Books&amp;tbm=bks&amp;tbo=1#q=Van+Voorst+%22Jesus+outside+the+New+Testament%22&amp;hl=en&amp;tbo=1&amp;tbm=bks&amp;ei=RV9nUMi6Oqv24QTh54DYDw&amp;start=20&amp;sa=N&amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;fp=e9cc29b420e7ec53&amp;biw=1014&amp;bih=600 this anyway], then note that on page 510 of his book Understanding the Bible, Stephen Harris states that Van Voorst's book examines all known ancient noncnonical references to Jesus. On page 162 of his book Michael McClymond relies on it, and calls it the best recent discussion on the topic. And on page 154 of his book, after reviewing the historical issues, Craig L. Blomberg states: &quot;The fullest compilation of all this data is now conveniently accessible in Robert E. Van Voorst, Jesus Outside the New Testament: An Introduction to the Ancient Evidence.&quot; And Eerdmans is an absolutely solid publisher used across Wikipedia as a WP:RS source. I think this is beginning to run into what Ian Thomson called a separate standard now. And again, Van Voorst is ''not'' expressing his own opinion about the existence of Jesus, he is just counting the number of scholars on each side of the debate. Is that clear? His book is acknowledged as the standard reference by atheists and Christians alike.  If there is ''anyone'' who knows all the sources and all the scholars of antiquity on the issue better than the others, it is Van Voorst. So can Van Voorst count up to 5? You tell me... [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 20:56, 29 September 2012 (UTC)
+:::Plus, there's James D. G. Dunn &quot;Paul's understanding of the death of Jesus&quot; in ''Sacrifice and Redemption'' edited by S. W. Sykes (Dec 3, 2007) Cambridge University Press. That's certainly along the lines of academic and peer-reviewed.
+:::Many of the citations are pretty big names, and shooting them down (or even providing good evidence against the historical existence of Jesus) would advance someone's career. There is a gap in history that (so far) can only be filled if there was a Jewish preacher in Roman Judea about two millenia ago named Yeshua. His exact personality or teachings cannot be known, but the following this individual developed, as Alexander the Great and others developed, leaves the existence of this person as equally unquestioned. Looking for an article in a scholarly journal trying to prove or disprove the historical existence Jesus is like looking for an article proving or disproving the existence of Alexander, Siddhartha Gautama, or Socrates. As with evolution, the existence of those individuals are considered known facts, it's just the exact details that we're trying to perfect.
+:::(And if anyone wants to consider that OR, the above is pretty much a summarizing paraphrase of the prologue to [[John Dominic Crossan]]'s &quot;The Historical Jesus.&quot;) [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 21:23, 29 September 2012 (UTC)
+
+:::Do historians even do peer review or have scholarly journals?  I feel like this is along the lines of what I said earlier - people trying to jam the round peg of history through the square hole of scientific inquiry.[[User:Farsight001|Farsight001]] ([[User talk:Farsight001|talk]]) 21:50, 29 September 2012 (UTC)
+::::[[List_of_history_journals|There are plenty of peer-reviewed journals]].  Certain things are accepted a little sooner with history because the level of skepticism required for physical sciences would reduce all historical knowledge before the 20th century to maybe a dozen books.  There's also how cross-disciplinary history is.  It's a field that combines linguistics, geography, textual criticism, anthropology, psychology, sociology, and archaeology; and welcoming enlightenment from architecture, chemistry, weaponry, etc, depending on what you're discussing.
+::::I highly doubt that any of them would have articles trying to prove or disprove the existence of Jesus, anymore than a biology journal would be looking for proof or disproof of evolution these days (it's accepted as fact by the mainstream, it's the details that are being settled). [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 22:06, 29 September 2012 (UTC)
+
+'''POINT OF ORDER''': Is this section contributing anything towards making this a better article? Or is it more about attacking some editors? If it's the former, you'd better change the section title. If it's the latter, just drop it! [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 01:11, 30 September 2012 (UTC)
+:It is addressing some unacceptable behavior in this thread, and has continued discussion for why the current phrasing is acceptable. [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 01:18, 30 September 2012 (UTC)
+::And you accuse me of having a battleground mentality! LOL. What I have is a different view. So change the fucking title of this little chat! [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 01:35, 30 September 2012 (UTC)
+:::What you have are bad-faith accusations of bias made because a couple of editors in the discussion are Christian, [[WP:IDHT|a refusal to listen to opposing views]], and an inability to accept the consensus that many non-Christians have defended. [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 01:47, 30 September 2012 (UTC)
+::::Would you like me to change the title? [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 02:01, 30 September 2012 (UTC)
+
+===[[WP:RSN]] assessment of the sources===
+In order to obtain an independent assessment of the sources and the statement in question, I made a request for an independent analysis on [[WP:RSN]]. I listed the 7 sources and pointed to the discussion on this page.
+
+An assessment was provided by [[user:DGG]] - who is an extremely experienced Wikipedian with about 100k edits, an admin and a librarian by profession. His assessment was that these are a wide range of sources that confirm the consensus and therefore &quot;the accumulation of them is reasonable evidence to that effect&quot;. He also said that &quot;The attempts to say that this is not the scholarly consensus are grasping at straws.&quot;
+
+I could not have said it better. So I think it is time to stop grasping at straws. That is the scholarly consensus confirmed by a wide range of sources, we should end this extremely long discussion and move on. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 04:21, 30 September 2012 (UTC)
+:As an outsider to this debate, I agree with the above and certainly with DGG's reading. A lot of time has been wasted on a pretty clear-cut issue and it is indeed time to move on. [[User:Eusebeus|Eusebeus]] ([[User talk:Eusebeus|talk]]) 19:14, 30 September 2012 (UTC)
+::Let me note that my sincere concerns have not been addressed, and I'm very disappointed with the rhetoric coming from various sides. Neither have people explained their reasons for objecting to my proposed changes in wording. Had they done so, we could have had a constructive discussion. Instead I have been falsely accused of doubting the academic credentials of the various sources, when I have repeatedly explained that is not what I'm doing. It's sad that people can't let go of their personal biases and insist on pushing a point of view instead of neutrally reporting on views held by notable sources. For now I'll simply give up on this page, as I cared more about the general principle anyway. I do not concede the sources are not flawed for the statement they are intended support as opposed to a more limited statement, and reserve the right to take a stand on other pages where the discussion may generate more light and less heat. Some of you, you know who you are, ought to be ashamed of yourselves. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 21:25, 2 October 2012 (UTC)
+
+:::I object to your proposed changes in wording because their only effect to me seems to be to cast doubt on a statement that's universally accepted and backed up with multiple reliable sources. We have repeatedly explained that Van Voorst and Ehrman are reliable sources not just for a &quot;more limited&quot; statement about biblical scholars only but for the wider scholarly community. Your position seems rather inconsistent to me. If you claim that Ehrman doesn't know what he's talking about when he speaks of the consensus among the scholars of antiquity (a claim that was rejected by multiple other editors including [[User:DGG|DGG]] at RSN), you cannot use that statement you just declared unreliable as a source for what Ehrman in your opinion should have said but didn't. [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 21:49, 2 October 2012 (UTC)
+::::How would the wording I proposed cast doubt on the historicity of Jesus? I don't think it would and agree it shouldn't. As for you &quot;explaining&quot; something, I'd say you merely asserted it forcefully. As for conformance, all the quoted sources use their own radically different wording and I see no reason to prefer Ehrman's formulation to that of the other sources. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 22:09, 2 October 2012 (UTC)
+:::::All of this has been said back and forth &quot;man many times&quot; just above, and is really repetitive now. In Wikipedia discussions not all parties reach 100% agreement, so you may yet object, but that is the nature of debate, even after it has reached a natural end. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:11, 2 October 2012 (UTC)
+::::::I wouldn't expect unanimity, nor should we require it. I would like to see people make a sincere effort to answer my questions however. If that happened above I certainly couldn't find it. I'd really like an answer since I'm making a sincere effort and have stated my concerns and asked about other people's concerns. It seems to me you are ducking the questions. I'd be happy to be mistaken about that. Specifically, I'd like to know how my proposed wording could cast doubt on the historicity of Jesus, having agreed it shouldn't. [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 22:17, 2 October 2012 (UTC)
+
+:::::::I am sorry Martijn Meijering, but myself and other editors have answered that so many times in so many ways that we are running over [[WP:IDIDNTHEARTHAT]] here, with you still objecting after all of this. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:20, 2 October 2012 (UTC)
+::::::::Humour me. How could anyone take &quot;Virtually all biblical scholars agree that Jesus existed&quot; as casting doubt on the historicity of Jesus? Add historical-critical if you prefer. Or else, how about &quot;Very few scholars disagree Jesus existed&quot;? Or how about choosing Grant's formulation instead of Ehrman's? [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 22:28, 2 October 2012 (UTC)
+:::::::::Again, please read the discussion we had about the largest lake in Europe vs the largest lake in Eastern Europe. This is really repetitive now. We discussed that above. So I will not respond to this point again. Thanks. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:33, 2 October 2012 (UTC)
+{{od}}
+{{ec}}Erhman, Price, Grant, and Burridge just say &quot;scholars,&quot; Van Voorst says both &quot;biblical scholars&quot; ''and'' &quot;classical historians.&quot; It isn't simply Biblical scholars, it's a variety of scholars who handle things relating to antiquity, hence &quot;scholars of antiquity.&quot; Focusing purely on biblical scholars would be undue weight and would be downplaying how widespread the acceptance is in the academia.  That is not a dodge, that is presenting a reason to leave it as scholars of antiquity (sources just saying &quot;scholars&quot;, [[WP:DUE]]) and a reason not to go with &quot;biblical scholars&quot; ([[WP:UNDUE]]). [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 22:38, 2 October 2012 (UTC)
+:I agree with Ian Thomson, as discussed above largest lake in Europe is not the same as largest lake in Eastern Europe. But we have all said this to Martijn Meijering a few times now. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:40, 2 October 2012 (UTC)
+
+:OK, fair enough about what the sources say, so what about using just &quot;scholars&quot;, or Grant's formulation or just &quot;Very few scholars disagree Jesus existed&quot;? As for downplaying, that is indeed the crux of the matter. If a wide variety of scholars have indeed studied the issue, then we must not suggest it has mostly been historical-critical biblical scholars or even just fail to mention the others. Similarly, we must not state or suggest that there have been many scholars outside historical-critical bible scholarship who have asserted historicity if that isn't in fact the case. And I believe that in fact there haven't been many. Grant, Akenson and Wells come to mind, but very few others. I'd love to hear if there are more, do you think there are many? Can we at least agree that we must not overstate the consensus either, even if we disagree that it does? And can we agree that my concern about overstating is just as valid as your concern about downplaying? [[User:Mmeijeri|Martijn Meijering]] ([[User talk:Mmeijeri|talk]]) 22:47, 2 October 2012 (UTC)
+
+::I think Huon explained the problems to you just above here. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:50, 2 October 2012 (UTC)
+
+:::[[User:Mmeijeri|Martijn Meijering]], reducing &quot;scholars of antiquity&quot; to &quot;biblical scholars&quot; in the sentence you cite above in deviation from the sources, not one of which draws the circle of supportes of historicity as narrowly as you want to, doesn't directly cast doubt on the historicity itself, but on the scholarly consensus about historicity. That's in the same vein as your other suggestion, attributing that statement about the consensus to Ehrman although roughly a half-dozen others agree with him  and no one disagrees that the consensus among all scholars is that Jesus existed. There's simply no need to couch our coverage on the consensus in such qualifiers unless we want to give the impression that the consensus is less widespread than our reliable (yes, reliable even for that statement!) sources say it is. We might arguably just use &quot;scholars&quot; instead, but I've yet to see any rationale for why we should do so except (rejected) claims that Ehrman doesn't know what he's talking about. In my opinion, &quot;scholars of antiquity&quot; is unambiguous, sounds good and is supported by a source using that exact phrase, so we should use it too.
+:::Now you might be right that comparatively few scholars other than the biblical ones have published on Jesus' existence; I don't know (and you haven't provided a source). But so what? Van Voorst explicitly includes classical historians in the consensus and Ehrman speaks of all &quot;scholars of antiquity&quot;. Even if the community of historians who care about Jesus' existence may be small, the consensus among them is still that he existed. We simply cannot overstate the consensus as long as what we say is based on reliable sources, with no opposition in other reliable sources. And once again I cannot see any point in discussing the relative sizes of the different groups that all agree Jesus existed unless the purpose is to imply that most of them are &quot;just&quot; biblical scholars and don't really count, which leaves only a comparatively small remainder - thus turning &quot;virtually all scholars of antiquity agree&quot; into &quot;it's just a few individuals&quot; - a case of non-neutral [[WP:SYN|synthesis]] or even unsourced personal opinion if ever I saw one. If all biblical scholars tomorrow spontaneously combusted, the consensus among the remaining scholars would ''still'' be that Jesus existed - it would just become a consensus among a smaller group.
+:::This rant is about as thorough an explanation as I think I can manage. [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 01:09, 3 October 2012 (UTC)
+
+::::I think Martijn Meijering is obviously running over [[WP:IDIDNTHEARTHAT]] here, repeatedly saying the same things, repeatedly getting explanations from multiple users and then saying similar same things again and again. This needs to end per [[WP:IDIDNTHEARTHAT]] before we all die of old age. If this is not [[WP:IDIDNTHEARTHAT]], then what is. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 01:47, 3 October 2012 (UTC)
+
+As a separate side note user:Nittoditto turned out to be Lung salad after all, and was also indef-blocked. so we should really move on now. I guess as an outsider with no previous involvement, you can even close this, so we can move on. Thanks. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:46, 30 September 2012 (UTC)
+
+We definitely cannot move on, as you haven't answered the basic objection. The majority of &quot;neutral&quot; experts cited in this article are not neutral. The majority are Christians. There is no peer-reviewed  source at all, that I can see. Can we get this article to the point where 50% of the sources didn't get their degrees from seminaries and Bible colleges? [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 17:12, 27 October 2012 (UTC)
+:: Why do you assume that a degree from somewhere other than a seminary or Bible college is more valid? This would be like saying &quot;Can we get it to the where this article isn't 50% sourced by people from MIT or Berkeley&quot; for an article about engineering.[[User:ReformedArsenal|ReformedArsenal]] ([[User talk:ReformedArsenal|talk]]) 18:43, 27 October 2012 (UTC)
+:::Actually there is ''no policy'' in Wikipedia that members of a religious group can not be used as sources for articles on that religion. So Buddhists can be used as sources about Buddhism, Jews about Judaism, etc. That issue has been separately mentioned on WP:RSN on a number of occasions, even unrelated to this. So books published by the [[Hebrew University of Jerusalem]] are fine for Judaism articles, because that is a good, highly respected university. Books by [[iUniverse]] are not OK anywhere, however. So the demand by Humanpublic is not based on any Wikipedia policy. And again, the scholars in question are ''not'' (repeat not) expressing opinions on the subject beyond counting. All they are doing is an exercise in arithmetic, and as discussed above there are no sources that oppose the statements anyway. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:47, 27 October 2012 (UTC)
+
+:I don't think books are usually peer-reviewed like journal articles, but that doesn't make them unreliable. The publishers for those sources, including Eerdmans, HarperCollins, Cambridge University Press and Oxford University Press, tend to be among the most reputable we could hope for. InterVarsity Press is probably among those most prone to pro-Christian bias, but ironically they published mythicist Price's book which does acknowledge the consensus on existence while arguing against it. Regarding the Christian majority: Do we even know that many non-Christians who have voiced opinions on the scholarly consensus? Feldman may have said something about the subject, but I don't know where he did (if he did). And Ehrman, Grant, Dunn, Burridge and Stanton all held professorships at universities that can hardly be called &quot;seminaries and Bible colleges&quot; - at the University of North Carolina at Chapel Hill, Belfast, Durham, King's College London and Cambridge, respectively. Of those five, only Ehrman has his degrees from a theological seminary, and he changed his religious position afterwards. That's quite a number right there. [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 18:07, 27 October 2012 (UTC)
+
+:I didn't say Christians can't be used as sources. I said they aren't neutral. Obviously, Christians aren't neutral about Jesus. People from MIT and Berkley don't believe in any engineering solution like Christians believe in Jeses, so that analogy is moot. [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 17:48, 3 November 2012 (UTC)
+ 
+:: It is not moot. Please take a look at [[Saltwater and freshwater economics]]. As you can see there there are scholars (some with Nobel prizes in hand) from Stanford and MIT who argue against scholars from Chicago and Carnegie Mellon (also with Nobel prizes in hand). In that case you have scholars from major universities opposing each other. Here there are hardly any well known scholars in opposition. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 02:43, 4 November 2012 (UTC)
+
+:::You don't seem to be listening to what I am saying. 1) Being from Stanford or Chicago is not (jokes aside) having a religious belief. Christians are inherently biased about Jesus Christ's existence. Economists are not so biased about economic models (jokes aside). 2) As for the rest of you analogy, I accept it. This is like economists from one school advanced one theory, few other economists said anything about the theory one way or the other, and a Wikipedia article asserted &quot;virtually all scholars agree.&quot; Then, in response to objections, editors such as yourself would point out no scholars disagree. Please stop it. [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 20:10, 5 November 2012 (UTC)
+
+::::We do not agree. You just do not know people from [[Chicago school of economics]]. For them macroeconomics ''is'' a religion. Macroeconomic debates can be hotter than religious debates, and accusations of bias can be pretty strong there. But I will say no more this issue, per your stop request. We are not going to agree. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 20:37, 5 November 2012 (UTC)
+
+::::I meant stop misconstruing and dodging the point. An economist believing a certain economic model is not like Christians worhsipping Jesus (jokes about economists aside). A consensus that is mostly Christian should not be represented as &quot;all scholars agree&quot;, regardless of whether you can find large numbers of scholars who disagree. [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 21:01, 5 November 2012 (UTC)
+:::::Christians are biased as to beliefs about whether Jesus was God -- the existence of a Galilean preacher named Jesus are not so controversial, [[Docetism|and historically wasn't accepted by all Christians]].  To correct your twist on the economist analogy, it isn't one school of economics pushing an idea, other schools not commenting on it, and opposing schools being ignored, it is one school taking an extreme view on an idea most other schools accept less extreme views of as fact, with only a few ''real'' economists questioning the validity of the idea (and some preachers with degrees in cow-fucking arguing the idea is irredeemably Objectivist, many going on to argue that it's all an Illuminati plot).  For the Wikipedia article on the idea, we would cite the majority of the schools' agreeance on the validity of idea (clarifying that only that one extreme school thinks the idea cures cancer), give some small mention to any notable nay-sayers, and treat the preachers as fringe theorists.
+:::::The absence of evidence is usually accepted as the evidence of absence.  Without evidence to the contrary, &quot;virtually all scholars&quot; stands.  [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 21:24, 5 November 2012 (UTC)
+
+::::::Furthermore, Ehrman, our source for &quot;virtually all scholars&quot;, is not himself a believer in Jesus (as opposed to believeing Jesus existed). And we have sources explicitly saying the cosensus holds among non-Christian scholars, too. [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 21:36, 5 November 2012 (UTC)
+
+::::::If all other schools of thought agreed, it would simple to find academic, peer-reviewed, non-Christian factual references to the existence of Jesus. One would expect them to be plentiful. One would expect them to be used as sources here in proportion to their prevalence in the world. In fact, none have been given at all.  The point that an absence of evidence is evidence of absence is accepted: there is an absence of evidence that professors of history in non-religious universities, with non-religious training, believe it is a fact that Jesus existed. The evidence of that absence is that nobody can find any. Ya'll keep claiming &quot;virtually all scholars&quot; regardless of background, but you exclusively cite either popular books, professors with a religious background, or non-historians. Please find academic work by historians not in Christian publishing houses, to substantiate the &quot;an idea most other schools accept&quot; claim. [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 18:37, 10 November 2012 (UTC)
+
+:::::::No, you are not reading the discussion above, [[WP:HEAR|just repeating the same thing]]. There are non-Christian sources here, and they are WP:RS, and follow policy. And multiple editors have told you this again and again and again - but [[WP:HEAR|you do not seem to be listening anyway]]. If there had been a major opposing camp among scholars, they would have written something objecting to that statement - none has done so as far as anyone can tell. As stated before and also on WP:RSN, if someone wrote  &quot;virtually all scholars agree that there is no global warming&quot;, it would have resulted in ''screams'' among the opposition. The opposing scholars (not that many anyway) are silent here, for they have already conceded that issue, and there are so very few of them anyway, as discussed repeatedly on this talk page. I am sorry, but this discussion is beginning to sound like a broken record player. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:01, 10 November 2012 (UTC)
+
+::::::::You're being tendentious. There are no peer-reviewed, non-religious sources here at all. I didn't say there is a &quot;major opposing camp.&quot; The refutation of &quot;all scholars agree&quot; is not merely  &quot;many scholars oppose.&quot; It is that not all scholars agree. It is what I said a week ago: ''This is like economists from one school advanced one theory, few other economists said anything about the theory one way or the other, and a Wikipedia article asserted &quot;virtually all scholars agree.'' Then, in response to objections, editors such as yourself would point out no scholars disagree.&quot; How many times does this have to be said? The concern is not based on historians objecting. It is that most historians seem to say nothing about it. 
+::::::::Allow me to anticipate how you will distort this. You will say something like &quot;Wikipedia doesn't require peer-reviewed, non-religious sources.&quot; I'm not saying that is policy. If you claim &quot;virtually all scholars agree&quot; you should be able to cite an abundance of peer-reviewed, non-religious sources. You've offered none.
+::::::::Yes, it sound like a broken record, because you continually distort what is said. The refutation of &quot;all scholars agree&quot; is not merely  &quot;many scholars oppose.&quot; If I express no opinion, you are not entitled to say I agree. [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 19:21, 10 November 2012 (UTC)
+
+:::::::::You are going to have to talk to yourself, I will not even respond to this. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:27, 10 November 2012 (UTC)
+::::::::::Indeed. Apparently it is civil for you to say I &quot;sound like a broken record player&quot; but not for me to say the same of you. Can ''anyone'' cite 5 peer-reviewed, non-Christian factual references to the historical existence of Jesus? [[User:Humanpublic|Humanpublic]] ([[User talk:Humanpublic|talk]]) 20:33, 10 November 2012 (UTC)
+
+== Depiction of the Image of God controversial ==
+
+As previously discussed [[Talk:Jesus/Archive_118#Image%20of%20Christ| here]], and presently established on the depiction page alluded to, depiction of the Messiah is controversial and this should be reflected in the first caption. [[User:Cpsoper|Cpsoper]] ([[User talk:Cpsoper|talk]])
+
+:Yes it was previously discussed, but that was a while ago. In any case, either a caption properly describing the issue should be used, or it should be left out altogether. Incidentally, depiction of the &quot;image of God&quot; and depiction of Jesus are not the same issue. Since Jesus was by definition a real person with human features, his status as a Person of God in Christian theology does not affect the fact that he had a physical form. There has not been controversy &quot;ab initio&quot;. I know of no evidence of very early controversy over images (which are moderately common). Iconoclasm was not an issue until later on. [[User:Paul Barlow|Paul B]] ([[User talk:Paul Barlow|talk]]) 17:41, 24 October 2012 (UTC)
+
+::I agree with Paul. And in the previous discussion, I see no agreement that has been alluded to here, given that it was about Cpsoper's own website, etc. I think his general philosophy is a special form of iconoclasm which is overshadowing this. He probably feels that Jesus should not be depicted. As for the depictions page, I looked at that and it was just Cpsoper and Johnbod discussing in one round and no agreement. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 18:30, 24 October 2012 (UTC)
+
+:::I too agree with Paul. The current mention of iconoclasm in the &quot;depictions&quot; section seems sufficient; if we need to cover controversy about depictions of Jesus in greater detail, we should do it there and not in an image caption (I don't see that need, though). [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 19:01, 24 October 2012 (UTC)
+
+::::I'm Spartacus! Sorry, I mean, I'm not sure any such controversy, since Jesus showed up in graffiti during the Roman era, IIRC. I notice that the &quot;highly controversial&quot; bit in the [[Depiction of Jesus]] article [http://en.wikipedia.org/w/index.php?title=Depiction_of_Jesus&amp;diff=511532890&amp;oldid=506750918 was also added by Cpsoper], using what really amounts to original research. [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 19:07, 24 October 2012 (UTC)
+:::::I do not know why John did not edit that out from the depictions page. That article is just ''loaded'' with Catacomb images that show otherwise. I no longer watch that page, but it is deteriorating... [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 20:17, 24 October 2012 (UTC)
+
+It is understatement to describe images of Christ as controversial, however the word 'highly' appears only in talk. They were regarded as offensive and disobedient by Irenaeus, Lactantius, Augustine wrote against them, and the early catacomb images are confined to symbolic representation. Is this position OR ? - read the comment by Philip Schaff in the same article (ref 1), consider again the text of the [[Synod_of_Elvira]] or read Calvin's extensive comments in the Institutes on images of Christ, many others in the reformed tradition, or others in preceding phases of history, long before violent iconoclasm, which are much more plain spoken than many 'secondary' sources.
+These writers and other early church teachers and writers regarded all images and icons with the potential as objects of worship as idols, as much a violation of the second commandment [sic], as the golden calf. Idolatry was treated as an extremely grave offence in the early church as bans on church memebership for silversmiths and other allied professions indicates, Meletius was banned as Bishop in 306 for idolatry first of all. Increasing syncretism with pagan Rome brought the change, as the later [[Tomb_of_the_Julii]] illustrates. It therefore seems highly appropriate to acknowledge this adverse sentiment in a brief caption in the first image, and make a link to the article on depiction, where the matter is examined more fully. [[User:Cpsoper|Cpsoper]] ([[User talk:Cpsoper|talk]]) 21:19, 24 October 2012 (UTC)
+
+:The issue of &quot;ancient Christian qualms&quot; about depiction of Jesus is a small issue among Christians, and is totally peripheral to this article, as a few people above have indicated. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 21:29, 24 October 2012 (UTC)
+
+'Qualms' is an inappropriate characterisation of the identification of the practice with idolatry by the many early Christians who commented on the subject before Constantine. Eusebius the historian reproved Constantine's sister for requesting such an image. Some like Epiphanius, bishop of Salamis, took specific action against such an image, in approximately the late 4th century.  Nor is this identification confined to the past. Many reformed churches hold precisely the same convictions today, in accordance with the Westminster Larger Catechism, which reads 'Question 109: What are the sins forbidden in the second commandment?
+
+Answer: The sins forbidden in the second commandment are, all devising, counseling, commanding, using, and anywise approving, any religious worship not instituted by God himself; tolerating a false religion; the making any representation of God, of all or of any of the three persons, either inwardly in our mind, or outwardly in any kind of image or likeness of any creature'. [[John Calvin]], Turretin, Spurgeon, Robert Dabney, John Murray and a vast host of other reformed commentators specifically rejected images of Christ on these grounds.
+
+I reiterate, purported images of the Messiah are inauthentic, offensive to many Christians and controversial, and this controversy ought properly to be reflected here also, and a brief reference to the appropriate page in the first caption is apposite. [[User:Cpsoper|Cpsoper]] ([[User talk:Cpsoper|talk]]) 20:06, 27 October 2012 (UTC)
+
+:I disagree. For most of its history most of Christianity was OK with depictions of Jesus - and I'd expect both &quot;most&quot; denote a vast supermajority. And even if the depiction controversy were significant enough to warrant expanded coverage, the caption of the infobox image would still not be a good place to raise such issues. Take for comparison our [[Muhammad]] article: It doesn't mention image controversies in the image captions. [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 20:43, 27 October 2012 (UTC)
+
+::From the point of view of this encyclopaedia, what Christians think about images of Jesus should have no impact on what we do with them here. They are a major aspect of the history of Christianity, and it's perfectly valid, probably actually essential, that we include some here to show how what kinds of images have been created and used as part of that religion over two thousand years. It would be very POV to leave them out. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 23:26, 27 October 2012 (UTC)
+
+HiLo and Huon, these are not images of any historical figure - they are a mere fiction - references if you think otherwise please - what do they have to do with Jesus, other than partial Christian profession? If their origin is based on profession, why retain a POV position, whilst withholding a reference to widely held dissent, as described above, both early and late in the churches, because it's POV?  These images are controversial and this ought to be noted here. I'd welcome an alternative suggestion for a better place for a link to the depiction page, as previously [[Talk:Jesus/Archive_118#Image_of_Christ| suggested]], if not in the picture caption, but a brief link there still seems proper to me.[[User:Cpsoper|Cpsoper]] ([[User talk:Cpsoper|talk]]) 00:13, 31 October 2012 (UTC)
+
+:You mean, a better place for a link to the depiction page than the {{tl|main}} link in the [[Jesus#Depictions|depictions]] section? I can't think of a better place. As an aside, we routinely have images that don't really show the historical person in articles on historical persons - try [[Muhammad]] or [[Genghis Khan]], for example. We also have images of non-historical persons - try [[Moses]] or [[Robin Hood]]. All that is pretty much standard. [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 01:20, 31 October 2012 (UTC)
+
+:Let us face the facts: For some religious reasons Cpsoper prefers iconoclasm because said reasons imply to him that the depiction of Christ is somehow &quot;forbidden&quot;. The rest is sentence combinations. But his personal preferences of iconoclasm went out with the 17th century and can not affect this article. That is the long and short of it, and the reason he is not on the Robin Hood page objecting to that image. Come to think of it, how do we know Robin was right handed? That image must be removed, for it shows Robin as a right handed using his bow and arrow. So let us do that first for it is infringing on the rights of Robin and robbing him of the opportunity to be portrayed accurately. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 02:01, 31 October 2012 (UTC)
+
+*I have added a bit in the depictions article, with a link to [[Aniconism in Christianity]], the article that covers this, &amp; has some of the Rev. Soper's earlier contributions, somewhat modified. The new stuff should go there too. He is right to say that there is evidence of aniconism in very Early Christianity, though the very few early quotations dealing with images, either pro or anti, are mostly those surviving from the incomplete records of Byzantine councils during their controversy, brought out again in the 16th century. It wasn't a big issue, from the paucity of comments by the Church Fathers. The Westminster stuff can be used there.  [[User:Johnbod|Johnbod]] ([[User talk:Johnbod|talk]]) 02:49, 31 October 2012 (UTC)
+
+A hasty ordination, Johnbod! I have some reservations about this stub page, listed on the talk there, but I appreciate the work put into this, and it's a reasonable compromise, and I accept there's no desire to clog up this page with the matter. I have linked to the depictions section (of this page) under the first image, since the section is found a long way down the page.[[User:Cpsoper|Cpsoper]] ([[User talk:Cpsoper|talk]]) 12:54, 31 October 2012 (UTC)
+
+:Ok. It's much too long to be a stub, so I have promoted it to start. It probably needs to linked to from more places. [[User:Johnbod|Johnbod]] ([[User talk:Johnbod|talk]]) 17:17, 31 October 2012 (UTC)
+
+== Clarify the existence debate ==
+
+In order to clarify the scholarly debate over Jesus' existence, I propose that the 2nd para of the Lead be modified as follows: 
+::''Virtually all scholars of antiquity agree that [[Historicity of Jesus|Jesus existed]], but not everything contained in the gospels is considered to be historically reliable.&lt;ref&gt;Craig Evans, &quot;Life-of-Jesus Research and the Eclipse of Mythology,&quot; Theological Studies 54 (1993) p. 5,&lt;/ref&gt;&lt;ref name=&quot;Charles H. Talbert pg 42&quot;&gt;Charles H. Talbert, What Is a Gospel? The Genre of Canonical Gospels pg 42 (Philadelphia: Fortress Press, 1977).&lt;/ref&gt;&lt;ref name=&quot;Jesus 1995&quot;&gt;“The Historical Figure of Jesus,&quot; Sanders, E.P., Penguin Books: London, 1995, p., 3.&lt;/ref&gt;  Most scholars hold that Jesus was a [[Jewish]] teacher from [[Galilee]] in [[Judaea (Roman province)|Roman Judaea]], [[Baptism of Jesus|was baptized]] by [[John the Baptist]], and [[Crucifixion of Jesus|was crucified]] in [[Jerusalem]] on the orders of the [[Roman governor|Roman Prefect]], [[Pontius Pilate]].''
+[[User:Wdford|Wdford]] ([[User talk:Wdford|talk]]) 22:19, 1 November 2012 (UTC)
+
+:Good idea, but the 2nd part needs separate sources, and should also discuss the no divinity issue. The historicty of Jesus article says: &quot;The existence of Jesus as a historical figure is distinct from the discussion of the historical validity of the narrative of the Christian gospels and their theological assertions of his divinity.&quot; and is sourced for that. So we could work that in here as a separate sentence, given that the divinity issue is even more contentious than did he argue in the Temple issue, etc. That may in fact cut back on future questions/comments. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:27, 1 November 2012 (UTC)
+
+::1. I'm still not convinced that we have addressed the issue of who these agreeable scholars are. Saying &quot;Virtually all scholars...&quot; is effectively meaningless if virtually all scholars who study this topic are Christian believers to start with. And I still suspect that to be the case.  
+::2. Why is this so important that it has to be in the 2nd para of the lead? It's irrelevant to Christians, because they will believe no matter what the &quot;scholars&quot; say. And it's not important to non-Christians becasue he wasn't otherwise a major historical figure. The content could be buried in the article somewhere, with a qualifier about who those scholars are, but it doesn't need to be in the lead. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 22:39, 1 November 2012 (UTC)
+
+:::RE: 1. The sourcing issue was discussed above, so it is part of that thread really.
+:::RE: 2. If you say he was a Jewish teacher, then you are already implying existence, but vaguely so. And really, an article about &quot;any person&quot; must address if the person existed at all upfront. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 00:03, 2 November 2012 (UTC)
+:::''And it's not important to non-Christians becasue he wasn't otherwise a major historical figure.''' This is like saying that Mohammed or the Buddha or Lao-Tze are not important historical figures. Apart from the aqueducts, what have the Romans ever done? Jesus is an important historical figue because he founded a major religion. One doesn't have to be a Christian to accept the truth of that statement. If Jesus didn't found Christianity, who did? Some hitherto unknown figure later called Jesus? Christ, we don't need a birth certificate to accept that a person two thousand years ago lived and died. --[[User:Skyring|Pete]] ([[User talk:Skyring|talk]]) 09:10, 2 November 2012 (UTC)
+::::Please note my use of the word &quot;''otherwise''&quot;. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 18:50, 2 November 2012 (UTC)
+
+:::::Actually, regardless of how one judges them, the [[Crusades]] showed that Christianity was not just a mountain top prayer event. So there were major events that ensued from the formation of the Christian church, regardless of how one views the merits of the events. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:12, 2 November 2012 (UTC)
+:&quot;is effectively meaningless if virtually all scholars who study this topic are Christian believers to start with. And I still suspect that to be the case.&quot; - I suspect you don't know what you're talking about. There are TONS of scholars who study Christian history and biblical texts who are not Christians.[[User:ReformedArsenal|ReformedArsenal]] ([[User talk:ReformedArsenal|talk]]) 20:47, 2 November 2012 (UTC)
+::Agree with Reformed. There are actually many more scholars of Christian/Biblical History who are not believers. Its either hyperbole or a strawman to say otherwise. [[User:Ckruschke|Ckruschke]] ([[User talk:Ckruschke|talk]]) 21:26, 2 November 2012 (UTC)Ckruschke
+
+::::Actually not just those, but some of the top scholars such as [[Paula Fredriksen]] and [[Geza Vermes]] used to be Christians, but have since switched to other religions, Ehrman has dropped belief in God altogether, Price is an atheist, etc. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:05, 2 November 2012 (UTC)
+:::We have each produced the same amount of evidence to support our views. My view still stands. Because that's all it is, a view. We are not here to debate whether Jesus existed. We are here to discuss what would be best in the lead of this article. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 21:34, 2 November 2012 (UTC)
+::::Yes, per policy, this can not a debate about the facts. But as stated before there is no Wikipedia policy that allows the religion of a scholar to be used to exclude them as a source on that topic. So Buddhists scholars can be used as sources about Buddhism and Jewish scholars about Judaism, etc. But in any case, as stated before, there is a wide range of sources here and ''not a single source'' that says otherwise. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:05, 2 November 2012 (UTC)
+:::::So, we now have one editor saying &quot;Look, two of them aren't Christian any more&quot;, and another saying &quot;Yes, they're all Christian, but it doesn't matter.&quot; I think it matters. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 22:14, 2 November 2012 (UTC)
+::::::I did not say they are all Christian, but I do say that there a number of sources and the issue they are addressing is &quot;arithmetic&quot; - counting the number of people on each side of the debate. So the fact that some or all may be Christian is a moot point here anyway, given Wikipedia policies, the sources presented and the lack of a single opposing source. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 22:18, 2 November 2012 (UTC)
+:::::::What you call arithmetic, I call [[WP:SYNTHESIS|synthesis]], but my points go together. Why does this less than critical, imperfectly sourced claim need to be the second paragraph of the lead? [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 01:55, 3 November 2012 (UTC)
+{{od}}
+I am sorry, but an item with multiple sources by well established scholars is not [[WP:OR]]. I am sorry, but your view is ''illogical'' for if an item is WP:OR it should go &quot;nowhere at all&quot;. You have not as yet produced ''a single Wikipedia policy'' to question the sources and not ''a single source'' that says otherwise. Anyway, I will stop now, for I do not see the logic in the statements made here. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 02:40, 3 November 2012 (UTC)
+:What is illogical is that you're the only editor who has mentioned [[WP:OR]]. I certainly didn't. [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 02:47, 3 November 2012 (UTC)
+
+::The link in your &quot;I cal it synthesis&quot; statement above leads to the WP:OR page. There is no synthesis and no OR here given the direct quote from the source accompanied by other sources that all say effectively the same thing: hardly any scholars oppose that view. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 02:52, 3 November 2012 (UTC)
+
+:::Just out of curiosity: If a statement that's almost word for word taken from a book by an expert published with a reputable publisher, backed up by multiple similar souces, is &quot;imperfectly sourced&quot;, what better sources could we hope for? Also, I agree with History2007 et al. that existence is a critical fact that should be covered in the lead. [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 04:37, 3 November 2012 (UTC)
+
+{{od}}
+I think that issue of existence applies to every article about people, and is one of the first things said about people. That is what distinguishes the article on [[Nicolas Bourbaki]] from the article on [[André Weil]] who helped invent him. The first things article usually say are:
+
+:* Who was this and why is this person notable? The article on Weill starts that way, he was a French &quot;mathematician known for algebraic topology, etc.&quot; The article on [[Albert Einstein]] starts with &quot;he was a German physicist known for general relativity, etc.&quot; The article on Bourbaki starts with he &quot;is the collective pseudonym under which a group of (mainly French) 20th-century mathematicians wrote a series of books&quot;. So if the person existed or not is the obvious first issue about that person.
+
+:* Where and when the person lived is the next issue addressed. Did he live in the 20th century, or 5th century, etc. Europe or Asia, etc. 
+
+:* Then a general description of what the person was involved in etc. The articles on Einstein and [[Alexander the Great]] as well as most others I have seen have that format.
+
+There is, however, a second reason why existence has to be mentioned (and is mentioned in all of 9 words here!) in the lede here, namely that there have been theories  that &quot;this person did not exist&quot;, as in the article [[Christ myth theory]]. So if there had been the debate that Nicolas Bourbaki existed, and then it turned out he was an invention, that issue is even more important for the Bourbaki than the Einstein and Alexander the Great articles. So anyway, as I said this long debate on &quot;these 9 words&quot; seems to be too much. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 10:50, 3 November 2012 (UTC)
+
+:::Who is his existence important to? [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 23:59, 3 November 2012 (UTC)
+
+::::It is obviously important to you, because you keep typing about it. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 02:44, 4 November 2012 (UTC)
+
+*It take issue with the 2 words &quot;virtually all&quot;, when there are a growing number and probably more scholoars listed on the [[Christ myth theory]] page suggesting it a myth than there are suggesting it's not! &quot;Virtually all&quot; pushes remaining scholars into &quot;fringe&quot; territory, which is not always the case lately. I'd advocate use of language such as &quot;many&quot; or &quot;conventional&quot; instead. After all, the only historical sources for Jesus are the Testimonium Josephus, which is not reliable and the &quot;Chrestus&quot; mention, which could equally apply to James if you read the text. Applying it to Jesus is biased conjecture, just like Islamic scholars biased interpretation of [[Bekka, Lebanon|Bekka]] to [[Mecca]]. It would be lovely to prove that [[Simon Magus]], [[John the Essaios]] or some othe madman (or woman) invented Jesus, but we have no hard evidence of that either. I would suggest most unbiased, non-christian scholars nowadays favour the notion that some element of myth was involved in the story somewhere. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 14:10, 3 November 2012 (UTC)
+: The reason that language was used is because that is the language that is used by the sources cited... which are academic peer reviewed resources. Do you have a competing source that claims otherwise that we could evaluate and incorporate?[[User:ReformedArsenal|ReformedArsenal]] ([[User talk:ReformedArsenal|talk]]) 14:38, 3 November 2012 (UTC)
+::There are a few, for instance &quot;The Oxford Companion to Christian Thought&quot; suggests elements of the redeemer influenced early Christian writers.{{cite book|author1=Adrian Hastings|author2=Alistair Mason|author3=Hugh Pyper|title=The Oxford Companion to Christian Thought|url=http://books.google.com/books?id=ognCKztR8a4C&amp;pg=PA268|accessdate=3 November 2012|date=21 December 2000|publisher=Oxford University Press|isbn=978-0-19-860024-4|pages=268–}} I don't like the language 'competing', which presents a POV. I do like the terminology of [[Wilfred Cantwell Smith]], who refers to a &quot;Jesus (or Jesi) of scholarship&quot; refering to that reconstructed by scholars, and the &quot;Jesus of history&quot;, the Jesus that matters in history, whether Iconic or mythical. {{cite book|author=Dominic J. O'Meara|title=Neoplatonism and Christian Thought|url=http://books.google.com/books?id=AOBfV-bCN4MC&amp;pg=PA219|accessdate=3 November 2012|date=1 November 1981|publisher=SUNY Press|isbn=978-0-87395-492-1|pages=219–}} That approach feel more balanced than the &quot;Jesus is God&quot; page written by Christians and and the &quot;Christ is a myth&quot; page that Christians keep trying to imply has been written by fringe nutters. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 15:25, 3 November 2012 (UTC)
+
+::: And who are these &quot;growing number and probably more scholars&quot; who deny existence on the [[Christ myth theory]] page? And by the way, that page also says the same thing, namely there are hardly any scholars now who deny existence - there used to be some in the 1920-1950 period, but the tide turned a while ago and G. A. Wells the leader of non-existence movement did a well known U-turn. Probably more means very little and growing number is not a number. So how about some names? And even better, how about reference? What you have listed (e.g. Oxf Companion ref on Gnosticism) does not provide a discussion of existence, but relates to Christian beliefs and narrative elements. It does not address this issue at all. The issue discussed here is existence, not the details of the gospel narratives. These are separate issues. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 16:21, 3 November 2012 (UTC)
+
+::::Here's a list of ''some'' of the scholars pointing out there's not a shred of evidence for Jesus (limited the list to the last 12 years for brevity):
+
+Harold Liedner, 2000, The Fabrication of the Christ Myth. Anachronisms and geographic errors of the gospels denounced. Christianity one of history's most effective frauds.
+
+Robert Price, 2000, Deconstructing Jesus. 2003 Incredible Shrinking Son of Man: How Reliable Is the Gospel Tradition? Ex-minister and accredited scholar shows Jesus to be a fictional amalgam of several 1st century prophets, mystery cult redeemers and gnostic 'aions'.
+
+Hal Childs, 2000, The Myth of the Historical Jesus and the Evolution of Consciousness. A psychotherapist take on the godman.
+
+Michael Hoffman, 2000, Philosopher and theorist of &quot;ego death&quot; who jettisoned an historical Jesus.
+
+Dennis MacDonald, 2000, The Homeric Epics and the Gospel of Mark. Professor of New Testament studies and Christian origins maps extensive borrowings from the Homeric epics the Iliad and the Odyssey by the authors of the gospel of Mark and Acts of the Apostles.
+
+Burton Mack, 2001,The Christian Myth: Origins, Logic, and Legacy. Social formation of myth making.
+
+Luigi Cascioli, 2001, The Fable of Christ. Indicting the Papacy for profiteering from a fraud!
+
+Israel Finkelstein, Neil Silbermann, 2002, The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts. Courageous archaeologists who skillfully proved the sacred foundational stories of Judaism and Christianity are bogus.
+
+Frank R. Zindler, 2003, The Jesus the Jews Never Knew: Sepher Toldoth Yeshu and the Quest of the Historical Jesus in Jewish Sources. No evidence in Jewish sources for the phantom messiah.
+
+Daniel Unterbrink, 2004, Judas the Galilean. The Flesh and Blood Jesus. Parallels between the tax rebel of 6 AD and the phantom of the Gospels explored in detail. 'Judas is Jesus'. Well, part of Jesus, no doubt.
+
+Tom Harpur, 2005, The Pagan Christ: Recovering the Lost Light. Canadian New Testament scholar and ex-Anglican priest re-states the ideas of Kuhn, Higgins and Massey. Jesus is a myth and all of the essential ideas of Christianity originated in Egypt.
+
+Francesco Carotta, 2005, Jesus Was Caesar: On the Julian Origin of Christianity. Exhaustive inventory of parallels. Alarmingly, asserts Caesar was Jesus.
+
+Joseph Atwill, 2005, Caesar's Messiah: The Roman Conspiracy to Invent Jesus. Another take on the Josephus-Gospel similarities. Atwill argues that the 1st century conquerors of Judaea, Vespasian, Titus and Domitian, used Hellenized Jews to manufacture the &quot;Christian&quot; texts in order to establish a peaceful alternative to militant Judaism. Jesus was Titus Flavius? I don't think so.
+
+Michel Onfray, 2005, Traité d'athéologie (2007 In Defence of Atheism) French philosopher argues for a positive atheism, debunking an historical Jesus along the way.
+
+Kenneth Humphreys, 2005, Jesus Never Existed. Book of this website. Draws together the most convincing expositions for the supposed messianic superhero. The author sets this exegesis within the socio-historical context of an evolving, malevolent religion.
+
+Jay Raskin, 2006, The Evolution of Christs and Christianities. Academic and erstwhile filmaker Raskin looks beyond the official smokescreen of Eusebius and finds a fragmented Christ movement and a composite Christ figure, crafted from several literary and historical characters. Speculates that the earliest layer of myth-making was a play written by a woman called Mary. Maybe.
+
+Thomas L. Thompson, 2006, The Messiah Myth. Theologian, university don and historian of the Copenhagen school who concludes Jesus and David are both amalgams of Near Eastern mythological themes originating in the Bronze Age.
+
+Jan Irvin, Andrew Rutajit, 2006, Astrotheology and Shamanism: Unveiling the Law of Duality in Christianity and other Religions. Explores astrotheology and shamanism and vindicates John Allegro's work with psychoactive substances.
+
+Roger Viklund, 2008. Den Jesus som aldrig funnits (The Jesus who never existed). A Swedish scholar reaches the same inescapable conclusion: Jesus never existed. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 18:17, 3 November 2012 (UTC)
+
+:How many of those are &quot;scholars&quot;? And how many &quot;deny existence&quot;? That is a ''very confused list'' because many of those people question the [[Historical Jesus]] i.e. the details of the gospel narratives. You need to show &quot;scholars who deny existence&quot;, not those who deny the miracles. E.g. Kenneth Humphreys is no scholar by any measure, etc. Andrew Rutajit? Since when is he a scholar? Daniel Unterbrink is a self-published accountant! If the door is opened of these &quot;non scholars&quot; one could list a thousand others who say UFOs exist etc. So you need a list of &quot;scholars&quot; who &quot;deny existence&quot; and you should probably think of the difference between existence and gospel narratives. So that is a totally confused list, many of whose elements do not refer to the existence issue. So please trim the list and try again. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 18:30, 3 November 2012 (UTC)
+
+::Paul, it looks like you just copied that list ''verbatim'' from a non-[[WP:RS]] website. Please do your own research carefully, identify scholars vs others, look for self-publishers, etc. then try again. Thanks. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 19:09, 3 November 2012 (UTC)
+
+:::Well, you can pick apart the reliability of all those sources at your leisure. Feed them to the lions like [[Essene]]s before [[Nero]]; Macdonald, Finkelstein and Viklund look a bit meaty though. I'd also cite Irving and Rutajin as part of the Allegro reconsideration movement that I could talk about. Everyone should read {{cite book|author=John Marco Allegro|title=The Dead Sea Scrolls and the Christian myth|url=http://books.google.com/books?id=oFtTAAAAYAAJ|accessdate=3 November 2012|date=June 1992|publisher=Prometheus Books|isbn=978-0-87975-757-1}}, for what I consider the definitive authority on the subject. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 20:06, 3 November 2012 (UTC)
+
+::::Ok, I will do that, for it is really not that hard to do. It will probably take less than an hour - so I will just do it. I did not even know who [[Harold Leidner]] was, but now I do: he was a &quot;patent attorney&quot; and amateur scholar. As we all know too well, lists that one just finds on the internet can be nothing more than sad jokes. The likes of Leidner and Unterbrink who are attorneys and accountants wonder off into various topics and think they have it all together, but in the end get published by unknown publishers or self-publishers. They are not scholars by any measure. To give you context, who knows, who ''really'' knows, how many amateur physicists are out there who claim perpetual motion, anti-gravity or free energy in self-published books. But the Wikipedia page on [[Physics]] can not accommodate those views, regardless of any Wiki-editor's preference of them. So anyway, I will provide the relevant issues regarding the list you copied from that web site, just so it will be clear. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 20:45, 3 November 2012 (UTC)
+
+::::I've read Finkelstein, in the work cited he is not dealing with Jesus but rather a few centuries before nor does he throw the Bible out completely but rather that it must be read skeptically [i.e., it tells us a lot more about the writers' times than about the times the writer is supposedly writing about].  It is a  bit like David Barton's histories (or Parson Weems) assuming that is all that will be left in a few hundred years, full of inaccuracies and mythmaking and telling us something about 21st century USA, but that does not mean that some factual info is not there, e.g., George Washington and Thomas Jefferson existed.  MacDonald is a scholar with a minority viewpoint, but, he is not denying. as far as I can see, that Jesus existed but rather proposing that 'Mark' has cast the story in a Homeric frame. That Jesus never existed is very much a minority view among scholars (that the resurrection and other miracles happened is another matter and one that many scholars doubt) --[[User:Erp|Erp]] ([[User talk:Erp|talk]]) 21:17, 3 November 2012 (UTC)
+
+:::::Yes, I agree. Finkelstein, MacDonald are addressing separate issues really. And as you said many scholars who support existence, deny the resurrection, or other miracles, etc. Some of the scholars who support existence ([[N. T. Wright]] among them) do not even assume that the names of the 12 apostles can be historically determined. Others such as Crossan think Jesus never had any apostles as such but had a group of changing followers. But those are separate issues from his existence. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 21:59, 3 November 2012 (UTC) 
+
+::::Viklund, the third of the &quot;meaty&quot; sources, is an amateur who has received heavy criticism for his amateurish methods and his reliance on the [[Secret Gospel of Mark]] which isn't quite the best of sources on anything. [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 21:30, 3 November 2012 (UTC)
+
+:::::[[John M. Allegro]]'s book [[The Dead Sea Scrolls and the Christian Myth]] is the one to read, and the reason so many accountants and attourneys are running off writing allsorts in support and re-examination of his early works. [[The Sacred Mushroom and the Cross]] controversy caused a bit of a smokescreen over his seminal work on the subject of the Dead Sea Scrolls, which came from one of the most enlightened minds, full of the most comprehensive (and reliable) knowledge of the period that I have come across. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 23:01, 3 November 2012 (UTC)
+
+:::::: Actually, the list you provided is not just accountants and attorneys, but includes scholars such as [[Burton L. Mack]] who specifically ''support'' the existence of Jesus. Mack thinks Jesus was a traveling sage who was crucified, but not due to conflict with Jewish authorities, etc. So that list is really way off the mark. I am working on that list anyway, and will have a complete analysis soon. As for Allegro, his Wikipedia page says that &quot;he wrote books that attracted popular attention and scholarly derision&quot;. In any case, per policy (say [[WP:V]]) we can not ''read the books'' and judge their contents for accuracy. The issue is if Allegro is a scholar or not. From what I can see he did not have a PhD, and was at best an &quot;assistant lecturer in philology&quot;. An &quot;[[List_of_academic_ranks#United_Kingdom|assistant lecturer]]&quot; is not really a scholar, but someone who did not make the grade for an academic career. So it would be a real stretch to call Allegro a scholar, unlike Mack who is a full fledged scholar. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 23:20, 3 November 2012 (UTC)
+
+===Analysis of the suggested list of books about the existence of Jesus===
+I now looked at the list which had been copied from one of non-[[WP:RS]] websites by Paul Bedson above and here are the results:
+
+:* [[Harold Leidner]], 2000, ''The Fabrication of the Christ Myth''. Leidner was a patent attorney (NY University Law school 1939) and amateur scholar. He was an attorney, not a scholar and wrote as an amateur outside the field of law.
+
+:* [[Robert M. Price]]: ''Deconstructing Jesus. 2003''. Price is a biblical scholar, has training in the field and denies the existence of Jesus. However, he acknowledges (''The Historical Jesus: Five Views'' ISBN 028106329X page 61) that hardly any scholars agree with his perspective on this issue.
+
+:* Hal Childs, 2000, ''The Myth of the Historical Jesus and the Evolution of Consciousness'' Childs is a psychoterapist (not a scholar in the field) but does not deny the existence of Jesus. His perspective is shared by a number of scholars who support the existence of Jesus, e.g. [[John Dominic Crossan]] who also said: &quot;those who write biographies of Jesus often do autobiography, but think they are doing biography&quot;. Child's perspective is unrelated to the existence question.
+
+:* Michael Hoffman 2000: It is not clear which Hoffman this refers to. Please provide a more exact reference, ISBN, etc.
+
+:* [[Dennis MacDonald]], 2000, ''The Homeric Epics and the Gospel of Mark''. MacDonald is a scholar, but does not deny the existence of Jesus as a person, he just argues that the Gospel of Mark was influenced by Homeric elements. He also thinks the Book of Acts includes Homeric trends, but that is unrelated to the existence question.
+
+:* [[Burton L. Mack]] ''The Christian Myth: Origins, Logic, and Legacy. Social formation of myth making''. Mack is a scholar who specifically ''supports'' the theory that Jesus existed as a traveling sage. Mack was a member of the Jesus seminar, believes that Jesus existed, but holds that his death was accidental and not due to his challenge to Jewish authority.
+
+:* Luigi Cascioli, 2001, ''The Fable of Christ. Indicting the Papacy for profiteering from a fraud!'' Cascioli was a &quot;land surveyor&quot; who worked for the Italian army. His book was self-published. His claim to fame was that in 2002 he sued the Church for inventing Jesus, but in 2005 his case was rejected. He was no scholar.
+
+:* [[Israel Finkelstein]], [[Neil Asher Silberman|Neil Silberman]], 2002, ''The Bible Unearthed'' Finkelstein and a Silberman are archaeologists, but they do not deny the existence of Jesus. Their work is centered on archaeological themes and mostly addresses the Old Testament. Hardly anyone lists these two people as Jesus myth theorists.
+
+:* [[Frank Zindler]], 2003, ''The Jesus the Jews Never Knew''. Zindler (who seems to have been a biologist at some point) does not seem to have had any scholarly training or taught at any university on this topic. What he writes on the topic is all self-taught, not scholarly.
+
+:* Daniel Unterbrink, 2004, ''Judas the Galilean.'' Unterbrink is an accountant, and his book is self-published by [[iUniverse]].
+
+:* [[Tom Harpur]], 2005, ''The Pagan Christ: Recovering the Lost Light''. Harpur (who is a follower of Gerald Massey) argues that Egyptian myths influenced Judaism and Christianity, but he does not deny the existence of Jesus. Harpur's theory is that Jesus of Nazareth existed but mythical stories from Egypt were later added to the gospel narratives about him.
+
+:* [[Francesco Carotta]] 2005, ''Jesus Was Caesar''. Carotta does not deny the existence of Jesus, on the other hand he thinks Jesus existed but was [[Gaius Julius Caesar]]: an unusual theory, but it does not deny the existence of Jesus.
+
+:* Joseph Atwill, 2005, ''Caesar's Messiah: The Roman Conspiracy to Invent Jesus'' I am not sure who Joseph Atwill is. He seems to have written one paper on the Dead Sea Scrolls with Eisenman, but he does not seem to have any scholarly background, apart from having studied Greek and Latin as a youth in Japan, according to a review website. No trace of his having been a scholar of any kind.
+
+:* [[Michel Onfray]] Traité d'athéologie (2007 In Defence of Atheism): Onfray, has a PhD in philosophy and was a high school teacher. He is critical of all religions including Judaism and Islam and thinks Christian doctrine was invented by Paul. Rather than focusing on the existence of Jesus his work deals with how religious doctrines were created and how they impact western philosophy.
+
+:* Kenneth Humphreys, 2005, ''Jesus Never Existed''. I can find no evidence anywhere that Humphreys is a scholar of any type, and where he was educated. He just seems to run his own website, and his book is published by [[Historical Review Press]], which is [[Anthony Hancock (publisher)]], whose specialty is Holocaust denial books. A really [[WP:Fringe]] item.
+
+:* Jay Raskin, 2006, ''The Evolution of Christs and Christianities'' Raskin has a PhD in philosophy, and has taught some philosophy and film making courses at various colleges. His book is self-published by [[Xlibris]] - &quot;nonselective&quot; in accepting manuscripts according to their Wikipedia page. Raskin is better known as a film-maker than a historian or philosopher and his movies have titles such as ''[http://www.imdb.com/title/tt0085708/ I married a Vampire]''. He is no scholar on the subject.
+
+:* [[Thomas L. Thompson]], 2006, ''The Messiah Myth''. Thompson is a scholar and a denier of the existence of Jesus. He is one of the very few scholars who still deny existence.
+
+:* Jan Irvin, Andrew Rutajit, 2006, ''Astrotheology and Shamanism'' From what I can find neither of these people are scholars and they seem to have a theory that religions are based on the use of narcotics: a pure [[WP:Fringe]] idea that seems to have been advocated by John Allegro as well. This is not scholarship, and these are not scholars.
+
+:* Roger Viklund, 2008. ''Den Jesus som aldrig funnits'' (The Jesus who never existed). Viklund is an amateur who self-published his book in Swedish and just has his own website. Not a scholar at all.
+
+::Postscript: I think for the sake of completeness, I should add a few other writers mentioned on various websites and Wikipages, they are:
+
+::* [[Richard Carrier]] ''Not the Impossible Faith'' and ''Sense and Goodness without God''. He has a PhD in history, but has no academic position and his books are self published by [[Lulu (company)|LuLu]] and [[Authorhouse]]. He runs his own website and may seen as a scholar or not, depending on perspective. Not clear what he does for a living.
+
+::* [[D. M. Murdock]] (Acharya S) ''The Gospel According to Acharya S'' is a self-published author and her web site says she has a B.A. degree. There is no claim or record of her ever having had an academic position and she is not a scholar.
+
+::* [[Earl Doherty]] ''Jesus: Neither God Nor Man - The Case for a Mythical Jesus'' is a self-published author. He  has a B.A. but no advanced degrees and is not a scholar.
+
+::* [[Timothy Freke]] and [[Peter Gandy (author)|Peter Gandy ]] ''The Jesus Mysteries ''. Freke has a B.A. degree and Gandy an M.A. Neither has a PhD or had an academic position. Freke taches experiential seminars. Neither is a scholar.
+
+::* [[Christopher Hitchens]] ''God Is Not Great.''. He had  a B.A. degree, no advanced degrees and was a general writer not a scholar.
+
+::But this does not impact the situation in any significant way. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 18:29, 4 November 2012 (UTC)
+
+So really there is one solid academic scholar here namely Thompson and then Price who can be called a non-academic scholar - given that he only teaches online courses on the subject ($50 per course I read somewhere). But just Thompson and Price do not make a long list. There are probably 1 or 2 more people with PhDs who deny existence (say Carrier, but who has no academic post) yet it is quite clear from this list that most of those mentioned are either amateurs or are scholars such as Mack who actually support existence. Most of these people are attorney/accountant/etc./etc. types and not scholars. The funniest one however was suggesting [http://www.imdb.com/title/tt0085708/ Raskin as a scholar]. I did get a chuckle out of that one. But anyway, the results speak for themselves. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 01:53, 4 November 2012 (UTC)
+:I am literally laughing out loud... good work H2K7[[User:ReformedArsenal|ReformedArsenal]] ([[User talk:ReformedArsenal|talk]])
+
+::I had not even heard of many of these people. I have looked at this issue very carefully and tried to understand which scholars support and oppose it. There are really very, very few scholars in opposition. Most of those who support non-existence are amateurs who make a living by accounting, film-making, and whatever, then write self-published books in their spare time. And this list just confirmed that. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 02:47, 4 November 2012 (UTC)
+
+:::Firstly, I second ReformedArsenal - good work! Secondly, I'd like to point out that the only scholars on this list who deny existence are among the ones History2007 named [[#No academic still teaching at a major university denies the existence of Jesus|above]]. We didn't gain anything (except some amusement) we didn't already know. [[User:Huon|Huon]] ([[User talk:Huon|talk]]) 03:22, 4 November 2012 (UTC)
+
+::::Yes, I had not really expected to see any new scholars, but asked anyway to be sure and clarify the issues. And one other point that should be made is that if the door is opened to amateurs who write on the subject the other way around, the flood gates open. E.g. well known amateurs like [[Kermit Zarley]] (really!) have written various books in support of existence, resurrection etc. But I would not even dream of using those as a source in Wikipedia or any scholarly discussion anywhere. The same should apply here. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 03:25, 4 November 2012 (UTC)
+
+:::::Geez, I leave you guys alone for a weekend and look what a mess I have to come back to. Nero's alligators couldn't have done a better job. Looks like there's only [[Robert M. Price]] left standing and he's had his legs bitten off. I'd throw [[Robert Eisenman]]'s [[James the Brother of Jesus (book)]] and [[Hugh Schonfield]]'s [[The Passover Plot]] at you but I think you've had your fill. In the meantime, I've filled in some valuable holes with articles on the drilled down key books; [[Christian myth]], [[Sacred Mushroom]] and even a film called [[Healers of the Dead Sea]] that you can at least listen to if you can't get hold of the books. I think the main point one gains from reading all this is a reality of the times, which Allegro's narration does give well on the film page. It gets you into the minds of the people who wrote the gospels and far from making you deny that Jesus existed, acknowledge that lots of Jesus existed and probably lots of them got crucified too. The community and life they were getting crucified for is what's important, and for me interesting to study. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 22:57, 4 November 2012 (UTC)
+
+I think the page you wrote on the mushroom book is good and was needed in general, the Dead Sea Scrolls myth book page is probably too short and needs expansion if you want to do it. But what exactly does the Healers of the Dead Sea movie have to do with this discussion? I think what can be heard &quot;loud and clear&quot; in your posts and your view point is that ''Allegro needs to be vindicated'' because he was fired from his university job after he wrote  the mushroom book, received a rough treatment (in fact ridiculed) for his work, the publisher gave him a hard time, etc. But per [[WP:TPG]] this page is not for the vindication of Allegro. And this thread was about a list you copied from a web site.
+
+And in any case, as those pages indicate Allegro was &quot;singing a very lonely tune&quot;. So although you may feel the need to promote Allegro due to your personal respect for him, his views are far, far from mainstream and at the moment squarely within [[WP:Fringe]] territory. It is not often that a publisher apologizes for publishing a book after the fact - as his publisher did for his mushroom book. 
+
+So given the highly controversial nature of Allegro's work, per [[WP:Fringe]] I am not sure of its relevance here at all. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 01:14, 5 November 2012 (UTC)
+
+::This is a particularly catchy analysis of Allegro [http://www.youtube.com/watch?v=BtiMw0-akAM]. [[User:Paul Barlow|Paul B]] ([[User talk:Paul Barlow|talk]]) 21:16, 5 November 2012 (UTC) 
+
+:By the way, as Eisenman's Wikipedia page indicates his views are also highly controversial, and relate to the origins of Christianity, not the denial of the existence of Jesus, which is the subject of this thread. The page that relates to Eisenman is [[Origins of Christianity]] - and in fact he is not even mentioned on that page, but that would be the place for him. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 01:27, 5 November 2012 (UTC)
+
+::Yes, I am a fan of Allegro and consider him a [[polyhistor]]. Anyone who did what he did in 1970 should at least raise an eyebrow. People like [[Benny Shannon]] suggest similar things about [[Moses]] can maintain their reputation and gain star status nowadays. I'll take your point on board and expand [[Christian myth]] as soon as I get a new copy of the book. I seem to have given mine away to someone or lost it somewhere. It does need better coverage, apologies for the current stub. In the meantime, in case the animals are getting hungry again, I thought I'd get medieval on y'all with this guy [[Hugh Montgomery (historian)]], who was another polyhistor that I was quite respectful of. I know I've digressed from the black and white existence debate a bit, but this scholar's Jesus shows that the variance between what scholars think there are about as many Jesuses as there are shades of grey, this one expounding on a version you could call the [[Dan Brown Jesus]]. I met and had dinner with Hugh in 2007, who suggested that if his Jesus did exist, he could have around three to four million [[Ulvungar]] descendants alive today. I thought that quite a fascinating calculation. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 00:15, 6 November 2012 (UTC)
+
+:::As you said this discussion has digressed from the topic of this thread, so I will respond in a new thread below. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 00:46, 6 November 2012 (UTC)
+
+== Controversial theories ==
+
+Yes, I am a fan of Allegro and consider him a [[polyhistor]]. Anyone who did what he did in 1970 should at least raise an eyebrow. People like [[Benny Shannon]] suggest similar things about [[Moses]] can maintain their reputation and gain star status nowadays. I'll take your point on board and expand [[Christian myth]] as soon as I get a new copy of the book. I seem to have given mine away to someone or lost it somewhere. It does need better coverage, apologies for the current stub. In the meantime, in case the animals are getting hungry again, I thought I'd get medieval on y'all with this guy [[Hugh Montgomery (historian)]], who was another polyhistor that I was quite respectful of. I know I've digressed from the black and white existence debate a bit, but this scholar's Jesus shows that the variance between what scholars think there are about as many Jesuses as there are shades of grey, this one expounding on a version you could call the [[Dan Brown Jesus]]. I met and had dinner with Hugh in 2007, who suggested that if his Jesus did exist, he could have around three to four million [[Ulvungar]] descendants alive today. I thought that quite a fascinating calculation. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 00:15, 6 November 2012 (UTC)
+
+:As you said this discussion has digressed from the topic of the previous thread, so I copied your comment to this new thread, given that it is a separate issue really, so I can respond to it here.
+
+:Of course any Wikipedia editor can be a fan of any author, and read any books that are [[WP:Fringe]] per Wikipedia policy, or write articles about those books. But almost all the pages you have mentioned already include the term &quot;controversial&quot;, Allegro is controversial, as is Montgomery, as is Dan Brown. 
+
+:So, the question is: Should anything to be done in this article about what might be [[WP:Fringe]] items about Jesus,? My reading of WP:Fringe is that they can have their own pages, but not be used in other pages. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 00:46, 6 November 2012 (UTC)
+::I think that's a tricky question when discussing the curious subject of a god that can seperate himself from the rest of existence, form into a man who can alter molecules at will, walk on water and heal himself from death. I just think we should be careful labelling scholars as fringe when they suggest he was a) a normal person, b) part of a group of other normal people, c) had a radically different history/genealogy/consciousness state than traditionally claimed or d) may never have existed, or not existed in any form similar to the record claimed. Saying such ideas are controversial is fine, but claiming that almost all scholars think this or that is like creating a herd of blindfolded elephants, liable to trample academic careers of people like Allegro at will, and I like to think the world's growing out of that. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 14:52, 6 November 2012 (UTC)
+
+:::I am not sure how you form your impressions. The mainstream &quot;historical view&quot; is that Jesus was a mortal human being who was crucified and died. There is no historical agreement on the details of the gospel narratives. Those who argue for the historicity of the resurrection are very few and considered to be confusing history with religion. For instance Bart Ehrman thinks that Jesus made a mistake and thought the apocalypse was during the first century, and John Dominic Crossan thinks Jesus could not even read or write - let alone perform any miracles. Paula Fredriksen and E. P. Sanders think Jesus was even surprised when his death was ordered. And these are the most respected scholars. But all of these support existence. The only things scholars agree on are existence, baptism and crucifixion. That is all. The 2nd paragraph of the article says that existence is distinct from gospel narratives and their theological assertions of divinity. Fringe are those ideas which very few scholars agree with, e.g. Allegro, etc. A good comparison would be [[Geza Vermes]] vs Allegro. Vermes is no longer a Christian, does not support divinity of Jesus, and has written books on Jesus. The books of Vermes get very positive reviews from other scholars, as reflected by his esteemed position at Oxford. The books of Allegro are the opposite in that sense. So the difference is clear. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 15:28, 6 November 2012 (UTC)
+
+{{od}}
+By the way, regarding your statement that claiming most scholars think this or that &quot;is like creating a herd of blindfolded elephants&quot;, I should point that Wikipedia policy ''requires us to do that'' e.g. the determination of the majority view in [[WP:Due]] and the use of [[WP:RS/AC]] for &quot;[[WP:RS/AC|academic consensus]]&quot;. And views held by a very small minority should not be mentioned except their own pages per these policies. Please see the quote by Jimmy Wales on that WP:Due page:
+
+:If a viewpoint is held by an extremely small (or vastly limited) minority, it does not belong in Wikipedia regardless of whether it is true or not and regardless of whether you can prove it or not, except perhaps in some ancillary article.
+
+That is a clear issue in terms of the policies of Wikipedia that apply across 4 million articles. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 16:02, 6 November 2012 (UTC)
+
+::Then where is the historical source saying Jesus was baptized. No contemporary outside the Gospels has said that. If you are going to make statements like that without even a primary source then you are creating blindfolded elephants. You need double referenced sources to deem something vaguely trustworthy in history, [[Hugh Montgomery (historian)]] taught me that! &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 01:00, 7 November 2012 (UTC)
+
+:::I think you really need to read [[WP:V]] again. Wikipedia editors do ''not'' make statements based on their own reasoning. We ''only summarize and quote'' what professors write. We do not debate the facts, per policy. All we do is quote professors from major universities. 
+
+:::As for what Montgomery said he was supporting the use of ''multiple attestation'', &quot;one of the techniques&quot; used by historians. There are others, I suggest reading ''Criteria for Authenticity in Historical-Jesus Research'' by Stanley E. Porter 2004 ISBN 0567043606 if you want to gain further familiarity with the issues. But in any case, you and I can not debate the facts, per the [[WP:V]] policy. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 01:12, 7 November 2012 (UTC)
+
+::::True, but in the context of the [[Historicity of Jesus]] article, it looks a bit out of kilter to claim that with only a [[Tacitus]] source for crucifixion and nothing for baptism. I'd suggest that implies a biased POV and would have thought professors must have pointed this out, but will do more research. Thanks for the book recommendation too, looks interesting, I'll try to get a copy. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 01:29, 7 November 2012 (UTC)
+
+{{od}}
+If you look into this in detail, you will see that the professors have discussed this issue to death and the only 2 things they agree on are baptism and crucifixion. Then as that article says there are 8 other facts that are discussed (e.g. did he have specific apostles) but not agreed upon. The scholars generally disagree on ''everything'' on this issue except these 2 items, and the other 8 items are the subject only luke-warm agreement. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 01:41, 7 November 2012 (UTC)
+
+:By the way, one other item I should mention is that many people assume that scholars just read the sources as we have them and make decisions that way. That is not the case. In many situations, decisions are arrived at by looking at a large number of intermediate documents. An example was [[G. A. Wells]] who used to deny existence (his own field is German literature) but when the [[Q source]] issues were explained to him in detail, he did his well known U-turn. So the layman's reasoning on these topics only goes that far. [[User:History2007|History2007]] ([[User talk:History2007|talk]]) 01:51, 7 November 2012 (UTC)
+
+::I wrote [[Q source]] [http://en.wikisource.org/wiki/Book_of_John_the_Baptist], so I like to think my reasoning goes beyond the layman. &lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml; font-family: Verdana;&quot;&gt;[[User:Paul Bedson|&lt;span style=&quot;color:Indigo&quot;&gt;Paul Bedson&lt;/span&gt;]] ❉[[User talk:Paul Bedson|&lt;span style=&quot;color:FireBrick&quot;&gt;talk&lt;/span&gt;]]❉&lt;/span&gt; 07:42, 7 November 2012 (UTC)
+::: Well, unless your reading is published in a peer reviewed journal or book... it doesn't matter what you've written. [[User:ReformedArsenal|ReformedArsenal]] ([[User talk:ReformedArsenal|talk]]) 12:24, 7 November 2012 (UTC)</text>
+      <sha1>5id6da4a9qget10qe8no33yhvacqyll</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

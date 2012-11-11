@@ -1,0 +1,61 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Merger simulation</title>
+    <ns>0</ns>
+    <id>3700154</id>
+    <revision>
+      <id>466008203</id>
+      <parentid>358773384</parentid>
+      <timestamp>2011-12-15T15:13:09Z</timestamp>
+      <contributor>
+        <ip>213.61.61.103</ip>
+      </contributor>
+      <comment>Minor expension + references to a recent survey article</comment>
+      <text xml:space="preserve" bytes="707">'''Merger simulation''' is a commonly used technique when analyzing potential welfare costs and benefits of [[merger]]s between firms. Merger simulation models differ with respect to assumed form of competition that best describes the market (e.g. [[differentiated Bertrand competition]], [[Cournot competition]], auction models, etc.) as well as the structure of the chosen demand system (e.g. linear or log-linear demand, [[logit]], [[almost ideal demand system]] (AIDS), etc.)
+
+== References ==
+*  Oliver Budzinski and Isabel Ruhmer, ''Merger Simulation in Competition Policy: A Survey'', Journal of Competition Law &amp; Economics (2010), 6(2): 277-319.
+
+[[Category:Mergers and acquisitions]]
+
+{{Econ-stub}}</text>
+      <sha1>6f49umjmsdo65ya00ygdiqa556m4ykb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

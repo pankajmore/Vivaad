@@ -1,0 +1,71 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Esoteric cosmology</title>
+    <ns>1</ns>
+    <id>4070132</id>
+    <revision>
+      <id>309887431</id>
+      <parentid>302101699</parentid>
+      <timestamp>2009-08-25T00:54:06Z</timestamp>
+      <contributor>
+        <username>John Carter</username>
+        <id>3358555</id>
+      </contributor>
+      <minor/>
+      <comment>Start class for NRMs</comment>
+      <text xml:space="preserve" bytes="2426">{{WPOccult|class= Start|auto=yes|importance=}}
+{{WPReligion|class=Start|importance=Low|NRM=yes|NRMImp=Mid}}
+
+==&quot;Scientific Phenomena&quot;==
+I removed from the section on Hinduism the sentence &quot;[[Rig Veda]] is not about historical people, but it tells the story of the evolution of the universe by personifying scientific phenomena.&quot; as being just a touch POV. Unfortunately, the whole section is dogmatic and seems to have been written by someone convinced the the Vedas are the utter truth (and is less interested in writing an objective encyclopedia article). This section needs a total rewrite.
+[[User:T of Locri|T of Locri]] ([[User talk:T of Locri|talk]]) 20:07, 14 July 2009 (UTC)
+
+==cleaning up external links==
+
+If there's no objection, I'm going to clean up external links. I can think of some that shouldn't be here and I can think of others that would be more approrpiate[[User:Ginar|Ginar]] 16:18, 14 February 2006 (UTC)
+
+::Hi! Donnot agree: external links section is a section authorized in wikipedia articles. In this article it contains strictly the direct/basic links to different esoteric currents conceptions (mainly graphics for study comparison) on the structure of the universe, according to each one of the esoteric cosmology presented (many of them are later developed at each one's related article): as it is now, it is a valuable source to the article and directly related to the theme of article and related sections. Thank you, Regards --[[User:GalaazV|GalaazV]] 16:42, 15 February 2006 (UTC)
+
+::P.S.: Also the external links number in the article have been stable for a long time. Also agree with you when you say &quot;''I can think of some that shouldn't be here''&quot;; one, at least, is very simple to identify as its conceptions are not common to earlier and ancient (root) ''esoteric cosmologies'': I would see it more as a new age syncretism, mixed with sci-fi fiction, and who knows, some not clarified intentions (not to say destructive; not all mediunistic-level communications are said to be from entities looking to aid human evolution). Would it be understood its deletion? --[[User:GalaazV|GalaazV]] 18:35, 15 February 2006 (UTC)
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as start, and the rating on other projects was brought up to start class. [[User:BetacommandBot|BetacommandBot]] 03:30, 10 November 2007 (UTC)</text>
+      <sha1>gabnepe79nofkk04qf6zfxwvyl5e0y7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

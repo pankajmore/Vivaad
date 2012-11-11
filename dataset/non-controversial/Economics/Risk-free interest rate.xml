@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Risk-free interest rate</title>
+    <ns>0</ns>
+    <id>113523</id>
+    <revision>
+      <id>518812740</id>
+      <parentid>518812221</parentid>
+      <timestamp>2012-10-20T02:40:18Z</timestamp>
+      <contributor>
+        <ip>27.33.33.175</ip>
+      </contributor>
+      <comment>/* Application */</comment>
+      <text xml:space="preserve" bytes="9008">{{Refimprove|date=June 2011}}
+'''Risk-free interest rate''' is the theoretical [[rate of return]] of an investment with no risk of financial loss. One interpretation is that the risk-free rate represents the interest that an investor would expect from an absolutely risk-free investment over a given period of time.&lt;ref&gt;{{cite web | title = Risk-Free Rate Of Return | url = http://www.investopedia.com/terms/r/risk-freerate.asp | publisher = Investopedia | accessdate = 7 September 2010}}&lt;/ref&gt; Another interpretation is that the risk free rate is the compensation that would be demanded by a representative investor holding a representative market portfolio, comprising all the assets in the economy, (i.e. the risk free rate is the compensation for systemic risk which cannot be eliminated by holding a diversified portfolio.) It is the second interpretation which is applied in the [[Capital Asset Pricing Model]]. (Refer to The Econometrics of Financial Markets, by Campbell, Lo and MacKinlay.)
+
+Since the risk free rate can be obtained with no risk, it is implied that any additional risk taken by an investor should be rewarded with an interest rate higher than the risk-free rate.
+
+==Theoretical Measurement of the Risk Free Rate==
+
+As stated by Malcolm Kemp in Chapter Five of his book 'Market Consistency: Model Calibration in Imperfect Markets,' the risk free rate means different things to different people and there is no consensus on how to go about a direct measurement of it. 
+
+However, perhaps the most common interpretation is aligned to Fisher's concept of inflationary expectations, described in his treatise 'The Theory of Interest' (1930) which is based on the theoretical costs and benefits of holding currency. In Fisher’s model these are described by two potentially offsetting movements:
+
+i)	Expected increases in the money supply should result in investors preferring current consumption to future income.
+ii)	Expected increases in productivity should result in investors preferring future income to current consumption. 
+
+The correct interpretation is that the risk free rate could be either positive or negative and in practice the sign of the expected risk free rate is an institutional convention - this is analogous to the argument that Tobin makes on page 17 of his book, Money, Credit and Capital. In a system with [[endogenous money]] creation and where production decisions and outcomes are decentralized and potentially intractable to forecasting, this analysis provides support to the concept that the risk free rate may not be directly observable.
+
+However, it is commonly observed that for people applying this interpretation, the value of holding currency is normally perceived as being positive. It is not clear what is the true basis for this perception, but it may be related to the practical necessity of some form of currency to support the specialization of labour, the perceived benefits of which were detailed by Adam Smith in The Wealth of Nations. However it should be observed that Adam Smith did not provide an 'upper limit' to the desirable level of the specialization of labour and did not fully address issues of how this should be organised at the national or international level. 
+
+An alternative (less well developed) interpretation is that the risk free rate represents the time preference of a representative worker for a representative basket of consumption. Again, there are reasons to believe that in this situation the risk free rate may not be directly observable.
+
+Given the theoretical 'fog' around this issue, in practice most industry practitioners rely on some form of proxy for the risk free rate, or use other forms of benchmark rate which are presupposed to incorporate the risk free rate plus some risk of default. (Again refer to Chapter Five of Malcolm Kemp's book, 'Market Consistency: Model Calibration in Imperfect Markets.') However there are also issues with this approach, which are discussed in the next section.
+
+Further discussions on the concept of a 'stochastic discount rate' are available in The Econometrics of Financial Markets by Campbell, Lo and MacKinley.
+
+==Proxies for the Risk-free Rate==
+The return on domestically held short-dated government [[bond (finance)|bond]]s is normally perceived as a good proxy for the risk free rate. However, theoretically this is only correct if there is no perceived risk of default associated with the bond. Government bonds are conventionally considered to be relatively risk-free to a domestic holder of a government bond, because there is by definition no risk of default - the bond is a form of government obligation which is being discharged through the payment of another form of government obligation (i.e. the domestic currency). (Tobin, Money, Credit and Capital, page 16.) This implies the risk of the government 'printing more money' to meet the obligation is perceived as a form of tax, rather than a form of default, (the inflation tax)which is often discussed as similar concept to that of 'seigniorage'.
+
+The same consideration does not necessarily apply to a foreign holder of a government bond,since a foreign holder also requires compensation for potential foreign exchange movements in addition to the compensation required by a domestic holder. Therefore it is normally the case that currency debasement is viewed as a form of default for foreign holders. Since the risk free rate should theoretically exclude any risk of default, this implies that the yields on foreign owned government debt cannot be used as the basis for calculating the risk free rate. 
+
+Since the required return on government bonds for domestic and foreign holders cannot be distinguished in an international market for government debt, this may mean that yields on government debt are not a good proxy for the risk free rate.
+
+Another possibility used to estimate the risk free rate is the inter-bank lending rate. Again appears to be premised on the basis that these institutions benefit from an implicit guarantee, underpinned by the role of the monetary authorities as 'the lending of last resort.' (It should be appreciated that in a system with endogenous money supply the 'monetary authorities' may be private agents as well as the Central Bank.) Again, the same observation applies to banks as a proxy for the risk free rate - if there is any perceived risk of default implicit in the interbank lending rate, it is not appropriate to this rate as a proxy for the risk free rate.
+
+Similar conclusions can be drawn from other potential benchmark rates, including short rated triple AAA rated corporate bonds of institutions deemed 'too big to fail.'
+
+Unfortunately it has not been possible to locate a well detailed discussion on the basis of the various conventions for estimating the risk free rate through proxy rates, which appears to be a major 'hole' in the theoretical literature.
+
+One solution that has been proposed for solving the issue of not having a good 'proxy' for the risk free asset, to provide an 'observable' risk free rate is to have some form of international guaranteed asset which would provide a guaranteed return over an indefinite time period (possibly even into perpetuity). There are some assets in existence which might replicate some of the hypothetical properties of this asset. For example, one potential candidate is the 'consul' bonds which were issued by the British government in the 18th century.
+
+==Application==
+The risk-free interest rate is highly significant in the context of the general application of [[Modern Portfolio Theory]] which is based on the [[Capital Asset Pricing Model]]. There are numerous issues with this model, the most basic of which is the reduction of the description of utility of stock holding to the expected mean and variance of the returns of the portfolio. In reality, there may be other utility of stock holding, as described by Shiller in his article 'Stock Prices and Social Dynamics,' (1984) Brooking Papers on Economic Activity, pages 457 to 511.
+
+The risk free rate is also a required input in financial calculations, such as the [[Black–Scholes formula]] for pricing [[stock option]]s and the [[Sharpe Ratio]]. Note that some finance and economic theories assume that market participants can borrow at the risk free rate; in practice, of course, very few (if any) borrowers have [[access to finance]] at the risk free rate.
+
+==See also==
+* [[Short rate model]]
+* [[Capital asset pricing model]]
+* [[Beta coefficient]]
+
+==References==
+{{reflist}}
+
+{{stock market|state=collapsed}}
+{{derivatives market|state=collapsed}}
+{{financial risk|state=collapsed}}
+{{Use dmy dates|date=June 2011}}
+
+[[Category:Interest rates]]
+[[Category:Financial risk]]
+
+[[ar:عائد خالي من المخاطرة]]
+[[ca:Tipus d'interès lliure de risc]]
+[[de:Risikofreier Zinssatz]]
+[[es:Tasa de cero riesgo]]
+[[fr:Taux sans risque]]
+[[it:Tasso d'interesse privo di rischio]]
+[[sv:Riskfri ränta]]
+[[zh:无风险利率]]</text>
+      <sha1>gl6k9uzuzwg96a7yxoqomraj1yyzuwl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Financial economics</title>
+    <ns>0</ns>
+    <id>63262</id>
+    <revision>
+      <id>514922628</id>
+      <parentid>514922248</parentid>
+      <timestamp>2012-09-28T01:46:25Z</timestamp>
+      <contributor>
+        <username>ChrisGualtieri</username>
+        <id>16333418</id>
+      </contributor>
+      <comment>/* External links */  Clean up performed. Pruned dead links, foreign language links, more then half removed so removing tag</comment>
+      <text xml:space="preserve" bytes="7338">{{Economics sidebar}}
+
+'''Financial economics''' is the branch of [[economics]] concerned with &quot;the allocation and deployment of economic resources, both spatially and across time, in an uncertain environment&quot;.&lt;ref&gt;{{cite web|url=http://nobelprize.org/nobel_prizes/economics/laureates/1997/merton-lecture.pdf |title=Robert C. Merton - Nobel Lecture |format=PDF |date= |accessdate=2009-08-06}}&lt;/ref&gt;
+It is additionally characterised by its &quot;concentration on monetary activities&quot;, in which &quot;money of one type or another is likely to appear on ''both sides'' of a trade&quot;.&lt;ref name=&quot;stanford1&quot;&gt;{{cite web|url=http://www.stanford.edu/~wfsharpe/mia/int/mia_int2.htm |title=Financial Economics |publisher=Stanford.edu |date= |accessdate=2009-08-06}}&lt;/ref&gt; The questions within financial economics are typically framed in terms of &quot;time, uncertainty, options, and information&quot;.&lt;ref name=&quot;stanford1&quot;/&gt;
+* Time: money now is traded for money in the future.
+* Uncertainty (or [[risk]]): The amount of money to be transferred in the future is uncertain.
+* [[Option (finance)|Option]]s: one party to the transaction can make a decision at a later time that will affect subsequent transfers of money.
+* [[Perfect information|Information]]: knowledge of the future can reduce, or possibly eliminate, the uncertainty associated with [[Future value|future monetary value]] (FMV).
+
+The subject is usually taught at a postgraduate level; see [[Master of Financial Economics]].
+
+==Subject matter==
+Financial economics is the branch of [[economics]] studying the interrelation of financial [[variable (mathematics)|variables]], such as [[price]]s, [[interest rate]]s and shares, as opposed to those concerning the real economy. Financial economics concentrates on influences of [[real vs. nominal in economics|real]] economic variables on financial ones, in contrast to pure finance.
+
+It studies the following:
+* [[List of finance topics#Valuation|Valuation]] - Determination of the fair value of an asset
+** How risky is the asset? (identification of the asset appropriate discount rate)
+** What [[cash flows]] will it produce? (discounting of relevant cash flows)
+** How does the market price compare to similar assets? (relative valuation)
+** Are the cash flows dependent on some other asset or event? (derivatives, contingent claim valuation)
+
+* [[List of finance topics#Financial markets|Financial markets and instruments]]
+** Commodities - [[List of finance topics#Commodity market|topics]]
+** Stocks - [[List of finance topics#Stock market|topics]]
+** Bonds - [[List of finance topics#Bond market|topics]]
+** Money market instruments- [[List of finance topics#Money market|topics]]
+** Derivatives - [[List of finance topics#Derivatives market|topics]]
+
+* [[List of finance topics#Financial institutions and banking|Financial institutions]] and  [[List of finance topics#Financial supervision, regulation, and accreditation|regulation]]
+
+[[Financial Econometrics]] is the branch of Financial Economics that uses econometric techniques to parameterise the relationships.
+
+==Models in financial economics==
+Financial economics is primarily concerned with building [[Model (economics)|models]] to derive testable or policy implications from acceptable assumptions. Some fundamental ideas in financial economics are [[portfolio theory]], the [[Capital Asset Pricing Model]]. Portfolio theory studies how investors should balance risk and return when investing in many assets or securities. The Capital Asset Pricing Model describes how markets should set the prices of assets in relation to how risky they are. The Modigliani-Miller Theorem describes conditions under which corporate financing decisions are irrelevant for value, and acts as a benchmark for evaluating the effects of factors outside the model that do affect value.
+
+A common assumption is that financial decision makers act rationally (see [[Homo economicus]]; [[efficient market hypothesis]]). However, recently, researchers in [[experimental economics]] and [[experimental finance]] have challenged this assumption [[empirical]]ly. They are also challenged, [[theoretical]]ly, by [[behavioral finance]], a discipline primarily concerned with the limits to rationality of economic agents.
+
+Other common assumptions include market prices following a [[random walk]] or asset returns being [[normal distribution|normally distributed]]. Empirical evidence suggests that these assumptions may not hold and that in practice, traders, analysts and particularly [[financial risk management|risk managers]] frequently modify the &quot;standard models&quot;.
+
+== See also ==
+{{Wikipedia-Books|Finance}}
+*[[List of economics topics]]
+*[[List of economists]]
+*[[List of finance topics]]
+*[[List of master's degrees in financial economics]]
+*[[Deutsche Bank Prize in Financial Economics]]
+
+== References ==
+{{More footnotes|date=October 2009}}
+&lt;references/&gt;
+
+== External links ==
+===Theory===
+* [http://web.archive.org/web/20070927123033/http://www.in-the-money.com/artandpap/I+Present+Value.doc Great Moments in Financial Economics I], [http://web.archive.org/web/20070927123027/http://www.in-the-money.com/artandpap/II+Modigliani-Miller+Theorem.doc II], {{cite web |url=http://www.in-the-money.com/artandpap/III%20Short-Sales%20and%20Stock%20Prices.doc |title=III |archiveurl=http://web.archive.org/web/20070927123024/http://www.in-the-money.com/artandpap/III+Short-Sales+and+Stock+Prices.doc |archivedate=2007-09-27}}; [http://web.archive.org/web/20070927123029/http://www.in-the-money.com/artandpap/IV+Fundamental+Theorem+-+Part+I.doc IVa]; {{cite web |url=http://www.in-the-money.com/artandpap/IV%20Fundamental%20Theorem%20-%20Part%20II.doc |title=IVb |archiveurl=http://web.archive.org/web/20070927123021/http://www.in-the-money.com/artandpap/IV+Fundamental+Theorem+-+Part+II.doc |archivedate=2007-09-27}}. Prof. [[Mark Rubinstein]], [[Haas School of Business]]
+*[http://www.ulb.ac.be/cours/solvay/farber/PhD.htm Microfoundations of Financial Economics] Prof. André Farber [[Solvay Business School]]
+*[http://ideas.repec.org/b/eee/finhes/2.html#related Handbook of the Economics of Finance], G.M. Constantinides, M. Harris, R. M. Stulz
+*[http://viking.som.yale.edu/will/web_pages/will/finman540/classnotes/notes.html An introduction to investment theory], Prof. William Goetzmann, [[Yale School of Management]]
+
+===Context and history===
+* {{Cite web |url=http://roundtable.informs.org/public-access/min061a.htm |title=A Short History of Investment Forecasting |archiveurl=http://web.archive.org/web/20071012112134/http://roundtable.informs.org/public-access/min061a.htm |archivedate=2007-10-12}}, Professor Michael Phillips, [[California State University, Northridge]]
+
+===Links and portals===
+*[http://www.economicsnetwork.ac.uk/books/FinancialEconomics.htm &quot;Books on Financial Economics&quot;: list on economicsnetwork.ac.uk]
+
+
+{{Financial economics awards}}
+{{Economics|state=autocollapse}}
+{{Finance}}
+{{Financial risk}}
+
+{{DEFAULTSORT:Financial Economics}}
+[[Category:Financial economics| ]]
+[[Category:Actuarial science]]
+
+[[bg:Финансова икономика]]
+[[fa:اقتصاد مالی]]
+[[it:Economia finanziaria]]
+[[lt:Finansų ekonomika]]
+[[no:Finansiell økonomi]]
+[[pl:Ekonomia finansowa]]
+[[pt:Economia financeira]]
+[[sv:Finansiell ekonomi]]
+[[tr:Finansal ekonomi]]
+[[zh:金融經濟學]]</text>
+      <sha1>0wd3mmlpmc3be40w580v71m9hge7em1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

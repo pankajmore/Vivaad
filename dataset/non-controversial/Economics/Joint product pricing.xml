@@ -1,0 +1,79 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Joint product pricing</title>
+    <ns>0</ns>
+    <id>254270</id>
+    <revision>
+      <id>431881496</id>
+      <parentid>368964652</parentid>
+      <timestamp>2011-05-31T19:58:21Z</timestamp>
+      <contributor>
+        <username>Chester Markel</username>
+        <id>13572522</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, typos fixed: ie.: → i.e.: using [[Project:AWB|AWB]] (7471)</comment>
+      <text xml:space="preserve" bytes="3285">{{Unreferenced|date=December 2009}}
+''' Joint Products are two or more products, produced from the same process or operation, considered to be of relative equal importance.''' 
+Pricing for joint products is a little more complex than pricing for a single product. To begin with there are two demand curves. The characteristics of each demand curve could be different. Demand for one product could be greater than for the other product. Consumers of one product could be more [[price elasticity of demand|price elastic]] than the consumers of the other product (and therefore more sensitive to changes in the product's price).
+
+To complicate things further, both products, because they are produced jointly, share a common marginal cost curve. There are complexities in the production function also. Their production could be linked in the sense that they are bi-products (referred to as complements in production), or they could be linked in the sense that they can be produced by the same inputs (referred to as substitutes in production). Also, production of the joint product could be in fixed proportions or in variable proportions.
+
+When setting prices in a situation as complex as this, microeconomic marginal analysis is helpful. In a simple case of a single product, price is set at that quantity demanded where marginal cost exactly equals marginal revenue. This is exactly what is done when joint products are produced in variable proportions.  Each product is treated separately. In fact, it might even be possible to construct separate cost functions. In the diagram below, to determine optimal pricing for joint products produced in variable proportions, you find the intersection point of marginal revenue (product A) with the joint marginal cost curve. You then extend that quantity, up to the demand curve for product A, and that gives you the [[profit maximization|profit maximizing]] price for product A (point Pa in the diagram). You do the same for product B, yielding price point Pb1.
+
+&lt;div style=&quot;float:right;width:650px;margin-left:0.1em;text-align:center&quot;&gt;[[image:price jointprod.jpg|alt text]]&lt;br&gt;'''Pricing of Joint Products'''&lt;/div&gt;
+
+If the products are produced in fixed proportions (example: cow hides and cow steaks), then one of the products will very likely be produced in quantities different from the profit maximizing amount considered separately. In fact the profit maximizing quantity and price of the second half of the joint product, will be different from the profit maximizing amount considered separately. In the diagram, product B is produced in greater amounts than the profit maximizing amount considered separately, and sold at a lower price (point Pb2) than the profit maximizing price considered separately (point Pb1). Although price is lower and output is higher, marginal cost is also higher. Yet this is a profit maximizing solution to this situation. Quantity supplied of product B is increased to the point that marginal revenue becomes zero (i.e.: the point where the marginal revenue curve intersects the horizontal axis).
+
+==See also==
+
+*[[marketing]]
+*[[pricing]]
+*[[microeconomics]]
+*[[production, costs, and pricing]]
+
+{{DEFAULTSORT:Joint Product Pricing}}
+[[Category:Marketing]]
+[[Category:Pricing]]
+
+[[de:Kuppelproduktion]]</text>
+      <sha1>p0i5kgzlnwms48ue0weuvfc9c32zutx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

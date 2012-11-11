@@ -1,0 +1,275 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Econometrics</title>
+    <ns>0</ns>
+    <id>10390</id>
+    <revision>
+      <id>521405093</id>
+      <parentid>521258984</parentid>
+      <timestamp>2012-11-04T20:22:56Z</timestamp>
+      <contributor>
+        <ip>129.241.126.226</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="33764">{{Economics sidebar}}
+'''Econometrics''' is the application of [[mathematics]] and [[statistical methods]] to economic data and described as the branch of [[economics]] that aims to give [[empirical]] content to economic relations. &lt;ref name=&quot;Pesaran&quot;&gt;[[M. Hashem Pesaran]] (1987). &quot;Econometrics,&quot; ''[[The New Palgrave: A Dictionary of Economics]]'', v. 2, p. 8 [pp. 8-22]. Reprinted in J. Eatwell ''et al.'', eds. (1990). ''Econometrics: The New Palgrave'', [http://books.google.com/books?id=gBsgr7BPJsoC&amp;dq=econometrics&amp;printsec=find&amp;pg=PA1=false#v=onepage&amp;q&amp;f=false p. 1] [pp. 1-34].  [http://www.dictionaryofeconomics.com/article?id=pde2008_E000007&amp;edition=current&amp;q=Econometrics&amp;topicid=&amp;result_number=2 Abstract] ([[The New Palgrave Dictionary of Economics|2008]] revision by J. Geweke, J. Horowitz, and H. P. Pesaran).&lt;/ref&gt; More precisely, it is &quot;the quantitative analysis of actual economic [[phenomena]] based on the concurrent development of theory and observation, related by appropriate methods of inference.&quot;&lt;ref&gt;[[Paul Samuelson|P. A. Samuelson]], [[Tjalling Koopmans|T. C. Koopmans]], and [[Richard Stone|J. R. N. Stone]] (1954). &quot;Report of the Evaluative Committee for ''Econometrica'',&quot; ''Econometrica'' 22(2), p. 142. [p [http://www.jstor.org/pss/1907538 p. 141]-146], as described and cited in Pesaran (1987) above.&lt;/ref&gt; An influential introductory economics textbook describes econometrics as allowing economists &quot;to sift through mountains of data to extract simple relationships.&quot;&lt;ref&gt;Paul A. Samuelson and [[William D. Nordhaus]], 2004. ''[[Economics (textbook)|Economics]]''. 18th ed., McGraw-Hill, p. 5.&lt;/ref&gt;  The first known use of the term &quot;econometrics&quot; (in [[cognate]] form) was by Paweł Ciompa in 1910. [[Ragnar Anton Kittil Frisch|Ragnar Frisch]] is credited with coining the term in the sense that it is used today.&lt;ref&gt;• H. P. Pesaran (1990), &quot;Econometrics,&quot; ''Econometrics: The New Palgrave'', [http://books.google.com/books?id=gBsgr7BPJsoC&amp;dq=econometrics&amp;printsec=find&amp;pg=PA2=false#v=onepage&amp;q&amp;f=false p. 2], citing Ragnar Frisch (1936), &quot;A Note on the Term 'Econometrics',&quot; ''Econometrica'', 4(1), p. 95.&lt;br/&gt;&amp;nbsp;&amp;nbsp; • Aris Spanos (2008), &quot;statistics and economics,&quot;  ''[[The New Palgrave Dictionary of Economics]]'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_S000502&amp;edition=current&amp;q=statistics&amp;topicid=&amp;result_number=1 Abstract.]&lt;/ref&gt;
+
+Econometrics is the unification of economics, mathematics, and statistics. This unification produces more than the sum of its parts.&lt;ref&gt;Greene, 1.&lt;/ref&gt; Econometrics adds empirical content to economic theory allowing theories to be tested and used for forecasting and policy evaluation.{{sfn|Geweke|Horowitz|Pesaran|2008}}  
+
+== Basic econometric models: linear regression ==
+
+The basic tool for econometrics is the [[linear regression model]]. In modern econometrics, other statistical tools are frequently used, but linear regression is still the most frequently used starting point for an analysis.&lt;ref&gt;Greene (2012), 12.&lt;/ref&gt;  Estimating a linear regression on two variables can be visualized as fitting a line through data points representing paired values of the independent and dependent variables. 
+
+[[File:Okuns law differences 1948 to mid 2011.png|thumb|right|Okun's law representing the relationship between GDP growth and the unemployment rate. The fitted line is found using regression analysis.]]
+
+For example, consider Okun's law, which relates GDP growth to the unemployment rate. This relationship is represented in a linear regression where the change in unemployment rate (&lt;math&gt;\Delta\ Unemployment&lt;/math&gt;) is a function of an intercept (&lt;math&gt; \beta_0 &lt;/math&gt;), a given value of GNP growth multiplied by a slope coefficient &lt;math&gt; \beta_1 &lt;/math&gt; and an error term, &lt;math&gt;\epsilon&lt;/math&gt;:
+
+:&lt;math&gt; \Delta\ Unemployment= \beta_0 + \beta_1\text{Growth} + \varepsilon. &lt;/math&gt;
+
+The unknown parameters &lt;math&gt; \beta_0 &lt;/math&gt; and &lt;math&gt; \beta_1 &lt;/math&gt; can be estimated.  Here &lt;math&gt; \beta_1 &lt;/math&gt; is estimated to be -1.77 and &lt;math&gt; \beta_0 &lt;/math&gt; is estimated to be 0.83. This means that if GNP grew one point faster, the unemployment rate would be predicted to drop by .94 points (-1.77*1+0.83).  The model could then be tested for [[statistical significance]] as to whether an increase in growth is associated with a decrease in the unemployment, as [[hypothesis test|hypothesized]]. If the estimate of &lt;math&gt; \beta_1 &lt;/math&gt; were not significantly different from 0, we would fail to find evidence that changes in the growth rate and unemployment rate were related.
+
+==Theory==
+{{see also|Estimation theory}}
+Econometric theory uses [[statistical theory]] to evaluate and develop econometric methods. Econometricians try to find [[estimator]]s that have desirable statistical properties including [[Bias of an estimator|unbiasedness]], [[Efficiency (statistics)|efficiency]], and [[Consistent estimator|consistency]]. An estimator is unbiased if its expected value is the true value of the parameter; It is consistent if it converges to the true value as sample size gets larger, and it is efficient if the estimator has lower standard error than other unbiased estimators for a given sample size.  [[Ordinary least squares]] (OLS) is often used for estimation since it provides the BLUE or &quot;best linear unbiased estimator&quot; (where &quot;best&quot; means most efficient, unbiased estimator) given the Gauss-Markov assumptions. When these assumptions are violated or other statistical properties are desired, other estimation techniques such as [[maximum likelihood estimation]], [[generalized method of moments]], or [[generalized least squares]] are used. [[Bayes estimator|Estimators that incorporate prior beliefs]] are advocated by those who favor [[Bayesian statistics]] over traditional,  classical or [[Frequentist probability|&quot;frequentist&quot; approaches]].
+
+===Gauss-Markov theorem===
+The [[Gauss-Markov theorem]] shows that the OLS estimator is the best (minimum variance), unbiased estimator assuming the model is [[linear model|linear]], the [[expected value]] of the error term is zero, errors are [[homoskedastic]] and not [[autocorrelated]], and there is no perfect [[multicollinearity]].
+
+====Linearity====
+The dependent variable is assumed to be a linear function of the variables specified in the model. The specification must be linear in its parameters. This does not mean that there must be a linear relationship between the independent and dependent variables. The independent variables can take non-linear forms as long as the parameters are linear.  The equation &lt;math&gt; y = \alpha + \beta x^2, \,&lt;/math&gt; qualifies as linear while &lt;math&gt; y = \alpha + \beta^2 x&lt;/math&gt;, does not.
+
+[[Data transformation (statistics)|Data transformations]] can be used to convert an equation into a linear form. For example, the [[Cobb-Douglas]] equation—often used in economics—is nonlinear:
+:&lt;math&gt;Y=AL^{\alpha}K^{\beta}\varepsilon \,&lt;/math&gt;
+
+But it can be expressed in linear form by taking the [[natural logarithm]] of both sides:{{sfn|Kennedy|2003|p=110}}
+&lt;math&gt;ln Y=ln A + \alpha ln L + \beta lnK + ln\varepsilon&lt;/math&gt;
+
+This assumption also covers specification issues: assuming that the proper [[functional form]] has been selected and there are no [[Omitted-variable bias|omitted variables]].
+
+====Expected error is zero====
+:&lt;math&gt;\operatorname{E}[\,\varepsilon\,] = 0.&lt;/math&gt;
+The expected value of the error term is assumed to be zero. This assumption can be violated if the measurement of the dependent variable is consistently positive or negative. The miss-measurement will bias the estimation of the intercept parameter, but the slope parameters will remain unbiased.{{sfn|Kennedy|2003|p=129}}
+
+The intercept may also be biased if there is a logarithmic transformation. See the Cobb-Douglas equation above. The multiplicative error term will not have a mean of 0, so this assumption will be violated.{{sfn|Kennedy|2003|p=131}}
+
+This assumption can also be violated in [[limited dependent variable]] models. In such cases, both the intercept and slope parameters may be biased.{{sfn|Kennedy|2003|p=130}}
+
+====Spherical errors====
+:&lt;math&gt;\operatorname{Var}[\,\varepsilon|X\,] = \sigma^2 I_n,&lt;/math&gt;
+Error terms are assumed to be spherical otherwise the OLS estimator is inefficient.  The OLS estimator remains unbiased, however. Spherical errors occur when errors have both uniform variance ([[homoscedasticity]]) and are uncorrelated with each other.{{sfn|Kennedy|2003|p=133}} The term &quot;spherical errors&quot; will describe the multivariate normal distribution: if &lt;math&gt;\operatorname{Var}[\,\varepsilon|X\,] = \sigma^2 I_n&lt;/math&gt; in the multivariate normal density, then the equation f(x)=c is the formula for a “ball” centered at μ with radius σ in n-dimensional space.{{sfn|Greene|2012|p=23-note}} 
+
+Heteroskedacity occurs when the amount of error is correlated with an independent variable. For example, in a regression on food expenditure and income, the error is correlated with income.  Low income people generally spend a similar amount on food, while high income people may spend a very large amount or as little as low income people spend. Heteroskedacity can also be caused by changes in measurement practices. For example, as statistical offices improve their data, measurement error decreases, so the error term declines over time. 
+
+This assumption is violated when there is [[autocorrelation]].  Autocorrelation can be visualized on a data plot when a given observation is more likely to lie above a fitted line if adjacent observations also lie above the fitted regression line. Autocorrelation is common in time series data where a data series may experience &quot;inertia.&quot;{{sfn|Greene|2010|p=22}} If a dependent variable takes a while to fully absorb a shock. Spatial autocorrelation can also occur geographic areas are likely to have similar errors. Autocorrelation may be the result of misspecification such as choosing the wrong functional form. In these cases, correcting the specification is the preferred way to deal with autocorrelation. 
+
+In the presence of non-spherical errors, the generalized least squares estimator can be shown to be BLUE.{{sfn|Kennedy|2003|p=135}}
+
+====Exogeniety of independent variables====
+:&lt;math&gt;\operatorname{E}[\,\varepsilon|X\,] = 0.&lt;/math&gt;
+This assumption is violated if the variables are [[Endogeneity (economics)|endogenous]]. Endogeneity can be the result of [[simultaneity]], where causality flows back and forth between both the dependent and independent variable. [[Instrumental variable]] techniques are commonly used to address this problem.
+
+====Full rank====
+The sample data matrix must have full [[Rank (linear algebra)|rank]] or OLS cannot be estimated. There must be at least one observation for every parameter being estimated and the data cannot have perfect multicollinearity.{{sfn|Kennedy|2003|p=205}} Perfect multicollinearity will occur in a &quot;dummy variable trap&quot; when a base dummy variable is not omitted resulting in perfect correlation between the dummy variables and the constant term. 
+
+Multicollinearity (as long as it is not &quot;perfect&quot;) can be present resulting in a less efficient, but still unbiased estimate.
+
+==Methods==
+{{see also|Methodology of econometrics}}
+
+''Applied econometrics'' uses theoretical econometrics and real-world [[economic data|data]] for assessing economic theories, developing [[econometric model]]s, analyzing [[economic history]], and [[economic forecast|forecasting]].&lt;ref&gt;[[Clive Granger]] (2008). &quot;forecasting,&quot;
+''The New Palgrave Dictionary of Economics'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_F000161&amp;edition=current&amp;q=forecast&amp;topicid=&amp;result_number=7 Abstract.]&lt;/ref&gt; 
+
+Econometrics may use standard [[statistical model]]s to study economic questions, but most often they are with [[observational study|observational]] data, rather than in [[experiment|controlled experiments]]. In this, the design of observational studies in econometrics is similar to the design of studies in other observational disciplines, such as astronomy, epidemiology, sociology and political science. Analysis of data from an observational study is guided by the study protocol, although [[Exploratory data analysis|exploratory]] [[data analysis]] may by useful for generating new hypotheses.&lt;ref&gt;[[Herman Wold|Herman O. Wold]] (1969). &quot;Econometrics as Pioneering in Nonexperimental Model Building,&quot; ''Econometrica'', 37(3), pp. [http://www.jstor.org/pss/1912787 369]-381.&lt;/ref&gt; Economics often analyzes systems of equations and inequalities, such as [[supply and demand]] hypothesized to be in [[equilibrium (economics)|equilibrium]]. Consequently, the field of econometrics has developed methods for [[parameter identification problem|identification]] and [[estimation theory|estimation]] of [[simultaneous equation methods (econometrics)|simultaneous-equation models]]. These methods are analogous to methods used in other areas of science, such as the field of [[system identification]] in [[systems analysis]] and [[control theory]].  Such  methods may allow researchers to estimate models and investigate their empirical consequences, without directly manipulating the system. 
+
+One of the fundamental statistical methods used by econometricians is [[regression analysis]]. For an overview of a linear implementation of this framework, see [[linear regression]].  Regression methods are important in econometrics because economists typically cannot use [[Contrived experiment|controlled experiments]]. Econometricians often seek illuminating [[natural experiment]]s in the absence of evidence from controlled experiments. Observational data may be subject to [[omitted-variable bias]] and a list of other problems that must be addressed using causal analysis of simultaneous-equation models.&lt;ref&gt;Edward E. Leamer (2008). &quot;specification problems in econometrics,&quot; ''The New Palgrave Dictionary of Economics''. [http://www.dictionaryofeconomics.com/article?id=pde2008_S000200&amp;edition=current&amp;q=Specification%20problems%20in%20econometrics&amp;topicid=&amp;result_number=1 Abstract.]&lt;/ref&gt;    
+
+===Experimental economics===
+In recent decades, econometricians have increasingly turned to use of [[experimental economics|experiments]] to evaluate the often-contradictory conclusions of observational studies. Here, controlled and randomized experiments provide statistical inferences that may yield better empirical performance than do purely observational studies.&lt;ref&gt;• H. Wold 1954. &quot;Causality and Econometrics,&quot; ''[[Econometrica]]'', 22(2), p [http://www.jstor.org/pss/1907540 p. 162]-177.&lt;br/&gt;&amp;nbsp;&amp;nbsp; • Kevin D. Hoover (2008). &quot;causality in economics and econometrics,&quot; ''The New Palgrave Dictionary of Economics'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_C000569&amp;q=experimental%20methods%20in%20economics&amp;topicid=&amp;result_number=11 Abstract] and [http://econ.duke.edu/~kdh9/Source%20Materials/Research/Palgrave_Causality_Final.pdf galley proof.]&lt;/ref&gt;
+
+===Data===
+[[Data set]]s to which econometric analyses are applied can be classified as [[time-series data]], [[cross-sectional data]], [[panel data]], and [[multidimensional panel data]].  Time-series data sets contain observations over time; for example, inflation over the course of several years. Cross-sectional data sets contain observations at a single point in time; for example, many individuals' incomes in a given year.  Panel data sets contain both time-series and cross-sectional observations. Multi-dimensional panel data sets contain observations across time, cross-sectionally, and across some third dimension. For example, the [[Survey of Professional Forecasters]] contains forecasts for many forecasters (cross-sectional observations), at many points in time (time series observations), and at multiple forecast horizons (a third dimension). 
+
+===Instrumental variables===
+In many econometric contexts, the commonly-used [[ordinary least squares]] method may not recover the theoretical relation desired or may produce estimates with poor statistical properties, because the assumptions for valid use of the method are violated. One widely-used remedy is the method of [[instrumental variable]]s (IV). For an economic model described by more than one equation, [[Simultaneous equation methods (econometrics)|simultaneous-equation methods]] may be used to remedy similar problems, including two IV variants, Two-Stage Least Squares ([[2SLS]]), and Three-Stage Least Squares ([[3SLS]]).&lt;ref&gt;[[Peter Kennedy (economist)]] (2003). ''A Guide to Econometrics'', 5th ed. [http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=9577 Description],  [http://books.google.com/books?id=B8I5SP69e4kC&amp;printsec=find&amp;pg=PR5=gbs_atb#v=onepage&amp;q&amp;f=false preview], and [http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=9577&amp;mode=toc TOC], ch. 9, 10, 13, and 18.&lt;/ref&gt;   
+
+===Computational methods===
+[[Computational economics|Computational concerns]] are important for evaluating econometric methods and for use in decision making.&lt;ref&gt;• Keisuke Hirano (2008). &quot;decision theory in econometrics,&quot; ''The New Palgrave Dictionary of Economics'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_D000244&amp;edition=current&amp;q=Computational%20economics&amp;topicid=&amp;result_number=19 Abstract].&lt;br/&gt;&amp;nbsp;&amp;nbsp; • [[James O. Berger]] (2008). &quot;statistical decision theory,&quot; ''The New Palgrave Dictionary of Economics'', 2nd Edition.  [http://www.dictionaryofeconomics.com/article?id=pde2008_S000251&amp;edition=&amp;field=keyword&amp;q=statistical%20decision%20theory&amp;topicid=&amp;result_number=1 Abstract.]&lt;/ref&gt; Such concerns include [[mathematics|mathematical]] [[well-posed problem|well-posedness]]: the [[existence]], [[uniqueness]], and [[stability theory|stability]] of any solutions to econometric equations. Another concern is the numerical efficiency and accuracy of software.&lt;ref&gt;B. D. McCullough and H. D. Vinod (1999). &quot;The Numerical Reliability of Econometric Software,&quot; ''Journal of Economic Literature'', 37(2), pp. [http://www.pages.drexel.edu/~bdm25/jel.pdf 633-665].&lt;/ref&gt; A third concern is also the usability of [[econometric software]].&lt;ref&gt;• Vassilis A. Hajivassiliou (2008). &quot;computational methods in econometrics,&quot; ''The New Palgrave Dictionary of Economics'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_C000559&amp;edition=current&amp;q=&amp;result_number=1 Abstract.]&lt;br/&gt;&amp;nbsp;&amp;nbsp; • [[Richard E. Quandt]] (1983). &quot;Computational Problems and Methods,&quot;  ch. 12, in ''Handbook of Econometrics'', v. 1, pp. [http://www.sciencedirect.com/science/article/pii/S1573441283010168 699]-764.&lt;br/&gt;&amp;nbsp;&amp;nbsp; • [[Ray C. Fair]] (1996). &quot;Computational Methods for Macroeconometric Models,&quot; ''Handbook of Computational Economics'', v. 1, pp. [http://www.sciencedirect.com/science/article/pii/S1574002196010052143]-169.&lt;/ref&gt;
+
+==Example==
+A simple example of a relationship in econometrics from the field of [[labor economics]] is:
+
+:&lt;math&gt; \ln(\text{wage}) = \beta_0 + \beta_1 (\text{years of education}) + \varepsilon. &lt;/math&gt;
+
+This example assumes that the [[natural logarithm]] of a person's wage is a linear function of (among other things) the number of years of education that person has acquired. The parameter &lt;math&gt;\beta_1&lt;/math&gt; measures the increase in the natural log of the wage attributable to one more year of education.    The term &lt;math&gt;\varepsilon&lt;/math&gt; is a random variable representing all other factors that may have direct influence on wage. The econometric goal is to estimate the parameters, &lt;math&gt;\beta_0 \mbox{ and } \beta_1 &lt;/math&gt; under specific assumptions about the random variable &lt;math&gt;\varepsilon&lt;/math&gt;. For example, if &lt;math&gt;\varepsilon&lt;/math&gt; is uncorrelated with years of education, then the equation can be estimated with [[linear regression|ordinary least squares]]. 
+
+If the researcher could randomly assign people to different levels of education, the data set thus generated would allow estimation of the effect of changes in years of education on wages. In reality, those experiments cannot be conducted. Instead, the econometrician observes the years of education of and the wages paid to people who differ along many dimensions. Given this kind of data, the estimated coefficient on Years of Education in the equation above reflects both the effect of education on wages and the effect of other variables on wages, if those other variables were correlated with education. For example, people born in certain places may have higher wages and higher levels of education. Unless the econometrician controls for place of birth in the above equation, the effect of birthplace on wages may be falsely attributed to the effect of education on wages. 
+
+The most obvious way to control for birthplace is to include a measure of the effect of birthplace in the equation above. Exclusion of birthplace, together with the assumption that &lt;math&gt;\epsilon&lt;/math&gt; is uncorrelated with education produces a misspecified model. Another technique is to include in the equation additional set of measured covariates which are not instrumental variables, yet render &lt;math&gt;\beta_1&lt;/math&gt; identifiable.&lt;ref name=pearl00&gt;[[Judea Pearl]] (2000).  ''Causality:  Model, Reasoning, and Inference'', Cambridge University Press.&lt;/ref&gt;  An overview of econometric methods used to study this problem can be found in Card (1999).&lt;ref name=Card:00&gt;[[David Card]] (1999) &quot;The Causal Effect of Education on Earning,&quot; in Ashenfelter, O. and Card, D., (eds.) ''Handbook of Labor Economics'', pp 1801-63.&lt;/ref&gt;
+
+==Journals==
+The main journals which publish work in econometrics are ''[[Econometrica]]'', the ''[[Journal of Econometrics]]'', the ''[[Review of Economics and Statistics]]'', ''[[Econometric Theory]]'', the ''[[Journal of Applied Econometrics]]'', ''[[Econometric Reviews]]'', the ''[[Econometrics Journal]]'',&lt;ref&gt;http://www.wiley.com/bw/journal.asp?ref=1368-4221&lt;/ref&gt; ''[[Applied Econometrics and International Development]]'', the ''[[Journal of Business &amp; Economic Statistics]]'', and the ''[http://www.iospress.nl/html/07479662.php Journal of Economic and Social Measurement]''.
+
+==Limitations and criticisms==
+::''See also [[Criticisms of econometrics]]''
+Like other forms of statistical analysis, badly specified econometric models may show a [[spurious correlation]] where two variables are correlated but causally unrelated. In a study of the use of econometrics in major economics journals, [[Deidre McCloskey|McCloskey]]  concluded that economists report [[p value]]s (following the [[Ronald A. Fisher|Fisherian]] tradition of [[tests of significance]] of point [[null hypothesis|null-hypotheses]]), neglecting concerns of [[type II error]]s; economists fail to report estimates of the size of effects (apart from [[statistical significance]]) and to discuss their economic importance.  Economists also fail to use economic reasoning for [[model selection]], especially for deciding which variables to include in a regression.&lt;ref&gt;{{cite journal |title=The Loss Function has been mislaid: the Rhetoric of Significance Tests|last=McCloskey|journal=American Economic Review|year=1985|month=May|volume=75|issue=2}}&lt;/ref&gt;&lt;ref&gt;[[Stephen Ziliak|Stephen T. Ziliak]] and [[Deirdre McCloskey|Deirdre N. McCloskey]] (2004). &quot;Size Matters: The Standard Error of Regressions in the ''American Economic Review'',&quot; ''Journal of Socio-economics'', 33(5), pp. [http://faculty.roosevelt.edu/Ziliak/doc/Size%20Matters%20Journal%20of%20Socio-Economics%20Ziliak%20and%20McCloskey.pdf 527-46] (press '''+''').&lt;/ref&gt;
+
+In some cases, economic variables cannot be experimentally manipulated as treatments randomly assigned to subjects.&lt;ref&gt;{{cite journal|last=Leamer|first=Edward|title=Let's Take the Con out of Econometrics|journal=American Economic Review|year=1983|month=March|volume=73|issue=1|url=http://www.jstor.org/pss/1803924|page=34}}&lt;/ref&gt; In such cases, economists rely on [[observational studies]], often using data sets with many strongly associated [[covariate]]s, resulting in enormous numbers of models with similar explanatory ability but different covariates and regression estimates. Regarding the plurality of models compatible with observational data-sets, [[Edward Leamer]] urged that &quot;professionals ... properly withhold belief until an inference can be shown to be adequately insensitive to the choice of assumptions&quot;.&lt;ref&gt;{{cite journal|last=Leamer|first=Edward|title=Let's Take the Con out of Econometrics|journal=American Economic Review|year=1983|month=March|volume=73|issue=1|url=http://www.jstor.org/pss/1803924|page=43}}&lt;/ref&gt;
+
+Economists from the [[Austrian School]] argue that aggregate economic models are not well suited to describe economic reality because they waste a large part of specific knowledge. [[Friedrich Hayek]] in his ''[[The Use of Knowledge in Society]]'' argued that &quot;knowledge of the particular circumstances of time and place&quot; is not easily aggregated and is often ignored by professional economists.&lt;ref&gt;Robert F. Garnett. ''What Do Economists Know? New Economics of Knowledge''. Routledge, 1999. ISBN 978-0-415-15260-0. p. 170&lt;/ref&gt;&lt;ref&gt;G. M. P. Swann. ''Putting Econometrics in Its Place: A New Direction in Applied Economics''. Edward Elgar Publishing, 2008. ISBN 978-1-84720-776-0. p. 62-64&lt;/ref&gt;
+
+== See also ==
+* [[Augmented Dickey–Fuller test]]
+* [[Choice Modelling]]
+* [[Correlation does not imply causation]]
+* [[Cowles Foundation]]
+* [[Criticisms of econometrics]]
+* [[Econometric software]]
+* [[Granger causality]]
+* [[List of publications in economics#Econometrics|Important publications in econometrics]]
+* [[Lucas critique]]
+* [[Macroeconomic model]]
+* [[Master of Economics]]
+* [[Methodological individualism]]
+* [[Methodology of econometrics]]
+* [[Modeling and analysis of financial markets]]
+* [[Predetermined variables]]
+* [[Single equation methods (econometrics)]]
+* [[Spatial econometrics]]
+* [[Unit root]]
+
+==Notes==
+{{reflist|1}}
+
+==References==
+* ''Handbook of Econometrics'' Elsevier. Links to volume chapter-preview links:&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Zvi Griliches]] and Michael D. Intriligator, ed. (1983). [http://www.sciencedirect.com/science/handbooks/15734412/1 v. 1]; (1984),[http://www.sciencedirect.com/science/handbooks/15734412/2 v. 2]; (1986), [http://www.elsevier.com/wps/find/bookdescription.cws_home/601080/description#description description], [http://www.sciencedirect.com/science/handbooks/15734412/3 v. 3]; (1994), [http://www.elsevier.com/wps/find/bookdescription.cws_home/601081/description#description description], [http://www.sciencedirect.com/science/handbooks/15734412/4 v. 4]&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Robert F. Engle]] and [[Daniel L. McFadden]], ed. (2001).[http://www.elsevier.com/wps/find/bookdescription.cws_home/601082/description#description Description],  [http://www.sciencedirect.com/science/handbooks/15734412/5 v. 5]&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[James J. Heckman]] and [[Edward E. Leamer]], ed. (2007). [http://www.elsevier.com/wps/find/bookdescription.cws_home/712946/description#description Description], [http://www.sciencedirect.com/science/handbooks/15734412/6/part/PA v. 6A] &amp; [http://www.sciencedirect.com/science/handbooks/15734412/6/part/PB v. 6B]
+* ''Handbook of Statistics'', v. 11, ''Econometrics'' (1993), Elsevier. Links to first-page chapter [http://www.sciencedirect.com/science/handbooks/01697161/11 previews.]
+* ''[[International Encyclopedia of the Social &amp; Behavioral Sciences]]'' (2001), Statistics, &quot;Econometrics and Time Series,&quot; [http://www.sciencedirect.com/science?_ob=RefWorkIndexURL&amp;_idxType=SC&amp;_cdi=23486&amp;_refWorkId=21&amp;_explode=151000377,151000380&amp;_alpha=&amp;_acct=C000050221&amp;_version=1&amp;_userid=10&amp;md5=10d43da5ed3104bf3d8bb99f72c80e11&amp;refID=151000380#151000380 links] to first-page previews of 21 articles.
+* Angrist, Joshua &amp; Pischke, Jörn‐Steffen (2010). &quot;The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics''],  24(2), , pp.&amp;nbsp;3–30.  [http://www.ingentaconnect.com/content/aea/jep/2010/00000024/00000002/art00001 Abstract.]
+* Eatwell,  John, ''et al.'', eds. (1990).  ''Econometrics: The New Palgrave''.  Article-preview [http://books.google.com/books?id=gBsgr7BPJsoC&amp;dq=econometrics&amp;printsec=find&amp;pg=PR5=false#v=onepage&amp;q&amp;f=false links] (from ''[[The New Palgrave: A Dictionary of Economics]], 1987).
+* {{cite journal |url=http://www.dictionaryofeconomics.com.proxyau.wrlc.org/article?id=pde2008_E000007| first1=John | year=2008 | last1=Geweke| first2=Joel |last2=Horowitz|first3=Hashem|last3=Pesaran| title=Econometrics|work=The New Palgrave Dictionary of Economics|editor1-first=Steven N.|editor1-last=Durlauf|editor2-first=Lawrence E.|editor2-last=Blume| publisher=Palgrave Macmillan|doi=10.1057/9780230226203.0425|ref=harv}}
+* Greene, William H. (1999, 4th ed.) ''Econometric Analysis'', Prentice Hall.
+* [[Fumio Hayashi|Hayashi, Fumio]]. (2000) ''Econometrics'', Princeton University Press. ISBN 0-691-01018-8 Description and contents [http://press.princeton.edu/titles/6946.html links.]
+* [[James D. Hamilton|Hamilton, James D.]] (1994) ''Time Series Analysis'', Princeton University Press. [http://press.princeton.edu/titles/5386.html Description] and [http://books.google.com/books/p/princeton?id=B8_1UBmqVUoC&amp;printsec=frontcover&amp;cd=1&amp;source=gbs_ViewAPI&amp;hl=en#v=onepage&amp;q&amp;f=false preview.]
+* Kelejian, Harry H., and Wallace E. Oates (1989, 3rd ed.) ''Introduction to Econometrics''.
+* {{cite book | last = Kennedy | first = Peter | title = A guide to econometrics | publisher = MIT Press | location = Cambridge, Mass | year = 2003 | isbn = 978-0-262-61183-1|ref=harv }}
+* Russell Davidson and [[James G. MacKinnon]] (2004). ''Econometric Theory and Methods.'' New York: Oxford University Press. [http://www.oup.com/us/catalog/general/subject/Economics/Econometrics/~~/dmlldz11c2EmY2k9OTc4MDE5NTEyMzcyMg==?view=usa&amp;ci=9780195123722#Description Description.]
+* Mills, Terence C., and Kerry Patterson, ed. ''Palgrave Handbook of Econometrics'':
+:(2007) v. 1: ''Econometric Theory''v. 1. [http://www.palgrave.com/products/title.aspx?pid=269866 Links] to description and contents.
+:(2009) v. 2, ''Applied Econometrics''. Palgrave Macmillan. ISBN 978-1-4039-1799-7 [http://www.palgrave.com/products/title.aspx?PID=267962 Links] to description and contents.
+* [[Judea Pearl|Pearl, Judea]] (2009, 2nd ed.). ''Causality: Models, Reasoning and Inference'', Cambridge University Press, [http://books.google.com/books?id=wnGU_TsW3BQC&amp;source=gbs_navlinks_s Description], [http://bayes.cs.ucla.edu/BOOK-09/book-toc-final.pdf TOC], and preview, [http://books.google.com/books?id=wnGU_TsW3BQC&amp;printsec=find&amp;pg=PR7=gbs_atb#v=onepage&amp;q&amp;f=false ch. 1-10] and [http://bayes.cs.ucla.edu/BOOK-09/ch11-toc-plus-p331-final.pdf ch. 11]. 5 economics-journal [http://bayes.cs.ucla.edu/BOOK-2K/ reviews], including Kevin D. Hoover, ''Economics Journal''.
+* Pindyck, Robert S., and Daniel L. Rubinfeld (1998, 4th ed.). ''Econometric Methods and Economic Forecasts'', McGraw-Hill.
+* Studenmund, A.H. (2011, 6th ed.). ''Using Econometrics: A Practical Guide''. Contents (chapter-preview) [http://www.coursesmart.com/9780131367760/chap01 links.]
+* Wooldridge, Jeffrey (2003).  ''Introductory Econometrics: A Modern Approach.''  Mason: Thomson South-Western.  ISBN 0-324-11364-1 Chapter-preview links in [http://books.google.com/books?id=64vt5TDBNLwC&amp;printsec=find&amp;pg=PR3=gbs_atb#v=onepage&amp;q&amp;f=false brief] and [http://books.google.com/books?id=64vt5TDBNLwC&amp;printsec=find&amp;pg=PR4=gbs_atb#v=onepage&amp;q&amp;f=false detail.]
+
+== Further reading ==
+
+* [[wikibooks:Econometric Theory|Econometric Theory book on Wikibooks]]
+* Giovanini, Enrico [http://www.oecd.org/statistics/understandingeconomicstatistics ''Understanding Economic Statistics''], OECD Publishing, 2008, ISBN 978-92-64-03312-2
+
+==External links==
+{{Wiktionary}}
+* [http://www.econometricsociety.org Econometric Society]
+* [http://www.ectj.org The Econometrics Journal]
+* [http://www.econometriclinks.com Econometric Links]
+* [http://www.economicsnetwork.ac.uk/subjects/econometrics.htm Teaching Econometrics] (Index by the [[Economics Network]] (UK))
+* [http://www.aea-eu.com Applied Econometric Association]
+* [http://sofie.stern.nyu.edu/ The Society for Financial Econometrics]
+
+{{Economics}}
+
+[[Category:Econometrics| ]]
+[[Category:Mathematical and quantitative methods (economics)]]
+[[Category:Formal sciences]]
+
+{{Link FA|ru}}
+
+[[af:Ekonometrie]]
+[[ar:اقتصاد قياسي]]
+[[az:Ekonometrika]]
+[[be:Эканаметрыка]]
+[[be-x-old:Эканамэтрыка]]
+[[bg:Иконометрия]]
+[[ca:Econometria]]
+[[cs:Ekonometrie]]
+[[da:Økonometri]]
+[[de:Ökonometrie]]
+[[et:Ökonomeetria]]
+[[el:Οικονομετρία]]
+[[es:Econometría]]
+[[eo:Ekonometrio]]
+[[eu:Ekonometria]]
+[[fa:اقتصادسنجی]]
+[[fr:Économétrie]]
+[[ga:Eacnaiméadracht]]
+[[ko:계량경제학]]
+[[hi:अर्थमिति]]
+[[id:Ekonometrika]]
+[[it:Econometria]]
+[[he:אקונומטריקה]]
+[[jv:Ékonomètrika]]
+[[ka:ეკონომეტრიკა]]
+[[kk:Эконометрика (Эконометрия)]]
+[[lo:ເອໂຄໂນເມທຣິກ]]
+[[lt:Ekonometrija]]
+[[hu:Ökonometria]]
+[[mk:Економетрија]]
+[[mn:Эконометрик]]
+[[nl:Econometrie]]
+[[ja:計量経済学]]
+[[no:Økonometri]]
+[[nn:Økonometri]]
+[[pl:Ekonometria]]
+[[pt:Econometria]]
+[[ro:Econometrie]]
+[[ru:Эконометрика]]
+[[sq:Ekonometria]]
+[[simple:Econometrics]]
+[[sk:Ekonometria]]
+[[su:Ékonométri]]
+[[fi:Ekonometria]]
+[[sv:Ekonometri]]
+[[tl:Ekonometriks]]
+[[tr:Ekonometri]]
+[[uk:Економетрія]]
+[[vi:Kinh tế lượng]]
+[[war:Ekonometrika]]
+[[zh:计量经济学]]</text>
+      <sha1>hjsyzjiombzb81lej8wzm8tpes7in9b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

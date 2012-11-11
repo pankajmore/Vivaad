@@ -1,0 +1,101 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lucas critique</title>
+    <ns>0</ns>
+    <id>561221</id>
+    <revision>
+      <id>508295024</id>
+      <parentid>507672431</parentid>
+      <timestamp>2012-08-20T14:22:51Z</timestamp>
+      <contributor>
+        <username>Buldri</username>
+        <id>203689</id>
+      </contributor>
+      <text xml:space="preserve" bytes="6355">The '''Lucas critique''', named for [[Robert Lucas, Jr.|Robert Lucas]]' work on macroeconomic policymaking, argues that it is naïve to try to predict the effects of a change in economic policy entirely on the basis of relationships observed in historical data, especially highly [[Aggregate data|aggregated]] historical data.&lt;ref name=&quot;Lucas76&quot;&gt; {{cite journal | title = Econometric policy evaluation: A critique | journal = Carnegie-Rochester Conference Series on Public Policy | date = 1976-01-01 | first = Robert | last = Lucas | volume = 1 | issue = 1 | pages = 19-46| id = | accessdate = 2012-05-20}}&lt;/ref&gt;
+
+The basic idea pre-dates Lucas' contribution (related ideas are expressed as [[Campbell's Law]] and [[Goodhart's Law]]), but in a 1976 paper Lucas drove home the point that this simple notion invalidated policy advice based on conclusions drawn from [[large-scale macroeconometric model]]s.  Because the parameters of those models were not structural, i.e. not policy-invariant, they would necessarily change whenever policy (the rules of the game) was changed.  Policy conclusions based on those models would therefore potentially be misleading.  This argument called into question the prevailing large-scale econometric models that lacked foundations in dynamic economic theory. Lucas summarized his critique:
+:&quot;Given that the structure of an econometric model consists of optimal decision rules of economic agents, and that optimal decision rules vary systematically with changes in the structure of series relevant to the decision maker, it follows that any change in policy will systematically alter the structure of econometric models.&quot;&lt;ref&gt;Lucas (1976), p. 41.&lt;/ref&gt;
+
+The Lucas critique is, in essence, a negative result.  It tells economists, primarily, how ''not'' to do economic analysis.  The Lucas critique suggests that if we want to predict the effect of a policy experiment, we should model the &quot;deep parameters&quot; (relating to [[preferences]], [[production function|technology]] and [[budget constraint|resource constraints]]) that are assumed to govern ''individual'' behavior; so called &quot;[[microfoundations]]&quot;.  If these models can account for observed empirical regularities, we can then predict what individuals will do, ''taking into account'' the change in policy, and then aggregate the individual decisions to calculate the macroeconomic effects of the policy change.&lt;ref&gt;Lucas (1976), p. 21.&lt;/ref&gt;  Shortly after the publication of Lucas' article, [[Finn E. Kydland|Kydland]] and [[Edward Prescott|Prescott]] published the article &quot;Rules rather than Discretion...&quot;, where they not only described general structures where short-term benefits that are negated in the future through changes in expectations, but also how time consistency might overcome such instances. That article and subsequent research lead to a positive research program for how to do dynamic, quantitative economics.&lt;ref name=&quot;Levine04&quot;&gt;{{cite web  |title=Kydland and Prescott: Economists | |author = [[David K. Levine]] |url=http://levine.sscnet.ucla.edu/general/kp.htm | accessdate=August 12, 2012}}&lt;/ref&gt;
+
+==Examples==
+One important application of the critique (independent of proposed microfoundations) is its implication that the historical negative correlation between [[inflation]] and [[unemployment]], known as the [[Phillips Curve]], could break down if the monetary authorities attempted to exploit it. Permanently raising inflation in hopes that this would permanently lower unemployment would eventually cause firms' inflation [[forecasts]] to rise, altering their employment decisions. Said another way, just because high inflation was associated with low unemployment under early-twentieth-century [[monetary policy]] does not mean we should expect high inflation to lead to low unemployment under all alternative monetary policy regimes.
+
+For an especially simple example, note that [[United States Bullion Depository|Fort Knox]] has never been robbed. However, this does not mean the guards can safely be eliminated, since the incentive not to rob Fort Knox depends on the presence of the guards. In other words, with the heavy security that exists at the fort today, criminals are unlikely to attempt a robbery because they know they are unlikely to succeed.  But a change in security policy, such as eliminating the guards for example, would lead criminals to reappraise the costs and benefits of robbing the fort.  So just because there are no robberies under the current policy does not mean this should be expected to continue under all possible policies.
+
+==Citations==
+{{reflist}}
+
+==See also==
+*[[Dynamic inconsistency]]
+*[[Game theory]]
+*[[Dynamic stochastic general equilibrium]]
+*[[Real business cycles]]
+*[[Policy Ineffectiveness Proposition]]
+*[[Goodhart's Law]]
+*[[Campbell's Law]]
+*[[Rational Expectations]]
+*[[Macroeconomic model]]
+*[[Methodological individualism]]
+*[[Problem of induction]]
+*[[Variable change]]
+*[[Hasty generalization]]
+*[[McNamara fallacy]]
+
+==Further reading==
+*{{Citation |last=Lucas |first=Robert |editor1-last=Brunner |editor1-first=K. |editor1-link=Karl Brunner (economist) |editor2-last=Meltzer |editor2-first=A. |year=1976 |chapter=Econometric Policy Evaluation: A Critique |title=The Phillips Curve and Labor Markets |series=Carnegie-Rochester Conference Series on Public Policy |volume=1 |issue= |pages=19–46 |location=New York |publisher=American Elsevier |isbn=0-444-11007-0 }}
+*{{Citation |last=Kydland |first=Finn E. |last2=Prescott |first2=Edward C. |year=1977 |title=Rules Rather Than Discretion: The Inconsistency of Optimal Plans |journal=Journal of Political Economy |volume=85 |issue= 3|pages=473–491 |url= |doi=10.1086/260580 }}
+*{{Citation |last=Tesfatsion |first=Leigh |authorlink= |date=2010 |title=Notes on the Lucas Critique, Time Inconsistency, and Related Issues |url=http://www.econ.iastate.edu/tesfatsi/luccrit.pdf }}
+*{{Citation |last=Sargent |first=Thomas |authorlink= |date=1996 |title=Expectations and the Nonneutrality of Lucas |journal=Journal of Monetary Economics }}
+
+[[Category:Economic policy]]
+[[Category:Macroeconomic policy]]
+[[Category:New classical macroeconomics]]
+
+[[de:Lucas-Kritik]]
+[[fr:Critique de Lucas]]
+[[he:הביקורת של לוקאס]]
+[[nl:Lucas-kritiek]]
+[[pl:Krytyka Lucasa]]
+[[ru:Критика Лукаса]]
+[[sv:Lucaskritiken]]</text>
+      <sha1>hybrx21n1v1ijl301lo7ffq4wqccu3p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,103 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Subgame perfect equilibrium</title>
+    <ns>0</ns>
+    <id>6954902</id>
+    <revision>
+      <id>503462800</id>
+      <parentid>496203115</parentid>
+      <timestamp>2012-07-21T17:34:56Z</timestamp>
+      <contributor>
+        <username>Khazar2</username>
+        <id>16460235</id>
+      </contributor>
+      <comment>clean up, typos fixed: well-known → well known using [[Project:AWB|AWB]] (8097)</comment>
+      <text xml:space="preserve" bytes="5157">{{Infobox equilibrium|
+name=Subgame Perfect Equilibrium|
+subsetof=[[Nash equilibrium]]|
+intersectwith=[[Evolutionarily stable strategy]]|
+discoverer=[[Reinhard Selten]]|
+usedfor=[[Extensive form game]]s|
+example=[[Ultimatum game]]}}
+
+In [[game theory]], a '''subgame perfect equilibrium''' (or '''subgame perfect Nash equilibrium''') is a [[solution concept|refinement]] of a [[Nash equilibrium]] used in [[dynamic game]]s.  A [[strategy (game theory)|strategy profile]] is a subgame perfect equilibrium if it represents a Nash equilibrium of every [[subgame]] of the original game.  Informally, this means that if (1) the players played any smaller game that consisted of only one part of the larger game and (2) their behavior represents a Nash equilibrium of that smaller game, then their behavior is a subgame perfect equilibrium of the larger game. It is well known that every [[Extensive-form game#Finite extensive-form games|finite extensive game]] has a [[subgame]] perfect equilibrium.&lt;ref name=Osborne2004&gt;An Introduction to Game Theory, Osborne, M.J., Oxford University Press, USA, 2004.&lt;/ref&gt;
+
+A common method for determining subgame perfect equilibria in the case of a finite game is [[backward induction]].  Here one first considers the last actions of the game and determines which actions the final mover should take in each possible circumstance to maximize his/her [[utility]].  One then supposes that the last actor will do these actions, and considers the second to last actions, again choosing those that maximize that actor's utility.  This process continues until one reaches the first move of the game.  The strategies which remain are the set of all subgame perfect equilibria for finite-horizon extensive games of perfect information.&lt;ref name=Osborne2004 /&gt;  However, backward induction cannot be applied to games of [[imperfect information|imperfect]] or [[incomplete information]] because this entails cutting through non-singleton [[information set (game theory)|information sets]]. 
+
+The set of subgame perfect equilibria for a given game is always a subset of the set of Nash equilibria for that game. In some cases the sets can be identical.
+
+The [[Ultimatum game]] provides an intuitive example of a game with fewer subgame perfect equilibria than Nash equilibria.
+
+==Finding subgame-perfect equilibria==
+[[Image:SGPNEandPlainNE explainingexample.svg|300px|thumb|Illustration that shows the difference between a SPNE and a other NE. The blue equilibrium is not subgame perfect because player two makes a non-credible threat at 2(2) to be unkind (U).]]
+[[Reinhard Selten]] proved that any game which can be broken into &quot;sub-games&quot; containing a sub-set of all the available choices in the main game will have a subgame perfect Nash Equilibrium strategy (possibly as a [[mixed strategy]] giving non-deterministic sub-game decisions).  Subgame perfection is only used with games of [[complete information]].  Subgame perfection can be used with [[extensive form]] games of complete but [[imperfect information]].
+
+The subgame-perfect Nash equilibrium is normally deduced by &quot;[[backward induction]]&quot; from the various ultimate outcomes of the game, eliminating branches which would involve any player making a move that is not [[credible]] (because it is not optimal) from that [[Vertex (graph theory)|node]]. One game in which the backward induction solution is well known is [[tic-tac-toe]], but in theory even [[go (board game)|Go]] has such an optimum strategy for all players. 
+
+The interesting aspect of the word &quot;credible&quot; in the preceding paragraph is that taken as a whole (disregarding the irreversibility of reaching sub-games) strategies exist which are superior to subgame perfect strategies, but which are not credible in the sense that a threat to carry them out will harm the player making the threat and prevent that combination of strategies. For instance in the game of &quot;[[Chicken (game)|chicken]]&quot; if one player has the option of ripping the steering wheel from their car they should always take it because it leads to a &quot;sub game&quot; in which their rational opponent is precluded from doing the same thing (and killing them both). The wheel-ripper will always win the game (making his opponent swerve away), and the opponent's threat to suicidally follow suit is not credible.
+
+==See also==
+* [[Chess]]
+* [[Centipede game]]
+* [[Solution concept]]
+* [[Glossary of game theory]]
+* [[Dynamic inconsistency]]
+* [[John Forbes Nash]]
+* [[Minimax theorem]]
+
+==External links==
+* [http://courses.temple.edu/economics/Econ_92/Game_Lectures/9th-SubGPerfEq/SubGame.htm Example of Extensive Form Games with imperfect information]
+* [http://www.gametheory.net/Mike/applets/ExtensiveForm/ Java applet to find a subgame perfect Nash Equilibrium solution for an extensive form game] from gametheory.net.
+
+==References==
+{{reflist}}
+
+{{game theory}}
+
+[[Category:Game theory]]
+
+[[de:Teilspielperfektes Gleichgewicht]]
+[[he:שיווי משקל תת-משחקי משוכלל]]
+[[ja:部分ゲーム完全均衡]]
+[[pl:Doskonała równowaga Nasha w podgrach]]
+[[ru:Равновесие, совершенное по под-играм]]</text>
+      <sha1>h32bd7tgv3wfwg7l9xsoawm0kqyk04d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

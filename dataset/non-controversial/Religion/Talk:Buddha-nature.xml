@@ -1,0 +1,210 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Buddha-nature</title>
+    <ns>1</ns>
+    <id>1186805</id>
+    <revision>
+      <id>489260003</id>
+      <parentid>481681763</parentid>
+      <timestamp>2012-04-26T03:39:42Z</timestamp>
+      <contributor>
+        <username>MiszaBot I</username>
+        <id>3797869</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 2 thread(s) (older than 100d) to [[Talk:Buddha-nature/Archive 2]].</comment>
+      <text xml:space="preserve" bytes="35857">{{WikiProject Buddhism
+|class=start
+|importance=High
+}}
+{{philosophy|importance=Middle|class= Start|auto=yes|eastern=yes|religion=yes}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 2
+|minthreadsleft = 4
+|algo = old(100d)
+|archive = Talk:Buddha-nature/Archive %(counter)d
+}}
+{{Archives |bot=MiszaBot I |age=100|search=yes|auto=long }}
+
+== Varying interpretations of Buddha-nature ==
+
+Hi Mann jess. Good cleaning up. But I have one objection, namnely the line with the Nanzan-reference:
+{{quote|Essentiality the disagreement is whether the buddha-nature is an essence underlying the flux of phenomena, or whether this idea is an aberration of the buddhist insight of [[anatta]][http://nirc.nanzan-u.ac.jp/publications/nlarc/pdf/Pruning%20the%20bodhi%20tree/Pruning%20the%20bodhi%20tree%20contents.pdf Nanzan Institute: Pruning the Bodhi Tree]}}
+This ''is'' what the article is about. Actually, it's a chapter of a whole book about this topic, which makes very interesting reading. And personally, I had no problem understanding what this line is saying. So I would prefer to put this line, and it's reference back. Friendly regards,  [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 06:33, 17 January 2012 (UTC)
+
+:I think that Joshua Jonathan makes a fair and valid point here. I also think that (some, at least) of Dolpopa's characterisations of ultimate Reality as 'the solid Self', 'the diamond Self', etc., should be restored: far from being uninteresting or of no use, those designations indicate how Buddhism cannot be neatly absolutised as a 'non-Self teaching'. That is the whole reason why the Buddha-nature sutras have been, and remain, controversial: they speak in a firm and cataphatic way of a True Self, or Buddha nature, which they on occasion identify with the Self of the Buddha. Of course there are scholars who interpret this in a particular, non-essentialist way. But that is only one side of the argument that has raged for centuries. The fact that Dolpopa, a highly significant monk-scholar of Tibetan Buddhism, was able to speak of the 'solid, immovable Self', etc., as something real and positive is surely of interest to the student of Buddhism in the context of this Buddha-nature article and should therefore not be expunged. Best wishes from [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 11:54, 17 January 2012 (UTC)
+
+::Hi Joshua. Okay, could you explain to me what that sentence means, or propose a new wording which is clearer? I removed it because, after reading it 6 or 7 times, I couldn't glean any meaning from it which would allow me to rewrite the sentence in a clearer format. There is no explanation of what &quot;phenomena&quot; we're discussing, or &quot;flux of phenomena&quot;, so the entire &quot;essence underlying the flux of phenomena&quot; doesn't make any sense, nor is it sufficiently contrasted with &quot;an aberration of the buddhist insight of anatta&quot;, whatever that means. I checked the source, but it only lists the ToC with no actual content. We also need an ''actual'' link for the source if we're going to put it back in.
+::@Suddha, I have no problem putting in Dolpopa's characterisations of ultimate reality, if that is important. However, we need some kind of explanation of what that means and why it's pertinent. Simply listing a bunch of labels he's coined isn't helpful to a reader not familiar with the topic. I imagine that this information may be more relevant (and we may have more space to expand) in a separate article. If one does not exist, and we have good secondary sourcing, we could create it, and place a {{tpl|Main article}} template at the top of our section here. Would that work? Thanks, &amp;nbsp; &amp;mdash; [[User:Mann_jess|&lt;b&gt;Jess&lt;/b&gt;]]&lt;span style=&quot;margin:0 7px;font-variant:small-caps;font-size:0.9em&quot;&gt;&amp;middot; [[Special:Contributions/Mann_jess|&amp;Delta;]][[User_talk:Mann_jess|&amp;hearts;]]&lt;/span&gt; 17:27, 17 January 2012 (UTC)
+
+:::Taking Kalupahana's &quot;The Principles of Buddhist Psychology&quot; on Vasubandhu's vijnaptimatrasiddhi as a reference, there is some clarification. Actually, &quot;flux of phenomena&quot; is indeed not the best statement. Kalupahana writes &quot;flux of experience&quot; (p.196). According to Kalupahana (who is explicitly anti-essentialist), there are no 'things' outside our sensory experience &amp; the &quot;transformations of consciousness&quot; (=cognition).
+
+:::It is Matsumoto Shiro who sees the idea of Buddha Nature as an 'abberration' (though I don't know if he uses this specific and polemical word)[http://nirc.nanzan-u.ac.jp/publications/nlarc/pdf/Pruning%20the%20bodhi%20tree/Pruning%208.pdf].
+
+:::Kalupahana and Shiro see anatman as the original Buddhist standpoint, and the reification that takes place in some interpretations of Buddha Nature as a deviation.
+
+:::Rereading the section on modern scholarship, I think it's fine so. Shiro is being mentioned, though with a reference to Sally B. King. I'll change that one. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 2:29 pm, Today (UTC−5)
+
+::::@reformatting: Okay. Thought it might be useful, to keep an overview on who's responding to what. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 19:48, 17 January 2012 (UTC)
+
+:::::No worries :) No harm done or anything. It just screwed up my sig, and split my reply in an odd way. The discussion should be easy enough to follow with just 3 people. I have a class to teach, so I haven't yet had a chance to reply. In short, do you have a source you could link to that is available online I could read which might cast some light on the meaning of that sentence? It's still not clear to me. I can expand later if needed. Thanks, &amp;nbsp; &amp;mdash; [[User:Mann_jess|&lt;b&gt;Jess&lt;/b&gt;]]&lt;span style=&quot;margin:0 7px;font-variant:small-caps;font-size:0.9em&quot;&gt;&amp;middot; [[Special:Contributions/Mann_jess|&amp;Delta;]][[User_talk:Mann_jess|&amp;hearts;]]&lt;/span&gt; 21:45, 17 January 2012 (UTC)
+
+*Thank you, Joshua Jonathan: you  have really improved the 'Modern Scholarship' section - excellent work. I also think the 'flux of experience' is good to mention, as that is how Buddhism generally sees the shifting samsaric world.  Thanks, too, to Mann Jess: I take your point. I think I'll  later add two or three of the 'Self' references from Dolpopa in the Jonang section and try to contextualise them. Now I too must dash off to the university to give a lecture (oh, we are all such busy people - ha ha!). Best wishes to you both. From [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 00:10, 18 January 2012 (UTC)
+
+@Links for &quot;Flux of experience&quot;: not really. I really like Kalupahana's books. Google search on &quot;flux of experience&quot; and Kalupahana gives some links:
+* [http://www.thezensite.com/ZenEssays/DogenStudies/LanguageAgainst.htm David R Loy (1999), ''Language against its own mystifications: Deconstruction in Nagarjuna and Dogen'']
+* [http://books.google.nl/books?id=SlDArya3YvcC&amp;pg=PA60&amp;lpg=PA60&amp;dq=kalupahana+%22flux+of+experience%22&amp;source=bl&amp;ots=IRBDoyDm06&amp;sig=m6ts_Fk61LxicTlJopDy26Yut7k&amp;hl=nl&amp;sa=X&amp;ei=A6sXT4b6BZCr-QbH_qX3CQ&amp;ved=0CCIQ6AEwAA#v=onepage&amp;q&amp;f=false Kalupahana, ''A history of Buddhist Philosophy'', chapter 5]
+* [http://www.thezensite.com/ZenEssays/Nagarjuna/yogacaraandmadyamika.htm Ming-Wood Liu (1985), ''The Yogaacaaraa and Maadhyamika Interpretation of the Buddha-nature Concept in Chinese Buddhism'']
+Friendly regards, [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 05:41, 19 January 2012 (UTC)
+*Thank you, Joshua Jonathan, for the links: kind of you. Best wishes from [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 11:57, 19 January 2012 (UTC)
+
+== Prajnaparamita Sutras ==
+
+Hello Joshua Jonathan. Very good work as always. One point, though, regarding the opening portion of the prajnaparamita section of the aritcle: the prajnaparamita sutras generally came '''before''' the tathagatagarbha sutras, so one cannot sensibly say (as is claimed in this part of the article) that the former were a reaction against the latter. If anything, it was the other way around: the TG sutras speak out against too all-encompassing and insufficiently differentiated an application of the Emptiness concept, so the tathagatagarbha sutras can perhaps be seen as a reaction to some aspects of the prajnaparamita sutras. This chronology (pp. first, then TG) is indicated not least in the ''Nirvana Sutra'', where the Buddha says in terms that from the prajnaparamita sutras emerged subsequently the TG doctrine/sutras. I note that there is not a specific reference to Kalupahana for that specific claim (that the prajnaparamita texts were a reaction against the allegedly reifying TG scriptures); it seems highly unlikely to me that this scholar would commit such a basic historical solecism as to reverse the order in which these scriptures appeared. I suggest we modify or remove that highly dubious statement. What do you think? Best wishes to you. From [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 12:48, 9 February 2012 (UTC)
+:Hm, that's interesting. I'm going to check Kalupahana! [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 16:34, 9 February 2012 (UTC)
+::In &quot;A History of Buddhist Philosophy&quot; (Motilall 1994) Kalupahana first gives an overview of &quot;Early Buddhism&quot;, and then &quot;deals with the constant emergence of absolutist tendencies and an equally persistent attempt by some later Buddhist philosophers to criticize and reject such tendencies&quot; (p.xi). He then treats several of such &quot;tendencies&quot; and counter-&quot;attempts&quot;. Listing the counter-&quot;attempts&quot;:
+::*The [[Kathavatthu]]
+::*The prajnaparamita-literature
+::*Nagarjuna
+::*Vasubandhu (which is very interesting, since Vasubandhu usually is regarded an idealist. In his &quot;Buddhist psychology&quot;, Kalupahana argues that Vasubandhu did not endorse a &quot;mind-only&quot; point of view, but a &quot;concepts in mind-only&quot; point of view. Following [http://hardcorezen.blogspot.com/2012/02/lankavatara-sutra.html Brad Warner on the Lankavatara-sutra] I came across a [http://www.bol.com/nl/p/engelse-boeken/the-lankavatara-sutra/1001004011570326/index.html#product_description book-review] stating almost the same thing, but based on the Lanka: &quot;[E]verything we perceive as being real is nothing but the perceptions of our own mind&quot; )
+::When connecting the prajnaparamita, Madhyamaka and Yogacara I relied on my memory, instead of checking the source again. So, wrong connection... Thanks for the feedback! [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 18:01, 9 February 2012 (UTC)
+*Thank you, Joshua Jonathan, for your usual graciousness and helpfulness. I think your rectification of the 'offending' sentence constitutes a real improvement. Thanks again! Warm wishes from [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 00:21, 10 February 2012 (UTC)
+
+== Modern Scholarship section bordering with nonsense ==
+
+/1/ Undeniably, the essence of All teachings of ALL schools of Buddhism centres on defining the Buddha nature as &quot;the inherent potential to become a Buddha&quot;. But the Article includes views of non-Buddhist armchair &quot;Modern scholars&quot; who come to contradict all traditions of Buddhism and also contradict themselves saying: &quot;This view of the Buddha-nature as non-Buddhist is termed Critical Buddhism&quot;. 
+
+Such confused statements (that Buddha nature is non-Buddhist) only weakens the totality of the whole article. 
+Another unknown &quot;scholars&quot; say that &quot;Matsumoto Shiro and Hakamaya Noriaki, essentialist....Buddha-nature...at odds with the fundamental Buddhist doctrine of dependent origination&quot;, which means that all traditions of Buddhism and their Sutras are wrong and do not understand the essential of Buddhism. 
+
+Wikipedia usually asks whether the contributor is knowledgeable about the subject but here we have absolutely nonsensical views and contradicting conclusions.
+
+/2/ The &quot;Modern Scholars&quot; section includes views (on what is Buddha nature as understood) by Paul Williams who practised Buddhism,then changed his beliefs into Christianity and so on... Such opinion on Buddhist doctrine from one who failed to understand and continue his practice of Buddhism is a testimony of shallow understanding of Buddhism. The mentioned scholar uses abstract and floating expressions such as : &quot;simple absence of inherent existence&quot;....The &quot;Simple absence of inherent existence&quot; is a prompt for those concerned about clarity and credibility of Wikipedia Article to question the merit in stuffing the text with such views and confused statements.
+
+/3/ I wonder whether this section was put for the sake of a stuffing material - to show that the Article is &quot;rich&quot;. In fact it makes it poor. It makes one click quickly to get out of it.
+
+For example: &quot; Modern scholarship points to the various possible interpretations of Buddha Nature as either Sunyata or an essential self, and Buddha Nature as the inherent possibility of awakening.&quot; -  But what are these &quot;Various possible interpretations?&quot; 
+
+We have here not &quot;various&quot; but 2 interpretations - which are basically similar if not identical. The &quot;Sunyatta&quot; perspective is another expression of &quot;inherent possibility&quot;. What the opening sentence of this Section starts with is *nothing new* to what the Article mentioned at length: All traditions agree in essence that Buddha nature is the inherent potential to attain Buddhahood, for example Nichiren's Buddhism statement: &quot;The Buddha nature is the inner potential for attaining Buddhahood&quot;, common to all people&quot;. So why to claim about &quot;various views&quot; while there is one perspective common to all traditions? 
+
+Wikipedia articles should be clear and based on merits not on the length of Article or stuffing condensed arbitrary views based on abstract nature and contradicting concepts, such as in the nonsensical statement of &quot;critical Buddhism&quot; (that Buddha nature is not Buddhist). Lets have the brooms ready. Namaste  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:SafwanZabalawi|SafwanZabalawi]] ([[User talk:SafwanZabalawi|talk]] • [[Special:Contributions/SafwanZabalawi|contribs]]) 07:19, 7 March 2012 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Hello SafwanZabalawi: I have a lot of sympathy with what you are saying. Several years ago the article (and I have been involved with this article for at least 3+ years) almost exclusively quoted the Buddha Nature sutras. I personally think this is far and away the best approach. Unfortunately (from my point of view), Wikipedia prefers that editors quote secondary literature, rather than primary texts (although quoting from the latter is certainly not 'banned' or forbidden). Also, other editors wanted to see a diversity of interpretation of the Buddha Nature concept reflected in the article (which I think is fair enough). In consequence, the viewpoint that Buddha Nature is merely another name for a non-affirming Emptiness, or is not 'real' but merely a metaphor for a potential to become Awakened, was woven into the article. Given Wikipedia's policies, I think this situation (as it currently stands in the article) is acceptable and legitimate. I myself might like to see almost nothing on the 'Buddha Nature as metaphor' approach - but we editors are not here to push our personal beliefs or preferences. We should strive to be fair and reflect the diversity of scholarly / specialist opinion.
+:Regarding such opinion: you and I may not agree with some of the statements by Professor Paul Williams, for example, but the fact remains that he is one of the West's most respected experts on Mahayana Buddhism. His later conversion to Christianity is neither here nor there - it is totally irrelevant to an encyclopaedia which quotes from recognised experts in the field (and Williams is indubitably one of those). 
+:Finally, on your point that there is only one understanding of the Buddha Nature - as potential in all beings: it is simply not the case that there is '''only''' this one view of the Buddha Nature. Firstly, there are the original tathagatagarbha sutras (Mahaparinirvana, Srimala, Tathagatagarbha, Anunatva-Apurnatva, Angulimaliya, etc.) which make it abundantly clear that the Buddha Nature is an actual 'dharma' (entity, 'thing', presence) within each being - just as we have a heart, or a liver, so we also have a 'Buddha Element' (dhatu - or organ) inside us; this is described as being like a solid substance, such as indestructible adamantine, the very essence of the being (but not differentiated into a separate personality or separate 'soul'), the essence of a Buddha, and is immortal, uncompounded and uncreated. Seeing it within oneself liberates one into Nirvana / Awakening. This is the teaching of those primary Buddha Nature sutras. The Lotus Sutra shares this basic vision - speaking of the indestructibility of the Buddha - he has always existed, was never created, and will always exist. Then later commentators (both Eastern and Western) began to say that these teachings are metaphorical only - to encourage people to practice the Dharma: there is not actually any real, truly existent Buddha Principle or Buddha Element in beings. Also, other Buddhists (notably the Gelukpas) interpret the Buddha Nature teaching as a rather low-level teaching, intended for those who cannot 'stomach' the reality of total and universal Emptiness. This view is outright contradicted by the Buddha-nature sutras - but that does not stop the Gelukpas from cleaving to this (scripturally indefensible) viewpoint! Wikipedia has to reflect all these ideas, regardless of whether we think they are 'right' or 'wrong' (from a religious point of view). Whether you and I like them or not (and I think you and I probably do not like some of them at all) is not pertinent to our work on Wikipedia. 
+:Anyway, I hope that my reflections have contributed something worthwhile to the debate. I shall be interested to see what other editors think. Myself, I think the article is reasonably good in its current form and I would not wish to see it radically altered. Best wishes to you. From [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 08:03, 7 March 2012 (UTC) 07:57, 7 March 2012 (UTC)  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]] • [[Special:Contributions/Suddha|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Using secondary and tertiairy sources, instead of using primary sources, is a [[Wikipedia:Identifying reliable sources|basic rule]] of Wikipedia:
+{{quote|Wikipedia articles should be based on '''reliable, published sources''', making sure that '''all majority and significant minority views''' that have appeared in those sources are covered (see [[Wikipedia:Neutral point of view]]).}}
+And also:
+{{quote|Articles should rely on secondary sources whenever possible. For example, a review article, monograph, or textbook is better than a primary research paper. When relying on primary sources, extreme caution is advised: Wikipedians should never interpret the content of primary sources for themselves. See [[Wikipedia:No original research]].}}
+[http://nirc.nanzan-u.ac.jp/publications/nlarc/Pruning_the_bodhi_tree.htm Pruning the Bodhi Tree] has been published by the [http://nirc.nanzan-u.ac.jp/welcome.htm Nanzan Institute], a well-respected research institute, with a tradition of critical research. Calling those researchers &quot;non-Buddhist armchair &quot;Modern scholars&quot;&quot; is a gross mis-judgement of the merits of those scholars.
+The personal backgrounds of those scholars are not relevant; what's relevant is whether their research meets academic criteria. As a Dutch Wikipedian said: &quot;Being enlightened is not a criteria for contributing to Wikipedia&quot;. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 08:34, 7 March 2012 (UTC)
+
+*I think that Joshua Jonathan expresses the key points very well here. I myself am convinced that the Critical Buddhists are very, very wrong and deluded in their dismissal of the tathagatagarbha doctrines as 'un-Buddhist': but what I myself happen to think, as an individual, is utterly irrelevant. What matters, as Joshua Jonathan has indicated, is that those scholars have published in a format and form which the scholarly community accepts as valid and have contributed hugely to the debate on the Buddha Nature. Critical Buddhism is an extremely important aspect of modern Mahayana Buddhist studies, and it rightly receives mention in this article. Thank you to all for contributing to this discussion! Warm wishes from [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 08:46, 7 March 2012 (UTC)
+
+== Unbalanced entries ==
+
+Thank you for your generous replies. I'll focus on just one point; are we consistent with Wiki principle in this lengthy article? 
+
+* Few weeks ago, when I entered &quot;Nichiren Buddhism view on Buddha Nature&quot; someone blatantly erased it. In Buddhism that action amounts to the slander of &quot;Refusing to listen to others&quot;, but let's get into the secular Wiki principles: gagging others from a referenced entry and erasing it is an act of vandalism. Nichiren Buddhism is practiced by millions of Buddhist world wide. Why would the principle you just spoke about here (of referring to diverse views, even Non-Buddhist scholars) cease to work when I entered Nichiren Buddhism's view? 
+
+Only after I strongly disagreed and followed up the case, Joshua Jonathan kindly agreed that the entery is valid and was entered again.
+
+* How credible is &quot;Critical Buddhism&quot; to make it a reference and cite it? What temple do they represent? Where? Do they have Sangha? Sutras? Practice? Or they are a group of arm-chair philosophers who want just to criticize (after claiming knowledge about Buddhism). Not surprisingly they arrived to the views that ALL (I repeat: ALL) schools of Buddhism dismiss as nonsense. This is a serious matter weakening the whole article. Critical Buddhism is not supported by any side of Buddhism, and their statements (at least here is inconsistent with logic) - hence its credibility of knowledge about Buddhism is in question. To allow nothing (or few words after struggle to do so) about Nichiren's views - while citing at length others including questionable sides - this is unbalanced entery of data.
+
+* Along what was presented above, Nichiren Buddhism has the right to be presented in this article and the teaching of the Lotus Sutra propagated by the Modern Sangha of the Soka Gakkai has the right to be visible. Please follow this link [[Daisaku Ikeda]] and judge for yourself whether the more than 60 books and dialogues on Buddhism and Buddha nature are worth mentioning rather than the contradictions of non-Buddhist views: I quote from Wiki article:
+
+''&quot; Ikeda has had dialogues with many people including Arnold J. Toynbee, Linus Pauling, Wangari Maathai, Marianne Pearl, M.S.Swaminathan, Roberto Baggio, Coretta Scott King, Joseph Rotblat, John Kenneth Galbraith, David Norton, Betty Williams (nobel laureate), Ba Jin, and Rosa Parks. Many of his dialogues have been published in various languages.[17] [18] [19] [20] [21] [22] [23] [24] [25]...&quot;''
+
+The Buddha nature is very clearly explained in Nichiren Buddhism based on the doctrine of Ten Worlds of Mind, and their potential emergence. If we have openminded approach and respect to Wiki rules of citing diversity of views then this perspective should also be in the Article. But if there is a constant refusal and avoidance to whatever written on Nichiren Buddhism, then this is a question to Wikipedia: how are we consistent with what we speak about. namaste [[User:SafwanZabalawi|SafwanZabalawi]]
+
+*Hi Safwan. I totally and absolutely agree with you that the views of Nichiren Buddhism should be represented here. There is no reason why they should not be expressed in this article. To block them would indeed be an act of censorship (unforgivable in such a context). The only thing which Wikipedia would object to would be a portrait of the Buddha Nature that was excessively biased towards the Nichiren approach. This article tries to cover the  main understandings of the Buddha Nature - and certainly Nichiren's view has an important place within this. If you want to add more about Nichiren's teachings on the Buddha Nature, please feel free to contribute the relevant material. It would be best if it were citations from scholars, but direct quotes from Nichiren are also acceptable, as long as you don't add a distorting interpretation to his words (not that you would!). Best wishes to you. From [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 02:25, 8 March 2012 (UTC)
+
+* Hi Suddha. Appreciate your message. Will try my best for a short and concise entry. [[User:SafwanZabalawi|SafwanZabalawi]] ([[User talk:SafwanZabalawi|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 05:16, 8 March 2012 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Buddhism has no Passport ==
+
+I have added a concise summary of Nichiren Buddhism's view of the Buddha nature but I had to exclude the categorisation of Nichiren Buddhism as Japanese. He was Japanese, but Buddhism is beyond such shallow classification, and it is offensive to millions of Nichiren's followers who identify themselves as Bodhisattvas not followers of Japanaese traditions.
+Shakyamuni Buddha belongs to all humanity, not to India, and Buddhism should not be classified under pssport holders - nationalities... this is objectionable. Please take a look at 'Chinese Buddhism&quot; in the article. China now encompasses ALL traditions of Buddhism, not just Zen and Tiantai - as the article wrongly mentions. Additionally, that &quot;Chinese&quot; Tientai's Buddhism had been already correctly mentioned in the section of the Lotus Sutra of the article. 
+
+If I may add an anolgy on how to classify Buddism: the power of electricity was first recorded by scientist in Europe, mainly by Volta, an Italian scientist. But we do not call electricity &quot;Italian&quot;. It is a natural phonomenon. Buddhism is about the Law of nature, the Dharma leading to enlightenment and should not be categorised by nationalities of temples, but by the name of temples offering its universal teachings.
+
+Nationality classification of Buddhist schools is contardictive to Buddhist humanism, and i urge Article contributors to change the political or national reference - and specify the name of the tradition involved (such as Zen, Tientai, Gelung ...etc.. rather than using political confinement. I am Nichiren Buddhist and I am Australian of Arabic origin. I find in this a true sense of Buddhist humanism.
+
+Buddhism is classified as Threvada and Mahayana,(&amp; Vajrayana an additional school). It would be reasonable to follow this doctrinal classification in the Article - rather than classification based on political borders.  [[User:SafwanZabalawi|SafwanZabalawi]] ([[User talk:SafwanZabalawi|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 08:45, 9 March 2012 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+*Hello once more, Safwan. I am not sure whether other editors will share your viewpoint, but I must say that I myself agree with you in principle. I think it would be too limiting to say that Nichiren Buddhism is only 'Japanese Buddhism' (after all, Nichiren's approach to the Dharma was different from that of his compatriot, Kukai, for example), as many people of all different nationalities and cultures worldwide follow that manifestation of Buddhism. I also agree with your broader point that it is not good to classify Buddhism according to nationalities: the Dharma and its manifestations are not Indian, Chinese, Tibetan, or English, but beyond all of that! I think it is much more sensible simply to speak about scriptures and schools (e.g. the Lotus Sutra, Nichiren Buddhism, Pure Land Buddhism, tathagatagarbha sutras, Chan and Zen Buddhism, Pali suttas, Mahayana and Theravada, etc.). As I say, however, I doubt that any other editors will agree with this or to this! Best wishes from [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 09:45, 9 March 2012 (UTC)
+
+The classification under Japan is not meant as a &quot;passport&quot;, but as a convenient short-cut to keep an overview of Buddhist history. Of course Buddhism is international, especially in our times. But it's also a fact that specific traditions and schools originated in specific times and countries. So, convenient short-cut to keep an overview. Anyway, thanks for your contribution. And quite interesting to read about your background - international indeed! Friendly regards, [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 17:46, 9 March 2012 (UTC)
+
+* Thank you Joshua and Suddha for your messages. We have an interesting situation here where the &quot;short cut&quot; contradicts the true aspect of the subject (it is short-cutting). Ask any Zen practitioner whether he/she practices Chinese Buddhism. Nichiren (Soka) practitioners are found in 190 countries and their practice is local, nothing to do with anything Japanese.. To term their teaching as Japanese is utterly wrong. This weakens the whole article as it indicates less professionalism in addressing the subject. 
+
+:There is a simple &quot;short cut&quot; classification of Buddhism : Theravada - Mahayana- Vajtrayana. Nothing more simple than that and it is a classification acceptable to all schools.
+:Why not re-arrange the Article to reflect this reality. You see, Japanese Buddhism is not only Nichiren's, you have also Pure Land, Shingon, Zen and others all Mahayana. I think geograhical or national reference here should be rethought about. 
+
+:We don't have German Christianity, English Christianity...etc...and correctly we refer to Protestants, Catholicism, etc... &amp;an article which names Catholicism as Italian Christianity would not be taken seriously [[User:SafwanZabalawi|SafwanZabalawi]] ([[User talk:SafwanZabalawi|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 05:07, 10 March 2012 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::When a religion is brought to a new area, it often adapts to the customs of that area.  There are religious branches that are (or were originally) largely defined by the customs that they adapted, such as [[Southern Baptist]] or [[Chinese Buddhism]].  While it is true that Catholicism is not referred to as Italian Christianity, it is known as [[Roman Catholicism]]. - [[User:SudoGhost|Sudo]][[User_talk:SudoGhost#top|Ghost]] 06:09, 10 March 2012 (UTC)
+:::&lt;small&gt;You didn't forget to indent. I indented Safwan's reply, and de-indented yours, to avoid a ever-further widening gap at the left margin. Sorry. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 09:43, 10 March 2012 (UTC)&lt;/small&gt;
+
+Theravada - Mahayana- Vajtrayana isn't simple either. For example, Tibetan Buddhism and Chinese Buddhism are both Mahayana, yet quite distinct. Both are being mentioned in the article under the header of Mahayana. 
+That Buddhism has grown global doesn't change the origins. Nichiren being global can be mentioned in the article on Nichiren Buddhism. In the article on Buddha-nature the emphasis is on Buddha-nature, it's origins, and the various understandings.
+Pure Land, Shingon etc. could also be mentioned in the article - though the question is if that's useful. But as it is now the article provides a useful skeleton for inclusion.
+There ''is'' Dutch Protestantism: [http://nl.wikipedia.org/wiki/Nederlands_Hervormd Nederlands Hervormd], [http://nl.wikipedia.org/wiki/Nederlands_Gereformeerde_Kerken Nederlands Gereformeerde kerken], et cetera. Quite distinct from, by example, Lutherian od evangelical Kirche in Germany.
+Ask me, and I'll say I practice Chán (though I do call it conveniantialy Zen).
+[[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 07:13, 10 March 2012 (UTC)
+
+* Well, you said it, Josh, yourself: you do not practice &quot;Chinese Buddhism&quot;, so why would you categorise your school as Chinese on the Wikipedia?
+:Besides what you mentioned that both Tibetan and Chinese Buddhgism are both Mahayana requires rethinking: China contains ALL schools of Vajrayana, Mahayana and Theravada. There is nothing so called Chinese Buddhism. Additinally, Vajrayana (named also Tibetan) is a branch of Mahayana which is incorporated with some local beliefs, and that's why they are distincuished as a separate branch. 
+:This article is NOT about the national-geographocal origin of Temples but on a general doctrine. Chan and Nichiren Buddhism are very close in their interpretation of Buddha nature, because both are Mahayana (not because they are Chino-Japanese).  If there is someone who names a certain school as Dutch Christianity then this is not a meryiable model to follow, neither calling Catholicism as Italian Christianity is reasonable. 
+:We r simply speaking about a non professional categorisation which was justified as &quot;short cut&quot;, and which can be argued also as wrong. [[User:SafwanZabalawi|SafwanZabalawi]] ([[User talk:SafwanZabalawi|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 07:24, 12 March 2012 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+::Italian Christianity?  You mean [[Roman Catholicism]]?  If so then yes, referring to that religion in this way is more than reasonable, it is the standard.  When a religion is spread to a new area and adapts to the culture, forming a new unique blend of the culture and the religion, then it is appropriate to refer to it in such a way.  This is not unique to Buddhism, nor is it unique to this article.  -  [[User:SudoGhost|Sudo]][[User_talk:SudoGhost#top|Ghost]] 16:15, 12 March 2012 (UTC)
+
+As far as I can see, it's a conventional way of categorizing schools and developments in Buddhism. By the way, there are separate articles on [[Zen]], [[Chinese Chán]] and [[Japanese Zen]]. Chinese Chán is has different characteristics than Japanese Zen. I prefer Chán. More open to the study of sutras (surprise, surprise...) [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 16:09, 12 March 2012 (UTC)
+
+* I think it is not serious to refer to Catholicism as Italian Christianity. Was such an identification ever used by any professional source?  If you say it is &quot;reasonable&quot; (to name catholicism as Italian) then please show the reference which would have supported this view. 
+
+:Buddhism, and in particular Nichiren Buddhism I know of, strongly advocates the concept of World Citizenship - and Bodhisattvas in the Lotus Sutra are called &quot;Bodhisattva of the Planet Earth&quot;. To assign japanessness to such views is simply contradictive - even laughable. Academic researchers classify Buddhism according to its teachings to attain Arahat stage or Buddhahood, not according to geography. But this is Wikipedia, which is - generaly speaking - taken lightly by most serious researchers. It all depends on how we can make improvement to the quality of the contents. One step was done by allowing me to contribute on the branch of Buddhism I follow, adding to the unbiased approach of Wiki, but other improvements can also be done [[User:SafwanZabalawi|SafwanZabalawi]] ([[User talk:SafwanZabalawi|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 12:26, 13 March 2012 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>8a0bgen89dif47oxrbgc1cvocxx18vx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

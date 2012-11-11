@@ -1,0 +1,95 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Price point</title>
+    <ns>0</ns>
+    <id>253786</id>
+    <revision>
+      <id>522326535</id>
+      <parentid>501517072</parentid>
+      <timestamp>2012-11-10T13:05:42Z</timestamp>
+      <contributor>
+        <ip>108.1.100.226</ip>
+      </contributor>
+      <comment>/* Causes */</comment>
+      <text xml:space="preserve" bytes="4282">{{Disputed|Price point term and reference|date=May 2010}}
+{{Unreferenced|date=March 2007}}
+{{mergeto|Kinked demand|date=July 2012}}
+
+[[Image:PricePointGraph.svg|Price points A, B, and C, along a [[demand curve]] (where P is price and Q represents demand)|framed]]
+
+'''Price points''' are [[price]]s at which [[demand]] for a given [[Product (business)|product]] is supposed to stay relatively high.
+
+== Characteristics ==
+Introductory [[microeconomics]] depicts a [[demand curve]] as downward-sloping to the right and either linear or gently convex to the origin. The downwards slope generally holds, but the model of the curve is only [[piecewise]] true, as price surveys indicate that demand for a product is not a [[linear function]] of its price and not even a [[smooth function]]. Demand curves resemble a series of waves rather than a straight line. {{Citation needed|date=May 2010}}
+
+The diagram shows price points at the points labeled A, B, and C. When a vendor increases a price beyond a price point (say to a price slightly above ''price point B''), sales volume decreases by an amount more than proportional to the price increase. This decrease in quantity-demanded more than offsets the additional revenue from the increased unit-price. As a result, total revenue (price multiplied by quantity-demanded), decreases when a firm raises its price beyond a price point. Technically, the [[price elasticity of demand]] is low (inelastic) at a price lower than the price point (steep section of the demand curve), and  high (elastic) at a price higher than a price point (gently sloping part of the demand curve). [[Business entity|Firm]]s commonly set prices at existing price-points as a [[marketing strategy]].{{Citation needed|date=May 2010}}
+
+== Causes ==
+Three main reasons exist to have price points:
+
+# [[Consumer theory#Price effect as sum of substitution and income effects|Substitution]] price points
+#* price points occur at the price of a close substitute
+#* when an item's price rises above the cost of a close substitute, the quantity demanded drops sharply{{Citation needed|date=May 2010}}
+# [[Customary pricing|Customary price]] points
+#* the [[market]] grows accustomed to paying a certain amount for a type of product
+#* increasing the price beyond this amount will cause sales to drop dramatically{{Citation needed|date=May 2010}}
+# Perceptual price points (also referred to as &quot;[[psychological pricing]]&quot; or as &quot;odd-number pricing&quot;)
+#* raising a price above 99 cents will cause demand to fall disproportionately because people perceive $1.00 as a significantly higher price{{Citation needed|date=May 2010}}
+
+==Oligopoly pricing==
+In relation to customary price points, [[oligopolies]] can also generate price points. Such price points do not necessarily result from  [[collusion]], but as an [[emergence|emergent]] property of oligopolies: when all firms sell at the same price, any firm which attempts to raise its selling price will experience a decrease in sales and revenues (preventing firms from raising prices unilaterally); on the other hand, any firm in an oligopoly which lowers its prices will mostly likely be matched by competitors, resulting in small increases in sales but decreases in revenues (for all the firms in that market). This effect can potentially produce a kinked demand-curve where the kink lies at the point of the current price-level in the market.
+These results depend on the elasticity of the demand curve{{Citation needed|date=August 2009}} and on the properties of each market.
+
+== See also ==
+* [[Pricing]]
+* [[List of topics in industrial organization]]
+* [[Convex preferences]]
+* [[Cost the limit of price]]
+
+==Further reading==
+* {{cite book|author=Bner, Alexander|chapter=Price-Dependent Demand|title=Retail Category Management: Decision Support Systems for Assortment, Shelf Space, Inventory and Price Planning|publisher=Springer|year=2011|isbn=978-3-642-22476-8|url=http://books.google.com/books?id=s-DLW44VvZMC&amp;pg=PA117}}
+* {{cite book|author=Veeramani, Venkat &amp; Maynard, Leigh|title=Price Points and Thresholds in Retail Food Demand|publisher=VDM Verlag|year=2008|isbn=978-3-639-08445-0|url=http://books.google.com/books?id=WfkaPQAACAAJ}}
+
+{{DEFAULTSORT:Price Point}}
+[[Category:Pricing]]
+[[Category:Marketing]]</text>
+      <sha1>hwjez4p20niafnnxwlpi0l2hkfvxsk7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

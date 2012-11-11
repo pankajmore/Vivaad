@@ -1,0 +1,150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Yield (finance)</title>
+    <ns>0</ns>
+    <id>462853</id>
+    <revision>
+      <id>500816150</id>
+      <parentid>498299333</parentid>
+      <timestamp>2012-07-05T16:20:56Z</timestamp>
+      <contributor>
+        <ip>62.73.146.4</ip>
+      </contributor>
+      <comment>/* Real Estate &amp; Property */</comment>
+      <text xml:space="preserve" bytes="8700">{{refimprove|date=January 2011}}
+{{Finance sidebar}}
+In [[finance]], the term '''yield''' describes the amount in cash that returns to the owners of a [[security (finance)|security]].  Normally it does not include the price variations, at the difference of the total [[Return (finance)|return]].  Yield applies to various stated rates of return on stocks (common and preferred, and [[Convertible bond|convertible]]), fixed income instruments (bonds, notes, bills, strips, zero coupon), and some other investment type insurance products (e.g. annuities).
+
+The term is used in different situations to mean different things.  It can be calculated as a ratio or as an [[internal rate of return]] (IRR).  It may be used to state the owner's total return, or just a portion of [[income]], or exceed the income.
+
+Because of these differences, the yields from different uses should never be compared as if they were equal.  This page is mainly a series of links to other pages with increased details.
+
+==Bonds, notes, bills==
+{{main|Bond valuation}}
+The '''[[nominal yield]]''' or '''coupon yield''' is the yearly total of [[Coupon (bond)|coupons]] (or interest) paid divided by the Principal (Face) Value of the bond.
+
+The '''[[current yield]]''' is those same payments divided by the bond's spot market price.
+
+The '''[[yield to maturity]]''' is the IRR on the bond's cash flows:  the purchase price, the coupons received and the principal at maturity.
+
+The '''yield to call''' is the IRR on the bond's cash flows, assuming it is called at the first opportunity, instead of being held till maturity.
+
+The yield of a bond is inversely related to its price today: if the price of a bond falls, its yield goes up. Conversely, if interest rates decline (the market yield declines), then the price of the bond should rise (all else being equal).
+
+There is also TIPS (Treasury Inflation Protected Securities), also known as Inflation Linked fixed income. TIPS are sold by the US Treasury and have a &quot;real yield&quot;. The bond or note's face value is adjusted upwards with the CPI-U, and a real yield is applied to the adjusted principal to let the investor always outperform the inflation rate and protect purchasing power. However, many economists believe that the CPI under-represents actual inflation. In the event of deflation over the life of this type of fixed income, TIPS still mature at the price at which they were sold (initial face). Losing money on TIPS if bought at the initial auction and held to maturity is not possible even if deflation was long lasting.
+
+==Preferred shares==
+Like bonds, preferred shares compensate owners with scheduled payments which resemble interest. However, preferred &quot;interest&quot; is actually in the form of a dividend.  This is a significant accounting difference as preferred dividends, unlike debt interest, are charged after taxes and below net income, therefore reducing net income and ultimately earnings per share. Preferred shares may also contain conversion privileges which allow for their exchange into common stock.
+
+The '''dividend yield''' is the total yearly payments divided by the principal value of the preferred share.
+
+The [[current yield]] is those same payments divided by the preferred share's market price.
+
+If the preferred share has a maturity (not always) there can also be a [[yield to maturity]] and '''yield to call''' calculated, the same way as for bonds.
+
+==Preferred trust units==
+Like preferred shares but units in a trust.  Trusts have certain tax advantages to standard corporations and are typically deemed to be &quot;flow-through&quot; vehicles.  Private mutual funds trusts are gaining in popularity in Canada following the changes to tax legislation which forced many publicly traded [[royalty trust]]s to convert back into corporations.&lt;ref&gt;[http://www.petrocapita.com/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=58 Petrocapita Income Trust]&lt;/ref&gt; Investors seeking the high yields typically associated with the energy royalty trusts are increasingly investing in private mutual energy fund trusts.&lt;ref&gt;[http://www.pershingfund.com Pershing Income Fund]&lt;/ref&gt;&lt;ref&gt;[http://www.enquirica.com Enquirica - 2010 Listing of Exempt Market Securities]&lt;/ref&gt;
+
+==Common shares==
+Common shares will often pay out a portion of the earnings as dividends.  The [[dividend yield]] is the total dollars (Yen, etc.) paid in a year divided by the spot price of the shares.  Most web sites and reports are updated with the expected future year's payments, not the past year's.
+
+The price/earnings ratio quoted for common shares is the reciprocal of what is called the [[earnings yield]].  EarningsPerShare / SharePrice.
+
+==Annuities==
+The [[annuity (financial contracts)|life annuities]] purchased to fund retirement pay out a higher '''yield''' than can be obtained with other instruments, because part of the payment comes from a [[return of capital]].  $YearlyDistribution / $CostOfContract.
+
+==REITs, royalty trust, income trusts==
+Like annuities, '''distribution yields''' from [[Real estate investment trust|REITs]], Royalty trusts, and Income trusts often include cash that exceeds the income earned: that is [[return of capital]].  $YearlyDistribution / $SharePrice.
+
+==Real Estate &amp; Property==
+Several different yields are used as measures of a real estate investment, including '''initial''', '''equivalent''' and '''reversionary''' yields.
+
+Initial Yield is the annualised rents of a property expressed as a percentage of the property value.{{cite web |url = http://initialyield.com/category/glossary/ |title = Glossary, Initial Yield|author = Initialyield.com|date = May 2012 |work = Initial Yield |accessdate= May 2012}}
+E.g.
+£100,000 passing rent per annum
+£1,850,000 valuation
+100000/1850000 = 0.054 or 5.4%
+
+Reversionary Yield is the anticipated yield to which the initial yield will rise (or fall) once the rent reaches the ERV.{{cite web |url = http://initialyield.com/category/glossary/ |title = Glossary, Reversionary Yield|author = Initialyield.com|date = May 2012 |work = Reversionary Yield |accessdate= May 2012}}
+E.g.
+£150,000 ERV per annum
+£1,850,000 valuation
+150000/1850000 = 0.081 or 8.1%
+
+Equivalent Yield lies somewhere in between the initial yield and reversionary yield, it encapsulates the [[Discounted cash flow|DCF]] of the property with rents rising (or falling) from the current annualised rent to the underlying estimated rental value (ERV) less costs that are incurred along the way. The discount rate used to calculate the net present value (NPV) of the [[Discounted cash flow|DCF]] to equal zero is the equivalent yield, or the [[Internal rate of return|IRR]].{{cite web |url = http://initialyield.com/category/glossary/ |title = Glossary, Equivalent Yield|author = Initialyield.com|date = May 2012 |work = Equivalent Yield |accessdate= May 2012}}
+
+The calculation not only takes in to account all costs, but other assumptions including rent reviews and void periods. A trial and error method can be used to identify the equivalent yield of a [[Discounted cash flow|DCF]], or if using Excel, the goal seek function can be used.
+
+==How to evaluate the yield (%)==
+All financial instruments compete with each other in the market place.  Yield is one part of the total return of holding a security.  A higher yield allows the owner to recoup his investment sooner, and so lessens risk.  But on the other hand, a [[high yield]] may have resulted from a falling market value for the security as a result of higher risk. 
+
+Yield levels vary mainly with expectations of [[inflation]].  Fears of high inflation in the future mean that investors ask for high yield (a low price vs the coupon) today.
+
+The maturity of the instrument is one of the elements that determines [[risk]].  The relationship between yields and the maturity of instruments of similar credit worthiness, is described by the [[yield curve]]. Long dated instruments typically have a higher yield than short dated instruments.
+
+The yield of a debt instrument is generally linked to the credit worthiness and [[default (finance)|default]] probability of the issuer. The more the default risk, the higher the yield would be in most of the cases since issuers need to offer investors some compensation for the risk.
+
+==See also==
+*[[Ecological yield]]
+*[[Yield curve]]
+*[[30-day yield]]
+*[[7 Day SEC Yield]]
+*[[Nominal yield]]
+*[[Bond (finance)]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Yield (Finance)}}
+[[Category:Fixed income analysis]]
+[[Category:Finance]]
+
+[[ca:Rendiment (finances)]]
+[[de:Rendite]]
+[[es:Rendimiento]]
+[[it:Rendimento (economia)]]
+[[no:Avkastning]]
+[[ru:Доходность]]
+[[simple:Yield]]
+[[sv:Avkastning]]
+[[vi:Yield]]</text>
+      <sha1>fbredulr1sjkdriijmba069yklx6lu6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,70 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gerschenkron effect</title>
+    <ns>0</ns>
+    <id>8011279</id>
+    <revision>
+      <id>457541625</id>
+      <parentid>352748026</parentid>
+      <timestamp>2011-10-26T20:00:58Z</timestamp>
+      <contributor>
+        <username>R'n'B</username>
+        <id>2300502</id>
+      </contributor>
+      <minor/>
+      <comment>Fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Growth rate]]</comment>
+      <text xml:space="preserve" bytes="1459">The '''Gerschenkron effect''' was developed by [[Alexander Gerschenkron]], and claims that changing the base year for an [[Index (economics)|index]] determines the [[Compound annual growth rate|growth rate]] of the index. 
+
+This description is from the [[OECD]] website [http://www.oecd.org/faq/0,2583,en_2649_34357_1799281_1_1_1_1,00.html#13609247]: 
+{{cquote|The Gerschenkron effect can arise with [[aggregation method]]s that use either a reference [[price structure]] or a [[reference volume structure]] to compare countries. For methods employing a [[reference price structure]], a country's share of total [[GDP]] (that is the total for the group of countries being compared) will rise as the reference price structure becomes less characteristic of its own price structure. For methods employing a reference volume structure, a country's share of total GDP will fall as the reference volume structure becomes less characteristic of its own volume structure. The Gerschenkron effect arises because of the negative [[correlation]] between prices and volumes. In other words, [[expenditure]] patterns change in response to changes in relative prices because consumers switch their expenditure towards relatively cheap products.}}
+
+{{econometrics-stub}}
+
+[[Category:Economic development]]
+[[Category:Econometrics]]
+[[Category:Economic systems]]
+[[Category:Index numbers]]
+[[Category:National accounts]]
+
+[[fr:Effet Gerschenkron]]
+[[pl:Efekt Gerschenkrona]]</text>
+      <sha1>evx738ogdx0jyq5ugxd7lq1yn3a6sdg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

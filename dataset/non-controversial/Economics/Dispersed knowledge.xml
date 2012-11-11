@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dispersed knowledge</title>
+    <ns>0</ns>
+    <id>221284</id>
+    <revision>
+      <id>522019903</id>
+      <parentid>521624650</parentid>
+      <timestamp>2012-11-08T16:13:07Z</timestamp>
+      <contributor>
+        <username>Xerographica</username>
+        <id>12822392</id>
+      </contributor>
+      <comment>linked J.S. Mill</comment>
+      <text xml:space="preserve" bytes="3947">{{refimprove|date=December 2009}}
+In [[economics]], '''dispersed knowledge''', also known as '''partial knowledge''', is information that is dispersed throughout the marketplace, and is not in the hands of any single agent. All agents in the market have imperfect knowledge; however, they all have a good indicator of everyone else's knowledge and intentions, and that is the [[price]].
+
+The price indicates information that the player does not know; by deciding to buy, sell or abstain at that price it also gives the player a chance to bring their knowledge to bear and reflect itself in the price. Most of the knowledge, however, is [[tacit knowledge]]: people usually are not fully aware of the knowledge that they are sharing via price signals, nor do they fully perceive the knowledge that they use when they make a price decision.  
+
+When a buyer goes to market, the prices he or she finds therein for products and services have been set by the complex calculus that is the sum total of the tacit knowledge residing within the market. [[Price signal]]s are one possible solution to the [[economic calculation problem]]. 
+
+This viewpoint was expressed by [[John Stuart Mill]]....
+
+:It must be remembered, besides, that even if a government were superior in intelligence and knowledge to any single individual in the nation, it must be inferior to all the individuals of the nation taken together. It can neither possess in itself, nor enlist in its service, more than a portion of the acquirements and capacities which the country contains, applicable to any given purpose. - [[John Stuart Mill]], [http://www.econlib.org/library/Mill/mlP73.html#Bk.V,Ch.XI Principles of Political Economy with some of their Applications to Social Philosophy]
+
+...and is especially popular among [[Austrian School]] economists such as [[Friedrich Hayek]]...
+
+:&quot;The problem is thus in no way solved if we can show that all the facts, if they were known to a single mind (as we hypothetically assume them to be given to the observing economist), would uniquely determine the solution; instead we must show how a solution is produced by the interactions of people each of whom possesses only partial knowledge. To assume all the knowledge to be given to a single mind in the same manner in which we assume it to be given to us as the explaining economists is to assume the problem away and to disregard everything that is important and significant in the real world.&quot; - [[Friedrich Hayek]]&lt;ref&gt;{{cite web |url=http://www.econlib.org/library/Essays/hykKnw1.html |title=The Use of Knowledge in Society |year=1945 |author=F Hayek }}&lt;/ref&gt;
+
+...and among [[Chicago school of economics|Chicago School]] economists such as [[Frank Knight]]...
+
+:It is a world of change in which we live, and a world of uncertainty. We live only by knowing something about the future; while the problems of life, or of conduct at least, arise from the fact that we know so little. This is as true of business as of other spheres of activity. The essence of the situation is action according to opinion, of greater or less foundation and value, neither entire ignorance nor complete and perfect information, but partial knowledge. - [[Frank Knight]], [http://www.econlib.org/library/Knight/knRUP6.html Risk, Uncertainty, and Profit]
+
+== Example ==
+
+Wikipedia itself provides an example of the dispersed knowledge concept.
+
+== See also ==
+
+*[[Blind men and an elephant]]
+*[[Distributed knowledge]]
+*[[Division of labor]]
+*[[Heterogeneous activity]]
+*[[Invisible hand]]
+*[[Local knowledge problem]]
+*[[Opportunity cost]]
+*''[[The Fatal Conceit]]''
+*''[[The Use of Knowledge in Society]]''
+*[[Tax choice]]
+*[[Wisdom of the crowd]]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Dispersed Knowledge}}
+[[Category:Austrian School]]
+[[Category:Economics terminology]]
+[[Category:Friedrich Hayek]]
+[[Category:Knowledge]]
+
+
+{{Economic-term-stub}}
+
+[[es:Conocimiento disperso]]
+[[fi:Hajautettu tieto]]</text>
+      <sha1>c9qwzwggxs77midakyiiz3wfept933t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

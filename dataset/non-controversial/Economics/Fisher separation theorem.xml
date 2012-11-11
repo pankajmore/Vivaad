@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fisher separation theorem</title>
+    <ns>0</ns>
+    <id>766775</id>
+    <revision>
+      <id>473040453</id>
+      <parentid>473039170</parentid>
+      <timestamp>2012-01-24T20:42:23Z</timestamp>
+      <contributor>
+        <ip>87.146.238.18</ip>
+      </contributor>
+      <comment>/* External links */ updating link</comment>
+      <text xml:space="preserve" bytes="2885">:''&quot;Separation theorem&quot; redirects here. You might be looking for [[Gabbay's separation theorem]], the [[separating axis theorem]], or the [[mutual fund separation theorem]].''
+
+In [[economics]], the '''Fisher separation theorem''' asserts that the objective of a [[corporation]] will be the maximization of its [[present value]], regardless of the preferences of its shareholders. The theorem therefore separates management's &quot;productive opportunities&quot; from the entrepreneur's &quot;market opportunities&quot;. It was proposed by &amp;mdash; and is named after &amp;mdash; the [[economist]] [[Irving Fisher]].
+
+The theorem has its &quot;clearest and most famous exposition&quot; [http://cepa.newschool.edu/het/essays/capital/fisherinvest.htm] in the ''Theory of Interest'' (1930); particularly in the &quot;second approximation to the theory of interest&quot; ([http://www.econlib.org/library/YPDBooks/Fisher/fshToI6.html#firstpage-bar II:VI]).
+
+&lt;blockquote style=&quot;background: 1; border: 1px solid black; padding: 1em;&quot;&gt;
+{{Ref improve section|date=January 2011}}
+The Fisher separation theorem states that:
+* the firm's [[Corporate_finance#The_investment_decision|investment decision]] is independent of the preferences of the owner;
+* the investment decision is independent of the [[Corporate_finance#The_financing_decision|financing decision]].
+* the value of a capital project (investment) is independent of the mix of methods &amp;ndash; equity, debt, and/or cash &amp;ndash; used to finance the project.
+&lt;/blockquote&gt;
+
+Fisher showed the above as follows:
+#The firm can make the investment decision &amp;mdash; i.e. [[Production-possibility frontier|the choice between productive opportunities]]  &amp;mdash; that maximizes its [[present value]], independent of its owner's investment preferences.
+#The firm can ''then'' ensure that the owner achieves his optimal position in terms of &quot;market opportunities&quot; by funding its investment either with borrowed funds, or internally as appropriate.
+
+==See also==
+*[[Modigliani–Miller theorem]]
+*[[The Theory of Investment Value]]
+
+== External links ==
+*[http://homepage.newschool.edu/~het/essays/capital/fisherinvest.htm Irving Fisher's Theory of Investment], The History of Economic Thought, [[The New School]]
+*[http://wayback.archive.org/web/*/http://www.in-the-money.com/artandpap/I%20Present%20Value.doc Great Moments in Financial Economics: Present Value] ([[internet archive|archived]]), Prof. [[Mark Rubinstein]], [[Haas School of Business]]
+*[http://e.viaminvest.com/A2MonitorSystems/AppA2MonitorSystems/AppEtoA2PerfCapMark/Model_PerfCapMarket.asp Model: Perfect capital market - Fisher separation theorem], Dr. Henrik Mathiesen, encycogov.com
+*[http://www.investopedia.com/terms/f/fishersseparationtheorem.asp Fisher's Separation Theorem], investopedia.com
+
+[[Category:Economics theorems]]
+
+[[ca:Teorema de Fisher]]
+[[de:Fisher-Separationstheorem]]
+[[sv:Fishers separationsteorem]]</text>
+      <sha1>i1dlzwuc41gk2j4t98bvmsizfxtvfil</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

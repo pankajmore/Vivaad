@@ -1,0 +1,204 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Efficient-market hypothesis</title>
+    <ns>0</ns>
+    <id>164602</id>
+    <revision>
+      <id>519444077</id>
+      <parentid>519443887</parentid>
+      <timestamp>2012-10-23T19:37:50Z</timestamp>
+      <contributor>
+        <ip>129.100.254.151</ip>
+      </contributor>
+      <comment>/* Historical background */</comment>
+      <text xml:space="preserve" bytes="35727">{{Merge to|Financial market efficiency|discuss=Talk:Financial market efficiency#Merger Proposal|date=April 2012}}
+
+{{financial markets}}
+In [[finance]], the '''efficient-market hypothesis''' ('''EMH''') asserts that [[financial markets]] are &quot;informationally efficient&quot;. In consequence of this, one cannot consistently achieve returns in excess of average market returns on a [[Risk-weighted asset|risk-adjusted basis]], given the information available at the time the investment is made.
+
+There are three major versions of the hypothesis: &quot;weak&quot;, &quot;semi-strong&quot;, and &quot;strong&quot;. The weak-form EMH claims that prices on traded [[assets]] (''e.g.,'' [[stocks]], [[Bond (finance)|bonds]], or property) already reflect all past publicly available [[information]]. The semi-strong-form EMH claims both that prices reflect all publicly  available information and that prices instantly change to reflect new public information. The strong-form EMH additionally claims that prices instantly reflect even  hidden or &quot;insider&quot; information.
+Critics have blamed the belief in [[Rational expectations|rational markets]] for much of the [[late-2000s financial crisis]].&lt;ref&gt;{{cite book | title=Myth of the Rational Market | last=Fox | first=Justin | year=2009 | publisher=[[HarperCollins|Harper Business]] | isbn=0-06-059899-9}}&lt;/ref&gt;&lt;ref name=&quot;nytimes.com&quot;&gt;{{cite news |url=http://www.nytimes.com/2009/06/06/business/06nocera.html?scp=1&amp;sq=efficient%20market&amp;st=cse|title=Poking Holes in a Theory on Markets|work=[[New York Times]] |accessdate=8 June 2009 |date=5 June 2009 | first=Joe | last=Nocera}}&lt;/ref&gt;&lt;ref name=&quot;washingtonpost.com&quot;&gt;{{cite news |first=Roger |last=Lowenstein |url=http://www.washingtonpost.com/wp-dyn/content/article/2009/06/05/AR2009060502053.html |title=Book Review: 'The Myth of the Rational Market' by Justin Fox |work=[[Washington Post]] |accessdate=5 August 2011 |date=7 June 2009}}&lt;/ref&gt;  In response, proponents of the hypothesis have stated that market efficiency does not mean having no uncertainty about the future, that market efficiency is a simplification of the world which may not always hold true, and that the market is practically efficient for investment purposes for most individuals.&lt;ref name=desai&gt;{{cite news | url=http://www.indexingblog.com/2011/03/27/efficient-market-hypothesis/ |title=Efficient Market Hypothesis |accessdate=2 June 2011 |date=27 March 2011 | first=Sameer |last=Desai }}&lt;/ref&gt;
+
+==Historical background==
+Historically, there was a very close link between EMH and the [[Random walk hypothesis|random-walk model]] and then the Martingale model. The random character of stock market prices was first modelled by [[Jules Regnault]], a French broker, in 1863 and then by [[Louis Bachelier]], a French mathematician, in his 1900 PhD thesis, &quot;The Theory of Speculation&quot;.&lt;ref&gt;Kirman, Alan. &quot;Economic theory and the crisis.&quot; ''Voxeu''. 14 November 2009. http://www.voxeu.org/index.php?q=node/4208&lt;/ref&gt; His work was largely ignored until the 1950s; however beginning in the 1930s scattered, independent work corroborated his thesis. A small number of studies indicated that US stock prices and related financial series followed a [[Random walk hypothesis|random walk model]].&lt;ref&gt;See Working (1934), Cowles and Jones (1937), and Kendall (1953), and later Brealey, Dryden and Cunningham.&lt;/ref&gt; Research by [[Alfred Cowles]] in the ’30s and ’40s suggested that professional investors were in general unable to outperform the market. 
+
+The efficient-market hypothesis was developed by Professor [[Eugene Fama]] at the [[University of Chicago Booth School of Business]] as an academic concept of study through his published Ph.D. thesis in the early 1960s at the same school. It was widely accepted up until the 1990s, when [[behavioral finance]] economists, who had been a fringe element, became mainstream.&lt;ref name=Fortune2002&gt;Fox J. (2002). [http://money.cnn.com/magazines/fortune/fortune_archive/2002/12/09/333473/index.htm Is The Market Rational? No, say the experts. But neither are you--so don't go thinking you can outsmart it]. ''Fortune''.&lt;/ref&gt; Empirical analyses have consistently found problems with the efficient-market hypothesis, the most consistent being that stocks with low price to earnings (and similarly, low price to cash-flow or book value) outperform other stocks.&lt;ref name=ContraryEmpirical/&gt;&lt;ref name=FamaContrary/&gt; Alternative theories have proposed that [[cognitive bias]]es cause these inefficiencies, leading investors to purchase
+overpriced [[growth investing|growth stocks]] rather than [[value investing|value stocks]].&lt;ref name=Fortune2002/&gt; Although the efficient-market hypothesis has become controversial because substantial and lasting inefficiencies are observed, Beechey et al. (2000) consider that it remains a worthwhile starting point.&lt;ref&gt;Beechey M, Gruen D, Vickrey J. (2000). [http://ideas.repec.org/p/rba/rbardp/rdp2000-01.html The Efficient Markets Hypothesis: A Survey]. Reserve Bank of Australia.&lt;/ref&gt;
+
+The efficient-market hypothesis emerged as a prominent theory in the mid-1960s. [[Paul Samuelson]] had begun to circulate Bachelier's work among economists. In 1964 Bachelier's dissertation along with the empirical studies mentioned above were published in an anthology edited by Paul Cootner.&lt;ref&gt;{{cite book| last = Cootner (ed.)| first = Paul| title = The Random Character of StockMarket Prices| publisher = MIT Press| year = 1964}}&lt;/ref&gt; In 1965 Eugene Fama published his dissertation arguing for the random walk hypothesis,&lt;ref&gt;{{cite journal | last = Fama | first = Eugene | title = The Behavior of Stock Market Prices | journal = Journal of Business | volume = 38 | pages =34–105 | year = 1965 | doi=10.1086/294743}}&lt;/ref&gt; and Samuelson published a proof for a version of the efficient-market hypothesis.&lt;ref&gt;{{cite journal | last = Samuelson | first = Paul | title = Proof That Properly Anticipated Prices Fluctuate Randomly | journal = Industrial Management Review | volume = 6 | pages =41–49 | year
+=1965
+}}&lt;/ref&gt; In 1970 Fama published a review of both the theory and the evidence for the hypothesis. The paper extended and refined the theory, included the definitions for three forms of [[financial market efficiency]]: weak, semi-strong and strong (see below).&lt;ref&gt;{{cite journal | last = Fama | first = Eugene | title = Efficient Capital Markets: A Review of Theory and Empirical Work | journal = Journal of Finance | volume = 25| pages = 383–417| year = 1970 | doi = 10.2307/2325486 | jstor = 2325486 | issue = 2}}&lt;/ref&gt;
+
+It has been argued that the stock market is “micro efficient” but not “macro inefficient”. The main proponent of this view was Samuelson, who asserted that the EMH is much better suited for individual stocks than it is for the aggregate stock market. Research based on regression and scatter diagrams has strongly supported Samuelson's dictum.&lt;ref&gt;{{cite journal | author = Jung, Jeeman; Shiller, Robert | title = Samuelson's Dictum And The Stock Market | journal = Economic Inquiry | volume = 43 (2) | pages = 221–228| year = 2005 | doi = 10.1093/ei/cbi015}}&lt;/ref&gt;
+
+Further to this evidence that the UK stock market is weak-form efficient, other studies of capital markets have pointed toward their being semi-strong-form efficient.  A study by Khan of the grain futures market indicated semi-strong form efficiency following the release of large trader position information (Khan, 1986). Studies by Firth (1976, 1979, and 1980) in the United Kingdom have compared the share prices existing after a takeover announcement with the bid offer.  Firth found that the share prices were fully and instantaneously adjusted to their correct levels, thus concluding that the UK stock market was semi-strong-form efficient.  However, the market's ability to efficiently respond to a short term, widely publicized event such as a takeover announcement does not necessarily prove market efficiency related to other more long term, amorphous factors. [[David Dreman]] has criticized the evidence provided by this instant &quot;efficient&quot; response, pointing out that an immediate response is not necessarily efficient, and that the long-term performance of the stock in response to certain movements are better indications. A study on stocks' response to dividend cuts or increases over three years found that after an announcement of a dividend cut, stocks underperformed the market by 15.3% for the three-year period, while stocks outperformed the market by 24.8% for the three years following the announcement of a dividend increase.&lt;ref&gt;Michaely R, Thaler RH, Womack K. (1993). Price Reactions to Dividend Initiatives and Omissions: Overreaction or Drift? Cornell University, Working Paper.&lt;/ref&gt;
+
+==Theoretical background==
+Beyond the normal [[utility]] maximizing agents, the efficient-market hypothesis requires that agents have [[rational expectations]]; that on average the population is correct (even if no one person is) and whenever new relevant information appears, the agents update their expectations appropriately. Note that it is not required that the agents be rational. EMH allows that when faced with new information, some investors may overreact and some may underreact. All that is required by the EMH is that investors' reactions be random and follow a normal distribution pattern so that the net effect on market prices cannot be reliably exploited to make an abnormal profit, especially when considering transaction costs (including commissions and spreads). Thus, any one person can be wrong about the market&amp;mdash;indeed, everyone can be&amp;mdash;but the market as a whole is always right. There are three common forms in which the efficient-market hypothesis is commonly stated&amp;mdash;'''weak-form efficiency''',
+'''semi-strong-form efficiency''' and '''strong-form efficiency''', each of which has different implications for how markets work.
+
+In '''weak-form efficiency''', future prices cannot be predicted by analyzing prices from the past. Excess returns cannot be earned ''in the long run'' by using investment strategies based on historical share prices or other historical data. [[Technical analysis]] techniques will not be able to consistently produce excess returns, though some forms of [[fundamental analysis]] may still provide excess returns. Share prices exhibit no serial dependencies, meaning that there are no &quot;patterns&quot; to asset prices. This implies that future price movements are determined entirely by information not contained in the price series. Hence, prices must follow a random walk. This 'soft' EMH does not require that prices remain at or near equilibrium, but only that market participants not be able to ''systematically'' profit from market '[[Market anomaly|inefficiencies]]'. However, while EMH predicts that all price movement (in the absence of change in fundamental information) is random (i.e., non-trending), many studies have shown a marked tendency for the stock markets to trend over time periods of weeks or longer&lt;ref&gt;{{cite journal | author = Saad, Emad W., Student Member, IEEE; Prokhorov, Danil V. Member , IEEE; and Wunsch,II, Donald C. Senior Member, IEEE | title = Comparative Study of Stock Trend Prediction Using Time Delay, Recurrent and Probabilistic Neural Networks | journal = IEEE Transactions on Neural Networks | volume = 9 | pages =1456–1470 | date = November, 1998 | doi = 10.1109/72.728395 | pmid = 18255823 | issue = 6}}&lt;/ref&gt; and that, moreover, there is a positive correlation between degree of trending and length of time period
+studied&lt;ref&gt;{{cite journal | author = Granger, Clive W. J. &amp; Morgenstern, Oskar | title = Spectral Analysis Of New York Stock Market Prices | journal = Kyklos | volume = 16 | issue = 1 | pages = 1–27 | date = 5 May 2007 | doi = 10.1111/j.1467-6435.1963.tb00270.x}}&lt;/ref&gt; (but note that over long time periods, the trending is [[sinusoidal]] in appearance). Various explanations for such large and apparently non-random price movements have been promulgated.
+
+The problem of algorithmically constructing prices which reflect all available information has been studied extensively in the field of computer science.&lt;ref&gt;{{cite book | year = 2005 | author = Kleinberg, Jon; Tardos, Eva | title = Algorithm Design | publisher = Addison Wesley | isbn = 0-321-29535-8 }}&lt;/ref&gt;&lt;ref&gt;{{cite book | year = 2007 | author = Nisan, Roughgarden, Tardos, Vazirani | title = Algorithmic Game Theory | publisher = Cambridge University Press | isbn = 0-521-87282-0}}&lt;/ref&gt;  For example, the complexity of finding the arbitrage opportunities in pair betting markets has been shown to be [[NP-hard]].&lt;ref&gt;{{cite journal | author = Chen, Y; Fortnow, L; Nikolova, E; Pennock, D | title = Betting on permutations | journal = Proceedings of the 8th ACM conference on Electronic commerce | volume = 8 | pages = 326–335   | year = 2007 | isbn = 978-1-59593-653-0}}&lt;/ref&gt;
+
+In '''semi-strong-form efficiency''', it is implied that share prices adjust to publicly available new information very rapidly and in an unbiased fashion, such that no excess returns can be earned by trading on that information. Semi-strong-form efficiency implies that neither [[fundamental analysis]] nor [[technical analysis]] techniques will be able to reliably produce excess returns. To test for semi-strong-form efficiency, the adjustments to previously unknown news must be of a reasonable size and must be instantaneous.  To test for this, consistent upward or downward adjustments after the initial change must be looked for.  If there are any such adjustments it would suggest that investors had interpreted the information in a biased fashion and hence in an inefficient manner.
+
+In '''strong-form efficiency''', share prices reflect all information, public and private, and no one can earn excess returns. If there are legal barriers to private information becoming public, as with insider trading laws, strong-form efficiency is impossible, except in the case where the laws are universally ignored. To test for strong-form efficiency, a market needs to exist where investors cannot consistently earn excess returns over a long period of time.  Even if some money managers are consistently observed to beat the market, no refutation even of strong-form efficiency follows: with hundreds of thousands of fund managers worldwide, even a normal distribution of returns (as efficiency predicts) should be expected to produce a few dozen &quot;star&quot; performers.
+
+== Criticism and behavioral finance ==
+[[Image:Price-Earnings Ratios as a Predictor of Twenty-Year Returns (Shiller Data).png|400px|right|thumb|Price-Earnings ratios as a predictor of twenty-year returns based upon the plot by [[Robert Shiller]] (Figure 10.1,&lt;ref name=&quot;IE2&quot;&gt;{{cite book |last=Shiller |first=Robert |title=[[Irrational Exuberance (book)|Irrational Exuberance (2d ed.)]]|year=2005 |publisher=[[Princeton University Press]] |isbn= 0-691-12335-7 }}&lt;/ref&gt; &lt;small&gt; [http://irrationalexuberance.com/shiller_downloads/ie_data.xls source]&lt;/small&gt;). The horizontal axis shows the [[:Image:IE Real SandP Price-Earnings Ratio, Interest 1871-2006.png|real price-earnings ratio of the S&amp;P Composite Stock Price Index]] as computed in ''Irrational Exuberance'' (inflation adjusted price divided by the prior ten-year mean of inflation-adjusted earnings). The vertical axis shows the geometric average real annual return on investing in the S&amp;P Composite Stock Price Index, reinvesting dividends, and selling twenty years later. Data from different twenty-year
+periods is color-coded as shown in the key. See also [[:Image:Price-Earnings Ratios as a Predictor of Ten-Year Returns (Shiller Data).png|ten-year returns]]. Shiller states that [[:Image:Price-Earnings Ratios as a Predictor of Ten-Year Returns (Shiller Data).png|this plot]] &quot;confirms that long-term investors—investors who commit their money to an investment for ten full years—did do well when prices were low relative to earnings at the beginning of the ten years. Long-term investors would be well advised, individually, to lower their exposure to the stock market when it is high, as it has been recently, and get into the market when it is low.&quot;&lt;ref name=&quot;IE2&quot;/&gt; [[Burton Malkiel]] stated that this correlation may be consistent with an efficient market due to differences in [[interest rate]]s.&lt;ref&gt;[[Burton Malkiel|Burton G. Malkiel]] (2006). ''A Random Walk Down Wall Street''. ISBN 0-393-32535-0. p.254.&lt;/ref&gt;]]
+
+[[File:Daniel KAHNEMAN.jpg|thumb|180px|[[Daniel Kahneman]]]]
+Investors and researchers have disputed the efficient-market hypothesis both empirically and theoretically. [[Behavioral finance|Behavioral economists]] attribute the imperfections in financial markets to a combination of [[cognitive bias]]es such as [[overconfidence]], overreaction, representative bias, [[information bias]], and various other predictable human errors in reasoning and information processing. These have been researched by psychologists such as [[Daniel Kahneman]], [[Amos Tversky]], [[Richard Thaler]], and [[Paul Slovic]]. These errors in reasoning lead most investors to avoid value stocks and buy [[growth stock]]s at expensive prices, which allow those who reason correctly to profit from bargains in neglected [[value stock]]s and the [[Overreaction|overreacted]] selling of growth stocks.
+
+Empirical evidence has been mixed, but has generally not supported strong forms of the efficient-market hypothesis&lt;ref name=ContraryEmpirical&gt;Empirical papers questioning EMH:
+*Francis Nicholson. Price-Earnings Ratios in Relation to Investment Results. ''Financial Analysts Journal''. Jan/Feb 1968:105-109.
+*Sanjoy Basu. (1977). Investment Performance of Common Stocks in Relation to Their Price-Earnings Ratios: A test of the Efficient Markets Hypothesis. ''Journal of Finance'' 32:663-682.
+*Rosenberg B, Reid K, Lanstein R. (1985). Persuasive Evidence of Market Inefficiency. ''Journal of Portfolio Management'' 13:9-17.&lt;/ref&gt;&lt;ref name=FamaContrary&gt;Fama E, French K. (1992). The Cross-Section of Expected Stock Returns. ''Journal of Finance'' 47:427-465&lt;/ref&gt;&lt;ref&gt;{{cite journal | author = Chan, Kam C.; Gup, Benton E. &amp; Pan, Ming-Shiun | title = International Stock Market Efficiency and Integration: A Study of Eighteen Nations | journal = [[Journal of Business Finance &amp; Accounting]] | volume = 24 | issue = 6 | pages = 803–813 | date = 4 Mar 2003 | doi = 10.1111/1468-5957.00134}}&lt;/ref&gt;  According to Dreman and Berry, in a 1995 paper, low P/E stocks have greater returns.&lt;ref&gt;{{cite journal | author = Dreman David N. &amp; Berry Michael A.| title = Overreaction, Underreaction, and the Low-P/E Effect | journal = Financial Analysts Journal | volume = 51 | issue = 4 | pages = 21–30 | year = 1995 | doi = 10.2469/faj.v51.n4.1917}}&lt;/ref&gt; In an earlier paper Dreman also refuted the assertion by Ray Ball that these higher returns could be attributed to higher [[Beta (finance)|beta]],&lt;ref&gt;Ball R.
+(1978). Anomalies in Relationships between Securities' Yields and Yield-Surrogates. ''Journal of Financial Economics 6:103-126&lt;/ref&gt; whose research had been accepted by efficient market theorists as explaining the anomaly&lt;ref name=ContrarianNextGen&gt;[[David Dreman|Dreman D]]. (1998). ''Contrarian Investment Strategy: The Next Generation''. Simon and Schuster.&lt;/ref&gt; in neat accordance with [[modern portfolio theory]].
+
+One can identify &quot;losers&quot; as stocks that have had poor returns over some number of past years. &quot;Winners&quot; would be those stocks that had high returns over a similar period. The main result of one such study is that losers have much higher average returns than winners over the following period of the same number of years.&lt;ref&gt;{{cite journal | author = DeBondt, Werner F.M. &amp; Thaler, Richard H. | title = Does the Stock Market Overreact | journal = Journal of Finance | volume = 40 | pages = 557–558 | year = 1985}}&lt;/ref&gt; A later study showed that [[Beta (finance)|beta]] (β) cannot account for this difference in average returns.&lt;ref&gt;{{cite journal | author = Chopra, Navin; Lakonishok, Josef; &amp; Ritter, Jay R. | title = Measuring Abnormal Performance: Do Stocks Overreact | journal = Journal of Financial Economics | volume = 31 | pages = 235–268 | year = 1985 | doi = 10.1016/0304-405X(92)90005-I | issue = 2}}&lt;/ref&gt; This tendency of returns to reverse over long horizons (i.e., losers become winners) is yet another contradiction of EMH. Losers would have to
+have much higher betas than
+winners in order to justify the return difference. The study showed that the beta difference required to save the EMH is just not there.
+
+Speculative [[economic bubble]]s are an obvious anomaly, in that the market often appears to be driven by buyers operating on [[irrational exuberance]], who take little notice of underlying value. These bubbles are typically followed by an overreaction of frantic selling, allowing shrewd investors to buy stocks at bargain prices. Rational investors have difficulty profiting by [[short (finance)|shorting]] irrational bubbles because, as [[John Maynard Keynes]] [[wikiquote:John Maynard Keynes|commented]], &quot;Markets can remain irrational far longer than you or I can remain solvent.&quot;{{Citation needed|date=July 2011}} Sudden market crashes as happened on [[Black Monday (1987)|Black Monday in 1987]] are mysterious from the perspective of efficient markets, but allowed as a rare ''statistical event'' under the Weak-form of EMH.  One could also argue that if the hypothesis is so weak, it cannot be used in statistical models due to its lack of predictive behavior.
+
+[[Burton Malkiel]], a well-known proponent of the general validity of EMH, has warned that certain emerging markets such as [[China]] are not empirically efficient; that the [[Shanghai Stock Exchange|Shanghai]] and [[Shenzhen Stock Exchange|Shenzhen]] markets, unlike markets in United States, exhibit considerable serial correlation ([[Market trends|price trends]]), non-random walk, and evidence of manipulation.&lt;ref&gt;Burton Malkiel. [http://ca.youtube.com/watch?v=uVcV0H4qtgw Investment Opportunities in China]. July 16, 2007. (34:15 mark)&lt;/ref&gt;
+
+Behavioral psychology approaches to stock market trading are among some of the more promising alternatives to EMH (and some investment strategies seek to exploit exactly such inefficiencies). But Nobel Laureate co-founder of the programme—[[Daniel Kahneman]]—announced his skepticism of investors beating the market: &quot;They're [investors] just not going to do it [beat the market]. It's just not going to happen.&quot;&lt;ref&gt;{{cite web |url=http://www.ifa.com/Book/Book_pdf/02_Nobel_Laureates.pdf |title=Step 2: Nobel Laureates |accessdate=12 August 2005 |last=Hebner |first=Mark |authorlink=Mark Hebner |date=12 August 2005 |work=Index Funds: The 12-Step Program for Active Investors |publisher=Index Funds Advisors, Inc.}}&lt;/ref&gt; Indeed defenders of EMH maintain that Behavioral Finance strengthens the case for EMH in that BF highlights biases in individuals and committees and not competitive markets. For example, one prominent finding in Behaviorial Finance is that individuals employ [[hyperbolic discounting]]. It is palpably true that [[bond (finance)|bonds]], [[mortgages]], [[annuity (finance theory)|annuities]] and other similar [[financial instruments]] subject to competitive market forces [[bond valuation|do not]]. Any manifestation of [[hyperbolic discounting]] in the pricing of these obligations would invite [[arbitrage]] thereby quickly eliminating any vestige of individual biases. Similarly, [[diversification (finance)|diversification]], [[derivative (finance)|derivative securities]] and other hedging strategies assuage if not eliminate potential mispricings from the severe risk-intolerance ([[loss aversion]]) of individuals underscored by behavioral finance. On the other hand, economists, behaviorial psychologists and mutual fund managers are drawn from the human population and are therefore subject to the biases that behavioralists showcase. By contrast, the price signals in markets are far less subject to individual biases highlighted by the Behavioral Finance programme. [[Richard Thaler]] has started a fund based on his research on cognitive biases. In a 2008 report he identified [[complexity]] and [[herd behavior]] as central to the [[global financial crisis of 2008]].&lt;ref&gt;Thaler RH. (2008). [http://www.fullerthaler.com/reviews/newsltr2008Q3.pdf 3Q2008].
+Fuller &amp; Thaler Asset Management.&lt;/ref&gt;
+
+Further empirical work has highlighted the impact transaction costs have on the concept of market efficiency, with much evidence suggesting that any anomalies pertaining to market inefficiencies are the result of a cost benefit analysis made by those willing to incur the cost of acquiring the valuable information in order to trade on it. Additionally the concept of liquidity is a critical component to capturing &quot;inefficiencies&quot; in tests for abnormal returns. Any test of this proposition faces the joint hypothesis problem, where it is impossible to ever test for market efficiency, since to do so requires the use of a measuring stick against which abnormal returns are compared - one cannot know if the market is efficient if one does not know if a model correctly stipulates the required rate of return. Consequently, a situation arises where either the asset pricing model is incorrect or the market is inefficient, but one has no way of knowing which is the case.{{Citation needed|date=January 2010}}
+
+A key work on random walk was done in the late 1980s by Profs. Andrew Lo and Craig MacKinlay; they effectively argue that a random walk does not exist, nor ever has.&lt;ref&gt;{{cite web |url=http://press.princeton.edu/titles/6558.html|title=A Non-Random Walk Down Wall Street|work=Princeton University Press }}&lt;/ref&gt; Their paper took almost two years to be accepted by academia and in 1999 they published &quot;A Non-random Walk Down Wall St.&quot; which collects their research papers on the topic up to that time.
+
+Economists Matthew Bishop and Michael Green claim that full acceptance of the hypothesis goes against the thinking of [[Adam Smith]] and [[John Maynard Keynes]], who both believed irrational behavior had a real impact on the markets.&lt;ref&gt;{{cite news |url=http://www.nytimes.com/2010/03/21/business/21shelf.html|title=The Case for Financial Reinvention|work=[[The New York Times]] |accessdate=29 March 2010 |date=19 March 2010 | first=Harry | last=Hurt III}}&lt;/ref&gt;
+
+[[Warren Buffett]] has also argued against EMH, saying the preponderance of value investors among the world's best money managers rebuts the claim of EMH proponents that luck is the reason some investors appear more successful than others.&lt;ref&gt;{{cite news |url=http://www.smh.com.au/business/paul-the-octopus-proves-buffett-was-right-20100714-10air.html?autostart=1|title=Paul the octopus proves Buffett was right|work=[[Sydney Morning Herald]] |accessdate=4 August 2010 |date=14 July 2010 | first=Greg | last=Hoffman}}&lt;/ref&gt; As Malkiel &lt;ref&gt; Malkiel, A Random Walk Down Wall Street, 1996 &lt;/ref&gt; has shown, over the 30 years (to 1996) more than two-thirds of professional portfolio managers have been outperformed by the S&amp;P 500 Index (and, more to the point, there is little correlation between those who outperform in one year and those who outperform in the next.)
+
+== Late 2000s financial crisis ==
+
+The [[financial crisis of 2007–2012]] has led to renewed scrutiny and criticism of the hypothesis.&lt;ref&gt;{{cite news |url=http://www.theglobeandmail.com/globe-investor/investment-ideas/features/taking-stock/sun-finally-sets-on-notion-that-markets-are-rational/article1206213/|title=Sun finally sets on notion that markets are rational|work=[[The Globe and Mail]] |accessdate=7 July 2009 |date=7 July 2009}}&lt;/ref&gt; Market strategist [[Jeremy Grantham]] has stated flatly that the EMH is responsible for the current financial crisis, claiming that belief in the hypothesis caused financial leaders to have a &quot;chronic underestimation of the dangers of asset bubbles breaking&quot;.&lt;ref name=&quot;nytimes.com&quot;/&gt; Noted financial journalist [[Roger Lowenstein]] blasted the theory, declaring &quot;The upside of the current Great Recession is that it could drive a stake through the heart of the academic nostrum known as the efficient-market hypothesis.&quot;&lt;ref name=&quot;washingtonpost.com&quot;/&gt; Former [[Federal Reserve]] chairman [[Paul Volcker]] chimed in, saying it's &quot;clear that among the causes of the recent financial crisis was an unjustified faith in rational expectations [and] market efficiencies.&quot;&lt;ref&gt;{{cite news |url=http://www.nybooks.com/articles/archives/2011/nov/24/financial-reform-unfinished-business/ |title= Financial Reform: Unfinished Business|author=Paul Volcker |date=October 27, 2011 |work= |publisher= [[New York Review of Books]]|accessdate=22 November 2011}}&lt;/ref&gt;
+
+At the International Organization of Securities Commissions annual conference, held in June 2009, the hypothesis took center stage. [[Martin Wolf]], the chief economics commentator for the [[Financial Times]], dismissed the hypothesis as being a useless way to examine how markets function in reality. [[Paul McCulley]], managing director of [[PIMCO]], was less extreme in his criticism, saying that the hypothesis had not failed, but was &quot;seriously flawed&quot; in its neglect of human nature.&lt;ref&gt;{{cite news |url=http://fr.jpost.com/servlet/Satellite?cid=1244371066953&amp;pagename=JPost/JPArticle/ShowFull|title=Has 'guiding model' for global markets gone haywire?|work=[[Jerusalem Post]] |accessdate=17 June 2009 |date=11 June 2009}}&lt;/ref&gt;
+
+The financial crisis has led [[Richard Posner]], a prominent judge, University of Chicago law professor, and innovator in the field of Law and Economics, to back away from the hypothesis and express some degree of belief in [[Keynesian economics]]. Posner accused some of his [[Chicago school of economics|Chicago School]] colleagues of being &quot;asleep at the switch&quot;, saying that &quot;the movement to deregulate the financial industry went too far by exaggerating the resilience - the self healing powers - of laissez-faire capitalism.&quot;&lt;ref&gt;{{cite news |url=http://www.newyorker.com/reporting/2010/01/11/100111fa_fact_cassidy|title=After the Blowup|work=[[The New Yorker]] |accessdate=12 January 2010 |date=11 January 2010}}&lt;/ref&gt; Others, such as [[Eugene Fama|Fama]] himself, said that the hypothesis held up well during the crisis and that the markets were a casualty of the recession, not the cause of it. Despite this, Fama has conceded that &quot;poorly informed investors could theoretically lead the market astray&quot; and that stock prices could become &quot;somewhat irrational&quot; as a result.&lt;ref&gt;Jon E. Hilsenrath, [http://fisher.osu.edu/~diether_1/b822/fama_thaler.pdf Stock Characters: As Two Economists Debate Markets, The Tide Shifts]. Wall Street Journal 2004&lt;/ref&gt;
+
+Critics have suggested that financial institutions and corporations have been able to reduce the efficiency of financial markets by creating private information and reducing the accuracy of conventional disclosures, and by developing new and complex products which are challenging for most market participants to evaluate and correctly price.&lt;ref&gt;Michael Simkovic, [http://ssrn.com/abstract=1323190 &quot;Secret Liens and the Financial Crisis of 2008&quot;], American Bankruptcy Law Journal 2009&lt;/ref&gt;&lt;ref&gt;Michael Simkovic, [http://ssrn.com/abstract=1924831 &quot;Competition and Crisis in Mortgage Securitization&quot;]&lt;/ref&gt;
+
+==See also==
+{{colbegin|colwidth=30em}}
+* [[Adaptive market hypothesis]]
+* [[Arbitrage]]
+* [[Financial market efficiency]]
+* [[Eugene Fama]]
+* [[Finance]]
+* [[Insider trading]]
+* [[Investment theory]]
+* [[Market anomaly]]
+* [[Microeconomics]]
+* [[Paul Samuelson]]
+* [[Technical analysis]]
+* [[Transparency (market)]]
+* [[Noisy market hypothesis]]
+* [[Dumb agent theory]]
+{{colend}}
+
+==Notes==
+{{Reflist|colwidth=30em}}
+
+==References==
+*Burton G. Malkiel (1987). &quot;efficient market hypothesis,&quot; ''The [[New Palgrave: A Dictionary of Economics]]'', v. 2, pp.&amp;nbsp;120–23.
+*[http://www.stanford.edu/~wfsharpe/art/active/active.htm The Arithmetic of Active Management, by William F. Sharpe ]
+*Burton G. Malkiel, A Random Walk Down Wall Street, W. W. Norton, 1996, ISBN 0-393-03888-2
+*John Bogle, ''Bogle on Mutual Funds: New Perspectives for the Intelligent Investor'', Dell, 1994, ISBN 0-440-50682-4
+*Mark T. Hebner, ''Index Funds: The 12-Step Program for Active Investors'', IFA Publishing, 2007, ISBN 0-9768023-0-9
+*{{cite journal | last = Cowles | first = Alfred | coauthors = H. Jones | title = Some A Posteriori Probabilities in Stock Market Action | journal = Econometrica | volume = 5 | issue = 3| pages = 280–294 | year = 1937 | doi = 10.2307/1905515 | jstor = 1905515}}
+*{{cite journal | last = Kendall | first = Maurice | title = The Analysis of Economic Time Series | journal = Journal of the Royal Statistical Society | volume = 96 | pages = 11–25}}
+*{{cite journal | last = Khan | first = Arshad M (1986)| title = Conformity with Large Speculators: A Test of Efficiency in the Grain Futures Market | journal = Atlantic Economic Journal | volume = 14 | issue = 3 | pages = 51–55 | doi = 10.1007/BF02304624 | year = 1986}}
+*Paul Samuelson, &quot;Proof That Properly Anticipated Prices Fluctuate Randomly.&quot; Industrial Management Review, Vol. 6, No. 2, pp.&amp;nbsp;41–49. Reproduced as Chapter 198 in Samuelson, Collected Scientific Papers, Volume III, Cambridge, M.I.T. Press, 1972.
+*{{cite journal | last = Working | first = Holbrook | title = Note on the Correlation of First Differences of Averages in a Random Chain | journal = Econometrica | volume = 28 | pages = 916–918 | year = 1960 | doi = 10.2307/1907574 | jstor = 1907574 | issue = 4}}
+* Lo, Andrew and MacKinlay, Craig, &quot;A Non-random Walk Down Wall St.&quot;  Princeton Paperbacks, 2001
+
+==External links==
+*[http://www.e-m-h.org/ e-m-h.org]
+*[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=846546 &quot;Earnings Quality and the Equity Risk Premium: A Benchmark Model&quot;] abstract from Contemporary Accounting Research
+*[http://www.vanguard.com/bogle_site/sp20040413.html &quot;As The Index Fund Moves from Heresy to Dogma . . . What More Do We Need To Know?&quot;] Remarks by John Bogle on the superior returns of passively managed index funds.
+*[http://ideas.repec.org/a/rje/bellje/v4y1973iautumnp369-374.html Proof That Properly Discounted Present Values of Assets Vibrate Randomly] Paul Samuelson
+* [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.67.1434 Human Behavior and the Efficiency of the Financial System (1999) by Robert J. Shiller Handbook of Macroeconomics ]
+
+{{investment-management}}
+{{stock market}}
+
+{{DEFAULTSORT:Efficient-Market Hypothesis}}
+[[Category:Financial markets]]
+[[Category:Economic efficiency]]
+[[Category:Economic theories]]
+[[Category:Financial economics]]
+[[Category:Behavioral finance]]
+[[Category:1900 introductions]]
+
+[[ar:فرضية كفاءة السوق]]
+[[bg:Хипотеза за ефикасния пазар]]
+[[ca:Hipòtesi dels mercats eficients]]
+[[cs:Teorie efektivních trhů]]
+[[de:Effizienzmarkthypothese]]
+[[es:Hipótesis de eficiencia de los mercados]]
+[[fa:فرضیه بازار کارا]]
+[[fr:Efficience du marché financier]]
+[[ko:효율적 시장 가설]]
+[[he:תאוריית השוק היעיל]]
+[[hu:Hatékony piacok elmélete]]
+[[nl:Efficiënte-markthypothese]]
+[[no:Hypotesen om effisiente markeder]]
+[[pl:Hipoteza rynku efektywnego]]
+[[pt:Hipótese do mercado eficiente]]
+[[ru:Гипотеза эффективного рынка]]
+[[fi:Markkinoiden tehokkuus]]
+[[sv:Effektiva marknadshypotesen]]
+[[th:สมมติฐานประสิทธิภาพของตลาด]]
+[[tr:Etkin piyasalar hipotezi]]
+[[vi:Giả thuyết thị trường hiệu quả]]
+[[zh:效率市場假說]]</text>
+      <sha1>j1uf6tkf3ftwy4jy5g0w89n1eyt8n8t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

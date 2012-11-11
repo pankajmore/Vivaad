@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Product bundling</title>
+    <ns>0</ns>
+    <id>234163</id>
+    <revision>
+      <id>520831396</id>
+      <parentid>515659235</parentid>
+      <timestamp>2012-11-01T01:04:07Z</timestamp>
+      <contributor>
+        <username>R'n'B</username>
+        <id>2300502</id>
+      </contributor>
+      <minor/>
+      <comment>Fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Production]]</comment>
+      <text xml:space="preserve" bytes="4654">{{Refimprove|date=July 2008}}
+{{Competition law}}
+'''Product bundling''' is a [[marketing]] strategy that involves offering several [[Product (business)|products]] for sale as one combined product. This strategy is very common in the [[software]] business (for example: bundle a [[word processor]], a [[spreadsheet]], and a [[database]] into a single [[office suite]]), in the [[cable television]] industry (for example, basic cable in the [[United States]] generally offers many channels at one price), and in the [[fast food]] industry in which multiple items are combined into a [[Value meal|complete meal]]. A bundle of products is sometimes referred to as a '''package deal''' or a '''compilation''' or an '''anthology'''.
+
+Bundling is most successful when: 
+*There are [[economies of scale]] in production,
+*There are [[economies of scope]] in distribution,
+*[[Marginal costs]] of bundling are low.
+*[[Production (economics)|production]] set-up costs are high,
+*Customer acquisition costs are high.
+*Consumers appreciate the resulting simplification of the purchase decision and benefit from the joint performance of the combined product.
+*Consumers have heterogeneous demands and such demands for different parts of the bundle product are inversely correlated. For example, assume consumer A values word processor at $100 and spreadsheet processor at $60, while consumer B values word processor at $60 and spreadsheet at $100. Seller can generate maximum revenue of only $240 by setting $60 price for each product—both consumers will buy both products. Revenue cannot be increased without bundling because as seller increases the price above $60 for one of the goods, one of the consumers will refuse to buy it. With bundling, seller can generate revenue of $320 by bundling the products together and selling the bundle at $160.
+
+Product bundling is most suitable for high volume and high margin (i.e., low marginal cost) products.  Research by [[Yannis Bakos]] and [[Erik Brynjolfsson]] found that bundling was particularly effective for digital &quot;information goods&quot; with close to zero marginal cost, and could enable a bundler with an inferior collection of products to drive even superior quality goods out of the market place.&lt;ref&gt;{{cite journal |last=Bakos |first=Yannis |last2=Brynjolfsson |first2=Erik |year=1999 |title=Bundling Information Goods: Pricing, Profits, and Efficiency |journal=[[Management Science (journal)|Management Science]] |volume=45 |issue=12 |pages=1613–1630 |jstor=2634781 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last=Bakos |first=Yannis |last2=Brynjolfsson |first2=Erik |year=2000 |title=Bundling and Competition on the Internet |journal=[[Marketing Science]] |volume=19 |issue=1 |pages=63–82 |jstor=193259 }}&lt;/ref&gt;
+
+In [[oligopoly|oligopolistic]] and [[monopoly|monopolistic]] industries, product bundling can be seen as an unfair use of market power because it limits the choices available to the consumer. In these cases it is typically called [[product tying]].
+
+Venkatesh and Mahajan (2009) review the research on bundle design and pricing in their [http://www.business.pitt.edu/faculty/papers/venkatesh2.pdf book chapter].
+
+'''Pure bundling''' occurs when a consumer can only purchase the entire bundle or nothing, '''mixed bundling''' occurs when consumers are offered a choice between the purchasing the entire bundle or one of the separate parts of the bundle.
+
+Pure bundling can be further divided into two cases: in '''joint bundling''', the two products are offered together for one bundled price, and, in '''leader bundling''', a leader product is offered for discount if purchased with a non-leader product. '''Mixed-leader bundling''' is a variant of leader bundling with the added possibility of buying the leader product on its own.
+
+[[Bundling in political economy]] is a type of product bundling in which the product is a candidate in an election who markets his bundle of attributes and positions to the voters.
+
+
+==See also==
+*[[Competition law]]
+*[[Compilation album]]
+*[[Freebie marketing]]
+*[[Local loop unbundling]]
+*[[Marketing co-operation]]
+*[[Multicart]]
+*[[Package holiday]]
+*[[Price discrimination]]
+*[[Product management]]
+*[[Shovelware]]
+*[[Software bloat]]
+*[[Tying (commerce)]]
+
+==Notes==
+{{Reflist}}
+
+{{Software distribution}}
+
+{{DEFAULTSORT:Product Bundling}}
+[[Category:Marketing]]
+[[Category:Product management]]
+[[Category:Types of marketing]]
+[[Category:Software distribution]]
+
+[[ar:حزمة (تسويق)]]
+[[az:Bandl]]
+[[de:Bündelangebot]]
+[[kk:Бағаларды анықтау]]
+[[ja:バンドル]]
+[[no:Produktbunting]]
+[[nn:Programvarebunt]]
+[[ru:Бандл]]
+[[sv:Bundling]]</text>
+      <sha1>ogkrwkr6q9j49iw1hq0hx2zkgl29hnm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

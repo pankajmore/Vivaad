@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Tipitaka</title>
+    <ns>1</ns>
+    <id>207608</id>
+    <revision>
+      <id>431436746</id>
+      <parentid>118218547</parentid>
+      <timestamp>2011-05-29T04:38:25Z</timestamp>
+      <contributor>
+        <username>Tengu800</username>
+        <id>6813030</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2344">if this is the same thing as the [[Pali canon]], why are there two separate articles? [[User:TUF-KAT|Tuf-Kat]]
+
+----
+
+I'm not sure it's right to say that Tipitaka and Pali Canon are synonymous.  Don't all Buddhists refer to their scriptures as Tipitaka (such as ''Sanzang'' in Chinese)?  Seems like it would be fairer to move this article back to Pali Canon, and make a new article at Tripitaka to discuss Buddhist scriptures more generally. [[User:Nat Krause|Nat Krause]] 09:06, 27 Feb 2004 (UTC)
+
+:hi nat. I agree. Tipitaka is P&amp;#257;li for the 'three treasuries', and the P;#257;li scriptures are known as the P;#257;li Canon. But yes every Buddhist school has their 'Tripitaka' (Sanksrit) except maybe the Zen school. But Tripitaka is a general name for Buddhist scriptures. The Buddhist pages in Wiki are in the macrocosm, much like the Buddhism is in the microcosm - something of a mish mash. I contemplated tidying the whole thing up at one point, but after re-writing large amounts of the Buddhism page I didn't feel up to attempting a complete redesign from the ground up - so many pages and links to consider!
+
+:But yes move Tipitaka back to Pali Canon and start a new page for Buddhist scriptures generally. Maybe look at the traditional classic division into sutra, vinaya, abhidharma, tantra, and commentary. [[User:Mahaabaala|mah&amp;#257;b&amp;#257;la]] 10:20, 27 Feb 2004 (UTC)
+
+Tipitaka and Pali Canon ''are'' synonymous. The standard practice is to use Sanskrit for Buddhism in general, Pali for specifically Theravada. Therefore the redirect from this page should be to Pali Canon, not to Tripitaka. [[User:Peter jackson|Peter jackson]] 09:13, 27 March 2007 (UTC)
+
+:In certain contexts, it may be implied that ''Tipitaka'' refers to the Pali Canon rather than other collections. However, this is not always the case, and it may simply be that the author was using Pali terms rather than Sanskrit. The usual practice on Wikipedia is to make the Pali term redirect to the Sanskrit term, or vice-versa (depending on the title of the actual page). For example, ''[[bhikshu]]'' redirects to [[bhikkhu]]. For this reason, I am changing this page to redirect to Tripitaka rather than Pali Canon. [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, 'Gentium Book Basic', 'Gentium Basic', serif&quot;&gt;Tengu800&lt;/span&gt;]] 04:38, 29 May 2011 (UTC)</text>
+      <sha1>fyp2aqypjqn577jgfa4obgxu0htuewl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

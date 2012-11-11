@@ -1,0 +1,248 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cost overrun</title>
+    <ns>0</ns>
+    <id>6832338</id>
+    <revision>
+      <id>518974681</id>
+      <parentid>505913260</parentid>
+      <timestamp>2012-10-21T05:09:10Z</timestamp>
+      <contributor>
+        <username>ObedMensa</username>
+        <id>17735895</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="10737">A '''cost overrun''', also known as a '''cost increase''' or '''budget overrun''', is an unexpected [[cost]] incurred in excess of a budgeted amount due to an underestimation of the actual cost during budgeting.  Cost overrun should be distinguished from [[cost escalation]], which is used to express an ''anticipated'' growth in a budgeted cost due to factors such as inflation.
+
+Cost overrun is common in [[infrastructure]], [[building]], and [[technology]] projects. A comprehensive study of cost overrun published in the Journal of the American Planning Association in 2002 found that 9 out of ten construction [[projects]] had underestimated costs. Overruns of 50 to one hundred percent were also common.{{Synthesis-inline|date=October 2010}} Cost underestimation was found in each of 20 nations and five continents covered by the study, and cost underestimation had not decreased in the 70 years for which data were available.&lt;ref name=&quot;ucpwp&quot;&gt;{{cite journal
+  | url = http://flyvbjerg.plan.aau.dk/JAPAASPUBLISHED.pdf
+  | title = Underestimating Costs in Public Works Projects: Error or lie?
+  | last = Flyvbjerg
+  | first = Bent
+  | last2 = Holm
+  | first2 = Mette Skamris
+  | last3 = Buhl
+  | first3 = Søren
+  | journal = Journal of the American Planning Association
+  | volume = 68
+  | number = 3
+  | pages = 279–295
+  | date = Summer 2002
+  | publisher = American Planning Association
+  | location = Chicago
+  | issn = 0194-4363
+  | accessdate = 2010-10-16
+}}&lt;/ref&gt;
+For [[IT projects]], an industry study by the Standish Group found that the average cost overrun was 43 percent; 71 percent of projects were over budget, exceeded time estimates, and had estimated too narrow a [[Scope (project management)|scope]]; and total waste was estimated at $55 billion per year in the US alone.&lt;ref name=&quot;chaos&quot;&gt;{{cite report
+  | title = CHAOS Report
+  | author = Standish Group
+  | year = 2004
+  | location = West Yarmouth, Massachusetts
+  | publisher = Standish Group
+}}&lt;/ref&gt;
+
+Many major construction projects have incurred cost overruns.  The [[Suez Canal]] cost 20 times as much as the earliest estimates; even the cost estimate produced the year before construction began underestimated the project's actual costs by a factor of three.&lt;ref name=&quot;ucpwp&quot;/&gt;  The [[Sydney Opera House]] cost 15 times more than was originally projected, and the [[Concorde]] supersonic aeroplane cost 12 times more than predicted.&lt;ref name=&quot;ucpwp&quot;/&gt;  When Boston's &quot;[[Big Dig (Boston, Massachusetts)|Big Dig]]&quot; tunnel construction project was completed, the project was 275 percent ($11 billion) over budget.&lt;ref name=&quot;policy-planning&quot;&gt;{{cite report
+  | title = Policy and Planning for Large Infrastructure Projects: Problems, causes, cures
+  | last = Flybjerg
+  | first = Bent
+  | series = Policy Research Working Papers
+  | volume = 3781
+  | publisher = World Bank Publications
+  | date = 2005-12-01
+  | pages = 4–5
+  | url = http://go.worldbank.org/6G2FJ40OG0
+  | docket = WPS3781
+}}&lt;/ref&gt;
+The [[Channel Tunnel]] between the UK and France had a construction cost overrun of 80 percent, and a 140-percent [[financing]] cost overrun.&lt;ref name=&quot;policy-planning&quot;/&gt;
+
+{{TOC limit|limit=2}}
+
+==Causes==
+Three types of [[explanation]] for cost overrun exist: [[Technology|technical]], [[psychological]], and [[political]]-[[economic]]. Technical explanations account for cost overrun in terms of imperfect [[forecasting]] techniques, inadequate data, etc. Psychological explanations account for overrun in terms of [[optimism bias]] with forecasters. [[Scope creep]], where the requirements or targets rises during the project, is common. Finally, political-economic explanations see overrun as the result of [[strategic misrepresentation]] of scope or budgets.
+
+All three explanations can be considered forms of [[risk]]. A project's budgeted costs should always include [[cost contingency]] funds to cover risks (other than scope changes imposed on the project). As has been shown in [[cost engineering]] research,&lt;ref name=&quot;hackney&quot;&gt;{{Cite book
+  | title = Control and Management of Capital Projects
+  | last = Hackney
+  | first = John W.
+  | editor-last = Humphreys
+  | editor-first = Kenneth K.
+  | others = American Association of Cost Engineers
+  | edition = 2nd
+  | isbn = 978-0-07-001259-2
+  | oclc = 123212738
+  | publisher = McGraw-Hill
+  | location = New York
+  | year = 1991
+}}&lt;/ref&gt; 
+poor [[Risk analysis (business)|risk analysis]] and contingency estimating practices account for many project cost overruns. Numerous studies have found that the greatest cause of cost growth was poorly-defined scope at the time that the budget was established. The ''cost growth'', or overrun of the budget before [[cost contingency]] is added, can be predicted by rating the extent of scope definition, even on complex projects with new technology.&lt;ref&gt;{{cite book
+  | title = Understanding Cost Growth and Performance Shortfalls in Pioneer Process Plants
+  | last = Merrow
+  | first = Edward W.
+  | last2 = Phillips
+  | first2 = Kenneth E.
+  | last3 = Myers
+  | first3 = Christopher W.
+  | publisher = Rand
+  | date = September 1981
+  | url = http://health.rand.org/pubs/reports/2006/R2569.pdf
+  | isbn = 0-8330-0352-6
+  | id = RAND Document R-2569-DOE
+}}&lt;/ref&gt;
+
+Professor [[Bent Flyvbjerg]] of [[Oxford University]] and Martin Wachs of University of California, Los Angeles have shown that big public-works projects often have cost overruns due to strategic misrepresentation—&quot;that is, lying&quot;, as Flyvbjerg defines the term.&lt;ref&gt;{{cite news
+  | title = Tunnel's cost may fool us all
+  | newspaper = Seattle Times
+  | last = Westneat
+  | first = Danny
+  | date = 2009-04-26
+  | accessdate = 2010-10-16
+  | publisher = Seattle Times
+  | location = Seattle
+  | url = http://seattletimes.nwsource.com/html/dannywestneat/2009123442_danny26.html
+}}&lt;/ref&gt;
+
+Cost overrun is typically calculated in one of two ways: either as a [[percentage]], namely actual cost minus budgeted cost, in percent of budgeted cost; or as a [[ratio]] of actual cost divided by budgeted cost. For example, if the budget for building a new bridge was $100 million, and the actual cost was $150 million, then the cost overrun may be expressed by the ratio 1.5, or as 50 percent.
+
+[[Reference class forecasting]] was developed by Flyvbjerg to eliminate or reduce cost overruns and benefit shortfalls.&lt;ref&gt;{{cite journal |last=Flyvbjerg |first=B. |year=2008 |url=http://www.sbs.ox.ac.uk/centres/bt/Documents/Curbing%20Optimism%20Bias%20and%20Strategic%20Misrepresentation.pdf |title=Curbing Optimism Bias and Strategic Misrepresentation in Planning: Reference Class Forecasting in Practice |journal=European Planning Studies |volume=16 |issue=1 |pages=3–21 |doi= }}&lt;/ref&gt; Daniel Kahneman, Nobel Prize winner in economics, calls Flyvbjerg's counsel to use reference class forecasting to de-bias estimates of costs and benefits, &quot;the single most important piece of advice regarding how to increase accuracy in forecasting.”&lt;ref&gt;Daniel Kahneman, 2011, Thinking, Fast and Slow (New York: Farrar, Straus and Giroux), p. 251&lt;/ref&gt;
+
+== List of projects with large cost overruns ==
+{{Refimprove section|date=October 2010}}
+
+===Australia===
+*{{flagicon|Australia}}             [[Sydney Olympic Park]]
+*{{flagicon|Australia}}             [[Sydney Opera House]]&lt;ref name=&quot;ucpwp&quot;/&gt;
+*{{flagicon|Australia}}             [[myki]]
+
+===Brazil===
+*{{flagicon|Brazil}}                [[Brasília]]
+
+===Canada===
+*{{flagicon|Canada}}                [[Pickering Nuclear Generating Station]]
+*{{flagicon|Canada}}                [[Montreal Olympic Stadium]]
+*{{flagicon|Canada}}                [[SkyDome|Rogers Centre (formerly SkyDome)]]
+
+===Denmark===
+*{{flagicon|Denmark}}               [[Great Belt Fixed Link|Great Belt railway tunnel]]
+
+===Egypt===
+*{{flagicon|Egypt}}                 [[Suez Canal]]&lt;ref name=&quot;ucpwp&quot;/&gt;
+
+===Japan===
+*{{flagicon|Japan}}                 [[Joetsu Shinkansen|Joetsu Shinkansen high-speed rail line]]
+
+===Malaysia===
+*{{flagicon|Malaysia}}              [[Pergau Dam]]
+
+===North Korea===
+*{{flagicon|North Korea}}           [[Ryugyong Hotel]]
+
+===Panama===
+*{{flagicon|Panama}}                [[Panama Canal]]
+
+===Sweden===
+*{{flagicon|Sweden}}                [[Göta Canal]]
+*{{flagicon|Sweden}}                [[Hallandsås Tunnel]]
+
+===United Kingdom===
+*{{flagicon|UK}}                    [[Humber Bridge]]
+*{{flagicon|UK}}                    [[Millennium Dome]]
+*{{flagicon|UK}}                    [[National Programme for IT]]
+*{{flagicon|UK}}                    [[Scottish Parliament Building]]
+*{{flagicon|UK}}                    [[TAURUS (share trading)]]
+
+===United States===
+*{{flagicon|United States}}         [[Big Dig (Boston, Massachusetts)|Big Dig]]&lt;ref name=&quot;policy-planning&quot;/&gt;
+*{{flagicon|United States}}         [[Denver International Airport]]
+*{{flagicon|United States}}         [[Eastern span replacement of the San Francisco–Oakland Bay Bridge]]
+*{{flagicon|United States}}         [[F-22 Raptor]]
+*{{flagicon|United States}}         [[Hubble Space Telescope]]
+*{{flagicon|United States}}         [[Lockheed Martin F-35 Lightning II]] / [[Joint Strike Fighter Program]]
+*{{flagicon|United States}}         [[NPOESS]]
+*{{flagicon|United States}}         [[Paw Paw Tunnel]]
+*{{flagicon|United States}}         [[Second Avenue Subway]]
+*{{flagicon|United States}}         [[V-22 Osprey]]
+
+===Multinational===
+*{{flagicon|UK}}{{flagicon|France}}{{flagicon|Germany}}{{flagicon|Spain}} [[Airbus A380]]
+*{{flagicon|France}}{{flagicon|Germany}}{{flagicon|UK}}                 [[Airbus A400M]]
+*{{flagicon|UK}}{{flagicon|France}} [[Channel Tunnel]]&lt;ref name=&quot;policy-planning&quot;/&gt;
+*{{flagicon|Germany}}               [[Cologne Cathedral]]
+*{{flagicon|UK}}{{flagicon|France}} [[Concorde]]&lt;ref name=&quot;policy-planning&quot;/&gt;
+*{{flagicon|UK}}{{flagicon|Germany}}{{flagicon|Italy}}{{flagicon|Spain}} [[Eurofighter]]
+
+== See also ==
+*[[Admissible heuristic]]
+*[[Benefit shortfall]]
+*[[Megaproject]]
+*[[Optimism bias]]
+*[[Reference class forecasting]]
+*[[Scope creep]]
+
+== References ==
+{{Reflist|2}}
+
+==Further reading==
+{{Refbegin}}
+*{{Cite book
+   | title = Megaprojects and Risk: an anatomy of ambition
+   | last = Flyvbjerg
+   | first = Bent
+   | last2 = Bruzelius
+   | first2 = Nils
+   | last3 = Rothengatter
+   | first3 = Werner
+   | publisher = Cambridge University Press
+   | location = Cambridge, UK
+   | year = 2003
+   | isbn = 978-0-521-00946-1
+   | url = http://books.google.com/books?id=RAV5P-50UjEC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false
+ }}
+{{Refend}}
+
+== External links ==
+*[http://www.hm-treasury.gov.uk/economic_data_and_tools/greenbook/data_greenbook_index.cfm UK Treasury]
+
+{{DEFAULTSORT:Cost Overrun}}
+[[Category:Costs]]
+
+[[sv:Budgetöverdrag]]</text>
+      <sha1>ogvt3w3koi2b8og6kfn6vfbl1dj5vpn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

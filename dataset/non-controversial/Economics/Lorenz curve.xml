@@ -1,0 +1,224 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lorenz curve</title>
+    <ns>0</ns>
+    <id>18135</id>
+    <revision>
+      <id>518591179</id>
+      <parentid>511645566</parentid>
+      <timestamp>2012-10-18T21:52:10Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>11292982</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.3) (Robot: Modifying [[eu:Lorenz kurba]]</comment>
+      <text xml:space="preserve" bytes="13098">{{distinguish2|[[Cauchy distribution|Lorentzian distribution]]}}
+
+In [[economics]], the '''Lorenz curve''' is a graphical representation of the [[cumulative distribution function]] of the empirical [[distribution function|probability distribution]] of wealth; it is a [[graph of a function|graph]] showing the proportion of the distribution assumed by the bottom ''y''% of the values.   It is often used to represent [[income]] distribution, where it shows for the bottom ''x''% of households, what percentage ''y''% of the total income they have.&lt;ref&gt;{{cite book
+  | last = Sullivan
+  | first = arthur
+  | authorlink = Arthur O' Sullivan
+  | coauthors = Steven M. Sheffrin
+  | title = Economics: Principles in action
+  | publisher = Pearson Prentice Hall
+  | year = 2003
+  | location = Upper Saddle River, New Jersey 07458
+  | pages = 349
+  | url = http://www.pearsonschool.com/index.cfm?locator=PSZ3R9&amp;PMDbSiteId=2781&amp;PMDbSolutionId=6724&amp;PMDbCategoryId=&amp;PMDbProgramId=12881&amp;level=4
+  | doi = 
+  | isbn = 0-13-063085-3}}&lt;/ref&gt; The [[percentage]] of households is plotted on the ''x''-axis, the percentage of income on the ''y''-axis.  It can also be used to show distribution of [[asset]]s.  In such use, many economists consider it to be a measure of [[social inequality]].  It was developed by [[Max O. Lorenz]] in 1905 for representing inequality of the wealth distribution.
+
+The concept is useful in describing inequality among the size of individuals in [[ecology]],&lt;ref name=EcolgyArticle&gt;{{cite journal
+  | doi = 10.1890/0012-9658(2000)081[1139:DIIPSO]2.0.CO;2
+  | last = Damgaard
+  | first = Christian
+  | authorlink = Christian Damgaard
+  | coauthors = Jacob Weiner
+  | title = Describing inequality in plant size or fecundity
+  | journal = Ecology
+  | year = 2000
+  | volume = 81
+  | issue = 4
+  | pages = 1139–1142
+}}&lt;/ref&gt; and in studies of [[biodiversity]], where cumulative proportion of species is plotted against cumulative proportion of individuals.&lt;ref name=natureArticle&gt;{{cite journal
+  | doi = 10.1038/nature07840
+  | last = Wittebolle
+  | first = Lieven
+  | coauthors = et al
+  | pmid = 19270679
+  | title = Initial community evenness favours functionality under selective stress
+  | journal = [[Nature (journal)|Nature]]
+  | year = 2009
+  | volume = 458
+  | issue = 7238
+  | pages = 623–626
+}}&lt;/ref&gt; It is also useful in business modeling: e.g., in consumer finance, to measure the actual delinquency Y% of the X% of people with worst predicted risk scores.
+
+[[Image:Economics Gini coefficient2.svg|280px|thumb|A typical Lorenz curve]]
+
+==Explanation==
+Every point on the Lorenz curve represents a statement like &quot;the bottom 20% of all households have 10% of the total income.&quot; (see [[Pareto principle]]).  A perfectly equal income distribution would be one in which every person has the same income.  In this case, the bottom &quot;N&quot;% of society would always have &quot;N&quot;% of the income.  This can be depicted by the straight line &quot;y&quot; = &quot;x&quot;; called the &quot;line of perfect equality.&quot;
+
+By contrast, a perfectly unequal distribution would be one in which one person has all the income and everyone else has none.  In that case, the curve would be at &quot;y&quot; = 0 for all &quot;x&quot; &lt; 100%, and &quot;y&quot; = 100% when &quot;x&quot; = 100%. This curve is called the &quot;line of perfect inequality.&quot;
+
+The [[Gini coefficient]] is the area between the line of perfect equality and the observed Lorenz curve, as a percentage of the area between the line of perfect equality and the line of perfect inequality. The higher the coefficient, the more unequal the distribution is. In the diagram on the right, this is given by the ratio A/(A+B), where A and B are the indicated areas.
+
+==Calculation==
+The Lorenz curve can often  be represented by a function ''L''(''F''), where ''F'' is represented by the horizontal axis, and ''L'' is represented by the vertical axis.
+
+For a population of size ''n'', with a sequence of values ''y''&lt;sub&gt;''i''&lt;/sub&gt;, ''i'' = 1 to ''n'', that are indexed in non-decreasing order ( ''y''&lt;sub&gt;''i''&lt;/sub&gt; ≤ ''y''&lt;sub&gt;''i''+1&lt;/sub&gt;), the Lorenz curve is the [[continuous function|continuous]] [[piecewise linear function]] connecting the points ( ''F''&lt;sub&gt;''i''&lt;/sub&gt;, ''L''&lt;sub&gt;''i''&lt;/sub&gt; ), ''i'' = 0 to ''n'', where ''F''&lt;sub&gt;0&lt;/sub&gt; = 0, ''L''&lt;sub&gt;0&lt;/sub&gt; = 0, and for ''i'' = 1 to ''n'':
+:&lt;math&gt;F_i = i/n\,&lt;/math&gt;
+:&lt;math&gt;S_i = \Sigma_{j=1}^i \; y_j\,&lt;/math&gt;
+:&lt;math&gt;L_i = S_i / S_n \, &lt;/math&gt;
+
+For a [[probability mass function|discrete probability function]] ''f''(''y''), let ''y''&lt;sub&gt;''i''&lt;/sub&gt;, ''i'' = 1 to ''n'', be the points with non-zero probabilities indexed in increasing order ( ''y''&lt;sub&gt;''i''&lt;/sub&gt; &amp;lt; ''y''&lt;sub&gt;''i''+1&lt;/sub&gt;).  The Lorenz curve is the [[continuous function|continuous]] [[piecewise linear function]] connecting the points ( ''F''&lt;sub&gt;''i''&lt;/sub&gt;, ''L''&lt;sub&gt;''i''&lt;/sub&gt; ), ''i'' = 0 to ''n'', where ''F''&lt;sub&gt;0&lt;/sub&gt; = 0, ''L''&lt;sub&gt;0&lt;/sub&gt; = 0, and for ''i'' = 1 to ''n'':
+:&lt;math&gt;F_i = \Sigma_{j=1}^i \; f(y_j)\,&lt;/math&gt;
+:&lt;math&gt;S_i = \Sigma_{j=1}^i \; f(y_j)\,y_j\,&lt;/math&gt;
+:&lt;math&gt;L_i = S_i / S_n \, &lt;/math&gt;
+
+For a [[probability density function]] ''f''(''x'') with the cumulative distribution function  ''F''(''x''), the Lorenz curve ''L''(''F''(''x'')) is given by:
+
+:&lt;math&gt; L(F(x))=\frac{\int_{-\infty}^{x} t\,f(t)\,dt}{\int_{-\infty}^\infty t\,f(t)\,dt} =\frac{\int_{-\infty}^{x} t\,f(t)\,dt}{\mu} &lt;/math&gt;
+
+where &lt;math&gt;\mu&lt;/math&gt; denotes the average.  For a [[cumulative distribution function]] ''F''(''x'') with inverse ''x''(''F''), the Lorenz curve ''L''(''F'') is given by:
+
+:&lt;math&gt; L(F)=\frac{\int_0^F x(F_1)\,dF_1}{\int_0^1 x(F_1)\,dF_1} &lt;/math&gt;
+
+The inverse ''x''(''F'') may not exist because the cumulative distribution function has intervals of constant values.   However, the previous formula can still apply by generalizing the definition of ''x''(''F''):
+:''x''(''F''&lt;sub&gt;1&lt;/sub&gt;) = [[infimum|inf]] {''y'' : ''F''(''y'') &amp;ge; ''F''&lt;sub&gt;1&lt;/sub&gt;}
+
+For an example of a Lorenz curve, see [[Pareto distribution]].
+
+==Properties==
+
+A Lorenz curve always starts at (0,0) and ends at (1,1).
+
+The Lorenz curve is not defined if the mean of the probability distribution is zero or infinite.
+
+The Lorenz curve for a probability distribution is a [[continuous function]].  However, Lorenz curves representing discontinuous functions can be constructed as the limit of Lorenz curves of probability distributions, the line of perfect inequality being an example.
+
+The information in a Lorenz curve may be summarized by the [[Gini coefficient]] and the [[Lorenz asymmetry coefficient]].&lt;ref name=EcolgyArticle /&gt;
+
+The Lorenz curve cannot rise above the line of perfect equality. If the variable being measured cannot take negative values, the Lorenz curve:
+*cannot sink below the line of perfect inequality,
+*is [[increasing function|increasing]], and [[convex function|convex]].
+Note however that a Lorenz curve for [[net worth]] would start out by going negative due to the fact that some people have a negative net worth because of debt.
+
+The Lorenz curve is invariant under positive scaling.  If '''''X''''' is a random variable, for any positive number ''c'' the random variable ''c'' '''X''' has the same Lorenz curve as '''''X'''''.
+
+The Lorenz curve is flipped twice, once about F = 0.5 and once about ''L'' = 0.5, by negation.  If '''''X''''' is a random variable with Lorenz curve ''L''&lt;sub&gt;'''X'''&lt;/sub&gt;(''F''), then &amp;minus;'''''X''''' has the Lorenz curve:
+: ''L''&lt;sub&gt; &amp;minus; '''X''' &lt;/sub&gt; = 1 &amp;minus; ''L''&lt;sub&gt; '''X''' &lt;/sub&gt;(1&amp;nbsp;&amp;minus;&amp;nbsp;''F'')
+
+The Lorenz curve is changed by translations so that the equality gap ''F''&amp;nbsp;&amp;minus;&amp;nbsp;''L''(''F'') changes in proportion to the ratio of the original and translated means.  If '''''X''''' is a random variable with a Lorenz curve ''L''&lt;sub&gt; '''X''' &lt;/sub&gt;(''F'') and mean ''μ''&lt;sub&gt; '''X''' &lt;/sub&gt;, then for any constant ''c'' ≠ &amp;minus;''μ''&lt;sub&gt; '''X''' &lt;/sub&gt;, '''''X''''' + ''c'' has a Lorenz curve defined by:
+:&lt;math&gt;F - L_{X+c}(F) = \frac{\mu_X}{\mu_X + c} ( F - L_X(F))\,&lt;/math&gt;
+
+For a cumulative distribution function ''F''(''x'') with mean ''μ'' and (generalized) inverse ''x''(''F''), then for any ''F'' with 0 &amp;lt; ''F'' &amp;lt; 1 :
+*If the Lorenz curve is differentiable:
+::&lt;math&gt;\frac{d L(F)}{d F} = \frac{x(F)}{\mu}&lt;/math&gt;
+*If the Lorenz curve is twice differentiable, then the probability density function ''f''(''x'') exists at that point and:
+::&lt;math&gt;\frac{d^2 L(F)}{d F^2} = \frac{1}{\mu\,f(x(F))}\,&lt;/math&gt;
+*If ''L''(''F'') is continuously differentiable, then the tangent of ''L''(''F'') is parallel to the line of perfect equality at the point ''F''(''μ'').  This is also the point at which the equality gap ''F''&amp;nbsp;&amp;minus;&amp;nbsp;''L''(''F''), the vertical distance between the Lorenz curve and the line of perfect equality, is greatest.  The size of the gap is equal to half of the relative [[mean deviation]]:
+::&lt;math&gt;F(\mu) - L(F(\mu)) = \frac{\text{mean deviation}}{2\,\mu}&lt;/math&gt;
+
+==See also==
+{{commons category|Lorenz curve}}
+* [[Distribution (economics)]]
+* [[Distribution of wealth]]
+* [[Welfare economics]]
+* [[Income inequality metrics]]
+* [[Gini coefficient]]
+* [[Robin Hood index]]
+* [[ROC analysis]]
+* [[Social welfare (political science)]]
+* [[Economic inequality]]
+* [[Zipf's law]]
+* [[Pareto distribution]]
+* [[Mean deviation]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal | author=Lorenz, M. O. | title=Methods of measuring the concentration of wealth | journal=Publications of the American Statistical Association | year=1905 | volume=9 | pages=209–219 | doi = 10.2307/2276207 | jstor=2276207 | issue=70 | publisher=Publications of the American Statistical Association, Vol. 9, No. 70 | bibcode=1905PAmSA...9..209L}}
+*{{cite journal | author=Gastwirth, Joseph L. | title=The Estimation of the Lorenz Curve and Gini Index | journal=The Review of Economics and Statistics | year=1972 | volume=54 | pages=306–316 | doi = 10.2307/1937992 | jstor=1937992 | issue=3 | publisher=The Review of Economics and Statistics, Vol. 54, No. 3}}
+*{{cite book | first=S. R. | last=Chakravarty | year=1990 | title=Ethical Social Index Numbers | publisher=Springer-Verlag | location=New York | isbn=0-387-52274-3 }}
+*{{cite book | first=Sudhir | last=Anand | year=1983 | title=Inequality and Poverty in Malaysia | publisher=Oxford University Press | location=New York | isbn=0-19-520153-1}}
+
+==External links==
+* [http://www.wider.unu.edu/research/Database/en_GB/database/ WIID]: World Income Inequality Database, the most comprehensive source of information on inequality, collected by [[WIDER]] (World Institute for Development Economics Research, part of United Nations University)
+* [http://ideas.repec.org/c/boc/bocode/s366302.html glcurve]: [[Stata]] module to plot Lorenz curve (type &quot;findit glcurve&quot; or &quot;ssc install glcurve&quot; in Stata prompt to install)
+* [http://dasp.ecn.ulaval.ca/ Free add-on to STATA to compute inequality and poverty measures]
+* [http://www.wessa.net/co.wasp Free Online Software (Calculator)] computes the Gini Coefficient, plots the Lorenz curve, and computes many other measures of concentration for any dataset
+* Free Calculator: [http://www.poorcity.richcity.org/calculator.htm Online] and [http://luaforge.net/project/showfiles.php?group_id=49 downloadable scripts] ([[Python (programming language)|Python]] and [[Lua programming language|Lua]]) for Atkinson, Gini, and Hoover inequalities
+* Users of the [http://www.r-project.org/ R] data analysis software can install the &quot;ineq&quot; package which allows for computation of a variety of inequality indices including Gini, Atkinson, Theil.
+* A [http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=19968 MATLAB Inequality Package], including code for computing Gini, Atkinson, Theil indexes and for plotting the Lorenz Curve. Many examples are available.
+* A [http://docs.google.com/Doc?docid=0AXe2E1Mm09WIZGhzazhxaDRfMjUzZ25nMjdkZzY&amp;hl=en complete handhout�] about the Lorenz curve including various applications, including an [http://docs.google.com/uc?id=0B3e2E1Mm09WIMzQ1ODg5MDgtZjgwNi00NmU1LTgyNmMtZDRhZTYyMTRiYzlk&amp;export=download&amp;hl=en Excel spreadsheet] graphing Lorenz curves and calculating Gini coefficients as well as coefficients of variation.
+* [http://pure.au.dk/portal/en/cfd@dmu.dk LORENZ 3.0 ] is a [[Mathematica]] notebook which draw sample Lorenz curves and calculates [[Gini coefficient]]s and [[Lorenz asymmetry coefficient]]s from data in an Excel sheet.
+
+{{DEFAULTSORT:Lorenz Curve}}
+[[Category:Economics curves]]
+[[Category:Welfare economics]]
+[[Category:Statistical charts and diagrams]]
+[[Category:Distribution of wealth]]
+
+[[ca:Corba de Lorenz]]
+[[cs:Lorenzova křivka]]
+[[da:Lorenz-kurve]]
+[[de:Lorenz-Kurve]]
+[[es:Curva de Lorenz]]
+[[eu:Lorenz kurba]]
+[[fr:Courbe de Lorenz]]
+[[ko:로렌츠 곡선]]
+[[he:עקומת לורנץ]]
+[[lt:Lorenzo kreivė]]
+[[hu:Lorenz-görbe]]
+[[nl:Lorenz-curve]]
+[[ja:ローレンツ曲線]]
+[[pl:Krzywa Lorenza]]
+[[pt:Curva de Lorenz]]
+[[ru:Кривая Лоренца]]
+[[sv:Lorenzkurvan]]
+[[tr:Lorenz eğrisi]]
+[[vi:Đường cong Lorenz]]
+[[zh:劳伦茨曲线]]</text>
+      <sha1>87j93zymyijxi9uarw1kbpb5vdhjsaf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

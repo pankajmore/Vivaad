@@ -1,0 +1,150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ceteris paribus</title>
+    <ns>0</ns>
+    <id>422144</id>
+    <revision>
+      <id>494391609</id>
+      <parentid>489268791</parentid>
+      <timestamp>2012-05-26T00:22:56Z</timestamp>
+      <contributor>
+        <username>Palosirkka</username>
+        <id>12717894</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */ wiktionary</comment>
+      <text xml:space="preserve" bytes="16411">{{Italic title}}
+'''''{{lang|la|Ceteris paribus}}''''' or '''''{{lang|la|caeteris paribus}}''''' is a [[Latin]] phrase, literally translated as &quot;with other things  the same,&quot; or &quot;all other things being  equal or held constant.&quot; It is an example of an [[ablative absolute]] and is commonly rendered in English as &quot;all other things being equal.&quot; A prediction, or a statement about [[causal relation|causal]] or logical connections between two states of affairs, is qualified by ''ceteris paribus'' in order to acknowledge, and to rule out, the possibility of other factors that could override the relationship between the [[antecedent (logic)|antecedent]] and the [[consequent]].&lt;ref name=&quot;Schlicht000&quot;&gt;{{cite book | author=Schlicht, E. | title=Isolation and Aggregation in Economics | year=1985 | publisher = Springer Verlag | isbn = 0-387-15254-7 | url=http://epub.ub.uni-muenchen.de/archive/00000003/}}&lt;/ref&gt;
+
+A '''''ceteris paribus'' assumption''' is often fundamental to the ''predictive'' purpose of scientific inquiry. In order to formulate scientific laws, it is usually necessary to rule out factors which interfere with examining a specific causal relationship. Under scientific experiments, the ''ceteris paribus'' assumption is realized when a scientist controls for all of the [[independent variable]]s other than the one under study, so that the effect of a ''single'' independent variable on the [[dependent variable]] can be isolated. By holding all the other relevant factors constant, a scientist is able to focus on the unique effects of a given factor in a complex causal situation.
+
+Such assumptions are also relevant to the ''descriptive'' purpose of [[Operationalization|modeling]] a theory. In such circumstances, analysts such as [[physicists]], [[economist]]s, and [[behavioral psychologist]]s apply simplifying assumptions in order to devise or explain an analytical framework that does not necessarily prove cause and effect but is still useful for describing fundamental concepts within a realm of inquiry.
+
+== Economics ==
+=== Clause ===
+One of the disciplines in which ''ceteris paribus'' clauses are most widely used is [[economics]], in which they are employed to simplify the formulation and description of economic outcomes. When using ''ceteris paribus'' in economics, assume all other variables except those under immediate consideration are held constant. For example, it can be predicted that if the price of [[beef]] ''increases''&amp;mdash;''ceteris paribus''&amp;mdash;the quantity of beef demanded by buyers will ''decrease''. In this example, the clause is used to operationally describe everything surrounding the relationship between both the ''price'' and the ''quantity demanded'' of an [[ordinary good]].
+
+This operational description intentionally ignores both known and unknown factors that may also influence the relationship between price and quantity demanded, and thus to assume ''ceteris paribus'' is to assume away any interference with the given example. Such factors that would be intentionally ignored include: the relative change in price of substitute goods, (e.g., the price of beef vs pork or lamb); the level of [[risk aversion]] among buyers (e.g., fear of [[mad cow disease]]); and the level of overall demand for a good regardless of its current price level (e.g., a societal shift toward [[vegetarianism]]).
+
+The clause is often loosely translated as &quot;holding all else constant.&quot;
+
+=== Characterization given by Alfred Marshall ===
+
+The clause is used to consider the effect of some causes in isolation, by assuming that other influences are absent. [[Alfred Marshall]]  expressed the use of the clause as follows:
+
+:The element of time is a chief cause of those difficulties in economic investigations which make it necessary for man with his limited powers to go step by step; breaking up a complex question, studying one bit at a time, and at last combining his partial solutions into a more or less complete solution of the whole riddle. In breaking it up, he segregates those disturbing causes, whose wanderings happen to be inconvenient, for the time in a pound called Ceteris Paribus. The study of some group of tendencies is isolated by the assumption other things being equal: the existence of other tendencies is not denied, but their disturbing effect is neglected for a time. The more the issue is thus narrowed, the more exactly can it be handled: but also the less closely does it correspond to real life. Each exact and firm handling of a narrow issue, however, helps towards treating broader issues, in which that narrow issue is contained, more exactly than would otherwise have been possible. With each step more things can be let out of the pound; exact discussions can be made less abstract, realistic discussions can be made less inexact than was possible at an earlier stage. ([http://www.econlib.org/library/Marshall/marP.html Principles of Economics, Bk.V,Ch.V in paragraph V.V.10]).
+
+=== Two uses ===
+
+The above passage by Marshall highlights two ways in which the ''ceteris paribus'' clause may be used: The one is ''hypothetical'', in the sense that some factor is assumed fixed in order to analyse the influence of another factor in isolation. This would be '''hypothetical isolation'''. An example would be the hypothetical separation of the [[income effect]] and the [[substitution effect]] of a price change, which actually go together. The other use of the ''ceteris paribus'' clause is to see it as a means for obtaining an approximate solution. Here it would yield a '''substantive isolation'''.
+
+Substantive isolation has two aspects: Temporal and causal. '''Temporal isolation''' requires the factors fixed under the ''ceteris paribus'' clause to actually move so slowly relative to the other influence that they can be taken as practically constant at any point in time. So, if [[vegetarianism]] spreads very slowly, inducing a slow decline in the demand for beef, and the market for beef clears comparatively quickly, we can determine the price of beef at any instant by the intersection of supply and demand, and the changing demand for beef will account for the price changes over time (→[[Temporary Equilibrium Method]]).
+
+The other aspect of substantive isolation is '''causal isolation''': Those factors frozen under a ''ceteris paribus'' clause should not significantly be affected by the processes under study. If a change in government policies induces changes in consumers' behavior on the same time scale, the assumption that consumer behaviour remains unchanged while policy changes is inadmissible as a substantive isolation (→[[Lucas critique]]).
+
+== Philosophy ==
+{{Weasel|section|date=March 2008}}
+{{Textbook|section|date=March 2008}}
+
+So-called '''''ceteris paribus'' clauses''' are also important in [[philosophy]], particularly in [[ethics]] and [[moral psychology]] (where they are often used in the analysis of the relation between mental states and behavior), as well as in the [[philosophy of science]] (where they are often used in the analysis of [[Physical law|laws of nature]], [[causality|causation]], and related topics).
+
+As an example: It seems that we can say that, if a person wants to get her hat off of the roof, and she knows that the easiest way to do this is by putting a ladder up against the wall and climbing it, then she ''will'' place the ladder up against the wall and climb it&amp;mdash;and, if she does ''not'' act in that way, then that seems to be as good a reason as any to say that she did not really ''want'' to get her hat back, or did not believe that climbing up the ladder was the easiest way to do it, after all. But a little consideration shows that we can assert this as an [[analytic truth]] ''only if'' it is qualified by a &quot;''ceteris paribus'' clause&quot;&amp;mdash;since there are myriad other factors that might prevent her from climbing up the ladder, without making us retract the claim that she did want her hat&amp;mdash;for example, she might have a crippling fear of heights, or she might want to get to work on time much more than she wants to get her hat back. Nevertheless, it seems that when we do add the ''ceteris paribus'' qualification, there is at least a good case to be made that the principle so qualified is an ''[[A priori and a posteriori (philosophy)|a priori]]'' principle of moral psychology.
+
+However, there is some [[meta-philosophy|meta-philosophical]] debate on analyses of this sort. Although many philosophers have relied on them (either explicitly or implicitly), some philosophers allege that any analysis that depends on a ''ceteris paribus'' clause is philosophically suspect.
+
+In order to understand the worry, a distinction should be made between two different ways for a statement to be qualified by a ''ceteris paribus'' clause: some ''ceteris paribus'' clauses are ''in principle eliminable'' by further analysis, whereas other clauses are ''ineliminable''. So, for example, if I say &quot;If the current month is February&amp;mdash;''ceteris paribus''&amp;mdash;then it will last only 28 days,&quot; then the ''ceteris paribus'' clause is added in order to exclude the possibility that it is a [[leap year]]. Since there is a fixed set of rules that define whether or not the present year is a leap year, one could (in principle) eliminate the ''ceteris paribus'' clause from the analysis by rephrasing the sentence to &quot;If the current month is February, ''and'' the current year is not evenly divisible by 4, ''then'' it will last only 28 days.&quot; (Actually the rules for determining a leap year are more complex than that; but there ''is'' a ''finite'' number of rules, and you could ''in principle'' include them all in the sentence.)  Another example of this would be: if the exchange rate of Jamaican dollars to US dollars is 1 USD = 88 JMD, and a telephone service provider provides coverage at $1.30 per minute, then ''ceteris paribus'' the telephone service provider's coverage is $114.40 JMD per minute in Jamaica.
+
+Philosophers who worry about ''ceteris paribus'' analyses do ''not'' worry about this sort; their worries are focused on ''ceteris paribus'' clauses that are not even eliminable ''in principle''. For example, in the philosophy of science, it is common to say that there is a natural law that events of kind A [[cause]] events of kind B ''if and only if'' an event of kind A, ''ceteris paribus'', is always followed by an event of kind B&amp;mdash;in order to rule out the possibility of other causal phenomena overriding the ordinary effect of the event of kind A. But, in order to eliminate the ''ceteris paribus'' clause in ''this'' analysis, a philosopher would need to know ''every'' sort of causal event that could possibly override ''any other'' sort of causal event&amp;mdash;and, even if there is ''in principle'' some finite list that exhausts all of these possibilities (a philosophically controversial claim), that list is, for certain, ''not'' known to the person claiming to be giving a definition of causality. So there is no-one who can say just what is being ruled out by the ''ceteris paribus'' clause in this analysis. (Even if an omniscient physicist ''could'' spell it all out in a finite period of time, ''we'' are the ones purporting to understand how to use the words, and ''we'' see these things only through a glass, darkly.)
+
+But, if it is not even possible in principle to ''say'' just what is being ruled out by the ''ceteris paribus'' clause in these examples, then (these philosophers worry) it is no longer clear that the analysis is ''philosophically informative.'' The suspicion of ''ceteris paribus'' arises because it seems sometimes to be used to conceal a sort of conceptual &quot;blank spot&quot; in the analysis, and (these philosophers allege) the existence of such a &quot;blank spot&quot; is as good a reason as any to think that an analysis that depends on it is ''not'' the right direction to take in analyzing a particular concept. This is not to say that such ''ceteris paribus'' statements are ''not'' analytically true. The argument is, instead, that the clause shows that their truth ''depends on'' a proper analysis of the concept, which has yet to be done. For example, consider the analysis of causation as B following A ''ceteris paribus''. If the analyst is asked to pin down ''just what'' condition the ''ceteris paribus'' is imposing, and the ''ceteris paribus'' clause is genuinely ineliminable, then it looks as though all that can be said is something like, &quot;A causes B if and only if A is followed by B ''in a cause-like pattern''&quot;. And ''that'' is for certain true, but it would be hard to give it as an analysis of causation with a [[straight face test|straight face]]. The charge, then, is that ineliminable ''ceteris paribus'' clauses in an analysis conceal a conceptual circularity. Jerry Fodor in &quot;Psychosemantics&quot; states that a statement of the form ''Ceteris paribus A'' is equivalent to saying, ''A...unless not A'', making them vacuously true and really rather pointless.
+
+On the other hand, it might be argued that the objections to ''ceteris paribus'' analyses depend on problematic expectations about the methods and results of conceptual analysis. Some philosophers, in particular, worry that the arguments against ''ceteris paribus'' analyses depend on a tacit [[reductionism]] about analysis: The assumption seems to be that, in order to give a conceptual analysis of a concept C, you must be able to explain C entirely in terms that have nothing to do with C. For these philosophers, a ''ceteris paribus'' clause may be indicative of ''virtuous'' circularity in an analysis rather than ''vicious'' circularity: That is, that we cannot ultimately explain (say) causation in terms that do not tacitly or explicitly have causal implications; but rather than indicating the need for further analysis, they argue, the ineliminable dependence on ''ceteris paribus'' clauses or further causal talk may just show that causality cannot be explained in non-causal terms, but rather that terms like &quot;natural law&quot; and &quot;cause&quot; and &quot;accident&quot; can be explained only in terms of ''one another,'' by elucidating the connections between them.
+
+[[W. Ross Ashby]] wrote in his &quot;Introduction to Cybernetics&quot; (1956):&lt;br /&gt;
+&quot;Science stands today on something of a divide. For two centuries it has been exploring systems that are either intrinsically simple or capable of being analysed into simple components. The fact that such a dogma as &gt;&gt;vary the factors one at a time&lt;&lt; could be accepted for a century shows that scientists were largely concerned in investigating such systems as allowed this method, for this method is often fundamentally impossible in the complex systems. Not until Sir [[Ronald Fisher]]'s work in the 1920s, with experiments conducted on agricultural soils, did it become clearly recognised that there are complex systems that just do not allow the varying of only one factor at a time — they are so dynamic and interconnected that the alteration of one factor immediately acts as cause to evoke  alterations in others, perhaps in a great many others. Until recently, science tended to evade the study of such systems, focusing its attention on those that were simple and, especially, reducible (S.4/14).&quot;
+
+==See also==
+{{Portal|Philosophy}}
+*[[List of Latin phrases]]
+*''[[Mutatis mutandis]]'' (&quot;by changing those things which need to be changed&quot; or more simply &quot;the necessary changes having been made&quot;)
+*[[Confounding|Experimental Controls]]
+*[[Partial derivative]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikt}}
+*[http://www.merriam-webster.com/dictionary/ceteris+paribus Listen to Ceteris Paribus]
+
+{{DEFAULTSORT:Ceteris Paribus}}
+[[Category:Economics terminology]]
+[[Category:Latin logical phrases]]
+[[Category:Latin philosophical phrases]]
+[[Category:Philosophy of science]]
+[[Category:Causality]]
+
+[[ca:Ceteris paribus]]
+[[cs:Ceteris paribus]]
+[[da:Ceteris paribus]]
+[[de:Ceteris paribus]]
+[[et:Ceteris paribus]]
+[[es:Ceteris paribus]]
+[[eu:Ceteris paribus]]
+[[fr:Ceteris paribus]]
+[[hr:Ceteris paribus]]
+[[id:Ceteris paribus]]
+[[it:Ceteris paribus]]
+[[lt:Ceteris paribus]]
+[[hu:Caeteris paribus]]
+[[nl:Ceteris paribus]]
+[[no:Ceteris paribus]]
+[[pl:Ceteris paribus]]
+[[pt:Ceteris paribus]]
+[[ro:Caeteris paribus]]
+[[ru:Ceteris paribus]]
+[[sk:Ceteris paribus]]
+[[fi:Ceteris paribus]]
+[[sv:Ceteris paribus]]
+[[tr:Ceteris paribus]]
+[[uk:Ceteris paribus]]</text>
+      <sha1>d1hswxwhj80ljcez6e3njz4pbht73ej</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

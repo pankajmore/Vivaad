@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Sharia</title>
+    <ns>1</ns>
+    <id>19769043</id>
+    <revision>
+      <id>520201778</id>
+      <parentid>520201650</parentid>
+      <timestamp>2012-10-28T02:22:17Z</timestamp>
+      <contributor>
+        <username>SineBot</username>
+        <id>4936590</id>
+      </contributor>
+      <minor/>
+      <comment>Signing comment by [[User:Unchartered|Unchartered]] - &quot;/* Women in Sharia */ new section&quot;</comment>
+      <text xml:space="preserve" bytes="6010">{{talkheader}}
+{{WikiProjectBannerShell|collapsed=yes|
+  {{WikiProject Human rights|class=C|importance=mid}}
+  {{WikiProject Islam|class=B|importance=top}}
+  {{WikiProject Law|class=B|importance=mid}}
+  {{WikiProject Libertarianism|class=C|importance=mid}}
+  {{philosophy|class=B|importance=mid|social=yes|religion=yes|eastern=yes}}
+  {{WikiProject Politics|class=B|importance=mid}}
+  {{WikiProject Theology|class=B|importance=Mid}}
+}}
+{{Press
+ | subject = article
+ | author=Tim Murphy
+ | title=Whoops! Alabama Anti-Sharia Bill Lifted From Wikipedia
+ | org=[[Mother Jones (magazine)|Mother Jones]]
+ | url=http://motherjones.com/mojo/2011/03/whoops-alabama-anti-sharia-bill-lifted-wikipedia
+ | date=2011-03-04
+ | quote=A source on the staff at the Legislature confirmed that the definition [of Sharia law] was in fact pulled from Wikipedia.
+ | archiveurl= 
+ | archivedate= 
+ | accessdate= 2011-03-08 
+}}
+{{archives|auto=long|search=yes|bot=MiszaBot|age=60|index=/Archive index}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 8
+|minthreadsleft = 4
+|algo = old(60d)
+|archive = Talk:Sharia/Archive %(counter)d
+}}
+{{User:HBC Archive Indexerbot/OptIn
+|target=/Archive index
+|mask=/Archive &lt;#&gt;
+|leading_zeros=0
+|indexhere=yes}}
+
+== Sharia law ==
+
+The term &quot;Sharia law&quot; is redundant, because &quot;Sharia&quot; is translated as &quot;Islamic canonical law&quot;,[http://oxforddictionaries.com/definition/sharia?q=Sharia] or simply &quot;Islamic law&quot;[http://books.google.ca/books?id=uWR_4BTqtBYC&amp;printsec=frontcover&amp;dq=sharia&amp;hl=en&amp;sa=X&amp;ei=M0ePT-G3BaHz0gHehPyIDw&amp;ved=0CDoQ6AEwAQ#v=onepage&amp;q=sharia&amp;f=false]. Most sources use the term &quot;sharia&quot; not &quot;sharia law&quot;.[[User:Bless sins|Bless sins]] ([[User talk:Bless sins|talk]]) 23:00, 18 April 2012 (UTC)
+: Actually &quot;sharia&quot; on its own is ambiguous since sharia has multiple meanings. &quot;Sharia law&quot; is more specific. [[User:Pass a Method|&lt;font color=&quot;grey&quot; face=&quot;Tahoma&quot;&gt;Pass a Method&lt;/font&gt;]] [[User talk:PassaMethod|&lt;font color=&quot;grey&quot; face=&quot;papyrus&quot;&gt;talk&lt;/font&gt;]] 19:44, 20 April 2012 (UTC)
+::That is why the first line defines Sharia as ''Sharia is the moral code and religious law of Islam''. Reliable sources use Sharia, not Sharia law. Please look at google books[http://books.google.ca/books?hl=en&amp;q=sharia] for example.[[User:Bless sins|Bless sins]] ([[User talk:Bless sins|talk]]) 22:50, 3 May 2012 (UTC)
+:::If there are no further objections, ''Sharia law'' should be reverted to ''Sharia''.[[User:Bless sins|Bless sins]] ([[User talk:Bless sins|talk]]) 21:32, 26 June 2012 (UTC)
+::&quot;Sharia&quot; is actually a noun.[http://oxforddictionaries.com/definition/english/sharia][http://www.merriam-webster.com/dictionary/sharia] &quot;Sharia law&quot; makes as much sense as saying &quot;China law&quot;, as opposed to &quot;Chinese law&quot;.[[User:Bless sins|Bless sins]] ([[User talk:Bless sins|talk]]) 00:37, 24 September 2012 (UTC)
+
+== funeral prayer ==
+
+Is it generally recommended that Muslims visit those who die? Could someone who knows about this topic help edit the section [[http://en.wikipedia.org/wiki/Sharia#Funeral_prayer]] to make it explicit that Muslims are instructed in how to visit the dead, not just that they do it willy-nilly like. The paragraph at present sounds like visitors remind the dying to pray and so on perhaps because they feel like it, but not because it is law that they do so, unless you're already familiar with the topic. the last sentence in the paragraph makes it clear that how people interact with the dying is made clear by Islamic law but the first three sentences make it sound more like this is done willy-nilly. [[User:Makeswell|makeswell]] ([[User talk:Makeswell|talk]]) 15:31, 22 September 2012 (UTC)
+:This article contains too many specifics on Sharia, which are best suited for the articles listed under [[Template:Fiqh]]. [[User:Bless sins|Bless sins]] ([[User talk:Bless sins|talk]]) 23:07, 8 October 2012 (UTC)
+
+== Contemporary issues and topics ==
+
+Currently this article has a section on [[Sharia#Topics_of_Islamic_law]] and [[Sharia#Contemporary_issues]]. These two sections overlap quite a bit. For example, [[Sharia#Women]] can't be separated from [[Sharia#Dress_codes]],[[Sharia#Marriage]] and [[Sharia#Divorce]]. I propose we merge these two sections.[[User:Bless sins|Bless sins]] ([[User talk:Bless sins|talk]]) 23:33, 8 October 2012 (UTC)
+
+== Child Custody ==
+
+The information on child custody, whereby the child gets to choose at an age of discernment, seems to be based on 'cherry-picked' information. Even if a particular Islamic school of thought says that children should go to the mother, other factors are taken into account in (Sharia)judged custody decisions. For example who is best able to raise the child financially, religiously, morally etc. This is especially true in cases of a Muslim man marrying non-Muslim women who have become Muslim converts for marriage. What I'm getting at is that in practical terms, the Muslim male spouse wins custody of children in the majority of cases (once they reach 8-11 years old). Glossing over the realities of Sharia doesn't do anything for the integrity of the article.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/27.96.203.30|27.96.203.30]] ([[User talk:27.96.203.30|talk]]) 06:01, 18 October 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Women in Sharia ==
+
+How come in the women in sharia section there is no mention of the fact that a woman's testimony is half that of a man's?
+
+== Women in Sharia ==
+
+How come in the women in sharia section there is no mention of the fact that a woman's testimony is half that of a man's?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Unchartered|Unchartered]] ([[User talk:Unchartered|talk]] • [[Special:Contributions/Unchartered|contribs]]) 02:21, 28 October 2012 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>n142unb8wjkptnh7g93q26cyyr6h5x0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

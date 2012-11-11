@@ -1,0 +1,138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Marginal rate of substitution</title>
+    <ns>0</ns>
+    <id>432318</id>
+    <revision>
+      <id>520300172</id>
+      <parentid>492151881</parentid>
+      <timestamp>2012-10-28T18:30:20Z</timestamp>
+      <contributor>
+        <ip>134.219.227.15</ip>
+      </contributor>
+      <comment>/* Simple mathematical analysis */</comment>
+      <text xml:space="preserve" bytes="5507">In economics, the '''marginal rate of substitution''' is the rate at which a consumer is ready to give up one good in exchange for another good while maintaining the same level of [[utility]].  At consumption levels, our marginal rates of substitution are identical.
+
+==Marginal rate of substitution as the slope of indifference curve==
+Under the standard assumption of [[neoclassical economics]] that goods and services are continuously divisible, the marginal rates of substitution will be the same regardless of the direction of exchange, and will correspond to the slope of an [[indifference curve]] (more precisely, to the slope multiplied by -1) passing through the consumption bundle in question, at that point: mathematically, it is the [[implicit derivative]]. MRS of X for Y is the amount of Y for which a consumer is willing to exchange X locally.  The MRS is different at each point along the indifference curve thus it is important to keep locally in the definition. Further on this assumption, or otherwise on the assumption that utility is [[Measure (mathematics)|quantified]], the marginal rate of substitution of good or service X for good or service Y (MRS&lt;sub&gt;xy&lt;/sub&gt;) is also equivalent to the [[marginal utility]] of X over the marginal utility of Y. Formally, 
+
+:&lt;math&gt;MRS_{xy}=-m_\mathrm{indif}=-(dy/dx) \,&lt;/math&gt;
+:&lt;math&gt;MRS_{xy}=MU_x/MU_y \,&lt;/math&gt;
+
+It is important to note that when comparing bundles of goods X and Y that give a constant utility (points along an [[indifference curve]]), the [[marginal utility]] of X is measured in terms of units of Y that is being given up.
+
+For example, if the MRS&lt;sub&gt;''xy''&lt;/sub&gt;&amp;nbsp;=&amp;nbsp;2, the consumer will give up 2 units of Y to obtain 1 additional unit of X.
+
+As one moves down a (standardly convex) indifference curve, the marginal rate of substitution decreases (as measured by the absolute value of the slope of the indifference curve, which decreases). This is known as the law of diminishing marginal rate of substitution.  
+
+Since the indifference curve is convex with respect to the origin and we have defined the MRS as the negative slope of the indifference curve,
+
+:&lt;math&gt;\ MRS_{xy} \ge 0 &lt;/math&gt;
+
+== Simple mathematical analysis ==
+{{See|Implicit differentiation}}
+
+Assume the consumer [[utility function]] is defined by &lt;math&gt;U(x,y)&lt;/math&gt;, where ''U'' is consumer utility, ''x'' and ''y'' are goods. Then the marginal rate of substitution can be computed via [[partial differentiation]], as follows.
+
+Also, note that:
+
+:&lt;math&gt;\ MU_x=\partial U/\partial x &lt;/math&gt;
+:&lt;math&gt;\ MU_y=\partial U/\partial y &lt;/math&gt;
+
+where &lt;math&gt;\ MU_x &lt;/math&gt; is the [[marginal utility]] with respect to good ''x'' and &lt;math&gt;\ MU_y &lt;/math&gt; is the marginal utility with respect to good ''y''.
+
+By taking the [[total differential]] of the utility function equation, we obtain the following results:
+:&lt;math&gt;\ dU=(\partial U/\partial x)dx + (\partial U/\partial y)dy &lt;/math&gt;, or substituting from above,
+
+:&lt;math&gt;\ dU= MU_xdx + MU_ydy &lt;/math&gt;, or, without loss of generality, the total derivative of the utility function with respect to good ''x'', 
+:&lt;math&gt;\frac{dU}{dx}= MU_x\frac{dx}{dx}+ MU_y\frac{dy}{dx}&lt;/math&gt;, that is, 
+:&lt;math&gt;\frac{dU}{dx}= MU_x + MU_y\frac{dy}{dx}&lt;/math&gt;.
+Through any point on the indifference curve, ''dU/dx'' = 0,    because ''U''&amp;nbsp;=&amp;nbsp;''c'', where ''c'' is a constant. It follows from the above equation that:
+::&lt;math&gt; 0 = MU_x + MU_y\frac{dy}{dx}&lt;/math&gt;, or rearranging
+:&lt;math&gt;-\frac{dy}{dx} = \frac{MU_x}{MU_y}&lt;/math&gt;
+
+The marginal rate of substitution is defined by minus the slope of the indifference curve at whichever commodity bundle quantities are of interest.  That turns out to equal the ratio of the marginal utilities: 
+:&lt;math&gt;\ MRS_{xy}=MU_x/MU_y.\, &lt;/math&gt;.
+
+----
+
+When consumers maximize utility with respect to a budget constraint, the indifference curve is tangent to the [[budget line]], therefore, with ''m'' representing slope:
+
+:&lt;math&gt;\ m_\mathrm{indif}=m_\mathrm{budget} &lt;/math&gt;
+:&lt;math&gt;\ -(MRS_{xy})=-(P_x/P_y) &lt;/math&gt;
+:&lt;math&gt;\ MRS_{xy}=P_x/P_y &lt;/math&gt;
+
+Therefore, when the consumer is choosing his utility maximized market basket on his budget line,
+
+:&lt;math&gt;\ MU_x/MU_y=P_x/P_y &lt;/math&gt;
+:&lt;math&gt;\ MU_x/P_x=MU_y/P_y &lt;/math&gt;
+
+This important result tells us that utility is maximized when the consumer's budget is allocated so that the marginal utility per unit of money spent is equal for each good. If this equality did not hold, the consumer could increase his/her utility by cutting spending on the good with lower marginal utility per unit of money and increase spending on the other good.
+
+==References==
+* ''Microeconomics'' (2005, 6th Edition) by [[Robert S. Pindyck|Pindyck]], and [[Daniel L. Rubinfeld|Rubinfeld]]. ISBN 978-0-13-008461-3.
+* Microeconomics(2nd edition) by Paul Krugman and Robin Wells
+
+==See also==
+*[[marginal concepts]]
+*[[indifference curves]]
+*[[consumer theory]]
+*[[convex preferences]]
+*[[microeconomics]]
+*[[implicit differentiation]]
+
+[[Category:Consumer theory]]
+
+[[de:Grenzrate der Substitution]]
+[[es:Relación marginal de sustitución]]
+[[fr:Taux marginal de substitution]]
+[[it:Saggio marginale di sostituzione]]
+[[he:שיעור תחלופה שולי]]
+[[nl:Marginale substitutievoet]]
+[[ja:限界代替率]]
+[[pl:Krańcowa stopa substytucji]]
+[[pt:Taxa marginal de substituição]]
+[[ru:Предельная норма замещения]]
+[[sv:Marginell substitutionskvot]]
+[[vi:Tỷ lệ thay thế biên của hàng tiêu dùng]]
+[[zh:边际替代率]]</text>
+      <sha1>qi7cs2wldpasziy9uzaed7an3xbhzii</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

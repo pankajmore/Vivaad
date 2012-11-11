@@ -1,0 +1,139 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Economic surplus</title>
+    <ns>0</ns>
+    <id>50145</id>
+    <revision>
+      <id>520989810</id>
+      <parentid>506207710</parentid>
+      <timestamp>2012-11-02T01:43:30Z</timestamp>
+      <contributor>
+        <username>Guest2625</username>
+        <id>14410800</id>
+      </contributor>
+      <comment>visible at 275px</comment>
+      <text xml:space="preserve" bytes="6998">{{About|consumers' and producers' surplus|information about other surpluses|deficit (disambiguation){{!}}deficit}}
+[[File:Economic-surpluses.svg|thumb|275px|Graph illustrating consumer (red) and producer (blue) surpluses on a supply and demand chart]]
+In [[mainstream economics]], '''economic surplus''' (also known as '''total welfare''' or '''Marshallian surplus''' after [[Alfred Marshall]]) refers to two related quantities.  '''Consumer surplus''' or '''consumers' surplus''' is the monetary gain obtained by consumers because they are able to purchase a product for a price that is less than the highest price that they would be willing to pay.  '''Producer surplus''' or '''producers' surplus''' is the amount that producers benefit by selling at a market price that is higher than the least that they would be willing to sell for.
+
+In some schools of [[heterodox economics]], the economic surplus denotes the total income which the [[ruling class]] derives from its ownership of scarce [[factors of production]], which is either reinvested or spent on consumption.
+
+In [[Marxian economics]], the term ''surplus'' may also refer to [[surplus value]], [[surplus product]] and [[surplus labour]].
+
+==Overview==
+On a standard [[supply and demand]] diagram, consumer surplus is the  area (triangular if the supply and demand curves are linear) above the equilibrium price of the good and below the demand 
+curve. This reflects the fact that consumers would have been willing to buy a single unit of the good at a price higher than the equilibrium price, a second unit at a price below that but still above the equilibrium price, etc., yet they in fact pay just the equilibrium price for each unit they buy. 
+
+Likewise, in the supply-demand diagram, producer surplus is the area below the equilibrium price but above the supply curve. This reflects the fact that producers would have been willing to supply the first unit at a price lower than the equilibrium price, the second unit at a price above that but still below the equilibrium price, etc., yet they in fact receive the equilibrium price for all the units they sell.
+
+===Calculation from supply and demand===
+The consumer surplus (individual or aggregated) is the area under the (individual or aggregated) demand curve  and above a horizontal line at the actual price (in the aggregated case: the equilibrium price).  If the demand curve is a straight line, the consumer surplus is the area of a triangle:
+
+:&lt;math&gt;CS = \frac{1}{2} Q_{mkt} \left( {P_{max} - P_{mkt}} \right)&lt;/math&gt;
+
+Where P&lt;sub&gt;mkt&lt;/sub&gt; is the equilibrium price (where supply equals demand), Q&lt;sub&gt;mkt&lt;/sub&gt; is the total quantity purchased at the equilibrium price and P&lt;sub&gt;max&lt;/sub&gt; is the price at which the quantity purchased would fall to 0 (that is, where the demand curve intercepts the price axis).   For more general demand and supply functions, these areas are not triangles but can still be found using [[integral]] calculus. Consumer surplus is thus the definite integral of the demand function with respect to price, minus the definite integral of the constant function D(P)=Q&lt;sub&gt;mkt&lt;/sub&gt; (i.e. P&lt;sub&gt;mkt&lt;/sub&gt;Q&lt;sub&gt;mkt&lt;/sub&gt;), from the market price to the maximum reservation price (i.e. the price-intercept of the demand function):
+
+:&lt;math&gt;CS = \int^{P_{max}}_{P_{mkt}} D(P)\, dP&lt;/math&gt; OR Sin(x)/Cos(x) = P(max) - P(MKT) XQ
+
+The graph shows, that if we see a rise in the equilibrium price and a fall in the equilibrium quantity, then consumer surplus falls.
+
+=== Distribution of benefits when price falls ===
+
+When supply of a good expands, the price falls (assuming the demand curve is downward sloping) and consumer surplus increases.  This benefits two groups of people. Consumers who were already willing to buy at the initial price benefit from a price reduction; also they may buy more and receive even more consumer surplus, and additional consumers who were unwilling to buy at the initial price but will buy at the new price and also receive some consumer surplus.
+
+Consider an example of linear supply and demand curves.  For an initial supply curve S&lt;sub&gt;0&lt;/sub&gt;, consumer surplus is the triangle above the line formed by price P&lt;sub&gt;0&lt;/sub&gt; to the demand line (bounded on the left by the price axis and on the top by the demand line).  If supply expands from S&lt;sub&gt;0&lt;/sub&gt; to S&lt;sub&gt;1&lt;/sub&gt;, the consumers' surplus expands to the triangle above P&lt;sub&gt;1&lt;/sub&gt; and below the demand line (still bounded by the price axis).  The change in consumer's surplus is difference in area between the two triangles, and that is the consumer welfare associated with expansion of supply.
+
+Some people were willing to pay the higher price P&lt;sub&gt;0&lt;/sub&gt;.  When the price is reduced, their benefit is the area in the rectangle formed on the top by P&lt;sub&gt;0&lt;/sub&gt;, on the bottom by P&lt;sub&gt;1&lt;/sub&gt;, on the left by the price axis and on the right by line extending vertically upwards from Q&lt;sub&gt;0&lt;/sub&gt;.  
+
+The second set of beneficiaries are consumers who buy more, and new consumers, those who will pay the new lower price (P&lt;sub&gt;1&lt;/sub&gt;) but not the higher price (P&lt;sub&gt;0&lt;/sub&gt;).  Their additional consumption makes up the difference between Q&lt;sub&gt;1&lt;/sub&gt; and Q&lt;sub&gt;0&lt;/sub&gt;.  Their consumer surplus is the triangle bounded on the left by the line extending vertically upwards from Q&lt;sub&gt;0&lt;/sub&gt;, on the right and top by the demand line, and on the bottom by the line extending horizontally to the right from P&lt;sub&gt;1&lt;/sub&gt;.
+
+=== Rule of one-half ===
+The '''rule of one-half''' estimates the change in consumer surplus for small changes in supply with a constant demand curve.  Note that in this special case where the consumer demand curve is linear, consumer surplus is the area of a triangle.  Following the figure above,
+
+:&lt;math&gt;\Delta CS = \frac{1}{2} \left( {Q_0  - Q_1 } \right)\left( {P_1 - P_0} \right)&lt;/math&gt;
+
+where:
+* CS = Consumers' Surplus
+* Q&lt;sub&gt;0&lt;/sub&gt; and Q&lt;sub&gt;1&lt;/sub&gt; are the quantity demanded before and after a change in supply
+* P&lt;sub&gt;0&lt;/sub&gt; and P&lt;sub&gt;1&lt;/sub&gt; are the prices before and after a change in supply
+
+== See also ==
+* [[Economic shortage]]
+* [[Deadweight loss]]
+* [[Induced demand]]
+* [[Price discrimination]]
+* [[Price support]]
+* [[Shortage]]
+* [[Surplus economics]]
+* [[Surplus product]]
+* [[Surplus value]]
+* [[Utility]]
+* [[Value added]]
+* [[Welfare economics]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* [[Henry George]], ''[[Progress and Poverty]]'' [http://www.econlib.org/library/YPDBooks/George/grgPP.html]
+
+{{microeconomics-footer}}
+
+[[Category:Microeconomics]]
+
+[[ca:Excedent]]
+[[cs:Renta]]
+[[de:Konsumentenrente]]
+[[es:Excedente]]
+[[fa:مازاد مصرف کننده]]
+[[fr:Surplus du consommateur]]
+[[ko:경제적 잉여]]
+[[it:Surplus del consumatore]]
+[[lo:ການເກີນທາງດ້ານເສດຖະກິດ]]
+[[hu:Fogyasztói többlet]]
+[[nl:Consumentensurplus]]
+[[pl:Nadwyżka konsumenta]]
+[[scn:Suverchiu]]
+[[fi:Taloudellinen ylijäämä]]
+[[sv:Konsumentöverskott]]
+[[zh:經濟剩餘]]</text>
+      <sha1>8c2q3u17zombtpdw4512da8s4u86yn0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,82 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Coase conjecture</title>
+    <ns>0</ns>
+    <id>15080345</id>
+    <revision>
+      <id>514382641</id>
+      <parentid>513900515</parentid>
+      <timestamp>2012-09-24T20:20:11Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8434)</comment>
+      <text xml:space="preserve" bytes="3689">The '''Coase conjecture''', developed first by [[Ronald Coase]], is an argument in [[monopoly| monopoly theory]]. The conjecture sets up a situation in which a monopolist sells a [[durable good]] to a [[market]] where resale is impossible and faces [[consumer]]s who all have different valuations. The conjecture proposes that a monopolist that does not know individuals' valuations will have to sell its product at a low [[price]] if the monopolist tries to separate consumers by offering different prices in different periods.  This is because the monopoly is, in effect, in price [[competition]] with itself over several periods and the consumer with the highest valuation, if he is patient enough, can simply wait for the lowest price.  Thus the monopolist will have to offer a competitive price in the first period which will be low.  The monopolist could avoid this problem by committing to a stable linear pricing strategy or adopting other business strategies.&lt;ref&gt;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=496175 [Orbach (2004)&lt;/ref&gt;
+
+==Simple two-consumer model==
+Imagine there are consumers, called &lt;math&gt;X&lt;/math&gt; and &lt;math&gt;Y&lt;/math&gt; with [[Value (economics)|valuations]] of [[Good (economics and accounting)|good]] with &lt;math&gt;x&lt;/math&gt; and &lt;math&gt;y&lt;/math&gt; respectively.  The valuations are such as &lt;math&gt;x&lt;y&lt;2x&lt;/math&gt;.  The monopoly cannot directly identify individual consumers but it knows that there are 2 different valuations of a good.  The good being sold is durable so that once a consumer buys it, he or she will still have it in all subsequent periods.  This means that after the monopolist has sold to all consumers, there can be no further sales.  Also assume that production is such that average cost and [[marginal cost]] are both equal to zero.
+
+The monopolist could try to charge at a &lt;math&gt;price = y&lt;/math&gt; in the first period and then in the second period &lt;math&gt;price =x &lt;/math&gt;, hence [[Price discrimination|price discriminating]].  This will not result in consumer &lt;math&gt;Y&lt;/math&gt; buying in the first period because, by waiting, she could get price equal to &lt;math&gt;x&lt;/math&gt;.  To make consumer &lt;math&gt;Y&lt;/math&gt; [[Indifference curve|indifferent]] between buying in the first period or the second period, the monopolist will have to charge a price of &lt;math&gt;price = dx +(1-d)y&lt;/math&gt; where &lt;math&gt;d&lt;/math&gt; is a [[Discounting|discount]] factor between 0 and 1.  This price is such as &lt;math&gt;dx + (1-d)y &lt; y&lt;/math&gt;.  
+
+Hence by waiting, &lt;math&gt;Y&lt;/math&gt; forces the monopolist to compete on price with its future self.
+
+==''n'' consumers==
+Imagine there are &lt;math&gt;n&lt;/math&gt; consumers with valuations ranging from &lt;math&gt;y&lt;/math&gt; to a valuation just above zero.  The monopolist will want to sell to the consumer with the lowest valuation.  This is because production is costless and by charging a price just above zero it still makes a [[Profit (economics)|profit]].  Hence to separate the consumers, the monopoly will charge first consumer &lt;math&gt;(1-d^n)y&lt;/math&gt; where &lt;math&gt;n&lt;/math&gt; is the number of consumers.  If the discount factor is high enough this price will be close to zero.  Hence the conjecture is proved.
+
+==See also==
+* [[Pacman conjecture|The Pacman conjecture]]
+
+==References==
+&lt;references/&gt;
+
+==Further reading==
+# Coase, Ronald. &quot;Durability and Monopoly&quot; in Journal of Law and Economics, vol. 15(1), pp.&amp;nbsp;143–49, 1972.
+# Orbach, Barak. [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=496175 &quot;The Durapolist Puzzle: Monopoly Power in Durable-Goods Market&quot;] in Yale Journal on Regulation, vol. 21(1), pp.&amp;nbsp;67–118, 2004.
+
+[[Category:Monopoly (economics)]]
+[[Category:Pricing]]
+[[Category:Anti-competitive behaviour]]
+
+[[de:Coase-Vermutung]]</text>
+      <sha1>6wyp5u1lvei87ztvylsalx71rdmw82d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

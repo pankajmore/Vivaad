@@ -1,0 +1,60 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Lector</title>
+    <ns>1</ns>
+    <id>11654059</id>
+    <revision>
+      <id>269710287</id>
+      <parentid>261257710</parentid>
+      <timestamp>2009-02-10T05:26:40Z</timestamp>
+      <contributor>
+        <username>TAnthony</username>
+        <id>1808194</id>
+      </contributor>
+      <comment>Add Project banner using [[Project:AutoWikiBrowser|AWB]]</comment>
+      <text xml:space="preserve" bytes="1340">{{DisambigProject}}
+I suspect that in the ecclesiastical sense of lector, the use of the word 'monster' is a typo - 'minister' would appear more appropriate.
+
+==Lector vs Lektor in Polish tv==
+I'm sorry, calling a Polish tv's ''lektor'' a 'lector' in English is quite weird and needs some ref. It would be far more common to just say 'lektor' in English or 'narrator'/'voice-over'. Lector seems inappropriate, and, ideally, 'Lektor' should be given it's own page. For everyone's information, [[google duel]]ling &quot;Polish television lektor&quot; gives 29,200 hits, compared with 4,700 for the same search with 'lector'. Any thoughts?  [[User:Malick78|Malick78]] ([[User talk:Malick78|talk]]) 12:39, 1 January 2009 (UTC)
+:The article doesn't use &quot;lector&quot; in that section; it does say ''lektor''. This is a rather unusually formatted disambiguation page, in fact it's more like a multi-stub or set index article - anyway it covers not only the word &quot;lector&quot; but other cognates thereof, including &quot;lektor&quot;. &quot;Lektor&quot; doesn't need its own page as the topic is covered at [[Gavrilov translation]]. It might be worth trying to reformat this page (Lector) a bit though. I'm removing the {{tl|dab}} tag since it clearly doesn't attempt to follow the style for dab pages.--[[User:Kotniski|Kotniski]] ([[User talk:Kotniski|talk]]) 12:50, 1 January 2009 (UTC)</text>
+      <sha1>3s7ezdrpk7schq42ad8cmgo7069npmu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

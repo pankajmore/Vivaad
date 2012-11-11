@@ -1,0 +1,136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Quantitative history</title>
+    <ns>0</ns>
+    <id>2644613</id>
+    <revision>
+      <id>497546981</id>
+      <parentid>497546958</parentid>
+      <timestamp>2012-06-14T13:11:19Z</timestamp>
+      <contributor>
+        <username>Pinethicket</username>
+        <id>9674144</id>
+      </contributor>
+      <minor/>
+      <comment>[[Help:Reverting|Reverted]] edits by [[Special:Contributions/112.211.168.134|112.211.168.134]] ([[User talk:112.211.168.134|talk]]) to last version by Helpful Pixie Bot</comment>
+      <text xml:space="preserve" bytes="7649">'''Quantitative History''' is an approach to [[history|historical research]] that makes use of [[Quantitative research|quantitative]], [[statistical]] and [[computer]] tools. It is considered a branch of ''social science history'' and has three leading journals: ''Historical Methods'' (1967- ),&lt;ref&gt;[http://www.heldref.org/hm.php Historical Methods online]&lt;/ref&gt; ''Social Science History'' (1976- ),&lt;ref&gt;[http://ssh.dukejournals.org/ Social Science History online]&lt;/ref&gt; and the ''[[Journal of Interdisciplinary History]]'' (1968- ).&lt;ref&gt;[http://muse.jhu.edu/journals/jih/ Journal of Interdisciplinary History online]&lt;/ref&gt;
+
+==Data bases: social and political==
+
+Quantitative historians start with data bases. Large quantities of economic and demographic data are available in print format. The quantifiers held move these into computerized data bases. The largest repository is the [[Inter-university Consortium for Political and Social Research]] (ICPSR) at the [[University of Michigan]], which provides access to an extensive collection of downloadable political and social data for the [[United States]] and the world.
+
+==Data bases: economic==
+
+The economic historians have access to major data sets, especially those collected by governments since the 1920s. Historians of slavery have used census data, sales receipts and price information to reconstruct the economic history of slavery.
+
+''[[Content analysis]]'' is a technique borrowed from journalism research whereby newspapers, magazines or similar sources are numerically coded according to a standardized list of topics. [Neuendorf, ''The Content Analysis Guidebook'' (2002)]
+
+==Political history==
+
+Quantifiers study topics like voting behavior of groups in elections, the roll call behavior of legislators, public opinion distribution, and the occurrence rate of wars and legislation.  '''Collective biography'' uses standardized information on a large group to deduce patterns of thought and behavior.
+
+==New social history==
+
+The &quot;new social historians&quot; (new in the 1960s) use Census data and other data sets to study entire populations.  Topics include demographic issues such as population growth rates, rates of birth, death, marriage and disease, occupational and education distributions, and migrations and population changes.
+
+An especially challenging technique is linking names (&quot;nominal record linkage&quot;) of the same person whose information appears in multiple source such as censuses, city directories, employment files and voting registration lists.
+
+== Topics ==
+
+In 2007-2008, the most viewed articles in ''Social Science History'' represented the breadth and style of the field. The five most viewed were:&lt;ref&gt;[http://ssh.dukejournals.org/reports/mfr1.dtl Reports], dukejournals.org&lt;/ref&gt;&lt;!--not working, 5 May 20019--&gt;
+
+#  S. J. Kleinberg, &quot;Children's and Mothers' Wage Labor in Three Eastern U.S. Cities, 1880-1920&quot;  Mar 01, 2005; 29: 45-76.
+#  Ted L. Gragson, Paul V. Bolstad, &quot;A Local Analysis of Early-Eighteenth-Century Cherokee Settlement,&quot;   Sep 01, 2007; 31: 435-468.
+#  Helen Boritch, &quot;The Criminal Class Revisited: Recidivism and Punishment in Ontario, 1871-1920,&quot;   Mar 01, 2005; 29: 137-170.
+#  Javier Silvestre, &quot;Temporary Internal Migrations in Spain, 1860-1930,&quot; Dec 01, 2007; 31: 539-574.
+#  Eric W. Sager, &quot;The Transformation of the Canadian Domestic Servant, 1871-1931&quot;  Dec 01, 2007; 31: 509-537.
+
+== See also ==
+
+* [[New economic history]]
+* [[Cliodynamics]]
+
+== References ==
+&lt;references/&gt;
+
+== Bibliography ==
+
+* Aydelotte, William O., Allan G. Bogue, and Robert William Fogel, eds. ''The Dimensions of Quantitative Research in History''  (Princeton University Press, 1972). Essays by leading pioneers with case studies in the social, political, and economic development of the United States, France, and Great Britain.
+* Clubb, Jerome M., Erik W. Austin, and Gordon W. Kirk, Jr. The Process of Historical Inquiry: Everyday Lives of Working Americans (Columbia University Press, 1989). Uses case study of American textile workers in 1888-90
+* Clubb, J. M., and E. K. Scheuch (eds.) ''Historical Sozial Research: The Use of Historical and Process-Produced Data,'' Stuttgart 1980, European emphasis
+* Dollar, Charles, and Richard Jensen. ''Historian's Guide to Statistics,'' (Holt, 1971; Krieger 1973); detailed textbook of quantitative political and social history with bibliography
+* Fogel, Robert William and G. R. Elton, ''Which Road to the Past: Two Views of History'' (Yale University Press, 1983).  Debate over merits.
+* Haskins, Loren and Kirk Jeffrey. ''Understanding Quantitative History'' (M.I.T. Press, 1990). textbook
+* Hollingsworth, T.H. ''Historical Demography.'' Hodder &amp; , London 1969
+* [[Pat Hudson|Hudson, Pat]]. ''History by Numbers: An Introduction to Quantitative Approaches'' (Arnold, 2000).  Comprehensive textbook; examples drawn mainly from British sources.
+* Jarausch, Konrad H. and Kenneth A. Hardy, ''Quantitative Methods for Historians: A Guide to Research, Data, and Statistics'' (University of North Carolina Press, 1991). textbook
+* Kousser, J.M.,  &quot;History QUASSHed: quantitative social scientific history.&quot; ''American Behavioral Scientist'' 23(1980), p. 885-904
+* Lorwin, Val R. and. J. M. Price, ed. ''The Dimensions of the Past: Materials, Problems and Opportunities for Quantitative Work in History,'' Yale UP 1972
+* Kimberly A. Neuendorf. ''The Content Analysis Guidebook'' (2002)
+* Rowney, D.K., (ed.) ''Quantitative History: Selected Readings in the Quantitative Analysis of Historical Data,'' 1969
+* Swierenga, Robert P., ed. ''Quantification in American History: Theory and Research'' (Atheneum, 1970). Early essays on methodology, and examples of political, economic, and social history.
+* Wrigley, E.A. (ed.) ''Identifying People in the Past.'' Edward Arnold, 1973. Using demographic and census data
+
+== Other sources ==
+
+*[[Leonid Grinin|Grinin, L.]] 2007. Periodization of History: A theoretic-mathematical analysis. In: [http://edurss.ru/cgi-bin/db.pl?cp=&amp;lang=en&amp;blang=en&amp;list=Found&amp;page=Book&amp;id=53184 History &amp; Mathematics: Analyzing and Modeling Global Development]. Edited by [[Leonid Grinin]], Victor C. de Munck, and [[Andrey Korotayev]]. Moscow: KomKniga, 2006. P.10-38. ISBN 978-5-484-01001-1.
+* Kimberly A. Neuendorf. ''The Content Analysis Guidebook'' (2002)
+* Moyal, J.E. (1949) The distribution of wars in time. ''[[Journal of the Royal Statistical Society]]'', 112, 446-458.
+* Richardson, L. F. (1960). ''Statistics of deadly quarrels''. Pacific Grove, CA: Boxwood Press.
+* Silver, N. C. &amp; Hittner, J. B. (1998). ''Guidebook of statistical software for the social and behavioral sciences.'' Boston, MA: Allyn &amp; Bacon.
+* Turchin, P., et al., eds. (2007). [http://edurss.ru/cgi-bin/db.pl?cp=&amp;page=Book&amp;id=53185&amp;lang=en&amp;blang=en&amp;list=Found History &amp; Mathematics: Historical Dynamics and Development of Complex Societies.] Moscow: KomKniga. ISBN 5-484-01002-0
+*Wilkinson, D. (1980). ''Deadly quarrels: Lewis F. Richardson and the statistical study of war.'' Berkeley, CA: University of California Press.
+* Wright, Q. (1965, 2nd ed.). ''A study of war''. Chicago: University of Chicago Press.
+
+== External links ==
+* [http://www.icpsr.umich.edu Interuniversity Consortium for Political and Social Research] (ICPSR) at the [[University of Michigan]]
+* [http://visualstatistics.net/East-West/Quantitative%20History/QuantitativeHisttory.htm Quantitative History]
+
+[[Category:Fields of history]]
+[[Category:Theories of history]]
+[[Category:Social sciences methodology]]
+[[Category:Quantitative research]]
+
+[[es:Historia cuantitativa]]
+[[fr:Histoire quantitative]]
+[[oc:Istòria quantitativa]]</text>
+      <sha1>p4nzfmqitnr7hl3zf0qwc5j1ttj2zzk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

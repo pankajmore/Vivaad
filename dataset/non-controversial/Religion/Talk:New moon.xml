@@ -1,0 +1,183 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:New moon</title>
+    <ns>1</ns>
+    <id>192945</id>
+    <revision>
+      <id>474321579</id>
+      <parentid>465495711</parentid>
+      <timestamp>2012-02-01T01:50:23Z</timestamp>
+      <contributor>
+        <ip>50.15.16.248</ip>
+      </contributor>
+      <comment>I wanted to no because i never seen it before</comment>
+      <text xml:space="preserve" bytes="18780">{{WP1.0|WPCD=yes}}
+{{WPMoon
+|class=B
+|importanc
+}}
+==Formula==
+The formula 
+D = 5.597660 + 29.5305888531*N + 102.19E-12*N*N
+is completely baffling at first, because it looks as if E is a constant, like D, and -12*N*N is the final term. It could be made much clearer very simply, e.g.
+
+D = 5.597660 + 29.5305888531*N + (102.19E-12)*N*N
+
+so I'll do that - but are there not conventions for writing formulae that would help here?
+
+
+:How about this (see in [[Wikipedia:How to edit a page]] for how to create math):
+
+:D = 5.597660 + 29.5305888531*N + (102.19*10&lt;sup&gt;-12&lt;/sup&gt;)*N&lt;sup&gt;2&lt;/sup&gt;
+
+:[[User:Ahoerstemeier|andy]] 11:45 Mar 7, 2003 (UTC)
+
+==New Moons/Year==
+How many new moons are there per year? -[[User:Lommer|Lommer]] | [[User talk:Lommer|&lt;sup&gt;talk&lt;/sup&gt;]] 04:20, 21 Jan 2005 (UTC)
+
+:At least twelve and no more than thirteen, depending on what year it is. --[[User:Eric Forste|Eric Forste]] 05:29, 21 Jan 2005 (UTC)
+
+: An average of about 12.36827 . This has been approximated by 12 7/19 ([[Metonic cycle]]) and is more accurately approximated by 12 123/334 or 12 130/353. -- [[User:Karl Palmen|Karl Palmen]] 21 Jan 2005 09:30 (UTC)
+
+== The Picture ==
+
+The picture at the top of the page doesn't have any context. It could be interpreted as an indication of what time of day different moon phases occur every day. The moon takes roughly 29.5 days to pass through each phase.
+
+It would be a good idea to actually note what this diagram is indicating.--[[User:Jcvamp|Jcvamp]] 19:28, 3 August 2006 (UTC)
+
+== How long does it last? ==
+
+How many days does the new moon last?
+
+:In an astronomical sense, New Moon occurs at the ''instant'' when the Moon is in conjunction with the Sun. It's not a ''range'' of times. 
+
+:This is why published information shows a ''date and time'' of New Moon. It's unlikely that anyone would see the Moon at its closest approach to the Sun (unless there's a Solar Eclipse), so it's become conventional to call the first visible crescent moon 'New Moon' - but this may be a day or two after the actual instant of New Moon. [[User:Pavium|Pavium]] 07:49, 28 April 2007 (UTC)
+
+== Numerical formulae and sources ==
+
+The expressions have been taken from the papers of Chapront in 1985 and 2002, and the obsolete ones can also be found in Meeus' well-known &quot;Astronomical Algorithms&quot;.  The actual expressions are given in the &quot;Approximate formula&quot; section, the way they have been derived are given in painful detail in the &quot;Explanation of the formulae&quot; section for those who can stomach so many numbers.  The two sources are listed at the bottom.  The expressions are valid.  Someone should not just put a big warning sign on them without indicating what might be wrong with them or why he even thinks that there is something wrong; that should be put in this discussion page first anyway.  The referencing convention pre-dates the Wikipedia ref tag.  I hate that new tag: it does not make a distinction between factual footnotes, and references.  Also I very much prefer references as (author, year) in the text above a numerical reference, even if numbering is automatic. [[User:Tom Peters|Tom Peters]] 09:10, 14 December 2006 (UTC)
+: Could you please add the citations to the text in the appropriate places? There are currently no citations under approximate formula. Without citations, this appears to represent original research, which is not allowed by wikipedia policy, whcih is currently being discussed under the proposal for deletion of [[full moon cycle]]. Citations need to be added to the pages [[lunar phase]] and [[full moon]] as well. The citations should appear the time the formulas are given, and not later at the bottom. If you need help with the formatting of the refs, let me know and I'll take care of this for you. [[User:Lunokhod|Lunokhod]] 16:16, 14 December 2006 (UTC)
+::I suppose you want actual references of all constants mentiond.  I'll do that by next week.  What I did was re-compute Meeus' expressions (which are essentially 25 years old) with newer constants from the 2002 Chapront paper already referenced.  I do not believe that that could be regarded as &quot;original research&quot; in the meaning of the Wikipedia policy, because that clearly exists to avoid discussions about interpretations and opinions.  You cannot have an opinion about the result of arithmetic.  However one has to know what one is doing (which I do).  If you believe that Wikipedia should not contain such compilation of published material, I think we have a fundamental issue and we should take this to an appropriate Wikipedia forum.
+::Some historical considerations: lunar ephemerides have been a personal interest for a long time, and Meeus' compilations have been of great use.  However there is no readily accessible reliable on-line source for even the most basic constants and expressions (unless you know exactly what you are looking for, where to get it, and how to interpret it).  I don't drag my books with me, and the Wikipedia seems like the perfect place to to have this info easily available for everyone including myself.  Originally I put the ELP2000-85 expressions from Meeus there, and that is still on the full moon page. When I had digested the latest Chapront paper I updated the New Moon expression, and thought it appropriate to add an explanation of the steps for those few people who care and actually know about such details - exactly to make the numbers verifyable.  The data have been there for a few years and some people have done some formatting and additional clarifications, but everybode seems to have been happy with the stuff being here.  [[User:Tom Peters|Tom Peters]] 01:47, 15 December 2006 (UTC)
+::: What you are describing is definitely original research. Wikipedia is an encylopedia that only summarizes topics, you are not supposed to &quot;improve&quot; upon data or formulas in the process. On another topic, you may want to look into the JPL DE405 ephemerides. This is the standard used in the scientific community, and it is quite possible that someone published the asymptotic formulas for certain quantities. [[User:Lunokhod|Lunokhod]] 03:59, 15 December 2006 (UTC)
+:::: I maintain that this definately is not original research (litmus test: try to publish such things anywhere: it is not original enough and moreover it is not research), and does not in letter nor spirit violate the policy, which is there for a reason and not for its own sake.  If such things were forbidden, then Wikipedia could only literally quote obsolete stuff that appeared in print.  Look around: that is not how Wikipedia (or in fact any encyclopedia) works, and the quality will actually be reduced if you remove such compilation of sources.  I say this is a fundamental issue and we resolve it in some Wiki-global forum.  BTW I work with the DE ephemerides and Chapront actually has been using them to fit his parameters.  Now fitting polynomials to DE ephemeride positions, that would be original reserach that would produce controversial results because these closely depend on some arbitrary choices in the procedures. [[User:Tom Peters|Tom Peters]] 11:07, 15 December 2006 (UTC)
+:::::&quot;(litmus test: try to publish such things anywhere: it is not original enough and moreover it is not research)&quot;: These types of things are routinely published, though not always in scholarly journals. Publishing could include documentation for ephemerides, or a web site. As an active research scientist, I would readily consider this research. &quot;Wikipedia could only literally quote obsolete stuff that appeared in print&quot;: If there has not been an update published, then it is not old and obsolete. As I scientist, I have to use those values that are published in the literature, and give references. If I make my own correction, I need to describe in detail how this was done, and this would be my original research. Let's say I wanted to publish an article on this topic; would it be appropriate for me to site wikipedia as a primary reference? Of course not. I have no idea how you came up with these numbers. I agree that fitting ephemerides to a polynomial is original research, and I do not see how you could also claim that listing &quot;new&quot; corrections and giving updated formulas without detailed discussion (or error bars) are not. [[User:Lunokhod|Lunokhod]] 17:07, 15 December 2006 (UTC)
+::::::Have you actually read and understood this section?  Meeus built a formula from the old ELP.  Chapront published new data.  I explain in quite some detail how to apply those new data to get an improved formula: but in all it's just plain arithmetic, of the category &quot;it is easily shown that&quot; or &quot;it is left as an exercise to the reader&quot;.  Why don't you try yourself? [[User:Tom Peters|Tom Peters]] 18:28, 15 December 2006 (UTC)
+:::::::Add the citations, or I will propose this section for deletion. &quot;it is easily shown that&quot; has no place in an encyclopedia. I do not doubt your calculations, but that is not the point. If you want a citation that says that sidereal pediod of the Moon is X, I can find it. You can not find a citation for your numbers without describing the calculations to the reader: Such a description is original research. [[User:Lunokhod|Lunokhod]] 06:58, 16 December 2006 (UTC)
+::::::::First, I said that I would add relevant references by next week; the numbers have been there for years and I do not understand your hurry.  Second, I doubt that this will satisfy you because you apparently are of the opinion that even the most trivial arithmetic operations applied to source materidal is &quot;&quot;original research&quot; that would be forbidden by a Wikipedia policy.  That is your very personal interpretation.  I oppose because I have put a lot of time in these articles, maintained them against vandals and misguided passer-by's, and vow for their accuracy.  You do not just drop in and decide what can or can not be done, and again I propose that we take this fundamental issue to the Village Pump to find out how the community thinks about the extent of that &quot;NOR&quot; policy.
+::::::::A preview of my arguments: Indeed you won't find &quot;it is easily shown that&quot; in an encyclopedia: you find that in student's text books.  Encyclopedias are written by people knowledgeable on the subject, they compile and condense information from various sources usually not available to and beyond the understanding of the intended audience.  The information should be verifiable.  Apparently your opinion is that every digit must be taken as an exact quotation from somewhere else.  I believe that such a condition is too strict to work with.  A Wikipedia article must be original work and possibly integrates various sources.  Integrating newer information with existing models using established procedures in the field is perfectly valid when writing an encyclopedic article.  Numbers are used for computation, and computation and algebra is the bread and butter of any scientist.  If I apply the tricks of the trade to referenced public information, the result is verifiable.  That is not &quot;original research&quot;, that is just an expert doing his thing.  Some of the differences you will find involve a change of units or epoch: too trivial to mention.  You cannot publish an article every time you manage to get a result on your calculator.  Even peer-reviewed scientific journals only require that the experiments, results, and inferences from them, are presented in such detail that they can be duplicated and verified by competent scientists knowledgeable in the field.  They do not require you to write a laboratory manual that someone without training could follow.  Even then Wikipedia &quot;is not&quot; a scientific book.  The best that Wikipedia as an encyclopedia can be is an expert synthesis of authorative sources, and that requires substantial processing.  If it is just going to be a bunch of links to existing sources it becomes pretty useless. [[User:Tom Peters|Tom Peters]] 19:25, 16 December 2006 (UTC)
+:::::::::Suppose, for example, I write in a Wikipedia article about author X that &quot;author X wrote five books on subject Y&quot;, and I use as my source a listing of author X's publications. Will Wikipedia scream &quot;original research&quot; because I had the audacity to count to five? [[Special:Contributions/75.40.137.17|75.40.137.17]] ([[User talk:75.40.137.17|talk]]) 10:16, 24 September 2009 (UTC)
+
+== The Big Secret? ==
+
+Here's how to derive the expression for the time of mean New Moon from Delauney's parameter D (= mean longitude of Moon - mean longitude of Sun).  Apparently this is not trivial to most astronomers contributing in the Wikipedia.  I don't want to clutter the main page so I put it here on Talk.
+
+From J.Chapront, M.Chapront-Touzé, G.Francou: &quot;A new determination of lunar orbital parameters, precession constant and tidal acceleration from LLR measurements&quot;, A&amp;A '''387''', 700..709 (2002) [http://aanda.u-strasbg.fr:2002/articles/aa/abs/2002/20/aa2201/aa2201.html], Table 4:
+
+D = 297°51'00.6902&quot; + 1602961601.0312&quot;×t − 6.8498&quot;×t&lt;sup&gt;2&lt;/sup&gt; + 0.006595&quot;×t&lt;sup&gt;3&lt;/sup&gt; − 0.00003184×t&lt;sup&gt;4&lt;/sup&gt;
+
+Converted to revolutions (''i.e.'' divide by 60×60×360):
+
+D = 0.8273616437 + 1236.8530872154×t − 5.2853E-6×t&lt;sup&gt;2&lt;/sup&gt; + 5.089E-9×t&lt;sup&gt;3&lt;/sup&gt; -24.57E-12×t&lt;sup&gt;4&lt;/sup&gt;
+
+derivative:
+
+v = 1236.8530872154 − 10.5707E-6×t + 15.266E-9×t&lt;sup&gt;2&lt;/sup&gt; − 98.27E-12×t&lt;sup&gt;3&lt;/sup&gt; revolutions per Julian century (of 36525 days)
+
+= 1236.8530872154 × (1 − 8.54643E-9×t + 12.343E-12×t&lt;sup&gt;2&lt;/sup&gt; − 79.45E-15×t&lt;sup&gt;3&lt;/sup&gt;)
+
+So the polynomial for the length of the synodic month around epoch J2000.0 is: 
+
+(36525 d/cy) / [ 1236.8530872154 rev/cy × (1 − 8.54643E-9×t + 12.343E-12×t&lt;sup&gt;2&lt;/sup&gt; − 79.45E-15×t&lt;sup&gt;3&lt;/sup&gt;) ]
+= 29.530588860986 (d/rev) / (1 − 8.54643E-9×t + 12.343E-12×t&lt;sup&gt;2&lt;/sup&gt; − 79.45E-15×t&lt;sup&gt;3&lt;/sup&gt;)
+
+This has the form p/(1−f), and to first order of approximation this can be re-written as p×(1+f) .  This is accurate for our purpose because f is very small (8 orders of magnitude smaller than the main term): 
+
+P = 29.530588860986 + 252.381E-9×t − 364.49E-12×t&lt;sup&gt;2&lt;/sup&gt; + 2.346E-12×t&lt;sup&gt;3&lt;/sup&gt;
+
+Change unit from t (Julian centuries of 36525 days) to N (lunation of 29.530... days) by multiplying by (29.530.../36525)&lt;sup&gt;n&lt;/sup&gt; : 
+
+P = 29.530588860986 + 204.051E-12×N - 238.26E-18×N&lt;sup&gt;2&lt;/sup&gt; + 1.2400E-21×N&lt;sup&gt;3&lt;/sup&gt;
+
+D is 0 modulo 1 after (1−0.8273616437)×29.530588860986 = 5.098112 days after the epoch.  Integrating now with this offset as the integration constant yields:
+
+d = 5.098112 + 29.530588860986×N + 102.026E-12×N&lt;sup&gt;2&lt;/sup&gt; - 79.42E-18×N&lt;sup&gt;3&lt;/sup&gt; + 310.0E-24×N&lt;sup&gt;3&lt;/sup&gt;
+
+N=0 for the first mean New Moon in 2000, and that is actually the epoch of the formula.  At that time (0.17262308 revolutions after J2000) the period has already increased to 29.530588861021 days, so round to 10 decimals.   
+
+Add 0.5 days to the constant to shift the zero point to midnight instead of noon (epoch 2000.0 is JD 2451545 falls at noon), and subtract 0.000451 days to correct for light time as explained on the main page: this yields 5.597661 days after midnight of 1 Jan. 2000 (TT).
+
+Compare Meeus' formula (&quot;Astronomical Algorithms&quot;, formula 47.1) derived from the ELP2000-85 : 
+
+JD = 2451550.09765 + 29.530588853×k + 0.000 1337×T&lt;sup&gt;2&lt;/sup&gt; - 0.000 000 150×T&lt;sup&gt;3&lt;/sup&gt; + 0.000 000 000 73×T&lt;sup&gt;4&lt;/sup&gt;
+
+The quadratic term from Meeus when expressed in lunations becomes 133.7E-6×(29.530.../36525)&lt;sup&gt;2&lt;/sup&gt; = 87.40E-12, and this is indeed 14.63E-12 smaller than the newer expression, as deduced on the main page.
+
+[[User:Tom Peters|Tom Peters]] 23:51, 21 December 2006 (UTC)
+[[User:Tom Peters|Tom Peters]] ([[User talk:Tom Peters|talk]]) 13:45, 28 December 2009 (UTC)
+
+== Elliott Smith ==
+I hope no one minds, but I redirected [[New Moon]] (both words capitalized) to [[New Moon (Elliott Smith album)]], because it stands to reason that if someone capitalizes both words, they're looking for the album.  [[User:Notahippie76|Notahippie76]] ([[User talk:Notahippie76|talk]]) 02:43, 28 November 2007 (UTC)
+
+:I am undoing your change because numerous instances of a capitalized &quot;New Moon&quot; are already listed in [[New Moon (disambiguation)]] linked at the head of [[New moon]], including [[New Moon (Elliott Smith album)]]. — [[User:Joe Kress|Joe Kress]] ([[User talk:Joe Kress|talk]]) 04:51, 29 November 2007 (UTC)
+
+::You're right, good call. [[User:Notahippie76|Notahippie76]] 18:36, 30 November 2007 (UTC)
+
+== New Moon - Book by Stephanie Meyer ==
+
+Second book in Twilight saga.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] commen→t added by [[Special:Contributions/24.191.100.39|24.191.100.39]] ([[User talk:24.191.100.39|talk]]) 20:47, 30 December 2008 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:This book is already listed in [[New Moon (disambiguation)]] at the top of [[New moon]] and has its own article at [[New Moon (novel)]]. — [[User:Joe Kress|Joe Kress]] ([[User talk:Joe Kress|talk]]) 23:38, 31 December 2008 (UTC)
+
+== More precise definition needed? ==
+
+The article says that new moon occurs when &quot;the Moon ... lies between the Earth and the Sun&quot;, which is a bit woolly if you ask me. The moon's orbit is tilted roughly 5 degrees to the ecliptic, so the diagram is of course a simplification. The moon never passes exactly through the line connecting the Earth and Sun (although it gets very close to this during a lunar eclipse of the Earth) and so it is never exactly &quot;between the Earth and the Sun&quot;.
+
+So how do we define the new moon more accurately? I would guess that it is the lunar perihelion, i.e. the closest approach of the moon to the sun on each orbit. Can anyone clarify or confirm this?
+
+I guess this only matters if you are interested in defining a time of new moon to quite high accuracy, which seems to crop up in some religious calendars and/or astrological calculations.[[User:JominyDave|JominyDave]] ([[User talk:JominyDave|talk]]) 21:18, 3 March 2009 (UTC)
+: The apparent geocentric longitude of the Moon is the same as the Sun's. From Meeus, ''Astronomical Algorithms'', 1998 [[User:Saros136|Saros136]] ([[User talk:Saros136|talk]]) 06:18, 9 March 2009 (UTC)
+::It is also not the Moon's closest distance to the Sun. The next new moon, for example, is March 26  at about 16:06 UT . Minimum Moon-Sun distance is March 23 at 15:58 UT. Solex 10.0. It's complicated by the fact that the Moon-Earth system is  moving away from the Sun at the same time. [[User:Saros136|Saros136]] ([[User talk:Saros136|talk]]) 07:04, 9 March 2009 (UTC)
+
+== Alternate formula ==
+See [[Talk:Lunar_phase#Proposed_deletion_of_Lunar_phase_equation]]. -[[User:Trift|Trift]] ([[User talk:Trift|talk]]) 18:23, 24 June 2011 (UTC)</text>
+      <sha1>ea3cnt4j3rkjo6g3bjbdog5oqgp5aif</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

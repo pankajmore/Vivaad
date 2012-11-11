@@ -1,0 +1,73 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Global game</title>
+    <ns>0</ns>
+    <id>12486101</id>
+    <revision>
+      <id>519983197</id>
+      <parentid>519983189</parentid>
+      <timestamp>2012-10-26T17:30:41Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contributions/199.21.145.13|199.21.145.13]] to version by Marp85. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1297842) (Bot)</comment>
+      <text xml:space="preserve" bytes="2665">In [[economics]] and [[game theory]], '''global games''' are games of incomplete information where players receive possibly-correlated signals of the underlying state of the world.  Global games were originally defined by Carlsson and van Damme (1993). The most important practical application of global games has been the study of [[Financial crisis|crises in financial markets]] such as [[banking crisis|bank runs]], [[currency crisis|currency crises]], and [[bubble (economics)|bubbles]]. However, they have other relevant applications such as investments with [[payoff complementarities]], [[beauty contests]], [[political riots]] and [[revolutions]], and any other economic situation which displays [[strategic complementarity]].
+
+== Global games in models of currency crises ==
+[[Stephen Morris (game theorist)|Stephen Morris]] and [[Hyun Song Shin]] (1998) considered a stylized currency crises model, in which traders observe the relevant fundamentals with small noise, and show that this leads to the selection of a unique equilibrium. This result overturns the result in models of [[complete information]], which feature multiple equilibria.
+
+One concern with the robustness of this result is that the introduction of a theory of prices in global coordination games may reintroduce multiplicity of equilibria (Atkeson, 2001). This concern was addressed in Angeletos and Werning (2006) and Hellwig ''et. al.''(2006). They show that equilibrium multiplicity may be restored by the existence of prices acting as an endogenous public signal, provided that private information is sufficiently precise.
+
+==References==
+*[[George-Marios Angeletos]] and [[Ivan Werning]] (2006), &quot;Crises and Prices: Information Aggregation, Multiplicity, and Volatility,&quot; ''American Economic Review'', 96 (5): 1720–36.
+*[[Andrew G. Atkeson]], (2001), &quot;Rethinking Multiple Equilibria in Macroeconomic Modeling: Comment.&quot; In [[NBER]] Macroeconomics Annual 2000, ed. [[Ben S. Bernanke]] and [[Kenneth Rogoff]], 162–71. Cambridge, MA: [[MIT Press]].
+*[[Christian Hellwig]], Arijit Mukherji and Aleh Tsyvinski (2006), &quot;Self-Fulfilling Currency Crises: The Role of Interest Rates,&quot; ''American Economic Review'', 96 (5): 1769-1787.
+*Stephen Morris and Hyun Song Shin (1998), &quot;Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks,&quot; ''American Economic Review'', 88 (3): 587–97.
+*[http://cowles.econ.yale.edu/P/cd/d12b/d1275-r.pdf Stephen Morris &amp; Hyun S Shin, 2001. &quot;Global Games: Theory and Applications.&quot;]
+*Hans Carlsson and Eric van Damme (1993), &quot;Global Games and Equilibrium Selection,&quot; Econometrica 61 (5): 989-1018.
+
+[[Category:Game theory]]
+
+{{gametheory-stub}}</text>
+      <sha1>bo46hcwg7pz5esrlvik0ck3nq7pjckb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

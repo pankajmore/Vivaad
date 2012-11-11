@@ -1,0 +1,165 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Giffen good</title>
+    <ns>0</ns>
+    <id>348127</id>
+    <revision>
+      <id>517499045</id>
+      <parentid>517496919</parentid>
+      <timestamp>2012-10-13T01:03:05Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Lead too long}}</comment>
+      <text xml:space="preserve" bytes="15162">{{also|Veblen good}}
+{{lead too long|date=October 2012}}
+{{tocleft}}
+In [[economics]] and [[consumer theory]], a '''Giffen good''' is one which people paradoxically consume more of as the price rises, violating the [[law of demand]]. In normal situations, as the [[price]] of a [[Good (economics)|good]] rises, the [[Consumer theory#Substitution effect|substitution effect]] causes consumers to purchase less of it and more of [[substitute good]]s. In the Giffen good situation, the [[Consumer theory#Income effect|income effect]] dominates, leading people to buy more of the good, even as its price rises.
+
+Evidence for the existence of Giffen goods is limited, but [[microeconomic]] [[mathematical models]] explain how such a thing could exist. Giffen goods are named after Scottish economist [[Robert Giffen|Sir Robert Giffen]], who was attributed as the author of this idea by [[Alfred Marshall]] in his book ''[[Principles of Economics (Marshall)|Principles of Economics]]''. Giffen first proposed the [[paradox]] from his observations of the purchasing habits of the [[Victorian era]] poor.
+
+For most products, [[price elasticity of demand]] is negative (note that, although they are negative, price elasticities of demand are often reported as positive numbers; see the [[Price elasticity of demand#Definition|mathematical definition]] for more). In other words, price and quantity demanded pull in opposite directions; if price goes up, then quantity demanded goes down, or vice versa. Giffen goods are an exception to this. Their price elasticity of demand is positive. When price goes up, the quantity demanded also goes up, and vice versa. In order to be a true Giffen good, price must be the only thing that changes to get a change in quantity demand, and a Giffen good should not be confused with products bought as status symbols or for [[conspicuous consumption]] (such a situation would indicate a [[Veblen good]]).
+
+The classic example given by Marshall is of inferior quality [[staple food]]s, whose demand is driven by [[poverty]] that makes their purchasers unable to afford superior foodstuffs. As the price of the cheap staple rises, they can no longer afford to supplement their diet with better foods, and must consume more of the staple food.
+
+{{quote|As Mr.Giffen has pointed out, a rise in the price of bread makes so large a drain on the resources of the poorer labouring families and raises so much the marginal utility of money to them, that they are forced to curtail their consumption of meat and the more expensive farinaceous foods: and, bread being still the cheapest food which they can get and will take, they consume more, and not less of it.|Alfred Marshall|''Principles of Economics'' (1895 ed.)&lt;ref&gt;Alfred Marshall (1895). [http://www.econlib.org/library/Marshall/marP14.html#Bk.III,Ch.VI Principles of Economics Bk.III, Ch.VI in paragraph III.VI.17]&lt;/ref&gt;}}
+
+Giffen goods are also related to [[experience good]]s and [[credence good]]s in that the two often exhibit increases in demand with price, yet are different in that close substitutes are available for the latter types.
+
+[[File:Types of goods.svg|thumb|500px|center|Types of goods in economics]]
+
+==Analysis==
+There are three necessary preconditions for this situation to arise:
+# the good in question must be an [[inferior good]],
+# there must be a lack of close [[substitute good]]s, and
+# the good must constitute a substantial percentage of the buyer's income, but not such a substantial percentage of the buyer's income that none of the associated [[normal good]]s are consumed.
+If precondition #1 is changed to &quot;The good in question must be so inferior that the income effect is greater than the substitution effect&quot; then this list defines necessary and sufficient conditions. As the last condition is a condition on the buyer rather than the good itself, the phenomenon can also be labeled as &quot;Giffen behavior&quot;.
+
+This can be illustrated with a diagram. Initially the consumer has the choice between spending their income on either commodity Y or commodity X as defined by line segment MN (where M = total available income divided by the price of commodity Y, and N = total available income divided by the price of commodity X). The line MN is known as the consumer's budget constraint. Given the consumer's preferences, as expressed in the [[indifference curve]] I&lt;sub&gt;0&lt;/sub&gt;, the optimum mix of purchases for this individual is point A.
+
+If there is a drop in the price of commodity X, there will be two effects. The reduced price will alter [[relative price]]s in favour of commodity X, known as the substitution effect. This is illustrated by a movement down the indifference curve from point A to point B (a pivot of the budget constraint about the original indifference curve). At the same time, the price reduction causes the consumers' purchasing power to increase, known as the income effect (an outward shift of the budget constraint). This is illustrated by the shifting out of the dotted line to MP (where P = income divided by the new price of commodity X). The substitution effect (point A to point B) raises the quantity demanded of commodity X from X&lt;sub&gt;a&lt;/sub&gt; to X&lt;sub&gt;b&lt;/sub&gt; while the income effect lowers the quantity demanded from X&lt;sub&gt;b&lt;/sub&gt; to X&lt;sub&gt;c&lt;/sub&gt;. The net effect is a reduction in quantity demanded from X&lt;sub&gt;a&lt;/sub&gt; to X&lt;sub&gt;c&lt;/sub&gt; making commodity X a Giffen good by definition. Any good where the income effect more than compensates for the substitution effect is a giffen good.
+
+==Empirical evidence==
+Evidence for the existence of Giffen goods has generally been limited. A 2002 preliminary working paper by Robert Jensen and Nolan Miller of [[Harvard University]] made the claim that [[rice]] and [[wheat]]/[[noodle]]s are Giffen goods in parts of [[China]] by tracking prices of goods. A further 2007 working paper by the same authors (now published in the September 2008 issue of American Economic Review) experimentally demonstrated the existence of Giffen goods among humans at the household level by directly subsidizing purchases of rice and wheat flour for extremely poor families.&lt;ref&gt;{{cite journal |first=Robert |last=Jensen |first2=Nolan |last2=Miller |year=2008 |title=Giffen Behavior and Subsistence Consumption |journal=[[American Economic Review]] |volume=97 |issue=4 |pages=1553–1577 |doi= |jstor=29730133 }}&lt;/ref&gt; It is easier to find Giffen effects where the number of goods available is limited, as in an experimental economy: DeGrandpre et al. (1993) provide such an experimental demonstration. In 1991, Battalio, Kagel, and Kogut proved that quinine water is a Giffen good for some lab rats.&lt;ref&gt;Kagel, John Henry; Battalio, Raymond Charles; Green, Leonard (1995). [http://books.google.com/books?id=pPf3SzeL2z4C&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false ''Economic choice theory: an experimental analysis of animal behavior.''] New York: Cambridge University Press, pp. 25-28.&lt;/ref&gt; However, they were only able to show the existence of a Giffen good at an individual level and not the market level.
+
+All Giffen goods are [[inferior good]]s but not all inferior goods are Giffen goods.
+
+Giffen goods are difficult to find because a number of conditions must be satisfied for the associated behavior to be observed. One reason for the difficulty in finding Giffen goods is Giffen originally envisioned a specific situation faced by individuals in a state of poverty. Modern consumer behaviour research methods often deal in aggregates that average out income levels and are too blunt an instrument to capture these specific situations. Furthermore, complicating the matter are the requirements for limited availability of substitutes, as well as that the consumers are not so poor that they can only afford the inferior good. It is for this reason that many text books use the term ''Giffen paradox'' rather than ''Giffen good''.
+
+Some types of premium goods (such as expensive French wines, or celebrity-endorsed perfumes) are sometimes claimed to be Giffen goods. It is claimed that lowering the price of these high status goods can decrease demand because they are no longer perceived as exclusive or high status products. However, the perceived nature of such high status goods changes significantly with a substantial price drop. This disqualifies them from being considered as Giffen goods, because the Giffen goods analysis assumes that only the consumer's income or the relative price level changes, not the nature of the good itself. If a price change modifies consumers' perception of the good, they should be analysed as [[Veblen good]]s. Some economists{{Who|date=January 2012}} question the empirical validity of the distinction between Giffen and Veblen goods, arguing that whenever there is a substantial change in the price of a good its perceived nature also changes, since price is a large part of what constitutes a [[product (business)|product]]. {{Citation needed|reason=reliable source needed for the whole sentence.|date=January 2012}} However the theoretical distinction between the two types of analysis remains clear; which one of them should be applied to any actual case is an empirical matter.
+
+==Great Famine in Ireland==
+Potatoes during the Irish [[Great Famine (Ireland)|Great Famine]] were long believed to be the only example of a Giffen good. But this theory was debunked by Gerald P. Dwyer and Cotton M. Lindsey in their 1984 article ''Robert Giffen and the Irish Potato'',&lt;ref&gt;{{cite journal |jstor=1803318 |last=Dwyer |first=Gerald P., Jr. |first2=Cotton M. |last2=Lindsay |title=Robert Giffen and the Irish Potato |journal=American Economic Review |volume=74 |issue=1 |year=1984 |pages=188–192 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |jstor=1813371 |first=Ulrich |last=Kohli |title=Robert Giffen and the Irish Potato: Note |journal=American Economic Review |volume=76 |issue=3 |year=1986 |pages=539–542 |doi= }}&lt;/ref&gt; where they showed the contradicting nature of the Giffen &quot;legend&quot; with respect to historical evidence.
+
+The Giffen nature of the Irish potato was also later discredited by [[Sherwin Rosen]] of the [[University of Chicago]] in his 1999 paper ''Potato Paradoxes''.&lt;ref&gt;{{cite journal |jstor=2990755 |first=Sherwin |last=Rosen |title=Potato Paradoxes |journal=[[Journal of Political Economy]] |year=1999 |volume=107 |issue=6 |pages=294–313 }}&lt;/ref&gt; Rosen showed that the phenomenon could be explained by a normal demand model.
+
+==Other proposed examples==
+It has been suggested that a number of other goods might be Giffen. While the arguments are theoretically sound (i.e., they accord with Marshall's basic intuition), in each case the supporting empirical evidence has been found to be unconvincing.
+
+Anthony Bopp (1983) proposed that kerosene, a low-quality fuel used in home heating, was a Giffen good. Schmuel Baruch and Yakar Kanai (2001) suggested that [[shochu]], a Japanese distilled beverage, &quot;might&quot; be a Giffen good. In both cases, the authors offered supporting econometric evidence. However, the empirical evidence has been generally considered to be incomplete. In a 2005 article, Sasha Abramsky of [[The Nation]] conjectured that gasoline, in certain circumstances, may act as a Giffen good. However, no supporting evidence was offered, and evidence from the large increases in oil prices in 2008 would suggest that quantity demanded for gasoline did actually fall as a result of increased prices.&lt;ref&gt;{{cite news |url=http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2008/06/11/npetrol111.xml |title=Petrol sales fall 20pc as drivers feel the pinch |newspaper=Telegraph |date=2008-06-11 }}&lt;/ref&gt; Of course, the lack of evidence at the aggregate level does not rule out that the proposed goods may have been Giffen for certain groups of consumers—in particular for poor consumers.
+
+The great recession has raised the possibility that very safe financial assets (Treasuries, cash, gold) become Giffen goods in liquidity trap scenarios or during bad economic times. As investors fear lower returns in equities and other investments they minimize risk by purchasing more of a low return, higher price asset that is considered safer.{{Disputed-inline|Disputed statement|date=September 2012}}&lt;ref&gt;{{cite news |url=http://baselinescenario.com/2011/08/15/money-as-the-ultimate-giffen-good/ |title=Baseline Scenario: Money as the Ultimate Giffen Good |newspaper=Baseline Scenario|date=2011-08-15 }}&lt;/ref&gt;
+
+==See also==
+* [[Capital good]]
+* [[Consumer theory]]
+* [[Inferior good]]
+* [[Normal good]]
+* [[Ordinary good]]
+* [[Price elasticity of demand]]
+* [[Supply and demand]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite journal |last=DeGrandpre |first=R. J. |last2=Bickel |first2=W. K. |last3=Rizvi |first3=S. A. |last4=Hughes |first4=J. R. |year=1993 |title=Effects of income on drug choice in humans |journal=Journal of the Experimental Analysis of Behavior |volume=59 |issue=3 |pages=483–500 |doi=10.1901/jeab.1993.59-483 }}
+* {{cite news |last=Abramsky |first=Sasha |url=http://www.thenation.com/doc/20051017/abramsky |title=Running on Fumes |work=[[The Nation]] |date=October 17, 2005 |pages=15–19 }}
+* {{Cite journal|last=Jensen |first=Robert |last2=Miller |first2=Nolan |year=2007 |url=http://web.hks.harvard.edu/publications/getFile.aspx?Id=482 |title=Giffen Behavior: Theory and Evidence |publisher=KSG Faculty Research Working Paper RWP07-030 }}
+* {{Cite journal|last=Baruch |first=Schmuel |last2=Kannai |first2=Yakar |year=2001 |url=http://home.business.utah.edu/finsb/giffen.pdf |title=Inferior Goods, Giffen Goods, and Shochu }}
+* {{cite journal |last=Bopp |first=Anthony |year=1983 |title=The Demand for Kerosene: a Modern Giffen Good |journal=[[Applied Economics]] |volume=15 |issue=4 |pages=459–467 |doi=10.1080/00036848300000017 }}
+
+==External links==
+* [http://www.econlib.org/library/Marshall/marP14.html#Bk.III,Ch.VI Alfred Marshall Principles of Economics Bk.III,Ch.VI in paragraph III.VI.17]
+* [http://econpapers.hhs.se/paper/wpawuwpge/9602001.htm The Last Word on Giffen Goods?]
+* [http://moneyterms.co.uk/giffen-good/ Giffen good]
+* [http://freakonomics.blogs.nytimes.com/2008/12/16/what-do-prostitutes-and-rice-have-in-common/ What Do Prostitutes and Rice Have in Common?]
+
+{{Goodtypes}}
+
+{{DEFAULTSORT:Giffen Good}}
+[[Category:Goods]]
+[[Category:Economics paradoxes]]
+
+[[ca:Bé Giffen]]
+[[cs:Giffenův statek]]
+[[de:Giffen-Paradoxon]]
+[[es:Bien de Giffen]]
+[[eu:Giffen ondasun]]
+[[fa:کالای گیفن]]
+[[fr:Bien de Giffen]]
+[[ko:기펜재]]
+[[hy:Գիֆենյան ապրանք]]
+[[it:Beni di Giffen]]
+[[he:מוצר גיפן]]
+[[ka:გიფენის საქონელი]]
+[[lt:Gifeno prekės]]
+[[hu:Giffen-javak]]
+[[nl:Giffen-goed]]
+[[ja:ギッフェン財]]
+[[pl:Dobro Giffena]]
+[[pt:Bem de Giffen]]
+[[ro:Bun Giffen]]
+[[ru:Товар Гиффена]]
+[[simple:Giffen good]]
+[[sk:Giffenov statok]]
+[[fi:Giffenin hyödyke]]
+[[sv:Giffen-vara]]
+[[ta:கிப்பன் பண்டம்]]
+[[te:గిఫెన్ వస్తువులు]]
+[[th:สินค้ากิฟเฟ่น]]
+[[uk:Товар Гіффена]]
+[[vi:Hàng hóa Giffen]]
+[[zh:吉芬商品]]</text>
+      <sha1>j2opbt3xnetrj4lvl65r5osah2uewmp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

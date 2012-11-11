@@ -1,0 +1,225 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Law and economics</title>
+    <ns>0</ns>
+    <id>298070</id>
+    <revision>
+      <id>517345421</id>
+      <parentid>516827089</parentid>
+      <timestamp>2012-10-12T08:07:24Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:CHECKWIKI]] error 61 fix, References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8459)</comment>
+      <text xml:space="preserve" bytes="25162">{{cleanup|date=June 2011}}
+{{external links|date=June 2011}}
+{{Economics sidebar}}
+'''Law and economics''' or '''economic analysis of law''' is the application of [[economic]] methods to analysis of [[law]]. Economic concepts are used to explain the effects of laws, to assess which legal rules are [[economic efficiency|economically efficient]], and to predict which legal rules will be [[Promulgation|promulgated]].&lt;ref&gt;[[David D. Friedman|David Friedman]] (1987). &quot;law and economics,&quot; ''[[The New Palgrave: A Dictionary of Economics]]'', v. 3, p. 144.&lt;/ref&gt;
+
+==Relationship to other disciplines and approaches==
+As used by [[lawyer]]s and legal scholars, the phrase &quot;law and economics&quot; refers to the application of the methods of economics to legal problems. Because of the overlap between legal systems and political systems, some of the issues in law and economics are also raised in [[political economy]], [[constitutional economics]] and [[political science]].  Most formal academic work done in law and economics is broadly within the [[Neoclassical economics|Neoclassical tradition]].{{Citation needed|date=February 2009}}
+
+Approaches to the same issues from [[Marxism|Marxist]] and [[critical theory]]/[[Frankfurt School]] perspectives usually do not identify themselves as &quot;law and economics&quot;.  For example, research by members of the [[critical legal studies]] movement and the [[sociology of law]] considers many of the same fundamental issues as does work labeled &quot;law and economics&quot;.
+
+The one wing that represents a non-neoclassical approach to &quot;law and economics&quot; is the Continental (mainly German) tradition that sees the concept starting out of the governance and public policy (''Staatswissenschaften'') approach and the German [[Historical school of economics]]; this view is represented in the ''Elgar Companion to Law and Economics'' (2nd ed. 2005) and—though not exclusively—in the ''European Journal of Law and Economics''. Here, consciously non-neoclassical approaches to economics are used for the analysis of legal (and administrative/governance) problems.
+
+==Origin and history==
+As early as in the 18th century, [[Adam Smith]] discussed the economic effect of [[mercantilist]] legislation.  However, to apply economics to analyze the law regulating nonmarket activities is relatively new.  In 1961, [[Ronald Coase]] and [[Guido Calabresi]] independently from each other published two groundbreaking articles: &quot;The Problem of Social Cost&quot;&lt;ref&gt;{{cite journal |last=Coase |first=Ronald |authorlink= |coauthors= |year=1960 |month= |title=The Problem of Social Cost |journal=The Journal of Law and Economics |volume=3 |issue=1 |pages=1–44 |doi=10.1086/466560 |url= |accessdate= |quote= }} This issue was actually published in 1961.&lt;/ref&gt; and &quot;Some Thoughts on Risk Distribution and the Law of Torts&quot;.&lt;ref&gt;{{cite journal |last=Calabresi |first=Guido |authorlink= |coauthors= |year=1961 |month= |title=Some Thoughts on Risk Distribution and the Law of Torts |journal=[[Yale Law Journal]] |volume=70 |issue= 4|page=499 |id= |accessdate= |quote= |doi=10.2307/794261 |publisher=The Yale Law Journal Company, Inc. |jstor=794261 }}&lt;/ref&gt; This can be seen as the starting point for the modern school of law and economics.&lt;ref&gt;{{cite book |title=The Economics of Justice |last=Posner |first=Richard |authorlink= |coauthors= |year=1983 |publisher=Harvard University Press |location=Cambridge |isbn=0-674-23525-8 |page=4 |url= }}&lt;/ref&gt;
+
+In the early 1970s, [[Henry Manne]] (a former student of Coase) set out to build a Center for Law and Economics at a major [[law school]]. He began at Rochester, worked at Miami, but was soon made unwelcome, moved to Emory, and ended at George Mason. The latter soon became a center for the education of judges—many long out of law school and never exposed to numbers and economics. Manne also attracted the support of the [[John M. Olin Foundation]], whose support accelerated the movement. Today, Olin centers (or programs) for Law and Economics exist at many universities.
+
+==Positive and normative law and economics==
+Economic analysis of law is usually divided into two subfields, positive and normative.
+
+===Positive law and economics===
+''Positive law and economics'' uses economic analysis to predict the effects of various legal rules.  So, for example, a positive economic analysis of [[tort law]] would predict the effects of a [[strict liability]] rule as opposed to the effects of a [[negligence]] rule.  Positive law and economics has also at times purported to explain the development of legal rules, for example the [[common law]] of torts, in terms of their economic efficiency.
+
+===Normative law and economics===
+''Normative law and economics'' goes one step further and makes policy recommendations based on the economic consequences of various policies.  The key concept for normative economic analysis is [[efficiency (economics)|efficiency]], in particular, [[allocative efficiency]].
+
+A common concept of efficiency used by law and economics scholars is [[Pareto efficiency]]. A legal rule is Pareto efficient if it could not be changed so as to make one person better off without making another person worse off.  A weaker conception of efficiency is [[Kaldor-Hicks efficiency]].  A legal rule is Kaldor-Hicks efficient if it could be made Pareto efficient by some parties compensating others as to offset their loss.
+
+==Important scholars==
+Important figures include the [[Nobel Prize]] winning economists [[Ronald Coase]] and [[Gary Becker]], [[U.S. Court of Appeals for the Seventh Circuit]] judges [[Frank Easterbrook]] and [[Richard Posner]], [[Andrei Shleifer]] and other distinguished scholars such as [[Robert Cooter]], [[Henry Manne]], [[William Landes]], and [[A. Mitchell Polinsky]].  [[Guido Calabresi]], judge for the [[U.S. Court of Appeals for the Second Circuit]], author of the 1970 book, ''[[The Costs of Accidents: A Legal and Economic Analysis]]'', wrote in depth on this subject, with ''Costs of Accidents'' being cited as influential in its extensive treatment of the proper incentives and compensation required in accident situations.&lt;ref name=&quot;Litan000&quot;&gt;{{cite book
+| title     = Liability: Perspectives and Policy
+| first     = Robert
+| last      = Litan
+| publisher = Brookings Institution Press
+| year      = 1988
+| isbn        = 0-8157-5271-7
+}}&lt;/ref&gt;
+Calabresi took a different approach in his 1985 book, ''Ideals, Beliefs, Attitudes, and the Law'', where he argued, &quot;who is the cheapest avoider of a cost, depends on the valuations put on acts, activities and beliefs by the whole of our law and not on some objective or scientific notion (69).&quot;
+
+==Influence==
+In the United States, economic analysis of law has been extremely influential.  Judicial opinions utilize economic analysis and the theories of law and economics with some regularity.  The influence of law and economics has also been felt in legal education.  Many law schools in North America, Europe, and Asia have faculty members with a graduate degree in economics.  In addition, many professional economists now study and write on the relationship between economics and legal doctrines.  Anthony Kronman, former dean of Yale Law School, has written that &quot;the intellectual movement that has had the greatest influence on American academic law in the past quarter-century [of the 20th Century]&quot; is law and economics.&lt;ref&gt;Anthony T. Kronman, The Lost Lawyer 166 (1993).&lt;/ref&gt;
+
+==Criticisms==
+&lt;!-- TODO: Dreftymac 2007-08-08 (ON THE RELEVANCE OF ECONOMIC EFFICIENCY CONCLUSIONS) --&gt;
+Despite its influence, the law and economics movement has been criticized from a number of directions.  This is especially true of normative law and economics.  Because most law and economics scholarship operates within a neoclassical framework, fundamental [[criticisms of neoclassical economics]] have been drawn from other, competing frameworks and applied to the work of law and economics.
+
+=== Rational choice theory ===
+Critics of the law and economics movements have argued that normative economic analysis does not capture the importance of [[human rights]] and concerns for [[distributive justice]]. Some of the heaviest criticisms of the &quot;classical&quot; law and economics come from the [[critical legal studies]] movement, in particular [[Duncan Kennedy (legal philosopher)|Duncan Kennedy]][http://www.duncankennedy.net/topics/law_economics.html] and [[Mark Kelman]].
+
+=== Pareto efficiency ===
+
+Relatedly, additional critique has been directed toward the assumed benefits of law and policy designed to increase [[allocative efficiency]] when such assumptions are modeled on &quot;first-best&quot; ([[Pareto optimal]]) general-equilibrium conditions. Under the [[theory of the second best]], for example, if the fulfillment of a subset of optimal conditions cannot be met under any circumstances, it is incorrect to conclude that the fulfillment of ''any'' subset of optimal conditions will necessarily result in an increase in allocative efficiency.&lt;ref name=&quot;Markovits000&quot;&gt;{{cite book
+| title     = Second-Best Theory and Law &amp; Economics: An Introduction
+| first     = Richard
+| last      = Markovits
+| publisher = Chicago-Kent Law Review
+| year      = Vol. 73, 1998
+}}&lt;/ref&gt;
+
+Consequently, any expression of public policy whose purported purpose is an unambiguous increase in allocative efficiency (for example, consolidation of [[research and development]] costs through increased [[mergers and acquisitions]] resulting from a systematic relaxation of anti-trust laws) is, according to critics, fundamentally incorrect, as there is no general reason to conclude that an increase in allocative efficiency is more likely than a decrease.
+
+Essentially, the &quot;first-best&quot; neoclassical analysis fails to properly account for various kinds of general-equilibrium feedback relationships that result from intrinsic Pareto imperfections.&lt;ref name=&quot;Markovits000&quot; /&gt;
+
+Another critique comes from the fact that there is no unique optimal result.  Warren Samuels in his 2007 book, ''The Legal-Economic Nexus'', argues, &quot;efficiency in the Pareto sense cannot dispositively be applied to the definition and assignment of rights themselves, because efficiency requires an antecedent determination of the rights (23-4).&quot;
+
+=== Responses ===
+
+Law and economics has adapted to some of these criticisms (see &quot;contemporary developments,&quot; below).  One critic, [http://www.law.harvard.edu/faculty/directory/index.html?id=25 Jon D. Hanson] of [[Harvard Law School]], argues that our legal, economic, political, and social systems are unduly influenced by an individualistic model that assumes &quot;dispositionism&quot;—the idea that outcomes are the result of our &quot;dispositions&quot; (economists would say &quot;preferences&quot;).  Instead, Hanson argues, we should look to the [http://thesituationist.wordpress.com/about-situationism/ &quot;situation&quot;], both inside of us (including cognitive biases) and outside of us (family, community, social norms, and other environmental factors) that have a much larger impact on our actions than mere &quot;choice.&quot;  Hanson has written many [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=938005#PaperDownload law review articles] on the subject and has books forthcoming.
+
+==Contemporary developments==
+Law and economics has developed in a variety of directions.  One important trend has been the application of [[game theory]] to legal problems. Other developments have been the incorporation of [[behavioral economics]] into economic analysis of law, and the increasing use of [[statistical]] and [[econometrics]] techniques.  Within the legal academy, the term [[socio-economics]] has been applied to economic approaches that are self-consciously broader than the [[Neoclassical economics|neoclassical]] tradition.
+
+== Universities with law and economics programs ==
+Almost every major American law school, and most leading economics departments, offer courses in law and economics and has faculty working in the field.
+
+Two of the leading law schools focusing on Law and Economics are the [[University of Chicago Law School]], whose faculty includes Judge [[Richard A. Posner]], [[Ronald Coase]] and [[Gary Becker]], and the [[George Mason University School of Law]], whose faculty used to include Nobel laureate [[Vernon L. Smith|Vernon Smith]] (though Smith and his team have since moved to [[Chapman University]]), and perennial Nobel finalist [[Gordon Tullock]]. In the spring of 2006, [[Vanderbilt University Law School]] announced the creation of a new program to award a Ph.D. in Law &amp; Economics. A ranking of law and economics Ph.D. programs was published in the ''[[Southern Economics Journal]]'' in 2008, and also includes among the top 10 programs (based on publications in the field) the economics departments at [[UC Berkeley]], [[Harvard University]], [[University of Connecticut]], [[UC San Diego]], [[Princeton University]], [[MIT]], [[University of Wisconsin - Madison]], [[Florida State University]], [[Central Michigan University]], and [[the University of Michigan]].&lt;ref&gt;{{cite web|url=http://www.thefreelibrary.com/A+guide+to+graduate+study+in+economics:+ranking+economics+departments...-a0179073418 |title=A guide to graduate study in economics: ranking economics departments by fields of expertise. - Free Online Library |publisher=Thefreelibrary.com |date=2008-04-01 |accessdate=2012-02-05}}&lt;/ref&gt;
+
+In Europe, a consortium of universities from ten different countries is running the European Master Program in Law and Economics, also known as [[EMLE]], which is a European program in the field since 1990. This programme offers the unique opportunity for interdisciplinary studies of law and economics at two or even three European and Non-European universities. Each partner university awards a Master degree (LL.M. / M.A. / M.Sc.). The programme also provides students with an advanced understanding of the economic effects of divergent laws and prepares students for a professional career, for example, in public organisations, in multinational law firms or consultancy firms. Graduates are also well prepared for doctorate research in a PhD programme such as the European Doctorate in Law and Economics (EDLE), which is operated by three European centers in Law and Economics. http://www.edle-phd.eu] 
+
+The [[University of Toronto]]'s [[University of Toronto Faculty of Law|Faculty of Law]] offers a combined J.D./M.A. Economics, as well as a J.D./Ph.D. Economics.
+
+In 2009 the [[University of Copenhagen]] and the [[Copenhagen Business School]] established an interdisciplinary elite master program in International Law, Economics and Management that is jointly offered by both institutions. The program is not only a Copenhagen Master of Excellence, but also one of only twelve elite programs in Denmark and attracting students from all over Europe.
+
+Since 2009 there has been created a new PhD program in Law and Economics of Finance and Money from Goethe University in Frankfurt am Main/Germany. The program is entirely created for the purpose of research in fields such as regulation of Financial Institutions and Market Regulation. The program is thought to be finished within four years and is entirely taught in English.
+
+The Collegio Carlo Alberto in Turin, Italy hosts an International Ph.D. Program in Institutions, Economics and Law within the [[Centre for the Comparative Analysis of Law and Economics, Economics of Law, Economics of Institutions]]. Members of the teaching staff come from various academic institutes in Europe and the United States. A separate Doctoral Program in Law and Economics is currently run by the School of Economics at the [[University of Siena]]. Also in Italy, the International University College of Turin, with students and faculty from worldwide, runs a biennial Master of Sciences in Comparative Law, Economics and Finance, which challenges mainstream views on the subject.
+
+[[Central European University]] in Budapest, Hungary offers both an MA and LLM in Law and Economics. The program is offered in both the university's Economics Department, as well as in its Legal Studies Department. This program is registered in the United States by the Commission on Higher Education of the Middle States Association of Colleges and Schools.
+
+Switzerland's [[University of St. Gallen]] has a Law and Economics Program on both the undergraduate (Bachelor of Arts in Law and Economics) and graduate levels (Master of Arts in Law and Economics). The graduate program was initiated in October 2005 at the first international scientific conference on Law and Economics by the President of the University, Ernst Mohr and the St. Gallen Professor and leading business lawyer Peter Nobel. The Law and Economics Program is supported by an International Academic Council lead by leading experts in the field of law and economics, such as [[Richard A. Posner]], Ronald J. Gilson, Victor Goldberg or Geoffrey P. Miller.
+
+Operating outside this particular framework, [[Utrecht University]] offers students the possibility to major in law and economics as part of their undergraduate studies, or to specialize in law and economics in a one-year post-graduate programme.
+
+[[University of Economics, Prague]], specifically the Department of Institutional Economics at the Faculty of Economics and Public Administration, offers Law and Economics as a possible specialization for graduate students, while a complete graduate program is being prepared.
+
+The [[University of Leicester]] runs a degree program called &quot;Economics and Law&quot;, with various modules taught in the specific area.The University of Cambridge offers the option of a 'Law and Economics' paper within the [[Land Economy]] [[Tripos]].[http://www.landecon.cam.ac.uk/] The University of Manchester Law School, [[Nottingham University Business School]] and City University Law School, London have undergraduate courses in Law and Economics. University College London offers undergraduate courses in Law and Economics in its Economics Faculty and post-graduate courses in its Law Faculty.
+
+The Centre for Economic Studies and Planning, [[Jawaharlal Nehru University]], was the first to introduce a Post-graduate Optional course in Law and Economics in India. In the past few years Law and economics has also become one of the major research areas at the centre. The Delhi School of Economics also offers law and economics courses at the post graduate level. The National University of Juridical Sciences (NUJS) offers two courses in Law and Economics to its undergraduate students, as does [[NALSAR University of Law]]. A Post-graduate Optional Course is now offered in [[University of Hyderabad]] by the Department of Economics, School of Social Sciences.
+
+[[Bilkent University Faculty of Law]] in [[Turkey]] has also launched a graduate degree program on September 2010, titled &quot;Law and Economics&quot;. The program runs for one year, containing courses and seminars on conventional economic analyses of law, along with the application of these analyses on the energy and telecommunication sectors of Turkey. Seminars and courses are taught in both Turkish and English.
+
+In the [[National University of Singapore]], a Double Honours Programme in Law and Economics was launched in 2005, whereby students complete two Bachelors' degrees in five years. Similarly, the [[Singapore Management University]] offers a Double Degree Programme in Law and Economics whereby students graduate with Bachelor's degrees in both subjects.&lt;ref&gt;[http://www.law.smu.edu.sg/blaw/DoubleDP.asp]&lt;/ref&gt; Economic Analysis of Law is also offered as a module for students in the School of Law at [[Singapore Management University]].&lt;ref&gt;[http://www.law.smu.edu.sg/blaw/corecourses_description.asp#economic]&lt;/ref&gt; 
+
+The [[University of Bonn]] has recently founded a Center for the Advanced Studies of Law and Economics (CASTLE).
+
+The International Max Planck Research School for Competition and Innovation is a PhD program offered jointly by the Max Planck Institute for Intellectual Property and Competition Law and the Ludwig Maximilians University in Munich (Germany). The program selects outstanding candidates from the fields of law and economics to produce doctoral research in the area of the law and economics of intellectual property and competition law.&lt;ref&gt;{{cite web|url=http://www.ip.mpg.de/ww/de/pub/mikroseiten/imprs_ci/home.cfm;target=mainFrame |title=Max-Planck-Institut für Immaterialgüter- und Wettbewerbsrecht- Aktuelles |publisher=Ip.mpg.de |date= |accessdate=2012-02-05}}&lt;/ref&gt;
+
+[[China University of Political Science and Law]] provides a Master/PhD program of Law and Economics. Its  Center for Law and Economics, which was established in 2005, hold lectures and exchange activities regularly.
+
+The [[University of Reading]] has launched a new LLM/MSc in Law and Economics providing a critical approach to the interrelation between the two disciplines. The programme shall enable law students to understand the economic effects of legal rules and economics students to understand the institutional legal framework of market economies.
+
+==See also==
+{{MultiCol}}
+*[[Competition policy]]
+*[[Contract theory]]
+*[[Constitutionalism]]
+*[[Constitutional economics]]
+*[[Economic imperialism (economics)]]
+{{ColBreak}}
+*[[Economics]]
+*[[Islamic economical jurisprudence]]
+*[[Legal origins theory]]
+*[[Legal theory]]
+*[[New institutional economics]]
+ {{ColBreak}}
+*[[Political economy]]
+*[[Property rights (economics)]]
+*[[Public choice theory]]
+{{EndMultiCol}}
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+*[[Boudewijn Bouckaert|Bouckaert, Boudewijn]], and [[Gerrit De Geest]], eds. (2000). ''Encyclopedia of Law and Economics'' (Edward Elgar,  [http://allserv.rug.ac.be/~gdegeest/ Online version.]
+*[[Ronald Coase|Coase, Ronald]] (1990). ''The Firm, The Market, and the Law'' (Chicago: University of Chicago Press, reprint ed. ISBN 0-226-11101-6.
+*[[Robert Cooter|Cooter, Robert]] and Thomas Ulen (2007). ''Law and Economics'' (Addison Wesley Longman, 5th edition. ISBN 0-321-33634-8
+* [[David D. Friedman|Friedman, David]] (1987). &quot;law and economics,&quot; ''[[The New Palgrave: A Dictionary of Economics]]'', v. 3, pp.&amp;nbsp;144–48.
+* _____ (2000). ''Law's Order''. Princeton. Chapter-preview  [http://www.daviddfriedman.com/laws_order/index.shtml links.]
+*[[Nicholas L. Georgakopoulos|Georgakopoulos, Nicholas L.]] (2005). ''Principles and Methods of Law and Economics: Basic Tools for Normative Reasoning'' (Cambridge University Press, ISBN 0-521-82681-0).
+* [[Duncan Kennedy (legal philosopher)|Kennedy, Duncan]] (1998). &quot;Law-and-Economics from the Perspective of Critical Legal Studies&quot; (from ''The New Palgrave Dictionary of Economics and the Law''  [http://www.duncankennedy.net/documents/Law%20and%20Economics%20from%20the%20Perspective%20of%20cls.pdf PDF]
+* Kornhauser, Lewis (2006). [http://plato.stanford.edu/entries/legal-econanalysis/ &quot;The Economic Analysis of Law,&quot;] ''Stanford Encyclopedia of Philosophy''.
+*{{cite book |authorlink=Ernst-Joachim Mestmäcker |last=Mestmäcker |first=Ernst-Joachim |title=A Legal Theory without Law: Posner v. Hayek on Economic Analysis of Law |location=Tübingen |publisher=Mohr |year=2007 |isbn=978-3-16-149276-1 }}
+* Polinsky, A. Mitchell,  and Steven Shavell (2008). &quot;law, economic analysis of,&quot; ''[[The New Palgrave Dictionary of Economics]]'',  2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_L000038&amp;q=Law&amp;topicid=&amp;result_number=4 Abstract] and [http://www.law.harvard.edu/faculty/shavell/pdf/125_econ_analysis.pdf pre-publication copy].
+*[[Richard Posner|Posner, Richard A.]] (2007). ''Economic Analysis of Law'' (Aspen, 7th edition).   ISBN 978-0-7355-6354-4.
+* _____ (2006). &quot;A Review of Steven Shavell's ''Foundations of Economic Analysis of Law'',&quot;  ''Journal of Economic Literature'', 44(2),  pp. [http://epserv.unila.ac.id/jurnal/BAhan/Jurnal%20Of%20Economic%20lietratur/Content/2006/jun/articles/jun06_posner.pdf 405-414] (press '''+''').
+* Shavell, Steven (2004).  ''Foundations of Economic Analysis of Law''. Harvard University Press. [http://www.hup.harvard.edu/catalog.php?isbn=9780674011557 Description] and scroll to chapter-preview [http://books.google.com/books?id=iYkXhyFhT5cC&amp;dq=%22Foundations+of+Economic+Analysis+of+Law%22&amp;printsec=frontcover&amp;source=bn&amp;hl=en&amp;ei=RnrsS4LeIYH6lwe_r421CA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CCEQ6AEwAw#v=onepage&amp;q&amp;f=false links.]
+* Robé, Jean-Philippe, The Legal Structure of the Firm, Accounting, Economics, and Law: Vol. 1 : Iss. 1, Article 5, Available at: http://www.bepress.com/ael/vol1/iss1/5 (2011).
+{{law}}
+{{economics}}
+
+[[Category:Law and economics|*]]
+[[Category:Philosophy of law]]
+
+[[bg:Право и икономика]]
+[[da:Retsøkonomi]]
+[[de:Ökonomische Analyse des Rechts]]
+[[es:Análisis económico del Derecho]]
+[[fr:Analyse économique du droit]]
+[[ko:법경제학]]
+[[id:Hukum dan ekonomi]]
+[[it:Analisi economica del diritto]]
+[[he:ניתוח כלכלי של המשפט]]
+[[ja:法と経済学]]
+[[no:Rettsøkonomi]]
+[[pl:Ekonomiczna analiza prawa]]
+[[pt:Análise econômica do direito]]
+[[fi:Oikeustaloustiede]]
+[[sv:Rättsekonomi]]
+[[zh:法律经济学]]</text>
+      <sha1>9tpr79fuqghf082mpuc9sp8d3853skd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

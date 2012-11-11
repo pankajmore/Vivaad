@@ -1,0 +1,76 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Totemism</title>
+    <ns>1</ns>
+    <id>964156</id>
+    <revision>
+      <id>494672930</id>
+      <parentid>419860861</parentid>
+      <timestamp>2012-05-27T20:41:21Z</timestamp>
+      <contributor>
+        <username>John Carter</username>
+        <id>3358555</id>
+      </contributor>
+      <minor/>
+      <comment>Start class for Religion</comment>
+      <text xml:space="preserve" bytes="2152">{{WikiProject Religion|class=Start|importance=Top|attention=yes}}
+
+Someone should remove the space in &quot;e. g.&quot; and &quot;i. e.&quot; everywhere on this page, since it  1) causes bad line breaking, and 2) just looks weird.  [[User:Daniel Brockman|Daniel Brockman]] 23:19, Sep 6, 2004 (UTC)
+: OR....you could do it yourself.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/174.126.208.14|174.126.208.14]] ([[User talk:174.126.208.14|talk]]) 21:14, 20 March 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Paragraph duplicated in another page ==
+
+The last paragraph is a repeat from the Exogamy page, and should be removed.
+
+== Catholic Encyclopedia ==
+
+Isn't this from the Catholic Encyclopedia?
+
+:Yes it is. And it's really impossible to NPOV that stuff, so I was bold and simply removed it and hope for a good rewrite of that article. --[[User:ContiE|Conti]]|[[User talk:ContiE|&amp;#9993;]] 00:25, Jan 29, 2005 (UTC)
+
+==[[totem]], [[totemism]], [[totem pole]]==
+I'm having a hard time relating the ideas in these three articles. They seem to be describing three completely different concepts. If they're really unrelated, that should be explained. If they are in fact related, then there's something wrong with the articles. The totemism article says the word comes from an Ojibwe word, but the totem article seems to imply that it's from Chinese. Or is the Chinese word totim actually derived from the English word totem? I think this should be clarified. --[[User:Bcrowell|Bcrowell]] 15:51, 19 Jun 2005 (UTC)
+
+==Wikification==
+Going to come back later today to complete wikifing the article. [[User:OSborn|OSborn]]&lt;sup&gt; [[User_talk:OSborn|arf]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/OSborn|contribs.]]&lt;/sub&gt; 17:16, 2 February 2011 (UTC)
+:Pretty much done, I've linked all the stuff I could. Seems a tad short on links to me but I didn't find that many cases where a link we be helpful or was available. [[User:OSborn|OSborn]]&lt;sup&gt; [[User_talk:OSborn|arf]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/OSborn|contribs.]]&lt;/sub&gt; 19:08, 2 February 2011 (UTC)</text>
+      <sha1>rgda2kzf3gp156hevn926l83y1nwf9u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

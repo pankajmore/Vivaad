@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Complementary good</title>
+    <ns>0</ns>
+    <id>591492</id>
+    <revision>
+      <id>521807709</id>
+      <parentid>513698874</parentid>
+      <timestamp>2012-11-07T10:57:42Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>Remove unicode control characters (CHECKWIKI error 16) +general fixes using [[Project:AWB|AWB]] (8535)</comment>
+      <text xml:space="preserve" bytes="5003">{{Cleanup|date=February 2009}}
+[[File:Cross elasticity of demand complements.svg|thumb|Complementary goods exhibit a negative [[cross elasticity of demand]]: as the price of good Y rises, the demand for good X falls.]]
+
+In [[economics]], a '''complementary good''' is a [[Good (economics)|good]] with a negative [[cross elasticity of demand]], in contrast to a [[substitute good]].&lt;ref&gt;{{cite book| last = Sullivan | first = arthur| authorlink = Arthur O' Sullivan| coauthors = Steven M. Sheffrin| title = Economics: Principles in action| publisher = Pearson Prentice Hall| year = 2003  | location = Upper Saddle River, New Jersey 07458| pages = 88| isbn = 0-13-063085-3}}&lt;/ref&gt; This means a good's demand is increased when the price of another good is decreased. Conversely, the demand for a good is decreased when the price of another good is increased.&lt;ref&gt;{{cite book|last=Carbaugh|first=Robert|title=Contemporary Economics: An Applications Approach|publisher'''=Cengage '''Learning|year=2006|isbn=978-0-324-31461-8|pages=35}}&lt;/ref&gt; If goods A and B are complements, an increase''' in the price of''' A will result in a leftward movement along the demand curve of A and cause the demand curve for B to [[Demand curve#Changes that decrease demand|shift in]]; less of each good will be demanded. 
+A decrease in price of A will result in a rightward movement along the demand curve of A and cause the demand curve B to [[Demand curve#Changes that increase demand|shift outward]]; more of each good will be demanded.
+
+==Examples==
+demanded will be at D2 with a new price P2.
+
+Other examples include:
+*Peanut butter and jelly
+*Printers and ink cartridges
+*DVD players and DVDs
+*Computer hardware and computer software
+*Left footed and right footed shoes
+*torchlight and battery
+*car and fuel
+
+==Perfect complement==
+[[File:Indifference-curves-perfect-complements.svg|thumb|[[Indifference curve]] for perfect complements]]
+A '''perfect complement''' is a good that ''has'' to be consumed with another good. The [[indifference curve]] of a perfect complement will exhibit a right angle, as illustrated by the figure at the right.&lt;ref&gt;{{cite book|last=Mankiw|first=Gregory|title=Principle of Economics|publisher=Cengage Learning|year= 2008|ISBN=978-0-324-58997-9|pages=463–464}}&lt;/ref&gt; Few goods in the real world will behave as perfect complements.&lt;ref&gt;Mankiw, 2008.&lt;/ref&gt; One example is a left shoe and a right; shoes are naturally sold in pairs, and the ratio between sales of left and right shoes will never shift noticeably from 1:1 - even if, for example, someone is missing a leg and buys just one shoe.
+
+The degree of complementarity, however, does not have to be mutual; it can be measured by [[Cross elasticity of demand|cross price elasticity of demand]]. In the case of video games, a specific video game (the complement good) has to be consumed with a video game console (the base good). It does not work the other way: a video game console does not have to be consumed with that game.
+
+===Example===
+A classic example of mutually perfect complements is the case of pencils and erasers. Imagine an [[accountant]] who will need to prepare financial statements, but in doing so he or she must use pencils to make all calculations and an eraser to correct errors. The accountant knows that for every 3 pencils, 1 eraser will be needed. Any more pencils will serve no purpose, because he or she will not be able to erase the calculations. Any more erasers will not be useful either, because there will not be enough pencils for him or her to make a large enough mess with in order to require more erasers.
+
+In this case the [[utility]] would be given by an increasing function of:
+: min (number of pencils, 3 × number of erasers)
+
+In [[marketing]], complementary goods give additional [[market power]] to the company. It allows [[vendor lock-in]] as it increases the [[switching cost]]. A few types of [[pricing strategy]] exist for complementary good and its base good:
+
+*Pricing the base good at a relatively low price to the complementary good - this approach allows easy entry by consumers (e.g. consumer printer vs ink jet cartridge)
+*Pricing the base good at a relatively high price to the complementary good - this approach creates a barrier to entry and exit (e.g. golf club membership vs green fees)
+
+== References ==
+{{Reflist}}
+
+{{Goodtypes}}
+
+[[Category:Goods]]
+[[Category:Consumer theory]]
+
+[[cs:Komplement (mikroekonomie)]]
+[[de:Komplementärgut]]
+[[es:Bien complementario]]
+[[ko:보완재]]
+[[ka:შემავსებელი საქონელი]]
+[[lt:Komplementarūs produktai]]
+[[nl:Complementair goed]]
+[[ja:補完財]]
+[[no:Komplementære varer]]
+[[pl:Dobra komplementarne]]
+[[pt:Bem complementar]]
+[[ru:Комплементарные блага]]
+[[simple:Complementary good]]
+[[ta:இணைப்புப் பண்டம்]]
+[[th:สินค้าใช้ร่วมกัน]]
+[[uk:Комплементарність (економіка)]]
+[[zh:互补品]]</text>
+      <sha1>qjqehvroujbi2aaqibhejnqopur5fmo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

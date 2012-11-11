@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Menu cost</title>
+    <ns>0</ns>
+    <id>2005532</id>
+    <revision>
+      <id>522253258</id>
+      <parentid>517384700</parentid>
+      <timestamp>2012-11-09T23:35:00Z</timestamp>
+      <contributor>
+        <ip>109.156.233.47</ip>
+      </contributor>
+      <comment>/* See also */ added bounded rationality</comment>
+      <text xml:space="preserve" bytes="6340">In [[economics]], a '''menu cost''' is the cost to a [[Theory of the firm|firm]] resulting from changing its prices.  The name stems from the cost of restaurants literally printing new [[menu]]s, but economists use it to refer to the costs of changing [[nominal price]]s in general.  In this broader definition, menu costs might include updating computer systems, re-tagging items, and hiring consultants to develop new pricing strategies as well as the literal costs of printing menus. More generally, the menu cost can be thought of as resulting from costs of information, decision and implementation resulting in [[bounded rationality]]. Because of this expense, firms sometimes do not always change their prices with every change in [[supply and demand]], leading to [[price stickiness]].
+
+Generally, the effect on the firm of small shifts in price (by changes in [[Supply (economics)|supply]] and/or [[Demand (economics)|demand]], or else because of slight adjustments in [[monetary policy]]) are relatively minor compared to the costs of notifying the public of this new information. Therefore, the firm would rather exist in slight [[wikt:disequilibrium|disequilbrium]] than incur the menu costs.
+
+==History==
+The concept of a lump-sum cost (menu cost) to changing the price was originally introduced by Sheshinski and Weiss (1977) in their paper looking at the effect of inflation on the frequency of price-changes.&lt;ref&gt;Sheshinski, Eytan &amp; Weiss, Yoram, 1977. &quot;Inflation and Costs of Price Adjustment,&quot; Review of Economic Studies, Wiley Blackwell, vol. 44(2), pages 287-303, June&lt;/ref&gt; The idea of applying it as a general theory of [[Nominal rigidity|Nominal Price Rigidity]] was simultaneously put forward by several [[:Category:New Keynesian economists|New Keynesian economists]] in 1985-6. [[George Akerlof]] and [[Janet Yellen]] put forward the idea that due to [[bounded rationality]] firms will not want to change their price unless the benefit is more than a small amount.&lt;ref&gt;Akerlof, George A &amp; Yellen, Janet L, 1985. &quot;Can Small Deviations from Rationality Make Significant Differences to Economic Equilibria?,&quot; American Economic Review, American Economic Association, vol. 75(4), pages 708-20, September&lt;/ref&gt;&lt;ref&gt;Akerlof, George A &amp; Yellen, Janet L, 1985. &quot;A Near-rational Model of the Business Cycle, with Wage and Price Intertia,&quot; The Quarterly Journal of Economics, MIT Press, vol. 100(5), pages 823-38, Supp&lt;/ref&gt; This [[bounded rationality]] leads to inertia in nominal prices and wages which can lead to output fluctuating at constant nominal prices and wages. [[Gregory Mankiw]] took the menu-cost idea and focussed on the [[welfare]] effects of changes in output resulting from [[sticky prices]].&lt;ref&gt;Mankiw, N Gregory, 1985. &quot;Small Menu Costs and Large Business Cycles: A Macroeconomic Model,&quot; The Quarterly Journal of Economics, MIT Press, vol. 100(2), pages 529-38, May&lt;/ref&gt; Michael Parkin also put forward the idea.&lt;ref&gt;Michael Parkin(1986), The Output-Inflation Trade-off When Prices Are Costly to Change, Journal of Political Economy , Vol. 94, No. 1 (Feb., 1986), pp. 200-224&lt;/ref&gt; The menu cost idea was also extended to wages as well as prices by [[Olivier Blanchard]] and [[Nobuhiro Kiyotaki]].&lt;ref&gt;Blanchard, O.and Kiyotaki, N., 1987. 'Monopolistic competition and the effects of aggregate demand', American Economic Review, 77, 647-66&lt;/ref&gt;
+   
+The [[new Keynesian]] explanation of price stickiness relied on introducing [[imperfect competition]] with price (and wage) setting agents.&lt;ref&gt;[[Huw Dixon]] [http://huwdixon.org/SurfingEconomics/chapter4.pdf (1995), The Role of imperfect competition in new Keynesian economics], [http://huwdixon.org/SurfingEconomics/index.html Surfing Economics] chapter 4&lt;/ref&gt; This started a shift in [[macroeconomics]] away from using the model of [[perfect competition]] with price taking agents to using imperfectly competitive equilibria with price and wage setting agents (mostly adopting [[monopolistic competition]]). [[Huw Dixon]] and Claus Hansen &lt;ref&gt;[[Huw Dixon]] and Claus Hansen, [http://ideas.repec.org/a/eee/eecrev/v43y1999i8p1475-1499.html A mixed industrial structure magnifies the importance of menu costs], European Economic Review, 1999, pages 1475-1499.&lt;/ref&gt; showed that even if menu costs applied to a small sector of the economy, this would influence the rest of the economy and lead to prices in the rest of the economy becoming less responsive to changes in demand.
+
+==Deeper analysis==
+[[Image:menu cost.jpg|}Menu cost graph|right|409px]]
+Consider a hypothetical firm in a hypothetical economy, with a [[concave function|concave]] graph describing the relationship between the [[price]] of its good and the firm's corresponding [[Profit (economics)|profit]]. As always, the profit maximizing point lies at the very top for the curve.
+
+Now suppose that there exists a drop in aggregate output. While this causes [[real wages]] to fall (shifting the profit curve upward, allowing more profit for the same price), it also diminishes demand for the firm's product (shifting the curve down). Suppose the net effect is a downward shift (as it usually is).
+
+The result is a maximum profit associated with a lower price (the max profit shifts to the left a bit, as a result of the profit curve moving). Suppose the old price (and thus the old maximizing profit price) was M and the new maximizing price is N. Also suppose the new maximum profit is B and new profit corresponding to the old price is A. Thus price M yields A in profit and price N yields B in profit.
+
+Now suppose there is a menu cost, Z, in changing from price M to price N. Because the firm must pay Z to make this change, they will only pay it if Z &lt; B-A. Thus tiny fluctuations in the economy leads to small differences in B and A so firms do not change their price, even if Z is small.
+
+Note that if Z is zero, then prices will change all the time, allowing for firms to squeeze out every bit of profit from every change in the economy.
+
+==See also==
+*[[New Keynesian economics]]
+*[[Bounded rationality]]
+*[[Sticky (economics)]]
+*[[Shoe leather cost]]
+*[[Inflation]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Menu Cost}}
+[[Category:Business terms]]
+[[Category:Pricing]]
+[[Category:New Keynesian economics]]
+
+[[de:Speisekarteneffekt]]
+[[vi:Giả thuyết chi phí thực đơn]]</text>
+      <sha1>sdz0smc1jkbm9637oi29fy30z6rry4d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

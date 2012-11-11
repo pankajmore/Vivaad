@@ -1,0 +1,331 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Forecasting</title>
+    <ns>0</ns>
+    <id>246074</id>
+    <revision>
+      <id>519725225</id>
+      <parentid>519395725</parentid>
+      <timestamp>2012-10-25T09:02:06Z</timestamp>
+      <contributor>
+        <username>SteenthIWbot</username>
+        <id>17310692</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.2+) (Robot: Adding [[es:Pronóstico (Estadística)]]</comment>
+      <text xml:space="preserve" bytes="20126">{{Other uses|Forecast (disambiguation)}}
+'''Forecasting''' is the process of making statements about events whose actual outcomes (typically) have not yet been observed. A commonplace example might be [[Approximation|estimation]] of some variable of interest at some specified future date.  [[Prediction]] is a similar, but more general term. Both might refer to formal statistical methods employing [[time series]], [[cross-sectional data|cross-sectional]] or [[longitudinal study|longitudinal]] data, or alternatively to less formal judgemental methods.  Usage can differ between areas of application: for example, in [[hydrology]], the terms &quot;forecast&quot; and &quot;forecasting&quot; are sometimes reserved for estimates of values at certain specific [[future]] times, while the term &quot;prediction&quot; is used for more general estimates, such as the number of times floods will occur over a long period. 
+
+[[Risk]] and [[uncertainty]] are central to forecasting and prediction; it is generally considered good practice to indicate the degree of uncertainty attaching to forecasts. In any case, the data must be up to date in order for the forecast to be as accurate as possible.&lt;ref&gt;{{cite web|url=http://qbox.wharton.upenn.edu/documents/mktg/research/FAQ.pdf| title = Answers to Frequently Asked Questions| author = Scott Armstrong, Fred Collopy, Andreas Graefe and Kesten C. Green| year = 2010 (last updated)}}&lt;/ref&gt;
+
+Although quantitative analysis can be very precise, it is not always appropriate. Some experts in the field of forecasting have advised against the use of mean square error to compare forecasting methods.&lt;ref&gt;{{cite journal|url=http://marketing.wharton.upenn.edu/ideas/pdf/armstrong2/armstrong-errormeasures-empirical.pdf | title = Error Measures For Generalizing About Forecasting Methods: Empirical Comparisons | author = J. Scott Armstrong and Fred Collopy | journal = International Journal of Forecasting | volume = 8 | pages = 69–80 | year = 1992}}&lt;/ref&gt;
+
+==Categories of forecasting methods==
+===Qualitative vs. quantitative methods===
+
+Qualitative forecasting techniques are subjective, based on the opinion and judgment of consumers, experts; appropriate when past data is not available. 
+It is usually applied to intermediate-long range decisions. Examples of qualitative forecasting methods are:{{cn|date=May 2012}} informed opinion and judgment, the [[Delphi method]], [[market research]], historical life-cycle analogy.
+
+Quantitative forecasting models are used to estimate future demands as a function of past data; appropriate when past data are available. 
+The method is usually applied to short-intermediate range decisions. Examples of quantitative forecasting methods are:{{cn|date=May 2012}} last period demand, simple and weighted [[moving average]]s (N-Period), simple [[exponential smoothing]], multiplicative seasonal indexes.
+
+===Naïve approach===
+
+Naïve forecasts are the most cost-effective and efficient objective forecasting model, and provide a benchmark against which more sophisticated models can be compared.  For stable time series data, this approach says that the forecast for any period equals the previous period's actual value.
+
+=== Reference class forecasting ===
+
+[[Reference class forecasting]] was developed by Oxford professor Bent Flyvbjerg to eliminate or reduce bias in forecasting by focusing on distributional information about past, similar outcomes to that being forecasted.&lt;ref&gt;{{cite journal |last=Flyvbjerg |first=B. |year=2008 |url=http://www.sbs.ox.ac.uk/centres/bt/Documents/Curbing%20Optimism%20Bias%20and%20Strategic%20Misrepresentation.pdf |title=Curbing Optimism Bias and Strategic Misrepresentation in Planning: Reference Class Forecasting in Practice |journal=European Planning Studies |volume=16 |issue=1 |pages=3–21 |doi= }}&lt;/ref&gt; Daniel Kahneman, Nobel Prize winner in economics, calls Flyvbjerg's counsel to use reference class forecasting to de-bias forecasts, &quot;the single most important piece of advice regarding how to increase accuracy in forecasting.”&lt;ref&gt;Daniel Kahneman, 2011, Thinking, Fast and Slow (New York: Farrar, Straus and Giroux), p. 251&lt;/ref&gt;
+
+===Time series methods===
+
+[[Time series]] methods use historical data as the basis of estimating future outcomes.
+
+*[[Moving average]]
+*[[Weighted moving average]]
+*[[Kalman filtering]]
+*[[Exponential smoothing]]
+*[[Autoregressive moving average model|Autoregressive moving average (ARMA)]]
+*[[Autoregressive integrated moving average|Autoregressive integrated moving average (ARIMA)]]
+:e.g. [[Box-Jenkins]]
+*[[Extrapolation]]
+*[[Linear prediction]]
+*[[Trend estimation]]
+*[[Growth curve]]
+
+===Causal / econometric forecasting methods===
+
+Some forecasting methods use the assumption that it is possible to identify the underlying factors that might influence the variable that is being forecast.  For example, including information about weather conditions might improve the ability of a model to predict umbrella sales.  This is a model of seasonality which shows a regular pattern of up and down fluctuations. In addition to weather, seasonality can also be due to holidays and customs such as predicting that sales in college football apparel will be higher during football season as opposed to the off season.&lt;ref&gt;{{cite book|last=Nahmias|first=Steven|title=Production and Operations Analysis|year=2009}}&lt;/ref&gt;
+
+Casual forecasting methods are also subject to the discretion of the forecaster. There are several informal methods which do not have strict algorithms, but rather modest and unstructured guidance. One can forecast based on, for example, linear relationships. If one variable is linearly related to the other for a long enough period of time, it may be beneficial to predict such a relationship in the future. This is quite different from the aforementioned model of seasonality whose graph would more closely resemble a sine or cosine wave. The most important factor when performing this operation is using concrete and substantiated data. Forecasting off of another forecast produces inconclusive and possibly erroneous results.
+
+Such methods include:
+
+*[[Regression analysis]]  includes a large group of methods that can be used to predict future values of a variable using information about other variables.  These methods include both [[parametric]] (linear or non-linear) and [[non-parametric]] techniques.
+
+*[[ARMAX|Autoregressive moving average with exogenous inputs (ARMAX)]]&lt;ref&gt;{{cite book|last=Ellis|first=Kimberly|title=Production Planning and Inventory Control Virginia Tech|year=2008|publisher=McGraw Hill|isbn=978-0-390-87106-0}}&lt;/ref&gt;
+
+===Judgmental methods===
+
+Judgmental forecasting methods incorporate intuitive judgements, opinions and subjective [[probability]] estimates.
+
+*[[Composite forecasts]]
+*[[Delphi method]]
+*[[Forecast by analogy]]
+*[[Scenario building]]
+*[[Statistical survey]]s
+*[[Technology forecasting]]
+
+
+===Artificial intelligence methods===
+*[[Artificial neural networks]]
+*[[Group method of data handling]]
+*[[Support vector machine]]s
+
+Often these are done today by specialized programs loosely labeled
+*[[Data mining]]
+*[[Machine Learning]]
+*[[Pattern Recognition]]
+
+===Other methods===
+
+*[[Simulation]]
+*[[Prediction market]]
+*[[Probabilistic forecasting]] and [[Ensemble forecasting]]
+
+==Forecasting accuracy==
+
+The forecast error is the difference between the actual value and the forecast value for the corresponding period.
+
+&lt;math&gt;\ E_t = Y_t - F_t &lt;/math&gt;
+
+where E is the forecast error at period t, Y is the actual value at period t, and F is the forecast for period t.
+
+Measures of aggregate error:
+
+{| class=wikitable
+|-
+|[[Mean absolute error]] (MAE)
+|&lt;math&gt;\ MAE = \frac{\sum_{t=1}^{N} |E_t|}{N} &lt;/math&gt;
+|-
+|[[Mean Absolute Percentage Error]] (MAPE)
+|&lt;math&gt;\ MAPE = \frac{\sum_{t=1}^N |\frac{E_t}{Y_t}|}{N} &lt;/math&gt;
+|-
+|Mean Absolute Deviation (MAD) 
+|&lt;math&gt;\ MAD = \frac{\sum_{t=1}^{N} |E_t|}{N} &lt;/math&gt;
+|-
+|Percent Mean Absolute Deviation (PMAD) 
+|&lt;math&gt;\ PMAD = \frac{\sum_{t=1}^{N} |E_t|}{\sum_{t=1}^{N} |Y_t|} &lt;/math&gt;
+|-
+|[[Mean squared error]] (MSE)
+|&lt;math&gt;\ MSE = \frac{\sum_{t=1}^N {E_t^2}}{N} &lt;/math&gt;
+|-
+|Root Mean squared error (RMSE)
+|&lt;math&gt;\ RMSE = \sqrt{\frac{\sum_{t=1}^N {E_t^2}}{N}} &lt;/math&gt;
+|-
+|[[Forecast skill]] (SS)
+|&lt;math&gt;\ SS = 1- \frac{MSE_{forecast}}{MSE_{ref}} &lt;/math&gt;
+|-
+|Average of Errors (E)
+|&lt;math&gt;\ \bar{E}=  \frac{\sum_{i=1}^N {e_i}}{N} &lt;/math&gt;
+|}
+
+Business forecasters and practitioners sometimes use different terminology in the industry. They refer to the PMAD as the MAPE, although they compute this as a volume weighted MAPE.{{cn|date=May 2012}} For more information see [[Calculating demand forecast accuracy]].
+
+[[Reference class forecasting]] was developed to increase forecasting accuracy by framing the forecasting problem so as to take into account available distributional information.&lt;ref&gt;Flyvbjerg, B. (2008) [http://www.sbs.ox.ac.uk/centres/bt/Documents/Curbing%20Optimism%20Bias%20and%20Strategic%20Misrepresentation.pdf &quot;Curbing Optimism Bias and Strategic Misrepresentation in Planning: Reference Class Forecasting in Practice.&quot;] ''European Planning Studies'',16 (1), 3-21.]&lt;/ref&gt; Daniel Kahneman, winner of the Nobel Prize in economics, calls the use of reference class forecasting &quot;the single most important piece of advice regarding how to increase accuracy in forecasting.”&lt;ref&gt;Daniel Kahneman (2011) ''Thinking, Fast and Slow'' (New York: Farrar, Straus and Giroux) (p. 251)&lt;/ref&gt; Forecasting accuracy, in contrary to belief, cannot be increased by the addition of experts in the subject area relevant to the phenomenon to be forecast.&lt;ref&gt;{{cite journal|url= http://www.forecastingprinciples.com/paperpdf/seersucker.pdf | title = The Seer-Sucker Theory: The Value of Experts in Forecasting | author = J. Scott Armstrong| journal = Technology Review | pages = 16–24 | year = 1980}}&lt;/ref&gt;
+
+'''See also'''
+
+*[[Calculating demand forecast accuracy]]
+*[[Consensus forecasts]]
+*[[Forecast error]]
+*[[Predictability]]
+*[[Prediction interval]]s, similar to [[confidence interval]]s
+*[[Reference class forecasting]]
+
+==Applications of forecasting==
+
+The process of climate change and increasing energy prices has led to the usage of [[Egain Forecasting]] of buildings. The method uses forecasting to reduce the energy needed to heat the building, thus reducing the emission of greenhouse gases. Forecasting is used in the practice of [[Customer Demand Planning]] in every day business forecasting for manufacturing companies. Forecasting has also been used to predict the development of conflict situations. Experts in forecasting perform research that use empirical results to gauge the effectiveness of certain forecasting models.&lt;ref&gt;{{cite web|url=http://qbox.wharton.upenn.edu/documents/mktg/research/FAQ.pdf | title = Answers to Frequently Asked Questions | author = J. Scott Armstrong, Kesten C. Green and Andreas Graefe | year = 2010}}&lt;/ref&gt; Research has shown that there is little difference between the accuracy of forecasts performed by experts knowledgeable of the conflict situation of interest and that performed by individuals who knew much less.&lt;ref&gt;{{cite journal|url=http://marketing.wharton.upenn.edu/documents/research/Value%20of%20expertise.pdf | title = The Ombudsman: Value of Expertise for Forecasting Decisions in Conflicts | author = Kesten C. Greene and J. Scott Armstrong | journal = Interfaces | volume = 0 | pages = 1–12 | year = 2007 | publisher = INFORMS}}&lt;/ref&gt; 
+
+Similarly, experts in some studies argue that role thinking does not contribute to the accuracy of the forecast.&lt;ref&gt;{{cite journal|url= http://www.forecastingprinciples.com/paperpdf/Escalation%20Bias.pdf | title = Role thinking: Standing in other people’s shoes to forecast decisions in conflicts | author = Kesten C. Green and J. Scott Armstrong| journal = Role thinking: Standing in other people’s shoes to forecast decisions in conflicts | volume = 39 | pages = 111–116 | year = 1975}}&lt;/ref&gt; The discipline of demand planning, also sometimes referred to as supply chain forecasting, embraces both statistical forecasting and a consensus process. An important, albeit often ignored aspect of forecasting, is the relationship it holds with [[planning]]. Forecasting can be described as predicting what the future ''will'' look like, whereas planning predicts what the future ''should'' look like.&lt;ref&gt;{{cite web|url=http://www.forecastingprinciples.com/index.php?option=com_content&amp;task=view&amp;id=3&amp;Itemid=3 |title=FAQ |publisher=Forecastingprinciples.com |date=1998-02-14 |accessdate=2012-08-28}}&lt;/ref&gt;&lt;ref&gt;
+{{cite web|url=http://www.qbox.wharton.upenn.edu/documents/mktg/research/INTFOR3581%20-%20Publication%
+2015.pdf |format=PDF | title = Structured analogies for forecasting | author = Kesten C. Greene and J. Scott Armstrong |publisher = qbox.wharton.upenn.edu}}&lt;/ref&gt; There is no single right forecasting method to use. Selection of a method should be based on your objectives and your conditions (data etc.).&lt;ref&gt;{{cite web|url=http://www.forecastingprinciples.com/index.php?option=com_content&amp;task=view&amp;id=3&amp;Itemid=3#D._Choosing_the_best_method |title=FAQ |publisher=Forecastingprinciples.com |date=1998-02-14 |accessdate=2012-08-28}}&lt;/ref&gt; A good place to find a method, is by visiting a selection tree. An example of a selection tree can be found here.&lt;ref&gt;{{cite web|url=http://www.forecastingprinciples.com/index.php?option=com_content&amp;task=view&amp;id=17&amp;Itemid=17 |title=Selection Tree |publisher=Forecastingprinciples.com |date=1998-02-14 |accessdate=2012-08-28}}&lt;/ref&gt;
+Forecasting has application in many situations:
+
+*[[Supply chain management]] - Forecasting can be used in Supply Chain Management to make sure that the right product is at the right place at the right time.  Accurate forecasting will help retailers reduce excess inventory and therefore increase profit margin. Studies have shown that extrapolations are the least accurate, while company earnings forecasts are the most reliable.&lt;ref&gt;{{cite journal|url=http://www.forecastingprinciples.com/paperpdf/Monetary%20Incentives.pdf | title = Relative Accuracy of Judgmental and Extrapolative Methods in Forecasting Annual Earnings | author = J. Scott Armstrong| journal = Journal of Forecasting | volume = 2 | pages = 437–447 | year = 1983}}&lt;/ref&gt; Accurate forecasting will also help them meet consumer demand.
+*[[Economic forecasting]]
+*[[Earthquake prediction]]
+*[[Egain Forecasting]]
+*[[Land use forecasting]]
+*[[PECOTA|Player and team performance in sports]]
+*[[Political Forecasting]]
+*[[Product forecasting]]
+*[[Sales Forecasting]]
+*[[Technology forecasting]]
+*[[Telecommunications forecasting]]
+*[[Transport planning]] and [[Transportation forecasting]]
+*[[Weather forecasting]], [[Flood forecasting]] and [[Meteorology]]
+
+
+==Limitations==
+As proposed by [[Edward Lorenz]] in 1963, long range weather forecasts, those made at a range of two weeks or more, are impossible to definitively predict the state of the atmosphere, owing to the [[chaos theory|chaotic nature]] of the [[fluid dynamics]] equations involved.  Extremely small errors in the initial input, such as temperatures and winds, within numerical models doubles every five days.&lt;ref&gt;{{cite book|title=Storm Watchers|pages=222–224|year=2002|author=Cox, John D.|publisher=John Wiley &amp; Sons, Inc.|isbn=0-471-38108-X}}&lt;/ref&gt;
+
+==See also==
+&lt;div style=&quot;-moz-column-count:2; column-count:2;&quot;&gt;
+* [[Collaborative planning, forecasting, and replenishment|CPFR]]
+* [[Forecasting bias]]
+* [[Foresight (future studies)]]
+* [[Futures studies]]
+* [[Futurology]]
+* [[Optimism bias]]
+* [[Planning]]
+* [[Strategic foresight]]
+* [[Technology forecasting]]
+* [[Wind power forecasting]]
+* [[Earthquake prediction]]
+* [[Weather forecasting]]
+* [[Time Series]]
+&lt;/div&gt;
+
+==References==
+{{Reflist}}
+*{{cite book
+ |author = [[Armstrong, J. Scott]] (ed.)
+ |title= ''Principles of forecasting: a handbook for researchers and practitioners
+ |year= 2001
+ |publisher= Kluwer Academic Publishers
+ |location= Norwell, Massachusetts
+ |language= [[English language|English]]
+ |isbn= 0-7923-7930-6
+ }} 
+* [http://www.sbs.ox.ac.uk/centres/bt/Documents/Curbing%20Optimism%20Bias%20and%20Strategic%20Misrepresentation.pdf Flyvbjerg, Bent, 2008, &quot;Curbing Optimism Bias and Strategic Misrepresentation in Planning: Reference Class Forecasting in Practice,&quot; European Planning Studies, vol. 16, no. 1, January, pp. 3-21.]
+*{{cite book
+ | author=Ellis, Kimberly
+ | title = Production Planning and Inventory Control
+ | year = 2010
+ | publisher = McGraw-Hill
+ | language = [[English language|English]]
+ | isbn = 0-412-03471-9
+ }}
+*{{cite book
+ | author=Geisser, Seymour
+ | authorlink =Seymour Geisser 
+ | title = Predictive Inference: An Introduction
+ | date = 1 June 1993
+ | publisher = Chapman &amp; Hall, CRC Press
+ | language = [[English language|English]]
+ | isbn = 0-390-87106-0
+ }}
+*{{cite book
+ | author=Gilchrist, Warren
+ | title = Statistical Forecasting
+ | year = 1976
+ | publisher = John Wiley &amp; Sons
+ | location = London
+ | language = [[English language|English]]
+ | isbn = 0-471-99403-0
+ }}
+*Hyndman, R.J., Koehler, A.B (2005) [http://www.robjhyndman.com/papers/mase.pdf &quot;Another look at measures of forecast accuracy&quot;], Monash University note.
+*{{cite book
+ | author=Makridakis, Spyros
+ | coauthors=Wheelwright, Steven; [[Hyndman, Rob J.]]
+ | title= Forecasting: methods and applications
+ | url= http://www.robjhyndman.com/forecasting/
+ | year=1998
+ | publisher = John Wiley &amp; Sons
+ | location = New York
+ | language = [[English language|English]]
+ | isbn= 0-471-53233-9
+ }}
+*{{cite book
+ |author = Kress, George J. 
+ |coauthors= Snyder, John 
+ |title= ''Forecasting and market analysis techniques: a practical approach
+ |date= 30 May 1994
+ |publisher= Quorum Books
+ |location= Westport, Connecticut, London
+ |language= [[English language|English]]
+ |isbn= 0-89930-835-X
+ }} 
+*{{cite book
+ | author=Rescher, Nicholas
+ | authorlink =Nicholas Rescher
+ | title = Predicting the future: An introduction to the theory of forecasting
+ | year = 1998
+ | publisher = State University of New York Press
+ | language = [[English language|English]]
+ | isbn = 0-7914-3553-9
+ }}
+*Taesler, R. (1990/91) Climate and Building Energy Management. Energy and Buildings, Vol. 15-16, pp 599 – 608.
+*[[Peter Turchin|Turchin, P.]] (2007) &quot;Scientific Prediction in Historical Sociology: Ibn Khaldun meets Al Saud&quot;. In:[http://edurss.ru/cgi-bin/db.pl?cp=&amp;page=Book&amp;id=53185&amp;lang=en&amp;blang=en&amp;list=Found ''History &amp; Mathematics: Historical Dynamics and Development of Complex Societies.''] Moscow: KomKniga. ISBN 978-5-484-01002-8
+*Sasic Kaligasidis, A et al. (2006) Upgraded weather forecast control of building heating systems. p.&amp;nbsp;951 ff in Research in Building Physics and Building Engineering Paul Fazio (Editorial Staff), ISBN 0-415-41675-2
+*United States Patent 6098893 Comfort control system incorporating weather forecast data and a method for operating such a system (Inventor Stefan Berglund)
+
+==External links==
+{{wiktionary|predict}}
+{{wiktionary|forecast}}
+*[http://www.forecastingprinciples.com Forecasting Principles: ''&quot;Evidence-based forecasting&quot;'']
+*[http://www.forecasters.org International Institute of Forecasters]
+*[http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm Introduction to Time series Analysis (Engineering Statistics Handbook)] - A practical guide to Time series analysis and forecasting
+*[http://www.statsoft.com/textbook/sttimser.html Time Series Analysis]
+*[http://www.ifs.du.edu Global Forecasting with IFs]
+*[http://www.quakefinder.com Earthquake Electromagnetic Precursor Research]
+
+[[Category:Data analysis]]
+[[Category:Statistical forecasting]]
+[[Category:Time series analysis]]
+[[Category:Supply chain management terms]]
+[[Category:Supply chain analytics]]
+
+[[af:Vooruitskatting]]
+[[bg:Предвиждане на бъдещи събития]]
+[[cs:Prognóza]]
+[[de:Prognose#Betriebswirtschaft]]
+[[es:Pronóstico (Estadística)]]
+[[eu:Aurresan]]
+[[fa:پیش‌گویی]]
+[[fr:Prévision]]
+[[hi:भविष्यवाणी]]
+[[ky:Алдын ала айтуу]]
+[[ru:Предсказание]]
+[[simple:Forecasting]]</text>
+      <sha1>1f4gqcw3luhaqy1osdgvfv4eywqcaes</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

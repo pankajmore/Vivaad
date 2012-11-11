@@ -1,0 +1,189 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Zen</title>
+    <ns>1</ns>
+    <id>202076</id>
+    <revision>
+      <id>520980912</id>
+      <parentid>520980120</parentid>
+      <timestamp>2012-11-02T00:24:13Z</timestamp>
+      <contributor>
+        <username>TheSpecialUser</username>
+        <id>16796352</id>
+      </contributor>
+      <comment>GA</comment>
+      <text xml:space="preserve" bytes="32351">{{FailedGA|00:57, 27 October 2012 (UTC)|topic=Philosophy and religion|page=1}}
+{{oldafdfull| date = 1 April 2012 (UTC) | result = '''speedy keep''' | page = Zen }}
+
+{{WikiProjectBannerShell|1=
+{{WikiProject China|class=B|importance=Top}}
+{{WikiProject Japan|class=B|importance=Top}}
+{{WikiProject Korea|class=B|importance=Mid}}
+{{WikiProject Buddhism|class=B|importance=top}}
+{{WikiProject Religion|class=B|importance=Top}}
+}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 8
+|minthreadsleft = 4
+|algo = old(100d)
+|archive = Talk:Zen/Archive %(counter)d
+}}
+{{Archives |bot=MiszaBot I |age=100|search=yes }}
+
+== Sunyata, aesthetic practices, and cultural impact ==
+
+The following sentence from the lead seems problematic to me, for several reasons:
+{{quote|''Due to the school's traditional emphasis on the Buddhist doctrine of [[Sunyata|emptiness]], and perhaps to a lesser extent being influenced by [[Taoism]] (Lai,Year unknown), it has given rise to a number of [[minimalist]] and [[mystical]] aesthetic practices and [[philosophical]] approaches which have marked Zen Buddhism with a rich cultural impact and history throughout [[East Asia]], as well as a sophisticated [[metaphysical]] heritage in the modern study of [[Eastern philosophy]].''}}
+* The emphasis in Chán/Zen is not on sunyata, but on Yogacara and tathagatagarbha
+* The Taoist influence on Chán needs better sources. This is what Whalen Lai writes:
+:* &quot;Buddhism was being perceived and digested through the medium of religious Daoism (Taoism).(p.8)
+:* Chinese Buddhism is often said to have reached its apogee in the Tang era. But in one sense, it only shared with Confucianism and Daoism the glory, the power, and the prosperity of the Tang. Confucianism would enjoy a revival, especially in the second half of Tang; religious Taoism had the patronage of the ruling house, which considered itself descended from Laozi. Thus, during the Tang, Buddhism had to '''contend'''(emphasis JJ) with serious rivals.&quot; (p.13)
+* What are the &quot;aesthetic practices&quot;, according to which source?
+* What are the [[philosophical]] approaches&quot;, of what, according to which source?
+* What's &quot;[[minimalist]]&quot; about them, according to which source? 
+* What's being meant with &quot;[[mystical]]&quot;, according to which source? &quot;Mystical&quot; is a western and, in modern times, romantic category. See McMahan, ''Buddhist Modernism'', especially the influence of D.T. Suzuki.
+* &quot;which have marked Zen Buddhism with a rich cultural impact&quot;. The term &quot;marked&quot; seems like a reification. Shouldn't this be something like &quot;Chán and Zen have had a rich cultural impact in East Asia and, in modern times, the western world&quot;, or, alternatively, &quot;which have marked East Asian culture&quot;? Otherwise, when being read literally, the sentence somehow says something like &quot;Zen (&quot;it&quot;) has marked Zen&quot;. 
+* &quot;a sophisticated [[metaphysical]] heritage in the modern study of [[Eastern philosophy]].&quot; Does this mean that the Zen-heritage is subject to modern study, or that Zen's metaphysics have influenced the modern study of Eastern philosophy? Concerning the last, [http://www.thezensite.com/ZenEssays/HistoricalZen/McRaeIntroduction.pdf according to McRae], the influence of Traditional Zen Narrative on the study of Zen has indeed been metaphysical.
+[[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 08:03, 15 May 2012 (UTC)
+:It strikes me as a nearly meaningless, very poorly worded, over-long sentence. Please revise as you see fit :-) &lt;span style=&quot;color:#008000;font-family:times, sans serif;&quot;&gt;[[User:Djlayton4|DJLayton4]] ([[User talk:Djlayton4|talk]])&lt;/span&gt; 11:37, 16 May 2012 (UTC)
+
+== Rinzai bias, academic bias, other suggestions ==
+
+I feel like a broken record here, but this article seems to talk about &quot;Zen&quot; in terms of Rinzai and not Soto.
+
+1) The opener states &quot;Zen emphasizes the attainment of enlightenment&quot;. Dogen wrote in the Fukanzazengi, &quot;Suppose one gains pride of understanding and inflates one's own enlightenment, glimpsing the wisdom that runs through all things, attaining the Way and clarifying the Mind, raising an aspiration to escalade the very sky. One is making the initial, partial excursions about the frontiers but is still somewhat deficient in the vital Way of total emancipation...Have no designs on becoming a Buddha&quot;. This seems like a repudiation of &quot;emphasizing enlightenment&quot; by the founder of the largest sect of Zen. However, it is also &quot;emphasized&quot; in the sense that he wrote &quot;To practice the Way singleheartedly is, in itself, enlightenment. There is no gap between practice and enlightenment or zazen and daily life&quot;. Nonetheless, virtually ever Soto source I've looked at advocates not &quot;seeking enlightenment&quot; because it is concept and thus a distraction. If the opener is meant in the sense that Zen believes enlightenment is possible (cf. Pure Land or other &quot;degenerate age&quot; schools), this should probably be more explicit. As its currently worded it seems a bit misleading
+
+2) [[Nōnin]] technically started the first Zen school in Japan a couple of years before Eisai and many before Dogen, but he is not mentioned at all in &quot;Zen in Japan&quot;. Almost all of the students from this school joined the Soto school later on.
+
+3) The section states &quot;Controversially, Keizan is credited as the founder of the Sōtō school.&quot; I've never heard this anywhere. All Soto lineages consider him the fourth patriarch and the &quot;second founder&quot; in the sense that he spread the school significantly, but he is never thought of as &quot;the founder&quot;
+
+4) The [[Sandai sōron]], a very significant historical event, is not mentioned in this section.
+
+5) The history section generally discusses Rinzai far more than Soto.
+
+6) The &quot;polarities&quot; section seems very misleading considering the emphasis on [[non-dualism]] in Zen. This should go for both schools. While polarities in teaching approaches exist, to say that Zen is &quot;characterized&quot; by polarities strikes me as wrong. I also don't see how Buddha nature and shunyata are polarities, and I don't think they are typically presented this way. The sudden vs. gradual enlightenment stuff probably belongs in the history section and not in the teaching section. It's never taught as a &quot;teaching&quot;. It's a historical curiosity. I remember [[Shohaku Okumura]] joking that the Tang Chinese were very concerned with sudden vs. gradual stuff, but really it's a meaningless argument because both are simultaneously true. This is definitely the view in the Soto school anyway. At any rate, I'm pretty confident that sudden and gradual are at least not &quot;taught&quot; nowadays in either school and are only discussed in the context of history. 
+
+7) In that same vein, I think &quot;Zen teachings&quot; and &quot;Zen practice&quot; should be merged. Zen is characterized by the fact that practice is the ultimate teaching, so why separate them? To a non-Zen person, they are bound to be confused. I've been practicing Soto zen for years and I've never been &quot;taught&quot; any of the stuff in the &quot;teachings&quot; section. 
+
+8) The scripture section again emphasizes history to the exclusion of current practice. In the Soto school, virtually all scripture encountered on a regular basis is from Dogen. Sometimes people delve into the old stuff, but very rarely, with the exception of the Heart Sutra, which isn't mentioned! The Heart Sutra, as I understand it, it far more important for Zen than all of the works listed. I've never had a teacher discuss any of the works mentioned. No doubt they form an important philosophical core, but this fact needs to be emphasized. The scripture discussed and read for the purposes of contemporary practice does not include virtually any of these things. 
+
+As currently written, this article seems to overemphasize academic views on Zen held by non-practitioners. This is understandable since they write a lot of the books about Zen. However, I think we need to be careful to remember that these are not the people who actually have much of an idea of what goes on now. They are much more concerned with history. I think we need to source more from books written by Zen teachers and less by distant observers. Some of the things I've read in academic accounts of Zen blatantly misunderstand the practices. Obviously this is my own opinion, but if you pair academic views with views of teachers, you can often see this fact. Anyway, that's all for today. This article is progressing nicely, but whenever I read it, it seems pretty foreign to my years of experience, which I don't think should be the case. At present, I would not recommend someone who doesn't know about Zen to this article. &lt;span style=&quot;color:#008000;font-family:times, sans serif;&quot;&gt;[[User:Djlayton4|DJLayton4]] ([[User talk:Djlayton4|talk]])&lt;/span&gt; 12:44, 16 May 2012 (UTC)
+
+:You must be old, that you what a broken record is :)
+:ad 1: You're right. Part of the sentence 'disappeared' when editing. I put it back, but basically your point still stands.
+:ad 2: Well, ad Nonin to the Japanese Zen-article.
+:ad 3: Check Dumoulin &amp; Google Books: you're right. I've changed the sentence.
+:ad 4: Sandai sōron maybe should be mentioned in the Soto-article. But you might as well add a few lines on this topic to the Zen-article.
+:ad 5: The article covers mainly the history of the Tang-period, The Caodong came into existence late in the Tang. So I don't know if there is a neglect of Caodong/Soto, of just little coverage of history anyway. But, the main article on Soto might be filled in as well. It's reallu short now, and lacks a lot of info.
+: ad 6: The &quot;emphasis on non-duality&quot; is itself misleading. There ''are'' polarities in zen-teaching. 
+:* The absolute-relative is obvious, I suppose. 
+:* I agree that Buddha-nature - sunyata is not a strict polarity, but the two doctrines are different ways to approach the Buddhist teachings and the insights derived from meditation practice. Both have been used in the history of Zen, but the emphasis seems to be on buddha-nature (and Yogacara), despite the emphasis of Shenhui on the Diamond Sutra. Kasulis relates the two approaches to the split between Northern and Southern Zen, and a difference between the Lankavatara and the Diamond Sutra.
+:* sudden-gradual is not just a &quot;historical curiosity&quot;. Chán-teachers after shenhui have struggled to reconcile the oppostion set up by Shenhui. And sudden-gradual is not restricted to Zen. It's fundamental to the history of Zen, and the understanding of Zen-teachings. See [http://books.google.nl/books?id=JAsCVEGGR-oC&amp;printsec=frontcover&amp;dq=sudden+and+gradual&amp;hl=nl&amp;sa=X&amp;ei=_7-zT9L8I4SO8gPetpi6CQ&amp;ved=0CDUQ6AEwAA#v=onepage&amp;q=sudden%20and%20gradual&amp;f=false Sudden and Gradual], edited by Peter N. Gregory, a whole volume of essays and articles on this subject. For Rinzai &quot;sudden enlightenment&quot; is still a relevant topic, given the emphasis on kensho in Rinzai. It's also a topic for Sanbo Kyodan-derived lineages. You may have a &quot;Soto-bias&quot; in this regard yourself. 
+: ad 7: merging teachings and practice will give a muddled, very long section. Also, Zen is not only the current teachings practices, but also a history of 1500 years. That you haven't encountered this &quot;stuff&quot; does not necessarily mean that it's not part of the Zen-history. D.T Suzuki didn't write anything about Soto; this does not mean that Soto is not relevant. If you want to share more of the specific contemporary Soto-teachings, the Soto-article would be a good place to do so. As it is now, both contemporary Soto and Rinzai are now being mentioned in just one line. After all, Soto is just ''one'' school in ''one'' particular country, not the examplification (is that a correct word?) of the whole of Chán/Zen-history.
+: ad 8: 
+:* sounds like a good idea to add some info on the Heart-sutra. I'll keep it in mind. 
+:* That Soto emphasises the writings of Dogen does not mean that the rest of Zen-history can be disregarded. Up till the seventeenth century Dogen's works were hardly read, let alone commented on. If you think that the history of Zen, and it's textual sources, is not relevant for &quot;contemporary practice&quot;, then it's up to you make clear what this &quot;contemporary practice&quot; is, and what &quot;scripture&quot; is relevant to it.
+:ad &quot;academic views&quot;:
+:* The argument &quot;academic views on Zen held by non-practitioners&quot; is a rhetoric way of discrediting valid research. See [http://meaningness.wordpress.com/2011/12/07/how-not-to-argue-about-buddhism/ &quot;how not to argue about Buddhism]. Academic research on Zen has dramatically changed the understanding of Zen and it's history. This research is being done by people who have a pretty good idea of what's going on. Brian Victoria is himself a Zen-priest. [http://www.avdbraak.nl/Taylor_and_Zen_I.doc Andre van de Braak], a Dutch professor, is a Zen-teacher, who [http://www.amazon.com/Enlightenment-Blues-Years-American-Guru/dp/0972635718 formerly has been a student of Andrew Cohen]. If you only read John McRae's &quot;Seeing through Zen&quot;, it should be clear how mis-informed the Zen-tradition has been itself on it's own history. And if you read &quot;Zen at war&quot;, it should also be clear that Zen too is just a human endeavour, and how important it is to remain critical. 
+:* &quot;Some of the things I've read in academic accounts of Zen blatantly misunderstand the practices&quot; is also rhetorics, discrediting decades of research, without giving examples and sourced arguments. What did you read, what whas 'blatantly misunderstood'? And does this apply for all the academic research? See [http://www.thezensite.com/index.html thezensite] for a comprehensive overview of sources and studies by committed researchers. Remember, Wikipedia is an encyclopedia, not a study-guide. It can give relevant links, and tips for books, but it is by definition 'distanced'. Any-one interested in Zen can walk into a bookstore, or go to Amazon.com, and buy dozens of books with Zen-teachings, it that's what needed.
+:* If you want to &quot;source more from books written by Zen teachers&quot;, then what exactly would you like to source? And how would you like to source it, [http://en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources without interpreting primary sources]?
+:* Reading[http://books.google.nl/books?id=N6oCU4-Yap8C&amp;printsec=frontcover&amp;dq=Shohaku+Okumura&amp;hl=nl&amp;cd=1#v=onepage&amp;q=Shohaku%20Okumura&amp;f=false the introduction of ''Dōgen's Pure Standards for the Zen Community: A Translation of the Eihei Shingi''] I see a disdain for academic writings when critizising the Soto-tradition, without giving proper examples, references or sources, and a likewise uncritical mentioning of academic research on the historical circumstances of Dogen's teachings when this is supportive for the Soto-tradition. I may only hope that this way of dealing with academic research is not typical for contemporary Soto.
+:* As for the sutras, see [http://books.google.nl/books?id=PEwS-itaX8AC&amp;pg=PT1&amp;dq=dan+leighton&amp;hl=nl&amp;sa=X&amp;ei=UYC0T424MYe18QPGjLHPDw&amp;ved=0CEwQ6AEwAw#v=onepage&amp;q=dan%20leighton&amp;f=false Chapter two] of ''Faces of Compassion'' by Dan Leighton, who co-authored several books with Shohaku Okumura.
+
+:So, that's along response again. Thanks; this is much more fun than just writing without differences in opinion. It presses to reconsider my own opinions, and to source them. Friendly regards, [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 15:34, 16 May 2012 (UTC)
+::By the way: nice picture of Shohaku Okumura. Seems like a nice guy (serious, no pun intended). [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 15:38, 16 May 2012 (UTC)
+::PS2: regarding contemporary Zen-practice &amp; 'distant insights of academics': I think it's our challenge to ''incorporate'' the disenchantment it offers into our practice, not to see it as antagonistic. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 15:59, 16 May 2012 (UTC)
+::PS3: I read at [http://www.sanshinji.org/] that Shohaku Okumura studied at Komazawa University, his teacher Kosho Uchiyama-roshi &quot;received a Master's Degree in Western philosophy from Waseda University&quot;, and Uchiyama's teacher Kodo Sawaki-roshi was &quot;professor of Zen literature&quot;. So far for the &quot;academic bias&quot;. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 03:38, 17 May 2012 (UTC)
+
+Thanks for the thorough response! I totally accept that I have a very Soto bias. I don't expect to see an article about Zen that reflects only the Soto viewpoint, however, but rather one that just doesn't largely ignore it. I think [[WP:UNDUE]] applies. The Soto school is the largest school of Zen in Japan, and arguably in the West, so its practices shouldn't be ignored or diluted. Chan schools are tricky because they aren't practiced much in the West, and knowledge about non-Taiwanese lineages is hard to come by, but of course they should be treated too. At any rate, this article either needs to be general enough to encapsulate all schools, or specific enough so that the individual schools are not conflated. So having like 10 paragraphs on sudden vs. gradual gives undue weight to certain schools, in my opinion. As far as the Soto school is concerned, it IS a historical curiosity, but the way the article is written a reader would assume it's a very important thing to all schools. 
+
+I also don't mean to suggest that academic research on Zen isn't important. I absolutely agree that it is. I do think that some academics who are not practitioners tend to get in over their heads a little bit, but that's my opinion. At any rate, my point is that this article reflects much more about academic views than actual practice. This serves to make it both somewhat unaccesible and a weak introduction to Zen. If you go to the article on [[Methodism]] or [[Episcopal Church (United States)]], they don't give any academic views at all. They are usually too inaccessible to the average reader. Instead, these articles offer an easy to read article that allows the reader to become generally acquainted with the specific branch of Christianity. This article fails to give a reader a good overview of the topic because it's way too specific in some areas while simultaneously being way too incomplete. For example, &quot;scripture&quot; covers historical works ad nauseum while ignoring works that are actually important to the average practitioner, while &quot;teachings&quot; gives in-depth, incomprehensible academic analysis on a couple of select topics while failing to explain generally what Zen teachings are. 
+
+Shohaku Okumura's work is almost entirely concerned with Dogen's work, as is the case with most Soto academics, so I think this reinforces the importance of including Dogen more heavily in &quot;Scipture&quot;. Your point that he was not widely ready until the 17th century emphasizes that the scripture section is out of touch with the present. I think heavier weight should be give to the scripture that is actually important to Zen practitioners now, not historical works. The article on [[Christianity]], for example, has a scripture section that concentrates on the Bible, and devotes a sentence or two to apocryphal, non-standard texts, and precedent works. It's scripture section is about a quarter of the length of this scripture section as well. Does someone hoping to get an idea about what Zen is care about an in-depth analysis of all the scripture leading up to the establishment of Zen, or are they interested in the current scripture that is important to practice? Maybe both. But as it is, the section basically only covers the latter. I'd suggest starting a separate &quot;Scripture in Zen&quot; article if you want to go into that much detail about Mahayana documents that most Zen teacher's never talk about. At any rate, I think it would be inappropriate to include Okumura's in-depth analysis of Dogen's texts in this article. If he or anyone else can be cited on a general topic in Zen, fine, but plunging into academic depths on a few random topics makes for a poor article. &lt;span style=&quot;color:#008000;font-family:times, sans serif;&quot;&gt;[[User:Djlayton4|DJLayton4]] ([[User talk:Djlayton4|talk]])&lt;/span&gt; 18:32, 17 May 2012 (UTC)
+
+:I see your point on a 'common introduction'. The Methodist article has a neat side-box, which links to a series of other, specialized articles. Could be nice for Zen, too, to split up the article. The articles on Chinese Chán and Japanese Zen are a start for that, as are the separate articles on Soto and Rinzai.
+:As it is now, the emphasis on the historical and textual backgrounds, is also a result of the discussions on the supposed &quot;anti-itellectualism&quot; of Zen, which, as far as I can see, is a result of the popular or romantic understanding of Zen. It gives a counter-balance to this romantic view, which is spread in most of the popular books. Most (western) people don't realize how much tradition and background there is in Zen; they see it as a vehicle fit for western individualisation. How many people have an understanding of emptiness, realizing that it means that &quot;I&quot; doesnt exist?  So, in that regard, the article does give due attention to several points of view, balancing the popular understanding.
+:As for Dogen, and the Shobogenzo, the few lines in the article are indeed short. but the same goes for the article on Soto; there's still a lot of information lacking. How about you starting to fill it in further? This would give balance to the eventual Rinzai-bias.
+:Still, I wonder if it's true that most Zen-teachers don't talk about those &quot;Mahayana documents&quot;. What is 'real Zen'? Twentieth-century Zen? The Zen taught to us westerners? The Zen transmitted in traditional monasteries? The Zen of temple-rituals for lay people? There may be a strong western bias at work in our understanding of Zen - I should even say, a mutual bias, since it seems to be the Zen influenced by western culture which has become popular in the west. 
+:Anyway, if we are to follow the example of the Methodist-article, there are still topics that first need te be fleshed out. Friendly regards, [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 20:10, 17 May 2012 (UTC)
+
+== Goddard &amp; Taoism ==
+
+The connection between Zen and Taoism is intriguing. Yet, I've serched for literature on this before , and found very little [http://www.thezensite.com/ZenEssays/HistoricalZen/FromIndiatoChina.htm][http://www.thezensite.com/ZenEssays/HistoricalZen/Taoist_Influence_on_Hua-Yen_Buddhism.html]. The connection seems to be more in the eyes of modern interpreters than in historical 'reality' [http://books.google.nl/books?id=zx8nYcX2VzoC&amp;pg=PA66&amp;dq=taoism+zen&amp;hl=nl&amp;cd=3#v=onepage&amp;q=taoism%20zen&amp;f=false]. Does anyone have more info? [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 06:47, 7 June 2012 (UTC)
+:Well, the Buddhists definetely don't seem to like this connection [http://www.shaolin.org/zen/zen-is-zen.html]; however, I've read about it quite a few times already now. You might want to take a look at this list [http://www.google.com.hk/search?q=chan+buddhism+taoism&amp;btnG=%E6%90%9C%E7%B4%A2%E5%9B%BE%E4%B9%A6&amp;tbm=bks&amp;tbo=1&amp;hl=zh-CN]. BTW, you're processing at a very impressive speed :). Cheers, --[[User:Mallexikon|Mallexikon]] ([[User talk:Mallexikon|talk]]) 07:42, 7 June 2012 (UTC)
+Part-time unemployed... But I'm considering doing a Ph.D-research, and all this edting is quite helpfull. I'm going to have a look at those links; thanks! [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 14:15, 7 June 2012 (UTC)
+::But, I'm not convinced. Fowler does not write that Chán was influenced by Taoism; he writes that Buddhism was seen as a kind of Taoism, when it was transplanted to China. That's something quite different.&lt;br&gt;This is what Whalen Lai writes about it:{{quote|''Judging from the reception by the Han of the Hinayana works and from the early commentaries, it appears that Buddhism was being perceived and digested through the medium of religious Daoism (Taoism). Buddha was seen as a foreign immortal who had achieved some form of Daoist nondeath. The Buddhists’ mindfulness of the breath was regarded as an extension of Daoist breathing exercises.''[http://www.thezensite.com/ZenEssays/HistoricalZen/Buddhism_in_China.pdf]}} As it is now, the text suggests that Chán developed out of Taosim and Buddhism, while the sources seem to point out that the influence of Taoism was more like that of ''competition'', the understanding of Buddhism in native terms and terminology, and the borrowing of Taoist terms by Buddhists. What seems closer to the point is that Chán resulted from the sinification of Buddhism, including the influence of Chinese ideas such as &quot;T’i -yung&quot; (Essence and Function) and &quot;Li-shih&quot; (Noumenon and Phenomenon) [http://www.thezensite.com/ZenEssays/HistoricalZen/Taoist_Influence_on_Hua-Yen_Buddhism.html] which are also expressed by Taoism, and first taken over by Hua-yen Buddhism, which the influenced Chán. So it might be a good idea to that this to the text on Taoist influences. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 14:41, 7 June 2012 (UTC) PS: [http://www.mysticbanana.com/in-what-ways-did-chan-buddhism-and-taoism-influence-each-other-in-china.html Yet another link]
+
+::Zen being a &quot;Daoist&quot; variant of Buddhism is something that is occasionally suggested, but rarely with real analysis and sources to back it up. Actually, the origins of Zen often reveal the great extent to which its founders studied the Buddhist sutras and shastras. Many Chan masters pulled out direct quotes from the sutras when conversing with students, but unless modern authors are equally familiar with those texts, the references will not be picked up on. As two examples, the &quot;finger pointing at the moon,&quot; and the comparison between the mind and a mirror, both come from traditional Mahayana sutras, and did not originate with the Zen school. [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, serif&quot;&gt;Tengu800&lt;/span&gt;]] 04:10, 8 June 2012 (UTC)
+:::Well, the text I added only talks unspecifically about Taoist &quot;influences&quot;. No one disputes that Zen and Daoism are entirely different religious entities, but I think there's no point in denying a Taoist influence. Regarding Fowler, she notes that the first Buddhist recruits in China were Taoists (p. 79), that Buddhism entered China &quot;under the cover of Taoism&quot; (p. 79), especially by using Taoist terminology and blending Taoism &quot;into expression&quot; (p. 87), and she acknowledges the &quot;profusion of Taoist texts that attest to the fusion of Taoist and Buddhist ideas&quot; (p. 87). I'd also like to emphasize that  Fowler, Goddard and Suzuki come from a Buddhist point of view. On the Taoist side, the influence of Taoism on the development of Chan is even more readily claimed. --[[User:Mallexikon|Mallexikon]] ([[User talk:Mallexikon|talk]]) 06:19, 8 June 2012 (UTC)
+
+I've added an elaboration on the Taoist influnce. Fuller quotes are included in the copy I put into the [[Chinese Chán]] page. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 08:06, 8 June 2012 (UTC)
+
+::I've read about this connection as well, mostly in Alan Watts' books and books written from a Daoist perspective. One of the ideas that interested me was that the &quot;influence&quot; may simply involve the effect of translating terms into Chinese,  essentially coloring the theories with aspects of traditional Chinese cosmology. Many ideas that are more broadly Chinese are labeled Daoist in retrospect. But since it is conventional to call Yin/Yang, Wuji/Taiji and other concepts &quot;Daoist&quot; there is no harm in recognizing how these ideas filtered the Chinese reception of ideas like the void and karma. [[User:Herbxue|Herbxue]] ([[User talk:Herbxue|talk]]) 15:22, 8 June 2012 (UTC)
+
+== Book ==
+
+This whole article 'Zen' is becoming a book rather than a concise encyclopaedic entry. 
+I used to be able to refer lay people to this page in Wiki' but frankly now it's becoming a totally academic reference.
+I feel also some contributors are treating it as their pet rather than an article.
+Not now something I'd recommend reading, more likely to confuse than inform.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/124.169.251.87|124.169.251.87]] ([[User talk:124.169.251.87|talk]]) 15:11, 13 June 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Well, it's still shorter than most books on Zen. But for recommandations, you might suggest lay people only to read the &quot;Teachings&quot; and &quot;Practices&quot; sections. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 15:22, 13 June 2012 (UTC)
+
+Thank you for your kind response. I'll take your suggestion into consideration. I might suggest to all, that it is of some value to mention that the notions of Sotoshu, Obakushu as distinct from Rinzaishu are Japanese fabrications, today they have become distinct schools but initially they simply represented teaching lineages. Today the situation is different from an admin perspective and some layers of practice have been added of course, but I think it's worth mentioning as it is factual and helps to explain why Rinzai, Soto and Obaku people find their practice so interchangeable. Besides the fact I'm a monk of 25 years, some of that spent in Japanese Sodo, it is researchable out there. Thank you again.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/124.169.251.87|124.169.251.87]] ([[User talk:124.169.251.87|talk]]) 15:25, 14 June 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I didn't notice your response before, sorry. The same is said about the Five Houses of Chan: initially they were just different lineages. And I know that Dogen didn't see his school as distinct Zen-school, but as a Buddhist school, teaching Buddhism. I also know that Japanese Zen did become sectarian under influence of the powers of the state. But to work this out in this, or another, article, would take quite some time and effort... A related topic is the &quot;systematization&quot; of Hakuin's teachings in the 19th century, but there is very little research on that, as far as I know. Anyway, Zen in a nutshell: love thy neighbour :) [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 19:14, 23 August 2012 (UTC)
+::As if some higher force read this... [http://www.thezensite.com/ZenTeachings/Ama_Samy_Koan_Huatou_Kensho.pdf Some info on Hakuin's influence (p.4)]. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 19:36, 23 August 2012 (UTC)
+
+
+== Diamond Sutra quote ==
+
+''{{quote|... men and women [how] to follow the Bodhisattva Path and [...] how they should proceed.}}''
+
+Note: This line is not found in the standard translation of the Diamond Sutra that is used in the Far East ([[Kumarajiva]]'s translation). I'm not sure which translation it comes from, or maybe it is from a late Sanskrit edition, but either way, it's doubtful that many Zen adepts of the past ever read this line. It is true, however, that the Diamond Sutra is about the Bodhisattva Path. [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, serif&quot;&gt;Tengu800&lt;/span&gt;]] 16:29, 27 October 2012 (UTC)
+:I checked the quote at the link [http://zbohy.zatma.org/common/downloads/Diamond2.pdf]; it's not in that translation... The translation is from &quot;the Zen Buddhist Order of Hsu Yun&quot;. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 20:19, 27 October 2012 (UTC)
+::Ah, it is unclear what the original text for that one is. The wording is very loose, it differs from the Kumarajiva version, and most of the chapters are missing (at the end it says that it is an abbreviated version). The following two are both from the Kumarajiva version used in East Asian Buddhism, basically the same contents and divisions as used traditionally in the Zen school: [http://www.drba.org/dharma/vajrasutra.asp][http://www.lapislazulitexts.com/T08_0235.html] [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, serif&quot;&gt;Tengu800&lt;/span&gt;]] 01:29, 31 October 2012 (UTC)
+
+{{Talk:Zen/GA1}}</text>
+      <sha1>dj02uodgies824qptk92eq4iz20x6td</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

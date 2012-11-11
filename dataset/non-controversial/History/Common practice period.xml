@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Common practice period</title>
+    <ns>0</ns>
+    <id>415263</id>
+    <revision>
+      <id>516426551</id>
+      <parentid>488941145</parentid>
+      <timestamp>2012-10-07T04:57:42Z</timestamp>
+      <contributor>
+        <username>Hyacinth</username>
+        <id>17171</id>
+      </contributor>
+      <minor/>
+      <comment>/* General characteristics */ [[Roman numeral analysis]]</comment>
+      <text xml:space="preserve" bytes="6769">{{Musiceras}}
+{{History of European art music}}
+The '''common practice period''', in the history of European [[art music]] (broadly called [[classical music]]), spanning the [[Baroque Music|Baroque]], [[Classical music era|Classical]], and [[Romantic Music|Romantic]] periods, lasted from c. 1600 to c. 1900.
+
+==General characteristics==
+Common practice music obeys two different kinds of musical norms: first, it uses conventionalized sequences of chords, such as I-IV-V-I. (see [[Roman numeral analysis]])  Second, it obeys specific [[counterpoint|contrapuntal]] norms, such as the avoidance of [[parallel fifths]] and octaves.  
+
+Common practice music can be contrasted with the earlier [[Musical mode|modal]] music and later [[atonality|atonal]] music.  It can also be contrasted with twentieth-century styles, such as rock and jazz, that are broadly tonal but do not obey the harmonic and contrapuntal norms described in the preceding paragraph.  Nevertheless, there are often significant similarities between the music of the common practice period and the broadly tonal music of the twentieth century.{{Which?|date=June 2009}}
+
+==Technical features==
+===Harmony===
+{{See also|Functional harmony}}
+Common-practice [[harmony]] is almost always derived from [[diatonic scale]]s and tends to follow particular [[chord progression]]s that have withstood the test of time.
+
+For example, in common-practice harmony, a [[Major chord|major triad]] built on the fifth [[degree (music)|degree]] of the scale (V) is unlikely to progress directly to a [[root (chord)|root]] position triad built on the fourth degree of the scale (IV), but the reverse of this progression (IV-V) is quite common.  By contrast, the V-IV progression is readily acceptable by many other standards; for example, this transition is essential to the [[Shuffle note|&quot;shuffle&quot; blues]] progression's last line (V-IV-I-I), which has become the orthodox ending for [[Twelve-bar blues|blues progressions]] at the expense of the original last line (V-V-I-I).(Tanner &amp; Gerow 1984, 37)
+
+===Rhythm===
+[[Rhythm]]ically, common practice [[metric structure]]s generally include:
+# Clearly enunciated or implied [[pulse (music)|pulse]] at all levels, with the fastest levels rarely being extreme.
+# [[Meter (music)|Meter]]s, or [[pulse group]]s, in two-pulse or three-pulse groups, most often two.
+# Meter and pulse groups that, once established, rarely change throughout a [[section (music)|section]] or [[musical composition|composition]].
+# [[Synchronization|Synchronous]] pulse groups on all levels: all pulses on slower levels coincide with strong pulses on faster levels.
+# Consistent [[tempo]] throughout a composition or section.
+# Tempo, beat length, and measure length chosen to allow one [[time signature]] throughout the piece or section.
+:(Winold, 1975, chapter 3)
+
+===Duration===
+{{cleanup|section|date=June 2008}}
+[[Duration (music)|Durational pattern]]s typically include:
+# Small or moderate duration complement and range, with one duration (or [[pulse (music)|pulse]]) predominating in the duration hierarchy, being heard as the basic unit throughout a composition. Exceptions are most frequently extremely long, such as [[pedal point|pedal tones]]; or, if they are short, they generally occur as the rapidly alternating or transient components of [[trill (music)|trill]]s, [[tremolo]]s, or other [[ornament (music)|ornaments]].
+# [[Rhythmic unit]]s based on [[Metre (music)|metric]] or [[intrametric]] patterns, though specific [[contrametric]] or [[extrametric]] patterns are signatures of certain styles or composers. [[Tercet|Triplet]]s and other extrametric patterns are usually heard on levels higher than the basic durational unit or pulse.
+# [[Rhythmic gesture]]s of a limited number of rhythmic units, sometimes based on a single or alternating pair.
+# Thetic (i.e., stressed), [[anacrusis|anacrustic]] (i.e., unstressed), and initial rest rhythmic gestures are used, with anacrustic beginnings and strong endings possibly most frequent and upbeat endings most rare.
+# Rhythmic gestures repeated exactly or in [[variation (music)|variation]] after contrasting gestures. There may be one rhythmic gesture almost exclusively throughout an entire composition; but complete avoidance of repetition is rare.
+# [[Composite rhythm]]s which confirm the meter, often in metric or even note patterns identical to the pulse on specific metric level.
+:(Winold, 1975, chapter 3)
+
+Patterns of [[pitch (music)|pitch]] and [[duration (music)|duration]] are of primary importance in common practice [[melody]], while [[tone quality]] is of secondary importance. Durations recur and are often periodic; pitches are generally diatonic. (Kliewer, 1975, chapter 4)
+
+==Later trends==
+Many people have proposed that a &quot;new&quot; common practice period is now discernible in 20th century &quot;classical&quot; music. [[George Perle]] (1990) has argued that this amounts to &quot;Tradition in 20th Century Music&quot;, the most significant element of which is the &quot;shared premise of the harmonic [[inversional equivalency|equivalence]] of [[Inversion (music)|inversion]]ally [[Symmetry#Symmetry_in_music|symmetrical]] pitch-class relations,&quot; among composers such as [[Edgard Varèse]], [[Alban Berg]], [[Béla Bartók]], [[Arnold Schoenberg]], [[Alexander Scriabin]], [[Igor Stravinsky]], [[Anton Webern]], and himself. [[John Harbison]] (1992) refers to symmetry as the &quot;new tonality&quot;.
+
+==References==
+*{{cite journal |doi=10.1080/07494469200640141 |title=Symmetries and the 'New Tonality' |year=1992 |last1=Harbison |first1=John |journal=Contemporary Music Review |volume=6 |issue=2 |pages=71–9}}
+*Kliewer, Vernon (1975). &quot;Melody: Linear Aspects of Twentieth-Century Music&quot;, ''Aspects of Twentieth-Century Music''. Wittlich, Gary (ed.). Englewood Cliffs, New Jersey: Prentice-Hall. ISBN 0-13-049346-5.
+* [[George Perle|Perle, George]] (1990). ''The Listening Composer'', pp.&amp;nbsp;46–47. California: University of California Press. ISBN 0-520-06991-9.
+*Paul Tanner and Maurice Gerow, ''A Study of Jazz'', Dubuque, Iowa: William C. Brown Publishers, 1984, p.&amp;nbsp;37, ''cited in'' &quot;[http://web.archive.org/web/20090629213200/http://thebluehighway.com/history.html A Brief History of the Blues]&quot;, ''TheBlueHighway.com''.
+*Winold, Allen (1975). &quot;Rhythm in Twentieth-Century Music&quot;, ''Aspects of Twentieth-Century Music''. Delone, ''et al.'' (eds.). Englewood Cliffs, New Jersey: Prentice-Hall. ISBN 0-13-049346-5.
+
+==External links==
+* Benjamin Piekut, [http://www.newmusicbox.org/page.nmbx?id=58tp00 &quot;No Common Practice: The New Common Practice and its Historical Antecedents&quot;] (February 1, 2004).
+
+{{DEFAULTSORT:Common Practice Period}}
+[[Category:Common practice period| ]]
+
+[[de:Kunstmusik]]
+[[es:Período de la práctica común]]</text>
+      <sha1>645qmj69by14ilhzrqu51fk9exlzmjh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

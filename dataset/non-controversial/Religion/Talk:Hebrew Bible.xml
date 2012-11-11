@@ -1,0 +1,132 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Hebrew Bible</title>
+    <ns>1</ns>
+    <id>226210</id>
+    <revision>
+      <id>509489638</id>
+      <parentid>507302725</parentid>
+      <timestamp>2012-08-27T20:31:51Z</timestamp>
+      <contributor>
+        <username>Greenshed</username>
+        <id>642378</id>
+      </contributor>
+      <comment>/* Protestant denominations and the canon of the Old Testament */ new section</comment>
+      <text xml:space="preserve" bytes="14314">{{WikiProjectBannerShell|1=
+{{WikiProject Religious texts|class=c|importance=top}}
+{{WikiProject Judaism|class=c|importance=Top}}
+{{WikiProject Bible|class=c|importance=Top}}
+{{WikiProject Christianity|class=c|importance=mid}}
+{{WikiProject Religion|class=C|importance=Top}}
+}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 2
+|minthreadsleft = 5
+|algo = old(90d)
+|archive = Talk:Hebrew Bible/Archive %(counter)d
+}}
+{{Archives |bot=MiszaBot I |age=90 }}
+
+== Contradiction: Definition ==
+
+From the introduction: &quot;The Hebrew Bible [...] is a term used by biblical scholars to refer to the [...] Tanakh&quot;
+
+From the Usage section: &quot;Hebrew Bible is a term that refers to the common/shared portions of the Tanakh (Jewish canon) and the Christian biblical canons&quot;
+
+Wich is true? If the first then merge and redirect; if the second then clarify. Thanks [[Special:Contributions/2.82.166.209|2.82.166.209]] ([[User talk:2.82.166.209|talk]]) 08:52, 10 April 2011 (UTC)
+
+:John J. Collins defines &quot;Hebrew Bible&quot; thus: &quot;The Hebrew Bible is a collection of twenty-four books in three divisions: the Law (Tōrāh), the Prophets (Nebîʾîm), and the Writings (Ketûbîm), sometimes referred to by the acronym Tanak.&quot;&lt;ref&gt; John J. Collins, Introduction to the Hebrew Bible (Minneapolis: Fortress Press, 2004), 2. &lt;/ref&gt;
+
+:The books with comprise the Protestant Old Testament are the same as those that comprise the Tanak = Hebrew Bible, but they are ordered differently. Other Christian rites (Roman Catholic, Greek Orthodox, etc.) have additional books in their Old Testament canons. The short answer is that &quot;Hebrew Bible&quot; is the scholarly term for denoting the Tanak (Jewish Bible) = Protestant OT. [[User:Cgaffney08|Cgaffney08]] ([[User talk:Cgaffney08|talk]]) 20:08, 25 April 2011 (UTC)
+
+::Actually, the term &quot;Hebrew Bible&quot; refers to a specific version of the Tanakh, namely the Masoretic Text, which is medieval. The very first ancient version of the Tanakh in one book is of course the Septuagint. The term &quot;Hebrew Bible&quot; is a reference to any text containing the alleged history of Hebrews, and not that it is published in any Hebrew language. [[User:Cush|&lt;span style=&quot;padding:0px 8px 0px 8px;background-color:#eeeedd;border:1px solid #ddddcc;color:#880000;font-family:'Trebuchet MS',Arial;font-weight:bold;text-shadow:0 0 7px #666666;&quot;&gt;&amp;#9798;&amp;nbsp;CUSH&amp;nbsp;&amp;#9798;&lt;/span&gt;]] 15:46, 1 May 2011 (UTC)
+
+::: Your comments contradict: Does the term &quot;HB&quot; include the Septuagint, or does it refer only to the Masoretic Text? [[User:Aristophanes68|&lt;font color=&quot;magenta&quot;&gt;'''Aristophanes'''&lt;/font&gt;&lt;font color=&quot;teal&quot;&gt;68&lt;/font&gt;]] [[User talk:Aristophanes68|&lt;font color=&quot;teal&quot;&gt;''(talk)''&lt;/font&gt;]] 17:38, 1 May 2011 (UTC)
+
+::::The term &quot;HB&quot; does not include the Septuagint, or any other pre-medieval version of the Tanakh. That is why one should be cautious when throwing around the term. Among Jews the Masoretic Text is the authoritative version of the Tanakh, but it is by no means necessarily the one representing the best possible rendition of ancient texts. In many essential details the MT deviates considerably from ancient sources (such as the Septuagint, the Samaritan Pentateuch, and other writings or collections that predate the MT).I have never liked the use of the term &quot;Hebrew Bible&quot; because it sounds as if it had anything to do with ancient Hebrews, which it does not whatsoever. It is a medieval streamlined version. The bad thing is that many European Christian bibles derive their Old Testament part from the MT, such as Luther's bible or the King James Bible. [[User:Cush|&lt;span style=&quot;padding:0px 8px 0px 8px;background-color:#eeeedd;border:1px solid #ddddcc;color:#880000;font-family:'Trebuchet MS',Arial;font-weight:bold;text-shadow:0 0 7px #666666;&quot;&gt;&amp;#9798;&amp;nbsp;CUSH&amp;nbsp;&amp;#9798;&lt;/span&gt;]] 19:50, 1 May 2011 (UTC)
+
+I am not Jewish but I have never heard of the term &quot;Hebrew Bible&quot; but am completley aware of the Torah. Can someone explain the difference as this being a seperate page indicates there is difference.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/70.255.233.97|70.255.233.97]] ([[User talk:70.255.233.97|talk]]) 08:06, 28 September 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+The TORAH is the first 5 books of the Bible (known to CHristians as the Pentateuch, the Law and the 5 books of Moses) while the Tanakh reffers to the Old Testament but in the Jewish order of the books and without any books that christian old testaments might have that Jewish one lacks and the Hebrew Bible just refers to the most modern version of the text, called the Masoretic text. Question answered? --[[User:Grammarbishop8|Grammarbishop8]] ([[User talk:Grammarbishop8|talk]]) 20:46, 22 July 2012 (UTC)
+
+== Circularity ==
+
+&quot;The Hebrew Bible ... is a term used by biblical scholars to refer to the Jewish Bible..&quot; Yeah man. [[User:PiCo|PiCo]] ([[User talk:PiCo|talk]]) 13:28, 28 May 2011 (UTC)
+:And? It is a term used to refer to s pretty specific version of Jewish Bible, namely the Masoretic text. Which is why it is unreasonable to use the term when referring to texts that are also included in other bibles. [[User:Cush|&lt;span style=&quot;padding:0px 8px 0px 8px;background-color:#eeeedd;border:1px solid #ddddcc;color:#880000;font-family:'Trebuchet MS',Arial;font-weight:bold;text-shadow:0 0 7px #666666;&quot;&gt;&amp;#9798;&amp;nbsp;CUSH&amp;nbsp;&amp;#9798;&lt;/span&gt;]] 14:09, 28 May 2011 (UTC)
+PiCo's observation seems perfectly reasonable.  To the non-expert reader, that sentence is pretty close to circular.  Cush makes a point here about a &quot;pretty specific version... namely the [MT]&quot;.  But having the point here in our 'talk' misses the point.  PiCo's observation seems to be that this specificity ought to be in the article. The lead of the article needs to be quite simple; but having a circular, seemingly self-referential definition is mightily confusing the the non-expert.  Could the lead say &quot;The [HB] ... to refer the [[Masoretic Text]] version of the Jewish Bible&quot;.  That seems to maintain simplicity, and meanwhile introduce a measure of accuracy. [[User:Feline Hymnic|Feline Hymnic]] ([[User talk:Feline Hymnic|talk]]) 09:56, 4 June 2011 (UTC)
+:You see, the term &quot;Hebrew Bible&quot; is a deliberate misnomer. The version referred to by this term (the MT) is an exclusively Jewish work. No Hebrews were ever involved in its assembly, as Hebrews as such ceased to exist during the 6th century BCE. The &quot;Hebrew Bible&quot; is supposed to render the history of the Hebrews, hence the name. The first Jewish Bible, however, the Septuagint, is not included in the term, because it was written in Greek (as it was aimed at a broader audience and by the time Hebrew was extinct as a language of daily use). Only subsequent texts written in Aramaic or Hebrew were used to put together the MT. The term &quot;Hebrew Bible&quot; refers to a text that is distinct from the (much older) Septuagint in many passages. [[User:Cush|&lt;span style=&quot;padding:0px 8px 0px 8px;background-color:#eeeedd;border:1px solid #ddddcc;color:#880000;font-family:'Trebuchet MS',Arial;font-weight:bold;text-shadow:0 0 7px #666666;&quot;&gt;&amp;#9798;&amp;nbsp;CUSH&amp;nbsp;&amp;#9798;&lt;/span&gt;]] 10:16, 4 June 2011 (UTC)
+
+That's all fine as technical detail. (I'm no expert, but it agrees with what little I know.)  But the article tells the reader something different.  Surely the description &quot;The Hebrew Bible ...is a term used by biblical scholars to refer to the Jewish Bible&quot; is poor, possibly even wrong.  Or is it spot-on accurate and brilliant?  What should the article say, to be as accurate as possible while (in the lead) as simple as possible? Is the current wording of the article (a) excellent (b) good (c) satisfactory (d) bad (e) appalling? If it is (c), (d) or (e) then how can it be improved? [[User:Feline Hymnic|Feline Hymnic]] ([[User talk:Feline Hymnic|talk]]) 15:12, 4 June 2011 (UTC)
+:Well, the Masoretic text is officially the Bible used by Jews, i.e. &quot;Jewish Bible&quot;. The article is (d). The real problem is rather that the term &quot;Hebrew Bible&quot; has been spread on Wikipedia by editors with specific religious views and who only accept the Masoretic text (or the KJV) as authoritative and reject other versions the content of which may deviate. [[User:Cush|&lt;span style=&quot;padding:0px 8px 0px 8px;background-color:#eeeedd;border:1px solid #ddddcc;color:#880000;font-family:'Trebuchet MS',Arial;font-weight:bold;text-shadow:0 0 7px #666666;&quot;&gt;&amp;#9798;&amp;nbsp;CUSH&amp;nbsp;&amp;#9798;&lt;/span&gt;]] 16:16, 4 June 2011 (UTC)
+
+A lot of this recent discussion really seems to miss the point. The point of the article isn't whether the term is any good or not. I personally think it is a very useful term, but not a perfect one (like most good terms), and you guys are correct some of the disadvantages surely have to do with the fact that it is less useful for those (like Catholics and Eastern Christians) whose Greek-based Bibles contain books not included in the Jewish and Protestant Canons.
+
+That, however, does not detract one bit from the fact that the article describes. That fact is that many scholars (including the SBL guidelines) do indeed recommend this term for the common books of the Jewish and Protestant canons. You can agree with that or not, but it doesn't affect the article. If there are any good sources explaining positions against the use of the term, those too would be equally welcome in the article. Also, the term does not specifically mean the MT, it only means the books in common, and the sourcing fully bears this out. [[User:Dovi|Dovi]] ([[User talk:Dovi|talk]]) 19:36, 4 June 2011 (UTC)
+
+:Now that I look at the article again, I see that the first sentence indeed appears misleading. I don't remember when it got changed. It should read something more like: The Hebrew Bible (also Hebrew Scriptures, Latin Biblia Hebraica) is a term referring to the common books of the Jewish Bible and the Christian Old Testament...
+
+:Also, I've always thought the parenthetical clarifications about the small amount of Aramaic were superfluous and should be relegated to a footnote, rather than appear in the body of the introduction. [[User:Dovi|Dovi]] ([[User talk:Dovi|talk]]) 19:46, 4 June 2011 (UTC)
+
+::Jumping back to this comment by Cush: ''the term &quot;Hebrew Bible&quot; is a deliberate misnomer. The version referred to by this term (the MT) is an exclusively Jewish work. No Hebrews were ever involved in its assembly, as Hebrews as such ceased to exist during the 6th century BCE.'' Three points: First off, the distinction between Hebrews and Jews is probably too subtle for most people who come to WP, so you'll really need to clarify this point when you make it in articles. Second, the term Hebrew can easily refer to the ''language'', to distinguish it from the Greek Septuagint. And third, the term Hebrew Bible is often used as a way to avoid the more pejorative &quot;Old Testament,&quot; which clearly displays a Christian bias. The statement in question could/should be rewritten to explain this usage. [[User:Aristophanes68|&lt;font color=&quot;magenta&quot;&gt;'''Aristophanes'''&lt;/font&gt;&lt;font color=&quot;teal&quot;&gt;68&lt;/font&gt;]] [[User talk:Aristophanes68|&lt;font color=&quot;teal&quot;&gt;''(talk)''&lt;/font&gt;]] 01:26, 6 June 2011 (UTC)
+
+:::The first sentence of the lead says: &quot;The Hebrew Bible ... is a term used by biblical scholars to refer to the Jewish Bible..&quot; This isn't quite accurate. It doesn't refer to the Jewish bible (the [[tanakha]]) as such, it refers to those books contained in the Jewish bible ''and also'' the Protestant Old Testament. It isn't concerned with the order of the books (the Protestant Old Testament has Ruth in a different place, and treats the Minor Prophets as individual books instead of putting them all in the same book, among other differences), and it isn't concerned with the language used (scholars will happily debate the different readings of the Greek, Samaritan and Masoretic Hebrew texts), it's just concerned with the books under discussion. Anything that's in the Jewish bible/Protestant Old Testament is Hebrew Bible, anything that's not, is not. I wish I could find a good RS that says this, and says it simply, but so far I can't. Sorry. [[User:PiCo|PiCo]] ([[User talk:PiCo|talk]]) 04:29, 9 June 2011 (UTC)
+
+== Merge proposal ==
+
+This article should be merged with [[Tanakh]] because they are the same thing. Put a redirect for &quot;Hebrew Bible&quot; to Tanakh. Thank you. [[User:Stidmatt|Stidmatt]] ([[User talk:Stidmatt|talk]]) 05:31, 15 November 2011 (UTC)
+
+== New Testament ==
+
+Are there any more books in Hebrew Bible or Jewish canon &quot; after Christ &quot;, i.e. written at approximately the same time ( or about those years )  as the New Testament ? Or any other hebrew canonical books about these times ?  Istorrikas  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Istorrikas|Istorrikas]] ([[User talk:Istorrikas|talk]] • [[Special:Contributions/Istorrikas|contribs]]) 12:45, 15 February 2012 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Not in the Hebrew Bible, the last book of which is Malachi (also the last book in the Protestant cannon). There is the Talmud, but I'm not clear on it's dates of authorship and it is NOT is in the Hebrew Bible although it is highly valued by Jews. --[[User:Grammarbishop8|Grammarbishop8]] ([[User talk:Grammarbishop8|talk]]) 20:49, 22 July 2012 (UTC)
+
+== oldest printed Hebrew Bible ==
+
+According to [[Soncino, Lombardy]], ''the first complete Jewish Bible in the world was printed in 1488''. That article does not explain whether it was the first complete Tanakh in the world or the first printed version, and this article does not mention that edition at all! --[[User:Espoo|Espoo]] ([[User talk:Espoo|talk]]) 13:14, 31 March 2012 (UTC)
+
+== Protestant denominations and the canon of the Old Testament ==
+
+As far as I know all Protestant denominations accept the canon of the Hebrew Bible as the Old Testament.  This is not limited to Reformed denominations (Presbyterian and Congregational) but includes: [[Methodist]], [[Wesleyan]], [[Baptist]], [[Evangelical]] and low-church [[Anglicans]]. [[User:Greenshed|Greenshed]] ([[User talk:Greenshed|talk]]) 20:31, 27 August 2012 (UTC)</text>
+      <sha1>2gzm1ijhja5gxgbtwzcdevj07laal41</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

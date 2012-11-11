@@ -1,0 +1,653 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Portuguese Empire</title>
+    <ns>0</ns>
+    <id>230578</id>
+    <revision>
+      <id>522383545</id>
+      <parentid>522010005</parentid>
+      <timestamp>2012-11-10T21:08:52Z</timestamp>
+      <contributor>
+        <ip>184.155.229.43</ip>
+      </contributor>
+      <comment>/* Tordesilhas division of the world (1492) */</comment>
+      <text xml:space="preserve" bytes="102585">{{Infobox country
+|native_name                 = {{native name|pt|Império Português|icon=no}}
+|conventional_long_name      = Portuguese Empire
+|common_name                 =
+|image_flag                  = Flag Portugal (1640).svg
+|image_coat                  = Coat of Arms of the Kingdom of Portugal (1640-1910).png
+|national_anthem             = &lt;div style=&quot;font-size:90%&quot;&gt;''[[O Hino da Carta]]''&lt;/div&gt; (1834–1911)
+&lt;div style=&quot;font-size:90%&quot;&gt;''[[A Portuguesa]]'' &lt;/div&gt; (1911–1999)
+|motto                       = {{lang|la|Vis Unita Maior Nunc et Semper}} &lt;small&gt;([[Latin language|Latin]])&lt;/small&gt; &lt;br&gt; &quot;Now and Forever, United We are Greater&quot;
+|image_map                   = Portugal Império total.png
+|map_caption                 = The Portuguese Empire and overseas interests.
+|capital                     = [[Lisbon]]{{anchor|info1}}&lt;sup&gt;[[#inforef1|[1]]]&lt;/sup&gt;
+|official_languages          = [[Portuguese language|Portuguese]]
+|government_type = Monarchy  &lt;/br&gt; (1415–1910) &lt;/br&gt; Republic  &lt;/br&gt; (1910–1999)
+|leader_title1               = '''[[List of Portuguese monarchs|First King]]'''
+|leader_name1                = [[John I of Portugal|John I]]
+|leader_title2               = '''[[List of Portuguese monarchs|Last King]]'''
+|leader_name2                = [[Manuel II of Portugal|Manuel II]]
+|leader_title3               = '''[[List of Presidents of Portugal|First President]]'''
+|leader_name3                = [[Manuel de Arriaga]]
+|leader_title4               = '''[[List of Presidents of Portugal|Last President]]'''
+|leader_name4                = [[Jorge Sampaio]] 
+|sovereignty_type            = [[Battle of Ceuta|Formation]]
+|sovereignty_note            = 1415
+|established_event1          = [[Vasco da Gama|Sea route to India]]
+|established_date1           = 1498
+|established_event2          = [[Colonial Brazil|Discovery of Brazil]]
+|established_date2           = 1500
+|established_event3          = [[Transfer of the Portuguese Court to Brazil]]
+|established_date3           = 1807
+|established_event4          = [[United Kingdom of Portugal, Brazil and the Algarves|Brazil’s elevation to a Kingdom]]
+|established_date4           = 1815
+|established_event5          = [[Brazilian Independence]]
+|established_date5           = 1825
+|established_event6          = [[5 October 1910 revolution|Republic]]
+|established_date6           = 1910
+|established_event7          = [[Invasion of Goa|Loss of the Indian colonies]]
+|established_date7           = 1961
+|established_event8          = [[Carnation Revolution|Independence of the African colonies]]
+|established_date8           = 1974/1975
+|established_event9          = [[Transfer of sovereignty over Macau|Last colony (''de facto'')]]
+|established_date9           = 1999
+|established_event10         = [[Portuguese Timor|Last colony (''de jure'')]] &lt;sup&gt;[[#inforef2|[2]]]&lt;/sup&gt;
+|established_date10          = 2002
+|footnotes                   = {{anchor|inforef1}}1. [[#info1|'''^''']] The capital was located at [[Rio de Janeiro]] from 1808 to 1821. &lt;br&gt; {{anchor|inforef2}}2. [[#info2|'''^''']] [[Macau]] is usually considered the last colony as the [[Indonesian Invasion of East Timor]] and the resulting [[Indonesian occupation of East Timor|occupation]] were not officially recognized by other nations despite the Portuguese decolonizing process for East Timor in 1975. The independence of East Timor in 2002 from Indonesia ended the observed Portuguese sovereignty.
+}}
+
+The '''Portuguese Empire''' ({{lang-pt|Império Português}}), also known as the '''Portuguese Overseas Empire''' (''Ultramar Português'') or the '''Portuguese Colonial Empire''' (''Império Colonial Português''), was the first [[global empire]] in history.&lt;ref&gt;Melvin Eugene Page, Penny M. Sonnenburg, p. 481&lt;/ref&gt;&lt;ref&gt;Liam Matthew Brockey, p. xv&lt;/ref&gt;&lt;ref&gt;Richard M. Juang, Noelle Anne Morrissette, p. 894&lt;/ref&gt; In addition, it was the longest-lived of the modern [[Europe]]an [[Colonialism|colonial]] empires, spanning almost six centuries, from the capture of [[Ceuta]] in 1415 to the handover of [[Macau]] in 1999 or the grant of sovereignty to [[East Timor]] in 2002. The empire spread  throughout a vast number of territories that are now part of [[Evolution_of_the_Portuguese_Empire#Countries with territories part of the Portuguese Empire|53 different sovereign states]].
+
+Portuguese sailors began exploring the coast of [[Africa]] in 1419, using recent developments in [[navigation]], [[cartography]] and maritime technology such as the [[caravel]], in order that they might find a sea route to the source of the lucrative [[spice trade]]. In 1488, [[Bartolomeu Dias]] rounded the [[Cape of Good Hope]], and in 1498, [[Vasco da Gama]] reached India. In 1500, either by an accidental landfall or by the crown's secret design, [[Pedro Álvares Cabral]] discovered [[Brazil]] on the [[South America]]n coast. Over the following decades, Portuguese sailors continued to explore the coasts and islands of East Asia, establishing [[Portuguese Forts|forts]] and [[Factory (trading post)#Portuguese Feitorias (c.1445)|factories]] as they went. By 1571, a string of outposts connected [[Lisbon]] to [[Nagasaki, Nagasaki|Nagasaki]] along the coasts of [[Africa]], the [[Middle East]], [[India]], and [[Asia]]. This commercial network brought [[Economic history of Portugal|great wealth]] to [[Portugal]].
+
+Between 1580 and 1640 Portugal became a partner, with Spain, in a personal [[Iberian Union|union]] of the two countries' crowns. Though the empires continued to be administered separately, Portuguese colonies became the subject of attacks by three rival European powers hostile to Spain and envious of [[Iberian Peninsula|Iberian]] successes overseas: [[Dutch Empire|the Netherlands]], [[British Empire|Britain]] and [[French colonial empire|France]]. With its smaller population, Portugal was unable to effectively defend its overstretched network of trading posts, and the empire began a long and gradual decline.&lt;ref name=&quot;Paz1997&quot;&gt;{{citation|last=leep|first=|title=Structural dynamics: theory and computation|url=http://books.google.com/books?id=njRlswNf92wC|accessdate=12 August 2011|year=1997|publisher=Springer|isbn=978-0-412-07461-5}}&lt;/ref&gt;
+
+Significant losses to the Dutch in [[Portuguese India]] and [[Southeast Asia]] during the 17th century brought an end to the Portuguese trade monopoly in the Indian Ocean.  Brazil became Portugal's most valuable colony until, as part of the wave of [[Decolonization of the Americas|independence movements]] that swept the [[Americas]] during the early 19th century, it broke away in 1822. Portugal's Empire was reduced to its colonies on the African coastline (which were expanded inland during the [[Scramble for Africa]] in the late 19th century), [[East Timor]], and enclaves in India and Macau.
+
+After [[World War II]], Portugal's leader, [[António de Oliveira Salazar|António Salazar]], attempted to keep what remained of the pluricontinental Empire intact at a time when other European countries were beginning to withdraw from their colonies. In 1961 the handful of Portuguese troops garrisoned in [[Goa]] were unable to prevent the numerically superior [[India]]n troops marching into the colony. Salazar began a long and bloody [[Portuguese Colonial War|war]] to quell anti-colonialist forces in the African colonies. The unpopular war lasted until the [[Carnation Revolution|overthrow of the regime in 1974]]. The new government immediately changed policy and recognised the independence of all its colonies, except for [[Macau]], which by agreement with the Chinese government was returned to China in 1999, thereby marking the end of the Portuguese Empire.  Currently, the [[Azores]] and [[Madeira]] archipelagos are the only territories overseas that remain politically linked to Portugal.
+
+The [[Community of Portuguese Language Countries]] (CPLP) is the cultural successor of the Empire.
+
+==Origins (1139–1415)==
+{{main|History of Portugal (1139–1279)|History of Portugal (1279–1415)}}
+[[Image:Conquista de Ceuta.jpg|thumb|left|295px|The [[Battle of Ceuta|Conquest of Ceuta]], in 1415, was lead by [[Henry the Navigator]], and initiated the Portuguese Empire.]]
+The origins of the Portuguese Empire, and of Portugal itself, lay in the ''[[reconquista]]'': the gradual [[Christian]] reconquest of the Iberian peninsula from the [[Moors]].&lt;ref&gt;[http://books.google.com/books?id=VsqCelF9OdkC&amp;pg=PA156&amp;lpg=PA156&amp;dq=Diogo+Cao+Cape+Cross&amp;source=bl&amp;ots=_7SdObu1JE&amp;sig=KXG2Hz9klc4pjJZ1LPpmRn3uFKo&amp;hl=en&amp;sa=X&amp;ei=ij37T7bJN46k8gS7quzaBg&amp;ved=0CE8Q6AEwBjgU#v=onepage&amp;q=Diogo%20Cao%20Cape%20Cross&amp;f=false W. Diffie, Bailey ''Foundations of the Portuguese Empire, 1415-1580''], University of Minnesota Press, 1977, p. 301, accessed 12 July 2012&lt;/ref&gt; After establishing itself as a separate [[Kingdom of Portugal|kingdom]] in 1139, Portugal completed its reconquest of Moorish territory by reaching [[Algarve]] in 1249, but its independence continued to be threatened by neighbouring [[Crown of Castile|Castile]] until the signing of the [[Treaty of Ayllón]] in 1411.&lt;ref name=Psychology05&gt;[http://books.google.com/books?id=Iv6L1WeiYd4C&amp;pg=PA17&amp;lpg=PA17&amp;dq=Treaty+of+Ayllon+1411&amp;source=bl&amp;ots=7spM2-utXN&amp;sig=gwcuz4YtmdoeP_uXneiYdX6zXpo&amp;hl=en&amp;sa=X&amp;ei=MV_6T6aiFoGc8QT285n8Bg&amp;ved=0CDEQ6AEwAA#v=onepage&amp;q=Treaty%20of%20Ayllon%201411&amp;f=false Newitt, M.D.D. ''A History of Portuguese Overseas Expansion, 1400-1668''], Psychology Press, 2005, pp. 15-17, accessed 9 July 2012&lt;/ref&gt;
+
+Free from threats to its existence and unchallenged by the wars fought by other European states, Portuguese attention turned overseas and towards a military expedition to the [[Muslim]] lands of North Africa.&lt;ref name=&quot;Newitt, p. 19&quot;&gt;[[#refNewitt|Newitt]], p.&amp;nbsp;19&lt;/ref&gt; There were several probable motives for their first attack, on the [[Marinid Dynasty|Marinid Sultanate]] (in present-day [[Morocco]]). 
+
+It offered the opportunity to continue the Christian [[crusade]] against [[Islam]]; to the military class, it promised glory on the battlefield and the spoils of war;&lt;ref name=&quot;ReferenceB&quot;&gt;[[#refBoxer1969|Boxer]], p.&amp;nbsp;19&lt;/ref&gt; and finally, it was also a chance to expand Portuguese trade and to address Portugal's economic decline.&lt;ref name=&quot;Newitt, p. 19&quot;/&gt;
+
+In 1415 an attack was made on [[Ceuta]], a strategically located North African Muslim enclave along the [[Mediterranean Sea]], and one of the terminal ports of the trans-Saharan gold and slave trades. The [[Battle of Ceuta|conquest]] was a military success, and marked one of the first steps in Portuguese expansion beyond the Iberian Peninsula,&lt;ref&gt;[[#refAbernethy|Abernethy]], p.&amp;nbsp;4&lt;/ref&gt; but it proved costly to defend against the Muslim forces that soon besieged it. The Portuguese were unable to use it as a base for further expansion into the hinterland,&lt;ref&gt;[[#refNewitt|Newitt]], p.&amp;nbsp;21&lt;/ref&gt; and the trans-Saharan caravans merely shifted their routes to bypass Ceuta and/or used alternative Muslim ports.&lt;ref name=&quot;Diffie, p. 55&quot;&gt;[[#refDiffie|Diffie]], p.&amp;nbsp;55&lt;/ref&gt;
+
+==Age of Discovery (1415–1542)==
+{{main|History of Portugal (1415–1578)|Portuguese discoveries}}
+[[File:Henry the Navigator1.jpg|thumb|right|[[Henry the Navigator]] is credited as the force behind the [[Portuguese discoveries]].]]
+Although Ceuta proved to be a disappointment for the Portuguese, the decision was taken to hold it while exploring along the Atlantic African coast.&lt;ref name=&quot;Diffie, p. 55&quot;/&gt; A key supporter of this policy was [[Infante]] [[Dom (title)|Dom]] [[Henry the Navigator]], who had been involved in the [[Battle of Ceuta|capture of Ceuta]], and who took the lead role in promoting and financing Portuguese maritime exploration until his death in 1460.&lt;ref&gt;Henry, a product of 15th century Portugal, was inspired by both religious and economic factors. [[#refDiffie|Diffie]], p.&amp;nbsp;56&lt;/ref&gt; At the time, Europeans did not know what lay beyond [[Cape Bojador]] on the African coast. Henry wished to know how far the Muslim territories in Africa extended, and whether it was possible to reach Asia by sea, both to reach the source of the lucrative [[spice trade]] and perhaps to join forces with the fabled Christian kingdom of [[Prester John]] that was rumoured to exist somewhere in the &quot;Indies&quot;.&lt;ref name=&quot;ReferenceB&quot;/&gt;&lt;ref&gt;[[#refAnderson|Anderson]], p.&amp;nbsp;50&lt;/ref&gt; Under his sponsorship, soon the Atlantic islands of [[Madeira]] (1420) and [[Azores]] (1427) were reached and started to be settled producing [[wheat]] to export to Portugal.&lt;ref&gt;[http://books.google.com/books?id=PJ7ORZ5Gx5oC&amp;pg=PA60&amp;dq=Azores+Madeira+wheat+Portugal&amp;hl=en&amp;sa=X&amp;ei=p1n7T8CLFajq2AXZs5H5Bg&amp;ved=0CDYQ6AEwAA#v=onepage&amp;q=Azores%20Madeira%20wheat%20Portugal&amp;f=false J. Coates, Timothy ''Convicts and Orphans: Forced and State-Sponsored Colonization in the Portuguese Empire, 1550-1755''], Stanford University Press, 2002, p. 60, accessed 9 July 2012&lt;/ref&gt;
+
+Fears of what lay beyond [[Cape Bojador]], and whether it was possible to return once it was passed, were assuaged in 1434 when it was rounded by one of Infante Henry's captains, [[Gil Eanes]]. Once this psychological barrier had been crossed, it became easier to probe further along the coast.&lt;ref&gt;[[#refDiffie|Diffie]], p.&amp;nbsp;68&lt;/ref&gt;
+In 1443 [[Infante Pedro, Duke of Coimbra|Infante Dom Pedro]], Henry's brother, granted him the monopoly of navigation, war and trade in the lands south of Cape Bojador. Later this monopoly would be enforced by the [[Papal bull]]s [[Dum Diversas]] (1452) and [[Romanus Pontifex]] (1455), granting Portugal the trade monopoly for the newly discovered lands.&lt;ref&gt;[[#refDaus|Daus]], p.&amp;nbsp;33&lt;/ref&gt; A major advance which accelerated this project was the introduction of the [[caravel]] in the mid-15th century, a ship that could be sailed closer to the wind than any other in operation in Europe at the time.&lt;ref&gt;[[#refBoxer1969|Boxer]], p.&amp;nbsp;29&lt;/ref&gt; Using this new maritime technology, Portuguese navigators reached ever more southerly [[latitude]]s, advancing at an average rate of one degree a year.&lt;ref&gt;[[#refRussellWood|Russell-Wood]], p.&amp;nbsp;9&lt;/ref&gt; [[Senegal]] and [[Cape Verde Peninsula]] were reached in 1445.&lt;ref name=Rodrig2007&gt;[http://books.google.com/books?id=4X44KbDBl9gC&amp;pg=PA79&amp;lpg=PA79&amp;dq=Cape+Verde+Peninsula+Portugal+1444+1445&amp;source=bl&amp;ots=IuV2Wk3fSZ&amp;sig=qYWtmZTuTLXLmQpEVAiVki914dw&amp;hl=en&amp;sa=X&amp;ei=tmL6T9OJLJOs8ASj3v3JBg&amp;ved=0CDYQ6AEwAA#v=onepage&amp;q=Cape%20Verde%20Peninsula%20Portugal%201444%201445&amp;f=false P. Rodriguez, Junius ''Slavery in the United States: A Social, Political, and Historical Encyclopedia: Volume 2''], ABC-CLIO, 2005, p. 79, accessed 9 July 2012&lt;/ref&gt;
+
+The first [[feitoria]] trade post overseas was established in 1445 on the island of [[Arguin]] off the coast of Mauritania, to attract Muslim traders and monopolize the business in the routes travelled in North Africa. In 1446, [[Álvaro Fernandes]] pushed on almost as far as present-day [[Sierra Leone]] and the [[Gulf of Guinea]] was reached in the 1460s.&lt;ref&gt;[http://books.google.com/books?id=VsqCelF9OdkC&amp;pg=PA156&amp;lpg=PA156&amp;dq=Diogo+Cao+Cape+Cross&amp;source=bl&amp;ots=_7SdObu1JE&amp;sig=KXG2Hz9klc4pjJZ1LPpmRn3uFKo&amp;hl=en&amp;sa=X&amp;ei=ij37T7bJN46k8gS7quzaBg&amp;ved=0CE8Q6AEwBjgU#v=onepage&amp;q=Diogo%20Cao%20Cape%20Cross&amp;f=false W. Diffie, Bailey ''Foundations of the Portuguese Empire, 1415-1580''], University of Minnesota Press, 1977, p. 469, accessed 9 July 2012&lt;/ref&gt;&lt;ref&gt;[http://books.google.com/books?id=Wuc7AAAAIAAJ&amp;pg=PA30&amp;lpg=PA30&amp;dq=%C3%81lvaro+Fernandes+Sierra+Leone&amp;source=bl&amp;ots=ckK_Bh_B6j&amp;sig=o9Sug1tyD2wUXQ4hiwuPBKaVYGU&amp;hl=en&amp;sa=X&amp;ei=EFH7T7P_GZSu8QSXorn8Bg&amp;ved=0CDwQ6AEwAQ#v=onepage&amp;q=%C3%81lvaro%20Fernandes%20&amp;f=false Peter Kup, Alexander ''A History of Sierra Leone, 1400-1787''], Cambridge University Press, 1961, p. 1, accessed 9 July 2012&lt;/ref&gt;
+[[File:Amina.jpg|thumb|left|A 16th-c. map showing Portuguese claims to [[Guinea (region)|Guinea]] and [[Elmina Castle|São Jorge da Mina]].]]
+Expansion of [[sugarcane]] in Madeira started in 1455, using advisers from [[Sicily]] and (largely) [[Republic of Genoa|Genoese]] capital to produce the ''&quot;sweet salt&quot;'' [[History of sugar|rare in Europe]]. Already cultivated in [[Algarve]], the accessibility of Madeira attracted Genoese and Flemish traders keen to bypass Venetian monopolies. Slaves were used, and the proportion of imported slaves in Madeira reached 10% of the total population by the 16th century.&lt;ref&gt;Godinho, V. M. ''Os Descobrimentos e a Economia Mundial'', Arcádia, 1965, Vol 1 and 2, Lisboa&lt;/ref&gt; &quot;By 1480 [[Antwerp]] had some seventy ships engaged in the Madeira sugar trade, with the refining and distribution concentrated in Antwerp. By the 1490s Madeira had overtaken Cyprus as a producer of sugar.&quot;&lt;ref name=&quot;Ponting 2000 482&quot;&gt;{{cite book
+|last= Ponting
+|first= Clive
+|authorlink= Clive Ponting
+|title= World history: a new perspective
+|origyear= 2000
+|year= 2000
+|publisher= Chatto &amp; Windus
+|location= London
+|isbn= 0-7011-6834-X
+|pages=  482
+}}&lt;/ref&gt;
+The success of sugar merchants such as [[Bartolomeo Marchionni]] would propel the investment in future travels.&lt;ref&gt;[http://books.google.com/books?id=cPn3N0CvKyAC&amp;pg=PA84&amp;lpg=PA84&amp;dq=Sugar+merchant+Bartolomeo+Marchionni&amp;source=bl&amp;ots=pI2qThmIIr&amp;sig=_0cWpPzZ7VeYkwLnOHQSJZXSItQ&amp;hl=en&amp;sa=X&amp;ei=Gzj7T9aqIoH68gTw2JzbBg&amp;ved=0CEAQ6AEwAg#v=onepage&amp;q=Sugar%20merchant%20Bartolomeo%20Marchionni&amp;f=false Brion Davis, David ''Inhuman Bondage: The Rise And Fall of Slavery in the New World''], Oxford University Press, 2006, p. 84, accessed 9 July 2012&lt;/ref&gt;
+
+In 1469, after prince Henry's death and as a result of meagre returns of the African explorations, King [[Afonso V of Portugal|Afonso V]] granted the monopoly of trade in part of the [[Gulf of Guinea]] to merchant [[Fernão Gomes]].&lt;ref&gt;Bethencourt, Francisco. Curto, Diogo Ramada. (2007). Portuguese Overseas Expansion, 1400-1800. Cambridge University Press. p. 232.&lt;/ref&gt; Gomes, who had to explore {{convert|100|mi|km}} of the coast each year for five years, discovered the islands of the Gulf of Guinea, including [[São Tomé and Príncipe]] and found a thriving [[alluvial]] gold trade among the natives and visiting Arab and Berber traders at the port then named [[Elmina|Mina]] (the mine), where he established a trading post.&lt;ref name=FoF2005&gt;[http://books.google.com/books?id=k6IcwmDG3cAC&amp;pg=PA138&amp;lpg=PA138&amp;dq=Fern%C3%A3o+Gomes&amp;source=bl&amp;ots=DgGLZeWBTf&amp;sig=R1_Yj7Nx4Z7UljckRF8df3F-pdU&amp;hl=en&amp;sa=X&amp;ei=jWr6T4KTJIqs9ATS1KDtBg&amp;ved=0CEAQ6AEwAg#v=onepage&amp;q=Fern%C3%A3o%20Gomes&amp;f=false White, Pamela; Isserman, Maurice; Stewart Bowman, John ''Exploration in the World of the Middle Ages, 500-1500''], Facts on File, Inc., 2005, p. 138, accessed 9 July 2012&lt;/ref&gt; Trade between Elmina and Portugal grew throughout a decade. In 1481, the recently crowned [[John II of Portugal|João II]] decided to build [[São Jorge da Mina]] in order to ensure the protection of this trade, which was held again as a royal monopoly. The [[Equator]] was crossed by navigators sponsored by Fernão Gomes in 1473 and the [[Congo River]] by [[Diogo Cão]] in 1482. During his 1485-86 expedition, Cão continued to [[Cape Cross]], in present-day [[Namibia]], near the [[Tropic of Capricorn]].&lt;ref&gt;[http://books.google.com/books?id=VsqCelF9OdkC&amp;pg=PA156&amp;lpg=PA156&amp;dq=Diogo+Cao+Cape+Cross&amp;source=bl&amp;ots=_7SdObu1JE&amp;sig=KXG2Hz9klc4pjJZ1LPpmRn3uFKo&amp;hl=en&amp;sa=X&amp;ei=ij37T7bJN46k8gS7quzaBg&amp;ved=0CE8Q6AEwBjgU#v=onepage&amp;q=Diogo%20Cao%20Cape%20Cross&amp;f=false W. Diffie, Bailey ''Foundations of the Portuguese Empire, 1415-1580''], University of Minnesota Press, 1977, p. 156, accessed 9 July 2012&lt;/ref&gt;
+
+In 1488, [[Bartolomeu Dias]] rounded the [[Cape of Good Hope]] on the southern tip of Africa, proving false the view that had existed since [[Ptolemy]] that the [[Indian Ocean]] was [[land-locked]]. Simultaneously [[Pêro da Covilhã]], traveling secretly overland, had reached [[Ethiopia]], suggesting that a sea route to the Indies would soon be forthcoming.&lt;ref&gt;[[#refAnderson|Anderson]], p.&amp;nbsp;59&lt;/ref&gt;
+
+As the Portuguese explored the coastlines of Africa, they left behind a series of [[Padrão|padrões]], stone crosses engraved with the Portuguese coat of arms marking their claims,&lt;ref&gt;[[#refNewitt|Newitt]], p.&amp;nbsp;47&lt;/ref&gt; and built forts and trading posts. From these bases, they engaged profitably in the slave and gold trades. Portugal enjoyed a virtual monopoly on the African seaborne slave trade for over a century, importing around 800 slaves annually. Most were brought to the Portuguese capital [[Lisbon]], where it is estimated black Africans came to constitute 10 per cent of the population.&lt;ref&gt;[[#refAnderson|Anderson]], p.&amp;nbsp;55&lt;/ref&gt;
+
+===Tordesilhas division of the world (1494)===
+[[Image:Spain and Portugal.png|thumb|right|300px|The 1494 [[Treaty of Tordesilhas]] meridian divided the world between the crowns [[Kingdom of Portugal|of Portugal]] and [[Crown of Castile|of Castile]].]]
+{{main|Treaty of Tordesilhas}}
+In 1492 [[Christopher Columbus]]'s discovery for [[Spain]] of the [[New World]], which he believed to be Asia, led to disputes between the Spanish and Portuguese.&lt;ref&gt;N. McAlister, Lyle. (1984) ''Spain and Portugal in the New World: 1492-1700.'' pp.73-75.&lt;/ref&gt; These were eventually settled by the [[Treaty of Tordesilhas]] in 1494, which divided the world outside of Europe in an exclusive [[duopoly]] between the Portuguese and the Spanish along a north-south meridian 370 [[League (unit)|leagues]], or {{convert|970|mi|km|-1}}, west of the Cape Verde islands.&lt;ref&gt;Bethencourt, Francisco; Curto, Diogo Ramada. (2007) ''Portuguese Overseas Expansion, 1400-1800.'' p.165.&lt;/ref&gt; However, as it was not possible at the time to correctly measure [[longitude]], the exact boundary was disputed by the two countries until 1777.&lt;ref&gt;[[#refDiffie|Diffie]], p.&amp;nbsp;174&lt;/ref&gt;
+
+The completion of these negotiations with Spain is one of several reasons proposed by historians for why it took nine years for the Portuguese to follow up on Dias's voyage to the Cape of Good Hope, though it has also been speculated that other voyages were in fact taking place in secret during this time.&lt;ref&gt;[[#refDiffie|Diffie]], p.&amp;nbsp;176&lt;/ref&gt;&lt;ref&gt;[[#refBoxer|Boxer]], p.&amp;nbsp;36&lt;/ref&gt; Whether or not this was the case, the long-standing Portuguese goal of finding a sea route to Asia was finally achieved in a [[Discovery of the sea route to India|ground-breaking voyage]] commanded by [[Vasco da Gama]].&lt;ref&gt;[http://books.google.com/books?id=VsqCelF9OdkC&amp;pg=PA156&amp;lpg=PA156&amp;dq=Diogo+Cao+Cape+Cross&amp;source=bl&amp;ots=_7SdObu1JE&amp;sig=KXG2Hz9klc4pjJZ1LPpmRn3uFKo&amp;hl=en&amp;sa=X&amp;ei=ij37T7bJN46k8gS7quzaBg&amp;ved=0CE8Q6AEwBjgU#v=onepage&amp;q=Diogo%20Cao%20Cape%20Cross&amp;f=false W. Diffie, Bailey ''Foundations of the Portuguese Empire, 1415-1580''], University of Minnesota Press, 1977, pp. 176-185, accessed 9 July 2012&lt;/ref&gt;
+
+===Portuguese enter the Indian Ocean (1497–1542)===
+{{Main|Portuguese India Armadas}}
+[[File:Retrato de Vasco da Gama.png|thumb|left|[[Vasco da Gama]] opened Portugal to the East and gave way for its monopoly there.]]
+The squadron of [[Vasco da Gama]] left Portugal in 1497, rounded the Cape and continued along the coast of East Africa, where a local pilot was brought on board who guided them across the [[Indian Ocean]], reaching [[Kozhikode|Calicut]] (the capital of the native kingdom ruled by [[Zamorin]]s) in south-western [[India]] in May 1498.&lt;ref&gt;[[#refScammell|Scammell]], p.&amp;nbsp;13&lt;/ref&gt; The second voyage to India was dispatched in 1500 under [[Pedro Álvares Cabral]]. While following the same south-westerly route as Gama across the Atlantic Ocean, Cabral made landfall on the Brazilian coast. This was probably an accidental discovery, but it has been speculated that the Portuguese secretly knew of Brazil's existence and that it lay on their side of the Tordesillas line.&lt;ref&gt;[[#refMcAlister|McAlister]], p.&amp;nbsp;75&lt;/ref&gt; Cabral recommended to the Portuguese King that the land be settled, and two follow up voyages were sent in 1501 and 1503. The land was found to be abundant in ''pau-brasil'', or [[brazilwood]], from which it later inherited its name, but the failure to find gold or silver meant that for the time being Portuguese efforts were concentrated on India.&lt;ref&gt;[[#refMcAlister|McAlister]], p.&amp;nbsp;76&lt;/ref&gt;
+
+Profiting from the rivalry between the [[Cochin kingdom|ruler of Kochi]] and the [[Zamorin]] of [[History of Kozhikode|Calicut]], the Portuguese were well received and seen as allies, getting a permit to build a [[Fort Kochi|fort (Fort Manuel)]] and a trading post that were the first European settlement in India.  In 1505 King [[Manuel I of Portugal]] appointed [[Francisco de Almeida]] first [[Viceroy]] of Portuguese India, establishing the Portuguese government in the east. That year the Portuguese conquered [[Kannur]] where they founded [[St. Angelo Fort]]. [[Lourenço de Almeida]] arrived in [[Ceylon]] (modern Sri Lanka), where he discovered the source of [[cinnamon]].&lt;ref&gt;Bethencourt, Francisco; Curto, Diogo Ramada. (2007) ''Portuguese Overseas Expansion, 1400-1800.'' p.207.&lt;/ref&gt;
+
+In 1506 a Portuguese fleet under the command of [[Tristão da Cunha]] and [[Afonso de Albuquerque]], conquered [[Socotra]] at the entrance of the [[Red Sea]] and [[Muscat, Oman|Muscat]] in 1507, having failed to conquer [[Ormuz]], following a strategy intended to close the entrances to the Indian Ocean. That same year were built fortresses in the [[Island of Mozambique]] and [[Mombasa]] on the Kenyan coast. [[Madagascar]] was partly explored by [[Tristão da Cunha]] and in the same year [[Mauritius]] was discovered.&lt;ref&gt;[http://books.google.com/books?id=_EusZwEdxpAC&amp;pg=PA11&amp;lpg=PA11&amp;dq=Tristao+da+Cunha+Mauritius&amp;source=bl&amp;ots=OJWvDT0xFY&amp;sig=RhD7pSm4ZG_Z_JSs3_yzV0RQPTE&amp;hl=en&amp;sa=X&amp;ei=_0n7T72sBobe9ATg_b3WBg&amp;ved=0CEYQ6AEwAw#v=onepage&amp;q=Tristao%20da%20Cunha%20Mauritius&amp;f=false Macmillan, Allister ''Mauritius (Illustrated)''], Educa Books; Facsimile edition 2000, p. 11, accessed 9 July 2012&lt;/ref&gt;
+
+In 1509, the Portuguese won the sea [[Battle of Diu (1509)|Battle of Diu]] against the combined forces of the [[Ottoman Empire|Ottoman]] Sultan [[Beyazid II]], [[Gujarat Sultanate|Sultan of Gujarat]], [[Mamluk|Mamlûk Sultan of Cairo]], [[Zamorin]] of [[Kozhikode]], [[Venetian Republic]], and [[Ragusan Republic]] (Dubrovnik). The Portuguese victory was critical for its strategy of control of the Indian Sea.
+[[File:Portuguese Carracks off a Rocky Coast.jpg|thumb|right|300px|The [[Santa Catarina do Monte Sinai]] carrack exemplified the might and the force of the [[Portuguese Navy|Portuguese Armada]].]]
+Turks and Egyptians withdrew their navies from India, leaving the seas to the Portuguese, setting its trade dominance for almost a century, and greatly assisting the growth of the Portuguese Empire. It also marked the beginning of the European colonial dominance in Asia. A [[Siege of Diu|second Battle of Diu]] in 1538 finally ended Ottoman ambitions in India and confirmed Portuguese hegemony in the Indian Ocean.&lt;ref name=Primus10/&gt;
+
+Under the government of Albuquerque, [[Goa]] was taken from the [[Adil Shahi dynasty|Bijapur sultanate]] in 1510 with the help of Hindu [[privateer]] [[Timoji]]. Coveted for being the best port in the region, mainly for the commerce of Arabian horses for the [[Deccan sultanates]], it allowed to move on from the guest stay in Kochi. 
+
+Despite constant attacks, it became the headquarters of the Portuguese state in India, with its conquest triggering compliance of neighbor kingdoms: [[Gujarat]] and [[History of Kozhikode|Calicut]] sent embassies, offering alliances and grants to fortify. Albuquerque began that year in Goa the first Portuguese [[Mint (coin)|mint]] in India, taking the opportunity to announce the achievement.&lt;ref&gt;[[#refDeSouza|DeSouza]], p.&amp;nbsp;220&lt;/ref&gt;
+
+Initially king Manuel I and his council in Lisbon had tried to distribute power in the Indian Ocean, creating three areas of jurisdiction: Albuquerque was sent to the Red Sea, [[Diogo Lopes de Sequeira]] to South-east Asia, seeking an agreement with the Sultan of Malacca, and Jorge de Aguiar followed by Duarte de Lemos were sent to the area between the Cape of Good Hope and Gujarat.&lt;ref&gt;[[#refDiffie|Diffie]], p.&amp;nbsp;245–247&lt;/ref&gt; However, such posts were centralized by Afonso de Albuquerque and remained so in subsequent ruling.&lt;ref&gt;[http://books.google.com/books?id=K7RlmNEzqf4C&amp;pg=PA102&amp;lpg=PA102&amp;dq=Afonso+de+Albuquerque+centralizing&amp;source=bl&amp;ots=XjFOOB71Zg&amp;sig=LQLI0sKmUmj0fk2q_fqE30NjK-Y&amp;hl=en&amp;sa=X&amp;ei=RtX-T-eXAYnA8ATtlanvBg&amp;ved=0CEMQ6AEwBDgU#v=onepage&amp;q=Afonso%20de%20Albuquerque%20centralizing&amp;f=false Subrahmanyam, Sanjay ''The Portuguese Empire in Asia, 1500-1700: A Political and Economic History''], Wiley-Blackwell; 2nd ed.; 2012, pp. 67-83, accessed 12 July 2012&lt;/ref&gt;
+{{clr}}
+
+===Southeast Asia and the spice trade===
+{{Main|History of Macau|History of Goa}}
+[[File:Macau oldmap.jpg|thumb|left|300px|A depiction, from 1639, of the [[Macau peninsula]], during the golden age of colonization of [[Portuguese Macau]].]]
+In 1505, Portuguese traders reached [[Portuguese Ceylon|Ceylon]]; their initial forays were against [[Kotte Kingdom|Kotte]], which enjoyed a lucrative [[monopoly]] on the [[spice trade]], which was also of interest to the Portuguese.&lt;ref name=TA2/&gt; Although [[Sankili Segarajasekaran|Cankili I]] of [[Jaffna]] initially resisted contact with them, the [[Jaffna kingdom]] came to the attention of Portuguese officials soon after for their resistance to missionary activities as well as logistical reasons due to its proximity with [[Trincomalee]] harbour among other reasons.&lt;ref name=TA2&gt;Abeysinghe, T. ''Jaffna Under the Portuguese'', p.  2&lt;/ref&gt;  In April 1511 Albuquerque sailed to [[Malacca]] in Malaysia,&lt;ref&gt;Ricklefs, M.C. (1991). A History of Modern Indonesia Since c. 1300, 2nd Edition. London: MacMillan, p. 23. ISBN 0-333-57689-6.&lt;/ref&gt; the most important east point in the trade network where Malay met Gujarati, Chinese, Japanese, Javanese, Bengali, Persian and Arabic traders, among others, described by [[Tomé Pires]] as of invaluable richness. 
+
+The peninsula of Malacca became then the strategic base for Portuguese trade expansion with China and South-east Asia, under the Portuguese rule  with its capital at Goa. To defend the city was erected a strong gate which, called the &quot;A Famosa&quot;, still remains. Knowing of Siamese ambitions over Malacca, Albuquerque sent immediately [[Duarte Fernandes]] on a diplomatic mission to the [[Ayutthaya Kingdom|kingdom of Siam]] (modern Thailand), where he was the first European to arrive, establishing amicable relations between both kingdoms.&lt;ref&gt;Donald Frederick Lach, Edwin J. Van Kley, &quot;Asia in the making of Europe&quot;, p. 520–521, University of Chicago Press, 1994, ISBN 978-0-226-46731-3&lt;/ref&gt; In November that year, getting to know the location of the so-called &quot;[[Maluku Islands|Spice Islands]]&quot; in the Moluccas, he sent an expedition led by [[António de Abreu]] to find them, arriving in early 1512. Abreu went by Ambon while deputy commander [[Francisco Serrão]] came forward to [[Ternate]], where a Portuguese fort was allowed. 
+[[File:Afonso de Albuquerque.jpg|thumb|right|[[Afonso de Albuquerque]] established Portuguese dominence in South Asia.]]
+That same year, in Indonesia, the Portuguese took [[Makassar]], reaching [[Timor]] in 1514. Departing from Malacca, [[Jorge Álvares]] came to southern [[China]] in 1513. This visit was followed the arrival in [[Guangzhou]]. From 1516 on Portuguese traders established in [[Shangchuan Island]], until in 1557 the Ming court gave consent for a permanent official Portuguese trade base at [[Macau]].&lt;ref&gt;Bethencourt, Francisco; Curto, Diogo Ramada. (2007) ''Portuguese Overseas Expansion, 1400-1800.'' p.294.&lt;/ref&gt;&lt;ref name=UMinn76/&gt;
+
+The Portuguese empire expanded into the Persian Gulf as Portugal contested control of the spice trade with the [[Ottoman Empire]]. In 1515, [[Afonso de Albuquerque]] conquered the [[Huwala]] state of [[Ormus|Hormuz]] at the head of the Persian Gulf, establishing it as a vassal state. [[Aden]], however, resisted Albuquerque's expedition in that same year, and another attempt by Albuquerque's successor [[Lopo Soares de Albergaria]] in 1516, before capturing [[Bahrain]] in 1521, when a force led by [[Antonio Correia]] defeated the [[Jabrid]] King, [[Muqrin ibn Zamil]].&lt;ref&gt;Juan Cole, Sacred Space and Holy War, IB Tauris, 2007 p 37&lt;/ref&gt; In a shifting series of alliances, the Portuguese dominated much of the southern Persian Gulf for the next hundred years. With the regular maritime route linking Lisbon to Goa since 1497, the island of [[Mozambique]] become a strategic port, and there was built [[Fort São Sebastião]] and an hospital. In the Azores, the Islands Armada protected the ships en route to Lisbon. &lt;ref&gt;[http://books.google.com/books?id=fzJc8ii7OMsC&amp;pg=PA125&amp;dq=Madeira+Azores&amp;hl=en&amp;sa=X&amp;ei=e1b7T5KnHOGC2AWirOTzBg&amp;ved=0CEUQ6AEwAw#v=onepage&amp;q=Madeira%20Azores&amp;f=false O'Flanagan, Patrick ''Port Cities of Atlantic Iberia, C. 1500-1900''], Ashgate Publishing, 2008, p. 125, accessed 9 July 2012&lt;/ref&gt;
+
+In 1525, after [[Fernão de Magalhães]]'s expedition (1519–1522), Spain under Charles V sent an expedition to colonize the [[Moluccas islands]], claiming that they were in his zone of the [[Treaty of Tordesillas]], since there was not a set limit to the east. [[García Jofre de Loaísa]] expedition reached the Moluccas, docking at [[Tidore]]. The conflict with the Portuguese already established in nearby Ternate was inevitable, starting nearly a decade of skirmishes. An agreement was reached only with the [[Treaty of Zaragoza (1529)]], attributing the Moluccas to Portugal and the [[Philippines]] to Spain.&lt;ref name=ABC04&gt;[http://books.google.com/books?id=QKgraWbb7yoC&amp;pg=PA1340&amp;lpg=PA1340&amp;dq=Treaty+of+Zaragoza+1529&amp;source=bl&amp;ots=3WsSN8880Y&amp;sig=4_blOucVtZQCHf8GAfutZsuEVnA&amp;hl=en&amp;sa=X&amp;ei=t1P6T-yLEoee8gT3yP3IBg&amp;ved=0CFAQ6AEwBA#v=onepage&amp;q=Treaty%20of%20Zaragoza%201529&amp;f=false Ooi, Keat Gin ''Southeast Asia: A Historical Encyclopedia, from Angkor Wat to East Timor: Volume 1''], ABC-CLIO, 2004, p. 1340, accessed 8 July 2012&lt;/ref&gt;
+
+In 1534, Gujarat was occupied by the [[Mughals]] and the Sultan [[Bahadur Shah of Gujarat]] was forced to sign the [[Treaty of Bassein (1534)]] with the Portuguese, establishing an alliance to regain the country, giving in exchange [[Daman, Daman and Diu|Daman]], [[Diu, India|Diu]], [[Mumbai]] and [[Vasai|Bassein]].&lt;ref&gt;{{cite book| first=Sarina |last=Singh |title= India|publisher=Lonely Planet |year=2003 |isbn=1-74059-421-5 |ref=refDeSouza|url=http://books.google.com/books?id=eqM-VSjw0gAC&amp;pg=PA726&amp;dq=%22Bahadur+Shah+of+Gujarat%22&amp;ei=EEbTRpq6JKLY7AL_n4By&amp;ie=ISO-8859-1&amp;output=html&amp;sig=Ne24xZxzNNcZo1FrMyX-z4-59AU}}&lt;/ref&gt; In 1538 the fortress of Diu is again surrounded by Ottoman ships. Another siege failed in 1547 putting an end to the Ottoman ambitions, confirming the Portuguese hegemony.&lt;ref name=Primus10&gt;[http://books.google.com/books?id=rN69iFj1PJoC&amp;pg=PA116&amp;lpg=PA116&amp;dq=Siege+of+Diu+Ottoman&amp;source=bl&amp;ots=zB_c_s0S1Y&amp;sig=r7-iwn_S6OyXrUKYDR9hqWF_v9Y&amp;hl=en&amp;sa=X&amp;ei=vFX6T9enJ4yK8QT0m8nJBg&amp;ved=0CDYQ6AEwAA#v=onepage&amp;q=Siege%20of%20Diu%20Ottoman&amp;f=false Malekandathil, Pius ''Maritime India: Trade, Religion and Polity in the Indian Ocean''], Primus Books, 2010, pp. 116-118, accessed 8 July 2012&lt;/ref&gt;
+
+In 1542, Jesuit missionary [[Francis Xavier]] arrived in Goa at the service of King [[John III of Portugal]], in charge of an [[Apostolic Nunciature]]. At the same time Francisco Zeimoto and other traders arrived in [[Japan]] for the first time. According to [[Fernão Mendes Pinto]], who claimed to be in this journey, they arrived at [[Tanegashima]], where the locals were impressed by [[Firearms of Japan|firearms]], that would be immediately made by the Japanese on a large scale.&lt;ref&gt;Arnold Pacey, &quot;Technology in world civilization: a thousand-year history&quot;, ISBN 0-262-66072-5&lt;/ref&gt; 
+[[File:Joao III Francisco Xavier.jpg|thumb|left|300px|[[St. Francis Xavier]] requesting [[John III of Portugal]] for an Catholic [[Goa Inquisition|expedition and inquisition]] in [[Portuguese India]].]]
+The Portuguese explorer Simão de Andrade started bad relations with China, due to his pirate activities, raiding Chinese shipping, attacking a Chinese official and kidnappings of Chinese. He based himself at Tamao island in a fort. The Chinese claimed that Simão kidnapped Chinese boys and girls to be molested and cannibalized.&lt;ref name=UMinn76&gt;{{cite book|url=http://books.google.com/books?id=RE5vls1XeEgC&amp;pg=PA226&amp;lpg=PA226&amp;dq=Simao+de+Andrade&amp;source=bl&amp;ots=zAwe8Hr2Q4&amp;sig=gMqm3DiZEOrybLFQLGBk-QWiyQM&amp;hl=en&amp;sa=X&amp;ei=f1n6T97sB5Os8ASj3v3JBg&amp;ved=0CFkQ6AEwBg#v=onepage&amp;q=Simao%20de%20Andrade&amp;f=false|title=Historic Macao|author=Carlos Augusto Montalto Jesus|year=1902|publisher=Kelly &amp; Walsh, limited|location=|page=5|isbn=|pages=|accessdate=2010-07-14}}&lt;/ref&gt; As a result, the Chinese posted an edict banning men with caucasian features from entering Canton.
+&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=tMsNAAAAIAAJ&amp;pg=PA5&amp;dq=Sim%C3%A3o+de+Andrade+kidnapping&amp;hl=en&amp;ei=XPgOTb7eH8H88AbQvOHsDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCMQ6AEwAA#v=onepage&amp;q&amp;f=false|title=Islands and Empires: Western Impact on the Pacific and East Asia|author=Erneset Stanley Dodge|year=1976|publisher=University of Minnesota Press|location=|page=5|isbn=|page=226|accessdate=2012-09-07}}&lt;/ref&gt; 
+
+The Chinese responded by killing multiple Portuguese in Canton and drove the Portuguese back to sea.&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=jM4NAAAAIAAJ&amp;pg=PA339&amp;dq=Sim%C3%A3o+de+Andrade+kidnapping&amp;hl=en&amp;ei=XPgOTb7eH8H88AbQvOHsDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=6&amp;ved=0CD0Q6AEwBQ#v=onepage&amp;q&amp;f=false|title=The rise of Portuguese power in India, 1497–1550|author=Richard Stephen Whiteway|year=1899|publisher=A. Constable|location=|page=339|isbn=|pages=|accessdate=2010-07-14}}&lt;/ref&gt; After the Sultan of Bintan detained several Portuguese under Tomás Pires, the Chinese then executed 23 Portuguese and threw the rest into prison where they resided in squalid, sometimes fatal conditions. 
+
+The Chinese then massacred Portuguese who resided at [[Ningbo]] and [[Fujian]] trading posts in 1545 and 1549, due to extensive and damaging raids by the Portuguese along the coast, which irritated the Chinese.&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=B9jOp9SlQIwC&amp;pg=PA226&amp;dq=Sim%C3%A3o+de+Andrade+kidnapping&amp;hl=en&amp;ei=XPgOTb7eH8H88AbQvOHsDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CDQQ6AEwAw#v=onepage&amp;q&amp;f=false|title=Islands and Empires: Western Impact on the Pacific and East Asia|author=Ernest S. Dodge|year=1976|publisher=U of Minnesota Press|location=|page=226|isbn=0-8166-0853-9|pages=|accessdate=2010-07-14}}&lt;/ref&gt; As Portugal increased its presence along China's coast, they began [[Slavery in Portugal|trading in slaves]]. Many Chinese slaves were sold to Portugal.&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=l2qSNQnlQGcC&amp;pg=PA103&amp;dq=sul+portugal+chineses+escravos&amp;hl=en&amp;ei=UtcOTaO7HYOB8ga54uXUDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10&amp;ved=0CE8Q6AEwCQ#v=onepage&amp;q=sul%20portugal%20chineses%20escravos&amp;f=false|title=Chòque luso no Japão dos séculos XVI e XVII|author=José Yamashiro|year=1989|publisher=IBRASA|location=|page=103|isbn=85-348-1068-0|pages=|accessdate=2010-07-14}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=http://books.google.com/books?ei=6M8OTdz6OcP48Ab0l4m8Dg&amp;ct=result&amp;id=DrlIAAAAYAAJ&amp;dq=escravo+Ant%C3%B3nio%2C+china+azamel&amp;q=residente+em+Portugal+entre+1578+e+1583%2C+se+referiu+aos+escravos+como+oriundos+da+%C3%81frica%2C+da+%C3%ADndia%2C+do+Jap%C3%A3o+e+da+China|title=Viagem ao fundo das consciências: a escravatura na época moderna|author=Maria do Rosário Pimente|year=1995|publisher=Edições Colibri|location=|page=49|isbn=972-8047-75-4|pages=|accessdate=2010-07-14}}&lt;/ref&gt; Since the 16th century Chinese slaves existed in Portugal, most of them were Chinese children and a large amount were shipped to the Indies.&lt;ref&gt;{{Cite web|url=http://bibliotecavirtual.clacso.org.ar/ar/libros/anpocs00/gt09/00gt0934.doc|title=MIGRAÇÃO SOB CONTRATO: A OPINIÃO DE EÇA DE QUEIROZ|author=Julita Scarano|publisher=Unesp-   Ceru|page=4|accessdate=2010-07-14}}&lt;/ref&gt; 
+
+Chinese prisoners were sent to Portugal, where they were sold as slaves, they were prized and regarded better than moorish and black slaves.&lt;ref&gt;{{cite book|url=http://books.google.com/books?ei=Z_fpTMm6OsX_lgfKnOT6Cw&amp;ct=result&amp;id=5s0YAAAAIAAJ&amp;dq=chinese+slaves+southern+portugal&amp;q=chinese+japanese|title=Macmillan encyclopedia of world slavery, Volume 2|author=Paul Finkelman, Joseph Calder Miller|year=1998|publisher=Macmillan Reference USA, Simon &amp; Schuster Macmillan|location=|page=737|isbn=0-02-864781-5|pages=|accessdate=2010-10-14}}&lt;/ref&gt;
+The first known visit of a Chinese person to Europe dates to 1540, when a Chinese scholar, enslaved during one of several Portuguese raids somewhere on the southern China coast, was brought to Portugal. Purchased by [[João de Barros]], he worked with the Portuguese historian on translating Chinese texts into Portuguese.&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=9x3vE0UMPkMC&amp;pg=PA81&amp;dq=first+visit+chinese+in+europe+england+london&amp;hl=en&amp;ei=MeQOTfiYBYG88ga43-nTDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=6&amp;ved=0CEoQ6AEwBQ#v=onepage&amp;q=first%20visit%20chinese%20in%20europe%20england%20london&amp;f=false|title=The great encounter of China and the West, 1500–1800|author=David E. Mungello|year=2009|publisher=Rowman &amp; Littlefield|location=|page=81|isbn=0-7425-5798-7|pages=|accessdate=2010-10-14}}&lt;/ref&gt;
+
+Chinese children were kidnapped in China, and through [[Macau]] were brought to Portugal and sold as slaves either in Macau or overseas.&lt;ref&gt;{{cite book|url=http://books.google.com/books?ei=EqxdTI3uIMGB8gbZn_XEDQ&amp;ct=result&amp;id=wNZ6AAAAMAAJ&amp;dq=escravo+Chin%C3%AAs&amp;q=J%C3%A1+por+a%C3%AD+se+v%C3%AA+que+devem+ter+sido+numerosos+os+escravos+chineses+que+tomaram+o+caminho+de+Lisboa+%E2%80%94+e+por+extens%C3%A3o+o+do+Brasil|title=A China no Brasil: influências, marcas, ecos e sobrevivências chinesas na sociedade e na arte brasileiras|author=José Roberto Teixeira Leite|year=1999|publisher=Editora da Unicamp|location=|page=20|isbn=85-268-0436-7|pages=|accessdate=2010-07-14}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=http://books.google.com/books?ei=ha5dTNqmNIH68AbomoG0DQ&amp;ct=result&amp;id=wNZ6AAAAMAAJ&amp;dq=escravo+Chin%C3%AAs+lisboa&amp;q=escravo+Chin%C3%AAs+lisboa+macau|title=A China no Brasil: influências, marcas, ecos e sobrevivências chinesas na sociedade e na arte brasileiras|author=José Roberto Teixeira Leite|year=1999|publisher=Editora da Unicamp|location=|page=20|isbn=85-268-0436-7|pages=|accessdate=2010-07-14}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=l2qSNQnlQGcC&amp;pg=PA101&amp;dq=%C3%A1+na+d%C3%A9cada+de+1520,+os+portugueses+compravam+numerosos+chineses+(homens,+mulheres+e+crian%C3%A7as)+para+vend%C3%AA-los+como+escravos&amp;hl=en&amp;ei=Mq5dTIy2HYT48AaC6om4DQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCUQ6AEwAA#v=snippet&amp;q=chineses%20compravam%20de%201520%20portugueses&amp;f=false|title=Chòque luso no Japão dos séculos XVI e XVII|author=José Yamashiro|year=1989|publisher=IBRASA|location=|page=101|isbn=85-348-1068-0|pages=|accessdate=2010-07-14}}&lt;/ref&gt;
+[[File:NanbanGroup.JPG|thumb|right|Portugal was first european nation to [[Nanban trade|establish trade and routes with Japan]].]]
+Mocquet noted that a lot of the Chinese in Portuguese India were slaves from Macau, since the Portuguese preferred Chinese as domestic household workers.&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?id=qUAsAAAAMAAJ&amp;q=These+Chinese+slaves+and+domestic+servants+were+for+the+most+part+kidnapped+from+their+villages+when+they+were+young,+and+sold+to+the+Portuguese+by+native+pimps.+The+French+traveller+Mocquet,+writing+in+the+second+decade+of+the&amp;dq=These+Chinese+slaves+and+domestic+servants+were+for+the+most+part+kidnapped+from+their+villages+when+they+were+young,+and+sold+to+the+Portuguese+by+native+pimps.+The+French+traveller+Mocquet,+writing+in+the+second+decade+of+the&amp;hl=en&amp;ei=J1q8TvusKIL50gHTwtHIBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CC4Q6AEwAA
+|title=Fidalgos in the Far East 1550–1770
+|volume=
+|year=1968
+|author=Charles Ralph Boxer
+|editor=
+|publisher=Oxford U.P.
+|edition=2, illustrated, reprint
+|location=
+|isbn=
+|page=223
+|pages=
+|quote=These Chinese slaves and domestic servants were for the most part kidnapped from their villages when they were young, and sold to the Portuguese by native pimps. The French traveller Mocquet, writing in the second decade of the
+|accessdate=4th of November, 2011}}(the University of Michigan)&lt;/ref&gt;&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?id=W0fBhqb1kdkC&amp;pg=PA1629&amp;dq=Moc-+quet+claims+that+his+Chinese+hostess+in+Goa+had+been+kidnapped+in+Canton+and+sold+to+the+Portuguese+when+she+was+eight+years+old.&amp;hl=en&amp;ei=HUe7TuTAGcro0QHZ1q3eCQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDIQ6AEwAA#v=onepage&amp;q=Moc-%20quet%20claims%20that%20his%20Chinese%20hostess%20in%20Goa%20had%20been%20kidnapped%20in%20Canton%20and%20sold%20to%20the%20Portuguese%20when%20she%20was%20eight%20years%20old.&amp;f=false
+|title=Asia in the Making of Europe: A Century of Advance : East Asia
+|volume=Volume 3, Book 4 of Asia in the Making of Europe: Volume III, the Century of Advance
+|year=1998
+|coauthors=Donald F. Lach, Edwin J. Van Kley
+|editor=
+|publisher=University of Chicago Press
+|edition=illustrated
+|location=
+|isbn=0-226-46769-4
+|page=1629
+|pages=
+|quote=Some of these are taken out of China by the Portuguese and Spanish at Macao. Mocquet claims that his Chinese hostess in Goa had been kidnapped in Canton and sold to the Portuguese when she was eight years old. The Portuguese, he reports, prefer Chinese slaves because they are so faithful and industrious.
+|accessdate=4th of November, 2011}}&lt;/ref&gt; Goa, Manila, and Malacca received slaves from Macau.&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?id=oCx0D0iE2QoC&amp;pg=PA323&amp;dq=Teixeira+(1961c:+237-238)+notes+that+from+the+sixteenth+century+Macao+Japanese+and+Chinese+slaves+were+exported+to+Manila,+Malacca+and+Goa&amp;hl=en&amp;ei=0Va8TvTtG4nt0gHj9YXwBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDEQ6AEwAA#v=onepage&amp;q=Teixeira%20(1961c%3A%20237-238)%20notes%20that%20from%20the%20sixteenth%20century%20Macao%20Japanese%20and%20Chinese%20slaves%20were%20exported%20to%20Manila%2C%20Malacca%20and%20Goa&amp;f=false
+|title=Atlas of languages of intercultural communication in the Pacific, Asia and the Americas
+|volume=
+|year=1996
+|coauthors=Stephen Adolphe Wurm, Peter Mühlhäusler, Darrell T. Tryon
+|editor=
+|publisher=Walter de Gruyter
+|edition=
+|location=
+|isbn=3-11-013417-9
+|page=323
+|pages=
+|quote=Teixeira (1961c: 237–238) notes that from the sixteenth century Macao Japanese and Chinese slaves were exported to Manila, Malacca and Goa
+|accessdate=4th of November, 2011}}&lt;/ref&gt; Many different peoples were found in Goa, among the slaves, including those from Macau.&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?id=TbZaZw216gMC&amp;pg=PA45&amp;dq=As+many+travellers+have+noted+hordes+of+slaves+races+goa+indonesia+china+japan&amp;hl=en&amp;ei=XFe8TvOAPYfY0QHNuqHUBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CC4Q6AEwAA#v=onepage&amp;q=As%20many%20travellers%20have%20noted%20hordes%20of%20slaves%20races%20goa%20indonesia%20china%20japan&amp;f=false
+|title=Kaleidoscope of women in Goa, 1510–1961
+|volume=
+|year=1996
+|author=Fátima da Silva Gracias
+|editor=
+|publisher=Concept Publishing Company
+|edition=
+|location=
+|isbn=81-7022-591-4
+|page=45
+|pages=
+|quote=As many travellers have noted, hordes of slaves of different races were available and sold in the city of Goa. Slaves were procured from different parts of India and other countries including Africa, Malaya, Indonesia, China and Japan
+|accessdate=4th of November, 2011}}&lt;/ref&gt;
+
+Most slaves from Macau sent to Goa or Malacca were children. The King of Portugal in 1624 issued a decree forbidding people to take Chinese as slaves.&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?id=GglrUksvCUcC&amp;pg=PA114&amp;dq=chinese+slaves+goa&amp;hl=en&amp;ei=Wzu7TuqtHKLg0QGz_bHXCQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=7&amp;ved=0CFAQ6AEwBg#v=onepage&amp;q=chinese%20slaves%20goa&amp;f=false
+|title=Between China and Europe: person, culture, and emotion in Macao
+|volume=Volume 74 of London School of Economics monographs on social anthropology
+|year=2002
+|author=João de Pina-Cabral
+|editor=
+|publisher=Berg
+|edition=illustrated
+|location=
+|isbn=0-8264-5749-5
+|page=114
+|pages=
+|quote=
+|accessdate=4th of November, 2011}}&lt;/ref&gt; A 1571 law was passed by Portugal banning people from having Chinese slaves.&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?ei=50i8TuDXHsjY0QGZ78TXCQ&amp;ct=result&amp;id=qO84AAAAMAAJ&amp;dq=The+enslavement+of+Chinese+had+been+prohibited+by+the+Portuguese+Crown+in+1+57+1+and+again+in+1595%2C+but+full+enforcement+had+to+wait+until+the+decrees+promulgated+bv+Pombal+in+1+758.+Cf.+CR+Boxer%2C+Fidalgos+in+the+Far+East%2C+The+Hague&amp;q=1595
+|title=Race, Volume 5
+|volume=
+|year=1963
+|author=Institute of Race Relations
+|editor=
+|publisher=Institute of Race Relations
+|edition=
+|location=
+|isbn=
+|page=42
+|pages=
+|quote=The enslavement of Chinese had been prohibited by the Portuguese Crown in 1 57 1 and again in 1595, but full enforcement had to wait until the decrees promulgated by Pombal in 1 758. Cf. CR Boxer, Fidalgos in the Far East, The Hague
+|accessdate=4th of November, 2011}}(the University of Michigan)&lt;/ref&gt;
+
+The Portuguese viceroy of [[Goa]] in 1595 issued a law which punished Portuguese who traded in Chinese slaves by making them pay 1,000 cruzados/ducats if they bought or sold Chinese.
+
+After he issued a decree stating that Chinese were lodging complaints to him about Chinese slaves being traded by many Macao Portuguese either to be sold abroad or to be used domestically as servants.&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?id=YmauWWluaqcC&amp;q=The+traffic+continued,+despite+a+decree+stipulating+an+incredible+fine+of+one+thousand+ducats+for+any+Portuguese+found+guilty+of+buying+or+selling+Chinese+slaves+which+was+put+on+the+books+by+the+Goa+viceroy+in+1595&amp;dq=The+traffic+continued,+despite+a+decree+stipulating+an+incredible+fine+of+one+thousand+ducats+for+any+Portuguese+found+guilty+of+buying+or+selling+Chinese+slaves+which+was+put+on+the+books+by+the+Goa+viceroy+in+1595&amp;hl=en&amp;ei=lUW7TuDBF8r20gH2u9neCQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDIQ6AEwAA
+|title=The memory palace of Matteo Ricci
+|volume=
+|year=1985
+|author=Jonathan D. Spence
+|editor=
+|publisher=Penguin Books
+|edition=illustrated, reprint
+|location=
+|isbn=0-14-008098-8
+|page=209
+|pages=
+|quote=traffic continued, despite a decree stipulating an incredible fine of one thousand ducats for any Portuguese found guilty of buying or selling Chinese slaves which was put on the books by the Goa viceroy in 1595
+|accessdate=4th of November, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?ei=J0i8TryRJKXl0QG-v_3eCQ&amp;ct=result&amp;id=qUAsAAAAMAAJ&amp;dq=or+Viceregal+decree+promulgated+by+Matthias+de+Albuquerque+in+March+1595.+The+preamble+of+this+Alvara+states+that&amp;q=macao+habit+kidnapping++domestic+servants
+|title=Fidalgos in the Far East 1550–1770
+|volume=
+|year=1968
+|author=Charles Ralph Boxer
+|editor=
+|publisher=Oxford U.P.
+|edition=2, illustrated, reprint
+|location=
+|isbn=
+|page=224
+|pages=
+|quote=or Viceregal decree promulgated by Matthias de Albuquerque in March 1595. The preamble of this Alvara states that the Chinese had made many and grievous complaints that the Portuguese of Macao were in the habit of kidnapping or buying Chinese, both for use as domestic servants as well as for export as slaves.
+|accessdate=4th of November, 2011}}(the University of Michigan)&lt;/ref&gt;&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?ei=b0i8TuSOKIjs0gH_m_DeCQ&amp;ct=result&amp;id=8IEFAQAAIAAJ&amp;dq=In+March+1595+Mathias+de+Albuquerque+promulgated+a+preamble+to+a+decree+that+stated+that+the+Chinese+had+made+many+grievous+complaints+against+the+...+or+buying+Chinese%2C+both+for+use+as+domestic+servants+as+well+as+for+export+as+slaves&amp;q=domestic+servants
+|title=Japan and Africa: the evolution and nature of political, economic and human bonds, 1543–1993
+|volume=
+|year=1993
+|coauthors=Themba Sono, Human Sciences Research Council
+|editor=
+|publisher=HSRC
+|edition=
+|location=
+|isbn=0-7969-1525-3
+|page=30
+|pages=
+|quote=In March 1595 Mathias de Albuquerque promulgated a preamble to a decree that stated that the Chinese had made many grievous complaints against the Portuguese of Macao for being in the habit of kidnapping or buying Chinese, both for use as domestic servants as well as for export as slaves. The Viceroy in Council, with the High Court of Justice in concurrence, henceforth decreed that the purchase or sale of any male or female slave of Chinese nationality would be forbidden on pain of a fine of 1 000 cruzados,
+|accessdate=4th of November, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite book
+|url=
+|title=Conference proceedings
+|volume=
+|year=1962
+|author=International Association of Historians of Asia
+|editor=
+|publisher=
+|edition=
+|location=
+|isbn=
+|page=
+|pages=
+|quote= In 1595, the Viceroy of Goa, Matias de Albuquerque, forbade, under pain of a fine of 1000 cruzados, the buying of Chinese slaves in Macao either to remain there or to be exported; besides this fine the guilty ones would be taken to gaol for two years in the
+|accessdate=4th of November, 2011}}&lt;/ref&gt; The price for one girl or boy from China was 15 or 20 ducats.&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?ei=x0a8Tr_vGqTX0QHU4fjeCQ&amp;ct=result&amp;id=YmauWWluaqcC&amp;dq=many+of+those+sold+overseas+had+not+been+slaves+in+China+but+were+kidnapped+in+southeastern+china+and+sold+to+foreign+buyers&amp;q=ducats+fine+southeastern
+|title=The memory palace of Matteo Ricci
+|volume=
+|year=1985
+|author=Jonathan D. Spence
+|editor=
+|publisher=Penguin Books
+|edition=illustrated, reprint
+|location=
+|isbn=0-14-008098-8
+|page=209
+|pages=
+|quote=Many of those sold overseas had not been slaves in China but were kidnapped in southeastern china and sold to foreign buyers at a surprisingly consistent rate of fifteen to twenty ducats each for girls or boys; some were from educated families, and ended up as secretaries or assistants to Portuguese historians and military men.|accessdate=4th of November, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?id=LP9q1dzVRYQC&amp;pg=PA87&amp;dq=Some+Chinese+children+were+indeed+kidnapped+and+sold+as+slaves+and+domestic+servants+to+Macau+or+Goa,+for+12+to+15+taels+per+person&amp;hl=en&amp;ei=Q1m8TpvSN8PZ0QG30ZD2BA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CC0Q6AEwAA#v=onepage&amp;q=Some%20Chinese%20children%20were%20indeed%20kidnapped%20and%20sold%20as%20slaves%20and%20domestic%20servants%20to%20Macau%20or%20Goa%2C%20for%2012%20to%2015%20taels%20per%20person&amp;f=false
+|title=Macau History and Society
+|volume=
+|year=2011
+|author=Zhidong Hao
+|editor=
+|publisher=Hong Kong University Press
+|edition=illustrated
+|location=
+|isbn=988-8028-54-5
+|page=87
+|pages=
+|quote=Some Chinese children were indeed kidnapped and sold as slaves and domestic servants to Macau or Goa, for 12 to 15 taels per person
+|accessdate=4th of November, 2011}}&lt;/ref&gt;
+
+The King of Portugal again banned slavery for Chinese in 1724, forbidding the purchase of Chinese children as slaves.&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?id=WyBZ7wVBdtoC&amp;pg=PA1175&amp;dq=in+1724+enslavement+of+chinese+was+prohibited+and+the+ouvidores+in+goa+and+macao+were+to+search+ships+from+there+that+they+carry+no+slaves...agreat+many+Chinese+children+were+stolen+by+criminals+and+then+sold+as+slaves.&amp;hl=en&amp;ei=M1W8ToLxM6L20gHh2-HcBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CC4Q6AEwAA#v=onepage&amp;q&amp;f=false
+|title=Arabian Seas 1700–1763: The Western Indian Ocean in the eighteenth century
+|volume=Volume 1 of Arabian Seas 1700–1763
+|year=2009
+|author=R. J. Barendse
+|editor=
+|publisher=BRILL
+|edition=
+|location=
+|isbn=90-04-17661-6
+|page=1175
+|pages=
+|quote=in 1724 enslavement of chinese was prohibited and the ouvidores in goa and macao were to search ships from there that they carry no slaves...a great many Chinese children were stolen by criminals and then sold as slaves.
+|accessdate=4th of November, 2011}}&lt;/ref&gt; Most Chinese in India were slaves concentrated in Portuguese Goa&lt;ref&gt;{{cite book
+|url=http://books.google.com/books?id=WyBZ7wVBdtoC&amp;pg=PA1196&amp;dq=chinese+slaves+goa&amp;hl=en&amp;ei=Wzu7TuqtHKLg0QGz_bHXCQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=9&amp;ved=0CFoQ6AEwCA#v=snippet&amp;q=chinese%20slaves%20goa%20289%20women%2062%20men%2017%20children&amp;f=false
+|title=Arabian Seas 1700–1763: The Western Indian Ocean in the eighteenth century
+|volume=Volume 1 of Arabian Seas 1700–1763
+|year=2009
+|author=R. J. Barendse
+|editor=
+|publisher=BRILL
+|edition=
+|location=
+|isbn=90-04-17661-6
+|page=1196
+|pages=
+|quote=Considering the evidence of the 1749 census now—the first to split up slaves by origin... The Chinese were concentrated in Goa, consisting of 289 women and 62 men, with only 17 children
+|accessdate=4th of November, 2011}}&lt;/ref&gt;
+
+In 1557 the Chinese authorities allowed the Portuguese to settle in [[Macau]] through an annual payment, creating a warehouse in the triangular trade between China, Japan and Europe. In 1570 the Portuguese bought a Japanese port where they founded the city of [[Nagasaki]],&lt;ref&gt;Yosaburō Takekoshi, &quot;The Economic Aspects of the History of the Civilization of Japan&quot;, ISBN 0-415-32379-7.&lt;/ref&gt; thus creating a trading center for many years was the port from Japan to the world. 
+
+A first expedition, led by Viceroy Dom [[Constantino de Bragança]] in 1560, failed to subdue Jaffna, but captured [[Mannar Island]].&lt;ref name=a3&gt;Abeysinghe, T. ''Jaffna Under the Portuguese'', p. 3&lt;/ref&gt;  By June 1619, despite sharp resistance from [[Cankili II]] of Jaffna, there were two Portuguese expeditions
+
+The first expedition was a naval expedition that was repulsed by the Malabari corsairs. The second was lead by [[Phillippe de Oliveira]] and his land army of 5000, which defeated Cankili and conquered Jaffna, strengthening Portuguese control of shipping routes through the [[Palk Strait]].&lt;ref&gt;Kunarasa, K ''The Jaffna Dynasty'', p.  115&lt;/ref&gt;
+
+Portugal established trading ports at far-flung locations like [[Goa]], [[Ormuz]], [[Malacca]], [[Kochi, India|Kochi]], the [[Maluku Islands]], [[Macau]], and [[Nagasaki, Nagasaki|Nagasaki]]. Guarding its trade from both European and Asian competitors, Portugal dominated not only the trade between Asia and Europe, but also much of the trade between different regions of Asia, such as [[India]], [[Indonesia]], [[China]], and [[Japan]]. [[Society of Jesus|Jesuit]] missionaries, such as the Basque [[Francis Xavier]], followed the Portuguese to spread [[Roman Catholic]] [[Christianity]] to Asia with mixed success.&lt;ref&gt;Bethencourt, Francisco; Curto, Diogo Ramada. (2007) ''Portuguese Overseas Expansion, 1400-1800.'' pp.262-265.&lt;/ref&gt;
+
+==Colonization efforts in the Americas==
+[[File:Capitanias.jpg|thumb|left|A map, from 1574, that shows the 15 hereditary [[Colonial Brazil|captaincy colonies of Brazil]].]]
+In 1534, promoting settlement to overcome the need to defend the territory, [[John III of Portugal|John III]] organized the colonization of [[Brazil]] through land grants. As of 1520, the Portuguese had realized that Brazil was likely to be disputed, with [[Francis I of France]] challenging the Treaty of Tordesillas and supporting [[privateers]]. 
+
+The increase in [[brazilwood]] smuggling pressed this effort to effective occupation of the territory, although since 1503 an expedition under the command of [[Gonçalo Coelho]] reported French raids on the Brazilian coasts and, in the same year, [[Martim Afonso de Sousa]] went to patrol the whole Brazilian coast, banish the French and create some of the first colonial towns: [[São Vicente, Brazil|São Vicente]] ( 1532 ) and [[São Paulo (city)|São Paulo]] ( 1554 ), in which the latter was founded by two Jesuit priests.&lt;ref&gt;[http://books.google.com/books?id=HJdaM325m8IC&amp;pg=PA11&amp;lpg=PA11&amp;dq=Martim+Afonso+de+Sousa&amp;source=bl&amp;ots=bkVNnxTYRk&amp;sig=58qAvkZQd5LgClXgBXBlFhzThyA&amp;hl=en&amp;sa=X&amp;ei=6Z38T6f_DJCo8QT__-3wBg&amp;ved=0CEwQ6AEwBA#v=onepage&amp;q=Sao%20Paulo%201554&amp;f=false Fausto, Boris  ''A Concise History of Brazil''], Cambridge University Press, 2002, pp. 11, 46 accessed 10 July 2012&lt;/ref&gt;
+
+Fifteen longitudinal tracks, ranging from the coast to the Tordesillas limit, were created. This vast lands were donated in form of hereditary [[Colonial Brazil#Captaincies|captaincies]] (Capitanias Hereditárias) to grantees rich enough to support settlement, as had been done successfully in [[Madeira]] and [[Cape Verde]] islands.&lt;ref&gt;[[#refDiffie|Diffie]], p.  310&lt;/ref&gt; 
+
+Each [[captain-major]] should build settlements, grant allotments and administer justice, being responsible for developing and taking the costs of colonization, although not being the owner: he could transmit it to offspring, but not sell it. Twelve recipients came from Portuguese gentry who become prominent in Africa and India and senior officials of the court, such as [[João de Barros]] and [[Martim Afonso de Sousa]].&lt;ref&gt;[http://books.google.com/books?id=73CsasKb1CgC&amp;dq=Martim+Afonso+de+Sousa+Joao+de+Barros&amp;q=Joao+de+Barros+Martim+Afonso+de+Sous#v=onepage&amp;q=Martim%20Afonso%20de%20Sousa&amp;f=false de Abreu, João Capistrano; Irakel, Arthur; A. Novais, Fernando ''Chapters of Brazil's Colonial History 1500-1800''], Oxford University Press, 1998, pp. 35, 38-40 accessed 10 July 2012&lt;/ref&gt;
+
+Of the fifteen original captaincies (a two-month trip from Portugal), only two, [[Pernambuco]] and São Vicente, prospered. Both dedicated to the crop of [[sugar cane]] and the settlers managed to maintain alliances with [[Indigenous Peoples of the Americas|Native Americans]]. The establishment of the [[sugar cane]] industry demanded intensive labor which would be met with native American and, later, African slaves.&lt;ref&gt;Bethencourt, Francisco; Curto, Diogo Ramada. (2007) ''Portuguese Overseas Expansion, 1400-1800.'' p.111-119.&lt;/ref&gt;
+
+Deeming the ''capitanias'' system ineffective, the king decided to centralize the government of the colony, in order to &quot;give help and assistance&quot; to grantees. In 1548 he created the first General Government, sending in [[Tomé de Sousa]] as first governor and rescuing the captaincy of the [[Bay of All Saints]], making it a royal captaincy, seat of the Government. This measure did not entailed the extinction of captaincies. 
+
+Tomé de Sousa built the capital of Brazil, [[Salvador, Brazil|Salvador]] at the Bay of All Saints. The first [[Society of Jesus|Jesuits]] arrived the same year. From 1565 through 1567 [[Mem de Sá]], a Portuguese colonial official and the third [[Governor General]] of Brazil, successfully destroyed a ten year-old [[French colonization of the Americas|French colony]] called [[France Antarctique]], at [[Guanabara Bay]]. He and his nephew, [[Estácio de Sá]], then founded the city of [[Rio de Janeiro]] in 1567.&lt;ref name=Marley2008&gt;{{cite book|title=Wars of the Americas: A Chronology of Armed Conflict in the Western Hemisphere (2 Volumes)|series=University of Oklahoma Press|first=David|last=Marley|date=2008|isbn=978-1598841008|pages=96}}&lt;/ref&gt;
+
+==Iberian Union and rivalry with the Dutch (1580–1663)==
+[[File:Philip II's realms in 1598.png|300px|thumb|right|The [[Iberian Union|Luso-Hispanic (or Iberian) Empire]] in 1598, during the reign of [[Philip II of Spain|Philip I and II]], King of Portugal and Spain.]]
+In 1580, King [[Philip II of Spain]] invaded Portugal after a [[1580 Portuguese succession crisis|crisis of succession]] brought about by King [[Sebastian of Portugal]]'s death during a disastrous [[Battle of Alcácer Quibir|Portuguese attack on Alcácer Quibir]] in [[Morocco]] in 1578. At the Cortes of Tomar in 1581, Philip was crowned Philip I of Portugal, uniting the two crowns and overseas empires under [[Spanish Habsburgs|Spanish Habsburg]] rule in a [[Dynastic union|dynastic]] [[Iberian Union]]. At Tomar, Philip promised to keep the empires legally distinct, leaving the administration of the Portuguese Empire to Portuguese nationals, with a [[List of Viceroys of Portugal during the Iberian Union|Viceroy of Portugal]] in Lisbon seeing to his interests.&lt;ref name=&quot;ReferenceA&quot;&gt;[[#refBoyajian|Boyajian]], p.&amp;nbsp;11&lt;/ref&gt; All the Portuguese colonies accepted the new state of affairs except for the [[Azores]], which held out for [[António, Prior of Crato|António]], a Portuguese rival claimant to the throne who had garnered the support of [[Catherine de Medici]] of [[France]] in exchange for the promise to cede Brazil. Spanish forces eventually captured the island in 1583.&lt;ref&gt;[[#refAnderson|Anderson]], pp.&amp;nbsp;104–105&lt;/ref&gt;
+
+The union with Spain entailed both benefits and drawbacks as far as the Portuguese Empire was concerned. Spanish imperial trade networks were opened to Portuguese merchants, which was particularly lucrative for Portuguese slave traders who could now sell slaves in Spanish America at a higher price than could be fetched in Brazil.&lt;ref&gt;[[#refLockhart|Lockhart]], p.&amp;nbsp;250&lt;/ref&gt;
+
+The Tordesillas boundary between Spanish and Portuguese control in South America was then increasingly ignored by the Portuguese, who pressed beyond it into the heart of Brazil,&lt;ref name=&quot;ReferenceA&quot;/&gt; allowing to expand the territory to the west. Exploratory missions were carried out both ordered by the government, the &quot;entradas&quot; (entries), and by private initiative, the &quot;bandeiras&quot; (flags), by the &quot;[[bandeirantes]]&quot;.&lt;ref&gt;[[#refBoxer|Boxer]], pp.&amp;nbsp;386&lt;/ref&gt; These expeditions lasted for years venturing into unmapped regions, initially to capture natives and force them into slavery, and later focusing on finding gold, silver and diamond mines.&lt;ref&gt;Bethencourt, Francisco; Curto, Diogo Ramada. (2007) ''Portuguese Overseas Expansion, 1400-1800.'' pp.111, 117.&lt;/ref&gt;
+[[File:La recuperación de Bahía, Maíno.jpg|thumb|left|300px|[[The Recovery of Bahía de Todos los Santos|The Recovery of São Salvador da Bahia de Todos os Santos]], by [[Philip III of Portugal]], from the [[Dutch Republic]].]]
+However, the union meant that Spain dragged Portugal into its conflicts with [[England]], [[France]] and the [[Dutch Republic]], countries which were beginning to establish their own overseas empires.&lt;ref&gt;[[#refAnderson|Anderson]], p.&amp;nbsp;105&lt;/ref&gt; The primary threat came from the Dutch, who had been engaged in a [[Eighty Years War|struggle for independence]] against Spain since 1568. In 1581 the [[Seven Provinces]] gained independence from the [[House of Habsburg|Habsburg rule]], leading Philip II to prohibit commerce with Dutch ships, including in Brazil where [[Dutch people|Dutch]] had invested large sums in financing sugar production.&lt;ref&gt;[http://books.google.com/books?id=lmPFnzXU7o0C&amp;pg=PA159&amp;lpg=PA159&amp;dq=Philip+II+prohibit+Dutch+sugar&amp;source=bl&amp;ots=hcihPemXrU&amp;sig=P9KJKpaziOLvdUjEFUVesIcQPk0&amp;hl=en&amp;sa=X&amp;ei=ear8T6idJI-G8QTA_qjkBg&amp;ved=0CDYQ6AEwAA#v=onepage&amp;q=Philip%20II%20prohibit%20Dutch%20sugar&amp;f=false Thomas, Hugh ''The Slave Trade: The Story of the Atlantic Slave Trade, 1440-1870''], Simon &amp; Schuster, 1999, p. 159, accessed 10 July 2012&lt;/ref&gt;
+
+In 1592, during the war with Spain, an English fleet captured a large Portuguese carrack off the Azores, the [[Madre de Deus]]. Loaded with 900 tons of merchandise from India and China, estimated at half a million [[Pound sterling|pounds]] (nearly half the size of English Treasury at the time).&lt;ref&gt;{{cite web|url=http://www.newberry.org/smith/slidesets/ss06.html|title=Early Modern Ship-types, 1450–1650|last=Smith |first=Roger |year=1986|publisher=The Newberry Library|accessdate=2009-05-08}}&lt;/ref&gt; This foretaste of the riches of the East galvanized English interest in the region.&lt;ref&gt;[http://redalyc.uaemex.mx/redalyc/pdf/361/36100506.pdf The Presence of the &quot;Portugals&quot; in Macau and Japan in Richard Hakluyt's ''Navigations'']&quot;, Rogério Miguel Puga, ''Bulletin of Portuguese/Japanese Studies'', vol. 5, December 2002, pp.  81–116.&lt;/ref&gt;
+That same year, [[Cornelis de Houtman]] was sent by Dutch merchants to Lisbon, to gather as much information as he could about the Spice Islands. In 1595, merchant and explorer [[Jan Huyghen van Linschoten]], having traveled widely in the Indian Ocean at the service of the Portuguese, published  a travel report in [[Amsterdam]], the &quot;Reys-gheschrift vande navigatien der Portugaloysers in Orienten&quot; (&quot;Report of a journey through the navigations of the Portuguese in the East&quot;).&lt;ref&gt;Van Linschoten, Jan Huyghen. ''Voyage to Goa and Back, 1583–1592, with His Account of the East Indies'' : From Linschoten's Discourse of Voyages, in 1598/Jan Huyghen Van Linschoten. Reprint. New Delhi, AES, 2004, xxiv, 126 p., $11. ISBN 81-206-1928-5.&lt;/ref&gt; This included vast directions on how to navigate between Portugal and the East Indies and to Japan. Dutch and English interest fed on new information led to a movement of commercial expansion, and the foundation of the English [[East India Company]], in 1600, and [[Dutch East India Company]](VOC), in 1602,  allowing the entry in of [[chartered companies]] in the so-called East Indies.&lt;ref&gt;[http://books.google.com/books?id=KiNrOAh9BbkC&amp;pg=PA241&amp;lpg=PA241&amp;dq=Chartered+Companies+so-called+East+Indies&amp;source=bl&amp;ots=hJPBuA6nzC&amp;sig=H-h4zTHJ1vzxZVKCt-GqZseNIgE&amp;hl=en&amp;sa=X&amp;ei=tLL8T7H8J4e69QSf0Kn5Bg&amp;ved=0CDMQ6AEwAA#v=onepage&amp;q=Chartered%20Companies%20so-called%20East%20Indies&amp;f=false A. Crow, John ''The Epic of Latin America, Fourth Edition''], University of California Press, 1992, p. 241, accessed 10 July 2012&lt;/ref&gt;&lt;ref&gt;[http://books.google.com/books?id=UmN4ZOgCbsIC&amp;pg=PA2&amp;lpg=PA2&amp;dq=in+the+so-called+East+Indies+Chartered+Companies&amp;source=bl&amp;ots=CPS5Uu5spd&amp;sig=GTz2uXndFVfD7zaEKpn24CPIfSA&amp;hl=en&amp;sa=X&amp;ei=A7X8T9LNEIbq8wSNzrT5Bg&amp;ved=0CD8Q6AEwAg#v=onepage&amp;q=in%20the%20so-called%20East%20Indies%20Chartered%20Companies&amp;f=false  Bowen, H. V; Lincoln, Margarette; Rigby, Nigel. ''The Worlds of the East India Company''], Boydell Press, 2011, pp. 1-2, accessed 10 July 2012&lt;/ref&gt;
+[[File:Meirelles-guararapes.jpg|thumb|right|300px|The Portuguese victory at the [[Second Battle of Guararapes]], ended Dutch presence in [[Pernambuco]].]]
+The Dutch took their fight overseas, attacking Spanish and Portuguese colonies and shipping, allying in turn with rival local leaders, and dismantling the Portuguese trade monopoly in Asia. The Portuguese Empire, consisting primarily of exposed coastal settlements vulnerable to being picked off one by one, proved to be an easier target than the Spanish Empire.&lt;ref&gt;[[#refBoxer1969|Boxer1969]], p.&amp;nbsp;109&lt;/ref&gt;
+
+The [[Dutch–Portuguese War]] began with an attack on [[São Tomé and Príncipe]] in 1597 and lasted until 1663. The war was waged by the [[Dutch East India Company]] (established in 1602) and its [[Dutch West India Company|West India]] counterpart (1621), commercial ventures whose aim was to take over the trade networks that the Portuguese had established in Asian spices, West African slaves and Brazilian sugar&lt;ref&gt;[[#refBoxer1969|Boxer1969]], p.&amp;nbsp;110&lt;/ref&gt; In Asia, the Dutch captured the Spice Islands (1605), Malacca (1641), Colombo (1656), Ceylon (1658), Nagappattinam (1660), Cranganore and Cochin (1662).&lt;ref&gt;[[#refRussellWood|RussellWood]], p.&amp;nbsp;24&lt;/ref&gt; 
+
+Although Goa, the capital of Portuguese Asia, Diu and Macau were successfully defended, the expulsion of the Portuguese from Japan in 1639 excluded Portuguese merchants from the highly profitable China-Japan trade. Having successfully prevented the French from gaining a foothold in Portuguese Brazil at [[France Équinoxiale]] in 1615, [[Salvador, Bahia|Salvador da Bahia]] was lost to the Dutch in 1624 (though recaptured by a joint Spanish-Portuguese force the following year) and [[Pernambuco]] in 1630. 
+
+In need of slaves for the sugar producing regions they had captured in Brazil, the Dutch began attacks on the Portuguese trading posts on the west coast of Africa, successfully taking Elmina (1638), Luanda (1641) and Axim (1642).&lt;ref&gt;[[#refDavies|Davies]], p.&amp;nbsp;124&lt;/ref&gt; By 1654, Portugal had succeeded in expelling the Dutch from Brazil and Luanda, though its preeminent position in Asia had been lost forever.&lt;ref&gt;Bethencourt, Francisco; Curto, Diogo Ramada. (2007) ''Portuguese Overseas Expansion, 1400-1800.'' pp.30-34.&lt;/ref&gt;
+
+==Imperial recovery and decline (1663–1825)==
+[[Image:Periplo A. Raposo Tavares.jpg|thumb|left|300px|[[Bandeirantes]] were crucial in Portuguese exploration, colonization, and pacification of the [[Regions of Brazil|Brazilian interior]].]]
+The loss of colonies was one of the reasons that contributed to the end of the personal union with Spain. In 1640 John IV was proclaimed King of Portugal and the [[Portuguese Restoration War]] began. In 1661 the Portuguese offered [[Bombay]] and [[Tangier]] to England as part of a [[dowry]], and over the next hundred years the English gradually became the dominant trader in India, gradually excluding the trade of other powers. In 1668 Spain recognized the end of the [[Iberian Union]] and in exchange Portugal ceded [[Ceuta]] to the Spanish crown.&lt;ref&gt;[http://books.google.com/books?id=Ksf_tz5x5FwC&amp;pg=PA180&amp;lpg=PA180&amp;dq=Treaty+of+Lisbon+1668+Spain+Portugal&amp;source=bl&amp;ots=X3bnbNbfze&amp;sig=VjSh8jGVu64C3wcg5k7Zw1s4i_w&amp;hl=en&amp;sa=X&amp;ei=mbj8T6PYKIb28gTwopnwBg&amp;ved=0CGMQ6AEwCDgK#v=onepage&amp;q=Treaty%20of%20Lisbon%201668%20Spain%20Portugal&amp;f=false  Cowans, Jon ''Early Modern Spain: A Documentary History''], University of Pennsylvania Press, 2003, pp. 180-181, accessed 10 July 2012&lt;/ref&gt;
+
+At the end of confrontations with the Dutch, Portugal was able to cling onto [[Goa]] and several minor bases in India, and managed to regain territories in [[Brazil]] and Africa, but lost forever to prominence in Asia as trade was diverted through increasing numbers of English, Dutch and French trading posts. Thus, throughout the century, Brazil gained increasing importance to the empire, which exported [[Brazilwood]] and [[sugar]].&lt;ref&gt;Bethencourt, Francisco; Curto, Diogo Ramada. (2007) ''Portuguese Overseas Expansion, 1400-1800.'' pp.111, 117.&lt;/ref&gt;
+
+From 1693 the focus was in a Brazilian region that become known as [[Minas Gerais]], where gold was discovered. Major discoveries of gold and, later, diamonds in Minas Gerais, Mato Grosso and Goias led to a  &quot;[[Brazil Gold Rush|gold rush]]&quot;, with a large influx of migrants.&lt;ref&gt;[[#refBoxer|Boxer]], p.  168&lt;/ref&gt; The village founded in 1696, became the new economic center of the empire, with rapid settlement and some conflicts. This gold cycle led to the creation of an internal market and attracted a large number of immigrants. The population grew 750% between 1650 to 1770 and quickly became the largest in Brazil, contributing to the settlement of the interior. 78% of this population being of black people and mestizos, and also [[New Christians]] from the north of Portugal and the Azores and Madeira, who settled as important trade agents in the villages around [[Ouro Preto]] and Mariana.{{Citation needed|date=December 2011}}
+[[File:Portuguese Cortes 1822.jpg|thumb|right|The [[Portuguese Cortes]] sought the disbandenment of the United Kingdom.]] 
+The gold rush considerably increased the revenue of the Portuguese crown, who charged a fifth of all the ore mined, or the &quot;fifth&quot;. Diversion and smuggling were frequent, so a whole set of bureaucratic controls were instituted.  The gold production would have increased from 2 tonnes per year in 1701 to 14 tonnes in the 1750s but then began to decline sharply until exhausting before the end of the century. Gold surpassed the earnings of other products from the colonies and this trade brought prosperity to [[Rio de Janeiro]] and the kingdom.&lt;ref&gt;Bethencourt, Francisco; Curto, Diogo Ramada. (2007) ''Portuguese Overseas Expansion, 1400-1800.'' pp.126-131.&lt;/ref&gt;
+
+In 1755 Lisbon suffered a catastrophic [[1755 Lisbon earthquake|earthquake]], which together with a subsequent [[tsunami]] killed more than 100,000 people out of a population of 275,000. This sharply checked Portuguese colonial ambitions in the late 18th century.&lt;ref&gt;[http://books.google.com/books?id=5gEBfvCBclUC&amp;pg=PA8&amp;lpg=PA8&amp;dq=1755+Lisbon+Earthquake+colonial+ambitions&amp;source=bl&amp;ots=aUQ55NGrlR&amp;sig=EjJcbAfPGY6KZCHUPOsfMI9CEJ0&amp;hl=en&amp;sa=X&amp;ei=U8H8T_LoKYes9ATkj6HfBw&amp;ved=0CD8Q6AEwAw#v=onepage&amp;q=1755%20Lisbon%20Earthquake%20colonial%20ambitions&amp;f=false Ramasamy, Sm ''Geomatics in Tsunami''], New India Publishing, 2006, p. 8, accessed 10 July 2012&lt;/ref&gt;
+
+Unlike Spain, Portugal did not divide its [[Colonial Brazil|colonial territory in America]]. The [[capitania|captaincies]] created there were subordinated to a centralized administration in [[Salvador da Bahia|Salvador]] which reported directly to the Crown in Lisbon. The 18th century was marked by increasing centralization of royal power throughout the Portuguese empire, with the power of the [[Jesuits]], protective of the Indians against slavery, brutally suppressed by the [[Marquis of Pombal]], leading to the dissolution of this religious order under ground Portuguese in 1759. In 1774, the two states of Brazil and the Grão-Pará and Maranhão merged into a single administrative entity.&lt;ref&gt;[http://books.google.com/books?id=hj81XeoW4zMC&amp;pg=PA163&amp;lpg=PA163&amp;dq=Inconfid%C3%AAncia+Mineira+Tiradentes+hanged&amp;source=bl&amp;ots=kEP00J0MIe&amp;sig=vzLBWjgAks-szFH983BZ6Y1at08&amp;hl=en&amp;sa=X&amp;ei=1Mb8T_LLNoW08AT-g6XuBg&amp;ved=0CDcQ6AEwATgK#v=onepage&amp;q=Inconfid%C3%AAncia%20Mineira%20Tiradentes%20hanged&amp;f=false Bethell, Leslie ''The Independence of Latin America''], Cambridge University Press, 1987, pp. 156, accessed 10 July 2012&lt;/ref&gt;
+
+The settlers began to express some dissatisfaction with the authorities in Lisbon as the decline of mining made it difficult to pay the taxes demanded by the Crown. In 1789, when it announced a tax of 20% of the gold removed, revolt broke out in Ouro Preto. 
+[[File:Independence of Brazil 1888.jpg|thumb|left|300px|[[Brazilian Independence]] crippled the Portuguese Empire, both economically and politically, for a long time.]]
+Encouraged by the example of the [[United States of America]], which had won its independence from [[Kingdom of Great Britain|Britain]] (1776–1781), the attempt centred in the colonial province of [[Minas Gerais]] was made in 1789 to achieve the same objective.  However, the [[Inconfidência Mineira]] failed, the leaders arrested and, of the participants of the insurrections the one of lowest social position, [[Tiradentes]], was hanged.&lt;ref&gt;[http://books.google.com/books?id=hj81XeoW4zMC&amp;pg=PA163&amp;lpg=PA163&amp;dq=Inconfid%C3%AAncia+Mineira+Tiradentes+hanged&amp;source=bl&amp;ots=kEP00J0MIe&amp;sig=vzLBWjgAks-szFH983BZ6Y1at08&amp;hl=en&amp;sa=X&amp;ei=1Mb8T_LLNoW08AT-g6XuBg&amp;ved=0CDcQ6AEwATgK#v=onepage&amp;q=Inconfid%C3%AAncia%20Mineira%20Tiradentes%20hanged&amp;f=false Bethell, Leslie ''The Independence of Latin America''], Cambridge University Press, 1987, pp. 163-164, accessed 10 July 2012&lt;/ref&gt;
+
+In 1808, [[Napoleon Bonaparte]] invaded Portugal, and [[John VI of Portugal|Dom João]], [[Prince Regent]] in place of his mother, [[Maria I of Portugal|Dona Maria I]], ordered the transfer of the royal court to Brazil.
+
+In 1815 Brazil was elevated to the status of Kingdom, the Portuguese state officially becoming the [[United Kingdom of Portugal, Brazil and the Algarves]] (''Reino Unido de Portugal, Brasil e Algarves''), and the capital was transferred from Lisbon to Rio de Janeiro, the only instance of a European country being ruled from one of its colonies. There was also the election of Brazilian representatives to the [[Portuguese Cortes|Cortes Constitucionais Portuguesas]] (Portuguese Constitutional Courts),  the Parliament that assembled in Lisbon in the wake of the [[Liberal Revolution of 1820]].&lt;ref&gt;[http://books.google.com/books?id=hj81XeoW4zMC&amp;pg=PA163&amp;lpg=PA163&amp;dq=Inconfid%C3%AAncia+Mineira+Tiradentes+hanged&amp;source=bl&amp;ots=kEP00J0MIe&amp;sig=vzLBWjgAks-szFH983BZ6Y1at08&amp;hl=en&amp;sa=X&amp;ei=1Mb8T_LLNoW08AT-g6XuBg&amp;ved=0CDcQ6AEwATgK#v=onepage&amp;q=Inconfid%C3%AAncia%20Mineira%20Tiradentes%20hanged&amp;f=false Bethell, Leslie ''The Independence of Latin America''], Cambridge University Press, 1987, pp. 177-178, accessed 10 July 2012&lt;/ref&gt;
+
+Although the royal family returned to Portugal in 1821, the interlude led to a growing desire for independence amongst Brazilians. In 1822, the son of Dom João VI, then prince-regent [[Dom Pedro I]], proclaimed the independence of Brazil on September 7, 1822, and was crowned Emperor of the new [[Empire of Brazil]]. Unlike the Spanish colonies of South America, Brazil's independence was achieved without significant bloodshed.&lt;ref&gt;[http://books.google.com/books?id=30oEAAAAQAAJ&amp;pg=PA255&amp;lpg=PA255&amp;dq=Independence+Brazil+without+much+bloodshed&amp;source=bl&amp;ots=wyYT9DNBbA&amp;sig=NWfw7HGCHGAO0dwGWbJLVaWh0cI&amp;hl=en&amp;sa=X&amp;ei=0s78T_bOCYa69QSljPXfBg&amp;ved=0CDEQ6AEwAA#v=onepage&amp;q=Independence%20Brazil%20without%20much%20bloodshed&amp;f=false Angus, William ''History of England, from the Roman invasion to the accession of Queen Victoria i''], Glasgow, 1837, pp. 254-255, accessed 10 July 2012&lt;/ref&gt;&lt;ref&gt;[http://books.google.com/books?id=Pi56Cw3yGfcC&amp;pg=PA55&amp;lpg=PA55&amp;dq=Independence+Brazil+without+much+bloodshed&amp;source=bl&amp;ots=TdYV2I4OIG&amp;sig=wfluXj0REJ0aJtts3oN8mZLNWCc&amp;hl=en&amp;sa=X&amp;ei=Hs78T5HsEZGm8QSfgY2DBw&amp;ved=0CDwQ6AEwAjge#v=onepage&amp;q=Independence%20Brazil%20without%20much%20bloodshed&amp;f=false A. Levine, Robert ''The History of Brazil''], Palgrave Macmillan, 1999, pp. 59-61, accessed 10 July 2012&lt;/ref&gt;
+
+==Consolidation in Africa (1822–1951)== 
+[[Image:Chaimite.jpg|thumb|right|In the 19th century, Portugal launched campaigns to solidify Portuguese Africa.]]
+{{main|Portuguese East Africa|Portuguese West Africa|Portuguese Guinea}}
+At the height of European colonialism in the 19th century, Portugal had lost its territory in [[South America]] and all but a few bases in Asia. During this phase, Portuguese colonialism focused on expanding its outposts in Africa into nation-sized territories to compete with other European powers there.
+
+Portugal pressed into the hinterland of Angola and Mozambique, and explorers [[Alexandre de Serpa Pinto|Serpa Pinto]], [[Hermenegildo Capelo]] and [[Roberto Ivens]] were among the first Europeans to cross Africa west to east. The project to connect the two colonies, the [[Pink Map]], was the Portuguese main objective in the second half of the 19th century. 
+
+However, the idea was unacceptable to the British, who had their own aspirations of contiguous British territory running from [[Cairo]] to [[Cape Town]]. The [[British Ultimatum]] of 1890 was imposed upon King [[Carlos I of Portugal]] and the Pink Map came to an end. The King's reaction to the ultimatum was exploited by republicans.
+
+In 1908 King Carlos and Prince [[Luís Filipe, Prince Royal of Portugal|Luís Filipe]] were murdered in [[Lisbon]]. Luís Filipe's brother, Manuel, became King [[Manuel II of Portugal]]. Two years later Portugal became a [[republic]].&lt;ref&gt;[http://books.google.com/books?id=PkH9wfKMqHwC&amp;printsec=frontcover&amp;dq=Formation+of+the+Portuguese+Republic&amp;source=bl&amp;ots=r8_w8k8yJI&amp;sig=Ev5IWzzMkM9kmncBzFVt04yoKa0&amp;hl=en&amp;sa=X&amp;ei=g-L-T6LYFOa42wWKyMi7BA&amp;ved=0CFUQ6AEwBg#v=onepage&amp;q=World%20War%20I%20Germany&amp;f=false L. Wheeler, Douglas ''Republican Portugal: A Political History, 1910-1926''], University of Wisconsin Press, Inc., 1978, pp. 48-61, accessed 12 July 2012&lt;/ref&gt;
+
+In [[World War I]] German troops threatened Mozambique, and Portugal entered the war to protect its colonies.&lt;ref&gt;[http://books.google.com/books?id=PkH9wfKMqHwC&amp;printsec=frontcover&amp;dq=Formation+of+the+Portuguese+Republic&amp;source=bl&amp;ots=r8_w8k8yJI&amp;sig=Ev5IWzzMkM9kmncBzFVt04yoKa0&amp;hl=en&amp;sa=X&amp;ei=g-L-T6LYFOa42wWKyMi7BA&amp;ved=0CFUQ6AEwBg#v=onepage&amp;q=World%20War%20I%20Germany&amp;f=false L. Wheeler, Douglas ''Republican Portugal: A Political History, 1910-1926''], University of Wisconsin Press, Inc., 1978, pp. 106-107, accessed 12 July 2012&lt;/ref&gt;
+
+Portuguese territories eventually included the modern nations of [[Cape Verde]], [[São Tomé and Príncipe]], [[Guinea-Bissau]], [[Angola]], and [[Mozambique]].&lt;ref&gt;[http://books.google.com/books?id=2C1TGbN5R84C&amp;pg=PA98&amp;lpg=PA98&amp;dq=Portuguese+settlements+Cape+Verde,+S%C3%A3o+Tom%C3%A9+and+Pr%C3%ADncipe,+Guinea-Bissau,+Angola,+and+Mozambique&amp;source=bl&amp;ots=P7LXhq2gZO&amp;sig=pBgZ6WFe4BO3FsaF_pfOQrNMuv8&amp;hl=en&amp;sa=X&amp;ei=w-D-T8fCBoio8gTT05zJBg&amp;ved=0CFYQ6AEwBQ#v=onepage&amp;q=Portuguese%20settlements%20Cape%20Verde%2C%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%2C%20Guinea-Bissau%2C%20Angola%2C%20and%20Mozambique&amp;f=false Koffi, Ettien ''Paradigm Shift in Language Planning and Policy: Game-Theoretic Solutions''], Walter de Gruyter, Inc., 2012, p. 98, accessed 12 July 2012&lt;/ref&gt;
+
+==Turmoil and Decolonization (1951–1999)==
+{{main|Portuguese Colonial War|Carnation Revolution|}}
+[[Image:Portuguese Empire 20th century.png|thumb|300px|left|In the 20th-c., Portugal no longer called itself an empire, but a pluricontinental nation with overseas provinces.]]
+In the wake of [[World War II]], decolonization movements began to gain momentum in the empires of the European powers.  The ensuing [[Cold War]] also created instabilities among Portuguese overseas populations, as the [[United States]] and [[Soviet Union]] vied to increase their spheres of influence.  Following the granting of independence to [[India]] by [[United Kingdom|Britain]] in 1947, and the decision by France to allow its [[French India|enclaves in India]] to be incorporated into the newly independent nation, pressure was placed on Portugal to do the same.&lt;ref&gt;[[#refPearson|Pearson, p.&amp;nbsp;158]]&lt;/ref&gt; This was resisted by [[António de Oliveira Salazar]], who had taken power in 1933.  Salazar rebuffed a request in 1950 by India's Prime Minister, [[Jawaharlal Nehru]], to return the enclaves, viewing them as integral parts of Portugal.&lt;ref&gt;[[#refPearson|Pearson, p.&amp;nbsp;160]]&lt;/ref&gt; The following year, the Portuguese constitution was amended to change the status of the colonies to overseas provinces.  In 1954, a local uprising resulted in the overthrow of the Portuguese authorities in the Indian enclave of [[Dadra and Nagar Haveli]]. The existence of the remaining Portuguese colonies in India became increasingly untenable and Nehru enjoyed the support of almost all the Indian domestic political parties as well as the Soviet Union and its allies. In 1961, shortly after an uprising against the Portuguese in Angola, Nehru ordered the Indian Army in to [[Goa]], [[Daman and Diu]], which were quickly [[1961 Indian Annexation of Goa|captured]] and formally annexed the following year. Salazar refused to recognize the transfer of sovereignty, believing the territories to be merely occupied.  The Province of Goa continued to be represented in the Portuguese National Assembly until 1974.&lt;ref name=&quot;ReferenceC&quot;&gt;[[#refAnderson|Anderson]], p.&amp;nbsp;153&lt;/ref&gt;
+[[File:Antonio Salazar-1.jpg|thumb|right|[[António de Oliveira Salazar]] sought the preservation of a pluricontinental Portugal.]]
+The outbreak of violence in February 1961 in Angola was the beginning of the end of Portugal's empire in Africa.  Portuguese army officers in Angola held the view that it would be incapable of dealing militarily with an outbreak of guerilla warfare and therefore that negotiations should begin with the independence movements. However, Salazar publicly stated his determination to keep the empire intact, and by the end of the year, 50,000 troops had been stationed there.  The same year, the tiny Portuguese fort of São João Baptista de Ajudá in [[Ouidah]], a remnant of the West African [[slave trade]], was annexed by the new government of Dahomey (now [[Benin]]) that had gained its independence from France.  Unrest spread from Angola to Guinea, which rebelled in 1963, and Mozambique in 1964.&lt;ref name=&quot;ReferenceC&quot;/&gt;
+
+The rise of [[Soviet Union|Soviet]] influence among the [[Movimento das Forças Armadas]]'s military (MFA) and working class, and the cost and unpopularity of the [[Portuguese Colonial War]] (1961–1974), in which Portugal resisted to the emerging nationalist guerrilla movements in some of its African territories, eventually led to the collapse of the [[Estado Novo (Portugal)|Estado Novo]] regime in 1974. Known as the &quot;[[Carnation Revolution]]&quot;, one of the first acts of the MFA-led government which then came into power – the [[National Salvation Junta]] (''Junta de Salvação Nacional'') – was to end the wars and negotiate Portuguese withdrawal from its African colonies. These events prompted a mass exodus of Portuguese citizens from Portugal's African territories (mostly from [[Overseas Province of Angola|Angola]] and [[Overseas Province of Mozambique|Mozambique]]), creating over a million Portuguese refugees – the ''retornados.''&lt;ref&gt;[http://www.time.com/time/magazine/article/0,9171,913229-1,00.html Dismantling the Portuguese Empire], [[Time Magazine]] (Monday, July 7, 1975)&lt;/ref&gt; Portugal's new ruling authorities also recognized Goa and other Portuguese India's territories [[Invasion of Goa|invaded by India's military forces]], as Indian territories. Benin's claims over [[São João Baptista de Ajudá]], were also accepted by the Portuguese, and diplomatic relations were restored with both India and Benin.{{Citation needed|date=December 2011}}
+
+Civil wars in [[Angolan Civil War|Angola]] and [[Mozambican Civil War|Mozambique]] promptly broke out, with incoming communist governments formed by the former rebels (and backed by the [[Soviet Union]], [[Cuba]], and other communist countries) fighting against insurgent groups supported by nations like [[Zaire]], [[South Africa]], and the United States.&lt;ref&gt;[http://books.google.com/books?id=XRd6Y-oiFPAC&amp;pg=PA11&amp;lpg=PA11&amp;dq=Civil+Wars+Mozambique+Angola+Zaire+South+Africa+United+States&amp;source=bl&amp;ots=TpZ6_3oopb&amp;sig=TFNSdIY1SW0UGguHtTL9Oz-FT20&amp;hl=en&amp;sa=X&amp;ei=ivP-T6nbIJOm8gSUlJn5Bg&amp;ved=0CDYQ6AEwAA#v=onepage&amp;q=Civil%20Wars%20Mozambique%20Angola%20Zaire%20South%20Africa%20United%20States&amp;f=false R. Arnold, James; Wiener, Roberta ''Cold War: The Essential Reference Guide''], ABC-CLIO., 2012, pp. 11-12, accessed 12 July 2012&lt;/ref&gt;
+
+[[East Timor]] also declared independence at this time (1975), making an exodus of many Portuguese refugees to Portugal, also known as ''retornados.'' However, East Timor was almost immediately [[Indonesian invasion of East Timor|invaded by neighbouring Indonesia]], which [[Indonesian occupation of East Timor|occupied]] it up until 1999. A [[1999 East Timorese crisis|United Nations-sponsored referendum]] of that year resulted in a majority of East Timorese choosing independence, which was finally achieved in 2002.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/2/hi/asia-pacific/1996673.stm.|title=East Timor: Birth of a nation|accessdate=12 July 2012}}&lt;/ref&gt;
+
+The transfer of the sovereignty of [[Macau]] to [[China]] on December 20, 1999, under the terms of an agreement negotiated between [[People's Republic of China]] and Portugal twelve years earlier marked the end of the Portuguese overseas empire. Nevertheless, the Portuguese language remains co-official with [[Cantonese]] in Macau.&lt;ref&gt;{{cite web|url=http://www.loc.gov/catdir/cpso/macau.html.|title=CATALOGING POLICY AND SUPPORT OFFICE: Macau|accessdate=12 July 2012}}&lt;/ref&gt;
+
+==Legacy==
+Seven of the former colonies of Portugal have [[Geographic distribution of Portuguese|Portuguese as their official language]]. Together with Portugal, they are now members of the [[Community of Portuguese Language Countries]], which when combined total 10,742,000&amp;nbsp;km², or 7.2% of the Earth's landmass (148 939 063&amp;nbsp;km²).&lt;ref&gt;{{cite web|title=CPLP|url=http://www.cplp.org/id-22.aspx|accessdate=2010-08-12}}&lt;/ref&gt;   [[Equatorial Guinea]], which adopted Portuguese as its third official language in 2007, is currently an associate observer of the CPLP, along with [[Mauritius]] and [[Senegal]].  Moreover, twelve candidate countries or regions have applied for membership to the CPLP and are awaiting approval.&lt;ref&gt;{{cite web|title=CPLP|url=http://pt.wikipedia.org/wiki/CPLP|accessdate=2010-08-12}}&lt;/ref&gt;
+
+Today, Portuguese is one of the world's major languages, ranked sixth overall with approximately 240 million speakers around the globe&lt;ref name=&quot;língua portuguesa&quot;&gt;{{cite web|title=língua portuguesa|url=http://diario.iol.pt/sociedade/lingua-portuguesa-portugues-ensino-governo-alunos/972503-4071.html|accessdate=2010-08-12}}&lt;/ref&gt;  It is the third most spoken language in the Americas, mainly due to Brazil, although there are also significant communities of lusophones in nations such as Canada, the USA and Venezuela.  In addition, there are numerous [[Portuguese-based creole languages]], including the one utilized by the [[Kristang people|Kristang]] people in [[Malacca]].
+
+In cyberspace, Portuguese is estimated to be the seventh most widely used Internet language, and on Wikipedia it currently has the ninth largest number of articles published.&lt;ref name=&quot;língua portuguesa&quot;/&gt;&lt;ref&gt;{{cite web|title=Wikipedia homepage|url=http://www.wikipedia.org|accessdate=2010-08-12}}&lt;/ref&gt;
+
+In light of its international importance, Portugal and Brazil are leading a movement to include Portuguese as one of the [[official languages of the United Nations]].&lt;ref&gt;{{cite web|url=http://diario.iol.pt/noticia.html?id=611263&amp;div_id=4071 |title=ONU: Petição para tornar português língua oficial |publisher=Diario.iol.pt |date=2005-11-17 |accessdate=2010-04-21}}&lt;/ref&gt;
+
+[[Image:CPLPmap.png|thumb|680px|Member states and associate observer states of the [[Community of Portuguese Language Countries]] (CPLP).]]
+{| class=&quot;wikitable&quot;
+|-
+! Region
+! States
+! Countries with Territories part of the Portuguese Empire
+|-
+| Africa
+|  26 States 
+| rowspan=&quot;4&quot; | [[Image:Countries with Historical Portuguese Territories.svg|500px|center|Countries with at least one territory (anachronistic) part of the Portuguese Empire]]&lt;small&gt;''Dark Blue'': Countries with at least one Territory (anachronistic) part of the Portuguese Empire. &lt;br&gt; ''Light Blue'': Countries with at least one Claimed territory (anachronistic) part of the Portuguese Empire &lt;br&gt; ''Pale Blue'': Countries with at least one Christian Mission of the Portuguese Empire&lt;/small&gt;
+|-
+| North America
+|   3 States
+|-
+| Central and South America
+|   4 States
+|-
+| Asia and Oceania
+| 22 States
+|}
+
+
+The Portuguese empire spread over time throughout a vast number of Territories that are now part of [[Evolution of the Portuguese Empire#Countries with territories part of the Portuguese Empire|53 different Sovereign States]].
+
+==See also==
+*[[Coats of arms of Portuguese colonies]]
+*[[Evolution of the Portuguese Empire]]
+*[[Estado Novo (Portugal)]]
+*[[Kingdom of Portugal]]
+*[[Lusotropicalism]]
+
+==References==
+{{reflist|colwidth=20em}}
+
+==Bibliography==
+{{refbegin}}
+* Andrada (undated). ''The Life of Dom John de Castro: The Fourth Vice Roy of India''. Jacinto Freire de Andrada. Translated into English by Peter Wyche. (1664) Henry Herrington, New Exchange, London. Facsimilie edition (1994) AES Reprint, New Delhi. ISBN 81-206-0900-X.
+*{{cite book | first=Liam Matthew| last=Brockey| title=Portuguese colonial cities in the early modern world| publisher=Ashgate Publishing, Ltd.| year=2008 | isbn=978-0-7546-6313-3 | url=http://books.google.com/books?id=gIlT0Uhaq_oC&amp;hl=pt-PT&amp;source=gbs_navlinks_s| ref=refBrockey}}
+*{{cite book | first=Melvin Eugene, Penny M.| last=Page, Sonnenburg| title=Colonialism: an international, social, cultural, and political encyclopedia, Volume 2| publisher=ABC-CLIO| year=2003 | isbn=1-57607-335-1 | url=http://books.google.com/books?id=qFTHBoRvQbsC&amp;hl=pt-PT&amp;source=gbs_navlinks_s| ref=refBrockey}}
+*{{cite book | first=David | last=Abernethy | title=The Dynamics of Global Dominance, European Overseas Empires 1415–1980 | publisher=Yale University Press| year=2000 | isbn=0-300-09314-4 | url=http://books.google.com/books?id=ennqNS1EOuMC | ref=refAbernethy}}
+*{{cite book | first=James Maxwell | last=Anderson|title=The History of Portugal | publisher=Greenwood Publishing Group | year=2000 | isbn=0-313-31106-4 | url=http://books.google.com/books?id=UoryGn9o4x0C | ref=refAnderson}}
+*{{cite book| first =Charles Ralph|last =Boxer |title=The Portuguese Seaborne Empire 1415–1825|publisher=Hutchinson|year=1969|isbn=0-09-131071-7|authorlink=C. R. Boxer|ref=refBoxer1969|url=http://books.google.com/books?id=BChmAAAAMAAJ&amp;pgis=1}}
+*{{cite book| first = James |last= Boyajian | title=Portuguese Trade in Asia Under the Habsburgs, 1580–1640|year=2008|publisher=JHU Press|isbn=0-8018-8754-2|url=http://books.google.com/books?id=C0lrDYYzMyAC|ref=refBoyajian}}
+*{{cite book| first=Kenneth Gordon |last=Davies|title=The North Atlantic World in the Seventeenth Century|publisher=University of Minnesota Press|year=1974|isbn=0-8166-0713-3|ref=refDavies|url=http://books.google.com/books?id=EN24iO1XJ3oC}}
+*{{cite book|last=Daus|first=Ronald |authorlink= |coauthors= |title=Die Erfindung des Kolonialismus |publisher=Peter Hammer Verlag  |year=1983  |location=Wuppertal/Germany|pages= 33  |url= |doi=|isbn=3-87294-202-6|ref=refDaus}}
+*{{cite book| first = Bailey|last = Diffie|title = Foundations of the Portuguese Empire, 1415–1580|publisher=University of Minnesota Press|year=1977|isbn=0-8166-0782-6|url=http://books.google.com/books?id=vtZtMBLJ7GgC|ref=refDiffie}}
+*{{cite book | first=Richard M., Noelle Anne| last=Juang, Morrissette | title=Africa and the Americas: culture, politics, and history : a multidisciplinary encyclopedia, Volume 2 | publisher=ABC-CLIO| year=2008 | isbn=978-1-85109-441-7 | url=http://books.google.com/books?id=wFrAOqfhuGYC&amp;hl=pt-PT&amp;source=gbs_navlinks_s| ref=refAbernethy}}
+*{{cite book| first = James | last = Lockhart|title = Early Latin America: A History of Colonial Spanish America and Brazil | publisher=Cambridge University Press |year=1983|isbn=0-521-29929-2|url=http://books.google.com/books?id=jzoBzwABlZEC|ref=refLockhart}}
+*{{cite book| first =Lyle | last=McAlister|title=Spain and Portugal in the New World, 1492–1700|publisher=University of Minnesota Press|year=1984|isbn=0-8166-1216-1|ref=refMcAlister|url=http://books.google.com/books?id=iy8jXXFuWdEC}}
+*{{cite book| first =Malyn D.D.|last =Newitt|title=A History of Portuguese Overseas Expansion, 1400–1668|publisher=Routledge|year=2005|isbn=0-415-23979-6|ref=refNewitt|url=http://books.google.com/books?id=vpteLQcx6J4C}}
+*{{cite book|first=Michael |last=Pearson|title=The Portuguese in India|year=1987|ref=refPearson|url=http://books.google.com/books?id=qI1ZRwAACAAJ|isbn=0-521-25713-1|publisher=Cambridge University Press}}
+*{{cite book| first=A.J.R.|last=Russell-Wood|title=The Portuguese Empire 1415–1808|publisher=Johns Hopkins University Press|year=1998|isbn=0-8018-5955-7|ref=refRussellWood|url=http://books.google.com/books?id=JTVH7PZU1hUC}}
+*{{cite book| first=Geoffrey Vaughn|last=Scammell|title=The First Imperial Age, European Overseas Expansion c. 1400–1715|publisher=Routledge|year=1997|isbn=0-415-09085-7|ref=refScammell|url=http://books.google.com/books?id=G5DGygQdNp0C}}
+*{{cite book| first=Teotonio R. |last=De Souza |title=Goa Through the Ages:an economic History, Issue 6 of Goa University publication series Volume 2 |publisher=Concept Publishing Company |year=1990 |isbn=81-7022-259-1 |ref=refDeSouza|url=http://books.google.com/books?id=dwYDPnEjTb4C&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q=&amp;f=false}}
+*{{Cite book | last1=Bethencourt |first1= Francisco |last2=Curto |first2=Diogo Ramada |title=Portuguese Overseas Expansion, 1400-1800 |year=2007 |publisher=Cambridge University Press |isbn=970-0-521-84644-8 }}
+*{{Cite book | last=Marley | first=David | title=Wars of the Americas: A Chronology of Armed Conflict in the Western Hemisphere (2 Volumes)| publisher=University of Oklahoma Press | isbn=978-1598841008}}
+{{refend}}
+
+==External links==
+{{commons}}
+*[http://www.timelines.info/history/empires_and_civilizations/portuguese_empire/ Portuguese Empire Timeline]
+*[http://www.amazon.com/exec/obidos/tg/guides/guide-display/-/1QKIU4ZIT0XLI The First Global Village by Martin Page]
+*[http://purl.pt/711/1/ The Portuguese and the East] (in Portuguese, Chinese, Japanese and Thai) with English introduction.
+*[http://www.colonialvoyage.com/ Dutch Portuguese Colonial History] Dutch Portuguese Colonial History: history of the Portuguese and the Dutch in Ceylon, India, Malacca, Bengal, Formosa, Africa, Brazil. Language Heritage, lists of remains, maps.
+
+{{Navboxes
+|title=Articles and topics related to the Portuguese Empire
+|state=collapsed
+|list1=
+{{Portuguese overseas empire}}
+{{Portuguese Monarchy Topics}}
+{{Portugal topics}}
+{{History of Europe}}
+{{Colonialism}}
+{{Empires}}
+}}
+
+[[Category:Kingdom of Portugal]]
+[[Category:Portuguese Empire| ]]
+[[Category:1999 disestablishments]]
+[[Category:Colonialism]]
+[[Category:Portuguese colonisation in Asia]]
+[[Category:Overseas empires]]
+[[Category:Portuguese colonisation in Africa]]
+[[Category:Portuguese colonization of the Americas]]
+[[Category:States and territories established in 1415]]
+[[Category:Empires]]
+
+{{Link FA|he}}
+
+[[ar:الإمبراطورية البرتغالية]]
+[[ast:Imperiu Portugués]]
+[[az:Portuqaliya imperiyası]]
+[[bg:Португалска империя]]
+[[br:Impalaeriezh trevadennel Portugal]]
+[[ca:Imperi portuguès]]
+[[cs:Portugalské kolonie]]
+[[de:Portugiesische Kolonialgeschichte]]
+[[et:Portugali koloniaalimpeerium]]
+[[el:Πορτογαλική Αυτοκρατορία]]
+[[es:Imperio portugués]]
+[[eu:Portugaldar Inperioa]]
+[[fa:امپراتوری پرتغال]]
+[[fr:Empire colonial portugais]]
+[[gl:Imperio Portugués]]
+[[ko:포르투갈 제국]]
+[[id:Imperium Portugis]]
+[[it:Impero portoghese]]
+[[he:האימפריה הפורטוגזית]]
+[[la:Imperium Lusitanicum]]
+[[lt:Portugalijos kolonijinė imperija]]
+[[mr:पोर्तुगीज साम्राज्य]]
+[[ms:Empayar Portugal]]
+[[mwl:Ampério pertués]]
+[[nl:Portugese koloniën]]
+[[ja:ポルトガル海上帝国]]
+[[no:Det portugisiske imperiet]]
+[[nn:Det portugisiske imperiet]]
+[[pl:Portugalskie imperium kolonialne]]
+[[pt:Império Português]]
+[[ro:Imperiul Portughez]]
+[[ru:Колонии Португалии]]
+[[simple:Portuguese Empire]]
+[[fi:Portugalilainen imperiumi]]
+[[sv:Portugisiska imperiet]]
+[[th:จักรวรรดิโปรตุเกส]]
+[[tr:Portekiz İmparatorluğu]]
+[[ur:پرتگیزی سلطنت]]
+[[vi:Đế quốc Bồ Đào Nha]]
+[[diq:İmperatoriya Portekizi]]
+[[zh:葡萄牙帝國]]</text>
+      <sha1>71lwuc3me5t5jhw52t7olr5a7ydlov2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

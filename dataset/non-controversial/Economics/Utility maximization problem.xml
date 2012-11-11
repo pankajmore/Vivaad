@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Utility maximization problem</title>
+    <ns>0</ns>
+    <id>1018347</id>
+    <revision>
+      <id>508460270</id>
+      <parentid>501948169</parentid>
+      <timestamp>2012-08-21T14:25:20Z</timestamp>
+      <contributor>
+        <username>Chris the speller</username>
+        <id>525927</id>
+      </contributor>
+      <minor/>
+      <comment>typos, replaced: non unique →Nonunique using [[Project:AWB|AWB]] (8277)</comment>
+      <text xml:space="preserve" bytes="3661">In [[microeconomics]], the '''utility maximization problem''' is the problem [[consumer|consumers]] face: &quot;how should I spend my [[money]] in order to maximize my [[utility]]?&quot; It is a type of [[Optimal decision|optimal decision problem]].
+
+==Basic setup==
+Suppose their [[consumption set]], or the enumeration of all possible consumption bundles that could be selected if there are no budget constraints, has ''L'' commodities and is limited to positive amounts of consumption of each commodity. Let ''x'' be the vector ''x''={''x&lt;sub&gt;i&lt;/sub&gt;'';''i''=1,...''L''} containing the amounts of each commodity, then
+
+:&lt;math&gt;x \in \textbf R^L_+ \ .&lt;/math&gt;
+
+Suppose also that the prices (''p'') of the ''L'' commodities are positive
+
+:&lt;math&gt;p \in \textbf R^L_+ \ ,&lt;/math&gt;
+
+and that the consumer's wealth is ''w'', then the set of all affordable packages, the [[budget set]], is
+
+:&lt;math&gt;B(p, w) = \{x \in \textbf R^L_+ : \langle p , x \rangle \leq w\} \ ,&lt;/math&gt;
+
+where &lt;math&gt;\langle p , x \rangle&lt;/math&gt; is the [[dot product]] of ''p'' and ''x'', or the total cost of consuming ''x'' of the products at price level ''p'':
+:&lt;math&gt;\langle p , x \rangle=\sum_{i=1}^L p_i x_i .&lt;/math&gt;
+
+The consumer would like to buy the best package of commodities it can afford.  Suppose that the consumer's utility function (''u'') is a real valued function with domain of the commodity bundles, or
+
+:&lt;math&gt;u : \textbf R^L_+ \rightarrow \textbf R \ .&lt;/math&gt;
+
+Then the consumer's optimal choices ''x''(''p'', ''w'') are the utility maximizing bundle that is in the budget set, or
+
+:&lt;math&gt;x(p, w) = \operatorname{argmax}_{x^* \in B(p, w)} u(x^*)&lt;/math&gt;.
+
+Finding ''x''(''p'', ''w'') is the '''utility maximization problem'''. If ''u'' is continuous and no commodities are free of charge, then x(p, w) exists.{{Citation needed|date=August 2010}} If there is always a unique maximizer, then it is called the [[Marshallian demand function]].  The relationship between the [[utility function]] and [[Marshallian demand]] in the Utility Maximization Problem mirrors the relationship between the [[expenditure function]] and [[Hicksian demand]] in the [[Expenditure Minimization Problem]].
+
+In practice, a consumer may not always pick an optimal package. For example, it may require too much thought.  [[Bounded rationality]] is a theory that explains this behaviour with [[satisficing]] - picking packages that are suboptimal but good enough.
+
+=== Nonunique solution ===
+The solution ''x''(''p'', ''w'') need not be unique.{{Citation needed|date=August 2010}}  If a consumer always picks an optimal package as defined above, then ''x''(''p'', ''w'') is called the [[Marshallian demand correspondence]].
+
+==See also==
+*[[Optimal decision]]
+*[[Choice Modelling]]
+*[[Utility function]]
+*[[Expenditure minimization problem]]
+*[[Linear programming|Profit maximization formulae]]
+
+{{No footnotes|date=August 2010}}
+{{refimprove|date=March 2011}}
+
+==References==
+* {{Cite book|author=[[Andreu Mas-Colell|Mas-Colell, Andreu]]; Whinston, Michael; &amp; Green, Jerry |year=1995|title=Microeconomic Theory|location= Oxford|publisher= Oxford University Press| isbn= 0-19-507340-1}}
+
+==External links==
+*[http://www2.hawaii.edu/~fuleky/anatomy/anatomy.html Anatomy of Cobb-Douglas Type Utility Functions in 3D]
+
+{{DEFAULTSORT:Utility Maximization Problem}}
+[[Category:Consumer theory]]
+[[Category:Optimal decisions]]
+[[Category:Utility]]
+
+
+{{econ-stub}}
+
+[[lo:ບັນຫາການເຮັດໃຫ້ເກີດຜົນປະໂຫຍດສູງສຸດ]]
+[[ja:効用最大化]]
+[[uk:Неокласична задача споживання]]
+[[vi:Tối đa hóa thỏa dụng]]
+[[zh:效用最大化]]</text>
+      <sha1>ivm9mfprjte186rvfbfp84wl95zltoe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Mahayana</title>
+    <ns>1</ns>
+    <id>507505</id>
+    <revision>
+      <id>521685792</id>
+      <parentid>521681344</parentid>
+      <timestamp>2012-11-06T16:18:28Z</timestamp>
+      <contributor>
+        <username>Joshua Jonathan</username>
+        <id>15304212</id>
+      </contributor>
+      <minor/>
+      <comment>/* Additions to the lead */ Typo</comment>
+      <text xml:space="preserve" bytes="14827">{{WikiProjectBannerShell|1=
+{{WikiProject China|class=B|importance=top}}
+{{WikiProject Tibetan Buddhism|importance=high|class=B}}
+{{WikiProject East Asia|importance=high|class=B}}
+{{WikiProject Philosophy|importance=mid|class=B|eastern=yes|religion=yes}}
+{{WP1.0|class=B|category=category|VA=yes}}
+}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 2
+|minthreadsleft = 4
+|algo = old(100d)
+|archive = Talk:Mahayana/Archive %(counter)d
+}}
+{{Archives |bot=MiszaBot I |age=100 |search=yes|auto=long }}
+
+== Serious errors ==
+
+How is yogacara early mahayana, but its ancestor Madhyamaka, late Mahayana?
+
+Something is really messed up here.  
+
+http://en.wikipedia.org/wiki/Mahayana#Late_Mah.C4.81y.C4.81na_Buddhism[[User:Thigle|Thigle]] ([[User talk:Thigle|talk]]) 19:35, 9 May 2011 (UTC)
+
+:The article text states: &quot;During the period of late Mahāyāna Buddhism, four major types of thought developed: Mādhyamaka, Yogācāra, Buddha Nature (Tathāgatagarbha), and Buddhist Logic as the last and most recent. In India, the two main philosophical schools of the Mahāyāna were the Mādhyamaka and the later Yogācāra.&quot; I don't see anything here about Madhyamaka being later than Yogacara...? [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, 'Gentium Book Basic', 'Gentium Basic', serif&quot;&gt;Tengu800&lt;/span&gt;]] 20:40, 9 May 2011 (UTC)
+::Read the next two sections[[User:Thigle|Thigle]] ([[User talk:Thigle|talk]]) 00:43, 10 May 2011 (UTC)
+
+:::In these next two sections, I don't see any reference at all to Madhyamaka. [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, 'Gentium Book Basic', 'Gentium Basic', serif&quot;&gt;Tengu800&lt;/span&gt;]] 02:39, 10 May 2011 (UTC)
+
+== the missing dot ==
+
+Is there a good reason to specify that two of the ''a''s are long (''ā'') but not that the ''n'' is cerebral (''ṇ''), i.e., to write ''Mahāyāna'' rather than ''Mahāyāṇa''?  In some environments an ''n'' is predictably cerebral (after another cerebral consonant or a non-low vowel; probably others that I've forgotten), and so the dot can be considered redundant – but this isn't such a case, is it? —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 05:54, 1 January 2012 (UTC)
+
+== Reference for motivation behind buddha-nature doctrine ==
+
+We had a broken reference link in the Buddha nature section, The reference is currently No. 46 in the list: &quot;King, Sallie B. The Doctrine of Buddha-Nature is impeccably Buddhist.&quot;
+
+I have tracked down a version of the article on scribd and replaced the link and page numbers in the citation (now at http://www.scribd.com/doc/33827209/Sallie-B-King-The-Doctrine-of-Buddha-Nature-is-Impeccably-Buddhist). However, I'd like to ask, regarding this passage:
+
+:''The language used by [Madhyamaka] is primarily negative, and the Buddha nature genre of sūtras can be seen as an attempt to state orthodox Buddhist teachings of dependent origination and on the mysterious reality of nirvana using positive language instead, to prevent people from being turned away from Buddhism by a false impression of nihilism.''
+
+Does anyone have further historical reference material to back up the claim of motivation here? &quot;can be seen as&quot; is a bit weaselly, and I'm not entirely convinced by this paper alone that this was a historical motivation. Thanks! &lt;span style=&quot;font-family:monospace;text-shadow:#EECC99 0.2em 0.2em 0.1em&quot;&gt;/[[User:Ninly|&lt;span style=&quot;color:OrangeRed;&quot;&gt;ninly&lt;/span&gt;]]&lt;sub&gt;([[User talk:Ninly|&lt;span style=&quot;color:Orange&quot;&gt;talk&lt;/span&gt;]])&lt;/sub&gt;&lt;/span&gt; 04:36, 27 January 2012 (UTC)
+
+:I see no indication that these were reactions to ''Madhyamaka specifically'' in any way whatsoever. It is even debatable whether there was even such a group as &quot;Madhyamaka,&quot; at the time that the original Tathgatagarbha sutras were composed. In Yin Shun's book, ''Way to Buddhahood'', he instead cites non-Buddhists and &quot;some Hinayana practitioners&quot; who are afraid of anatman, as some of the reasons why the Tathagatagarbha sutras were spoken. He cites the ''Lankavatara Sutra'' for this passage...
+
+::&quot;The Tathagatagarbha that I teach differs from the Self taught by non-Buddhists. Great Wisdom Bodhisattva! Sometimes, terms such as emptiness, formlessness, wishlessness, suchness, reality, the nature of things, the Dharma body, Nirvana, being without inherent nature, neither production nor extinction, fundamental stillness, the inherent nature of Nirvana, and so forth, are used to describe the Tathagatagarbha. In order to put an end to ignorant peoples' fear of the nonexistence of the self, the Tathagata, worthy of worship and perfectly enlightened, expounds the doctrine of Tathagatagarbha which is separate from the state of erroneous imagination of nothingness. [...] With regard to the Dharma, which is without inherent nature and which is separate from all features of false erroneous imagination, I spoke of either the Tathagatagarbha or the nonexistence of the self, with various wise and skillful means.&quot;
+
+:Here the Tathagatagarbha and Anatman are regarded as two expressions for ultimately the same thing, with the Buddha expounding either according to the situation (skillful means). That is to say, that Anatman is the negative expression, whereas Tathagatagarbha is the positive expression. [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, serif&quot;&gt;Tengu800&lt;/span&gt;]] 22:58, 28 January 2012 (UTC)
+
+*If one takes the internal evidence of the tathagatagarbha sutras (and the ''Lankavatara Sutra'', incidentally, is '''not''' regarded generally as belonging to the specific category of tathagatagarbha/buddha-nature sutras), then the reason for the promulgation of the original  tathagatagarbha doctrine was rather the other way around: the Buddha in the ''Mahayana Mahaparinirvana Sutra'' (which Mahayana views chronologically as the final sutric statement of the Buddha on the tathagatagarbha and indeed on the Dharma - post-dating any statements in the Lanka about the TG) states that the monks to whom the Buddha taught the Self or Buddha-nature doctrine were those who were thoroughly schooled in non-Self teachings but who had become extreme in their view of non-Self and were now ''afraid of the Self''! The ''Angulimaliya Sutra'' is similarly excoriating of those monks and Bodhisattvas who only apply 'non-Self' and 'dependent origination' to everything, and fail to see that there is something higher and transcendental to all that: the Self or Buddha nature. People who are not specialists in the Buddha-nature / tathagatagarbha doctrine are sadly frequently ignorant of these facts. What the 'historical' reasons for the doctrine's emergence may have been is of course uncertain. There is only really speculation. What were the 'historical' reasons for Buddhism after all? Who knows if the story of Prince Siddhartha's seeing three signs of samsara's suffering-filled nature was historically true at all? But that is taking us too far afield! Best wishes from [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 01:19, 29 January 2012 (UTC)
+
+::The ''Lankavatara'' uses both Tathagatagarbha and Yogacara elements, but there is no simple rule for what is &quot;canonical&quot; Tathagatagarbha. It may just be that later Tathagatagarbha sutras tended to employ aspects of the Yogacara system. I agree with most of what you say, in that the Tathagatagarbha doctrines seem more or less aimed at an already Buddhist audience. However, as you say, the historical reasons are somewhat a matter of speculation. Although a comprehensive study that looked at many specific passages could make the motivations clearer, it is difficult to claim anything as fact for such a subject. As to the original point, though, I don't think there is any clear evidence that the Tathagatagarbha doctrines were in any way a reaction to Madhyamaka teachings, which is what the original source seems to be claiming. As usual, the best approach is to tread carefully when writing article material, and to attribute views to their respective sources. [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, serif&quot;&gt;Tengu800&lt;/span&gt;]] 05:55, 29 January 2012 (UTC)
+*Hello Tengu. I like what you say and agree with much of it. Just one point: the main tathagatagarbha sutras (such as the Tibetan and Faxian ''Nirvana Sutra'', the ''Tathagatagarbha Sutra'', the ''Srimala Sutra'', and even the ''Angulimaliya Sutra'') were probably set down in writing before the ''Lankavatara Sutra''; certainly they display no interest in Yogacara or Vijnanavada. These key TG sutras do seem to be trying to correct what they perceived as an overly negative understanding of Emptiness. To say specifically that they were attacking Madhyamaka is perhaps more difficult, as the word Madyhamaka is used positively by different schools, even by Dolpopa of the Jonang! Whatever the historical reasons for the appearance of the TG sutras, it is undeniable that they represent a fresh look at the Dharma, in language that is often rather startling in its cataphatic emphases. Best wishes to you. From [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 09:35, 29 January 2012 (UTC)
+
+== ''Ācariyavāda'' name ==
+
+The opening paragraph for this article now includes a supposed synonym of &quot;Acariyavada.&quot; The two sources for this are a book by Bibhuti Baruah, and a website of unknown authorship (probably does not qualify as [[WP:RS]]). In any case, when looking up the first source in this book by Bibhuti Baruah, it is clear that nowhere is Mahayana specifically referred to as Acariyavada. In fact, the passage in question does not even make any conclusions about what the term even means. The mystery seems to be that in certain Sri Lankan chronicles, the term Acariyavada is used for other sects of Buddhism. However, these other sects would have been numerous (i.e. [[Early Buddhist schools]]), and there is nothing that seems to link the term to Mahayana at all. In addition, the term is a very uncommon one that is not widely used as a synonym for Mahayana. If there are no reliable sources for this association, then the term should be removed from the opening paragraph of the article. [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, serif&quot;&gt;Tengu800&lt;/span&gt;]] 00:16, 18 July 2012 (UTC)
+
+*I completely agree with Tengu. Best wishes. [[User:Suddha|Suddha]] ([[User talk:Suddha|talk]]) 00:33, 18 July 2012 (UTC)
+
+== Additions to the lead ==
+
+Hello there. In response to your reversion and accusations the following should be noted. Firstly, the explanation of Mahayana which you have reverted a second time is not from a Theravada perspective and does not represent Theravada polemics. It is a view held by leading Mahayana scholars including the Dalai Lama himself. I say this as a published author in the field who has been invited by the International Association for the History of Relgions (the most prestigious academic body of its kind) to address many of the world's leading scholars. I say this not to boast but just to let you know that I do not have an agenda. What you have removed is neither Original Research nor a 'synthesis of published material that advances a position'. In fact I would say that most of the sources which promote the interpretive structure I use comes not from Theravada but Mahayana sources. In fact, to be honest, I cannot think of a single Theravada author who I have heard promote such a point of view. Therefore I would be grateful if you would to explain to me in what way the text you have removed is 'not accurate to the actual historical information available' and in what way it 'represents a biased viewpoint'. Many thanks [[Special:Contributions/81.106.127.14|81.106.127.14]] ([[User talk:81.106.127.14|talk]]) 01:50, 6 November 2012 (UTC)
+:Well, to summarize: (1) Mahayana sutras were overwhelmingly not written in Sanskrit. It is widely acknowledged that they were typically written in a prakrit, and then Sanskrit formalisms were applied gradually over the centuries (except to gathas, which retain a more archaic form since they are verse). Pali is even one prakrit language that has been sanskritized to some extent. (2) The claim that Mahayana Buddhists accepted the Pali Canon is largely unfounded, since Mahayana Buddhists in India were no doubt overwhelmingly unfamiliar with the &quot;Pali Canon&quot;, which refers to the collection of texts used in Sri Lanka (no clear history of this collection in India, nor any history of the Pali language in India). The Agamas that were used by the other schools contained some sectarian differences by means of which scholars can now determined which sects they belonged to. Therefore, they cannot be identified with the Pali Canon. (3) The material added seems to put everything in terms of individual liberation such as that of the arhat -- either attaining it, or helping others attain it. This does not give a full or accurate summary of the Mahayana views on enlightenment and buddhahood. (4) According to many Mahayana sutras, arhats have only attained an incomplete nirvana, yet the material you have added ascribes to arhats nirvana without qualifications. In fact, there are several different types of nirvana recognized by Mahayana teachings: incomplete nirvana, complete nirvana, and the non-abiding nirvana. Of these, the arhats are often ascribed the incomplete nirvana. (5) The use of Pali terms being applied to Mahayana subject matter does not inspire confidence, since Mahayana never used Pali that we know of. Now, aside from these issues regarding the accuracy of the information, there are several major problems with the addition. (1) There are no references given, so the material is subject to removal if it is controversial. (2) The added material modifies cited material already in the article, which indicates a process of synthesis. (3) The views added seem to be the views of an individual editor rather than modern scholarship on the matter. Best regards. [[User talk:Tengu800|&lt;span style=&quot;font-family: Georgia, serif&quot;&gt;Tengu800&lt;/span&gt;]] 02:26, 6 November 2012 (UTC)
+::I agree that giving references is to be prefered. Being a &quot;published scholar&quot; using sources, it shouldn't be very difficult to give references to these sources. The fact that you mention being a &quot;published scholar [...] the most prestigious [...] many of the world's leading scholars&quot; ''is'' indeed boasting, yet contraproductive, there's no way to check if this is correct, except for the edit-behaviour you show. Which covers a broad range of topics, but has also been reverted before [http://en.wikipedia.org/w/index.php?title=Dharma_transmission&amp;diff=next&amp;oldid=509301547] [http://en.wikipedia.org/w/index.php?title=Zen&amp;diff=next&amp;oldid=484337480] - by me, because of a lack of sources and [[WP:OR]]. [[User:Joshua Jonathan|Joshua Jonathan]] ([[User talk:Joshua Jonathan|talk]]) 15:42, 6 November 2012 (UTC)</text>
+      <sha1>i1mw180r1stadijkiwwjf5018aimutf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

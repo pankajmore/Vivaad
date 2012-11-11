@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Episcopal see</title>
+    <ns>0</ns>
+    <id>199657</id>
+    <revision>
+      <id>509004057</id>
+      <parentid>499312062</parentid>
+      <timestamp>2012-08-24T23:06:10Z</timestamp>
+      <contributor>
+        <username>Student7</username>
+        <id>2745211</id>
+      </contributor>
+      <comment>In Catholicism (and other religions) a &quot;see&quot; is part of a metropolis but is much different, nonetheless</comment>
+      <text xml:space="preserve" bytes="2423">An '''episcopal see''' ([[Latin]]: ''episcopalis sedes'') is, in the original sense, the official ''seat'' of a [[bishop]]. This seat, which is also referred to as the bishop's [[cathedra]], is placed in the bishop's principal church, which is therefore called the bishop's [[cathedral]].&lt;ref name=ODCC&gt;The Oxford Dictionary of the Christian Church (Oxford University Press 2005, ISBN 978-0-19-280290-3), s.v. ''see''&lt;/ref&gt; The seat is also called the bishop's ''throne'', especially in the Eastern Orthodox Church.&lt;ref&gt;For instance, [http://www.ec-patr.org/docdisplay.php?lang=en&amp;id=825&amp;tla=en Communiqué of the Ecumenical Patriarchate]&lt;/ref&gt;
+
+The term is also used of the town or place where the cathedral is located,&lt;ref name=ODCC/&gt; giving rise to expressions such as &quot;the Episcopal See of Gibraltar&quot;.&lt;ref&gt;[http://hansard.millbanksystems.com/commons/1876/aug/12/church-of-england-episcopal-see-of Hansard report]&lt;/ref&gt;
+
+The bishop's seat is the earliest symbol of bishop's authority,&lt;ref name=ODCC/&gt; and the word &quot;see&quot; is thus often applied to the area over which the bishop exercises authority. This usually corresponds to a [[diocese]], as in the expression &quot;within the see of Ebbsfleet&quot;&lt;ref&gt;[http://www.ebbsfleet.org.uk/congcoun.htm The Lay Council and Congress of the See of Ebbsfleet]&lt;/ref&gt; and &quot;built within the see of the bishop of Worcester&quot;.&lt;ref&gt;[http://www.british-history.ac.uk/report.aspx?compid=36472 Priory of Little Malvern]&lt;/ref&gt; But it is sometimes given a wider significance, referring for instance to an area under [[patriarch]]al authority.&lt;ref&gt;[http://ecole.evansville.edu/articles/crete.html Christianity in Crete (to 827)]&lt;/ref&gt;
+
+In common English usage, the term ''[[Holy See]]'' most often refers to the episcopal see of the [[Bishop of Rome]].
+
+==See also==
+*[[Apostolic see]]
+*[[Archbishop]]
+*[[Bishop (Catholic Church)]]
+*[[Canon law]]
+*[[Cathedra]]
+*[[Catholic Church hierarchy]]
+*[[Diocese]]
+*[[Early centers of Christianity]]
+*[[Ecclesiastical province]]
+*[[Holy See]]
+*[[Sede vacante]]
+*[[See of St. Mark]]
+
+==References==
+{{Reflist|2}}
+
+[[Category:Christian group structuring]]
+[[Category:Dioceses]]
+[[Category:Christian terms]]
+
+[[an:Seu bispal]]
+[[es:Sede episcopal]]
+[[gl:Sé episcopal]]
+[[nn:Stiftsstad]]
+[[pt:Sé episcopal]]
+[[ru:Престол (епископский)]]
+[[sh:Biskupska stolica]]
+[[sv:Stiftsstad]]
+[[tr:Piskopos denizi]]
+[[vi:Tòa giám mục]]
+[[zh:主教教座]]</text>
+      <sha1>21jjn8ko05mztbuelsrh163spyvimkf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

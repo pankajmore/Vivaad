@@ -1,0 +1,177 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Economic indicator</title>
+    <ns>0</ns>
+    <id>72529</id>
+    <revision>
+      <id>518149419</id>
+      <parentid>518149409</parentid>
+      <timestamp>2012-10-16T16:55:34Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contributions/188.222.228.117|188.222.228.117]] to version by 71.62.208.129. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1276333) (Bot)</comment>
+      <text xml:space="preserve" bytes="11969">{{Economics sidebar}}
+
+An '''economic indicator''' (or '''business indicator''') is a [[statistic]] about the [[Economics|economy]]. Economic indicators allow analysis of economic performance and [[prediction]]s of future performance. One application of economic indicators is the study of [[business cycle]]s. Economic indicators include various indices, earnings reports, and economic summaries. Examples: [[unemployment]] rate, quits rate, [[housing starts]], [[Consumer Price Index]] (a measure for [[inflation (economics)|inflation]]), [[Consumer Leverage Ratio]], [[industrial production]], [[bankruptcies]], [[Gross Domestic Product]], [[broadband internet access|broadband internet penetration]], [[retail sales]], [[stock market]] prices, [[money supply]] changes.
+
+The leading business cycle dating committee in the [[United States|United States of America]] is the [[National Bureau of Economic Research]] (private). The [[Bureau of Labor Statistics]] is the principal fact-finding agency for the U.S. government in the field of labor economics and statistics. Other producers of economic indicators includes the [[United States Census Bureau]] and United States [[Bureau of Economic Analysis]].
+
+==Classification by timing==
+Economic indicators can be classified into three categories according to their usual timing in relation to the business cycle: leading indicators, lagging indicators, and coincident indicators.
+
+===Leading indicators===
+Leading indicators are indicators that usually change before the economy as a whole changes.&lt;ref&gt;{{cite book
+  | last = Sullivan
+  | first = arthur
+  | authorlink = Arthur O' Sullivan
+  | coauthors = Steven M. Sheffrin
+  | title = Economics: Principles in action
+  | publisher = Pearson Prentice Hall
+  | date = 2003
+  | location = Upper Saddle River, New Jersey 07458
+  | pages = 314}}&lt;/ref&gt; They are therefore useful as short-term predictors of the economy. Stock market returns are a leading indicator: the stock market usually begins to decline before the economy as a whole declines and usually begins to improve before the general economy begins to recover from a slump.  Other leading indicators include the index of consumer expectations, building permits, and the money supply.{{Citation needed|date=April 2010}} [[The Conference Board]] publishes a composite [[Conference Board Leading Economic Index|Leading Economic Index]] consisting of ten indicators designed to predict activity in the U. S. economy six to nine months in future.
+
+The 10 Components of Leading Indicators
+
+#Average weekly hours (manufacturing) — Adjustments to the working hours of existing employees are usually made in advance of new hires or layoffs, which is why the measure of average weekly hours is a leading indicator for changes in unemployment. and also
+#Average weekly jobless claims for unemployment insurance — The CB reverses the value of this component from positive to negative because a positive reading indicates a loss in jobs. The initial jobless-claims data is more sensitive to business conditions than other measures of unemployment, and as such leads the monthly unemployment data released by the [[U.S. Department of Labor]]. 
+#Manufacturers' new orders for consumer goods/materials — This component is considered a leading indicator because increases in new orders for consumer goods and materials usually mean positive changes in actual production. The new orders decrease inventory and contribute to unfilled orders, a precursor to future revenue. 
+#Vendor performance (slower deliveries diffusion index) — This component measures the time it takes to deliver orders to industrial companies. Vendor performance leads the business cycle because an increase in delivery time can indicate rising demand for manufacturing supplies. Vendor performance is measured by a monthly survey from the National Association of Purchasing Managers (NAPM). This diffusion index measures one-half of the respondents reporting no change and all respondents reporting slower deliveries. 
+#Manufacturers' new orders for non-defense capital goods — As stated above, new orders lead the business cycle because increases in orders usually mean positive changes in actual production and perhaps rising demand. This measure is the producer's counterpart of new orders for consumer goods/materials component (#3). 
+#Building permits for new private housing units. 
+#The Standard &amp; Poor's 500 stock index — The [[S&amp;P 500]] is considered a leading indicator because changes in stock prices reflect investor's expectations for the future of the economy and interest rates. 
+#Money Supply (M2) — The [[money supply]] measures demand deposits, traveler's checks, savings deposits, currency, money market accounts, and small-denomination [[time deposit]]s. Here, M2 is adjusted for inflation by means of the deflator published by the federal government in the GDP report. Bank lending, a factor contributing to account deposits, usually declines when inflation increases faster than the money supply, which can make economic expansion more difficult. Thus, an increase in demand deposits will indicate expectations that inflation will rise, resulting in a decrease in bank lending and an increase in savings. 
+#Interest rate spread (10-year Treasury vs. Federal Funds target) — The interest rate spread is often referred to as the yield curve and implies the expected direction of short-, medium- and long-term interest rates. Changes in the [[yield curve]] have been the most accurate predictors of downturns in the economic cycle. This is particularly true when the curve becomes inverted, that is, when the longer-term returns are expected to be less than the short rates. 
+#Index of consumer expectations — This is the only component of the leading indicators that is based solely on expectations. This component leads the business cycle because consumer expectations can indicate future consumer spending or tightening. The data for this component comes from the [[University of Michigan]]'s Survey Research Center, and is released once a month.
+
+=== Lagging indicators ===
+Lagging indicators are indicators that usually change after the economy as a whole does. Typically the lag is a few quarters of a year. The unemployment rate is a lagging indicator: employment tends to increase two or three quarters after an upturn in the general economy{{Citation needed|date=December 2011}}.  In finance, [[Bollinger bands]] are one of various lagging indicators in frequent use. In a performance measuring system, profit earned by a business is a lagging indicator as it reflects a historical performance; similarly, improved customer satisfaction is the result of initiatives taken in the past.{{Citation needed|date=April 2010}}
+
+The [[Index of Lagging Indicators]] is published monthly by The Conference Board, a non-governmental organization, which determines the value of the index from seven economic variables. These components tend to follow changes in the overall economy.
+
+The components are:
+* The average duration of [[unemployment]] (inverted)
+* The value of outstanding commercial and industrial loans
+* The change in the [[Consumer Price Index]] for services
+* The change in labour cost per unit of output
+* The ratio of manufacturing and trade inventories to sales
+* The ratio of consumer credit outstanding to personal income
+* The average prime rate charged by banks
+
+=== Coincident indicators ===
+Coincident indicators change at approximately the same time as the whole economy, thereby providing information about the current state of the economy.  There are many coincident economic indicators, such as [[Gross Domestic Product]], industrial production, personal income and retail sales. A coincident index may be used to identify, after the fact, the dates of peaks and troughs in the business cycle.&lt;ref&gt;Charles Emrys Smith, 'Economic Indicators,' in Wankel, c. (ed.) ''Encyclopedia of business in Today's World'', California, USA, 2009.&lt;/ref&gt;
+
+There are four economic statistics comprising the Index of Coincident Economic Indicators:{{Citation needed|date=April 2010}}
+
+* Number of employees on non-agricultural [[payroll]]s
+* [[Personal income]] less transfer payments
+* Industrial production
+* Manufacturing and trade sale
+
+The Philadelphia Federal Reserve produces state-level coincident indexes based on 4 state-level variables:&lt;ref&gt;{{cite web|title=State Coincident Indexes|url=http://www.philadelphiafed.org/research-and-data/regional-economy/indexes/coincident/|publisher=Federal Reserve Bank of Philadelphia|accessdate=4 October 2010}}&lt;/ref&gt;
+
+* Nonfarm payroll employment
+* Average hours worked in manufacturing
+* Unemployment rate
+* Wage and salary disbursements deflated by the consumer price index (U.S. city average)
+
+==By direction==
+
+There are also three terms that describe an economic indicator's ''direction'' relative to the direction of the general economy:
+* '''[[Procyclic|Procyclical]]''' indicators move in the same direction as the general economy: they increase when the economy is doing well; decrease when it is doing badly. [[Gross domestic product]] (GDP) is a procyclic indicator.
+* '''[[Countercyclic|Countercyclical]]''' indicators move in the opposite direction to the general economy. The unemployment rate is countercyclic: it rises when the economy is deteriorating.
+* '''[[Acyclical]]''' indicators are those with little or no correlation to the business cycle: they may rise or fall when the general economy is doing well, and may rise or fall when it is not doing well.&lt;ref&gt;About.com, [http://economics.about.com/cs/businesscycles/a/economic_ind.htm A Beginner's Guide to Economic Indicators], retrieved November 209. This was the source of &quot;procyclic,&quot; &quot;acyclic,&quot; etc., as well as confirmation of &quot;leading,&quot; &quot;lagging,&quot; etc., and the source of some of the examples.&lt;/ref&gt;
+
+==Local indicators==
+
+Local governments often need to project future tax revenues.  The city of San Francisco, for example, uses the price of a one-bedroom apartment on [[Craigslist]], weekend subway ridership numbers, parking garage usage, and monthly reports on passenger landings at the city's airport.&lt;ref&gt;
+{{cite web|title=A Fresh Approach To Measuring The Economy|url=http://www.npr.org/templates/story/story.php?storyId=125837367|accessdate=2010-04-20|date=2010-04-11}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Business and economics}}
+* [[Big Mac Index]]
+* [[Bureau of Labor Statistics]]
+* [[CAPRI model]]
+* [[Consumer Confidence Index]]
+* [[Consumer Leverage Ratio]]
+* [[Consumer price index]]
+* [[Core inflation]]
+* [[Economic calendar]]
+* [[Economic data]]
+* [[Fundamental analysis]]
+* [[Genuine Progress Index]]
+* [[Gross domestic product]]
+* [[Hemline index]]
+* [[Inflation]]
+* [[Lipstick effect]]
+* [[List of economic reports by U.S. government agencies]]
+* [[Misery index (economics)]]
+* [[SET Index]]
+* [[The Conference Board]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.census.gov/mobile/ Economic Indicators Mobile App]
+* [http://stats.bls.gov/ U.S. Bureau of Labor Statistics]
+* [http://www.conference-board.org/economics/indicators.cfm The Conference Board - Economic Indicators]
+* [http://www.federalreserveeducation.org/resources/economic_indicators/ FED101 - Economic Indicators]
+* [http://www.statistik.tuwien.ac.at/ameli International Conference on Indicators and Survey Methodology]
+* [http://treyd.org/economic-indicators/ U.S. Economic Indicators]
+* [http://www.esa.doc.gov/about-economic-indicators  About Economic Indicators]
+* [http://stats.oecd.org  OECD Economic Indicators]
+{{DEFAULTSORT:Economic Indicator}}
+[[Category:Economic indicators| ]]
+
+[[de:Indikator (Wirtschaft)]]
+[[et:Majandusindikaator]]
+[[eu:Adierazle (ekonomia)]]
+[[fr:Indicateur économique]]
+[[ms:Petunjuk ekonomi]]
+[[no:Økonomisk indikator]]
+[[ru:Макроэкономические индикаторы]]
+[[ta:பொருளியல் குறிகாட்டி]]</text>
+      <sha1>jbl6lhd37ma5d0sv0ijtx4loujuyvde</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

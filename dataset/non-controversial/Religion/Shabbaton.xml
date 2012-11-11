@@ -1,0 +1,68 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Shabbaton</title>
+    <ns>0</ns>
+    <id>5233169</id>
+    <revision>
+      <id>501494373</id>
+      <parentid>501494176</parentid>
+      <timestamp>2012-07-10T02:04:29Z</timestamp>
+      <contributor>
+        <username>Editor2020</username>
+        <id>6046894</id>
+      </contributor>
+      <comment>lower case</comment>
+      <text xml:space="preserve" bytes="1740">{{Unreferenced|date=November 2008}}
+The Hebrew term '''''shabbaton''''' ({{lang-he|שבתון}}) may be translated into English to mean [[sabbatical]].&lt;ref&gt;http://aitzchaim.com/2011/05/11/majco-shabbaton-what-is-a-shabbaton/&lt;/ref&gt; The concept of a sabbatical year ([[shmita]]) has a source in several places in the Bible (e.g. Leviticus 25), where there is a commandment to desist from working the fields in the seventh year.
+
+In contemporary Israel, when one takes a ''shabbaton'', one takes the year off in search of other pursuits. It is an extended rest from work,&lt;ref&gt;{{Cite web |url=http://aitzchaim.com/2011/05/11/majco-shabbaton-what-is-a-shabbaton/ |title=WHAT IS A SHABBATON?}}&lt;/ref&gt; a hiatus, typically 2 months plus.{{Citation needed|date=July 2012}}{{Dubious|reason=I don't think this can be sourced, since a shabbaton is usually a year|date=July 2012}} This period is called (a) [[sabbatical]].
+
+Colloquially, the term ''shabbaton''  means an event or program of education, and usually celebration, that is held on a [[Shabbat]] (Jewish sabbath). Sometimes a shabbaton is an entire weekend with the main focus on the Shabbat. Many communities have such events, including youth groups, singles groups, synagogues, schools, social groups, charitable groups or even family reunions. These events can be multi-generational and wide open, or limited to a small specific group. A ''shabbaton'' can be held where a group usually meets, or at an off-site location. By calling such a program a ''shabbaton'', rather than just a &quot;[[retreat]]&quot;, one signifies recognition of the importance of Shabbat in the event/program.
+
+== References ==
+{{Reflist}}
+
+[[Category:Shabbat]]
+[[Category:Hebrew words and phrases]]
+
+[[he:יום שבתון]]</text>
+      <sha1>dlwb8ysyvqz1qhg47ctxna6l18odi9w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

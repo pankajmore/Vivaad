@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Adverse selection</title>
+    <ns>0</ns>
+    <id>309452</id>
+    <revision>
+      <id>522173763</id>
+      <parentid>522173535</parentid>
+      <timestamp>2012-11-09T13:28:56Z</timestamp>
+      <contributor>
+        <ip>188.66.85.172</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="11130">'''Adverse selection''', '''anti-selection''', or '''negative selection''' is a term used in [[economics]], [[insurance]],  [[risk management]], and [[statistics]]. It refers to a market process in which undesired results occur when buyers and sellers have [[information asymmetries|asymmetric information]] (access to different information); the &quot;bad&quot; products or services are more likely to be selected. For example, a bank that sets one price for all of its chequing account customers runs the risk of being adversely selected against by its low-balance, high-activity (and hence least profitable) customers. Two ways to model adverse selection are to employ [[signaling games]] and [[screening games]].
+
+==Insurance==
+The term adverse selection was originally used in [[insurance]]. It describes a situation wherein an individual's demand for insurance (the propensity to buy insurance and/or the quantity purchased) is positively correlated with the individual's risk of loss (like  higher risks buy more insurance), ''and'' the insurer is unable to allow for this correlation in the price of insurance.&lt;ref&gt;{{cite web |url=http://demonstrations.wolfram.com/AdverseSelection/ |title=Adverse Selection |first=Seth J. |last=Chandler |work=[[The Wolfram Demonstrations Project]] }}&lt;/ref&gt; This may be because of private information known only to the individual ([[information asymmetry]]), or because of regulations or social norms which prevent the insurer from using certain categories of known information to set prices (for example, the insurer may be prohibited from using such information as gender, ethnic origin, genetic test results, or preexisting medical conditions, the last of which amount to a 100% risk of the losses associated with the treatment of that condition). The latter scenario is sometimes referred to as &quot;regulatory adverse selection.&quot;&lt;ref&gt;{{cite journal |last=Polborn |first=M. K. |last2=Hoy |first2=M. |last3=Sadanand |first3=A. |year=2006 |title=Advantageous Effects of Regulatory Adverse Selection in the Life Insurance Market |journal=Economic Journal |volume=116 |issue=508 |pages=327–354 |doi=10.1111/j.1468-0297.2006.01059.x }}&lt;/ref&gt;
+
+The potentially adverse nature of this phenomenon can be illustrated by the link between smoking status and mortality.  Non-smokers, on average, are more likely to live longer, while smokers, on average, are more likely to die younger. If insurers do not vary prices for life insurance according to smoking status, life insurance will be a better buy for smokers than for non-smokers.  So smokers may be more likely to buy insurance, or may tend to buy larger amounts, than non-smokers, thereby raising the average mortality of the combined policyholder group above that of the general population. From the insurer's viewpoint, the higher mortality of the group which selects to buy insurance is adverse.  The insurer raises the price of insurance accordingly, and as a consequence, non-smokers may be less likely to buy insurance (or may buy smaller amounts) than they would buy at a lower price reflective of their lower risk. The reduction in insurance purchases by non-smokers is also adverse from the insurer's viewpoint, and perhaps also from a public policy viewpoint.{{cn|date=August 2012}}
+
+Furthermore, if there is a range of increasing risk categories in the population, the increase in the insurance price because of adverse selection may lead the lowest remaining risks to cancel or not renew their insurance. This promotes a further increase in price, and hence the lowest remaining risks cancel their insurance, leading to a further price increase, and so on. Eventually this &quot;adverse selection spiral&quot; might, in theory, lead to the collapse of the insurance market.
+
+To counter the effects of adverse selection, insurers (to the extent that laws permit) ask a range of questions and may request medical or other reports on individuals who apply to buy insurance so that the price quoted can be varied accordingly, and any unreasonably high or unpredictable risks rejected. This risk selection process is known as [[underwriting]]. In many countries, insurance law incorporates an &quot;utmost good faith&quot; or ''[[uberrima fides]]'' doctrine, which requires potential customers to answer any underwriting questions asked by the insurer fully and honestly; if they fail to do this, the insurer may later refuse to pay claims.
+
+Whilst adverse selection in theory seems an obvious and inevitable consequence of economic incentives, empirical evidence is mixed. Several studies investigating correlations between risk and insurance purchase have failed to show the predicted positive correlation for life insurance,&lt;ref&gt;{{cite journal |last=Cawley |first=J. |last2=Philipson |first2=T. |title=An Empirical Examination of Barriers to Trade in Insurance |journal=[[American Economic Review]] |volume=89 |issue=4 |year=1999 |pages=827–846 |jstor=117161 }}&lt;/ref&gt; auto insurance,&lt;ref&gt;{{cite journal |last=Chiappori |first=P. A. |last2=Salanie |first2=B. |year=2000 |title=Testing for Asymmetric Information in Insurance Markets |journal=[[Journal of Political Economy]] |volume=108 |issue=1 |pages=56–78 |doi=10.1086/262111 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last=Dionne |first=G. |last2=Gouriéroux |first2=C. |last3=Vanasse |first3=C. |year=2001 |title=Testing for Evidence of Adverse Selection in the Automobile Insurance Market: A Comment |journal=Journal of Political Economy |volume=109 |issue=2 |pages=444–453 |doi=10.1086/319557 }}&lt;/ref&gt; and health insurance.&lt;ref&gt;{{cite journal |last=Cardon |first=J. H. |last2=Hendel |first2=I. |title=Asymmetric information in health insurance: evidence from the National Medical Expenditure Survey |year=2001 |journal=Rand Journal of Economics |volume=32 |issue=3 |pages=408–427 |jstor=2696362 }}&lt;/ref&gt;  On the other hand, &quot;positive&quot; test results for adverse selection have been reported in health insurance,&lt;ref&gt;{{cite journal |first=David M. |last=Cutler |first2=Richard J. |last2=Zeckhauser |title=Adverse Selection in Health Insurance |journal=Forum for Health Economics &amp; Policy |volume=1 |issue= |year=1998 |pages=Article 2 |url=http://www.bepress.com/fhep/1/2 }}&lt;/ref&gt; long-term care insurance&lt;ref&gt;{{cite journal |last=Finkelstein |first=A. |last2=McGarry |first2=K. |year=2006 |doi=10.1257/aer.96.4.938 |title=Multiple dimensions of private information: evidence from the long-term care insurance market |journal=American Economic Review |volume=96 |issue=4 |pages=938–958 |pmc=3022330 |jstor=30034325 |pmid=21253439}}&lt;/ref&gt; and annuity markets.&lt;ref&gt;{{cite journal |last=Finkelstein |first=A. |last2=Poterba |first2=J. |doi=10.1086/379936 |title=Adverse selection in insurance markets: policyholder evidence from the UK annuity market |journal=Journal of Political Economy |volume=112 |issue=1 |year=2004 |pages=183–208 }}&lt;/ref&gt; These &quot;positive&quot; results tend to be based on demonstrating more subtle relationships between risk and purchasing behavior (such as between mortality and whether the customer chooses a [[life annuity]] which is fixed or inflation-linked), rather than simple correlations of risk and quantity purchased.
+
+One reason why adverse selection may be muted in practice may be that insurers' [[underwriting]] is largely effective. Another possible reason is the negative correlation between [[risk aversion]] (such as the willingness to purchase insurance) and risk level (estimated ''ex ante'' based on observation of the ''ex post'' occurrence rate of observed claims) in the population: if risk aversion is higher amongst lower risk customers, such that persons less likely to engage in risk-increasing behavior are more likely to engage in risk-decreasing behavior (to take affirmative steps to reduce risk), adverse selection can be reduced or even reversed, leading to &quot;propitious&quot; or &quot;advantageous&quot; selection.&lt;ref&gt;{{cite journal |last=Hemenway |first=D. |jstor=2937886 |title=Propitious selection |journal=[[Quarterly Journal of Economics]] |volume=105 |issue=4 |year=1990 |pages=1063–1069 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last=De Meza |first=D. |last2=Webb |first2=D. C. |title=Advantageous selection in insurance markets |journal=RAND Journal of Economics |volume=32 |issue=2 |year=2001 |pages=249–262 |jstor=2696408 }}&lt;/ref&gt;
+
+For example, there is evidence that smokers are more willing to do risky jobs than non-smokers,&lt;ref&gt;{{cite journal |last=Viscusi |first=W. K. |last2=Hersch |first2=J. |doi=10.1162/00346530151143806 |title=Cigarette smokers as job risk takers |journal=Review of Economics and Statistics |volume=83 |issue=2 |year=2001 |pages=269–280 |jstor= }}&lt;/ref&gt; and this greater willingness to accept risk might reduce insurance purchase by smokers. From a public policy viewpoint, some adverse selection can also be advantageous because it may lead to a higher fraction of total losses for the whole population being covered by insurance than if there were no adverse selection.&lt;ref&gt;{{cite journal |last=Thomas |first=R. G. |year=2008 |title=Loss coverage as a public policy objective for risk classification schemes |journal=Journal of Risk &amp; Insurance |volume=75 |issue=4 |pages=997–1018 |doi=10.1111/j.1539-6975.2008.00294.x }}&lt;/ref&gt;
+
+In studies of health insurance, an [[individual mandate]] that requires people to either purchase plans or face a penalty is cited as a way out of the adverse selection problem by broadening the [[risk pool]].&lt;ref&gt;{{cite journal |last=Blumberg |first=Linda J. |last2=Holahan |first2=John |title=The Individual Mandate — An Affordable and Fair Approach to Achieving Universal Coverage |journal=[[New England Journal of Medicine|N Engl J Med]] |year=2009 |volume=361 |issue=1 |pages=6–7 |doi=10.1056/NEJMp0904729 |pmid=19535794}}&lt;/ref&gt; Mandates, like all insurance, increase [[moral hazard]].
+
+==See also==
+* [[Agency cost]]
+* [[Contract theory]]
+* [[Community rating]]
+* [[Death spiral (insurance)]]
+* [[Information asymmetry]]
+* [[Market for lemons]]
+* [[Moral hazard]]
+* [[Principal–agent problem]]
+
+==References==
+{{reflist}}
+* Akerlof, G. A. (1970). ''The market for lemons: Quality uncertainty and the market mechanism''. The Quarterly Journal of Economics, 84(3), 488-500.
+
+==External links==
+* William F Bluhm, [http://www.soa.org/library/monographs/50th-anniversary/society-of-actuaries-50th-anniversary/1999/january/m-av99-1-05.pdf &quot;Cumulative Anti-Selection Theory,&quot;] Society of Actuaries 50th Anniversary Monograph, Chapter 5, 1999.
+
+* The Economist: Research Tools, Adverse Selection [http://www.economist.com/research/Economics/alphabetic.cfm?LETTER=A]
+
+{{DEFAULTSORT:Adverse Selection}}
+[[Category:Market failure]]
+[[Category:Asymmetric information]]
+[[Category:Insurance terms]]
+
+[[da:Adverse selection]]
+[[de:Adverse Selektion]]
+[[es:Selección adversa]]
+[[fa:کژگزینی]]
+[[fr:Sélection adverse]]
+[[ko:역선택]]
+[[it:Selezione avversa]]
+[[nl:Adverse selectie]]
+[[ja:逆選抜]]
+[[pl:Negatywna selekcja]]
+[[pt:Seleção adversa]]
+[[ru:Неблагоприятный отбор]]
+[[fi:Haitallinen valikoituminen]]
+[[sv:Snedvridet urval]]
+[[vi:Lựa chọn trái ý]]
+[[zh:逆向选择]]</text>
+      <sha1>jfm8cyn1tna4yugkqwi7j946pgeeimu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

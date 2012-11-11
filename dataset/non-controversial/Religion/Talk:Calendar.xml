@@ -1,0 +1,340 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Calendar</title>
+    <ns>1</ns>
+    <id>5784</id>
+    <revision>
+      <id>412644752</id>
+      <parentid>412633899</parentid>
+      <timestamp>2011-02-08T01:47:48Z</timestamp>
+      <contributor>
+        <username>Jc3s5h</username>
+        <id>9182658</id>
+      </contributor>
+      <comment>Undid revision 412633899 by [[Special:Contributions/Dreslough|Dreslough]] ([[User talk:Dreslough|talk]]). Unexplained deletion of other user's comment.</comment>
+      <text xml:space="preserve" bytes="39377">{{talkheader}}
+{{WikiProject Time|class=C|importance=Top}}
+{{WP1.0|v0.7=pass|class=C|category=Everydaylife|VA=yes|WPCD=yes|importance=Mid}}
+
+Validation of article performed by WIKICHECK. August 17 2006 17:12pm. WikiCheck 17:12, 17 August 2006 (UTC)
+==Do calendars really measure time?==
+
+I think a lot of misconceptions about calendars arise from the idea that a calendar measures time, like a clock or like a ruler measures distance.
+
+All known calendars work by naming days (This is the definition in the Nupedia article). As such, a calendar can not measure time more accurately than 1 day. 
+Furthermore, the duration of the day is known to vary in time owing to change in Earth's rotation rate, so is not a good standard in time measurement.
+
+A [[:solar calendar|solar calendar]] may measure years, by virtue of the fact that its year runs close to the cycle of seasons, but more accurate measurement can be got from an [[:ephemeris|ephemeris]]. 
+
+The [[:year|year]] even when measured in SI [[:second|second]]s, varies in duration and so can not be considered a unit of the same time that measured by SI seconds.
+
+:That's not a misconception at all--a calendar does indeed measure time just like a
+clock does, just not very precisely.
+That doesn't mean it's not a measurement.
+A measurement simply answers the question &quot;how much&quot;; one can answer precisely or vaguely.
+If you ask &quot;How much sand in this bucket?&quot;, One can measure in &quot;handfuls&quot;
+just as easily as kilograms, and one is performing essentially the same function.
+Likewise,  &quot;How much time since I was born?&quot; can be answered roughly in years
+with the help of a calendar, and in fact is a much more useful measurement for most
+purposes than an exact measurement in seconds: I'm over 1.2 billion seconds old; quick--
+can I go into a bar? Run for president?  --[[User:Lee Daniel Crocker|Lee Daniel Crocker]]
+
+---
+Mr. Crocker is confusing entities (e.g. length) with units (e.g. meter), organizational nomenclature (e.g. kilo-meter), and measuring devices (ruler, laser interferometer).  A calendar itself, whether the paper thing on the wall or the rules and conventions used to make them, is NOT an instrument or system of time MEASUREMENT.  Chalking up a mark each day is sufficiently similar to a clock (counting regular events) to call that a time measuring device: but that is a simple day count and not a calendar.  A calendar is a convention on organizing time, dividing it, or tracking it if you like; but NOT &quot;measuring&quot; it.  You might as well call the &quot;minute&quot; a system of time measurement, or a clock, or a calendar: and it is neither of these.  So I propose as the initial definition for the article:
+
+&quot;A '''calendar''' is a system for organizing periods of [[:time|time]].  Calendars generally use the [[:day|day]] as the fundamental unit, and give a label (names or numbers) to each day.  Days are organized into larger units which usually are repeated in cycles, often based on some natural cycle like [[:month|month]] or [[:year|year]].  These properties facilitate recording events or periods of history and planning future events.&quot;
+
+        -- 20011221: [[User:Tom Peters|Tom Peters]]
+----
+
+For more discussion on Calendars and Time measurement, you may join the E-mail list CALNDR-L at
+http://personal.ecu.edu/mccartyr/calndr-l.html
+
+==Calendars are constructs/systemizations/conceptualizations of civil time==
+
+Various calendars were created to conceptualize and give a semblance of order to the passage of time in reference to repeating events such as the changing of the seasons, the phases of the moon, the movements of Venus, the flooding of the Nile, etc.  The orbiting of the earth about the sun is one of the most important repeating events for societies and civilizations for agricultural pursuits and animal husbandry, for example, not to mention preparing for temperature extremes, etc.  Naming of calendrical units is not what a calendar is, but only a small part of the construct.  [[User:Ed4linda|Doc Rock]] 17:21, 18 October 2006 (UTC)
+
+-----
+This terminology from the existing article seems less than ideal.
+&quot;A pragmatic calendar is one that is based on observation; an example is the religious Islamic calendar.&quot;
+
+How about calling it &quot;observation based calendar&quot; and get rid of the
+pragmatic terminology.
+
+&quot;A theoretical calendar is one that is based on a strict set of rules; an example is the Jewish calendar. Such a calendar is also referred to a rule-based or arithmetical calendar.&quot;
+
+I thought a &quot;theoretical calendar&quot; was one proposed bu never used.
+
+Let's just move away from those two term and go with Rule based and observation
+based.
+
+-Paul Hill
+
+----
+I've never seen the term ''pragmatic calendar'' used to mean observation-based calendar outside the Nupedia article in which it appears. It may be the author's invention. The terms ''astronomical'' and ''observation-based'' have been used elsewhere and I have added them to the article.
+
+The same applies to the addition of ''arithmetical'' and ''rule-based'' for ''theoretical calendars''.
+
+[[User:Karl Palmen|Karl Palmen]]
+-----
+A calendar is not an scheme for &quot;giving names to days and years&quot;.  What a year is is '''defined''' by the calendar...for example, in a lunar calendar a year is something different than in a solar one.
+
+:''I didn't write that that line, but actually I can't fault it.  The primary purpose of most calendars is indeed to provide names for periods of time.  Calendars generally do also define terms of common usage like &quot;month&quot;, &quot;week&quot;, and &quot;year&quot;, and usually give alternate definitions for them that correspond in greater or lesser degree to other usages of those words which are not calendar-based (things like &quot;mean sidereal year&quot; exist independently of any calendar).  But the purpose of those definitions is to provide a convenient way to label moments and/or periods of time in the past and future, to make it easier to record history and make long-range plans.''
+
+&quot;Provide names to periods of time&quot; that's a bit closer to it...my problem is, a year did not exist until a calendar that '''defined''' it did, so a calendar doesn't give a name to a year, '''creates''' it.  But how do you measure those '''periods of time'''?  A day is a pretty obvious thing, based on the movement of an astronomical object, the sun.  The year is a bit more problematic, and you can only define it observing the constelations in the sky at sunset or sunrise.  Thus my attempted definition.  If you can do better, please be my guest, but I'm not going to leave that line as it is.
+
+:''You could always look at it from the units-of-measurement point of view.  Things like &quot;hour&quot;, &quot;second&quot;, &quot;week&quot;, etc. are somewhat arbitrary products of definition, but just as we chose units like &quot;pounds&quot; to be useful for everyday life and commerce (imagine buying food from a grocer if your only units of weight were milligrams or tons), our choice of units for time was not entirely arbitrary.  The day was such an obvious thing that it made sense for smaller units to evenly divide it.  Likewise the cycle of seasons pre-dated any calendar, so it made sense for calendars to define the &quot;year&quot; unit of time measure in a way that made it convenient for knowing when to plant crops.  So I wouldn't call calendars totally &quot;arbitary&quot;, but I would say that they defined measurements of time that served the purposes of the prople that created them.''
+
+The various astronomical days, months and years really do exist; but the calendrical day and month and year do not. They are creations of the calendar, which approximate the astronomical periods in some ways. But they aren't just inaccurate measurements; to use the astronomical units would be wrong by the calendar. So these units have no existence without the calendar. -- SJK
+
+==From VfD==
+* [[How to compute calendars]] - Article rehashes knowledge already available in detail on [[Gregorian calendar]], [[Julian calendar]], and [[Calendar]] itself, as well as being very centered on both of those calendars, but not giving details for either. If I have missed something, the missing content should be merged into one of those three and this page deleted; it does not provide additional value. Should the article instead be enhanced to encompass a &quot;how to&quot; guide for every calendar around, a lot of duplication would be neccessary (of the articles for the respective calendars) [[User:Eike|Eike]] 03:16, Feb 19, 2004 (UTC)
+**Info needs correcting, but merge any useful content with [[calendar]] and redirect -- [[User:Francs2000|Graham  :)]] 12:01, 19 Feb 2004 (UTC)
+**Ditto. [[User:Elf|Elf]] 17:14, 19 Feb 2004 (UTC)
+**merge and redirect [[User:Rossami|Rossami]] 04:22, 23 Feb 2004 (UTC)
+**If anyone wants to merge [[How to compute calendars]] into [[Calendar]], they can access the non-redirected version from [http://en.wikipedia.org/w/wiki.phtml?title=How_to_compute_calendars&amp;oldid=2515891 here].
+
+== Some reformatting needed? ==
+
+and additions, especially where it just links to a main article. [[User:Lockeownzj00|Lockeownzj00]] 06:25, 13 Feb 2005 (UTC)
+
+:If you're thinking of placing main article links within the headings, then don't. That is to be avoided according to the [[Wikipedia:Manual of Style (headings)]]. &amp;mdash; [[User:Joe Kress|Joe Kress]] 19:01, Feb 13, 2005 (UTC)
+
+== &quot;new&quot; calendars ==
+
+Should we say something about the phenomenon of people trying to build new calendars (such as
+http://en.wikibooks.org/wiki/Triangular_Earth_Calendar
+) ? Is there a name for this, perhaps something like [[constructed calendar]], analogous to [[constructed language]] ?
+
+: Some proposed calendars are at [[calendar reform]]. &amp;mdash; [[User:Joe Kress|Joe Kress]] 05:10, 2 Jun 2005 (UTC)
+
+== Asian Calendars ==
+
+There is no information here on the main points someone would look for in a calendar article, which are the calendars in use today.
+
+Japanese passports list birth dates that would make a westerner raise an eyebrow, and the Chinese calendar is misunderstood.
+
+Perhaps before delving into the obscure, the present day topics should be tackled?
+
+:This article discusses calendars in general terms. For specific calendars see the category &quot;Calendars&quot; at the upper right hand corner of the article and especially its subcategory &quot;Specific calendars&quot; or even the [[List of calendars]] under &quot;See also&quot;. In the last two you will find the [[Chinese calendar]] and [[Japanese calendar]]. Also see [[Chinese New Year]]. &amp;mdash; [[User:Joe Kress|Joe Kress]] 20:04, 4 August 2005 (UTC)
+
+==Improvement Drive==
+[[Time management]] is currently a candidate on [[WP:IDRIVE]]. Support it with your vote if you want to see this article [[WP:FA|improved to featured status]].--[[User:Fenice|Fenice]] 07:51, 5 January 2006 (UTC)
+
+== Moved from main article, by [[User:24.136.212.5]] ==
+
+I would like an article titled AD and/or ADE and BCE if BCE exists.
+
+The article would explain the difference between AD and ADE when placed after the number of a year. For example 2006 AD and 2006 ADE. What does the E stand for and when should or can it be used? Thanks, Marvin L Morrison
+
+== History behind the year starting in winter ==
+
+Coming from the southern hemisphere the question has occurred to me of why 1 January was placed in the middle of the nothern hemisphere winter. It doesn't appear to be a question that has occurred to anyone anwhere on the internet. Would it be one for modern psychologists or were there cultural/religious/astronomical reasons for the winter solstice being chosen over the summer solstice? Did the Chinese start their year in winter? What about the Mayans? - [[User:Diceman|Diceman]] 18:38, 24 March 2006 (UTC)
+
+:January 1 has no relation whatsoever to the winter solstice. Its placement relative to the seasons was the accidental result of converting the non-solar [[Roman calendar|Roman Republican calendar]] into the [[Julian calendar]] in 46 BC. When Christianity adopted the Julian calendar as its own during the fourth century, it decided that the vernal equinox was on March 21. This caused January 1 to be 79 days earlier (80 in leap years)—there is no other significance to its placement. The difference between the Julian year and the tropical year then caused January 1 to drift later (closer to the vernal equinox). The Gregorian calendar corrected the drift in 1582 by placing the vernal equinox on March 19/20/21, depending on its leap year rules. The Chinese year begins roughly halfway between the winter solstice and the vernal equinox, but it is not a solar year. The Maya have two interrelated years: their 365-day haab year drifts relative to the seasons; their 260-day tzolkin year obviously has no relation whatsoever to the tropical year. — [[User:Joe Kress|Joe Kress]] 09:49, 26 March 2006 (UTC)
+
+::I can't seem to communicate the concept of someone arbitrarily deciding where the year should start (I grew up in a place where new year's eve is in summer, and later on began to wonder why in the northern hemipshere where the calendar was invented, why they put summer in the middle of the year). I wonder where hunter-gatherer societies (that use traditional means of timekeeping) generally place the year. Someone on another page suggested a link to crop planting cycles, I assume that for agarian societies in colder climates, the work would begin in spring and end in autmn, with winter off, so winter would be the &quot;end&quot; of one year and the start of another. But I believe in mediterranean conditions crops are planted in autumn and harvested in spring because summer is too dry, so that doesn't quite add up. - [[User:Diceman|Diceman]] 14:26, 26 March 2006 (UTC)
+
+:There is no reason that the beginning of the year should be logical, although many are. The Julian/Gregorian calendar is illogical, whereas the [[Hebrew calendar]] is logical, but as a result of history has ''two'' beginnings of the year in a single calendar, in spring and autumn, the months of Nisan and Tishri. Nisan (the first month) was the beginning of the year in the [[Torah]] ([[Pentateuch]]) when numbered months were used (with some Phonecian/Canaanite names), whereas Tishri (the seventh month) became the beginning if the year as result of the Babylonian captivity when the Jews adopted Babylonian names for their months. — [[User:Joe Kress|Joe Kress]] 21:50, 26 March 2006 (UTC)
+
+Originally March was the first month, December the tenth.  Some of the months were named after gods, March = Mars. But most after numbers, Sep = 7, Oct = 8, Nov = 9, Dec = 10. 
+These would have been in cycle with the moon originally. Later days were added to align months with the Solar Calendar (changed a number of times to correct them, additionally even numbers were considered unlucky by the Romans so that didn't help!).
+Jan and Feb were added in 713 BCE. before then it was just winter...
+The first month/moon cycle would have been when farming/trading resumed. The Romans celebrated New Year on the Ides on March. 15th March, although not always. This must have been in line with the Equilux when conceived but eventually dissociated and became half way in the month. Obviously the equilux would make sense, first signs of spring and equal day and night. 
+Romans identified a year for dating purposes by naming it after two consuls who were in office. Elected on New Years Day. In 153 BCE Rome had problems controlling Lusitania (now Spain/Portugal) and they needed to elect new Consuls urgently. So they changed the election date to 1st January. And that date has stuck. [[User:Pnb73|Pnb73]] ([[User talk:Pnb73|talk]]) 13:05, 4 January 2009 (UTC)
+
+:Your 'equilux' theory may have some bearing on the [[Roman calendar]] during the time that kings ruled Rome, but only if we believe those Roman writers who state that King Numa added January and February (in either order) after December about 700 BC. Others state that at that time January became the beginning of the calendar year. Your theory has no bearing whatsoever during the time of the [[Roman Republic]] when consuls were elected. Since at least 450 BC (the time of the [[decemvirs]]) the calendar year had always been January to December, regardless of the day that consuls were elected to office. It was even January to December throughout the Middle Ages when days other than January 1 began the numbered year. According to [[Livy]], consuls took office on July 1 before the third century BC. During most of the third century they took office on May 1. Only for the 70 years between 222 BC and 154 BC did they enter office on March 15. Furthermore, during this period the vernal equinox usually occurred in April or later. Indeed, the equinox occurred as late as Sextilis (August) (Roman) in 192–191 BC (the preceding March 15 (Roman) was November 5 (Julian)) ten years after the conclusion of the [[Second Punic War]]. See the conversion table associated with [http://www.tyndale.cam.ac.uk/Egypt/ptolemies/chron/roman/chron_rom_intro.htm Roman Dates by Chris Bennett]. From 153 BC until AD 888, when the Byzantine Empire ended the consulate, they took office on January 1. See [[Julian calendar#Year numbering]]. — [[User:Joe Kress|Joe Kress]] ([[User talk:Joe Kress|talk]]) 18:40, 4 January 2009 (UTC)
+
+==Beginning the year in winter==
+
+An important element influencing the placement of January [the beginning of our calendar year] certainly must be the apparent movement of the sun along the ecliptic throughout the earth's trip in its orbit around the sun.  This is because starting with the third day after the summer solstice the length of the day appears to shorten by about eight minutes every day until the winter solstice and it appears that the sun &quot;may be going away.&quot;  The return of the sun, ''i.e''., the lengthening of the daylight period daily following the third day after the winter solstice, occasions great joy that light and warmth are returning to earth--a beginning of an annual renewal.  That is why Christmas, three days after the winter solstice, got stuck in the calendar where it is on the 25th of December.  The Norse celebrated the New Year at this time. January, moreover, is named for the two-faced god, Janus, who looks backward and forward.  The end of the shortening of the daylight makes a logical start time for a new year--there are other rationales for other times as well.  [[User:Ed4linda|Doc Rock]] 17:35, 18 October 2006 (UTC)
+
+==Any Television Documentarys?==
+There are television documentarys about almost every subject a person can think of, (execpt to best of my knowlege - [[Valentine's Day]]).  As anyone, ie [[PBS]] or the [[History Channel]], done a made-for-tv documentary on the calendar?  If not, then they should.  There should be a least one television documentary on the history of the calendar.[[User:204.80.61.10|204.80.61.10]] 19:20, 5 December 2006 (UTC)Bennett Turk
+
+== Kurdish calendar ==
+
+I've moved the following from the &quot;currently used&quot; calendar section:
+Kurdish calendar is a Solar calendar used among the Kurdish people. The Kurdish year begins on March 21st, at the time of vernal equinox. Kurdish calendar began 612 BC, when the Medes conquered Nineveh and Assyria, which marks and symbolizes the end of lowland tyranny. The year 2007 corresponds to the Kurdish year 2619. (Reference [http://www.kurdistanica.com/english/culture/ncharacters/calendar/converter/kurdish_calendar_converter.html Kurdish calendar converter])
+
+The only reference I can find for it is one that is associated with the already linked reference: http://www.kurdistanweb.org/kucs/project/calendar.html. There are maybe 2 other passing mentions of this calendar online. Other than that, there is no evidence of this calendar. If anyone else knows of other references, it would be worth creating a new article for the subject (under the category of &quot;specific calendars&quot;). It isn't notable enough to warrant a paragraph in the &quot;currently used&quot; section though. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Nposs|Nposs]] ([[User talk:Nposs|talk]] • [[Special:Contributions/Nposs|contribs]]) 23:59, 23 February 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+::It would be hard to get references for this as the Kurds have a mostly oral tradition. This makes it hard to get what you desire. However this does not mean that the kurdish calendar does not exist. In deed it does exist, and is well known among the kurds. Today is for example the first day of the year (20/3) 1 Jezhnan/Xakeléwe. Therefore i belive it is only just to mention the kurdish calendar in this encyclopedia.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/217.208.209.137|217.208.209.137]] ([[User talk:217.208.209.137|talk]]) 12:13, 20 March 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== hello wikipedians ==
+
+I have to say .... I wold liked to see a quick referents table on when each calender was known to have bin calculated and taken in to use and so on. just saying it would be easier to visualize the time frame and also easier to remember :) thank you
+
+==Navigational bar 'Calendar systems'==
+The Dutch Wikipedia has a navigational bar about calendars: [http://nl.wikipedia.org/wiki/Sjabloon:Kalendersystemen]. Would this be a good idea for the English version as well? [[User:Wiki-uk|Wiki-uk]] 12:49, 30 April 2007 (UTC)
+
+:Looks good. Used on over 20 pages. We should have one too. [[User:Robin Patterson|Robin Patterson]] 14:57, 30 April 2007 (UTC)
+
+::This was created on 27 June 2007: [[Template:Calendars]] [[User:Wiki-uk|Wiki-uk]] ([[User talk:Wiki-uk|talk]]) 17:56, 19 December 2007 (UTC)
+
+== Pragmatic and Theoretical Calendars ==
+Does anyone know of any use of the terms ''pragmatic calendar'' for an astronomical calendar or ''theortetical calendar'' for an arithmetic calendar, independent of wikipedia? If not these terms should be deleted as original. [[User:Karl Palmen|Karl]] 12:17, 6 June 2007 (UTC)
+
+I've removed the terminology of pragmatic and theoretical calendar on the grounds that they are original and other terms are used instead. You may restore them if you give good source independent of wikipedia for them. [[User:Karl Palmen|Karl]] 08:50, 12 June 2007 (UTC)
+
+==Calendar software==
+
+The calendar software section was getting a little spammy with a bunch of seemingly random additions [http://en.wikipedia.org/w/index.php?title=Calendar&amp;diff=186301049&amp;oldid=186297555]. Ironically it was linking to Mozilla Sunbird but not Outlook even though this is probably one of the most widely used calender programs. Instead I've linked to the Electronic calendar article and Calendar standards cat which covers most of what was linked to. The electronic calender article is a bit crap but it's the best we have. Ideally it would be better to link to a electronic calender standards article but we don't have one [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 07:26, 23 January 2008 (UTC)
+
+== Additional information to the article. ==
+
+I feel that the part of the article on the Egyptian calendar should include the facts that their year was divided into three seasons of four months.  I've seen a picture of the calendar taken off of an archeological site.   One season was the harvest season, another was the flood season and the third I'm not sure of.  
+   This way of measuring may explain some human ages in the Bible.    For example, Abraham and Sarah were not 75 and 90 years old when Isaac was born.  She was about 25.   This would explain why she was concerned about not having a child, and why she was considered a great beauty by the Pharoah.
+
+I don't have the time or the exact references, but they should be easy to obtain.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/209.244.188.179|209.244.188.179]] ([[User talk:209.244.188.179|talk]]) 14:44, 27 January 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Easter ==
+
+I'm genuinely confused about the assertions in the section about Easter Sunday:
+
+[http://en.wikipedia.org/wiki/Calendar#Calendars_with_Easter_Sunday]
+&lt;blockquote&gt;Calculating the calendar of a previous year is a relatively easy matter when Easter Sunday is not included on the calendar. However, calculating for Easter Sunday is difficult because the calculation requires the knowledge of the full moon cycle. Easter Sunday is on the first Sunday after the first full moon after the Vernal Equinox according to the computus. So, this makes an additional calculation necessary on top of the normal calculation for January 1st and the calculation of whether or not the year is a leap year.
+
+There are only 14 different calendars when Easter Sunday is not involved. Each calendar is determined by the day of the week January 1st falls on and whether or not the year is a leap year. However, when Easter Sunday is included, there are quite a few different calendars.&lt;/blockquote&gt;
+
+
+The article asserts that calculating Easter Sunday results in &quot;quite a few different calendars&quot; than the 14 it asserts are all that exist by simply taking into account January 1 and leap days.
+
+How?
+
+Easter Sunday does not actually appear on any other day of the week but Sunday. It does not affect the seasons. Certain related holidays are &quot;movable&quot; depending on the date fixed for Easter, but they don't affect the calendar itself.
+
+Perhaps there is a point to this section that simply eludes me, but if there is, it needs a source and some explanation.
+
+[[User:Bikerbudmatt|Bikerbudmatt]] ([[User talk:Bikerbudmatt|talk]]) 17:26, 28 January 2008 (UTC)
+
+Easter can occur on any Sunday from March 22 to April 25 inclusive, which is a range of 35 days. If the range were only 7 days, then the 14 calendars would suffice even if Easter were taken into account. The range of 35 days results in 70 calendars being required. Each of these 70 calendars can be specified by the date of Easter and whether the year is a leap year. The sequence of these 70 calendars is much more complicated than the sequence of the 14 calendars ignoring Easter. See [[Computus]] for more details. [[User:Karl Palmen|Karl]] ([[User talk:Karl Palmen|talk]]) 09:24, 29 January 2008 (UTC)
+
+The [[Computus]] article was helpful...thank you. Perhaps what I am missing here, especially in the larger context of the [[Calendar]] article, is what is meant by &quot;calendar&quot; in this discussion. I am starting from the frame of reference of a Gregorian calendar. But the sequence of 70 possible calendars that are cited here seems to refer to placing the date of Easter itself, not to the overall Gregorian system. I would find it helpful as a reader to know this is what is meant here.
+
+Thank you again for your patience in considering this...my interest is as a cleric who needs occasionally to explain items like this to interested congregants.
+
+[[User:Bikerbudmatt|Bikerbudmatt]] ([[User talk:Bikerbudmatt|talk]]) 22:37, 29 January 2008 (UTC)
+
+A look a the article showed to me that the section under discussion was badly placed. The previous sections dealt with different types of calendar system (e.g. solar calendar and lunar calendar) and this section dealt with different arrangements of dates in a single calendar system. I've reordered some of the sections including this one and added some clarification to it. [[User:Karl Palmen|Karl]] ([[User talk:Karl Palmen|talk]]) 09:21, 30 January 2008 (UTC)
+
+Thanks, Karl; the reordering puts this section in context for me and addresses my concerns. Again, thanks for your patience and interest in working through this. [[User:Bikerbudmatt|Bikerbudmatt]] ([[User talk:Bikerbudmatt|talk]]) 14:45, 22 February 2008 (UTC)
+
+===Definition of Easter===
+
+The article has &quot;Easter Sunday is on the first Sunday after the first full moon after the Vernal Equinox according to the computus.&quot;.  That is misleading (also it has the problem that, worldwide, the Equinox instant occurs on two adjacent local dates).  
+
+At least in the British Calendar Act / Prayer Book tradition, &quot;Vernal Equinox&quot; is not used in the definition; the date is given as March 21st.  I've not seen whether the Catholic (Clavius) wording uses Equinox or 21st; but their calculation must be based on the 21st.
+
+Since AD 325 or thereabouts, Easter has depended not on the actual moon but on a calculated approximation.
+
+A simple change to sort that out would be to use  &quot;Easter Sunday is nominally on the first Sunday after the first full moon after the Vernal Equinox, and can be calculated according to the computus.&quot;.
+
+[[Special:Contributions/82.163.24.100|82.163.24.100]] ([[User talk:82.163.24.100|talk]]) 11:12, 7 June 2008 (UTC)
+
+==Who uses which==
+I would propose a 500-day 10-month 50-week &quot;metric&quot;-year calendar in which to rewrite history and current worldwide time recokings and tell solar, lunisolar and solar calendars fkoff away with their  inconsistency and half-astrological half-astronomical religion-centred purposes because, really, when one reads a historical date... How much sense does it makes? Which land used which calendar when? Reading the articles on Julian reform there are questions still unanswered... 
+
+What calendar did the Ottoman Empire used? I guess the Islamic Calendar but then, they had an Ottoman Calenadar at the 18th century which was a modified Julian, when most of the world had stopped using the Julian, so had they been used the standard Julian before? What calendar[s] does modern day Turkey and Greece use? What calendar was Hungary using before occupied by the Ottoman Empire in the year 1526, starting with a battle (29/8/1526)? Before it being formally annexed (1541?)? During its occupation and then iduring its anexation and then afterwards when it was freed from Ottoman control (1699?) Does Hungary uses the Gregorian calendar now? 
+
+Making dating meaningful is basic to make history a science of past-reckoning and not an art of realistic storytelling. In order to do that I guess a whole set of historians worldwide must study time in relation to a central, worldwide reckoning, that would mean killing off daylight saving times and stablishing a metric way to calculate time, much like the way space and mass are defined on things whose inconsistency, althought inevitable, is not pertinent to human simplicity as our complixity lays far away from their. But until such consesus is reached... Could more data be given on which region used which calendar when? I'm not Hungarian and probably the best and swiftest means I have to data about Ottoman presence on Hungary is from the English Wikipedia as the Spanish Wikipedia is not good enough right now and googling tends to redirect to Wikipedia anyway, otherwise giving useless results.[[User:Undead Herle King|Undead Herle King]] ([[User talk:Undead Herle King|talk]]) 15:34, 13 April 2008 (UTC)
+
+== [[Calendar#In legal use]] ==
+
+I was bold, and added this section.  Please feel free to edit it or move to another place, but do not remove the entire section.  I'd like to use it as a link or redirect to other legal articles. I will also find [[WP:RS|citations]]. [[User:Bearian|Bearian]] ([[User talk:Bearian|talk]]) 18:29, 2 September 2008 (UTC)
+
+:Because this is so different from the other uses of 'calendar', which discuss how days are labeled or named rather than used, this would be better as an entry in [[calendar (disambiguation)]], possibly as an article named [[calendar (legal)]], even though it would be a [[WP:stub|Wikipedia stub]]. — [[User:Joe Kress|Joe Kress]] ([[User talk:Joe Kress|talk]]) 02:12, 3 September 2008 (UTC)
+
+:I see now that you already knew of [[docket (court)]] to which [[court calendar]] redirects, which begs the question, why not link directly to either of those? In the meantime, I am simplifying the heading to '''Legal'''. — [[User:Joe Kress|Joe Kress]] ([[User talk:Joe Kress|talk]]) 09:20, 7 September 2008 (UTC)
+
+== Meaning of the word Calendar according to Indo-Persian languages ==
+
+[http://en.wikipedia.org/wiki/Special:Contributions/Jamsh1d Jamsh1d] says he &quot;added meaning of the word Calendar according to Indo-Persian languages&quot; to the article. This was a new introductory paragraph:
+
+''The English word ''calendar'' is derived from the Latin word ''kalendae'', which was the Latin name of the first day of every month. The word '''Calendar''' consist of two words: 1)'''Cal'''( in Pashto means Year, in Hindi and Persian is Sal- also means Year).In Pashto question : so kalen ye? means how old are you? 2)'''Dar''' (Pashto - means having, Owning and in Persian - in). So we can say that Calendar means Having or owning or in the Year. ''
+
+Obviously, this is not an appropriate introductory paragraph. It's also confusing, and lacks a reference. I would have moved it down rather than removing it, but the article already states this:
+
+''The English word calendar is derived from the Latin word kalendae, which was the Latin name of the first day of every month.''
+
+With a reference. Someone want to look into this? -[[User:AndromedaRoach|AndromedaRoach]] ([[User talk:AndromedaRoach|talk]]) 05:35, 12 October 2008 (UTC)
+
+:The English word ''calendar'' is derived from the Latin word ''kalendæ'' which is derived from the Latin word ''calo'' meaning to call out or proclaim (that the thin crescent moon was observed on the western horizon, which marked the first day of each month in the original Roman lunisolar calendar). So if the English word was [[cognate]] to a [[Farsi]] or [[Sanskrit]] word, then ''calendar'' and ''call'' would begin with the same Farsi or Sanskrit letters, but using online English-Farsi and English-Sanskrit dictionaries, they don't. Because they aren't cognate, this 'derivation' was created by [[romanization|romanizing]] unrelated Indo-Persian word roots. — [[User:Joe Kress|Joe Kress]] ([[User talk:Joe Kress|talk]]) 09:13, 12 October 2008 (UTC)
+
+== External Links ==
+
+http://www.blankcalendar.info - My site is highly relevant to the article
+and serves a very useful purpose to help those searching the web in need of
+free printable calendar pages to help with their work and personal
+appointments. Especially with a new year and a recession with a scarcity of
+jobs. My site serves it's content to a very minuscule amount of users who
+search through many search results before finding my site. I'm sure your well
+aware of link credibility. A link from Wikipedia would serve as a vote of
+approval and help search engines better rank my site regardless of no follow tags and thus get my site's content to more people in need of it and save users time.
+
+[[User:Blankcalendardotinfo|Blankcalendardotinfo]] ([[User talk:Blankcalendardotinfo|talk]]) 22:27, 9 January 2009 (UTC) 01-09-2009: Jimmy C.
+
+:It's too general for this page. It would be more appropriate at [[Gregorian calendar]]. However, looking over the ELs there, there is already a page there (pdfpad.com) which seems to have all the features of your site, and more as well. I'm not sure there's a place for your EL, sorry. [[User:Carl.bunderson|Carl.bunderson]] ([[User talk:Carl.bunderson|talk]]) 22:51, 9 January 2009 (UTC)
+
+I think the Gregorian calendar article is perfect. My site is more streamlined straightforward and simple compared to ( Pdfpad.com ). Everything is easy to understand within sight on the homepage a quality reminiscent of Wikipedia. I provide users with the ability to print out calendar pages with a single click as well as provide each month of the year in three standard wallpaper sizes in the jpeg format which requires no plug-ins etc… (EX: Adobe® Reader). All of which ( Pdfpad.com ) does not! I plan on soon adding a Flash based widget where users can make notes on selected dates and more. I think my site is just right for the Gregorian calendar article. Adding my site to the external links would only improve Wikipedia users bottom line by offering them more.
+
+[[User:Blankcalendardotinfo|Blankcalendardotinfo]] ([[User talk:Blankcalendardotinfo|talk]]) 23:44, 9 January 2009 (UTC) 01-09-2009: Jimmy C.
+
+:Well, you can make your case on the talk page for that article. I'll start a thread on it now. Personally, I just don't see its value, in light of the pdfpad site. But if you can get consensus for it, I won't stand in your way. [[User:Carl.bunderson|Carl.bunderson]] ([[User talk:Carl.bunderson|talk]]) 23:55, 9 January 2009 (UTC)
+
+== RAMADAN DATE ==
+
+WHAT WAS THE DATE OF RAMADAN IN 1983  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/219.64.77.151|219.64.77.151]] ([[User talk:219.64.77.151|talk]]) 11:00, 9 April 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:According to [http://emr.cs.iit.edu/home/reingold/calendar-book/Calendrica.html Calendrica] the month of [[Ramadan]] began on 13 June 1983 (1 Ramadan 1403) in the observational (not arithmetic) [[Islamic calendar]], and ended on 11 July 1983 (29 Ramadan 1403). However, each Muslim country and Muslim association in non-Muslim countries use individual calendars with dates up to three days before or after these dates. — [[User:Joe Kress|Joe Kress]] ([[User talk:Joe Kress|talk]]) 00:58, 10 April 2009 (UTC)
+
+==Pictures of calendars==
+ther are no real pictures of calenders on here if you are searching for one to create a travel website turn around you have come to the wrong site  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/207.235.165.225|207.235.165.225]] ([[User talk:207.235.165.225|talk]]) 16:02, 13 May 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Calendario Romano==
+There is a calendar named ''Calendario Romano'' that is released by the Vatican every year, and which features priests on the cover of the monthly pages. I'm not sure how notable it is exactly, but it does get significant media coverage every year when it is published. [http://www.nytimes.com/2003/04/22/world/world-briefing-europe-italy-pin-up-priests.html][http://www.tmz.com/tag/Calendario+Romano+2006/][http://thefiftyfootblogger.blogspot.com/2007/08/hot-priest-calendar-casting-call.html][http://www.huffingtonpost.com/2009/01/12/calendario-romano-2009-va_n_157147.html] [[User:ADM|ADM]] ([[User talk:ADM|talk]]) 23:00, 7 December 2009 (UTC)
+
+== Bulgarian calendar ==
+Removed [[WP:Copyvio|copyvio]] text from [http://www.tangra-bg.org/eng/calendar.htm] which was added to this talk page by [[Special:Contributions/89.253.134.16|89.253.134.16]] on 13:24, 16 May 2010 (UTC). — [[User:Joe Kress|Joe Kress]] ([[User talk:Joe Kress|talk]]) 22:17, 16 May 2010 (UTC)
+
+The [http://www.tangra-bg.org/eng/calendar.htm Eternal Calendar of the Bulgarians] is a modern calendar proposal which is vaugely reminiscent of the [[Bulgar calendar]] but is falsely attributed to the ancient Bulgarians, so I'm removing its link. The equivalence 6328 AM − 823 AD = 5505 BC is simply the [[Anno Mundi]] epoch used by the medieval Bulgarian historian [[Constantine of Preslav]] in 894 according to the eminent Bulgarian historian [[Vasil Zlatarski]] (1866–1935) in [http://www.promacedonia.org/vz1a/vz1a_prit_01.html]. — [[User:Joe Kress|Joe Kress]] ([[User talk:Joe Kress|talk]]) 10:31, 17 May 2010 (UTC)</text>
+      <sha1>2vmlfse5utndhad5dptg532ur84dr6q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

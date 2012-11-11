@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Edgeworth's limit theorem</title>
+    <ns>0</ns>
+    <id>1228848</id>
+    <revision>
+      <id>461478823</id>
+      <parentid>454509681</parentid>
+      <timestamp>2011-11-19T20:42:18Z</timestamp>
+      <contributor>
+        <username>John of Reading</username>
+        <id>11308236</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:AWB/T|Typo]] and [[WP:AWB/GF|General fixing]], replaced: to try and obtain → to try to obtain, typos fixed: ie.  → i.e. using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="8736">'''Edgeworth's limit theorem''' is an [[economics|economic]] theorem created by [[Francis Ysidro Edgeworth]] that examines a range of possible outcomes which may result from [[free market]] exchange or [[barter]] between groups of people. It shows that while the precise location of the final settlement (the ultimate division of goods) between the parties is indeterminate, there is a range of potential outcomes which shrinks as the number of traders increases.
+
+==Theoretical outline==
+Francis Ysidro Edgeworth first described what later became known as the limit theorem in his book ''Mathematical Psychics'' (1881). He used a variant of what is now known as the [[Edgeworth box]] (with quantities traded, rather than quantities possessed, on the relevant axes) to analyse trade between groups of traders of various sizes. In general he found that 'Contract without competition is indeterminate, contract with perfect competition is perfectly determinate, [and] contract with more or less perfect competition is less or more indeterminate.'
+
+===Trade without competition===
+[[Image:Edgeworthprocess1.svg|thumb|Figure 1 - An Edgworth box showing exchange between two people.&lt;ref name=creedy&gt;{{Cite book |last=Creedy |first=John |title=Development of the Theory of Exchange |year=1999}}&lt;/ref&gt;]]
+If trade in two [[good (economics)|goods]], X and Y, occurs between a single pair of [[merchant|trader]]s, A and B, the potential outcomes of this trade can be shown in an Edgeworth box (''Figure 1''). In this diagram A and B initially possess the entire stock of X and Y respectively (point E). The lines U(a) and U(b) are the [[indifference curve]]s of A and B which run through points representing combinations of goods which give [[utility]] equal to their initial holdings. As trade here is assumed to be non-coercive, neither of the traders will agree to a final settlement which leaves them worse off than they started off and thus U(a) and U(b) represent the outer boundaries of possible settlements. Edgeworth demonstrated that traders will ultimately reach a point on the [[contract curve]] (between C and C') through a stylized bargaining process which is termed the [[recontracting process]]. As neither person can be made better off without the other being made worse off at points on the contract curve, once the traders agree to settle at a point on it, this is a final settlement. Exactly where the final settlement will be on the contract curve cannot be determined. It will depend on the bargaining process between the two people; the party who is able to obtain an advantage while bargaining will be able to obtain a better price for his or her goods and thus receive the higher [[gains from trade]].
+
+This was Edgeworth's key finding - the result of trade between two people can be predicted within a certain range but the exact outcome is indeterminate. This finding was (erroneously) disputed by [[Alfred Marshall]]{{Citation needed|date=March 2007}} and the discussions between the two on this point is known as the [[barter controversy]].
+
+===Trade with less than perfect competition===
+[[Image:Edgeworthprocess2.svg|thumb|Figure 2 - Trade between two pairs of people.&lt;ref name=creedy/&gt;]]
+[[Image:Edgeworthprocess3.svg|thumb|Figure 3 - The new limits of the contract curve.&lt;ref name=creedy/&gt;]]
+Suppose a single extra pair of identical traders is added to this initial pair. As these new traders are identical to the first pair, the same Edgeworth box can be used to analyse the exchange. To examine the new outer limits of the trade, Edgeworth considered the situation where trade occurs at the limit of trade between two people (point C or C' in ''Figure 2'').  If trade were to occur at point C one of the B's (say B(1)) would receive all the gains from trade. The one A who trades with B(1) (say A(1)) now has a mix of goods X and Y which he is able to trade with A(2). As the two A's are identical, they will agree to split their post-trade endowments equally between them, placing them at point P in ''Figure 2'' which gives them a higher utility than they would otherwise receive (indifference curve U'(a) instead of U(a)). B(2) now has an opportunity and strong incentive to offer the A's a better price for their goods and trade with them at this price, leaving B(1) out in the cold. This process of B's competing against one another to offer the A's a better price will continue until the A's are indifferent between trading at P and trading on the contract curve (''Figure 3''). The same reasoning can be applied to the case where A(1) initially receives all the gains from trade, and it can be shown that the outermost limit given by U(b) will also move inwards. This is called the shrinking core of the market - as an extra pair of traders is added, the feasible range of trades shrinks.
+
+[[Image:Edgeworthprocess4.svg|thumb|Figure 4 - Final settlement of trade with multiple pairs of traders.&lt;ref name=creedy/&gt;]]
+If a third pair of traders is added, the core of the market shrinks further. If trade occurs at the limit where B(1) gets all the gains from trade, the point P is now two thirds of the way along the line EC. This improves the bargaining power of the A's who are able to get onto a higher indifference curve as B's compete to trade with them. The outer limit of final settlement where there are multiple pairs of traders can be generalised (''Figure 4'') where K = (n-1)/n.
+
+===Trade with perfect competition===
+[[Image:Edgeworthprocess5.svg|thumb|Figure 5 - Trade with many pairs of traders.&lt;ref name=creedy/&gt;]]
+If there is a sufficient number of traders, the core of the market will shrink such that the point of final settlement is perfectly determinate (''Figure 5''). This point is equal to the [[Equilibrium price|price-taking equilibrium]] at which trade is assumed to take place at in models of [[perfect competition]].
+
+===Generalisation===
+This analysis can be modified to accommodate traders who are not identical or who have motivations which aren't purely selfish as well as the situation where one group of traders is larger than the other. If the traders are heterogeneous the point P will not reflect a &quot;split the difference&quot; trade between the group of traders and the outer limit of trade determined by this point will be modified accordingly. If the utility of one trader(s) influences the utility of another (i.e. the latter is not selfish) then the associated limit of the contract curve will shrink inwards, ruling out the most inequitable trades. If the groups of traders are differently sized, the outer limits of the contract curve will not shrink an equal amount.
+
+==Implications==
+There are two main implications of the limit theorem. The first is that the end result of trade between small groups of people is indeterminate and is determined by what were to Edgeworth non-economic factors. The second is that the equivalent of a price-taking equilibrium can arise from competition between very large groups of traders through the recontracting process. This equilibrium point cannot be moved by groups of traders acting in collusion to try to obtain the gains from trade for themselves as other traders will always have an incentive to leave the group out in the cold. This provides a justification for assuming price-taking behaviour in certain situations, even though explanations of how a price-taking situation can arise (such as [[tatonnement]]) are clearly implausible{{Citation needed|date=March 2007}}.
+
+==Criticisms==
+To a large degree the indeterminacy result relies on the assumption that the results of bargaining are indeterminate or, at the very least, outside the realm of economic speculation. Modern advances in [[game theory]], such as those developed by [[John Forbes Nash|John Nash]], challenge this assumption and derive stable equilibria (such as the [[Nash equilibrium]] ) in complicated bargaining situations. Further, Edgeworth's proposed recontracting process is highly stylised, involving traders obtaining information by costlessly making, breaking and re-making contracts with each other. [[Alfred Marshall|Marshall]] strongly criticised Edgeworth on this point. If the recontracting process does not explain real world behaviour then the result that the price-taking equilibrium point will be reached by competitive traders will not necessarily be true{{Citation needed|date=March 2007}}.
+
+==See also==
+*[[Central limit theorem]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{Cite book |last=Edgeworth |first=Francis Ysidro |title=Mathematical Psychics |year=1881 |url=http://socserv.mcmaster.ca/econ/ugcm/3ll3/edgeworth/mathpsychics.pdf |publisher=Kegan Paul}}
+
+{{economics}}
+
+[[Category:Microeconomics]]
+[[Category:Economics theorems]]</text>
+      <sha1>re1ltpqgi8ivwvazmv50zc5276087l8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

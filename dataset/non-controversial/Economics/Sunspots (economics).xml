@@ -1,0 +1,101 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sunspots (economics)</title>
+    <ns>0</ns>
+    <id>2122367</id>
+    <revision>
+      <id>517395821</id>
+      <parentid>499477306</parentid>
+      <timestamp>2012-10-12T13:39:24Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:CHECKWIKI]] error 61 fix, References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8459)</comment>
+      <text xml:space="preserve" bytes="6396">In [[economics]], the term '''sunspots''' (or sometimes &quot;a sunspot&quot;) usually refers to an ''extrinsic'' [[random variable]], that is, a random variable that does not directly affect economic fundamentals (such as [[budget constraint|endowments]], [[preferences]], or [[production function|technology]]). ''Sunspots'' can also refer to the related concept of extrinsic [[uncertainty]], that is, economic uncertainty that does not come from variation in economic fundamentals. [[David Cass]] and [[Karl Shell]] also coined the term ''sunspots'' as a suggestive and less technical way of saying &quot;extrinsic random variable&quot;.&lt;ref name=&quot;sunspotsmatter&quot;&gt;
+{{cite journal
+  | last = Cass
+  | first = David
+  | coauthors = [[Karl Shell|Shell, Karl]]
+  | authorlink = David Cass
+  | title = Do Sunspots Matter?
+  | journal = Journalof Political Economy
+  | volume = 91
+  | issue = 21
+  | pages = 193–228
+  | year = 1983}}
+&lt;/ref&gt;
+
+==Use==
+The idea that arbitrary changes in [[Expectation (epistemic)|expectation]]s might influence the economy, even if they bear no relation to fundamentals, is controversial but has been widespread in many areas of economics. For example, in the words of [[Arthur C. Pigou]],
+:The varying expectations of business men... and nothing else, constitute the immediate cause and direct causes or antecedents of industrial fluctuations.&lt;ref&gt;Pigou, Arthur C., (1927). ''Industrial fluctuations.'' Macmillan, London. Cited in Hans O. Melberg (1998), [http://web.archive.org/web/20091027111028/http://geocities.com/hmelberg/papers/981101.htm 'Psychology and economic fluctuations - Pigou, Mill, and Keynes.']&lt;/ref&gt;
+  
+'Sunspots' have been included in [[Model (economics)|economic models]] as a way of capturing these 'extrinsic' fluctuations, in fields like [[asset pricing]], [[financial crisis|financial crises]],&lt;ref&gt;Obstfeld, Maurice, (1996). “Models of currency crises with self-fulfilling features”, [[European Economic Review]] 40, pp. 1037-47.&lt;/ref&gt;&lt;ref&gt;Diamond, Douglas, and Philip Dybvig, (1983). “Bank runs, deposit insurance, and liquidity”, [[Journal of Political Economy]] 91, pp. 401-19.&lt;/ref&gt; [[business cycle]]s, [[economic growth]],&lt;ref&gt;Matsuyama, Kiminori (1991). “Increasing returns, industrialization, and indeterminacy of equilibrium”, [[Quarterly Journal of Economics]] 106, pp. 617-50.&lt;/ref&gt; and [[monetary policy]].&lt;ref&gt;Benhabib, Jess; Stephanie Schmitt-Grohe; and Martin Uribe (2001). “The perils of Taylor rules”, [[Journal of Economic Theory]] 96, pp. 40-69.&lt;/ref&gt; [[Experimental economics]] researchers have demonstrated how sunspots could affect economic activity.&lt;ref&gt;Duffy, John and Eric O'N. Fisher (2005). “Sunspots in the laboratory”, [[American Economic Review]] 95, 510-529.&lt;/ref&gt;
+
+The name is a whimsical reference to 19th-century economist [[William Stanley Jevons]], who attempted to correlate business cycle patterns with [[sunspot]] counts (on the actual [[sun]]) on the grounds that they might cause variations in weather and thus agricultural output.&lt;ref&gt;Jevons, William Stanley (Nov. 14, 1878). “Commercial crises and sun-spots”, [[Nature]] xix, pp. 33-37.&lt;/ref&gt; Subsequent studies have found no evidence for the hypothesis that the sun influences the business cycle. On the other hand, sunny weather has a small but significant positive impact on stock returns, probably due to its impact on traders' moods.&lt;ref&gt;Hirshleifer, David, and Tyler Shumway (2003). &quot;Good day sunshine: stock returns and the weather&quot;, [[Journal of Finance]] 58 (3), pp. 1009-1032.&lt;/ref&gt;
+
+==Sunspot equilibrium==
+In economics, a '''sunspot equilibrium''' is an [[economic equilibrium]] where the market outcome or allocation of resources varies in a way unrelated to economic fundamentals. In other words, the outcome depends on an &quot;extrinsic&quot; [[random variable]], meaning a random influence that matters only because people think it matters.  The sunspot equilibrium concept was defined by [[David Cass]] and [[Karl Shell]].
+
+===Origin of terminology===
+
+While Cass and Shell's 1983 paper &lt;ref name=&quot;sunspotsmatter&quot; /&gt; defined the term sunspot in the context of [[general equilibrium]], their use of the term sunspot (a term originally used in [[sunspot|astronomy]]) alludes to the earlier [[econometric]] work of [[William Stanley Jevons]], who explored the correlation between the degree of sunspot activity and the price of corn.&lt;ref&gt;{{cite journal
+   | last = Jevons
+   | first = WS
+   | title = Influence of the Sun-Spot Period on the Price of Corn
+   | year = 1875}}&lt;/ref&gt; In Jevons' work, uncertainty about sunspots could be considered intrinsic, for example, if sunspots have some demonstrable effect on agricultural productivity, or some other relevant variable. In modern economics, the term does not indicate any relationship with solar phenomena, and is instead used to describe random variables that have no impact on the preferences, allocations, or production technology of a [[general equilibrium]] model. The modern theory suggests that such a nonfundamental variable might have an effect on equilibrium outcomes if it influences [[Expectation (epistemic)|expectations]].&lt;ref name= &quot;sunspotsmatter&quot; /&gt;
+
+Cass and Shell refer to [[John Maynard Keynes|Keynes]]' &quot;animal spirits&quot;, and to the notion of [[self-fulfilling prophecy]] to illuminate their use of the term &quot;extrinsic uncertainty&quot;. Formally however they define it as any variable that does not directly affect the fundamentals of the economy.
+
+===Occurrence of equilibria===
+
+Much work on sunspot equilibria aims to prove the possible existence of equilibria differing from a given model's [[competitive equilibrium|competitive equilibria]], which can result from various types of extrinsic uncertainty.&lt;ref name = &quot;sunspotsmatter&quot; /&gt; The sunspot equilibrium framework supplies a basis for [[rational expectations]] modeling of excess volatility (volatility resulting from sources other than randomness in the economic fundamentals).  Proper sunspot equilibria can exist in a number of economic situations, including [[asymmetric information]], [[externalities]] in [[Consumption (economics)|consumption]] or [[Manufacturing|production]], [[imperfect competition]], incomplete markets, and restrictions on market participation.
+
+==References==
+&lt;references /&gt;
+
+[[Category:Economics terminology]]
+
+[[es:Equilibrio de manchas solares]]
+[[pt:Mancha solar (economia)]]</text>
+      <sha1>4cxphgj0bh2ipyeplo03o5w6si75ui9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Overhead (business)</title>
+    <ns>0</ns>
+    <id>9525663</id>
+    <revision>
+      <id>522049947</id>
+      <parentid>518340247</parentid>
+      <timestamp>2012-11-08T19:29:21Z</timestamp>
+      <contributor>
+        <username>SteenthIWbot</username>
+        <id>17310692</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.2+) (Robot: Modifying [[nl:Overhead (bedrijfskundde)]] to [[nl:Overhead (bedrijfskunde)]]</comment>
+      <text xml:space="preserve" bytes="2078">{{About|the business term|the computing term|Overhead (computing)}}
+
+In business, '''overhead''' or '''overhead expense''' refers to an ongoing [[expense]] of operating a business; it is also known as an &quot;operating expense&quot;. Examples include rent, gas, electricity, and wages. The term ''overhead'' is usually used when grouping expenses that are necessary to the continued functioning of the business but cannot be immediately associated with the products or services being offered (e.g.,&amp;nbsp;do not directly generate [[profit (accounting)|profit]]s).&lt;ref&gt;[http://www.pmhut.com/pmo-and-project-management-dictionary PMO and Project Management Dictionary]&lt;/ref&gt; Closely related [[accountancy|accounting]] concepts are [[fixed cost]]s and [[variable cost]]s as well as [[indirect costs]] and direct costs.
+
+Overhead expenses are all costs on the [[income statement]] except for direct labor, direct materials, and direct expenses. Overhead expenses include [[accounting]] fees, [[advertising]], [[depreciation]], [[insurance]], [[interest]], legal fees, [[Renting|rent]], repairs, supplies, [[taxes]], telephone bills, travel expenditures, and [[Public utility|utilities]].&lt;ref&gt;[http://www.missouribusiness.net/docs/calc_overhead_percentage.asp Putting Cost Back into Pricing: Calculating Overhead Percentages&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+== Absorption of Overheads ==
+
+It will be difficult for us to calculate all the overheads for any specific unit production. For our benefit, we calculate the rate of overhead on the basis of different methods of absorption of overheads and then just add the overhead in the total cost of any specific unit production without any deep calculation.&lt;ref&gt;http://www.svtuition.org/2012/10/methods-of-overhead-absorption.html&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Overhead (Business)}}
+[[Category:Business terms]]
+[[Category:Management accounting]]
+
+
+{{Business-stub}}
+{{accounting-stub}}
+
+[[es:Gastos generales]]
+[[he:הוצאות תקורה]]
+[[nl:Overhead (bedrijfskunde)]]
+[[ta:மேந்தலைச் செலவு]]</text>
+      <sha1>ocn5oyzjsq9x85mrr4uxmgxon8frfpr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

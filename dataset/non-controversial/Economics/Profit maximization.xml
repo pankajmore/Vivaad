@@ -1,0 +1,138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Profit maximization</title>
+    <ns>0</ns>
+    <id>162807</id>
+    <revision>
+      <id>518404756</id>
+      <parentid>517271597</parentid>
+      <timestamp>2012-10-17T22:50:59Z</timestamp>
+      <contributor>
+        <ip>130.113.105.34</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="12859">{{refimprove|date=October 2006}}
+
+In [[economics]], '''profit maximization''' is the [[short run]] or [[long run]] process by which a firm determines the [[price]] and [[output (economics)|output]] level that returns the greatest [[Profit (economics)|profit]]. There are several approaches to this problem. The total revenue&amp;ndash;total cost perspective relies on the fact that profit equals revenue minus cost and focuses on maximizing this difference, and the [[marginal revenue]]&amp;ndash;[[marginal cost]] perspective is based on the fact that total profit reaches its maximum point where marginal revenue equals marginal cost. 
+
+== Basic definitions ==
+Any costs incurred by a [[corporation|firm]] may be classed into two groups: [[fixed costs]] and [[variable costs]]. Fixed costs, which occur only in the short run, are incurred by the business at any level of output, including zero output. These may include equipment maintenance, rent, wages of employees whose numbers cannot be increased or decreased in the short run, and general upkeep. Variable costs change with the level of output, increasing as more product is generated. Materials consumed during production often have the largest impact on this category, which also includes the wages of employees who can be hired and laid off in the span of time (long run or short run) under consideration. Fixed cost and variable cost, combined, equal [[total cost]]. 
+
+[[Revenue]] is the amount of money that a company receives from its normal business activities, usually from the sale of goods and services (as opposed to monies from security sales such as equity shares or debt issuances).
+
+[[Marginal cost]] and revenue, depending on whether the [[calculus]] approach is taken or not, are defined as either the change in cost or revenue as each additional unit is produced, or the [[derivative]] of cost or revenue with respect to the quantity of output. For instance, taking the first definition, if it costs a firm 400 [[USD]] to produce 5 units and 480 USD to produce 6, the marginal cost of the sixth unit is 80 dollars. 
+
+== Total revenue - total cost perspective ==
+[[Image:profit max total small.svg|right|thumb|250px|Profit Maximization using the totals approach]]
+To obtain the profit maximising output quantity, we start by recognizing that profit is equal to total revenue (TR) minus total cost (TC). Given a table of costs and revenues at each quantity, we can either compute equations or plot the data directly on a graph. The profit-maximizing output is the one at which this difference reaches its maximum. In the accompanying diagram, the linear total revenue curve represents the case in which the firm is a perfect competitor in the goods market, and thus cannot set its own selling price. The profit-maximizing output level is represented as the one at which total revenue is the height of C and total cost is the height of B; the maximal profit is measured as CB. This output level is also the one at which the total profit curve is at its maximum.
+
+If, contrary to what is assumed in the graph, the firm is not a perfect competitor in the output market, the price to sell the product at can be read off the [[demand curve]] at the firm's optimal quantity of output.
+
+== Marginal revenue-marginal cost perspective ==
+[[Image:profit max marginal small.svg|right|thumb|250px|Profit maximization using the marginal approach]]
+An alternative perspective relies on the relationship that, for each unit sold, marginal profit (Mπ) equals marginal revenue (MR) minus marginal cost (MC). Then, if marginal revenue is greater than marginal cost at some level of output, marginal profit is positive and thus a greater quantity should be produced, and if marginal revenue is less than marginal cost, marginal profit is negative and a lesser quantity should be produced. At the output level at which marginal revenue equals marginal cost, marginal profit is zero and this quantity is the one that maximizes profit.&lt;ref name=&quot;lipsey&quot;/&gt; Since total profit increases when marginal profit is positive and total profit decreases when marginal profit is negative, it must reach a maximum where marginal profit is zero - or where marginal cost equals marginal revenue - and where lower or higher output levels give lower profit levels.&lt;ref name=&quot;lipsey&quot;&gt;Lipsey (1975). pp. 245-47.&lt;/ref&gt; In calculus terms, the correct intersection of MC and MR will occur when:&lt;ref name=&quot;lipsey&quot;/&gt;
+:&lt;math&gt;\frac{\operatorname d^2 R}{{\operatorname dQ}^2} &lt; \frac{\operatorname d^2 C}{{\operatorname dQ}^2}&lt;/math&gt;
+
+The intersection of MR and MC is shown in the next diagram as point A. If the industry is perfectly competitive (as is assumed in the diagram), the firm faces a demand curve (D) that is identical to its marginal revenue curve (MR), and this is a horizontal line at a price determined by industry supply and demand. [[Average total cost]]s are represented by curve ATC. Total [[economic profit]] are represented by the area of the rectangle PABC. The optimum quantity (Q) is the same as the optimum quantity in the first diagram.
+
+If the firm is operating in a non-competitive market, changes would have to be made to the diagrams.  For example, the marginal revenue curve would have a negative gradient, due to the overall market demand curve.  In a non-competitive environment, more complicated profit maximization solutions involve the use of [[game theory]].
+
+==Case in which maximizing revenue is equivalent==
+
+In some cases a firm's demand and cost conditions are such that marginal profits are greater than zero for all levels of production up to a certain maximum.&lt;ref name=&quot;samuelson&quot;&gt;Samuelson, W and Marks, S (2003). p. 47.&lt;/ref&gt; In this case marginal profit plunges to zero immediately after that maximum is reached; hence the Mπ = 0 rule implies that output should be produced at the maximum level, which also happens to be the level that maximizes revenue.&lt;ref name=&quot;samuelson&quot; /&gt; In other words the profit maximizing quantity and price can be determined by setting marginal revenue equal to zero, which occurs at the maximal level of output. Marginal revenue equals zero when the total revenue curve has reached its maximum value. An example would be a scheduled airline flight. The marginal costs of flying one more passenger on the flight are negligible until all the seats are filled. The airline would maximize profit by filling all the seats. The airline would determine the &lt;math&gt;\Pi_max&lt;/math&gt; conditions by maximizing revenues.
+
+==Changes in total costs and profit maximization==
+A firm maximizes profit by operating where marginal revenue equal marginal costs. A change in fixed costs has no effect on the profit maximizing output or price.&lt;ref&gt;Samuelson, W and Marks, S (2003). p. 52.&lt;/ref&gt; The firm merely treats short term fixed costs as sunk costs and continues to operate as before.&lt;ref&gt;Landsburg, S (2002).&lt;/ref&gt; This can be confirmed graphically. Using the diagram illustrating the total cost–total revenue perspective, the firm maximizes profit at the point where the slopes of the total cost line and total revenue line are equal.&lt;ref name=&quot;samuelson&quot;/&gt; An increase in fixed cost would cause the total cost curve to shift up by the amount of the change.&lt;ref name=&quot;samuelson&quot;/&gt; There would be no effect on the total revenue curve or the shape of the total cost curve. Consequently, the profit maximizing point would remain the same. This point can also be illustrated using the diagram for the marginal revenue–marginal cost perspective. A change in fixed cost would have no effect on the position or shape of these curves.&lt;ref name=&quot;samuelson&quot;/&gt;
+
+==Markup pricing==
+
+In addition to using methods to determine a firm's optimal level of output, a firm that is not perfectly competitive can equivalently set price to maximize profit (since setting price along a given demand curve involves picking a preferred point on that curve, which is equivalent to picking a preferred quantity to produce and sell). The profit maximization conditions can be expressed in a &quot;more easily applicable&quot; form or rule of thumb than the above perspectives use.&lt;ref name=&quot;pindyck&quot;&gt;Pindyck, R and Rubinfeld, D (2001) p. 333.&lt;/ref&gt; The first step is to rewrite the expression for marginal revenue as MR = ∆TR/∆Q =(P∆Q+Q∆P)/∆Q=P+Q∆P/∆Q, where P and Q refer to the midpoints between the old and new values of price and quantity respectively.&lt;ref name=&quot;pindyck&quot;/&gt; The marginal revenue from an &quot;incremental unit of quantity&quot; has two parts: first, the revenue the firm gains from selling the additional units or P∆Q. The additional units are called the marginal units.&lt;ref name=&quot;besanko&quot;&gt;Besanko, D. and Beautigam, R, (2001) p. 408.&lt;/ref&gt; Producing one extra unit and selling it at price P brings in revenue of P. Moreover, one must consider &quot;the revenue the firm loses on the units it could have sold at the higher price&quot;&lt;ref name=&quot;besanko&quot;/&gt;—that is, if the price of all units had not been pulled down by the effort to sell more units. These units that have lost revenue are called the infra-marginal units.&lt;ref name=&quot;besanko&quot;/&gt; That is, selling the extra unit results in a small drop in price which reduces the revenue for all units sold by the amount Q(∆P/∆Q).  Thus MR = P + Q(∆P/∆Q) = P +P (Q/P)((∆P/∆Q) = P + P/(PED), where PED is the price elasticity of demand characterizing the demand curve of the firms' customers, which is negative.  Then setting MC = MR gives MC = P + P/PED so (P - MC)/P = - 1/PED and P = MC/[1 + (1/PED)]. Thus the optimal markup rule is:
+
+:(P - MC)/P = 1/ (- PED)      
+
+:or 
+
+:P = [PED/(1 + PED)]×MC.&lt;ref name=&quot;samuelson103&quot;&gt;Samuelson, W and Marks, S (2003). p. 103-05.&lt;/ref&gt;&lt;ref&gt;Pindyck, R and Rubinfeld, D (2001) p. 341.&lt;/ref&gt; 
+
+In words, the rule is that the size of the markup is inversely related to the price elasticity of demand for the good.&lt;ref name=&quot;samuelson103&quot;/&gt;
+
+The optimal markup rule also implies that a non-competitive firm will produce on the elastic region of its market demand curve. Marginal cost is positive. The term PED/(1+PED)  would be positive so P&gt;0 only if PED is between -1 and -∝ —that is, if demand is elastic at that level of output.&lt;ref&gt;Besanko and Braeutigam (2005)  p. 419.&lt;/ref&gt; The intuition behind this result is that, if demand is inelastic at some value Q&lt;sub&gt;1&lt;/sub&gt; then a decrease in Q would increase P more than proportionately, thereby increasing revenue PQ; since lower Q would also lead to lower total cost, profit would go up due to the combination of increased revenue and decreased cost. Thus Q&lt;sub&gt;1&lt;/sub&gt; does not give the highest possible profit.
+
+==Marginal product of labor, marginal revenue product of labor, and profit maximization==
+
+The general rule is that firm maximizes profit by producing that quantity of output where marginal revenue equals marginal costs. The profit maximization issue can also be approached from the input side. That is, what is the profit maximizing usage of the variable input? &lt;ref name=&quot;samuelson230&quot;&gt;Samuelson, W and Marks, S (2003). p. 230.&lt;/ref&gt; To maximize profit the firm should increase usage of the input &quot;up to the point where the input's marginal revenue product equals its marginal costs&quot;.&lt;ref&gt;Samuelson, W and Marks, S (2003). p. 23.&lt;/ref&gt; So mathematically the profit maximizing rule is MRP&lt;sub&gt;L&lt;/sub&gt; = MC&lt;sub&gt;L&lt;/sub&gt;, where the subscript L refers to the commonly assumed variable input, labor.
+The marginal revenue product is the change in total revenue per unit change in the variable input. That is MRP&lt;sub&gt;L&lt;/sub&gt; = ∆TR/∆L. MRP&lt;sub&gt;L&lt;/sub&gt; is the product of marginal revenue and the marginal product of labor or MRP&lt;sub&gt;L&lt;/sub&gt; = MR x MP&lt;sub&gt;L&lt;/sub&gt;.
+
+== See also ==
+*[[Business organization]]
+*[[Corporation]]
+*[[Market form]]s
+*[[Microeconomics]]
+*[[Pricing]]
+*[[Production, costs, and pricing]]
+*[[Outline of industrial organization]]
+*[[Rational choice theory]]
+*[[Supply and demand]]
+*[[Marginal revenue]]
+*[[Total revenue]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{Cite book|last=Landsburg|first=S|title=Price Theory and Applications|edition=fifth|publisher=South-Western|year=2002}}
+* {{Cite book|title=An introduction to positive economics|edition=fourth|pages=214–7|first=Richard G.|last=Lipsey|year=1975|publisher=Weidenfeld and Nicolson|isbn=0-297-76899-9}}
+* {{Cite book|last1=Samuelson|first1=W|last2=Marks|first2=S|title=Managerial Economics|edition=fourth|publisher=Wiley|year=2003}}
+
+==External links==
+*[http://demonstrations.wolfram.com/ProfitMaximizationInPerfectCompetition/ Profit Maximization in Perfect Competition] by Fiona Maclachlan, [[Wolfram Demonstrations Project]].
+
+[[Category:Profit]]
+[[Category:Pricing]]
+
+[[da:Profitmaksimering]]
+[[de:Gewinnmaximierung]]
+[[gd:Prothaid]]
+[[ja:利潤最大化]]
+[[nl:Winstmaximalisatie]]
+[[vi:Tối đa hóa lợi nhuận]]
+[[zh:利润最大化]]</text>
+      <sha1>nrukz00ewqux46qhpdm62yzrnhyac79</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

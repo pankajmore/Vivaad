@@ -1,0 +1,227 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>National Income and Product Accounts</title>
+    <ns>0</ns>
+    <id>993976</id>
+    <revision>
+      <id>519105450</id>
+      <parentid>503247657</parentid>
+      <timestamp>2012-10-21T23:46:02Z</timestamp>
+      <contributor>
+        <username>Jonkerz</username>
+        <id>10426732</id>
+      </contributor>
+      <comment>fmt</comment>
+      <text xml:space="preserve" bytes="15040">The '''national income and product accounts''' ('''NIPA''') are part of the [[national accounts]] of the United States. They are produced by the Bureau of Economic Analysis of the Department of Commerce. They are one of the main sources of data on general economic activity in the United States.
+
+They use [[double-entry accounting]] to report the monetary value and sources of output produced in the country and the distribution of incomes that production generates. Data are available at the national and industry levels.
+
+Seven summary accounts are published, as well as a much larger number of more specific accounts. The first summary account shows gross domestic product (GDP) and its major components.
+The table summarizes national income on the left (debit, revenue) side and national product on the right (credit, expense) side of a two-column accounting report. Thus the left side gives GDP by the income method, and the right side gives GDP by the expenditure method.
+The GDP is given on the bottom line of both sides of the report. GDP must have the same value on both sides of the account. This is because income and expenditure are defined in a way that forces them to be equal (see [[accounting identity]]). We show the 2003 table later in this article; we present the left side first for convenient screen display.
+
+The U.S. report (updated quarterly) is available in several forms, including interactive, from links on the Bureau of Economic Analysis (BEA) NIPA ([http://www.bea.gov/index.htm]) page. International norms for national accounting methods are given by the [[United Nations System of National Accounts]]. The NIPAs are prepared by the staff of the Directorate for National Economic Accounts within the BEA. The source data largely originate from public sources, such as government surveys and administrative data, and they are supplemented by data from private sources, such as data from trade associations (BEA 2008: 1–6).
+
+__TOC__
+
+==Accounting for national income: the left side of the report==
+
+The income side of the national income and product account report begins with the kinds of income people might have. Employee compensation includes the wages and salaries paid to anyone whose income is subject to income tax withholding. Since wages and salaries affect more individuals and families directly than the other sources of income, it has by far the largest value.
+
+===Table 1: revenue uses of GDP===
+{| 
+! &quot;colspan=5&quot; align=&quot;center&quot; | National income and product accounts of the U.S.
+|-
+! &quot;colspan=5&quot; align=&quot;center&quot; | [Billions of current US$]
+|-
+! align=&quot;center&quot; | Income accounts &lt;ref group=&quot;note&quot; name=&quot;n1&quot; /&gt; !! &amp;nbsp;!! align=&quot;center&quot; | 2003
+|-
+| Employee compensation &lt;ref group=&quot;note&quot; name=&quot;n2&quot; /&gt; || &amp;nbsp;|| align=&quot;right&quot; | 6,289.00
+|-
+| Proprietors' income with IVA and CCA &lt;ref group=&quot;note&quot; name=&quot;n3&quot; /&gt; || &amp;nbsp;|| align=&quot;right&quot; | 834.10
+|-
+| Rental income of persons with CCA || &amp;nbsp;|| align=&quot;right&quot; | 153.80
+|-
+| Corporate profits with IVA and CCA &lt;ref group=&quot;note&quot; name=&quot;n4&quot; /&gt; || &amp;nbsp;|| align=&quot;right&quot; | 1,021.10
+|-
+| Net interest and miscellaneous payments || &amp;nbsp;|| align=&quot;right&quot; | 543.00
+|-
+| Taxes on production and imports || &amp;nbsp;|| align=&quot;right&quot; | 798.10
+|-
+|    Less: subsidies || &amp;nbsp;|| align=&quot;right&quot; | −46.70
+|-
+| Business current transfer payments (net) || &amp;nbsp;|| align=&quot;right&quot; | 77.70
+|-
+| Current surplus of government enterprises || &amp;nbsp;|| align=&quot;right&quot; | 9.50
+|-
+| ''Equals:'' national income (NI)|| &amp;nbsp;|| align=&quot;right&quot; | '''9,679.60'''
+|-
+| Statistical discrepancy || &amp;nbsp;|| align=&quot;right&quot; | 25.60
+|-
+| ''Equals:'' net national product (NNP) || &amp;nbsp;|| align=&quot;right&quot; | '''9,705.20'''
+|-
+| Consumption of fixed capital || &amp;nbsp;|| align=&quot;right&quot; | 1,353.90
+|-
+| ''Equals:'' gross national product (GNP) || &amp;nbsp;|| align=&quot;right&quot; | '''11,059.10'''
+|-
+| Income receipts from the rest of the world || &amp;nbsp;|| align=&quot;right&quot; | 273.90
+|-
+|    Less: Income payments to the rest of the world || &amp;nbsp;|| align=&quot;right&quot; style=&quot;border-bottom:2px solid grey&quot; | −329.00
+|-
+| ''Equals:'' gross domestic product (GDP) &lt;ref group=&quot;note&quot; name=&quot;n5&quot; /&gt; || &amp;nbsp;|| align=&quot;right&quot; | '''11,004.00'''
+|-
+| &amp;nbsp;|| &amp;nbsp;|| align=&quot;right&quot; | =========
+|-
+|}
+
+Proprietors' income is the payments to those who own non-corporate businesses, including sole proprietors and partners. inventory value adjustment (IVA) and capital consumption adjustment (CCA) are corrections for changes in the value of proprietor's inventory (goods that may be sold within one year) and capital (goods like machines and buildings that are not expected to be sold within one year) under rules set by the U.S. Internal Revenue Service (IRS).
+
+Rental income of persons excludes rent paid to corporate real estate companies. Real estate is capital rather than inventory by definition, so there is no IVA.
+
+Corporate profits with IVA and CCA is like the entries for proprietors' income and rental income except that the organization is a corporation. Corporate profit is shown before taxes, which are part of taxes on production and imports, two lines down.
+
+Business current transfer payments is not explained here.
+
+Net interest and miscellaneous payments is interest paid minus interest received plus payments to individuals and corporations that are not elsewhere classified (NEC). Taxes on production and imports does not include corporate income tax payments to the states and to the federal government. Taxes on production and imports were previously classified as &quot;indirect business taxes&quot; and include excise taxes, sales taxes, property taxes, and other taxes relating to business production. While the report includes the net value of interest payments and receipts, both the taxes paid and subsidies from the government are shown.
+
+National income (NI) is the sum of employees, proprietors, rental, corporate, interest, and government income less the subsidies government pays to any of those groups.
+
+Net national product (NNP) is National Income plus or minus the statistical discrepancy that accumulates when aggregating data from millions of individual reports. In this case, the statistical discrepancy is US$25.6&amp;nbsp;billion, or about 0.23% of gross domestic product. A discrepancy that small (less than three-tenths of one percent) is immaterial under accounting standards.
+
+Gross national product is net national product plus an allowance for the [[consumption of fixed capital]], mostly buildings and machines, usually called depreciation. Capital is used up in production but it does not vanish.
+
+Finally, GDP is gross national product plus payments from the rest of the world that are income to residents of the U.S. minus payments from the US to the rest of the world that count as income where they are received.
+
+===Accounting for national product: the right side of the report===
+[[Macroeconomics]] defines GDP, from the production perspective, as the sum of personal consumption, investment, [[net exports]], and government expenditures; {{nowrap|1=GDP = C + I + (X − M) + G}}.
+
+====Table 2: Production sources of gross domestic GDP====
+{| 
+! &quot;colspan=5&quot; align=&quot;center&quot; | National income and product accounts of the US
+|-
+! &quot;colspan=5&quot; align=&quot;center&quot; | [Billions of current US$]
+|-
+! Product accounts &lt;ref group=&quot;note&quot; name=&quot;n1&quot; /&gt; !!!!2003
+|-
+|  Durable goods || align=&quot;right&quot; | 950.70|| &amp;nbsp;|-
+|  Nondurable goods || align=&quot;right&quot; | 2,200.10|| &amp;nbsp;|-
+|  Services || align=&quot;right&quot; style=&quot;border-bottom:2px solid grey&quot; | 4,610.10|| &amp;nbsp;|-
+| Personal consumption expenditures || &amp;nbsp;|| align=&quot;right&quot; | '''7,760.90'''
+|-
+|  Nonresidential || align=&quot;right&quot; | 1,094.70|| &amp;nbsp;|-
+|  Residential || align=&quot;right&quot; | 572.30|| &amp;nbsp;|-
+|  Change in private inventories || align=&quot;right&quot; style=&quot;border-bottom:2px solid grey&quot; | −1.20|| &amp;nbsp;|-
+| Gross private domestic investment || &amp;nbsp;|| align=&quot;right&quot; | '''1,665.80'''
+|-
+|  Exports || align=&quot;right&quot; | 1,046.20|| &amp;nbsp;|-
+|   Less: Imports || align=&quot;right&quot; style=&quot;border-bottom:2px solid grey&quot; | −1,544.30|| &amp;nbsp;|-
+| Net exports of goods and services || &amp;nbsp;|| align=&quot;right&quot; | '''−498.10'''
+|-
+| Federal || align=&quot;right&quot; | 752.20|| &amp;nbsp;|-
+| State and local || align=&quot;right&quot; style=&quot;border-bottom:2px solid grey&quot; | 1,323.30|| &amp;nbsp;|-
+| Government consumption expenditures|| &amp;nbsp;|| &amp;nbsp;|-
+|   and gross investment|| &amp;nbsp;|| align=&quot;right&quot; style=&quot;border-bottom:2px solid grey&quot; | '''2,075.50'''
+|-
+|   Gross domestic product (GDP) &lt;ref group=&quot;note&quot; name=&quot;n5&quot; /&gt; || &amp;nbsp;|| align=&quot;right&quot; | '''11,004.10'''
+|-
+| &amp;nbsp;|| &amp;nbsp;|| align=&quot;right&quot; | =========
+|-
+|}
+
+The production side report also begins with individuals and families, in this case their personal consumption expenditures on goods and services, C in the definition. Durable goods are expected to last more than a year (furniture, appliances, cars, etc.) and to have little or no secondary resale market. Nondurable goods are used up within a year (food, clothing, medicine...). Services includes everything else, everything we buy that has little or no physical presence, like banking, health care, insurance, movie tickets, and so on.
+
+[[Gross private domestic investment]] includes expenditures on goods that are expected to be used for an extended period of time, I in the definition. Residential investment includes owner occupied and rental housing. Nonresidential investment includes buildings, machinery, and equipment used for commercial or industrial purposes (small business, agriculture, manufacturing, service, etc.). The last element of Investment accounts for any change in the value of previous investments that are still in use, called inventory.
+
+Net Exports reports the balance between goods produced domestically but consumed abroad (X) and goods produced abroad but consumed domestically (M). There is no distinction between consumption and investment or between the private and public sectors; a consumer's imported television, a corporation's imported lab equipment, and the government's use of imported food on military bases count equally. When net exports are positive, the country has a trade surplus. When Net Exports are negative, there is a trade deficit.
+
+Government Consumption Expenditures and Gross Investment includes all government expenditures on domestically produced goods and services. Like an individual or family, the government consumes food, clothing, furniture, and other goods and services in its administrative, military, correctional, and other programs. Governments also invest in buildings for program use and in improvements to harbors, rivers, roads, and airports. [[Transfer payment]]s, like subsidies to the unemployed or the retired, are ''not'' included in this item, since they are simply a movement of money from government to citizens, rather than a purchase of goods or services.
+
+The sum of the four production categories is gross domestic product, the value of all domestic expenditures on goods and services. GDP (income) must equal GDP (production) except for any rounding error that accumulates when the data used to prepare a table includes rounding at prior stages of analysis, as appears to have happened in this case.
+
+==See also==
+*[[Aggregation problem]]
+*[[Macroeconomics]]
+*[[National accounts]]
+*[[United Nations System of National Accounts]]
+*[[Measures of national income and output]]
+*[[Classification of Individual Consumption by Purpose]]
+
+==Notes==
+{{Reflist|group=note|refs=
+&lt;ref group=&quot;note&quot; name=&quot;n1&quot;&gt; On 17 Sep 2004 the U.S. Bureau of Economic Analysis National Income and Product Accounting (US BEA NIPA) web site was http://www.bea.doc.gov/bea/dn1.htm. At that time, the tables cited here were downloaded as a wk1 format spreadsheet in a zip file through a button on that page.
+
+&lt;blockquote&gt;
+The BEA's table and line numbers were removed for clarity and the sums were recalculated. Copies of the downloaded BEA NIPA tables used to construct the example, including table and line numbers, are in a pdf file.
+
+The BEA offers the NIPA tables interactively and as txt, zipped wk1, exe, csv, and pdf files. Footnotes to the BEA's tables are available in their pdf file only.  The downloads include the two most recent annual values and the five most recent quarterly values for each item. The quarterly values are seasonally adjusted at annual rates; they do not add to a reported annual value.
+
+The income side of the report is derived from BEA NIPA Tables 1.7.5 (Relation of gross domestic product, gross national product, net national product, national income, and personal income) and 1.12 (National income by type of income).
+
+The production side of the report is derived from BEA NIPA Table 1.1.5 (Gross domestic product). There is a 0.1 (US$100M or 0.00091%) rounding error from the official GDP (11,004.0) in the recalculated sum on the Product Accounts side.
+&lt;/blockquote&gt;
+&lt;/ref&gt;
+
+&lt;ref group=&quot;note&quot; name=&quot;n2&quot;&gt; Employee compensation includes wages and salaries plus employer payments for government insurance and pension programs.&lt;/ref&gt;
+
+&lt;ref group=&quot;note&quot; name=&quot;n3&quot;&gt; IVA refers to inventory valuation adjustment and CCA refers to capital consumption adjustment; they are features of U.S. tax law.&lt;/ref&gt;
+
+&lt;ref group=&quot;note&quot; name=&quot;n4&quot;&gt; Corporate profits reported here are before taxes. They are divided among Tax payments (234.90), net dividends (395.30), and Undistributed profits (also known as retained earnings) (390.90).&lt;/ref&gt;
+
+&lt;ref group=&quot;note&quot; name=&quot;n5&quot;&gt; GDP includes all goods and services produced within a country.&lt;/ref&gt;
+}}
+
+==References==
+* J. Steven Landefeld, Eugene P. Seskin, and Barbara M. Fraumeni. 2008. &quot;Taking the Pulse of the Economy: Measuring GDP.&quot; ''Journal of Economic Perspectives'', 22(2), pp.&amp;nbsp;193–216. PDF [http://www.bea.gov/about/pdf/jep_spring2008.pdf link] (press '''+''').
+
+==External links==
+*United States, Bureau of Economic Analysis, [http://www.bea.gov/national/pdf/nipaguid.pdf ''A Guide to the National Income and Product Accounts of the United States'']. Very helpful in understanding the accounts; also contains historical information and is an important source of information for this article.
+*United States, Bureau of Economic Analysis, 2008, [http://www.bea.gov/national/pdf/NIPAhandbookch1-4.pdf ''Concepts and Methods of the National Product Accounts of the United States''], More detailed than the ''Guide'', above .
+*[http://www.google.com/publicdata/explore?ds=a7jenngfc4um7_&amp;ctype=l&amp;strail=false&amp;nselm=h&amp;met_y=taxes_on_production_and_imports&amp;hl=en&amp;dl=en Google – public data]: GDP and Personal Income of the U.S. (annual): Taxes on Production and Imports
+*[http://www.google.com/publicdata/explore?ds=a7jenngfc4um7_&amp;ctype=l&amp;strail=false&amp;nselm=h&amp;met_y=taxes_on_production_and_imports_net_of_subsidies&amp;hl=en&amp;dl=en Google – public data]: GDP and Personal Income of the U.S. (annual): Taxes on Production and Imports less Subsidies
+
+[[Category:National accounts]]
+[[Category:Economic indicators]]
+[[Category:Welfare economics]]
+
+[[it:Contabilità nazionale]]
+[[te:జాతీయ ఆదాయం]]</text>
+      <sha1>11hevzlwm8ukdozetl3cr65wxlnrnv6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

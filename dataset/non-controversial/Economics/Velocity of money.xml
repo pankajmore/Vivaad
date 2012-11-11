@@ -1,0 +1,129 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Velocity of money</title>
+    <ns>0</ns>
+    <id>1370831</id>
+    <revision>
+      <id>506923268</id>
+      <parentid>506128859</parentid>
+      <timestamp>2012-08-11T18:46:05Z</timestamp>
+      <contributor>
+        <username>EleferenBot</username>
+        <id>11678474</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.3) (Robot: Adding [[ru:Скорость обращения денег]]</comment>
+      <text xml:space="preserve" bytes="9064">[[Image:M2VelocityEMratioUS052009.png|300px|thumb|Chart showing the log of US M2&lt;ref&gt;[http://www.investopedia.com/terms/m/m2.asp M2 Definition] - Investopedia&lt;/ref&gt;&lt;ref&gt;[http://research.stlouisfed.org/fred2/series/M2 M2 Money Stock] - Federal Reserve Bank of St Louis&lt;/ref&gt; money velocity (green), calculated by dividing nominal GDP by M2 stock, M1 plus [[time deposit]]s 1959-2010.  M2 velocity is not stable and correlates with the [[Employment-Population ratio]] (blue), an indicator of economic vitality.  Both M2 velocity and the Employment-Population Ratio decline in periods of recession (represented with gray bars). The pattern conflicts with the quantity theory of money, which assumes that money velocity will be stable and only loosely correlated with economic conditions.&lt;ref&gt;Mishkin, Frederic S. ''The Economics of Money, Banking, and Financial Markets''.  Seventh Edition. Addison-Wesley. 2004. p.520.&lt;/ref&gt;]]
+[[Image:M1VelocityEMratioUS052009.png|300px|thumb|Similar chart showing the velocity of a slightly narrower measure of money consisting of currency and liquid deposits M1 1959-2010.]]
+[[image:M3 Velocity in the US.png|300px|thumb|Similar chart showing the velocity of a broader measure of money that covers M2 plus large institutional deposits, M3. The US no longer publishes official M3 measures, so the chart only runs through 2005.]]
+
+The '''velocity of money''' (also called '''velocity of circulation''' and, much earlier, '''currency''') is the average [[frequency]] with which a unit of [[money]] is spent on new goods and services produced domestically in a specific period of [[time]]. Velocity has to do with the amount of economic activity associated with a given [[money supply]]. When the period is understood, the velocity may be presented as a pure number; otherwise it should be given as a pure number over time. 
+
+== Illustration ==
+
+If, for example, in a very small economy, a [[farmer]] and a [[mechanic]], with just $50 between them, buy new goods and services from each other in just three transactions over the course of a year
+*Farmer spends $50 on [[tractor]] repair from mechanic.
+*Mechanic buys $40 of [[Maize|corn]] from farmer.
+*Mechanic spends $10 on [[Cat#Domestication|barn cats]] from farmer.
+then $100 changed hands in the course of a year, even though there is only $50 in this little economy.  That $100 level is possible because each dollar was spent on new goods and services an average of twice a year, which is to say that the velocity was &lt;math&gt;2/yr&lt;/math&gt;.  Note that if the farmer bought a used tractor from the mechanic or made a gift to the mechanic, it would not go into the numerator of velocity because that transaction would not be part of this tiny economy's gross domestic product.
+
+== Indirect measurement ==
+
+In practice, attempts to measure the velocity of money are usually indirect:
+:&lt;math&gt;V_T =\frac{nT}{M}&lt;/math&gt;
+where
+:&lt;math&gt;V_T\,&lt;/math&gt; is the velocity of money for all transactions.
+:&lt;math&gt;nT\,&lt;/math&gt; is the [[Real versus nominal value (economics)|nominal value]] of aggregate transactions.
+:&lt;math&gt;M\,&lt;/math&gt; is the total amount of [[money supply|money]] in circulation on average in the economy (see “[[Money supply]]” for details).
+
+(Given the [[classical dichotomy]], &lt;math&gt;nT&lt;/math&gt; may be factored into a product &lt;math&gt;P\cdot T&lt;/math&gt; of a [[price level]] &lt;math&gt;P&lt;/math&gt; and a '[[Real versus nominal value (economics)|real]]' aggregate value of transactions &lt;math&gt;T&lt;/math&gt;.)
+
+Values of &lt;math&gt;nT&lt;/math&gt; and &lt;math&gt;M&lt;/math&gt; permit calculation of &lt;math&gt;V_T&lt;/math&gt;. 
+
+As applied to an economy, expenditures on final output are of interest; the relation may be written:
+:&lt;math&gt;V =\frac{nQ}{M}&lt;/math&gt;
+where
+:&lt;math&gt;V\,&lt;/math&gt; is the velocity for transactions counting towards [[measures of national income and output|national or domestic product]].
+:&lt;math&gt;nQ\,&lt;/math&gt; is nominal [[measures of national income and output|national or domestic product]].
+(Analogously with &lt;math&gt;nT&lt;/math&gt;, given the [[classical dichotomy]], &lt;math&gt;nQ&lt;/math&gt; may be factored into a product &lt;math&gt;P\cdot Q&lt;/math&gt;.)
+
+&lt;center&gt;&lt;gallery&gt;
+File:Velocity of M1 Money Stock in the US.png|Velocity of M1 Money Stock in the US 1959–2012
+File:Velocity of M2 Money Stock in the US.png|Velocity of M2 Money Stock in the US 1959–2012
+File:Velocity of MZM Money Stock in the US.png|Velocity of MZM Money Stock in the US 1959–2012
+&lt;/gallery&gt;&lt;/center&gt;
+
+== Determination ==
+
+The determinants and consequent stability of the velocity of money are a subject of controversy across and within [[economic schools of thought|schools of economic thought]]. Those favoring a [[quantity theory of money]] have tended to believe that, in the absence of [[inflation]]ary or [[deflation]]ary expectations, velocity will be technologically determined and stable, and that such expectations will not generally arise without a signal that overall prices have changed or will change.  This view has been discredited by the precipitous fall in velocity in the Japanese &quot;Lost Decade&quot;  and the worldwide &quot;Great Recession&quot; and its aftermath of 2008-10.  Monetary authorities undertook massive expansion of the money supplies, but instead of lifting nominal GDP as predicted by this theory, velocity fell as nominal GDP was relatively unchanged.
+
+Some people have incorrectly interpreted velocity to mean the time between receipt of income and when it is spent.  Note that how much income is spent helps determine GDP, but  when during a pay period it is spent is immaterial.  There could be a large volume of spending by people who waited a long time between receiving income and spending it.  They could store their income in non-money forms, such as stocks and bonds, between receiving income and spending it.  So that notion of &quot;how fast income is spent&quot; is a fallacy.
+
+The view that velocity of money is constant is criticized by [[Paul Samuelson|Samuelson]] thus:
+{{Quotation|In terms of the quantity theory of money, we may say that the velocity of circulation of money does not remain constant. “You can lead a horse to water, but you can’t make him drink.” You can force money on the system in exchange for government bonds, its close money substitute; but you can’t make the money circulate against new goods and new jobs.&lt;ref name=&quot;sam_vel&quot;&gt;Samuelson, Paul Anthony; ''Economics'' (1948), p 354.&lt;/ref&gt;}}
+
+==Criticism==
+
+[[Henry Hazlitt]] criticized the concept of the velocity of money, citing that the equation used to calculate it ignored the psychological effects that also have a significant role in determining the value of a currency. As an example, he shows that in a period of inflation, that when the money is newly introduced, the price level increases by a smaller proportion than the increase in the supply of money, but that when the money has been in circulation for a while, that the price level has increased by a greater proportion than the supply of money. He states that this is not due to a change in the velocity of money, but rather the discrepancy is due to &quot;fears . . . that the inflation will continue into the future, and that the value of the monetary unit will fall further.&quot; Hazlitt offers an alternative to the quantity theory of money and the velocity of money concept that is a necessary consequence. He explains that what changes the value of money is the value that people place on the currency, and that it is not the velocity of money that determines the value of a currency, but rather the sum of individuals' value of the currency that determines the velocity of money. &lt;ref&gt;http://mises.org/daily/2916&lt;/ref&gt;
+
+[[Ludwig von Mises]] offered a more philosophical criticism, &quot;The main deficiency of the velocity of circulation concept is that it does not start from the actions of individuals but looks at the problem from the angle of the whole economic system. This concept in itself is a vicious mode of approaching the problem of prices and purchasing power. It is assumed that, other things being equal, prices must change in proportion to the changes occurring in the total supply of money available. This is not true.&quot; &lt;ref&gt;Ludwig von Mises, Human Action (New Haven: Yale University Press, 1949), and The Theory of Money and Credit (London: Jonathan Cape, Limited, 1934, and New Haven: Yale University Press, 1953).&lt;/ref&gt;
+
+== References ==
+===Notes===
+{{reflist}}
+===Sources===
+* Cramer, J.S. “velocity of circulation”, ''[[The New Palgrave: A Dictionary of Economics]]''(1987), v. 4, pp.&amp;nbsp;601-02.
+* Friedman, Milton;  “quantity theory of money”, in ''[[The New Palgrave: A Dictionary of Economics]]'' (1987), v. 4, pp.&amp;nbsp;3-20.
+
+== External links ==
+* [http://research.stlouisfed.org/fred2/categories/32242 Velocity of money data] - from the St. Louis Fed's FRED database
+
+[[Category:Monetary economics]]
+[[Category:Free economy]]
+[[Category:Economics terminology]]
+
+[[de:Umlaufgeschwindigkeit (Geld)]]
+[[it:Velocità di circolazione della moneta]]
+[[nl:Omloopsnelheid (geld)]]
+[[pt:Velocidade da moeda]]
+[[ru:Скорость обращения денег]]</text>
+      <sha1>696yijq38d9e54pr47e667xxwx4rx61</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,156 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Intertemporal choice</title>
+    <ns>0</ns>
+    <id>221299</id>
+    <revision>
+      <id>522190304</id>
+      <parentid>521447719</parentid>
+      <timestamp>2012-11-09T15:45:49Z</timestamp>
+      <contributor>
+        <username>Magioladitis</username>
+        <id>1862829</id>
+      </contributor>
+      <minor/>
+      <comment>/* Fisher's Model of Intertemporal Consumption */Remove unicode control characters (CHECKWIKI error 16) using [[Project:AWB|AWB]] (8535)</comment>
+      <text xml:space="preserve" bytes="11004">'''Intertemporal choice''' is the study of the relative value people assign to two or more payoffs at different points in time. Most choices require decision-makers to trade-off costs and benefits at different points in time. These decisions may be about savings, work effort, education, nutrition, exercise, health care and so forth. For nearly 80 years, economists have analyzed intertemporal decisions using the discounted utility (DU) model, which assumes that people evaluate the pleasures and pains resulting from a decision in much the same way that financial markets evaluate losses and gains, exponentially ‘discounting’ the value of outcomes according to how delayed they are in time. DU has been used to describe how people actually make intertemporal choices and it has been used as a tool for public policy. Policy decisions about how much to spend on research and development, health and education all depend on the [[discount rate]] used to analyze the decision.&lt;ref&gt;{{cite article |last1=S. Berns | first1 = Gregory | last2=Laibson | first2 = David| last3= Loewenstein | first3 =George |title = Intertemporal choice – Toward an Integrative Framework }}&lt;/ref&gt;
+
+The Keynesian consumption function was based on two major hypothesis. Firstly, [[marginal propensity to consume]] lies between 0 and 1. Secondly, average propensity to consume falls as income rises. The early empirical studies were consistent with these hypothesis. However, after the World War II it was observed that savings did not rise as incomes rose. The Keynesian model therefore, failed to explain the consumption phenomenon and thus emerged the theory of Intertemporal Choice. Intertemporal choice was introduced by [[John Rae (economist)|John Rae]] in 1834 in the &quot;Sociological Theory of Capital&quot;.Later, [[Eugen von Böhm-Bawerk]] in 1889 and [[Irving Fisher]] in 1930 elaborated on the model. A few other models based on intertemporal choice include the Life Cycle Income Hypothesis proposed by Modigiliani and the Permanent Income Hypothesis proposed by Friedman. The concept of Walrasian Equilibrium maybe also be extended to incorporate intertemporal choice. The Walrasian analysis of such an equilibrium introduces two &quot;new&quot; concepts of prices: futures prices and spot prices.
+
+==Fisher's Model of Intertemporal Consumption==
+[[File:Budget constraint.jpg|thumb|left|Intertemporal budget constraint with consumption of period 1 and 2 on x-axis and y-axis respectively.]][[File:Intertemporal Choice.jpg|thumb|The figure depicts the intertemporal choice exercised by the consumer, given the utility preferences and the budget constraint.]]
+Irving Fisher developed the theory of Intertemporal Choice in his book ''Theory of interest'' (1930). Contrary to Keynes, who related consumption to current income, Fisher’s model showed how rational forward looking consumers chooses consumption for the present and future to maximize their lifetime satisfaction. 
+According to Fisher, an individual's impatience depends on four characteristics of his income stream: the size, the time shape, the composition and risk. Besides this foresight, self-control, habit, expectation of life, and bequest motive (or concern for lives of others) are the five personal factors that determine a person's impatience which in turn determines his time preference.&lt;ref&gt;{{cite journal|last=Thaler|first=Richard.H.|title=Irving Fisher: The Modern Behavioral Economist|journal=The American Economic Review|year=1997}}&lt;/ref&gt;  
+In order to understand the choice exercised by a consumer across different periods of time we take consumption in one period as a composite commodity. Suppose there is one consumer, &lt;math&gt;N&lt;/math&gt; commodities, and two periods. Preferences are given by &lt;math&gt;U(x_1, x_2)&lt;/math&gt; where &lt;math&gt;x_t = (x_{t1},\dots,x_{tN})&lt;/math&gt;. Income in period &lt;math&gt;t&lt;/math&gt; is &lt;math&gt;Y_t&lt;/math&gt;. Savings in period 1 is &lt;math&gt;S_1&lt;/math&gt;, spending in period &lt;math&gt;t&lt;/math&gt; is &lt;math&gt;C_t&lt;/math&gt;, and &lt;math&gt;r&lt;/math&gt; is the interest rate.
+ 
+&lt;math&gt;C_1 + S_1 \le Y_1&lt;/math&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(1)
+
+&lt;math&gt;C_2 \le Y_2 + S_1(1 + r)&lt;/math&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (2)
+
+We arrive at the following equation from equation 1 and 2
+
+&lt;math&gt;C_1 + \frac{C_2}{1+r} = Y_1 + \frac{Y_2}{1+r}&lt;/math&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (3)
+
+The left hand side shows the present value expenditure and right hand side depicts the present value income respectively. Multiplying the equation by &lt;math&gt;(1+r)&lt;/math&gt; gives us the future value. 
+
+Now the consumer has to choose a &lt;math&gt;C_1&lt;/math&gt; and &lt;math&gt;C_2&lt;/math&gt; such that
+:Maximize
+::&lt;math&gt;U(C_1,C_2)&lt;/math&gt;
+:subject to
+::&lt;math&gt;C_1+C_2/(1+r) = Y_1 + Y_2/(1+r)&lt;/math&gt;
+
+[[File:Saver.jpg|thumb|If the consumer is a net saver, an increase in interest rate will have an ambiguous effect on the current consumption.]][[File:Borrower.jpg|thumb|If the consumer is a net borrower, an increase in interest rate will reduce his current consumption.]]A consumer maybe a net saver or a net borrower. If he's initially at a level of consumption where he's neither of the above(i.e. a net borrower or net saver), an increase in income may make him a net saver or a net borrower depending on his preferences.  An increase in current income or future income will increase current and future consumption(consumption smoothing motives). 
+
+Now, let us consider a scenario where the interest rates are increased. If the consumer is a net saver, he will save more in the current period due to the substitution effect and consume more in the current period due to the income effect. The net effect thus, becomes ambiguous. If the consumer is a net borrower, however, he will tend to consume less in the current period due to the substitution effect and income effect thereby reducing his overall current consumption.&lt;ref&gt;{{cite book |last=Varian | first = Hal | title = Intermediate Micro Economics | year = 2006 }}&lt;/ref&gt;
+
+==Modigiliani's Life Cycle Income Hypothesis==
+
+The Life Cycle Hypothesis is based on the following model: 
+
+:&lt;math&gt;\max U_t = \sum L \left( U(C_t)(1+\delta)^{-t} \right) &lt;/math&gt;
+
+subject to 
+
+Σ&lt;sup&gt;L&lt;/sup&gt;C&lt;sub&gt;t&lt;/sub&gt;(1+r)&lt;sup&gt;-t&lt;/sup&gt; = Σ&lt;sup&gt;N&lt;/sup&gt;Y&lt;sub&gt;t&lt;/sub&gt;(1+r)&lt;sup&gt;-t&lt;/sup&gt; + Wo
+
+U(C&lt;sub&gt;t&lt;/sub&gt;): satisfaction received from consumption in time period 't' 
+
+C&lt;sub&gt;t&lt;/sub&gt;:level of consumption, 
+
+Y&lt;sub&gt;t&lt;/sub&gt;: income
+
+δ: rate of time preference ( a measure of individual preference between present and future activity) 
+
+Wo: initial level of income producing assets[[File:Life Cycle Hypothesis.jpg|thumb|left|Life Cycle Hypothesis]]
+
+Typically, a person’s MPC(marginal propensity to consume) is relatively high during young adulthood, decreases during the middle-age years, and increases when the person is near or in retirement.  The Life Cycle Hypothesis(LCH) model defines individual behavior as an attempt to smooth out consumption patterns over one's lifetime somewhat independent of current levels of income. This model states that early in one's life consumption expenditure may very well exceed income as the individual may be making major purchases related to buying a new home, starting a family, and beginning a career. At this stage in life the individual will borrow from the future to support these expenditure needs. In mid-life however, these expenditure patterns begin to level off and are supported or perhaps exceeded by increases in income. 
+At this stage the individual repays any past borrowings and begins to save for her or his retirement. 
+Upon retirement, consumption expenditure may begin to decline however income usually declines dramatically. In this stage of life, the individual dis-saves or lives off past savings until death.
+ &lt;ref&gt;{{cite book|last=Mankiw|first=Gregory|title=Macroeconomics|year=5th edition}}&lt;/ref&gt;
+&lt;ref&gt;{{cite book|last=Barro|first=Robert J|title=Macroeconomics|year=5th edition}}&lt;/ref&gt;
+
+==Friedman's Permanent Income Hypothesis==
+
+After the Second World War, it was noticed that a model in which current consumption was just a function of current income clearly too simplistic. It could not explain the fact that the long-run average propensity to consume seemed to be roughly constant despite the marginal propensity to consume being much lower. Friedman's Permanent Income Hypothesis are one of the models which seeks to explain this apparent contradiction.
+
+According to the Permanent Income Hypothesis, permanent consumption, C&lt;sub&gt;P&lt;/sub&gt;, is proportional to permanent income, Y&lt;sub&gt;P&lt;/sub&gt;.  Permanent income is a subjective notion of likely medium-run future income.  Permanent consumption is a similar notion of consumption.
+
+Actual consumption, C, and actual income, Y, consist of these permanent components plus unanticipated  transitory components, C&lt;sub&gt;T&lt;/sub&gt; and Y&lt;sub&gt;T&lt;/sub&gt;, respectively.
+
+C&lt;sup&gt;P&lt;/sup&gt;&lt;sub&gt;t&lt;/sub&gt; =β&lt;sub&gt;2&lt;/sub&gt;Y&lt;sup&gt;P&lt;/sup&gt;&lt;sub&gt;t&lt;/sub&gt;
+
+C&lt;sub&gt;t&lt;/sub&gt; = C&lt;sup&gt;P&lt;/sup&gt;&lt;sub&gt;t&lt;/sub&gt; + C&lt;sup&gt;T&lt;/sup&gt;&lt;sub&gt;t&lt;/sub&gt;
+
+Y&lt;sub&gt;t&lt;/sub&gt; = Y&lt;sup&gt;P&lt;/sup&gt;&lt;sub&gt;t&lt;/sub&gt; + Y&lt;sup&gt;T&lt;/sup&gt;&lt;sub&gt;t&lt;/sub&gt;
+&lt;ref&gt;{{cite web|title=Adaptive expectations: Friedman's permanent income hypothesis|url=econ.lse.ac.uk/ie/ieppt/series2/C11E07.pps}}&lt;/ref&gt;
+
+==Hyperbolic discounting==
+The article so far has considered cases where individuals make intertemporal choices by considering the present discounted value of their consumption and income. Every period in the future is exponentially discounted with the same interest rate. A different class of economists, however, argue that individuals are often affected by what is called the temporal myopia. The consumer's typical response to uncertainty in this case is to sharply reduce the importance of the future of their decision making.This effect is called [[hyperbolic discounting]]. In the common tongue it reflects the sentiment “Eat, drink and be merry, for tomorrow we may die.”&lt;ref&gt;{{cite web|last=Bellows|first=Alan|title=Hyperbolic Discounting|url=http://www.damninteresting.com/hyperbolic-discounting/}}&lt;/ref&gt; 
+
+Mathematically, it may be represented as follows:
+&lt;math&gt;f_H(D)=\frac{1}{1+kD}\,&lt;/math&gt;
+
+where,
+
+''f''(''D''):[[discount factor]], 
+''D'': delay in the reward, 
+''k'':parameter governing the degree of discounting&lt;ref&gt;{{cite web|title=Hyperbolic Discounting|url=http://en.wikipedia.org/wiki/Hyperbolic_discounting}}&lt;/ref&gt;  
+
+When choosing between $100 or $110 a day later,individuals may want to wait a day for an extra $10. Yet after a month passes, many of these people will reverse their preferences and now choose the immediate $100 rather than wait the month for an additional $10.&lt;ref&gt;{{cite journal|last=P. Redden|first=Joseph|title=Hyperbolic Discounting}}&lt;/ref&gt;
+
+==See also==
+*[[intertemporal consumption]]
+*[[Temporal discounting]]
+*[[Discounted utility]]
+*[[Decision theory]]
+
+==References==
+{{Reflist}}
+(1) http://nordhaus.econ.yale.edu/documents/Disounting_fredericketal_000.pdf
+
+[[Category:Decision theory]]
+[[Category:Consumer behaviour]]
+[[Category:Intertemporal economics]]
+
+[[de:Intertemporale Produktionsmöglichkeiten]]
+[[fr:Choix intertemporel]]</text>
+      <sha1>0uuot3ka0vqui7g7ymt9wv92xwf8xtf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

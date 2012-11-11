@@ -1,0 +1,75 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Holy Living and Holy Dying</title>
+    <ns>0</ns>
+    <id>174379</id>
+    <revision>
+      <id>493655790</id>
+      <parentid>487886501</parentid>
+      <timestamp>2012-05-21T13:14:54Z</timestamp>
+      <contributor>
+        <username>Timrollpickering</username>
+        <id>32005</id>
+      </contributor>
+      <minor/>
+      <comment>merge Category:Christian studies books to [[Category:Books about Christianity]] per [[Wikipedia:Categories for discussion/Log/2012 May 14]] using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="2882">'''''Holy Living and Holy Dying''''' is the collective title of two books of [[Christianity|Christian]] devotion by [[Jeremy Taylor]].  They were originally published as ''The Rules and Exercises of Holy Living'', 1650 and ''The Rules and Exercises of Holy Dying'', 1651.
+
+The two books represent one of the high points of [[English language|English]] prose during the period of the early Stuarts. According to historian [[Nancy Lee Beaty]] (1970, ''The Craft of Dying: A Study in the Literary Tradition of the Ars Moriendi in England''), ''Holy Dying'' was the &quot;artistic climax&quot; of a consolatory death literature tradition that had begun with ''[[Ars moriendi]]'' in the 15th century. Other works in this tradition include ''[[The Waye of Dying Well]]'' and ''[[The Sick Mannes Salve]]''.
+
+''Holy Living'' is designed to instruct the reader in living a virtuous life, increasing personal piety, and avoiding temptations.  ''Holy Dying'' is meant to instruct the reader in the &quot;means and instruments&quot; of preparing for a blessed death. Each book contains discussions of [[theology]], [[morality|moral]] instruction, often prefaced as &quot;The Consideration reduc'd to practise,&quot; and model [[prayer]]s requesting divine assistance in achieving them.
+
+''Holy Living'' is largely concerned with questions of practical morality, of a type that have hardly changed from the 17th century to today.  The companion volume, ''Holy Dying'' was occasioned by the death of the wife of Taylor's patron and employer, the Earl of Carbery.  That book is half Christian instruction and half memorial sermon, with Taylor displaying his gift for poetic prose.  Coupled with the 17th century cult of [[melancholia]], the result is prose that is simultaneously stately and rapturous, &quot;[[John Keats|half in love with easeful death]]&quot;, and reads like [[prose poetry]]:
+
+:But so have I seen a Rose newly springing from the clefts of its hood, and at first it was fair as the Morning, and full with the dew of [[Heaven]], as a Lambs fleece; but when a ruder breath had forced open its virgin modesty, and dismantled its too youthful and unripe retirements, it began to put on a darknesse, and to decline its softnesse, and the symptomes of a sickly age; it bowed the head, and broke its stalk, and at night having lost some of its leaves, and all of its beauty, it fell into the portion of weeds and outworn faces. (See also [[period (rhetoric)]]).
+
+Taylor's work was much admired by [[John Wesley]], the founder of [[Methodism]], for its devotional quality; and by [[Samuel Taylor Coleridge]], [[Thomas de Quincey]], and [[Edmund Gosse]] for its literary qualities.
+
+==External links==
+*[http://www.ccel.org/t/taylor/ ''Holy Living and Holy Dying'']
+
+{{DEFAULTSORT:Holy Living And Holy Dying}}
+[[Category:1650s books]]
+[[Category:Books about Christianity]]
+[[Category:Death]]
+[[Category:Christianity and death]]</text>
+      <sha1>3r381pjp8pvpxtwmrf5se1ucifvhd62</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

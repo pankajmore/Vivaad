@@ -1,0 +1,75 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Institute of the Brothers of the Christian Schools</title>
+    <ns>1</ns>
+    <id>9759525</id>
+    <revision>
+      <id>430147968</id>
+      <parentid>430147447</parentid>
+      <timestamp>2011-05-21T05:20:08Z</timestamp>
+      <contributor>
+        <username>Jondel</username>
+        <id>32267</id>
+      </contributor>
+      <comment>/* Ignorantines = Lasallians? */</comment>
+      <text xml:space="preserve" bytes="2543">{{WikiProject Catholicism|class=Start|importance=mid}}
+{{WikiProject France|class=start|importance=mid}}
+
+== Text removed from [[St. Joseph High School (Westchester, Illinois)]] ==
+Possibly of some use here (but note the image is fair use, unknown provenance):
+&lt;blockquote&gt;Christian Brothers and the Lasallian Tradition
+SJHS is a Lasallian school and a part of the [[Institute of the Brothers of the Christian Schools|Christian Brothers]] Midwest District.
+
+The Brothers of the Christian Schools, known as the De La Salle Christian Brothers, are members of one of the largest worldwide societies in the [[Roman Catholic Church]]. [[St. Jean Baptist de La Salle]] in France founded the order in 1680 for the purpose of providing a Christian education for youth. For more than three hundred years, in over eighty countries, the [[Institute of the Brothers of the Christian Schools|Christian Brothers]] have conducted elementary and secondary schools along with colleges and universities. 
+
+Currently, in the United States, nearly 2,000 Christian Brothers are involved in educational enterprises representing 75 high schools, several middle schools and seven colleges and universities. Alumni of Lasallian schools have traditionally shared a common bond of unity and pride through the years.&lt;/blockquote&gt;&lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Dhartung|Dhartung]] ([[User talk:Dhartung|talk]] • [[Special:Contributions/Dhartung|contribs]]) 18:22, 26 March 2007&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+
+:[[Image:John baptist de la salle 1.jpg|thumb|left|Saint [[Jean-Baptiste de la Salle]], founder]]
+
+:The first paragraph is specific to [[St. Joseph High School (Westchester, Illinois)|SJHS]]. The second is already more or less included in the article or in the related [[Lasallian educational institutions]]. The third may be added to the introduction of the latter article; however, I am reluctant to do so since it is not sourced. 
+
+:Following your suggestion, I introduced the image into the article; it is different to the one presently given in [[Jean-Baptiste de la Salle]], and fits the scope of the article well. However, I used a higher-resolution version that was available on the Commons (shown to the left). [[User:Ayla|Ayla]] 20:39, 27 March 2007 (UTC)
+
+==Ignorantines = Lasallians?==
+It appears that [[Ignorantines]] is an old alternative name for the Institute, so these articles should no doubt be merged.- [[User:choster|choster]] 16:31, 13 November 2009 (UTC)</text>
+      <sha1>ew2gb3wtlok49vaxlcxix6bqs2d24sy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

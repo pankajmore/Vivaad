@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Legal origins theory</title>
+    <ns>0</ns>
+    <id>1348555</id>
+    <revision>
+      <id>513753808</id>
+      <parentid>513753694</parentid>
+      <timestamp>2012-09-20T18:38:45Z</timestamp>
+      <contributor>
+        <username>Chris97531</username>
+        <id>17472743</id>
+      </contributor>
+      <comment>/* Theory */</comment>
+      <text xml:space="preserve" bytes="2752">{{Unreferenced|date=December 2009}}
+In [[economics]], the '''legal origins theory''' states that many aspects of a country's economic state of development are the result of their [[legal system]], most of all where a particular country received its law from. The first papers on the theory were published from 1997 onwards by a group of researchers around [[Andrei Shleifer]].
+
+==Theory==
+Since, historically, most countries received their law through [[colonialism|colonial]] [[legal transplant|transplantation]], law is considered to be exogenous to the analysis. Some economists have thus classified countries on whether they adhere to [[common law]] or whether their legal system is based on [[France|French]] [[civil law (legal system)|civil law]], [[Germany|German]] civil law or [[Scandinavia]]n civil law. These economists have done empirical research finding correlations between economic indicators and that classification.
+
+The basic thrust of the theory is that common law, as opposed to French civil law and (to a lesser extent) German and Scandinavian civil law, is associated with more orientation towards institutions of the market (instead of state intervention), which is why, according to proponents of the legal origins theory, common law countries tend to be economically more developed.
+
+While the theory originally started out in [[corporate law]], where common law was found to be correlated with better shareholder protection and more developed financial markets, the theory has in the meantime been extended to many other fields, such as whether or not a country is likely to have [[military service]] (common law countries are least likely to).
+
+==Criticism==
+Early papers developing the theory in particular faced a good deal of criticism. Most of all, the research underlying the indexes on specific legal rules used in the earlier papers on corporate law did not meet the basic minimum standards of [[comparative law]] and thus crudely mischaracterized continental [[Europe]]an [[corporate governance]] systems. Because of this, the papers' authors were met with hostility from European corporate law scholars. However, indexes made in later papers somewhat improved on this point.
+
+The question of whether the Legal Origins Theory adequately describes reality is still hotly debated, most of all among [[financial economics|financial economists]] and scholars of corporate law.
+
+==Proponents==
+* [[Simeon Djankov]]
+* [[Edward Glaeser]]
+* [[Andrei Shleifer]]
+* [[Robert W. Vishny]]
+
+==See also==
+*[[Law and development]]
+
+
+
+{{DEFAULTSORT:Legal Origins Theory}}
+[[Category:Economic theories]]
+[[Category:Theories of law]]
+[[Category:Comparative law]]
+[[Category:Law and economics]]
+[[Category:Comparative economic systems]]</text>
+      <sha1>5wefdv2qabx5mghcrneqjtlcvru5zaq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

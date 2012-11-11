@@ -1,0 +1,216 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Quantity theory of money</title>
+    <ns>0</ns>
+    <id>761731</id>
+    <revision>
+      <id>519654707</id>
+      <parentid>518249865</parentid>
+      <timestamp>2012-10-24T22:42:13Z</timestamp>
+      <contributor>
+        <ip>168.179.217.148</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="18487">In [[monetary economics]], the '''quantity theory of money''' is the theory that [[money supply]] has a direct, proportional relationship with the price level. For example, if the currency in circulation increased, there would be a proportional increase in the price of goods.
+
+The theory was challenged by [[Keynesian economics]],&lt;ref name=&quot;minksy_keynes&quot;&gt;Minsky, Hyman P. ''John Maynard Keynes'', McGraw-Hill. 2008. p.2.&lt;/ref&gt; but updated and reinvigorated by [[Monetarism|the monetarist school of economics]]. While mainstream economists agree that the quantity theory holds true in the [[long run]], there is still disagreement about its applicability in the [[short run]].  Critics of the theory argue that [[money velocity]] is not stable and, in the short-run, prices are [[stick prices|sticky]], so the direct relationship between money supply and price level does not hold.
+
+Alternative theories include the [[real bills doctrine]] and the more recent [[fiscal theory of the price level]].
+
+== Origins and development of the quantity theory ==
+
+The quantity theory descends from [[Copernicus]],&lt;ref&gt;Nicolaus Copernicus (1517), memorandum on monetary policy.&lt;/ref&gt; followers of the [[School of Salamanca]], [[Jean Bodin]],&lt;ref&gt;Jean Bodin,  ''Responses aux paradoxes du sieur de Malestroict'' (1568).&lt;/ref&gt; and various others who noted the increase in prices following the import of gold and silver, used in the coinage of money, from the [[New World]]. The “equation of exchange” relating the supply of money to the value of money transactions was stated by [[John Stuart Mill]]&lt;ref&gt;John Stuart Mill  (1848), ''Principles of Political Economy''.&lt;/ref&gt; who expanded on the ideas of [[David Hume]].&lt;ref&gt;David Hume (1748), “Of Interest,” &quot;Of Interest&quot; in ''Essays Moral and Political''.&lt;/ref&gt;  The quantity theory was developed by [[Simon Newcomb]],&lt;ref&gt;Simon Newcomb  (1885), ''Principles of Political Economy''.&lt;/ref&gt; Alfred de Foville,&lt;ref&gt;Alfred de Foville (1907),  ''La Monnaie''.&lt;/ref&gt; [[Irving Fisher]],&lt;ref&gt;Irving Fisher  (1911), ''The Purchasing Power of Money'',&lt;/ref&gt; and [[Ludwig von Mises]]&lt;ref&gt;von Mises, Ludwig Heinrich; ''[[Theorie des Geldes und der Umlaufsmittel]]'' &lt;nowiki&gt;[&lt;/nowiki&gt;''The Theory of Money and Credit''&lt;nowiki&gt;]&lt;/nowiki&gt;&lt;/ref&gt; in the latter 19th and early 20th century, while it had been argued against by [[Karl Marx]].&lt;ref&gt;Capital Vol III, Chapter 34&lt;/ref&gt; The theory was influentially restated by [[Milton Friedman]] in response to [[Keynesianism]].&lt;ref&gt;Milton Friedman (1956),  “The Quantity Theory of Money: A Restatement” in ''Studies in the Quantity Theory of Money'', edited by M. Friedman. Reprinted in M. Friedman ''The Optimum Quantity of Money'' (2005), pp. [http://books.google.com/books?id=XVCgcHQS_nQC&amp;pg=PA51&amp;dq=%22Studies+in+the+Quantity+Theory+of+Money%22+restatement&amp;source=gbs_toc_r&amp;cad=0_0 51]-[http://books.google.com/books?id=XVCgcHQS_nQC&amp;pg=PA67&amp;lpg=PR5&amp;dq=%22Studies+in+the+Quantity+Theory+of+Money%22+restatement 67.]
+&lt;/ref&gt;
+
+Academic discussion remains over the degree to which different figures developed the theory.&lt;ref name=&quot;vol&quot;/&gt;  For instance, Bieda argues that Copernicus's observation
+
+{{Quotation|Money can lose its value through excessive abundance, if so much silver is coined as to heighten people's demand for silver bullion.  For in this way, the coinage's estimation vanishes when it cannot buy as much silver as the money itself contains […].  The solution is to mint no more coinage until it recovers its par value.&lt;ref name=&quot;vol&quot;&gt;{{Citation| last = Volckart| first = Oliver | title = Early beginnings of the quantity theory of money and their context in Polish and Prussian monetary policies, c. 1520-1550 | journal = The Economic History Review| volume = 50| issue = 3| pages = 430–449| year = 1997| doi = 10.1111/1468-0289.00063 }}&lt;/ref&gt;}}
+
+amounts to a statement of the theory,&lt;ref&gt;{{Citation| last = Bieda| first = K.| title = Copernicus as an economist| journal = Economic Record| volume = 49| pages = 89–103| year = 1973| doi = 10.1111/j.1475-4932.1973.tb02270.x}}&lt;/ref&gt; while other economic historians date the discovery later, to figures such as [[Jean Bodin]], [[David Hume]], and [[John Stuart Mill]].&lt;ref name=&quot;vol&quot;/&gt;&lt;ref&gt;{{Citation| last = Wennerlind| first = Carl| title = David Hume's monetary theory revisited| journal = Journal of Political Economy| volume = 113| issue = 1| pages = 233–237| year = 2005}}&lt;/ref&gt;
+
+Historically, the main rival of the quantity theory was the [[real bills doctrine]], which says that the issue of money does not raise prices, as long as the new money is issued in exchange for assets of sufficient value.&lt;ref&gt;Roy Green (1987),  “real bills dcctrine”, in ''The New Palgrave: A Dictionary of Economics'', v. 4, pp. 101-02.&lt;/ref&gt;
+
+== Equation of exchange ==
+In its modern form, the quantity theory builds upon the following definitional relationship.
+:&lt;math&gt;M\cdot V_T =\sum_{i} (p_i\cdot q_i)=\mathbf{p}^\mathrm{T}\mathbf{q}&lt;/math&gt;
+where
+:&lt;math&gt;M\,&lt;/math&gt; is the total amount of [[money supply|money]] in circulation on average in an economy during the period, say a year.
+:&lt;math&gt;V_T\,&lt;/math&gt; is the transactions [[velocity of money]], that is the average frequency across all transactions with which a unit of money is spent. This reflects availability of financial institutions, economic variables, and choices made as to how fast people turn over their money.
+:&lt;math&gt;p_i\,&lt;/math&gt; and &lt;math&gt;q_i\,&lt;/math&gt; are the price and quantity of the i-th transaction.
+:&lt;math&gt;\mathbf{p}&lt;/math&gt; is a column vector of the &lt;math&gt;p_i\,&lt;/math&gt;, and the superscript &lt;sup&gt;'''T'''&lt;/sup&gt; is the [[transpose]] operator.
+:&lt;math&gt;\mathbf{q}&lt;/math&gt; is a column vector of the &lt;math&gt;q_i\,&lt;/math&gt;.
+
+Mainstream economics accepts a simplification, the [[equation of exchange]]:
+:&lt;math&gt;M\cdot V_T = P_T\cdot T&lt;/math&gt;
+where
+:&lt;math&gt;P_T&lt;/math&gt; is the [[price level]] associated with transactions for the economy during the period
+:&lt;math&gt;T&lt;/math&gt; is an index of the [[Real versus nominal value (economics)|real value]] of aggregate transactions.
+
+The previous equation presents the difficulty that the associated data are not available for all transactions. With the development of [[national income and product accounts]], emphasis shifted to national-income or final-product transactions, rather than gross transactions.   Economists may therefore work with the form
+:&lt;math&gt;M \cdot V = P \cdot Q&lt;/math&gt;
+where
+:&lt;math&gt;V&lt;/math&gt; is the [[velocity of money]] in final expenditures.
+:&lt;math&gt;Q&lt;/math&gt; is an index of the real value of final expenditures.
+
+As an example, &lt;math&gt;M&lt;/math&gt; might represent currency plus deposits in checking and savings accounts held by the public, &lt;math&gt;Q&lt;/math&gt; real output (which equals real expenditure in macroeconomic equilibrium) with &lt;math&gt;P&lt;/math&gt; the corresponding price level, and &lt;math&gt;P\cdot Q&lt;/math&gt; the [[Real versus nominal value (economics)|nominal]] (money) value of output. In one empirical formulation, velocity was taken to be “the ratio of net national product in current prices to the money stock”.&lt;ref&gt;{{Citation | author=Milton Friedman, and Anna J. Schwartz,  | title=The Great Contraction 1929&amp;ndash;1933 | location=Princeton | publisher=Princeton University Press | year=1965 | isbn=0-691-00350-5}}&lt;/ref&gt;
+
+Thus far, the theory is not particularly controversial, as the equation of exchange is an identity. A theory requires that assumptions be made about the causal relationships among the four variables in this one equation.  There are debates about the extent to which each of these variables is dependent upon the others. Without further restrictions, the equation does not require that a change in the money supply would change the value of any or all of &lt;math&gt;P&lt;/math&gt;, &lt;math&gt;Q&lt;/math&gt;, or &lt;math&gt;P\cdot Q&lt;/math&gt;. For example, a 10% increase in &lt;math&gt;M&lt;/math&gt; could be accompanied by a 10% decrease in &lt;math&gt;V&lt;/math&gt;, leaving &lt;math&gt;P\cdot Q&lt;/math&gt; unchanged.  The quantity theory postulates that the primary causal effect is an effect of ''M'' on ''P''.
+
+=== A rudimentary version of the quantity theory ===
+{{Disputed-section|date=September 2011}}
+
+The equation of exchange can be used to form a rudimentary version of the quantity theory of the effect of monetary growth on [[inflation]].
+:&lt;math&gt;P=\frac{M\cdot V}{Q}.&lt;/math&gt;
+If &lt;math&gt;V&lt;/math&gt; and &lt;math&gt;Q&lt;/math&gt; were constant, then:
+:&lt;math&gt;\frac{d P}{P}= \frac{d M}{M}&lt;/math&gt;
+and thus
+:&lt;math&gt;\frac{d P/P}{d t}=\frac{d M/M}{d t}&lt;/math&gt;
+where
+:&lt;math&gt;t&lt;/math&gt; is time.
+That is to say that, if &lt;math&gt;V&lt;/math&gt; and &lt;math&gt;Q&lt;/math&gt; were constant, then the inflation rate (the rate of growth &lt;math&gt;\tfrac{dP/P}{dt}&lt;/math&gt; of the price level) would exactly equal the growth rate &lt;math&gt;\tfrac{dM/M}{dt}&lt;/math&gt; of the money supply. In short, the inflation rate is a function of the monetary growth rate.
+
+Less restrictively, with time-varying ''V'' and ''Q'', we have the identity
+
+:&lt;math&gt;\frac{d P/P}{d t} =\frac{d M/M}{d t} + \frac{dV/V}{dt} - \frac{dQ/Q}{dt},&lt;/math&gt;
+
+which says that the inflation rate equals the monetary growth rate plus the growth rate of the velocity of money minus the growth rate of real expenditure.  If one makes the quantity theory assumptions that, at least in the long run, (i) the monetary growth rate is controlled by the central bank, (ii) the growth rate of velocity is purely determined by the evolution of payments mechanisms, and (iii) the growth rate of real expenditure is determined by the rate of technological progress plus the rate of labor force growth, then while the inflation rate need not ''equal'' the monetary growth rate, an ''x'' percentage point rise in the monetary growth rate will result in an ''x'' percentage point rise in the inflation rate.
+
+== Cambridge approach ==
+{{see|Cambridge equation}}
+Economists  [[Alfred Marshall]], [[A.C. Pigou]], and [[John Maynard Keynes]] (before he developed his own, eponymous school of thought) associated with [[Cambridge University]], took a slightly different approach to the quantity theory, focusing on money demand instead of money supply.  They argued that a certain portion of the money supply will not be used for transactions; instead, it will be held for the convenience and security of having cash on hand.  This portion of cash is commonly represented as ''k'', a portion of nominal income (&lt;math&gt;P \cdot Y&lt;/math&gt;). The Cambridge economists also thought wealth would play a role, but wealth is often omitted for simplicity.  The Cambridge equation is thus:
+
+:&lt;math&gt;M^{\textit{d}}=\textit{k} \cdot P\cdot Y&lt;/math&gt;
+
+Assuming that the economy is at equilibrium (&lt;math&gt;M^{\textit{d}} = M&lt;/math&gt;), &lt;math&gt;Y&lt;/math&gt; is exogenous, and ''k'' is fixed in the short run, the Cambridge equation is equivalent to the equation of exchange with velocity equal to the inverse of ''k'':
+
+:&lt;math&gt;M\cdot\frac{1}{k} = P\cdot Y&lt;/math&gt;
+
+The Cambridge version of the quantity theory led to both Keynes's attack on the quantity theory and the Monetarist revival of the theory.&lt;ref&gt;Froyen, Richard T. ''Macroeconomics: Theories and Policies''. 3rd Edition. Macmillan Publishing Company: New York, 1990. p. 70-71.&lt;/ref&gt;
+
+== Quantity theory and evidence==
+
+As restated by Milton Friedman, the quantity theory emphasizes the following relationship of the nominal value of expenditures &lt;math&gt;PQ &lt;/math&gt; and the price level &lt;math&gt;P&lt;/math&gt; to the quantity of money &lt;math&gt;M &lt;/math&gt;:
+&lt;!-- What is the '+' (plus sign) supposed to be over? The f &amp; g or the M or what? Spacing was wrong for me - either use a ^ for a superscript or \overset if it's supposed to be stacked above --&gt;
+:&lt;math&gt;(1) PQ={f}(\overset{+}M)&lt;/math&gt;
+:&lt;math&gt;(2) P={g}(\overset{+}M)&lt;/math&gt;
+
+The plus signs indicate that a change in the money supply is hypothesized to change nominal expenditures and the price level in the same direction (for other variables [[ceteris paribus|held constant]]).
+
+Friedman described the [[empirical]] regularity of substantial changes in the quantity of money and in the level of prices as perhaps the most-evidenced economic phenomenon on record.&lt;ref&gt;Milton Friedman  (1987), “quantity theory of money”, ''[[The New Palgrave: A Dictionary of Economics]]'', v. 4, p. 15.&lt;/ref&gt;
+[[Empirical]] studies have found relations consistent with the [[model (economics)|models]] above and with causation running from money to prices. The short-run relation of a change in the money supply in the past has been relatively more associated with a change in real output &lt;math&gt;Q&lt;/math&gt; than the price level &lt;math&gt;P&lt;/math&gt; in (1) but with much variation in the precision, timing, and size of the relation. For the ''long''-run, there has been stronger support for (1) and (2) and no systematic association of &lt;math&gt;Q&lt;/math&gt; and &lt;math&gt;M&lt;/math&gt;.&lt;ref&gt;Summarized in Friedman  (1987), “quantity theory of money”, pp. 15-17.&lt;/ref&gt;
+
+=== Principles ===
+
+The theory above is based on the following hypotheses:
+# The source of [[inflation]] is fundamentally derived from the growth rate of the money supply.
+# The supply of money is [[exogenous]].
+# The demand for money, as reflected in its velocity, is a stable function of nominal [[income]], [[interest rate]]s, and so forth.
+# The mechanism for injecting money into the economy is not that important in the long run.
+# The [[real interest rate]] is determined by non-monetary factors: ([[productivity]] of [[Capital (economics)|capital]], [[time preference]]).
+
+=== Decline of money-supply targeting ===
+An application of the quantity-theory approach aimed at removing [[monetary policy]] as a source of macroeconomic instability was to target a constant, low growth rate of the money supply.&lt;ref&gt;Friedman (1987), “quantity theory of money”, p. 19.&lt;/ref&gt;   Still, practical identification of the relevant [[money supply]], including measurement, was always somewhat controversial and difficult. As [[Financial intermediary|financial intermediation]] grew in complexity and sophistication in the 1980s and 1990s, it became more so.  As a result, some [[central banks]], including the U.S. [[Federal Reserve]], which had targeted the money supply, reverted to targeting interest rates.  But monetary aggregates remain a [[leading economic indicator]].&lt;ref&gt;NA (2005), How Does the Fed Determine Interest Rates to Control the Money Supply?”, Federal Reserve Bank of San Francisco. February,[http://www.frbsf.org/education/activities/drecon/answerxml.cfm?selectedurl=/2005/0502.html]&lt;/ref&gt; with &quot;some evidence that the linkages between money and economic activity are robust even at relatively short-run frequencies.&quot;&lt;ref&gt;R.W. Hafer and David C. Wheelock (2001), [http://research.stlouisfed.org/publications/review/01/0101rh.pdf “The Rise and Fall of a Policy Rule: Monetarism at the St. Louis Fed, 1968-1986”], Federal Reserve Bank of St. Louis, ''Review'', January/February, p. 19.&lt;/ref&gt;
+
+==Criticisms==
+[[John Maynard Keynes]] criticized the quantity theory of money in ''[[The General Theory of Employment, Interest and Money]]''. Keynes had originally been a proponent of the theory, but he presented an alternative in the ''General Theory''. Keynes argued that price level was not strictly determined by money supply. Changes in the money supply could have effects on real variables like output.&lt;ref name=&quot;minksy_keynes&quot; /&gt;
+
+[[Ludwig von Mises]] agreed that there was a core of truth in the Quantity Theory, but criticized its focus on the supply of money without adequately explaining the demand for money. He said the theory &quot;fails to explain the mechanism of variations in the value of money&quot;.&lt;ref&gt;Ludwig von Mises (1912), [http://mises.org/books/Theory_Money_Credit/Contents.aspx “The Theory of Money and Credit (Chapter 8, Sec 6)”].&lt;/ref&gt;
+
+== See also ==
+{{colbegin|3}}
+*[[Classical dichotomy]]
+*[[Demand for money]]
+*[[Equation of exchange]]
+*[[Income velocity of money]]
+*[[Liquidity preference]]
+*[[Monetae cudendae ratio]]
+*[[Monetarism]]
+*[[Monetary inflation]]
+*[[Monetary policy]]
+*[[Neutrality of money]]
+{{colend}}
+
+===Alternative theories===
+* [[Benjamin Anderson]] (critic of mainstream variant)
+* [[Fiscal theory of the price level]]
+* [[Real bills doctrine]]
+
+== References ==
+{{Reflist}}
+
+==Further reading==
+* Friedman, Milton  (1987 [[The New Palgrave Dictionary of Economics|[2008]]]). “quantity theory of money”, ''[[The New Palgrave: A Dictionary of Economics]]'', v. 4, pp.&amp;nbsp;3–20. [http://www.dictionaryofeconomics.com/article?id=pde2008_Q000006&amp;q=&amp;result_number=1 Abstract.] Arrow-page searchable [http://books.google.com/books?id=jTx3VZd0T8oC&amp;pg=PA1&amp;lpg=PR5&amp;dq=+norton preview] at John Eatwell et al.(1989), ''Money: The New Palgrave'', pp.&amp;nbsp;1–40.
+* [[David Laidler|Laidler, David E.W.]] (1991). ''The Golden Age of the Quantity Theory: The Development of Neoclassical Monetary Economics, 1870-1914''. Princeton UP. [http://books.google.com/books?id=leueAAAAIAAJ&amp;source=gbs_ViewAPI&amp;pgis=1 Description] and [http://findarticles.com/p/articles/mi_qa5421/is_n4_v60/ai_n28638753/ review.]
+* Mises, Ludwig Heinrich Edler von; ''Human Action: A Treatise on Economics'' (1949), Ch. XVII “Indirect Exchange”, §4. “The Determination of the Purchasing Power of Money”.
+
+== External links ==
+*[http://cepa.newschool.edu/het/essays/money/quantity.htm The Quantity Theory of Money] from [[John Stuart Mill]] through [[Irving Fisher]] from the New School
+*[http://formularium.org/?go=53 “Quantity theory of money” at Formularium.org] — calculate M, V, P and Q with your own values to understand the equation
+*[http://econblog.aplia.com/2006/08/how-to-cure-inflation.html How to Cure Inflation (from a Quantity Theory of Money perspective)] from Aplia Econ Blog
+
+{{Spoken Wikipedia|Velocity_of_money.ogg|2006-01-02}}
+
+{{DEFAULTSORT:Quantity Theory Of Money}}
+[[Category:Macroeconomics]]
+[[Category:Monetary economics]]
+[[Category:Business cycle]]
+[[Category:Economics terminology]]
+
+[[ca:Teoria quantitativa dels diners]]
+[[cs:Kvantitativní teorie peněz]]
+[[da:Kvantitetsteorien]]
+[[de:Quantitätstheorie]]
+[[es:Teoría cuantitativa del dinero]]
+[[fa:نظریه مقداری پول]]
+[[fr:Théorie quantitative de la monnaie]]
+[[ko:화폐수량설]]
+[[it:Teoria quantitativa della moneta]]
+[[nl:Kwantiteitstheorie]]
+[[ja:貨幣数量説]]
+[[no:Kvantitetsteorien]]
+[[pl:Ilościowa teoria pieniądza]]
+[[pt:Teoria quantitativa da moeda]]
+[[sk:Kvantitatívna teória peňazí a cien]]
+[[fi:Rahan kvantiteettiteoria]]
+[[sv:Kvantitetsteorin]]
+[[tr:Miktar teorisi]]
+[[vi:Thuyết số lượng tiền tệ]]</text>
+      <sha1>b4guixok81c6yr1buu8qc14996ezcbg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

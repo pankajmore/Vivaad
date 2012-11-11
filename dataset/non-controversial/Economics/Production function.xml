@@ -1,0 +1,190 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Production function</title>
+    <ns>0</ns>
+    <id>424218</id>
+    <revision>
+      <id>519738692</id>
+      <parentid>519738076</parentid>
+      <timestamp>2012-10-25T11:01:01Z</timestamp>
+      <contributor>
+        <username>28bot</username>
+        <id>13146235</id>
+      </contributor>
+      <minor/>
+      <comment>[[Help:Reverting|Reverting]] possible edit test by [[Special:Contributions/41.176.148.214|41.176.148.214]]. False positive? [[User talk:28bot|Please report it.]]</comment>
+      <text xml:space="preserve" bytes="20397">[[Image:A T M Product.gif|thumb|Total, Average, and Marginal Product|300px|right|Graph of Total, Average, and Marginal Product]]
+In [[microeconomics]] and [[macroeconomics]], a '''production function''' is a [[Function (mathematics)|function]] that specifies the output of a firm, an industry, or an entire economy for all combinations of [[factors of production|inputs]]. This function is an assumed technological relationship, based on the current state of [[engineering]] knowledge; it does not represent the result of economic choices, but rather is an externally given entity that influences economic decision-making. Almost all economic theories presuppose a production function, either on the firm level or the aggregate level. In this sense, the production function is one of the key concepts of [[mainstream economics|mainstream]] [[neoclassical economics|neoclassical]] theories. Some non-mainstream economists, however, reject the very concept of an aggregate production function.&lt;ref name=&quot;Daly&quot;/&gt;&lt;ref name=&quot;Cohen&quot;/&gt;
+Q=A.L^a.K^b.Kf^1-a-b
+where  Kf  is foreign investment.
+
+==Concept of production functions==
+In [[micro-economics]], a '''production function''' is a [[Function (mathematics)|function]] that specifies the output of a firm for all combinations of inputs. A '''meta-production function''' (sometimes metaproduction function) compares the practice of the existing entities converting inputs into output to determine the most efficient practice production function of the existing entities, whether the most efficient feasible practice production or the most efficient actual practice production.&lt;ref&gt;Monomics.about.com/library/glossary/bldef-metaproduction-function.htm Meta-production function'' Economics Glossary - Terms Beginning with M. Accessed June 19, 2008.&lt;/ref&gt;&lt;sup&gt;''clarification needed''&lt;/sup&gt; In either case, the maximum output of a technologically-determined production process is a [[mathematical function]] of one or more inputs. Put another way, given the set of all technically feasible combinations of output and inputs, only the combinations encompassing a maximum output for a specified set of inputs would constitute the production function. Alternatively, a production function can be defined as the specification of the minimum input requirements needed to produce designated quantities of output, given available technology. It is usually presumed that unique production functions can be constructed for every production technology.
+
+By assuming that the maximum output technologically possible from a given set of inputs is achieved, economists using a production function in analysis are abstracting from the engineering and managerial problems inherently associated with a particular production process. The engineering and managerial problems of [[technical efficiency]] are assumed to be solved, so that analysis can focus on the problems of [[allocative efficiency]]. The firm is assumed to be making allocative choices concerning how much of each input factor to use and how much output to produce, given the cost (purchase price) of each factor, the selling price of the output, and the technological determinants represented by the production function. A decision frame in which one or more inputs are held constant may be used; for example, (physical) [[Physical capital|capital]] may be assumed to be fixed (constant) in the [[short run]], and labour and possibly other inputs such as raw materials variable, while in the [[long run]], the quantities of both capital and the other factors that may be chosen by the firm are variable. In the long run, the firm may even have a choice of technologies, represented by various possible production functions. 
+
+The relationship of output to inputs is non-monetary; that is, a production function relates physical inputs to physical outputs, and prices and costs are not reflected in the function. But the production function is not a full model of the production process: it deliberately abstracts from inherent aspects of physical production processes that some would argue are essential, including error, entropy or waste. Moreover, production functions do not ordinarily model the [[Business model|business processes]], either, ignoring the role of management. (For a primer on the fundamental elements of microeconomic production theory, see [[production theory basics]]).  
+
+The primary purpose of the production function is to address allocative efficiency in the use of factor inputs in production and the resulting distribution of income to those factors. Under certain assumptions, the production function can be used to derive a [[marginal product]] for each factor, which implies an ideal division of the income generated from output into an income due to each input factor of production.
+
+==Specifying the production function==
+
+A production function can be expressed in  a functional form as the right side of
+:&lt;math&gt;Q = f(X_1,X_2,X_3,...,X_n)&lt;/math&gt;
+::where:
+:::&lt;math&gt;Q =&lt;/math&gt; quantity of output
+:::&lt;math&gt;X_1,X_2,X_3,...,X_n =&lt;/math&gt; quantities of factor inputs (such as capital, labour, land or raw materials).
+
+If ''Q'' is not a [[matrix (mathematics)|matrix]] (i.e. a scalar, a [[vector (mathematics)|vector]], or even a diagonal matrix), then this form does not encompass joint production, which is a production process that has multiple co-products. On the other hand, if ''f'' maps from R&lt;sup&gt;n&lt;/sup&gt; to R&lt;sup&gt;k&lt;/sup&gt; then it is a joint production function expressing the determination of ''k'' different types of output based on the joint usage of the specified quantities of the ''n'' inputs.
+
+One formulation, unlikely to be relevant in practice, is as a linear function:
+:&lt;math&gt;Q=a+b X_1+c X_2+d X_3+ ...&lt;/math&gt;
+::where &lt;math&gt;a, b, c,&lt;/math&gt; and &lt;math&gt;d&lt;/math&gt; are parameters that are determined empirically.
+Another is as a [[Cobb-Douglas]] production function:
+:&lt;math&gt;Q = aX_1^b X_2^c \cdot \cdot \cdot .&lt;/math&gt;
+The [[Leontief production function]] applies to situations in which inputs must be used in fixed proportions; starting from those proportions, if usage of one input is increased without another being increased, output will not change. This production function is given by
+
+:&lt;math&gt;Q = \min (aX_1, \ \ bX_2, \ \ ...).&lt;/math&gt;
+
+Other forms include the [[Constant Elasticity of Substitution|constant elasticity of substitution]] production function (CES), which is a generalized form of the Cobb-Douglas function, and the quadratic production function. The best form of the equation to use and the values of the parameters (&lt;math&gt;a, b, c, ...&lt;/math&gt;) vary from company to company and industry to industry. In a short run production function at least one of the &lt;math&gt;X&lt;/math&gt;'s (inputs) is fixed. In the long run all factor inputs are variable at the discretion of management.
+
+==Production function as a graph==
+[[image:stages of production small.png|frame|Quadratic Production Function]]
+
+Any of these equations can be plotted on a graph. A typical (quadratic) production function is shown in the following diagram under the assumption of a single variable input (or fixed ratios of inputs so the can be treated as a single variable). All points above the production function are unobtainable with current technology, all points below are technically feasible, and all points on the function show the maximum quantity of output obtainable at the specified level of usage of the input. From the origin, through points A, B, and C, the production function is rising,ve beyond point X. From point A to point C, the firm is experiencing positive but decreasing marginal returns to the variable input. As additional units of the input are employed, output increases but at a decreasing rate. Point B is the point beyond which there are diminishing average returns, as shown by the declining slope of the average physical product curve (APP) beyond point Y. Point B is just tangent to the steepest ray from the origin hence the average physical product is at a maximum. Beyond point B, mathematical necessity requires that the marginal curve must be below the average curve (See [[production theory basics]] for further explanation.).
+
+==Stages of production==
+
+To simplify the interpretation of a production function, it is common to divide its range into 3 stages. In Stage 1 (from the origin to point B) the variable input is being used with increasing output per unit, the latter reaching a maximum at point B (since the average physical product is at its maximum at that point). Because the output per unit of the variable input is improving throughout stage 1, a price-taking firm will always operate beyond this stage. 
+
+In Stage 2, output increases at a decreasing rate, and the average and [[marginal physical product]] are declining. However, the average product of fixed inputs (not shown) is still rising, because output is rising while fixed input usage is constant. In this stage, the employment of additional variable inputs increases the output per unit of fixed input but decreases the output per unit of the variable input. The optimum input/output combination for the price-taking firm will be in stage 2, although a firm facing a downward-sloped demand curve might find it most profitable to operate in Stage 1.
+In Stage 3, too much variable input is being used relative to the available fixed inputs: variable inputs are over-utilized in the sense that their presence on the margin obstructs the production process rather than enhancing it. The output per unit of both the fixed and the variable input declines throughout this stage. At the boundary between stage 2 and stage 3, the highest possible output is being obtained from the fixed input.
+
+==Shifting a production function==
+By definition, in the long run the firm can change its scale of operations by adjusting the level of inputs that are fixed in the short run, thereby shifting the production function upward as plotted against the variable input. If fixed inputs are lumpy, adjustments to the scale of operations may be more significant than what is required to merely balance production capacity with demand. For example, you may only need to increase production by a million units per year to keep up with demand, but the production equipment upgrades that are available may involve increasing productive capacity by 2 million units per year.
+
+[[image:shifting production function small.png|frame|Shifting a Production Function]]
+
+If a firm is operating at a profit-maximizing level in stage one, it might, in the long run, choose to reduce its scale of operations (by selling capital equipment). By reducing the amount of fixed capital inputs, the production function will shift down. The beginning of stage 2 shifts from B1 to B2. The (unchanged) profit-maximizing output level will now be in stage 2.
+
+==Homogeneous and homothetic production functions==
+There are two special classes of production functions that are often analyzed. The production function &lt;math&gt;Q=f(X_1,X_2)&lt;/math&gt; is said to be [[Homogeneous function|homogeneous]] of degree n, if given any positive constant &lt;math&gt;k&lt;/math&gt;, &lt;math&gt;f(kX_1,kX_2)=k^n f(X_1, X_2)&lt;/math&gt;. If &lt;math&gt;n&gt;1&lt;/math&gt;, the function exhibits [[Economy of scale|increasing]] [[returns to scale]], and it exhibits [[Diseconomy of scale|decreasing]] returns to scale if &lt;math&gt;n&lt;1&lt;/math&gt;. If it is homogeneous of degree 1, it exhibits '''constant''' returns to scale. The presence of [[Returns_to_scale#Economies_of_scale|increasing returns]] means that a one percent increase in the usage levels of all inputs would result in a greater than one percent increase in output; the presence of decreasing returns means that it would result in a less than one percent increase in output. Constant returns to scale is the in-between case. In the Cobb-Douglas production function referred to above, returns to scale are increasing if &lt;math&gt;b+c+...&gt;1&lt;/math&gt;, decreasing if &lt;math&gt;b+c+...&lt;1&lt;/math&gt;, and constant if &lt;math&gt;b+c+...=1&lt;/math&gt;.
+
+If a production function is homogeneous of degree one, it is sometimes called &quot;linearly homogeneous&quot;. A linearly homogeneous production function with inputs capital and labour has the properties that the marginal and average physical products of both capital and labour can be expressed as functions of the capital-labour ratio alone. Moreover, in this case if each input is paid at a rate equal to its marginal product, the firm's revenues will be exactly exhausted and there will be no excess economic profit.&lt;ref&gt;Chiang, Alpha C. (1984) ''Fundamental Methods of Mathematical Economics'', third edition, McGraw-Hill.&lt;/ref&gt;{{rp|pp.412-414}}
+
+Homothetic functions are functions whose marginal technical rate of substitution (the slope of the [[isoquant]], a curve drawn through the set of points in say labour-capital space at which the same quantity of output is produced for varying combinations of the inputs) is homogeneous of degree zero. Due to this, along rays coming from the origin, the slopes of the isoquants will be the same. Homothetic functions are of the form &lt;math&gt;F(h(X_1,X_2))&lt;/math&gt; where &lt;math&gt;F(y)&lt;/math&gt; is a monotonically increasing function (the derivative of &lt;math&gt;F(y)&lt;/math&gt; is positive (&lt;math&gt; dF/dy &gt;0 &lt;/math&gt;)), and the function &lt;math&gt; h(X_1, X_2) &lt;/math&gt; is a homogeneous function of any degree.
+
+==Aggregate production functions==
+In [[macroeconomics]], aggregate production functions for whole nations are sometimes constructed. In theory they are the summation of all the production functions of individual producers; however there are methodological problems associated with aggregate production functions, and economists have debated extensively whether the concept is valid.&lt;ref name=&quot;Cohen&quot;/&gt;
+
+==Criticisms of production functions==
+
+There are two major criticisms of the standard form of the production function. On the history of production functions, see Mishra (2007).&lt;ref&gt;S.K. Mishra (2007) A Brief History of Production Functions, Working Paper Series, Social Science Research Network (SSRN) http://www.scribd.com/doc/417083/A-Brief-History-of-Production-Functions&lt;/ref&gt;
+
+===On the concept of capital===
+During the 1950s, '60s, and '70s there was a lively debate about the theoretical soundness of production functions. (See the [[Capital controversy]].) Although the criticism was directed primarily at aggregate production functions, microeconomic production functions were also put under scrutiny. The debate began in 1953 when [[Joan Robinson]] criticized the way the factor input [[Capital (economics)|capital]] was measured and how the notion of factor proportions had distracted economists. 
+
+According to the argument, it is impossible to conceive of capital in such a way that its quantity is independent of the rates of [[interest]] and [[wages]]. The problem is that this independence is a precondition of constructing an isoquant. Further, the slope of the isoquant helps determine relative factor prices, but the curve cannot be constructed (and its slope measured) unless the prices are known beforehand.
+
+===On the empirical relevance===
+As a result of the criticism on their weak theoretical grounds, it has been claimed that empirical results firmly support the use of neoclassical ''well behaved'' aggregate production functions. Nevertheless, [[Anwar Shaikh (economist)|Anwar Shaikh]]&lt;ref name=&quot;Shaikh&quot;&gt;Shaikh, A. (1974) &quot;Laws of Production and Laws of Algebra: The Humbug Production Function&quot; ''The Review of Economics and Statistics'', '''56'''(1), pp.115-120.&lt;/ref&gt;  has demonstrated that they also have no empirical relevance, as long as alleged good fit outcomes from an accounting identity, not from any underlying laws of production/distribution.
+
+===Natural resources===
+
+Often [[natural resources]] are omitted from production functions. When [[Robert Solow|Solow]] and [[Joseph E. Stiglitz|Stiglitz]] sought to make the production function more realistic by adding in [[natural resources]], they did it in a manner that economist [[Nicholas Georgescu-Roegen|Georgescu-Roegen]] criticized as a &quot;conjuring trick&quot; that failed to address the laws of thermodynamics, since their variant allows capital and labour to be infinitely substituted for natural resources. Neither [[Robert Solow|Solow]] nor [[Joseph E. Stiglitz|Stiglitz]] addressed his criticism, despite an invitation to do so in the September 1997 issue of the journal Ecological Economics.&lt;ref name=&quot;Daly&quot;&gt;{{cite journal |title= Forum on Georgescu-Roegen versus Solow/Stiglitz |journal= Ecological Economics |volume=22 |issue=3 |year=1997 |pages= 261–306 |doi= 10.1016/S0921-8009(97)00080-3 |author= Daly, H }}&lt;/ref&gt; For more recent retrospectives, see Cohen and Harcourt [2003] and Ayres-Warr (2009).&lt;ref name=&quot;Cohen&quot;&gt;Cohen, A.J. and Harcourt, G.C. (2003) &quot;Retrospectives: Whatever Happened to the Cambridge Capital Theory Controversies?&quot; ''Journal of Economic Perspectives'', '''17'''(1), pp.199-214.&lt;/ref&gt;&lt;ref&gt;[[Robert Ayres (scientist)|Robert U. Ayres]] and Benjamin Warr, ''The Economic Growth Engine: How useful work creates material prosperity'', 2009. ISBN 978-1-84844-182-8&lt;/ref&gt;
+
+==See also==
+*[[Distribution (economics)]]
+*[[Production theory basics]]
+*[[Production, costs, and pricing]]
+*[[Production possibility frontier]]
+*[[Productivity]]
+*[[Productivity model]]
+*[[Microeconomics]]
+*[[A list of production functions]]
+
+==References==
+&lt;references /&gt;
+
+==Further references and external links==
+*[http://www.webng.com/economics/A_Brief_History_of_Production_Functions.html A brief history of production functions]
+*[http://www.newschool.edu/nssr/het/essays/product/prodfunc.htm A further description of production functions]
+*[http://www2.hawaii.edu/~fuleky/anatomy/anatomy.html Anatomy of Cobb-Douglas Type Production Functions in 3D]
+*[http://www2.hawaii.edu/~fuleky/anatomy/anatomy2.html Anatomy of CES Type Production Functions in 3D]
+*Heathfield, D. F. (1971) ''Production Functions'', Macmillan studies in economics, Macmillan Press, New York.
+
+*Moroney, J. R. (1967) Cobb-Douglass production functions and returns to scale in US manufacturing industry, ''Western Economic Journal'', vol 6, no 1, December 1967, pp 39–51.
+*Pearl, D. and Enos, J. (1975) Engineering production functions and technological progress, ''The Journal of Industrial Economics'', vol 24, September 1975, pp 55–72.
+*Robinson, J. (1953) The production function and the theory of capital, ''Review of Economic Studies'', vol XXI, 1953, pp.&amp;nbsp;81–106
+*[[Anwar Shaikh (Economist)|Anwar Shaikh]], &quot;Laws of Production and Laws of Algebra: The Humbug Production Function&quot;, in The Review of Economics and Statistics, Volume 56(1), February 1974, p.&amp;nbsp;115-120. http://homepage.newschool.edu/~AShaikh/humbug.pdf
+*[[Anwar Shaikh (Economist)|Anwar Shaikh]], &quot;Laws of Production and Laws of Algebra—Humbug II&quot;, in Growth, Profits and Property ed. by Edward J. Nell. Cambridge, Cambridge University Press, 1980. http://homepage.newschool.edu/~AShaikh/humbug2.pdf
+*[[Anwar Shaikh (Economist)|Anwar Shaikh]], &quot;Nonlinear Dynamics and Pseudo-Production Functions&quot;, published?, 2008. http://homepage.newschool.edu/~AShaikh/Nonlinear%20Dynamics%20and%20Pseudo-Production%20Functions.pdf
+*Shephard, R (1970) ''Theory of cost and production functions'', Princeton University Press, Princeton NJ.
+*Thompson, A. (1981) ''Economics of the firm, Theory and practice'', 3rd edition, Prentice Hall, Englewood Cliffs. ISBN 0-13-231423-1
+*Elmer G. Wiens: [http://www.egwald.ca/economics/productionfunctions.php Production Functions] - Models of the Cobb-Douglas, C.E.S., Trans-Log, and Diewert Production Functions.
+
+{{DEFAULTSORT:Production Function}}
+[[Category:Production economics]]
+[[Category:Microeconomics]]
+[[Category:Production and manufacturing]]
+
+[[ar:تابع الإنتاج]]
+[[cs:Produkční funkce]]
+[[da:Produktionsfunktion]]
+[[de:Produktionsfunktion]]
+[[el:Συνάρτηση παραγωγής]]
+[[es:Función de producción]]
+[[fr:Fonction de production]]
+[[he:פונקציית ייצור]]
+[[lo:ຕຳລາການຜະລິດ]]
+[[nl:Productiefunctie]]
+[[ja:生産関数]]
+[[pl:Funkcja produkcji]]
+[[pt:Função produção]]
+[[ro:Funcție de producție]]
+[[ru:Производственная функция]]
+[[fi:Tuotantofunktio]]
+[[th:ฟังก์ชันการผลิต]]
+[[uk:Виробнича функція]]
+[[vi:Hàm sản xuất]]
+[[zh:生产函数]]</text>
+      <sha1>0u5udleizskcjv08cwlfj8d5qp0nhlt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

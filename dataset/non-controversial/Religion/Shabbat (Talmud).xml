@@ -1,0 +1,77 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Shabbat (Talmud)</title>
+    <ns>0</ns>
+    <id>9384267</id>
+    <revision>
+      <id>508053907</id>
+      <parentid>502870769</parentid>
+      <timestamp>2012-08-18T23:53:47Z</timestamp>
+      <contributor>
+        <username>Evanh2008</username>
+        <id>11922695</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, minor fixes using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="2334">:''This is about part of the [[Talmud]]; for the Jewish day of rest, see [[Shabbat]].''
+'''Shabbat''' ({{lang-he|שבת}}) is first tractate (book) in the Order (Mishnaic section) of [[Moed]], of the [[Mishnah]] and [[Talmud]]. The tractate consists of 24 chapters.
+
+The tractate primarily deals with laws relating to [[Shabbat]] (the weekly day of rest), and the [[activities prohibited on Shabbat]] (the 39 prohibitions) and distinguishes between Biblical prohibitions and Rabbinic prohibitions. It also discusses special Rabbinic decrees to reinforce the concept of rest on Sabbath (see [[muktzah]], articles that may not be used or moved on Sabbath, chapters 3 and 17) and to enhance its sanctity, such as forbidding pursuit of business and discussing forbidden matters (chapter 23) and pursuing weekday activities.
+
+==Transferring between domains==
+A large portion of this tractate deals with the ''melachah'' of transferring from one [[Eruv|domain]] to another, commonly called &quot;carrying&quot; (chapters 1 and 11). The tractate distinguishes four domains: private, public, semi-public and an exempt area. It holds that the transfer of an article from a private to a public domain is Biblically forbidden; transferring an article between a semi-public to a private or public domain is Rabbinically prohibited; transferring of an article between an exempt area and any other domain is permissible; carrying an article four ''amos'' may be forbidden in public or semi-public domain and permitted in a private domain or exempt area; and carrying inside a private domain or between private domains may be permissible (see [[Eruv]]). For these purposes &quot;transferring&quot; means &quot;removing and depositing&quot;, so that carrying an article out of a domain and returning to the same domain with it does not constitute transferring. This may fall into the category of &quot;wearing&quot;.
+
+==External links==
+*[[Mishna|Text of the Mishna]]: [http://www.mechon-mamre.org/b/h/h21.htm Masechet Shabbat]  with commentary by Rabbi [[Pinchas Kehati]]
+*[[Talmud|Talmudic Text]]: [http://www.mechon-mamre.org/b/l/l0.htm Masechet Shabbat]; [http://www.sacred-texts.com/jud/talmud.htm#t01 Rodkinson English translation]
+
+{{mishnah}}
+
+
+{{Judaism-stub}}
+
+[[fr:Shabbat (traité)]]
+[[it:Shabbat (Talmud)]]
+[[he:מסכת שבת]]
+[[nl:Sjabbat (Talmoed)]]
+[[yi:מסכת שבת]]</text>
+      <sha1>ds6z6bpkescu5d6uwzwq8ksa0bgf5km</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

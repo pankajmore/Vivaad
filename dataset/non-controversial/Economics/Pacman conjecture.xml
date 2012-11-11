@@ -1,0 +1,103 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pacman conjecture</title>
+    <ns>0</ns>
+    <id>17702395</id>
+    <revision>
+      <id>477469011</id>
+      <parentid>403335503</parentid>
+      <timestamp>2012-02-18T02:16:46Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <comment>[[WP:AWB/GF|General fixes]], removed orphan tag using [[Project:AWB|AWB]] (7961)</comment>
+      <text xml:space="preserve" bytes="3773">{{refimprove|date=May 2008}}
+
+'''The Pacman Conjecture''' holds that [[durable goods]] [[monopoly|monopolists]] have complete market power and so can exercise perfect price discrimination thus extracting the total surplus.&lt;ref&gt;Coase versus Pacman: Who Eats Whom in the Durable Goods Monopoly?
+Author(s): Nils-Henrik Morch von der Fehr and Kai-Uwe Kuhn
+Source: The Journal of Political Economy, Vol. 103, No. 4, (Aug., 1995), pp. 785-812
+Published by: The University of Chicago Press&lt;/ref&gt; This is in contrast to the [[Coase Conjecture]] which holds that a [[durable good]]s monopolist has no market power and so price is equal to the competitive market price.
+
+==Durable Goods Monopolists and the Coase Conjecture==
+A durable goods monopolist sells goods which are in finite supply and which last forever, (not depreciating over time). According to the Coase Conjecture, such a [[monopolist]] has no [[market power]] as it is in competition with itself; the more of the good it sells in period one the less it will be able to sell in future periods. 
+
+Assuming marginal costs are zero. In the first period the monopolist will produce quantity (Q1) where marginal cost = [[marginal revenue]] and so extract the monopoly surplus.
+However, in the second period the monopolist will face a new residual demand curve (Q - Q1) and so will produce quantity where the new marginal revenue is equal to the marginal cost, which is at the competitive market price.
+
+There is then an incentive for consumers to delay purchase of the good as they realize that its price will decrease over time. If buyers are patient enough they will not buy until the price falls and so durable goods monopolists face a horizontal demand curve at the [[Economic equilibrium|equilibrium]] price and so will have no market power.
+
+==Durable Goods Monopolists and the Pacman Conjecture==
+The [[Pacman]] Conjecture on the other hand holds that consumers realize the price of the good will only fall when they purchase the good, therefore, a patient monopolist with zero fixed costs can exercise full market power and perfectly price discriminate. 
+
+The monopolist sets the price of the durable good at time t equal to the highest consumer reservation price who hasn't purchased prior to that point t. The consumer then buys the good as soon as it is equal to their reservation price as they realize price will not fall further unless they purchase it. 
+
+The Pacman Conjecture requires that buyers have distinct reservation prices and that there are a finite number of buyers. Otherwise perfect price discrimination would not be possible.
+
+==Differences Between Coase and Pacman Conjectures==
+===Pacman Conjecture===
+*Patient monopolist (discount factor greater than or equal to a half),
+*small number of buyers,
+*reservation prices are distinct,
+*monopolists have maximum market power,
+*monopolists perfectly price discriminate.
+
+===Coase Conjecture===
+*Patient buyers (discount factor greater than or equal to a half),
+*large number of buyers,
+*reservation prices are continuous,
+*monopolists have no market power,
+*price is equal to the perfectly competitive price equilibrium.
+
+==References==
+&lt;references/&gt;
+
+==Further reading==
+# Church, J. &amp; Ware, R: Industrial Organization – A Strategic Approach p141-145
+# Nils-Henrik Morch von der Fehr &amp; Kai-Uwe Kuhn: Coase versus Pacman: Who Eats Whom in the Durable-Goods Monopoly? The Journal of Political Economy, Vol. 103, No. 4 (Aug., 1995), pp.&amp;nbsp;785–812
+# Bagnoli, M. Salant, S.W. &amp; Swierzbinski, J.E: Pacman Refutes The Coase Conjecture: Durable-Goods Monopoly With Discrete Demand [http://www.jstor.org/stable/2138582]
+
+{{DEFAULTSORT:Pacman Conjecture}}
+[[Category:Monopoly (economics)]]
+[[Category:Pricing]]
+[[Category:Anti-competitive behaviour]]</text>
+      <sha1>0cgqmoxsqju5ge8aupptx6k051gyf4o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

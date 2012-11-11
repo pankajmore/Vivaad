@@ -1,0 +1,278 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Labour economics</title>
+    <ns>0</ns>
+    <id>18178</id>
+    <restrictions>move=:edit=</restrictions>
+    <revision>
+      <id>521849155</id>
+      <parentid>521685537</parentid>
+      <timestamp>2012-11-07T17:04:14Z</timestamp>
+      <contributor>
+        <username>Bookandcoffee</username>
+        <id>149887</id>
+      </contributor>
+      <comment>Undid revision 521685537 by [[Special:Contributions/50.124.12.169|50.124.12.169]] ([[User talk:50.124.12.169|talk]]) restore labour/labor spelling as per talk page and [[ WP:ENGVAR]]</comment>
+      <text xml:space="preserve" bytes="30743">{{JEL code|J}}{{Economics sidebar}}
+{{labor}}
+'''Labour economics''' seeks to understand the functioning and dynamics of the [[market]]s for labour.  '''Labour markets''' function through the interaction of workers and employers. Labour economics looks at the suppliers of labour services (workers), the demands of labour services (employers), and attempts to understand the resulting pattern of wages, employment, and income.  
+
+In [[economics]], '''labour'''  is a measure of the work done by human beings. It is conventionally contrasted with such other [[factors of production]] as [[Land (economics)|land]] and [[Capital (economics)|capital]]. There are theories which have developed a concept called [[human capital]] (referring to the skills that workers possess, not necessarily their actual work), although there are also counter posing macro-economic system theories that think human capital is a contradiction in terms.
+
+==Compensation and measurement==
+[[Wage]] is a basic compensation for paid labour, and the compensation for labour per period of time is referred to as the '''wage rate'''.
+Other frequently used terms include:
+* wage = payment per unit of time (typically an hour)
+* earnings = payment accrued over a period (typically a week, a month, or a year)
+* total compensation = earnings + other [[Employee benefit|benefit]]s for labour
+* income = total compensation + [[unearned income]]
+* [[economic rent]] = total compensation - [[opportunity cost]]
+
+Economists measure labour in terms of hours worked, total wages, or [[x-inefficiency|efficiency]].
+* total cost = fixed cost + variable cost
+
+==Demand for labour and wage determination==
+{{Main|Labor demand}}
+
+Labour demand is a derived demand; that is, hiring labour is not desired for its own sake but rather because it aids in producing output, which contributes to an employer's revenue and hence profits. The demand for an additional amount of labour depends on the [[Marginal Revenue Product]] (MRP) and the [[marginal cost]] (MC) of the worker. The MRP is calculated by multiplying the price of the end product or service by the Marginal Physical Product of the worker. If the MRP is greater than a firm's Marginal Cost, then the firm will employ the worker since doing so will increase profit. The firm only employs however up to the point where MRP=MC, and not beyond, in economic theory.
+
+Wage differences exist, particularly in mixed and fully/partly flexible labour markets. For example, the wages of a doctor and a port cleaner, both employed by the NHS, differ greatly. But why? There are many factors concerning this issue. This includes the MRP (see above) of the worker. A doctor's MRP is far greater than that of the port cleaner. In addition, the barriers to becoming a doctor are far greater than that of becoming a port cleaner. For example to become a doctor takes a lot of education and training which is costly, and only those who excel in academia can succeed in becoming doctors. The port cleaner however requires minimal training. The supply of doctors therefore would be much more inelastic than the supply of port cleaners. The demand would also be inelastic as there is a high demand for doctors and medical care is a necessity, so the NHS will pay higher wage rates to attract the profession.
+
+The MRP of the worker is affected by other inputs to production with which the worker can work (e.g. machinery), often aggregated under the term &quot;capital&quot;. It is typical in economic models for greater availability of capital for a firm to increase the MRP of the worker, all else equal. The education and training noted in the last paragraph are counted as &quot;human capital&quot;. Since the amount of physical capital affects MRP, and since financial capital flows can affect the amount of physical capital available, MRP and thus wages can be affected by financial capital flows within and between countries, and the degree of capital mobility within and between countries.&lt;ref&gt;{{cite journal |last=Hacker |first=R. Scott |year=2000 |title=The Impact of International Capital Mobility on the Volatility of Labour Income |journal=Annals of Regional Science |volume=34 |issue=2 |pages=157–172 |doi=10.1007/s001689900005 }}&lt;/ref&gt;
+
+==Macro and micro analysis of labour markets==
+There are two sides to labour economics. Labour economics can generally be seen as the application of [[microeconomics|microeconomic]] or [[macroeconomics|macroeconomic]] techniques to the labour market. Microeconomic techniques study the role of individuals and individual firms in the labour market. Macroeconomic techniques look at the interrelations between the labour market, the goods market, the money market, and the foreign trade market. It looks at how these interactions influence macro variables such as employment levels, participation rates, aggregate income and [[Measures of national income and output|Gross Domestic Product]].
+
+==The macroeconomics of labour markets==
+The '''labour force''' is defined as the number of individuals age 16 and over, excluding those in the military, who are either employed or actively looking for work. The '''participation rate''' is the number of people in the labour force divided by the size of the adult civilian noninstitutional population (or by the population of [[working age]] that is not [[Institutionalisation|institutionalised]]). The '''nonlabour force''' includes those who are not looking for work, those who are institutionalised such as in prisons or psychiatric wards, stay-at home spouses, children, and those serving in the military. The '''[[unemployment]] level''' is defined as the labour force minus the number of people currently employed. The '''unemployment rate''' is defined as the level of unemployment divided by the labour force. The '''employment rate''' is defined as the number of people currently employed divided by the adult population (or by the population of working age).  In these [[statistics]], self-employed people are counted as employed.
+
+Variables like employment level, unemployment level, labour force, and unfilled vacancies are called '''stock variables''' because they measure a quantity at a point in time. They can be contrasted with '''flow variables''' which measure a quantity over a duration of time. Changes in the labour force are due to flow variables such as natural population growth, net immigration, new entrants, and retirements from the labour force.  Changes in unemployment depend on: inflows made up of non-employed people starting to look for jobs and of employed people who lose their jobs and look for new ones; and outflows of people who find new employment and of people who stop looking for employment. When looking at the overall macroeconomy, several types of unemployment have been identified, including:
+* '''Frictional unemployment''' &amp;mdash; This reflects the fact that it takes time for people to find and settle into new jobs. If 12 individuals each take one month before they start a new job, the aggregate unemployment statistics will record this as a single unemployed worker.  Technological advancement often reduces frictional unemployment, for example: internet search engines have reduced the cost and time associated with locating employment.
+* '''Structural unemployment''' &amp;mdash; This reflects a mismatch between the skills and other attributes of the labour force and those demanded by employers. If 4 workers each take six months off to re-train before they start a new job, the aggregate unemployment statistics will record this as two unemployed workers.  Rapid industry changes of a technical and/or economic nature will usually increase levels of structural unemployment, for example: widespread implementation of new machinery or software will require future employees to be trained in this area before seeking employment. The process of [[globalisation]] has contributed to structural changes in labour, some domestic industries such as textile manufacturing have expanded to cope with global demand, whilst other industries such as agricultural products have contracted due to greater competition from international producers.
+* '''Natural rate of unemployment''' &amp;mdash; This is the summation of frictional and structural unemployment, that excludes cyclical contributions of unemployment e.g. recessions. It is the lowest rate of unemployment that a stable economy can expect to achieve, seeing as some frictional and structural unemployment is inevitable. Economists do not agree on the natural rate, with estimates ranging from 1% to 5%, or on its meaning &amp;mdash; some associate it with &quot;non-accelerating [[inflation]]&quot;.  The estimated rate varies from country to country and from time to time.
+* '''Demand deficient unemployment''' &amp;mdash; In [[Keynesian economics]], any level of unemployment beyond the natural rate is most likely due to insufficient demand in the overall economy. During a recession, [[aggregate expenditure]] is deficient causing the underutilisation of inputs (including labour). Aggregate expenditure (AE) can be increased, according to Keynes, by increasing consumption spending (C), increasing investment spending (I), increasing government spending (G), or increasing the net of exports minus imports (X&amp;minus;M). &lt;br /&gt; {AE = C + I + G + (X&amp;minus;M)}
+
+==Neoclassical microeconomics of labour markets==
+
+Neo-classical economists view the labour market as similar to other markets in that the forces of [[supply and demand]] jointly determine price (in this case the wage rate) and quantity (in this case the number of people employed).
+
+However, the labour market differs from other markets (like the markets for goods or the money market) in several ways.  Perhaps the most important of these differences is the function of supply and demand in setting price and quantity.  In markets for goods, if the price is high there is a tendency in the long run for more goods to be produced until the demand is satisfied.  With labour, overall supply cannot effectively be manufactured because people have a limited amount of time in the day, and people are not manufactured.  
+
+The labour market also acts as a non-clearing market.Whereas most markets have a point of equilibrium without excess surplus or demand, the labour market is expected to have a persistent level of unemployment. Contrasting the labour market to other markets also reveals persistent [[compensating differential]]s among similar workers. The competitive assumption leads to clear conclusions &amp;mdash; workers earn their [[marginal product]] of labour.&lt;ref&gt;{{cite web|title=The Micro-Economics of Surplus Labour|url=http://www.econ.yale.edu/growth_pdf/cdp772.pdf|publisher=Yale University|author=Gustav Ranis|month=February|year=1997}}&lt;/ref&gt;
+
+===Neoclassical microeconomic model &amp;mdash; Supply===
+{{See also|Labour supply}}
+[[File:Sabah Sarawak labour advert Kuala Lumpur.JPG|thumb|right|An advertisement for labour from Sabah and Sarawak, seen in Jalan Petaling, Kuala Lumpur.]]
+Households are suppliers of labour. In microeconomics theory, people are assumed to be rational and seeking to maximise their [[utility function]]. In this labour market model, their utility function is determined by the choice between income and leisure.  However, they are constrained by the working hours available to them.
+
+Let w denote hourly wage.
+Let k denote total working hours.
+Let L denote working hours.
+Let π denote other incomes or benefits.
+Let A denote leisure hours.
+
+The utility function and [[budget constraint]] can be expressed as following:
+:max U(w L + &amp;pi;, A) such that L + A &amp;le; k.
+
+This can be shown in a graph that illustrates the trade-off between allocating your time between leisure activities and income generating activities. The linear constraint line indicates that there are only 24 hours in a day, and individuals must choose how much of this time to allocate to leisure activities and how much to working. (If multiple days are being considered the maximum number of hours that could be allocated towards leisure or work is about 16 due to the necessity of sleep) This allocation decision is informed by the curved [[indifference curve]] labelled IC. The curve indicates the combinations of leisure and work that will give the individual a specific level of utility. The point where the highest indifference curve is just tangent to the constraint line (point A), illustrates the short-run equilibrium for this supplier of labour services.
+
+&lt;div style=&quot;float:center;text-align:center&quot;&gt;[[Image:Labour economics-shortrun supply smaller.png|Income/Leisure trade-off in the short run]]&lt;br /&gt;''The Income/Leisure trade-off in the short run''&lt;/div&gt;
+
+If the preference for consumption is measured by the value of income obtained, rather than work hours, this diagram can be used to show a variety of interesting effects. This is because the slope of the budget constraint becomes the wage rate. The point of optimisation (point A) reflects the equivalency between the wage rate and the [[marginal rate of substitution]], leisure for income (the slope of the indifference curve). Because the marginal rate of substitution, leisure for income, is also the ratio of the marginal utility of leisure (MU&lt;sup&gt;L&lt;/sup&gt;) to the marginal utility of income (MU&lt;sup&gt;Y&lt;/sup&gt;), one can conclude:
+:&lt;math&gt;{{MU^L}\over{MU^Y}} = {{dY}\over{dL}}&lt;/math&gt;
+&lt;div style=&quot;float:center;text-align:center&quot;&gt;
+[[Image:Labour wage increase small.png|Effects of a wage increase]]&lt;br /&gt;''Effects of a wage increase''&lt;/div&gt;
+If wages increase, this individual's constraint line pivots up from X,Y&lt;sub&gt;1&lt;/sub&gt; to X,Y&lt;sub&gt;2&lt;/sub&gt;. He/she can now purchase more goods and services. His/her utility will increase from point A on IC&lt;sub&gt;1&lt;/sub&gt; to point B on IC&lt;sub&gt;2&lt;/sub&gt;.
+To understand what effect this might have on the decision of how many hours to work, you must look at the [[income effect]] and [[substitution effect]].
+
+The wage increase shown in the previous diagram can be decomposed into two separate effects. The pure income effect is shown as the movement from point A to point C in the next diagram. Consumption increases from Y&lt;sub&gt;A&lt;/sub&gt; to Y&lt;sub&gt;C&lt;/sub&gt; and &amp;mdash; assuming leisure is a [[normal good]] &amp;mdash; leisure time increases from X&lt;sub&gt;A&lt;/sub&gt; to X&lt;sub&gt;C&lt;/sub&gt; (employment time decreases by the same amount; X&lt;sub&gt;A&lt;/sub&gt; to X&lt;sub&gt;C&lt;/sub&gt;).
+
+&lt;div style=&quot;float:center;text-align:center&quot;&gt;[[Image:Labour supply income and substitution effects small.png|The Income and Substitution effects of a wage increase]]&lt;br /&gt;''The Income and Substitution effects of a wage increase''&lt;/div&gt;
+
+But that is only part of the picture. As the wage rate rises, the worker will substitute work hours for leisure hours, that is, will work more hours to take advantage of the higher wage rate, or in other words substitute away from leisure because of its higher [[opportunity cost]]. This substitution effect is represented by the shift from point C to point B. The net impact of these two effects is shown by the shift from point A to point B. The relative magnitude of the two effects depends on the circumstances. In some cases the substitution effect is greater than the income effect (in which case more time will be allocated to working), but in other cases the income effect will be greater than the substitution effect (in which case less time is allocated to working). The intuition behind this latter case is that the worker has reached the point where his [[marginal utility]] of leisure outweighs his marginal utility of income. To put it in less formal (and less accurate) terms: there is no point in earning more money if you don't have the time to spend it.
+
+&lt;div style=&quot;float:left;text-align:center&quot;&gt;[[Image:Labour supply small.png|The Labour Supply curve]]&lt;br /&gt;''The Labour Supply curve''&lt;/div&gt;
+
+If the substitution effect is greater than the income effect, the labour supply curve (diagram to the left) will slope upwards to the right, as it does at point E for example. This individual will continue to increase his supply of labour services as the wage rate increases up to point F where he is working H&lt;sub&gt;F&lt;/sub&gt; hours (each period of time). Beyond this point he will start to reduce the amount of labour hours he supplies (for example at point G he has reduced his work hours to H&lt;sub&gt;G&lt;/sub&gt;). Where the supply curve is sloping upwards to the right (positive wage elasticity of labour supply), the substitution effect is greater than the income effect. Where it slopes upwards to the left (negative elasticity), the income effect is greater than the substitution effect. The direction of slope may change more than once for some individuals, and the labour supply curve is likely to be different for different individuals.
+
+Other variables that affect this decision include taxation, welfare, work environment, and income as a [[Signalling (economics)|signal]] of ability or social contribution.
+
+===Neoclassical microeconomic model &amp;mdash; Demand===
+
+{{See also|Labour demand}}
+
+This article has examined the labour supply curve which illustrates at every wage rate the maximum quantity of hours a worker will be willing to supply to the economy per period of time. Economists also need to know the maximum quantity of hours an employer will demand at every wage rate. To understand the quantity of hours demanded per period of time it is necessary to look at product production. That is, labour demand is a derived demand: it is derived from the output levels in the goods market.{{citation needed|date=June 2012}}
+
+A firm's labour demand is based on its marginal physical product of labour (MPP&lt;sub&gt;L&lt;/sub&gt;). This is defined as the additional output (or physical product) that results from an increase of one unit of labour (or from an infinitesimally small increase in labour). If you are not familiar with these concepts, you might want to look at [[production theory basics]] before continuing with this article.
+
+&lt;div style=&quot;float:right;text-align:center&quot;&gt;[[Image:Marginal physical product of labour small.png|The Marginal Physical Product of Labour]]&lt;br /&gt;''The Marginal Physical Product of Labour''&lt;/div&gt;
+In most industries, and over the relevant range of outputs, the marginal physical product of labour is declining. That is, as more and more units of labour are employed, their additional output begins to decline. This is reflected by the slope of the MPP&lt;sub&gt;L&lt;/sub&gt; curve in the diagram to the right. If the marginal physical product of labour is multiplied by the value of the output that it produces, we obtain the Value of marginal physical product of labour:
+:&lt;math&gt; MPP_L.P_Q = VMPP_L &lt;/math&gt;
+The value of marginal physical product of labour (&lt;math&gt;VMPP_L&lt;/math&gt;) is the value of the additional output produced by an additional unit of labour. This is illustrated in the diagram by the VMPP&lt;sub&gt;L&lt;/sub&gt; curve that is above the MPP&lt;sub&gt;L&lt;/sub&gt;.
+
+In competitive industries, the VMPP&lt;sub&gt;L&lt;/sub&gt; is in identity with the [[marginal revenue product]] of labour (MRP&lt;sub&gt;L&lt;/sub&gt;). This is because in competitive markets price is equal to marginal revenue, and marginal revenue product is defined as the marginal physical product times the marginal revenue from the output (MRP = MPP * MR).
+
+&lt;div style=&quot;float:right;text-align:center&quot;&gt;[[Image:Labour demand in the short run small.png|A Firm's Labour Demand in the Short Run]]&lt;br /&gt;''A Firm's Labour Demand in the Short Run''&lt;/div&gt;
+
+The marginal revenue product of labour can be used as the demand for labour curve for this firm in the short run. In competitive markets, a firm faces a perfectly elastic supply of labour which corresponds with the wage rate and the marginal resource cost of labour (W = S&lt;sub&gt;L&lt;/sub&gt; = MFC&lt;sub&gt;L&lt;/sub&gt;). In imperfect markets, the diagram would have to be adjusted because MFC&lt;sub&gt;L&lt;/sub&gt; would then be equal to the wage rate divided by marginal costs. Because optimum resource allocation requires that marginal factor costs equal marginal revenue product, this firm would demand L units of labour as shown in the diagram.
+
+===Neoclassical microeconomic model &amp;mdash; Equilibrium===
+The demand for labour of this firm can be summed with the demand for labour of all other firms in the economy to obtain the aggregate demand for labour. Likewise, the supply curves of all the individual workers (mentioned above) can be summed to obtain the aggregate supply of labour. These [[supply and demand]] curves can be analysed in the same way as any other industry demand and supply curves to determine equilibrium wage and employment levels.
+
+==Personnel economics: hiring and incentives==
+At the micro level, one sub-discipline eliciting increased attention in recent decades is analysis of [[Internal labor market|internal labour market]]s, that is, ''within'' firms (or other organisations), studied in [[personnel economics]] from the perspective of [[personnel management]]. By contrast, external labor markets &quot;imply that workers move somewhat fluidly between firms and wages are determined by some aggregate process where firms do not have significant discretion over wage setting.&quot;&lt;ref&gt;• [[Edward P. Lazear]] and Paul Oyer, 2004. &quot;Internal and External Labor Markets: A Personnel Economics Approach,&quot; ''Labour Economics'', 11(5), pp. 527 and 528. [Pp. [http://faculty-gsb.stanford.edu/oyer/wp/ports.pdf 527–554].]&lt;br/&gt;&amp;nbsp;&amp;nbsp; • [http://www.aeaweb.org/jel/guide/jel.php?class=M JEL Classification Codes Guide: M] per JEL:M5].&lt;/ref&gt; The focus is on &quot;how firms establish, maintain, and end employment relationships and on how firms provide incentives to employees,&quot; including models and empirical work on incentive systems and as constrained by [[economic efficiency]] and  risk/incentive tradeoffs relating to  personnel compensation.&lt;ref&gt;Paul Oyer and Scott Schaefer, 2011. &quot;Personnel Economics: Hiring and Incentives,&quot; ch. 20, ''Handbook of Labor Economics'', v. 4B, pp. 1769-1823.  [http://www.sciencedirect.com/science/article/pii/S016972181102418X Abstract] and pre-pub [http://www.utah-wbec.org/~schaefer/Research/schaefer_hiring01.pdf PDF].&lt;/ref&gt;
+
+==Information approaches==
+
+In many real-life situations this is far from the case. The firm does not necessarily know how hard a worker is working or how productive they are. This provides an incentive for workers to [[laziness|shirk]] from providing their full effort &amp;mdash; since it is difficult for the employer to identify the hard-working and the shirking employees, there is no incentive to work hard and productivity falls overall, leading to more workers being hired and a lower unemployment rate.
+
+One solution used recently{{when|date=June 2012}} ([[stock options]]) grants employees the chance to benefit directly from the firm's success. However, this solution has attracted criticism as executives with large stock option packages have been suspected of acting to over-inflate share values to the detriment of the long-run welfare of the firm. Another solution, foreshadowed by the rise of [[temporary work]]ers in Japan and the [[Haken-giri|firing of many of these workers]] in response to the financial crisis of 2008, is more flexible job contracts and terms that encourage employees to work less than full-time by partially compensating for the loss of hours, relying on workers to adapt their working time in response to job requirements and economic conditions instead of the employer trying to determine how much work is needed to complete a given task and overestimating.{{citation needed|date=June 2012}}
+
+Another aspect of uncertainty results from the firm's imperfect knowledge about worker ability. If a firm is unsure about a worker's ability, it pays a wage assuming that the worker's ability is the average of similar workers. This wage undercompenstates high ability workers and may drive them away from the labour market. Such phenomenon is called [[adverse selection]] and can sometimes lead to market collapse.{{citation needed|date=June 2012}}
+
+There are many ways to overcome adverse selection in labour market. One important mechanism is called [[Signalling (economics)|signalling]], pioneered by [[Michael Spence]]. In his classical paper on job signalling, Spence showed that even if education does not increase productivity, high ability workers may still acquire it just to signal their abilities. Employers can then use education as a signal to infer worker ability and pay higher wages to better educated workers.
+
+==Search models==
+{{Main|Search theory|Matching theory (macroeconomics)}}
+One of the major research achievements of the last 20 years has been the development of a framework with dynamic [[search theory|search]], matching, and bargaining.{{citation needed|date=June 2012}}
+
+==Criticisms==
+Many sociologists, political economists, and [[Austrian School]] economists claim that labour economics tends to lose sight of the complexity of individual employment decisions.{{Citation needed|date=May 2009}} These decisions, particularly on the supply side, are often loaded with considerable [[emotional baggage]] and a purely numerical analysis can miss important dimensions of the process, such as social benefits of a high income or wage rate regardless of the marginal utility from increased consumption or specific economic goals.
+
+Also missing from most labour market analyses is the role of [[feminist economics#Unpaid work|unpaid labour]]. Even though this type of labour is unpaid it can nevertheless play an important part in society. The most dramatic example is child raising. However, over the past 25 years an increasing literature, usually designated as the [[Family economics|economics of the family]], has sought to study within household decision making, including joint labour supply, fertility, child raising, as well as other areas of what is generally referred to as home production.&lt;ref&gt;(Sandiaga S. Unno, Anindya N Bakrie, Rosan Perkasa, Morendy Octora : The Young Strategic Renaissance's In Asia)
+&lt;/ref&gt;
+
+==See also==
+{{Portal|Organized labour}}
+{{MultiCol}}
+* [[Protestant work ethic]]
+* [[Wages]]
+* [[Conditional factor demands]]
+* [[Frisch elasticity of labor supply|Frisch elasticity of labour supply]]
+* [[Unemployment]]
+* [[Beveridge curve]]
+* [[Consumer theory]]
+* [[Production theory basics]]
+* [[Microeconomics]]
+* [[Labour power]]
+* [[Monopsony]]
+* [[Employment Protection Legislation]]
+* [[Labour market flexibility]]
+* [[Economic rent]]
+* [[Compensation of employees]]
+* [[Employment]]
+{{ColBreak}}
+* [[Industrial relations]]
+* [[Human resources]]
+** [[Human Resource Management Systems]]
+* [[Offshore outsourcing]]
+* [[Profession]]
+* [[Retirement]]
+* [[Human capital]]
+* [[Housework]]
+* [[Manual labour]]
+* [[Slavery]]
+* [[Unfree labour]]
+* [[Volunteer]]
+* [[Wage slavery]]
+* [[Wage labour]]
+* [[Cost the limit of price]]
+* [[Demographic economics]]
+{{EndMultiCol}}
+
+==Notes==
+{{Reflist|1}}
+
+==References==
+{{More footnotes|date=February 2008}}
+* ''Handbook of Labor Economics''. Elsevier.  Amsterdam: North-Holland. Links to one-page chapter previews for each volume:
+:[[Orley Ashenfelter|Orley C. Ashenfelter]] and  [[Richard Layard]], ed., 1986, v. [http://www.sciencedirect.com/science/handbooks/15734463/1 1] &amp; [http://www.sciencedirect.com/science/handbooks/15734463/2 2];
+:Orley Ashenfelter and [[David Card]], ed., 1999, v. [http://www.sciencedirect.com/science/handbooks/15734463/3/part/PA 3A], [http://www.sciencedirect.com/science/handbooks/15734463/3/part/PB 3B], and [http://www.sciencedirect.com/science/handbooks/15734463/3/part/PC 3C]
+: Orley Ashenfelter and David Card, ed., 2011, v. [http://www.sciencedirect.com/science/handbooks/15734463/4/part/PA 4A] &amp; [http://www.sciencedirect.com/science/journal/15734463 4B].
+* [[Richard Blundell]] and Thomas MaCurdy, 2008.  &quot;labour supply,&quot; ''[[The New Palgrave Dictionary of Economics]]'', 2nd Edition [http://www.dictionaryofeconomics.com/article?id=pde2008_L000219&amp;q=factors%20of%20production%20%20demand%20supply&amp;topicid=&amp;result_number=4 Abstract.]
+* Glen G. Cain, 1976. &quot;The Challenge of Segmented Labor Market Theories to Orthodox Theory: A Survey,&quot;  ''Journal of Economic Literature'', 14(4), pp. [http://www.soc.washington.edu/users/brines/cain.pdf 1215-1257].
+* [[Richard B. Freeman|Freeman, R.B.]], 1987. &quot;Labour economics,&quot; ''[[The New Palgrave: A Dictionary of Economics]]'', v. 3, pp.&amp;nbsp;72–76.
+* [[John Hicks|John R. Hicks]], 1932, 2nd ed., 1963. ''[[The Theory of Wages]]''. London, Macmillan.
+* Mark R. Killingsworth, 1983. ''Labour Supply''. Cambridge: Cambridge Surveys of Economic Literature.
+* [[Assar Lindbeck]] and [[Dennis J. Snower]] 1986. &quot;Wage Setting, Unemployment, and Insider-Outsider Relations,&quot; ''American Economic Review'', 76(2), pp. [http://www.jstor.org/pss/1818771 235]-239.
+* [[Jacob Mincer]], 1974. ''Schooling, Experience, and Earnings''. New York: Columbia University Press.
+* Anindya Bakrie &amp; Morendy Octora, 2002. ''Schooling, Experience, and Earnings''. New York, Singapore National University : Columbia University Press.
+*Simon Head, ''The New Ruthless Economy. Work and Power in the Digital Age'', Oxford UP 2005, ISBN 0-19-517983-8
+* L. Ali Khan, [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=936890 The Dignity of Labour]
+
+==External links==
+{{Wiktionary|earn}}
+* [http://osha.europa.eu/priority_groups/ageingworkers/ Ageing workers] [[EU-OSHA]]
+*[http://labour.ceps.lu/ The Labour Economics Gateway] - Collection of Internet sites that are of interest to labour economists
+*[http://www.law.harvard.edu/programs/lwp/LWPclmp.html Labour &amp; Worklife Program at Harvard Law School, Changing Labour Markets Project]
+*[[W.E. Upjohn Institute for Employment Research]]
+*[http://www.ilo.org/public/english/employment/strat/kilm/ ILO: ''Key Indicators of the Labour Market (KILM).'' 5. ed. Sept. 2007]
+* [http://labourfair.com/resources.php LabourFair Resources] - Link to Fair Labour Practices
+* [http://www.labour-research.net/index.php?id=21&amp;L=5 Labour Research Network] - Labour research programme treating various fields
+
+{{DEFAULTSORT:Labour Economics}}
+[[Category:Labor| ]]
+[[Category:Labor economics| ]]
+[[Category:Core issues in ethics]]
+
+[[ar:اقتصاديات العمل]]
+[[bg:Икономика на труда]]
+[[ca:Economia laboral]]
+[[de:Arbeitsökonomik]]
+[[es:Economía laboral]]
+[[fr:Économie du travail]]
+[[lv:Darba ekonomika]]
+[[hu:Munkagazdaságtan]]
+[[mk:Трудова економија]]
+[[nl:Arbeidseconomie]]
+[[ja:労働経済学]]
+[[pl:Ekonomika pracy]]
+[[pt:Economia do trabalho]]
+[[ru:Экономика труда]]
+[[sr:Економија рада]]
+[[sh:Ekonomija rada]]
+[[fi:Työn taloustiede]]
+[[sv:Arbetsmarknadsekonomi]]
+[[uk:Економіка праці]]
+[[vi:Kinh tế học lao động]]
+[[zh:勞動經濟學]]</text>
+      <sha1>3x8orl208cnjqk5jh7cz3xgv4acudcf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

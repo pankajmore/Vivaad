@@ -1,0 +1,381 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tragedy of the commons</title>
+    <ns>0</ns>
+    <id>30802</id>
+    <revision>
+      <id>522288947</id>
+      <parentid>519164219</parentid>
+      <timestamp>2012-11-10T05:26:56Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>/* Psychological factors */copyedit, refine cat, and AWB general fixes using [[Project:AWB|AWB]] (8414)</comment>
+      <text xml:space="preserve" bytes="56637">[[File:Cows on Selsley Common - geograph.org.uk - 192472.jpg|thumb|Cows on [[Selsley Common]]. The &quot;tragedy of the commons&quot; is one way of accounting for [[overexploitation]].]]
+
+In [[economics]], the '''tragedy of the commons''' is the depletion of a shared [[resource]] by  individuals, acting independently and rationally according to each one's self-interest, despite their understanding that depleting the common resource is contrary to their long-term best interests.  In 1968, [[ecology|ecologist]] [[Garrett Hardin]] explored this [[social dilemma]] in &quot;The Tragedy of the Commons&quot;, published in the journal ''[[Science (journal)|Science]]''.&lt;ref name=hardin68&gt;{{cite doi|10.1126/science.162.3859.1243}}&lt;/ref&gt;
+
+==Theories and examples==
+Central to Hardin's article is an example (first sketched in an 1833 pamphlet by [[William Forster Lloyd]]) involving medieval land tenure in Europe, of herders sharing a common parcel of land, on which they are each entitled to let their cows graze. In Hardin's example, it is in each herder's interest to put the next (and succeeding) cows he acquires onto the land, even if the quality of the common is damaged for all as a result, through [[overgrazing]]. The herder receives all of the benefits from an additional cow, while the damage to the common is shared by the entire group. If all herders make this individually rational economic decision, the common will be depleted or even destroyed, to the detriment of all. Hardin also cites modern examples, including the overfishing of the world's oceans and ranchers who graze their cattle on government lands in the American West.&lt;ref name=hardin68/&gt;
+
+A similar dilemma of the [[The commons|commons]] had been discussed by agrarian reformers since the 18th century.&lt;ref name=&quot;Rad&quot;&gt;Radkau, Joachim. Nature and Power. A Global History of the Environment. Cambridge University Press 2008&lt;/ref&gt; Hardin's predecessors used the alleged tragedy, as well as a variety of examples from the Greek Classics, to justify the [[enclosure]] movement. German historian [[Joachim Radkau]] sees Garrett Hardin's writings as having a different aim in that Hardin asks for a strict management of common goods via increased government involvement or/and international regulation bodies.&lt;ref name=&quot;Rad&quot;/&gt;
+
+While Hardin recommended that the tragedy of the commons could be prevented by either more government regulation or privatizing the commons property, subsequent Nobel Prize-winning work by [[Elinor Ostrom]] suggests that handing control of local areas to national and international regulators can create further problems.&lt;ref name=&quot;non-tragedy&quot;&gt;{{Cite journal
+| authorlink = John Tierney (journalist)
+| first = John
+| last = Tierney
+| title = The Non-Tragedy of the Commons
+| date = 2009-10-15
+| journal = [[New York Times]] blog
+| url = http://tierneylab.blogs.nytimes.com/2009/10/15/the-non-tragedy-of-the-commons/
+| postscript = &lt;!--None--&gt;
+}}&lt;/ref&gt;&lt;ref&gt;[http://nobelprize.org/nobel_prizes/economics/laureates/2009/ecoadv09.pdf Riksbank Prize 2009 summary]{{dead link|date=June 2012}}&lt;/ref&gt; Ostrom argues that the tragedy of the commons may not be as prevalent or as difficult to solve as Hardin implies, since locals have often come up with solutions to the commons problem themselves; when the commons is taken over by non-locals, those solutions can no longer be used.&lt;ref name=&quot;non-tragedy&quot;/&gt; Ostrom recognizes that there are real problems, and even limited situations where the tragedy of the commons applies to real-world resource management.&lt;ref name=&quot;urlOstrom revisits the commons in Science&quot;&gt;{{cite web |url=http://www.iuinfo.indiana.edu/HomePages/041699/text/ostrom.htm |title=Ostrom 'revisits the commons' in 'Science' |work= |accessdate=}}&lt;/ref&gt;
+
+Hardin's work has been criticised on the grounds of historical inaccuracy, and for failing to distinguish between [[Common-pool resource|common property]] and [[Open access (infrastructure)|open access]] resources. As Hardin acknowledged&lt;ref name=Hardin92&gt;Ecologist, The, 1992. Whose Common Future?. Special Issue. The Ecologist. 22(4), 121-210&lt;/ref&gt; there was a fundamental mistake in the use of the term &quot;commons.&quot; This was already noted in 1975 by Ciriacy-Wantrup &amp; Bishop (1975: 714)&lt;ref name=Ciriacy&gt;Ciriacy-Wantrup S.V., Bishop R.C., 1975. &quot;Common Property&quot; as a Concept in Natural Resources Policy. Nat. Res. J. 15, 713-727&lt;/ref&gt; who wrote that we &quot;are not free to use the concept 'common property resources' or 'commons' under conditions where no institutional arrangements exist. Common property is not 'everybody's property' (...). To describe unowned resource ([[res nullius]]) as common property ([[res communis]]), as many economists have done for years (...) is a self-contradiction.&quot;
+
+Hardin's commons theory is frequently cited to support the notion of [[sustainable development]], meshing economic growth and environmental protection, and has had an effect on numerous current issues, including the debate over [[global warming]]. An asserted impending &quot;tragedy of the commons&quot; is frequently warned of as a consequence for adopting policies which restrict [[Property#Theories of property|private property]] and espouse expansion of public property.&lt;ref&gt;{{Cite journal
+| authorlink = Natalia Mirovitskaya, Marvin S. Soroos
+| title = Socialism and the Tragedy of the Commons: Reflections on Environmental Practice in the Soviet Union and Russia
+| date = January 1995 vol. 4 no. 1 77-110
+| journal = The Journal of Environment Development
+| url = http://jed.sagepub.com/content/4/1/77.abstract
+| postscript = &lt;!--None--&gt;
+}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal
+| authorlink = Mark J. Perry
+| first = Mark
+| last = Perry
+| title = Why Socialism Failed
+| date = June 1995 • Volume: 45 • Issue: 6
+| journal = [[The Freeman]] | Ideas On Liberty
+| url = http://www.thefreemanonline.org/featured/why-socialism-failed/
+| postscript = &lt;!--None--&gt;
+}}&lt;/ref&gt;
+
+==History of the idea==
+
+===References to the Greek classics===
+[[Thucydides]] (ca. 460 BC-ca. 395 BC) stated: &quot;[T]hey devote a very small fraction of time to the consideration of any public object, most of it to the prosecution of their own objects. Meanwhile each fancies that no harm will come to his neglect, that it is the business of somebody else to look after this or that for him; and so, by the same notion being entertained by all separately, the common cause imperceptibly decays.&quot;&lt;ref&gt;Thucydides (ca. 460 B.C.-ca. 395 B.C.), ''History of the Peloponnesian War'', Book I, Sec. 141; translated by [[Richard Crawley]] (London: J. M. Dent &amp; Sons; New York: E. P. Dutton &amp; Co., 1910).&lt;/ref&gt;
+
+[[Aristotle]] (384-322 BC) similarly argued against common goods of the ''[[polis]]'' of [[History of Athens|Athens]]: &quot;That all persons call the same thing mine in the sense in which each does so may be a fine thing, but it is impracticable; or if the words are taken in the other sense, such a unity in no way conduces to harmony. And there is another objection to the proposal. For that which is common to the greatest number has the least care bestowed upon it. Every one thinks chiefly of his own, hardly at all of the common interest; and only when he is himself concerned as an individual. For besides other considerations, everybody is more inclined to neglect the duty which he expects another to fulfill; as in families many attendants are often less useful than a few.&quot;&lt;ref name=Aristotle&gt;Aristotle (384 B.C.-322 B.C.), ''Politics,'' Book II, Chapter III, 1261b; translated by [[Benjamin Jowett]] as [http://oll.libertyfund.org/Texts/Aristotle0039/Politics/HTMLs/0033-01_Pt02_Books1-4.html ''The Politics of Aristotle: Translated into English with Introduction, Marginal Analysis, Essays, Notes and Indices''] (Oxford: Clarendon Press, 1885), Vol. 1 of 2. See also here [http://oll.libertyfund.org/ToC/0033.php], here [http://classics.mit.edu/Aristotle/politics.html], here [http://etext.library.adelaide.edu.au/a/aristotle/a8po/book2.html], or here [http://socserv2.mcmaster.ca/~econ/ugcm/3ll3/aristotle/Politics.pdf].&lt;/ref&gt;
+
+===Later commentary===
+In the 16th century [[School of Salamanca]], [[Luis de Molina]] observed that individual owners take better care of their goods than they do of common property.
+
+More recently, [[William Forster Lloyd]] noted the comparison with medieval village land holding in his 1833 book on population.&lt;ref&gt;[[William Forster Lloyd]], ''Two Lectures on the Checks to Population'' (Oxford, England: Oxford University Press, 1833).&lt;/ref&gt;
+
+Such a notion is not merely an abstraction, but its consequences have manifested literally in such common grounds as the [[Boston Common]], where [[overgrazing]] led to discontinuation of the common's use as public grazing ground.&lt;ref&gt;[[James Loewen|Loewen, James]]. ''Lies Across America: What Our Historic Sites Get Wrong''. New York: The New Press, 1999. p. 414 ISBN 0-9650031-7-2 {{Please check ISBN|reason=Check digit (2) does not correspond to calculated figure.}}&lt;/ref&gt; Radkau gives further, more positive examples and alleges the &quot;real tragedy of the commons&quot; to be ruthless use of common land motivated by agrarian reforms.&lt;ref name=&quot;Rad&quot;/&gt;
+
+===Garrett Hardin's essay===
+
+====Summary====
+At the beginning of his essay, Hardin draws attention to problems that cannot be solved by technical means, as distinct from those with solutions that require &quot;a change only in the techniques of the [[natural science]]s, demanding little or nothing in the way of change in [[Value (personal and cultural)|human values]] or ideas of [[morality]]&quot;. Hardin contends that this class of problems includes many of those raised by human population growth and the use of the Earth's [[natural resource]]s. The problem of population growth, Hardin asserts, is endemic to society's inextricable ties to the welfare state.&lt;ref name=&quot;Intolerable&quot;&gt;
+{{Cite journal  | last = Hardin   | first = G.  | authorlink = Garrett Hardin
+  | title = The Tragedy of the Commons   | journal = [[Science (journal)|Science]]  | volume = 162  | issue = 3859  | publisher = AAAS   | date = 1968-12-13    | url = http://www.sciencemag.org/content/162/3859/1243.full.pdf | quote = it is the role of education to reveal to all the necessity of abandoning the freedom to breed. Only so, can we put an end to this aspect of the tragedy of the commons.  | pages = 1243–1248  | doi = 10.1126/science.162.3859.1243
+  | accessdate = 2011-09-04 | pmid=5699198}}&lt;/ref&gt; Hardin says that a world in which individuals rely on themselves and not on the relationship of society and man, how many children a family would have would not be a public concern. Parents who breed excessively would leave fewer descendants because they would be unable to provide for each child adequately. Such negative feedback is found in the animal kingdom.&lt;ref name=&quot;Intolerable&quot;/&gt; Hardin says that if the children of improvident parents starved to death, if overbreeding was its own punishment—then there would be no public interest in controlling the breeding of families.&lt;ref name=&quot;Intolerable&quot;/&gt; For Hardin, it is the [[welfare state]] that allows the tragedy of the commons; where the state provides for children and supports overbreeding as a fundamental human right, [[malthusian catastrophe]] is inevitable. Hardin laments this interpretation of [[The Universal Declaration of Human Rights]]:
+{{quote|text= The Universal Declaration of Human Rights describes the family as the natural and fundamental unit of society. [Article 16&lt;ref&gt;{{cite web |url= http://www.un.org/en/documents/udhr/ |title=The Universal Declaration of Human Rights  |date=10 December 1948 |accessdate=4 September 2011}}&lt;/ref&gt;] It follows that any choice and decision with regard to the size of the family must irrevocably rest with the family itself, and cannot be made by anyone else. |source= Statement on Population by UN Secretary-General&lt;ref name=&quot;U Thant Statement&quot;&gt;{{Cite book     | title = Levels and trends of contraceptive use as assessed in 2002   | publisher = United Nations Publications   | last = United Nations. Dept. of Economic and Social Affairs. Population Division   | quote = some have argued that it may be inferred from the rights to privacy, conscience, health and well-being set forth in various United Nation's conventions [...] Parents have a basic human right to determine freely and responsibly the number and spacing of their children (United Nations, 1968)   | year = 2004  | page = 126
+  | isbn = 92-1-151399-5 }}&lt;/ref&gt; |sign= [[U Thant]]}}
+
+This parental [[reproductive freedom]] was endorsed by the 1968 [[Reproductive rights#Proclamation of Tehran|UN Proclamation of Tehran]]. Hardin advocates repudiation of this element of the Proclamation.&lt;ref name=&quot;Intolerable&quot;/&gt;
+
+To make the case for &quot;no technical solutions,&quot; Hardin notes the limits placed on the availability of energy (and material resources) on [[Earth]], and also the consequences of these limits for &quot;[[quality of life]].&quot; To maximize population, one needs to minimize resources spent on anything other than simple survival, and ''vice versa''. Consequently, he concludes that there is no foreseeable technical solution to increasing both human populations and their [[standard of living]] on a finite planet.
+
+From this point, Hardin switches to non-technical or resource management solutions to population and resource problems. As a means of illustrating these, he introduces a hypothetical example of a [[pasture]] shared by local [[herder]]s, which he calls a commons. Assuming that the herders only wish is yield maximization, they will increase their herd size whenever possible. The [[marginal utility]] of each additional animal has both a positive and negative component:
+
+* '''Positive''': the herder receives all of the proceeds from each additional animal.
+* '''Negative''': the pasture is slightly degraded by each additional animal.
+
+Crucially, division of these costs and benefits is unequal: the individual herder gains all of the advantage, but the disadvantage is shared among all herders using the pasture. Assuming that the negative impact on the herder's other animals is less than the income of a new one, the [[Strategic dominance|rational course of action]] for each individual herder will always be herd expansion. Since all herders reach the same conclusion, [[overgrazing]] is inevitable. Each herder will continue to [[externality|impose costs]] on all of the others, until the pasture is depleted.
+
+Because this sequence of events follows predictably from the behavior of the participants, Hardin describes it as a &quot;[[Tragedy#Aristotle|tragedy]].&quot;
+
+In the course of his essay, Hardin develops the theme, drawing in examples of latter day &quot;commons,&quot; such as the atmosphere, oceans, rivers, [[fish stocks]], [[national park]]s, [[advertising]], and even [[parking meter]]s. The example of fish stocks had led some to call this the &quot;tragedy of the fishers.&quot;&lt;ref&gt;Samuel Bowles: Microeconomics: Behavior, Institutions, and Evolution, [[Princeton University Press]], pp. 27–29 (2004) ISBN 0-691-09163-3&lt;/ref&gt; Throughout the essay the impact of human population growth is a concern, with the [[Earth]]'s resources being a general common.
+
+The essay addresses potential [[management]] solutions to commons problems including [[privatization]], [[Polluter Pays|polluter pays]], and [[regulation]]. Keeping with his original pasture analogy, Hardin categorizes these as effectively the &quot;[[enclosure]]&quot; of commons, and notes a historical progression from the use of all resources as commons (unregulated access to all) to systems in which commons are &quot;enclosed&quot; and subject to methods of regulated use in which access is prohibited or controlled. Hardin argues against relying on [[conscience]] as a means of policing commons, suggesting that this favors selfish individuals&amp;nbsp;— often known as [[Free rider problem|free riders]]&amp;nbsp;— over those who are more altruistic.
+
+In the context of avoiding [[over-exploitation]] of [[Common-pool resource|common resources]], Hardin concludes by restating [[Georg Wilhelm Friedrich Hegel|Hegel]]'s [[Maxim (saying)|maxim]] (which was quoted by [[Friedrich Engels|Engels]]), &quot;freedom is the recognition of necessity.&quot; He suggests that &quot;freedom&quot; completes the tragedy of the commons. By recognizing resources as commons in the first place, and by recognizing that, as such, they require management, Hardin believes that humans &quot;can preserve and nurture other and more precious freedoms.&quot;
+
+Aside from its subject matter (resource use), the essay is notable (at least in modern scientific circles) for explicitly dealing with issues of [[morality]], and doing so in one of the [[scientific community]]'s premier journals, ''[[Science (journal)|Science]].'' Indeed, the subtitle for the essay is &quot;The population problem has no technical solution; it requires a fundamental extension in morality.&quot;
+
+====Meaning====
+The metaphor illustrates the argument that free access and unrestricted demand for a finite resource ultimately reduces the resource through [[over-exploitation]], temporarily or permanently. This occurs because the benefits of exploitation accrue to individuals or groups, each of whom is motivated to maximize use of the resource to the point in which they become reliant on it, while the costs of the exploitation are borne by all those to whom the resource is available (which may be a wider class of individuals than those who are exploiting it). This, in turn, causes demand for the resource to increase, which causes the problem to snowball to the point that the resource is depleted (even if it retains a capacity to recover). The rate at which depletion of the resource is realized depends primarily on three factors: the number of users wanting to consume the common in question, the consumptiveness of their uses, and the relative robustness of the common.&lt;ref&gt;{{cite web|url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1227745 |title=Brigham Daniels, Emerging Commons Tragic Institutions &amp;#124; Environmental Law &amp;#124; Vol. 37 (2007), pp. 515-571 at 536 |publisher=Papers.ssrn.com |date= |accessdate=2012-06-22}}&lt;/ref&gt;
+
+Like [[William Forster Lloyd|William Lloyd]] and [[Thomas Malthus]] before him, Hardin was primarily interested in the problem of [[overpopulation|human population growth]]. In his essay he also focused on the use of larger (though still limited) resources such as the Earth's atmosphere and oceans, as well as pointing out the &quot;negative commons&quot; of pollution (i.e., instead of dealing with the deliberate privatization of a positive resource, a &quot;negative commons&quot; deals with the deliberate commonization of a negative cost, pollution).
+
+As a [[metaphor]], the tragedy of the commons should not be taken too literally. The phrase is [[shorthand]] for a structural relationship and the consequences of that relationship, not a precise description of it. The &quot;tragedy&quot; should not be seen as tragic in the conventional sense, nor must it be taken as condemnation of the processes that are ascribed to it. Similarly, Hardin's use of &quot;commons&quot; has frequently been misunderstood, leading Hardin to later remark that he should have titled his work &quot;The Tragedy of the Unregulated Commons&quot;.&lt;ref&gt;{{cite web|url=http://search.japantimes.co.jp/cgi-bin/fe20060726sh.html |title=Will commons sense dawn again in time? &amp;#124; The Japan Times Online |publisher=Search.japantimes.co.jp |date=2006-07-26 |accessdate=2012-06-22}}&lt;/ref&gt;
+
+The tragedy of the commons has particular relevance in analyzing behavior in the fields of [[economics]], [[evolutionary psychology]], [[game theory]], [[politics]], [[taxation]], and [[sociology]]. Some also see it as an example of [[emergent behavior]], with the &quot;tragedy&quot; the outcome of individual interactions in a [[complex system]].
+
+====Criticisms====
+Hardin's essay has been widely criticized. Public policy experts have argued that Hardin's account of the breakdown of common grazing land was inaccurate, and that such commons were effectively managed to prevent overgrazing.&lt;ref name=&quot;urlSpringerLink - Journal Article&quot;&gt;{{cite web |url=http://www.springerlink.com/content/wm68g57188j282u4/ |title=SpringerLink&amp;nbsp;— Journal Article |work= |accessdate=}}&lt;/ref&gt;  Referring to Hardin's crucial passage on page 1244,17 [[Partha Dasgupta]], for example, comments that &quot;it is difficult to find a passage of comparable length and fame that contains so many errors as the one quoted.&quot;&lt;ref name=&quot;urlwww.econ.cam.ac.uk&quot;&gt;{{cite web
+| url = http://www.econ.cam.ac.uk/faculty/dasgupta/
+| authorlink = Partha Dasgupta
+| first = Partha
+| last = Dasgupta
+| title=Human Well-Being and the Natural Environment
+}}&lt;/ref&gt;
+
+More significantly, criticism has been fueled by the application of Hardin's ideas to current policy  issues. In particular, some authorities{{who|date=June 2012}} have read Hardin's work as specifically advocating the privatization of commonly owned resources. Consequently, resources that have traditionally been managed communally by local organizations have been [[enclosure|enclosed]] or [[privatization|privatized]]. Ostensibly, this serves to protect such resources, but it ignores the pre-existing management, often appropriating resources and alienating indigenous (and frequently poor) populations. In effect, private or state use may result in worse outcomes than the previous management of commons.&lt;ref&gt;Ostrom, Elinor, Joanna Burger, Christopher B. Field, Richard B. Norgaard, and David Policansky (1999): Revisiting the Commons: Local Lessons, Global Challenges, in: Science, Vol. 284, 9 April, pp. 278-282.&lt;/ref&gt;
+
+Some of this controversy stems from disagreement over whether individuals will always behave in the selfish fashion posited by Hardin. Others have argued that even self-interested individuals will often find ways to cooperate, because collective restraint serves both the collective and individual interests.&lt;ref&gt;{{cite book |last=Axelrod |first|Robert |year=1984 |title=The Evolution of Cooperation |location=New York |publisher=Basic Books |ISBN= 0-465-02121-2 }}&lt;/ref&gt;
+Hardin's piece has also been criticised as promoting the interests of Western economic ideology. G. N. Appell, an anthropologist, states: &quot;Hardin's claim has been embraced as a sacred text by scholars and professionals in the practice of designing futures for others and imposing their own economic and environmental rationality on other social systems of which they have incomplete understanding and knowledge.&quot;&lt;ref&gt;Appell, G. N. (1993). [http://dlc.dlib.indiana.edu/dlc/handle/10535/4532 Hardin's Myth of the Commons: The Tragedy of Conceptual Confusions]. Working Paper 8. Phillips, ME: Social Transformation and Adaptation Research Institute.&lt;/ref&gt;
+
+Hardin's advocacy of clearly defined property rights has frequently been used as an argument for privatization, or private property, ''per se.'' The opposite situation to a tragedy of the commons is sometimes referred to as a [[tragedy of the anticommons]]: a situation in which rational individuals (acting separately) collectively waste a given resource by under-utilizing it.
+
+Some of these criticisms have been addressed by Hardin in a later Science article, where he notes:
+“To judge from the critical literature, the weightiest mistake in my synthesizing paper was the omission of the modifying adjective “unmanaged.” In correcting this omission, one can generalize the practical conclusion in this way: “A ‘managed commons' describes either socialism or the privatism of free enterprise. Either one may work; either one may fail: ‘The devil is in the details.’ But with an unmanaged commons, you can forget about the devil: As overuse of resources reduces carrying capacity, ruin is inevitable.” With this modification firmly in place, “The Tragedy of the Commons” is well tailored for further interdisciplinary syntheses.”&lt;ref&gt;{{cite journal|last=Hardin|first=Garrett|title=Extensions of &quot;The Tragedy of the Commons&quot;|journal=Science|date=May 1, 1998|volume=280|issue=5364|page=682|doi=10.1126/science.280.5364.682|url=http://www.sciencemag.org/content/280/5364/682.full}}&lt;/ref&gt;
+
+==Application==
+
+===Modern commons===
+The ''tragedy of the commons'' can be considered in relation to environmental issues such as [[sustainability]]. The commons dilemma stands as a model for a great variety of resource problems in society today, such as water, land, fish, and [[non-renewable energy]] sources such as oil and coal.
+
+Situations exemplifying the &quot;tragedy of the commons&quot; include the overfishing and destruction of the [[Grand Banks]], the destruction of [[salmon]] runs on rivers that have been dammed{{spaced ndash}} most prominently in modern times on the [[Columbia River]] in the [[Northwest United States]], and historically in [[North Atlantic]] rivers{{spaced ndash}} the devastation of the sturgeon fishery{{spaced ndash}} in modern Russia, but historically in the United States as well{{spaced ndash}} and, in terms of water supply, the limited water available in arid regions (e.g., the area of the [[Aral Sea]]) and the [[Los Angeles]] water system supply, especially at [[Mono Lake]] and [[Owens Lake]].
+
+Other situations exemplifying the &quot;tragedy of the commons&quot; include [[pollution]] caused by driving cars. There are many negative [[externality|externalities]] of driving; these include [[traffic congestion|congestion]], [[carbon emissions]], and traffic accidents. For example, every time 'Person A' gets in a car, it becomes more likely that 'Person Z'{{spaced ndash}} and millions of others{{spaced ndash}} will suffer in each of those areas.&lt;ref&gt;Stephen J. Dunber and Steven D. Levitt [http://www.nytimes.com/2008/04/20/magazine/20wwln-freakonomics-t.html?_r=1&amp;pagewanted=1&amp;oref=slogin &quot;Not-So-Free-Ride&quot;] The New York Times&lt;/ref&gt;
+
+Still other examples include the US Federal budget.&lt;ref&gt;Walter E. Williams [http://www.ocregister.com/opinion/spending-356322-congressman-federal.html &quot;Tragedy of unbridled self-interest&quot;] The Orange County Register&lt;/ref&gt;  The federal budget being analogous to a common pasture on which 535 congressional cows graze.
+
+More general examples (some alluded to by Hardin) of potential and actual tragedies include:
+
+[[File:Lacanja burn.JPG|thumb|right|Clearing rainforest for agriculture in southern Mexico.]]
+
+* Planet [[Earth]] [[ecology]]
+** Uncontrolled human [[population growth]] leading to [[overpopulation]].&lt;ref name=hardin68/&gt;
+** [[Air]], whether ambient air polluted by industrial emissions and cars among other sources of [[air pollution]], or [[indoor air quality|indoor air]].
+** [[Water]]{{spaced ndash}} [[Water pollution]], [[Water crisis]] of over-extraction of groundwater and wasting water due to [[Irrigation#Problems in irrigation|overirrigation]]&lt;ref&gt;I.A. Shiklomanov, ''Appraisal and Assessment of World Water Resources'', Water International 25(1): 11-32 (2000)&lt;/ref&gt;
+** [[Forests]]{{spaced ndash}} Frontier [[logging]] of [[old growth forest]] and [[slash and burn]]&lt;ref&gt;* Wilson, E.O., 2002, ''The Future of Life'', Vintage ISBN 0-679-76811-4&lt;/ref&gt;
+** [[Energy resources]] and [[climate]]{{spaced ndash}} Burning of [[fossil fuels]] and consequential [[global warming]]
+** [[Animal]]s{{spaced ndash}} [[Habitat]] destruction and [[poaching]] leading to the [[Holocene extinction event|Holocene mass extinction]]&lt;ref&gt;Leakey, Richard and Roger Lewin, 1996, ''The Sixth Extinction : Patterns of Life and the Future of Humankind'', Anchor, ISBN 0-385-46809-1&lt;/ref&gt;
+** [[Oceans]]{{spaced ndash}} [[Overfishing]]&lt;ref&gt;C.Michael Hogan. 2010. [http://www.eoearth.org/article/Overfishing ''Overfishing''. Encyclopedia of Earth. National Council for Science and the Environment]. eds. Sidney Draggan and C.Cleveland. Washington DC.&lt;/ref&gt;&lt;ref&gt;ch 11-12. Mark Kurlansky, 1997. ''Cod: A Biography of the Fish That Changed the World'', New York: Walker, ISBN 0-8027-1326-2.&lt;/ref&gt;
+
+* Publicly shared resources
+** [[Radio frequencies]]{{spaced ndash}} Unlicensed frequencies used for wireless communications, especially [[802.11]] a/b/g in the U.S., detailed under [[Part 15 (FCC rules)]] would be vulnerable to the overuse of high power [[transmitters]], especially overdriven transmitters with dirty signal profiles, and especially when combined with [[omnidirectional antenna|omnidirectional]] [[antennas]],{{citation needed |date=June 2010}} had the FCC not mandated maximum transmission power for each class of device and limitations on their spectral profile.
+** [[Spam (electronic)|Spam email]] degrades the usefulness of the email system and increases the cost for all users of the Internet while providing a benefit to only a tiny number of individuals.
+** [[Vandalism]] and [[litter]]ing in public spaces such as [[park]]s, [[recreation area]]s, and [[public restroom]]s.
+*** Additionally, careless [[urination]], [[defecation]], and similar careless usage of public restrooms.
+** [[Knowledge commons]] encompass immaterial and collectively owned goods in the information age.
+** [[Freeways]] experience heavy traffic due to overuse
+
+===Modern solutions===
+Articulating solutions to the tragedy of the commons is one of the main problems of [[political philosophy]]. In absence of [[enlightened self-interest]], some form of authority or federation is needed to solve the collective action problem. In a typical example, governmental regulations can limit the amount of a common good available for use by any individual. Permit systems for extractive economic activities including mining, fishing, hunting, livestock raising and timber extraction are examples of this approach. Similarly, limits to pollution are examples of governmental intervention on behalf of the commons. Alternatively, resource users themselves can cooperate to conserve the resource in the name of mutual benefit.
+
+Another solution for some resources is to convert common good into private property, giving the new owner an incentive to enforce its sustainability. Effectively, this is what took place in the English [[Inclosure Acts]]. Increasingly, many agrarian studies scholars advocate studying traditional commons management systems to understand how common resources can be protected without alienating those whose livelihoods depend upon them.
+
+An opposing idea, used by the [[United Nations]] [[Moon Treaty]], [[Outer Space Treaty]] and [[Law of the Sea Treaty]] as well as the [[UNESCO]] [[World Heritage Convention]] involves the international law principle that designates some areas or resources the [[Common Heritage of Mankind]].&lt;ref&gt;Jennifer Frakes, The Common Heritage of Mankind Principle and the Deep Seabed, Outer Space, and Antarctica: Will Developed and Developing Nations Reach a Compromise? Wisconsin International Law Journal. 2003; 21:409&lt;/ref&gt;
+
+[[libertarianism|Libertarians]] and [[classical liberalism|classical liberals]] often cite the tragedy of the commons as an example of what happens when [[John Locke|Lockean]] property rights to homestead resources are prohibited by a government.&lt;ref&gt;Robert J. Smith, [http://www.cato.org/pubs/journal/cj1n2-1.html &quot;Resolving the Tragedy of the Commons by Creating Private Property Rights in Wildlife&quot;], ''Cato Journal'', Vol. 1, No. 2 (Fall 1981), pp. 439-468.&lt;/ref&gt;&lt;ref&gt;[[Murray Rothbard|Murray N. Rothbard]], [http://www.cato.org/pubs/journal/cj2n1/cj2n1-2.pdf &quot;Law, Property Rights, and Air Pollution&quot;], ''Cato Journal'', Vol. 2, No. 1 (Spring 1982), pp. 55-100. Also available [http://www.mises.org/rothbard/lawproperty.pdf here.]&lt;/ref&gt;&lt;ref&gt;[http://commonsblog.org/free_reading.php &quot;Free-Market Environmentalism Reading List&quot;], ''The Commons Blog''.&lt;/ref&gt; These people argue that the solution to the tragedy of the commons is to allow individuals to take over the property rights of a resource, that is, privatizing it.&lt;ref&gt;[[John Locke]], &quot;Sect. 27&quot; and following sections in [http://oregonstate.edu/instruct/phl302/texts/locke/locke2/locke2nd-a.html#Sect.%2027. ''Second Treatise of Government''] (1690). Also available [http://www.gutenberg.org/etext/7370 here.]&lt;/ref&gt; In 1940 [[Ludwig von Mises]] wrote concerning the problem:
+
+&lt;blockquote&gt;If land is not owned by anybody, although legal formalism may call it public property, it is used without any regard to the disadvantages resulting. Those who are in a position to appropriate to themselves the returns&amp;nbsp;— lumber and game of the forests, fish of the water areas, and mineral deposits of the subsoil&amp;nbsp;— do not bother about the later effects of their mode of exploitation. For them, erosion of the soil, depletion of the exhaustible resources and other impairments of the future utilization are external costs not entering into their calculation of input and output. They cut down trees without any regard for fresh shoots or reforestation. In hunting and fishing, they do not shrink from methods preventing the repopulation of the hunting and fishing grounds.&lt;ref&gt;[[Ludwig von Mises]], Part IV, Chapter 10, Sec. VI, [http://www.mises.org/humanaction/pdf/nationaloekonomie.pdf ''Nationalökonomie: Theorie des Handelns und Wirtschaftens''] (Geneva: Editions Union, 1940). The quote provided is that of [[Ludwig von Mises|Mises's]] expanded English translation, [http://www.mises.org/humanaction/chap23sec6.asp Chapter XXIII: &quot;The Data of the Market&quot;, Sec. 6: &quot;The Limits of Property Rights and the Problems of External Costs and External Economies&quot;], ''[[Human Action: A Treatise on Economics]]'' (New Haven: Yale University Press, 1949). Also available [http://www.mises.org/humanaction/pdf/HumanActionScholars.pdf here.]&lt;/ref&gt;&lt;/blockquote&gt;
+
+An objection to the privatization approach is that many commons (such as the ozone layer or global fish populations) would be extremely difficult or impossible to privatize.{{Citation needed|date=August 2008}}
+
+Psychologist [[Dennis Fox]] used a number, what is now termed &quot;[[Dunbar's number]]&quot;, to take a new look at the tragedy of the commons. In a 1985 paper titled [http://www.dennisfox.net/papers/commons.html &quot;Psychology, Ideology, Utopia, &amp; the Commons&quot;], he stated &quot;Edney (1980, 1981a) also argued that long-term solutions will require, among a number of other approaches, breaking down commons into smaller segments. He reviewed experimental data showing that cooperative behavior is indeed more common in smaller groups. After estimating that &quot;the upper limit for a simple, self-contained, sustaining, well-functioning commons {{sic}} may be as low as 150 people&quot; (1981a, p.&amp;nbsp;27).
+
+[[Costa Rica]] has successfully advanced the growth of its ecotourism business by taking account of, and pricing for, the environmental business services consumed by pollution.&lt;ref&gt;{{cite news |first=Thomas L. |last=Friedman |title=
+(No) Drill, Baby, Drill |publisher=New York Times Op-Ed Column |date=April 11, 2009 |url=http://www.nytimes.com/2009/04/12/opinion/12friedman.html?em}}&lt;/ref&gt; The [[Coast Salish]] managed their natural resources in a place-based system in which families were responsible for looking after a place and its resources.&lt;ref&gt;http://www.coastalrevelations.com/images/news/Traditional_Ecological_Knowledge.pdf&lt;/ref&gt; Access to food was the major source of wealth and the empowerment of generosity was highly valued, so it made sense for them to take care of the resources.
+
+The &quot;[[Coase theorem|Coasian]]&quot; solution to the problem is also a popular one, whereby the people formerly using the common each gain their own individual part of it instead&amp;nbsp;— so it is no longer a common&amp;nbsp;— and do not have to support one another so as not to deplete the resource.
+
+In Hardin's essay, he proposed that the solution to the problem of overpopulation must be based on &quot;mutual coercion, mutually agreed upon&quot; and result in &quot;relinquishing the freedom to breed&quot;. Hardin discussed this topic further in a 1979 book, ''Managing the Commons,'' co-written with [[John A. Baden]].&lt;ref&gt;{{cite web|url=http://www.ecobooks.com/books/commons.htm |title=Managing the Commons by Garrett Hardin and John Baden |publisher=Ecobooks.com |date= |accessdate=2012-06-22}}&lt;/ref&gt; He framed this prescription in terms of needing to restrict the &quot;[[reproductive rights|reproductive right]]&quot; in order to safeguard all other [[rights]]. Only one large country has adopted this policy, the [[People's Republic of China]]. In the essay, Hardin had rejected education as an effective means of stemming population growth. Since that time, it has been shown that increased educational and economic opportunities for women correlates well with reduced birthrates in most countries, as does economic growth in general.  However, given the nature of the problem as a limit to a given common resource, economic growth resulting in a higher per capita use of the resource may more than offset the decreased population growth's effect on total resource consumption.{{Citation needed|date=August 2008}} Note, however, that this now becomes a problem of economic expectations of a given population, and the problem of birth regulation appears to be eliminated.
+
+===Application to evolutionary biology===
+The ''tragedy of the commons'' is referred to in studies of [[evolutionary biology]], [[social evolution]], [[sociobiology]] and [[behavioral ecology]]. A tragedy of the commons is brought about by selfish individuals whose [[genes]] for selfish behaviour would therefore come to predominate, so the metaphor cannot explain how [[altruism]] arises. This question is addressed instead by models of possible mechanisms that can give rise to &quot;[[reciprocal altruism]],&quot; leading to ideas like the &quot;[[tit for tat]]&quot; rule (reciprocation). These models freed evolutionary theory from the limitations imposed by the concept of &quot;[[inclusive fitness]],&quot; a previous explanation for altruism, which proposed that organisms help others only to the extent that by doing so they increase the probability of passing shared genes to the next generation.
+
+A parallel was drawn recently between the tragedy of the commons and the competing behaviour of parasites that through acting [[Gene-centered view of evolution|selfishly]] eventually diminish or destroy their common host.&lt;ref&gt;[http://eao.igc.gulbenkian.pt/ENS/dionisio_evol_econ_rivalry_excludability.pdf The tragedy of the commons, the public goods dilemma, and the meaning of rivalry and excludability in evolutionary biology] ''Francisco Dionisio and Isabel Gordo'' Evolutionary Ecology Research 2006&lt;/ref&gt;
+
+The idea has also been applied to areas such as the evolution of [[virulence]] or [[sexual conflict]], where males may fatally harm females when competing for matings.&lt;ref&gt;[http://www.socialgenes.org/publications/Pub_TREE1.pdf Sex, death and tragedy] ''Daniel J. Rankin and [[Hanna Kokko]]'' Laboratory of Ecological and Evolutionary Dynamics May 2006&lt;/ref&gt; It is also raised as a question in studies of social insects, where scientists wish to understand why insect workers do not undermine the &quot;common good&quot; by laying eggs of their own and causing a breakdown of the society.
+
+The idea of [[evolutionary suicide]], where adaptation at the level of the individual causes the whole species or population to be driven [[extinct]], can be seen as an extreme form of an evolutionary tragedy of the commons.&lt;ref&gt;[http://www.socialgenes.org/publications/Pub_Oikos1.pdf Can adaptation lead to extinction?] Rankin, D.J. &amp; López-Sepulcre, A. (2005) Oikos 111: 616-619&lt;/ref&gt;&lt;ref&gt;[http://www.socialgenes.org/publications/Pub_TREE2.pdf The tragedy of the commons in evolutionary biology] Rankin, D.J., Bargum, K. &amp; [[Hanna Kokko|Kokko]], H. (2007) Trends in Ecology and Evolution 22: 643-65&lt;/ref&gt;
+
+==The commons dilemma==
+&lt;span id=&quot;The Commons Dilemma&quot; /&gt;
+The ''commons dilemma'' is a specific class of [[social dilemma]] in which people's short-term selfish interests are at odds with long-term group interests and the [[common good]]. In academia, a range of related terminology has also been used as shorthand for the theory or aspects of it, including ''resource dilemma'', ''take-some dilemma'', and ''[[common pool resource]]''.
+
+Commons dilemma researchers have studied conditions under which groups and communities are likely to under- or [[over-harvest]] common resources in both the laboratory and field. Research programs have concentrated on a number of motivational, strategic, and structural factors that might be conducive to management of commons.
+
+In [[game theory]], which constructs mathematical models for individuals' behavior in strategic situations, the corresponding &quot;game&quot;, developed by the ecologist [[Garrett Hardin]], is known as the Commonize Costs&amp;nbsp;— Privatize Profits Game ([[CC–PP game]]).
+
+===Psychological factors===
+Kopelman, Weber, &amp; Messick (2002), in a review of the experimental research on cooperation in commons dilemmas, identify nine classes of independent variables that influence cooperation in commons dilemmas: social motives, gender, payoff structure, uncertainty, power and status, group size, communication, causes, and frames. They organize these classes and distinguish between psychological individual differences (stable personality traits) and situational factors (the environment). Situational factors include both the task (social and decision structure) and the perception of the task. Another important factor—that is not covered in the review by Kopelman et all (2002) -- is culture. Empirical findings support the theoretical argument that the cultural group is a critical factor that needs to be studied in the context of situational variables (Gelfand &amp; Dyer, 2000). Rather than behaving in line with economic incentives, people are likely to approach the decision to cooperate with an appropriateness framework (Weber et al, 2004). An expanded, four factor model of the Logic of Appropriateness (Kopelman, 2009; Myers &amp; Kopelman, 2012), suggests that the cooperation is better explained by the question: ‘‘what does a person like me (identity) do (rules) in a situation like this (recognition) given this culture (group)?”
+
+“The modern history of social psychological research on common property management, commons dilemmas, resource dilemmas, or social dilemmas -- as the field is variously labeled -- began in the 1950s. Von Neumann and Morgenstern in their path-breaking book, [[Theory of Games and Economic Behavior]] (1944) introduced a specific class of models that outlined a theory of individual decision-making (with the axiomatization of preferences and utilities) and proposed a theory of social interdependence for both zero-sum and non-zero-sum games. Although economists had been studying departures from competitive equilibrium models since the turn of the [20th]century, this book spurred a flurry of empirical investigations that explored decision-making and utility functions. By the late 1950s, the general ideas of game theory had been introduced to social psychologists in a formal manner by Luce &amp; Raiffa (1957) and in terms of psychological theory by Thibaut &amp; Kelley (1959)… The 1960s saw the proliferation of experiments on two-person games, largely prisoners’ dilemma games, and, more importantly, on the generalization of the prisoners’ dilemma idea to applied, multi-person situations… More generally, throughout the 1970s and 80s, psychologists examined factors that influence cooperation across the range of social dilemmas, including commons dilemmas, prisoners’ dilemmas, and public goods tasks (for a broader review of social dilemmas in the social psychological research see Dawes, 1980; Komorita &amp; Parks, 1994; Messick &amp; Brewer, 1983). Much of the early work on Prisoners’ dilemmas was criticized on the grounds that it was atheoretical and that it had little to say about extra-laboratory affairs (Pruitt &amp; Kimmel, 1977).” (Kopelman, Weber, &amp; Messick, 2002, p. 114-115).  Broader review of social dilemmas in the social psychological research, also include earlier research on commons dilemmas, as well as public goods, prisoner's dilemmas, and more (Dawes, 1980; Komorita &amp; Parks, 1994; Messick &amp; Brewer, 1983).
+
+===Strategic factors===
+[[Strategy|Strategic]] factors also matter in commons dilemmas. One often-studied strategic factor is the order in which people take harvests from the resource. In simultaneous play, all people harvest at the same time, whereas in sequential play people harvest from the pool according to a predetermined sequence&amp;nbsp;— first, second, third, etc. There is a clear order effect in the latter games: the harvests of those who come first&amp;nbsp;— the leaders&amp;nbsp;— are higher than the harvest of those coming later&amp;nbsp;— the followers. The interpretation of this effect is that the first players feel entitled to take more. With sequential play, individuals adopt a first come-first served rule, whereas with simultaneous play people may adopt an equality rule. Another strategic factor is the ability to build up reputations. Research {{By whom|date=December 2011}} found that people take less from the common pool in public situations than in anonymous private situations. Moreover, those who harvest less gain greater prestige and influence within their group.
+
+===Structural factors===
+Much research has focused on when and why people would like to structurally rearrange the commons to prevent a tragedy. Hardin stated in his analysis of the tragedy of the commons that &quot;Freedom in a commons brings ruin to all.&quot;&lt;ref&gt;Hardin, 1244&lt;/ref&gt; One of the proposed solutions is to appoint a leader to regulate access to the common. Groups are more likely to endorse a leader when a common resource is being depleted and when managing a common resource is perceived as a difficult task. Groups prefer leaders who are elected, democratic, and prototypical of the group, and these leader types are more successful in enforcing cooperation. A general aversion to autocratic [[leadership]] exists, although it may be an effective solution, possibly because of the fear of power abuse and corruption.
+
+The provision of rewards and punishments may also be effective in preserving common resources. Selective punishments for overuse can be effective in promoting domestic water and energy conservation&amp;nbsp;— for example, through installing water and electricity meters in houses. Selective rewards work, provided that they are open to everyone. An experimental carpool lane in the Netherlands failed because car commuters did not feel they were able to organize a carpool.{{Citation needed|date=August 2008}}  The rewards do not have to be tangible. In Canada there is a movement to put &quot;smiley faces&quot; on electricity bills if you are below the average for your class.&lt;ref&gt;{{cite web|url=http://unambig.com/a-smiley-face-emoticon-for-your-electric-bill/ |title=A Smiley Face Emoticon For Your Electric Bill &amp;#124; Unambiguously Ambidextrous |work=Unambig.com |date= |accessdate=2012-04-06}}&lt;/ref&gt; Much field research on commons dilemmas has combined solutions obtained in experimental research.{{Citation needed|date=August 2008}} [[Elinor Ostrom]], who was awarded 2009's Nobel Prize of Economics for her work on the issue, and her colleagues looked at how real-world communities manage communal resources, such as fisheries, land irrigation systems, and farmlands, and they identified a number of factors conducive to successful resource management. One factor is the resource itself; resources with definable boundaries (e.g., land) can be preserved much more easily. A second factor is resource dependence; there must be a perceptible threat of resource depletion, and it must be difficult to find substitutes. The third is the presence of a community; small and stable populations with a thick social network and social norms promoting conservation do better.&lt;ref&gt;Elinor Ostrom: [http://www.youtube.com/watch?v=ByXM47Ri1Kc  ''Beyond the tragedy of commons'']. Stockholm whiteboard seminars. (Video, 8:26 min.)&lt;/ref&gt; A final condition is that there be appropriate community-based rules and procedures in place with built-in incentives for responsible use and punishments for overuse.
+
+==Related outcomes==
+Tragedy of the commons is one of four outcomes{{Citation needed|date=July 2012}}:
+{| class=&quot;wikitable&quot;
+|-
+!
+! Private ownership
+! Common ownership
+|-
+| Bad outcome/tragedy
+| [[Tragedy of the anticommons]]
+| Tragedy of the commons
+|-
+| Good outcome/cornucopia
+| Successful [[capitalism]]
+| [[Inverse commons]]
+|}
+
+The prevalent outcome depends on the details of the situation. The opposite outcome to the ''tragedy'' is the &quot;[[comedy of the commons]]&quot;&lt;ref&gt;{{cite journal |url= http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=2827&amp;context=fss_papers |title=The Comedy of the Commons: Commerce, Custom, and Inherently Public Property |first= C. M. |last=Rose |work=digitalcommons.law.yale.edu |date= summer 1986 |accessdate=4 September 2011 |quote= the commons was not tragic, but comedic, in the classical sense of a story with a happy outcome. And customary doctrines suggest that commerce might be thought a &quot;comedy of the commons&quot; not only because it may infinitely expand our wealth, but also, at least in part, because it has been thought to enhance the sociability of the members of an otherwise atomized society |pages= 723–781 |journal= The University of Chicago Law Review   | volume = 53  | issue = 3 }}&lt;/ref&gt; or &quot;Inverse commons&quot;, in which [[network effect]]s or other causes enhance the value of [[Rivalry (economics)|rivalrous resources]] ''because of'' the lack of regulation or private ownership.
+
+==See also==
+&lt;!-- alpha order --&gt;
+{{Refbegin|3}}
+* [[The commons]]
+* [[Diner's dilemma]]
+* [[Enlightened self-interest]]
+* [[Free rider problem]]
+* [[International Association for the Study of the Commons]]
+* [[Inverse commons]] (also known as &quot;The cornucopia of the commons&quot;)
+* [[Khazzoom–Brookes postulate]]
+* &quot;[[The Market for Lemons]]&quot;
+* [[Nash Equilibrium]]
+* [[Overexploitation]]
+* [[Population control]]
+* [[Primitive accumulation of capital]]
+* [[Race to the bottom]]
+* [[Social dilemma]]
+* [[Social trap]]
+* [[Socialism]]
+* [[Somebody Else's Problem]]
+* [[Tragedy of the anticommons]]
+* [[Tyranny of small decisions]]
+{{Refend}}
+&lt;!-- alpha order --&gt;
+
+==Notes==
+{{Cleanup-link rot|date=June 2012}}
+{{Reflist|30em}}
+
+==References==
+{{More footnotes|date=June 2012}}
+* Angus, I. (2008). [http://www.socialistvoice.ca/?p=316 The myth of the tragedy of the commons], ''Socialist Voice'' (August 24).
+* Foddy, M., Smithson, M., Schneider, S., &amp; Hogg, M. (1999). Resolving social dilemmas. Philadelphia, PA: Psychology Press.
+* {{cite journal | last1 = Messick | first1 = D. M. | last2 = Wilke | first2 = H. A. M. | last3 = Brewer | first3 = M. B. | last4 = Kramer | first4 = R. M. | last5 = Zemke | first5 = P. E. | last6 = Lui | first6 = L. | year = 1983 | title = Individual adaptations and structural change as solutions to social dilemmas | url = | journal = Journal of Personality and Social Psychology | volume = 44 | issue = 294| page = 309 }}
+* Kopelman, S., Weber, M, &amp; Messick, D. (2002). [http://www.nap.edu/catalog.php?record_id=10287 Factors Influencing Cooperation in Commons Dilemmas: A Review of Experimental Psychological Research]. In E. Ostrom et al., (Eds.) The Drama of the Commons. Washington DC: National Academy Press. Ch. 4., 113-156
+*Kopelman, S. (2009). [http://www.sciencedirect.com/science/article/pii/S0749597808000769 The effect of culture and power on cooperation in commons dilemmas: Implications for global resource management]. Organization Behavior and Human Decision Processes, 108, 153-163. doi:10.1016/j.obhdp.2008.06.004
+* Ostrom, E.  (1990). Governing the commons: The evolution of institutions for collective action. Cambridge: [[Cambridge University Press]].
+* {{cite journal | last1 = Van Vugt | first1 = M. | year = 2001 | title = Community identification moderating the impact of financial incentives in a natural social dilemma | url = | journal = Personality and Social Psychology Bulletin | volume = 27 | issue = | pages = 1440–1449 }}
+* {{cite journal | last1 = Van Vugt | first1 = M. | year = 2009 | title = Triumph of the commons: Helping the world to share | url = http://www.professormarkvanvugt.com/index.php/publications/27-applications/101-triumph-of-the-commons | journal = New Scientist | issue = 2722 | pages = 40–43 }}
+* {{cite journal | last1 = Van Vugt | first1 = M. | last2 = Van Lange | first2 = P. A. M. | last3 = Meertens | first3 = R. M. | last4 = Joireman | first4 = J. A. | year = 1996 | title = Why structural solutions to social dilemmas might fail: A field experiment on the first carpool priority lane in Europe | url = | journal = Social Psychology Quarterly | volume = 59 | issue = | pages = 364–374 }}
+* Weber, M., Kopelman, S., &amp; Messick, D. (2004). [http://psr.sagepub.com/content/8/3/281.refs A conceptual Review of Decision Making in Social Dilemmas: Applying the Logic of Appropriateness]. Personality and Social Psychology Review, 8 (3), 281-307
+
+==Further reading==
+*{{cite journal | last =Hardin | first =G. | authorlink = | coauthors = | year =1994 | month = | title =The Tragedy of the Unmanaged Commons | journal =Trends in Ecology &amp; Evolution | volume =9 | issue = 5| page =199 | doi = 10.1016/0169-5347(94)90097-3| url = | accessdate = | quote = }}
+* Ostrom, E.  (1990). Governing the commons: The evolution of institutions for collective action. Cambridge: Cambridge University Press.
+* [http://www.amazon.com/dp/0393310353 ''Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life''] by Avinash Dixit and Barry Nalebuff
+*Kopelman, S., Weber, M, &amp; Messick, D. (2002). [http://www.nap.edu/catalog.php?record_id=10287 Factors Influencing Cooperation in Commons Dilemmas: A Review of Experimental Psychological Research]. In E. Ostrom et al., (Eds.) The Drama of the Commons. Washington DC: National Academy Press. Ch. 4., 113-156
+
+==External links==
+{{wiktionary}}
+&lt;!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] &amp; [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+======================={{No more links}}=============================--&gt;
+* [http://www.sciencemag.org/cgi/content/full/162/3859/1243 Original article by Garrett Hardin] from [[Science (journal)]]
+* [http://dlc.dlib.indiana.edu/ The Digital Library of the Commons]
+* [http://mrzine.monthlyreview.org/2008/angus250808.html &lt;cite&gt;The Myth of the Tragedy of the Commons&lt;/cite&gt;] by Ian Angus
+* [http://www.greens.org/s-r/24/24-26.html Global Tragedy of the Commons] by John Hickman and Sarah Bartlett
+* [http://www.scq.ubc.ca/tragedy-of-the-commons-explained-with-smurfs/ Tragedy of the Commons Explained with Smurfs] by Ryan Somma
+
+{{Sustainability}}
+{{Game theory}}
+{{unintended consequences}}
+
+{{DEFAULTSORT:Tragedy Of The Commons}}
+[[Category:Environmental economics]]
+[[Category:Game theory]]
+[[Category:Market failure]]
+[[Category:Metaphors]]
+[[Category:Land use]]
+[[Category:Public commons]]
+[[Category:Tragedy]]
+[[Category:Sociological terms]]
+[[Category:1968 introductions]]
+
+[[ar:المأساة المشتركة]]
+[[cs:Tragédie obecní pastviny]]
+[[de:Tragik der Allmende]]
+[[et:Ühisomanditragöödia]]
+[[el:Τραγωδία των Κοινών]]
+[[es:Tragedia de los comunes]]
+[[fr:Tragédie des biens communs]]
+[[ko:공유지의 비극]]
+[[it:Tragedia dei beni comuni]]
+[[he:הטרגדיה של נחלת הכלל]]
+[[lt:Bendruomenių tragedija]]
+[[hu:A közlegelők tragédiája]]
+[[mg:Lozan’ny fananana iombonana]]
+[[nl:Tragedie van de meent]]
+[[ja:コモンズの悲劇]]
+[[no:Allmenningens tragedie]]
+[[pl:Tragedia wspólnego pastwiska]]
+[[pt:Tragédia dos comuns]]
+[[ru:Трагедия общин]]
+[[simple:Tragedy of the commons]]
+[[sl:Tragedija skupnega]]
+[[fi:Yhteismaan ongelma]]
+[[sv:Allmänningens dilemma]]
+[[th:โศกนาฏกรรมของสาธารณสมบัติ]]
+[[uk:Трагедія спільнот]]
+[[vi:Bi kịch của mảnh đất công]]
+[[zh:公地悲劇]]</text>
+      <sha1>aen08sv2fdkyi0opp9k6p499abugmhu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

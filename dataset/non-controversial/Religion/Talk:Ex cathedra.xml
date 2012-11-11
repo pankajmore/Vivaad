@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Ex cathedra</title>
+    <ns>1</ns>
+    <id>4468080</id>
+    <revision>
+      <id>295989347</id>
+      <parentid>65183586</parentid>
+      <timestamp>2009-06-12T15:13:06Z</timestamp>
+      <contributor>
+        <username>Meco</username>
+        <id>877870</id>
+      </contributor>
+      <comment>Reassessed class=Redirect</comment>
+      <text xml:space="preserve" bytes="664">{{Project Catholicism|class=Redirect|importance=NA}}
+
+Hi does anyone know what the last ex cathedra statement was?
+Luv Cris
+
+: [[Munificentissimus Deus]] by [[Pope Pius XII]] in 1950.  This statement formally defined the doctrine of the [[Assumption of Mary]], which had been part of Catholic and Orthodox tradition for many centuries.  - [[User:Lawrence King|Lawrence King]] 02:22, 22 March 2006 (UTC)
+
+== inappropriate? ==
+
+or the scribes and elders could, in Jesus's word, speak &quot;from Moses's seat.&quot;
+
+this part of text does not serve a significant purpose. in fact i believe it is only confusing. in the meantime, i've deleted it. change it back, see if i care.</text>
+      <sha1>nql7yv0bf8kwq7xme7j4nsn3mr1xzka</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

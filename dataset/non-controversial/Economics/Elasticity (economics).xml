@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Elasticity (economics)</title>
+    <ns>0</ns>
+    <id>171614</id>
+    <revision>
+      <id>520757280</id>
+      <parentid>520755977</parentid>
+      <timestamp>2012-10-31T15:20:48Z</timestamp>
+      <contributor>
+        <username>JamesBWatson</username>
+        <id>1909773</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/50.71.242.219|50.71.242.219]] ([[User talk:50.71.242.219|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])</comment>
+      <text xml:space="preserve" bytes="14220">{{Economics sidebar}}
+{{Confusing|date=December 2010}}
+
+In [[economics]], '''elasticity''' is the measurement of how changing one economic variable affects others.  For example:
+* &quot;If I lower the price of my product, how much more will I sell?&quot;
+* &quot;If I raise the price, how much less will I sell?&quot;
+* &quot;If we learn that a resource is becoming scarce, will people scramble to acquire it?&quot;
+ 
+In more technical terms, it is the ratio of the [[percent change|percentage change]] in one variable to the percentage change in another variable. It is a tool for measuring the responsiveness of a function to changes in parameters in a unitless way. Frequently used elasticities include [[price elasticity of demand]], [[price elasticity of supply]], [[income elasticity of demand]], [[elasticity of substitution]] between [[factors of production]] and [[elasticity of intertemporal substitution]].
+
+Elasticity is one of the most important concepts in neoclassical economic theory. It is useful in understanding the [[incidence of indirect taxation]], [[marginal concepts]] as they relate to the [[theory of the firm]], and [[distribution of wealth]] and different [[good (economics)|types of goods]] as they relate to the [[theory of consumer choice]]. Elasticity is also crucially important in any discussion of [[welfare economics|welfare]] distribution, in particular [[consumer surplus]], [[producer surplus]], or [[government surplus]].
+
+In empirical work an elasticity is the estimated coefficient in a [[linear regression]] equation where both the [[dependent variable]] and the [[independent variable]] are in [[natural log]]s. Elasticity is a popular tool among empiricists because it is independent of units and thus simplifies data analysis.
+
+Generally, an elastic variable is one which responds a lot to small changes in other parameters. Similarly, an inelastic variable describes one which does not change much in response to changes in other parameters. A major study of the [[price elasticity of supply]] and the [[price elasticity of demand]] for US products was undertaken by Hendrik S. Houthakker and Lester D. Taylor.&lt;ref&gt;Hendrik S. Houthakker, Lester D. Taylor (1970).&lt;/ref&gt;
+
+==Mathematical definition==
+{{main|Elasticity of a function}}
+The definition of elasticity is based on the mathematical notion of [[point elasticity]]. In general, the &quot;''x''-elasticity of ''y''&quot;, also called the &quot;elasticity of ''y'' with respect to ''x''&quot;, is:
+
+:&lt;math&gt;E_{y,x} = \left|\frac{\partial \ln y}{\partial \ln x}\right| = \left|\frac{\partial y}{\partial x}\cdot\frac{x}{y}\right| \approx \left|\frac {% \Delta y} {% \Delta x}\right|&lt;/math&gt;
+
+The approximation becomes exact in the limit as the changes become infinitesimal in size. The absolute value operator is for simplicity – generally, depending on context, the sign of the elasticity is understood as being always positive or always negative. However, sometimes the elasticity is defined without the absolute value operator, when the sign may be either positive or negative or may change signs. A context where this use of a signed elasticity is necessary for clarity is the cross-price elasticity of demand — the responsiveness of the demand for one product to changes in the price of another product; since the products may be either [[Substitute good|substitutes]] or [[Complement good|complements]], this elasticity could be positive or negative.
+
+== Specific elasticities ==
+=== Elasticities of demand ===
+; Price elasticity of demand
+{{Main|Price elasticity of demand}}
+: Price elasticity of demand measures the percentage change in quantity demanded caused by a percent change in price. As such, it measures the extent of movement along the demand curve. This elasticity is almost always negative and is usually expressed in terms of absolute value (i.e. as positive numbers) since the negative can be assumed. In these terms, then, if the elasticity is greater than 1 demand is said to be elastic; between zero and one demand is inelastic and if it equals one, demand is unit-elastic. A perfectly elastic demand curve is horizontal (with an elasticity of infinity) whereas a perfectly inelastic demand curve is vertical (with an elasticity of 0).
+
+; Income elasticity of demand
+{{Main|Income elasticity of demand}}
+: Income elasticity of demand measures the percentage change in demand caused by a percent change in income. A change in income causes the demand curve to shift reflecting the change in demand. IED is a measurement of how far the curve shifts horizontally along the X-axis. Income elasticity can be used to classify goods as normal or inferior. With a normal good demand varies in the same direction as income. With an inferior good demand and income move in opposite directions.&lt;ref name=&quot;Negbennebor, Microeconomics 2001&quot;&gt;Negbennebor (2001).&lt;/ref&gt;
+
+; Cross price elasticity of demand
+{{Main|Cross price elasticity of demand}}
+: Cross price elasticity of demand measures the percentage change in demand for a particular good caused by a percent change in the price of another good. Goods can be complements, substitutes or unrelated. A change in the price of a related good causes the demand curve to shift reflecting a change in demand for the original good. Cross price elasticity is a measurement of how far, and in which direction, the curve shifts horizontally along the x-axis. A positive cross-price elasticity means that the goods are [[substitute good]]s.
+
+; Cross elasticity of demand between firms
+{{Main|Conjectural variation}}
+: Cross elasticity of demand for firms, sometimes referred to as [[conjectural variation]], is a measure of the interdependence between firms. It captures the extent to which one firm reacts to changes in strategic variables (price, quantity, location, advertising, etc.) made by other firms.
+
+; Elasticity of intertemporal substitution
+{{Main|Elasticity of intertemporal substitution}}
+
+; Combined Effects
+: It is possible to consider the combined effects of two or more determinant of demand. The steps are as follows: PED = (∆Q/∆P) x P/Q. Convert this to the predictive equation: ∆Q/Q = PED(∆P/P) if you wish to find the combined effect of changes in two or more determinants of demand you simply add the separate effects: ∆Q/Q = PED(∆P/P) + YED(∆Y/Y)[12]
+: Remember you are still only considering the effect in demand of a change in two of the variables. All other variables must be held constant. Note also that graphically this problem would involve a shift of the curve and a movement along the shifted curve.
+
+=== Elasticities of supply ===
+; Price elasticity of supply
+{{Main|Price elasticity of supply}}
+: The price elasticity of supply measures how the amount of a good firms wish to supply changes in response to a change in price.&lt;ref name=&quot;Perloff, J. 2008. p.36&quot;&gt;Perloff, J. (2008). p.36.&lt;/ref&gt; In a manner analogous to the price elasticity of demand, it captures the extent of movement along the supply curve. If the price elasticity of supply is zero the supply of a good supplied is &quot;inelastic&quot; and the quantity supplied is fixed.
+
+; Elasticities of scale
+{{Main|Returns to scale}}
+: Elasticity of scale or output elasticities measure the percentage change in output induced by a percent change in inputs.&lt;ref&gt;Varian (1992). pp.16&amp;ndash;17.&lt;/ref&gt; A [[production function]] or process is said to exhibit [[constant returns to scale]] if a percentage change in inputs results in an equal percentage in outputs (an elasticity equal to 1). It exhibits [[increasing returns to scale]] if a percentage change in inputs results in greater percentage change in output (an elasticity greater than 1). The definition of [[decreasing returns to scale]] is analogous.&lt;ref&gt;Samuelson, W. &amp; Marks, S. (2003). p.233.&lt;/ref&gt;
+
+==Applications==
+The concept of elasticity has an extraordinarily wide range of applications in economics. In particular, an understanding of elasticity is fundamental in understanding the response of [[supply and demand]] in a market.
+
+Some common uses of elasticity include:
+* Effect of changing price on firm revenue. ''See [[Markup rule]]''.
+* Analysis of incidence of the tax burden and other government policies. ''See [[Tax incidence]]''.
+* Income elasticity of demand can be used as an indicator of industry health, future consumption patterns and as a guide to firms [[investment]] decisions. ''See [[Income elasticity of demand]]''.
+* Effect of international trade and [[terms of trade]] effects. ''See [[Marshall–Lerner condition]] and [[Singer–Prebisch thesis]].
+* Analysis of [[Consumption (economics)|consumption]] and [[saving]] behavior. ''See [[Permanent income hypothesis]]''.
+* Analysis of [[advertising]] on consumer demand for particular goods. ''See [[Advertising elasticity of demand]]''
+
+== Variants ==
+In some cases the discrete (non-infinitesimal) [[arc elasticity]] is used instead. In other cases, such as [[modified duration]] in bond trading, a percentage change in output is divided by a unit (not percentage) change in input, yielding a [[semi-elasticity]] instead.
+
+==See also==
+{{Portal|Economics}}
+*[[Arc elasticity]]
+*[[Elasticity of a function]]
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+
+{{Refbegin}}
+
+* {{Cite book|last1=Ayers|last2=Collins|title=Microeconomics|publisher=Pearson|year=2003}}
+* {{Cite book|last1=Binger|last2=Hoffman|title=Microeconomics with Calculus|edition=2nd|publisher=Addison-Wesley|year=1998}}
+* {{Cite book|last1=Case|first1=K|last2=Fair|first2=R|year=1999|title=Principles of Economics|edition=5th}}
+* {{Cite book|last1=Chiang|last2=Wainwright|year=2005|title=Fundamental Methods of Mathematical Economics|edition=4th ed.|publisher=McGraw-Hill}}
+* {{cite book|last=Curran|first=John|title=Taking the fear out of economics|url=http://books.google.co.uk/books?id=iBFNU2eOPRIC|accessdate=16 February 2010|date=December 1999|publisher=Cengage Learning EMEA|isbn=978-1-86152-474-4}}
+* {{Cite book|last=Dowling|first=E|title=Introduction to Mathematical Economics|edition=3rd|publisher=McGraw-Hill|year=1980|isbn=978-0-07-135896-5}}
+* {{Cite book|last=Gell-Mann|year=1994|chapter=Is the measure of love the price of prostitution?|title=The Quark and the Jaguar|publisher=Holt}}
+* {{Cite book|last1=Goodwin|last2=Nelson|last3=Ackerman|last4=Weissskopf|year=2009|title=Microeconomics in Context|edition=2d ed.|publisher=Sharpe}}
+* {{Cite book|first1=Hendrik S.|last=Houthakker|first2=Lester D.|last2=Taylor|title=Consumer Demand in the United States: Analyses and Projections|publisher=Harvard University Press}}
+* {{Cite book|last=Kreps|first=D.|year=1990|title=A Course in Microeconomic Theory|publisher=Princeton}}
+* {{Cite web|last=Kuehlwein|title=Cocaine and the Elasticity of Demand|url= http://www.maths.manchester.ac.uk/service/resources/METAL/pdfs/differentiation/disc_ex.pdf|publisher=Manchester University}}
+* {{Cite book|last=Landers|title=Estimates of the Price Elasticity of Demand for Casino Gaming and the Potential Effects of Casino Tax Hikes|date=February 2008}}
+* {{Cite book|last1=Mas-Colell|first1=Andreu|author1-link=Andreu Mas-Colell|first2=Michael D.|last2=Winston|first3=Jerry R.|last3=Green|year=1995|title=Microeconomic Theory|publisher=Oxford University Press|location=New York}}
+* {{Cite book|last1=Melvin|last2=Boyes|title=Microeconomics|edition=5th|publisher=Houghton Mifflin|year=2002}}
+* {{Cite web|last=Moffatt|title=How Do We Interpret the Price Elasticity of Demand?|url=http://economics.about.com/cs/micfrohelp/a/calculus_i.htm|publisher=About}}
+* {{Cite book|last=Negbennebor|year=2001|title=Microeconomics|chapter=The Freedom to Choose|isbn=1-56226-485-0}}
+* {{Cite book|last1=O'Sullivan|first1=A.|last2=Sheffrin|first2=S.|year=2005|title=Microeconomics|edition=4th|publisher=Pearson}}
+* {{Cite book|last=Perloff|first=J.|title=Microeconomics Theory &amp; Applications with Calculus|publisher=Pearson|year=2008|isbn=978-0-321-27794-7}}
+* {{Cite book|last=Png|first=Ivan|year=1999|title=Managerial Economics|publisher=Blackwell}}
+* {{Cite book|last1=Pindyck|last2=Rubinfeld|title=Microeconomics|edition=5th|publisher=Prentice-Hall|year=2001}}
+* {{Cite book|author=Research and Education Association|year=1995|title=The Economics Problem Solver|publisher=REA}}
+* {{Cite book|last1=Samuelson|first1=W.|last2=Marks|first2=S.|year=2003|title=Managerial Economics|edition=4th|publisher=Wiley}}
+* {{Cite book|last1=Samuelson|last2=Nordhaus|year=2001|title=Microeconomics|edition=17th|publisher=McGraw-Hill}}
+* {{Cite book|last=Varian|year=1992|title=Microeconomic Analysis|edition=3rd|publisher=Norton}}
+
+{{Refend}}
+
+==External links==
+* [http://www.investopedia.com/university/economics/economics4.asp Economics Basics: Elasticity] from [http://www.investopedia.com/ Investopedia.com]. Accessed February 29, 2008.
+* [http://demonstrations.wolfram.com/RevenueAndElasticity/ Revenue and Elasticity] and [http://demonstrations.wolfram.com/ElasticityTotalRevenueAndTheLinearDemandCurve/ Elasticity, Total Revenue, and the Linear Demand Curve] by Fiona Maclachlan, [[Wolfram Demonstrations Project]].
+* Introduction to Economics: [http://eco.nm.ru/elastisity.htm Elasticity of Demand]
+
+{{microeconomics-footer}}
+
+{{DEFAULTSORT:Elasticity (Economics)}}
+[[Category:Elasticity (economics)| ]]
+[[Category:Microeconomics]]
+
+[[ar:مرونة (اقتصاد)]]
+[[bg:Еластичност на търсенето и предлагането]]
+[[ca:Elasticitat (economia)]]
+[[da:Elasticitet (økonomi)]]
+[[de:Elastizität (Wirtschaft)]]
+[[es:Elasticidad (economía)]]
+[[eu:Elastikotasun (ekonomia)]]
+[[fa:کشش (اقتصاد)]]
+[[fr:Élasticité (économie)]]
+[[gl:Elasticidade (economía)]]
+[[ko:탄력성]]
+[[id:Elastisitas (ekonomi)]]
+[[is:Teygni]]
+[[it:Elasticità (economia)]]
+[[he:גמישות (כלכלה)]]
+[[lo:ຄວາມຍືດຍຸ່ນ]]
+[[hu:Árrugalmasság]]
+[[nl:Elasticiteit (economie)]]
+[[ja:弾力性]]
+[[no:Priselastisitet]]
+[[pt:Elasticidade (economia)]]
+[[ro:Elasticitate (economie)]]
+[[ru:Эластичность (экономика)]]
+[[simple:Elasticity (economics)]]
+[[sk:Pružnosť (ekonómia)]]
+[[fi:Jousto]]
+[[tr:Elastikiyet (ekonomi)]]
+[[uk:Еластичність попиту]]
+[[vi:Độ co giãn (kinh tế học)]]
+[[zh:弹性 (经济学)]]</text>
+      <sha1>7oihwk66iu0pczaxp3u9hqll6mfalj2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

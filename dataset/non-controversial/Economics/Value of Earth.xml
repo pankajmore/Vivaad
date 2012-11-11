@@ -1,0 +1,119 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Value of Earth</title>
+    <ns>0</ns>
+    <id>255088</id>
+    <revision>
+      <id>521735071</id>
+      <parentid>472624896</parentid>
+      <timestamp>2012-11-06T22:00:50Z</timestamp>
+      <contributor>
+        <ip>65.36.73.221</ip>
+      </contributor>
+      <comment>terraforming was already linked</comment>
+      <text xml:space="preserve" bytes="8910">{{Unreferenced|date=November 2007}}
+
+{{Green politics sidebar}}
+In [[green economics]], '''value of Earth''' is the ultimate in [[ecosystem valuation]], and important to [[value of life]] calculations. It begins with the simple problem that if the [[Earth]] ceases to support life, and human life does not continue elsewhere, all economic activity will also cease.
+
+==Methods of estimation==
+There are several ways to estimate the value of Earth:
+*Estimate the [[value of life]] for everything that lives on it, and assign the Earth, as a necessary component and home for that life, the [[natural capital]] on which [[individual capital]] thrives, at least this much value.  Since not all life is valued, and a very little is overvalued, there is high risk of under-estimation.  One way to avoid this is to work continent by continent to see if there is systematic inflation of the price of life on some compared to the others.
+*Estimate the cost of replacing the Earth, which may include finding and colonizing another planet, or creating one artificially in a compatible orbit.  What if the natural capital of a nearby planet, e.g. [[Mars]], were to compete?  What would be the cost of [[terraforming]] it to make it as comfortable as Earth?  Or even barely habitable?  An issue is whether to count transport costs.
+**As a variation, estimate the cost of a smaller habitat, such as [[Biosphere 2]], and multiply its cost by the ratio between the population of Earth and of that smaller habitat. This however is to rely on below-minimum cost figures, since Biosphere 2, although brilliantly ambitious and expensive, was a flop.  This method yields only a floor value which Earth itself would vastly exceed.  ''See below for more details.''
+**As another variation, figure out every disaster that might occur due to failure of the [[biosphere]], to lesser or greater degree, and calculate the price of [[insurance]] against all of it.  The averted insurance payments are effectively a yield, and, this is one way to calculate the value of what Earth is doing for us, for as long as these averted failures do not occur.
+*Calculate the yield of [[natural capital]] and use the size and consistency of this yield to calculate how much capital there must be.  This method was pioneered by [[Robert Costanza]] and is promoted in ''[[Natural Capitalism: Creating the Next Industrial Revolution]]''.
+
+As one might expect, these all produce quite high values for the entire Earth, usually at least in the hundreds of quadrillions of [[US dollar]]s.  This seems appropriate.  However, even with this sum in hand, it seems unlikely that even experienced reconstruction subcontractors could complete the task of replacing Earth, certainly not without using Earth itself as a base.  Rent for use of Earth and its orbit might then also have to be included, and it would be hard to price this without calculating the price of the Earth, again.
+
+One way around this is to simply declare the Earth priceless or to be exactly and only as valuable as all [[financial capital]] in circulation.  This may be equivalent to declaring it worthless, however, as [[neo-classical economics]] deals very poorly with assets that are too valuable to trade actively in markets.
+
+==Replacement methods==
+Returning to the calculation in terms of the replacement cost of Earth's biosystems:
+''(Note: All the numbers in this section use the [[Long and short scales|short scale, not the long scale]].)''
+
+In Biosphere 2, over $240 million was spent on developing the infrastructure to support eight people for two years. The project failed and fresh air had to be pumped in to save the lives of the participants.  So Earth is worth at least:
+:( $240 million / 8 people ) &amp;times; 6.5 billion people on Earth  = $195 quadrillion (that is, $1.95 &amp;times; 10&lt;sup&gt;17&lt;/sup&gt;).
+
+This represents the minimum value of the Earth using today's technology.  Because the project failed, the true value must be higher than this amount.  However, economies of scale in biosphere production would obviously reduce this number significantly.  Mass production of one billion biosphere units would reduce the per-unit cost by several orders of magnitude.{{Citation needed|date=March 2010}}
+
+To put this into perspective, assuming the total value of the [[gross world product]] is $30 trillion, that sum divided into $1.95 &amp;times; 10&lt;sup&gt;17&lt;/sup&gt; = 6500 times the world's current gross product.
+
+From this we can estimate the cost of cutting a tree or taking a single fish from the ocean if there is evidence that that yielded resource unit may not be replaced.  The probability that the resource will be replaced reduces the cost, so a 50% chance that it will be replaced implies that the cost should be cut in half, since two of them can be taken, on average, before one is not replaced.
+
+These estimates can be done using a linear method, for initial estimates, or using an exponential model to place greater value on the remaining elements of a declining resource.
+
+Further calculation of the value of one tree (replaced or not), a metric ton of fish, or of soil carbon depends on these probabilities.  The curve for replaced and unreplaced biomass will be relatively equivalent as long as the total biomass is relatively large.  As the total biomass in a specific area becomes depleted to the point where the entire sustainability of the biomass is threatened, then the exponential part of the curve comes into play.
+
+Ultimately, we are left with the question, how much are we prepared to pay in order to avert imminent death as individuals. That sum is relatively large.  As resources are depleted to the point where the conflict over what remains begins to dominate the risk of taking it, it becomes more obvious due to costs of protection and securing property.
+
+So, any calculation based on costs of replacing ecosystems tends to lead to a calculation based on costs of protecting ecosystems so that their yield can be controlled - but only at the tail end of the process, when it is too late to replace them.
+
+There are implications for costs of [[national security]] and [[climate change]], both of which may have to be counted as full [[factors of production]] in such an analysis, if not full [[capital (economics)|styles of capital]] - a factor which if not present in tight parameters prevents all gains from all investment in production.
+
+==Purpose in economic risk assessment==
+Although assigning a value to the entire Earth may seem whimsical, it is highly important in risk assessment.  In the extreme view, absolutely nothing can be carried out without some risk that it will directly or indirectly exterminate life on earth, however usually the probability is so low as to be negligible.  Another way of stating the value of the earth is the risk we are willing to take with it.  And the amount of risk we are willing to take must be balanced against the possible reward.  Such calculation will invariably use other moral or environmental assumptions for other outcomes, such as the value of human life.
+
+To give a contrived example, supposing a research project could yield a cure for a certain fatal disease, but there is a small risk that the experiment itself could accidentally (through incompetence, negligence or malicious intent say) spread the disease in a virulent form - with a remote chance of wiping out the planet (or at least life on earth).  By assigning a value to the potential lives saved and to the potential loss of life in failure, it becomes simple to assess how much risk is too much risk.
+
+When used in these situations the value used for the Earth could vary markedly, and have little bearing on real currency.
+
+Other situations, however, may have more direct financial application, such as an [[asteroid]] defence mechanism.  There is a minute probability of an asteroid strike large enough to destroy the planet - what should we do about this?  Clearly if we poured the entire GDP of the planet into protecting against this, we could minimise the risk, but might there be better things to spend it on?  Instead, armed with a value for the planet, we can put in place systems that provide early warning and a good measure of the probability of asteroid impact.  This knowledge itself reduces the average cost of a meteor impact to an &quot;acceptable&quot; level.
+
+==References==
+*''&quot;Why Care for Earth's Environment?&quot;'' (in the series ''&quot;The Bible's Viewpoint&quot;'') is a two-page article in the December 2007 issue of [[Awake!]] magazine.  This represents the [[Bible]]'s viewpoint according to the viewpoint of [[Jehovah's Witnesses]].
+
+==See also==
+{{Portal|Sustainable development}}
+* [[Earth Day]]
+* [[Ecosystem services]]
+* [[Existence value]]
+* [[World Ocean Day]]
+* [[World Water Day]]
+
+{{DEFAULTSORT:Value Of Earth}}
+[[Category:Environmental economics]]
+[[Category:Sustainability]]
+[[Category:Value]]
+
+[[fi:Maapallon arvo]]</text>
+      <sha1>k0h018yjhg9ag7bdgzdknddbzhf2ba9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

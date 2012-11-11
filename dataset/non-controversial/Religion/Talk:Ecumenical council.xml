@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Ecumenical council</title>
+    <ns>1</ns>
+    <id>9777</id>
+    <revision>
+      <id>489401093</id>
+      <parentid>457611662</parentid>
+      <timestamp>2012-04-27T00:51:18Z</timestamp>
+      <contributor>
+        <username>John Carter</username>
+        <id>3358555</id>
+      </contributor>
+      <minor/>
+      <comment>Start class for Religion</comment>
+      <text xml:space="preserve" bytes="64220">{{Talk header |search=yes }}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 2
+|minthreadsleft = 5
+|algo = old(30d)
+|archive = Talk:Ecumenical council/Archive %(counter)d
+}}
+{{Auto archiving notice |bot=MiszaBot I |age=1 |units=month }}
+{{WikiProjectBannerShell|1=
+{{WikiProject Christianity |class=Start |importance=Top
+ |theology-work-group=yes |theology-importance=Top
+ |catholicism=yes |catholicism-importance=high 
+ |anglicanism=yes |anglicanism-importance=Top 
+ |eastern-orthodoxy=yes |eastern-orthodoxy-importance=Top 
+ |core-topics-work-group = yes |core-topics-importance=low 
+ |oriental-orthodoxy=yes |oriental-orthodoxy-importance=High }}
+}}
+{{WikiProject Religion|class=Start|importance=Top}}
+
+
+== RFC: How much and what details to provide regarding the ecumenicity of the [[First Council of Ephesus]] ==
+
+There has been significant discussion on this Talk Page about the accuracy and appropriateness of the section titled &quot;Notes&quot;.  [[User:Montalban]] has indicated via edit comments and on this Talk Page that his goal is to establish that the Eastern Orthodox position is that the ecumenical nature of some councils can be and are, in fact, disputed.
+While this is certainly POV pushing, there seems to be no objection from editors to presenting both the Roman Catholic and Eastern Orthodox POVs on this topic since it is crucial to the ongoing schism between the two churches.  That said, I think the &quot;Notes&quot; section does a terrible job of presenting this topic.  It does not explain to the reader the point that is being made and does not provide a cogent exposition of it.  Instead, it delves into the details of the Council of Ephesus, leaving the reader to guess why these details are being presented.  In addition to the incoherent presentation of the topic, [[User:Esoglou]] has pointed out several times that Montalban's description of the situation at the First Council of Ephesus contains several points that are both unsourced and incorrect.  Esoglou has asked Montalban several times (in sections 20 and 21 above) to correct these errors.  Montalban has refused to do so and has reverted deletions of the content of the &quot;Notes&quot; section twice.
+
+This RFC seeks comment from other editors as to the best way to present the issue over the legitimacy and ecumenicity of councils as well as the appropriate level of detail that should be included here about the [[First Council of Ephesus]] as opposed to the main article on that [[First Council of Ephesus|council]].
+
+--[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 00:25, 26 September 2011 (UTC)
+:Remove the section. The rest of the article is fine as it is, there is no need to unbalance its focus with an issue that belongs somewhere else. [[User:Brutaldeluxe|The mayor of Yurp]] ([[User talk:Brutaldeluxe|talk]]) 01:28, 26 September 2011 (UTC)
+*'''Remove section and start from scratch with excellent sourcing''' - The fact that the section has the odd title &quot;Notes&quot; is a red flag.  Plus the dispute in this Talk page makes it suspect.  From what I gather,  the eastern and western branches have different POV's on the councils:  where they ecumenical or not?   If that is the dispute, then create a new section titled  &quot;Perception of councils&quot; or &quot;Role of eastern church in the councils&quot; or  &quot;Dispute over ecumenical nature&quot; (I'm just guessing here: I really dont know the best wording to use, but you get the idea).  In that new section, present ''both'' viewpoints in a balanced fashion per [[WP:Balance]], and ensure that ''every'' statement has a good source.  If the sources are biased, that is okay, but then the prose must indicate the source of the material as required by [[WP:ATTRIBUTEPOV]].  --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 02:45, 26 September 2011 (UTC)
+::::I was not in favour of moving it to the &quot;Notes&quot; section. I think it was moved to appease some here, rather than on actual editing grounds. However they do not appear satisfied. It perhaps can be re-written but I think it is an example of what constitutes an Ecuemenical Council - from an Orthodox perspective - where it was originally written.
+The whole point was the section dealt with different examples; a council that considered itself ecumenical (but it's considered such by Orthodox), a council that met in a city where another 'rival' council also met, and so on. The only reason it got long was because the same editors that now want its deletion were calling for citations of everything said.
+There is no need to have a 'perception of councils' because the section's already broken up into what Orthodox, Catholics, Anglicans et al consider to make a council ecumenical
+
+Originally I had placed what Orthodox consider a council. Non-Orthodox editors arbitrarily edited what I wrote. I called for a section formatted in such a way to deal with what each church believes. But I'm continually told by the same non-Orthodox editors how to write the section. In a ''compromise'' someone moved a bulk of the material, now that is ''suspect''? There seems to be no solution here but to simply cave in and let non-Orthodox give their opinion of what Orthodox believe on the matter
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 03:52, 26 September 2011 (UTC)
+:Citations have been asked (and not provided), not &quot;of everything said&quot;, but only of statements that were directly contradicted by several reliable sources: that Count Candidian was appointed by the Emperor as president of the Council of Ephesus; that before the events of 22 June 431 there were two rival councils in Ephesus (there were two only from 26 June, when new arrivals set up a rival council in opposition to the only council already operating); and that on 22 June Candidian (who, according to reliable sources, told the assembled bishops to ''disperse'') demanded that they &quot;reconvene with Nestorius' group&quot; (a claim that they had previously been part of another meeting).
+:Apart from the solution that Montalban mentions here, another would be to provide even one citation of a reliable source for these claims, but Montalban rejects that solution and prefers to edit war by reverting.  However, the solution that Montalban mentions is better, since the material on the Council of Ephesus is quite out of proportion.  If, as Montalban says in the edit summary of his latest revert, &quot;Note serves to illustrate that councils can legally meet but still be disputable. Ultimate approval of whole church required&quot;, that purpose would be much better and more clearly served by citing councils that legally met but have not received approval of the whole church as ecumenical: the [[Council of Hieria]] and the [[Second Council of Ephesus]].  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 06:16, 26 September 2011 (UTC)
+::@ Montalban - Can you give an example of  material you want added to the article which other editors have removed (or want removed)?  Please provide a quote from the source, and identify the source.  If  I can, I'll render an opinion as to whether it belongs in the article or not.  If you dont have a source, but the material is just your own opinion or interpretation, you should be aware that such material is not really acceptable for WP articles.  --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 15:03, 26 September 2011 (UTC)
+:::Particular attention should be paid to the nature of the source and how it is used.  If an editor sources facts and then builds a chain of logic about the meaning of those facts, that constitutes [[WP:OR|original research]] and/or [[WP:SYNTH|synthesis]].  That has been the problem that we've been grappling with here.  The opinions of additional editors are welcomed in helping us sort out the opinions of [[WP:RS|reliable sources]] from those of Wikipedia editors. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 15:36, 26 September 2011 (UTC)
+*'''Comment:''' I think there could be mentioned some information about councils which claimed ecumenical status (like [[John of Antioch]]'s council, and also the others mentioned by Esoglou, the [[Second Council of Ephesus]] and the [[Council of Hieria]]), but which were not accepted by the Eastern Orthodox Church (and it could help the readers understand more about these issues), but as far as I see, the way it is done currently with the &quot;Notes&quot; section, clearly doesn't look good for the article's structure (and in such a case, we would have to add detailed notes about many other councils). [[User:Cody7777777|Cody7777777]] ([[User talk:Cody7777777|talk]]) 15:07, 28 September 2011 (UTC)
+**Thank you, Cody.  I invited Cody to respond to this RFC because Montalban has been complaining about &quot;non-Orthodox editors&quot;.  Cody is an Orthodox Christian editor with whom I have worked collegially and congenially on a number of occasions.  LoveMonkey can also vouch for him. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 23:16, 28 September 2011 (UTC)
+:::::Cody, I wrote about the council of ephesus for just such in mind - to show that two groups could meet and both claim to be the council. This was rejected, it was moved, even that wasn't good enough. Maybe you would have better luck with adding it yourself.
+:::::Good luck
+:::::[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 23:59, 28 September 2011 (UTC)
+::::::Montalban, is it not time for you to answer Noleander's questions above?  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 05:43, 29 September 2011 (UTC)
+:Noleander - I've already stated that on this page.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 08:35, 29 September 2011 (UTC)
+::@Montalban: Could you help me out and point me to the quotes from the sources (on this page) that cover the material that you want inserted, but others object to?   I looked above but I cannot find it.  Thanks. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 13:39, 29 September 2011 (UTC)
+
+I came here via RFC, but it looks like some condensing has already been done.  I think more is called for, though.  At this moment, as I see it, the section entitled &quot;By the Eastern Orthodox churches&quot; is as much as twice as long as it needs to be, and the section entitled &quot;By the Anglican communion&quot; is slightly over-long.  All that is needed is a general outline of each position, not detailed arguments.  --[[User:BlueMoonlet|BlueMoonlet]] ([[User talk:BlueMoonlet|t]]/[[Special:Contributions/BlueMoonlet|c]]) 00:51, 7 October 2011 (UTC)
+:::The problem being when I first started writing some editors were demanding more info - citations, references, explanations
+:::[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 04:24, 7 October 2011 (UTC)
+
+== Edit warring ==
+
+I made a contribution to this article today and just like Montalban my contribution was peppered by Esoglou with citation requests. This type of conduct does nothing to improve the article. It instead appears to be a swipe at the creditability of the contribution. I reverted this and posted a complaint on Administrator's Ed Johnston's talkpage [http://en.wikipedia.org/w/index.php?title=User_talk%3AEdJohnston&amp;action=historysubmit&amp;diff=454434101&amp;oldid=454364487] As this is at best a case of citation abuse as there is no discussion on this talkpage of why Esoglou felt the need for me to cite that there where church councils before there where Ecumenical church councils since I LISTED IN THE CONTRIBUTION THE COUNCILS AND THEN LINKED TO THEM. There is no need to prove an explicit source stating that World War I came before World War II! TO DO SO IS ABUSIVE AND A MISUSE OF POLICY. This is a continuing example of the disruptive behavior exhibited by Esoglou and when called on it Esoglou claims that his incompetence justifies his abuse and violations. 
+
+But Richard without discussion and without Good faith went right behind me removing the citation requests and reverted to Esoglou's citation abuse. This abuse is against Wikipedia's co-operative spirit and there is no discussion on this article talkpage about what in the wording might need to be clarified. There is however a concerted effort to run off other contributing editors and to not discuss potentially disruptive behavior before doing it, but rather there is nothing but Policy abuse and citation abuse creating the impression or undermining other contributors contributions here on Wikipedia. Richard did not correct HE REVERTED. What Esoglou did today is a sign of assuming bad faith. As was Richard's since Richard reverted grammar and spelling corrections and my citation requests, as well. Rather then actually coming on the article talkpage and discuss anything, they jumped right back in to edit war/revert warring which are acts of assuming bad faith. [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 19:22, 7 October 2011 (UTC)
+
+:If you read my edit summary, you would understand that there is, at least, an issue with the assertion that the Emperor or his representative &quot;presided&quot; over the [[First Council of Ephesus]].  This has been the subject of a very long discussion on this Talk Page.  For just the latest installment of this debate see the section titled &quot;Candidian&quot; immediately above.  I felt no compunction in restoring a citation request for a fact that had been well discussed and inadequately supported for weeks. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 19:39, 7 October 2011 (UTC)
+:::You know Richard you don't follow policy. After the personal attacks you've made against me here on Wikipedia you have no business telling me to read anything. Why don't you stop blocking my edits and attacking my contributions? [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 19:51, 7 October 2011 (UTC)
+::Restored my contribution AGAIN. Richard is blanket deleting content WITHOUT DISCUSSION content that Richard has decided is POV even though it is historic fact. [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 00:38, 8 October 2011 (UTC)
+That's what I thought the talk pages were for, especially if things are referenced
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 01:09, 8 October 2011 (UTC)
+
+(edit conflict with LoveMonkey's comment below)
+
+:I rather resent being accused of edit-warring.  The edit history will show that I rarely go beyond [[WP:1RR]] which is a standard that others (Montalban and Esoglou in this case) have not observed.  However, I've gotten so used to LoveMonkey's vitriol that I often don't bother responding to it.
+
+:The counterbalance to using Talk Pages is being [[WP:BOLD|bold]].  I was bold in moving LoveMonkey's text about the seven ecumenical councils from the section on &quot;tradition before the ecumenical councils&quot; to the section on the seven ecumenical councils since that is what the text was talking about.  Despite the fact that the facts were presented with a clear POV agenda, I did NOT delete them.  I simply put them in the more relevant section with an edit summary that more discussion was called for to discuss the POV agenda underlying the text.
+
+:It is often the case that facts are not just &quot;facts&quot;.  Facts are often marshaled in support of an argument.  This is a point-of-view (POV).  That's OK.  What's not OK is failing to identify the POV and the source of the POV.  If the goal is to say that the Orthodox believe that Rome has no right to call an ecumenical council, then let's say that and source it.  Surely there are Orthodox sources that believe that.  Let's be up front and let the reader know that's what we want him to know.
+
+:In the case of &quot;all councils were presided by the Emperor or his representative&quot;, the sources provided did not support the assertion.  Despite the fact that you (Montalban) believe that Candidian, serving as the Emperor's representative, &quot;presided&quot; over the [[First Council of Ephesus]], there has been no source presented that states that fact and the sources that we (you, me and Esoglou) have looked over jointly all seem to assert that it was Cyril who presided over the council that was ultimately recognized as ecumenical.  Now, it may very well be that there are Orthodox sources that assert that &quot;all councils were presided by the Emperor or his representative&quot;.  If this is so, then please provide those sources.  Please do not renew the attempt to justify the assertion through syllogisms about Candidian's role in the council.  Either you can provide a source that said he presided or you can't.  If you can't, please do not engage in [[WP:OR|original research]] and [[WP:SYNTH|synthesis]] to come to a conclusion that is unsupported by a [[WP:V|verifiable]] [[WP:RS|reliable source]]. 
+
+:If we cannot reach agreement on this point, the next step is an RFC.  Do we need to take that step?
+
+:--[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 01:34, 8 October 2011 (UTC)
+:::Hey Montalban check out this link [http://books.google.com/books?id=QLWqXrW2X-8C&amp;pg=PA12&amp;dq=third+ecumenical+council+convened+by+Emperor&amp;hl=en&amp;ei=qaaPTqqXDoPk0QGB7dwM&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CDIQ6AEwAQ#v=onepage&amp;q=third%20ecumenical%20council%20convened%20by%20Emperor&amp;f=false] It took me all of 10 seconds..Note who the source is, and what it says about the Third Ecumenical council. Note what it says about the title Ecumenical Patriarch and how the Pope of Rome ([[Pope Pelagius II]]) was ignored in the matter. Again so much for Papal Supremacy. [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 01:33, 8 October 2011 (UTC)
+::::But, the source confirms exactly what Esoglou was arguing (and now I am belatedly joining his position now that I have read some sources).  Theodosius ''convened'' the council but Cyril ''presided''.  There is no mention of Candidian presiding.  Other sources explain Candidian's role and Theodosius' instructions to him in more detail.  The bottom line is: unless we want to argue that Cyril was the &quot;Emperor's representative&quot;, we cannot assert that all councils were presided by the Emperor or his representative.  This is the only sentence of LoveMonkey's that I deleted.  Not because it is POV.  I left other sentences in that were clearly there to support a POV agenda.  I deleted the sentence because it was wrong. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 01:39, 8 October 2011 (UTC)
+;historical facts the Richard keeps deleting because of his Roman Catholic POV
+*The Pope never attended the original Ecumenical councils, NOT ONE OF THEM in person.
+*None of the original Ecumenical councils were held in Rome NOT A SINGLE ONE.
+*Ecumenical councils were held and ratified WITHOUT THE POPES CONSENT. i.e. [[First Council of Constantinople]].
+*None, not one, zero, nodda were any of the Ecumenical councils held in Latin, documented in Latin, spoken in Latin. They were all in Greek.
+*Augustine did not attend nor was he even invited to a single Ecumenical council. Not one! Ever. Augustine did not even know any of the church fathers of the east personally nor had he ever read them in Greek because Augustine could not read Greek.
+*The ancient Roman Emperors spoke Greek. i.e. Constantine spoke Greek.
+*It was the [[Patriarch of Jerusalem]] St James who resolved the issue between St Peter and St Paul-not St Peter and that was at the first council, the council of Jerusalem. Rome had no such primacy.
+*[[Quartodeciman]]- The [[Pope Anicetus]] acted against St [[Polycarp]] as the Easter controversy shows that the Church of Rome would not even listen to Polycarp and that the Eastern church did not listen to the Pope. Why is this important? Because in the Eastern churches this whole episode was documented by none other than Irenaeus whom sided against himself (if you believe the Roman catholic POV on Irenaeus about [[Papal primacy]][http://www.totustuus.com/PapalPrimacy-AHistoricalPerspective.pdf]) because Irenaeus sided against the Pope of Rome in this and with Polycarp..So much for Irenaeus belief in Papal supremacy.
+*Not one Emperor of the West contested these councils outright until the rise of Charlemagne. Nor would they have had recourse to do anything if they had.
+*Not one of the Ecumenical councils validate Papal Supremacy. Not one! There is no mention that the Pope of Rome is the head of the church ([[Vicar]]) as is put forth by the idea of [[Papal Primacy]]. There are no notes or letters or copies of the councils proceedings that say that the Roman Church in Rome nor the Pope in Rome are needed to validate or legitimize or be the defining de facto lead in any of the controversies the councils addressed. The church in Rome was never depicted as having primacy it was given respect as a first among equals. 
+This article has no business being dominated that any Western church POV. Any more than the Eastern Orthodox have a right to tell Orthodox Hebrews to start up monasteries because of the [[Essenes]]. [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 01:20, 8 October 2011 (UTC)
+;I only deleted one sentence and not on grounds of POV but because it was demonstrably wrong
+If you consider  [http://en.wikipedia.org/w/index.php?title=Ecumenical_council&amp;action=historysubmit&amp;diff=454468357&amp;oldid=454467159 my most recent edits] which LoveMonkey reverted, you will see that I deleted exactly one sentence and moved the rest.  I made it clear in the edit summaries that was what I was doing.  My concern with this article is not that the Orthodox POV is being presented; it's that the presentation of ideas is so haphazard and sloppy that only a reader who already knew what was being argued would follow it.  We need to bring the reader along by telling him what the point is BEFORE providing the supporting arguments.  We don't do that and thus the Orthodox sections are damn near unreadable.  What's the point in making an argument if nobody can read it or understand it? --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 01:46, 8 October 2011 (UTC)
+::I disagree. You removed two paragraphs and completely rewrote [http://en.wikipedia.org/w/index.php?title=Ecumenical_council&amp;action=historysubmit&amp;diff=454467524&amp;oldid=454467159] argue with the diff. You and your Roman Catholic POV are seeking [[WP:own]] on the article, while your edits frustrate and discourage not just me but other contributors as Montalban's comments are a reflection of his frustration. Your concerns are being handled by you in a most edit war, disruptive way. [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 02:09, 8 October 2011 (UTC)
+:::Perhaps the problem is that you only considered the effect of the first of three consecutive edits.  This [http://en.wikipedia.org/w/index.php?title=Ecumenical_council&amp;action=historysubmit&amp;diff=454468357&amp;oldid=454467159 diff] shows the net effect of all three edits.  The intent and the effect was to move your text to the section which specifically was titled &quot;Seven ecumenical councils&quot;.  In an edit prior to the three in question, I did modify one sentence and that was only because it asserted that all councils were convened AND presided over by the emperor or his representative.  This was not true in at least one case, the [[First Council of Ephesus]].  I made this point in the edit summary.  I did delete a large section of text about the [[First Council of Ephesus]] after a number of RFC responders commented that the detail should be moved into the article on that council.  Are you willing to respect the opinion of these responders or should we move to mediation? --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 05:06, 8 October 2011 (UTC)
+I had cited that both groups (including Nestorius) were lead (or presided over by) different men, in the clerical sense - one group was presided over by Nestorius. For the other group I noted Cyril is said to preside, although I also cited opinion that says he shared that with two others. However for the most simplistic of statements one can say Cyril presided - but this is too neat.
+As to Candidian I cited several opinions that he took with him the imperial sacra, and had the authority to act in the emperor's stead. This to me is 'presiding'. The only quibble the objectors really have is that the word 'preside' is absent. Other words are used instead, but to the same effect.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 02:42, 8 October 2011 (UTC)
+::::See, here you are asserting that &quot;one group was presided over by Nestorius&quot;.  Myself, I had always assumed that group was presided over by John of Antioch because a number of sources say that, when John arrived, he met with Candidian and hearing that Cyril had proceeded without him, held his own council and deposed Cyril and Memnon.  Most sources don't even mention Candidian's role in John's council.  J.B. Bury is the only source that I've seen that does mention Candidian as presiding over John's council.  Let's bury the hatchet and figure out what we should say in this article and what belongs in the article on the [[First Council of Ephesus]] --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 08:14, 8 October 2011 (UTC)
+:::As for Candidian both you (Richard) and Esoglou are edit warring from ignorance AGAIN..And are wrong AGAIN. As what Montalban is saying is right here at the bottom of page 40 of this source.[http://books.google.com/books?id=5yO3XvM3zAIC&amp;pg=PA41&amp;dq=Candidian&amp;hl=en&amp;ei=8LOPTvuaJc6utweYkfyoDA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CD4Q6AEwAA#v=onepage&amp;q=Candidian&amp;f=false] your here to be disruptive you could have this source just like I did. I posted the other in irony. [http://www.archive.org/stream/authoritativechra03chry/authoritativechra03chry_djvu.txt] AGAIN ITS ABOUT EDIT WARRING NOT WORKING TOGETHER. Richard rfc shows that he does not wish to find the truth but rather policy abuse away contributing editors. [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 02:46, 8 October 2011 (UTC)
+The thing is none of those objecting to 'preside' have suggested a single word that they think is more appropriate to the role that he played in the council.
+
+It's just a game of pedantics - but I'd be willing to look at any other single word/term that they think is more suited
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 03:11, 8 October 2011 (UTC)
+:Well when I offered you help I was thinking of Gibbons (who is joke to the rest of the world except Europe)[http://books.google.com/books?id=dm0JAQAAIAAJ&amp;pg=PA332&amp;dq=Candidian+ephesus&amp;hl=en&amp;ei=87-PTrujNsGutwey8uiODA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CDkQ6AEwAQ#v=onepage&amp;q=Candidian%20ephesus&amp;f=false] But you never said you needed help so I thought I'd let this edit war nonsense by Esoglou and Richard go the distance first. As they have already screwed up at least three or four other Christian articles on Wiki-here with WP:Synth and WP:OR. (i.e. [[theoria]], [[filioque]], [[East-West schism]], [[Essence–Energies distinction]] etc etc) They are time consuming and dense with causes a lot of mental energy for almost no pay off. [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 03:20, 8 October 2011 (UTC)
+P.S. Here are pages and pages of sources that they just can't seem to find [http://www.google.com/search?tbm=bks&amp;tbo=1&amp;q=candidian+&amp;btnG=] now what about for their POV? I bet they would be about to use google book search then.. small note..Why can't you be allowed to use the actual text of the [[Council of Ephesus]] which appears to be your point since it contains the Emperor's decree giving Candidian Empirical authority? Since when is that not a valid source as it's declarations are not statements of opinion? [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 03:29, 8 October 2011 (UTC)
+:::I assumed good faith.
+:::What can I say?
+:::[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 03:24, 8 October 2011 (UTC)
+All I can see is that their collective concern rests on the use of the word ''preside''
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 03:31, 8 October 2011 (UTC)
+:::Ha here he's called Candidian (the Imperial Commissioner)! [http://books.google.com/books?id=Jjs9AAAAYAAJ&amp;pg=PA268&amp;dq=candidian&amp;hl=en&amp;ei=e8SPTvmoMdS3tgfxnbmsDA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=8&amp;ved=0CGIQ6AEwBw#v=onepage&amp;q=candidian&amp;f=false] People are here playing games and claiming they sometimes know how to do google book searches and then they don't. That's gaming the system as it appears that Richard and Esoglou do know how to use google book searches and it appears that Montalban may not and they did not seek objectivity to help no they played policy abuse all the way to an rfc. Good they helped ol Montalban out here. By browbeating him with policy. Thats showing good faith and that one heckuva wiki co-operative spirit! [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 03:41, 8 October 2011 (UTC)
+
+Montalban wrote: All I can see is that their collective concern rests on the use of the word ''preside''
+
+Well, yes, that's mostly it.  The other part is that we don't need a long explanation in this article of Candidian's role at that council.
+
+No one is saying that Candidian had no authority.  It's clear from sources that we have all looked at that the Emperor sent him with specific instructions including the instruction to be neutral.  (BTW, almost every one seems to agree that Candidian ignored that instruction and sided with Nestorius.)  All we're saying is that Candidian did not &quot;preside&quot;.  You seem to think this is a matter of semantics.  Given that Greeks get really wrapped up in the meaning of a word, it is surprising that you are willing to be loose about this one.  None of LoveMonkey's sources say that Candidian &quot;presided&quot;.  If you have a source that says he did (be it primary or secondary), then we would have to concede that at least one source has a different opinion.  But we haven't seen such a source yet.
+
+The purpose of the RFC was solely to ask whether we needed all this detail about Candidian in this particular article.  If you look at [[First Council of Ephesus]], you'll see that I have expanded that article significantly and have gotten into quite a deep level of detail.  I'm not saying it's complete but there's a lot more there than there used to be.  If you want to help flesh out the rest, I would appreciate the help.  All I'm saying is that we don't need that much text on one aspect of one council in an article that is supposed to be about ecumenical councils in general.  The responders to the RFC agreed with this point. 
+
+I know you think it is important to establish that acceptance is the criterion for making a council ecumenical.  If you believe that it is important to make this point about the [[First Council of Ephesus]], then please find a source that makes that point.  Maybe LoveMonkey can help you use Google Books to find such a source.  I'd be Ok with discussing Khomiakov's receptionism view that a council must be &quot;received&quot; by the church to be considered ecumenical.  And, if Khomiakov or others point to the First Council of Ephesus as an example, then great, let's include that.  However, unless one of those sources argues that Candidian &quot;presided&quot; over the council, you are engaging in original research and that is not allowed.
+
+--[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 05:26, 8 October 2011 (UTC)
+
+:::when one has the power of the emperor, but they don't preside -as you maintain, then what would you call this. Once again you may have missed this, as you treat me to a lengthy lesson that misses what I said
+:::What term do you use for the representative of the emperor who has all the authority of the emperor for the purposes of the council?
+:::[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 06:21, 8 October 2011 (UTC)
+
+They don't all say he ignored the instrcutions. My original source, McGukin said that he was pro-Nestorius, as was the emperor. Others have said he was pro-Nestroius.
+
+Him presiding with Nestorius' group would be in keeping with not only his bias, but that of his master. Anyway, I look forward to you coming up with a single word that you think better describes his position there.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 06:26, 8 October 2011 (UTC)
+
+== Maybe Candidian did preside but not in the way we've been talking about ==
+
+OMG, look what I just found in Google Books [http://books.google.com/books?id=Jn3pi1wWBNsC&amp;pg=PA353&amp;dq=Candidian+Theodosius&amp;hl=en&amp;ei=T-2PTpCtL8nDsQK2prWxAQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;sqi=2&amp;ved=0CEEQ6AEwAw#v=onepage&amp;q&amp;f=false here]
+
+&lt;blockquote&gt;
+When John and the Syrian contingent arrived, a rival but far less numerous Council was opened ; the commissioner Candidian, Count of the Domestics, who represented the Emperor, presided ; and Cyril was condemned and deposed.
+&lt;/blockquote&gt;
+
+If J.B. Bury can be trusted, it appears that Candidian did preside but not over Cyril's council as I (and probably Esoglou) had assumed Montalban intended.  Instead, it appears that he presided over John of Antioch's council.  If this is what Montalban meant all along, I apologize for not understanding what he meant.
+
+This helps solve a problem for me.  I had read in multiple sources that Candidian disobeyed his instructions to be neutral and sided with Nestorius but I hadn't seen many details about Candidian's bias.  If Candidian went so far as to preside over John's council, it shows how far from neutral he had become.
+
+--[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 06:38, 8 October 2011 (UTC)
+
+:Based on the above source, I am willing to write that Candidian &quot;presided&quot; as long as we make it clear that he presided over John's council rather than Cyril's.  My apologies once again if this is what Montalban meant all along. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 06:43, 8 October 2011 (UTC)
+
+:But, reviewing the current text of the article, I'm not convinced that adding this information helps make the point about what the EO believe makes a council ecumenical.  The  fact that Candidian presided over John's council doesn't seem to be important.  If you disagree, I will not object to adding the information about Candidian. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 06:53, 8 October 2011 (UTC)
+::All that Montalban needs to get his view into Wikipedia is one reliable source that says Candidian presided over the Council of Ephesus that is recognized as an ecumenical council.  Unless a reliable source supports it, Montalban's personal idea of what presiding means has no value in Wikipedia.  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 06:56, 8 October 2011 (UTC)
+You've not only changed the complaint, but you didn't note where in the article I noted two groups one of which had Nestorius and Candidian, but not Cyril. So I don't know where your statement &quot;as Montalban intended&quot; unless you're saying you're reading into what I write stuff that's not there. This may account for you continually asking me questions in relation to matters already answered.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 07:51, 8 October 2011 (UTC)
+:Esoglou should speak for himself but I always interpreted his request as asking for a reliable source that said that Candidian presided over Cyril's council.  I never understood you to mean that Candidian presided over John's council. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 08:08, 8 October 2011 (UTC)
+
+== moving the goal posts because Esoglou and Richard got shown to be wrong AGAIN ==
+
+Esoglou and Richard now have LOTS and LOTS of sourcing saying that Count Candidian was the empirical representative to Ephesus. So now what does Esoglou and Richard do? Why they change their complaint to something else. They ask people to explain to their dense and incompetent minds something, prove it to them with sources, to only then reject it for some other reasons they have made up on the fly, cause they run Wikpedia and administrators let them do this to other editors like..
+*[[User_talk:Hashem_sfarim#Your_comment_to_User:Esoglou]] 
+*User:Montalban
+*[[User:Taiwan_boi/Esoglou_RFC|User:Taiwon boi]]
+*[[User:Taiwan_boi/Esoglou_RFC#Outside_view_from_leadwind|User:leadwind ]]
+Same policy abuse same lame editor warring just more Esoglou, Richard making victims here on Wikpedia where each of these poor editors gets the act of I'm stupid I'm dense and don't get it(I violate editing restriction cause there too hard to understand but I sure know how to open ANIs on you if you commit a VIO [http://en.wikipedia.org/wiki/User_talk:LoveMonkey#Editing_restrictions]) but will insist you and everybody else BETTER get it! -same lame routine from Esoglou. As he as of yet can't explain why he's edited on numerous Orthodox theology articles and won't confess he's never read a complete Orthodox theologians works -BUT WILL EDIT WAR AND ATTACK YOU WHEN YOU ATTEMPT TO ADD THOSE THEOLOGIANS STATEMENTS ON WIKIPEDIA. 
+
+As Esoglou does not know Orthodox theology but will sure whip up some WP:OR to counter it. Esoglou argued for almost a month for me to source where the Orthodox theological tenet God is essence, persons and energies on the Essence-Energy distinction article (its the actual teaching of the article title for those not in the know, the title is a summary of Palamas' teaching God is essence, persons and energies i.e the distinction -hey guess what World War I was a war-well no @#$%), go read the shame on the article talkpage [http://en.wikipedia.org/wiki/Talk:Essence%E2%80%93Energies_distinction_%28Eastern_Orthodox_theology%29/Archive_2#LoveMonkey.27s_WP:UNDUE_complaint_regarding_Essence-Energies_distinction.23The_Distinctions_of_God] hours and hours of time repeating over and over and over and over and over again sources saying what Esoglou and Richard just couldn't read with their own eyes just like right here on this talkpage? 
+
+Who has time to plead with administrators and try to explain themselves because supposed good Roman Catholics don't like it and don't want to have to see it, no matter how policy complaint the information is. Good Roman Catholics who like to edit war and frustrate and whine and complain about one word like preside..Why is esoglou and richard allowed to this to editor after editor article after article? And I get called to task, I get in trouble..[[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 07:38, 8 October 2011 (UTC)
+
+:::For me it didn't matter whether historians used that one word. However the pedantic argument should now be over. I noted that someone is admitting to have misread what I wrote because I noted that Candidian was sent there by the emperor but was with the group of Nestorians.
+:::[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 07:54, 8 October 2011 (UTC)
+
+So, you meant all along that Candidian presided over the Nestorian group's council? --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 08:05, 8 October 2011 (UTC)
+::If you haven't noticed Montalban they could have given you sources as they claimed to have tried the google book search and found nothing. However I typed (as the search pages surfaces) the simple word Candidian in the book search and found pages and pages of sources validating your statement that Richard has removed from the article. Note they also did not explain to you how to do that.....cause then you'd been able to source. Which they would then say they can't see or don't read where it says what it says. This is of course after completing an RFC that got your contribution removed. Administrators don't care about right or wrong their too busy to do the right thing, too important to be held accountable. This type of thing is all over wikipedia and to point it out and be critical of it will only get you trouble as wikipedia is body politic not a system with integrity that will get rid of internet squatters like Esoglou. People leave it for this reason and enough will start to disdain it until it is nothing but the but of jokes. Wikipedia is [[Nomenklatura]] its just plain, its simple just like that. There.[[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 08:10, 8 October 2011 (UTC)
+
+Pseudo-Richard 
+
+'''Candidian''' was sent to represent the Emperor. Two groups formed around Cyril or Nestorius. Nestroius had hoped to convene the meeting but chose to wait until John of Antioch arrived. Cyril beat him to the punch. Cyril knew that Candidian represented the Emperor, he got Candidian to read the sacra out by a trick - which is what I noted in the very first time McGurkin was cited... which has been edited out by you or your compatriot. Here it is again, what I said... when Candidian went to Cyril's group to urge them to go join Nestorius' group...
+''He (Candidian) said he had come with the ''Sacra'' and had no time to stand around and wait. Cyril asked him what did the Sacra say. Candidian read it out before Cyril's group. He then realised that he had now formally given the go-ahead for Cyril's group to begin as the Council; because they were duly assembled as according to the wishes of the Emperor and the Sacra had been read before them. They thus convened the Council, and effectively Nestorius' group were left out in the cold. 
+&quot;When Candidian finished reading the Sacra he surely realised the full extent of his mistake. The Bishops acclaimed long life to the Emperor in demonstrative professions of loyalty, but now with the text officially declaimed in the symbolic presence of the whole Episcopal gathering the Synod of Ephesus was in formal session, legally as well as canonically sanctioned.&quot;
+::''McGuckin, J, (2004), Saint Cyril of Alexandria and the Christological Controversy, (St Vladimir's Seminary Press, NY'', p79 ''
+
+You're quite welcome to ask me again and again and again, but when you re-edit material and then make complaints/queries about what the other person ''meant'' to say then you're on shaky ground
+
+I now have no idea what your complaint is because you yourself have now provided evidence of the ''magic'' word being used - which thank you, I've no incorporated into the article though I have no idea why this pedantic argument is so important to you. Especially now you've provided an end to it... but seem you want to go on.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 08:20, 8 October 2011 (UTC)
+:::: Montalban, you may repeat what you said as often as you like, but unless you provide reliable sources it is so much waste of time. What is your source for your claim, here repeated, that Candidian went to the bishops around Cyril, not to tell them to disperse, as McGuckin says, but &quot;to urge them to go join Nestorius's group&quot;; that he &quot;said he had come with the ''Sacra'' and had no time to stand around and wait&quot;, when McGuckin says that it was only when challenged to prove his authority to tell them to disperse that he proceeded to read the sacra to prove his authority. Perhaps you got these items of information from different sources. If so, it would be well to cite them. [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 09:40, 8 October 2011 (UTC)
+
+::If Candidian was &quot;sent to preside&quot;, then why didn't he stay in the double church of Ephesus and preside after reading the Sacra?  Why did he let Cyril preside?  Are we saying that Cyril was presiding illegally against the emperor's wishes?  Are we saying that the emperor intended for Candidian to decide which council was legal and which one to preside over?  I can't imagine that you think this. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 08:38, 8 October 2011 (UTC)
+:Sorry, I did think we had come to a resolution but your most recent edit suggests that we still have a problem.  You wrote that &quot;the emperor sent Candidian to preside&quot;.  No source says that.  I've only seen one source (J.B. Bury) say that Candidian presided over John's council.  Now, I think we're clear on what the emperor's instructions to Candidian were.  No source says that he was supposed to preside.  His instructions were to stay neutral, maintain order and make sure no bishop left until the council was over.  In the United States Congress, this role is handled by the Sergeant-at-Arms.  However, as we have all noted, Candidian disobeyed his instructions to remain neutral and sided with Nestorius even to the point of taking arms against Memnon and the locals.  (Well, OK, it's a matter of debate who was the transgressor in that violence.)  Nestorius then holds the Cyril faction incommunicado until they get a beggar to smuggle out a letter to the emperor in the hollow of a cane.  The letter complains that the Cyril faction has been held prisoner by Nestorius and asks for help.  The emperor responds by deposing Cyril, Memnon and Nestorius. 
+:Getting back to the point, there is no evidence that &quot;the emperor sent Candidian to preside&quot;.  If you insist on such language, you are back to using your own interpretation of the word &quot;preside&quot; rather than relying on the sources.  We don't know whether the emperor sent Candidian to preside; we only know that, according to J.B. Bury, Candidian '''did''' preside over John's council.
+:: --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 08:32, 8 October 2011 (UTC)
+That's false.
+The Emperor gave Candidian the place of acting in the emperor's stead. That's been evidenced.
+As you note ''' His instructions were to stay neutral, maintain order and make sure no bishop left until the council was over. '''
+
+No emperor would have directed debate. Candidian didn't either. Bury notes that Candidian represented the emperor and presided, p353.
+
+I already noted why he didn't stay, he'd been tricked. He'd gone there to support Nestorius.
+That's what 'presiding' over means. You choose to ignore my call for an alternative word.
+
+What you're trying to do is suggest that he presided over one group, had no authority to do so, show me then the consequences of this - in acting against the emperor's directive.
+
+Here's the rub, he either acted under the emperor's directive, with one group (and thus was sent to do so to preside), or he over-stepped his mark and was punished for assuming authority he didn't have.
+
+Good luck with the synthesis. You want a false dichotomy that he both represented the emperor, and presided over one group, but wasn't sent to 'preside', but that he had authority of the emperor to act in the emperor's stead in maintaining order of the proceedings. That's a rather convoluted theory. I hope you have evidence for it
+
+The evidence is
+a) he represented the emperor, as his sole commissioner, with the imperial Sacra
+b) he was given the power to control the council - although he managed not to control all of it - because once he'd read the Sacra out before Cyril's group Cyril assumed that his group ''was'' the Council... my evidence showed that he needed this to happen first (you would need to show evidence that Cyril presided in his own right - which you've not done)
+c) he actually did over one group, he published an edict, he acted in the emperor's name (Bury - p353)
+d) the emperor accepted the condemnation of Cyril made by that group (as well as accepting the condemnation of Nestorius made by the other - that had duly been opened by the reading of the Sacra)
+
+Your example of the US is, I guess where you believe two people cannot preside over different aspects at the same time over two aspects.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 09:29, 8 October 2011 (UTC)
+:&quot;No emperor would have directed the debate&quot;, you say.  In other words he would not have acted as president of the meeting.  So, as well as failing to produce any source that says Candidian actually did preside, you now seem to deny that any emperor would have actually presided at the meeting.  End this discussion?   Alas, too much to hope for.  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 09:48, 8 October 2011 (UTC)
+
+Yes, I accept you have a very limited understanding of 'preside'. Good luck with showing your view from evidence. I've already evidenced my view - that Candidian had a commission to make sure that the meeting kept until decisions were made, and so on. Your main counter-argument rests solely on a pedantic one, and your own unique understanding of 'preside'.
+
+Constantine did the same thing. He took part ''in'' debates, but did not lead them. But he presided.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 11:20, 8 October 2011 (UTC)
+:You mean he took part in the debates ''without presiding over them'', since he presided only over the opening.  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 11:30, 8 October 2011 (UTC)
+::Yes, things were different when Constantine presided over the opening of an ecumenical council and took part in its discussions.  At the later ecumenical council, of which Cyril held the chair, Candidian could do neither: he was told to be off, and he could not even sit through the debate, &quot;since it is not permissible for any who is not on the list of holy bishops to engage in such affairs&quot; (McGuckin, p. 79).  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 17:36, 8 October 2011 (UTC)
+
+:::So now you admit he presided in some sense? However, even this is not the full sense of it. No. He was meant to sit through the debate, not take part ''in'' the debate BUT to make sure that the terms of reference were kept - that is, to make sure that they didn't discuss things that they weren't there to discuss
+:::''Candidian is to take no immediate part in the discussions on contested points of faith''
+:::http://www.ccel.org/ccel/schaff/npnf214.x.iii.html?highlight=candidian#highlight
+:::whilst he was not allowed to take part in the discussion, he was still to direct that discussion
+:::''Moreover, he was not to allow that any other matter of controversy should be taken into consideration before the settlement of the principal point of doctrine before the Council''. (Ibid.)
+:::In Bright, Wm. (1892) ''The Creeds and canons of the first General Council held at Epehsus'' he notes this distinction
+:::p176 Candidian had been ordered to restrain the council from certain topics. However how they discussed the topics that they were meant to was a theological matter in which Candidian would not have taken part.
+:::'''Welcome to the ancient world''' they did things different back then
+:::I guess those with the modern western mind-set are having a hard time grasping that one can preside and not actually direct how matters theological are decided upon
+
+:::I think the real test here is that those opposed to the evidence have been unable to answer this question
+:::I think some westerners are having a hard time grasping a distinction between secular and temporal power here because at their own councils all such power is contained in a single office.
+:::Still with no evidence for their POV, they continue
+
+:::What is this unique word then of a commissioner holding imperial powers, directed to conduct the bishops to a meeting and keep them there till they had come to a decision but does not ''preside''?
+:::[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 11:45, 8 October 2011 (UTC)
+
+::::How can the sentence &quot;since it is not permissible for any who is not on the list of holy bishops to engage in such affairs&quot; be taken to mean that Candidian did not sit in the Council? Sources say that he was given the Emperor's place. Where might that have been? An broom closet at the back? A butler's pantry down the corridor? Or in the council chamber itself. Not being allowed to discuss is not the same thing at all as not being allowed to observe. [[User:Laurel Lodged|Laurel Lodged]] ([[User talk:Laurel Lodged|talk]]) 20:58, 8 October 2011 (UTC)
+::::::I am sorry, Laurel, if anything I wrote suggested to you that this phrase in the emperor's sacra meant that Candidian did not sit in the Council (by &quot;Council&quot; I mean the one that is recognized as the Ecumenical Council of Ephesus). That he did not sit in it is shown instead by McGuckin, p. 79, which merely says that the bishop who proposed that Candidian be told to leave quoted that sentence in support of his proposal.  I think that Candidian would not have wanted to stay in any case: his presence would imply acquiescence.  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 11:05, 9 October 2011 (UTC)
+:::::Laurel, we have multiple sources that assert that Cyril presided over the council that he opened at the Double Churches at Ephesus.  We have one source (J.B. Bury) that says that Candidian presided over the council of John of Antioch and his Syrian bishops (the council that was ultimately not accepted as ecumenical).  We have NO sources that assert that Candidian presided over the council that Cyril opened at the Double Churches at Ephesus.  &lt;s&gt;Although we have many sources that specify what the emperor's instructions were to Candidian, we have NO sources that say that Candidian was sent by the emperor to preside over the council at Ephesus  In the absence of such sources, we should not say that &quot;the emperor sent Candidian to preside&quot; or that &quot;Candidian presided over the council at Ephesus&quot;.  To take the description of what Candidian was sent to do and what he actually did and conclude &quot;well, that meets the definition of 'preside' so let's say he presided&quot; would be normally be OK except that we have sources that specifically say Cyril presided and none that say Candidian presided.  The sources also do NOT say &quot;Cyril and Candidian both presided&quot; so it's really hard to see why Montalban insists on writing that &quot;Candidian presided&quot; or that &quot;Candidian was sent to preside&quot;.&lt;/s&gt; --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 07:14, 9 October 2011 (UTC)
+:::::Please excuse me while I delicately extract my foot from my mouth.  I found a couple of sources to support Montalban's assertions. I'll provide them in the article text forthwith. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 07:26, 9 October 2011 (UTC)
+::::::Thank you Richard.  You are a model for editing Wikipedia articles by limiting statements in them to what can be backed up with reliable sources, instead of inserting statements backed up by no more than personal interpretations to suit personal convenience.  Congratulations.  And may you be imitated.  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 10:39, 9 October 2011 (UTC)
+
+I agree with Laurel's comments. That is why I opened this to the 'objectors' several days ago to come up with a word, other than ''preside'' that they feel is better suited to describe Candidian's role in the council. None has been given.
+
+From the evidence he was the emperor's representative though because he wasn't a cleric he was not meant to take part in the debates. He was to conduct them, close them, and guide them to keep them on the right path. I believe ''preside'' accurately describes this role. This has been a huge discussion on a single word.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 23:45, 8 October 2011 (UTC)
+
+Pseudo-Richard, I'd appreciate it if you provided these 'additional' sources, however the information already presented ''does'' show Candidian was sent to preside. I think some have been fixated on whether the word ''preside'' is used or not.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 07:36, 9 October 2011 (UTC)
+:Please read the latest revision of the article after my most recent edits.  My new source (Gary Wills) is cited there.  Here's my current understanding... Theodosius sent Candidian to preside but Cyril &quot;reduced him to a cipher&quot; and completely controlled the proceedings which is why almost every source says that Cyril presided.  Candidian was supposed to have presided but Cyril usurped that role.  (NB: &quot;usurp&quot; is my interpretation; no source says exactly that although Gary Wills implies it)  When John of Antioch shows up, he and Nestorius convene their own council and Candidian presides (as he was supposed to).  Now, both councils send reports to the Emperor about what they have done.  (well, actually the Nestorian group holds the Cyril group incommunicado even to the extent of boarding ships to make sure the Cyril group cannot communicate to the Emperor.  The Cyril group finally gets a beggar to hide a message to the Emperor in the hollow of a cane.  The message begs for help because they have been effectively held hostage by the Nestorian group)  So the Emperor instructs them to hold a single council and to come up with a truly ecumenical decision.  This is as far as my understanding of what happened goes.  I haven't untangled the rest of the story but we know how it ends up.  At the end, the Emperor deposes Cyril, Memnon and Nestorius.  It's quite a fascinating story. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 07:58, 9 October 2011 (UTC)
+::I thought that in fact was what I had said. 
+::The important thing to note is that there are two types of presiding going on. Candidian sent to establish the Council, keep them there till a decision was met with and to also keep them on track. Who would actually lead the discussions was not yet established though naturally enough bishops tended to gravitate around one of two leaders of the dispute; Nestorius and Cyril.
+
+::Cyril would have been on shaky grounds if he himself arbitrarily opened proceedings -that is what I cited. He refused to join his group to Nestorius' and when Candidian came before him and his group Cyril tricked him into reading out the sacra, thus getting the debate under-way. They then didn't need Candidian in one sense as Candidian would never have lead the actual discussions. Nestorius and Candidian held their own council along the lines that the council should have gone; with Candidian presiding over the secular matters, and Nestorius leading the debate.
+::Cyril outplayed Candidian. It is important to note that Cyrcil must have felt it needed to have the Sacra read out before his group.
+::However the Emperor was then left with deciding which was the legitimate council, the one that was properly begun (Cyril's) with the one that was conducted (generally speaking) along the right lines (Nestorius')
+::The emperor took the option of approving both sets of rulings
+::I think in part because to not accept Nestorius' council would have made him look weak -as his representative was undermined.
+::[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 10:23, 9 October 2011 (UTC)
+:::@Montalban: What I'm about to write might seem harsh to you.  I hope you won't take it that way.  I'm not trying to attack or criticize you.  I'm just making some comments in the hopes of avoiding future disputes.  A lot of the yucky dispute over &quot;Candidian presided&quot; could have been avoided if you had written the comment above and provided the sources to prove &quot;the Emperor sent Candidian to preside&quot; (e.g. Gary Wills) and &quot;Candidian presided over John of Antioch's council&quot; (J.B. Bury).  I'm not sure how much of this story you knew before the dispute with Esoglou started or how familiar you were with the sources.  For my part, I was only vaguely aware that there was a Council of Ephesus that had condemned Nestorius and I had never heard of Cyril, John of Antioch or Candidian before I noticed the dispute between you and Esoglou.  That's why I kept quiet for a long time.  I started reading the sources and couldn't find sources to support what you were saying.  I do admit that, as LoveMonkey rightly criticized me, the Google search for &quot;Candidian preside&quot; does turn up the Gary Wills source as the first (!) search result.  Sheesh.  I don't know how I could have missed that.  I apologize that it took me so long to get back to the Gary Wills source and find that one phrase about &quot;the Emperor sent Candidian to preside&quot;.  I hope at least that this experience establishes my good faith in trying to find the sources.  It was never my intention to gang up on you either personally or as an Orthodox editor.  It seemed that Esoglou was making valid charges and none of the sources presented up to that point supported what you were saying because they all said that &quot;Cyril presided&quot;.  Thus, what you were writing appeared to be original research.  Now, we've adequately supported your assertions.  I'm sorry it took such a long dispute to get here.  PAX.  (sorry, that's Latin; don't know how to say it in Greek) --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 15:18, 9 October 2011 (UTC)
+:It's εἰρήνη.  I second what Richard says.  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 15:29, 9 October 2011 (UTC)
+Pseudo-Richard, au contraire. A lot of this would have been resolved if people weren't fixated on the use of a single word. I opened this others to come up with a word you would choose instead. This didn't happen. Some insisted that a source be found with that particular word. Instead one seemed more keen on presenting me huge paragraphs about rules they think I should learn and advice that they were happy to pass on.
+
+The sources I cited showed that Candidian was the emperor's representative, with full powers, as his commissioner, etc. I believe most people reading that would understand that it could be summed up with the word 'preside'. 
+
+That you now have a source you're happy with using that word is really great. I applaud your honesty in brining this to light – although it meets an over-exacting criteria it only says what all the other sources have said.
+[[User:Montalban|Montalban]] ([[User talk:Montalban|talk]]) 21:56, 9 October 2011 (UTC)
+
+:OK... we don't agree but I think it's 'nuff said.  It's time to move on. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 22:31, 9 October 2011 (UTC)
+::Hear, hear.  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 18:27, 10 October 2011 (UTC)
+
+== Reliable sources noticeboard ==
+
+What a lot of words have been spent on the question of who presided or was appointed to preside at the Council of Ephesus.  I have posted the question on the appropriate [http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Noticeboard#First_Council_of_Ephesus noticeboard.]  Can we all agree to accept whatever verdict is rendered there?  [[User:Esoglou|Esoglou]] ([[User talk:Esoglou|talk]]) 08:38, 8 October 2011 (UTC)
+:No, but I'll certainly consider all responses with all due respect. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 08:42, 8 October 2011 (UTC)
+::Esoglou and Richard have done a gotcha on User:Montalban I think the term for what they did is called sandbagging or at least [[feigning incompetence]]. [[User:LoveMonkey|LoveMonkey]] ([[User talk:LoveMonkey|talk]]) 14:02, 8 October 2011 (UTC)
+
+== About Candidian and the reading of the Sacra ==
+
+In my recent rewrite of the article text concerning the First Council of Ephesus, I deleted the text about the reading of the Sacra.  My reasoning is that the discussion of the First Council of Ephesus should be succinct and get to the point quickly rather than getting into a lot of details.  The article on the [[First Council of Ephesus]] is the right place for the details.  The key points (IMO) are that the emperor sent Candidian to preside, Cyril outmaneuvered Candidian and Candidian presided over the council held by Nestorius and John of Antioch.  Ultimately, Cyril's council was deemed to be ecumenical.  I don't think the details about the reading of the Sacra are critical to making the point but I suppose we can mention it briefly if Montalban insists. --[[User:Pseudo-Richard|Pseudo-Richard]] ([[User talk:Pseudo-Richard|talk]]) 15:30, 9 October 2011 (UTC)</text>
+      <sha1>azo91d5jjjbqtvt7novgihf8mam1jk9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

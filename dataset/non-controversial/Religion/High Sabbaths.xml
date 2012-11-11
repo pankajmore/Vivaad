@@ -1,0 +1,79 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>High Sabbaths</title>
+    <ns>0</ns>
+    <id>3062753</id>
+    <revision>
+      <id>485686472</id>
+      <parentid>482693268</parentid>
+      <timestamp>2012-04-05T09:24:38Z</timestamp>
+      <contributor>
+        <username>AvocatoBot</username>
+        <id>14893258</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.1) (Robot: Adding [[ro:Sabat haGadol]]</comment>
+      <text xml:space="preserve" bytes="2181">{{Unreferenced|date=March 2009}}
+The term '''High Sabbaths''' is used by some Christians to refer to the Jewish [[High Holy Days]]. There are seven annual Biblical festivals specified in the books of [[Book of Exodus|Exodus]] and [[Deuteronomy]]. 
+
+==Biblical rest days==
+The seven festivals do not necessarily occur on the weekly ''[[Shabbat]]'' ([[seventh-day Sabbath]]) and are called by the name ''miqra'' (&quot;called assembly&quot;) in Hebrew. They are observed by Jews and a minority of Christians. Three of them occur in spring: the first and seventh days of [[Pesach]] ([[Passover (Christian holiday)|Passover]]), and [[Shavuot]] ([[Pentecost]]). Four occur in fall, in the seventh month, and are also called ''shabbaton'': [[Rosh Hashanah]] ([[Feast of Trumpets (Christian holiday)|Trumpets]]); [[Yom Kippur]], the &quot;Sabbath of Sabbaths&quot; (Atonement); and the first and eighth days of [[Sukkoth]].
+
+The [[Gospel of John]] says of the night immediately following [[Christ]]'s burial that &quot;that sabbath day was a high day&quot; ({{bibleverse||John|19:31-47|KJV}}). That night was Nisan 15, the first day of Passover week ([[Unleavened Bread]]) and an annual ''miqra'' and rest day, in most chronologies. (In other systems, it was Nisan 14, i.e., weekly but not annual Sabbath.) The [[King James Version]] may thus be the origin of naming the annual rest days &quot;High Sabbaths&quot;.
+
+==Shabbat Hagadol==
+The phrase &quot;high Sabbath&quot; has been defined by Danny ben Gigi, former professor of Hebrew Language at [[Arizona State University]], as synonymous with &quot;''[[Shabbat Hagadol]]''&quot;, whichever ''Shabbat'' precedes Passover in any year.{{Fact|date=June 2009}} This viewpoint is based on the absence of references in [[Torah]] that refer to feast days as &quot;high&quot;, although it is harder to reconcile strictly with [[New Testament]] chronology.
+
+==High Holidays==
+The ten-day period between the High Sabbaths of Rosh Hashanah and Yom Kippur is commonly referred to as the related High Holy Days or [[High Holidays]].
+
+== References ==
+{{reflist}}
+
+[[Category:New Testament theology]]
+
+[[cs:Šabat ha-gadol]]
+[[de:Schabbat ha-Gadol]]
+[[he:שבת הגדול]]
+[[ro:Sabat haGadol]]
+[[yi:שבת הגדול]]</text>
+      <sha1>piayt79op4wg4ufyw167mtt0obzjir4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

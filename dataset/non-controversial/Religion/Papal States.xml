@@ -1,0 +1,325 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Papal States</title>
+    <ns>0</ns>
+    <id>59534</id>
+    <revision>
+      <id>521133182</id>
+      <parentid>519752938</parentid>
+      <timestamp>2012-11-03T00:17:30Z</timestamp>
+      <contributor>
+        <username>Libertyernie2</username>
+        <id>1538114</id>
+      </contributor>
+      <minor/>
+      <comment>[[Flag of the Vatican City]] --&gt; [[Flag of Vatican City]]</comment>
+      <text xml:space="preserve" bytes="29336">{{Use mdy dates|date = April 2012}}
+{{Infobox Former Country
+|native_name = ''Stati della Chiesa''&lt;br/&gt;''Status Pontificius''
+|conventional_long_name = States of the Church
+|common_name = Papal States
+|
+|continent = Europe
+|region = Italy
+|country = Italy
+|government_type = [[Elective monarchy]]
+|
+|year_start = 754
+|year_end = 1870
+|
+|event_start = Establishment
+|event_end = [[Capture of Rome|2nd Disestablishment]]
+|date_end = September 20
+|
+|event1 = [[Charlemagne#Conquest of Lombardy|Codification]]
+|date_event1 = 781
+|event2 = [[Roman Republic (18th century)|1st Disestablishment]]
+|date_event2 = February 15, 1798
+|event_post = [[Lateran treaty|Vatican City]]
+|date_post = February 11, 1929
+|
+|p1 = Kingdom of Italy (medieval)
+|flag_p1 =
+|p2 = Exarchate of Ravenna
+|flag_p2 =
+|s1 = Kingdom of Italy (1861–1946)
+|flag_s1 = Flag_of_Italy_(1861-1946).svg
+|s2 = Prisoner in the Vatican
+|flag_s2 = Flag of the Papal States (1808-1870).svg
+|s3 = Vatican City
+|flag_s3 = Flag of the Vatican City.svg
+|image_flag = Flag of the Papal States (1808-1870).svg
+|flag_type = Flag in 1870
+|flag = Flag of Vatican City
+|symbol = Coat of arms of the Holy See
+|symbol_type = Coat of arms in 1870
+|image_coat = C o a Pio IX.svg
+|coa_size = 110px
+|
+|image_map = PapalStates1700.png
+|image_map_caption = Map of the Papal States (green) in 1700 (around its greatest extent), including its exclaves of [[Benevento]] and [[Pontecorvo]] in Southern Italy, and the [[Comtat Venaissin]] and [[Avignon]] in Southern France.
+|
+|capital = [[Rome]]
+|national_anthem = ''[[Noi vogliam Dio, Vergine Maria]]'' ( – 1857) &lt;br /&gt; &lt;small&gt;([[Italian language|Italian]])&lt;br /&gt;&quot;We want God, Virgin Mary&quot;&lt;/small&gt; &lt;br /&gt; ''[[Marcia trionfale (Hallmayer)|Marcia trionfale]]'' (1857–1870) &lt;br /&gt; &lt;small&gt;([[Italian language|Italian]])&lt;br /&gt;&quot;Great Triumphal March&quot;&lt;/small&gt;
+|common_languages = [[Latin language|Latin]],  [[Italian language|Italian]]
+|religion = [[Roman Catholic Church|Roman Catholic]]
+|currency =
+|
+|leader1 = [[Pope Stephen II|Stephen II]] &lt;small&gt;(first)&lt;small&gt;
+|leader2 = [[Pope Pius IX|Pius IX]] &lt;small&gt;(last)&lt;small&gt;
+|year_leader1 = 754–757
+|year_leader2 = 1846–1870
+|title_leader = [[List of popes|Pope]]
+|
+|stat_year1 =
+|stat_area1 =
+|stat_pop1 =
+|footnotes =
+|currency = [[Papal States scudo]],&lt;br /&gt;&lt;small&gt;(until 1866)&lt;/small&gt;&lt;br /&gt;[[Papal States lira]]&lt;br /&gt;&lt;small&gt;(1866–1870)&lt;small&gt;
+|today = {{FRA}}&lt;BR&gt;{{ITA}}&lt;BR&gt;{{SMR}}&lt;BR&gt;{{VAT}}
+}}
+The '''Papal State(s)''', the '''State(s) of the Church''', the '''Pontifical States''', the '''Ecclesiastical States''', or the '''Roman States''' ({{lang-it|Stato Pontificio}}, also ''Stato della Chiesa'', ''Stati della Chiesa'', ''Stati Pontifici'', and ''Stato Ecclesiastico''; {{lang-la|Status Pontificius}}, also ''Dicio Pontificia'')&lt;ref name=&quot;mitchell368&quot;&gt;{{cite book |last= Mitchell|first= S.A. |title= Mitchell's geographical reader |publisher= Thomas, Cowperthwait &amp; Co|page=368|year= 1840 |url=http://books.google.com/books?id=bkUAAAAAYAAJ&amp;redir_esc=y}}&lt;/ref&gt; were among the major [[historical states of Italy]] from roughly the 6th century until the [[Italian peninsula]] was unified in 1861 by the [[Kingdom of Piedmont-Sardinia]] (after which the Papal States, in less territorially extensive form, continued to exist until 1870).
+
+The Papal States comprised territories under direct sovereign rule of the [[papacy]], and at its height it covered most of the modern Italian regions of [[Romagna]], [[Marche]], [[Umbria]] and [[Lazio]]. This governing power is commonly called the [[Temporal power (Papal)|temporal power]] of the Pope, as opposed to his ecclesiastical primacy.
+
+The plural ''Papal States'' is usually preferred; the singular ''Papal State'' (equally correct since it was not a mere [[personal union]]) tends to be used (normally with lower-case letters) for the modern [[Vatican City|State of Vatican City]], an enclave within Italy's national capital, Rome. The Vatican City was founded in 1929, again allowing the [[Holy See]] the political benefits of territorial [[sovereignty]].
+
+==Origins==
+{{main|Duchy of Rome|Patrimony of Saint Peter}}
+&lt;blockquote&gt;
+&lt;p&gt;It would, however, be wrong to suppose that all papal claims of secular jurisdiction, taxation and service, etc. were exactly defined, or that they applied with equal force all over a large region of central Italy, or that local warlords or others readily conceded obedience to Rome. This was no modern state yet, no equivalent to the contemporary strong monarchies of France or England. Force of tradition and forceful possession counted more than written deeds of donation.&lt;/p&gt;
+&lt;p&gt;–D.S. Chambers&lt;ref&gt;Chambers, 2006, p. xv&lt;/ref&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+The [[Catholic Church|Church]] spent its first three centuries as an unofficial organization, unable to hold or transfer property in times of persecution. Early churches congregated in special rooms of well-to-do individuals set aside for that purpose, and a number of [[churches of Rome|early churches]] built round the edges of [[Ancient Rome]] were ascribed to patrons who held the property in custody for the Church: see ''[[Titular church|titulus]]''. With the [[Christian emperorship]] of [[Constantine I (emperor)|Constantine I]], the Church's private property grew quickly through the donations of the pious and the wealthy; the [[Lateran Palace]] was the first significant donation, a gift of Constantine himself.
+
+Other donations soon followed, mainly in mainland [[Italy]] but also in the provinces, but the Church held all of these lands as a private landowner, not as a sovereign entity. When in the fifth century the Italian peninsula passed under the control of first [[Odoacer]] and then the [[Ostrogoths]], the church organization in Italy, and the bishop of [[Rome]] as its head, submitted to their sovereign authority while asserting their spiritual primacy over the whole [[Catholic Church|Church]].
+
+The seeds of the Papal States as a sovereign political entity were planted in the sixth century. The Eastern Roman (or [[Byzantine Empire|Byzantine]]) government in [[Constantinople]] launched a reconquest of Italy that took decades and devastated the country's political and economic structures; just as those wars wound down, the [[Lombards]] entered the peninsula from the north and conquered much of the countryside. By the seventh century, Byzantine authority was largely limited to a diagonal band running roughly from [[Ravenna]], where the Emperor's representative, or [[Exarch of Ravenna|Exarch]], was located, to Rome and south to Naples (the &quot;Rome-Ravenna corridor&quot;).
+
+With effective Byzantine power weighted at the northeast end of this territory, the Bishop of Rome, as the largest landowner and most prestigious figure in Italy, began by default to take on much of the ruling authority that Byzantines were unable to project to the area around the city of Rome. While the Bishops of Rome – now beginning to be referred to as the [[Pope]]s – remained ''de jure'' Byzantine subjects, in practice the [[Duchy of Rome]], an area roughly equivalent to [[Lazio|modern-day Latium]], became an independent state ruled by the Church.
+
+The Church's independence, combined with popular support for the Papacy in Italy, enabled various Popes to defy the will of the Byzantine emperor; [[Pope Gregory II]] even [[excommunication|excommunicated]] [[Emperor Leo III the Isaurian]] during the [[Iconoclastic Controversy]]. Nevertheless the Pope and the Exarch still worked together to control the rising power of the Lombards in Italy. As Byzantine power weakened, though, the Papacy took an ever larger role in defending Rome from the Lombards, usually through [[diplomacy]].{{Citation needed|date=May 2007}} In practice, the papal efforts served to focus Lombard aggrandizement on the Exarch and Ravenna. A climactic moment in the founding of the Papal States was the agreement over boundaries embodied in the [[Lombards|Lombard]] king [[Liutprand the Lombard|Liutprand]]'s ''[[Donation of Sutri]]'' (728) to [[Pope Gregory II]].&lt;ref&gt;{{cite web|url=http://www.romeartlover.it/Civita3.html|title=Sutri|work=From Civitavecchia to Civita Castellana |accessdat4e=27 August 2012}}&lt;/ref&gt;
+
+==Donation of Pepin==
+{{main|Donation of Pepin}}
+[[File:RomaPalazzoQuirinale.JPG|thumb|right|300px|The [[Quirinal Palace]], papal residence and home to the civil offices of the Papal States from the [[Renaissance]] until their annexation.]]
+When the [[Exarchate of Ravenna]] finally fell to the Lombards in 751, the Duchy of Rome was completely cut off from the Byzantine Empire, of which it was theoretically still a part. [[Pope Stephen II]] acted to neutralize the Lombard threat by courting the de facto [[Frankish Empire|Frankish]] ruler, [[Pepin the Short]]. With the urging of [[Pope Zachary]] to depose the [[Merovingian]] figurehead [[Childeric III]], Pepin was crowned in 751 by [[Saint Boniface]].
+
+Stephen later granted Pepin the title ''[[Patrician (post-Roman Europe)|Patrician]] of the Romans''.  Pepin led a Frankish army into Italy in 754 and 756. Pepin defeated the Lombards – taking control of northern Italy – and made a gift (called the [[Donation of Pepin]]) of the properties formerly constituting the Exarchate of Ravenna to the Pope.
+
+In 781, [[Charlemagne]] codified the regions over which the Pope would be temporal sovereign: the Duchy of Rome was key, but the territory was expanded to include Ravenna, the [[Pentapolis]], parts of the [[Duchy of Benevento]], [[Tuscany]], [[Corsica]], [[Lombardy]] and a number of Italian cities. The cooperation between the Papacy and the Carolingian dynasty climaxed in 800, when [[Pope Leo III]] crowned Charlemagne the first &quot;Emperor of the Romans&quot; ('Augustus Romanorum').
+
+==Relationship with the Holy Roman Empire==
+The precise nature of the relationship between the Popes and Emperors – and between the Papal States and the Empire – was disputed. Was the Pope a sovereign ruler of a separate realm in central Italy, or were the Papal States just a part of the Frankish Empire over which the Popes had administrative control? (This last was the view of the late 9th-century ''[[Libellus de imperatoria potestate in urbe Roma]]''.) Or were the Holy Roman Emperors vicars of the Pope (as a sort of Archemperor) ruling Christendom, with the Pope directly responsible only for the environs of Rome and spiritual duties?
+
+Events in the 9th century postponed the conflict: the Holy Roman Empire in its Frankish form collapsed as it was subdivided among Charlemagne's grandchildren. Imperial power in Italy waned  and the papacy's prestige declined. This led to a rise in the power of the local Roman nobility, and the control of the Papal States during the early tenth century by a powerful and corrupt aristocratic family, the [[Theophylacti]]. This period was later dubbed the [[Saeculum obscurum]] or &quot;dark age of the papacy&quot;, and sometimes as the &quot;rule by harlots&quot;.&lt;ref&gt;Emile Amann and Auguste Dumas, &quot;&quot;L'église au pouvoir des laïques&quot;, in Auguste Fliche and Victor Martin, eds. ''Histoire de l'Église depuis l'origine jusqu'au nos jours'', vol. 7 (Paris 1940, 1948).
+
+[[Liutprand of Cremona]]'s biased account is adjusted by Bernard Hamilton, &quot;The monastic revival in tenth-century Rome&quot; and &quot;The House of Theophylact and the promotion of the religious life among women in tenth-century Rome&quot;, both articles collected in Hamilton's ''Monastic Reform, Catharism and the Crusades (900–1300'' (London, 1979).&lt;/ref&gt; In practice, the Popes were unable to exercise effective sovereignty over the extensive and mountainous territories of the Papal States, and the region preserved its old system of government, with many small countships and marquisates, each centered upon a fortified ''[[Rocca (architecture)|rocca]]''.
+
+Over several campaigns in the mid-tenth century, the German ruler [[Otto I, Holy Roman Emperor|Otto I]] conquered northern Italy; [[Pope John XII]] crowned him emperor (the first so crowned in more than forty years), and the two of them ratified the [[Diploma Ottonianum]], which guaranteed the independence of the Papal States. Yet over the next two centuries, Popes and Emperors squabbled over a variety of issues, and the German rulers routinely treated the Papal States as part of their realms on those occasions when they projected power into Italy. A major motivation for the [[Gregorian Reform]] was to free the administration of the Papal States from imperial interference, and after the extirpation of the [[Hohenstaufen]] dynasty, the German emperors rarely interfered in Italian affairs. By 1300, the Papal States, along with the rest of the Italian principalities, were effectively independent.  During the Renaissance the Spanish Emperors fought wars over the Papal States, often against the Pope.
+
+==Period of the Avignon papacy==
+{{Main|Avignon Papacy}}
+From 1305 to 1378, the Popes lived in the papal enclave of [[Avignon]], surrounded by [[Provence]], and were under the influence of the French kings in  the 'Babylonian Captivity'. During this [[Avignon Papacy]], local [[Despotism|despot]]s took advantage of the absence of the popes, to establish themselves in nominally papal cities: the [[Pepoli]] in Bologna, the [[Ordelaffi]] in [[Forlì]], the [[Manfredi family|Manfredi]] in [[Faenza]], the [[House of Malatesta|Malatesta]] in [[Rimini]] all gave nominal acknowledgement to their papal overlords and were declared vicars of the Church.
+
+In Ferrara, the death of [[Azzo VIII d'Este]] without legitimate heirs (1308) encouraged Clement to bring Ferrara under his direct rule: for only nine years, however, was it governed by his appointed vicar, [[Robert of Naples|Robert d'Anjou, King of Naples]], before the citizens recalled the [[House of Este|Este]] from exile (1317); interdiction and excommunications were in vain: in 1332 John XXII was obliged to name three Este brothers as his vicars in Ferrara.
+
+In Rome itself the [[Orsini]] and the [[Colonna]] struggled for supremacy, dividing the city's ''[[Rioni of Rome|rioni]]'' between them. The resulting aristocratic anarchy in the city provided the setting for the fantastic dreams of universal democracy of [[Cola di Rienzo]], who was acclaimed Tribune of the People in 1347 and met a violent death in 1354.
+
+The Rienzo episode engendered renewed attempts from the absentee papacy to re-establish order in the dissolving Papal States, resulting in the military progress of  [[Gil Álvarez Carrillo de Albornoz|Cardinal Egidio Albornoz]], who was appointed papal legate, and his [[condottieri]] heading a small mercenary army. Having received the support of the archbishop of Milan and [[Giovanni Visconti (cardinal)|Giovanni Visconti]], he defeated [[Giovanni di Vico]], lord of Viterbo,  moving against  [[Galeotto Malatesta]] of Rimini and the [[Ordelaffi]] of Forlì, the [[Montefeltro]] of [[Urbino]] and the da Polenta of [[Ravenna]], and against the cities of [[Senigallia]] and [[Ancona]]. The last holdouts against full papal control were [[Giovanni Manfredi]] of Faenza and [[Francesco II Ordelaffi]] of Forlì. Albornoz, at the point of being recalled in 1357, in a meeting with all the Papal vicars, April 29, 1357, promulgated the ''[[Constitutiones Sanctæ Matris Ecclesiæ]]'', which replaced the mosaic of local law and accumulated traditional 'liberties' with a uniform code of civil law. These ''Constitutiones Egidiane'' mark a watershed in the legal history of the Papal States; they remained in effect until 1816. [[Pope Urban V]] ventured a return to Italy in 1367 that proved premature; he returned to Avignon in 1370
+
+[[File:PapalPolitics.JPG|thumb|left|''Antichristus'' (1521) by [[Lucas Cranach the Elder]] is a woodcut of the Papal States at war during the Renaissance.]]During this period the city of Avignon itself was added to the Papal States; it remained a papal possession even after the popes returned to Rome, being seized and incorporated into the by then unitary French state only during the [[French Revolution]].
+
+==Renaissance==
+During the [[Renaissance]], the papal territory expanded greatly, notably under Popes [[Pope Alexander VI|Alexander VI]] and [[Pope Julius II|Julius II]]. The Pope became one of Italy's most important secular rulers as well as the head of the Church, signing treaties with other sovereigns and fighting wars. In practice, though, most of the Papal States was still only nominally controlled by the Pope, and much of the territory was ruled by minor princes. Control was always contested; indeed it took until the 16th century for the Pope to have any genuine control over all his territories.
+
+Papal responsibilities were often (as in the early 16th century) in
+conflict.  The Papal States were involved in at least 3 wars in the
+first 2 decades.&lt;ref&gt;
+[www.historyguy.com/wars_papal.html], accessed in Feb 2012
+&lt;/ref&gt;&lt;ref&gt;
+[www.zum.de/whkmla/military/italy/milxpapalstate.html],
+accessed in Feb 2012
+&lt;/ref&gt;
+[[Pope Julius II]], the &quot;Warrior Pope&quot;, fought on their behalf.
+The Reformation began in 1517.  Before the Holy Roman Empire fought
+the Protestants, its soldiers (including many Protestants),
+[[Sack of Rome (1527)|sacked Rome]] as
+a side effect of battles over the Papal States.&lt;ref name=&quot;Durant1&quot;&gt;
+{{cite book |title= The Renaissance |author= Will Durant |year=1953
+|location= Chapter XXI: The Political Collapse: 1494–1534}}&lt;/ref&gt;
+A generation later the armies of king [[Philip II of Spain]] stomped
+those of [[Pope Paul IV]] over the same issues.&lt;ref name=&quot;Durant2&quot;&gt;
+{{cite book |title= The Renaissance |author= Will Durant |year=1953
+|location= Chapter XXXIX: The Popes and the Council: 1517–1565}}&lt;/ref&gt;
+
+This period saw a gradual revival of the Pope's temporal power in the Papal States. Throughout the 16th century virtually independent fiefs such as Rimini, (a possession of the Malatesta family) were brought back under Papal control. This process culminated in the re-claiming of the powerful Duchy of Ferrara in 1598 and the Duchy of Urbino in 1631.
+
+At its greatest extent, in the 18th century, the Papal States included most of Central Italy — [[Latium]], [[Umbria]], [[Marche]] and the [[Papal Legations|Legations]] of [[Ravenna]], [[Ferrara]] and [[Bologna]] extending north into the [[Romagna]]. It also included the small enclaves of [[Benevento]] and [[Ponte Corvo|Pontecorvo]] in southern Italy and the larger [[Comtat Venaissin]] around [[Avignon]] in southern France.
+
+==French Revolution and Napoleonic era==
+[[File:Italy 1796.png|thumb|300px|Map of Italy in 1796, showing the Papal States before the [[Napoleonic wars]] changed the face of Italy]]
+The [[French Revolution]] proved as disastrous for the temporal territories of the Papacy as it was for the Roman Church in general. In 1791 the [[Comtat Venaissin]] and Avignon were annexed by France. Later, with the French invasion of Italy in 1796, the Legations were seized and became part of the revolutionary [[Cisalpine Republic]].
+
+Two years later, the Papal States as a whole were invaded by French forces, who declared a [[Roman Republic (18th century)|Roman Republic]]. [[Pope Pius VI]] died in exile in Valence (France) in 1799. The Papal States were restored in June 1800 and [[Pope Pius VII]] returned, but the French again invaded in 1808, and this time the remainder of the States of the Church were annexed to France, forming the ''[[département]]s'' of ''[[Tibre]]'' and ''[[Trasimène]]''.
+
+With the fall of the Napoleonic system in 1814, the Papal States were restored once more. From 1814 until the death of [[Pope Gregory XVI]] in 1846, the Popes followed a [[reactionary]] policy in the Papal States. For instance, the city of Rome maintained the last [[Roman Ghetto|Jewish ghetto]] in Western Europe. There were hopes that this would change when [[Pope Pius IX]] was elected to succeed Gregory and began to introduce liberal reforms.
+
+==Italian nationalism and the end of the Papal States==
+{{Main|Papal States under Pope Pius IX}}
+[[Italian nationalism]] had been stoked during the Napoleonic period but dashed by the settlement of the [[Congress of Vienna]] (1814–15), which left Italy divided: with Sardinia-Piedmont, Tuscany and the other northern states under the rule of junior cadet branches of the [[Habsburg]]s and in the south the [[Kingdom of the Two Sicilies]] was under Bourbon rule. In 1848, nationalist and liberal revolutions began to break out across Europe; in 1849, a [[Roman Republic (19th century)|Roman Republic]] was declared and [[Pope Pius IX]] fled the city.
+
+A view of the Papal States from the perspective of the mid 19th
+century is readily available.&lt;ref name=&quot;About&quot;&gt;{{cite book
+|title= The Roman Question |author= Edmond About
+|year= 1859 |isbn= 978-1-4255-1934-6}}  This book is a primary reference,
+written by a French Catholic observer who visited the Papal States at
+the time.  It is opinionated, claiming to convey the opinions of the Pope's
+subjects at the time.  The Papacy was more interested in polishing
+the statues of the Saints than in repairing potholes in the streets.
+The text is available at no cost from [[Project Gutenberg]].&lt;/ref&gt;
+
+After the Austro-Sardinian War  of 1859, much of northern Italy was unified under the [[House of Savoy]], and [[Garibaldi|Giuseppe Garibaldi]] led a revolution that overthrew the Bourbon monarchy in the Kingdom of the Two Sicilies. Afraid that Garibaldi would set up a republican government in the south, the Sardinians petitioned Emperor [[Napoleon III]] of France for permission to send troops through the Papal States to gain control of the Two Sicilies, which was granted on the condition that Rome was left undisturbed. In 1860, with much of the region already in rebellion against Papal rule, Sardinia-Piedmont conquered the eastern two-thirds of the Papal States and cemented its hold on the south. Bologna, Ferrara, Umbria, the Marches, Benevento and Pontecorvo were all formally annexed by November of the same year, and a unified [[Kingdom of Italy (1861–1946)|Kingdom of Italy]] was declared.
+
+The Papal States were reduced to [[Latium]], the immediate neighbourhood of Rome, which was declared Capital of Italy in March 1861, when the first Italian Parliament met in the Piedmontese kingdom's old capital, [[Turin]]. However, the Italian Government could not take possession of its capital because Napoleon III kept a French garrison in Rome in order to protect Pope Pius IX. The opportunity to eliminate the Papal States came when the Franco-Prussian War began in July 1870, and Napoleon III had to recall his garrison from Rome.  Following the collapse of the [[Second French Empire]] at the [[Battle of Sedan]], widespread public demonstrations demanded that the Italian Government take Rome. King [[Victor Emmanuel II]] sent Count [[Gustavo Ponza di San Martino]] to Pius IX with a personal letter offering a face-saving proposal that would have allowed the peaceful entry of the Italian Army into Rome, under the guise of offering protection to the pope.
+
+[[File:BrecciaPortaPia.jpg|left|thumb|200px|The [[Capture of Rome|Breach of Porta Pia]], on the right, in 1870.]]
+On September 10, 1870, Italy declared war on the Papal States, and the Italian Army, commanded by General [[Raffaele Cadorna]], crossed the frontier of the then remaining papal territory on September 11 and advanced slowly toward Rome. The Italian Army reached the [[Aurelian Walls]] on September 19 and placed Rome under a state of siege. Although the pope's tiny army was incapable of defending the city, Pius IX ordered it to put up at least a token resistance to emphasize that Italy was acquiring Rome by force and not consent. This incidentally served the purposes of the Italian State and gave rise to the myth of the [[Capture of Rome#Breach of Porta Pia|Breach of Porta Pia]], in reality a tame affair involving a cannonade at close range that demolished without much fuss a 1600-year-old wall in poor repair. The [[Capture of Rome|city was captured]] on September 20, 1870. Rome and Latium were annexed to the Kingdom of Italy as a result of a [[plebiscite]] the following October.
+
+Despite the fact that the traditionally Catholic powers did not come to the Pope's aid, the papacy rejected any substantial accommodation with the Italian Kingdom, especially any proposal which required the Pope to become an Italian subject.  Instead the papacy confined itself (see [[Prisoner in the Vatican]]) to the Apostolic Palace and adjacent buildings in the loop of the ancient fortifications known as the [[Leonine City]], on [[Vatican Hill]]. From there it maintained a number of features pertaining to sovereignty, such as diplomatic relations, since in canon law these were inherent in the papacy.  In the 1920s, the papacy – then under [[Pius XI]] — renounced the bulk of the Papal States and the [[Lateran Treaty]] (or [[Concordat]]) with Italy was signed on February 11, 1929, creating the [[Vatican City|State of the Vatican City]], forming the sovereign territory of the [[Holy See]], which was also indemnified to some degree for loss of territory.
+
+==Institutions==
+[[File:I fratelli de charette de la contrie detti i moschettieri del papa.jpg|thumb|right|[[Papal Zouaves]] pose in 1869.]]
+*As the ''plural'' name Papal States indicates, the various regional components, usually former independent states, retained their identity under papal rule. The Pope was represented in each province by a governor, either styled [[papal legate]], as in the former principality of [[Benevento]], or [[Bologna]], [[Romagna]], and the [[March of Ancona]]; or [[papal delegate]], as in the former duchy of [[Ponte Corvo|Pontecorvo]] and in the [[Campagne and Maritime Province]].
+*The police force, known as ''[[sbirri]]'' (&quot;cops&quot; in modern Italian slang), was [[billet]]ed in private houses (normally a practice of military occupation) and enforced order quite rigorously.
+*For the defence of the states against the nascent Italian state in the last years of papal territorial autonomy, an international Catholic volunteer corps, called [[Papal Zouaves]] after a kind of French colonial native Algerian infantry, and imitating their uniform type, was created and fought in many engagements with great courage against superior odds in men and equipment.&lt;ref&gt;Charles A. Coulombe, ''The Pope's Legion: The Multinational Fighting Force that Defended the Vatican'', Palgrave Macmillan, New York, 2008&lt;/ref&gt;
+
+==See also==
+*[[Donation of Constantine]]
+*[[History of Rome]]
+*[[Holy Roman Empire]]
+*[[Italian unification]]
+*[[Prisoner in the Vatican]]
+*[[War of the Eight Saints]]
+*[[Captain General of the Church]]
+
+{{portal|Christianity}}
+
+==References==
+*{{Catholic|wstitle=States of the Church}}
+*Chambers, D.S. 2006. ''Popes, Cardinals &amp; War: The Military Church in Renaissance and Early Modern Europe''. I.B. Taurus. ISBN 1-84511-178-8.
+*{{cite book|first=Raffaele|last=De Cesare|title=The Last Days of Papal Rome|publisher=Archibald Constable &amp; Co|location=London|year=1909}}
+*Luther, Martin (1521). [http://books.google.com/books?id=tbvV9F4tLEUC&amp;pg=PA265#PPA253,M1 ''Passional Christi und Antichristi'']. Reprinted in W.H.T. Dau (1921). ''At the Tribunal of Caesar: Leaves from the Story of Luther's Life''. St. Louis: Concordia. (Google Books)
+
+==Footnotes==
+{{Reflist}}
+
+==Sources, references, and external links==
+*[http://www.worldstatesmen.org/Italy_states2.htm WorldStatesmen: Italy]
+*[http://www.zum.de/whkmla/histatlas/italy/haxitaly.html WHKMLA Historical atlas: here the page offering numerous links to maps of/containing Italy]
+
+==External links==
+*[http://worldcoingallery.com/countries/Papal_St_all.html Papal States Coinage]
+
+{{coord|42|49|16|N|12|36|10|E|type:country_region:IT|display=title}}
+{{History of the Catholic Church|collapsed}}
+{{Former monarchies Italian peninsula}}
+
+[[Category:1870 disestablishments]]
+[[Category:States and territories established in 752]]
+[[Category:History of Catholicism in Italy]]
+[[Category:History of the Papacy]]
+[[Category:Former theocracies]]
+[[Category:Papal States| ]]
+
+{{Link GA|sv}}
+{{Link FA|he}}
+
+[[als:Kirchenstaat]]
+[[ar:الدولة البابوية]]
+[[an:Estatos Pontificios]]
+[[be:Папская вобласць]]
+[[bg:Папска държава]]
+[[bs:Papinska država]]
+[[ca:Estats Pontificis]]
+[[cs:Papežský stát]]
+[[da:Kirkestaten]]
+[[de:Kirchenstaat]]
+[[et:Kirikuriik]]
+[[eml:Stèd d'la Cîsa]]
+[[es:Estados Pontificios]]
+[[eo:Papa Ŝtato]]
+[[eu:Aita Santuen Lurraldea]]
+[[fr:États pontificaux]]
+[[ga:Stáit an Phápa]]
+[[gl:Estados Pontificios]]
+[[ko:교황령]]
+[[hr:Papinska Država]]
+[[id:Negara-negara Kepausan]]
+[[is:Páfaríkið]]
+[[it:Stato Pontificio]]
+[[he:מדינת האפיפיור]]
+[[ka:პაპის ოლქი]]
+[[la:Dicio Pontificia]]
+[[hu:Pápai Állam]]
+[[mk:Папската држава]]
+[[nl:Kerkelijke Staat]]
+[[ja:教皇領]]
+[[no:Kirkestaten]]
+[[nn:Kyrkjestaten]]
+[[pl:Państwo Kościelne]]
+[[pt:Estados Pontifícios]]
+[[ro:Statele Papale]]
+[[ru:Папская область]]
+[[sk:Pápežský štát]]
+[[sl:Papeška država]]
+[[sr:Папска држава]]
+[[sh:Papinska Država]]
+[[fi:Kirkkovaltio]]
+[[sv:Kyrkostaten]]
+[[th:รัฐพระสันตะปาปา]]
+[[tr:Papalık Devleti]]
+[[uk:Папська держава]]
+[[vec:Stato Pontificio]]
+[[zh-classical:教廷諸屬國]]
+[[zh:教皇国]]</text>
+      <sha1>ced4hnic5t9f37m6s4fb6g2i1u4duke</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

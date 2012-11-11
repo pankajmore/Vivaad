@@ -1,0 +1,385 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Land value tax</title>
+    <ns>0</ns>
+    <id>143012</id>
+    <revision>
+      <id>522273894</id>
+      <parentid>520014691</parentid>
+      <timestamp>2012-11-10T02:54:45Z</timestamp>
+      <contributor>
+        <username>FrescoBot</username>
+        <id>9021902</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:FrescoBot/Links|link syntax/spacing]] and minor changes</comment>
+      <text xml:space="preserve" bytes="51296">{{Taxation}}
+A '''land value tax''' (or '''site valuation tax''') is a levy on the unimproved value of [[land (economics)|land]]. It is an ''[[ad valorem]]'' [[tax]] on land that disregards the value of [[buildings]], [[personal property]] and other [[land improvement|improvements]]. A land value tax ('''LVT''') is different from other [[property tax]]es, because these are taxes on the whole value of [[real estate]]: the combination of land, buildings, and improvements to the site.
+
+Although the efficiency of a land value tax has been established knowledge since [[Adam Smith]],&lt;ref name=&quot;Wealth of Nations 5:2&quot;&gt;{{cite book|last=Smith|first=Adam|title=[[The Wealth of Nations]], Book V, Chapter 2, Article I: Taxes upon the Rent of Houses |year=1776 |quote=Ground-rents are a still more proper subject of taxation than the rent of houses. A tax upon ground-rents would not raise the rents of houses. It would fall altogether upon the owner of the ground-rent, who acts always as a monopolist, and exacts the greatest rent which can be got for the use of his ground. }}&lt;/ref&gt; it was perhaps most famously promoted by [[Henry George]]. In his best selling work ‘’[[Progress and Poverty]]’’ (1879), George argued that the value of land was created by the community, and therefore its rent belonged to the community.&lt;ref&gt;{{cite book |title=Progress and Poverty |last=George |first=Henry |coauthors=  |year=1879 |publisher = |location=  |isbn= |pages= | url= http://www.henrygeorge.org/pchp19.htm}} The often cited passage is titled “The unbound Savannah.”&lt;/ref&gt;
+
+Land value taxes have been implemented in Taiwan ([[Republic of China]]), [[Hong Kong]], [[Singapore]], [[Russia]]  and [[Estonia]], as well as in some localities in the American state of [[Pennsylvania]], the Australian state of [[New South Wales]] and [[Mexicali]], in [[Mexico]]. The government of the [[Republic of Ireland]] is currently considering the introduction of an LVT, among other options for taxing property.
+
+==Economic effects==
+
+The value of the land (and many other macro-economic quantities too) can be expressed using two independent concepts:
+
+* The value, or, strictly speaking, the price, of a particular site of land is what a fair exchange brings in terms of money during an agreed trade or transaction between two parties, one of whom is the [[landowner]]. (This definition is conditional on no LVT being applied, because when it does apply, the exchange value is affected.)
+
+* The land value of the site is also directly related to its demandable ground-rent, which is its potential for use in either production or residential capacities.  The [[capitalization]] of this rent gives the land value too. Land which is not useful has no value and is called [[Economic rent|marginal land]], as explained by British economist [[David Ricardo]] in 1816.
+
+===Efficiency===
+[[Image:Perfectly inelastic supply.svg|thumb|left|250px|A [[supply and demand]] diagram showing the effects of land value taxation. If the supply of land is fixed, the [[tax incidence|burden]] of the tax will fall entirely on the land owner, with no [[deadweight loss]].]]
+Most taxes distort economic decisions.&lt;ref&gt;Coughlin (1999) p.263-4&lt;/ref&gt; If labor, buildings or machinery and plant are taxed, people are dissuaded from constructive and beneficial activities, and enterprise and efficiency are penalized due to the [[excess burden of taxation]]. This does not apply to LVT, which is payable regardless of whether or how well the land is actually used.  Because the supply of land is [[elasticity (economics)|inelastic]], market land rents depend on what tenants are prepared to pay, rather than on the expenses of landlords, and so LVT cannot be directly [[tax incidence|passed on]] to tenants.&lt;ref&gt;[[Adam Smith]], [[The Wealth of Nations]] [[s:The Wealth of Nations/Book V/Chapter 2|Book V, Chapter 2]], Part 2, Article I: Taxes upon the Rent of Houses&lt;/ref&gt;  The direct beneficiaries of incremental improvements to the surrounding neighborhood by others would be the land's occupants, and absentee landlords would benefit only by virtue of price competition amongst present and prospective tenants for those incremental benefits; the only direct effect of LVT on prices in this case is to lower the [[unearned increment]] (reduce the amount of the socially generated benefit that is privately captured as an increase in the market price of the land).  Put another way, LVT is often said to be justified for economic reasons because if it is implemented properly, it will not deter production, distort market mechanisms or otherwise create [[deadweight loss]]es the way other taxes do.&lt;ref&gt;{{Cite book |last = McCluskey |first = William J. |last2 = Franzsen |first2 = Riël C. D. |title = Land Value Taxation: An Applied Analysis |page = 4 |publisher = Ashgate Publishing, Ltd. |year = 2005 |url = http://books.google.com/?id=jkogP2U4k0AC&amp;pg=PA73&amp;lpg=PA73&amp;dq=disadvantages+of+land+value+taxation |isbn = 0-7546-1490-5 |postscript = &lt;!--None--&gt;}}&lt;/ref&gt; [[Nobel Prize]] winner [[William Vickrey]] believed that &quot;removing almost all business taxes, including property taxes on improvements, excepting only taxes reflecting the marginal social cost of public services rendered to specific activities, and replacing them with taxes on site values, would substantially improve the economic efficiency of the jurisdiction.&quot;&lt;ref&gt;Vickrey, William.  &quot;The Corporate Income Tax in the U.S. Tax System, 73 TAX NOTES 597, 603(1996)&lt;/ref&gt; A correlation between the use of LVT at the expense of traditional property taxes and greater market efficiency is predicted by economic theory, and has been observed in practice.&lt;ref&gt;{{cite web |last = Smith |first = Jeffery J. |title = Property Tax Shift Successes |publisher = The Progress Report |year = 2001 |url = http://www.progress.org/archive/geono05.htm |accessdate = 2008-06-13}}&lt;/ref&gt;
+
+Proponents, such as [[Fred Foldvary]], state that the necessity to pay the tax encourages landowners to develop vacant and underused land properly or to make way for others who will. They state that because LVT deters speculative land holding, dilapidated [[inner city]] areas are returned to productive use, reducing the pressure to build on undeveloped sites and so reducing [[urban sprawl]].&lt;ref&gt;{{Cite document|last=Foldvary |first=Fred E. |title=Geo-Rent: A Plea to Public Economists |publisher=[[Econ Journal Watch]] |year=2005 |url=http://econjwatch.org/issues/volume-2-issue-1-april-2005 |volume=2 |pages=106–132 |issue=1|postscript=&lt;!--None--&gt;}}&lt;/ref&gt;  For example [[Harrisburg, Pennsylvania]] in the [[United States]] has taxed land at a rate six times that on improvements since 1975, and this policy has been credited by its long-time mayor, [[Stephen R. Reed]] with reducing the number of vacant structures in downtown Harrisburg from around 4,200 in 1982 to fewer than 500.  LVT is an [[ecotax]] because it ostensibly discourages the waste of locations, which are a finite natural resource.&lt;ref&gt;{{cite journal |last = Mills |first = David E. |title = The Non-Neutrality of Land Value Taxation |journal = National Tax Journal |volume = 34 |issue = March 1981 |pages = 125, 127–128 |publisher = National Tax Association}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last = Bentick | first = Brian L. |title = The Impact of Taxation and Valuation Practices on the Timing and Efficiency of Land Use |journal = Journal of Political Economy |volume = 87 |issue = August 1979 |pages = 859–860 |publisher = The [[University of Chicago Press]]|doi = 10.1086/260797 |year = 1979 |jstor = 1831012 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last = DiMasi |first = Joseph A. |title = The Effects of Site Value Taxation in an Urban Area: A General Equilibrium Computational Approach |journal = National Tax Journal |volume = 40 |issue = December 1987 |pages = 577–588 |publisher = National Tax Association}}&lt;/ref&gt;
+
+===Real estate values===
+[[Real estate bubble]]s direct savings towards [[rent seeking]] activities rather than other investments, and can contribute to [[recession]]s which damage the entire economy. Advocates of the land tax claim that it reduces the speculative element in land pricing, thereby leaving more money for productive capital investment and making the economy more stable.&lt;ref&gt;{{cite web |last = Wetzel |first = Dave |title = The case for taxing land |publisher = New Statesman |date = 2004-09-20 |url = http://www.newstatesman.com/200409200007 |accessdate = 2008-06-13}}&lt;/ref&gt;
+
+If the value to landowners were reduced to zero or near zero by recovering effectively all its rent, total privately held asset values could decline as the land value element was stripped out, representing a shift in apparent private sector wealth. Since landowners often possess significant political influence, this has significantly deterred the adoption of land value taxes.&lt;ref&gt;{{cite journal |first = Julie P. |last = Smith |title = Land Value Taxation: A Critique Of 'Tax Reform, A Rational Solution' |publisher = [[Australian National University]] |date = June 2000 |url = http://econrsss.anu.edu.au/pdf/DP417.pdf |format = PDF |accessdate = 2008-06-13 |issn = 1442-8636}}&lt;/ref&gt;
+
+==Practical issues==
+There are several practical issues involved in the implementation of a land value tax. Most notably, it needs to be:
+* Calculated fairly and accurately,
+* High enough to raise sufficient revenue without causing land abandonment, and
+* Billed to the correct person or business entity.
+
+===Assessments/Appraisals===
+{{Hatnote|Compare to [[Real estate appraisal]]}}
+{{See also|Land (economics)}}
+
+In theory, levying a land value tax is straightforward, requiring only a valuation of the land and a register of the identities of the landholders. There is no need for the tax payers to deal with complicated forms or to give up personal information as with an [[income tax]]. Because land cannot be hidden, removed to a [[tax haven]] or concealed in an electronic data system,&lt;ref&gt;{{cite web|url=http://www.feasta.org/documents/landhousing/ppleaflet.pdf |title=Land Value Tax FAQ, Feasta |accessdate=2009-02-13}}&lt;/ref&gt; the tax cannot be [[tax evasion|evaded]].
+
+However, critics point out that determining the value of land can be difficult in practice. In a 1796 [[Supreme Court of the United States|United States Supreme Court]] opinion, [[William Paterson (judge)|Justice William Paterson]] noted that leaving the valuation process up to [[Assessor (property)|assessors]] would cause numerous bureaucratic complexities, as well as non-uniform assessments due to imperfect policies and their interpretations.&lt;ref&gt;Hylton, 3 U.S. 171(1796)&lt;/ref&gt; [[Austrian School]] economist [[Murray Rothbard]] later raised similar concerns, stating that no government can fairly assess value, which can only be determined by a [[free market]].&lt;ref&gt;{{cite web|url=http://www.mises.org/rothbard/georgism.pdf |title=The Single Tax: Economic and Moral Implications and A Reply to Georgist Criticisms|first=Murray |last=Rothbard |accessdate=2009-02-13 |publisher=The Mises Institute}}&lt;/ref&gt;
+
+However, firstly, as Steven Spadijer has pointed out, the free market is ''already'' determining the taxable value of the land. For example, valuators in the home-and-contents insurance industry are ''already'' performing such a function on a daily basis when, in order to calculate an insurance premium, the valuator must separate the value of the home from the indestructible value of the land beneath the home itself. Thus, land value for LVT purposes is assessed using market evidence. Such evidence may comprise both selling prices and rentals. Where development already exists on a site, the value of the site can be discovered by various means, of which the most easily understood is the residual method: the value of the site is the total value of the property minus the depreciated value of buildings and other structures. This may explain why the system involves little fuss and relative ease in the places where it has been implemented. Secondly, when compared to modern day property tax evaluations, valuations of land involve fewer variables and have smoother [[gradient]]s than valuations that include improvements. This is due to variation of building style, quality and size between [[lot (real estate)|lot]]s. Modern computerization and statistical techniques have eased the process; in the 1960s and 1970s, [[multivariate analysis]] was introduced as a method of assessing land.&lt;ref&gt;{{Cite document|url=http://books.google.com/?id=SsizAAAAIAAJ&amp;q=%22Estimating+Residential+Land+Value+by+Multivariate+Analysis%22+intitle:%22The+Assessment+of+Land+Value%22&amp;dq=%22Estimating+Residential+Land+Value+by+Multivariate+Analysis%22+intitle:%22The+Assessment+of+Land+Value%22 |last=Downing |first=Paul B. |title=&quot;Estimating Residential Land Value by Multivariate Analysis&quot; |year=1970 |accessdate=2009-02-13|publisher=Published for the Committee on Taxation, Resources and Economic Development by the University of Wisconsin Press|postscript=&lt;!--None--&gt;}}&lt;/ref&gt;
+
+Usually, the valuation process commences with a measurement of the most and least valuable land within the taxation area. A few sites of intermediate value are then identified and used as &quot;landmark&quot; values. Other values are filled in between the landmark values. The data is then collated on a database and linked to a unique property reference number,&lt;ref&gt;{{Cite document|url=http://www.landreg.gov.hk/en/form/property.htm|title=Property Reference Number|publisher=The Land Registry|accessdate=2008-12-22|postscript=&lt;!--None--&gt;}}&lt;/ref&gt; &quot;smoothed&quot; and mapped using a [[geographical information system]] (GIS). Thus, even if the initial valuation is difficult, once the system is in use, successive valuations become easier.
+
+===Limited revenue===
+[[Image:Maximum taxation with perfectly inelastic supply.svg|thumb|right|250px|In this case, land is taxed at 100% of its rental value, eliminating the landowner surplus completely. Land tax revenues cannot be raised beyond this point.]]
+In the context of land value taxation as a [[single tax]] (replacing all other taxes), some have argued that LVT alone cannot raise large enough [[tax revenue|revenues]].&lt;ref&gt;Posner, Richard A. ECONOMIC ANALYSIS OF LAW 458-59 (3rd ed. 1986)&lt;/ref&gt; However, this is to ignore the fact that other taxes have the effect of reducing land values and hence the amount of revenue that can be raised from them. The [[Physiocrats]] argued that all taxes are ultimately at the expense of land rental values. Most [[Land value tax#Existing tax systems|modern LVT systems]] are alongside other taxes, and thus only reduce their impact without removing them completely. In a case or event where a jurisdiction attempted to levy a land tax that was higher than the entire landowner [[economic surplus|surplus]], it would result in landowner [[abandonment]] and a sharp decline in tax revenue.&lt;ref&gt;Coughlin (1999) p.265-266.&lt;/ref&gt;
+
+===Requires clear ownership===
+In some countries, LVT is nearly impossible to implement because of lack of certainty regarding [[land titles]] and clearly established [[land ownership and tenure]]. For instance a parcel of grazing land may be communally owned by the inhabitants of a nearby village and administered by the village elders. In these situations, the land in question would need to be vested in a trust or similar body for taxation purposes. If the government can not accurately define ownership boundaries and ascertain the proper owners, it cannot know from whom to collect the tax. The phenomenon of lack of clear titles is found worldwide in developing countries&lt;ref&gt;{{cite journal |first = Mika-Petteri |last = Törhönen |title = Sustainable Land Tenure and Land Registration in Developing Countries, Including a Historical Comparison with an Industrialised Country |version = Final version |publisher = [[Elsevier Science Ltd]] |date = 2003-01-15 |url = http://lib.tkk.fi/Diss/2003/isbn9512264919/article4.pdf |format = PDF |accessdate = 2008-05-22}}&lt;/ref&gt; and is in part the subject of the work of the [[Peru]]vian economist [[Hernando de Soto (economist)|Hernando de Soto]]. In African countries with imperfect land registration, boundaries may be poorly surveyed, the landlord can be elusive and would have to be identified, or made to identify himself, otherwise it would be significantly more difficult to tax than occupants. Most governments require that tax collectors track owners down nonetheless so that the burden of the tax does not fall on the poor.&lt;ref&gt;{{Cite document |last=Keith |first=Simon H. |date=October 1993 |title=Property Tax in Anglophone Africa: A Practical Manual |publication-place=Washington, DC |publisher=The World Bank |page=10 |url=http://www1.worldbank.org/wbiep/decentralization/africa/Keith.pdf |format=PDF|issn=0253-7494 |accessdate=2008-06-12 |postscript=&lt;!--None--&gt;}}&lt;/ref&gt;
+
+==Land Value Tax Incentives==
+As a model of how Land Value Taxation affects incentives, take for example a vacant lot in the center of a vibrant and growing city. Any landowner that must pay a tax for such a lot will perceive holding it vacant as a financial liability instead of an investment that passively rises in value.
+
+A Land Value Tax does not increase the purchasing price of land. [[Tax incidence]] rests completely upon landlords. This is to say that landlords can not collectively raise the overall market price of land as a result of the tax.
+
+One reason is that buyers will not pay for the anticipated appreciation of land since such appreciation is taxed away. From the seller's perspective, land costs more to continuously maintain ownership of. Thus, Land Value Taxation gives buyers increased leverage over sellers.
+
+Similarly, the selling price of anything that is fixed in supply will not increase if it is taxed.{{fact|date=October 2012}} Since there is, for all intents and purposes, a fixed supply of land, a land value tax is paid by the land owner.
+
+Furthermore, unlike taxing goods that carry higher purchasing prices as a result of higher production costs, land does not increase in price when taxed. This is because land simply exists. It is not produced by individual land owners.
+
+For these same reasons, a land value tax is also not passed on to tenants as higher rent. Landlords are impelled to make land available to tenants as a means of generating the funds required to pay the Land Value Tax. Relatively speaking, landlords compete with other landlords for tenants instead of tenants competing with each other for space.
+
+Land Value Taxation creates an impetus to either use a site for an income generating purpose, such as apartments, store fronts, office space, etc or to sell part or all of the site. Of course, anyone who purchases the land will be faced with the same incentive, which is to use it or lose it.
+
+The Land Value Tax paid per surface area is high in locations with high land values, especially cities. In vibrant cities, under use of land in the form of buildings which are underused, short, or even derelict are generally speaking converted to more intensive uses. Of course vacant or ground-level parking lots are also generally converted to building space and parking structures.
+
+Such incentives result in an increase in the supply of space for living, working, recreation, etc. Assuming constant demand, an increase in supply of constructed space, ie substitutes for land, decrease the rent paid for such space.
+
+This is especially relevant since land value taxes are often used to replace taxes on buildings,  among other taxes. Of course, taxes on buildings restrict the supply of building space. A revenue neutral shift from buildings to land increases the supply of building space more than a land value tax alone.
+
+In a city, infill of poorly utilized space effectively combats [[sprawl]],allowing people to live closer to the city centre for the same cost.
+
+Taxing land reduces the incentive for [[tax evasion]]. Multi-national corporations for instance can not take land with them overseas. Land values are considered public information unlike income, sales, etc. [[GIS]] maps provide a means to easily compare taxes paid on land values. Such transparency reduces landowners' ability to evade the tax.
+
+==Ethics==
+{{See also|Georgism|Catholic social teaching}}
+In religious terms, it has been claimed that land is a common gift to all of mankind.&lt;ref&gt;[[Harry Gunnison Brown]] (1936). &quot;A Defense of the Single-Tax Principle.&quot; Annals of the American Academy of Political and Social Sciences 183 (January): 63.&lt;/ref&gt; For example, the Catholic Church as part of its &quot;Universal Destination&quot; principle asserts:
+{{Quotation|Everyone knows that the Fathers of the Church laid down the duty of the rich toward the poor in no uncertain terms. As St. Ambrose put it: &quot;You are not making a gift of what is yours to the poor man, but you are giving him back what is his. You have been appropriating things that are meant to be for the common use of everyone. The earth belongs to everyone, not to the rich.&quot;&lt;ref&gt;{{cite web|author=Paul VI |url=http://www.vatican.va/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_26031967_populorum_en.html |title=Populorum Progressio, item 23 |accessdate=2009-02-13}}&lt;/ref&gt;|[[Pope Paul VI]]|[[Populorum Progressio]]}}
+
+Land acquires a [[scarcity]] value owing to the competing needs of the community for living, working and leisure space. According to proponents,&lt;ref&gt;{{Cite document|title=A Study in Land Value Taxation|url=http://www.cooperativeindividualism.org/post-louis_on-land-value-taxation.html|first=Louis F.|last=Post|publisher=The School of Cooperative Individualism|accessdate=2008-11-17|postscript=&lt;!--None--&gt;}}&lt;/ref&gt; the unimproved value of land owes nothing to the individual efforts of the landowner and everything to the community at large. These supporters suggest that the value of land belongs justly and uniquely to the community.
+
+A land value tax takes into account the effect on land value of location, or of improvements made to neighbouring land, such as proximity to roads, public works or a shopping complex. LVT is said to act as [[value capture]] tax.&lt;ref&gt;Coughlin (1999), p.263&lt;/ref&gt; A new [[public works]] project may make adjacent land go up considerably in value, and thus, with a tax on land values, the tax on adjacent land goes up.  Thus, the new public improvements would be paid for by those most benefited by the new public improvements — those whose land value went up most.&lt;ref&gt;Rick Rybeck, Using Value Capture to Finance Infrastructure and Encourage Compact Development, PUBLIC WORKS MANAGEMENT &amp; POLICY, Vol. 8 No. 4, April 2004, pp.249-260, {{doi|10.1177/1087724X03262828}}, © 2004 Sage Publications. http://pwm.sagepub.com/cgi/reprint/8/4/249&lt;/ref&gt;
+
+==History==
+
+===Pre-modern===
+{{Expand section|date=February 2009}}
+Land value taxation has ancient roots, tracing back to after the introduction of [[agriculture]]. One of the oldest forms of taxation, it was originally based on [[crop yield]]. This early version of the tax required simply sharing the yield at the time of the [[harvest]], akin to paying a yearly rent.&lt;ref&gt;{{cite encyclopedia |last=Seligman |first=Edwin R. |author= |authorlink= |coauthors= |editor= |encyclopedia=Encyclopaedia of the Social Sciences |title= |url= |accessdate= |edition= |date= |year=1937 |publisher=Macmillan Publishing Company, Incorporated |volume= |isbn=0-02-609130-5 |pages=70}}&lt;/ref&gt;
+
+===Ancient China===
+
+[[Mencius]]&lt;ref&gt;[[p684, The Story of Civilisation, Volume 1, &quot;Our Oriental Heritage&quot;, Will Durant, Simon and Schuster, New York, 1942 (Tenth Printing)]]&lt;/ref&gt; was a Chinese philosopher who advocated for land tax around 300 BCE.
+
+===Physiocrats===
+[[Image:Anne Robert Jacques Turgot.jpg|thumb|upright|right|[[Anne Robert Jacques Turgot]], one of the leading physiocrats.]]
+The [[physiocrats]] were a group of [[economists]] who believed that the wealth of nations was derived solely from the value of land [[agriculture]] or [[land development]]. Physiocracy is considered one of the &quot;early modern&quot; [[schools of economics]]. Physiocrats called for the abolition of all existing taxes, completely [[free trade]], and a [[single tax]] on land;&lt;ref&gt;{{cite web|url=http://cepa.newschool.edu/het/schools/physioc.htm|accessdate=2009-03-18|publisher=The History of Economic Thought Website|last=Fonseca|first=Gonçalo L|title=The Physiocrats}}&lt;/ref&gt; they did not distinguish, however, between intrinsic value of land and ground rent.&lt;ref&gt;{{cite web |url=http://www.cooperativeindividualism.org/fraenckel-axel_physiocrats-and-henry-george.html |first=Axel |last=Fraenckel |title=The Physiocrats and Henry George |accessdate=2008-07-10 |work=4th International Conference of the International Union for Land Value Taxation and Free Trade |publisher=The School of Cooperative Individualism |year=1929}}&lt;/ref&gt; Their theories originated in [[France]] and were most popular during the second half of the 18th century. The movement was particularly dominated by [[Anne Robert Jacques Turgot]] (1727–1781) and [[François Quesnay]] (1694–1774).&lt;ref&gt;Steiner, Phillippe (2003) ''Physiocracy and French Pre-Classical Political Economy'' in eds. Biddle, Jeff E, Davis, Jon B, &amp; Samuels, Warren J. ''A Companion to the History of Economic Thought'' p.62. Blackwell Publishing, 2003.&lt;/ref&gt; It immediately preceded the first modern school, [[classical economics]], which began with the publication of Adam Smith's ''[[The Wealth of Nations]]'' in 1776. The Physiocrats were also highly influential in the [[Land value tax in the United States#History|early history of land value taxation in the United States]].
+
+[[Thomas Paine]] contended in his ''[[Agrarian Justice]]'' pamphlet that all citizens should be paid 15 [[Pound sterling|pounds]] at age 21 &quot;as a compensation in part for the loss of his or her natural inheritance by the introduction of the system of landed property.&quot; This proposal was the origin of the [[citizen's dividend]] advocated by [[Geolibertarianism]].
+
+===Classical economists===
+
+It was Adam Smith, in his book ''[[The Wealth of Nations]]'', who first rigorously analyzed the effects of a land value tax, pointing out how it would not hurt economic activity, and how it would not raise land rents.
+
+{{Quotation
+|Ground-rents are a still more proper subject of taxation than the rent of houses. A tax upon ground-rents would not raise the rents of houses. It would fall altogether upon the owner of the ground-rent, who acts always as a monopolist, and exacts the greatest rent which can be got for the use of his ground. More or less can be got for it according as the competitors happen to be richer or poorer, or can afford to gratify their fancy for a particular spot of ground at a greater or smaller expense. In every country the greatest number of rich competitors is in the capital, and it is there accordingly that the highest ground-rents are always to be found. As the wealth of those competitors would in no respect be increased by a tax upon ground-rents, they would not probably be disposed to pay more for the use of the ground. Whether the tax was to be advanced by the inhabitant, or by the owner of the ground, would be of little importance. The more the inhabitant was obliged to pay for the tax, the less he would incline to pay for the ground; so that the final payment of the tax would fall altogether upon the owner of the ground-rent.
+|Adam Smith
+|The Wealth of Nations, [[s:The Wealth of Nations/Book V/Chapter 2|Book V, Chapter 2]], Article I: Taxes upon the Rent of Houses
+}}
+
+===Georgism===
+[[Image:Henry George.jpg|thumb|upright|right|[[Henry George]] in 1865.]]
+{{Main|Georgism}}
+
+Henry George (September 2, 1839 &amp;ndash; October 29, 1897) was perhaps the most famous advocate of recovering land rents for public purposes. An [[United States|American]] [[journalist]], [[politician]] and [[political economist]], he advocated a &quot;[[Single Tax]]&quot; on [[land (economics)|land]] that would eliminate the need for all other taxes. In 1879 he authored ''[[Progress and Poverty]]'', which significantly influenced land taxation in the United States.
+
+===Meiji Restoration in Japan===
+After the 1868 [[Meiji Restoration]] in Japan, [[Land Tax Reform (Japan 1873)|Land Tax Reform]] was undertaken. A land value tax was implemented beginning in 1873. By 1880 initial problems with valuation and rural opposition had been overcome and rapid industrialisation was underway.
+
+===Liberal and Labour Parties in the United Kingdom===
+In the [[United Kingdom]], LVT was an important part of the platform of the [[Liberal Party (UK)|Liberal Party]] during the early part of the twentieth century: [[David Lloyd George]] and [[H. H. Asquith]] proposed &quot;to free the land that from this very hour is shackled with the chains of feudalism.&quot;&lt;ref&gt;{{cite web|url=http://www.newstatesman.co.uk/landreform/lr200409200008.htm |title=A revolutionary who won over Victorian liberals |publisher=New Statesman |date=2004-09-20 |accessdate=2009-02-13}}&lt;/ref&gt; It was also advocated by [[Winston Churchill]] early in his career.&lt;ref&gt;{{cite web |url=http://home.vicnet.net.au/~earthshr/winston.html |first=Winston |last=Churchill |title=Land Price as a Cause of Poverty |accessdate=2009-02-13 |year=1909 |archiveurl=http://web.archive.org/web/20011217193137/home.vicnet.net.au/~earthshr/winston.html |archivedate=2001-12-17}}&lt;/ref&gt; The [[Liberal Party (UK, 1989)|modern Liberal Party]] (not to be confused with the [[Liberal Democrats]], which are the larger heir to the earlier Liberal Party but who also have some support for the idea&lt;ref&gt;{{cite web |url=http://libdemsalter.org.uk/en/
+ |title=Action for Land Taxation and Economic Reform |publisher=Liberal Democrat ALTER }}&lt;/ref&gt;) remains committed to a local form of land value taxation,&lt;ref&gt;{{cite web |url=http://www.liberal.org.uk/policies/planning.htm#public |title=Policy Statement — Planning |publisher=The Liberal Party |accessdate=2009-02-13}}&lt;/ref&gt; as do the [[Green Party of England and Wales]]&lt;ref&gt;{{cite web |url=http://policy.greenparty.org.uk/downloads/mfssld.pdf |title=Land |work=Manifesto for a Sustainable Society |publisher=[[Green Party of England and Wales]] |format=PDF |date=March 2000 |accessdate=2009-03-05}}&lt;/ref&gt; and the [[Scottish Green Party]].&lt;ref name=&quot;scottishgreens&quot;&gt;{{Cite document|url=http://news.bbc.co.uk/1/hi/scotland/3505928.stm|title=Greens unveil land tax proposals|publisher=BBC News|date=12 March 2004|accessdate=2008-12-22|postscript=&lt;!--None--&gt;}}&lt;/ref&gt;
+
+The 1931 Labour budget included a land value tax, but before it came into force it was repealed by the Conservative-dominated National Government that followed shortly after.&lt;ref&gt;{{cite book | last = Wenzer | first = Kenneth C. | title = Land-Value Taxation: The Equitable and Efficient Source of Public Finance | publisher = M. E Sharpe Inc. | year = 1999 | location = New York | page = 163 | isbn = 0-7656-0448-5 }}&lt;/ref&gt;
+
+An attempt at introducing site value taxation in the administrative [[County of London]] was made by the local authority under the leadership of [[Herbert Morrison]] in the 1938–9 Parliament, called the London Rating (Site Values) Bill. Although it failed, it sets out detailed legislation for the implementation of a system of land value taxation using annual value assessment.&lt;ref&gt;{{Cite document|url=http://www.landvaluetax.org/government-papers/london-rating-site-values-a-bill.html|title=London Rating (Site Values) — A Bill|accessdate=2008-12-22|publisher=Land Value Taxation Campaign|postscript=&lt;!--None--&gt;}}&lt;/ref&gt;
+
+After 1945, the Labour Party adopted the policy, against the opposition of a substantial body of MPs, of attempting to collect &quot;development value&quot;: the increase in land price arising from planning consent. This was one of the provisions of the [[Town and country planning in the United Kingdom|Town and Country Planning Act 1947]] and it was repealed when the Labour government lost power in 1951.
+
+===Canada===
+Land value taxes were common in Western Canada at the turn of the twentieth century.  In Vancouver LVT became the sole form of municipal taxation in 1910 under the leadership of mayor, [[L. D. Taylor|Louis D. Taylor]].&lt;ref&gt;{{cite book|last=Francis|first=Daniel|title=L.D.: Mayor Louis Taylor and the rise of Vancouver|publisher=Arsenal Pulp Press|location=Vancouver|year=2004|pages=82–83|isbn=978-1-55152-156-5}}&lt;/ref&gt; Gary B. Nixon (2000) states that the rate never exceeded 2% of land value, too low to prevent the speculation which led directly to the massive 1913 real estate crash.&lt;ref&gt;{{cite news| url=http://findarticles.com/p/articles/mi_m0254/is_5_59/ai_70738916/ | work=The American Journal of Economics and Sociology | first=Garry B. | last=Nixon | title=Canada - economic aspects of the country's land use | year=2000}}&lt;/ref&gt;  All Canadian provinces now have moved back to taxing improvements.
+
+==Existing tax systems==
+
+A comprehensive and detailed survey of land value taxation around the world was published in 2001.&lt;ref&gt;{{cite book
+  | last = Andelson (Editor)
+  | first = Robert V.
+  | authorlink =
+  | coauthors =
+  | title =  Land-Value Taxation around the World (Studies in Economic Reform and Social Justice)
+  | publisher = Wiley Blackwell
+  | date = 2001-02-15
+  | location =
+  | page = 300
+  | url =
+  | doi =
+  | id =
+  | isbn = 978-0-631-22613-0}}&lt;/ref&gt;
+
+===Australia===
+The state of New South Wales levies a state land value tax. However unlike council rates, farmland and a person's principal place of residence are generally exempt and the state tax is only levied on value over a certain threshold. In New South Wales determination of land value, for tax purposes at a state and local level, is the responsibility of the Valuer-General.&lt;ref&gt;{{cite web|url=http://www.lands.nsw.gov.au/valuation |title=NSW.gov.au |publisher=Lands.nsw.gov.au |date= |accessdate=2010-09-25}}&lt;/ref&gt; The cities of [[Sydney]], [[Canberra]], and others in Australia use LVT. An in-depth study under the Chairmanship of Sir [[Gordon Chalk]] issued a report&lt;ref&gt;{{Cite document|url=http://www.landvaluetax.org/government-papers/brisbanes-inquiry-into-land-value-rating.html|title=Brisbane's Inquiry into Land Value Rating|publisher=Land Value Taxation Campaign|accessdate=2008-12-22|postscript=&lt;!--None--&gt;}}&lt;/ref&gt; in 1986 on the subject of local taxation for the city of [[Brisbane, Queensland]]. The report, which examined many alternative means of local finance, sets out comprehensive and concise arguments for LVT.
+
+By revenue, property taxes represent 4.5% of total taxation in Australia.&lt;ref&gt;404 error - http://www.abs.gov.au/ausstats/abs@.nsf/Latestproducts/5506.0Main%20Features32007-08?opendocument&amp;tabname=Summary&amp;prodno=5506.0&amp;issue=2007-08&amp;num=&amp;view=&lt;/ref&gt;
+
+===United States===
+{{Main|Land value tax in the United States}}
+Land value taxes are used in various jurisdictions of the United States, particularly in the state of [[Pennsylvania]].
+
+In the late 19th century followers of Henry George founded a single tax colony at Fairhope, AL.  Although the colony, now a nonprofit corporation, still holds land in the area and collects a relatively small ground rent, the land is still subject to all other state and local taxes.&lt;ref&gt;Description of [http://www.fairhopesingletax.com/index.html land value tax in Fairhope]&lt;/ref&gt;
+
+===Hong Kong===
+In Hong Kong, a [[government rent]], formerly the crown rent, is levied in addition to [[Rates (tax)#Hong Kong|Rates]]. For properties which are located in the New Territories (including New Kowloon), or located in the rest of the territory and of which the land grant take place after 27 May 1985, the government rent is levied at 3% of the rateable rental value.&lt;ref&gt;{{cite web|url=http://www.landsd.gov.hk/en/gov_rent/rent1.htm |title=Lands Department - Payment of Government Rent |publisher=Landsd.gov.hk |date= |accessdate=2012-05-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rvd.gov.hk/en/public/rent.htm |title=Rating and Valuation Department - Public Services |publisher=Rvd.gov.hk |date= |accessdate=2012-05-16}}&lt;/ref&gt;
+
+===Other countries===
+{{Expand section|date=September 2008}}
+Pure LVT, apart from real estate or generic property taxation, is used in Taiwan ([[Republic of China]]), [[Singapore]], and [[Estonia]].&lt;ref&gt;{{cite web|author=SAURUS - www.saurus.info |url=http://www.fin.ee/index.php?id=81575 |title=Land Tax law in Estonia |publisher=Fin.ee |date=1993-07-01 |accessdate=2012-05-16}}&lt;/ref&gt;
+
+Several cities around the world also use LVT (e.g. see Australia, above). It has also been used in [[Mexicali, Mexico]].&lt;ref&gt;{{Cite journal|url=http://www.lincolninst.edu/pubs/PubDetail.aspx?pubid=334|last=Perlo Cohen|first=Manuel|title=Mexicali: A Success Story of Property Tax Reform|journal=Land Lines|date=September 1999|volume=11|accessdate=2008-12-22|postscript=&lt;!--None--&gt;}}&lt;/ref&gt;
+
+==Countries with active discussion==
+
+===Ireland===
+In 2010 the then government of the [[Republic of Ireland]] announced that it would introduce an LVT, beginning in 2013.&lt;ref&gt;The government adopted a four year plan, proposing that an &quot;interim site value tax&quot; would be introduced in 2012; this would not be a true LVT, because the same tax would be levied on all properties regardless of value. A true LVT was to commence in 2013 when land valuations have been conducted. See, [http://www.thejournal.ie/government-announces-new-site-value-tax-from-2012-2010-11/ &quot;Government announces new 'site value tax' from 2012&quot;]&lt;/ref&gt; However following a change in government in 2011 this commitment has been weakened. The current, 2011 Programme for Government states only that the government will &quot;consider ...various options for a site valuation tax&quot;. It continues &quot;Any site valuation tax must take into account the significant number of households in mortgage distress and provide local government with a reliable stream of revenue&quot;.&lt;ref&gt;{{cite web|url=http://www.taoiseach.gov.ie/eng/Publications/Publications_2011/Programme_for_Government_2011.pdf |title=Programme for Government, 2011 |format=PDF |date= |accessdate=2012-05-16}}&lt;/ref&gt;
+
+===Scotland===
+
+Since the turn of the new century, with [[Scottish devolution|devolution]] and the re-establishment of the [[Scottish Parliament]], there has been interest and political pressure in Scotland to introduce land value taxation.
+
+In February 1998 the pre-devolution UK government in Scotland (the [[Scottish Office]]) launched a far-reaching public consultation process on the broad question of land reform.&lt;ref&gt;Scottish Office, Land Reform Policy Group: Identifying the Problems, February 1998 [http://www.scotland.gov.uk/library/documents1/lrpg09.htm Scotland.gov.uk]&lt;/ref&gt; A survey of the record of the public response found that: &quot;excluding the responses of the lairds and their agents, reckoned as likely prejudiced against the measure, 20% of all responses favoured the land tax&quot; (12% in grand total, without the exclusions).&lt;ref&gt;Land Reform Scotland, Responses to the Scottish Office Consultation Paper Identifying the Problems—A Survey and Simple Statistical Analysis, 10th September 1998&lt;/ref&gt; The government responded by announcing &quot;a comprehensive economic evaluation of the possible impact of moving to a land value taxation basis&quot;.&lt;ref&gt;The Scottish Office, Land Reform Policy Group, Recommendations for Action, ISBN 0-7480-7251-9, January 1999 [http://www.scotland.gov.uk/library/documents-w4/lrpg-00.htm Scotland.gov.uk] (Recommendation G8)&lt;/ref&gt; However, in a welter of published Land Reform Action Plans, concrete, positive public outcomes failed to materialise.&lt;ref&gt;{{cite web|url=http://www.scotland.gov.uk/topics/farmingrural/Rural/rural-land/right-to-buy/Resources/Land-Reform |title=Scotland.gov.uk |publisher=Scotland.gov.uk |date=2009-07-06 |accessdate=2012-05-16}}&lt;/ref&gt;
+
+In 2000 the Parliament’s Local Government Committee&lt;ref&gt;{{cite web|url=http://www.scottish.parliament.uk/s3/committees/lgc/index.htm |title=Scottish.Parliament.uk |publisher=Scottish.Parliament.uk |date= |accessdate=2010-09-25}}&lt;/ref&gt; held an inquiry into local government finance. Its terms of reference explicitly included land value taxation&lt;ref&gt;Monday 13 November 2000, [http://www.scottish.parliament.uk/nmCentre/news/news-comm-00/clg00-031.htm Scottish.Parliament.uk]&lt;/ref&gt; but the Committee’s final report did not comment on the system.&lt;ref&gt;Scottish Parliament, Local Government Committee, 6th Report 2002, Report on Inquiry into Local Government Finance [http://www.scottish.parliament.uk/business/committees/historic/x-lg/reports-02/lgr02-06-vol01-02.htm#3 Scottish.Parliament.uk]&lt;/ref&gt;
+
+In 2003 the Scottish Parliament passed a resolution: &quot;That the Parliament notes recent studies by the [[Scottish Executive]] and is interested in building on them by considering and investigating the contribution that land value taxation could make to the cultural, economic, environmental and democratic renaissance of Scotland.&quot;&lt;ref&gt;Minutes of Proceedings, Meeting of the Parliament, motion S1M-3818, 30th January 2003 [http://www.scottish.parliament.uk/business/chamber/mop-03/mop-01-30.htm Scottish.Parliament.uk]&lt;/ref&gt;
+
+In 2004 a letter of support was sent from a group of members of the Scottish Parliament to the organisers and delegates of [[the IU]]’s 24th international conference being held in Madrid—signed by members of the [[Scottish Green Party|Scottish Green]], [[Scottish Socialist Party|Socialist]] and [[Scottish National Party|Nationalist]] parties.&lt;ref&gt;&quot;Scotland is in the throes of releasing itself from the shackles of a historical inheritance of landed privilege…. On a global scale, the failure to share equitably the value of our common birthrights can grow awful grievances, which bring terrible consequences, [[2004 Madrid train bombings|such as was visited upon your host city]] [eleven weeks earlier]…. [W]e must make practical changes to our social systems. We believe that the taxing of land values will be a key policy reform for the twenty-first century. Scotland must adopt it…&quot; Letter dated (fax) the 29th of May, signed by members [[Mark Ballard]], [[Robin Harper]], [[Shiona Baird]], [[Mark Ruskell]], Chris Balance, [[Eleanor Scott]], [[Patrick Harvie]], [[Rosie Kane]], [[Rosemary Byrne]], and [[Rob Gibson]]&lt;/ref&gt;
+
+The policy was considered in 2006 by banker [[Peter Burt|Sir Peter Burt]]’s government-appointed Scottish Local Government Finance Review. The Review’s 2007 Report&lt;ref&gt;[http://www.ipp.org.nz/localgovtfiles/Funding%20and%20rating/Scott...funding%20report%2006.pdf IPP.org.nz]{{dead link|date=September 2010}}&lt;/ref&gt; concludes that &quot;although land value taxation meets a number of our criteria, we question whether the public would accept the upheaval involved in radical reform of this nature, unless they could clearly understand the nature of the change and the benefits involved…. We considered at length the many positive features of a land value tax which are consistent with our recommended local property tax [LPT], particularly its progressive nature.&quot; However, &quot;[h]aving considered both rateable value and land value as the basis for taxation, we concur with Layfield [UK Committee of Inquiry, 1976)] who recommended that any local property tax should be based on capital values.&quot;&lt;ref&gt;see 'SLGFR news: a fairer way’, ‘‘Land&amp;Liberty’’, vol. 112, no. 1216, winter 2006-7&lt;/ref&gt;
+
+In 2009, [[Glasgow City Council]] resolved that it wished to introduce a tax based on land values: &quot;the idea could become the blueprint for Scotland’s future local taxation&quot;&lt;ref&gt;{{Cite news
+  | last = Maddox
+  | first = David
+  | title = Scotland's biggest city backs plan to replace council tax
+  | newspaper = The Scotsman
+  | date = 2009-06-26
+  | url = http://thescotsman.scotsman.com/politics/Scotland39s-biggest-city-backs-plan.5404468.jp
+  | postscript = &lt;!--None--&gt; }}&lt;/ref&gt; The Council has agreed&lt;ref&gt;[http://www.glasgow.gov.uk/en/YourCouncil/Council_Committees/Committees/Minutes_Agendas/ Glasgow.gov.uk], Print 3, 2009-10&lt;/ref&gt; a &quot;long term move to a local property tax / land value tax hybrid tax&quot;: its Local Taxation Working Group also states that simple [non-hybrid] land value taxation should itself &quot;not be discounted as an option for local taxation reform: it potentially holds many benefits and addresses many existing concerns&quot;.&lt;ref&gt;{{cite journal
+  | title = Glasgow goes for land tax
+  | journal = Land&amp;Liberty
+  | volume = 116
+  | issue = 1224
+  | publisher = Henry George Foundation
+  | location = London
+  | date = 2009-07-26
+  | url = http://LandandLiberty.net
+  | issn = 0023-7574
+  | doi =
+  | id =
+  | accessdate = 2009-08-20}}&lt;/ref&gt;
+
+===United Kingdom===
+
+The Labour Land Campaign campaigns within the Labour party and the broader Labour movement for &quot;a more equitable distribution of the Land Values that are created by the whole community&quot; through an annual tax on land values. Its membership includes members of the British Labour Party, Trade Unions and Cooperatives as well as individuals.&lt;ref&gt;{{cite web|url=http://www.labourland.org/ |title=Labour Land Campaign website |publisher=labourland.org |date= |accessdate=2010-11-25}}&lt;/ref&gt; The Liberal Democrats' ALTER (Action for Land Taxation and Economic Reform) aims
+
+{{quote|to improve the understanding of and support for Land Value Taxation amongst members of the Liberal Democrats; to encourage all Liberal Democrats to promote and campaign for this policy as part of a more sustainable and just resource based economic system in which no one is enslaved by poverty; and to cooperate with other bodies, both inside and outside the Liberal Democrat Party, who share these objectives.&lt;ref&gt;{{cite web|url=http://www.libdemsalter.org.uk/ |title=Libdemsalter.org.uk |publisher=Libdemsalter.org.uk |date= |accessdate=2010-09-25}}&lt;/ref&gt;}}
+
+Courses in &quot;Economics with Justice&quot;&lt;ref&gt;{{cite web|url=http://www.economicswithjustice.co.uk |title=EconomicsWithJustice.co.uk |publisher=EconomicsWithJustice.co.uk |date= |accessdate=2010-09-25}}&lt;/ref&gt; with a strong foundation in LVT are offered at the [[School of Economic Science]], which has historical links with the Henry George Foundation.&lt;ref&gt;{{cite web|url=http://www.henrygeorgefoundation.org/cej/the-school-of-economic-science.html |title=HenryGeorgeFoundation.org |publisher=HenryGeorgeFoundation.org |date= |accessdate=2010-09-25}}&lt;/ref&gt;
+
+===Other countries===
+{{Expand section|date=October 2009}}
+Land value taxation is currently at some stage of being introduced in [[Kenya]],&lt;ref&gt;{{cite web|url=http://www.ardhi.go.ke |title=Ardhi.go.ke |publisher=Ardhi.go.ke |date= |accessdate=2010-09-25}}&lt;/ref&gt;&lt;ref name=&quot;Henry George Foundation&quot;&gt;{{cite journal
+  | title = The pioneers of the New African Age
+  | journal = Land&amp;Liberty
+  | volume = 115
+  | issue = 1223
+  | publisher = Henry George Foundation
+  | location = London
+  | date = 2009-01-18
+  | url = http://LandandLiberty.net
+  | issn = 0023-7574
+  | doi =
+  | id =
+  | accessdate = 2009-08-20}}&lt;/ref&gt; [[Namibia]] and other countries. [[China]]'s Real Rights Law contains fundamental provisions founded on a land value taxation analysis.&lt;ref&gt;{{cite journal
+  | title = China: private property, common resources
+  | journal = Land&amp;Liberty
+  | volume = 114
+  | issue = 1218
+  | publisher = Henry George Foundation
+  | location = London
+  | date = summer 2008
+  | url = http://LandandLiberty.net
+  | issn = 0023-7574
+  | doi =
+  | id =
+  | accessdate = 2009-08-20}}&lt;/ref&gt;
+
+==Policy interest elsewhere==
+In [[Zimbabwe]], government coalition partners the [[Movement for Democratic Change - Tsvangirai|Movement for Democratic Change]] has land value taxation as its policy.&lt;ref&gt;{{cite journal
+  | title = Blessed be the land of Zimbabwe, etc
+  | journal = [[Land&amp;Liberty]]
+  | volume = 115
+  | issue = 1222
+  | publisher = Henry George Foundation
+  | location = London
+  | date = 2008-08-29
+  | issn = 0023-7574
+  | doi =
+  | id =
+  | accessdate = 2009-08-20}}&lt;/ref&gt; Since 2000, there have been political expressions of interest in the policy and analysis in Belgium,&lt;ref&gt;{{cite journal
+  | title = Belgian overhaul
+  | journal = Land&amp;Liberty
+  | volume = 116
+  | issue = 1224
+  | publisher = Henry George Foundation
+  | location = London
+  | date = 2009-07-26
+  | issn = 0023-7574
+  | doi =
+  | id =
+  | accessdate = 2009-08-20}}&lt;/ref&gt; Ethiopia,&lt;ref name=&quot;Henry George Foundation&quot;/&gt; Republic of South Africa&lt;ref name=&quot;Henry George Foundation&quot;/&gt; and other countries. The governments of Thailand&lt;ref&gt;{{cite journal
+  | title = Thai tax
+  | journal = [[Land&amp;Liberty]]
+  | volume = 115
+  | issue = 1222
+  | publisher = Henry George Foundation
+  | location = London
+  | date = 2008-08-29
+  | issn = 0023-7574
+  | doi =
+  | id =
+  | accessdate = 2009-08-20}}&lt;/ref&gt; and Hungary&lt;ref&gt;{{cite journal
+  | title = Property tax goulash
+  | journal = Land&amp;Liberty
+  | volume = 114
+  | issue = 1219
+  | publisher = Henry George Foundation
+  | location = London
+  | date = 2007-09-04
+  | issn = 0023-7574
+  | doi =
+  | id =
+  | accessdate = 2009-08-20}}&lt;/ref&gt; have shown some sympathy with the policy.
+
+There are local campaigns to introduce it in many other countries, including [[South Korea]] and the [[United Kingdom]] (where a broad assembly of independent and politically-aligned groups&lt;ref&gt;Many active organisations are partners in the Coalition for Economic Justice [http://www.coalitionforeconomicjustice.com/ CoalitionForEconomicJustice.com]&lt;/ref&gt; advocate and advance the case for land value taxation).&lt;ref&gt;see, for instance, [http://clients.squareeye.com/uploads/compass/documents/Compass%20Housing%20web.pdf SquareEye.com]&lt;/ref&gt; [[The IU]] works internationally and at the United Nations in support of the policy. In 1990, several economists wrote&lt;ref&gt;[[Wikisource:Open letter to Mikhail Gorbachev (1990)]]&lt;/ref&gt; to then [[President of the Soviet Union|President]] [[Mikhail Gorbachev]] suggesting that [[Russia]] use Land Value Taxation in its transition towards a [[free market]] economy: its failure to do so has been argued as causal in the rise of the [[Business oligarch|Oligarchs]].&lt;ref&gt;{{cite web|url=http://www.counterpunch.org/schaefer02272004.html |title=Standard Schaefer: An Interview with Michael Hudson on Putin's Russia |publisher=CounterPunch |accessdate=2009-02-13}}&lt;/ref&gt;
+
+==See also==
+* [[Georgism]]
+
+==References==
+
+===Notes===
+{{reflist|2}}
+
+===Sources===
+&lt;div class=&quot;references-small&quot;&gt;
+&lt;!-- REMEMBER, if a reference is already called out by an inline citation or elsewhere in the article, we don't need to copy it here. This section is only for references from which different pages are cited, such that we would be duplicating most information in the inline citations. --&gt;
+* Coughlan, J. Anthony. &quot;Land Value Taxation and Constitutional Uniformity&quot;, Geo. Mason L. Rev., Winter 1999, Vol. 7, No. 2
+&lt;/div&gt;
+
+{{DEFAULTSORT:Land Value Tax}}
+[[Category:Land value taxation]]
+[[Category:Tax reform]]
+
+[[ca:Impost sobre els Béns Immobles]]
+[[cs:Daň z nemovitosti]]
+[[cy:Treth gwerth tir]]
+[[da:Grundskyld]]
+[[et:Maamaks]]
+[[es:Impuesto sobre Bienes Inmuebles]]
+[[fr:impôt unique]]
+[[ko:토지가치세]]
+[[id:Pajak bumi dan bangunan]]
+[[it:Imposta sul valore fondiario]]
+[[kk:Жер салығы]]
+[[nl:Onroerendezaakbelasting]]
+[[ja:地価税]]
+[[ru:Земельный налог]]
+[[sv:Markvärdesavgift]]
+[[uk:Плата за землю]]
+[[zh:地租]]</text>
+      <sha1>mro25h4qoy0k9urt5eij0btcr7tpezj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

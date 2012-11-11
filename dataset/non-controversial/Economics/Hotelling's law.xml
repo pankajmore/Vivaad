@@ -1,0 +1,108 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hotelling's law</title>
+    <ns>0</ns>
+    <id>1462135</id>
+    <revision>
+      <id>516087473</id>
+      <parentid>515105058</parentid>
+      <timestamp>2012-10-05T03:33:29Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>11292982</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.2+) (Robot: Modifying [[ca:Llei de Hotelling]]</comment>
+      <text xml:space="preserve" bytes="7455">{{One source|date=July 2011}}
+:''Not to be confused with [[Hotelling's rule]].''
+
+'''Hotelling's law''' is an observation in [[economics]] that in many markets it is [[Rationality|rational]] for producers to make their products as similar as possible. This is also referred to as the '''principle of minimum differentiation''' as well as Hotelling's &quot;linear city model&quot;. The observation was made by [[Harold Hotelling]] (1895&amp;ndash;1973) in the article &quot;Stability in Competition&quot; in ''Economic Journal'' in 1929.&lt;ref&gt;{{Citation |first=Harold |last=Hotelling |title=Stability in Competition |journal=Economic Journal |volume=39 |issue=153 |year=1929 |pages=41–57 |doi=10.2307/2224214|url=http://people.bath.ac.uk/ecsjgs/Teaching/Industrial%20Organisation/Papers/Hotelling%20-%20Stability%20in%20Competition.pdf}}&lt;/ref&gt;
+
+The opposing phenomenon is [[product differentiation]], which is usually considered to be a business advantage if executed properly.
+
+A 1979 Econometrica paper, &quot;On Hotelling's 'Stability in Competition'&quot; by Aspremont, Gabszewicz, and Thisse,&lt;ref&gt;[http://www.stern.nyu.edu/networks/phdcourse/DAspremont_Gabszewicz_Thisse_On_Hotellings_Stability_in_Competition.pdf &quot;On Hotelling's 'Stability in Competition'&quot; by Aspremont, Gabszewicz, and Thisse]&lt;/ref&gt; argues that while the price competition in Hotelling's paper correctly addressed the [[Bertrand paradox (economics)|Bertrand paradox]], explaining how firms can compete in prices and still make positive profits, Hotelling made an error in reasoning in the second part of the paper where he attempts to endogenize the locations of the firms in his model and establishes his &quot;law&quot;. The abstract of Aspremont et al. reads: &quot;The purpose of this note is to show that the so-called Principle of Minimum Differentiation, as based on Hotelling's 1929 paper 'Stability in Competition' is invalid.&quot;
+
+==Example==
+
+[[Image:Mrzezyno2Apteki.jpg|thumb|240px|Two pharmacies on the main street in [[Mrzeżyno]]. Possibly an effect of Hotelling's location competition.]]
+
+Suppose that there are two competing shops located along the length of a street running north and south.  Each shop owner wants to locate his shop such that he maximises his own [[market share]] by drawing the largest number of customers. In this example, the shop itself is the 'product' considered and both products are equal in quality and price. There is no difference in product to the customers. Customers are spread equally along the street. Therefore, considering the prices are exactly the same, each customer will always choose the nearest shop because there is no difference in product.
+
+===One shop===
+For a single shop, the optimal location is anywhere along the length of the street. The shop owner is completely indifferent about the location of the shop since it will draw all customers to it, by default. However, from the point of view of a social welfare function that tries to minimize the sum of squares of distances that people need to walk, the optimal point is halfway along the length of the street.
+
+===Two shops: halfway===
+Hotelling's law predicts that a street with two shops will also find both shops right next to each other at the same halfway point. Each shop will serve half the market; one will draw customers from the north, the other all customers from the south.
+
+Another example of the law in action or practice is to think of two food push-carts at a beach. Assume one starts at the south end of the beach and one starts at the north. Again assuming a rational consumer and equal distribution along the beach, each cart will get 50% of the customers, divided along an invisible line equidistant from the carts. But, each cart owner will be tempted to push his cart slightly towards the other, in order to move the invisible line so that it encompasses more than 50% of the beach. Eventually, the push cart operators end up next to each other in the center of the beach.
+
+===Social optimum elsewhere===
+Obviously, it would be more socially beneficial if the shops separated themselves and moved to one quarter of the way along the street from each end &amp;mdash; each would still draw half of the customers (the northern or southern half) and the customers would enjoy a shorter travel distance. However, neither shop would be willing to do this independently, as it would then allow the other shop to relocate and capture more than half the market.
+
+The original model assumes that each consumer along the street will consume at least a minimum number of goods sold in the shops, and that the price of these goods are fixed by an external authority. When these assumptions are not met, companies have incentives to differentiate their products. When not all people along the street, or along the range of possible different product positions, consume a minimum number of goods, companies can position their products to sections where consumers exist to maximize profit; this will often mean that companies will position themselves in different sections of the street, occupying niche markets. When prices are not fixed, companies can modify their prices to compete for customers; in those cases it is in the company's best interest to differentiate themselves as far away from each other as possible so they face less competition from each other.
+
+==Application==
+The street is a metaphor for product differentiation; in the specific case of a street, the stores differentiate themselves from each other by location. The example can be generalized to all other types of horizontal product differentiation in almost any product characteristic, such as sweetness, colour, or size. The above case where the two stores are side by side would translate into products that are identical to each other. This phenomenon is present in many markets, particularly in those considered to be primarily [[commodities]], and results in less variety for the consumer.
+
+Businesses in fact follow both [[product differentiation]] and Hotelling's law, as contrary as they may seem. Take for example [[JetBlue]]. The low cost airline markets itself as a revolutionary type of airline &amp;ndash; cheaper airfare, nicer planes, better locations. As JetBlue tries to differentiate its product from its competitors, it also adopts similar flight schedules and similar service.
+
+An extension of the principle into other environments of [[rational choice]] such as election &quot;markets&quot; can explain the common complaint that, for instance, the presidential candidates of the two [[American political parties]] are &quot;practically the same&quot;.  Once each candidate is confirmed during [[primaries]], they are usually established within their own partisan camps.  The remaining undecided electorate resides in the middle of the [[political spectrum]], and there is a tendency for the candidates to &quot;rush for the middle&quot; in order to appeal to this crucial bloc.  Like the paradigmatic example, the assumption is that people will choose the least distant option, (in this case, the distance is [[ideology|ideological]]) and that the most votes can be had by being directly in the center.
+
+== See also ==
+* [[Location model]]
+* [[Nash equilibrium]]
+* [[Median voter theory]]
+
+==References==
+{{Reflist}}
+
+[[Category:Economics laws]]
+
+[[ca:Llei de Hotelling]]
+[[de:Hotellings Gesetz]]
+[[es:Ley de Hotelling]]
+[[fr:Loi de Hotelling]]
+[[it:Modello di Hotelling]]
+[[he:מודל Hotelling]]
+[[nl:Wet van Hotelling]]
+[[pl:Model Hotellinga]]</text>
+      <sha1>r4ynsre79pyh3x6qwj8rdn5jx2iy7vc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,163 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Financial instrument</title>
+    <ns>0</ns>
+    <id>177773</id>
+    <revision>
+      <id>518724428</id>
+      <parentid>517988485</parentid>
+      <timestamp>2012-10-19T16:14:28Z</timestamp>
+      <contributor>
+        <ip>98.245.87.92</ip>
+      </contributor>
+      <comment>fixed some commas and semicolons</comment>
+      <text xml:space="preserve" bytes="5301">{{unreferenced|date=September 2009}}
+
+A '''financial instrument''' is a tradable asset of any kind; either cash, evidence of an ownership interest in an entity, or a contractual right to receive or deliver cash or another financial instrument.
+
+According to [[International Accounting Standards|IAS]] 32 and [[IAS 39|39]], it is defined as &quot;any contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity&quot;.&lt;ref&gt;International Accounting Standard (IAS) 32.11&lt;/ref&gt;
+
+==Categorization==
+Financial instruments can be categorized by form depending on whether they are '''cash instruments''' or '''derivative instruments''':
+* '''Cash instruments''' are financial instruments whose value is determined directly by the [[market]]s. They can be divided into [[security (finance)|securities]], which are readily transferable, and other ''cash'' instruments such as [[loans]] and [[deposits]], where both borrower and lender have to agree on a transfer.
+* [[derivative (finance)|'''Derivative instruments''']] are financial instruments which derive their value from the value and characteristics of one or more underlying entities such as an asset, index, or interest rate. They can be divided into [[derivative (finance)#OTC and exchange-traded|exchange-traded derivatives]] and [[derivative (finance)#OTC and exchange-traded|over-the-counter (OTC) derivatives]].
+
+Alternatively, financial instruments can be categorized by &quot;asset class&quot; depending on whether they are '''equity''' based (reflecting [[ownership]] of the issuing entity) or '''debt''' based (reflecting a loan the investor has made to the issuing entity). If it is debt, it can be further categorised into '''short term''' (less than one year) or '''long term'''.
+
+Foreign Exchange instruments and transactions are neither debt nor equity based and belong in their own category.
+
+===A table===
+Combining the above methods for categorization, the main instruments can be organized into a table as follows:
+
+{| border=&quot;1&quot; bordercolor=&quot;#ebebeb&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot;
+! rowspan=&quot;2&quot; bgcolor=&quot;#EBEBEB&quot; | Asset Class
+! colspan=&quot;4&quot; bgcolor=&quot;#EBEBEB&quot; | Instrument Type
+|-
+! bgcolor=&quot;#EBEBEB&quot; |Securities
+! bgcolor=&quot;#EBEBEB&quot; |Other cash
+! bgcolor=&quot;#EBEBEB&quot; |Exchange-traded derivatives
+! bgcolor=&quot;#EBEBEB&quot; |OTC derivatives
+|-
+! bgcolor=&quot;#EBEBEB&quot; |Debt (Long Term)&lt;br/&gt; &gt;1 year
+|[[Bond (finance)|Bonds]]
+|[[Loan]]s
+|Bond [[futures contract|futures]] &lt;BR /&gt;[[Option (finance)|Option]]s on bond [[futures contract|futures]]
+|[[Interest rate swap]]s&lt;br /&gt;[[Interest rate cap and floor|Interest rate caps and floors]]&lt;br /&gt;[[Interest rate option]]s&lt;br/&gt;[[Exotic instruments]]
+|-
+! bgcolor=&quot;#EBEBEB&quot; |Debt (Short Term)&lt;br/&gt; &lt;=1 year
+|Bills, e.g. [[Treasury security#Treasury bill|T-Bills]]&lt;br /&gt;[[Commercial paper]]
+|[[Deposit account|Deposits]]&lt;br/&gt;[[Certificate of deposit|Certificates of deposit]]
+|Short term [[interest rate future]]s
+|[[Forward rate agreement]]s
+|-
+! bgcolor=&quot;#EBEBEB&quot; |Equity
+|[[Stock]]
+|N/A
+|Stock [[Option (finance)|option]]s&lt;br /&gt;Equity [[futures contract|futures]]
+|Stock [[Option (finance)|option]]s&lt;BR /&gt;[[Exotic instruments]]
+|-
+! bgcolor=&quot;#EBEBEB&quot; |[[Currency|Foreign Exchange]]
+|N/A
+|[[foreign exchange spot|Spot]] foreign exchange
+|[[Currency future]]s
+|Foreign exchange [[Option (finance)|option]]s&lt;br /&gt;[[forward contract|Outright forward]]s&lt;BR /&gt;[[Forex swap|Foreign exchange swaps]]&lt;BR /&gt;[[Currency swap]]s
+|}
+
+Some instruments defy categorization into the above matrix, for example [[repurchase agreement]]s.
+
+==Measuring Financial Instrument's Gain or Loss==
+The table below shows how to measure a financial instrument's gain or loss:
+{| border=&quot;1&quot; bordercolor=&quot;#ebebeb&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot;
+! rowspan=&quot;2&quot; bgcolor=&quot;#EBEBEB&quot; |Instrument Type
+|-
+! bgcolor=&quot;#EBEBEB&quot; |Categories
+! bgcolor=&quot;#EBEBEB&quot; |Measurement
+! bgcolor=&quot;#EBEBEB&quot; |Gains and losses
+|-
+! bgcolor=&quot;#EBEBEB&quot; |Assets
+|Loans and receivables
+|Amortized costs
+|Net income when asset is [[wikt:derecognized|derecognized]] or impaired (foreign exchange and impairment recognized in net income immediately)
+|-
+! bgcolor=&quot;#EBEBEB&quot; |Assets
+|Available for sale financial assets
+|[[Deposit account]] - [[Fair value]]
+|Other comprehensive income (impairment recognized in net income immediately)
+|}
+
+== References==
+
+{{reflist}}
+
+==See also==
+* [[Off-balance-sheet]] issues
+
+==External links==
+*[http://www.ifrslist.com/ IFRS List - The online community about IFRS/IAS and Auditing]
+
+{{DEFAULTSORT:Financial Instrument}}
+[[Category:Financial markets]]
+
+[[ar:أداة مالية]]
+[[ca:Instrument financer]]
+[[de:Finanzinstrument]]
+[[es:Instrumento financiero]]
+[[fr:Instrument financier]]
+[[id:Instrumen keuangan]]
+[[it:Strumenti finanziari]]
+[[he:מכשיר פיננסי]]
+[[kk:Қаржы құралдары]]
+[[lv:Finanšu instrumenti]]
+[[lt:Finansinė priemonė]]
+[[mk:Финансиски инструменти]]
+[[ja:金融商品]]
+[[no:Finansielle instrumenter]]
+[[pl:Instrument finansowy]]
+[[ru:Финансовый инструмент]]
+[[sk:Finančný nástroj]]
+[[fi:Rahoitusinstrumentti]]
+[[sv:Finansiellt instrument]]
+[[th:ตราสารทางการเงิน]]
+[[uk:Фінансовий інструмент]]
+[[ur:مالیاتی ادات]]
+[[zh:金融商品]]</text>
+      <sha1>jsy8hzg3o4pth39wq9pth5w0k172va5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

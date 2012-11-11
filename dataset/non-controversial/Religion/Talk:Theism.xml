@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Theism</title>
+    <ns>1</ns>
+    <id>31308</id>
+    <revision>
+      <id>502073541</id>
+      <parentid>502000098</parentid>
+      <timestamp>2012-07-13T15:15:34Z</timestamp>
+      <contributor>
+        <username>Mann jess</username>
+        <id>7830412</id>
+      </contributor>
+      <comment>/* Recent revert */ Reply</comment>
+      <text xml:space="preserve" bytes="6832">{{WikiProjectBannerShell|1=
+{{WPReligion|class=C|importance=top}}
+{{WikiProject Atheism|class=Stub|importance=top}}
+{{philosophy|class=Stub|importance=high|religion=yes}}
+}}
+{{WP1.0|class=Start|category=category|VA=yes}} 
+{{archive box|auto=long}}
+__TOC__
+
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav}}
+|maxarchivesize = 100K
+|counter = 3
+|minthreadsleft = 3
+|minthreadstoarchive = 1
+|algo = old(180d)
+|archive = Talk:Theism/Archive %(counter)d
+}}
+
+== IP addresses above ==
+
+I agree with the Administrator who at [[WP:AN3]] suggested that these IPs appear to be the same person. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 05:58, 12 August 2011 (UTC)
+
+== Biased much? ==
+
+This article is in serious need of help. Every sub-section starts with &quot;While a specific definition of theism may exclude ______, it is included by the most general definition.&quot; Not only is this poor writing, the point of encyclopedic article is to cover facts about the topic. Writing this way conveys heavy bias towards the narrow, and not exclusively used, monotheistic connotation as though that is the only acceptable definition. The actual fact is, theism most literally describes belief in at least one god, NOT belief in only one god. These lines should be removed and they need nothing to replace them, as the monotheistic connotation is thoroughly described in the first paragraph. [[User:PrincessPimpernel|PrincessPimpernel]] ([[User talk:PrincessPimpernel|talk]]) 00:41, 27 April 2012 (UTC)
+
+== Recent revert ==
+
+I reverted [http://en.wikipedia.org/w/index.php?title=Theism&amp;diff=501453928&amp;oldid=501305172 this edit] to the lead, which was made by an anonymous ip with no edit summary. I can only guess why he feels the change is necessary, but in contrast, I think the sources are quite clear. AFAICT, [[agnosticism]] is about &quot;knowledge&quot;, not about &quot;justification for belief&quot;. Our article on agnosticism covers this in some detail as well. If I've missed anything, or there's some reason this change is necessary, I'd be happy to discuss it! Thanks! &amp;nbsp; &amp;mdash; [[User:Mann_jess|&lt;b&gt;Jess&lt;/b&gt;]]&lt;span style=&quot;margin:0 7px;font-variant:small-caps;font-size:0.9em&quot;&gt;&amp;middot; [[Special:Contributions/Mann_jess|&amp;Delta;]][[User_talk:Mann_jess|&amp;hearts;]]&lt;/span&gt; 20:38, 9 July 2012 (UTC)
+
+:I agree, the William L. Rowe source is quite clear, &quot;...an agnostic is someone who neither believes nor disbelieves in God...&quot;. The statement, &quot;...agnosticism deals with (absence of) rational claims to asserting knowledge&quot; is no where contained in the source. This statement actually contradicts what the source is advancing, that agnosticism &quot;deals with (absence of) rational claims to asserting belief.&quot; The source is advancing the position that agnosticism is a valid third alternative to theism and atheism, while the current statement advances that agnosticism is not a valid third alternative. It is clearly a misrepresentation of the source.[[User:IIXVXII|IIXVXII]] ([[User talk:IIXVXII|talk]]) 00:26, 11 July 2012 (UTC)
+
+:It's been [http://en.wikipedia.org/w/index.php?title=Theism&amp;diff=501508704&amp;oldid=501454354 changed] yet again, same user. I do like this new change direction but it needs to specify what agnosticism is (lack of knowledge) not just what it isn't (a matter of belief.) [[User:PrincessPimpernel|PrincessPimpernel]] ([[User talk:PrincessPimpernel|talk]]) 22:10, 10 July 2012 (UTC)
+
+::I have no issues if others want to advance the view that agnosticism is not a valid third alternative, but the current source cited, is not advancing that view.[[User:IIXVXII|IIXVXII]] ([[User talk:IIXVXII|talk]]) 00:26, 11 July 2012 (UTC)
+
+If you change this back again, then you are doing Original Research. No where in the citation does it imply what you want it to imply.[[User:IIXVXII|IIXVXII]] ([[User talk:IIXVXII|talk]]) 20:01, 12 July 2012 (UTC)
+
+:Hi IIXVXII. I haven't responded again because I saw you got some input here, and are also having this same discussion on the Agnosticism talk page. We have other sources than the one to which you're referring. I'd be happy to swap out this current source with others if that's what you'd prefer. One is by [[George Smith]] [http://books.google.com/books?ei=0Xt_T5mMH8KUiQLrlq3HAw&amp;id=FI7ZAAAAMAAJ&amp;dq=atheism+the+case+against+god&amp;q=agnostic+theist#search_anchor here]: &quot;{{tq|agnosticism is not a third alternative to theism and atheism...agnosticism refers to the impossibility of knowledge with regard to a god... Agnosticism can be either theistic or atheistic.}}&quot; (See page 10-11 for the full quote). Another is by [[Dan Barker]], page 96 [http://books.google.com/books?id=fAjPWYgIfCoC&amp;printsec=frontcover&amp;dq=isbn:9781569756775&amp;source=bl&amp;ots=InOUlmvpLP&amp;sig=zPAY2JT524CWJ5WolgUeFRykLYY&amp;hl=en&amp;sa=X&amp;ei=9z3_T6PuF-iT0QH7sqSDBw&amp;ved=0CDQQ6AEwAA#v=onepage&amp;q&amp;f=false here]. &quot;{{tq|The two words [Atheism and agnosticism] serve different concepts and are not mutually exclusive. Agnosticism addresses knowledge; atheism addresses belief. The agnostic says, “I don't have a knowledge that God exists.}}&quot;. These are sources we're using in wikipedia already on this set of articles. I could find others if necessary, but I think what we have already should be sufficient. &amp;nbsp; &amp;mdash; [[User:Mann_jess|&lt;b&gt;Jess&lt;/b&gt;]]&lt;span style=&quot;margin:0 7px;font-variant:small-caps;font-size:0.9em&quot;&gt;&amp;middot; [[Special:Contributions/Mann_jess|&amp;Delta;]][[User_talk:Mann_jess|&amp;hearts;]]&lt;/span&gt; 21:16, 12 July 2012 (UTC)
+
+::Yes, the agnosticism talk page, where I showed the flaw of the quotation.
+
+::Now I'm dealing with you, and how you are violating [[WP:NPV]] by demanding the minority view be the only view presented. You even admit you will exchange the majority view source with a minority view source, in order to obtain your goal of advancing the minority view.
+
+::My compromise is to remove the entire sentence and let this debate continue in the agnosticism talk page. Afterall, the sentence offers nothing to the topic of theism.[[User:IIXVXII|IIXVXII]] ([[User talk:IIXVXII|talk]]) 04:14, 13 July 2012 (UTC)
+
+:::The sentence offers nothing to the topic of theism ''if we assume your premise'' that they are mutually exclusive. They are not always mutually exclusive. All we're doing here is summarizing the [[Agnosticism]] and [[Agnostic theism]] articles, so I agree that you should have this discussion on those pages first. I disagree that Rowe is in the majority, and Smith and Barker and Martin et al. are all in the minority. You're welcome to hash that out and demonstrate the majority position on the Agnosticism talk if you'd like. All the best, &amp;nbsp; &amp;mdash; [[User:Mann_jess|&lt;b&gt;Jess&lt;/b&gt;]]&lt;span style=&quot;margin:0 7px;font-variant:small-caps;font-size:0.9em&quot;&gt;&amp;middot; [[Special:Contributions/Mann_jess|&amp;Delta;]][[User_talk:Mann_jess|&amp;hearts;]]&lt;/span&gt; 15:15, 13 July 2012 (UTC)</text>
+      <sha1>pj4f5kape6kylhaimqq4eguk5uszq3p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

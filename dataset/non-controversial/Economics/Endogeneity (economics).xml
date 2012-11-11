@@ -1,0 +1,135 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Endogeneity (economics)</title>
+    <ns>0</ns>
+    <id>1908618</id>
+    <revision>
+      <id>522110909</id>
+      <parentid>519728342</parentid>
+      <timestamp>2012-11-09T02:53:13Z</timestamp>
+      <contributor>
+        <username>SchreiberBike</username>
+        <id>5839411</id>
+      </contributor>
+      <comment>[[WP:DPL|You can help.]] Repaired link to the disambiguation page, [[Sample]].</comment>
+      <text xml:space="preserve" bytes="6982">
+{{for|endogeney in a non-economic sense|Endogeny}}
+
+
+In a [[statistics|statistical]] [[Statistical model|model]], a [[parameter]] or [[variable]] is said to be '''endogenous''' when there is a [[correlation]] between the parameter or variable and the [[error term]].  Endogeneity can arise as a result of [[measurement error]], [[autoregression]] with [[autocorrelation|autocorrelated]] errors, simultaneity, [[Omitted-variable bias|omitted variable]]s, and [[Sample (statistics)|sample]] selection errors. Broadly, a loop of [[causality]] between the [[independent variable|independent]] and [[dependent variable]]s of a model leads to endogeneity.
+
+For example, in a simple [[supply and demand]] model, when predicting the quantity demanded in equilibrium, the price is endogenous because producers change their price in response to demand and consumers change their demand in response to price. In this case, the price variable is said to have '''total endogeneity''' once the demand and supply curves are known. In contrast, a change in [[consumer]] tastes or [[preference]]s would be an [[exogenous]] change on the [[demand curve]].
+
+== Exogeneity vs. Endogeneity ==
+
+In a [[stochastic model]], the notion of the usual exogeneity, sequential exogeneity, strong/strict exogeneity can be defined. Exogeneity is articulated in such a way that a variable or variables is exogenous for parameter &lt;math&gt;\alpha&lt;/math&gt;. Even if a variable is exogenous for parameter &lt;math&gt;\alpha&lt;/math&gt;, it might be endogenous for parameter &lt;math&gt;\beta&lt;/math&gt;. 
+
+When the explanatory variables are not stochastic, then they are strong exogenous for all the parameters.
+
+&lt;!-- The following paragraph is not good --&gt;
+The problem of '''endogeneity''' occurs when the [[independent variable]] is [[correlation|correlated]] with the [[error term]] in a [[Regression analysis|regression]] model. This implies that the regression coefficient in an [[Ordinary least squares|Ordinary Least Squares (OLS)]] regression is [[Bias of an estimator|biased]], however if the correlation is not contemporaneous, then it may still be consistent. There are many methods of overcoming this, including [[instrumental variable]] regression and [[Heckman correction|Heckman selection correction]].
+
+=== Static Models ===
+The following are some common sources of endogeneity.
+
+==== Omitted Variable ====
+{{see|Omitted-variable bias}}
+In this case, the endogeneity comes from an uncontrolled [[confounding variable]]. A variable is both correlated with an independent variable in the model and with the error term. (Equivalently, the omitted variable both affects the independent variable and separately affects the dependent variable.) Assume that the &quot;true&quot; model to be estimated is,
+: &lt;math&gt; y_i = \alpha + \beta x_i + \gamma z_i + u_i&lt;/math&gt;
+but we omit &lt;math&gt;z_i&lt;/math&gt; (perhaps because we don't have a measure for it) when we run our regression. &lt;math&gt;z_i&lt;/math&gt; will get absorbed by the error term and we will actually estimate,
+: &lt;math&gt; y_i = \alpha + \beta x_i + \varepsilon_i&lt;/math&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (where &lt;math&gt;\varepsilon_i=\gamma z_i + u_i&lt;/math&gt;)
+
+If the correlation of &lt;math&gt;x&lt;/math&gt; and &lt;math&gt;z&lt;/math&gt; is not 0 and &lt;math&gt;z&lt;/math&gt; separately affects &lt;math&gt;y&lt;/math&gt; (meaning &lt;math&gt;\gamma \neq 0&lt;/math&gt;), then &lt;math&gt;x&lt;/math&gt; is correlated with the error term &lt;math&gt;\varepsilon&lt;/math&gt;.
+
+Here, x and 1 are not exogenous for alpha and beta since, given x and 1, the distribution of y depends not only on alpha and beta, but also on z and gamma.
+
+==== Measurement Error ====
+
+Suppose that we do not get a perfect measure of one of our independent variables. Imagine that instead of observing &lt;math&gt;x_i&lt;/math&gt; we observe &lt;math&gt;x_i=x^{*}_{i}- \nu_i&lt;/math&gt; where &lt;math&gt;\nu_i&lt;/math&gt; is the measurement &quot;noise&quot;. When we try to estimate the following univariate regression,
+: &lt;math&gt; y_i = \alpha+\beta x_i + \varepsilon_i &lt;/math&gt;
+we actually end up estimating,
+: &lt;math&gt; y_i = \alpha+\beta(x^{*}_{i}-\nu_i) + \varepsilon_i &lt;/math&gt;
+: &lt;math&gt; y_i = \alpha+\beta x^{*}_{i} +(\varepsilon_i - \beta\nu_i) &lt;/math&gt;
+: &lt;math&gt; y_i = \alpha+\beta x^{*}_{i} +u_i &lt;/math&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; (where &lt;math&gt;u_i=\varepsilon_i - \beta\nu_i&lt;/math&gt;)
+Since both &lt;math&gt;x^{*}_{i}&lt;/math&gt; and &lt;math&gt;u_i&lt;/math&gt; depend on &lt;math&gt;\nu_i&lt;/math&gt;, they are correlated. Measurement error in the dependent variable, however, does not cause endogeneity (though it does increase the variance of the error term).
+
+=== Dynamic Models ===
+The endogeneity problem is particularly relevant in the context of [[time series]] analysis of [[causal]] processes. It is common for some factors within a causal system to be dependent for their value in period ''t'' on the values of other factors in the causal system in period ''t-1''. Suppose that the level of pest infestation is independent of all other factors within a given period, but is influenced by the level of rainfall and fertilizer in the preceding period. In this instance it would be correct to say that infestation is [[exogenous]] within the period, but [[endogenous]] over time.
+
+Let the model be y=f(x,z)+u, then if the variable x is sequential exogenous for parameter &lt;math&gt;\alpha&lt;/math&gt;, and y does not cause x in Granger sense, then the variable x is strong/strict exogenous for the parameter &lt;math&gt;\alpha&lt;/math&gt;.
+
+==== Simultaneity ====
+Generally speaking, simultaneity occurs in the dynamic model, but this example is static one.
+
+Suppose that two variables are codetermined, with each affecting the other. Suppose that we have two &quot;structural&quot; equations,
+:&lt;math&gt;y_i = \beta_1 x_i + \gamma_1 z_i + u_i &lt;/math&gt;
+:&lt;math&gt;z_i = \beta_2 x_i + \gamma_2 y_i + v_i&lt;/math&gt;
+We can show that estimating either equation results in endogeneity. In the case of the first structural equation, we will show that &lt;math&gt;E(z_i u_i) \neq 0&lt;/math&gt;. First, solving for &lt;math&gt;z_i&lt;/math&gt; we get (assuming that &lt;math&gt;1-\gamma_1 \gamma_2 \neq 0 &lt;/math&gt;),
+:&lt;math&gt;z_i = \frac{\beta_2 + \gamma_2 \beta_1}{1-\gamma_1 \gamma_2}x_i+\frac{1}{1-\gamma_1 \gamma_2}v_i+\frac{\gamma_2}{1-\gamma_1 \gamma_2}u_i&lt;/math&gt;
+Assuming that &lt;math&gt;x_i&lt;/math&gt; and &lt;math&gt;v_i&lt;/math&gt; are uncorrelated with &lt;math&gt;u_i&lt;/math&gt;, we find that,
+:&lt;math&gt;E(z_i u_i) = \frac{\gamma_2}{1-\gamma_1 \gamma_2}E(u_i u_i)&lt;/math&gt;
+:&lt;math&gt;E(z_i u_i) \neq 0&lt;/math&gt;
+Therefore, attempts at estimating either structural equation will be hampered by endogeneity.
+
+== See also ==
+* [[Virtuous circle and vicious circle]]
+* [[Heterogeneity]]
+* [[Endogenous money]]
+* Endogeneity: An inconvenient truth (Podcast with Prof. John Antonakis)&lt;ref&gt;A http://www.youtube.com/watch?v=dLuTjoYmfXs&lt;/ref&gt; 
+
+==References==
+
+{{Reflist}}
+Peter Kennedy. &quot;A Guide to Econometrics&quot;. Sixth Edition. (c) 2008. Page 139.
+
+[[Category:Causality]]
+[[Category:Econometrics]]
+[[Category:Statistical terminology]]
+[[Category:Economics terminology]]
+[[Category:Economics models]]
+
+[[de:Endogenität]]
+[[nl:Endogeniteit (economie)]]
+[[ja:内生性]]
+[[nn:Endogen i økonomi]]
+[[pl:Endogeniczność]]</text>
+      <sha1>3po9x3ad7j212x6la9tu7gyjcvgncpl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

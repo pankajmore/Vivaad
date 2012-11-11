@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Carolingian architecture</title>
+    <ns>0</ns>
+    <id>4735128</id>
+    <revision>
+      <id>459303519</id>
+      <parentid>453972325</parentid>
+      <timestamp>2011-11-06T15:43:37Z</timestamp>
+      <contributor>
+        <username>ChuispastonBot</username>
+        <id>12929566</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.1) (Robot: Adding [[es:Arquitectura carolingia]]</comment>
+      <text xml:space="preserve" bytes="3083">[[Image:Kloster Lorsch 05.jpg|thumb|right|250px|Lorsch monastery gatehouse]] [[Image:Aachener dom oktagon.jpg|thumb|right|250px|The Palatine Chapel in Aachen]]
+
+'''Carolingian architecture''' is the style of north European [[Pre-Romanesque art and architecture|Pre-Romanesque architecture]] belonging to the period of the [[Carolingian Renaissance]] of the late 8th and 9th centuries, when the [[Carolingian]] family dominated west European politics. It was a conscious attempt to emulate [[Roman architecture]] and to that end it borrowed heavily from [[Early Christian art and architecture|Early Christian]] and [[Byzantine architecture]], though there are nonetheless innovations of its own, resulting in a unique character.
+
+The gatehouse of the monastery at Lorsch, built around 800, exemplifies [[Classical architecture|classical]] inspiration for Carolingian architecture, built as a triple-arched hall dominating the gateway, with the arched facade interspersed with attached [[Classical architecture|classical]] columns and pilasters above.
+
+The [[Palatine Chapel in Aachen]] (Aix-la-Chapelle) constructed between 792 - 805 was inspired by the octagonal [[Emperor Justinian|Justinian]] church of [[Basilica of San Vitale|San Vitale]] in Ravenna, built in the 6th century, but at Aachen there is a tall monumental western entrance complex, as a whole called a ''[[westwork]]'' - a Carolingian innovation.
+
+Carolingian churches generally are [[basilica]]n, like the [[Early Christian art and architecture|Early Christian]] churches of Rome, and commonly incorporated [[westwork]]s, which is arguably the precedent for the western facades of later medieval cathedrals. An original [[westwork]] survives today at the [[Abbey of Corvey]], built in 885.
+
+==Examples==
+* [[Lorsch Abbey]], gateway, (c.800)
+* [[Palatine Chapel in Aachen]] (Aix-la-Chapelle) (792-805)
+* [[Ursmar|St. Ursmar]]'s Collegiate church, in [[Lobbes]], [[Belgium]] (819-823)
+* [[St. Michael, Fulda]], rotunda and crypt (822)
+* [[Michelstadt#Einhard.E2.80.99s Basilica in the outlying centre of Steinbach|Einhard's Basilica]], Steinbach (827)
+* [[Saint Justinus' church, Frankfurt-Höchst]] (830)
+* Broich Castle, Muelheim on the Ruhr (884)
+* [[Abbey of Corvey]] (885)
+* St. George, Oberzell in [[Reichenau Island]] (888)
+* [[Benedictine Convent of Saint John]], Müstair
+
+==See also==
+* [[Carolingian art]]
+* [[Carolingian dynasty]]
+* [[Carolingian Empire]]
+* [[Carolingian Renaissance]]
+
+==References==
+* Conant, K. J. (1978) ''Carolingian and Romanesque Architecture 800-1200''
+* [[Nikolaus Pevsner|Pevsner, N.]] (1963) ''An Outline of European Architecture''
+
+&lt;br&gt;
+
+[[Category:Carolingian architecture| ]]
+[[Category:Architectural history]]
+[[Category:Architectural styles]]
+[[Category:Medieval architecture]]
+{{arch-style-stub}}
+
+[[da:Karolingisk arkitektur]]
+[[es:Arquitectura carolingia]]
+[[fr:Architecture carolingienne]]
+[[it:Architettura carolingia]]
+[[nl:Karolingische bouwkunst]]
+[[pl:Architektura karolińska]]
+[[pt:Arquitetura carolíngia]]
+[[sv:Karolingisk arkitektur]]
+[[tr:Karolenj mimarisi]]</text>
+      <sha1>mmn9eugho7r2lh9nhkf05l33bg7otyi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

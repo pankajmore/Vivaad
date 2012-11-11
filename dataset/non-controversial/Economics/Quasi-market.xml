@@ -1,0 +1,72 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Quasi-market</title>
+    <ns>0</ns>
+    <id>6501117</id>
+    <revision>
+      <id>470898538</id>
+      <parentid>450242451</parentid>
+      <timestamp>2012-01-12T01:52:48Z</timestamp>
+      <contributor>
+        <username>RFBailey</username>
+        <id>323132</id>
+      </contributor>
+      <comment>+{{NPOV}}</comment>
+      <text xml:space="preserve" bytes="2839">{{NPOV|date=January 2012}}
+A '''quasi-market''' is a [[public sector]] institutional structure that is designed to reap the supposed [[efficiency (economics)|efficiency]] gains of free markets without losing the [[equity (economics)|equity]] benefits of traditional systems of public administration and financing.
+
+A notable example would be the [[National Health Service|NHS]] [[Internal Market]] (introduced in 1990): under this system, the purchase and provision of healthcare in the [[UK]] was split up, with government-funded [[general practitioner|GP]] fundholders &quot;purchasing&quot; healthcare from [[NHS Trust]]s and [[District Health Authority|District Health Authorities]], who competed against one another for the GPs' custom. This led to increased efficiency, as hospitals now needed to offer procedures at lower costs in order to win patients and funding, but without losing the main equity benefits of the NHS (healthcare remained free at the point of service and financed through taxation). However, much of the gain from the Internal Market was countered by the increased cost of running the administration-intensive system, and the lack of competition between providers in many areas (due to the presence of only one general hospital) also reduced the scope for increased efficiency. On the whole though, the system was regarded as a success: the 1997 [[Labour Party (UK)|Labour]] government did not abolish it on taking office, though it combined groups of GP fundholders to form larger [[NHS Primary Care Trust|Primary Care Trusts]] as purchasers of healthcare.
+
+Critics of quasi-markets argue that they can lead to problems of [[cream skimming]]. For example, the introduction of open enrolment in UK secondary schools after 1988 (whereby parents could choose which secondary school to send their child to, rather than being limited to the nearest) led to popular schools being oversubscribed. This allowed these schools to select which pupils they would accept, leading some to discriminate against children from low-income backgrounds or non-traditional family structures (e.g. inviting &quot;both&quot; of a child's parents to an informal meeting with the headteacher so as to determine by stealth whether the child comes from an &quot;appropriate&quot; family). Open enrolment also led popular schools to expand their intake, leading to the growth of very large schools with resulting discipline problems, at the expense of smaller schools and rural schools.
+
+==See also==
+* [[Public–private partnership]]
+
+== References ==
+* Bartlett, W. and J. Le Grand (1993) ''Quasi-markets and Social Policy''. Palgrave Macmillan. ISBN 0-333-56519-3
+* Le Grand, J. (2002) ''The Labour Government and the National Health Service''. Oxford Review of Economic Policy 
+
+[[Category:Public economics]]
+
+[[ru:Квазирынок]]
+[[fi:Näennäismarkkinat]]</text>
+      <sha1>sm7qfzwyhjho0w72rg2qudxhenow5ip</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

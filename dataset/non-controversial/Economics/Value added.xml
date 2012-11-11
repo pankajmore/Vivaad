@@ -1,0 +1,145 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Value added</title>
+    <ns>0</ns>
+    <id>1030468</id>
+    <revision>
+      <id>521766613</id>
+      <parentid>521765981</parentid>
+      <timestamp>2012-11-07T02:15:39Z</timestamp>
+      <contributor>
+        <username>CSMasick</username>
+        <id>12881606</id>
+      </contributor>
+      <minor/>
+      <comment>I clarified the two economic factors of production.</comment>
+      <text xml:space="preserve" bytes="10060">{{Mergefrom|Added value|discuss=Talk:Value_added#Added_value_merge|date=November 2011}}
+{{No footnotes|date=July 2009}}
+{{other uses|Value-added (disambiguation)}}
+In [[business]], the difference between the sale price and the production cost of a product is the '''unit profit'''.  In [[economics]], the sum of the unit profit, the unit depreciation cost, and the unit labor cost is the '''unit value added'''.  Summing value added per unit over all units sold is '''total value added'''.  Total value added is equivalent to Revenue less Outside Purchases (of materials and services).  Value Added is a higher portion of Revenue for integrated companies, e.g., manufacturing companies, and a lower portion of Revenue for less integrated companies, e.g., retail companies.  Total value added is very closely approximated by Total Labor Expense (including wages, salaries, and benefits) plus &quot;Cash&quot; Operating Profit (defined as Operating Profit plus Depreciation Expense, i.e., Operating Profit before Depreciation).  The first component (Total Labor Expense) is a return to labor and the second component (Operating Profit before Depreciation) is a return to capital (including capital goods, land, and other property).  In [[national accounts]] used in [[macroeconomics]], it refers to the contribution of the [[factors of production]], i.e., capital (e.g., [[Land (economics)|land]] and capital goods) and labor, to raising the value of a product and corresponds to the incomes received by the owners of these factors.  The national value added is shared between capital and labor (as the factors of production), and this sharing gives rise to issues of [[distribution (economics)|distribution]].
+
+Outside of economics, '''value added''' refers to &quot;extra&quot; feature(s) of an item of interest (product, service, person etc.) that go beyond the standard expectations and provide something &quot;more&quot; while adding little or nothing to its cost.{{Citation needed|date=June 2011}}  Value-added features give competitive edges to companies with otherwise more expensive products.
+
+Value-added methods and measurements are also being utilized in Education as part of a national movement towards teacher evaluation and accountability in the United States. This type of measure is known as a [[Value-added_modeling|Value Added Modeling or Measures]]
+
+==National accounts==
+
+The factors of production provide &quot;services&quot; which raise  the unit price of a product ('''X''') relative to the cost per unit of [[Intermediate consumption|intermediate goods]] used up in the production of '''X'''.
+
+In [[national accounts]] such as the [[United Nations System of National Accounts|United Nations System of National Accounts (UNSNA)]] or the United States [[National Income and Product Accounts|National Income and Product Accounts (NIPA)]], [[gross value added]] is obtained by deducting [[intermediate consumption]] from [[gross output]]. Thus gross value added is equal to [[net output]]. Net value added is obtained by deducting [[consumption of fixed capital]] (or [[depreciation]] charges) from gross value added. Net value added therefore equals gross [[wages]], pre-tax profits net of [[depreciation]], and [[indirect taxes]] less subsidies.
+
+==Marxist interpretation==
+
+[[Karl Marx]]'s concept of the [[value product]] is similar to the national accounting concept of net national product, or net value added, since it is the value of the gross product minus expenditure on [[constant capital]], where the latter refers to the costs of intermediate products and depreciation. In turn, value added is equal to the sum of [[variable capital]] (labor's compensation) and [[surplus-value]] (pre-tax profit income). The argument is that labor creates a new value (value added) that covers the cost of both its own wages (payment for workers' ability to do labor, i.e. for their [[labor power]]) and surplus-value (property income). In Marx's example in his [[Das Kapital]], workers exert enough labor-time during a working day to pay for the cost of reproducing their ability to work during that day (their [[labor-power]]) and then did extra work (surplus-labor) to pay incomes to capitalists, land-owners, and the like.  As labor is the active and conscious factor in the production process, capital goods (&quot;[[means of production]]&quot;) and gifts from nature (&quot;land,&quot; natural resources) only ''facilitate'' labor's transformation of raw materials into other products, raising labor's physical productivity (its ability to produce [[use-value]]s) and its value-productivity (its ability to produce use-values that can be sold for money).
+
+In contrast, [[Neoclassical economics]] regards the incomes constituting added value as the ''reward'' for services rendered. In his critique of [[political economy]], Marx saw incomes as results of production under conditions of capitalist [[Exploitation#Marxist theory|exploitation]]. The capitalist class control over the production process and the growth of the economy ([[capital accumulation]]) gives them the power to claim the benefits of the extra labor done by the workforce. This is enforced by the normal existence of mass unemployment, what Marx called the &quot;[[reserve army of labor]].&quot;
+
+==Differences between Marxist and neo-classical accounting of value added==
+
+A difference between Marxist theory and conventional [[national accounts]] concerns the interpretation of the distinction between ''new'' value created, transfers of value and ''conserved value'', and of the definition of &quot;[[Gross domestic product|production]]&quot;.
+
+For example, [[Marxist]] theory regards the &quot;imputed rental value of owner-occupied housing&quot; which is included in GDP as a ''fictitious'' entry; if the housing is owner-occupied, this housing cannot also yield real income from its market-based rental value at the same time.
+
+In the 1993 manual of the United Nations System of National Accounts (UNSNA), the concept of &quot;imputed rental value of owner occupied housing&quot; is explained as follows:
+
+&quot;6.89. Heads of household who own the dwellings which the households occupy are formally treated as owners of unincorporated enterprises that produce housing services consumed by those same households.  As well-organized markets for rented housing exist in most countries, the output of own-account housing services can be valued using the prices of the same kinds of services sold on the market in line with the general valuation rules adopted for goods or services produced on own account.  In other words, the output of the housing services produced by [[owner-occupier]]s is valued at the estimated rental that a tenant would pay for the same accommodation, taking into account factors such as location, neighbourhood amenities, etc. as well as the size and quality of the dwelling itself.  The same figure is recorded under [[household final consumption expenditure]]s.&quot;
+
+Marxist economists object to this accounting procedure on the ground that the monetary imputation made refers to a flow of income which does not exist, because most home owners do not rent out their homes if they are living in them.
+
+Another important difference concerns the treatment of property rents, land rents and real estate rents. In the Marxian interpretation, many of these rents, insofar as they are paid out of the sales of current output of production, constitute part of the new value created and part of the real cost structure of production. They should therefore be included in the valuation of the net product. This contrasts with the conventional national accounting procedure, where many property rents are excluded from new value-added and net product on the ground that they do not reflect a productive contribution.
+
+==Value added tax==
+{{Main|Value added tax}}
+[[Value added tax]] (VAT) is a tax on sales. It works by being charged on the sale price of new goods and services, whether purchased by intermediate or final consumers. However, intermediate consumers may reclaim VAT paid on their inputs, so that the net VAT is based on the value added by producing this good or service.
+
+==See also==
+*[[Added value]]
+*[[Bang for the buck]]
+*[[Gross output]]
+*[[Gross value added]]
+*[[Intermediate consumption]]
+*[[Economic value added]]
+*[[National accounts]]
+*[[Measures of national income and output#The output approach]]
+*[[Productive and unproductive labour]]
+*[[Unproductive labour in economic theory]]
+*[[Surplus-value]]
+*[[United Nations System of National Accounts (UNSNA)]]
+*[[Value (marketing)]]
+*[[Value-added theory]]
+*[[Value-added reseller]]
+*[[Value product]]
+
+==References==
+* Alan Deardorff ''[http://www-personal.umich.edu/~alandear/glossary/ Deardorff's Glossary of International Economics]''  (Click '''V''' for &quot;Value added.&quot;)
+
+*Edgar Z. Palmer, ''The meaning and measurement of the national income, and of other social accounting aggregates''.
+*[[Paul Samuelson|Paul A. Samuelson]] and [[William D. Nordhaus]] (2004) ''[[Economics (textbook)|Economics]]''. &quot;Glossary of Terms,&quot; Value added.
+*[[Anwar Shaikh (Economist)|Anwar Shaikh]] &amp; Ahmet Ertugrul Tonak, ''Measuring the Wealth of Nations''. CUP.
+*M. Yanovsky, ''Anatomy of Social Accounting Systems''.
+
+==External links==
+* [http://www.sideroad.com/Sales_Techniques/value-add-sales.html  What Does Value Add Mean?]
+* [http://humanresources.about.com/od/glossaryv/g/value_add.htm Value Add - Your Value Add is what Matters to Your Company]
+* [http://www.cipra.org/en/future-in-the-alps/questions/question1 Information and best practices of regional value added in the Alps]
+
+{{DEFAULTSORT:Value Added}}
+[[Category:Macroeconomics]]
+[[Category:Value]]
+[[Category:Marxist theory]]
+[[Category:National accounts]]
+[[Category:Economics]]
+
+[[ar:قيمة مضافة]]
+[[de:Wertschöpfung]]
+[[es:Valor agregado]]
+[[fa:ارزش افزوده]]
+[[fi:Arvonlisäys]]
+[[fr:Valeur ajoutée]]
+[[it:Valore aggiunto]]
+[[lt:Pridėtinė vertė]]
+[[nl:Toegevoegde waarde (economie)]]
+[[ja:付加価値]]
+[[ru:Чистая продукция]]
+[[sv:Förädlingsvärde]]
+[[uk:Додана вартість]]</text>
+      <sha1>646j0q759b3jk8mijtv0qb6rnmamdm9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,486 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>First Crusade</title>
+    <ns>0</ns>
+    <id>106128</id>
+    <revision>
+      <id>522250060</id>
+      <parentid>520146270</parentid>
+      <timestamp>2012-11-09T23:06:18Z</timestamp>
+      <contributor>
+        <username>Tbhotch</username>
+        <id>10808929</id>
+      </contributor>
+      <comment>Removing a protection template from a non-protected page</comment>
+      <text xml:space="preserve" bytes="80678">{{pp-move|small=yes}}
+{{Redirect|The First Crusade}}
+{{Infobox military conflict
+| conflict   = First Crusade
+| partof     = the [[Crusades]]
+| image      = [[File:1099jerusalem.jpg|250px|alt=A depiction of the capture of Jerusalem in 1099 from a medieval manuscript. The burning buildings of Jerusalem are centered in the image. The various crusaders are surrounding and besieging the village armed for an attack.]]
+| caption    = The [[Siege of Jerusalem (1099)|capture of Jerusalem]] marked the First Crusade's success
+| date       = 1096–1099
+| place      = [[Near East]] ([[Anatolia]], [[Levant]], [[Palestine]])
+| casus      = Military aid of [[Byzantine Empire|Byzantines]] against the [[Turkish people|Turks]]&lt;br /&gt;Desired [[Christian]] control of the [[Holy Land]]
+| territory  = [[Kingdom of Jerusalem]] and other [[Crusader states]] created
+| result     = Decisive Crusader victory
+| combatant1 =
+'''[[Christendom]]:'''&lt;br /&gt;
+[[File:Holy Roman Empire Arms-single head.svg|15px|link=|alt=]] [[Holy Roman Empire]]
+* [[File:Blason ville it Milan (Lombardia).svg|15px|link=|alt=]] [[Republic of Genoa|Genoa]]
+* [[File:Blason Lorraine.svg|15px|link=|alt=]] [[Lower Lorraine]]
+* [[File:Armoiries Languedoc.png|15px|link=|alt=]] [[Counts of Toulouse|County of Toulouse]]
+* [[File:Armoiries Languedoc.png|15px|link=|alt=]] [[Provence|Marquisate of Provence]]
+[[File:France Ancient.svg|15px|link=|alt=]] [[France in the Middle Ages|Kingdom of France]]
+* [[File:Blason Blois Ancien.svg|15px|link=|alt=]] [[Counts of Blois|Blois]]
+* [[File:Blason Courtenay.svg|15px|link=|alt=]] [[Count of Boulogne|Boulogne]]
+* [[File:Blason Nord-Pas-De-Calais.svg|15px|link=|alt=]] [[County of Flanders|Flanders]]
+* [[File:Blason ville fr PuyVelay (HauteLoire).png|15px|link=|alt=]] [[Roman Catholic Diocese of Le Puy-en-Velay|Le Puy-en-Velay]]
+* [[File:Armoiries Vermandois.svg|15px|link=|alt=]] [[Vermandois]]
+[[File:Henry II Arms.svg|15px|link=|alt=]] [[Kingdom of England]]
+* [[File:Blason duche fr Normandie.svg|15px|link=|alt=]] [[Duchy of Normandy|Normandy]]
+[[File:Blason sicile famille Hauteville.svg|15px|link=|alt=]] [[County of Apulia|Duchy of Apulia]]
+* [[File:Blason sicile famille Hauteville.svg|15px|link=|alt=]] [[Taranto]]
+[[File:Komnenos-Isaac-Arms.svg|15px|border|link=|alt=]] [[Byzantine Empire]]&lt;br /&gt;
+[[File:Armoiries Héthoumides.svg|15px|link=|alt=]] [[Armenian Kingdom of Cilicia]]
+| combatant2 =
+'''[[Muslim world]]:'''&lt;br /&gt;
+[[Great Seljuq Empire]]&lt;br /&gt;
+[[File:Flag of Jihad.svg|22px|border|link=|alt=]] [[Danishmends]]&lt;br /&gt;
+[[File:Fatimid flag.svg|22px|border|link=|alt=]] [[Fatimid Caliphate|Fatimids]]&lt;br /&gt;
+[[File:Flag of Almohad Dynasty.svg|22px|border|link=|alt=]] [[Almoravid dynasty|Almoravids]]&lt;br /&gt;
+[[File:Flag of Afghanistan pre-1901.svg|22px|border|link=|alt=]] [[Abbasid Caliphate|Abbasids]]
+| combatant3 =
+| commander1 =
+[[File:Blason Lorraine.svg|15px|link=|alt=]] [[Godfrey of Bouillon]]&lt;br /&gt;
+[[File:Armoiries Languedoc.png|15px|link=|alt=]] [[Raymond IV, Count of Toulouse|Raymond IV of Toulouse]]&lt;br /&gt;
+[[File:Blason Blois Ancien.svg|15px|link=|alt=]] [[Stephen II, Count of Blois|Stephen II of Blois]]&lt;br /&gt;
+[[File:Blason Courtenay.svg|15px|link=|alt=]] [[Baldwin I of Jerusalem|Baldwin of Boulogne]]&lt;br /&gt;
+[[File:Blason Courtenay.svg|15px|link=|alt=]] [[Eustace III, Count of Boulogne|Eustace III of Boulogne]]&lt;br /&gt;
+[[File:Blason Nord-Pas-De-Calais.svg|15px|link=|alt=]] [[Robert II, Count of Flanders|Robert II of Flanders]]&lt;br /&gt;
+[[File:Blason ville fr PuyVelay (HauteLoire).png|15px|link=|alt=]] [[Adhemar of Le Puy]]&lt;br /&gt;
+[[File:Blason Vermandois.png|15px|link=|alt=]] [[Hugh I, Count of Vermandois|Hugh I of Vermandois]]&lt;br /&gt;
+[[File:Blason duche fr Normandie.svg|15px|link=|alt=]] [[Robert Curthose|Robert II of Normandy]]&lt;br /&gt;
+[[File:Blason sicile famille Hauteville.svg|15px|link=|alt=]] [[Bohemond I of Antioch|Bohemond of Taranto]]&lt;br /&gt;
+[[File:Blason sicile famille Hauteville.svg|15px|link=|alt=]] [[Tancred, Prince of Galilee|Tancred of Taranto]]&lt;br /&gt;
+[[File:Komnenos-Isaac-Arms.svg|15px|border|link=|alt=]] [[Alexios I Komnenos]]&lt;br /&gt;
+[[File:Komnenos-Isaac-Arms.svg|15px|border|link=|alt=]] [[Tatikios]]&lt;br /&gt;
+[[File:Komnenos-Isaac-Arms.svg|15px|border|link=|alt=]] [[Manuel Boutoumites]]&lt;br /&gt;
+[[File:Blason ville it Milan (Lombardia).svg|15px|link=|alt=]] [[Guglielmo Embriaco]]&lt;br /&gt;
+[[File:Armoiries Héthoumides.svg|15px|link=|alt=]] [[Constantine I, Prince of Armenia|Constantine I]]
+| commander2 =
+[[Kilij Arslan I]]&lt;br /&gt;
+[[Yaghi-Siyan]]&lt;br /&gt;
+[[Kerbogha]]&lt;br /&gt;
+[[Duqaq]]&lt;br /&gt;
+[[Fakhr al-Mulk Radwan]]&lt;br /&gt;
+[[File:Flag of Jihad.svg|22px|border|link=|alt=]] [[Danishmend Gazi|Ghazi ibn Danishmend]]&lt;br /&gt;
+[[File:Fatimid flag.svg|22px|border|link=|alt=]] [[Iftikhar ad-Daula]]&lt;br /&gt;
+[[File:Fatimid flag.svg|22px|border|link=|alt=]] [[Al-Afdal Shahanshah]]
+| commander3 =
+| strength1  =
+Crusaders:&lt;br /&gt;
+~ 35,000 men
+* 30,000 infantry
+* 5,000 cavalry
+Byzantines:&lt;br /&gt;
+~ 2,000 men&lt;ref&gt;{{harvnb|Nicolle|2003|pp=21 and 32}}.&lt;/ref&gt;
+| strength2   = Unknown
+| strength3   =
+| casualties1 = High
+| casualties2 = High
+| casualties3 =
+| notes       =
+| campaignbox =
+{{Crusade}}
+{{Campaignbox First Crusade}}
+{{Campaignbox Seljuk-Crusader War}}
+{{Campaignbox Crusades Battles}}
+}}
+
+The '''First Crusade''' (1096–1099) was a military expedition by [[Roman Catholic]] [[Europe]] to regain the [[Holy Land]]s taken in the [[Muslim conquests]] of the [[Levant]] (632–661), ultimately resulting in the [[Siege of Jerusalem (1099)|recapture of Jerusalem]] in 1099. It was launched on 27&amp;nbsp;November 1095 by [[Pope Urban II]] with the primary goal of responding to an appeal from [[List of Byzantine emperors|Byzantine Emperor]] [[Alexios I Komnenos]], who requested that western volunteers come to his aid and help to repel the invading [[Seljuq dynasty|Seljuq Turks]] from [[Anatolia]]. An additional goal soon became the principal objective—the Christian reconquest of the [[Jerusalem in Christianity|sacred city of Jerusalem]] and the Holy Land and the freeing of the [[Eastern Christianity|Eastern Christians]] from [[Islam]]ic rule.
+
+During the crusade, [[knight]]s and [[peasant]]s from many nations of [[Western Europe]] travelled over land and by sea, first to [[Constantinople]] and then on towards [[Jerusalem]], as crusaders; the peasants greatly outnumbered the knights. Peasants and knights were split into separate armies; however, because the peasants were not as well-trained in combat as the knights, their army failed to reach Jerusalem. The knights arrived at Jerusalem, launched an assault on the city, and captured it in July&amp;nbsp;1099, massacring many of the city's Muslim and [[Jews|Jewish]] inhabitants. They also established the [[crusader states]] of the [[Kingdom of Jerusalem]], the [[County of Tripoli]], the [[Principality of Antioch]], and the [[County of Edessa]].
+
+Because the First Crusade was largely concerned with Jerusalem, a city which had not been under Christian [[wikt:dominion|dominion]] for 461 years, and the crusader army refused to return the land to the control of the [[Byzantine Empire]], the status of the First Crusade as defensive or as aggressive in nature remains controversial.
+
+The First Crusade was part of the Christian response to the [[Muslim conquests]], and was followed by the [[Second Crusade]] to the [[Ninth Crusade]], but the gains made lasted for less than 200 years. It was also the first major step towards reopening [[international trade]] in the West since the fall of the [[Western Roman Empire]].
+
+{{TOC limit}}
+
+==Background==
+{{See also|Muslim conquests|Reconquista|Siege of Jerusalem (637)}}
+
+The origin of the Crusades in general, and particularly that of the First Crusade, is widely debated among historians. The Crusades are most commonly linked to the political and social situation in 11th-century Europe, the rise of a reform movement within the [[Pope|papacy]], and the political and religious confrontation of [[Christianity]] and Islam in Europe and the Middle East. Christianity had spread throughout Europe, Africa, and the Middle East in [[Late Antiquity]], but by the [[Christianity in the 8th century|early 8th century]] Christian rule had become limited to Europe and [[Anatolia]] after the Muslim conquests. The [[Umayyad Caliphate]] had [[Muslim conquest of Syria|conquered Syria]], [[Muslim conquest of Egypt|Egypt]], and [[Umayyad conquest of North Africa|North Africa]] from the predominantly Christian Byzantine Empire, and [[Umayyad conquest of Hispania|Hispania]] from the [[Visigothic Kingdom]].&lt;ref&gt;{{harvnb|Tyerman|2006|pp=51–54}}.&lt;/ref&gt; In North Africa, the Umayyad empire eventually collapsed and a number of smaller Muslim kingdoms emerged, such as the [[Aghlabids]], who attacked [[Italy]] in the [[Christianity in the 9th century|9th century]]. [[Pisa]], [[Genoa]], and  the [[Principality of Catalonia]] began to battle various Muslim kingdoms for control of the [[Mediterranean Basin]], exemplified by the [[Mahdia campaign]] and battles at [[Majorca]] and [[Sardinia]].&lt;ref&gt;H .E. J. Cowdrey (1977), &quot;The Mahdia campaign of 1087&quot; ''[[The English Historical Review]]'' '''92''', pp.&amp;nbsp;1–29.&lt;/ref&gt;
+
+===Situation in Europe===
+At the western edge of Europe and of Islamic expansion, the Reconquista in the Iberian Peninsula was well underway by the 11th century; it was intermittently ideological, as evidenced by the ''[[Codex Vigilanus|Epitome Ovetense]]'' written at the behest of Rodrick McManigal in 881, but it was not a proto-crusade.&lt;ref name=&quot;Fletcher&quot;&gt;R. A. Fletcher (1987), &quot;Reconquest and Crusade in Spain c. 1050–1150,&quot; ''Transactions of the Royal Historical Society, Fifth Series'', '''37''', p.&amp;nbsp;34.&lt;/ref&gt;{{#tag:ref|&quot;They [the [[Saracen]]s] take the kingdom of the [[Goths]], which until today they stubbornly possess in part; and against them the [[Christian]]s do battle day and night, and constantly strive; until the divine fore-shadowing orders them to be cruelly expelled from here. Amen.&quot;&lt;ref name=&quot;Fletcher&quot; /&gt;|group=&quot;note&quot;}} Increasingly in the 11th&amp;nbsp;century foreign knights, mostly from France, visited Iberia to assist the Christians in their efforts.&lt;ref name=&quot;Nelson&quot;&gt;Lynn H. Nelson (1978), &quot;The Foundation of Jaca (1076): Urban Growth in Early Aragon,&quot; ''[[Speculum (journal)|Speculum]]'', '''53''' p.&amp;nbsp;697 note 27.&lt;/ref&gt;{{#tag:ref|The [[Normans|Norman]] [[Roger I of Tosny]] went in 1018. Other foreign ventures into [[Aragon]]: the [[War of Barbastro]] in 1063; [[Ahmad al-Muqtadir|Moctadir]] of [[Zaragoza]] feared an expedition with foreign assistance in 1069; [[Ebles II of Roucy]] planned one in 1073; [[William VIII, Duke of Aquitaine|William VIII of Aquitaine]] was sent back from Aragon in 1080; a French army came to the assistance of [[Sancho Ramírez]] in 1087 after [[Kingdom of Castile|Castile]] was defeated at the [[Battle of Sagrajas]]; [[Centule V of Béarn|Centule I of Bigorre]] was in the valley of [[Tena Valley|Tena]] in 1088; and there was a major French component to the &quot;crusade&quot; launched against Zaragoza by [[Peter I of Aragon and Navarre]] in 1101.&lt;ref name=&quot;Nelson&quot; /&gt;|group=&quot;note&quot;}} Shortly before the First Crusade, Pope Urban II had encouraged the Iberian Christians to reconquer [[Tarragona]], using much of the same symbolism and rhetoric that was later used to preach the crusade to the people of Europe.&lt;ref&gt;{{harvnb|Riley-Smith|2005|p=7}}.&lt;/ref&gt;
+
+The heart of Western Europe itself had been stabilized after the [[Christianization]] of the [[Saxons|Saxon]], [[Viking]], and [[Hungarian people|Hungarian]] peoples by the end of the 10th century. However, the breakdown of the [[Carolingian Empire]] gave rise to an entire class of warriors who now had little to do but fight among themselves.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=3–4}}.&lt;/ref&gt; The random violence of the knightly class was regularly condemned by the church, and in response it established the [[Peace and Truce of God]] to prohibit fighting on certain days of the year. At the same time, the reform-minded papacy came into conflict with the [[Holy Roman Emperor]]s, resulting in the [[Investiture Controversy]]. Popes such as [[Pope Gregory VII]] justified the subsequent warfare against the Emperor's partisans in theological terms. It became acceptable for the Pope to utilize knights in the name of [[Christendom]], not only against political enemies of the Papacy, but also against [[Al-Andalus]], or, theoretically, against the [[Seljuq dynasty]] in the east.&lt;ref&gt;{{harvnb|Riley-Smith|1991|pp=5–8}}.&lt;/ref&gt;
+
+To the east of Europe lay the Byzantine Empire, composed of Christians who had long followed a separate [[Eastern Orthodox Church|Orthodox]] rite; the Eastern Orthodox and Roman Catholic churches had been [[East–West Schism|in schism]] since 1054. Historians have argued that the desire to impose Roman church authority in the east may have been one of the goals of the crusade,&lt;ref&gt;{{harvnb|Asbridge|2004|p=17}}.&lt;/ref&gt; although Urban II, who launched the First Crusade, never refers to such a goal in his letters on crusading.  The Seljuq Turks had taken over almost all of Anatolia after the Byzantine defeat at the [[Battle of Manzikert]] in 1071, with the result that on the eve of the Council of Clermont, the territory controlled by the Byzantine Empire had been reduced by more than half.&lt;ref name=&quot;treadgold&quot;&gt;{{harvnb|Treadgold|1997|p=8 Graph 1}}.&lt;/ref&gt; By the time of Emperor Alexios I Komnenos, the Byzantine Empire was largely confined to Balkan Europe and the northwestern fringe of Anatolia, and faced Norman enemies in the west as well as Turks in the east. In response to the defeat at Manzikert and subsequent Byzantine losses in Anatolia in 1074, Pope Gregory VII had called for the ''milites Christi'' (&quot;soldiers of Christ&quot;) to go to Byzantium's aid. This call, while largely ignored and even opposed, nevertheless focused a great deal of attention on the east.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=15–20}}.&lt;/ref&gt;
+
+===Situation in the Middle East===
+[[File:Age of Caliphs.png|350px|thumb|left|[[Umayyad Caliphate]] at its greatest extent|alt=A map of the Middle East and parts of Africa, Europe, and Asia showing the expansion of the Islamic Caliphate by 750. The expansion by Muhammad from 622 to 632 is mainly confined to the Persian Gulf. The Patriarchal Caliphate, lasting from 632 to 661, expands to most of the Middle East, spreading only to northern Egypt. The Umayyad Caliphate, from 661 to 750, extends the Islamic Caliphate to most of North Africa and Iberian Peninsula and farther east from modern-day Iran.]]
+
+Until the crusaders' arrival the Byzantines had continually fought the Seljuqs and other Turkish dynasties for control of Anatolia and [[Syria]]. The Seljuqs, who were orthodox [[Sunni Islam|Sunni]] Muslims, had formerly ruled the [[Great Seljuq Empire]], but by the time of the First Crusade it had divided into several smaller states after the death of [[Malik-Shah I]] in 1092. Malik-Shah was succeeded in the Anatolian [[Sultanate of Rum]] by [[Kilij Arslan I]], and in Syria by his brother [[Tutush I]], who died in 1095. Tutush's sons [[Fakhr al-Mulk Radwan]] and [[Duqaq]] inherited [[Aleppo]] and [[Damascus]] respectively, further dividing Syria amongst emirs antagonistic towards each other, as well as [[Kerbogha]], the [[atabeg]] of [[Mosul]].&lt;ref&gt;{{harvnb|Holt|1989|pp=11, 14–15}}.&lt;/ref&gt;
+
+Egypt and much of Palestine were controlled by the [[Arab people|Arab]] [[Shia Islam|Shi'ite]] [[Fatimid Caliphate]], which was significantly smaller since the arrival of the Seljuqs. Warfare between the Fatimids and Seljuqs caused great disruption for the local Christians and for western pilgrims. The Fatimids, under the nominal rule of [[caliph]] [[al-Musta'li]] but actually controlled by [[vizier]] [[al-Afdal Shahanshah]], had lost Jerusalem to the Seljuqs in 1073 (although some older accounts say 1076);&lt;ref&gt;{{harvnb|Gil|1997|pp=410, 411 note 61}}.&lt;/ref&gt; they recaptured it in 1098 from the [[Artuqids]], a smaller Turkish tribe associated with the Seljuqs, just before the arrival of the crusaders.&lt;ref&gt;{{harvnb|Holt|1989|pp=11–14}}.&lt;/ref&gt;
+
+===Historiography===
+It is now impossible to assess exactly why the First Crusade occurred, although many possible causes have been suggested by historians. The [[historiography]] of the Crusades reflects attempts made by different historians to understand the Crusades' complex causes and justifications. An early theory, the so-called &quot;Erdmann thesis&quot;, developed by German historian [[Carl Erdmann]], directly linked the Crusades to the 11th-century reform movements.&lt;ref&gt;Erdmann (1935), ''Die Entstehung des Kreuzzugsgedankens''. Translated into English as ''The Origin of the Idea of Crusade'' by Marshall W. Baldwin and Walter Goffart in 1977.&lt;/ref&gt; This first theory claimed that the exportation of violence to the east, and the assistance to the struggling Byzantine Empire were the Crusaders' primary goals, and that the conquest of Jerusalem was more a secondary, popular goal.&lt;ref&gt;{{harvnb|Riley-Smith|1991|p=1}}.&lt;/ref&gt;
+
+Generally, subsequent historians have either followed Erdmann, with further expansions upon his thesis, or rejected it. Some historians, such as [[Speros Vryonis]], have emphasized the influence of the rise of Islam generally, and the impact of the recent Seljuq onslaught specifically. [[Steven Runciman]] argued that the crusade was motivated by a combination of theological justification for holy war and a &quot;general restlessness and taste for adventure&quot;, especially among the Normans and the &quot;younger sons&quot; of the French nobility who had no other opportunities.&lt;ref&gt;{{harvnb|Runciman|1980|p=76}}.&lt;/ref&gt;&lt;ref group=&quot;note&quot;&gt;[[Steven Runciman|Runciman]] is widely read; it is safe to say that most popular conceptions of the [[Crusades]] are based on his account, though the academic world has long moved past him.&lt;/ref&gt; Runciman even implies that there was no immediate threat from the Islamic world, arguing that &quot;in the middle of the 11th century the lot of the Christians in Palestine had seldom been so pleasant&quot;.&lt;ref&gt;{{harvnb|Runciman|1980|p=31}}.&lt;/ref&gt; However, Runciman makes his argument only in reference to Palestine under the Fatimids c.&amp;nbsp;1029–1073, not under the Seljuqs.&lt;ref&gt;{{harvnb|Runciman|1980|pp=30–31}}.&lt;/ref&gt; Moreover, the source of his generally positive view of Palestinian Christians' lot in the later 11th century is unclear, as there were very few contemporary Christian sources from Palestine writing in this period, and surviving Christian sources deriving directly from Seljuq Palestine are virtually non-existent. In opposition to Runciman's argument, and on the basis of contemporary Jewish [[Cairo Geniza]] documents, as well as later Muslim accounts, [[Moshe Gil]] argues that the Seljuq conquest and occupation of Palestine (c.&amp;nbsp;1073–1098) was a period of &quot;slaughter and vandalism, of economic hardship, and the uprooting of populations&quot;.&lt;ref&gt;{{harvnb|Gil|1997|p=420}}; for details on the Seljuq occupation of Palestine, see pp.&amp;nbsp;410–420.&lt;/ref&gt; Indeed, drawing upon earlier writers such as Ignatius of Melitene, [[Michael the Syrian]] had recorded that the Seljuqs subjected Coele-Syria and the Palestinian coast to &quot;cruel destruction and pillage&quot;.&lt;ref&gt;''Chronique de Michel le Syrien'', pp.&amp;nbsp;170–171.&lt;/ref&gt;
+
+[[Thomas Asbridge]] argues that the First Crusade was Pope Urban II's attempt to expand the power of the church, and reunite the churches of Rome and Constantinople, which had been in schism since 1054. Asbridge, however, provides little evidence from Urban's own writings to bolster this claim, and Urban's four extant letters on crusading do not seem to express such a motive. According to Asbridge, the spread of Islam was unimportant because &quot;Islam and Christendom had coexisted for centuries in relative equanimity&quot;.&lt;ref&gt;{{harvnb|Asbridge|2004|p=17}}; for Urban's personal motives, see pp.&amp;nbsp;19–21.&lt;/ref&gt; Asbridge, however, fails to note that the recent Turkish conquests of Anatolia and southern Syria had shattered the tense but relatively stable balance of power that a somewhat revived Byzantine Empire had gradually developed with earlier Islamic powers over the course of the 10th and early 11th century. Following the defeat at [[Malazgirt|Manzikert]] in 1071, Muslims had taken half of the Byzantine Empire's territory, and such strategically and religiously important cities as Antioch and Nicaea had only fallen to Muslims in the decade before the [[Council of Piacenza]].&lt;ref name=&quot;treadgold&quot; /&gt; Moreover, the harrowing accounts of the Turkish invasion and conquest of Anatolia recorded by such Eastern Christian chroniclers as [[John Skylitzes]], [[Michael Attaleiates]], [[Matthew of Edessa]], Michael the Syrian and others, which are summarized by Vryonis, seem to contradict Asbridge's broad picture of equanimious &quot;coexistence&quot; between the Christian and Muslim worlds in the second half of the 11th century.&lt;ref name=&quot;Vryonis&quot;&gt;{{harvnb|Vryonis|1971|pp=85–117}}.&lt;/ref&gt;
+
+[[Thomas Madden]] represents a view almost diametrically opposed to that of Asbridge; while the crusade was certainly linked to church reform and attempts to assert papal authority, he argues that it was most importantly a pious struggle to liberate fellow Christians, who, Madden claims, &quot;had suffered mightily at the hands of the Turks&quot;. This argument distinguishes the relatively recent violence and warfare that followed the conquests of the Turks from the general advance of Islam, the significance of which is dismissed by Runciman and Asbridge.&lt;ref&gt;{{harvnb|Madden|2005|p=7}}.&lt;/ref&gt; Christopher Tyerman incorporates both arguments in his thesis; namely, that the Crusade developed out of church reform and theories of holy war as much as it was a response to conflicts with the Islamic world throughout Europe and the Middle East.&lt;ref&gt;{{harvnb|Tyerman|2006|pp=56–57}}.&lt;/ref&gt; In [[Jonathan Riley-Smith]]'s view, poor harvests, overpopulation, and a pre-existing movement towards colonizing the frontier areas of Europe also contributed to the crusade; however, he also takes care to say that &quot;most commentators then and a minority of historians now have maintained that the chief motivation was a genuine idealism&quot;.&lt;ref&gt;{{harvnb|Riley-Smith|2005|p=17}}.&lt;/ref&gt;
+
+The idea that the crusades were a response to Islam dates back as far as 12th-century historian [[William of Tyre]], who began his chronicle with the fall of Jerusalem to [[Umar]].&lt;ref&gt;{{harvnb|William of Tyre|p=60}}.&lt;/ref&gt; Although the original Islamic conquests had taken place centuries before the First Crusade, more recent events would have been fresh in the minds of the European Christians of the time. For example, in 1009 the [[Church of the Holy Sepulchre]] had been destroyed by the Fatimid Caliph [[al-Hakim bi-Amr Allah]]; [[Pope Sergius IV]] supposedly called for a military expedition in response, and in France, many Jewish communities were even attacked in a misdirected retaliation. Despite the Church's rebuilding after al-Hakim's death, and pilgrimages resuming, including the [[Great German Pilgrimage of 1064–1065]], pilgrims continued to suffer attacks from local Muslims.&lt;ref&gt;{{harvnb|Riley-Smith|2005|pp=10–12}}.&lt;/ref&gt;&lt;ref&gt;{{harvnb|William of Tyre|pp=65–66}}, where he mentions the destruction of the Holy Sepulchre as a cause of the First Crusade.&lt;/ref&gt; In addition, the even more recent Turkish incursions into Anatolia and northern Syria were certainly viewed as devastating by Eastern Christian chroniclers, and it is plausible they were presented as such by the Byzantines to the Pope in order to solicit the aid of European Christians.&lt;ref name=&quot;Vryonis&quot; /&gt;
+
+==Council of Clermont==
+{{Main|Council of Clermont}}
+
+[[File:CouncilofClermont.jpg|thumb|right|300px|[[Pope Urban II]] at the [[Council of Clermont]]. Illumination from the ''Livre des Passages d'Outre-mer'', of c 1490 ([[Bibliothèque Nationale]])|alt=Pope Urban II stands in the center image, far back in the church at the Council of Clermont. The church members sit around the edges of the church, looking up at Urban. Between the church members are tens of common people, sitting or kneeling, also looking up at Urban. The church is packed full with people.]]
+
+While the Crusades had causes deeply rooted in the social and political situations of 11th-century Europe, the ultimate event actually triggering the First Crusade was a request for assistance from Byzantine emperor Alexios I Komnenos. Alexios was worried about the advances of the Seljuqs, who had reached as far west as [[Nicaea]], not far from [[Constantinople]]. In March 1095, Alexios sent envoys to the [[Council of Piacenza]] to ask Pope Urban II for aid against the Turks. Urban responded favourably, perhaps hoping to heal the Great Schism of forty years earlier, and to re-unite the Church under [[Primacy of the Roman Pontiff|papal primacy]] by helping the Eastern churches in their time of need.&lt;ref&gt;{{harvnb|Asbridge|2004|p=15}}.&lt;/ref&gt;
+
+In July 1095, Urban turned to his homeland of France to recruit men for the expedition. His travels there culminated in the Council of Clermont in November, where, according to the various speeches attributed to him, he gave an impassioned sermon to a large audience of French nobles and clergy, graphically detailing the fantastical atrocities being committed against pilgrims and eastern Christians. There are five versions of the speech recorded by people who may have been at the council ([[Baldric of Dol]], [[Guibert of Nogent]], [[Robert the Monk]], and [[Fulcher of Chartres]]) or who went on crusade (Fulcher and the anonymous author of the [[Gesta Francorum]]), as well as other versions found in later historians (such as [[William of Malmesbury]] and William of Tyre). All of these versions were written after Jerusalem had been captured. Thus it is difficult to know what was actually said and what was recreated in the aftermath of the successful crusade. The only contemporary records are a few letters written by Urban in 1095.&lt;ref&gt;{{harvnb|Asbridge|2004|p=32}}.&lt;/ref&gt;&lt;ref&gt;The first attempt to reconcile the different speeches was made by [[Dana Carleton Munro|Dana Munro]], &quot;[http://books.google.com/books?id=DmgKAQAAMAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false The Speech of Urban II at Clermont, 1095]&quot;, ''American Historical Review'' 11 (1906), pp. 231–242. The different versions of the speech are collected in ''The First Crusade: The Chronicle of Fulcher of Chartres and Other Source Materials'', ed. Edward Peters (University of Pennsylvania Press, 2nd ed., 1998). The accounts can also be read online at [http://www.fordham.edu/halsall/source/urban2-5vers.html The Internet Medieval Sourcebook].&lt;/ref&gt;
+
+All five versions of the speech differ widely from one another in regard to particulars. All versions, except that in the Gesta Francorum, generally agree that Urban talked about the violence of European society and the necessity of maintaining the Peace of God; about helping the Greeks, who had asked for assistance; about the crimes being committed against Christians in the east; and about a new kind of war, an armed pilgrimage, and of rewards in heaven, where remission of sins was offered to any who might die in the undertaking.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=31–39}}&lt;/ref&gt; They do not all specifically mention Jerusalem as the ultimate goal; however, it has been argued that Urban's subsequent preaching reveals that he expected the expedition to reach Jerusalem all along.&lt;ref&gt;{{harvnb|Riley-Smith|2005|p=8}}.&lt;/ref&gt; According to one version of the speech, the enthusiastic crowd responded with cries of ''[[Deus vult]]!'' (&quot;God wills it!&quot;). However, other versions of the speech do not include this detail.&lt;ref&gt;{{harvnb|Tyerman|2006|p=65}}.&lt;/ref&gt;
+
+===Recruitment===
+Urban's speech had been well-planned; he had discussed the crusade with [[Adhemar of Le Puy]] and [[Raymond IV, Count of Toulouse]], and instantly the expedition had the support of two of southern France's most important leaders. Adhemar himself was present at the Council and was the first to &quot;take the cross&quot;. During the rest of 1095 and into 1096, Urban spread the message throughout France, and urged his bishops and legates to preach in their own dioceses elsewhere in France, Germany, and Italy as well. However, it is clear that the response to the speech was much greater than even the Pope, let alone Alexios, expected. On his tour of France, Urban tried to forbid certain people (including women, monks, and the sick) from joining the crusade, but found this nearly impossible. In the end, most who took up the call were not knights, but peasants who were not wealthy and had little in the way of fighting skills, in an outpouring of a new emotional and personal piety that was not easily harnessed by the ecclesiastical and lay aristocracy.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=46–49}}.&lt;/ref&gt; Typically, preaching would conclude with every volunteer taking a vow to complete a pilgrimage to the Church of the Holy Sepulchre; they were also given a cross, usually sewn onto their clothes.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=65–66}}.&lt;/ref&gt;
+
+As Thomas Asbridge wrote, &quot;Just as we can do nothing more than estimate the number of thousands who responded to the crusading ideal, so too, with the surviving evidence, we can gain only a limited insight into their motivation and intent.&quot;&lt;ref&gt;{{harvnb|Asbridge|2004|p=41}}.&lt;/ref&gt; Previous generations of scholars argued that the crusaders were motivated by greed, hoping to find a better life away from the famines and warfare occurring in France, but as Asbridge notes, &quot;This image is ... profoundly misleading.&quot;&lt;ref&gt;{{harvnb|Asbridge|2004|p=68}}.&lt;/ref&gt; He argues that greed was unlikely to have been a major factor because of the extremely high cost of travelling so far from home, and because almost all of the crusaders eventually returned home after completing their pilgrimage rather than trying to carve out possessions for themselves in the Holy Land.&lt;ref&gt;{{harvnb|Asbridge|2004|p=69}}.&lt;/ref&gt;&lt;ref&gt;{{harvnb|Riley-Smith|1998|p=15}}.&lt;/ref&gt; It is difficult or impossible to assess the motives of the thousands of poor for whom there is no historical record, or even those of important knights, whose stories were usually retold by monks or clerics. As the secular medieval world was so deeply ingrained with the spiritual world of the church, it is quite likely that personal piety was a major factor for many crusaders.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=69–71}}.&lt;/ref&gt;
+
+Despite this popular enthusiasm, however, Urban ensured that there would be an army of knights, drawn from the French aristocracy. Aside from Adhemar and Raymond, other leaders he recruited throughout 1096 included [[Bohemond I of Antioch|Bohemond of Taranto]], a southern Italian ally of the reform popes; Bohemond's nephew [[Tancred, Prince of Galilee|Tancred]]; [[Godfrey of Bouillon]], who had previously been an anti-reform ally of the Holy Roman Emperor; his brother [[Baldwin I of Jerusalem|Baldwin of Boulogne]]; [[Hugh I, Count of Vermandois]], brother of the excommunicated [[Philip I of France]]; [[Robert Curthose]], brother of [[William II of England]]; and his relatives [[Stephen II, Count of Blois]] and [[Robert II, Count of Flanders]]. The crusaders represented northern and southern France, Flanders, Germany, and southern Italy, and so were divided into four separate armies that were not always cooperative, though they were held together by their common ultimate goal.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=55–65}}.&lt;/ref&gt;
+
+The motives of the nobility are somewhat clearer than those of the peasants; greed was apparently not a major factor. It is commonly assumed, for example by Runciman as mentioned above, that only younger members of a family went on crusade, looking for wealth and adventure elsewhere, as they had no prospects for advancement at home. Riley-Smith has shown that this was not always the case. The crusade was led by some of the most powerful nobles of France, who left everything behind, and it was often the case that entire families went on crusade at their own great expense.&lt;ref&gt;{{harvnb|Riley-Smith|1998|p=21}}.&lt;/ref&gt; For example, Robert of Normandy loaned the [[Duchy of Normandy]] to his brother William II of England, and Godfrey sold or mortgaged his property to the church.&lt;ref&gt;{{harvnb|Asbridge|2004|p=77}}.&lt;/ref&gt; According to Tancred's biographer, he was worried about the sinful nature of knightly warfare, and was excited to find a holy outlet for violence.&lt;ref&gt;{{harvnb|Asbridge|2004|p=71}}.&lt;/ref&gt; Tancred and Bohemond, as well as Godfrey, Baldwin, and their older brother [[Eustace III, Count of Boulogne]], are examples of families who crusaded together. Riley-Smith argues that the enthusiasm for the crusade was perhaps based on family relations, as most of the French crusaders were distant relatives.&lt;ref&gt;{{harvnb|Riley-Smith|1998|pp=93–97}}.&lt;/ref&gt; Nevertheless, in at least some cases, personal advancement played a role in Crusaders' motives. For instance, Bohemond was motivated by the desire to carve himself out a territory in the east, and had previously campaigned against the Byzantines to try to achieve this. The Crusade gave him a further opportunity, which he took after the [[Siege of Antioch]], taking possession of the city and establishing the Principality of Antioch.&lt;ref name=&quot;Neveux186&quot;&gt;{{harvnb|Neveux|2008|pp=186–188}}.&lt;/ref&gt;
+
+==People's Crusade==
+{{Main|People's Crusade}}
+
+[[File:Carte de la premiere croisade.jpg|250px|right|thumb|A map of the routes of the major leaders of the crusade, in [[French language|French]]|alt=A map of the Mediterranean, with the routes of Hugh I of Vermandois, Godfrey of Bouillon, Bohemond of Taranto, Raymond IV of Toulouse, Robert Curthose, and Baldwin of Boulogne highlighted. The major Christian and Muslim empires at the time of the crusade are also highlighted. Major battles in Asia Minor are marked.]]
+[[File:PeoplesCrusadeMassacre.jpg|200px|right|thumb|An illustration showing the defeat of the [[People's Crusade]]|alt=A medieval transcript that depicts the People's Crusade. Lines of peasants and armies are shown in battle against the Seljuq Turks.]]
+
+The great French nobles and their trained armies of knights, however, were not the first to undertake the journey towards Jerusalem. Urban had planned the departure of the first crusade for 15&amp;nbsp;August 1096, the [[Assumption of Mary|Feast of the Assumption]], but months before this, a number of unexpected armies of peasants and petty nobles set off for Jerusalem on their own, led by a charismatic priest called [[Peter the Hermit]]. Peter was the most successful of the preachers of Urban's message, and developed an almost hysterical enthusiasm among his followers, although he was probably not an &quot;official&quot; preacher sanctioned by Urban at Clermont.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=78–82}}.&lt;/ref&gt; A century later he was already a legendary figure; William of Tyre believed that it was Peter who had planted the idea for the crusade in Urban's mind (which was taken as fact by historians until the 19th century).&lt;ref&gt;{{harvnb|William of Tyre|pp=82–85}}.&lt;/ref&gt;&lt;ref&gt;{{harvnb|Asbridge|2004|pp=80–81}}.&lt;/ref&gt; It is commonly believed that Peter led a massive group of untrained and illiterate peasants who did not even have any idea where Jerusalem was, but indeed there were many knights among the peasants, including [[Walter Sans Avoir]], who was lieutenant to Peter and led a separate army.&lt;ref name=&quot;Riley-Smith, p. 28&quot;&gt;{{harvnb|Riley-Smith|2005|p=28}}.&lt;/ref&gt;&lt;ref&gt;{{harvnb|Asbridge|2004|p=82}}.&lt;/ref&gt;
+
+Lacking military discipline, in what likely seemed to the participants a strange land (Eastern Europe), Peter's fledgling army quickly found itself in trouble despite the fact they were still in Christian territory. The army led by Walter fought with the Hungarians over food at [[Belgrade]], but otherwise arrived in Constantinople unharmed. Meanwhile, the army led by Peter, which marched separately from Walter's army, also fought with the Hungarians, and may have captured Belgrade. At [[Niš|Nish]] the Byzantine governor tried to supply them, but Peter had little control over his followers and Byzantine troops were needed to quell their attacks. Peter arrived at Constantinople in August, where his army joined with the one led by Walter, which had already arrived, as well as separate bands of crusaders from France, Germany, and Italy. Another army of [[Bohemia]]ns and [[Saxony|Saxons]] did not make it past Hungary before splitting up.&lt;ref name=&quot;Riley-Smith, p. 28&quot; /&gt;
+
+This unruly mob began to attack and pillage outside the city in search of supplies and food, prompting Alexios to hurriedly ferry the gathering across the [[Bosphorus|Bosporus]] one week later.&lt;ref&gt;{{harvnb|Riley-Smith|2005|pp=26–27}}.&lt;/ref&gt; After crossing into Asia Minor, the crusaders split up and began to pillage the countryside, wandering into Seljuq territory around Nicaea. The greater experience of the Turks was overwhelming; most of the crusaders were massacred. Some Italian and German crusaders were defeated and killed at Xerigordon at the end of August. Meanwhile, Walter and Peter's followers, who, although for the most part untrained in battle but led by about 50&amp;nbsp;knights, fought a battle against the Turks at Civitote in October. The Turkish archers destroyed the crusader army, and Walter was among the dead. Peter, who was absent in Constantinople at the time, later joined the main crusader army, along with the few survivors of Civetot.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=101–103}}.&lt;/ref&gt;
+
+===Attacks on Jews in the Rhineland===
+{{Main|Persecution of Jews in the First Crusade}}
+
+[[File:FirstCrusade.jpg|200px|left|thumb|This illustration from a 1250 French Bible is thought by some to depict [[Jews]] (identifiable by [[Judenhut]]) being massacred.|alt=Two crusaders, centered in the picture, are holding two swords. Around them are Jews praying for mercy, as the crusaders prepare to kill the Jews.]]
+
+At a local level, the preaching of the First Crusade ignited violence against [[Jews]], which some historians have deemed &quot;the first [[The Holocaust|Holocaust]]&quot;.&lt;ref&gt;{{harvnb|Riley-Smith|1991|p=50}}.&lt;/ref&gt; At the end of 1095 and beginning of 1096, months before the departure of the official crusade in August, there were attacks on Jewish communities in France and Germany. In May 1096, [[Emicho|Emicho of Flonheim]] (sometimes incorrectly known as Emicho of Leiningen) attacked the Jews at Speyer and Worms. Other unofficial crusaders from Swabia, led by Hartmann of Dillingen, along with French, English, Lotharingian and Flemish volunteers, led by Drogo of Nesle and [[William the Carpenter]], as well as many locals, joined Emicho in the destruction of the Jewish community of Mainz at the end of May.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=84–85}}.&lt;/ref&gt; In Mainz, one Jewish woman killed her children rather than see them killed; the chief rabbi, [[Kalonymus Ben Meshullam]], committed suicide in anticipation of being killed.&lt;ref&gt;{{harvnb|Tyerman|2006|p=102}}.&lt;/ref&gt;
+
+Emicho's company then went on to Cologne, and others continued on to Trier, Metz, and other cities.&lt;ref name=&quot;Tyerman, p. 103&quot;&gt;{{harvnb|Tyerman|2006|p=103}}.&lt;/ref&gt; Peter the Hermit may have been involved in violence against the Jews, and an army led by a priest named Folkmar also attacked Jews further east in Bohemia.&lt;ref&gt;{{harvnb|Riley-Smith|2005|p=24}}.&lt;/ref&gt; Emicho's army eventually continued into Hungary but was defeated by the army of [[Coloman, King of Hungary|Coloman of Hungary]]. His followers dispersed; some eventually joined the main armies, although Emicho himself went home.&lt;ref name=&quot;Tyerman, p. 103&quot; /&gt;
+
+Many of the attackers seem to have wanted to force the Jews to convert, although they were also interested in acquiring money from them. Physical violence against Jews was never part of the church hierarchy's official policy for crusading, and the Christian bishops, especially the Archbishop of Cologne, did their best to protect the Jews. A decade before, the Bishop of Speyer had taken the step of providing the Jews of that city with a guarded quarter to protect them from Christian violence and given their chief Rabbis the control of judicial matters in the quarter. Nevertheless, some also took money in return for their protection. The attacks may have originated in the belief that Jews and Muslims were equally enemies of Christ, and enemies were to be fought or converted to Christianity. Godfrey of Bouillon was rumoured to have extorted money from the Jews of Cologne and Mainz, and many of the Crusaders wondered why they should travel thousands of miles to fight non-believers when there were already non-believers closer to home.&lt;ref&gt;{{harvnb|Tyerman|2006|pp=103–106}}.&lt;/ref&gt; The attacks on the Jews were witnessed by [[Ekkehard of Aura]] and [[Albert of Aix]]; among the Jewish communities, the main contemporary witnesses were the [[Mainz Anonymous]], [[Eliezer ben Nathan]], and [[Solomon bar Simson Chronicle|Solomon bar Simson]].
+
+==Princes' Crusade&lt;!-- [[Princes' Crusade]] redirects here --&gt;==
+[[File:First.Crusade.Map.jpg|thumb|right|300px|Routes of the leaders of the First Crusade]]
+
+The four main crusader armies left Europe around the appointed time in August 1096. They took different paths to Constantinople and gathered outside its [[Walls of Constantinople|city walls]] between November 1096 and April 1097; Hugh of Vermandois arrived first, followed by Godfrey, Raymond, and Bohemond. This time, Emperor Alexios was more prepared for the crusaders; there were fewer incidents of violence along the way.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=103–105}}.&lt;/ref&gt;
+
+The size of the entire crusader army is difficult to estimate; various numbers were given by the eyewitnesses, and equally various estimates have been offered by modern historians. Crusader military historian [[David Nicolle]] considers the armies to have consisted of about 30,000–35,000 crusaders, including 5,000 cavalry. Raymond had the largest contingent of about 8,500 infantry and 1,200 cavalry.&lt;ref&gt;{{harvnb|Nicolle|2003|pp=21, 32}}.&lt;/ref&gt;
+
+[[File:Arrivée des croisés à Constantinople.jpg|thumb|left|215px|&quot;Arrival of the Crusaders at Constantinople&quot;, by [[Jean Fouquet]]|alt=Crusaders riding horses prepare to enter Constantinople, nearby, while another crusader army in the distance also approaches Constantinople.]]
+
+The princes arrived in Constantinople with little food and expected provisions and help from Alexios. Alexios was understandably suspicious after his experiences with the People's Crusade, and also because the knights included his old Norman enemy, Bohemond, who had invaded Byzantine territory on numerous occasions with his father, [[Robert Guiscard]], and may have even attempted to organize an attack on Constantinople while encamped outside the city.&lt;ref&gt;{{harvnb|Asbridge|2004|p=106}}.&lt;/ref&gt;
+
+The crusaders may have expected Alexios to become their leader, but he had no interest in joining them, and was mainly concerned with transporting them into Asia Minor as quickly as possible.&lt;ref&gt;{{harvnb|Asbridge|2004|p=110}}.&lt;/ref&gt; In return for food and supplies, Alexios requested the leaders to swear [[fealty]] to him and promise to return to the Byzantine Empire any land recovered from the Turks. Godfrey was the first to take the oath, and almost all the other leaders followed him, although they did so only after warfare had almost broken out in the city between the citizens and the crusaders, who were eager to pillage for supplies. Raymond alone avoided swearing the oath, instead pledging that he would simply cause no harm to the Empire. Before ensuring that the various armies were shuttled across the Bosporus, Alexios advised the leaders on how best to deal with the Seljuq armies that they would soon encounter.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=110–113}}.&lt;/ref&gt;
+
+===Siege of Nicaea===
+{{Main|Siege of Nicaea}}
+
+The crusader armies crossed over into Asia Minor during the first half of 1097, where they were joined by Peter the Hermit and the remainder of his little army. In addition, Alexios also sent two of his own generals, [[Manuel Boutoumites]] and [[Tatikios]], to assist the crusaders. The first objective of their campaign was Nicaea, previously a city under Byzantine rule, but had become the capital of the Seljuq [[Sultanate of Rum]] under [[Kilij Arslan I]]. Arslan was away campaigning against the [[Danishmends]] in central Anatolia at the time, and had left behind his treasury and his family, underestimating the strength of these new crusaders.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=117–120}}.&lt;/ref&gt; Subsequently, upon the Crusaders' arrival, the city was subjected to a lengthy siege, and when Arslan had word of it he rushed back to Nicaea and attacked the crusader army on 16 May. He was driven back by the unexpectedly large crusader force, with heavy losses being suffered on both sides in the ensuing battle.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=124–126}}.&lt;/ref&gt; The siege continued, but the crusaders had little success as they found they could not blockade [[Lake İznik|the lake]], which the city was situated on, and from which it could be provisioned.  To break the city, Alexios sent the Crusaders ships rolled over land on logs, and at the sight of them the Turkish garrison finally surrendered on 18 June.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=126–130}}.&lt;/ref&gt; The city was handed over to the Byzantine troops, which has often been depicted as a source of conflict between the Empire and the crusaders; Byzantine standards flew from the walls while the crusaders were forbidden from looting the city or even entering it except in small escorted bands. However, this policy was in accordance with the previous oaths made to Alexios, and the emperor ensured that the crusaders were well-paid for their efforts. As Thomas Asbridge writes, &quot;the fall of Nicaea was a product of the successful policy of close co-operation between the crusaders and Byzantium.&quot;&lt;ref&gt;{{harvnb|Asbridge|2004|p=130}}.&lt;/ref&gt; After handing custody of Nicaea to the Byzantines, the crusaders resumed their march to Jerusalem. Stephen of Blois, in a letter to his wife [[Adela of Normandy|Adela of Blois]] wrote that he believed the journey would take five weeks;&lt;ref&gt;{{harvnb|Tyerman|2006|p=122}}.&lt;/ref&gt; in reality, it took two years.
+
+===Battle of Dorylaeum===
+{{Main|Battle of Dorylaeum (1097)}}
+
+[[File:Baldwin of Boulogne entering Edessa in Feb 1098.JPG|thumb|175px|right|[[Baldwin I of Jerusalem|Baldwin of Boulogne]] depicted entering [[Edessa, Mesopotamia|Edessa]] in 1098. He is shown being welcomed by the [[Armenia]]n clergy.]]
+
+At the end of June, the crusaders marched on through Anatolia. They were accompanied by some Byzantine troops under Tatikios, and still harboured the hope that Alexios would send a full Byzantine army after them. They also divided the army into two more-easily managed groups—one contingent led by the Normans, the other by the French.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=132–34}}.&lt;/ref&gt; The two groups intended to meet again at [[Dorylaeum]], but on 1 July the Normans, who had marched ahead of the French, were attacked by Kilij Arslan. Arslan had gathered a much larger army than he previously had after his defeat at Nicaea, and now surrounded the Normans with his fast-moving mounted archers. The Normans &quot;deployed in a tight-knit defensive formation&quot;,&lt;ref&gt;{{harvnb|Asbridge|2004|p=135}}.&lt;/ref&gt; surrounding all their equipment and the non-combatants who had followed them along the journey, and sent for help from the other group. When the French arrived, Godfrey broke through the Turkish lines and the legate Adhemar outflanked the Turks from the rear; thus the Turks, who had expected to destroy the Normans and did not anticipate the quick arrival of the French, fled rather than face the combined crusader army.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=135–37}}.&lt;/ref&gt;
+
+The crusaders' march through Anatolia was thereafter unopposed, but the journey was unpleasant, as Arslan had burned and destroyed everything he left behind on his retreat. It was the middle of summer, and the crusaders had very little food and water; many men and horses died.&lt;ref&gt;{{harvnb|Asbridge|2004|pp=138–39}}.&lt;/ref&gt; Fellow Christians sometimes gave them gifts of food and money, but more often than not, the crusaders simply looted and pillaged whenever the opportunity presented itself. Individual leaders continued to dispute the overall leadership, although none of them were powerful enough to take command on their own, as Adhemar was always recognized as the spiritual leader. After passing through the [[Cilician Gates]], Baldwin of Boulogne set off on his own towards the [[Armenia]]n lands around the [[Euphrates]]; his wife, his only claim to European lands and wealth, had died after the battle, giving Baldwin no incentive to return to Europe. Thus, he resolved to seize a fiefdom for himself in the Holy Land. Early in 1098, he was adopted as heir by [[Thoros of Edessa]], a ruler who was disliked by his Armenian subjects for his [[Greek Orthodox Church|Greek Orthodox]] religion. Thoros was later killed, during an uprising that Baldwin may have instigated.&lt;ref name=&quot;Hindley37&quot;&gt;{{harvnb|Hindley|2004|p=37}}.&lt;/ref&gt; Then, in March 1098, Baldwin became the new ruler, thus creating the [[County of Edessa]], the first of the crusader states.&lt;ref name=&quot;Hindley37&quot; /&gt;&lt;ref name=&quot;Runciman149&quot;&gt;{{harvnb|Runciman|1980|p=149}}.&lt;/ref&gt;
+
+===Siege of Antioch===
+{{Main|Siege of Antioch}}
+
+[[File:Gustave dore crusades bohemond alone mounts the rampart of antioch.jpg|thumb|left|200px|''[[Bohemond I of Antioch|Bohemond of Taranto]] alone mounts the rampart of [[Antioch]]'', an engraving by [[Gustave Doré]].|alt=Bohemond of Taranto is illuminated in the engraving as he is shown being the only one climbing the rampart of Antioch. The soldiers on the ground, armed for battle, are stopping and watching Bohemond.]]
+
+The crusader army, meanwhile, marched on to [[Antioch]], which lay about halfway between Constantinople and Jerusalem. Described by Stephen of Blois as &quot;a city great beyond belief, very strong and unassailable&quot;, the idea of taking the city by assault was a discouraging one to the crusaders.&lt;ref name=&quot;Hindley28&quot;&gt;{{harvnb|Hindley|2004|p=38}}.&lt;/ref&gt; Hoping rather to force a capitulation, or find a traitor inside the city—a tactic that had previously seen Antioch change to the control of the Byzantines and then the Seljuq Turks—the crusader army set Antioch to siege on 20 October 1097.&lt;ref name=&quot;Hindley39&quot;&gt;{{harvnb|Hindley|2004|p=39}}.&lt;/ref&gt; During the almost eight months of the siege, they were forced to defeat two large relief armies under the leadership of [[Duqaq]] and [[Fakhr al-Mulk Radwan]].&lt;ref name=&quot;Asbridge. pp. 163&quot;&gt;{{harvnb|Asbridge|2004|pp=163–187}}.&lt;/ref&gt; Antioch was so large that the crusaders did not have enough troops to fully surround it, and as a result it was able to stay partially supplied.&lt;ref name=&quot;Tyerman135&quot;&gt;{{harvnb|Tyerman|2006|p=135}}.&lt;/ref&gt; On March 4 1098, relief arrived in the form of a Crusader fleet, the &quot;Saxon Crusade&quot;, bringing much needed supplies from the west.
+
+In May 1098, [[Kerbogha]] of [[Mosul]] approached Antioch to relieve the siege. Bohemond bribed an Armenian guard named Firuz to surrender his tower, and in June the crusaders entered the city and killed most of the inhabitants.&lt;ref&gt;{{harvnb|Runciman|1987|p=231}}.&lt;/ref&gt; However, only a few days later the Muslims arrived, laying siege to the former besiegers.&lt;ref name=&quot;Tyerman142&quot;&gt;{{harvnb|Tyerman|2006|pp=142–143}}.&lt;/ref&gt; It was at this point that a monk by the name of [[Peter Bartholomew]] claimed to have discovered the [[Holy Lance]] in the city, and although some were skeptical, this was seen as a sign that they would be victorious.&lt;ref name=&quot;Asbridge. pp. 163&quot; /&gt;
+
+On 28 June 1098, the crusaders defeated Kerbogha in a pitched battle outside the city, a victory caused by Kerbogha's inability to organize the different factions in his army.&lt;ref name=&quot;Tyerman137&quot;&gt;{{harvnb|Tyerman|2006|p=137}}.&lt;/ref&gt; While the crusaders were marching towards the Muslims, the Fatimid section of the army deserted the Turkish contingent, as they feared Kerbogha would become too powerful were he able to defeat the Crusaders. According to Christian eye-witnesses, an army of Christian saints came to the aid of the crusaders during the battle and crippled Kerbogha's army.
+
+Bohemond argued that Alexios had deserted the Crusade and thus invalidated all of their oaths to him. While Bohemond asserted his claim to Antioch, not everyone agreed (most notably Raymond of Toulouse), so the crusade was delayed for the rest of the year while the nobles argued amongst themselves. When discussing this period, a common historiographical viewpoint advanced by some scholars is that the [[Franks]] of northern France, the [[Provence|Provençals]] of southern France, and the [[Normans]] of southern Italy considered themselves separate &quot;nations&quot;, creating turmoil as each tried to increase its individual status. Others argue that while this may have had something to do with the disputes, personal ambition among the Crusader leaders might just be as easily blamed.&lt;ref name=&quot;Neveux186&quot; /&gt;
+
+Meanwhile, a plague broke out, killing many among the army, including the legate Adhemar, who died on 1 August.&lt;ref name=&quot;Lock23&quot;&gt;{{harvnb|Lock|2006|p=23}}.&lt;/ref&gt; There were now even fewer horses than before, and worse, the Muslim peasants in the area refused to supply the crusaders with food. Thus, in December, after the Arab town of [[Ma'arrat al-Numan]] was captured following [[Siege of Ma'arrat al-Numan|a siege]], history describes the first occurrence of [[cannibalism]] among the crusaders.&lt;ref&gt;{{harvnb|Runciman|1987|p=261}}.&lt;/ref&gt; Radulph of Caen wrote, &quot;In Ma'arrat our troops boiled pagan adults in cooking pots; they impaled children on spits and devoured them grilled.&quot;&lt;ref&gt;{{harvnb|Hotaling|2003|p=114}}&lt;/ref&gt; At the same time, the minor knights and soldiers had become increasingly restless and threatened to continue to Jerusalem without their squabbling leaders. Finally, at the beginning of 1099, the march restarted, leaving Bohemond behind as the first Prince of Antioch.&lt;ref name=&quot;Neveux186&quot; /&gt;
+
+===Continued march to Jerusalem===
+{{main|First Crusade: March down the Mediterranean coast}}
+[[File:Byzantium after the First crusade.PNG|thumb|left|300px|Route of the First Crusade through Asia]]
+
+Proceeding down the [[Mediterranean Sea|Mediterranean]] coast, the crusaders encountered little resistance, as local rulers preferred to make peace with them and furnish them with supplies rather than fight, with a notable exception of the abandoned [[siege of Arqa]].&lt;ref name=&quot;Tyerman150&quot;&gt;{{harvnb|Tyerman|2006|p=150}}.&lt;/ref&gt; On 7 June, the crusaders reached Jerusalem, which had been recaptured from the Seljuqs by the Fatimids only the year before. Many Crusaders wept upon seeing the city they had journeyed so long to reach.&lt;ref name=&quot;Tyerman153&quot;&gt;{{harvnb|Tyerman|2006|pp=153–157}}.&lt;/ref&gt;
+
+===Siege of Jerusalem===
+{{Main|Siege of Jerusalem (1099)}}
+
+Crusaders' arrival at Jerusalem revealed an arid countryside, lacking in water or food supplies. Here there was no prospect of relief, even as they feared an imminent attack by the local Fatimid rulers. There was no hope of trying to blockade the city as they had at Antioch; the crusaders had insufficient troops, supplies, and time. Rather, they resolved to take the city by assault.&lt;ref name=&quot;Tyerman153&quot; /&gt; They might have been left with little choice, as by the time the Crusader army reached Jerusalem, it has been estimated that only about 12,000 men including 1,500 cavalry remained.&lt;ref name=&quot;crusadearmy&quot;&gt;{{harvnb|Konstam|2004|p=133}}.&lt;/ref&gt; These contingents, composed of men with differing origins and varying allegiances, were also approaching another low ebb in their camaraderie; e.g., while Godfrey and Tancred made camp to the north of the city, Raymond made his to the south. In addition, the Provençal contingent did not take part in the initial assault on 13 June. This first assault was perhaps more speculative than determined, and after scaling the outer wall the Crusaders were repulsed from the inner one.&lt;ref name=&quot;Tyerman153&quot; /&gt;
+
+After the failure of the initial assault, a meeting between the various leaders was organized in which it was agreed upon that a more concerted attack would be required in the future. On 17 June, a party of Genoese mariners under [[Guglielmo Embriaco]] arrived at [[Jaffa]], and provided the Crusaders with skilled engineers, and perhaps more critically, supplies of timber (cannibalized from the ships) to build [[siege engine]]s.&lt;ref name=&quot;Tyerman153&quot; /&gt; The Crusaders' morale was raised when a priest, Peter Desiderius, claimed to have had a divine vision instructing them to fast and then march in a barefoot procession around the city walls, after which the city would fall, following the Biblical story of [[Joshua]] at the siege of [[Jericho]].&lt;ref name=&quot;Tyerman153&quot; /&gt; After a three days fast, on 8 July the crusaders performed the procession as they had been instructed by Desiderius, and shortly afterward the various bickering factions arrived at a public rapprochement. News arrived shortly after that a Fatimid relief army had set off from Egypt, giving the Crusaders a very strong incentive to make another assault on the city.&lt;ref name=&quot;Tyerman153&quot; /&gt;
+
+The final assault on Jerusalem began on 13 July; Raymond's troops attacked the south gate while the other contingents attacked the northern wall. Initially the Provençals at the southern gate made little headway, but the contingents at the northern wall fared better, with a slow but steady attrition of the defence. On 15 July, a final push was launched at both ends of the city, and eventually the inner rampart of the northern wall was captured. In the ensuing panic, the defenders abandoned the walls of the city at both ends, allowing the Crusaders to finally enter.&lt;ref name=&quot;Tyerman157*&quot; /&gt;
+
+====Massacre====
+[[File:1099 Siege of Jerusalem.jpg|thumb|right|200px|The [[Siege of Jerusalem (1099)|Siege of Jerusalem]] as depicted in a medieval manuscript]]
+
+The massacre that followed the capture of Jerusalem has attained particular notoriety, as a &quot;juxtaposition of extreme violence and anguished faith&quot;.&lt;ref&gt;{{harvnb|Tyerman|2006|p=159}}.&lt;/ref&gt; The eyewitness accounts from the crusaders themselves leave little doubt that there was great slaughter in the aftermath of the siege. Nevertheless, some historians propose that the scale of the massacre has been exaggerated in later medieval sources, partly as a result of influence from Muslim sources, and partly as a result of the misinterpretation of the Crusaders' resort to apocalyptic language to describe the scenes.&lt;ref name=&quot;Tyerman157*&quot;&gt;{{harvnb|Tyerman|2006|pp=157–159}}.&lt;/ref&gt; Contemporary Muslim reactions to the massacre were muted when compared to later polemics on the subject.&lt;ref name=&quot;Tyerman157*&quot; /&gt;
+
+After the successful assault on the northern wall, the defenders fled to the [[Temple Mount]], pursued by Tancred and his men. Arriving before the defenders could secure the area, Tancred's men assaulted the precinct, butchering many of the defenders, with the remainder taking refuge in the [[Al-Aqsa Mosque]]. Tancred then called a halt to the slaughter, offering those in the mosque his protection.&lt;ref name=&quot;Tyerman157*&quot; /&gt; When the defenders on the southern wall heard of the fall of the northern wall, they fled to the citadel, allowing Raymond and the Provençals to enter the city. [[Iftikhar al-Dawla]], the commander of the garrison, struck a deal with Raymond, surrendering the citadel in return for being granted safe passage to [[Ashkelon|Ascalon]].&lt;ref name=&quot;Tyerman157*&quot; /&gt; The slaughter continued for the rest of the day; Muslims were indiscriminately killed, and Jews who had taken refuge in their synagogue died when it was burnt down by the Crusaders. The following day, Tancred's prisoners in the mosque were slaughtered. Nevertheless, it is clear that some Muslims and Jews of the city survived the massacre, either escaping or being taken prisoner to be ransomed.&lt;ref name=&quot;Tyerman157*&quot; /&gt; The Eastern Christian population of the city had been expelled before the siege by the governor, and thus escaped the massacre.&lt;ref name=&quot;Tyerman157*&quot; /&gt;
+
+===Establishment of the Kingdom of Jerusalem===
+[[File:Crusader Graffiti in the Church of the holy supulchure Jerusalem Victor 2011 -1-21.jpg|thumb|right|200px|Crusader Graffiti in the [[Church of the Holy Sepulchre]], [[Jerusalem]]]]
+On 22 July, a council was held in the [[Church of the Holy Sepulchre]] to establish a king for the newly created [[Kingdom of Jerusalem]]. Raymond of Toulouse at first refused to become king, perhaps attempting to show his piety, but probably hoping that the other nobles would insist upon his election anyway.&lt;ref name=&quot;Tyerman159&quot;&gt;{{harvnb|Tyerman|2006|pp=159–160}}.&lt;/ref&gt; Godfrey, who had become the more popular of the two after Raymond's actions at the siege of Antioch, did no damage to his own piety by accepting a position as secular leader. Raymond was incensed at this development and took his army out into the countryside. The exact nature and meaning of Godfrey's title is somewhat controversial. Although it is widely claimed that he took the title ''Advocatus Sancti Sepulchri'' (&quot;advocate&quot; or &quot;defender&quot; of the Holy Sepulchre), this title is only used in a letter that was not written by Godfrey. Instead, Godfrey himself seems to have used the more ambiguous term ''princeps'', or simply retained his title of ''dux'' from Lower Lorraine. According to William of Tyre, writing in the later 12th century when Godfrey was already a legendary hero in crusader Jerusalem, he refused to wear &quot;a crown of gold&quot; where Christ had worn &quot;a crown of thorns&quot;.&lt;ref&gt;William of Tyre, [http://thelatinlibrary.com/williamtyre/9.html#9 Book 9, Chapter 9].&lt;/ref&gt; [[Robert the Monk]] is the only contemporary chronicler of the crusade to report that Godfrey took the title &quot;king&quot;.&lt;ref&gt;Riley-Smith (1979), &quot;The Title of Godfrey of Bouillon&quot;, ''Bulletin of the Institute of Historical Research'' '''52''', pp. 83–86.&lt;/ref&gt;&lt;ref&gt;Murray, Alan V. (1990), &quot;The Title of Godfrey of Bouillon as Ruler of Jerusalem&quot;, ''Collegium Medievale'' '''3''', pp. 163–178.&lt;/ref&gt;
+
+===Battle of Ascalon===
+{{Main|Battle of Ascalon}}
+
+[[File:Battle of Ascalon-engraving.jpg|210px|thumb|left|An engraving of the [[Battle of Ascalon]] by C.W. Sharpe, based on a painting of the same title by [[Gustave Doré]]]]
+
+The crusaders had attempted to negotiate with the [[Fatimid Caliphate|Fatimids]] during their march to Jerusalem, but to no avail. After the crusaders captured Jerusalem from the Fatimids, they learned of a Fatimid army about to attack them. On 10 August, Godfrey of Bouillon led the remaining troops from Jerusalem to Ascalon, a day's march away.&lt;ref name=&quot;Baldwin340&quot;&gt;{{harvnb|Baldwin|1969|p=340}}.&lt;/ref&gt;
+
+The Fatimids were estimated to have as many as 50,000 troops (other sources estimate about 20,000–30,000) entering the battle. Their troops consisted of [[Seljuq dynasty|Seljuq Turks]], [[Arab people|Arabs]], [[Persian people|Persians]], [[Armenians]], [[Kurdish people|Kurds]], and [[People of Ethiopia|Ethiopians]], led by [[vizier]] [[al-Afdal Shahanshah]]. Opposing them were the crusaders, whose numbers, estimated by [[Raymond of Aguilers]], were around 1,200 knights and 9,000 infantry.
+
+On 12 August, crusader scouts discovered the location of the Fatimid camp,&lt;ref name=&quot;Baldwin340&quot; /&gt; which the crusaders immediately marched towards. According to most crusader and Muslim accounts, the Fatimids were caught unaware. Because of a somewhat ill-prepared Fatimid army, the battle was fairly short, although it still took some time to resolve, according to [[Albert of Aix]]. al-Afdal Shahanshah and his army retreated into the heavily guarded and fortified city of [[Ashkelon|Ascalon]].&lt;ref name=&quot;Baldwin341&quot;&gt;{{harvnb|Baldwin|1969|p=341}}.&lt;/ref&gt; The next day, the crusaders learned that al-Afdal Shahanshah had retreated back to Egypt via boat, so they plundered what remained of the Fatimid camp. After returning to Jerusalem, most of the crusaders returned to their homes in Europe.&lt;ref name=&quot;Baldwin341&quot; /&gt;
+
+==Crusade of 1101==
+{{Main|Crusade of 1101}}
+
+[[File:Crusade of 1101 v1.svg|right|200px|thumb|A map of western [[Anatolia|Asia Minor]], showing the routes taken by Christian armies during the [[Crusade of 1101]]]]
+
+Having captured [[Jerusalem]] and the [[Church of the Holy Sepulchre]], the crusading vow had hence been fulfilled.&lt;ref name=&quot;Lock141&quot;&gt;{{harvnb|Lock|2006|p=141}}.&lt;/ref&gt; However, there were many who had gone home before reaching Jerusalem, and many who had never left Europe at all. When the success of the crusade became known, these people were mocked and scorned by their families and threatened with excommunication by the Pope.&lt;ref&gt;{{harvnb|Riley-Smith|2005|p=35}}&lt;/ref&gt; Many crusaders who had remained with the crusade all the way to Jerusalem also went home; according to [[Fulcher of Chartres]], there were only a few hundred knights left in the newfound kingdom in 1100.&lt;ref&gt;{{harvnb|Tyerman|2006|p=161}}.&lt;/ref&gt; Godfrey himself only ruled for one year, dying in July 1100. He was succeeded by his brother, Baldwin of Edessa, the first person to take the title [[List of kings of Jerusalem|King of Jerusalem]].
+
+In 1101, the [[Crusade of 1101]] set out; among the crusaders were [[Stephen of Blois]] and [[Hugh of Vermandois]], both of whom had returned home before reaching Jerusalem. This crusade was almost annihilated in [[Asia Minor]] by the [[Seljuqs]], but the survivors helped to reinforce the kingdom upon their arrival in Jerusalem.&lt;ref name=&quot;Lock142&quot;&gt;{{harvnb|Lock|2006|pp=142–144}}.&lt;/ref&gt; In the following years, assistance was also provided by Italian merchants who established themselves in Syrian ports, and from the religious and military orders of the [[Knights Templar]]s and the [[Knights Hospitaller]], which were created during [[Baldwin I of Edessa|Baldwin I]]'s reign.
+
+==Aftermath==
+[[File:Near East 1135.svg|thumb|right|200px|The [[crusader states]] after the First Crusade]]
+
+The First Crusade succeeded in establishing the &quot;[[crusader states]]&quot; of Edessa, Antioch, Jerusalem, and Tripoli in [[Palestine]] and Syria (as well as allies along the Crusaders' route, such as the [[Armenian Kingdom of Cilicia]]).
+
+Back at home in Western Europe, those who had survived to reach Jerusalem were treated as heroes. Robert of Flanders was nicknamed &quot;Hierosolymitanus&quot; thanks to his exploits. The life of Godfrey of Bouillon became legendary even within a few years of his death.&lt;ref&gt;{{harvnb|Baldwin|1969|pp=379–380}}.&lt;/ref&gt; In some cases, the political situation at home was greatly affected by crusader absences. For instance, while Robert Curthose was away on crusade, the throne of England had passed to his brother [[Henry I of England]] instead, and their resultant conflict led to the [[Battle of Tinchebray]] in 1106.&lt;ref&gt;{{harvnb|Neveux|2008|pp=176–177}}.&lt;/ref&gt;
+
+Meanwhile, the establishment of the crusader states in the east helped ease Seljuq pressure on the Byzantine Empire, which had regained some of its Anatolian territory with crusader help, and experienced a period of relative peace and prosperity in the 12th century.&lt;ref&gt;{{harvnb|Baldwin|1969|pp=404–405}}.&lt;/ref&gt; The effect on the Muslim dynasties of the east was gradual but important. In the wake of the death of Malik Shah I in 1092 the political instability and the division of [[Great Seljuq Empire]], which had pressed the Byzantine call for aid to the pope, meant that it had prevented a coherent defence against the Latin states. Cooperation between them remained difficult for many decades, but from Egypt to Syria to Baghdad there were calls for the expulsion of the crusaders,&lt;ref&gt;{{harvnb|Baldwin|1969|pp=443–447}}.&lt;/ref&gt; culminating in the recapture of Jerusalem under [[Saladin]] later in the century when the [[Ayyubid]]s had united the surrounding areas.&lt;ref&gt;{{harvnb|Baldwin|1969|pp=616–620}}.&lt;/ref&gt;
+
+==Inspiration to the future==
+The success of the crusade inspired the literary imagination of poets in France, who, in the 12th century, began to compose various ''[[chansons de geste]]'' celebrating the exploits of Godfrey of Bouillon and other crusaders. Some of these, such as the [[Chanson d'Antioche]], are semi-historical, while others are completely fanciful, describing battles with a dragon or connecting Godfrey's ancestors to the legend of the [[Knight of the Swan]]. Together, the ''chansons'' are known as the [[crusade cycle]].&lt;ref&gt;Edgington, Susan B., &quot;Albert of Aachen and the Chansons de Geste&quot;, ''The Crusades and their Sources: Essays Presented to Bernard Hamilton'', pp. 23–37.&lt;/ref&gt;
+
+The First Crusade was also an inspiration to artists in later centuries. In 1580, [[Torquato Tasso]] wrote ''[[Jerusalem Delivered]]'', a largely fictionalized [[epic poetry|epic poem]] about the capture of Jerusalem. [[George Frideric Handel]] composed music based on Tasso's poem in his opera ''[[Rinaldo (opera)|Rinaldo]]''. The 19th-century poet [[Tommaso Grossi]] also wrote an epic poem, which was the basis of [[Giuseppe Verdi]]'s opera ''[[I Lombardi alla prima crociata]]''.
+
+==Notes==
+{{Reflist|group=&quot;note&quot;}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Sources==
+{{Commons category|First Crusade}}
+{{Spoken Wikipedia|Wiki firstCrusade.ogg|27 July 2006}}
+
+===Primary sources===
+{{Refbegin}}
+* [[Albert of Aix]], ''Historia Hierosolymitana''
+* [[Anna Komnene|Anna Comnena]], ''[[Alexiad]]''
+* [[Guibert of Nogent]], ''[[Dei gesta per Francos]]''
+* [[Fulcher of Chartres]], ''Historia Hierosolymitana''
+* ''[[Gesta Francorum|Gesta Francorum et aliorum Hierosolimitanorum]]'', (anonymous)
+* [[Ibn al-Qalanisi]], ''The Damascus Chronicle of the Crusades''
+* [[Michael the Syrian]], ''Chronicle''
+* [[Peter Tudebode]], ''Historia de Hierosolymitano itinere''
+* [[Raymond of Aguilers]], ''Historia Francorum qui ceperunt Iherusalem''
+* {{Wikicite |ref={{Harvid|William of Tyre}} |reference=[[William of Tyre]], ''A History of Deeds Done Beyond the Sea''}}
+{{Refend}}
+
+====Primary sources online====
+{{Refbegin}}
+* Selected letters by Crusaders:
+** Anselme of Ribemont, [http://history.hanover.edu/texts/1stCrusade1.htm Anselme of Ribemont, Letter to Manasses II, Archbishop of Reims] (1098)
+** Stephen, Count of Blois and Chartres, [http://history.hanover.edu/texts/1stcrusade2.html Letter to his wife, Adele]  (1098)
+** Daimbert, Godfrey and Raymond, [http://history.hanover.edu/texts/1stcru3.html Letter to the Pope], (1099)
+* [http://www.fordham.edu/halsall/sbook1k.html#The%20First%20Crusade Online primary sources]&lt;!-- Note that this link does not work in Internet Explorer --&gt; from the [[Internet History Sourcebooks Project#Internet Medieval Sourcebook|Internet Medieval Sourcebook]]:
+** Peter the Hermit and the Popular Crusade: [http://www.fordham.edu/halsall/source/peterhermit.html Collected Accounts].
+** The Crusaders Journey to Constantinople: [http://www.fordham.edu/halsall/source/cde-tocp.html Collected Accounts].
+** The Crusaders at Constantinople: [http://www.fordham.edu/halsall/source/cde-atcp.html Collected Accounts].
+** The Siege and Capture of Nicea: [http://www.fordham.edu/halsall/source/cde-nicea.html Collected Accounts].
+** The Siege and Capture of Antioch: [http://www.fordham.edu/halsall/source/cde-antioch.html Collected Accounts].
+** The Siege and Capture of  Jerusalem: [http://www.fordham.edu/halsall/source/cde-jlem.html Collected Accounts].
+** [[Fulcher of Chartres]]: [http://www.fordham.edu/halsall/source/fulk2.html The Capture of Jerusalem], 1099.
+** [[Ekkehard of Aura]]: [http://www.fordham.edu/halsall/source/ekkehard-aur1.html On the Opening of the First Crusade].
+** [[Albert of Aix]] and Ekkehard of Aura: [http://www.fordham.edu/halsall/source/1096jews.html Emico and the Slaughter of the Rhineland Jews].
+** [[Soloman bar Samson]]: [http://www.fordham.edu/halsall/source/1096jews-mainz.html The Crusaders in Mainz], attacks on Rhineland Jewry.
+* [[Ali ibn Tahir al-Sulami]] (d. 1106):  [http://www.arts.cornell.edu/prh3/447/texts/Sulami.html Kitab al-Jihad]  (extracts).  First known Islamic discussion of the concept of ''[[jihad]]'' written in the aftermath of the First Crusade.
+{{Refend}}
+
+===Secondary sources===
+{{Refbegin}}
+* {{Cite book|last=Asbridge |first=Thomas |authorlink=Thomas Asbridge |title=[[The First Crusade: A New History]] |publisher=Oxford |year=2004 |isbn=0-19-517823-8 |ref=harv}}
+* {{Cite book|last=Baldwin |first=Marshall W. |title=A History of the Crusades: The First Hundred Years |publisher=University of Wisconsin Press |location=Madison, Wisconsin |year=1969 |url=http://digital.library.wisc.edu/1711.dl/History.CrusOne |isbn=978-0-299-04834-1 |ref=harv}}
+* {{Cite book|last=Bartlett |first=Robert |author-link=Robert Bartlett (historian) |title=The Making of Europe: Conquest, Colonization and Cultural Change 950–1350 |publisher=Princeton |year=1994 |isbn=0-691-03780-9}}
+* {{Cite book|last=Chazan |first=Robert |title=In the Year 1096: The First Crusade and the Jews |publisher=Jewish Publication Society |year=1997 |isbn=0-8276-0575-7}}
+* {{Cite book|last=Gil |first=Moshe |authorlink=Moshe Gil |title=A History of Palestine, 634–1099 |publisher=Cambridge University Press |year=1997 |isbn=0-521-59984-9 |ref=harv}}
+* {{Cite book|last1=Hamilton |first1=Bernard |last2=France |first2=John |last3=Zajac |first3=William G. |title=The Crusades and their Sources: Essays Presented to Bernard Hamilton |publisher=Ashgate |year=1998 |isbn=0-86078-624-2}}
+* {{Cite book|last=Hillenbrand |first=Carole |authorlink=Carole Hillenbrand |title=The Crusades: Islamic Perspectives |publisher=Routledge |year=2000 |isbn=0-415-92914-8}}
+* {{Cite book|last=Hindley |first=Geoffrey |title=A Brief History of the Crusades: Islam and Christianity in the Struggle for World Supremacy |year=2004 |publisher=Constable &amp; Robinson |location=London |isbn=978-1-84119-766-1 |pages=300 |ref=harv}}
+* {{Cite book|last=Holt |first=Peter M. |title=The Age of the Crusades: The Near East from the Eleventh Century to 1517 |publisher=Longman |year=1989 |isbn=0-582-49302-1 |ref=harv}}
+* {{Cite book |last=Hotaling |first=Edward |title=Islam Without Illusions: Its Past, Its Present, and Its Challenge for the Future |publisher=[[Syracuse University Press]] |year=2003 |isbn=978-0-8156-0766-3 |ref=harv}}
+* {{Cite book|last=Housley |first=Norman |authorlink=Norman Housley |title=Contesting the Crusades |publisher=Blackwell Publishing |location=Malden, MA |year=2006 |isbn=1-4051-1189-5}}
+* {{Cite book|last=Konstam |first=Angus |author-link=Angus Konstam |title=Historical Atlas of the Crusades |publisher=Mercury Books |year=2004 |isbn=1-904668-00-3 |ref=harv}}
+* {{Cite book|last=Lock |first=Peter |title=Routledge Companion to the Crusades |publisher=Routledge |location=New York |year=2006 |isbn=0-415-39312-4 |ref=harv}}
+* {{Cite book|last=Madden |first=Thomas |authorlink=Thomas Madden |title=New Concise History of the Crusades |publisher=Rowman &amp; Littlefield |year=2005 |isbn=0-7425-3822-2 |ref=harv}}
+* {{Cite book|last=Magdalino |first=Paul |title=The Byzantine Background to the First Crusade |publisher=Canadian Institute of Balkan Studies |year=1996 |url=http://www.deremilitari.org/resources/articles/magdalino.htm}}
+* {{Cite book|last=Mayer |first=Hans Eberhard |title=The Crusades |translator=John Gillingham |publisher=Oxford |year=1988 |isbn=0-19-873097-7}}
+* {{Cite book|last=Neveux |first=Francois |title=The Normans |translator=Howard Curtis |publisher=Robinson |year=2008 |isbn=978-1-84529-523-3 |ref=harv}}
+* {{Cite book|last=Nicolle |first=David |authorlink=David Nicolle |title=The First Crusade, 1096–99: Conquest of the Holy Land |publisher=Osprey Publishing |year=2003 |isbn=1-84176-515-5 |ref=harv}}
+* {{Cite book|last=Riley-Smith |first=Jonathan |authorlink=Jonathan Riley-Smith |title=The First Crusade and the Idea of Crusading |publisher=University of Pennsylvania |year=1991 |isbn=0-8122-1363-7 |ref=harv}}
+* {{Cite book|editor=Riley-Smith, Jonathan |title=The Oxford History of the Crusades |publisher=Oxford University Press |year=2002 |isbn=0-19-280312-3 |ref=harv}}
+* {{Cite book|last=Riley-Smith |first= Jonathan |title=The Crusades: A History |edition=2nd |publisher=Yale University Press |year=2005 |isbn=0-8264-7270-2 |ref=harv}}
+* {{Cite book|last=Riley-Smith |first=Jonathan |title=The First Crusaders, 1095–1131|publisher=Cambridge |year=1998 |isbn=0-521-64603-0 |ref=harv}}
+* {{Cite book|last=Runciman |first=Steven |authorlink=Steven Runciman |title=A History of the Crusades: Volume 1, The First Crusade and the Foundation of the Kingdom of Jerusalem |publisher=Cambridge |year=1987 |isbn=978-0-521-34770-9 |ref=harv}}
+* {{Cite book|last=Runciman |first=Steven |title=The First Crusade |publisher=Cambridge |year=1980 |isbn=0-521-23255-4 |ref=harv}}
+* {{Cite book|last=Setton |first=Kenneth |authorlink=Kenneth Setton |title=A History of the Crusades |publisher=Madison |year=1969–1989 |url=http://libtext.library.wisc.edu/HistCrusades/}}
+* {{Cite book|last=Treadgold |first=Warren |author-link=Warren Treadgold |title=A History of the Byzantine State and Society |publisher=Stanford University Press |year=1997 |isbn=0-8047-2630-2 |ref=harv}}
+* {{Cite book|last=Tyerman |first=Christopher |title=God's War: A New History of the Crusades |publisher=Belknap Press of Harvard University Press |location=Cambridge |year=2006 |isbn=0-674-02387-0 |ref=harv}}
+* {{Cite book|last=Vryonis |first=Speros |authorlink=Speros Vryonis |title=Decline of Medieval Hellenism in Asia Minor and the Process of Islamization in the Eleventh through Fifteenth Centuries |publisher=University of California Press |year=1971 |isbn=0-520-01597-5 |ref=harv}}
+{{Refend}}
+
+===Bibliographies===
+{{Refbegin}}
+* [http://www.deremilitari.org/biblio/firstcrusade.htm Bibliography of the First Crusade (1095–1099)], compiled by Alan V. Murray, Institute for Medieval Studies, [[University of Leeds]]. Extensive and up to date as of 2004.
+{{Refend}}
+
+{{Good article}}
+{{Use dmy dates|date=August 2011}}
+
+&lt;!-- Categories --&gt;
+[[Category:Wars involving Arab Egypt]]
+[[Category:History of Antioch]]
+[[Category:First Crusade| ]]
+[[Category:1090s conflicts]]
+
+&lt;!-- Interlanguage GAs and FAs --&gt;
+{{Link GA|ca}}
+{{Link GA|cs}}
+{{Link GA|ja}}
+{{Link GA|no}}
+{{Link FA|bg}}
+{{Link FA|es}}
+
+&lt;!-- Interlanguage links --&gt;
+{{Link FA|sl}}
+{{Link GA|sr}}
+{{Link GA|zh}}
+
+[[ar:الحملة الصليبية الأولى]]
+[[az:Birinci səlib yürüşü]]
+[[bn:প্রথম ক্রুসেড]]
+[[be:Першы крыжовы паход]]
+[[be-x-old:Першы крыжовы паход]]
+[[bg:Първи кръстоносен поход]]
+[[bs:Prvi krstaški rat]]
+[[br:Kentañ Kroaziadeg]]
+[[ca:Primera Croada]]
+[[cs:První křížová výprava]]
+[[cy:Y Groesgad Gyntaf]]
+[[de:Erster Kreuzzug]]
+[[et:Esimene ristisõda]]
+[[el:Α΄ Σταυροφορία]]
+[[es:Primera Cruzada]]
+[[eo:Unua krucmilito]]
+[[eu:Lehenengo Gurutzada]]
+[[fr:Première croisade]]
+[[ko:제1차 십자군]]
+[[hy:Առաջին խաչակրաց արշավանք]]
+[[hi:प्रथम क्रूसयुद्ध]]
+[[hr:Prvi križarski rat]]
+[[id:Perang Salib Pertama]]
+[[it:Prima crociata]]
+[[he:מסע הצלב הראשון]]
+[[jv:Perang Salib Kapisan]]
+[[ka:პირველი ჯვაროსნული ლაშქრობა]]
+[[ku:Sefera xaçperestan a yekem]]
+[[la:Prima expeditio sacra]]
+[[lv:Pirmais Krusta karš]]
+[[mk:Прва крстоносна војна]]
+[[arz:الحمله الصليبيه الاولى]]
+[[ms:Perang Salib Pertama]]
+[[mn:Загалмайтны анхны аян]]
+[[nl:Eerste Kruistocht]]
+[[ja:第1回十字軍]]
+[[no:Det første korstog]]
+[[nn:Det første krosstoget]]
+[[oc:Primièra Crosada]]
+[[pnb:پہلی صلیبی جنگ]]
+[[pl:I wyprawa krzyżowa]]
+[[pt:Primeira Cruzada]]
+[[ro:Prima cruciadă]]
+[[ru:Первый крестовый поход]]
+[[scn:Prima cruciata]]
+[[sk:Prvá križiacka výprava]]
+[[sl:Prva križarska vojna]]
+[[sr:Први крсташки рат]]
+[[sh:Prvi križarski rat]]
+[[fi:Ensimmäinen ristiretki]]
+[[sv:Första korståget]]
+[[th:สงครามครูเสดครั้งที่ 1]]
+[[tr:Birinci Haçlı Seferi]]
+[[uk:Перший хрестовий похід]]
+[[ur:پہلی صلیبی جنگ]]
+[[vi:Cuộc thập tự chinh thứ nhất]]
+[[wa:Prumire croejhåde]]
+[[zh:第一次十字军东征]]</text>
+      <sha1>fi2w307avhkb4nx61dd1j2iw9fuyrcy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

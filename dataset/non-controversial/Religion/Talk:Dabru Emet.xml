@@ -1,0 +1,71 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Dabru Emet</title>
+    <ns>1</ns>
+    <id>99413</id>
+    <revision>
+      <id>267875306</id>
+      <parentid>267875201</parentid>
+      <timestamp>2009-02-01T19:00:59Z</timestamp>
+      <contributor>
+        <username>Shirulashem</username>
+        <id>1304569</id>
+      </contributor>
+      <comment>removed GA assessment. GA status never attained.</comment>
+      <text xml:space="preserve" bytes="2442">{{WPReligion|class=|importance=Mid|Interfaith=yes|InterfaithImp=}} 
+
+{{WikiProject Judaism|class=Start|importance=Low}}
+Thanks for posting this. Are we allowed to edit it? --[[User:Ed Poor|Ed Poor]]
+
+We can edit the article, but for historical accuracy, we cannot edit the text of the quote itself; Its a quote, after all. However, we can cut and paste from the article, insert it somewhere else, and then edit it there.
+
+:Can't the text be transwikied to Wikisource, with the background remaining here? [[User:Jfdwolff|JFW]]&amp;nbsp;|&amp;nbsp;[[User_talk:Jfdwolff|&lt;small&gt;T@lk&lt;/small&gt;]] 10:11, 10 Jun 2004 (UTC)
+::I don't think there's a problem with ''including'' the source at Wikisource, but given how short the text is, I don't think that removing it completely to Wikisource simply because it's source text truly serves the purpose of Wikisource which, at least as I understand it, is designed to be a repository of source texts that are significantly more extensive in length and interest than the relatively few paragraphs of the ''Dabru Emet'' statement.  [[User:TShilo12|Tom]]&lt;font color=&quot;#008000&quot;&gt;[[Wikipedia:Esperanza|e]]&lt;/font&gt;[[User:TShilo12|r]] &lt;sup&gt;&lt;font size=-1 color=129DBC&gt;[[User talk:TShilo12|TALK]]&lt;/font&gt;&lt;/sup&gt; 08:19, 13 November 2005 (UTC)
+
+This article concentrates on negative Jewish responses, without positive Jewish or any Christian responses.  Balance?  ABShippee
+
+== Historical characterizations of Judaism ==
+
+A previous version said &quot;Throughout the nearly two millennia of Jewish exile, Christians have tended to characterize [[Judaism]] as a failed religion or, at best, a religion that prepared the way for, and is completed in, Christianity,&quot; but the phrase &quot;a failed religion&quot; was removed.  While it would need specific documentation, which I don't have at hand, I believe such a claim, i.e., that some influential Christians referred to Judaism as failed or used some similar idea or terminology, is (alas) justified.  The whole topic is tricky (one wonders if any significant statement would be seen as NPOV by all), and perhaps best not dealt with here, in so short a space.  The phrase &quot;have tended&quot; is vague in a spot needing precision:  does it mean most Christians by number?  Most official institutional responses?  Most important or leading Christian intellectuals?  
+
+Good luck to whoever comes up with a good fix!  [[User:ABShippee|ABShippee]] ([[User talk:ABShippee|talk]]) 22:51, 30 August 2008 (UTC)</text>
+      <sha1>rprcwawxcv9r1xb1tzuxl0mpskgf4op</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

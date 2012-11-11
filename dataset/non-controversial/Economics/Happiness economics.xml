@@ -1,0 +1,262 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Happiness economics</title>
+    <ns>0</ns>
+    <id>7257476</id>
+    <revision>
+      <id>520810593</id>
+      <parentid>520810519</parentid>
+      <timestamp>2012-10-31T22:08:01Z</timestamp>
+      <contributor>
+        <username>Cornelius383</username>
+        <id>14690917</id>
+      </contributor>
+      <comment>/* See also */</comment>
+      <text xml:space="preserve" bytes="29607">{{Economics sidebar}}
+'''Happiness economics''' is the quantitative study of [[happiness]], positive and negative [[Affect (psychology)|affect]], [[well-being]], [[quality of life]], [[life satisfaction]] and related concepts, typically combining [[economics]] with other fields such as [[psychology]] and [[sociology]].  It typically treats such happiness-related measures, rather than wealth, income or profit, as something to be maximized. The field has grown substantially since the late 20th century, for example by the development of methods, surveys and indices to measure happiness and related concepts.
+
+==Metrology==
+Given its very nature, reported happiness is subjective.&lt;ref&gt;Ruut Veenhoven, [http://www1.eur.nl/fsw/happiness/hap_bib/introtexts/introbib2.htm World Database of Happiness], 2007&lt;/ref&gt;  It is difficult to compare one person’s happiness with another.&lt;ref name=&quot;Graham&quot;&gt;Carol Graham, [http://www3.brookings.edu/views/papers/graham/2005graham_dict.pdf ''The Economics of Happiness''], 3, 2005.&lt;/ref&gt;  It can be especially difficult to compare happiness across cultures.&lt;ref name=&quot;Graham&quot;/&gt;  However, many happiness economists believe they have solved this comparison problem.  Cross-sections of large data samples across nations and time demonstrate consistent patterns in the determinants of happiness.&lt;ref name=&quot;Graham&quot;/&gt;
+
+Happiness is typically measured using subjective measures - e.g. surveys - and/or objective measures. One concern has always been the [[accuracy]] and [[Reliability (statistics)|reliability]] of people’s responses to happiness surveys.&lt;ref name=&quot;MVH&quot;/&gt; Objective measures such as lifespan, income and education, are often used as well as or instead of subjectively reported happiness, though this assumes that they generally produce happiness, which while plausible may not necessarily be the case. The terms [[quality of life]] or [[well-being]] are often used to encompass these more objective measures.
+
+Some scientists claim that happiness can be measured both subjectively and objectively by observing the joy center of the [[brain]] lit up with advanced imaging,&lt;ref name=&quot;MVH&quot;/&gt; although this raises [[Type physicalism|philosophical issues]], for example about whether this can be treated as more reliable than reported subjective happiness.
+
+Micro-econometric happiness equations have the standard form: &lt;math&gt;W_{it} = \alpha + \beta{x_{it}} + \epsilon_{it}&lt;/math&gt;.&lt;ref name=&quot;Graham&quot;/&gt; In this equation &lt;math&gt;W&lt;/math&gt; is the reported well-being of individual &lt;math&gt;i&lt;/math&gt; at time &lt;math&gt;t&lt;/math&gt;, and &lt;math&gt;x&lt;/math&gt; is a vector of known variables, which include socio-demographic and socioeconomic characteristics.&lt;ref name=&quot;Graham&quot;/&gt;
+
+== Determinants ==
+=== Maslow's hierarchy of needs ===
+[[Abraham Maslow]] theorized that human happiness is the outcome of meeting a set of needs.  He listed these in order of priority, leading to a pyramid called [[Maslow's hierarchy of needs]].  The set of needs includes physiological, safety, love/belonging, esteem, and self-actualization needs.  These needs can be used as a basis for evaluating the overall happiness level of individuals.{{Citation needed|date=August 2007}}that is for a person to have happiness her or his needs have to be satified first (N Gurts).
+
+===Money===
+{{main|Easterlin paradox}}
+
+====GDP and GNP====
+Typically national financial measures, such as GDP and GNP, have been used as a measure of successful policy. Although on average richer nations tend to be happier than poorer nations, some studies have indicated that beyond an average [[List of countries by GDP (nominal) per capita|GDP per capita]] of about $15,000 (most of the world's nations have less than this), the average income in a nation makes little difference to the average self-reported happiness.&lt;ref&gt;Bruno S. Frey and Alois Stutzer Happiness and Economics, [[Princeton University Press]], December 2001; published in the UK by John Wiley &amp; Sons.&lt;/ref&gt;&lt;ref&gt;See [[Easterlin paradox]] for details.&lt;/ref&gt;
+
+Other economists have disputed the accuracy of these studies, finding a logarithmic correlation between GDP per capita and self-reported happiness.&lt;ref name=&quot;cato.org&quot;&gt;[http://www.cato.org/pub_display.php?pub_id=8179 In Pursuit of Happiness Research. Is It Reliable? What Does It Imply for Policy?] The Cato Institute. April 11, 2007&lt;/ref&gt; Also, some have pointed out that since life expectancy has continued to increase in nations wealthier than this, often partly attributed to economic growth, [[happy life years|Happy Life Years]] have continued to increase.&lt;ref name=&quot;cato.org&quot; /&gt;&lt;ref name=&quot;about_cato&quot; /&gt;
+
+====Individual income====
+Historically, economists have said that well-being is a simple function of income. However, it has been found that once wealth reaches a subsistence level, its effectiveness as a generator of well-being is greatly diminished.&lt;ref name=&quot;ExplainingEconomics&quot;&gt;[http://www.pnas.org/cgi/reprint/1633144100v1.pdf ''Explaining Economics'']&lt;/ref&gt; This paradox has been referred to as the [[Easterlin paradox]]&lt;ref name=&quot;Graham&quot;/&gt; and may result from a &quot;[[hedonic treadmill]].&quot;&lt;ref name=&quot;ExplainingEconomics&quot;/&gt; This means that aspirations increase with income; after basic needs are met, relative rather than absolute income levels influence well-being.&lt;ref name=&quot;Graham&quot;/&gt; Happiness economists hope to change the way governments view well-being and how to most effectively govern and allocate resources given this paradox.&lt;ref name=&quot;Oswald&quot;/&gt; However, other research suggests that no paradox exists, and happiness is linearly related to the logarithm of absolute (real, PPP-adjusted) income, with little or no relative income component {{Citation needed|date=August 2011}}.
+
+Money correlates with happiness, but the rate diminishes with more money.&lt;ref name=&quot;Graham&quot;/&gt;&lt;ref name=&quot;MVH&quot;/&gt;&lt;ref&gt;Richard Easterlin, [http://www.pnas.org/cgi/reprint/1633144100v1 Explaining Happiness], 2003&lt;/ref&gt; In 2010, [[Daniel Kahneman]] and [[Angus Deaton]] found that higher earners generally reported better life satisfaction, but people's day-to-day emotional well-being only rose with earnings until a threshold annual income of $75,000.&lt;ref&gt;{{cite news|last=Holmes|first=Bob|title=Money can buy you happiness – up to a point|url=http://www.newscientist.com/article/mg20727770.101-money-can-buy-you-happiness--up-to-a-point.html|accessdate=11 September 2010|newspaper=New Scientist|date=7 September 2010}}&lt;/ref&gt;
+
+[[Gregg Easterbrook]] claims that even though wealth, or economic surplus, is more common today than in 1950, people are still as happy (or unhappy) as they were 60 years ago.{{citation needed|date=December 2011}} In polls taken by the National Opinion Research Center, about 1/3 Americans said they were really happy in 1950, since then the polls have been taken periodically, and the results have stayed about the same since then. Wealth has not been making people happier. This is because after the basics for survival are taken care of, money cannot bring people any more happiness than they would experience without it.&lt;ref&gt;{{cite journal|last=Easterbrook|first=Gregg|title=The Real Truth About Money|journal=[[Time (magazine)]] |date=9|year=2005|month=January|url=http://www.time.com/time/magazine/article/0,9171,1015883,00.html|accessdate=16 September 2011}}&lt;/ref&gt;   
+
+Other factors have been suggested as making people happier than money.&lt;ref name=&quot;MVH&quot;&gt;Rana Foroohar, [http://www.newsweek.com/id/35108 &quot;Money v. Happiness: Nations Rethink Priorities&quot;], ''Newsweek'', April 5, 2007].&lt;/ref&gt; A short term course of psychological therapy is 32 times more cost effective at increasing happiness than simply increasing income.&lt;ref&gt;, [http://www.telegraph.co.uk/science/science-news/6337162/Money-does-not-make-you-happy-but-therapy-does.html Money does not make you happy 'but therapy does'], ''The Telegraph'', November 20th 2009]&lt;/ref&gt;&lt;ref&gt;Boyce, C. J., &amp; Wood, A. M. (in press).  [Money or mental health: The cost of alleviating psychological distress with monetary compensation versus psychological therapy http://personalpages.manchester.ac.uk/staff/alex.wood/money.pdf]' Health Economics, Policy and Law&lt;/ref&gt; One study, when corrected for social status, showed no correlation between income and happiness{{Citation needed|date=October 2012}}.
+
+====Social security====
+Professor [[Ruut Veenhoven]] showed that social security payments do not seem to add to happiness. This may be due to the fact that non-self-earned income (e.g., from a lottery) does not add to happiness in general either. Happiness may be the mind's reward to a useful action. However, Johan Norberg of CIS, a free enterprise economy think tank, presents a hypothesis that as people who think that they themselves control their lives are more happy, paternalist institutions may decrease happiness.&lt;ref name=sci&gt;[http://www.cis.org.au/Policy/spring05/polspr05-2.htm The Scientist's Pursuit of Happiness], ''Policy'', Spring 2005.&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.cis.org.au/aboutcis/aboutcis.html |title=About CIS |author=The Centre for Independent Studies |accessdate=2010-03-22}}&lt;/ref&gt;
+
+An alternative perspective focuses on the role of the welfare state as an institution that improves quality of life not only by increasing the extent to which basic human needs are met, but also by promoting greater control of one's life by limiting the degree to which individuals find themselves at the mercy of impersonal market forces that are indifferent to the fate of individuals. This is the argument suggested by the U.S. political scientist [[Benjamin Radcliff]], who has presented a series of papers in peer reviewed scholarly journals demonstrating that a more generous welfare state contributes to higher levels of life satisfaction, and does so to rich and poor alike.&lt;ref name=&quot;apsr&quot;&gt;Radcliff, Benjamin. 2001. &quot;Politics, Markets, and Life Satisfaction,&quot; [[American Political Science Review]], 95 (4): 939-952.&lt;/ref&gt;&lt;ref name=&quot;pop&quot;&gt;Radcliff, Benjamin and Alexander Pacek. 2008. &quot;Assessing the Welfare State: the Politics of Happiness,&quot; [[Perspectives on Politics]]. 6: 267-277.&lt;/ref&gt;&lt;ref name=&quot;jop&quot;&gt;Alvarez-Diaz, A., Gonzalez, L., and Radcliff, B. 2010. &quot;The Politics of Happiness: On the Political Determinants of Quality of Life in the American States&quot;, [[The Journal of Politics]], 72 (3): 894-905.&lt;/ref&gt;
+
+===Employment===
+Work is important to happiness. It creates a sense of purpose, beneficial relationships with co-workers, and also earns money. Losing one's job can be a great source of unhappiness.&lt;ref name=&quot;Oswald&quot;&gt;Andrew Oswald, [http://www2.warwick.ac.uk/fac/soc/economics/staff/faculty/oswald/intro.pdf ''A Non-Technical Introduction to the Economics of Happiness''], 1999&lt;/ref&gt;
+
+===Relationships and children===
+Relationships, particularly those with women, are important to the happiness of both sexes. Research has examined the paradox of women’s declining relative well-being, which is found across various datasets and measures of subjective well-being, and which is pervasive across demographic groups and industrialized countries.&lt;ref&gt;[http://www.frbsf.org/publications/economics/papers/2009/wp09-11bk.pdf Federal Reserve Bank of San Francisco, ''The Paradox of Declining Female Happiness'', May 2009]&lt;/ref&gt; Relative declines in female happiness have eroded a gender gap in happiness in which women in the 1970s typically reported higher subjective well-being than did men.
+
+Children tend to decrease parental happiness, at least until they leave home, although in terms of a broader life narrative the opposite may be true.&lt;ref name=&quot;MVH&quot;/&gt; Some research shows that at some ages (toddlers and teenagers) they decrease parental happiness, whereas at others they increase it, averaging out to no overall change. Married people are happier, but it is unclear if this is due to the marriage or if happy people are more likely to marry.&lt;ref name=&quot;MVH&quot;/&gt; 
+
+{{quote|Marriage, children and how happy they make us, provide a perfect case study for these questions. Gilberts writes that prospective parents know that raising children will be laborious, yet they believe it will make them very happy. In fact, studies show it does just the opposite, and that levels of parental happiness don't rise until kids leave for college (so much for the [[empty nest syndrome|empty-nest theory]]). Still, if happiness is thought of in terms of a broader life narrative, rather than just specific moments of teething, diaper changing and petty-cash culling, it's pretty clear that kids do add value. Happiness politicians know that welfare states need more kids to plug the coming labor shortage — but should they actively encourage something that will make people unhappy, at least in the short run? Likewise marriage—married couples test happier, but it's unclear if that's because happy people marry. Whether or not politicians back policies that support marriage and having kids doesn't really matter, because people embrace these happiness myths quite willingly. &quot;We are the product of our genes and our societies,&quot; says Gilbert. Traditions will trump the empirical evidence that money and kids won't make us happy.&lt;ref name=&quot;MVH&quot;/&gt;}}
+
+===Freedom and control===
+There is a significant correlation between feeling in control of one's own life and happiness levels.
+
+A study conducted at the [[University of Zurich]] suggested that democracy and federalism bring well-being to individuals.&lt;ref name=&quot;Frey&amp;Stutzer&quot;&gt;Bruno S. Frey &amp; Alois Stutzer, [http://e-collection.ethbib.ethz.ch/ecol-pool/incoll/incoll_529.pdf ''Happiness, Economy and Institutions''], 4-5, 1999&lt;/ref&gt;  It concluded that the more direct political participation possibilities available to citizens raises their subjective well-being.&lt;ref name=&quot;Frey&amp;Stutzer&quot;/&gt;  Two reasons were given for this finding.  First, a more active role for citizens enables better monitoring of professional politicians by citizens, which leads to greater satisfaction with government output.&lt;ref name=&quot;Frey&amp;Stutzer&quot;/&gt;  Second, the ability for citizens to get involved in and have control over the political process, independently increases well-being.&lt;ref name=&quot;Frey&amp;Stutzer&quot;/&gt;
+
+According to a free market think tank Cato Institute, higher [[economic freedom]], as measured by both the Heritage and the Fraser indices, correlates strongly with higher self-reported happiness.&lt;ref name=&quot;cato.org&quot;/&gt;&lt;ref name=&quot;about_cato&quot;&gt;{{cite web |url=http://www.cato.org/about.php |title=About Cato |author=Cato Institute |accessdate=2010-03-22}}&lt;/ref&gt;
+
+===Leisure===
+The amount of spare time people have, as well as their control over how much spare time they have, correlates with happiness.&lt;ref&gt;Lina Eriksson, James Mahmud Rice, and Robert E. Goodin, [http://www.jamesmahmudrice.info/Satisfaction.pdf &quot;Temporal Aspects of Life Satisfaction&quot;], &quot;Social Indicators Research&quot;, February, 2007, 80(3), 511-533.&lt;/ref&gt;
+
+Whereas leisure pursuits increase happiness, watching television is an anomaly, as it seems to correlate with lower happiness.  This may be because people who watch a lot of television are lacking in better sources of happiness, such as relationships and other leisure pursuits; that is, people watch television if they don't have anything better to do.
+
+===Health===
+Happiness appears to be inversely related to levels of [[stress (biological)|stress]], [[allergy]], [[asthma]] and other [[chronic (medical)|chronic]] conditions.
+
+===Happiness in Asia===
+Happiness for Asians with strong oriental influence is strongly linked to home ownership.{{fact|date=August 2012}} Owning an apartment or house is a form of material stability that allows one to further pursue other interests in life without worrying about the roof over the head. The lack of generous social benefits in Asia is one possible factor that explains the need for a property as a form of social security.
+
+== Indices ==
+The idea that happiness is important to a society is not new.  Thomas Jefferson put the “pursuit of happiness” on the same level as life and liberty in the United States&lt;ref&gt;http://www.bartleby.com/100/298.html&lt;/ref&gt; [[Jeremy Bentham]] believed that public policy should attempt to maximize happiness, and he even attempted to estimate a &quot;hedonic calculus&quot;.&lt;ref name=&quot;MVH&quot;/&gt;  Many other prominent economists and philosophers throughout history, including [[Aristotle]], incorporated happiness into their work.&lt;ref name=&quot;Graham&quot;/&gt;
+
+[[File:World happiness.png|thumb|300px|The [[Satisfaction with Life Index]]. Blue through red represent most to least happy respectively; grey areas have no reliable data available.]]
+The [[Satisfaction with Life Index]] is an attempt to show the average self-reported happiness in different nations. This is an example of a recent trend to use direct measures of happiness, such as surveys asking people how happy they are, as an alternative to traditional measures of policy success such as GDP or GNP.  Some studies suggest that happiness can be measured effectively.&lt;ref&gt;[http://www.wired.com/wired/archive/12.12/start.html?pg=2 ''The True Measure of Success''] - Wired.com&lt;/ref&gt;&lt;ref&gt;[http://www.samuelbrittan.co.uk/spee22_p.html ''&quot;Happiness&quot; is not enough'']- Samuel Brittan: Templeton Lecture Inst. of Economic Affairs 22/11/01&lt;/ref&gt;  The Inter-American Development Bank (IDB), published in November 2008 a major study on happiness economics in Latin America and the Caribbean (&quot;Beyond Facts:  Measuring Quality of Life&quot;, http://www.iadb.org/idbdocs/1776308.pdf).
+
+There are also several examples of measures that includes self-reported happiness as one variable. [[Happy Life Years]], a concept brought by [[Dutch people|Dutch]] sociologist Ruut Veenhoven, combines self-reported happiness with [[life expectancy]]. The [[Happy Planet Index]] combines it with life expectancy and [[ecological footprint]].
+
+[[Gross national happiness]] (GNH) is a concept introduced by the King of [[Bhutan]] in 1972 as an alternative to [[GDP]]. Several countries have already developed or are in the process of developing such an index.&lt;ref name=&quot;MVH&quot;/&gt;&lt;ref name=&quot;NewMeasure&quot;&gt;[[Andrew Revkin]], [http://www.nytimes.com/2005/10/04/science/04happ.html &quot;A New Measure of Well-Being From a Happy Little Kingdom&quot;], ''The New York Times'', October 4, 2005,  [hereinafter &quot;New Measure&quot;]{{Clarify|date=April 2012}}.&lt;/ref&gt; Bhutan’s index has led that country to limit the amount of deforestation it will allow and to require that all tourists to its nation must spend US$200&lt;ref name=&quot;MVH&quot;/&gt; Allegedly, extensive tourism and deforestation lead to unhappiness.&lt;ref name=&quot;MVH&quot;/&gt;
+
+After the military [[coup]] of 2006, [[Thailand]] also instituted an index.&lt;ref name=&quot;MVH&quot;/&gt;  The stated promise of the new Prime Minister [[Surayud Chulanont]] is to make the Thai people not only richer but happier as well.&lt;ref name=&quot;MVH&quot;/&gt; Much like GDP results, Thailand releases monthly GNH data.&lt;ref name=&quot;Monsters&quot;&gt;[http://news.monstersandcritics.com/asiapacific/news/article_1303777.php Thailand's Gross Domestic Happiness Index Falls], Monsters and Critics, 2007&lt;/ref&gt;  The Thai GNH index is based on a 1-10 scale with 10 being the most happy.&lt;ref name=&quot;Monsters&quot;/&gt;  As of May 13, 2007, the Thai GNH measured 5.1 points.&lt;ref name=&quot;Monsters&quot;/&gt; The index uses poll data from the population surveying various satisfaction factors such as, security, public utilities, good governance, trade, social justice, allocation of resources, education and community problems.&lt;ref name=&quot;Monsters&quot;/&gt;
+
+[[Australia]],&lt;ref name=&quot;NewMeasure&quot;/&gt; [[China]], [[France]]&lt;ref&gt;{{cite news| url=http://www.thestar.com/News/article/293693 | work=The Star | location=Toronto | title=Inventing the 'Glad Domestic Product' | first=Emma | last=Vandore | date=2008-01-14 | accessdate=2010-05-04}}&lt;/ref&gt; and the [[United Kingdom]]&lt;ref&gt;{{Cite news|url=http://www.guardian.co.uk/lifeandstyle/2010/nov/14/happiness-index-britain-national-mood|title=Happiness index to gauge Britain's national mood|publisher=[[The Guardian]]|date=2010-11-15}}&lt;/ref&gt; are also coming up with indexes to measure national happiness.&lt;ref name=&quot;MVH&quot;/&gt; North Korea also announced an international Happiness Index in 2011 through [[Korean Central Television]]. North Korea itself came in second, behind #1 China.&lt;ref&gt;{{citation|url=http://news.chosun.com/site/data/html_dir/2011/05/27/2011052701964.html|periodical=Chosun Ilbo|title=&quot;북한의 행복지수는 세계 2위… 남한 행복지수는 152위&quot;라고?|date=2011-05-27|accessdate=2011-05-28}}&lt;/ref&gt;Canada released the Canadian Index of Wellbeing (CIW) in 2011 to track changes in wellbeing. The CIW has adopted the following  working definition of wellbeing: The presence of the highest possible quality of life in its full breadth of expression focused on but not necessarily exclusive to: good living standards, robust health, a sustainable environment, vital communities, an educated populace, balanced time use, high levels of democratic participation, and access to and participation in leisure and culture&lt;ref&gt;{{citation|url= http://www.ciw.ca/en/|date=2012-03-16|accessdate=2016-03-16}}&lt;/ref&gt;
+
+[[Ecuador]]'s and [[Bolivia]]'s new constitutions state the indigenous concept of &quot;good life&quot; (&quot;buen vivir&quot; in [[Spanish language|Spanish]], &quot;sumak kawsay&quot; in [[Quichua]], and &quot;suma qamaña&quot; in [[Aymara language|Aymara]]) as the goal of sustainable development.
+
+== Neo-classical economics ==
+Under [[neo-classical economics|neo-classical]] economic theory happiness, [[economic subjectivism|subjectively defined]], has long been the standard of measurement used interchangeably with [[utility]] as well as the general welfare.
+
+Modern classical economics no longer attempts to quantify happiness or satisfaction through measurements in consumption and profits. Instead, modern neoclassical framework argue that individual's preference is revealed through choice. Therefore, if an individual decided to purchase an apple over orange, the satisfaction one derived from apple is revealed to be greater than an orange. Similarly, modern economics also consider that work/leisure balance is also matter of individual choice.
+
+The idea that modern neoclassical economics define happiness on the basis of consumption is widely disputed. The basis of utility has been defined as [[revealed preference]].
+
+The assumption within neoclassic economics that satisfactions are highly subjective found expression in the work of Vilfredo Pareto, whose definition of optimal allocation in the nineteenth century was a crucial contribution that allowed further development of the mathematical precision of the discipline. Pareto argued that because satisfactions are subjective, we cannot know for certain that we have increased the amount of satisfaction in the system if we take a dollar from a billionaire and give it to a starving person to buy food; for all we know, the billionaire might have derived as much satisfaction from that dollar as the starving person does in spending it on food.
+
+This counter-intuitive result is the cornerstone of Pareto Optimality:  a system is in Pareto Optimality when no one can be made better off (in their own estimation) without making someone worse off (in their own estimation).  In practice, &quot;better off&quot; and &quot;worse off&quot; are defined by consumption:  by definition, it is always better to consume more.  Thus, Pareto Optimality led to the bias in standard economics toward perpetual growth models—models that are increasingly being called into question, as being impractical (and dangerously destructive) in a finite world (see, for instance, [[limits to growth]]).
+
+== Criticism ==
+The most fundamental criticism of happiness economics lies in its dependence on the concept of [[cardinal utility]] -- that is, that personal preferences are measurable and comparable in an objective fashion by an outside observer.  Cardinal utility is, however, a discredited and largely discarded concept in economics.&lt;ref&gt;{{cite web|title=Cardinal Utility|url=http://en.wikipedia.org/wiki/Cardinal_utility|work=Wikipedia|accessdate=5 August 2011}}&lt;/ref&gt;
+
+Some have suggested that establishing happiness as a metric is only meant to serve political goals.&lt;ref name=&quot;MVH&quot;/&gt;  Recently there has been concern that happiness research could be used to advance authoritarian aims.&lt;ref name=&quot;MVH&quot;/&gt;  As a result, some participants at a happiness conference in Rome have suggested that happiness research should not be used as a matter of public policy but rather used to inform individuals.&lt;ref name=&quot;MVH&quot;/&gt;
+
+In addition, survey findings can lead to subjective interpretations.  For example, a happiness study conducted in [[Russia]] during the 1990s&lt;ref name=&quot;Graham&quot;/&gt; indicated that as unemployment grew, the well-being of both those employed and unemployed rose. The interpretation of this could be that it resulted from diminished expectations and respondents who were less critical of their own situation when many around them were unemployed,&lt;ref name=&quot;Graham&quot;/&gt; or it could be interpreted as being the result of everyone benefitting from the unpaid work that the unemployed were able to do for their families and communities with their increased time resource.
+
+==See also==
+* [[Economics]]
+* [[Gross National Happiness]]
+* [[Happiness]]
+* [[Philosophy of happiness]]
+* [[Happy Planet Index]]
+* [[Index of Sustainable Economic Welfare]]
+* [[Genuine Progress Indicator]]
+* [[Legatum Prosperity Index]]
+* [[Quality-of-life Index]]
+* [[Green national product]]
+* [[Human Development Index]]
+* [[Sustainable Human Development Index]]
+* [[Gender-related Development Index]]
+* [[Psychometrics]]
+* [[Progress (history)]]
+* [[Progressive utilization theory]]
+* [[Law of Social Cycle]] 
+* [[Money-rich, time-poor]]
+* [[Subjective life satisfaction]]
+* [[Leisure satisfaction]]
+
+=== Researchers ===
+* [[Richard Easterlin]]
+* [[Bruno Frey]]
+* [[Richard Layard, Baron Layard|Richard Layard]]
+* [[Andrew Oswald]]
+* [[Benjamin Radcliff]]
+* [[Bernard van Praag]]
+* [[Ruut Veenhoven]]
+
+== External links ==
+* {{cite web |url=http://www2.warwick.ac.uk/fac/soc/economics/staff/faculty/oswald/intro.pdf |title=A Non-Technical Introduction to the Economics of Happiness |accessdate=2007-01-08 |author=Andrew Oswald |authorlink= |coauthors= |date=|year=1999 |month=December |format=PDF |work= |publisher= |pages= |language= |archiveurl= |archivedate= |quote= }}
+* {{cite web |url=http://www.sethchernoff.com/topics/happiness-videos/ |title=Paths to Happiness Videos including Stress Reduction, Overcoming Obsctaces|author=Seth David Chernoff |quote= }}
+*{{cite web
+|url=http://www.gpiatlantic.org/ |title=Genuine Progress Index for Atlantic Canada}}
+*{{cite web
+|url=http://www.genuinewealth.net/ |title=Mark Anielski, &quot;The Economics of Happiness: Building Genuine Wealth&quot;}}
+*{{cite web
+|url=http://www.powdthavee.co.uk/resources/Subjective+Well-Being+Research_revised.pdf |title=Economics of Happiness: A Review of Literature and Applications| accessdate=2007-04-16 | author=Nattavudh Powdthavee |authorlink=|coauthors= |date=|year=2007 |month=March |format=PDF |work= |publisher= |pages= |language= |archiveurl= |archivedate= |quote= }}
+*{{cite web
+|url=http://dor.hbs.edu/fit/fi_redirect.jhtml?facInfo=bio&amp;facEmId=rditella&amp;loc=extn/ |title=Rafael Di Tella}}
+*{{cite web
+|url=http://www3.imperial.ac.uk/people/r.macculloch |title=Robert MacCulloch}}
+*{{cite web
+|url=http://www.pse.ens.fr/clark/ |title=Andrew Clark}}
+*{{cite web
+|url=http://www.wwz.unibas.ch/wifor/staff/as/as.htm |title=Alois Stutzer}}
+*{{cite web
+|url=http://www3.imperial.ac.uk/people/paul.dolan/ |title=Paul Dolan}}
+*{{cite web
+|url=http://politicalscience.nd.edu/faculty/profiles/benjamin-radcliff/ |title=Benjamin Radcliff}}
+*{{cite web
+|url=http://www.powdthavee.co.uk/ |title=Nattavudh Powdthavee}}
+* {{cite web |url=http://www.happypsych.com |title=Paths to Happiness Survey, including Money Management subscale |accessdate=2007-10-31 |author=Michael Hoerger |authorlink= |coauthors= |date=|year=2007 |month=August |format= |work= |publisher= |pages= |language= |archiveurl= |archivedate= |quote= }}
+
+==Bibliography==
+* {{cite book
+ | last=Anielski | first=Mark
+ | year=2007 | month=
+ | title=The Economics of Happiness: Building Genuine Wealth
+ | publisher=[[New Society Publishers]] | location=Canada
+ | isbn=978-0-86571-596-7
+ | page=288
+}}
+* {{cite book
+ | last=Bruni | first=Luigino
+ | coauthors=Pier Luigi Porta
+ | year=2005 | month=
+ | title=Economics and Happiness: Framing the Analysis
+ | publisher=[[Oxford University Press]] | location=
+ | isbn=0-19-928628-0
+ | page=384
+}}
+* Gaucher, Renaud, ''Bonheur et économie. Le capitalisme est-il soluble dans la recherche du bonheur?'' L'Harmattan, collection L'esprit économique, 2009. ISBN :9782296069169 {{Please check ISBN|reason=Invalid length.}}
+* {{cite book
+ | last=Van Praag | first=Bernard
+ |authorlink=Bernard van Praag
+  | coauthors=Ada. Ferrer-i-Carbonell
+ | year=2004 | month=
+ | title=Happiness Quantified: A Satisfaction Calculus Approach
+ | publisher=[[Oxford University Press]] | location=
+ | isbn=0-19-828654-6 | page=352
+}}
+* {{cite book
+ | last=Kahneman | first=Daniel
+ | coauthors=Ed Diener
+ | year=2003 | month=
+ | title=Well-being: the foundations of hedonic psychology
+ | publisher=[[Russell Sage Foundation]] | location=
+ | isbn= | page=
+}}
+
+==References and notes==
+{{Reflist|2}}
+
+{{economics}}
+
+{{DEFAULTSORT:Happiness Economics}}
+[[Category:Applied ethics]]
+[[Category:Economic ideologies]]
+[[Category:Happiness]]
+[[Category:Index numbers]]
+[[Category:Welfare economics]]
+
+[[de:Glücksforschung#Ökonomische Glücksforschung]]
+[[fr:Économie du bonheur]]
+[[fi:Onnellisuustutkimus]]</text>
+      <sha1>ebl1nh3x3phuvm5k8zfs8ewx4lhxqzs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

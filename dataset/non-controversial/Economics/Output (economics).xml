@@ -1,0 +1,128 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Output (economics)</title>
+    <ns>0</ns>
+    <id>763707</id>
+    <revision>
+      <id>518917953</id>
+      <parentid>515736106</parentid>
+      <timestamp>2012-10-20T20:05:57Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>11292982</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.3) (Robot: Adding [[ru:Продукция]]</comment>
+      <text xml:space="preserve" bytes="6942">'''Output''' in [[economics]] is the &quot;quantity of [[good (economics)|good]]s or [[Service (economics)|services]] [[Production, costs, and pricing|produced]] in a given time period, by a [[firm]], industry, or country,&quot;&lt;ref&gt;[[Alan Deardorff]].  [http://www-personal.umich.edu/~alandear/glossary/o.html#output output,] ''Deardorff's Glossary of International Economics''.&lt;/ref&gt; whether consumed or used for further production.&lt;ref&gt;[[Paul A. Samuelson]] and [[William D. Nordhaus]] (2004). ''[[Economics (textbook)|Economics]]'', 18th ed., under &quot;Glossary of Terms.&quot;&lt;/ref&gt;
+The concept of national output is absolutely essential in the field of [[macroeconomics]]. It is [[national output]] that makes a country rich, not large amounts of [[money]].
+&lt;ref&gt;[[H.L Ahuja]] (1978). ''[[Macro-development economics: an analytical approach]]'', &quot;&lt;/ref&gt;
+
+{{Economics sidebar}}
+
+== Definition ==
+
+The result of an economic process that has used inputs to produce a product or service that is available for sale or use somewhere else.
+
+''Net output'', sometimes called ''netput'' is a quantity, in the context of production, that is positive if the quantity is output by the production process and negative if it is an input to the production process.
+
+Several different methods of [[measurement|measuring]] output are utilized.
+
+===Measuring National Output===
+
+Calculating GDP(Gross Domestic Product) is the most popular measure of national output.
+The main challenge in using this method is how to avoid counting the same product more that once. Logically, the total output should be equal to the value of all goods and services produced in a country, but in counting every good and service, one actually ends up counting the same output again and again, at multiple stages of production.
+One way of tackling the problem of over counting is to, consider only value addition i.e. the new output created at each stage of production.
+
+Illustration:
+To illustrate, we can take a dressmaker who purchases a dress material for say 500 rupees and then she stitched and put final touches on the dress. She then sold the dress for 800 rupees( her costs of finishing the dress were say 150 rupees)
+We can then say that she added 150 rupees worth of output to the dress as contrary to that she produced 800 rupees worth of output. So value addition is equal to the sales price of a good or service minus all the non labour costs used to produce it.
+
+To avoid the issue of over counting, one can also focus entirely on final sales. Where though not directly but implicitly all prior stage of output creation are accounted for.
+
+Even though both methods are widely acknowledged to be accurate, the second method is known as the expenditure method is used more widely, and is the standard method of calculation of GDP in most countries.
+The logic behind using the expenditure method is that if all the expenditures on final goods are added up, the sum should total the total production because the every produced good is eventually produced in some form or the other.
+
+In both these methods, one has to be wary of the fact that consumption includes all spending by households, business investment does not include all spending by firms, because if it did this would result in massive double counting because many of the things firms buy are processed and resold to consumers. as a result investment only includes expenditures on output that is not expected to be used up in the short run.
+
+Another possible way in which one may over count is if imports are involved. If a foreign individual or firm bought a product of some other country, i.e. if say an American firm bought a Cambodian maufactured good, then this expenditure cannot be counted in the consumer expenditures in American GDP since the output being purchased is foreign. To correct this issue, imports are eliminated from GDP.
+
+Taking all this into Account, we see that 
+
+&lt;pre&gt;National Output(GDP)=C+I+G+X-M&lt;/pre&gt;
+
+A third way to calculate national output is to focus on income. In this method, we look at income which is paid to factors of production and labour for their services in producing the output. This is usually paid in the form of wages and salaries, it can also be paid in the form of royalties, rent, dividends etc. Because income is a payment for output, it is assumed that total income should eventually be equal to total output.&lt;ref&gt;[[David A. Moss]]  ''[[A Concise Guide To Macroeconomics What Managers, Executives, and Students Need to Know]]'', 2007., under &quot; Output.&quot;&lt;/ref&gt;
+
+===Output Condition===
+
+The output condition for producers is the level of set so that the price of each good equals the marginal cost of that good.  i.e.
+
+MC&lt;sub&gt;1&lt;/sub&gt;\MC&lt;sub&gt;2&lt;/sub&gt;=P&lt;sub&gt;1&lt;/sub&gt;\P&lt;sub&gt;2&lt;/sub&gt;
+
+From the equation we can see that the ratio of the marginal costs of the final goods is equal to their price ratio.
+one may also deduce the ratio of marginal costs as the slope of the [[Production–possibility frontier]] which would give the rate at which society can transform one good into another.
+
+===Exchange of Output among Nations===
+
+Exchange of output between two countries is a very common occurrence, there is always trade taking place between different nations of the world. For example, a country like Japan may trade its electronics with Germany for German made cars. If the value of the trades being made by both the countries is equal at that point of time, then their trade accounts would be balanced. i.e. the exports would be exactly equal to imports in both the countries.
+&lt;ref name=ab&gt;{{cite book|title=A Concise Guide To Macro Economics What Managers, Executives, and Students Need to Know |year=2007|publisher=Harvard Business Press, 2007.|location=United States Of America|isbn=1-4221-0179-7, 9781422101797|pages=189}}&lt;/ref&gt;
+
+===Fluctuations in Output===
+In macroeconomics, the question of why national output fluctuates is a very critical one. And though no one answer has been come up with, there are some factors which economists agree on which makes output go up and down.
+If we take growth into consideration, then most economists will agree that there are three basic sources for economic growth i.e. increases in labour, increase in capital and increase in efficiency of the factors of production.
+Just like increases in inputs of factors of production can cause output to go up, just like that, anything that causes labour, capital or efficiency to go down will cause a decline in output or at least a decline in its rate of growth.
+
+==See also==
+* [[Gross domestic product]]
+* [[Measures of national income and output]]
+* [[List of countries by GDP sector composition|List of countries by sector output]]
+
+==Notes==
+&lt;!-- See the user page User:Dmoss/Wikicite for an excellent citation tool! --&gt;
+{{Reflist|2}}
+
+{{DEFAULTSORT:Output (Economics)}}
+[[Category:Macroeconomics]]
+
+[[he:תפוקה]]
+[[ru:Продукция]]
+[[sr:Аутпут (економија)]]</text>
+      <sha1>iqqtflfcep5733d1n73mrz4vzjg5azz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

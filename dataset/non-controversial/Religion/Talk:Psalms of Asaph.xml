@@ -1,0 +1,61 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Psalms of Asaph</title>
+    <ns>1</ns>
+    <id>13443546</id>
+    <revision>
+      <id>325680118</id>
+      <parentid>322264273</parentid>
+      <timestamp>2009-11-13T20:31:32Z</timestamp>
+      <contributor>
+        <username>Feline Hymnic</username>
+        <id>5609659</id>
+      </contributor>
+      <comment>agreed; have removed much of the [[WP:OR]] etc.</comment>
+      <text xml:space="preserve" bytes="2198">The author of this article is excessively polemical and a bit unbalanced in his paragraph dealing with C.H. Toy's view of the Psalms of Asaph.  For example, &quot;Toy asserts that the assignment of Asaph in the titles is worthless,&quot; is better put: Toy views these superscriptions as late scribal additions and unreliable guides to the original author(s).  The following critique of Toy is excessively pejorative: &quot;Had Toy bothered to read Franz Delitzsch , who published on this topic almost 20 years before him, he could have saved himself the trouble of writing his own article. Of course, Delitzsch wrote in German (even more of a requirement for 19th century CE scholars than it is today), and the English language version of his opus did not appear until after Toy’s fatally flawed piece was put to print.&quot;  How does the author of this article know that Toy did not read Delitzsch?  Toy's lack of interaction with Delitzsch in his own presentation is not a reliable indication that he was not familiar with Delitzsch's view.  It is highly prejudicial to suggest that Toy had not read Delitzsch simply because the latter's work was in German.  The voluminous body of Toy's work throughout his career displays a tremendous amount of interaction with German scholarship.  The polemical tone of this paragraph needs to be edited out because it detracts from an otherwise helpful article.
+
+:Strongly agreed!  Following [[WW:BB]] principles, I have removed most of this... that is, most of the article, and added a 'unref' template and reduced the article-issues issues to an 'unref' template. Hopefully future expansion of the article can be of higher quality, included sources. [[User:Feline Hymnic|Feline Hymnic]] ([[User talk:Feline Hymnic|talk]]) 20:31, 13 November 2009 (UTC)
+
+== Needs list of references ==
+
+Hello, this article was tagged as unreferenced. The article does have references, but they are mentioned by the author's last name throughout the text. I'm too lazy to hunt these down myself. &lt;font color=&quot;#FF1493&quot; face=&quot;sylfaen&quot;&gt;[[User:LovesMacs|Loves]]&lt;/font&gt;&lt;font color=&quot;#1E90FF&quot; face=&quot;sylfaen&quot;&gt;[[User:LovesMacs|Macs]]&lt;/font&gt;[[User talk:LovesMacs| (talk)]] 02:02, 27 October 2009 (UTC)</text>
+      <sha1>kmp8r6elnubixp9euuzbvi1pw05f8lz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,59 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Moriah</title>
+    <ns>1</ns>
+    <id>11609720</id>
+    <revision>
+      <id>469569997</id>
+      <parentid>302590482</parentid>
+      <timestamp>2012-01-04T19:46:27Z</timestamp>
+      <contributor>
+        <username>Robofish</username>
+        <id>794371</id>
+      </contributor>
+      <comment>added wikiproject template</comment>
+      <text xml:space="preserve" bytes="525">{{WikiProject Judaism|class=Start|importance=Mid}}
+{{WikiProject Bible}}
+
+==Enoch and Mount Moriah==
+There is a hermetic tradition which claims that [[Enoch]] was on mount [[Moriah]]. This needs to be backed up more so it can be put in the article. [http://books.google.ca/books?id=BIn-p6SwHisC&amp;pg=PA285&amp;lpg=PA285&amp;dq=enoch+moriah&amp;source=bl&amp;ots=Q3pCvi935o&amp;sig=7Bvd6RnjFgiZZQYEEN1T9veLeB0&amp;hl=en&amp;ei=NX-_SfyXIIa-MsOiobQN&amp;sa=X&amp;oi=book_result&amp;resnum=2&amp;ct=result] [[User:ADM|ADM]] ([[User talk:ADM|talk]]) 10:47, 17 March 2009 (UTC)</text>
+      <sha1>n42amc2cag9bbfqlfz9ldu3pbwqqqqb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

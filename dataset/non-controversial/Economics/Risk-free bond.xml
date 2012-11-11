@@ -1,0 +1,70 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Risk-free bond</title>
+    <ns>0</ns>
+    <id>539920</id>
+    <revision>
+      <id>513618632</id>
+      <parentid>505017314</parentid>
+      <timestamp>2012-09-20T00:48:17Z</timestamp>
+      <contributor>
+        <ip>76.120.181.41</ip>
+      </contributor>
+      <comment>change link</comment>
+      <text xml:space="preserve" bytes="1075">{{Unreferenced|date=December 2009}}
+A '''risk-free bond''' is a theoretical [[Bond (finance)|bond]] that repays [[interest]] and [[:wikt:principal|principal]] with absolute certainty.  The rate of return would be the [[risk-free interest rate]].  In practice, [[government bond]]s are treated as risk-free bonds, as governments can raise taxes or indeed print money to repay their domestic currency debt. 
+
+For instance, [[United States Treasury note]]s and [[United States Treasury security#Treasury bond|United States Treasury bonds]] are considered risk-free bonds, even though investors in United States Treasury securities do face a negligible amount of [[credit risk]]. An example of this credit risk was shown by [[Russia]], which defaulted on its domestic debt in 1998.
+
+==Application==
+When [[hedge (finance)|hedging]] according to formulas like [[Black–Scholes]] a '''risk-free bond''' would be purchased (or sold) accordingly.
+
+==See also==
+* [[List of economics topics]]
+
+{{Bond market}}
+
+[[Category:Financial risk]]
+[[Category:Government bonds]]
+
+{{Econ-stub}}</text>
+      <sha1>oweclzb94yk88bgn5n3dv2o6v19cjux</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,79 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Human development theory</title>
+    <ns>0</ns>
+    <id>177770</id>
+    <revision>
+      <id>518142250</id>
+      <parentid>501180896</parentid>
+      <timestamp>2012-10-16T16:11:56Z</timestamp>
+      <contributor>
+        <username>Khazar2</username>
+        <id>16460235</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, [[WP:AWB/T|typos fixed]]: self awareness → self-awareness using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="2887">{{Dablink|For other meanings of ''development'', used in and outside of the [[social science]]s, see [[development (disambiguation)|development]].}}
+{{Unreferenced|date=October 2007}}
+{{Original research|date=October 2007}}
+
+'''Human development theory''' is a theory that merges older ideas from [[ecological economics]], [[sustainable development]], [[welfare economics]], and [[feminist economics]]. It seeks to avoid the overt normative politics of most so-called &quot;[[green economics]]&quot; by justifying its theses strictly in [[ecology]], [[economics]] and sound [[social science]], and by working within a context of [[globalization]]. Like ecological economics it focuses on [[measuring well-being]] and detecting [[uneconomic growth]] that comes at the expense of human health. However, it goes further in seeking not only to measure but to optimize well-being by some explicit modeling of how [[social capital]] and [[instructional capital]] can be deployed to optimize the overall value of [[human capital]] in an economy - which is itself part of an ecology. The role of [[individual capital]] within that ecology, and the adaptation of the individual to live well within it, is a major focus of these theories.
+
+The most notable proponent of human development theory are [[Mahbub ul Haq]] and [[Amartya Sen]]. Amartya Sen asked, in [[Development as Freedom]], &quot;what is the relationship between our wealth and our ability to live as we would like?&quot;
+
+This question cannot be answered strictly from an [[energy economics|energy]], [[feminist economics|feminist]], [[home economics|family]], [[environmental economics|environmental health]], [[green economics|peace]], [[welfare economics|social justice]], or [[ecological economics|ecological well-being]] point of view, although all of these may be factors in our happiness, and if tolerances of any of these are violated seriously, it would seem impossible to be happy at all.
+
+Accordingly, human development theory is a major synthesis that is probably not confined within the bounds of conventional [[economics]] or [[political science]], nor even the [[political economy]] that relates the two.
+
+Another angle is '''Sustainable Human Development''': Triple Bottom line ecology-economy-social can be translated to human dimensions as:
+* Human economy: sustainable action - the ability to perform well and on long term (stress, priority, focus and time management)
+* Human social dimension: sustainable relations - the ability to sustain relations and go through ordeals together (family, teams, clients, stakeholders)
+* Human ecology: health, self-awareness, vocation, excellence, talent.
+
+[[Category:Development]]
+[[Category:Sustainability]]
+[[Category:Heterodox economics]]
+
+[[pt:Teoria do desenvolvimento humano]]
+[[simple:Human development theory]]
+[[ta:மனித வளர்ச்சிக் கோட்பாடு]]</text>
+      <sha1>eb7njkel8y0xi30r9p0krtmbpyle3jv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

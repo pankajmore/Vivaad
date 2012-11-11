@@ -1,0 +1,79 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Capital asset</title>
+    <ns>0</ns>
+    <id>1414453</id>
+    <revision>
+      <id>521891189</id>
+      <parentid>521891176</parentid>
+      <timestamp>2012-11-07T21:42:12Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contributions/71.35.236.36|71.35.236.36]] to version by Gzuufy. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1321594) (Bot)</comment>
+      <text xml:space="preserve" bytes="4342">The term '''capital asset''' has three unrelated technical definitions, and is also used in a variety of non-technical ways.
+
+*In [[financial economics]], it refers to any [[asset]] used to make money, as opposed to [[asset]]s used for personal enjoyment or consumption. This is an important distinction because two people can disagree sharply about the value of personal [[asset]]s, one person might think a sports car is more valuable than a pickup truck, another person might have the opposite taste. But if an [[asset]] is held for the purpose of making money, taste has nothing to do with it, only differences of opinion about how much money the [[asset]] will produce. With the further assumption that people agree on the probability distribution of future cash flows, it is possible to have an objective [[Capital asset pricing model]]. Even without the assumption of agreement, it is possible to set rational limits on capital asset value.&lt;ref name=&quot;Fama&quot;&gt;Eugene F. Fama and Merton H. Miller, ''The Theory of Finance'', Holt Rinehart and Winston (1974).&lt;/ref&gt;
+*In governmental accounting, it is defined as any [[asset]] used in operations with an initial useful life extending beyond one reporting period.&lt;ref name=&quot;GASB&quot;&gt;Governmental Accounting Standards Board Statement No. 34, ''Basic Financial Statements—and Management’s Discussion and Analysis—for State and Local Governments'', paragraph 19.&lt;/ref&gt; Generally, government managers have a &quot;stewardship&quot; duty to maintain capital assets under their control. See [[International Public Sector Accounting Standards]] for details.
+*In some income tax systems,{{Which|date=August 2012}} gains and losses from capital assets [[Capital gains tax|are treated differently than other income]]. Sale of non-capital assets, such as inventory or stock of goods held for sale, generally is taxed in the same manner as other income.  Capital assets generally include those assets outside the daily scope of business operations, such as investment or personal assets.  The United States system defines a capital asset by exclusion.&lt;ref&gt;[http://www.law.cornell.edu/uscode/html/uscode26/usc_sec_26_00001221----000-.html 26 USC 1221].  Also see the discussion of capital gains and losses in [http://www.irs.gov/publications/p550/ch04.html#en_US_publink100010476 IRS Publication 550].&lt;/ref&gt;  Capital assets include all assets ''except''  inventory of supplies or property held for sale (including subdivided real estate), depreciable property used in a business, accounts or notes receivable, certain commodities derivatives and hedging items, and certain copyrights and similar property held by the creator of the property.  The United Kingdom has an even broader definition.&lt;ref&gt;See HMRC discussion of [http://www.hmrc.gov.uk/cgt/intro/when-to-pay.htm assets liable to capital gains tax].&lt;/ref&gt;
+
+== Non-technical and ambiguous usage ==
+
+A well-known [[Financial accountancy|financial accounting]] textbook&lt;ref name=&quot;Stickney&quot;&gt;Clyde P. Stickney and Roman L. Weil, ''Financial Accounting'', p. 622.&lt;/ref&gt; advises that the term be avoided except in [[Tax accounting in the United States|tax accounting]] because it is used in so many different senses, not all of them well-defined. For example it is often used as a synonym for [[fixed assets]]&lt;ref name=&quot;Clark&quot;&gt;John Owen Edward Clark, ''Dictionary of International Accounting Terms'', p. 98&lt;/ref&gt; or for investments in [[Security (finance)|securities]].&lt;ref name=&quot;Stickney&quot;/&gt;
+
+A common non-technical usage occurs when people ask that employees or the environment or something else be treated as a capital asset. In this context it means something managers have a responsibility to maintain, and to report changes in value as gains or losses.&lt;ref name=&quot;Robinson&quot;&gt;David F. Robinson, &quot;Human asset accounting&quot;, ''Long Range Planning'', v. 7, i. 1, February 1974, Pp. 58-60.&lt;/ref&gt;
+
+Capital assets should not be confused with the [[Capital requirement|capital]] a financial institution is required to hold. This [[Capital requirement|capital]] is computed from the right-hand side of the [[balance sheet]] while [[asset]]s are found on the left-hand side.&lt;ref name=&quot;Stickney&quot; /&gt;
+
+==References==
+{{reflist}}
+
+==See also==
+*[[Current asset]]
+
+[[Category:Financial economics]]
+[[Category:Financial terminology]]
+[[Category:Taxation]]
+[[Category:Capital]]</text>
+      <sha1>a9upp90lmi3n23h0mzuafga8fc5lzsg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

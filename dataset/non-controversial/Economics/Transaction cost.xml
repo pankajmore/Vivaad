@@ -1,0 +1,187 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Transaction cost</title>
+    <ns>0</ns>
+    <id>145297</id>
+    <revision>
+      <id>521120527</id>
+      <parentid>516822078</parentid>
+      <timestamp>2012-11-02T22:34:10Z</timestamp>
+      <contributor>
+        <ip>171.66.84.237</ip>
+      </contributor>
+      <comment>/* Differences to Neoclassical Microeconomics */</comment>
+      <text xml:space="preserve" bytes="15094">In [[economics]] and related disciplines, a '''transaction cost''' is a [[cost]] incurred in making an economic exchange (restated: the cost of participating in a market).&lt;ref&gt;[http://fixglobal.com/content/buy-side-firms-use-tca-measure-execution-performance Buy-side Use TCA to Measure Execution Performance], FIXGlobal, June 2010&lt;/ref&gt; For example, most people, when buying or selling a [[stock]], must pay a commission to their [[stockbroker]]; that commission is a transaction cost of doing the stock deal. Or consider buying a spatula from a store; to purchase the spatula, your costs will be not only the price of the spatula itself, but also the energy and effort it requires to find out which of the various spatula products you prefer, where to get them and at what price, the cost of traveling from your house to the store and back, the time waiting in line, and the effort of the paying itself; the costs above and beyond the cost of the spatula are the transaction costs. When rationally evaluating a potential transaction, it is important to consider transaction costs that might prove significant.
+
+A number of kinds of transaction cost have come to be known by particular names:&lt;ref&gt;{{cite journal|last=Dahlman|first=Carl J.|year=1979|title=The Problem of Externality|journal=Journal of Law and Economics|volume=22|issue=1|pages=141–162|issn=0022-2186|quote=These, then, represent the first approximation to a workable concept of transaction costs: search and information costs, bargaining and decision costs, policing and enforcement costs.}}&lt;/ref&gt;
+* ''[[Search cost|Search and information costs]]'' are costs such as those incurred in determining that the required good is available on the market, which has the lowest price, etc.
+*''Bargaining costs'' are the costs required to come to an acceptable agreement with the other party to the transaction, drawing up an appropriate [[contract]] and so on. In [[game theory]] this is analyzed for instance in the [[game of chicken]]. On asset markets and in [[market microstructure]], the transaction cost is some function of the distance between the [[bid and ask]].
+* ''Policing and enforcement costs'' are the costs of making sure the other party sticks to the terms of the contract, and taking appropriate action (often through the [[legal system]]) if this turns out not to be the case.
+
+== History of development ==
+
+[[Image:Market-Hierarchy-Model.png|500px|right|thumb|The model shows institutions and market as a possible form of organization to coordinate economic transactions. When the external transaction costs are higher than the internal transaction costs, the company will grow. If the internal transaction costs are higher than the external transaction costs the company will be downsized by outsourcing, for example.]]
+The idea that transactions form the basis of an economic thinking was introduced by the [[Institutional economics|institutional economist]] [[John R. Commons]] (1931). He says that,
+
+{{Quote|text=These individual actions are really trans-actions instead of either individual behavior or the &quot;exchange&quot; of commodities. It is this shift from commodities and individuals to transactions and working rules of collective action that marks the transition from the classical and hedonic schools to the institutional schools of economic thinking. The shift is a change in the ultimate unit of economic investigation. The classic and hedonic economists, with their communistic and anarchistic offshoots, founded their theories on the relation of man to nature, but institutionalism is a relation of man to man. The smallest unit of the classic economists was a commodity produced by labor. The smallest unit of the hedonic economists was the same or similar commodity enjoyed by ultimate consumers. One was the objective side, the other the subjective side, of the same relation between the individual and the forces of nature. The outcome, in either case, was the materialistic metaphor of an automatic equilibrium, analogous to the waves of the ocean, but personified as &quot;seeking their level.&quot; But the smallest unit of the institutional economists is a unit of activity -- a transaction, with its participants. Transactions intervene between the labor of the classic economists and the pleasures of the hedonic economists,simply because it is society that controls access to the forces of nature, and transactions are, not the &quot;exchange of commodities,&quot; but the alienation and acquisition, between individuals, of the rights of property and liberty created by society, which must therefore be negotiated between the parties concerned before labor can produce, or consumers can consume, or commodities be physically exchanged&quot;.|sign=[[John R. Commons]]|source=''Institutional Economics'', American Economic Review, Vol.21, pp.648-657, 1931}}
+
+The term &quot;transaction cost&quot; is frequently thought to have been coined by [[Ronald Coase]], who used it to develop a theoretical framework for predicting when certain economic tasks would be performed by [[business organizations|firms]], and when they would be performed on the [[market]]. However, the term is actually absent from his early work up to the 1970s. While he did not coin the specific term, Coase indeed discussed &quot;costs of using the price mechanism&quot; in his 1937 paper ''The Nature of the Firm'', where he first discusses the concept of transaction costs, and refers to the &quot;Costs of Market Transactions&quot; in his seminal work, ''The Problem of Social Cost'' (1960). The term &quot;Transaction Costs&quot; itself can instead be traced back to the monetary economics literature of the 1950s, and does not appear to have been consciously 'coined' by any particular individual.&lt;ref name=&quot;Kissell&quot;&gt;[[Robert Kissell]] and [[Morton Glantz]], ''Optimal Trading Strategies'', AMACOM, 2003, pp. 1-23.&lt;/ref&gt;
+
+Arguably, transaction cost reasoning became most widely known through [[Oliver E. Williamson]]'s ''Transaction Cost Economics''. Today, transaction cost economics is used to explain a number of different behaviours. Often this involves considering as &quot;transactions&quot; not only the obvious cases of [[buying]] and [[selling]], but also day-to-day emotional interactions, informal [[gift]] exchanges, etc.  Oliver E. Williamson was awarded the 2009 [[Nobel Prize in Economics]]&lt;ref&gt;Special Issue of Journal of Retailing in Honor of The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2009 to Oliver E. Williamson, Volume 86, Issue 3, Pages 209-290 (September 2010). Edited by Arne Nygaard and Robert Dahlstrom&lt;/ref&gt;
+
+According to Williamson, the determinants of transaction costs are frequency, [[Asset specificity|specificity]], uncertainty, limited rationality, and opportunistic behavior.
+
+At least two definitions of the phrase &quot;transaction cost&quot; are commonly used in literature.  Transaction costs have been broadly defined by [[Steven N. S. Cheung]] as any costs that are not conceivable in a &quot;[[Robinson Crusoe]] economy&quot;—in other words, any costs that arise due to the existence of [[institution]]s.  To Cheung, &quot;transaction costs&quot;, if the term is not so popular in economics literatures, should be called &quot;institutional costs&quot;.&lt;ref name=&quot;Cheung&quot;&gt;Steven N. S. Cheung &quot;On the New Institutional Economics&quot;, ''Contract Economics''&lt;/ref&gt;&lt;ref name=&quot;Werin&quot;&gt;L. Werin and H. Wijkander (eds.), Basil Blackwell, 1992, pp. 48-65&lt;/ref&gt;  But many economists seem to restrict the definition to exclude costs internal to an organization.&lt;ref name=&quot;Demsetz&quot;&gt;[[Harold Demsetz]] (2003) “Ownership and the Externality Problem.” In T. L. Anderson and F. S. McChesney (eds.) Property Rights: Cooperation, Conflict, and Law. Princeton, N.J.: Princeton University Press&lt;/ref&gt;  The latter definition parallels Coase's early analysis of &quot;costs of the price mechanism&quot; and the origins of the term as a market trading fee.
+
+Starting with the broad definition, many economists then ask what kind of institutions (firms, markets, [[Franchising|franchise]]s, etc.) minimize the transaction costs of producing and distributing a particular good or service. Often these relationships are categorized by the kind of [[contract]] involved.  This approach sometimes goes under the rubric of [[New Institutional Economics]].
+
+== Examples ==
+A supplier may bid in a competitive environment with a customer to build a widget.  However, to make the widget, the supplier will be required to build specialized machinery which cannot be easily redeployed to make other products.  Once the contract is awarded to the supplier, the relationship between customer and supplier changes from a competitive environment to a [[monopoly]]/[[monopsony]] relationship, known as a [[bilateral monopoly]].  This means that the customer has greater leverage over the supplier such as when price cuts occur.  To avoid these potential costs, &quot;hostages&quot; may be swapped to avoid this event.  These hostages could include partial ownership in the widget factory; revenue sharing might be another way.
+
+Car companies and their suppliers often fit into this category, with the car companies forcing price cuts on their suppliers.  Defense suppliers and the military appear to have the opposite problem, with cost overruns occurring quite often. Technologies like [[Enterprise Resource Planning|enterprise resource planning (ERP)]] can provide technical support for these strategies.
+
+==Differences from Neoclassical Microeconomics==
+
+Williamson argues in ''The Mechanisms of Governance'' (1996) that Transaction Cost Economics (TCE) differs from [[neoclassical economics|neoclassical microeconomics]] in the following six points:
+
+* ''Behavioral assumptions'': whereas neoclassical theory assumes [[hyperrationality]] and ignores most of the hazards related to opportunism, TCE assumes [[bounded rationality]].
+* ''Unit of analysis'': whereas neoclassical theory is concerned with composite goods and services, TCE analyzes the [[Financial transaction|transaction]] itself.
+* ''Governance structure'': whereas neoclassical theory describes the firm as a [[production function]] (a technological construction), TCE describes it as a governance structure (an organizational construction).
+* ''Problematic property rights and contracts'': whereas neoclassical theory often assumes that property rights are clearly defined and the cost of enforcing those rights by the mean of courts is negligible, TCE treats property rights and contracts as problematic.
+* ''Discrete structural analysis'': whereas neoclassical theory uses continuous marginal modes of analysis in order to achieve second-order economizing (adjusting margins), TCE analyzes the basic structures of the firm and its governance in order to achieve first-order economizing (improving the basic governance structure).
+* ''Remediableness'': whereas neoclassical theory recognizes [[profit maximization]] or [[Cost-minimization analysis|cost minimization]] as criteria of efficiency, TCE insists that there is no optimal solution and that all alternatives are flawed, thus bounding &quot;optimal&quot; [[efficiency]] to the solution with no superior alternative and whose implementation produces net gains.
+
+==Notes==
+{{Reflist}}
+
+== See also ==
+* [[Bounded Rationality]]
+* [[Ronald Coase]]
+* [[Diseconomy of scale]]
+* [[Economic anthropology]]
+* [[New Institutional Economics]]
+* [[Nobel Prize in Economics]]
+* [[Property rights (economics)]]
+* [[Herbert A. Simon]]
+* [[Switching costs]]
+* [[Theory of the firm]]
+* [[Theory of the firm#Transaction cost theory|Transaction cost theory]]
+* [[Oliver E. Williamson]]
+* [[Market maker]]
+* [[Market impact cost]]
+
+== References ==
+*{{Cite document
+ | last=Cheung | first=Steven N. S.
+ | year=1987
+ | title=Economic organization and transaction costs
+ | publisher=The [[New Palgrave: A Dictionary of Economics]] v. 2,
+ | pages=55–58
+ | postscript=&lt;!--None--&gt;
+}}
+* Commons,J.R (1931).&quot;Institutional Economics&quot;, American Economic Review, Vol.21, pp.&amp;nbsp;648–657
+* Klaes, M. (2008). &quot;transaction costs, history of,&quot; ''[[The New Palgrave Dictionary of Economics]]'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_T000239&amp;edition=current&amp;q=transaction%20costs&amp;topicid=&amp;result_number=1 Abstract.]
+* Niehans, Jürg (1987). “Transaction costs,&quot; ''The New Palgrave: A Dictionary of Economics'', v. 4, pp.&amp;nbsp;677–80.
+*{{cite journal
+ | last=Coase | first=Ronald
+ | author-link=Ronald Coase
+ | year=1937
+ | title=[[The Nature of the Firm]]
+ | journal=Economica
+ | volume=4 | issue=16
+ | pages=386–405
+ | doi=10.1111/j.1468-0335.1937.tb00002.x
+}}
+*{{cite journal
+ | last=Coase | first=Ronald
+ | author-link=Ronald Coase
+ | year=1960
+ | title=[[The Problem of Social Cost]]
+ | journal=Journal of Law and Economics
+ | volume=3
+ | pages=1–44
+ | doi=10.1086/466560
+}}
+* Williamson, Oliver E. (1981). &quot;The Economics of Organization: The Transaction Cost Approach,&quot; ''The American Journal of Sociology'', 87(3), pp. [http://glenn.osu.edu/faculty/brown/home/Org%20Theory/Readings/Williamson1981.pdf 548-577].
+* _____ (1985). ''The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting''. [http://www.sp.uconn.edu/~langlois/Williamson%20(1985),%20chapter%201.pdf Preview to p. 25.] New York, NY: Free Press.
+* _____ (1996). ''The Mechanisms of Governance''. [http://books.google.com/books?hl=en&amp;lr=&amp;id=meERBVysP6YC&amp;oi=fnd&amp;pg=PA3&amp;dq=Williamson,+Oliver+E.++%22Mechanisms+of+Governance%22&amp;ots=0qUSo2k08z&amp;sig=lBumF_65WefRE_-rSV3SWDbT6ng#PPA16,M1 Preview.] Oxford University Press.
+* _____ (2002). &quot;The Theory of the Firm as Governance Structure: From Choice to Contract,&quot; ''Journal of Economic Perspectives'', 16(3), pp. [http://groups.haas.berkeley.edu/bpp/oew/FirmAsGovernanceStructure.pdf 171-195.]
+* Milgrom, P., and J. Roberts, &quot;Bargaining Costs, Influence Costs, and the Organization of Economic Activity,&quot; in J.E. Alt and K.A. Shepsle (eds.), Perspectives on Positive Political Economy, Cambridge: University of Cambridge, 1990, 57-89.
+*{{cite book
+ | last=Milgrom | first=P.
+ | last2=Roberts | first2=J.
+ | year=1992
+ | title=Economics, Organization and Management
+ | publisher=Prentice-Hall | location=Englewood Cliffs, NJ
+ | url=http://books.google.com/?id=cCi3AAAAIAAJ
+ | isbn=978-0-13-224650-7
+}}
+
+==External links==
+
+*[http://e.viaminvest.com/B11TransactionCostEconomics.asp Transaction cost economics]
+*[http://www.instant-science.net Coordination Costs (follow the &quot;Publications&quot; link, where you can download Reference 5)]
+
+[[Category:Costs]]
+[[Category:Microeconomics]]
+[[Category:Production economics]]
+[[Category:Production and organizations]]
+
+[[cs:Transakční náklady]]
+[[de:Transaktionskosten]]
+[[es:Coste de transacción]]
+[[fa:هزینه معامله]]
+[[fr:Coût de transaction]]
+[[ko:거래 비용]]
+[[is:Viðskiptakostnaður]]
+[[it:Costi di transazione]]
+[[he:עלות עסקה]]
+[[nl:Transactiekosten]]
+[[ja:取引コスト]]
+[[pl:Koszt transakcyjny]]
+[[pt:Custo de transação]]
+[[ro:Cost de tranzacție]]
+[[ru:Трансакционные издержки]]
+[[sv:Transaktionskostnad]]
+[[tr:İşlem maliyeti]]
+[[zh:交易成本]]</text>
+      <sha1>ommvtdsd1tt1u6xbmf8qtnb6wj93l2i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

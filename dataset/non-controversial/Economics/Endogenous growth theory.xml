@@ -1,0 +1,149 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Endogenous growth theory</title>
+    <ns>0</ns>
+    <id>378724</id>
+    <revision>
+      <id>519727768</id>
+      <parentid>511244112</parentid>
+      <timestamp>2012-10-25T09:28:07Z</timestamp>
+      <contributor>
+        <ip>141.244.172.174</ip>
+      </contributor>
+      <comment>changed link to economoic endogeny as is meant in article</comment>
+      <text xml:space="preserve" bytes="12664">{{Technical|date=August 2011}}
+{{Development economics sidebar}}
+'''Endogenous growth theory''' holds that [[economic growth]] is primarily the result of [[Endogeneity (economics)|endogenous]] and not external forces.&lt;ref&gt;{{cite journal |journal = [[The Journal of Economic Perspectives]] |volume= 8 |issue= 1 |year= 1994 |url= http://links.jstor.org/sici?sici=0895-3309%28199424%298%3A1%3C3%3ATOOEG%3E2.0.CO%3B2-H |first= P. M. |last= Romer |title= The Origins of Endogenous Growth |authorlink= Paul Romer |page = [http://www.iset.ge/old/upload/Romer%201994.pdf 3]  }}&lt;/ref&gt; Endogenous growth theory holds that investment in [[human capital]], [[innovation]], and knowledge are significant contributors to economic growth. The theory also focuses on [[positive externalities]] and [[spillover effects]] of a knowledge-based economy which will lead to economic development. The endogenous growth theory also holds that policy measures can have an impact on the long-run growth rate of an economy. For example, [[subsidies]] for [[research and development]] or [[education]] increase the growth rate in some endogenous growth models by increasing the incentive for innovation.
+
+==Models in Endogenous Growth==
+
+In the mid-1980s, a group of growth theorists became increasingly dissatisfied with common accounts of [[exogenous]] factors determining long-run growth. They favored a model that replaced the exogenous growth variable (unexplained technical progress) with a model in which the key determinants of growth were explicit in the model. The initial research was based on the work of [[Kenneth Arrow]] (1962), [[Hirofumi Uzawa]] (1965), and [[Miguel Sidrauski]] (1967).&lt;ref&gt;{{cite web |url= http://www.newschool.edu/nssr/het/essays/growth/moneygrowth.htm |title=Monetary Growth Theory   |work=newschool.edu |year=2011 [last update] |accessdate=11 October 2011}}&lt;/ref&gt; [[Paul Romer]] (1986), [[Robert Emerson Lucas, Jr. |Lucas]] (1988),&lt;ref&gt;{{cite journal |url= http://www.fordham.edu/economics/mcleod/LucasMechanicsEconomicGrowth.pdf |title= On the mechanics of Economic Development |first= R. E. |last= Lucas |authorlink= Robert Emerson Lucas, Jr. |journal = [[Journal of Monetary Economics]] |year=1988 |volume = 22  }}&lt;/ref&gt; and Rebelo (1991)&lt;ref&gt;{{cite journal |url=http://www.nber.org/papers/w3325 |title= Long-Run Policy Analysis and Long-Run Growth |first= Sergio |last= Rebelo  |journal = [[Journal of Political Economy]] |year=1991 |volume = 99 |issue= 3 |page= 500 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/Growth/RebeloAK.pdf |title= The Rebelo AK Growth Model  |first= C.|last= Carroll |work=econ2.jhu.edu |year=2011 [last update] |accessdate=11 October 2011 |quote= the steady-state growth rate in a Rebelo economy is directly proportional to the saving rate.}}&lt;/ref&gt; omitted technological change. Instead, growth in these models was due to indefinite investment in [[human capital]] which had [[spillover effect]] on economy and reduces the diminishing return to [[capital accumulation]].&lt;ref name= &quot;BX&quot;&gt;{{cite book |first1= R. J. |last1= Barro |first2= Xavier |authorlink2= Xavier Sala-i-Martin |last2= Sala-i-Martin |title= Economic Growth |isbn= 978-0-262-02459-4 |date= 1998-11-20 |url= http://mitpress.mit.edu/books/chapters/0262025531chap1.pdf  }}&lt;/ref&gt;
+
+The [[AK model]], which is the simplest endogenous model, gives a constant-saving-rate of endogenous growth. It assumes a constant, exogenous saving rate and fixed level of the technology. It shows elimination of diminishing returns leading to endogenous growth. However, the endogenous growth theory is further supported with models in which agents optimally determined the consumption and saving, optimizing the resources allocation to research and development leading to technological progress. Romer (1987, 1990) and signiﬁcant contributions by Aghion and Howitt (1992) and Grossman and Helpman (1991), incorporated [[imperfect market]]s and R&amp;D to the growth model.&lt;ref name= &quot;BX&quot;/&gt;
+
+== The AK Model ==
+{{main|AK model}}
+
+The model works on the property of absence of diminishing returns to capital. The simplest form of production function with diminishing return is: 
+[[File:Ak model.png|thumb|figure 1.1]]
+:&lt;math&gt;Y = AK\,&lt;/math&gt; 
+
+where
+:&lt;math&gt; A\,&lt;/math&gt; , is a positive constant that reflects the level of the technology. 
+
+:&lt;math&gt; K \,&lt;/math&gt; capital (broad sense to include human capital)
+
+:&lt;math&gt;y = AK\,&lt;/math&gt; , output per capita and the average and marginal product are constant at the level &lt;math&gt;A&gt;0\,&lt;/math&gt;
+
+If we substitute &lt;math&gt;\frac{f(k)}{k}=A \,&lt;/math&gt; in equation of transitional Dynamics of Solow-Swan model ([[Exogenous growth model]]) which shows how an economy’s per capita incomes converges toward its own steady-state value and to the per capita incomes of other nations.
+
+Transitional Dynamics equation, where Growth rate on &lt;math&gt; k\,&lt;/math&gt; is given by,
+
+:&lt;math&gt;\gamma_K=\dot{k}/k = s.f(k)/ k - (n+\delta)\ ,&lt;/math&gt;
+   
+on substituting &lt;math&gt; A\,&lt;/math&gt;, we get,
+:&lt;math&gt;\gamma_K= sA -(n+\delta)\ ,&lt;/math&gt;
+
+We return here to the case of zero technological progress, &lt;math&gt; x=0\,&lt;/math&gt;, because we want to show that per capita growth can now occur in the long-run even without exogenous technological change. The figure 1.1 explains the perpetual growth, with exogenous technical progress.  The vertical distance between the two line, &lt;math&gt; sA\,&lt;/math&gt;and n+&amp;delta; gives the&lt;math&gt;\gamma_K\,&lt;/math&gt;
+
+As, &lt;math&gt; sA&gt;\, &lt;/math&gt;n+&amp;delta;, so that&lt;math&gt;\gamma_K &gt; 0\,&lt;/math&gt;. Since the two line are parallel, &lt;math&gt;\gamma_K\,&lt;/math&gt;is constant; in particular, it is independent of &lt;math&gt;K\,&lt;/math&gt;. In other words,&lt;math&gt;K\,&lt;/math&gt; always grows at steady states rate,&lt;math&gt;\gamma_K^*= sA -(n+\delta)\ ,&lt;/math&gt;.
+
+Since
+:&lt;math&gt;y = AK\,&lt;/math&gt;,&lt;math&gt;\gamma_K\,&lt;/math&gt; equals &lt;math&gt;\gamma_K^*\,&lt;/math&gt; 
+
+at every point of time. In addition, since
+:&lt;math&gt;c= (1-s) y\,&lt;/math&gt;,
+
+the growth rate of 
+:&lt;math&gt;c\,&lt;/math&gt; equals &lt;math&gt;\gamma_K^*\,&lt;/math&gt;. 
+
+Hence, the entire per capita variable in the model grows at same rate, given by 
+:&lt;math&gt;\gamma^*= sA -(n+\delta)\ ,&lt;/math&gt;
+
+However, we can observe that&lt;math&gt;y = AK\,&lt;/math&gt; technology displays a positive long-run per capita growth without any exogenous technological development. The per capita growth depends on behavioural factors of the model as the saving rate and population. It is unlike neoclassical model, which is higher saving, s, promotes higher long-run per capita growth &lt;math&gt;\gamma^*\,&lt;/math&gt;.&lt;ref&gt;Economic Growth, 2nd Edition Robert J. Barro and Xavier Sala-i-Martin&lt;/ref&gt;
+
+== Endogenous versus exogenous growth theory ==
+In neo-classical growth models, the long-run rate of growth is [[exogeny|exogenous]]ly determined by either the savings rate (the [[Harrod–Domar model]]) or the rate of technical progress ([[Solow model]]). However, the savings rate and rate of technological progress remain unexplained. Endogenous growth theory tries to overcome this shortcoming by building macroeconomic models out of [[Microfoundations|microeconomic foundations]]. Households are assumed to maximize utility subject to budget constraints while firms maximize profits. Crucial importance is usually given to the production of new technologies and [[human capital]]. The engine for growth can be as simple as a constant return to scale production function (the AK model) or more complicated set ups with [[Knowledge spillover|spillover]] effects (spillovers are positive externalities, benefits that are attributed to costs from other firms), increasing numbers of goods, increasing qualities, etc.
+
+Often endogenous growth theory assumes constant marginal product of capital at the aggregate level, or at least that the limit of the marginal product of capital does not tend towards zero. This does not imply that larger firms will be more productive than small ones, because at the firm level the marginal product of capital is still diminishing. Therefore, it is possible to construct endogenous growth models with [[perfect competition]]. However, in many endogenous growth models the assumption of perfect competition is relaxed, and some degree of [[monopoly]] power is thought to exist. Generally monopoly power in these models comes from the holding of patents. These are models with two sectors, producers of final output and an R&amp;D sector. The R&amp;D sector develops ideas that they are granted a monopoly power. R&amp;D firms are assumed to be able to make monopoly profits selling ideas to production firms, but the [[free entry]] condition means that these profits are dissipated on R&amp;D spending.
+
+==Implications==
+An Endogenous growth theory implication is that policies which embrace openness, competition, change and innovation will promote growth.&lt;ref&gt;{{cite journal|last=Fadare|first=Samuel O.|title=Recent Banking Sector Reforms and Economic Growth in Nigeria|journal=Middle Eastern Finance and Economics|issue=Issue 8 (2010)|url=http://www.eurojournals.com/MEFE_8_12.pdf}}&lt;/ref&gt;  Conversely, policies which have the effect of restricting or slowing change by protecting or favouring particular existing industries or firms are likely over time to slow growth to the disadvantage of the community. [[Peter Howitt (economist)|Peter Howitt]] has written:
+&lt;blockquote&gt;
+Sustained economic growth is everywhere and always a process of continual transformation. The sort of economic progress that has been enjoyed by the richest nations since the Industrial Revolution would not have been possible if people had not undergone wrenching changes. Economies that cease to transform themselves are destined to fall off the path of economic growth. The countries that most deserve the title of “developing” are not the poorest countries of the world, but the richest. [They] need to engage in the never-ending process of economic development if they are to enjoy continued prosperity. (Conclusion, &quot;Growth and development: a Schumpeterian perspective&quot;, 2006 [http://www.cdhowe.org/pdf/commentary_246.pdf]).
+&lt;/blockquote&gt;
+
+== Criticisms ==&lt;!-- This section is linked from [[Economics]] --&gt;
+
+One of the main failings of endogenous growth theories is the collective failure to explain conditional convergence reported in the empirical literature.&lt;ref&gt; See {{cite journal |last=Sachs |first=Jeffrey D. |first2=Andrew M. |last2=Warner |year=1997 |title=Fundamental Sources of Long-Run Growth |journal=[[American Economic Review]] |volume=87 |issue=2 |pages=184–188 |doi= |jstor=2950910 }}&lt;/ref&gt; Another frequent critique concerns the cornerstone assumption of diminishing returns to capital. Some contend that ''new growth theory'' has proven no more successful than [[exogenous growth model|exogenous growth theory]] in explaining the income divergence between the [[developing nation|developing]] and [[developed nation|developed]] worlds (despite usually being more complex).&lt;ref&gt;See for instance, Professor Stephen Parente's 2001 review, ''The Failure of Endogenous Growth'' ([https://netfiles.uiuc.edu/parente/The%20Failure%20of%20Endogenous%20Growth.pdf Online] at the [[University of Illinois at Urbana-Champaign]]). (Published in [http://www.metapress.com/(gqdg4dzadovmv5fnfj5jki2x)/home/main.mpx Knowledge Technology &amp; Policy] Volume XIII, Number 4.)&lt;/ref&gt;
+
+== See also ==
+* [[Economic growth]]
+* [[Human capital]]
+* [[Mahalanobis model]]
+* [[Neoclassical growth model|Exogenous growth model]]
+* [[Paul Romer]]
+* [[Ramsey–Cass–Koopmans model]]
+
+==Notes==
+{{reflist}}
+
+== External links ==
+* [http://www.stanford.edu/~promer/EconomicGrowth.pdf Economic Growth] by [[Paul Romer]].
+* [http://www.eda.gov/ImageCache/EDAPublic/documents/pdfdocs/1g3lr_5f7_5fcortright_2epdf/v1/1g3lr_5f7_5fcortright.pdf New Growth Theory, Technology and Learning: A Practitioner's Guide], [[Economic Development Administration|U.S. Economic Development Administration]].
+* [http://tcdc.undp.org/CoopSouth/1998_2/cop9829.pdf Technological Implications of New Growth Theory for the South], [[United Nations Development Programme]].
+*[http://mitpress.mit.edu/books/chapters/0262025531chap1.pdf The AK Model] by Economic Growth, 2nd Edition Robert J. Barro and Xavier Sala-i-Martin
+*The Origins of Endogenous Growth, Romer.M Paul,The Journal of Economic Perspectives, Vol. 8, No. 1. (Winter, 1994), pp. 3-22.
+
+
+[[Category:Economic theories]]
+[[Category:Economic growth]]
+
+[[ca:Desenvolupament endogen]]
+[[de:Endogene Wachstumstheorie]]
+[[fr:Théorie de la croissance endogène]]
+[[it:Teoria della crescita endogena]]
+[[lo:Endogenous growth model]]
+[[nl:Endogene groeitheorie]]
+[[pl:Endogeniczny model wzrostu gospodarczego]]
+[[fi:Endogeenisen kasvun teoria]]</text>
+      <sha1>22x864vx1bybbt18v8wfbjveopn0t0z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

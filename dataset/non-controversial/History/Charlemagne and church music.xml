@@ -1,0 +1,72 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Charlemagne and church music</title>
+    <ns>0</ns>
+    <id>17919977</id>
+    <revision>
+      <id>428739482</id>
+      <parentid>426072807</parentid>
+      <timestamp>2011-05-12T11:56:48Z</timestamp>
+      <contributor>
+        <username>Dbachmann</username>
+        <id>86857</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2923">The Frankish emperor [[Charlemagne]] took an intense interest in '''church music''', and its propagation and adequate performance throughout his empire. He not only caused liturgical music to flourish in his own time, throughout his empire in Western Europe, but he laid the foundations for the subsequent musical culture of the region. The emperor's agents and representatives were everywhere ordered to watch over the faithful carrying out of his orders regarding music.
+
+In this, he was an ally of the Church. Aided by a technical knowledge of the subject, he appreciated the reasons why the Church attaches importance to music in worship, and the manner of its performance. He used his authority to enforce the wishes of the Church. His legislation on this subject, as on other points regarding the [[liturgy]], was conformity with Rome. 
+
+To this end, tradition tells us, he not only took members of his own chapel to Rome with him, in order that they might learn at the fountain head, but asked [[Pope Adrian I]], in 774, to let him have two of the papal singers. One of these papal chanters, Theodore, was sent to [[Metz]], and the other, Benedict, to the schola cantorum at [[Soissons]]. According to [[Ekkehart IV]], a chronicler of the tenth century, the same pope sent two more singers to the Court of Charlemagne. One of these, Peter, reached Metz, but Romanus at first being detained at [[St. Gall]] by sickness, afterwards obtained permission from the emperor to remain there. Manuscripts found there were used in the recovery of the original form of the [[Gregorian chant]]. 
+
+Charlemagne also made strenuous though not wholly successful efforts to wean [[Milan]] and its environs from their [[Ambrosian Rite]] and melodies. In 789 he addressed a decree to the whole clergy of his empire, enjoining on every member to learn the ''[[Cantus Romanus]]'' and to perform the office in conformity with the directions of his father [[Pepin the Short|Pepin]], who had abolished the [[Gallican chant]].
+
+Through the [[synod of Aachen]] of 803, the emperor commanded again the bishops and clerics to sing the office ''sicut psallit ecclesia Romana'', and ordered them to establish ''scholae cantorum'' in suitable places. He himself provided for the support of those already in existence that is, those in Metz, [[Paris]], Soissons, [[Orléans]], [[Sens]], [[Tours]], [[Lyon]], [[Cambrai]], and [[Dijon]] in France, and those of [[Fulda]], [[Reichenau Island|Reichenau]], and St. Gall. The sons of nobles of his empire and of his vassals were expected, by imperial commands to be instructed in grammar, music, and arithmetic, while the boys in the public schools were taught music and how to sing, especially the [[Psalms]]. 
+
+==References==
+{{reflist}}
+
+;Attribution
+*{{Catholic|wstitle=Charlemagne and Church Music}}
+
+[[Category:Christian music]]
+[[Category:Christianity of the Middle Ages]]
+[[Category:Charlemagne]]</text>
+      <sha1>dpcou2zrqwufgt5reizehxx579d0qti</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

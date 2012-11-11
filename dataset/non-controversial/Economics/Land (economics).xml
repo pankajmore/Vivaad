@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Land (economics)</title>
+    <ns>0</ns>
+    <id>143338</id>
+    <revision>
+      <id>486268773</id>
+      <parentid>480717819</parentid>
+      <timestamp>2012-04-08T15:32:14Z</timestamp>
+      <contributor>
+        <username>Manop</username>
+        <id>292857</id>
+      </contributor>
+      <minor/>
+      <comment>Undid revision 480717819 by [[Special:Contributions/41.206.13.3|41.206.13.3]] ([[User talk:41.206.13.3|talk]])</comment>
+      <text xml:space="preserve" bytes="2998">{{About|Land economics|the journal|Land Economics (journal)}}
+In [[economics]], '''land''' comprises all [[natural resource|naturally occurring resources]] whose supply is inherently fixed. Examples are any and all particular [[geographical location]]s, [[mineral deposit]]s, and even [[geostationary orbit]] locations and portions of the [[electromagnetic spectrum]]. Natural resources are fundamental to the [[Production theory basics| production]] of all [[good (economics)|goods]], including [[capital goods]]. Location values must not be confused with values imparted by fixed capital improvements. In [[classical economics]], land is considered one of the three [[factors of production]] (along with [[capital (economics)|capital]], and [[labor (economics)|labor]]). In some cases, land may be merged with capital due to the relatively small importance that land has in industrial and service sectors. Income derived from ownership or control of [[natural resources]] is referred to as [[economic rent|rent]].
+
+Land was sometimes defined in classical and [[neoclassical economics]] as the &quot;original and indestructible powers of the soil.&quot;[http://links.jstor.org/sici?sici=0022-1821%28195806%296%3A3%3C198%3AEAOULU%3E2.0.CO%3B2-8&amp;size=LARGE ] [[Georgism|Georgists]] hold that this implies a perfectly [[elasticity (economics)|inelastic]] [[supply curve]] (i.e., zero elasticity), suggesting that a [[land value tax]] that recovers the [[Economic rent#Land rent|rent of land]] for public purposes would not affect the [[opportunity cost]] of using land, but would instead only decrease the value of owning it.  This view is supported by evidence that although land can come on and off the market, market inventories of land show if anything an inverse relationship to price (i.e., negative elasticity). 
+
+As a tangible [[asset]] land is represented in accounting as a [[fixed asset]] or a [[capital asset]].
+
+Land, particularly geographic locations and mineral deposits, has historically been the cause of much conflict and dispute; [[land reform]] programs, which are designed to redistribute possession and/or use of geographic land, are often the cause of much controversy, and conflicts over the economic rent of mineral deposits have contributed to many civil wars, particularly in [[Africa]].
+
+==See also==
+*[[Natural resource]]
+
+==References==
+* Anthony C. Fisher (1987). &quot;Natural resources,&quot; ''[[The New Palgrave: A Dictionary of Economics]]'', v. 3, pp.  612-14.
+
+[[Category:Economics terminology]]
+[[Category:Georgism]]
+[[Category:Land value taxation]]
+[[Category:Natural resources]]
+[[Category:Production economics]]
+
+{{Economic-term-stub}}
+
+[[de:Boden (Produktionsfaktor)]]
+[[es:Tierra (economía)]]
+[[id:Lahan]]
+[[it:Terra (economia)]]
+[[nl:Land (economie)]]
+[[pl:Ziemia (ekonomia)]]
+[[pt:Terra (economia)]]
+[[simple:Land (economics)]]
+[[sk:Pôda a prírodné zdroje]]
+[[sv:Jord (egendom)]]
+[[th:ที่ดิน]]
+[[tr:Emlak]]
+[[vi:Đất (kinh tế học)]]
+[[zh:土地问题]]</text>
+      <sha1>0i9rlbdjjgru0oxy44cdd9g18bwaqns</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

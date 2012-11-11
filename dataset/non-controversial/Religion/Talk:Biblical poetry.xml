@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Biblical poetry</title>
+    <ns>1</ns>
+    <id>13030118</id>
+    <revision>
+      <id>511852338</id>
+      <parentid>494877127</parentid>
+      <timestamp>2012-09-11T14:07:13Z</timestamp>
+      <contributor>
+        <username>Emesselt</username>
+        <id>3547059</id>
+      </contributor>
+      <comment>Critique on Extent of Poetry in Bible section.</comment>
+      <text xml:space="preserve" bytes="1590">{{WikiProject Judaism|class=C|importance=Mid}}
+{{WPPoetry|class=c|importance=mid}}
+
+== Rhyme? Blah ==
+
+The section on rhyme is full of inaccurate statements.  I bet this whole article is horribly out-of-date by now, since it was taken from source text more than 100 years old.  Certainly in the rhyme section, it's full of editorializing about how Hebrew &quot;might have&quot; or &quot;probably&quot; had rhyme, based little more on the observation that language changes over time.  In point of fact, language change is *NOT* random, and it should be obvious whether rhyme was possible despite language change; and furthermore, we know pretty much exactly how to reconstruct Biblical Hebrew of various periods, so we should know for a fact whether or not there was rhyme.  I suspect no, despite what this article insinuates. [[User:Benwing|Benwing]] ([[User talk:Benwing|talk]]) 13:50, 20 April 2011 (UTC)
+==Rating==
+I've re-rated this c-class, as there are non-encyclopedic and factual dispute tags in place, and several paragraphs with no refs. [[User talk:INeverCry|&lt;font face=&quot;AR Cena&quot; color=&quot;black&quot;&gt;&lt;b&gt;INeverCry&lt;/b&gt;&lt;/font&gt;]]  01:45, 29 May 2012 (UTC)
+==Extent of Poetry==
+I was disappointed in this section as it never answered the question: how much of the Biblical text (Jewish or Christian) is considered poetry? Rather, a rambling and inconclusive discussion that never got to the point that was promised. I realize this critique is harsh, but if one proposes a question, one ought to also propose a clear answer.[[User:Emesselt|emesselt]] ([[User talk:Emesselt|talk]]) 14:07, 11 September 2012 (UTC)</text>
+      <sha1>m96727i727ce7yfu1xnnleguncmnd2b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

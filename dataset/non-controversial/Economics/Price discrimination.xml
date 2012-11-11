@@ -1,0 +1,317 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Price discrimination</title>
+    <ns>0</ns>
+    <id>156259</id>
+    <revision>
+      <id>522295751</id>
+      <parentid>522295666</parentid>
+      <timestamp>2012-11-10T06:56:02Z</timestamp>
+      <contributor>
+        <username>Fpenteado</username>
+        <id>398008</id>
+      </contributor>
+      <comment>/* International price discrimination */</comment>
+      <text xml:space="preserve" bytes="33363">{{technical|date=August 2012}}
+'''Price discrimination''' or '''price differentiation'''&lt;ref&gt;http://encarta.msn.com/dictionary_561539255_561539255/prevpage.html&lt;/ref&gt; exists when sales of identical goods or services are transacted at different [[price]]s from the same provider.&lt;ref name=&quot;krugman-a&quot;&gt;{{Cite book
+  | last       = Krugman
+  | first      = Paul R.
+  | authorlink = Paul R. Krugman
+  | coauthors  = [[Maurice Obstfeld]]
+  | others     =
+  | title      = International Economics - Theory and Policy
+  | chapter    = Chapter 6: Economies of Scale, Imperfect Competition and International Trade
+  | url        =
+  | accessdate =
+  | edition    = 6th
+  | year       = 2003
+  | publisher  =
+  | date       =
+  | location   =
+  | language   =
+  | page       = 142
+  | pages      =
+  | doi        =
+  | isbn       =
+  | quote      =
+}}&lt;/ref&gt; In a theoretical market with [[perfect information]], [[substitute good|perfect substitutes]], and no [[transaction cost]]s or prohibition on secondary exchange (or re-selling) to prevent [[arbitrage]], price discrimination can only be a feature of [[monopoly|monopolistic]] and [[oligopoly|oligopolistic]] [[market]]s,&lt;ref&gt;(&quot;Price Discrimination and Imperfect Competition&quot;, Lars A. Stole)&lt;/ref&gt; where [[market power]] can be exercised. Otherwise, the moment the seller tries to sell the same good at different prices, the buyer at the lower price can arbitrage by selling to the consumer buying at the higher price but with a tiny discount. However, product heterogeneity, [[Frictionless market|market frictions]] or high fixed costs (which make marginal-cost pricing unsustainable in the long run) can allow for some degree of differential pricing to different consumers, even in fully competitive retail or industrial markets.  Price discrimination also occurs when the same price is charged to customers which have different supply costs.
+
+The effects of price discrimination on [[social efficiency]] are unclear; typically such behavior leads to lower prices for some consumers and higher prices for others. Output can be expanded when price discrimination is very efficient, but output can also decline when discrimination is more effective at extracting surplus from high-valued users than expanding sales to low valued users. Even if output remains constant, price discrimination can reduce efficiency by misallocating output among consumers.
+
+Price discrimination requires [[market segmentation]] and some means to discourage discount customers from becoming resellers and, by extension, competitors. This usually entails using one or more means of preventing any resale, keeping the different price groups separate, making price comparisons difficult, or restricting pricing information. The boundary set up by the marketer to keep segments separate are referred to as a ''rate fence''. Price discrimination is thus very common in services where resale is not possible; an example is student discounts at museums.  Price discrimination in [[intellectual property]]
+is also enforced by law and by technology.  In the market for DVDs, DVD players are designed - by law - with chips to prevent
+an inexpensive copy of the DVD (for example legally purchased in India) from being used in a higher price market
+(like the US).  The [[Digital Millennium Copyright Act]] has provisions to outlaw circumventing of such devices to protect
+the enhanced monopoly profits that copyright holders can obtain from price discrimination against higher price market
+segments.
+
+Price discrimination can also be seen where the requirement that goods be identical is relaxed. For example, so-called &quot;premium products&quot; (including relatively simple products, such as cappuccino compared to regular coffee) have a price differential that is not explained by the cost of production. Some economists have argued that this is a form of price discrimination exercised by providing a means for consumers to reveal their willingness to pay.
+
+==Types of price discrimination==
+
+===First degree price discrimination===
+This type of price discrimination requires the monopoly seller of a good or service to know the absolute maximum price (or [[reservation price]]) that every consumer is willing to pay. By knowing the reservation price, the seller is able to absorb the entire [[consumer's surplus]] from the consumer and transform it into revenues. The seller produces more of his product than he would to achieve monopoly profits with no price discrimination, which means that there is no [[deadweight loss]]. Examples of where this might be observed are in markets where consumers bid for tenders, though, in this case, the practice of [[collusive tendering]] could reduce the market efficiency.
+
+===Second degree price discrimination===
+In '''second degree price discrimination''', price varies according to quantity demanded. Larger quantities are available at a lower unit price. This is particularly widespread in sales to industrial customers, where bulk buyers enjoy higher discounts.
+
+Additionally to '''second degree price discrimination''', sellers are not able to differentiate between different types of consumers. Thus, the suppliers will provide incentives for the consumers to differentiate themselves according to preference. As above, quantity &quot;discounts&quot;, or non-linear pricing, is a means by which suppliers use consumer preference to distinguish classes of consumers. This allows the supplier to set different prices to the different groups and capture a larger portion of the total market surplus.
+
+In reality, different pricing may apply to differences in product quality as well as quantity. For example, airlines often offer multiple classes of seats on flights, such as first class and economy class. This is a way to differentiate consumers based on preference, and therefore allows the airline to capture more consumer's surplus.
+
+===Third degree price discrimination===
+In '''third degree price discrimination''', price varies by attributes such as location or by customer [[market segment|segment]], or in the most extreme case, by the individual customer's identity; where the attribute in question is used as a proxy for ability/willingness to pay.
+
+Additionally to '''third degree price discrimination''', the supplier(s) of a market where this type of discrimination is exhibited are capable of differentiating between consumer classes. Examples of this differentiation are student or senior discounts. For example, a student or a senior consumer will have a different willingness to pay than an average consumer, where the reservation price is presumably lower because of budget constraints. Thus, the supplier sets a lower price for that consumer because the student or senior has a more elastic [[Price elasticity of demand]] (see the discussion of [[Price elasticity of demand]] as it applies to revenues from the first degree price discrimination, above). The supplier is once again capable of capturing more market surplus than would be possible without price discrimination.
+
+Note that it is not always advantageous to the company to price discriminate even if it is possible, especially for second and third degree discrimination. In some circumstances, the demands of different classes of consumers will encourage suppliers to ignore one or more classes and target entirely to the rest. Whether it is profitable to price discriminate is determined by the specifics of a particular market.
+
+===Fourth degree price discrimination===
+In '''fourth degree price discrimination''', prices are the same for different customers, however costs to the organization may vary.  For example, one may buy a plane ticket, but call ahead to order a vegetarian meal, possibly costing the company more to provide, but your ticket has no greater cost to you. This is also known as reverse price discrimination, as the effects are reflected on the producer.
+
+===Combination===
+These types are not mutually exclusive. Thus a company may vary pricing by location, but then offer bulk discounts as well. Airlines use several different types of price discrimination, including:
+
+* Bulk discounts to wholesalers, consolidators, and tour operators
+* Incentive discounts for higher sales volumes to travel agents and corporate buyers
+* Seasonal discounts, incentive discounts, and even general prices that vary by location. The price of a flight from say, Singapore to Beijing can vary widely if one buys the ticket in Singapore compared to Beijing (or New York or Tokyo or elsewhere).
+* Discounted tickets requiring advance purchase and/or Saturday stays.  Both restrictions have the effect of excluding business travelers, who typically travel during the workweek and arrange trips on shorter notice.
+* First degree price discrimination based on customer. It is not accidental that hotel or car rental firms may quote higher prices to their loyalty program's top tier members than to the general public.{{citation needed|date=October 2010}}
+
+==Modern taxonomy==
+
+The '''first/second/third degree''' taxonomy of price discrimination is due to Pigou (''Economics of Welfare'', 4th edition, 1932). See, e.g., [http://www.cr1.dircon.co.uk/TB/2/monopoly/pricediscrimination.htm modern taxonomy of price discrimination]. However, these categories are not mutually exclusive or exhaustive. Ivan Png ([http://www.comp.nus.edu.sg/~ipng/mecon.htm ''Managerial Economics''], 2nd edition, 2002) suggests an alternative taxonomy:
+* '''Complete discrimination''' -- where each user purchases up to the point where the user's marginal benefit equals the marginal cost of the item;
+* '''Direct segmentation''' -- where the seller can condition price on some attribute (like age or gender) that ''directly'' segments the buyers;
+* '''Indirect segmentation''' -- where the seller relies on some proxy (e.g., package size, usage quantity, coupon) to structure a choice that ''indirectly'' segments the buyers.
+
+The hierarchy—complete/direct/indirect—is in decreasing order of
+* profitability and
+* information requirement.
+Complete price discrimination is most profitable, and requires the seller to have the most information about buyers. Indirect segmentation is least profitable, and requires the seller to have the least information about buyers.
+
+==Two part tariff==
+
+The [[two-part tariff]] is another form of price discrimination where the producer charges an initial fee then a secondary fee for the use of the product.  An example of this is razors, you pay an initial cost for the razor and then pay for the replacement blades.  This pricing strategy works because it shifts the demand curve to the right: since you have already paid for the initial blade holder you will buy the blades which are now cheaper than buying a disposable razor.
+
+==Explanation==
+
+[[Image:pricediscrimination.small.png|right|250px|thumb|Sales revenue without and with Price Discrimination]]
+
+The purpose of price discrimination is generally to capture the market's [[consumer surplus]]. This surplus arises because, in a market with a single clearing price, some customers (the very low price elasticity segment) would have been prepared to pay more than the single market price. Price discrimination transfers some of this surplus from the consumer to the producer/marketer. Strictly, a consumer surplus need not exist, for example where some below-cost selling is beneficial due to fixed costs or economies of scale. An example is a high-speed internet connection shared by two consumers in a single building; if one is willing to pay less than half the cost, and the other willing to make up the rest but not to pay the entire cost, then price discrimination is necessary for the purchase to take place.
+
+It can be proved mathematically that a firm facing a downward sloping demand curve that is convex to the origin will always obtain higher revenues under price discrimination than under a single price strategy. This can also be shown diagrammatically.
+
+In the top diagram, a single price (P) is available to all customers. The amount of revenue is represented by area P, A, Q, O. The consumer surplus is the area above line segment P, A but below the demand curve (D).
+
+With price discrimination, (the bottom diagram), the demand curve is divided into two segments (D1 and D2). A higher price (P1) is charged to the low elasticity segment, and a lower price (P2) is charged to the high elasticity segment. The total revenue from the first segment is equal to the area P1,B, Q1,O. The total revenue from the second segment is equal to the area E, C,Q2,Q1. The sum of these areas will always be greater than the area without discrimination assuming the demand curve resembles a rectangular hyperbola with unitary elasticity. The more prices that are introduced, the greater the sum of the revenue areas, and the more of the consumer surplus is captured by the producer.
+
+Note that the above requires both first and second degree price discrimination: the right segment corresponds partly to different people than the left segment, partly to the same people, willing to buy more if the product is cheaper.
+
+It is very useful for the price discriminator to determine the optimum prices in each market segment. This is done in the next diagram where each segment is considered as a separate market with its own demand curve. As usual, the profit maximizing output (Qt) is determined by the intersection of the marginal cost curve (MC) with the marginal revenue curve for the total market (MRt).
+
+[[File:Price discrimination (third degree).svg|thumb|center|700px|Multiple Market Price Determination]]
+
+The firm decides what amount of the total output to sell in each market by looking at the intersection of marginal cost with marginal revenue (profit maximization). This output is then divided between the two markets, at the equilibrium marginal revenue level. Therefore, the optimum outputs are Qa and Qb. From the demand curve in each market we can determine the profit maximizing prices of Pa and Pb.
+
+It is also important to note that the marginal revenue in both markets at the optimal output levels must be equal, otherwise the firm could profit from transferring output over to whichever market is offering higher marginal revenue.
+
+Given that Market 1 has a [[price elasticity of demand]] of E1 and Market of E2, the optimal pricing ration in Market 1 versus Market 2 is &lt;math&gt;P1/P2 = [1+1/E2]/[1+1/E1]&lt;/math&gt;.
+
+==Examples of price discrimination==
+
+===Retail price discrimination===
+In certain circumstances, it is a violation of the [[Robinson-Patman Act]], (a 1936 Federal U.S. antitrust statute) for manufacturers of goods to sell their products to similarly situated retailers at different prices based solely on the volume of products purchased.
+
+===Travel industry===
+[[Airline]]s and other travel companies use differentiated pricing regularly, as they sell travel products and services simultaneously to different market segments. This is often done by assigning capacity to various booking classes, which sell for different prices and which may be linked to fare restrictions. The restrictions or &quot;fences&quot; help ensure that market segments buy in the booking class range that has been established for them. For example, schedule-sensitive business passengers who are willing to pay $300 for a seat from city A to city B cannot purchase a $150 ticket because the $150 booking class contains a requirement for a Saturday night stay, or a 15-day advance purchase, or another fare rule that discourages, minimizes, or effectively prevents a sale to business passengers.
+
+Notice however that in this example &quot;the seat&quot; is not really always the same product. That is, the business person who purchases the $300 ticket may be willing to do so in return for a seat on a high-demand morning flight, for full refundability if the ticket is not used, and for the ability to upgrade to first class if space is available for a nominal fee. On the same flight are price-sensitive passengers who are not willing to pay $300, but who are willing to fly on a lower-demand flight (say one leaving an hour earlier), or via a connection city (not a non-stop flight), and who are willing to forgo refundability.
+
+On the other hand, an airline may also apply differential pricing to &quot;the same seat&quot; over time, e.g. by discounting the price for an early or late booking (without changing any other fare condition). This could present an arbitrage opportunity in the absence of any restriction on reselling. However, passenger name changes are typically prevented or financially penalized by contract.
+
+Since airlines often fly multi-leg flights, and since no-show rates vary by segment, competition for the seat has to take in the spatial dynamics of the product. Someone trying to fly A-B is competing with people trying to fly A-C through city B on the same aircraft. This is one reason airlines use [[yield management]] technology to determine how many seats to allot for A-B passengers, B-C passengers, and A-B-C passengers, at their varying fares and with varying demands and no-show rates.
+
+With the rise of the Internet and the growth of low fare airlines, airfare pricing transparency has become far more pronounced. Passengers discovered it is quite easy to compare fares across different flights or different airlines. This helped put pressure on airlines to lower fares. Meanwhile, in the recession following the September 11, 2001, attacks on the U.S., business travelers and corporate buyers made it clear to airlines that they were not going to be buying air travel at rates high enough to subsidize lower fares for non-business travelers. This prediction has come true, as vast numbers of business travelers are buying airfares only in economy class for business travel.
+
+There are sometimes group discounts on rail tickets and passes. This may be in view of the alternative of going by car together.
+
+=== Coupons ===
+The use of coupons in retail is an attempt to distinguish customers by their reserve price.  The assumption is that people who go through the trouble of collecting coupons have greater price sensitivity than those who do not.  Thus, making coupons available enables, for instance, breakfast cereal makers to charge higher prices to price-insensitive customers, while still making some profit off customers who are more price-sensitive.
+
+===Premium pricing===
+For certain products, premium products are priced at a level (compared to &quot;regular&quot; or &quot;economy&quot; products) that is well beyond their [[marginal cost]] of production. For example, a coffee chain may price regular coffee at $1, but &quot;premium&quot; coffee at $2.50 (where the respective costs of production may be $0.90 and $1.25). Economists such as [[Tim Harford]] in the [[The Undercover Economist|Undercover Economist]] have argued that this is a form of price discrimination: by providing a choice between a regular and premium product, consumers are being asked to reveal their degree of price sensitivity (or willingness to pay) for comparable products. Similar techniques are used in pricing business class airline tickets and premium alcoholic drinks, for example.
+
+This effect can lead to (seemingly) [[perverse incentive]]s for the producer. If, for example, potential business class customers will pay a large price differential only if economy class seats are uncomfortable while economy class customers are more sensitive to price than comfort, airlines may have substantial incentives to purposely make economy seating uncomfortable. In the example of coffee, a restaurant may gain more economic profit by making poor quality regular coffee—more profit is gained from up-selling to premium customers than is lost from customers who refuse to purchase inexpensive but poor quality coffee. In such cases, the net social utility should also account for the &quot;lost&quot; utility to consumers of the regular product, although determining the magnitude of this foregone utility may not be feasible.
+
+===Segmentation by age group and student status===
+Many [[movie theater]]s, [[amusement park]]s, [[tourist attraction]]s, and other places have different admission prices per market segment: typical groupings are Youth, Student, Adult, and Senior. Each of these groups typically have a much different demand curve. Children, people living on student wages, and people living on retirement generally have much less [[disposable income]].
+
+===Discounts for members of certain occupations===
+Many businesses, especially in the [[Southern United States]], offer reduced prices to active [[military]] members. In addition to increased sales to the target group, businesses benefit from the resulting positive publicity, leading to increased sales to the general public. Less publicized are discounts to other service workers such as [[police]]; off-duty police customers in high-crime areas are said to constitute free security.{{Citation needed|date=February 2009}}
+
+===Employee discounts===
+Most people feel that discounts businesses give to their own employees are an employee benefit (and is often listed as such in the employee handbook).  However, some might construe this as a form of price discrimination.
+
+===Retail incentives===
+A variety of incentive techniques may be used to increase market share or revenues at the retail level. These include discount coupons, rebates, bulk and quantity pricing, seasonal discounts, and frequent buyer discounts.
+
+===Incentives for industrial buyers===
+Many methods exist to incentivize wholesale or industrial buyers. These may be quite targeted, as they are designed to generate specific activity, such as buying more frequently, buying more regularly, buying in bigger quantities, buying new products with established ones, and so on. Thus, there are bulk discounts, special pricing for long-term commitments, non-peak discounts, discounts on high-demand goods to incentivize buying lower-demand goods, rebates, and many others. This can help the relations between the firms involved.
+
+===Sex-based examples===
+Many sex-based price differences are held to be illegal but still occur often in countries such as the [[United States]] and the [[United Kingdom]].
+
+====&quot;Ladies' night&quot;====
+Many North American and European [[nightclub]]s feature a &quot;ladies' night&quot; in which women are offered discount or free drinks, or are absolved from payment of [[cover charge]]s. This differs from conventional price discrimination in that the primary motive is not, usually, to increase revenue at the expense of consumer surplus, but to increase the club's attractiveness to the market side more willing to pay (men), for the benefit of the other (women). (See also [[two-sided market]])
+
+====Dry cleaning====
+Dry cleaners typically charge higher prices for the laundering of women's clothes than for men's. Some US communities have reacted by outlawing the practice. Dry cleaners justify the price differences because women's clothes typically require far more time to press than men's clothes due to more pleating. This qualifies an example of price discrimination if at least part of the reason for the higher pricing is really the dry cleaner's belief that women will be willing to pay more than men.
+
+====Haircutting====
+Women's haircuts are often more expensive than men's haircuts because women generally have longer, more complex hairstyles whereas men generally have shorter hairstyles.  Some salons have modified their pricing to reflect &quot;long hair&quot; versus &quot;short hair&quot; or style instead of sex. This situation has been common practice in barber shops for decades.
+
+====Automobile Insurance====
+Males have traditionally been charged higher rates than women for automobile insurance, [[adultism|and much higher rates for under-30s. This disparity is especially prevalent for males under the age of 25.]]
+
+===Financial aid in education===
+[[Financial aid (educational expenses)|Financial aid]] as offered by U.S. [[college]]s and [[university|universities]] is a form of price discrimination that is widely accepted, and completely legal.
+
+===Haggling===
+Many cultures involve [[haggling]] in market transactions &amp;mdash; inflated prices are posted, but the customer can negotiate with the vendor. In the [[United States]], haggling is rare to non-existent in [[retail]], but common when [[automobile]]s and homes are sold. Negotiation often requires knowledge, confidence, and the ability to manage confrontational personalities, and vendors know that many customers will pay higher prices in order to avoid negotiating.
+
+===International price discrimination===
+Pharmaceutical companies may charge customers living in wealthier countries (such as the United States) a much higher price than for identical drugs in poorer nations, as is the case with the sale of anti-retroviral drugs in Africa. Since the purchasing power of African consumers is much lower, sales would be extremely limited without price discrimination. The ability of pharmaceutical companies to maintain price differences between countries is often either reinforced or hindered by national drugs laws and regulations, or the lack thereof.
+However price discrimination is not only related to a country's wealth and richer costumers might benefit from lower prices than countries with a population with less purchase power. An example is [[Adobe Systems]] that does not offer educational discounts in their products in some countries like [[China]], and those in the educational system have to purchase them at full price if they want legitimate software.
+
+Although not common in modern times, governments have traditionally raised revenues from [[tariff]]s. When these are not flat tariffs, the government effectively sets the prices of goods that are not produced locally and are only imported.
+
+Even online sales for non material goods, which do not have to be shipped, may change according to the geographic location of the buyer. A song in Apple's iTunes costs 79 pence (1.49 USD) for Britons but only 99 cents for Americans. (~50% more for the same song) These differences may arise because of changes in [[exchange rate]]s that occur much more frequently than changes in prices, or they may arise because the license-holders (in this case, record companies) are enforcing their existing pricing policy on new licensees or intermediaries.
+
+
+Recently in Australia, the Federal Government has started an investigation into price discrimination on IT goods in Australia and whether the current pricing is justifiable.&lt;ref&gt;http://www.abc.net.au/news/2012-07-30/it-pricing-inquiry-starts/4163864&lt;/ref&gt;
+
+===Academic pricing===
+{{main|Academic software pricing}}
+Companies will often offer discounted [[software]] to students and faculty at K-12 and [[university]] levels. These may be labeled as academic versions, but perform the same as the full price [[retail software]]. Academic versions of the most expensive software suites may be priced as little as one fifth or less of retail price. Some academic software may have differing licenses than retail versions, usually disallowing their use in activities for profit or expiring the license after a given number of months. This also has the characteristics of an &quot;initial offer&quot; - that is, the profits from an academic customer may come partly in the form of future non-academic sales due to [[vendor lock-in]]. For example, an accounting student buys academically priced [[Microsoft Excel]], and as a result of getting used to it, continues to use it throughout a future career, the future editions of which he buys at full price, instead of moving to the fully compatible [[OpenOffice.org]] equivalent application.
+
+===Dual pricing===
+Even within a country, differentiated pricing may be established to ensure that citizens receive lower prices than non-citizens; this is known as '''dual pricing'''. This is particularly common for goods that are subsidized or otherwise provided by the state (and hence paid by taxpayers). Thus, in places such as [[Switzerland]], [[Finland]], [[Thailand]], and [[India]], citizens may purchase special fare tickets for public transportation that are available only to citizens. Many countries also maintain separate admission charges for museums, national parks and similar facilities, the usually professed reason being that citizens should be able to educate themselves and enjoy the country's natural wonders cheaply, but other visitors should pay the market rate.
+
+Certain places in Thailand will often have one price for tourists and another for native Thais. The [[Grand Palace]] in Bangkok, for example, charges admission to foreign tourists, but Thai citizens are allowed free entry.
+
+Many publicly run universities in the [[United States]] are subsidized by taxpayers of the state in which they are located; residents of said state are frequently given a discount on tuition as a result.
+
+===Wage discrimination===
+'''Wage discrimination''' is when the price of equivalent labor is discriminated among different groups of workers. This may be seen as just one kind of price discrimination or as an example of its inverse, one buyer buying identical goods at different rates.
+
+==Universal pricing==
+
+''Universal pricing'' is the opposite of price discrimination &amp;mdash; one price is offered for the good or service. This is usually preferred by consumers over tiered pricing.{{Citation needed|date=July 2009}} For example, the [[European Union]] is currently making efforts to set a single-price protocol for automobile sales.{{Citation needed|date=August 2007}}
+
+==Two necessary conditions for price discrimination==
+
+There are two conditions that must be met if a price discrimination scheme is to work. First the firm must be able to identify market segments by their price elasticity of demand and second the firms must be able to enforce the scheme.&lt;ref&gt;Samuelson &amp; Marks, Managerial Economics 4th ed. (Wiley 2003)&lt;/ref&gt; For example, airlines routinely engage in price discrimination by charging high prices for customers with relatively inelastic demand - business travelers - and discount prices for tourist who have relatively elastic demand. The airlines enforce the scheme by making the tickets non-transferable thus preventing a tourist from buying a ticket at a discounted price and selling it to a business traveler (arbitrage). Airlines must also prevent business travelers from directly buying discount tickets. Airlines accomplish this by imposing advance ticketing requirements or minimum stay requirements conditions that would be difficult for average business traveler to meet.&lt;ref&gt;Samuelson &amp; Marks, Managerial Economics 4th ed. (Wiley 2003) Airlines typically attempt to maximize revenue rather than profits because airlines variable costs are small. Thus airlines use pricing strategies designed to fill seats rather than equate marginal revenue and marginal costs.&lt;/ref&gt;
+
+==User-controlled price discrimination==
+
+While the conventional theory of price discrimination generally assumes that prices are set by the seller, there is a variant form in which prices are set by the buyer, such as in the form of [[pay what you want]] pricing.  Such user-controlled price discrimination exploits similar ability to adapt to varying demand curves or individual price sensitivities, and may avoid the negative perceptions of price discrimination as imposed by a seller.
+
+==See also==
+
+*[[Robinson-Patman Act]]
+*[[Pricing]]
+*[[Pricing strategies]]
+*[[Marketing]]
+*[[Resale price maintenance]]
+*[[Geo (marketing)]]
+*[[Yield management]]
+*[[Microeconomics]]
+*[[Price]]
+*[[Outline of industrial organization]]
+*[[Ramsey problem]]
+*[[Ticket scalping]]
+*[[Pay what you want]]
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+* ''The Strategy and Tactics of Pricing'' by Thomas Nagle and Reed Holden. ISBN 0-13-026248-X.
+* 'The Undercover Economist' by Tim Harford ISBN 978-0-349-11985-4
+
+==External links==
+{{Commons category}}
+* [http://web.mit.edu/14.271/www/hio-pdic.pdf Price Discrimination and Imperfect Competition] Lars Stole
+* [http://www.sims.berkeley.edu/resources/infoecon/Pricing.html Pricing Information] [[Hal Varian]].
+* [http://oz.stern.nyu.edu/io/pricing.html Price Discrimination for Digital Goods] [[Arun Sundararajan]].
+* [http://thefilter.blogs.com/thefilter/2008/06/price-discrimin.html Price Discrimination] Discussion piece from The Filter^
+* [http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html Joelonsoftware's blog entry on Price Discrimination]
+* [http://www.slate.com/id/2050/ Taken to the Cleaners?] Steven Landsburg's explanation of Dry Cleaner pricing.
+
+{{DEFAULTSORT:Price Discrimination}}
+[[Category:Pricing]]
+[[Category:Marketing]]
+[[Category:Business terms]]
+[[Category:Business ethics]]
+[[Category:Monopoly (economics)]]
+[[Category:Imperfect competition]]
+
+[[ar:تمييز في الأسعار]]
+[[de:Preisdifferenzierung]]
+[[es:Discriminación de precios]]
+[[fa:تبعیض قیمت]]
+[[fr:Discrimination par les prix]]
+[[ko:가격 차별]]
+[[id:Diskriminasi harga]]
+[[lv:Cenu diskriminācija]]
+[[hu:Árdiszkrimináció]]
+[[nl:Prijsdiscriminatie]]
+[[no:Prisdiskriminering]]
+[[pl:Dyskryminacja cenowa]]
+[[pt:Discriminação de preços]]
+[[ru:Ценовая дискриминация]]
+[[fi:Hintadiskriminointi]]
+[[sv:Prisdiskriminering]]
+[[uk:Цінова дискримінація]]
+[[zh:价格歧视]]</text>
+      <sha1>60muu53kl1i720glqs1xc9j3b8b6m70</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

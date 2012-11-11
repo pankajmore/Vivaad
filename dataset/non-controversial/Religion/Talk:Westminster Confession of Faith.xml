@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Westminster Confession of Faith</title>
+    <ns>1</ns>
+    <id>6593061</id>
+    <revision>
+      <id>349009194</id>
+      <parentid>348880864</parentid>
+      <timestamp>2010-03-10T15:34:26Z</timestamp>
+      <contributor>
+        <username>Hroðulf</username>
+        <id>1874255</id>
+      </contributor>
+      <comment>/* Protestant Significance */ reply</comment>
+      <text xml:space="preserve" bytes="3501">{{ChristianityWikiProject|class=B|importance=mid}}
+{{WPCalvinism/Article Scope|class=B|importance=high}}
+
+==American Revision==
+The article presently states of the 1789 American revision: &quot;It also removes explicit identification of the Pope as the Antichrist.&quot; Is this correct? My impression was that this did not formally happen until 1903 in the PCUSA.--J.A.
+
+==Criticism==
+Unfortunately, my comments were posted on the entry instead of this discussion page (my apologies, I'm new to this).  My criticism is that there is far too much coverage of the American situation in regard to this topic than is possibly warranted.
+
+:Please [[sign your name]]. As an American Presbyterian I find the information quite useful. However, it would be nice to see more about the situation in other countries. --[[User:S Roper|S Roper]] 17:53, 21 August 2006 (UTC)
+
+::The information on American developments should be retained - but perhaps ''this'' article should concentrate on the historical background and content of the confession itself - with a brief overview of developements in various denominations, linking to fuller discussions elsewhere. (Given that American presbyterianism is largely derivative of Scottish - there is far too little on that subject.) Perhaps, if there is a lot of American material, it should be simply summarised here - and the detailed stuff moved to a specific article [[Westminster Confession in North American Presbyterianism]] or the like.--[[User talk:Doc glasgow|Doc]] 18:08, 21 August 2006 (UTC)
+
+:::Perhaps.  But right now it is a very short article.  The American situation is unusual in being perhaps the largest group to have ''revised'' the confession.   Yes, the article is unbalanced, but that should be fixed by adding more material on other topics, not deleting material.  
+:::For now, I would suggest references at the top of the to do list, and moredetail on the origins a close second.  --[[User:Hro%C3%B0ulf|Hroðulf]] (or Hrothulf) ([[User talk:Hro%C3%B0ulf|Talk]]) 18:29, 21 August 2006 (UTC)
+
+:::I don't believe there is a need for a second article at this time. --[[User:S Roper|S Roper]] 12:51, 22 August 2006 (UTC)
+
+== Protestant Significance ==
+
+Chapter XXV section VI states: ''There is no other head of the Church but the Lord Jesus Christ: nor can the Pope of Rome in any sense be head thereof; but is that Antichrist, that man of sin and son of perdition, that exalteth himself in the Church against Christ, and all that is called God.''
+
+Clearly this is a significant historical reference to the Protestant Reformation backlash to the doctrinal errors and abuses of the Catholic Church. Primarily due to the proliferation of the Gutenberg Bible in the 15th century. By the early 17th century, all of western Europe had recognized the prophetic fulfillment of the Papacy as the beast power of Revelation 13.  
+
+&lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mkellysda7|Mkellysda7]] ([[User talk:Mkellysda7|talk]] • [[Special:Contributions/Mkellysda7|contribs]]) 02:49, 10 March 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Yes, in principle (though doctrinal errors are matters of faith, not [[WP:V|verifiable fact]].)  The article describes the contents and historical context of the confession very briefly, and could do with some elaboration.  --[[User:Hro%C3%B0ulf|Hroðulf]] (or Hrothulf) ([[User talk:Hro%C3%B0ulf|Talk]]) 15:34, 10 March 2010 (UTC)</text>
+      <sha1>jb35apy4qmfblex1v414l2d4wmu4fjx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

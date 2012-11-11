@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Oligopsony</title>
+    <ns>0</ns>
+    <id>180782</id>
+    <revision>
+      <id>516554891</id>
+      <parentid>506961075</parentid>
+      <timestamp>2012-10-08T00:34:12Z</timestamp>
+      <contributor>
+        <username>Brokshen</username>
+        <id>10284119</id>
+      </contributor>
+      <comment>/* External links */ Removed dead link</comment>
+      <text xml:space="preserve" bytes="2505">{{nofootnotes|date=February 2012}}
+An '''oligopsony''' (from Ancient Greek '''ὀλίγοι''' (oligoi) &quot;few&quot; + '''ὀψωνία''' (opsōnia) &quot;purchase&quot;) is  a [[market form]] in which the number of buyers is small while the number of sellers in theory could be large. This typically happens in a market for inputs where numerous suppliers are competing to sell their product to a small number of (often large and powerful) buyers. It contrasts with an [[oligopoly]], where there are many buyers but few sellers. An oligopsony is a form of [[imperfect competition]].
+ 
+The terms [[monopoly]] (one seller), [[monopsony]] (one buyer), and [[bilateral monopoly]] have a similar relationship.
+
+One example of an oligopsony in the world economy is [[Cocoa bean|cocoa]], where three firms ([[Cargill]], [[Archer Daniels Midland]], and [[Callebaut]]) buy the vast majority of world cocoa bean production, mostly from small farmers in third-world countries. Likewise, American [[tobacco]] growers face an oligopsony of [[cigarette]] makers, where three companies ([[Altria Group|Altria]], [[Brown &amp; Williamson]], and [[Lorillard Tobacco Company]]) buy almost 90% of all tobacco grown in the US.{{Fact|date=November 2008}}
+
+In each of these cases, the buyers have a major advantage over the sellers. They can play off one supplier against another, thus lowering their costs. They can also dictate exact specifications to suppliers, for delivery schedules, quality, and (in the case of agricultural products) crop varieties. They also pass off much of the risks of overproduction, natural losses, and variations in cyclical demand to the suppliers.
+
+==References==
+*Bhaskar, V., A. Manning and T. To (2002) 'Oligopsony and Monopsonistic Competition in Labor Markets,' ''Journal of Economic Perspectives,'' '''16,''' 155–174.
+*Bhaskar, V. and T. To (2003) 'Oligopsony and the Distribution of Wages,' ''European Economic Review,'' '''47,''' 371-399.
+
+{{microeconomics}}
+
+[[Category:Microeconomics]]
+[[Category:Market structure and pricing]]
+[[Category:Imperfect competition]]
+[[Category:Oligopoly]]
+
+[[ca:Oligopsoni]]
+[[es:Oligopsonio]]
+[[fr:Oligopsone]]
+[[ga:Olagapsonacht]]
+[[gl:Oligopsonio]]
+[[it:Oligopsonio]]
+[[he:אוליגופול#אוליגופסון ואוליגופול דו צדדי]]
+[[la:Oligopsonium]]
+[[lt:Oligopsonija]]
+[[nl:Oligopsonie]]
+[[no:Oligopsoni]]
+[[pt:Oligopsônio]]
+[[ru:Олигопсония]]
+[[fi:Oligopsoni]]
+[[sv:Oligopsoni]]
+[[uk:Олігопсонія]]
+[[zh:买方寡头垄断]]</text>
+      <sha1>3v0vglotocmlqksth1l4t7n3x7fi46n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

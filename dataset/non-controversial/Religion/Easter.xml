@@ -1,0 +1,563 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Easter</title>
+    <ns>0</ns>
+    <id>9325</id>
+    <revision>
+      <id>521974781</id>
+      <parentid>521974497</parentid>
+      <timestamp>2012-11-08T09:59:28Z</timestamp>
+      <contributor>
+        <username>Esoglou</username>
+        <id>11289927</id>
+      </contributor>
+      <comment>it is a Christian feast too, whether you like that fact or not</comment>
+      <text xml:space="preserve" bytes="94869">{{About|the Christian festival}}
+{{Use dmy dates|date=October 2012}}
+{{Infobox holiday
+|holiday_name  = Easter &lt;br/&gt; &lt;small&gt;Pasch, Pascha&lt;/small&gt;
+|type          = Christian, cultural
+|image         = Victory_over_the_Grave.jpg
+|caption       = Depiction of the [[resurrection]] of Jesus&lt;br /&gt;&lt;small&gt;by [[Bernhard Plockhorst]], 19th century&lt;/small&gt;
+|date{{LASTYEAR}}={{#ifeq:{{Computus|{{LASTYEAR}}}}|{{Pascha|{{LASTYEAR}}}}|{{Computus|{{LASTYEAR}}}} (both Western and Eastern)|{{Computus|{{LASTYEAR}}}} (Western)&lt;br /&gt;{{Pascha|{{LASTYEAR}}}} (Eastern)}}
+|date{{CURRENTYEAR}}={{#ifeq:{{Computus|{{CURRENTYEAR}}}}|{{Pascha|{{CURRENTYEAR}}}}|{{Computus|{{CURRENTYEAR}}}} (both Western and Eastern)|{{Computus|{{CURRENTYEAR}}}} (Western)&lt;br /&gt;{{Pascha|{{CURRENTYEAR}}}} (Eastern)}}
+|date{{NEXTYEAR}}={{#ifeq:{{Computus|{{NEXTYEAR}}}}|{{Pascha|{{NEXTYEAR}}}}|{{Computus|{{NEXTYEAR}}}} (both Western and Eastern)|{{Computus|{{NEXTYEAR}}}} (Western)&lt;br /&gt;{{Pascha|{{NEXTYEAR}}}} (Eastern)}}
+|observances   = [[Prayer]], [[Easter Vigil|all-night vigil]], [[sunrise service]]
+|celebrations  = [[Church service]]s, festive family meals, [[Easter egg]] hunts and gift-giving
+|significance  = Celebrates the resurrection of Jesus
+|relatedto     = [[Passover]], of which it is regarded the Christian equivalent; [[Septuagesima]], [[Sexagesima]], [[Quinquagesima]], [[Shrove Tuesday]], [[Ash Wednesday]], [[Clean Monday]], [[Lent]], [[Great Lent]], [[Palm Sunday]], [[Holy Week]], [[Maundy Thursday]], [[Good Friday]], and [[Holy Saturday]] which lead up to Easter; and [[Octave of Easter|Thomas Sunday]], [[Ascension of Jesus Christ|Ascension]], [[Pentecost]], [[Trinity Sunday]], and [[Corpus Christi (feast)|Corpus Christi]] which follow it.
+}}
+'''Easter''' ({{lang-ang|[[Ēostre]]}}) or the '''Pasch'''&lt;ref&gt;[http://books.google.com/books?id=HVaSuKNXSBAC&amp;pg=PA151&amp;lpg=PA151&amp;dq=%22the+Pasch+(Easter)%22&amp;source=bl&amp;ots=E_RqUirv84&amp;sig=LWox0GEZhkIGDGVfRBn6YdY10GE&amp;hl=en&amp;sa=X&amp;ei=f02GUOmyPIrNhAeLsoCYCA&amp;redir_esc=y#v=onepage&amp;q=%22the%20Pasch%20(Easter)%22&amp;f=false Lisa D. Maugans Driver, ''Christ at the Center'' (Westminster John Knox Press 2009 ISBN 978-0-66422897-2), p. 151]&lt;/ref&gt;&lt;ref&gt;[http://books.google.com/books?id=xC9GAdUGX5sC&amp;pg=PA351&amp;lpg=PA351&amp;dq=%22the+Pasch+(Easter)%22&amp;source=bl&amp;ots=BsdJ82ITuw&amp;sig=WckpQM6JYXHOa7u5puToThlM7qM&amp;hl=en&amp;sa=X&amp;ei=eFaGUP77NMiShgf1ioC4Ag&amp;redir_esc=y#v=onepage&amp;q=%22the%20Pasch%20(Easter)%22&amp;f=false Everett Ferguson, ''Baptism in the Early Church'' (Eerdmans 2009 ISBN 978-0-80282748-7), p. 351]&lt;/ref&gt; or (among Eastern Orthodox) '''Pascha''' ({{lang-la|Pascha}}; {{lang-el|Πάσχα}}, ''Paskha''; {{lang-arc|פַּסחא}} ''Pasḥa''; from {{lang-he|פֶּסַח}} ''[[Pesaḥ]]'')&lt;ref name=Etymology&gt;{{cite book|url = http://books.google.com/books?id=4StZDvPCcJEC&amp;pg=PA201&amp;dq=Pascha+Easter&amp;hl=en&amp;sa=X&amp;ei=ZwKAT4zVB4WI0QHv_KHSBw&amp;sqi=2&amp;ved=0CD8Q6AEwAg#v=onepage&amp;q=Pascha%20Easter&amp;f=false|title = Europe: A History|author=Norman Davies|publisher = [[HarperCollins]]|quote=In most European languages Easter is called by some variant of the late Latin word ''Pascha'', which in turn derives from the Hebrew ''pesach'', ''passover'.|date= 20 January 1998}}&lt;/ref&gt; is a [[Christian festival]] and holiday celebrating the [[resurrection of Jesus Christ]] on the [[Third day in the Bible|third day]] after his [[Crucifixion of Jesus|crucifixion at Calvary]] as described in the [[New Testament]].&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=gDbKexa1jfcC&amp;pg=PA224&amp;dq=easter+central+feast&amp;hl=en&amp;sa=X&amp;ei=ZwaAT7q9H8nf0QHw35T_Bw&amp;ved=0CE0Q6AEwBDgK#v=onepage&amp;q=easter%20central%20feast&amp;f=false|title = Anniversaries and Holidays|author=Bernard Trawicky, Ruth Wilhelme Gregory|publisher = [[American Library Association]]|quote=Easter is the central celebration of the Christian liturgical year. It is the oldest and most important Christian feast, celebrating the Resurrection of Jesus Christ. The date of Easter determines the dates of all movable feats except those of Advent.|year= 2000}}&lt;/ref&gt;&lt;ref&gt;{{cite book | last = Aveni | first = Anthony | title = &quot;The Easter/Passover Season: Connecting Time's Broken Circle&quot;, ''The Book of the Year: A Brief History of Our Seasonal Holidays'' | publisher = [[Oxford University Press]] | year = 2004 | pages = 64–78 | url = http://books.google.com/?id=4Mmmvol6DvkC&amp;printsec=frontcover#v=onepage&amp;q= | isbn = 0-19-517154-3 }}&lt;/ref&gt; Easter is the culmination of the [[Passion (Christianity)|Passion of Christ]], preceded by [[Lent]], a forty-day period of [[fasting]], prayer, and [[penance]]. The last week of Lent is called [[Holy Week]], and it contains the days of the [[Easter Triduum]], including [[Maundy Thursday]], commemorating [[Foot washing|Maundy]] and the [[Last Supper]],&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=dyWqm3hCMC0C&amp;pg=PA113&amp;dq=Triduum+Maundy&amp;hl=en&amp;sa=X&amp;ei=4Dl7T9fvGoLi0QGfwI2MBg&amp;ved=0CDsQ6AEwAQ#v=onepage&amp;q=Triduum%20Maundy&amp;f=false|title = The Companion to the Book of Common Worship|author=Peter C. Bower|publisher = [[Geneva Press]]|quote=Maundy Thursday (or ''le mandé''; Thursday of the ''Mandatum'', Latin, commandment). The name is taken from the first few words sung at the ceremony of the washing of the feet, &quot;I give you a new commandment&quot; (John 13:34); also from the commandment of Christ that we should imitate His loving humility in the washing of the feet (John 13:14–17). The term ''mandatum'' (maundy), therefore, was applied to the rite of foot-washing on this day.|accessdate =11 April 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=Tbb9axN6qFwC&amp;pg=PA33&amp;dq=The+Three+Days+Maundy&amp;hl=en&amp;sa=X&amp;ei=xzl7T4KRCMrq0gHgw5SqBg&amp;ved=0CEMQ6AEwAg#v=onepage&amp;q=The%20Three%20Days%20Maundy&amp;f=false|title = Three Day Feast: Maundy Thursday, Good Friday, and Easter|publisher=[[Augsburg Books]]|author= Gail Ramshaw|quote=In the liturgies of the Three Days, the service for Maundy Thursday includes both, telling the story of Jesus' last supper and enacting the footwashing.|year=2004|accessdate =11 April 2009}}&lt;/ref&gt; as well as [[Good Friday]], commemorating the [[crucifixion of Jesus|crucifixion and death of Jesus]].&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=uZFRAAAAYAAJ&amp;pg=PT125&amp;dq=maundy+thursday+spy+wednesday&amp;hl=en&amp;sa=X&amp;ei=xj17T6DaIOLm0QGf7s2vBg&amp;ved=0CFIQ6AEwBQ#v=onepage&amp;q=maundy%20thursday%20spy%20wednesday&amp;f=false|title = New century reference library of the world's most important knowledge: complete, thorough, practical, Volume 3 |publisher=Syndicate Pub. Co.|author= Leonard Stuart|quote=Holy Week, or Passion Week, the week which immediately precedes Easter, and is devoted especially to commemorate the passion of our Lord. The Days more especially solemnized during it are [[Spy Wednesday]], [[Maundy Thursday]], [[Good Friday]], and [[Holy Saturday]].|year=1909|accessdate =11 April 2009}}&lt;/ref&gt; Easter is followed by a fifty-day period called [[Eastertide]] or the Easter Season, ending with [[Pentecost Sunday]]. The festival is referred to in English by a variety of different names including '''Easter Day''', '''Easter Sunday''',&lt;ref&gt;'Easter Day' is the traditional name in English for the principal feast of Easter, used (for instance) by the ''[[Book of Common Prayer]]'', but in the 20th century 'Easter Sunday' became widely used, despite this term also referring to the following Sunday.&lt;/ref&gt; '''Resurrection Day''' and '''Resurrection Sunday'''.
+
+Easter is a [[moveable feast]], meaning it is not fixed in relation to the [[civil calendar]]. The [[First Council of Nicaea]] (325) established the date of Easter as the first Sunday after the [[full moon]] (the [[Paschal Full Moon]]) following the northern hemisphere's [[vernal equinox]].&lt;ref name=&quot;oikoumene.org&quot;&gt;[http://www.oikoumene.org/en/resources/documents/wcc-commissions/faith-and-order-commission/i-unity-the-church-and-its-mission/frequently-asked-questions-about-the-date-of-easter.html Frequently asked questions about the date of Easter]&lt;/ref&gt; Ecclesiastically, the equinox is reckoned to be on 21 March (even though the equinox occurs, astronomically speaking, on 20 March in most years), and the &quot;Full Moon&quot; is not necessarily the astronomically correct date. The date of Easter therefore varies between 22 March and 25 April. [[Eastern Christianity]] bases its calculations on the [[Julian calendar]] whose 21 March corresponds, during the 21st century, to 3 April in the [[Gregorian calendar]], in which the celebration of Easter therefore varies between 4 April and 8 May.
+
+Easter is linked to the Jewish [[Passover]] by much of its symbolism, as well as by its position in the calendar. In many languages, the words for &quot;Easter&quot; and &quot;Passover&quot; are etymologically related or [[homonym]]ous.&lt;ref&gt;{{cite book|first=Francis X.|last=Weiser|url=http://www.scribd.com/doc/3957343/Handbook-of-Christian-Feasts-and-Customs|title=Handbook of Christian Feasts and Customs|page=214|location=New York|publisher=Harcourt, Brace and Company|year=1958|isbn=0-15-138435-5}}&lt;/ref&gt; [[Easter customs]] vary across the [[Christendom|Christian world]], but attending [[sunrise service]]s, exclaiming the [[Paschal greeting]], [[clipping the church]] and decorating [[Easter eggs]], a symbol of the [[empty tomb]], are common motifs.&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=mzKVPZthGHUC&amp;pg=PA51&amp;dq=easter+egg+Christian&amp;hl=en&amp;sa=X&amp;ei=kZGAT6WsFeTv0gGryZ2aCA&amp;ved=0CFEQ6AEwAQ#v=onepage&amp;q=easter%20egg%20Christian&amp;f=false|title = Christianity|publisher=[[Nelson Thornes]]|author= Anne Jordan|quote=Easter eggs are used as a Christian symbol to represent the empty tomb. The outside of the egg looks dead but inside there is new life, which is going to break out. The Easter egg is a reminder that Jesus will rise from His tomb and bring new life. Orthodox Christians dye boiled eggs red to represent the blood of Christ shed for the sins of the world.|date=5 April 2000|accessdate =7 April 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=hPMVAAAAYAAJ&amp;pg=PA119&amp;dq=easter+egg+empty+tomb&amp;hl=en&amp;sa=X&amp;ei=IpWAT_e-EKnh0QHVmI3RBw&amp;ved=0CDsQ6AEwADgK#v=onepage&amp;q=easter%20egg%20empty%20tomb&amp;f=false|title = The Guardian, Volume 29|publisher=H. Harbaugh|quote=Just so, on that first Easter morning, Jesus came to life and walked out of the tomb, and left it, as it were, an empty shell. Just so, too, when the Christian dies, the body is left in the grave, an empty shell, but the soul takes wings and flies away to be with God. Thus you see that though an egg seems to be as dead as a sone, yet it really has life in it; and also it is like Christ's dead body, which was raised to life again. This is the reason we use eggs on Easter. (In olden times they used to color the eggs red, so as to show the kind of death by which Christ died,-a ''bloody'' death.)|year=1878|accessdate =7 April 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=Wn-38NunUnAC&amp;pg=PT120&amp;dq=easter+egg+Christian&amp;hl=en&amp;sa=X&amp;ei=vZKAT_q5OeHw0gH56bSMCA&amp;ved=0CH0Q6AEwCA#v=onepage&amp;q=easter%20egg%20Christian&amp;f=false|title = Christian belief and practice|publisher=[[Heinemann (publisher)|Heinemann]]|author= Gordon Geddes, Jane Griffiths|quote=Red eggs are given to Orthodox Christians after the Easter Liturgy. They crack their eggs against each other's. The cracking of the eggs symbolizes a wish to break away from the bonds of sin and misery and enter the new life issuing from Christ's resurrection.|date=22 January 2002|accessdate =7 April 2012}}&lt;/ref&gt; Additional customs include [[egg hunting]], the [[Easter Bunny]], and [[Easter parade]]s, which are observed by both Christians and some non-Christians.&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=GZsHDG1-4X0C&amp;pg=PT109&amp;dq=Many+congregations+today+continue+to+have+Easter+egg+hunts+for+the+children+after+the+services+on+Easter+Day.&amp;hl=en&amp;sa=X&amp;ei=1beAT5W0Gabh0QGyxsTlBw&amp;ved=0CD0Q6AEwAA#v=onepage&amp;q=Many%20congregations%20today%20continue%20to%20have%20Easter%20egg%20hunts%20for%20the%20children%20after%20the%20services%20on%20Easter%20Day.&amp;f=false|title = The Church Standard, Volume 74|publisher=Church Publishing, Inc.|quote=In parts of Europe, the eggs were dyed red and were then cracked together when people exchanged Easter greetings. Many congregations today continue to have Easter egg hunts for the children after the services on Easter Day.|author=Vicki K. Black|date=1 July 2004|accessdate =7 April 2012}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite book|url = http://books.google.com/books?id=c4FPAAAAYAAJ&amp;pg=PA844&amp;dq=When+the+custom+was+carrierd+over+into+Christian+practice+the+Easter+eggs+were+usually+sent+to+the+priests+to+be+blessed+and+sprinked+with+holy+water.&amp;hl=en&amp;sa=X&amp;ei=J7eAT56zAbO30AHu2qi9Dg&amp;ved=0CDQQ6AEwAA#v=onepage&amp;q=When%20the%20custom%20was%20carrierd%20over%20into%20Christian%20practice%20the%20Easter%20eggs%20were%20usually%20sent%20to%20the%20priests%20to%20be%20blessed%20and%20sprinked%20with%20holy%20water.&amp;f=false|title = The Church Standard, Volume 74|publisher=Walter N. Hering|quote=When the custom was carrierd over into Christian practice the Easter eggs were usually sent to the priests to be blessed and sprinked with holy water. In later times the coloring and decorating of eggs was introduced, and in a royal roll of the time of Edward I., which is preserved in the Tower of London, there is an entry of 18d. for 400 eggs, to be used for Easter gifts.|year=1897|accessdate =7 April 2012}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite book|url = http://books.google.com/books?id=if70Aqo36WYC&amp;pg=PR5&amp;dq=easter+egg+hunt+non-Christians&amp;hl=en&amp;sa=X&amp;ei=SNOAT7uGFcus0AGpmoHJCQ&amp;ved=0CFEQ6AEwAw#v=onepage&amp;q=easter%20egg%20hunt%20non-Christians&amp;f=false|title = From Preparation to Passion|quote=So what preparations do most Christians and non-Christians make? Shopping for new clothing often signifies the belief that Spring has arrived, and it is a time of renewal. Preparations for the Easter Egg Hunts and the Easter Ham for the Sunday dinner are high on the list too.|year=2010|accessdate =7 April 2012}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite book |url=http://books.google.com/books?id=_ho1VxKARgEC&amp;pg=RA1-PA99&amp;lpg=RA1-PA99&amp;dq=easter+egg+hunt+non-Christians&amp;source=bl&amp;ots=N2Vj6P0je9&amp;sig=csI8BhnSQrrtJfCdepLm_8yo9s0&amp;hl=en&amp;sa=X&amp;ei=t9uAT7bqB-atiQLjtqmUAw&amp;ved=0CGoQ6AEwCDgK#v=onepage&amp;q=easter%20egg%20hunt%20non-Christians&amp;f=false |title= An A-Z of Modern America |first=Alicia |last=Duchak |year=2002 |publisher=Rutledge}}
+&lt;/ref&gt;
+
+==Etymology==
+[[File:Pötting Kirchenfenster 7 Osterlamm.jpg|thumb|A stained glass window depicting the [[Lamb of God|Passover Lamb]], a concept integral to the foundation of Easter (Pascha).&lt;ref name=Passover&gt;{{cite book|url = http://books.google.com/books?id=CRvzTM0kev4C&amp;pg=PA96&amp;dq=In+many+countries+the+name+of+the+Christian+feast+we+call+Easter&amp;hl=en&amp;sa=X&amp;ei=7ruAT-WLE6jo0QH6tdSLCA&amp;ved=0CDYQ6AEwAA#v=onepage&amp;q=In%20many%20countries%20the%20name%20of%20the%20Christian%20feast%20we%20call%20Easter&amp;f=false|title = Welcome to the Church Year: An Introduction to the Seasons of the Episcopal Church|author=Vicki K. Black|publisher = Church Publishing, Inc.|quote=Easter is still called by its older Greek name, ''Pascha'', which means &quot;Passover&quot;, and it is this meaning as the Christian Passover-the celebration of Jesus' triumph over death and entrance into resurrected life-that is the heart of Easter in the church. For the early church, Jesus Christ was the fulfillment of the Jewish Passover feast: through Jesus, we have been freed from slavery of sin and granted to the Promised Land of everlasting life.|date= 1 July 2004}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=PB-zfFmR0I0C&amp;pg=PA21&amp;dq=%22Pascha%22+name&amp;hl=en&amp;sa=X&amp;ei=FqKAT_eTKMfA0AG7xMHXBw&amp;ved=0CDQQ6AEwAA#v=onepage&amp;q=%22Pascha%22%20name&amp;f=false|title = The Antenicene Pascha: A Rhetorical History|author=Karl Gerlach|publisher = Peeters Publishers|quote=Long before this controversy, Ex 12 as a story of origins and its ritual expression had been firmly fixed in the Christian imagination. Though before the final decades of the second century only accessbile as an exegetical tradition, already in the Paulin letters the Exodus saga is deeply involved with the celebration of bath and meal. Even here, this relationship does not suddenly appear, but represents developments in ritual narrative that mus have begun at the very inception of the Christian message. Jesus of Nazareth was crucifed during Pesach-Mazzot, an event that a new covenant people of Jews and Gentiles both saw as definitive and defining. Ex 12 is thus one of the few reliable guides for tracing the synergism among ritual, text, and kerygma before the Council of Nicaea.|page=21|year= 1998}}&lt;/ref&gt;]]
+
+===2nd century===
+The second century equivalent of Easter and the [[Paschal Triduum]] was called by both Greek and Latin writers &quot;Pascha (πάσχα)&quot;, a Greek transliteration of the [[Aramaic]] form of the Hebrew פֶּסַח, the [[Passover]] feast of Exodus 12.&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=PB-zfFmR0I0C&amp;pg=PA21&amp;dq=%22Pascha%22+name&amp;hl=en&amp;sa=X&amp;ei=FqKAT_eTKMfA0AG7xMHXBw&amp;ved=0CDQQ6AEwAA#v=onepage&amp;q=%22Pascha%22%20name&amp;f=false|title = The Antenicene Pascha: A Rhetorical History|author=Karl Gerlach|publisher = Peeters Publishers|quote=The second century equivalent of easter and the paschal Triduum was called by both Greek and Latin writers &quot;Pascha (πάσχα)&quot;, a Greek transliteration of the Aramaic form of the Hebrew פֶּסַח, the Passover feast of Ex. 12.|page=XVIII|year= 1998}}&lt;/ref&gt; [[Paul the Apostle|Paul]] writes from [[Ephesus]] that &quot;Christ our Pascha has been sacrificed for us,&quot; although the [[Early Christianity|Ephesian Christians]] were not the first to hear that Exodus 12 spoke about the [[death of Jesus]].&lt;ref&gt;{{cite book|url = http://books.google.com/books?id=PB-zfFmR0I0C&amp;pg=PA21&amp;dq=%22Pascha%22+name&amp;hl=en&amp;sa=X&amp;ei=FqKAT_eTKMfA0AG7xMHXBw&amp;ved=0CDQQ6AEwAA#v=onepage&amp;q=%22Pascha%22%20name&amp;f=false|title = The Antenicene Pascha: A Rhetorical History|author=Karl Gerlach|publisher = Peeters Publishers|quote=For while it is from Ephesus that Paul writes, &quot;Christ our Pascha has been sacrificed for us,&quot; Ephesian Christians were not likely the first to hear that Ex 12 did not speak about the rituals of Pesach, but the death of Jesus of Nazareth.|page=21|year= 1998}}&lt;/ref&gt; In most of the non-English speaking world, the feast today is known by the name ''Pascha'' and words derived from it.&lt;ref name=&quot;Etymology&quot;/&gt;&lt;ref name=&quot;Passover&quot;/&gt;
+
+===English and German===
+{{Main|Ēostre}}
+[[File:Ostara by Johannes Gehrts.jpg|thumb|left|135px|''Ostara'' (1884) by Johannes Gehrts]]
+The modern English term ''Easter'' developed from the [[Old English language|Old English]] word ''Ēastre'' or ''Ēostre'' ({{IPA-ang|ˈæːɑstre, ˈeːostre}}), which itself developed prior to 899, originally referring to the name of the Anglo-Saxon [[List of Germanic deities|goddess]] [[Ēostre]].&lt;ref name=EASTETYM&gt;[[Robert Barnhart|Barnhart, Robert K.]] ''The Barnhart Concise Dictionary of Etymology'' (1995) ISBN 0-06-270084-7.&lt;/ref&gt; Bede notes that the native Old English month ''Ēostur-monath'' (Old English &quot;Ēostre-month&quot;) was equivalent to the month of April, yet that feasts held in the goddess's honor during ''Ēostur-monath'' had gone out of use by the time of his writing and had been replaced with the Christian custom of the &quot;Paschal season&quot;. The feast was also historically referred to in English as &quot;Pash&quot; or &quot;Pace&quot;,&lt;ref&gt;[http://oed.com/view/Entry/138380 ''pasch'', n. (2)]. ''[[Oxford English Dictionary]]''. Retrieved 4 May 2012.&lt;/ref&gt;&lt;ref&gt;[http://oed.com/view/Entry/135780 ''pace'', n. (1)]. ''Oxford English Dictionary''. Retrieved 4 May 2012.&lt;/ref&gt; from the Latin ''pascha'' (see below).
+
+Using comparative linguistic evidence from continental Germanic sources, the 19th century scholar [[Jacob Grimm]] proposed the existence of a cognate form of Ēostre among the [[Germanic paganism|pre-Christian beliefs]] of the [[Continental Germanic mythology|continental Germanic peoples]], whose name he reconstructed as [[Ēostre|''*Ostara'']]. Since Grimm's time, linguists have identified the goddess as a Germanic form of the [[Linguistic reconstruction|reconstructed]] [[Proto-Indo-European language|Proto-Indo-European]] goddess of the dawn, *''[[Hausos]]''. Theories connecting Ēostre with records of Germanic [[Easter custom]]s (including hares and eggs) have been proposed.{{citation needed|date=August 2012}}
+
+Modern German features the cognate term ''Ostern'', but otherwise, Germanic languages generally use the non-native term ''pascha'' for the event.
+
+===Semitic, Romance, Celtic and other Germanic languages===
+{{Contains Ethiopic text|section}}
+The Greek word Πάσχα and hence the [[Latin language|Latin]] form ''Pascha'' is derived from Hebrew ''Pesach'' ({{lang|he|פֶּסַח}}) meaning the festival of [[Passover]]. In Greek the word Ἀνάστασις ''Anástasis'' (upstanding, up-rising, resurrection) is used also as an alternative.
+
+Christians speaking [[Arabic language|Arabic]] or other [[Semitic languages]] generally use names [[cognate]] to ''Pesaḥ''. For instance, the second word of the Arabic name of the festival {{lang|ar|عيد الفصح}} ''{{transl|ar|DIN|ʿĪd al-Fiṣḥ}}'', {{IPA-ar|ʕiːd ælfisˤħ|}} has the [[triliteral|root]] F-Ṣ-Ḥ, which given the [[sound law]]s applicable to Arabic is cognate to Hebrew P-S-Ḥ, with &quot;Ḥ&quot; realized as {{IPA|/x/}} in Modern Hebrew and {{IPA|/ħ/}} in Arabic. Arabic also uses the term {{lang|ar|عيد القيامة}} ''{{transl|ar|DIN|ʿĪd al-Qiyāmah}}'', {{IPA-ar|ʕiːd ælqiyæːmæh|}}, meaning &quot;festival of the resurrection&quot;, but this term is less common. In [[Maltese language|Maltese]] the word is ''L-Għid'', where &quot;Għ&quot; stands for the common Semitic consonant [[Ayin]], and is directly derived from Arabic ''ʿĪd'', which in both cases means &quot;festival&quot;. In [[Ge'ez language|Ge'ez]] and the modern [[Ethiopian Semitic languages|Ethiosemitic languages]] of [[Ethiopia]] and [[Eritrea]], two forms exist: ፋሲካ (&quot;Fasika&quot;, ''fāsīkā'') from Greek ''Pascha'', and ትንሣኤ (&quot;Tensae&quot;, ''tinśā'ē''), the latter from the Semitic root N-Ś-', meaning &quot;to rise&quot; (cf. Arabic ''nasha'a''—ś merged with &quot;sh&quot; in Arabic and most non-[[South Semitic languages]]).
+
+[[File:GrunewaldR.jpg|thumb|upright|''[[Isenheim Altarpiece|Isenheim Altarpiece: The Resurrection]]'' by [[Matthias Grünewald]], completed 1515]]
+In all [[Romance languages]], the name of the Easter festival is derived from the Latin ''Pascha''. In Spanish, Easter is ''Pascua'', in Italian and Catalan ''Pasqua'', in Portuguese ''Páscoa'' and in Romanian ''Paşti''. In French, the name of Easter ''Pâques'' also derives from the Latin word but the ''s'' following the ''a'' has been lost and the two letters have been transformed into a ''â'' with a [[Use of the circumflex in French|circumflex]] accent by [[elision]]. Additionally in Romanian, the only Romance language of an [[Romanian Orthodox Church|Eastern church]], the word ''Înviere'' (resurrection, cf. Greek Ἀνάστασις, {{IPA-el|anástasis|}}) is also used.
+
+In all modern [[Celtic languages]] the term for Easter is derived from Latin. In [[Brythonic languages]] this has yielded Welsh ''Pasg'', [[Cornish language|Cornish]] and [[Breton language|Breton]] ''Pask''. In [[Goidelic languages]] the word was borrowed before these languages had re-developed the /p/ sound and as a result the initial /p/ was replaced with /k/. This yielded Irish ''Cáisc'', [[Scottish Gaelic|Gaelic]] ''Càisg'' and [[Manx language|Manx]] ''Caisht''. These terms are normally used with the [[definite article]] in Goidelic languages, causing [[lenition]] in all cases: ''An Cháisc'', ''A' Chàisg'' and ''Y Chaisht''.
+
+In [[Dutch language|Dutch]], Easter is known as ''[[:wiktionary:Pasen|Pasen]]'' and in the [[Scandinavian languages]] Easter is known as ''påske'' (Danish and Norwegian), ''påsk'' (Swedish), ''páskar'' (Icelandic) and ''páskir'' (Faeroese). The name is derived directly from Hebrew Pesach.&lt;ref&gt;{{cite book |url=http://books.google.com/?id=kZIOAAAAQAAJ&amp;pg=PA126&amp;lpg=PA126&amp;dq=dutch+word+for+easter+derived+from+hebrew+pesach |title=A Dictionary of True Etymologies |publisher=Routledge &amp; Kegan Paul Books |accessdate=5 April 2009 |isbn=978-0-415-03060-1 |author1=Room, Adrian |year=1988}}&lt;/ref&gt; The letter [[å]] is pronounced {{IPA|/oː/}}, derived from an older aa, and an alternate spelling is ''paaske'' or ''paask''.
+
+===Slavic languages===
+In most Slavic languages, the name for Easter either means &quot;Great Day&quot; or &quot;Great Night&quot;. For example, ''Wielkanoc'', ''Veľká noc'', ''Velika noč'' and ''Velikonoce'' mean &quot;Great Night&quot; or &quot;Great Nights&quot; in [[Polish language|Polish]], [[Slovak language|Slovak]], [[Slovenian language|Slovenian]] and [[Czech language|Czech]], respectively. Велигден (''Veligden''), Великдень (''Velykden''), Великден (''Velikden''), and Вялікдзень (''Vyalikdzyen''') mean &quot;The Great Day&quot; in [[Macedonian language|Macedonian]], [[Ukrainian language|Ukrainian]], [[Bulgarian language|Bulgarian]], and [[Belarusian language|Belarusian]], respectively.
+
+In [[Croatian language|Croatian]], however, the day's name reflects a particular theological connection: it is called ''Uskrs'', meaning &quot;Resurrection&quot;. It is also called ''Vazam'' (''Vzem'' or ''Vuzem'' in Old Croatian), which is a noun that originated from the [[Old Church Slavonic]] verb ''vzeti'' (now ''uzeti'' in Croatian, meaning &quot;to take&quot;). In [[Serbian language|Serbian]] Easter is called ''Vaskrs'', a liturgical form inherited from the Serbian recension of [[Church Slavonic]], corresponding to Croatian ''Uskrs''. The archaic term ''Velja noć'' (''velmi'': Old Slavic for &quot;great&quot;; ''noć'': &quot;night&quot;) was used in Croatian while the term ''Velikden'' (&quot;Great Day&quot;) was used in Serbian. It should be noted that in these languages the prefix ''Velik'' (Great) is used in the names of the [[Holy Week]] and the three feast days preceding Easter.
+
+Another exception is Russian, in which the name of the feast, Пасха (''Paskha''), is a borrowing of the Greek form via [[Old Church Slavonic]].&lt;ref&gt;[[Max Vasmer]], Russisches Etymologisches Wörterbuch. Heidelberg, 1950–1958.&lt;/ref&gt;
+
+===Finno-Ugric languages===
+In Finnish the name for Easter ''pääsiäinen'', traces back to the verb ''pääse-'' meaning ''to be released'', as does the [[Sami languages|Sámi]] word ''Beassážat''{{citation needed|date=September 2011}}. The [[Estonian language|Estonian]] name ''lihavõtted'' and the Hungarian ''húsvét'', however, literally mean ''the taking of the meat'', relating to the end of the Great Lent fasting period.
+
+==Theological significance==
+[[File:Resurrection (24).jpg|thumb|upright|[[Orthodox Church|Orthodox]] [[icon]] of the [[Resurrection of Jesus]].]]
+
+The [[New Testament]] teaches that the resurrection of Jesus, which Easter celebrates, is a foundation of the Christian faith.&lt;ref&gt;{{bibleverse|1|Corinthians|15:12–20}}&lt;/ref&gt; The resurrection established Jesus as the powerful Son of God&lt;ref&gt;{{bibleverse||Romans|1:4}}&lt;/ref&gt; and is cited as proof that God will judge the world in righteousness.&lt;ref&gt;{{bibleverse||Acts|17:31}}&lt;/ref&gt; God has given Christians &quot;a new birth into a living hope through the resurrection of Jesus Christ from the dead&quot;.&lt;ref&gt;{{bibleverse|1|Peter|1:3|HCSB}}&lt;/ref&gt; Christians, through faith in the working of God&lt;ref&gt;{{bibleverse||Colossians|2:12}}&lt;/ref&gt; are spiritually resurrected with Jesus so that they may walk in a new way of life.&lt;ref&gt;{{bibleverse||Romans|6:4}}&lt;/ref&gt;
+
+Easter is linked to the [[Passover]] and [[Exodus from Egypt]] recorded in the [[Old Testament]] through the [[Last Supper]] and [[Passion (Christianity)|crucifixion]] that preceded the resurrection. According to the New Testament, Jesus gave the Passover meal a new meaning, as he prepared himself and his disciples for his death in the [[Cenacle|upper room]] during the Last Supper. He identified the loaf of bread and cup of wine as [[Body of Christ|his body]] soon to be sacrificed and [[Blood of Christ|his blood]] soon to be shed. [[Paul the Apostle|Paul]] states, &quot;Get rid of the old yeast that you may be a new batch without yeast—as you really are. For Christ, our Passover lamb, has been sacrificed&quot;;&lt;ref&gt;{{bibleverse|1|Corinthians|5:7|NIV}}&lt;/ref&gt; this refers to the Passover requirement to have no yeast in the house and to the allegory of Jesus as the [[Lamb of God|Paschal lamb]].
+
+One interpretation of the [[Gospel of John]] is that Jesus, as the Passover lamb, was crucified at roughly the same time as the Passover lambs were being slain in the temple, on the afternoon of [[Quartodecimanism|Nisan 14]].&lt;ref&gt;{{bibleverse||Exodus|12:6}}&lt;/ref&gt; The scriptural instructions specify that the lamb is to be slain &quot;between the two evenings&quot;, that is, at twilight. By the Roman period, however, the sacrifices were performed in the mid-afternoon. Josephus, ''Jewish War'' 6.10.1/423 (&quot;They sacrifice from the ninth to the eleventh hour&quot;). Philo, ''Special Laws'' 2.27/145 (&quot;Many myriads of victims from noon till eventide are offered by the whole people&quot;). This interpretation, however, is inconsistent with the [[chronology of Jesus|chronology]] in the [[Synoptic Gospels]]. It assumes that text literally translated &quot;the preparation of the passover&quot; in {{bibleverse||John|19:14|YLT}} refers to Nisan 14 (Preparation Day for the Passover) and not necessarily to [[Yom Shishi]] (Friday, Preparation Day for [[Biblical Sabbath|Sabbath]])&lt;ref&gt;{{bibleverse||John|13:2}}&lt;/ref&gt;&lt;ref&gt;{{bibleverse||John|18:28}}&lt;/ref&gt;&lt;ref&gt;{{bibleverse||John|19:14}}&lt;/ref&gt;&lt;ref&gt;{{cite book|editor=Barker, Kenneth|title=Zondervan NIV Study Bible|publisher=[[Zondervan]]|location=Grand Rapids|year=2002|isbn=0-310-92955-5}}&lt;/ref&gt; and that the priests' desire to be ritually pure in order to &quot;eat the passover&quot;&lt;ref&gt;{{bibleverse||John|18:28|YLT}}&lt;/ref&gt; refers to eating the Passover lamb, not to the public offerings made during the days of Unleavened Bread.&lt;ref&gt;{{bibleverse||Leviticus|23:8|KJV}}&lt;/ref&gt;
+
+==In the early Church==
+[[File:Israel 5 010.jpg Via Dolorosa- Walk in Jerusalem, with Jesus Christ-Actor and Press.jpg|thumb|upright|Reenacting the [[Stations of the Cross]] in [[Jerusalem in Christianity|Jerusalem]] on the [[Via Dolorosa]] from the [[Lions' Gate]] to the [[Church of the Holy Sepulchre]].]]
+The first Christians, [[Jewish Christians|Jewish]] and [[Gentile]], were certainly aware of the [[Hebrew calendar]] ({{bibleverse||Acts|2:1}}; {{bibleverse-nb||Acts|12:3}}; {{bibleverse-nb||Acts|20:6}}; {{bibleverse-nb||Acts|27:9}}; {{bibleverse|1|Cor|16:8}}), but there is no direct evidence that they celebrated any specifically Christian annual festivals. Direct evidence for the Easter festival begins to appear in the mid-2nd century.  Perhaps the earliest extant primary source referencing Easter is a mid-2nd century Paschal [[homily]] attributed to [[Melito of Sardis]], which characterizes the celebration as a well-established one.&lt;ref name = &quot;Melito&quot;&gt;
+{{cite journal
+ | first = Melito
+ | authorlink = [[Melito of Sardis]]
+ | title = Homily on the Pascha
+ | journal = [[Kerux]]
+ | publisher = [[Northwest Theological Seminary]]
+ | url = http://www.kerux.com/documents/KeruxV4N1A1.asp
+ | accessdate =28 March 2007}}&lt;/ref&gt; Evidence for another kind of annual Christian festival, the commemoration of martyrs, begins to appear at about the same time as evidence for the celebration of Easter.&lt;ref&gt;Cheslyn Jones, Geoffrey Wainwright, Edward Yarnold, and Paul Bradshaw, Eds., ''The Study of Liturgy, Revised Edition'', Oxford University Press, New York, 1992, p. 474.&lt;/ref&gt; But while martyrs' days (usually the individual dates of martyrdom) were celebrated on fixed dates in the local solar calendar, the date of Easter was fixed by means of the local Jewish [[lunisolar]] calendar. This is consistent with the celebration of Easter having entered Christianity during its earliest, [[Jewish Christianity|Jewish period]], but does not leave the question free of doubt.&lt;ref&gt;Cheslyn Jones, Geoffrey Wainwright, Edward Yarnold, and Paul Bradshaw, Eds., ''The Study of Liturgy, Revised Edition'', Oxford University Press, New York, 1992, p. 459:&quot;[Easter] is the only feast of the Christian Year that can plausibly claim to go back to apostolic times...[It] must derive from a time when Jewish influence was effective....because it depends on the lunar calendar (every other feast depends on the solar calendar).&quot;&lt;/ref&gt;
+
+The ecclesiastical historian [[Socrates Scholasticus]] (b. 380) attributes the observance of Easter by the church to the perpetuation of its custom, &quot;just as many other customs have been established,&quot; stating that neither Jesus nor his [[Apostles]] enjoined the keeping of this or any other festival. Although he describes the details of the Easter celebration as deriving from local custom, he insists the feast itself is universally observed.&lt;ref&gt;Socrates, ''Church History'', 5.22, in {{cite web
+ | last = Schaff
+ | first = Philip
+ | title = The Author’s Views respecting the Celebration of Easter, Baptism, Fasting, Marriage, the Eucharist, and Other Ecclesiastical Rites.
+ | work = Socrates and Sozomenus Ecclesiastical Histories
+ | publisher = Calvin College Christian Classics Ethereal Library
+ |date=13 July 2005
+ | url = http://www.ccel.org/ccel/schaff/npnf202.ii.viii.xxiii.html
+ | accessdate =28 March 2007}}&lt;/ref&gt;
+
+===Second-century controversy===
+{{details|Quartodecimanism}}
+{{See also|Easter controversy|Passover (Christian holiday)}}
+By the later 2nd century, it was accepted that the celebration of Pascha (Easter) was a practice of the [[Disciple (Christianity)|disciples]] and an undisputed tradition. The [[Quartodecimanism|Quartodeciman]] controversy, the first of several [[Easter controversy|Paschal/Easter controversies]], then arose concerning the date on which Pascha should be celebrated.
+
+The term &quot;Quartodeciman&quot; refers to the practice of celebrating Pascha or Easter on [[Nisan]] 14 of the [[Hebrew calendar]], &quot;the {{LORD}}'s passover&quot; ({{bibleverse||Leviticus|23:5}}). According to the church historian [[Eusebius of Caesarea|Eusebius]], the Quartodeciman [[Polycarp]] (bishop of Smyrna, by tradition a disciple of [[John the Evangelist]]) debated the question with [[Pope Anicetus|Anicetus]] (bishop of Rome). The [[Asia (Roman province)|Roman province of Asia]] was Quartodeciman, while the Roman and Alexandrian churches continued the fast until the Sunday following, wishing to associate Easter with Sunday. Neither Polycarp nor Anicetus persuaded the other, but they did not consider the matter [[schism (religion)|schismatic]] either, parting in peace and leaving the question unsettled.
+
+Controversy arose when [[Pope Victor I|Victor]], bishop of Rome a generation after Anicetus, attempted to excommunicate [[Polycrates of Ephesus]] and all other bishops of Asia for their Quartodecimanism. According to Eusebius, a number of synods were convened to deal with the controversy, which he regarded as all ruling in support of Easter on Sunday.&lt;ref&gt;Eusebius, Church History 5.23.&lt;/ref&gt; Polycrates (c. 190), however wrote to Victor defending the antiquity of Asian Quartodecimanism. Victor's attempted excommunication was apparently rescinded and the two sides reconciled upon the intervention of bishop [[Irenaeus]] and others, who reminded Victor of the tolerant precedent of Anicetus.
+
+Quartodecimanism seems to have lingered into the 4th century, when [[Socrates of Constantinople]] recorded that some Quartodecimans were deprived of their churches by [[John Chrysostom]]&lt;ref&gt;Socrates, ''Church History'', 6.11, at {{cite web
+ | last = Schaff
+ | first = Philip
+ | title = Of Severian and Antiochus: their Disagreement from John.
+ | work = Socrates and Sozomenus Ecclesiastical Histories
+ | publisher = Calvin College Christian Classics Ethereal Library
+ |date=13 July 2005
+ | url = http://www.ccel.org/ccel/schaff/npnf202.ii.ix.xii.html
+ | accessdate =28 March 2009}}&lt;/ref&gt; and that some were harassed by [[Nestorius]].&lt;ref&gt;Socrates, ''Church History'' 7.29, at {{cite web
+ | last = Schaff
+ | first = Philip
+ | title = Nestorius of Antioch promoted to the See of Constantinople. His Persecution of the Heretics.
+ | work = Socrates and Sozomenus Ecclesiastical Histories
+ | publisher = Calvin College Christian Classics Ethereal Library
+ |date=13 July 2005
+ | url = http://www.ccel.org/ccel/schaff/npnf202.ii.x.xxix.html
+ | accessdate =28 March 2009}}&lt;/ref&gt;
+
+===Third/fourth-century controversy and Council===
+It is not known how long the Nisan 14 practice continued. But both those who followed the Nisan 14 custom, and those who set Easter to the following Sunday (the Sunday of Unleavened Bread) had in common the custom of consulting their Jewish neighbors to learn when the month of Nisan would fall, and setting their festival accordingly. By the later 3rd century, however, some Christians began to express dissatisfaction with the custom of relying on the Jewish community to determine the date of Easter. The chief complaint was that the Jewish communities sometimes erred in setting Passover to fall before the [[northern hemisphere]] spring equinox. [[Anatolius of Laodicea]] in the later 3rd century wrote:
+
+&lt;blockquote&gt;
+Those who place [the first lunar month of the year] in [the twelfth zodiacal sign before the spring equinox] and fix the Paschal fourteenth day accordingly, make a great and indeed an extraordinary mistake&lt;ref&gt;Eusebius, ''Church Histor''y, 7.32.&lt;/ref&gt;
+&lt;/blockquote&gt;
+Peter, [[bishop of Alexandria]] (died 312), had a similar complaint
+
+&lt;blockquote&gt;
+On the fourteenth day of [the month], being accurately observed after the equinox, the ancients celebrated the Passover, according to the divine command. Whereas the men of the present day now celebrate it before the equinox, and that altogether through negligence and error.&lt;ref&gt;Peter of Alexandria, quoted in the [[Chronicon Paschale]]. In Alexander Roberts and James Donaldson, eds., ''Ante-Nicene Christian Library, Volume 14: The Writings of Methodius, Alexander of Lycopolis, Peter of Alexandria, And Several Fragments'', Edinburgh, 1869, p. 326, at {{cite web
+ | last = Donaldson
+ | first = Alexander
+ | title = That Up to the Time of the Destruction of Jerusalem, the Jews Rightly Appointed the Fourteenth Day of the First Lunar Month.
+ | work = Gregory Thaumaturgus, Dionysius the Great, Julius Africanus, Anatolius and Minor Writers, Methodius, Arnobius
+ | publisher = Calvin College Christian Classics Ethereal Library
+ | date=1 June 2005
+ | url = http://www.ccel.org/ccel/schaff/anf06.ix.vi.v.html
+ | accessdate =28 March 2009}}
+&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+The [[Sardica paschal table]]&lt;ref&gt;MS Verona, Biblioteca Capitolare LX(58) folios 79v–80v.&lt;/ref&gt; confirms these complaints, for it indicates that the Jews of some eastern Mediterranean city (possibly [[Antioch]]) fixed Nisan 14 on 11 March (Julian) in AD 328, on 5 March in AD 334, on 2 March in AD 337, and on 10 March in AD 339, all well before the spring equinox.&lt;ref&gt;Sacha Stern, ''Calendar and Community: A History of the Jewish Calendar Second Century BCE – Tenth Century CE,'' Oxford, 2001, pp. 124–132.&lt;/ref&gt;
+
+Because of this dissatisfaction with reliance on the Jewish calendar, some Christians began to experiment with independent computations.&lt;ref&gt;Eusebius reports that Dionysius, Bishop of Alexandria, proposed an 8-year Easter cycle, and quotes a letter from Anatolius, Bishop of Laodicea, that refers to a 19-year cycle. Eusebius, ''Church History'', 7.20, 7.31. An 8-year cycle has been found inscribed on a statue unearthed in Rome in the 17th century, dated to the third century. Allen Brent, ''Hippolytus and the Roman Church in the Third Century'', Leiden, E.J. Brill, 1995.&lt;/ref&gt; Others, however, felt that the customary practice of consulting Jews should continue, even if the Jewish computations were in error. A version of the [[Apostolic Constitutions]] used by the sect of the [[Audiani]] advised:
+
+&lt;blockquote&gt;
+Do not do your own computations, but instead observe Passover when your brethren from the [[Circumcision controversy in early Christianity|circumcision]] do. If they err [in the computation], it is no matter to you....&lt;ref&gt;Epiphanius, ''Adversus Haereses'' Heresy 70, 10,1, in Frank Williams, ''The Panarion of Epiphanius of Salamis Books II and II'', Leiden, E.J. Brill, 1994, p. 412. Also quoted in Margaret Dunlop Gibson, ''The Didascalia Apostolorum in Syriac'', London, 1903, p. vii.&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Two other objections that some Christians may have had to maintaining the custom of consulting the Jewish community in order to determine Easter are implied in Constantine's letter from the Council of Nicea to the absent bishops:
+
+&lt;blockquote&gt;
+It appeared an unworthy thing that in the celebration of this most holy feast we should follow the practice of the Jews...For we have it in our power, if we abandon their custom, to prolong the due observance of this ordinance to future ages by a truer order...For their boast is absurd indeed, that it is not in our power without instruction from them to observe these things....Being altogether ignorant of the true adjustment of this question, they sometimes celebrate Passover twice in the same year.&lt;ref&gt;Eusebius, Life of Constantine, 3.18, in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, Volume 14: The Seven Ecumenical Councils'', Eerdmans, 1956, p. 54.&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+The reference to Passover twice in the same year might refer to the geographical diversity that existed at that time in the Jewish calendar, due in large measure to the breakdown of communications in the Empire. Jews in one city might determine Passover differently from Jews in another city.&lt;ref&gt;Sacha Stern, ''Calendar and Community: A History of the Jewish Calendar Second Century BCE – Tenth Century CE'', Oxford, 2001, pp. 72–79.&lt;/ref&gt; The reference to the Jewish &quot;boast&quot;, and, indeed, the strident anti-Jewish tone of the whole passage, suggests another issue: some Christians thought that it was undignified for Christians to depend on Jews to set the date of a Christian festival.
+
+This controversy between those who advocated independent computations, and those who wished to continue the custom of relying on the Jewish calendar, was formally resolved by the [[First Council of Nicaea]] in 325 (''see below''), which endorsed the move to independent computations, effectively requiring the abandonment of the old custom of consulting the Jewish community in those places where it was still used. That the older custom (called &quot;protopaschite&quot; by historians) did not at once die out, but persisted for a time, is indicated by the existence of canons&lt;ref&gt;Apostolic Canon 7: If any bishop, presbyter, or deacon shall celebrate the holy day of Easter before the vernal equinox with the Jews, let him be deposed''. A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, Volume 14: The Seven Ecumenical Councils'', Eerdmans, 1956, p. 594.&lt;/ref&gt; and sermons&lt;ref&gt;St. John Chrysostom, &quot;Against those who keep the first Passover&quot;, in ''Saint John Chrysostom: Discourses against Judaizing Christians'', translated by Paul W. Harkins, Washington, D.C., 1979, p. 47ff.&lt;/ref&gt; against it.
+
+Some historians have argued that mid-4th century Roman authorities, in an attempt to enforce the Nicene decision on Easter, attempted to interfere with the Jewish calendar. This theory was developed by S. Liebermann,&lt;ref&gt;S. Liebermann, &quot;Palestine in the 3rd and 4rh Centuries&quot;, ''Jewish Quarterly Review'' (New Series), 36, p. 334 (1946).&lt;/ref&gt; and is repeated by [[S. Safrai]] in the Ben-Sasson ''History of the Jewish People''.&lt;ref&gt;S. Safrai, &quot;From the Roman Anarchy Until the Abolition of the Patriarchate&quot;, in H. H. Ben-Sasson, ed., ''A History of the Jewish People'', [[Harvard University Press]], Cambridge, 1969 (English trans. 1976), p. 350.&lt;/ref&gt; This view receives no support, however, in surviving mid-4th century Roman legislation on Jewish matters.&lt;ref&gt;Amnon Linder, ''The Jews in Roman Imperial Legislation'', [[Wayne State University Press]], Detroit, 1987. Linder presents only one piece of legislation from the time of Constantine II and one from the time of Constantius II dealing with Jewish matters. Neither has anything to do with the Jewish calendar.&lt;/ref&gt; The Historian [[Procopius]], in his ''[[Secret History]]'',&lt;ref&gt;Procopius, ''Secret History'' 28.16–19.&lt;/ref&gt; claims that the emperor [[Justinian]] attempted to interfere with the Jewish calendar in the 6th century, and a modern writer has suggested&lt;ref&gt;Sacha Stern, Calendar and Community: A History of the Jewish Calendar Second Century BCE-Tenth Century CE, Oxford University Press, Oxford, 2001, pp. 85–87.&lt;/ref&gt; that this measure may have been directed against the protopaschites. However, none of Justinian's surviving edicts dealing with Jewish matters is explicitly directed against the Jewish calendar,&lt;ref&gt;Justinian's Novel 146 of A.D. 553 does, however, forbid public reading of the ''deuterosis'', (probably the Mishnah) or expounding of its doctrines. Amnon Linder, ''The Jews in Roman Imperial Legislation,'' pp. 402–411.&lt;/ref&gt; making the interpretation of Procopius's statement a complex matter.
+
+==Date==
+{{Dates for Easter|format=dmy}}
+Easter and the holidays that are related to it are ''[[moveable feast]]s'', in that they do not fall on a fixed date in the [[Gregorian calendar|Gregorian]] or [[Julian Calendar|Julian]] calendars (both of which follow the cycle of the sun and the seasons). Instead, the date for Easter is determined on a [[lunisolar calendar]] similar to the [[Hebrew calendar]]. The [[First Council of Nicaea]] (325) established the date of Easter as the first Sunday after the full moon (the [[Paschal Full Moon]]) following the northern hemisphere's [[vernal equinox]].&lt;ref name=&quot;oikoumene.org&quot;/&gt; Ecclesiastically, the equinox is reckoned to be on 21 March (even though the equinox occurs, astronomically speaking, on 20 March in most years), and the &quot;Full Moon&quot; is not necessarily the astronomically correct date.
+
+In [[Western Christianity]], using the Gregorian calendar, Easter always falls on a Sunday between 22 March and 25 April, inclusively.&lt;ref&gt;[http://aa.usno.navy.mil/faq/docs/easter.php The Date of Easter]. Article from [[United States Naval Observatory]] (27 March 2007).&lt;/ref&gt; The following day, [[Easter Monday]], is a [[legal holiday]] in many countries with predominantly Christian traditions.
+
+[[Eastern Christianity]] bases its calculations on the [[Julian Calendar]]. Due to the 13-day difference between the calendars between 1900 and 2099, 21 March corresponds, during the 21st century, to 3 April in the [[Gregorian Calendar]]. Easter therefore varies between 4 April and 8 May on the Gregorian calendar (the Julian calendar is no longer used as the civil calendar of the countries where Eastern Christian traditions predominate). Among the [[Oriental Orthodoxy|Oriental Orthodox]] some churches have changed from the Julian to the Gregorian calendar and the date for Easter as for other fixed and moveable feasts is the same as in the Western church.&lt;ref&gt;&quot;The Church in Malankara switched entirely to the Gregorian calendar in 1953, following Encyclical No. 620 from Patriarch Mor Ignatius Aphrem I, dt. December 1952.&quot; [http://sor.cua.edu/Calendar/index.html Calendars of the Syriac Orthodox Church]. Retrieved 22 April 2009&lt;/ref&gt;
+
+The precise date of Easter has at times been a matter for contention. At the [[First Council of Nicaea#Separation of Easter computation from Jewish calendar|First Council of Nicaea]] in 325 it was decided that all Christian churches would celebrate Easter on the same day, which would be computed independently of any Jewish calculations to determine the date of [[Passover]]. It is however probable (though no contemporary account of the Council's decisions has survived) that no method of determining the date was specified by the Council.  [[Epiphanius of Salamis]] wrote in the mid-4th century:
+
+&lt;blockquote&gt;...the emperor...convened a council of 318 bishops...in the city of Nicea...They passed certain ecclesiastical canons at the council besides, and at the same time decreed in regard to the Passover that there must be one unanimous concord on the celebration of God's holy and supremely excellent day. For it was variously observed by people....&lt;ref name = Epiphianus&gt;Epiphanius, ''Adversus Haereses'', Heresy 69, 11,1, in {{cite book | last = Willams | first = F. | title = The Panarion of Epiphianus of Salamis Books II and III | publisher = E.J. Brill |year=1994 | location = Leiden | page = 331}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+In the years following the council, the computational system that was worked out by the church of Alexandria came to be normative. It took a while for the Alexandrian rules to be adopted throughout Christian Europe, however. The Church of Rome continued to use an 84-year [[lunisolar calendar]] cycle from the late 3rd century until 457.   It then switched to an adaptation by Victorius of Aquitaine of the Alexandrian rules.  Because this Victorian cycle differed from the Alexandrian cycle in the dates of some of the Paschal Full Moons, and because it tried to respect the Roman custom of fixing Easter to the Sunday in the week of the 16th to the 22nd of the lunar month (rather than the 15th to the 21st as at Alexandria), by providing alternative &quot;Latin&quot; and &quot;Greek&quot; dates in some years, occasional disagreements from the date of Easter as fixed by Alexandrian rules continued.&lt;ref&gt;{{cite book|last=Mosshammer|first=Alden A.|title=The Easter Computus and the Origins of the Christian Era|year=2008|publisher=Oxford University Press|location=Oxford|isbn=978-0-19-954312-0|pages=239–244}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Holford-Strevens, Leofranc|first=and Blackburn, Bonnie|title=The Oxford Companion to the Year|year=1999|publisher=Oxford University Press|location=Oxford|isbn=0-19-214231-3|pages=808–809}}&lt;/ref&gt;  The Alexandrian rules were adopted in their entirety in the 6th century.   From this time, therefore, all disputes between Alexandria and Rome as to the correct date for Easter cease, as both churches were using identical tables.
+
+Early Christians in Britain and Ireland also used an 84-year cycle.  From the 5th century onward this cycle set its equinox to 25 March and fixed Easter to the Sunday falling in the 14th to the 20th of the lunar month inclusive.&lt;ref&gt;{{cite book|last=Mosshammer|first=Alden A.|title=The Easter Computus and the Origins of the Christian Era|year=2008|publisher=Oxford University Press|location=Oxford|isbn=978-0-19-954312-0|pages=223–224}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Holford-Strevens, Leofranc|first=and Blackburn, Bonnie|title=The Oxford Companion to the Year|year=1999|publisher=Oxford University Press|location=Oxford|isbn=0-19-214231-3|pages=870–875}}&lt;/ref&gt; This 84-year cycle was replaced by the Alexandrian method in the course of the 7th and 8th centuries. Churches in western continental Europe used a late Roman method until the late 8th century during the reign of [[Charlemagne]], when they finally adopted the Alexandrian method. Since 1582, when the Catholic Church adopted the [[Gregorian calendar]] while the Eastern Orthodox and most Oriental Orthodox Churches retained the [[Julian calendar]], the date on which Easter is celebrated has again differed.
+
+===Computations===
+{{Main|Computus}}
+In 725, [[Bede]] succinctly wrote, &quot;The Sunday following the full Moon which falls on or after the [[equinox]] will give the lawful Easter.&quot;&lt;ref&gt;''[http://books.google.com/books?id=yFsw-Vaup6sC&amp;pg=PA148 Bede: The reckoning of time]'', translated by Faith Wallis (Liverpool: Liverpool University Press, 1999) chapter 62, p. 148.&lt;/ref&gt; However, this does not reflect the actual ecclesiastical rules precisely. One reason for this is that the full moon involved (called the [[Paschal full moon]]) is not an astronomical full moon, but the [[ecclesiastical full moon|14th day]] of a calendar lunar month. Another difference is that the [[Equinox|astronomical vernal equinox]] is a natural astronomical phenomenon, which can fall on 19, 20 March, or 21, while the ecclesiastical date is fixed by convention on 21 March.&lt;ref&gt;Paragraph 7 of [[Inter gravissimas]] [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/138351/138352/1311683/4020763/2015225/8601RevN005_Inter_Gravissimas.pdf?nodeid=2179035&amp;vernum=0refers ISO.org] to &quot;the vernal equinox, which was fixed by the fathers of the [first] [[First Council of Nicaea|Nicene Council]] at XII calends April [21 March]&quot;. This definition can be traced at least back to chapters 6 &amp; 59 of [[Bede]]'s ''[[De temporum ratione]]'' (725).&lt;/ref&gt;
+
+In applying the ecclesiastical rules, Christian churches use 21 March as the starting point in determining the date of Easter, from which they find the next full moon, etc. The [[Eastern Orthodox]] and [[Oriental Orthodox Churches]] continue to use the Julian calendar. Their starting point in determining the date of Orthodox Easter is also 21 March, but according to the Julian reckoning, which currently corresponds to 3 April in the Gregorian calendar.  In addition, the lunar tables of the Julian calendar are four days (sometimes five days) behind those of the Gregorian calendar.  The 14th day of the lunar month according to the Gregorian system is only the 9th or 10th day according to the Julian.  The result of this combination of solar and lunar discrepancies is divergence in the date of Easter in most years (see table).
+
+Easter is determined on the basis of [[lunisolar calendar|lunisolar]] cycles. The lunar year consists of 30-day and 29-day lunar months, generally alternating, with an [[embolismic month]] added periodically to bring the lunar cycle into line with the solar cycle. In each solar year (1 January to 31 December inclusive), the lunar month beginning with an [[ecclesiastical new moon]] falling in the 29-day period from 8 March to 5 April inclusive is designated as the paschal lunar month for that year. Easter is the third Sunday in the paschal lunar month, or, in other words, the Sunday after the paschal lunar month's 14th day. The 14th of the paschal lunar month is designated by convention as the [[Paschal full moon]], although the 14th of the lunar month may differ from the date of the astronomical full moon by up to two days.&lt;ref&gt;Montes, Marcos J. [http://www.smart.net/~mmontes/ec-cal.html &quot;Calculation of the Ecclesiastical Calendar&quot;]. Retrieved 12 January 2008.&lt;/ref&gt; Since the ecclesiastical new moon falls on a date from 8 March to 5 April inclusive, the paschal full moon (the 14th of that lunar month) must fall on a date from 21 March to 18 April inclusive.
+
+Accordingly, Gregorian Easter can fall on 35 possible dates—between 22 March and 25 April inclusive.&lt;ref&gt;Easter Sunday always falls after (never on) 21 March, so the earliest it can fall is 22 March; if the 14th of the paschal lunar month falls on 18 April and this day is a Sunday, then Easter falls one week (seven days) later on 25 April.&lt;/ref&gt; It last fell on 22 March in 1818, and will not do so again until 2285. It fell on 23 March in 2008, but will not do so again until 2160. Easter last fell on the latest possible date, 25 April, in 1943 and will next fall on that date in 2038. However, it fell on 24 April, just one day before this latest possible date, in 2011 and will not do so again until 2095. The cycle of Easter dates repeats after exactly 5,700,000 years, with 19 April being the most common date, happening 220,400 times or 3.9%, compared to the [[median]] for all dates of 189,525 times or 3.3%.
+
+The Gregorian calculation of Easter was based on a method devised by the [[Calabria]]n doctor [[Aloysius Lilius]] (or Lilio) for adjusting the [[epact]]s of the moon,&lt;ref&gt;G Moyer (1983), [http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?journal=grc..&amp;year=1983&amp;volume=book&amp;page_ind=181 &quot;Aloisius Lilius and the 'Compendium novae rationis restituendi kalendarium'&quot;], pages 171–188 in G.V. Coyne (ed.).&lt;/ref&gt; and has been adopted by almost all Western Christians and by Western countries who celebrate national holidays at Easter. For the British Empire and colonies, a determination of the date of Easter Sunday using [[Golden number (time)|Golden Numbers]] and [[Sunday letter]]s was defined by the [[Calendar (New Style) Act 1750]] with its Annexe.  This was designed to exactly match the Gregorian calculation.
+
+The Greek island of [[Syros]], whose population is divided almost equally between Catholics and Orthodox, is one of the few places where the two Churches share a common date for Easter, with the Catholics accepting  the [[Eastern Orthodox Church|Orthodox]] date - a practice helping considerably in maintaining good relations between the two communities.&lt;ref&gt;{{cite news| title= Easter: A date with God | url= http://www.economist.com/node/18584376 | date=20 April 2011 | publisher=The Economist | accessdate=23 April 2011| quote= Only in a handful of places do Easter celebrants alter their own arrangements to take account of their neighbours. Finland’s Orthodox Christians mark Easter on the Western date. And on the Greek island of Syros, a Papist stronghold, Catholics and Orthodox alike march to Orthodox time. The spectacular public commemorations, involving flower-strewn funeral biers on Good Friday and fireworks on Saturday night, bring the islanders together, rather than highlighting division. }}&lt;/ref&gt;
+
+===Relationship to date of Passover===
+In determining the date of the Gregorian and Julian Easter a lunisolar cycle is followed. In determining the date of the Jewish [[Passover]] a lunisolar calendar is also used, and because Easter always falls on a Sunday it usually falls up to a week after the first day of Passover ([[Nisan]] 15 in the [[Hebrew calendar]]). However, the differences in the rules between the Hebrew and Gregorian cycles results in Passover falling about a month after Easter in three years of the 19-year cycle. These occur in years 3, 11, and 14 of the Gregorian 19-year cycle (corresponding respectively to years 19, 8, and 11 of the Jewish 19-year cycle).
+
+The reason for the difference is the different scheduling of embolismic months in the two cycles. {{further|computus}}
+
+In addition, without changes to either calendar, the frequency of monthly divergence between the two festivals will increase over time as a result of the differences in the implicit solar years: the implicit mean solar year of the Hebrew calendar is 365.2468 days while that of the Gregorian calendar is 365.2425 days. In years 2200–2299, for example, the start of Passover will be about a month later than Gregorian Easter in four years out of nineteen.
+
+Since in the modern Hebrew calendar Nisan 15 can never fall on Monday, Wednesday, or Friday, the ''[[Passover Seder|seder]]'' of Nisan 15 never falls on the night of Maundy Thursday. The second ''seder'', observed in some Jewish communities on the second night of Passover can, however, occur on Thursday night.{{Citation needed|date=April 2010}}
+
+Because the Julian calendar's implicit solar year has drifted further over the centuries than those of the Gregorian or Hebrew calendars, Julian Easter is a lunation later than Gregorian Easter in five years out of nineteen, namely years 3, 8, 11, 14, and 19 of the Christian cycle. This means that it is a lunation later than Jewish Passover in two years out of nineteen, years 8 and 19 of the Christian cycle.  Furthermore, because the Julian calendar's lunar age is now about four to five days behind the mean lunations, Julian Easter always follows the start of Passover. This cumulative effect of the errors in the Julian calendar's solar year and lunar age has led to the often-repeated, but false, belief that the Julian cycle includes an explicit rule ''requiring'' Easter always to follow Jewish Passover.&lt;ref&gt;{{cite book | last = L'Huillier | first = Peter | title = The Church of the Ancient Councils | publisher = St. Vladimir's Seminary Press | location = Crestwood, NY | year = 1996 | page = 25 | url = http://books.google.com/books?id=Umse6CFnt3MC&amp;pg=PA25 | isbn = 0-88141-007-1 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Archimandrite Sergius|title=The First OEcumenical Synod and the Feast of Pascha|url=http://orthodoxinfo.com/ecumenism/firecsyn.pdf|publisher=Orthodox Christian Information Center}}&lt;/ref&gt; The supposed &quot;after Passover&quot; rule is called the ''Zonaras proviso'', after [[Joannes Zonaras]], the Byzantine canon lawyer who may have been the first to formulate it.&lt;ref&gt;{{cite book|author=Nicon Patrinacos|title=A Dictionary of Greek Orthodoxy|url=http://www.helleniccomserve.com/bookdictionaryorthodoxy.html|location=Pleasantville, NY|publisher=Hellenic Heritage Publications / Light and Life Publishing Co|isbn=99950-52-72-5|origyear=1984|year=1992|page=article on Easter}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Mike Siemon|title=Easter algorithms I|url=http://www.cs.rutgers.edu/pub/soc.religion.christian/faq/easter-date|publisher=rutgers.edu}}&lt;/ref&gt;
+
+===Reform of the date===
+{{See also|Reform of the date of Easter}}
+[[File:Receiving the Holy Light at Easter.jpg|thumb|The congregation lighting their candles from the new flame, just as the priest has retrieved it from the altar—note that the picture is [[Flash (photography)|flash-illuminated]]; all electric lighting is off, and only the [[oil lamp]]s in front of the [[Iconostasis]] remain lit. ([[Community and Parish of Saint George Thebarton, Adelaide, South Australia|St. George Greek Orthodox Church]], Adelaide)]]
+
+An Orthodox congress of Eastern Orthodox bishops met in Constantinople in 1923 under the presidency of Patriarch [[Patriarch Meletius IV of Constantinople|Meletios IV]], where the bishops agreed to the [[Revised Julian calendar]]. This congress did not have representatives from the remaining Orthodox members of the original [[Pentarchy]] (the Patriarchates of Jerusalem, Antioch, and Alexandria) or from the largest Orthodox church, the [[Russian Orthodox Church]], then under persecution from the [[Bolsheviks]], but only effective representation from the [[Patriarch of Constantinople]] and the [[Patriarch of Serbia]].&lt;ref&gt;Hieromonk Cassian, ''A Scientific Examination of the Orthodox Church Calendar'', Center for Traditionalist Orthodox Studies, 1998, p.51–52, ISBN 0-911165-31-2.&lt;/ref&gt; The original form of this calendar would have determined Easter using precise astronomical calculations based on the meridian of [[Jerusalem in Christianity|Jerusalem]].&lt;ref&gt;M. Milankovitch, &quot;Das Ende des julianischen Kalenders und der neue Kalender der orientalischen Kirchen&quot;, ''Astronomische Nachrichten'' 200, 379–384 (1924).&lt;/ref&gt;&lt;ref&gt;Miriam Nancy Shields, &quot;[http://adsabs.harvard.edu/abs/1924PA.....32..407S The new calendar of the Eastern churches]&quot;, ''Popular Astronomy'' '''32''' (1924) 407–411 ([http://adsabs.harvard.edu/abs/1924PA.....32R.411H page 411]). This is a translation of M. Milankovitch, &quot;The end of the Julian calendar and the new calendar of the Eastern churches&quot;, ''Astronomische Nachrichten'' No. 5279 (1924).&lt;/ref&gt; However, all the Eastern Orthodox countries that subsequently adopted the Revised Julian calendar adopted only that part of the revised calendar that applied to festivals falling on fixed dates in the Julian calendar. The revised Easter computation that had been part of the original 1923 agreement was never permanently implemented in any Orthodox diocese.{{citation needed|date = April 2012}}
+
+At a summit in [[Aleppo]], Syria, in 1997, the [[World Council of Churches]] (WCC) proposed a reform in the calculation of Easter which would have replaced the present divergent practices of calculating Easter with modern scientific knowledge taking into account actual astronomical instances of the spring equinox and full moon based on the meridian of Jerusalem, while also following the Council of Nicea position of Easter being on the Sunday following the full moon.&lt;ref&gt;[http://www.oikoumene.org/index.php?id=2677 WCC: Towards a common date for Easter]&lt;/ref&gt; The WCC presented comparative data of the relationships:{{Table of dates of Easter|format=dmy}}
+
+&lt;small&gt;Notes: 1. Astronomical Easter is the first Sunday after the Astronomical full moon, referred to the meridian of Jerusalem.&lt;br /&gt; 2. Passover commences at sunset preceding the date indicated.&lt;/small&gt;
+
+The recommended World Council of Churches changes would have sidestepped the calendar issues and eliminated the difference in date between the Eastern and Western churches. The reform was proposed for implementation starting in 2001, but it was not ultimately adopted by any member body.
+
+A few clergy of various denominations{{Who|date=April 2010}} have advanced the notion of disregarding the moon altogether in determining the date of Easter. Their proposals include always observing Easter on the second Sunday in April, or always having seven Sundays between the [[Epiphany (feast)|Epiphany]] and [[Ash Wednesday]], producing the same result except that in leap years Easter could fall on 7 April.{{Citation needed|date=April 2010}} These suggestions have not attracted significant support, and their adoption in the future is considered unlikely.{{Citation needed|date=April 2010}}
+
+In the United Kingdom, the [[Easter Act 1928]] set out legislation to allow the date of Easter to be fixed as the first Sunday after the second Saturday in April (or, in other words, the Sunday in the period from 9 to 15 April). However, the legislation has not been implemented, although it remains on the Statute book and could be implemented subject to approval by the various Christian churches.&lt;ref&gt;{{cite web |url=http://www.publications.parliament.uk/pa/ld200405/ldhansrd/vo050406/text/50406w05.htm#wa_subhd_30 |title=Hansard Reports, April 2005, regarding the Easter Act of 1928 |publisher=United Kingdom Parliament |accessdate=14 March 2010}}&lt;/ref&gt;
+
+==Position in the church year==
+
+===Western Christianity===
+In Western Christianity, Easter is preceded by [[Lent]], a period of fasting and penitence in preparation for Easter, which begins on [[Ash Wednesday]] and lasts forty days (not counting Sundays).
+
+The week before Easter, known as [[Holy Week]], is very special in the Christian tradition. The Sunday before Easter is [[Palm Sunday]], with the Wednesday before Pascha being known as [[Spy Wednesday]]. The last [[The Three Days|three days]] before Easter are [[Maundy Thursday]], [[Good Friday]] and [[Holy Saturday]] (sometimes referred to as Silent Saturday). Palm Sunday, Maundy Thursday and Good Friday respectively commemorate Jesus' entry in Jerusalem, the [[Last Supper]] and the [[Crucifixion]]. Maundy Thursday, Good Friday, and Holy Saturday are sometimes referred to as the [[Easter Triduum]] ([[Latin]] for &quot;Three Days&quot;). In some countries, Easter lasts two days, with the second called &quot;[[Easter Monday]]&quot;. The week beginning with Easter Sunday is called [[Easter Week]] or the [[Octave of Easter]], and each day is prefaced with &quot;Easter&quot;, e.g. Easter Monday, Easter Tuesday, etc. [[Easter Saturday]] is therefore the Saturday ''after'' Easter Sunday. The day before Easter is properly called Holy Saturday. Many churches begin celebrating Easter late in the evening of Holy Saturday at a service called the [[Easter Vigil]].
+
+[[Eastertide]], or Paschaltide, the season of Easter, begins on Easter Sunday and lasts until the day of [[Pentecost]], seven weeks later.
+
+===Eastern Christianity===
+[[File:EasterInLvov2.jpg|thumb|left|Priest blessing [[Easter baskets]] in [[Lviv]], Ukraine]]
+
+In Eastern Christianity, the spiritual preparation for Pascha begins with [[Great Lent]], which starts on [[Clean Monday]] and lasts for 40 continuous days (including Sundays). The last week of Great Lent (following the fifth Sunday of Great Lent) is called Palm Week, and ends with [[Lazarus Saturday]]. The [[Vespers]] which begins Lazarus Saturday officially brings Great Lent to a close, although the fast continues through the following week. After Lazarus Saturday comes [[Palm Sunday]], [[Holy Week]], and finally Pascha itself, and the fast is broken immediately after the Paschal [[Divine Liturgy]].
+
+The [[Paschal Vigil]] begins with the [[Midnight Office]], which is the last service of the [[Lenten Triodion]] and is timed so that it ends a little before midnight on [[Holy Saturday]] night. At the stroke of midnight the Paschal celebration itself begins, consisting of Paschal [[Matins]], [[Paschal Hours]], and Paschal Divine Liturgy.&lt;ref name = &quot;Eastern Liturgy&quot;&gt;{{cite web | first = Ephrem (Archimandrite) | title = On the Holy and Great Sunday of Pascha | publisher = Monastery of Saint Andrew the First Called, Manchester, England |date=25 January 2007 | url = http://www.anastasis.org.uk/pascha.htm | accessdate =27 March 2007}}&lt;/ref&gt; Placing the Paschal Divine Liturgy at midnight guarantees that no Divine Liturgy will come earlier in the morning, ensuring its place as the pre-eminent &quot;Feast of Feasts&quot; in the [[liturgical year]].
+
+The liturgical season from Pascha to the Sunday of [[All Saints' Day|All Saints]] (the Sunday after [[Pentecost]]) is known as the [[Pentecostarion]] (the &quot;fifty days&quot;). The week which begins on Easter Sunday is called [[Bright Week]], during which there is no fasting, even on Wednesday and Friday. The [[Afterfeast]] of Pascha lasts 39 days, with its [[Afterfeast|Apodosis]] (leave-taking) on the day before [[Ascension of Jesus|Ascension]]. Pentecost Sunday is the fiftieth day from Pascha (counted inclusively).{{Citation needed|date=June 2010}}
+
+Although the Pentecostarion ends on the Sunday of All Saints, Pascha's influence continues throughout the following year, determining the daily [[Epistle]] and [[Gospel]] readings at the Divine Liturgy, the [[Octoechos (liturgy)|Tone of the Week]], and the [[Matins Gospels]] all the way through to the next year's Lazarus Saturday.{{Citation needed|date=June 2010}}
+
+==Religious observance==&lt;!--[[Easter liturgy]] redirects here--&gt;
+{{Christianity}}
+
+===Western Christianity===
+The Easter festival is kept in many different ways among Western Christians. The traditional, [[liturgy|liturgical]] observation of Easter, as practised among Roman Catholics, [[Lutheran]]s, and some [[Anglican]]s begins on the night of [[Holy Saturday]] with the [[Easter Vigil]]. This, the most important liturgy of the year, begins in total darkness with the blessing of the Easter fire, the lighting of the large [[Paschal candle]] (symbolic of the Risen Christ) and the chanting of the [[Exultet]] or Easter Proclamation attributed to Saint [[Ambrose of Milan]]. After this service of light, a number of readings from the [[Old Testament]] are read; these tell the stories of [[Genesis creation myth|creation]], the sacrifice of [[Isaac]], the crossing of the [[Red Sea]], and the foretold coming of the [[Messiah]]. This part of the service climaxes with the singing of the [[Gloria in Excelsis Deo|Gloria]] and the [[Alleluia]] and the proclamation of the [[Gospel]] of the [[resurrection]]. At this time, the lights are brought up and the church bells are rung, according to local custom. A [[sermon]] may be preached after the gospel. Then the focus moves from the [[lectern]] to the [[Baptismal font|font]]. Anciently, Easter was considered the ideal time for converts to receive [[baptism]], and this practice continues within Roman Catholicism and the [[Anglican Communion]]. Whether there are baptisms at this point or not, it is traditional for the congregation to renew the vows of their baptismal faith. This act is often sealed by the sprinkling of the congregation with [[holy water]] from the font. The Catholic [[sacrament]] of [[Confirmation]] is also celebrated at the Vigil.
+
+[[File:Procesion semana santa jpereira.jpg|thumb|left|[[Holy Week]] procession in [[Santiago de Compostela]].]]
+The Easter Vigil concludes with the celebration of the [[Eucharist]] (known in some traditions as [[Holy Communion]]). Certain variations in the Easter Vigil exist: Some churches read the Old Testament lessons before the procession of the Paschal candle, and then read the gospel immediately after the Exsultet. Some churches prefer to keep this vigil very early on the Sunday morning instead of the Saturday night, particularly  churches, to reflect the gospel account of the women coming to the tomb at dawn on the first day of the week. These services are known as the [[Sunrise service]] and often occur in outdoor setting such as the church cemetery, yard, or a nearby park.
+
+The first recorded &quot;Sunrise Service&quot; took place in 1732 among the Single Brethren in the [[Moravian Church|Moravian]] Congregation at [[Herrnhut]], Saxony, in what is now Germany. Following an all-night [[vigil]] they went before dawn to the town graveyard, [[God's Acre]], on the hill above the town, to celebrate the Resurrection among the graves of the departed. This service was repeated the following year by the whole congregation and subsequently spread with the Moravian Missionaries around the world, including [[Old Salem]] in [[Winston-Salem]], [[North Carolina]].
+
+Additional celebrations are usually offered on Easter Sunday itself. Typically these services follow the usual order of Sunday services in a congregation, but also typically incorporate more highly festive elements. The music of the service, in particular, often displays a highly festive tone; the incorporation of brass instruments (trumpets, etc.) to supplement a congregation's usual instrumentation is common. Often a congregation's worship space is decorated with special banners and flowers (such as [[Lilium longiflorum|Easter lilies]]).
+
+In predominantly Roman Catholic Philippines, the morning of Easter (known in the national language as &quot;Pasko ng Muling Pagkabuhay&quot; or the Pasch of the Resurrection) is marked with joyous celebration, the first being the dawn &quot;Salubong&quot;, wherein large statues of Jesus and Mary are brought together to meet, imagining the first reunion of Jesus and his mother Mary after Jesus' Resurrection. This is followed by the joyous Easter Mass.
+
+In Polish culture, The Rezurekcja (Resurrection Procession) is the joyous Easter morning Mass at daybreak when church bells ring out and explosions resound to commemorate Christ rising from the dead. Before the Mass begins at dawn, a festive procession with the Blessed Sacrament carried beneath a canopy encircles the church. As church bells ring out, handbells are vigorously shaken by altar boys, the air is filled with incense and the faithful raise their voices heavenward in a triumphant rendering of age-old Easter hymns. After the Blessed Sacrament is carried around the church and Adoration is complete, the Easter Mass begins. Another Polish Easter tradition is [[Święconka]], the blessing of Easter baskets by the parish priest on Holy Saturday. This custom is celebrated not only in Poland, but also in the United States by Polish-Americans.
+
+===Eastern Christianity===
+'''Pascha''' is the fundamental and most important festival of the [[Eastern Orthodoxy|Eastern]] and [[Oriental Orthodoxy|Oriental]] Orthodox Churches:
+
+&lt;blockquote&gt;
+:This is the Expected and Holy Day,
+:the One among the Sabbaths,
+:the Sovereign and Lady of days,
+:Feast of feasts, Celebration of celebrations,
+:on which we praise Christ for all eternity!
+&lt;/blockquote&gt;
+
+Every other religious festival in their calendar, including Christmas, is secondary in importance to the celebration of the Resurrection of Jesus Christ. This is reflected in rich Paschal customs in the cultures of countries that have traditionally had an Orthodox Christian majority. [[Eastern Catholic Churches|Eastern Catholics]] have similar emphasis in their calendars, and many of their liturgical customs are very similar.
+
+This is not to say that Christmas and other elements of the Christian liturgical calendar are ignored. Instead, these events are all seen as necessary but ''preliminary'' to, and illuminated by, the full climax of the Resurrection, in which all that has come before reaches fulfillment and fruition. They shine only in the light of the Resurrection. Pascha  is the primary act that fulfills the purpose of Christ's ministry on earth—to defeat death by dying and to purify and exalt humanity by voluntarily assuming and overcoming human frailty. This is succinctly summarized by the [[Paschal troparion]], sung repeatedly during [[Passover (Christian holiday)|Pascha]] until the [[Afterfeast|Apodosis]] of Pascha, which is the day before [[Ascension of Jesus Christ|Ascension]]:
+
+[[File:Paskhakustodiev.jpg|thumb|upright|[[Boris Kustodiev]]'s ''Pascha Greetings'' (1912) shows traditional Russian ''[[Paschal greeting|khristosovanie]]'' (exchanging a triple kiss), with such foods as [[Easter eggs|red eggs]], [[kulich]] and [[paskha (dish)|paskha]] in the background]]
+&lt;blockquote&gt;
+:Χριστὸς ἀνέστη ἐκ νεκρῶν,
+:θανάτῳ θάνατον πατήσας,
+:καὶ τοῖς ἐν τοῖς μνήμασι
+:ζωὴν χαρισάμενος.
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+:Christ is risen from the dead,
+:Trampling down death by death,
+:And upon those in the tombs
+:Bestowing life!
+&lt;/blockquote&gt;
+
+Preparation for Pascha begins with the season of [[Great Lent]]. In addition to fasting, almsgiving, and prayer, Orthodox Christians cut down on all entertainment and non-essential worldly activities, gradually eliminating them until [[Good Friday|Great and Holy Friday]], the most austere day of the year. Traditionally, on the evening of [[Holy Saturday|Great and Holy Saturday]], the [[Midnight Office]] is celebrated shortly after 11:00&amp;nbsp;pm (see [[Paschal Vigil]]). At its completion all light in the church building is extinguished, and all wait in darkness and silence for the stroke of midnight. Then, a new flame is struck in the altar, or the priest lights his candle from the [[sanctuary lamp|perpetual lamp]] kept burning there, and he then lights candles held by deacons or other assistants, who then go to light candles held by the congregation (this practice has its origin in the reception of the [[Holy Fire]] at the [[Church of the Holy Sepulchre]] in [[Jerusalem]]). Then the priest and congregation go in a [[Crucession]] ([[procession]] with the cross) around the [[Orthodox church (building)|temple]] (church building), holding lit candles, chanting:
+
+&lt;blockquote&gt;
+By Thy Resurrection O Christ our savior,
+the angels in Heaven sing,
+enable us who are on Earth,
+to glorify thee in purity of heart.
+&lt;/blockquote&gt;
+
+[[File:Kurskaya korennaya.jpg|thumb|left|''Easter Procession in the Region of [[Kursk]], Russia'', painting by [[Ilya Repin]] (1880–83), depicting a [[Bright Week]] [[Crucession]]]]
+This procession reenacts the journey of the [[Myrrhbearers]] to the Tomb of Jesus &quot;very early in the morning&quot; ({{bibleverse||Luke|24:1|KJV}}). After circling around the temple once or three times, the procession halts in front of the closed doors. In the Greek practice the priest reads a selection from the [[Gospel Book]] ({{bibleverse||Mark|16:1–8|KJV}}). Then, in all traditions, the priest makes the [[sign of the cross]] with the censer in front of the closed doors (which represent the sealed tomb). He and the people chant the Paschal Troparion, and all of the [[Church bell|bells]] and [[Semantron|semantra]] are sounded. Then all re-enter the temple and Paschal [[Matins]] begins immediately, followed by the Paschal [[Canonical hours|Hours]] and then the Paschal [[Divine Liturgy]].  The high point of the liturgy is the delivery of [[Paschal Homily]] of [[St. John Chrysostom]], for which the congregation stands.
+[[File:Crucession Davidovo-Elizarovo Guslitci Moscow reg 8504.jpg|thumb|210px|Traditional Paschal Crucession during Bright Week by [[Russian Orthodox Old-Rite Church]].]]
+After the [[Dismissal (liturgy)|dismissal]] of the Liturgy, the priest may bless [[Easter eggs|Paschal eggs]] and baskets brought by the faithful containing those foods which have been forbidden during the Great Fast.  Immediately after the Liturgy it is customary for the congregation to share a meal, essentially an [[Agape|Agápē]] dinner (albeit at 2:00&amp;nbsp;am or later). In Greece the traditional meal is ''mageiritsa'', a hearty stew of chopped lamb liver and wild greens seasoned with egg-and-lemon sauce. Traditionally, [[Easter eggs]], hard-boiled eggs dyed bright red to symbolize the spilt [[Blood of Christ]] and the promise of eternal life, are cracked together to celebrate the opening of the [[Holy Sepulchre|Tomb of Christ]].
+
+The next morning, Easter Sunday proper, there is no [[Divine Liturgy]], since the Liturgy for that day has already been celebrated. Instead, in the afternoon, it is often traditional to celebrate &quot;[[Agape|Agápē]] [[Vespers]]&quot;. In this service, it has become customary during the last few centuries for the priest and members of the congregation to read a portion of the [[Gospel of John]] {{bibleverse-nb||John|20:19-25|KJV}} (in some places the reading is extended to include verses {{bibleverse-nb||John|19:26-31|KJV}}) in as many languages as they can manage, to show the universality of the Resurrection.
+
+For the remainder of the week, known as &quot;[[Bright Week]]&quot;, all fasting is prohibited, and the customary [[Paschal greeting]] is: &quot;Christ is risen!&quot;, to which the response is: &quot;Truly He is risen!&quot; This may also be done in many different languages. The services during Bright Week are nearly identical to those on Pascha itself, except that they do not take place at midnight, but at their normal times during the day. The Crucession during Bright Week takes place either after Paschal Matins or the Paschal Divine Liturgy.
+
+==Non-observing Christian groups==
+Along with Christmas celebrations, many Easter traditions ultimately became casualties of the various offshoots of the [[Protestant Reformation]], being deemed &quot;[[paganism|pagan]]&quot; or &quot;[[Popish]]&quot; (and therefore tainted) by many [[Puritan]] movements{{Citation needed|date=August 2008}} – although there were some major Reformation Churches and movements ([[Lutheran]], [[Methodist]] and [[Anglican]] for example), that chose to retain a reasonably full observance of the [[Church Year]] and many of its associated traditions. In Lutheran Churches, for example, not only were the days of Holy Week observed, but also Christmas, Easter and Pentecost were observed with three-day festivals (the day itself and the two following).
+
+Among many other [[Reformation]] and counter [[Counter-Reformation]] traditions, however, things were very different, with most [[Anabaptists]], [[Quakers]], [[Congregational]] and [[Presbyterian]] Puritans, regarding such festivals as an [[abomination (Bible)|abomination]].&lt;ref name=&quot;Daniels89&quot;&gt;Daniels, Bruce Colin (1995). Puritans at Play: Leisure and Recreation in Colonial New England. Macmillan, p. 89, ISBN 312125003.&lt;/ref&gt; The [[Puritan]] rejection of Easter traditions was (and is) based partly upon their interpretation of {{bibleverse|2|Corinthians|6:14-16|KJV}} and partly upon a more general belief that if a religious practice or celebration is not actually written in the Old and/or New Testaments of the Christian Bible then that practice/celebration must be a later development and cannot be considered an authentic part of Christian practice or belief - so at best simply unnecessary, at worst actually sinful.
+
+Some Christian groups continue to reject the celebration of Easter due to perceived [[pagan]] roots and historical connections to the practices and permissions of the &quot;Roman&quot; Catholic Church.&lt;ref&gt;{{cite web|last=Pack|first=David|title=The True Origin of Easter|url=http://www.thercg.org/books/ttooe.html#c|publisher=The Restored Church of God|accessdate=24 March 2011}}&lt;/ref&gt; Other &quot;[[Nonconformist]]&quot; Christian groups that do still celebrate the event prefer to call it &quot;Resurrection Sunday&quot; or &quot;Resurrection Day&quot;,{{Citation needed|date=July 2011}} for the same reasons as well as a rejection of secular or commercial aspects of the holiday in the 20th and 21st centuries.
+
+The [[Jehovah's Witnesses]] maintain a similar view, observing a yearly commemorative service of the [[Last Supper]] and subsequent execution of Christ on the evening of Nisan 14 (as they calculate the dates derived from the lunar [[Hebrew Calendar]]). It is commonly referred to by many Witnesses as simply &quot;The Memorial&quot;.{{Citation needed|date=July 2011}} Jehovah's Witnesses believe that such verses as {{bibleverse||Luke|22:19-20|KJV}} and {{bibleverse|1|Cor|11:26|NIV}} constitute a commandment to remember the death of Christ though not the resurrection{{Citation needed|date=September 2012}} (as only the remembrance of His death was observed by early Christians){{Citation needed|date=September 2012}}, and they do so on a yearly basis just as Passover is celebrated annually by the Jews.
+
+Members of the [[Religious Society of Friends|Religious Society of Friends (Quakers)]], as part of their historic ''testimony against times and seasons'', do not celebrate or observe Easter or any other Church holidays, believing instead that &quot;every day is the Lord's day&quot;,&lt;ref&gt;[http://books.google.co.uk/books?id=1fgpAAAAYAAJ&amp;pg=PA243&amp;lpg=PA243&amp;dq=%22every+day+is+the+Lord%27s+day%22+quaker&amp;source=bl&amp;ots=DLoh-R3TJ3&amp;sig=tneApx8KAFDZ68BXJDY8Bme0zK8&amp;hl=en&amp;ei=rWziTovQCsiZ8gP797CSBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCEQ6AEwAA#v=onepage&amp;q=%22every%20day%20is%20the%20Lord%27s%20day%22%20quaker&amp;f=false A careful and free inquiry into the true nature and tendency of the religious principes of the Society of Friends by William Craig Brownlee; Philadelphia, 1824]&lt;/ref&gt; and that elevation of one day above others suggests that it is acceptable to do un-Christian acts on other days.&lt;ref&gt;[http://qfp.quakerweb.org.uk/qfp27-42.html See ''Quaker Faith &amp; practice'' of Britain Yearly Meeting, Paragraph 27:42]&lt;/ref&gt; During the seventeenth and eighteenth centuries, Quakers were persecuted for this non-observance of Holy Days.&lt;ref&gt;[http://www.fum.org/QL/issues/1112/EarlyQuakerTop10.htm ''Quaker life'', December 2011: &quot;Early Quaker Top 10 Ways to Celebrate (or Not) &quot;the Day Called Christmas&quot; by Rob Pierson]&lt;/ref&gt;
+
+Some Christian groups feel that Easter is something to be regarded with great joy: not marking the day itself, but remembering and rejoicing in the event it commemorates—the miracle of Christ's resurrection. In this spirit, these Christians teach that each day and all [[Biblical Sabbath|Sabbaths]] should be kept holy, in Christ's teachings. [[Jewish Christians|Hebrew-Christian]], [[Sacred Name Movement|Sacred Name]], and [[Armstrongism|Armstrong]] movement churches (such as the [[Living Church of God]]) usually reject Easter in favor of Nisan 14 observance and celebration of the [[Christian Passover]]. This is especially true of Christian groups that celebrate the [[New Moon]]s or annual [[High Sabbaths]] in addition to [[seventh-day Sabbath]]. They support this textually with reference to the letter to the Colossians: &quot;Let no one...pass judgment on you in matters of food and drink or with regard to a festival or new moon or sabbath. These are shadows of things to come; the reality belongs to Christ.&quot; (Col. 2:16–17, NAB)
+
+==Easter celebrations around the world==
+[[File:Easter eggs - straw decoration.jpg|200px|right|thumb|[[Easter egg]]s are a popular cultural symbol of Easter]]
+{{Main|Easter customs}}
+Many Americans follow the tradition of coloring hard-boiled eggs and giving baskets of candy. The [[Easter Bunny]] is a popular legendary anthropomorphic Easter gift-giving character analogous to [[Santa Claus]] in American culture. On Easter Monday, the President of the United States holds an annual Easter egg roll on the White House lawn for young children. New York City holds an annual Easter parade on Easter Sunday.
+
+In some countries where Christianity is a state religion, or where the country has large Christian population, Easter is a public holiday. Some European and other countries in the world also have Easter Monday as a public holiday. In Canada, both Easter Sunday and Easter Monday are public holidays. In province of Quebec, either Good Friday or Easter Monday (although most companies give both) are statutory holidays. Two days before Easter Sunday, on [[Good Friday]], is a public holiday as well. In Denmark, Finland, Norway and Sweden, both Easter Sunday and Easter Monday are public holidays. It is a holiday for most workers except some shopping malls which keep open for half day. Many businesses give their employees almost a week off called Easter break.
+
+In the United States, Easter Sunday is a [[flag day]] but because Easter falls on a Sunday, which is already a non working day for federal and state employees, it has not been a federal or state holiday. [[Good Friday]], which occurs two days before Easter Sunday, is a holiday in 12 states. Few banks that are normally open on regular Sundays are closed on Easter.  However, most retail stores, shopping malls, and some restaurants are closed on Easter Sunday.  Most private businesses, financial institutions and stock markets, and public schools are closed on Good Friday. Historically, schools have given extended [[spring break]]s of one to two weeks around the Easter holiday, but this practice has been declining in favor of fixed one-week recesses around [[Washington's Birthday]] and in late April.{{Citation needed|date=April 2012}}
+
+==Easter movies==
+Inspired by this holiday, filmmakers made some Easter movies by the following:
+* ''[[Winnie the Pooh: Springtime with Roo]]''
+* ''[[Easter Parade (film)|Easter Parade]]''
+* ''[[Hop (film)|Hop]]''
+
+==See also==
+{{Portal|Christianity}}
+*[[Easter customs]]
+* [[Life of Jesus in the New Testament]]
+*[[Resurrection of Jesus]]
+* Greek words (wiktionary): [[wiktionary:Πάσχα|Πάσχα]] (Easter) vs [[wiktionary:πάσχα|πάσχα]] (Passover) vs [[wiktionary:πάσχω|πάσχω]] (to suffer).
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Easter}}
+{{Wiktionary|Easter}}
+
+===Liturgical===
+* [http://www.catholicexpert.com/easterprayer.htm 50 Catholic Prayers for Easter]
+* [http://www.liturgies.net/Easter/Easter.htm Liturgical Resources for Easter]
+* [http://ocafs.oca.org/FeastSaintsViewer.asp?SID=4&amp;ID=1&amp;FSID=27 Holy Pascha: the Resurrection of Our Lord] (Orthodox [[icon]] and [[synaxarion]])
+
+;Traditions
+* [http://www.greekorthodox.org.au/general/livinganorthodoxlife/liturgicalmeaningofholyweek/saturdayoflazarus Liturgical Meaning of Holy Week (Greek Orthodox Archdiocese of Australia)]
+* [http://www.armenianchurch.net/worship/easter/index.html Easter in the Armenian Orthodox Church]
+* [http://www.newadvent.org/cathen/05224d.htm Roman Catholic view of Easter] (from the [[Catholic Encyclopedia]])
+* [http://www.itsasmallworld.co.nz/index.php?page=seasonal-traditions Easter traditions from around the world]
+* [http://www.belarus.by/en/press-center/photo/believers-consecrate-eater-repast_ti_72_0000000326.html Easter in Belarus: in pictures] on the [http://www.belarus.by/en/ official website of the Republic of Belarus]
+
+;Calculating
+* [http://www.staff.science.uu.nl/~gent0113/easter/eastercalculator.htm A Perpetual Easter and Passover Calculator] Julian and Gregorian Easter for any year plus other info
+* [http://www.ely.anglican.org/cgi-bin/easter Almanac – The Christian Year] Julian or Gregorian Easter and associated festivals for any year
+* [http://www.assa.org.au/edm.html Easter Dating Method] for calculator
+* [http://aa.usno.navy.mil/data/docs/easter.php Dates for Easter 1583 – 9999]
+* [http://www.noeticspace.com/paschalion Orthodox Paschal Calculator] Julian Easter and associated festivals in Gregorian calendar 1583–4099
+* [http://fotios.org/node/1104 About the Greek Easter and Greek Easter calculator] Orthodox Paschal calculator with technical discussion and full source code in javascript
+
+{{Navboxes|list1=
+{{Holy Week}}
+{{Easter}}
+{{US Holidays}}
+{{New Zealand Holidays}}
+{{Christianityfooter}}
+{{Time in religion and mythology}}
+}}
+
+&lt;!-- DO NOT ADD CATEGORIES to this Article, for sake of Category cleanup and navigation. They would be redundant. Instead, Please add them to the 'Category:Easter' page. --&gt;
+{{Use dmy dates|date=April 2012}}
+
+[[Category:Easter| ]]
+[[Category:Christian holidays]]
+[[Category:Holy Week]]
+
+{{Link GA|ru}}
+{{Link FA|hr}}
+{{Link FA|id}}
+{{Link FA|li}}
+{{Link FA|uk}}
+
+[[af:Paasfees]]
+[[als:Ostern]]
+[[ang:Ēaster]]
+[[ar:عيد القيامة]]
+[[arc:ܥܐܕܐ ܕܩܝܡܬܐ]]
+[[az:Pasxa]]
+[[bn:ইস্টার]]
+[[zh-min-nan:Koh-oa̍h-cheh]]
+[[ba:Пасха]]
+[[be:Вялікдзень]]
+[[be-x-old:Вялікдзень]]
+[[bcl:Pasko nin Pagkabuhay]]
+[[bg:Великден]]
+[[bar:Ostan]]
+[[bs:Uskrs]]
+[[br:Pask]]
+[[ca:Pasqua de Resurrecció]]
+[[cv:Мăн кун]]
+[[ceb:Pagkabanhaw]]
+[[cs:Velikonoce]]
+[[cy:Pasg]]
+[[da:Påske]]
+[[de:Ostern]]
+[[et:Ülestõusmispühad]]
+[[el:Πάσχα]]
+[[eml:Pasqua]]
+[[es:Pascua]]
+[[eo:Pasko]]
+[[eu:Pazkoa]]
+[[fa:عید پاک]]
+[[fr:Pâques]]
+[[fy:Peaske]]
+[[fur:Pasche cristiane]]
+[[ga:Cáisc]]
+[[gag:Paskellä]]
+[[gd:A' Chàisg]]
+[[gl:Pascua cristiá]]
+[[hak:Fu̍k-fa̍t-chiet]]
+[[ko:부활절]]
+[[hy:Զատիկ]]
+[[hi:ईस्टर]]
+[[hr:Uskrs]]
+[[io:Pasko]]
+[[id:Paskah]]
+[[ie:Pasca]]
+[[os:Куадзæн]]
+[[zu:IPhasika]]
+[[is:Páskar]]
+[[it:Pasqua]]
+[[he:פסחא]]
+[[jv:Paskah]]
+[[ka:აღდგომა]]
+[[csb:Jastrë]]
+[[kk:Пасха]]
+[[sw:Pasaka]]
+[[ht:Pak (fèt)]]
+[[mrj:Когечӹ]]
+[[ltg:Leldīne]]
+[[la:Pascha (festum Christianum)]]
+[[lv:Lieldienas]]
+[[lb:Ouschteren]]
+[[lt:Velykos]]
+[[li:Paosje]]
+[[lmo:Pasqua]]
+[[hu:Húsvét]]
+[[mk:Велигден (православен)]]
+[[mg:Paska]]
+[[ml:ഈസ്റ്റർ]]
+[[ms:Hari Easter]]
+[[cdo:Bô-uăk-cáik]]
+[[mdf:Очижи]]
+[[nah:Paxcua]]
+[[nl:Pasen]]
+[[nds-nl:Poaske]]
+[[ja:復活祭]]
+[[nap:Pasca crestiana]]
+[[frr:Puask]]
+[[no:Påske]]
+[[nn:Påske]]
+[[nrm:Pâques]]
+[[koi:Ыджытлун]]
+[[nds:Oostern]]
+[[pl:Wielkanoc]]
+[[pt:Páscoa]]
+[[ksh:Ostere]]
+[[ro:Paști]]
+[[qu:Paskwa]]
+[[rue:Великдень]]
+[[ru:Пасха]]
+[[se:Beassážat]]
+[[sm:Motu o Eseta]]
+[[sc:Pasca]]
+[[sco:Pace]]
+[[sq:Pashkët]]
+[[scn:Pasqua]]
+[[simple:Easter]]
+[[sk:Veľká noc]]
+[[sl:Velika noč]]
+[[sr:Ускрс]]
+[[fi:Pääsiäinen]]
+[[sv:Påsk]]
+[[tl:Pasko ng Pagkabuhay]]
+[[ta:உயிர்த்த ஞாயிறு]]
+[[te:ఈస్టర్]]
+[[th:อีสเตอร์]]
+[[tr:Paskalya]]
+[[uk:Великдень]]
+[[ur:ایسٹر]]
+[[vi:Lễ Phục Sinh]]
+[[fiu-vro:Lihavõttõq]]
+[[wa:Påke]]
+[[vls:Poaschn]]
+[[war:Pasko han Pagkabanhaw]]
+[[zh-yue:復活節]]
+[[diq:Pasxalya]]
+[[zea:Paese]]
+[[bat-smg:Velīkas]]
+[[zh:復活節]]</text>
+      <sha1>23goisl87gmxz1uyho3ncdrklqyobep</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lector</title>
+    <ns>0</ns>
+    <id>574864</id>
+    <revision>
+      <id>491131962</id>
+      <parentid>491131909</parentid>
+      <timestamp>2012-05-07T06:06:20Z</timestamp>
+      <contributor>
+        <username>Bhny</username>
+        <id>285109</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2755">{{Refimprove|date=January 2009}}
+'''Lector''' is [[Latin language|Latin]] for one who reads, whether aloud or not. In modern languages it takes various forms, as either a development or a [[loanword|loan]], such as {{lang-fr|lecteur}}, {{lang-en|lector}}, {{lang-pl|lektor}} and {{lang-ru|лектор}}. It has various specialized uses:
+
+;Academic: The title ''lector'' may be applied to [[lecturer]]s and [[reader (academic rank)|readers]] at some universities. There is also the title ''lector jubilate'', which is an equivalent of [[Doctor of Divinity]]. In language teaching at universities in [[United Kingdom|Britain]], a foreign native speaker of a [[Slavonic language]] is often called a ''lektor''&lt;ref&gt;[http://www.slavonic.arts.gla.ac.uk/slavonic3.html Glasgow University Slavonic staff list]&lt;/ref&gt; or ''lector''.&lt;ref&gt;[http://www.mod-langs.ox.ac.uk/staff/staff.php?subfac=ru&amp;sort=surname Oxford University Slavonic staff list]&lt;/ref&gt;
+ 
+;Ecclesiastical: A religious [[reader (liturgy)|reader]] is sometimes referred to as a ''lector''. The lector proclaims the Scripture readings used in the Liturgy of the Word from the official, [[liturgical book]] ([[lectionary]]).  The [[Roman Catholic Church]] has a [[rite]] by which it formally institutes men who may or may not be studying for the priesthood and [[deacon|diaconate]] as lectors.
+
+;Television: In [[Poland]], a ''lektor'' is a (usually male) reader who provides the Polish [[voice-over]] on foreign-language programmes and films where the [[Gavrilov translation]] technique is used. This is the standard [[language localization|localization]] technique on Polish television and (as an option) on many DVDs; full [[dub localization|dubbing]] is generally reserved for children's material.
+
+;Other: Historically, lectors or readers in a [[Cigar#Manufacture|cigar factory]] entertained workers by reading books or newspapers aloud, often left-wing publications, paid for by unions or by workers pooling their money. The practice apparently originated in Cuba, and is still known there today.&lt;ref&gt;{{cite news|url=http://www.npr.org/templates/story/story.php?storyId=124251060|title=The Jobs Of Yesteryear: Obsolete Occupations|work=[[National Public Radio]]|accessdate=10 March 2010}}&lt;/ref&gt; &lt;ref&gt; [http://www.mainstreet.com/article/career/employment/20-jobs-have-disappeared?page=3 20 Jobs That Have Disappeared], By Miranda Marquit, Main Street, thestreet.com, May 3, 2010. &lt;/ref&gt;
+
+==See also==
+*[[Proctor]]
+
+==References==
+{{Reflist}}
+
+{{Lutheran Divine Service}}
+
+[[Category:Latin words and phrases]]
+
+[[da:Lektor]]
+[[de:Lektor (Universität)]]
+[[et:Lektor]]
+[[es:Lector]]
+[[gl:Lector]]
+[[nl:Lector]]
+[[no:Lektor]]
+[[nn:Lektor]]
+[[pl:Lektor]]
+[[pt:Leitor]]
+[[sr:Лектор]]
+[[sv:Lektor]]</text>
+      <sha1>tsowp4al9xzxfyl4scqlq9n21b7b7yv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

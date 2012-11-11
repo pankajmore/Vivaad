@@ -1,0 +1,99 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Market system</title>
+    <ns>0</ns>
+    <id>170431</id>
+    <revision>
+      <id>500485329</id>
+      <parentid>500483605</parentid>
+      <timestamp>2012-07-03T13:16:11Z</timestamp>
+      <contributor>
+        <username>Stavrosaloizos</username>
+        <id>17097412</id>
+      </contributor>
+      <text xml:space="preserve" bytes="6259">A '''market system''' is any systematic process enabling many [[market players]] to [[bid and ask]]: helping bidders and sellers interact and make deals.  It is not just the [[price mechanism]] but the entire system of [[regulation]], qualification, [[credential]]s, [[reputation]]s and [[clearing (finance)|clearing]] that surrounds that mechanism and makes it operate in a social context.&lt;ref&gt;{{Cite book|title=Economics: Principles, Problems, and Policies|author= Campbell R. McConnell, Stanley L. Brue|year=2005|publisher=McGraw-Hill Professional|isbn=0-07-281935-9}}&lt;/ref&gt;
+
+Because a market system relies on the assumption that players are constantly involved and unequally enabled, a market system is distinguished specifically from a [[voting system]] where candidates seek the support of voters on a less regular basis.  However, the interactions between market and voting systems are an important aspect of [[political economy]], and some argue they are hard to differentiate, e.g. systems like [[cumulative voting]] and [[Two-round system|runoff voting]] involve a degree of market-like bargaining and tradeoff, rather than simple statements of choice.
+
+==Types==
+In [[economics]], [[market forms]] are studied.  These look at the impacts of a particular form on larger markets, rather than technical characteristics of how bidders and sellers interact.
+
+Heavy reliance on many interacting market systems and forms is a feature of [[capitalism]], and advocates of [[socialism]] often criticize market features. Competition is the regulatory mechanism of the market system.  This article does not discuss the political impact of any particular system nor applications of a particular mechanism to any particular problem in real life.  For more on specific types of real-life markets, see [[commodity markets]], [[insurance market]]s, [[bond market]]s, [[energy market]]s, [[flea market]]s, [[debt market]]s, [[stock market]]s, [[online auction business model|online auctions]], [[media exchange markets]], [[real estate market]], each of which is explained in its own article with features of its application, referring to market systems as such if needed. One of the most important characteristics of a market economy, also called a free enterprise economy, is the role of a limited government.
+
+==Protocols==
+The market itself provides a medium of exchange for the contracts and coupons and cash to seek prices relative to each other, and for those to be publicized.  This publication of current prices is a key feature of market systems, and is often relevant far beyond the current groups of buyers and sellers, affecting others' supply and demand decisions, e.g. whether to produce more of a commodity whose price is now falling.
+Market systems are more abstract than their application to any one use, and typically a 'system' describes a protocol of offering or requesting things for sale.  Well-known market systems that are used in many applications include:
+*[[auction]]s - the most common, including:
+**[[Dutch auction]]s
+**[[reverse auction]]s
+**[[silent auction]]s
+*[[rationing]] (including the [[command economy]] of some states)
+*[[regulated market]] (including most real-life examples as above)
+*[[black market]] (the term 'black' indicating lack of regulation, or any trade, often illegal, operating in violation of official regulations)
+The term 'laissez-faire' (&quot;let alone&quot;) is sometimes used to describe some specific compromise between regulation and black market, resulting in the political struggle to define or exploit &quot;[[free market]]s&quot;.  This is not an easy matter to separate from other debates about the nature of [[capitalism]].  There is no such thing as a &quot;free&quot; market other than in the sense of a black market, and most free-market advocates favor at least some form of regulated market, e.g. to prevent outright [[fraud]], [[theft]], and retain some degree of credibility with the larger public.  This political debate is out of the scope of this article, other than to note that the &quot;free&quot; market is usually a &quot;less regulated&quot; market, but not qualitatively different from other regulated markets, in any society with laws, and that what opponents of &quot;free markets&quot; usually seek is some kind of [[moral purchasing]] rather than pure rationing.
+
+As this debate suggests, key debates over market systems relate to their accessibility, safety, fairness, and ability to guarantee clearance and closure of all transactions in a reasonable period of time.
+
+==Importance of trust==
+The degree of trust in a political or economic authority (such as a [[bank]] or [[central bank]]) is often critical in determining the success of a market.  A market system depends inherently on a stable [[money]] system to ensure that units of account and standards of deferred payment are uniform across all players - and to ensure that the balance of contracts due within that market system are accepted as a store of value, i.e. as &quot;[[collateral (finance)|collateral]]&quot; of the holder of the contract, which justifies &quot;[[credit (finance)|credit]]&quot; from a lender of cash.
+
+Banks, themselves, are often described in terms of markets, as &quot;transducers of trust&quot; between lenders (who deposit money) and borrowers (who take it out again).  Trust in the bank to manage this process makes more economic activity possible.  However, critics say, this trust is also quite easy to abuse, and has many times proven difficult to limit or control (see [[business cycle]]), resulting in 'runs on banks' and other such 'crises of trust' in 'the system'.
+
+However, market systems are usually flexible enough to be refined and have its detailed rules adjusted so as to regain the trust of participants relatively quickly - most market systems tend to [[degrade gracefully]], with a few exceptions, e.g. [[hyperinflation]], [[South Sea bubble]], [[Tulip mania|tulip boom]], [[dotcom boom]], [[recession|depression]], that are very damaging, but nonetheless relatively infrequent.
+
+==See also==
+*[[Capitalism]]
+*[[Financial capital]]
+*[[Free price system]]
+*[[Market abolitionism]]
+*[[Market forms]]
+*[[Money]]
+*[[Moral purchasing]]
+*[[Risk]]
+*[[Voting system]]
+
+==References==
+{{Reflist}}
+
+[[Category:Economic systems]]
+[[Category:Markets (customer bases)]]</text>
+      <sha1>41pez1kje50t339lryaaf5rqldlrd3t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

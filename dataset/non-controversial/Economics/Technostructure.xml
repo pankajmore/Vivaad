@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Technostructure</title>
+    <ns>0</ns>
+    <id>1396690</id>
+    <revision>
+      <id>518817254</id>
+      <parentid>517696499</parentid>
+      <timestamp>2012-10-20T03:22:41Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>11292982</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.3) (Robot: Adding [[pl:Technostruktura]]</comment>
+      <text xml:space="preserve" bytes="3690">{{Refimprove|date=December 2009}}
+'''Technostructure''' is a term coined by the economist [[John Kenneth Galbraith]] in ''[[The New Industrial State]]'' (1967) to describe the group of technicians within an enterprise (or an administrative body) with considerable influence and control on its economy.  It usually refers to [[managerial]] [[capitalism]] where the managers and other company leading administrators, scientists, or lawyers retain more power and influence than the shareholders in the decisional and directional process.&lt;ref&gt;John Kenneth Galbraith, ''The New Industrial State'', p. 71 HMCO 1967&lt;/ref&gt;
+
+==Historical context==
+The power struggle between the technostructure and the shareholders was first evoked by [[Thorstein Veblen]] in &quot;The Theory of the Leisure Class&quot; (1899), questioning who, among the managers and the shareholders, should control the enterprise.  At the time and until the end of the 1980s, the shareholders, unable to effectively regroup and organise themselves, could not exert enough pressure to effectively counter the managerial decision-making process.  After the Second World War, the rapid augmentation of shareholders further diluted their collective power.  This was perceived, by Galbraith, as a divorce between the property of the capital and the direction of the enterprise.
+
+==Goals of the technostructure==
+Since the technostructure is composed of an [[hierarchical]] system of influential employees inside the enterprise, its primary goal is not to maximize their profits but rather survival, continuous growth and maximal size.  While it must maintain acceptable relations with their shareholders, [[hegemonic]] growth is more beneficial to the technostructure.
+
+==Decline of the technostructure==
+The lack of control of the technostructure resulted in managerial abuse notably on its salaries during the economic crisis of the 1970s.  It prompted support for new economic [[ideologies]] like the [[Chicago school (economics)|School of Chicago]] under [[Milton Friedman]].  Furthermore, the [[Employee Retirement Income Security Act]] of 1974 forced a much greater transparency from businesses and possible opposition to their decisions.  In the 1980s, the rising and influential [[neoliberal]] ideology decried the ''divorce'' between the capital and the decisions.  Based on the belief of a new emerging economy, neoliberal economic theories were introduced at the end of the 1980s forcing managerial capitalism to yield to the shareholders.
+
+==Results==
+The prime objective of the neoliberal economic theories is the maximization of the profits in order to maximize stock value.  This, quite evidently, greatly differed from the objectives of the technostructure which caused massive restructuring in the 1990s.  In order to maximize profits, enterprises now had to take draconian measures to cut expenses and ensure profits for the shareholders.  This greatly encouraged the exportation of manual or simple tasks to foreign countries where labour is much less expensive and caused massive layoffs in developed countries.  Likewise, it reduced salaries and caused a decline in income of the working class. Paradoxically, the salaries of the managers increased and the constant demand for profits played an important role in the [[accounting scandals]] in 2002.
+
+==Footnotes==
+{{reflist}}
+
+==References==
+* John Kenneth Galbraith, ''The New Industrial State'', Houghton Mifflin Company Boston, 1967; Library of Congress (67-11826)
+
+==See also==
+* [[Managerialism]]
+
+[[Category:Economics terminology]]
+
+[[ca:Tecnoestructura]]
+[[eu:Teknoegitura]]
+[[fr:Technostructure]]
+[[no:Technostructure]]
+[[pl:Technostruktura]]
+[[pt:Tecnoestrutura]]</text>
+      <sha1>kxct84ae53co2kk2csqmplmuuv3w1x7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

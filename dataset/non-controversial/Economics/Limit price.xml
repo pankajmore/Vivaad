@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Limit price</title>
+    <ns>0</ns>
+    <id>549152</id>
+    <revision>
+      <id>455415871</id>
+      <parentid>454920953</parentid>
+      <timestamp>2011-10-13T19:02:20Z</timestamp>
+      <contributor>
+        <username>R'n'B</username>
+        <id>2300502</id>
+      </contributor>
+      <minor/>
+      <comment>Remove [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Entrance]]</comment>
+      <text xml:space="preserve" bytes="3543">{{Competition law}}
+A '''limit price''' is the [[price]] set by a [[monopoly|monopolist]] to discourage entry into a [[market]], and is illegal in many countries.  The limit price is the price that a potential entrant would face upon entering as long as the incumbent firm did not decrease output. The limit price is often lower than the average cost of production or just low enough to make entering not profitable. Such a [[pricing strategy]] is called '''limit pricing'''.&lt;ref&gt;[[Paul Milgrom]] and [[Donald John Roberts|John Roberts]], 1982.  &quot;Limit Pricing and Entry under Incomplete Information: An Equilibrium Analysis,&quot; ''Econometrica'', 50(2).  pp. [http://levine.sscnet.ucla.edu/archive/refs4245.pdf 443-459.]&lt;/ref&gt;
+
+The quantity produced by the incumbent firm to act as a deterrent to entry is usually larger than would be optimal for a monopolist, but might still produce higher [[economic profits]] than would be earned under [[perfect competition]].&lt;br&gt;
+
+The problem with limit pricing as strategic behavior is that once the entrant has entered the market, the quantity used as a threat to deter entry is no longer the incumbent firm's [[best response]]. This means that for limit pricing to be an effective deterrent to entry, the threat must in some way be made credible. A way to achieve this is for the incumbent firm to constrain itself to produce a certain quantity whether entry occurs or not.  An example of this would be if the firm signed a union contract to employ a certain (high) level of labor for a long period of time.&lt;ref name=&quot;Carlton&quot;&gt;Dennis W. Carlton and Jeffery M. Perloff, 2004. ''Modern Industrial Organization'', 4th edition,  [http://www.lavoisier.fr/notice/frSWORK23A3RW32O.html Description.]&lt;/ref&gt; Another example is to build excess production capacity as a commitment device.  
+
+==Simple Example==
+In a simple case, suppose industry [[demand]] for good X at market price P is given by:
+
+ &lt;math&gt;\mathsf{Q^D} = a - bP&lt;/math&gt;
+
+Suppose there are two potential producers of good X, Firm A, and Firm B. Firm A has no [[fixed costs]] and constant [[marginal cost]] equal to &lt;math&gt; c &gt; 0 &lt;/math&gt;. Firm B also has no fixed costs, and has constant marginal cost equal to &lt;math&gt;gc&lt;/math&gt;, where &lt;math&gt;g &gt; 1&lt;/math&gt; (so that Firm B's marginal cost is greater than Firm A's).
+
+Suppose Firm A acts as a monopolist. The profit-maximizing monopoly price charged by Firm A is then:
+
+ &lt;math&gt;p^M = \frac{a + cb}{2b}&lt;/math&gt;
+
+Since Firm B will never sell below its marginal cost, as long as &lt;math&gt;p^M \le gc&lt;/math&gt;, Firm B will not enter the market when Firm A charges &lt;math&gt;p^M&lt;/math&gt;. That is, the market for good X is an effective monopoly if:
+
+ &lt;math&gt;g \ge \frac{a + cb}{2cb}&lt;/math&gt;
+
+Suppose, on the contrary, that:
+
+ &lt;math&gt;g &lt; \frac{a + cb}{2cb}&lt;/math&gt;
+
+In this case, if Firm A charges &lt;math&gt;p^M&lt;/math&gt;, Firm B has an incentive to enter the market, since it can sell a positive quantity of good X at a price above its marginal cost, and therefore make positive profits. In order to prevent Firm B from having an incentive to enter the market, Firm A must set its price no greater than &lt;math&gt;gc&lt;/math&gt;. To maximize its profits subject to this constraint, Firm A sets price &lt;math&gt;p^L = gc&lt;/math&gt; (the limit price).
+
+==References==
+{{reflist}}
+
+==See also==
+*[[list of economics topics]]
+*[[Predatory pricing]]
+*[[Strategic entry deterrence]]
+
+[[Category:Monopoly (economics)]]
+[[Category:Pricing]]
+[[Category:Anti-competitive behaviour]]
+[[Category:Industrial organization]]
+{{econ-stub}}
+
+[[de:Grenzpreis (Wirtschaft)]]</text>
+      <sha1>esg9zjm79toudk7qcz35g41u3ny6vvn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

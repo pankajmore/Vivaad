@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Shrines to the Virgin Mary</title>
+    <ns>1</ns>
+    <id>66862</id>
+    <revision>
+      <id>417250743</id>
+      <parentid>415487728</parentid>
+      <timestamp>2011-03-05T13:41:02Z</timestamp>
+      <contributor>
+        <username>Voceditenore</username>
+        <id>836656</id>
+      </contributor>
+      <comment>rmv {{WikiProject Women's History|class=|importance=}} out of scope</comment>
+      <text xml:space="preserve" bytes="3028">{{WikiProject Saints|class=List|importance=NA}}
+
+==Notes==
+This page is a decent start. It might be helpful to describe what a shrine or sanctuary is in this context, what their significance is, and so forth. Should the histories of these shrines be put in separate articles or just included here to flesh out the current article? [[User:Wesley|Wesley]]
+-----
+Nothing wrong with content but couldn't we come up with a better title. One that doesn't start with &quot;The&quot; would be a start. Maybe &quot;Famous Virgin Mary shrines&quot; or &quot;Shrines to the Virgin Mary&quot;.  --rmhermen
+
+
+I wonder if this should be merged with [[Marian apparitions]]. Most of the content seems to overlap. If so, I think the main article should be at &quot;Marian apparitions&quot;, since the shrines are mostly a side effect or consequence of the sightings. [[User:Wesley|Wesley]]
+
+Their content does overlap substantially but it would be a mistake to merge them. The shrines pages should be about the shrines, the apparitions exclusively about the apparitions. They aren't the same - one is about locations, one is about (or should be rewritten to be about) apparitions. Merging them when they aren't actually ''about'' the same thing (or shouldn't be with a rewrite) would be as absurd as merging George W. Bush and the White House. [[User:Jtdirl|STÓD/ÉÍRE]] 17:46 Mar 31, 2003 (UTC)
+
+-------
+
+What is the distinction between a Virgin Mary shrine and a church dedicated to her? [[Marie-Reine-du-Monde Cathedral]] is not the site of some famous apparition, but it is a sanctuary dedicated to Mary. Some guidance? - [[User:Montrealais|Montr&amp;eacute;alais]]
+
+A Virgin Mary shrine is the site of an alleged apparition. A location that is not the site of an apparition should not be called a Virgin Mary Shrine. [[User:Jtdirl|FearÉÍREANN]] 21:21 16 May 2003 (UTC)
+
+Is this page going to be moved? If there are no objections, I will move it. --[[User:Jiang|Jiang]] 22:43, 16 Aug 2003 (UTC)
+
+I don't see the reason to, other than to removal of ''the''. Where would be be moved to, given that the name describes the contents accurately? [[User:Jtdirl|FearÉIREANN]] 23:33, 16 Aug 2003 (UTC)
+
+I mean...rename. &quot;Famous Virgin Mary shrines&quot; or &quot;Shrines to the Virgin Mary&quot; were suggested above. --[[User:Jiang|Jiang]]
+
+I think the latter one is better, as famous immediately enters into the POV ''who decides what is famous'' quagmire. [[User:Jtdirl|FearÉIREANN]] 23:47, 16 Aug 2003 (UTC)
+
+A shrine doesn't have to be linked to a Marian appartion, and there are many shrines for other Saints.  From the Roman Catholic Code of Canon Law:
+&quot;Can. 1230 The term shrine means a church or other sacred place which, with the approval of the local Ordinary, is by reason of special devotion frequented by the faithful as pilgrims.
+Can. 1231 For a shrine to be described as national, the approval of the Episcopal Conference is necessary. For it to be described as international, the approval of the Holy See is required.&quot; [[User:Marcusscotus1|Marcusscotus1]] 14:47, 16 September 2005 (UTC)</text>
+      <sha1>scm1f1n9kw21cldp6k5q56o5vxvs8ox</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

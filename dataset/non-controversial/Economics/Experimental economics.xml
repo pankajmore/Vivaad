@@ -1,0 +1,229 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Experimental economics</title>
+    <ns>0</ns>
+    <id>548102</id>
+    <revision>
+      <id>519304386</id>
+      <parentid>518728461</parentid>
+      <timestamp>2012-10-23T00:57:11Z</timestamp>
+      <contributor>
+        <ip>157.242.218.160</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="29814">{{Economics sidebar}}
+'''Experimental economics''' is the application of [[experimental method]]s&lt;ref&gt;Including [[statistical]], [[econometric]], and [[computational economics|computational]]. On the latter see [[Alvin E. Roth]], 2002. &quot;The Economist as Engineer: Game Theory, Experimentation, and Computation as Tools for Design Economics,&quot; ''Econometrica'', 70(4), pp. [http://kuznets.fas.harvard.edu/~aroth/papers/engineer.pdf 1341–1378].&lt;/ref&gt; to study economic questions. [[Economic data|Data]] collected in experiments are used to estimate [[effect size]], test the validity of economic theories, and illuminate market mechanisms. Economic experiments usually use cash to motivate subjects, in order to mimic real-world incentives. Experiments are used to help understand how and why markets and other exchange systems function as they do. 
+
+A fundamental aspect of the subject is [[design of experiments]].  Experiments may be conducted in the [[Field experiments|field]] or in laboratory settings, whether of [[Experimental psychology|individual]] or [[Social psychology|group]] [[Behavioral economics|behavior]].&lt;ref&gt;• [[Vernon L. Smith]], 2008a. &quot;experimental methods in economics,&quot; ''[[The New Palgrave Dictionary of Economics]]'', 2nd Edition, [http://www.dictionaryofeconomics.com/article?id=pde2008_E000186&amp;q=Experimental%20economics&amp;topicid=&amp;result_number=2 Abstract.]
+&lt;br/&gt;&amp;nbsp;&amp;nbsp; • _____, 2008b. &quot;experimental economics,&quot; ''The New Palgrave Dictionary of Economics'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_E000277&amp;q=experimental%20&amp;topicid=&amp;result_number=2 Abstract.]&lt;br/&gt;&amp;nbsp;&amp;nbsp; •  Relevant subcategories are found at the ''Journal of Economic Literature'' classification codes at [[JEL classification codes#Mathematical and quantitative methods JEL: C Subcategories|JEL: C9]].&lt;/ref&gt; 
+
+Variants of the subject outside such formal confines include [[natural experiment|natural]] and [[quasi-natural experiment]]s.&lt;ref&gt;J. DiNardo,  2008.  &quot;natural experiments and quasi-natural experiments,&quot; ''The New Palgrave Dictionary of Economics'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_N000142&amp;edition=current&amp;q Abstract.]&lt;/ref&gt;  
+
+==Experimental topics==
+One can loosely classify economic experiments using the following topics:  
+
+* [[Markets]]
+* [[game theory|Game]]s&lt;ref&gt;• Vernon L. Smith, 1992.  &quot;Game Theory and Experimental Economics: Beginnings and Early Influences,&quot; in E. R. Weintraub, ed., ''Towards a History of Game Theory'', pp. [http://books.google.com/books?hl=en&amp;lr=&amp;id=9CHY2Gozh1MC&amp;oi=fnd&amp;pg=PA241&amp;ots=onepage&amp;q&amp;f=false#v=onepage&amp;q&amp;f=false 241-] 282.&lt;br/&gt;&amp;nbsp;&amp;nbsp; • _____, 2001. &quot;Experimental Economics,&quot; ''[[International Encyclopedia of the Social &amp; Behavioral Sciences]]'', pp. 5100-5108. [http://www.sciencedirect.com/science/article/pii/B0080430767022324 Abstract] per sect. 1.1 &amp; 2.1.&lt;br/&gt;&amp;nbsp;&amp;nbsp; • Charles R. Plott and Vernon L. Smith, ed., 2008. ''Handbook of Experimental Economics Results'', v. 1, Elsevier,  Part 4, Games,  ch. 45-66 preview [http://www.sciencedirect.com/science?_ob=PublicationURL&amp;_hubEid=1-s2.0-S1574072207X00015&amp;_cid=277334&amp;_pubType=HS&amp;_auth=y&amp;_acct=C000228598&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=49f8b6d5e3024eac39ed5fad351fe568 links].&lt;br/&gt;&amp;nbsp;&amp;nbsp; • Vincent P. Crawford, 1997.  &quot;Theory and Experiment in the Analysis of Strategic Interaction,&quot; in  ''Advances in Economics and Econometrics: Theory and Applications'', pp. [http://weber.ucsd.edu/~vcrawfor/CrawfordThExp97.pdf  206-242]. Cambridge. Reprinted in Colin F. Camerer ''et al''., ed. (2003). ''Advances in Behavioral Economics'', Princeton. 1986-2003 papers. [http://press.princeton.edu/titles/8437.html  Description], [http://books.google.com/books?id=sA4jJOjwCW4C&amp;printsec=find&amp;pg=PR7=#v=onepage&amp;q&amp;f=false contents], and [http://books.google.com/books?id=sA4jJOjwCW4C&amp;printsec=find&amp;pg=PR7=#v=onepage&amp;q&amp;f=false preview]., Princeton, ch. 12.&lt;/ref&gt;&lt;ref&gt;[[Martin Shubik]], 2002.  &quot;Game Theory and Experimental Gaming,&quot; in [[Robert Aumann]] and Sergiu Hart, ed., ''Handbook of Game Theory with Economic Applications'', Elsevier, v. 3, pp. 2327-2351. [http://www.sciencedirect.com/science/article/pii/S1574000502030254 Abstract].&lt;/ref&gt;
+* [[Decision making]]
+* [[Bargaining]]
+* [[Auctions]]
+* Coordination
+* Social Preferences
+* Learning
+* [[Matching]]
+* Field Experiments
+ 
+Within [[economics education]], one application involves experiments used in the [[Simulations and games in economics education|teaching of economics]].  An alternative approach with experimental dimensions is [[Agent-based computational economics|agent-based computational modeling]]. 
+
+===Coordination games===
+
+Coordination games are [[game theory|game]]s with multiple pure strategy [[Nash equilibrium|Nash equilibria]]. There are two general sets of questions that experimental economists typically ask when examining such games: (1) Can laboratory subjects coordinate, or learn to coordinate, on one of multiple equilibria, and if so are there general principles that can help predict which equilibrium is likely to be chosen? (2) Can laboratory subjects coordinate, or learn to coordinate, on the Pareto best equilibrium and if not, are there conditions or mechanisms which would help subjects coordinate on the Pareto best equilibrium?  Deductive selection principles are those that allow predictions based on the properties of the game alone. Inductive selection principles are those that allow predictions based on characterizations of dynamics.
+
+===Learning experiments===
+
+In [[game theory|game]]s of two players or more, the subjects often form beliefs about what actions the other subjects are taking and these beliefs are updated over time. This is known as belief learning. Subjects also tend to make the same decisions that have rewarded them with high payoffs in the past. This is known as [[reinforcement learning]].
+
+Until the 1990s, simple adaptive models, such as [[Cournot competition]] or [[fictitious play]], were generally used. In the mid-1990s, [[Alvin E. Roth]] and Ido Erev demonstrated that reinforcement learning can make useful predictions in experimental games. In 1999, [[Colin Camerer]] and Teck Ho introduced Experience Weighted Attraction (EWA), a general model that incorporated reinforcement and belief learning, and shows that fictitious play is mathematically equivalent to generalized reinforcement, provided weights are placed on past history.  
+
+Criticisms of EWA include [[overfitting]] due to many parameters, lack of generality over games, and the possibility that the interpretation of EWA parameters may be difficult. Overfitting is addressed by estimating parameters on some of the experimental periods or experimental subjects and forecasting behavior in the remaining sample (if models are overfitting, these out-of-sample validation forecasts will be much less accurate than in-sample fits, which they generally are not). Generality in games is addressed by replacing fixed parameters with &quot;self-tuning&quot; functions of experience, allowing pseudo-parameters to change over the course of a game and to also vary systematically across games.  
+
+Modern experimental economists have done much notable work recently. Roberto Weber has raised issues of learning without feedback. David Cooper and John Kagel have investigated types of learning over similar strategies. Ido Erev and Greg Barron have looked at learning in cognitive strategies. Dale Stahl has characterized learning over decision making rules. [[Charles A. Holt]] has studied logit learning in different kinds of games, including games with multiple equilibria. Wilfred Amaldoss has looked at interesting applications of EWA in marketing. Amnon Rapoport, [[Jim Parco]] and Ryan Murphy have investigated reinforcement-based adaptive learning models in one of the most celebrated paradoxes in game theory known as the [[centipede game]].
+
+===Market games===
+
+[[Edward Chamberlin]] is thought to have conducted &quot;not only the first market experiment, but also the first economic experiment of any kind.&quot;&lt;ref name=miller2002&gt;{{cite book | author = Ross Miller | title = [[Paving Wall Street | Paving Wall Street: experimental economics and the quest for the perfect market]] | pages = 73–74 | publisher = John Wiley &amp; Sons | location = New York | year = 2002 | isbn = 0-471-12198-3 }}&lt;/ref&gt; [[Vernon L. Smith|Vernon Smith]], drawing on Chamberlin's work, but also modifying it in key respects, conducted pioneering economics experiments on the convergence of prices and quantities to their theoretical competitive equilibrium values in experimental markets.&lt;ref name=miller2002/&gt; Smith studied the behavior of &quot;buyers&quot; and &quot;sellers&quot;, who are told how much they &quot;value&quot; a fictitious commodity and then are asked to competitively &quot;bid&quot; or &quot;ask&quot; on these commodities following the rules of various real world market institutions (e.g., the [[Double auction]] as well the English and Dutch [[auction]]s). Smith found that in some forms of centralized trading, prices and quantities traded in such markets converge on the values that would be predicted by the economic theory of [[perfect competition]], despite the conditions not meeting many of the assumptions of perfect competition (large numbers, perfect information).  
+
+Over the years, Smith pioneered -along with other collaborators- the use of controlled laboratory experiments in economics, and established it as a legitimate tool in economics and other related fields. [[Charles Plott]] of the [[California Institute of Technology]] collaborated with Smith in the 1970s and pioneered experiments in political science, as well as using experiments to inform economic design or engineering to inform policies. In 2002, Smith was awarded (jointly with [[Daniel Kahneman]]) the [[Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel|Bank of Sweden Prize in Economic Sciences]] &quot;for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms&quot;.
+
+===Finance===
+
+[[Experimental finance]] studies [[financial markets]] with the goals of establishing different market settings and environments to observe experimentally and analyze agents' behavior and the resulting characteristics of trading flows, information diffusion and aggregation, price setting mechanism and returns processes. Presently, researchers use simulation software to conduct their research.
+
+For instance, experiments have manipulated [[information asymmetry]] about the [[holding value]] of a bond or a share on the pricing for those who don't have enough information, in order to study [[stock market bubble]]s.
+
+===Social preferences===
+{{Main|Social preferences}}
+The term &quot;social preferences&quot; refers to the concern (or lack thereof) that people have for each other's well-being, and it encompasses altruism, spitefulness, tastes for equality, and tastes for reciprocity. Experiments on social preferences generally study economic games including the [[dictator game]], the [[ultimatum game]], the [[trust game]], the [[public goods game]], and modifications to these canonical settings.
+As one example of results, [[ultimatum game]] experiments have shown that people are generally willing to sacrifice monetary rewards when offered low allocations, thus behaving inconsistently with simple models of self-interest. Economic experiments have measured how this deviation varies across cultures. 
+
+===Agent-based computational modeling===
+[[Agent-based computational economics|Agent-based computational modeling]] is a relatively recent method in economics with experimental dimensions.&lt;ref name = &quot;Page2008&quot;&gt;Scott E. Page, 2008. &quot;agent-based models,&quot; ''[[The New Palgrave Dictionary of Economics]]'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_A000218&amp;edition=current&amp;q=agent-based%20computational%20modeling&amp;topicid=&amp;result_number=1 Abstract.]&lt;/ref&gt;  Here the focus is on economic processes, including whole [[economy|economies]], as dynamic systems of interacting [[Agent (economics)|agents]],  an application of the [[complex adaptive system]]s [[paradigm]].&lt;ref&gt;Leigh Tesfatsion, 2003. &quot;Agent-based Computational Economics: Modeling Economies as Complex Adaptive Systems,&quot; ''Information Sciences'', 149(4), pp. 262-268. [http://www.sciencedirect.com/science/article/pii/S0020025502002803 Abstract.]&lt;/ref&gt;  The &quot;agent&quot; refers to &quot;computational objects modeled as interacting according to rules,&quot; not real people.&lt;ref name = &quot;Page2008&quot;/&gt; Agents can represent social and/or physical entities. Starting from initial conditions determined by the modeler, an ACE model develops forward through time driven solely by agent interactions.&lt;ref&gt;• [[Leigh Tesfatsion]], 2006. &quot;Agent-Based Computational Economics: A Constructive Approach to Economic Theory,&quot; ch. 16, ''Handbook of Computational Economics'', v. 2, pp. 831-880. [http://www.sciencedirect.com/science/article/pii/S1574002105020162 Abstract/outline]. 2005 prepublication [http://econ2.econ.iastate.edu/tesfatsi/hbintlt.pdf version].&lt;br/&gt;&amp;nbsp; •  Kenneth Judd, 2006. &quot;Computationally Intensive Analyses in Economics,&quot; ''Handbook of Computational Economics'', v. 2, ch. 17, pp. [http://books.google.com/books?hl=en&amp;lr=&amp;id=6ITfRkNmKQcC&amp;oi=fnd&amp;pg=PA881&amp;ots=2j0cCBB5S6&amp;sig=a1DlAKMWcxFQZwSkGVVp2zlHIb8#v=onepage&amp;q&amp;f=false 881-] 893.&lt;br/&gt;&amp;nbsp; • Leigh Tesfatsion and Kenneth Judd, ed., 2006. ''Handbook of Computational Economics'', v. 2. [http://www.elsevier.com/wps/find/bookdescription.cws_home/660847/description#description Description] &amp; and chapter-preview 
+[http://www.sciencedirect.com/science?_ob=PublicationURL&amp;_hubEid=1-s2.0-S1574002105X02003&amp;_cid=273377&amp;_pubType=HS&amp;_auth=y&amp;_acct=C000228598&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=e4757b4f65755ed6340a11fee9615200 links.]&lt;/ref&gt;  Issues include those common to experimental economics in general&lt;ref&gt;Vernon L. Smith,  2008b.  &quot;experimental economics,&quot; ''The New Palgrave Dictionary of Economics'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_E000277&amp;q=experimental%20&amp;topicid=&amp;result_number=2 Abstract].&lt;/ref&gt; and by comparison&lt;ref&gt;[[John Duffy (economist)|John Duffy]], 2006. &quot;Agent-Based Models and Human Subject Experiments,&quot;  ch. 19,  ''Handbook of Computational Economics'', v.2, pp. 949–101. [http://www.sciencedirect.com/science/article/pii/S1574002105020198 Abstract].&lt;/ref&gt; as well as  development of a common framework for empirical validation and resolving open questions in agent-based modeling.&lt;ref&gt;• Leigh Tesfatsion, 2006. &quot;Agent-Based Computational Economics: A Constructive Approach to Economic Theory,&quot; ch. 16, ''Handbook of Computational Economics'', v. 2, sect. 5. [http://www.sciencedirect.com/science/article/pii/S1574002105020162 Abstract] and pre-pub [http://econ2.econ.iastate.edu/tesfatsi/hbintlt.pdf PDF].&lt;br/&gt;&amp;nbsp;&amp;nbsp; • Akira Namatame and Takao Terano (2002). &quot;The Hare and the Tortoise: Cumulative Progress in Agent-based Simulation,&quot; in ''Agent-based Approaches in Economic and Social Complex Systems''. pp. [http://books.google.com/books?id=nTkwxVUYvfIC&amp;printsec=find&amp;pg=PA3=onepage&amp;q&amp;f=false#v=onepage&amp;q&amp;f=false 3-] 14, IOS Press. [http://www.iospress.nl/book/agent-based-approaches-in-economic-and-social-complex-systems-2/ Description].&lt;br/&gt;&amp;nbsp;&amp;nbsp; • Giorgio Fagiolo, Alessio Moneta, and Paul Windrum, 2007 &quot;A Critical Guide to Empirical Validation of Agent-Based Models in Economics: Methodologies, Procedures, and Open Problems,&quot; ''Computational Economics'', 30(3), pp. [http://www.springerlink.com/content/t683473172528275/ 195]–226.
+&lt;/ref&gt;
+
+==Methodology==
+===Guidelines===
+Experimental economists generally adhere to the following methodological guidelines:
+* Incentivize subjects with real monetary payoffs.
+* Publish full experimental instructions.
+* Do not use deception.
+* Avoid introducing specific, concrete context.
+
+===Critiques===
+The above guidelines have developed in large part to address two central critiques. Specifically, economics experiments are often challenged because of concerns about their &quot;internal validity&quot; and &quot;external validity&quot;, for example, that they are not applicable models for many types of economic behavior, so the experiments simply aren't good enough to produce useful answers. Interestingly, however, none of the critiques towards this methodology is specific to it, as they are immediately applicable to either theoretical or empirical approaches or both. &lt;ref&gt;{{cite journal|last=Camerer|first=Colin F.|title=The Promise and Success of Lab-Field Generalizability in Experimental Economics: A Critical Reply to Levitt and List|date=30/12/2011|year=2011|month=December|series=Working Paper Series|accessdate=15 August 2012}}&lt;/ref&gt; {{Citation needed|date=June 2009}}
+
+==See also==
+* [[Behavioral economics]]
+* [[Behavioral finance]]
+* [[Behavioral Operations Research]]
+* [[Experimental finance]]
+* [[Experimental techniques]]
+* [[List of publications in economics#Experimental economics|Important publications in experimental economics]]
+* [[Quantitative behavioral finance]]
+* [[Reinhard Selten]] is another central figure in the foundation of experimental economics.
+
+==Notes==
+{{Reflist|1}}
+
+==References==
+* [Bastable, C. F.],  1987).  &quot;experimental methods in economics,&quot; i,  ''[[The New Palgrave: A Dictionary of Economics]]'', v. 2, pp.&amp;nbsp;241. Reprinted from ''[[The New Palgrave Dictionary of Economics#Earlier editions|Palgrave's Dictionary of Political Economy]]'', 1925. 
+* Battalio, Raymond C., ''et al.'', 1973. &quot;A Test of Consumer Demand Theory Using Observations of Individual Consumer Purchases,&quot; ''Economic Inquiry'', 11(4), pp. [http://onlinelibrary.wiley.com/doi/10.1111/j.1465-7295.1973.tb00972.x/abstract 411]–428. 
+* [[Colin Camerer|Camerer, Colin]], [[George Loewenstein]], and [[Drazen Prelec]], 2005. &quot;Neuroeconomics: How Neuroscience Can Inform Economics,&quot; ''Journal of Economic Literature'', 43(1), pp. [http://www.stanford.edu/group/neuroeconomics/pdfs/cc05jel.pdf 9-64].
+*  [[Edward H. Chamberlin|Chamberlin, Edward H.]],  1948. &quot;An Experimental Imperfect Market,&quot; ''Journal of Political Economy'', 56(2), pp. [http://www.jstor.org/pss/1826387 95]-108.
+* Davis, Douglas D., and Charles A. Holt, 1993. ''Experimental Economics'', Princeton. [http://press.princeton.edu/titles/5255.html Description], [http://books.google.com/books?id=mse-RpPIcc0C&amp;printsec=find&amp;pg=PR5=onepage&amp;q&amp;f=false#v=onepage&amp;q&amp;f=false preview] and [http://press.princeton.edu/chapters/s5255.pdf ch. 1] {complete).   
+* [[Daniel Friedman (economist)|Friedman, Daniel]], and &lt;!-- Same name but different persons, so no link. --&gt;Shyam Sunder, 1994. ''Experimental Methods: A Primer for Economists'', Cambridge University Press. Description/contents [http://www.cambridge.org/gb/knowledge/isbn/item1145017/?site_locale=en_GB links] and scrollable [http://books.google.com/books?hl=en&amp;lr=&amp;id=3lxmCqLG6kkC&amp;oi=fnd&amp;pg=PA1&amp;ots=BQ_ONwSCx6&amp;sig=qS0DfGLmKvZMnAAoKAxB2_aQ7mQ#v=onepage&amp;q&amp;f=false preview].
+* [[Armin Falk|Falk, Armin]] and [[Simon Gächter]], 2008. &quot;experimental labour economics,&quot; ''The New Palgrave Dictionary of Economics'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_E000276&amp;edition=&amp;topicid=&amp;result_number=1 Abstract] and [http://www.nottingham.ac.uk/~lezsg1/papers/ExperimentalLabourEconomics.pdf galley proof].
+* Grether, David M., and Charles R. Plott, 1979. &quot;Economic Theory of Choice and the Preference Reversal Phenomenon,&quot; ''American Economic Review'', 69(4 ), pp. [http://expecon.gsu.edu/jccox/reading/econtheoryc.pdf 623-638]. 
+* Guala, Francesco, 2005. ''The Methodology of Experimental Economics'', Cambridge. Description/contents [http://www.cambridge.org/gb/knowledge/isbn/item1172961/?site_locale=en_GB links] and ch. 1 [http://www.cambridge.org/servlet/file/store6/item2350863/version1/item_9780521853408_excerpt.pdf  excerpt.] 
+* Hertwig, Ralph, and Andreas Ortmann, 2001. &quot;Experimental Practices in Economics : A Methodological Challenge for Psychologists?&quot; ''Behavioral and Brain Sciences'', 24(3), pp. [http://dse.univr.it/vele/images/stories/risk_aversion/experimental_practices_in_economics._a_methodological_challenge_for_psychologists.pdf  383-403].
+* Holt, Charles A., and Susan K. Laury, 2002. &quot;Risk Aversion and Incentive Effects,&quot; ''American Economic Review'', 92(5) pp. [http://www.excen.gsu.edu/jccox/reading/Holt%20Laury%202002.pdf 1644-1655.]
+* Kagel, John H. ''et al.'', 1975. &quot;Experimental Studies of Consumer Demand Behavior Using Laboratory Animals,&quot; ''Economic Inquiry'', 13(1), pp. 22–38. [http://en.scientificcommons.org/49909443 Abstract].    
+* Kagel, John H., and Alvin E. Roth, ed.,  1995. ''The Handbook of Experimental Economics'', Princeton University Press. [http://press.princeton.edu/titles/5680.html Description/TOC] and [http://kuznets.fas.harvard.edu/~aroth/handbook.html detailed contents.]   
+* [[Daniel Kahneman|Kahneman Daniel]], Jack L. Knetsch, and [[Richard Thaler]], 1986. &quot;Fairness as a Constraint on Profit Seeking: Entitlements in the Market,&quot; ''American Economic Review,'' 76(4), pp. [http://faculty.som.yale.edu/keithchen/negot.%20papers/KahnKnetThal_FairProfitSeek86.pdf 728-741].
+* [[Charles Plott|Plott, Charles R.]], 1982.  &quot;Industrial Organization Theory and Experimental Economics,&quot; ''Journal of Economic Literature'', 20(4), pp. [http://www.jstor.org/pss/2724830 1485]-1527. Reprinted in Plott, 2001,  ''Market Institutions and Price Discovery'', pp. [http://books.google.com/books?hl=en&amp;lr=&amp;id=jkTe2HIHPhsC&amp;oi=fnd&amp;pg=PA18&amp;ots=c2uOP5RLb8&amp;sig=5Vm_1d9UK5GEKwqD1LvJ0xR7pNA#v=onepage&amp;q&amp;f=false 18-59]. Elgar.  [http://www.e-elgar.co.uk/bookentry_mainUS.lasso?id=2162 Description.]
+* _____ and Susan K. Laury, 2002. &quot;Risk Aversion and Incentive Effects,&quot; ''American Economic Review'', 92(5) pp. [http://www.excen.gsu.edu/jccox/reading/Holt%20Laury%202002.pdf 1644-1655].
+* Plott, Charles R., and Vernon L. Smith, 2008. ''Handbook of Experimental Economics Results'', v. 1, Elsevier. [http://www.elsevier.com/wps/find/bookdescription.cws_home/601504/description#description  Description] and chapter-link [http://www.sciencedirect.com/science?_ob=PublicationURL&amp;_hubEid=1-s2.0-S1574072207X00015&amp;_cid=277334&amp;_pubType=HS&amp;_auth=y&amp;_acct=C000228598&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=49f8b6d5e3024eac39ed5fad351fe568 previews]. 
+* [[Alvin E. Roth|Roth, Alvin E.]], and Michael W Malouf, 1979. &quot;Game-theoretic Models and the Role of Information in Bargaining,&quot; ''Psychological Review'', 86(6), pp. [http://kuznets.fas.harvard.edu/~aroth/papers/79_PR_GameTheoretic.pdf  574-594].
+* [[Vernon L. Smith|Smith, Vernon L.]], 1962.  &quot;An Experimental Study of Competitive Market Behavior,&quot; ''Journal of  Political Economy'', 70(2), pp. [http://www.jstor.org/pss/1861810 111]-137.
+* ____, 1982. &quot;Microeconomic Systems as an Experimental Science,&quot;  ''American Economic Review'', 72(5), pp. [http://www.cs.princeton.edu/courses/archive/spring06/cos444/papers/smith82.pdf   923-955]. 
+* _____, 1991. ''Papers in Experimental Economics'' [1962-88],  Cambridge. [http://books.google.com/books?id=zIjzN0UZ9G4C&amp;source=gbs_similarbooks Description] and chapter-preview [http://books.google.com/books?id=zIjzN0UZ9G4C&amp;printsec=find&amp;pg=PR7=onepage&amp;q&amp;f=false#v=onepage&amp;q&amp;f=false links].
+* _____, [1987] 2008. &quot;experimental methods in economics,&quot; ''The New Palgrave Dictionary of Economics'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_E000186&amp;q=Experimental%20economics&amp;topicid=&amp;result_number=2 Abstract].
+
+===Experimental economics organizations===
+* [http://www.beelab.nl/ BEElab Maastricht University- Behavioral and Experimental Economics laboratory at Maastricht University]
+* [http://www.melessa.lmu.de, MELESSA - Munich Experimental Laboratory for Economic and Social Sciences at Ludwig-Maximilians Universität Munich]
+* [http://www.upf.edu/leex/ Laboratory for Experimental Economics (LeeX), Universitat Pompeu Fabra]
+* [http://experiment.economics.adelaide.edu.au/ Adelaide Laboratory for Experimental Economics (AdLab), University of Adelaide]
+* [http://ockenfels.uni-koeln.de/12372.html?&amp;L=1/ Cologne Laboratory for Economic Research, University of Cologne]
+* [http://www.chapman.edu/ESI/ (ESI) Economic Science Institute at Chapman University]
+* [http://erl.tamu.edu/ Economics Research Laboratory (ERL) at Texas A&amp;M University]
+* [http://www.economicscience.org/ Economic Science Association, the international association of experimental economists.]
+* [http://www.asr.uab.cat/ Research Chair Antoni Serra Ramoneda Caixa Catalunya, Barcelona, Spain (ASR)]
+* [http://www-ceel.economia.unitn.it/ Computable and Experimental Economics Laboratory at University of Trento, Italy (CEEL)]
+* [http://center.uvt.nl/lab/ CentERlab, Tilburg University, the Netherlands]
+* [http://experimental.econ.umd.edu/ Experimental Economics Laboratory at University of Maryland (EEL-UMD)]
+* [http://ices.gmu.edu/ ICES, Interdisciplinary Center for Economic Science at George Mason University]
+* [http://www.ifpri.org/book-1135/ourwork/program/ifpri-mobile-experimental-economics-laboratory-imeel/ IFPRI Mobile Experimental Economics Laboratory (IMEEL)]
+* [http://excen.gsu.edu/ EXperimental Economics CENter at Georgia State University (EXCEN)]
+* [http://www.uam.es/departamentos/economicas/analecon/especifica/madlee/ Madrid Laboratory for Experimental Economics (MadLEE), at Universidad Autónoma de Madrid]
+* [http://www.xsfs.fsu.edu/ xs/fs, Experimental Social Science at Florida State University]
+* [http://www.ww.uni-magdeburg.de/maxlab/ Magdeburg Laboratory for Experimental Economics]
+* [http://www.uni-erfurt.de/elab/ Erfurt Laboratory for Experimental Economics]
+* [http://www.bonneconlab.uni-bonn.de/econlab/ Bonn Experimental Economics Laboratory]
+* [http://xlab.berkeley.edu UC Berkeley Experimental Economics - Xlab]
+* [http://www1.fee.uva.nl/creed Center for Research in Experimental Economics and political Decision-making (CREED) at Universiteit van Amsterdam]
+* [http://eeps.caltech.edu Laboratory for Experimental Economics and Political Science (EEPS) at California Institute of Technology]
+* [http://cess.nyu.edu/ Center for Experimental Social Science (CESS) at NYU]
+* [http://www.ssel.caltech.edu Social Science Experimental Laboratory (SSEL) at Caltech]
+* [http://www.cassel.ucla.edu California Social Science Experimental Laboratory (CASSEL)at UCLA] 
+* [http://www.peel.pitt.edu Pittsburgh Experimental Economics Lab (PEEL) at University of Pittsburgh]
+* [http://www.econlab.arizona.edu/ University of Arizona Economic Science Laboratory]
+* [http://leeps.ucsc.edu/ Learning and Experimental Economics Projects (LEEPS) at UCSC]
+* [http://www.nottingham.ac.uk/economics/cedex Centre for Decision Research and Experimental Economics (CeDEx)]
+* [http://leep.univ-paris1.fr/ Paris Laboratory of Experimental Economics '' Laboratoire d'Economie Expérimentale de Paris (LEEP) '', France]
+* [http://leem.lameta.univ-montp1.fr/ Laboratoire Montpelliérain d'Economie Expérimentale (LEEM)'' LEEM's Laboratory (France)'']
+* [http://www.projects.ex.ac.uk/feele/ Finance and Economics Experimental Laboratory at Exeter (FEELE), Exeter University, UK]
+* [http://lee.wne.uw.edu.pl/cms/ Laboratory of Experimental Economics, Poland]
+* [http://labex.crem.univ-rennes1.fr/eng/index.php French LABoratory of EXperimental Economics (LABEX)]
+* [http://www.ecoexpaucirano.qc.ca/lab/intro/index.php?language=en Bell University Laboratory in Electronic Commerce and Experimental Economics at CIRANO]
+* [http://belis.bilgi.edu.tr/ Bilgi Economics Lab of Istanbul (BELIS) at Istanbul Bilgi University, Turkey]
+* [http://epee.hse.ru/Laboratory Laboratory for experimental and behavioural economics at] [[State University - Higher School of Economics]], Russia
+* [http://econlab.uaa.alaska.edu/ UAA Experimental Economics Lab at] [http://www.uaa.alaska.edu/ University of Alaska Anchorage]
+* [http://www.nzeel.canterbury.ac.nz/index.shtml/ New Zealand Experimental Economics Laboratory (NZEEL) at University of Canterbury] [http://www.nzeel.canterbury.ac.nz/index.shtml]
+* [http://www.lee.uji.es/ Laboratorio de Economía Experimental (LEE) Universitat Jaume I, Castellón, Spain]
+* [http://www.gate.cnrs.fr/spip.php?article99&amp;lang=en GATE Experimental Lab, Lyon, France]
+* [http://www.uv.es/lineex Laboratory for Research in Experimental Economics (LINEEX), Universitat de València, Valencia, Spain]
+* [http://bellarmine2.lmu.edu/econlab/index.html LMU Experimental Economics Lab, Loyola Marymount University, Los Angeles, CA]
+===Software===
+* [http://www.jessx.net/ JessX: free Opensource software] for experimental economics. Simulation of a wide scope of market microstructures, information asymmetry... provided with server, client, session analyzer, and automatic trader.
+* [http://www.iew.unizh.ch/ztree/index.php Z-Tree; Zurich Toolbox for Readymade Economic Experiments]
+
+===Education===
+* [http://www.econport.org EconPort] (Supported by the Experimental Economics Center at Georgia State University)
+* [http://www.economicsnetwork.ac.uk/themes/games.htm Classroom Experiments &amp; Games at the Economics Network, UK]
+
+[[Category:Experimental economics| ]]
+[[Category:Mathematical and quantitative methods (economics)]]
+{{Economics|state=autocollapse}}
+
+[[ar:اقتصاد تجريبي]]
+[[bg:Експериментална икономика]]
+[[de:Experimentelle Ökonomik]]
+[[el:Πειραματικά οικονομικά]]
+[[fr:Économie expérimentale]]
+[[it:Economia sperimentale]]
+[[mk:Експериментална економија]]
+[[pl:Ekonomia eksperymentalna]]
+[[pt:Economia experimental]]
+[[ru:Экспериментальная экономика]]
+[[fi:Kokeellinen taloustiede]]
+[[zh:实验经济学]]</text>
+      <sha1>r56fmq3r8oeurp8mdtr4jr825633rdi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>
