@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Carver (board policy)</title>
+    <ns>0</ns>
+    <id>6883690</id>
+    <revision>
+      <id>518318025</id>
+      <parentid>496428374</parentid>
+      <timestamp>2012-10-17T13:12:08Z</timestamp>
+      <contributor>
+        <ip>71.231.97.219</ip>
+      </contributor>
+      <comment>/* Development of model */</comment>
+      <text xml:space="preserve" bytes="3668">'''John Carver''' is an [[author]] noted for his development of the [[policy model]] for [[board of directors|boards of directors]] called [[Policy Governance]].  Carver states his model is the only systematic theory of boards.  He is Adjunct Professor of Nonprofit Organizations in the Institute for Nonprofit Organizations at the [[University of Georgia School of Social Work]].&lt;ref name=&quot;MNPOhandbook&quot;&gt;[http://ssw.uga.edu:8091/plone/prospective-students/mnpo-program/MNPO-Handbook.2008-2009.pdf MNPO Handbook]&lt;/ref&gt;
+
+==Development of model==
+
+Early in his career, Carver searched for a reliable guide to managing the work of a board. His research turned up little on the proper role of the board of directors.
+
+Carver noticed that board members often wonder what the board's job is and where the line distinguishing the Boards job from that of the [[Chief Executive Officer]] lies.  Carver's model clarifies the separation by having the board explicitly state the Boards and CEO's jobs in a set of written policies (hence the name 'Policy Governance').
+This set of policies is divided in four types of policies. One type is about the organizations goals (or Ends), and three of them are about the means board and CEO employ to attain those ends.
+
+It is a common misunderstanding that in Policy Governance it is the board's job to decide the goals and the Chief Executive Officer's job to determine the means to achieve the board's ends. Both board and CEO decide goals (Ends) and means, but in the written policies by the board, it is explicitly stated where the room for interpretation of the CEO of the boards' ends statements begins.
+
+Carver's model of boards originated with Carver. The term &quot;Policy Governance&quot; is registered and [[trademark]]ed.  Carver permits others to employ the term but he stops any efforts  to redefine the term or to ignore its methods and systems. Each application of the Policy Governance Model is peculiar to the specific organization being governed. The Policy Governance Model has universal meaning, and can be adopted in very different company settings, profit and non-profit, although complex local legislation can make it difficult to recognize the underlying logic of the model.
+In every true application of Policy Governance the board represents the ownership of the organization as it defines the good that the organization is to provide for the recipients. Ownership and recipients can be the same group of people (as is the case with most associations), but more often they are different groups.
+
+Dr. John Carver and his wife, Miriam Carver, have trained several hundreds consultants at the Policy Governance Academy.
+
+==Works==
+Carver has written a number of books. These include ''Boards That Make a Difference''  which is probably the best known of his works.  His book ''Reinventing Your Board'', published in a new edition in 2006, is probably the easiest for a beginner to understand. It also contains model board policies that can be modified to fit a wider range of  organizations.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.carvergovernance.com/ PolicyGovernance.com]
+*[http://www.amazon.com/dp/0787908118 Boards That Make a Difference at [[Amazon.com]]]
+*[http://findarticles.com/p/articles/mi_m0JSD/is_2_58/ai_76939342/ Policy Governance Revisited]
+*[http://www.outofthewoodsconsulting.com/ Stacy Sjogren]
+
+{{Persondata &lt;!-- Metadata: see [[Wikipedia:Persondata]]. --&gt;
+| NAME              = Carver, John
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION =
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Carver, John}}
+[[Category:Living people]]</text>
+      <sha1>6mueypib32u1s441xn8qwblallw3jsn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

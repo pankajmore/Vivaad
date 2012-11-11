@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chambers of parliament</title>
+    <ns>0</ns>
+    <id>1334301</id>
+    <revision>
+      <id>480800632</id>
+      <parentid>480800595</parentid>
+      <timestamp>2012-03-08T07:40:13Z</timestamp>
+      <contributor>
+        <username>Shadowjams</username>
+        <id>8786164</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/121.45.2.165|121.45.2.165]] ([[User talk:121.45.2.165|talk]]) unexplained removal of content ([[WP:HG|HG]])</comment>
+      <text xml:space="preserve" bytes="2783">{{Unreferenced|date=February 2007}}
+
+{{Legislature}}
+Many [[parliament]]s or other [[legislature]]s consist of two '''chambers''' (or '''houses'''): an [[election|elected]] [[lower house]], and an [[upper house]] or [[Senate]] which may be appointed or elected by a different mechanism from the lower house. This style of two houses is called [[bicameralism|bicameral]]. Legislatures with only one house are known as [[unicameralism|unicameral]].
+
+The lower house is almost always the originator of [[legislation]], and the upper house is the body that offers the &quot;second look&quot; and decides whether to [[veto]] or approve the [[Bill (proposed law)|bill]]s. In the [[United Kingdom]] legislation can be originated in either house, but the lower house can ultimately prevail if the two houses repeatedly disagree. In most countries the lower house, regarded as more particularly the representatives of the people, has sole or predominant control over matters to do with [[finance]] and [[taxation]]. 
+
+A parliament's lower house is usually composed of at least 100 [[member of parliament|members]], in countries with populations of over 3 million. The number of seats rarely exceeds 400, even in very large countries. In the United Kingdom however, the lower house (the [[British House of Commons|House of Commons]]) has 650 members. The upper house customarily has anywhere from 20, 50, or 100 seats, but almost always significantly fewer than the lower house. In the United Kingdom however, the upper house (the [[House of Lords]]) currently has slightly more members than the lower house, and at one time (before the exclusion of most of the [[hereditary peer]]s) had considerably more.
+
+== Merging of chambers ==
+Until 1971, the [[Parliament of Sweden|Riksdag]] in [[Sweden]] was similarly divided into the ''Första kammaren'' and ''Andra kammaren'', but has since been a [[unicameral]] legislature. The [[Storting|Norwegian parliament]] (''Storting'') was officially divided in two chambers 1814–2009, but functioned as a single chamber in practice, a situation called [[Odelsting#Qualified unicameralism|Qualified unicameralism]].
+
+== Floor and committee ==
+The ''[[Floor (legislative)|floor]]'' is the name for the full assembly, and a ''[[committee]]'' is a small deliberative assembly that is usually subordinate to the floor.
+{{Expand section|date=June 2008}}
+
+==See also==
+*[[List of national parliaments]]
+*[[Delegated legislation]]
+*[[Inter-Parliamentary Union]]
+*[[Legislation]]
+*[[Witan]]
+
+=== Parliaments ===
+*[[European Parliament]]
+*[[Parliament of the United Kingdom]]
+*[[UN General Assembly]]
+
+{{DEFAULTSORT:Chambers Of Parliament}}
+[[Category:Legislatures]]
+[[Category:Elections]]
+
+[[it:Camera (politica)]]
+[[ja:議院]]
+[[sv:Kammare (parlament)]]
+[[vec:Canbra]]</text>
+      <sha1>hd371x93yw4njr582qjdfi4inh2qk7e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

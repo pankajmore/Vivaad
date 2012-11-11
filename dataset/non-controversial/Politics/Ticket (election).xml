@@ -1,0 +1,69 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ticket (election)</title>
+    <ns>0</ns>
+    <id>9958448</id>
+    <revision>
+      <id>521682936</id>
+      <parentid>521575671</parentid>
+      <timestamp>2012-11-06T15:57:23Z</timestamp>
+      <contributor>
+        <ip>190.135.5.208</ip>
+      </contributor>
+      <comment>Undid revision 521575671 by [[Special:Contributions/66.229.114.123|66.229.114.123]] ([[User talk:66.229.114.123|talk]])</comment>
+      <text xml:space="preserve" bytes="3174">{{globalize/USA|date=December 2010}}
+{{sources|date=May 2008}}
+{{voting}}
+A '''ticket''' refers to a single [[election]] choice which fills more than one [[political]] office or seat.  For example, in the [[United States|U.S.]], the candidates for [[President of the United States|President]] and [[Vice President of the United States|Vice President]] run on the same &quot;ticket&quot;, because they are elected together on a single [[ballot]] [[question]] rather than separately.
+
+A ticket can also refer to a [[political party]].  In this case, the candidates for a given party are said to be running on the party's ticket.  &quot;Straight party voting&quot; (most common in some [[U.S. states]]) is voting for the entire party ticket, including every office for which the party has a candidate running.  Particularly in the era of mechanical [[voting machine]]s, it was possible to accomplish this in many jurisdictions by the use of a &quot;party lever&quot; which automatically cast a vote for each member of the party by the activation of a single lever. Ticket Splitters are people who vote for candidates from more than one [[political party]] when they vote for public offices, voting on the basis of individual personalities and records instead of on the basis of party loyalties.
+
+While a ticket usually does refer to a political party, they are not legally the same.  In rare cases, members of a political party can run against their party's official candidate by running with a rival party's ticket label or creating a new ticket under an independent or ad-hoc party label depending on the jurisdiction's election laws.  Depending on the party's rules, these rogue members may retain the membership of their original party thus two individuals from one political party can run oppose to each other under different tickets.  This was the case for incumbent Senator [[Joseph Lieberman]] who ran against his [[Democratic Party (United States)|Democratic Party]]'s official candidate for re-election in 2006.
+
+Political party factions may also sponsor tickets in [[primary election]]s.  When that occurs, several candidates, usually one for each office for which the party's nomination is being contested in the primary, endorse one another and may make joint appearances and share [[advertising]] with the goal of securing the party's nomination for the office each is seeking for all ticket members.  This system was frequently seen in the &quot;[[Solid South]]&quot; era in the [[Southern United States]] when there was no effective [[two party system]] and victory in the Democratic Party primary was considered to be &quot;[[tantamount to election]]&quot;.
+
+[[Image:Mass Republican ticket.jpg|left|thumb|Republican Party ticket from 1865 gubernatorial election in Massachusetts.  The Republican candidate, [[Alexander H. Bullock]], defeated Democratic challenger [[Darius N. Couch]].]]
+[[Image:ElectoralTicketFlyer.jpg|center|thumb|Flyer for 2008 Democratic Party ticket in [[Monmouth County, New Jersey]].  Even though &quot;ticket&quot; is no longer a physical reality in voting, parties still push the notion of voting for them in every race on the ballot.]]
+
+{{DEFAULTSORT:Ticket (Election)}}
+[[Category:Elections]]</text>
+      <sha1>om3zq4x01p08wdyxqanvh1pcgiguhrt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

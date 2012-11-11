@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vote counting system</title>
+    <ns>0</ns>
+    <id>863306</id>
+    <revision>
+      <id>498991519</id>
+      <parentid>498690299</parentid>
+      <timestamp>2012-06-23T14:39:23Z</timestamp>
+      <contributor>
+        <username>Mdjrb</username>
+        <id>16872707</id>
+      </contributor>
+      <minor/>
+      <comment>removed red link</comment>
+      <text xml:space="preserve" bytes="4815">{{Electiontech}}
+There exist various methods through which the [[ballot]]s cast at an [[election]] may be counted, prior to applying a [[voting system]] to obtain one or more winners.
+
+==Manual counting==&lt;!-- This section is linked from [[Ballot]] --&gt;
+Manual counting requires a physical [[ballot]] that represents voter intent. The physical ballots are read and interpreted; then results are individually tabulated.&lt;ref name=&quot;pbs&quot;&gt;[http://www.pbs.org/newshour/vote2004/primaries/sr_technology_history.html History of Voting Technology] from [[Public Broadcasting Service|PBS]]'s [[The NewsHour with Jim Lehrer]]&lt;/ref&gt; This method is used in Sweden for example, and conducted as follows. The voter casts three ballots, one for each of the three elections (national, regional, and local), each in a sealed envelope. The party and candidate names are pre-printed on the ballot, or the voter can write them in on a blank ballot. When voting has finished, all envelopes are opened on the counting table, for one election at a time. They are sorted in piles according to party, inspecting them for validity. The piles are then counted manually, while witnesses around the table observe. The count is recorded, and the same pile is counted again. If the results do not agree, it is counted a third time. When all piles are counted and the results agree, the result is certified and transmitted for central tabulation. The count as received is made public, to allow anyone to double-check the tabulation and audit the raw data. There appears to be a high level of confidence in this system among the population, as evidenced by the lack of criticism of it.
+
+Such a system may be used for [[recount]]s in areas where mechanical or automated counting systems are used.
+
+==Electromechanical and Optical scan counting==
+{{see|Optical scan voting system}}
+Paper [[ballots]], typically [[punched card]]s or [[marksense]], are collected and fed into a machine to tabulate vote totals. Tabulation can occur with each individual ballot, or in batches.&lt;ref&gt;[http://aceproject.org/ace-en/topics/vc/vc31 Application of Technology in Vote Counting Systems] - [http://www.aceproject.org ACE Project]&lt;/ref&gt;
+
+==Direct-recording voting (mechanical) counting==
+Voters selecting switches (levers), pushing plastic chips through holes, or pushing mechanical buttons which increment a mechanical counter (sometimes called the odometer) for the appropriate candidate.&lt;ref name=&quot;pbs&quot;/&gt;
+
+==Direct-recording electronic counting==
+{{main|DRE voting machine}}
+
+Voting data and ballot images are recorded in memory components. Tabulation of the voting data stored in a removable memory component and as printed copy. The system may also provide a means for transmitting individual ballots or vote totals to a central location for consolidating and reporting results from precincts at the central location. This consolidation can be any subset of machines, such as all [[voting machine]]s in a [[polling station]], or all voting machines in a [[precinct]], etc.&lt;ref&gt;[http://www.eac.gov/VVSG%20Volume_I.pdf 2005 Voluntary Voting System Guidelines] from the US [[Election Assistance Commission]]&lt;/ref&gt;
+
+==References==
+&lt;div class=&quot;references-small&quot;&gt;
+&lt;references/&gt;
+&lt;/div class&gt;
+
+==See also==
+* [[Recount]]
+* [[Tally (voting)]]
+* [[Electronic voting]]
+* [[Voting machine]]
+* [[Voting system|Voting/Electoral system]]
+* [[Ballot]]
+
+==External links==
+* [http://www.electiontechnology.com/research.php The Election Technology Library research list] - A comprehensive list of research relating to technology use in elections.
+* [http://www.aceproject.org/ace-en/focus/e-voting/ E-Voting information] from [http://www.aceproject.org ACE Project]
+* [http://www.electionreformproject.org AEI-Brookings Election Reform Project]
+* {{dmoz|Society/Politics/Campaigns_and_Elections/Electronic_Democracy/Electronic_Voting_Systems/|Electronic Voting Systems}}
+* [http://www.cs.uiowa.edu/~jones/voting Voting and Elections by Douglas W. Jones: Thorough articles about the history and problems with Voting Machinery]
+* [[Ted Selker|Selker, Ted]] [http://www.sciam.com/article.cfm?chanID=sa006&amp;articleID=00018DD5-73E7-1151-B57F83414B7F0000 Scientific American Magazine Fixing the Vote] October 2004
+* [http://www.brennancenter.org/stack_detail.asp?key=97&amp;subkey=38150&amp;init_key=105 The Machinery of Democracy: Voting System Security, Accessibility, Usability, and Cost] from [http://www.brennancenter.org Brennan Center for Justice at NYU School of Law]
+*[http://www.aceproject.org/ace-en/topics/vc/topic_index An index of articles on vote counting]  from the [http://www.aceproject.org ACE Project] guide to designing and administering elections
+
+[[Category:Election technology]]
+
+[[es:Escrutinio]]
+[[gl:Escrutinio]]
+[[pt:Escrutínio]]
+[[ru:Подсчёт голосов]]</text>
+      <sha1>8pz1zr4v7b8sjs4j9ai4hajv96wiw0s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

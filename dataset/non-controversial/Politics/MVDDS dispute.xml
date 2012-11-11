@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MVDDS dispute</title>
+    <ns>0</ns>
+    <id>11005198</id>
+    <revision>
+      <id>444609397</id>
+      <parentid>427037168</parentid>
+      <timestamp>2011-08-13T11:20:13Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Speedily moving category MITRE Corporation to [[:Category:Mitre Corporation]] per [[WP:CFDS|CFDS]].</comment>
+      <text xml:space="preserve" bytes="10175">
+The '''MVDDS dispute''' refers to several legal disputes and political controversies that surrounded [[Federal Communications Commission]] (FCC) approval of [[MVDDS]] terrestrial [[wireless broadband]] technology.  The controversy arose over the [[lobbying]] efforts of Northpoint Technology, a developer of MVDDS, to receive approval and [[licensing]] for the technology.  The dispute later transformed into several court cases against the FCC and [[Direct broadcast satellite|satellite television]] providers, as well as a [[patent infringement]] case against MDS America and MDS International.  As a result of the dispute, Northpoint lost the patents.
+
+==Development of MVDDS==
+Multichannel Video Distribution and Data Service ([[MVDDS]]) is a land-based system for sending [[wireless]] broadband signals over a part of the [[electromagnetic spectrum]] usually reserved for satellite television (within the [[frequency]] range of 12.2 to 12.7 [[GHz]]). The technology allows sharing the spectrum with the satellite signals without [[Electromagnetic interference|interference]].&lt;ref name=&quot;devx&quot;&gt;{{cite news|last=Roy|first=Mark|date=2003-10-31|work=DevX News|title=The High Cost of Lowering Broadband Prices|url=http://www.devxnews.com/article.php/3102421|accessdate=2007-05-01}}&lt;/ref&gt;
+
+MDSA  began developing an MVDDS technology in the mid-1980s which it later called HyperCable.  The CEO of [[MDS America]], the company that was to be the product's distributor in the [[United States]] and the primary investor in MDS International, showed in 2001 that the technology had been used in 20 locations worldwide since 1996.&lt;ref name=&quot;newsbytes&quot;&gt;{{cite news|last=Bonisteel|first=Steven|date=2001-05-08|publisher=Newsbytes News Network|title=MDS Gains Ground In Bid To Share Satellite Spectrum|url=http://findarticles.com/p/articles/mi_m0NEW/is_2001_May_8/ai_74398285|accessdate=2007-05-01}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt;
+Meanwhile, American company Northpoint Technology, Ltd. began developing its own MVDDS system in the early 1990s. It filed its first patent applications by 1994, using ideas from engineers Saleem and Carmen Tawil, and was formally founded in 1996 with investment money from various prominent individuals. The Chair of Northpoint was [[Sophia Collier (executive)|Sophia Collier]], also the head of Citizen's Advisers. The Executive Vice President was Antoinette Cook Bush, the stepdaughter of prominent Democratic activist [[Vernon Jordan]]. In addition, the Tawils and Katherine (Chula) Reynolds, a member of the [[King Ranch]] family, were directors.&lt;ref name=&quot;devx&quot;/&gt;&lt;ref&gt;{{cite web|title=Founders and Executive Managers
+ |publisher=Northpoint Technology|url=http://northpointtechnology.com/FoundersBios.htm|accessdate=2007-05-01}}&lt;/ref&gt;
+
+==FCC licensing controversy==
+In 1999, Northpoint and two other companies applied to the [[Federal Communications Commission]] (FCC) for permission to provide MVDDS service.&lt;ref name=&quot;mdscase&quot;&gt;{{cite court
+	|litigants =Northpoint Technology Ltd. v. MDS America, Inc. and MDS International S.A.R.L.
+	|court=Fed. Cir.
+	|date=2005-06-28
+	|url=http://fedcir.gov/opinions/04-1249.pdf
+}}&lt;/ref&gt; Northpoint filed its application in a filing window for non-[[geostationary satellite]] systems, and claimed that its terrestrial system was entitled to the same rights given to other applications filed in that window, which employed the same frequency range.&lt;ref name=&quot;mdscase&quot; /&gt;&lt;ref&gt;{{cite web|last=Furchtgott-Roth|first=Harold|date=2000-11-29|title=Separate Statement of Commissioner Harold Furchtgott-Roth|publisher=Federal Communications Commission| url=http://www.fcc.gov/Speeches/Furchtgott_Roth/Statements/2000/sthfr065.txt|accessdate=2007-05-04}}&lt;/ref&gt; Pressed by satellite firms uneager at the prospect of sharing their spectrum with other providers, Congress passed language requiring the FCC to select an independent engineering firm to perform tests that would protect the fact to ensure that MVDDS would not interfere with satellite transmissions.&lt;ref name=&quot;post&quot;&gt;{{cite news|last=Eilperin|first=Juliet |title=Cable Rival Is Small but Has Friends|work=Washington Post|page=E3|date=2003-10-08|url=http://www.sbca.com/PublicAffairsdocs/NP_100803washingtonpost.pdf|accessdate=2007-05-01}}&lt;/ref&gt; The [[MITRE|MITRE Corporation]], a [[not-for-profit]] engineering company that studies engineering issues for the government, was hired by the FCC to make the determination.&lt;ref name=&quot;mdscase&quot;/&gt; Since MDS America did not file a proposal to use the spectrum within the time period the FCC specified, their technology was not tested by MITRE.&lt;ref name=&quot;eweek&quot;&gt;{{cite news|last=Gohring |first=Nancy |title=Signal Skirmish|work=eWeek.com|publisher=Ziff-Davis|url=http://www.eweek.com/article2/0,1759,1241995,00.asp|date=2001-05-21|accessdate=2007-05-01}}&lt;/ref&gt; 
+
+MITRE's report concluded that the MVDDS spectrum sharing technology it tested did pose a &quot;significant threat&quot; of interference with satellite television signals, but that a wide variety of mitigation techniques could potentially be used to reduce the interference and make bandsharing feasible.&lt;ref name=&quot;mdscase&quot;/&gt; Based on this analysis, in 2002 the FCC adopted rules that allowed for MVDDS bandsharing.&lt;ref name=&quot;mdscase&quot;/&gt; However, the FCC rejected Northpoint's petition for a license, and instead decided to hold a public [[Spectrum auction|auction]] to sell off the land-based use of the spectrum.&lt;ref name=&quot;post&quot;/&gt; 
+
+Northpoint claimed the FCC's decision was unfair, since satellite companies had received a special exemption from Congress from having to bid for spectrum.&lt;ref name=&quot;devx&quot;/&gt;   Through the political connections of its founders and paid [[lobbyist]]s, the company succeeded in having language that would block the auction inserted into a [[United States Senate|Senate]] spending [[Omnibus spending bill|bill]].&lt;ref name=&quot;post&quot;/&gt;  This provoked criticism from Senator [[John McCain]], who called it &quot;an example of the power of money and special interests&quot;, and others, including the [[George W. Bush administration|Bush administration]].&lt;ref name=&quot;post&quot;/&gt; After other charges of influence peddling surfaced,&lt;ref name=&quot;devx&quot;/&gt; the language in the bill was eventually dropped.&lt;ref name=&quot;wsj&quot;&gt;{{cite web|last=Miniter |first=Brendan|title=Free Northpoint: Efforts to expand the radio spectrum suffer from political interference.|work=WSJ.com OpinionJournal|publisher=Dow Jones &amp; Company|url=http://www.opinionjournal.com/columnists/bminiter/?id=110004340|accessdate=2007-05-01}}&lt;/ref&gt;
+
+Northpoint sought other avenues to challenge the FCC decision.  It filed several petitions with the FCC to reconsider the auction, but they were all denied. The MVDDS auction took place in January 2004 without Northpoint's participation, and ten licenses were awarded for the 12&amp;nbsp;GHz bandwidth.&lt;ref name=&quot;dbscase&quot;&gt;{{cite court
+	|litigants =Northpoint Technology Ltd. et al. v. Federal Communications Commission, EchoStar Satellite Cororation, et al.
+	|court=DC Cir.
+	|date=2005-07-15
+	|url=http://www.ll.georgetown.edu/federal/judicial/dc/opinions/02opinions/02-1194a.pdf
+}}&lt;/ref&gt;  The company continued its challenge in the [[United States court of appeals]], but the court rejected Northpoint's claim that it had been treated unfairly.&lt;ref name=&quot;techlaw&quot;&gt;{{cite news|title=Court of Appeals Denies Petitions for Review in Northpoint v. FCC|work=Tech Law Journal Daily E-Mail Alert|publisher=David Carney|date=2005-07-19|url=http://www.techlawjournal.com/alert/2005/07/19.asp|accessdate=2007-05-01}}&lt;/ref&gt;
+
+==Northpoint v. MDSA and MDSI==
+
+After the FCC decision in 2002, MDS America asked permission of the FCC to test and prove its own MVDDS system.  The FCC granted it an experimental license, and the company arranged for tests to be held in Florida using equipment furnished by its subsidiary, MDS International.  When Northpoint became aware of this, it informed MDS America that performing the tests would infringe its patents.  After the tests were concluded, Northpoint sued MDS America and MDS International for [[patent infringement]].&lt;ref name=&quot;mdscase&quot;/&gt;
+
+The case revolved around the question of how easily the technology described in Northpoint's patents—specifically, the [[directional antenna]]—could be implemented. The defendants argued that the patent did not fully disclose how the antenna would avoid receiving undesired signals, and that besides the antenna's physical direction, many additional parameters must be fine-tuned.&lt;ref name=&quot;mdscase&quot;/&gt;&lt;ref name=&quot;mcdermott&quot;&gt;{{cite news|last=Larson|first=David|title=When Is Experimentation &quot;Undue&quot;?|work=IP Update|date=July 2005|publisher=McDermott Will &amp; Emery| url=http://www.mwe.com/index.cfm/fuseaction/publications.nldetail/object_id/fd041d1f-0c09-4789-9788-39eca2212aac.cfm|accessdate=2007-05-01}}&lt;/ref&gt; Additionally, the defense introduced a 1970 paper which they claimed showed Northpoint's patented physical direction idea constituted [[prior art]].&lt;ref name=&quot;mdscase&quot;/&gt;
+
+The jury for the case, which was filed in the Southern Florida [[United States district court|district court]], determined that though MDS America (but not MDS International) had infringed Northpoint's patent claims, the patent claims were invalid to begin with. On appeal, the Federal [[United States court of appeals|circuit court]] affirmed the jury's decisions.  The case attracted attention in the media, with even an official at the French embassy weighing in.&lt;ref name=&quot;french&quot;&gt;{{cite news|last=Hearn|first=Ted|title=French Official Endorses MDS America|work=Multichannel News|date=2001-05-22|url=http://www.multichannel.com/article/CA173947.html|accessdate=2007-05-01}}&lt;/ref&gt; Lawyers have noted that the results of the case show that as much detail as possible on implementation should be included by patent prosecutors.&lt;ref name=&quot;mcdermott&quot;/&gt;
+
+The invalidation of the MVDDS patents ended all Northpoint's actions in MVDDS and their website is no longer online.
+
+==References==
+
+{{reflist}}
+
+[[Category:Political controversies in the United States]]
+[[Category:United States patent case law]]
+[[Category:Telecommunications equipment vendors]]
+[[Category:Mitre Corporation]]</text>
+      <sha1>61nmtq9sao9hgtsj93tb1kj5t3dttg3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

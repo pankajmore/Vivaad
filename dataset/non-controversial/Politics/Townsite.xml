@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Townsite</title>
+    <ns>0</ns>
+    <id>8339163</id>
+    <revision>
+      <id>392526259</id>
+      <parentid>392499788</parentid>
+      <timestamp>2010-10-24T02:46:45Z</timestamp>
+      <contributor>
+        <username>Hwy43</username>
+        <id>10927030</id>
+      </contributor>
+      <comment>if this article is intended to be about townsites in general, all the BC content that follows the first paragraph should be under its own heading; copyedit; wikify; arrange list alphabetically</comment>
+      <text xml:space="preserve" bytes="2924">A '''townsite''' is a legal [[subdivision (land)|subdivision of land]] for the development of a [[town]] or [[community]].  In the historical development of the [[United States]], [[Canada]], and other former [[Kingdom of Great Britain|British]] [[Colonialism|colonial]] [[nation]]s, the [[filing (legal)|filing]] of a townsite [[plat]] (United States) or [[plat|plan]] (Canada) was often the first legal act in the establishment of a new town or community.
+
+== Townsites in British Columbia ==
+Numerous townsites were filed in [[British Columbia]], Canada, in the early 19th century. Some of those filed in what is now [[Metro Vancouver]] included:
+*[[Gastown|Granville]] Townsite, 1870&lt;ref&gt;Vancouver, A Visual History, Bruce MacDonald, 1992, page 18&lt;/ref&gt; (Gastown, [[Vancouver]])
+*Hastings Townsite, 1869 (Vancouver)
+*[[North Vancouver, British Columbia (city)#History|Moodyville]] Townsite, 1865 (City of North Vancouver)
+*[[New Westminster]] Townsite, 1860 (original capital of Colony of British Columbia, now New Westminster)
+*[[North Vancouver, British Columbia (city)|North Vancouver]] Townsite, 1907&lt;ref name=&quot;multiple&quot;&gt;North Vancouver Official Community Plan 2002, Chapter 2, Historical overview&lt;/ref&gt; (City of North Vancouver)
+*[[Port Mann]] Townsite, 1911&lt;ref&gt;New townsite of Port Mann, Ottawa Citizen, Feb 2, 1911, page 2, Canadian Press dispatch&lt;/ref&gt; (Surrey)
+*[[Steveston]] Townsite, 1889 ([[Richmond, British Columbia|Richmond]])
+
+Although most of these townsites were incorporated into newly created cities and municipalities of Metro Vancouver, official survey plans still continue to designate [[Land lot|lots]] as being part of these townsites. For example, a 2008 strata plan in Vancouver's Gastown is indicated as being in the Granville Townsite.&lt;ref&gt;http://www.scribd.com/doc/12560230/36-Water-Street-The-Terminus-Strata-Plan&lt;/ref&gt;
+
+Townsite planning was either done by government authorities or by private developers. In the case of North Vancouver townsite in 1907 most of the land was owned by the North Vancouver Land and Improvement Company.
+By owning large amount of land they were able to plan on a grand scale.&lt;ref name=&quot;multiple&quot;/&gt; New Westminster was surveyed by the Royal Engineers under government direction.
+
+As existing towns grow, they develop [[Official Community Plan]]s (OCPs) that expand upon the already existing townsites. However, periodically new communities are still created. In 1975, the [[Whistler, British Columbia|Whistler]] townsite was created and eventually incorporated as a municipality. The new municipality was given {{convert|53|acre|m2}} of [[Crown land]] to develop the townsite.&lt;ref&gt;[http://www.whistlerhorizons.com/whistlerhistory.shtml Chronological milestones in the development of Whistler Village]&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+[[Category:Surveying]]
+[[Category:Real property law]]
+[[Category:Land management]]
+
+
+{{Geo-term-stub}}
+{{Law-term-stub}}</text>
+      <sha1>k1x4ndyqin8njm8n9q37rqg7i1gx3my</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

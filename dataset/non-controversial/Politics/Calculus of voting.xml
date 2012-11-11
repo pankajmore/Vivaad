@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Calculus of voting</title>
+    <ns>0</ns>
+    <id>3430211</id>
+    <revision>
+      <id>192723781</id>
+      <parentid>177539943</parentid>
+      <timestamp>2008-02-20T03:27:50Z</timestamp>
+      <contributor>
+        <username>Altenmann</username>
+        <id>28438</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <text xml:space="preserve" bytes="1576">{{citations needed|date=December 2007}}
+'''Calculus of voting''' refers to any [[mathematical model]] which predicts voting behaviour by an electorate, including such features as participation rate.  A calculus of voting represents an hypothesized decision-making process.
+
+These models are used in [[political science]] in an attempt to capture the relative importance of various factors influencing an elector to vote (or not vote) in a particular way.
+
+==Example==
+
+One such model was proposed by [[Anthony Downs]] (1957) and is adapted by [[William H. Riker]] and [[Peter Ordeshook]], in “A Theory of the Calculus of Voting” (Riker and Ordeshook 1968)
+
+:''R'' = ''pB'' &amp;minus; ''C'' + ''D''
+
+where
+:''R'' = the reward gained from voting in a given election (R, then, is a proxy for the probability that the voter will turn out) 
+:''p'' = probability of vote “mattering”
+:''B'' = “utility” benefit of voting--differential benefit of one candidate winning over the other 
+:''C'' = costs of voting (time/effort spent)
+:''D'' = citizen duty, goodwill feeling, psychological and civic benefit of voting (this term is not included in Downs's original model)
+
+A [[political science]] model based on [[rational choice]] used to explain why citizens do or do not vote.
+
+==References==
+
+:Downs, Anthony. 1957. ''An Economic Theory of Democracy.'' New York: Harper &amp; Row.
+:Riker, William and Peter Ordeshook. 1968. “A Theory of the Calculus of Voting.” ''American Political Science Review'' 62(1): 25-42.
+
+[[Category:Voting theory]]
+[[Category:Mathematical modeling]]</text>
+      <sha1>th10q593w2mbi7ho9m5ucc5r55i7sxd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

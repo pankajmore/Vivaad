@@ -1,0 +1,79 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Parents and Citizens</title>
+    <ns>0</ns>
+    <id>4063205</id>
+    <revision>
+      <id>488561937</id>
+      <parentid>439015457</parentid>
+      <timestamp>2012-04-21T22:28:31Z</timestamp>
+      <contributor>
+        <username>Daithidebarra</username>
+        <id>14549763</id>
+      </contributor>
+      <comment>/* See also */ edit required by changes to PTA article</comment>
+      <text xml:space="preserve" bytes="1750">{{refimprove|date=April 2008}}
+Some [[Australia]]n [[State Schools]], both [[primary school|primary]] and [[high school|high]], are supported by '''Parents and Citizens''' Associations.  These groups provide volunteer support, raise funds for infrastructure and other expenses and assist in the administration of their school.
+
+A large part of many P&amp;C activities is the provision of subsidies to school excursions and other supplemental and extracurricular activities.
+
+P&amp;Cs encourage the general public and local businesses to become involved with their local schools.
+
+Recent years have seen a number of changes to the environment in which P&amp;Cs operate.
+*Volunteers sometimes require [[Blue Card (Australia)|Blue Card]]s ([[criminal record]] checks) if they do not have children in the related school.
+*[[Tuckshop]]s and fundraisers are required to sell only healthy foods.&lt;ref&gt;[https://www.det.nsw.edu.au/policies/student_serv/student_health/canteen_gu/PD20020058.shtml NSW Healthy Canteen Strategy]&lt;/ref&gt;
+*Education Queensland has devolved many costs onto the school communities that were previously covered by the department. This has led to some schools requiring a &quot;voluntary&quot; payment from parents to cover consumables.
+
+==See also==
+*[[Parent-Teacher Association]] (PTA), the US, and UK versions.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.schoolparents.canberra.net.au/ ACT Council of Parents &amp; Citizens Associations]
+* [http://www.pandc.org.au/ Federation of Parents and Citizens' Associations of New South Wales]
+* [http://www.qcpca.org.au/ Queensland Council of Parents and Citizens' Associations]
+
+[[Category:Civic and political organizations of the United States]]
+[[Category:Educational organisations in Australia]]</text>
+      <sha1>kcuc7bmqbonbghhrxr73iyn1gaz6olf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

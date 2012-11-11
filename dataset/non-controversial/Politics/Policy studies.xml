@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Policy studies</title>
+    <ns>0</ns>
+    <id>10412265</id>
+    <revision>
+      <id>520740716</id>
+      <parentid>520740076</parentid>
+      <timestamp>2012-10-31T13:00:13Z</timestamp>
+      <contributor>
+        <username>Thehelpfulbot</username>
+        <id>8908655</id>
+      </contributor>
+      <minor/>
+      <comment>Robot: Adding missing {{reflist}}</comment>
+      <text xml:space="preserve" bytes="2272">Policy Studies is the combination of [[policy analysis]] and [[program evaluation]]. 
+It &quot;involves systematically studying the nature, causes, and effects of alternative 
+[[public policies]], with particular emphasis on determining the [[policies]] 
+that will achieve given goals.
+Policy Studies also examines the conflicts and conflict resolution that arise from 
+the making of policies in civil society, the private sector, or more commonly, 
+in the public sector (e.g. government). 
+It is frequently focused on the [[public sector]] but is equally applicable to
+ other kinds of organizations (e.g., the not-for-profit sector).  Some policy
+ study experts graduate from [[public policy school]]s with [[public policy degrees]].
+ Alternatively, experts may have backgrounds in [[policy analysis]], [[program evaluation]],
+ [[sociology]], [[psychology]], [[philosophy]], [[economics]], [[anthropology]], 
+[[geography]], [[law]], [[political science]], [[social work]],
+ [[environmental planning]] and [[public administration]].
+
+Traditionally, the field of policy studies focused on [[domestic policy]],
+ with the notable exceptions of [[foreign policy|foreign]] and [[defense policy
+|defense policies]]. However, the wave of economic [[globalization]], 
+which ensued in the late 20th and early 21st centuries, created a need for a subset of policy studies
+ that focuses on [[global governance]], especially as it relates to issues
+ that transcend [[national borders]] such as [[climate change]], [[terrorism]], 
+[[nuclear proliferation]], and [[economic development]]. This subset of policy studies,
+ which is often referred to as international policy studies,
+typically requires mastery of a [[second language]] and attention to [[cross-cultural]] 
+issues in order to address [[Nation|national]] and [[cultural bias]]es.
+ For example, the [[Monterey Institute of International Studies]]
+ at [[Middlebury College]] offers Master of Arts programs that 
+focus exclusively on [[international]] policy through a mix of
+ [[interdisciplinary]] and [[cross-cultural]] analysis called
+ the &quot;Monterey Way&quot;.&lt;ref&gt;[http://www.miis.edu/academics/courses The Monterey Way]&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+==See also==
+*[[Association for Public Policy Analysis and Management]]
+
+==</text>
+      <sha1>moub82615effv06mw2i8i78260cmywr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

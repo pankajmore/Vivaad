@@ -1,0 +1,88 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Palestine Media Watch</title>
+    <ns>0</ns>
+    <id>11580363</id>
+    <revision>
+      <id>511647591</id>
+      <parentid>506248643</parentid>
+      <timestamp>2012-09-10T06:06:23Z</timestamp>
+      <contributor>
+        <username>Anomalocaris</username>
+        <id>299039</id>
+      </contributor>
+      <comment>Past tense. The claim of inactivity can be verified by inspecting at archive.org; I leave for others to &quot;wikify&quot; the claim if necessary.</comment>
+      <text xml:space="preserve" bytes="2606">{{About|the Philadelphia-based organization founded by Ahmed Bouzid|the Israel-based media watchdog|Palestinian Media Watch}}
+
+{{Refimprove|date=May 2009}}
+{{Infobox website
+|name=Palestine Media Watch
+|logo=[[Image:Palestinemediawatchlogo.jpg|250px]]
+|commercial=No
+|language=English
+}}
+
+'''Palestine Media Watch''' (PMWATCH) was an organization established in October 2000 that monitored the U.S. mainstream media's coverage of the [[Israeli–Palestinian conflict]] and mobilized against what it deemed to be anti-Palestinian or pro-Israel bias in the coverage of the conflict. The organization focused mainly on issuing letter-writing action calls and publishing reports analyzing coverage. According to the group's founder,  Ahmed Bouzid,  &quot;There's a paradigm we're trying to change: that Israelis are defending themselves and the Palestinians are attacking, and when the Israelis do something it must be a mistake or an act of self-defense.&quot;&lt;ref name=&quot;urlMedia-watchers occupy both sides of Israeli-Palestinian conflict | Article from AP Worldstream | HighBeam Research&quot;&gt;{{cite news |url=http://www.highbeam.com/doc/1P1-67560380.html |title=Media-watchers occupy both sides of Israeli-Palestinian conflict |date=September 19, 2002|author=Joann Loviglio |work=[[Associated Press|AP Worldstream]] |accessdate=}}&lt;/ref&gt; The organization's website has not been active since about 2009.
+
+==See also==
+* [[Palestinian Media Watch]]
+* [[Media coverage of the Arab-Israeli conflict]]
+* [[American Task Force on Palestine]]
+* [[American Palestine Public Affairs Forum]]
+* [[Pallywood]]
+
+== References ==
+&lt;references/&gt;
+
+==External links==
+*[http://www.economist.com/displayStory.cfm?story_id=3798515  How Palestinians and Israelis make their images] by [[The Economist]]
+*[http://www.ajr.org/Article.asp?id=3683  Caught in the Crossfire] by [[American Journalism Review]]
+*[http://www.ojr.org/ojr/glaser/1066177054.php  Palestinians Find Their Voice Online] by [[Online Journalism Review]]
+*[http://www.thenation.com/doc/20021028/aguirre  Palestinian Activism Spammed] by [[The Nation]]
+*[http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1705398  Claim: U.S. Papers Downplay Palestinian Deaths ] by [[Editor&amp;Publisher]]
+*[http://web.archive.org/web/20080111123436/www.pmwatch.org/pmw/cast/aboutpmwatch.asp About Palestine Media Watch (archived)]
+*[http://web.archive.org/web/20080119203448/http://www.pmwatch.org/pmw/index.asp Official Site (archived January 19, 2008)]
+
+[[Category:Palestinian media]]
+[[Category:Alternative journalism organizations]]
+[[Category:Advocacy groups]]</text>
+      <sha1>9rhp9olmktxhm8ioz7r7ppk9cchvbqn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

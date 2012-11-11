@@ -1,0 +1,190 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Voting machine</title>
+    <ns>0</ns>
+    <id>296438</id>
+    <revision>
+      <id>504842319</id>
+      <parentid>499904102</parentid>
+      <timestamp>2012-07-29T23:11:42Z</timestamp>
+      <contributor>
+        <ip>24.90.147.169</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="18594">{{Redirect|Electronic voting machine|e-voting|electronic voting}}
+{{Electiontech}}
+'''Voting machines''' are the total combination of [[Mechanical engineering|mechanical]], [[Electromechanics|electromechanical]], or [[Electronics|electronic]] equipment (including [[software]], [[firmware]], and documentation required to program control, and support equipment), that is used to define ballots; to cast and count [[vote]]s; to report or display election results; and to maintain and produce any audit trail information. The first voting machines were mechanical but it is increasingly more common to use [[electronic voting]] machines.
+
+A voting system includes the practices and associated documentation used to identify system components and versions of such components; to test the system during its development and maintenance; to maintain records of system errors or defects; to determine specific changes made after initial certification; and to make available any materials to the voter (such as notices, instructions, forms, or paper ballots).
+
+Traditionally, a voting machine has been defined by the mechanism the system uses to cast votes and further categorized by the location where the system tabulates the votes.
+
+Voting machines have different levels of usability, security, efficiency and accuracy. Certain systems may be more or less accessible to all voters, or not accessible to those voters with certain types of disabilities. They can also have an effect on the public's ability to oversee elections.
+
+==Early history==
+The first major proposal for the use of voting machines came
+from the [[Chartists]] in 1838.&lt;ref&gt;Douglas W. Jones, Early Requirements for Mechanical Voting Systems, [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5460390 First International Workshop on Requirements Engineering for E-voting Systems], Aug. 31, 2009, Atlanta. ([http://www.cs.uiowa.edu/~jones/voting/ReVote09history.pdf author's copy]).&lt;/ref&gt;  Among the radical reforms called for in ''The People's Charter'' were [[universal suffrage]] and voting by [[secret ballot]].  This required major changes in the conduct of elections, and as responsible reformers, the Chartists not only demanded reforms but described how to accomplish them, publishing ''Schedule A'', a description of how to run a polling place, and ''Schedule B'', a description of a voting machine to be used in such a polling place.&lt;ref&gt;[http://www.archive.org/details/peoplescharterwi00workrich The People's Charter with the Address to the Radical Reformers of Great Britain and Ireland and a Brief Sketch of its Origin] Elt and Fox, London, 1848; obverse of title page.&lt;/ref&gt;&lt;ref&gt;[http://www.abdn.ac.uk/radicalism/display.php?id=RAD144 The People's Charter] 1839 Edition, in the [http://www.abdn.ac.uk/radicalism/ radicalism collection] of the [[University of Aberdeen]].&lt;/ref&gt;
+
+The Chartist voting machine, attributed to Benjamin Jolly of 19 York Street in [[Bath, Somerset|Bath]], allowed each voter to cast one vote in a single race.  This matched the requirements of a British parliamentary election.  Each voter was to cast his vote by dropping a brass ball into the appropriate hole in the top of the machine by the candidate's name.  Each voter could only vote once because each voter was given just one brass ball.  The ball advanced a clockwork counter for the corresponding candidate as it passed through the machine, and then fell out the front where it could be given to the next voter.
+
+In 1875, Henry Spratt of [[Kent]] received a U.S. patent for a voting machine that presented the ballot as an array of push buttons, one per candidate.&lt;ref&gt;H. W. Spratt, ''Improvement in Voting Apparatus,'' U.S. Patent 158,652, Jan 12. 1875.&lt;/ref&gt;  Spratt's machine was typically British, allowing each voter to
+cast a fixed number of votes in a single race.  In 1881, Anthony Beranek of [[Chicago]] patented the first voting machine appropriate for use in a general election in the [[United States]].&lt;ref&gt;A. C. Beranek, ''Voting Apparatus'', U.S. Patent 248,130, Oct. 11, 1881.&lt;/ref&gt;  Beranek's machine presented an array of push buttons to the voter, with one row per office on the ballot, and one column per party.  Interlocks behind each row prevented voting for more than one candidate per race, and an interlock with the door of the voting booth reset the machine for the next voter as each voter left the booth.
+
+==Vote-recording Technologies==
+===Document-based Ballot Voting Systems===
+A document ballot voting system records votes, counts votes, and produces a tabulation of the vote count from votes cast on paper cards or sheets. A document ballot voting system can allow for [[Vote counting system#Manual counting|manual]] or [[Vote counting system#Electromechanical and Optical scan counting|electronic]] tabulation.
+
+====Manually marked and Tabulated Paper Ballots====
+
+The first use of paper ballots to conduct an election appears to have been in Rome in 139 BCE, and the first use of paper ballots in the United States was in 1629 to select a pastor for the Salem Church.&lt;ref&gt;[http://www.cs.uiowa.edu/~jones/ Jones, Douglas W.]. [http://www.cs.uiowa.edu/~jones/voting/pictures/ A Brief Illustrated History of Voting]. ''[http://www.uiowa.edu/ THE UNIVERSITY OF IOWA] [http://www.cs.uiowa.edu/ Department of Computer Science]''.&lt;/ref&gt;
+
+====Punched Card====
+[[Image:Votomatic.jpg|thumb|right|The Votomatic vote recorder, a punched card voting machine originally developed in the mid 1960s.]]
+[[Punched card]] systems employ a card (or cards) and a small clipboard-sized device for recording votes. Voters punch holes in the cards (with a supplied punch device) opposite their candidate or ballot issue choice. After voting, the voter may place the ballot in a ballot box, or the ballot may be fed into a computer vote tabulating device at the precinct.
+
+The idea of voting by punching holes on paper or cards originated in the 1890s&lt;ref&gt;Kennedy Dougan, ''Ballot-Holder'', U.S. Patent 440,545, Nov. 11, 1890.&lt;/ref&gt; and inventors continued to explore this in the years that followed.&lt;ref&gt;Fred M. Carroll (IBM), ''Voting Machine'', U.S. Patent 2,195,848, Apr. 2, 1940.&lt;/ref&gt;  The first major success for punched-card voting came in 1965, with Joseph P. Harris' development of the Votomatic punched-card system.&lt;ref&gt;Joseph P. Harris, ``Data Registering Device'', U.S. Patent 3,201,038, Aug. 17, 1965.&lt;/ref&gt;&lt;ref&gt;Joseph P. Harris, ''Data Registering Device'', U.S. Patent 3,240,409, Mar. 15, 1966.&lt;/ref&gt;  This was based on IBM's [[Punched card#IBM Port-A-Punch|Port-A-Punch]] technology.  Harris licenced the Votomatic to IBM&lt;ref&gt;[http://www-03.ibm.com/ibm/history/exhibits/supplies/supplies_5404PH12.html IBM Archive: Votomatic]&lt;/ref&gt; William Rouverol built the prototype system.
+
+The Votomatic system was very successful.  By the 1996 Presidential election, some variation of the punched card system was used by 37.3% of registered voters in the United States.&lt;ref&gt;&quot;[http://www.fec.gov/pages/punchrd.htm Punchcards, a definition]&quot;. ''[[Federal Election Commission]]''&lt;/ref&gt;
+
+Votomatic style systems and punched cards received considerable notoriety in 2000 when their uneven use in Florida was alleged to have [[Electronic voting#Florida, punched cards, and the 2000 presidential election|affected the outcome of the U.S. presidential election]].
+
+====Optical Scan (Marksense)====
+An [[Optical scan voting system|optical scan]], or marksense, voting system allows a voter to record votes by making marks directly on the [[ballot]], usually in voting response locations.
+
+====Using Electronic Input Device====
+A paper-based system may allow for the voter's selections to be indicated by marks made on a paper ballot by an electronic input device.
+
+=====Voter Verified Paper Audit Trail=====
+Some traditionally non-document ballot voting systems may print a [[Voter Verified Paper Audit Trail]] (VVPAT) to serve as a document (ballot) for each vote.
+
+=====Electronic Ballot Marker=====
+The Electronic Ballot Marker (EBM) is categorized as any such input device that does not independently record, store, or tabulate the voter selections.
+
+===Non-document-based Ballot Voting Systems===
+====Direct-recording Voting System====
+[[File:voting machine.png|thumb|lever style voting machine on display at the [[National Museum of American History]]]]
+Commonly used in the United States until the 1990s (and commonly known as '''lever machines'''), direct recording voting systems are mechanical systems to tabulate votes.  This was the first voting technology commercialized in the United States.  In 1889, Jacob Myers of [[Rochester, New York]] received a patent for a voting machine that was based on Beranek's 1881 machine.&lt;ref&gt;Jacob H. Myers, ''Voting Machine'', U.S. Patent 415,549, Nov. 19, 1889.&lt;/ref&gt;  This machine saw its first use in [[Lockport (city), New York|Lockport, New York]], in 1892.&lt;ref&gt;[http://query.nytimes.com/gst/abstract.html?res=9B04E0DB1F39E233A25750C1A9629C94639ED7CF Republicans Carry Lockport; The New Voting Machine Submitted to a Practical Test], in the [http://www.nytimes.com New York Times], Wed. Apr. 13, 1892; page 1.&lt;/ref&gt;  In 1894, Sylvanus Davis added a straight-party lever and significantly simplified the interlocking mechanism used to enforce the vote-for-one rule in each race.&lt;ref&gt;S. E. Davis, ''Voting Machine,'' U.S. Patent 526,666, Sept. 25, 1894.&lt;/ref&gt;  By 1899, Alfred Gillespie introduced several refinements.  It was Gillespie who replaced the heavy metal voting booth with a curtain that was linked to the cast-vote lever, and Gillespie introduced the lever by each candidate name that was turned to point to that name in order to cast a vote for that candidate.  Inside the machine, Gillespie worked out how to make the machine programmable so that it could support races in which voters were allowed to vote for, for example, 3 out of 5 candidates.&lt;ref&gt;A. J. Gillespie, ''Voting-Machine'', U.S. Patent 628,905, July 11, 1899.&lt;/ref&gt;
+
+On Dec. 14, 1900, the U.S. Standard Voting Machine Company was formed, with Alfred Gillespie as one of its directors, to combine the companies that held the Myers, Davis, and Gillespie patents.&lt;ref&gt;[http://books.google.com/books?id=kCE7AAAAYAAJ&amp;pg=PA773 The Manual of Statistics:  Stock Exchange Hand-book, 1903], The Manual of Statistics Company, New York, 1903; page 773.&lt;/ref&gt;  By the 1920s, this company (under various names) had a monopoly on voting machines, until, in 1936, [[Shoup Voting Machine Corporation|Samuel and Ransom Shoup]] obtained a patent for a competing voting machine.&lt;ref&gt;Samuel R. Shoup and Ransom F. Shoup, ''Voting Machine'', U.S. Patent 2,054,102, Sept. 15, 1936.&lt;/ref&gt;  By 1934, about 1/6 of all presidential ballots were being cast on mechanical voting machines, essentially all made by the same manufacturer.&lt;ref&gt;Joseph Harris, Voting Machines, Chapter VII of [http://www.vote.nist.gov/election_admin.htm Election Administration in the United States], Brookings, 1934; pages 249 and 279-280.&lt;/ref&gt;
+
+Commonly, a voter enters the machine and pulls a lever to close the curtain, thus unlocking the voting levers. The voter then makes his or her selection from a list of switches denoting the appropriate candidates or measures. The machine is configured to prevent overvotes by locking out other candidates when one candidate's switch is flipped. When the voter is finished, a lever is pulled which opens the curtain and increments the appropriate counters for each candidate and measure. The results are then hand written by the precinct officer at the conclusion of voting. [[New York]] is the last state to stop using these machines.&lt;ref&gt;[http://www.pressconnects.com/apps/pbcs.dll/article?AID=/20070810/NEWS01/708100363 &quot;Lever voting machines get a reprieve in NY&quot;, ''[[Press &amp; Sun-Bulletin]]'' ([[Binghamton, New York]]), August 10, 2007]&lt;/ref&gt;&lt;ref&gt;http://www.nytimes.com/2008/02/05/us/politics/05voting.html?fta=y &quot;States Prepare for Tests of Changes to Voting System&quot;, ''[[New York Times]]'' Page accessed on 20 October 2008&lt;/ref&gt;
+
+====Direct-recording Electronic Voting System====
+The successor to direct recording voting machines, a [[DRE voting machine|direct-recording electronic (DRE)]] voting system records votes by means of an electronic display provided with mechanical or electro-optical components that can be activated by the voter; that processes voter selections by means of a computer program; and that records that processed voting data in memory components. It produces a tabulation of the voting data that is stored in a removable memory component and may also provide printed renditions of the data. The system may further provide a means for transmitting the processed vote data to a central location in individual or accumulated forms for consolidating and reporting results from precincts at a central location. DRE systems additionally can produce a paper ballot printout that can be verified by the voter before they cast their ballot.
+
+====Public Network Direct-recording Electronic Voting System====
+A public network DRE voting system is an election system that uses electronic [[ballot]]s and transmits vote data from the polling place to another location over a public network. Vote data may be transmitted as individual ballots as they are cast, periodically as batches of ballots throughout the election day, or as one batch at the close of voting.
+&lt;gallery perrow=&quot;4&quot;&gt;
+Image:Winvote arlington.jpg|The Advanced Voting Solutions WINvote voting machine in [[Arlington County, Virginia]].
+Image:MDvotingmachine.jpg|A voting machines used in [[Bladensburg, Maryland]] 2004.
+Image:Urna eletrônica.jpeg|A [[Elections in Brazil|Brazilian]] voting machine
+Image:IVotronic img 3452.jpg|Voting machine to be used in [[Issy-les-Moulineaux]] during the [[French presidential election, 2007|2007 French presidential election]]
+&lt;!-- Deleted image removed: File:Iranians-new-machin-for-elections.JPG|An [[Elections in Iran|Iranian]] voting machine, used in [[Iranian legislative election, 2012|2012 legislative election]]. --&gt;
+Image:topvoter2.jpg|ISG TopVoter, a voting machine specifically designed for disabled voters.
+Image:Shouptronic.jpg|Similar to lever voting machines, the electromechanical Shouptronic voting machine.
+Image:Standardvotingmachine.jpg|A voting machine designed by Alfred J. Gillespie and marketed by the Standard Voting Machine Company of [[Rochester, New York]] from the late 1890s.
+File:Voting machine lever.jpg| The famous lever of a lever voting machine still being used in 2008 in [[Kingston, New York]]
+File:Electronicvotingmachinewithbucu.jpg|Voting machine used  for Indian general elections
+File:Voting machine Denver Colorado 1912.JPG|Seven ticket voting machine, 1912.
+&lt;/gallery&gt;
+
+==Vote-tabulation Technologies==
+
+Most voting systems (whether document ballot or non-document ballot) can be tabulated either at the place of voting or in another location. In this case &quot;''precinct''&quot; is the place of voting.
+
+===Precinct-count Voting System===
+A precinct-count voting system is a voting system that tabulates ballots at the polling place. Generally, systems that hand count the ballots will tabulate the ballots only after the close of polling. Other voting systems typically tabulate the ballots as they are cast. In all systems, the vote totals are made public only after the close of polling. For DREs and some paper-based systems these systems provide electronic storage of the vote count and may transmit results to a central location over public telecommunication networks. This system allows for voters to be notified of voting errors such as [[overvote|over voting]] and can prevent [[residual votes]].
+
+===Central-count Voting System===
+A central count voting system is a voting system that tabulates ballots from multiple precincts at a central location. Voted ballots are typically placed into secure storage at the polling place. Stored ballots are transported or transmitted to a central counting location. The system produces a printed report of the vote count, and may produce a report stored on electronic media.
+
+==See also==
+* [[ACCURATE]]
+* [[Ballot]]
+* [[Elections in Brazil#The Brazilian voting machines|Brazilian voting machine]]
+* [[Electoral systems]]
+* [[Electronic voting]]
+* [[Indian voting machines]]
+* [[Open Voting Consortium]]
+* [[Postal voting]]
+* [[Safevote]]
+* [[Security seal]]
+* [[Vote counting system]]
+* [[Voting system]]
+
+'''People'''
+*[[Don A. Allen#Positions|Don A. Allen]], member of the California State Assembly and of the Los Angeles City Council in the 1940s and 1950s, urged adoption of voting machines for Los Angeles
+
+==References==
+&lt;references/&gt;
+
+==External links==
+{{Commons category|Voting machines}}
+
+===Election Administration===
+* [http://www.eac.gov Election Assistance Commission]
+* [http://www.eac.gov/vvsg_intro.htm US Federal Voluntary Voting System Guidelines]
+* [http://vote.nist.gov/ Vote.NIST.gov] - The [[National Institute of Standards and Technology]] [[Help America Vote Act]] page.
+
+===Informational===
+* [http://www.electiontechnology.com/research.php The Election Technology Library research list] - A comprehensive list of research relating to technology use in elections.
+* [http://www.aceproject.org/ace-en/focus/e-voting/ E-Voting information] from [http://www.aceproject.org ACE Project]
+* [http://www.electionreformproject.org AEI-Brookings Election Reform Project]
+* {{dmoz|Society/Politics/Campaigns_and_Elections/Electronic_Democracy/Electronic_Voting_Systems/|Electronic Voting Systems}}
+* [[Ted Selker|Selker, Ted]] [http://www.sciam.com/article.cfm?chanID=sa006&amp;articleID=00018DD5-73E7-1151-B57F83414B7F0000 Scientific American Magazine Fixing the Vote] October 2004
+* [http://www.brennancenter.org/stack_detail.asp?key=97&amp;subkey=38150&amp;init_key=105 The Machinery of Democracy: Voting System Security, Accessibility, Usability, and Cost] from [http://www.brennancenter.org Brennan Center for Justice at NYU School of Law]
+* [http://www.electiontechnology.com/who.php Who's who in election technology]
+* [http://www.vote.caltech.edu/ Caltech/ MIT Voting Technology Project]
+
+*{{Cite EB1911|wstitle=voting machines}}
+
+{{DEFAULTSORT:Voting Machine}}
+[[Category:Elections]]
+
+[[de:Wahlgerät]]
+[[he:מכונת הצבעה]]
+[[ml:വോട്ടിംഗ് യന്ത്രം]]
+[[nl:Stemcomputer]]
+[[pt:Urna eletrônica]]
+[[ru:Машина для голосования]]
+[[ta:மின்னணு வாக்குப்பதிவு இயந்திரம்]]
+[[th:เครื่องลงคะแนนเสียงเลือกตั้ง]]</text>
+      <sha1>ptd7tsg1hz948pz0eu6ewfaq3xleaja</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

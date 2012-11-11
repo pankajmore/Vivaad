@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Systems theory in political science</title>
+    <ns>0</ns>
+    <id>4229742</id>
+    <revision>
+      <id>480792350</id>
+      <parentid>425050913</parentid>
+      <timestamp>2012-03-08T06:03:38Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>copyedit, clarity edits, MOS implementation, and/or AWB general fixes using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="3613">[[Image:Easton-System of political-life.PNG|thumb|250px|Easton, David (1965). A Systems Analysis of Political Life, New York, S.32.]]
+'''Systems theory in political science''' is a highly abstract, partly holistic view of [[politics]], influenced by [[cybernetics]]. The adaptation of [[system theory]] to [[political science]] was first conceived by [[David Easton]] in 1953.
+
+==Overview==
+In simple terms, Easton's [[behavioral]] approach to politics, proposed that a political system could be seen as a delimited (i.e. all political systems have precise boundaries) and fluid (changing) system of steps in decision making. Greatly simplifying his model:&lt;ref&gt;Easton, David. (1965). ''A Systems Analysis of Political Life''. New York: Wiley.&lt;/ref&gt;
+* Step 1. changes in the social or physical environment surrounding a political system produce &quot;demands&quot; and &quot;supports&quot; for action or the status quo directed as &quot;inputs&quot; towards the political system, through political behavior.
+* Step 2, these demands and supporting groups stimulate competition in a political system, leading to decisions or &quot;outputs&quot; directed at some aspect of the surrounding social or physical environment.
+* Step 3, after a decision or output is made (e.g., a specific policy), it interacts with its environment, and if it produces change in the environment, there are &quot;outcomes.&quot;
+* Step 4, when a new policy interacts with its environment, outcomes may generate new demands or supports and groups in support or against the policy (&quot;feedback&quot;) or a new policy on some related matter.
+* Step 5, feedback leads back to Step 1, it's a never ending story.
+
+If the system functions as described, then we have a &quot;stable political system&quot;. If the system breaks down, then we have a &quot;dysfunctional political system&quot;.
+
+===Political analysis===
+Easton aspired to make politics a science, that is, working with highly abstract models that described the regularities of patterns and processes in political life in general. In his view, the highest level of abstraction could make scientific generalizations about politics possible. In sum, politics should be seen as a whole, not as a collection of different problems to be solved.&lt;ref&gt;Easton, David. (1953). ''The Political System: An Inquiry into the State of Political Science''. New York: Alfred A. Knopf.&lt;/ref&gt;
+
+His main model was driven by an organic view of politics, as if it were a living object. His theory is a statement of what makes political systems adapt and survive. He describes politics in a constant flux, thereby rejecting the idea of &quot;equilibrium&quot;, so prevalent in some other political theories (see [[institutionalism]]). Moreover, he rejects the idea that politics could be examined by looking at different levels of analysis. His abstractions could account for any group and demand at any given time. That is, interest group theory and elite theory can be subsumed in political systems analysis.&lt;ref&gt;Easton, David. (1965). ''A Framework for Political Analysis''. Englewood Cliffs, NJ: Prentice-Hall.&lt;/ref&gt;
+
+His theory was and is highly influential in the [[Pluralism (political theory)|pluralist tradition]] in political science. (see [[Harold Lasswell]] and [[Robert Dahl]])
+
+==See also==
+* [[Theories of Political Behavior]]
+* [[Structural-functionalism]]
+
+==References==
+{{reflist}}
+
+[[Category:1953 introductions]]
+[[Category:Political science]]
+[[Category:Political science theories]]
+[[Category:Political science terms]]
+[[Category:Systems theory]]
+
+[[da:Eastons model]]
+[[es:Teoría sistémica en ciencia política]]
+[[he:גישת המערכות]]
+[[zh:政治系統理論]]</text>
+      <sha1>bepmt4yzptgj8vanxp5odhv9s3wyx3z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

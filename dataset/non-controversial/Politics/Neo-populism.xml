@@ -1,0 +1,77 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Neo-populism</title>
+    <ns>0</ns>
+    <id>9371645</id>
+    <revision>
+      <id>510610565</id>
+      <parentid>506643487</parentid>
+      <timestamp>2012-09-03T16:34:48Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <comment>merged templates into [[Template:Multiple issues]] using [[Project:AWB|AWB]] (8323)</comment>
+      <text xml:space="preserve" bytes="2031">{{multiple issues|
+{{context|date=August 2012}}
+{{technical|date=August 2012}}
+{{cleanup-rewrite|date=August 2012}}
+}}
+
+'''Neo-populism''' or '''Neopopulism''', also known as '''media populism''' or '''new populism''', is a cultural and political movement emergent in the early 21st century, especially in [[Latin America]]n countries. Neo-populism is an economic and social system based on worker initiative and democratic ideals. It is distinct from 20th century populism, a political philosophy supporting the rights and power of the people in their struggle against the privileged elite, in that it radically combines, or perhaps redefines, classically opposed [[Left right paradigm|left-right political attitudes]] and incorporates various new electronic media as a means of popular dissemination.  In Latin America, this shift has been evidenced by various cross-pollinations of authoritarian or [[centralized government]],  populist rhetorical strategies and [[Free market|free market economics]].  &lt;!-- POV removed, against Wikipedia policy --&gt;
+
+==Neo-populism versus classical Populism==
+A fledgling realm of political thought, Neo-populism distinguishes itself from classical [[Populism]] in shifting focus from community rights to those of the individual. With a likewise contrasting emphasis on efficient non-bureaucratic government, differing opinions within the paradigm argue the appropriate scales of state responsibility in terms of [[Public good|public goods]], of which, government transparency is largely assumed.
+
+==Works cited==
+{{reflist}}
+==External links==
+*[http://209.85.165.104/search?q=cache:9qZk-uv5EK4J:www.cccg.umontreal.ca/pdf/armony%2520udm%25202005.pdf+neo+populism&amp;hl=en&amp;ct=clnk&amp;cd=1&amp;gl=us &quot;Populism and neo-populism in Latin America&quot; by Victor Armony, Université du Québec à Montréal]
+*[http://www.midwest-populistamerica.com/articles/a-new-kind-of-populist/ The Midwest Populist Party]
+
+{{DEFAULTSORT:Neo-Populism}}
+[[Category:Political theories]]
+[[Category:Populism]]
+
+
+{{politics-stub}}</text>
+      <sha1>k82h74hdcqfa1u4ezwekikp1ako706s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

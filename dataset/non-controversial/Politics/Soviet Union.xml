@@ -1,0 +1,800 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Soviet Union</title>
+    <ns>0</ns>
+    <id>26779</id>
+    <revision>
+      <id>521786947</id>
+      <parentid>521725120</parentid>
+      <timestamp>2012-11-07T06:26:17Z</timestamp>
+      <contributor>
+        <username>TjBot</username>
+        <id>11020855</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.2) (Robot: Modifying [[km:សហភាពសូវៀត]] to [[km:សហភាព​សូវៀត]]</comment>
+      <text xml:space="preserve" bytes="132650">{{Redirect4|USSR|CCCP}}
+{{Redirect|Soviet}}
+{{pp-vandalism|expiry=4 December 2012|small=yes}}
+{{Infobox former country
+|native_name=Союз Советских Социалистических Республик&lt;br /&gt;''Soyuz Sovetskikh Sotsialisticheskikh Respublik''
+|conventional_long_name=Union of Soviet Socialist Republics &lt;br /&gt;&lt;small&gt;[[Official names of the Soviet Union|Other names]]&lt;/small&gt;
+|common_name=Soviet Union (USSR)
+|continent=Eurasia
+|era=[[Interwar period]] / [[Cold War]]
+|government_type=[[Political union|Union]],&lt;br /&gt;[[Marxism–Leninism|Marxist–Leninist]] [[single-party state]]
+|year_start = 1922
+|year_end = 1991&lt;ref&gt;[[:s:ru:Декларация Совета Республик ВС СССР от 26.12.1991 № 142-Н|Declaration № 142-Н]] of the [[Soviet of Nationalities|Soviet of the Republics of the Supreme Soviet of the Soviet Union]], formally establishing the dissolution of the Soviet Union as a state and subject of international law.  {{ru icon}}&lt;/ref&gt;
+|date_start = 30 December
+|event_start = [[Treaty of Creation of the USSR|Treaty of Creation]]
+|date_end = 26 December
+|event_end = [[Dissolution of the Soviet Union|Union dissolved]]
+|p1 = Russian SFSR
+|flag_p1 = Flag RSFSR 1918.svg
+|p2 = Transcaucasian SFSR
+|flag_p2 = Flag of Transcaucasian SFSR.svg
+|p3 = Ukrainian SSR
+|flag_p3 = Flag of the Ukrainian SSR (1927-1937).svg
+|p4 = Byelorussian SSR
+|flag_p4 = Flag of the Byelorussian SSR (1919).svg
+|s1 = Russia
+|flag_s1 = Flag of Russia 1991-1993.svg
+|s2 = Georgia (country){{!}}Georgia
+|flag_s2=Flag of Georgia (1990-2004).svg
+|s3 = Ukraine
+|flag_s3 = Flag of Ukraine.svg
+|s4 = Moldova
+|flag_s4 = Flag of Moldova.svg
+|s5 = Belarus
+|flag_s5 = Flag of Belarus (1991-1995).svg
+|s6 = Armenia
+|flag_s6 = Flag of Armenia.svg
+|s7 = Azerbaijan
+|flag_s7 = Flag of Azerbaijan.svg
+|s8 = Kazakhstan
+|flag_s8 = Flag of Kazakh SSR.svg
+|s9 = Uzbekistan
+|flag_s9 = Flag of Uzbekistan.svg
+|s10 = Turkmenistan
+|flag_s10 = Flag of Turkmen SSR.svg
+|s11 = Kyrgyzstan
+|flag_s11 = Flag of Kyrgyz SSR.svg
+|s12 = Tajikistan
+|flag_s12 = Flag of Tajik SSR.svg
+|s13 = Estonia{{!}}Estonia&lt;sup&gt;3&lt;/sup&gt;
+|flag_s13 = Flag of Estonia.svg
+|s14 = Latvia{{!}}Latvia&lt;sup&gt;3&lt;/sup&gt;
+|flag_s14 = Flag of Latvia.svg
+|s15 = Lithuania{{!}}Lithuania&lt;sup&gt;3&lt;/sup&gt;
+|flag_s15 = Flag of Lithuania 1989-2004.svg
+|
+|
+|image_flag = Flag of the Soviet Union.svg
+|flag = Flag of the Soviet Union
+|image_coat = Coat_of_arms_of_the_USSR.png
+|symbol = State Emblem of the Soviet Union
+|symbol_type = State Emblem
+|image_map = Union of Soviet Socialist Republics (orthographic projection).svg
+|image_map_size = 220px
+|image_map_caption = The Soviet Union after [[World War II]]
+|capital = Moscow
+|latd=55|latm=45|latNS=N|longd=37|longm=37|longEW=E
+|largest_city =Moscow
+|national_motto = Пролетарии всех стран, соединяйтесь!&lt;br /&gt;([[Romanization of Russian|Translit.]]: ''Proletarii vsekh stran, soyedinyaytes'!'')&lt;br /&gt;English: [[Workers of the world, unite!]]
+|national_anthem = &quot;[[The_Internationale#Russian_lyrics|The Internationale]]&quot;&lt;br /&gt;(1922–1944) [[File:Internationale orchestral arrangement.ogg]]&lt;br /&gt;&quot;[[National Anthem of the Soviet Union]]&quot;&lt;br /&gt;(1944–1991) [[File:Soviet Anthem Instrumental 1955.ogg]]
+|common_languages = Russian, [[Languages of the Soviet Union|many others]]
+|demonym = [[Soviet people|Soviet]]
+|religion = [[State atheism|State]] [[Marxist-Leninist atheism|atheism]]&lt;ref&gt;[http://articles.baltimoresun.com/1990-10-02/news/1990275061_1_supreme-soviet-religious-classes-atheism 73 Years of State Atheism in the Soviet Union, ended amid collapse in 1990]&lt;/ref&gt; &lt;small&gt;([[Soviet Union#Religion|see text]])&lt;small&gt;
+|currency = [[Soviet ruble]] (руб) (SUR)
+|currency_code = SUR
+&lt;!-- If there are more than 4 leaders, only give first and last&amp;nbsp;— the infobox is not intended to list everything. --&gt;
+|leader1                = [[Joseph Stalin]] &lt;small&gt;(first)&lt;small&gt;
+|leader2                = [[Vladimir Ivashko]] &lt;small&gt;(last)&lt;small&gt;
+|year_leader1           = 1922–1952
+|year_leader2           = 1991
+|title_leader           = [[General Secretary of the Communist Party of the Soviet Union|General Secretary]]
+|
+|representative1        = [[Mikhail Kalinin]] &lt;small&gt;(first)&lt;small&gt;
+|representative2        = [[Mikhail Gorbachev]] &lt;small&gt;(last)&lt;small&gt;
+|year_representative1   = 1922–1938
+|year_representative2   = 1988–1991
+|title_representative   = [[List of heads of state of the Soviet Union|Head of State]]
+|
+|deputy1                = [[Vladimir Lenin]] &lt;small&gt;(first)&lt;small&gt;
+|deputy2                = [[Ivan Silayev]] &lt;small&gt;(last)&lt;small&gt;
+|year_deputy1           = 1922–1924
+|year_deputy2           = 1991
+|title_deputy           = [[Premier of the Soviet Union|Head of Government]]
+|
+|legislature = [[Supreme Soviet of the Soviet Union|Supreme Soviet]]
+|house1 = [[Soviet of the Union]]
+|house2 = [[Soviet of Nationalities]]
+|stat_year1 = 1991
+|stat_area1 = 22402200
+|stat_pop1 = 293047571
+|footnotes =
+&lt;sup&gt;1&lt;/sup&gt;On 21 December 1991, eleven of the former socialist republics declared in [[Alma-Ata]] (with the 12th republic – [[Georgian SSR|Georgia]] – attending as an observer) that with the formation of the [[Commonwealth of Independent States]] the Union of Soviet Socialist Republics ceases to exist.&lt;br /&gt;
+&lt;sup&gt;2&lt;/sup&gt;Assigned on 19 September 1990, existing onwards.&lt;br /&gt;
+&lt;sup&gt;3&lt;/sup&gt;The governments of Estonia, Latvia, and Lithuania view themselves as continuous and unrelated to the respective Soviet republics.&lt;br /&gt;Russia views the Estonian, Latvian, and Lithuanian SSRs as legal constituent republics of the USSR and predecessors of the modern Baltic states.&lt;br /&gt;The Government of the United States and [[State continuity of the Baltic states#No final decision on non-recognition policy|a number of other countries]] did not recognize the [[annexation]] of Estonia, Latvia, and Lithuania to the USSR as a legal inclusion.
+|utc_offset = +2 to +13
+|cctld = [[.su]]&lt;sup&gt;2&lt;/sup&gt;
+|calling_code = 7
+}}
+{{Soviet Union sidebar}}
+The '''Union of Soviet Socialist Republics''' ({{lang-rus|Сою́з Сове́тских Социалисти́ческих Респу́блик|r=Soyuz Sovetskikh Sotsialisticheskikh Respublik}}) abbreviated to '''USSR''' ({{lang-rus|СССР|r=SSSR}}) or the '''Soviet Union''' ({{lang-rus|Советский Союз|r=Sovetsky Soyuz}}), was a constitutionally [[socialist state]] that existed between 1922 and 1991, ruled as a [[single-party state]] by the [[Communist Party of the Soviet Union|Communist Party]] with its capital as [[Moscow]].&lt;ref&gt;Bridget O'Laughlin (1975) ''Marxist Approaches in Anthropology'' Annual Review of Anthropology Vol. 4: pp. 341–70 (October 1975) {{doi|10.1146/annurev.an.04.100175.002013}}.&lt;br /&gt;William Roseberry (1997) ''Marx and Anthropology'' Annual Review of Anthropology, Vol. 26: pp. 25–46 (October 1997) {{doi|10.1146/annurev.anthro.26.1.25}}&lt;/ref&gt; A [[political union|union]] of 15 subnational [[Republics of the Soviet Union|Soviet republics]], its [[Politics of the Soviet Union|government]] and [[Economy of the Soviet Union|economy]] were highly centralised.
+
+The Soviet Union had its roots in the [[Russian Revolution of 1917]], which deposed [[Nicholas II]], ending three hundred years of [[Romanov dynasty|Romanov]] [[Dynasty|dynastic rule]]. The [[Bolshevik]]s, led by [[Vladimir Lenin]], stormed the [[Winter Palace]] in [[Petrograd]] and overthrew the [[Russian Provisional Government|Provisional Government]]. The [[Russian Socialist Federative Soviet Republic]] was established and a [[Russian Civil War|civil war]] began. The [[Red Army]] entered several territories of the former [[Russian Empire]] and helped local communists seize power. In 1922, the Bolsheviks were victorious, forming the Soviet Union with the unification of the Russian, [[Transcaucasian Socialist Federative Soviet Republic|Transcaucasian]], [[Ukrainian Soviet Socialist Republic|Ukrainian]] and [[Byelorussian Soviet Socialist Republic|Byelorussian]] republics. Following Lenin's death in 1924, a [[Troika (triumvirate)|troika]] [[collective leadership]] and a brief power struggle, [[Joseph Stalin]] came to power in the late 1920s. Stalin committed the state ideology to [[Marxism–Leninism]] and a centralised [[planned economy]] was initiated. As a result, the country underwent a period of rapid [[industrialisation]] and [[Collectivisation in the Soviet Union|collectivisation]] which laid the basis for its later war effort and dominance after World War II.&lt;ref name=&quot;StalinRobertService&quot;&gt;{{cite book| author = Robert Service| title = Stalin: a biography| url = http://books.google.com/?id=ITKUPwAACAAJ| date = 9 September 2005| publisher = Picador| isbn = 978-0-330-41913-0 }}&lt;/ref&gt;&lt;ref name=&quot;StalinRobertService&quot; /&gt; However, Stalin repressed both Communist Party members and elements of the population through his [[authoritarism|authoritarian]] rule.
+
+During [[World War II]], [[Nazi Germany]] [[Operation Barbarossa|invaded]] the Soviet Union in 1941, opening [[Eastern Front (World War II)|the largest and bloodiest theatre]] of war in history and violating [[Treaty of Non-Aggression between Germany and the Soviet Union|an earlier non-aggression pact]] between the two countries. The Soviet Union suffered the largest loss of life in the war, but halted the [[Axis powers|Axis]] advance at intense battles such as [[Battle of Stalingrad|at Stalingrad]], eventually driving through Eastern Europe and capturing Berlin in 1945. Having played the decisive role in the Allied victory in Europe, the Soviet Union consequently [[Eastern Bloc|occupied much of Central and Eastern Europe]] and emerged as one of the world's two [[superpower]]s after the war. Together with these new socialist [[satellite states]], through which it [[Comecon|established economic]] and [[Warsaw Pact|military pacts]], it became involved in the Cold War, a prolonged ideological and political struggle against the [[Western Bloc]] led by the other [[superpower]], the [[United States]].
+
+A [[de-Stalinisation]] period followed Stalin's death, reducing the harshest aspects of society. The Soviet Union then went on to initiate significant technological achievements of the 20th century, including launching the [[Sputnik 1|first ever satellite]] and world's [[Vostok 1|first human spaceflight]], which led it into the [[Space Race]]. The [[Cuban Missile Crisis]] in 1962 marked a period of extreme tension between the two superpowers, considered the closest to a mutual nuclear confrontation. In the 1970s, a [[detente|relaxation of relations]] followed, but tensions resumed when, after a Communist-led revolution in [[Afghanistan]], [[Soviet invasion of Afghanistan|Soviet forces entered]] the country by request of the new regime. The occupation drained economic resources and dragged on without achieving meaningful political results.&lt;ref&gt;{{cite book| author = David Holloway| last = Mr. David Holloway| title = Stalin and the Bomb| url = http://yalepress.yale.edu/book.asp?isbn=9780300066647| date = 27 March 1996| publisher = Yale University Press| isbn = 978-0-300-06664-7| page = 18 }}&lt;/ref&gt;&lt;ref name=&quot;turner23&quot;&gt;{{Harvnb|Turner|1987|p=23}}&lt;/ref&gt; 
+
+In the late 1980s the last Soviet leader, [[Mikhail Gorbachev]], sought reforms in the Union, introducing the policies of ''[[glasnost]]'' and ''[[perestroika]]'' in an attempt to end the [[Era of Stagnation|period of economic stagnation]] and democratize the government. However, this led to the rise of strong [[Nationalism|nationalist]] and separatist movements. By 1991, the country was in turmoil as the [[Baltic states|Baltic republics]] began to secede. A [[Soviet Union referendum, 1991|referendum]] resulted in the vast majority of participating citizens voting in favour of preserving the Union as a [[Union of Sovereign States|renewed federation]]. In August 1991, [[1991 Soviet coup d'état attempt|a coup d'état attempt]] by [[hardliners]] against Gorbachev and aimed at preserving the country, instead led to its collapse. On 25 December 1991, the USSR [[dissolution of the Soviet Union|was dissolved]] into 15 [[post-Soviet states]].&lt;ref name = &quot;Byrd&quot;&gt;{{cite book| author = Iain McLean| title = The concise Oxford dictionary of politics| url = http://books.google.com/?id=UMuBAAAAMAAJ| year = 1996| publisher = Oxford University Press| isbn = 978-0-19-285288-5 }}&lt;/ref&gt; The [[Russian Federation]], successor of the Russian SFSR, assumed the Soviet Union's rights and obligations and is recognised as its continued legal personality.&lt;ref&gt;&quot;Russia is now a party to any Treaties to which the former Soviet Union was a party, and enjoys the same rights and obligations as the former Soviet Union, except insofar as adjustments are necessarily required, e.g. to take account of the change in territorial extent. [...] The Russian federation continues the legal personality of the former Soviet Union and is thus not a successor State in the sense just mentioned. The other former Soviet Republics are successor States.&quot;, United Kingdom Materials on International Law 1993, BYIL 1993, pp. 579 (636).&lt;/ref&gt;
+
+==Geography, climate and environment==
+{{Main|Geography of the Soviet Union}}
+With an area of {{Convert|22402200|km2}}, the Soviet Union was the world's largest state, a status that is retained by the Russian Federation. Covering a sixth of the Earth's land surface, its size was comparable to that of North America. The European portion accounted for a quarter of the country's area, and was the cultural and economic center. The eastern part in Asia extended to the Pacific Ocean to the east and [[Afghanistan]] to the south, and was much less populous. It spanned over {{Convert|10000|km}} east to west across 11 [[time zone]]s, and over {{Convert|7200|km}} north to south. It had five climate zones: [[tundra]], [[taiga]], [[steppe]]s, desert, and mountains.
+
+The Soviet Union had the world's longest border, measuring over {{Convert|60000|km}}, two-thirds of it a coastline of the [[Arctic Ocean]]. Across the [[Bering Strait]] was the [[United States]]. The Soviet Union bordered [[Afghanistan]], [[China]], [[Czechoslovakia]], [[Finland]], [[Hungary]], [[Iran]], [[Mongolia]], [[North Korea]], [[Norway]], [[Poland]], [[Romania]], and [[Turkey]] from 1945 to 1991.
+
+The Soviet Union's highest mountain was the Communism Peak (now [[Ismail Samani Peak]]) in [[Tajikistan]], at {{Convert|7495|m}}. The  longest river of the Soviet Union was the [[Irtysh]]. The Soviet Union also included the world's largest lake, the [[Caspian Sea]], and the world's largest freshwater and deepest lake, [[Lake Baikal]].
+
+==History==
+{{Main|History of the Soviet Union}}
+
+The last Russian [[Tsar]], [[Nicholas II of Russia|Nicholas II]], ruled the [[Russian Empire]] until his abdication in March 1917, due in part to the strain of fighting in [[World War I]]. A short-lived [[Russian provisional government]] took power, to be overthrown in the [[1917 October Revolution]] (N.S. November 1917) by revolutionaries led by the [[Bolshevik]] leader [[Vladimir Lenin]].
+
+The Soviet Union was officially established in December 1922 with the union of the [[RSFSR|Russian]], [[Ukrainian Soviet Socialist Republic|Ukrainian]], [[Byelorussian Soviet Socialist Republic|Byelorussian]], and [[Transcaucasian Socialist Federative Soviet Republic|Transcaucasian]] Soviet republics- each ruled by local [[Bolshevik]] parties. Despite the foundation of the Soviet state as a federative entity of many constituent republics, each with its own political and administrative entities, the term &quot;Soviet Russia&quot;{{spaced ndash}}strictly applicable only to the Russian Federative Socialist Republic{{spaced ndash}}was often applied to the entire country by non-Soviet writers and politicians.
+
+===Revolution and foundation===
+{{Main|History of Soviet Russia and the Soviet Union (1917–1927)}}
+Modern revolutionary activity in the Russian Empire began with the [[Decembrist Revolt]] of 1825. Although [[Russian serfdom|serfdom]] was abolished in 1861, it was done on terms unfavourable to the peasants and served to encourage revolutionaries. A parliament—the [[State Duma]]—was established in 1906 after the [[Russian Revolution of 1905]], but the Tsar resisted attempts to move from [[Absolute monarchy|absolute]] to [[constitutional monarchy]]. [[Social unrest]] continued and was aggravated during [[World War I]] by military defeat and food shortages in major cities.
+[[File:Lenin-Trotsky 1920-05-20 Sverdlov Square (original).jpg|thumb|left|[[Vladimir Lenin]] addressing a crowd in 1920.]]
+
+A spontaneous popular uprising in [[Saint Petersburg|Petrograd]], in response to the wartime decay of Russia's economy and morale, culminated in the [[February Revolution]] and the [[Russian Revolution (1917)|toppling of the imperial government in March 1917]]. The [[tsarist autocracy]] was replaced by the Russian Provisional Government, which intended to conduct elections to the [[Russian Constituent Assembly]] and to continue fighting on the side of the [[Allies of World War I|Entente]] in World War I.
+
+At the same time, workers' councils, known as [[Soviet (council)|Soviets]], sprang up across the country. The [[Bolshevik]]s, led by [[Vladimir Lenin]], pushed for [[Communist revolution|socialist revolution]] in the Soviets and on the streets. On 7 November 1917, the Red Guards stormed the [[Winter Palace]] in Petrograd, ending the rule of the Provisional Government and leaving all political power to the Soviets. This event would later be known as the [[Great October Socialist Revolution]]. In December, the Bolsheviks signed an [[armistice]] with the [[Central Powers]], though by February 1918, fighting had resumed. In March, the Soviets ended involvement the war for good and signed the [[Treaty of Brest-Litovsk]].
+
+A long and bloody [[Russian Civil War|Civil War]] ensued between the [[Red Army|Reds]] and the [[White movement|Whites]], starting in 1917 and ending in 1923 with the Reds' victory. It included [[Allied intervention in the Russian Civil War|foreign intervention]], the execution of [[Nicholas II of Russia#Final months and death|Nicholas II and his family]], and the [[Russian famine of 1921|famine of 1921]], which killed about five million.&lt;ref&gt;{{cite book| author = Evan Mawdsley| title = The Russian Civil War| url = http://books.google.com/?id=LUhXZD2BPeQC&amp;pg=PA287| date = 1 March 2007| publisher = Pegasus Books| isbn = 978-1-933648-15-6| page = 287 }}&lt;/ref&gt; In March 1921, during [[Polish–Soviet War|a related conflict with Poland]], the [[Peace of Riga]] was signed, splitting disputed territories in [[Belarus]] and [[Ukraine]] between the [[Second Polish Republic|Republic of Poland]] and Soviet Russia. The Soviet Union had to resolve similar conflicts with the newly established [[Finland's Declaration of Independence|Republic of Finland]], the [[Estonian War of Independence|Republic of Estonia]], the [[Latvian War of Independence|Republic of Latvia]], and the [[Lithuanian–Soviet War|Republic of Lithuania]].
+
+===Unification of republics===
+
+On 28 December 1922, a conference of plenipotentiary delegations from the [[Russian Soviet Federative Socialist Republic|Russian SFSR]], the [[Transcaucasian Socialist Federative Soviet Republic|Transcaucasian SFSR]], the [[Ukrainian Soviet Socialist Republic|Ukrainian SSR]] and the [[Byelorussian Soviet Socialist Republic|Byelorussian SSR]] approved the [[Treaty of Creation of the USSR]]&lt;ref&gt;Richard Sakwa ''The Rise and Fall of the Soviet Union, 1917–1991: 1917–1991''. Routledge, 1999. ISBN 9780415122900. pp. 140–143.&lt;/ref&gt; and the Declaration of the Creation of the USSR, forming the Union of Soviet Socialist Republics.&lt;ref&gt;Julian Towster. ''Political Power in the U.S.S.R., 1917–1947: The Theory and Structure of Government in the Soviet State'' Oxford Univ. Press, 1948. p. 106.&lt;/ref&gt; These two documents were confirmed by the 1st [[Congress of Soviets]] of the USSR and signed by the heads of the delegations,&lt;ref&gt;{{Ru icon}} [http://region.adm.nov.ru/pressa.nsf/0c7534916fcf6028c3256b3700243eac/4302e4941fb6a6bfc3256c99004faea5!OpenDocument Voted Unanimously for the Union.] {{Wayback|df=yes|url=http://region.adm.nov.ru/pressa.nsf/0c7534916fcf6028c3256b3700243eac/4302e4941fb6a6bfc3256c99004faea5!OpenDocument|date =20110722233249}}&lt;/ref&gt; [[Mikhail Kalinin]], Mikha Tskhakaya, [[Mikhail Frunze]], [[Grigory Petrovsky]], and [[Aleksandr Chervyakov]],&lt;ref&gt;{{Ru icon}} [http://www.hronos.km.ru/sobyt/cccp.html Creation of the USSR] at Khronos.ru. {{dead link|date=September 2011}}&lt;/ref&gt; on 30 December 1922.
+
+On 1 February 1924, the USSR was recognized by the [[British Empire]]. The same year, a [[1924 Soviet Constitution|Soviet Constitution]] was approved, legitimizing the December 1922 union.
+
+An intensive restructuring of the economy, industry and politics of the country began in the early days of Soviet power in 1917. A large part of this was done according to the [[Bolshevik Initial Decrees]], government documents signed by Vladimir Lenin. One of the most prominent breakthroughs was the [[GOELRO plan]], which envisioned a major restructuring of the Soviet economy based on total electrification of the country. The plan was developed in 1920 and covered a 10-to 15-year period. It included construction of a network of 30 regional [[power plants]], including ten large [[hydroelectric power plant]]s, and numerous electric-powered large industrial enterprises.&lt;ref&gt;{{cite web|url=http://www.springerlink.com/content/h3677572g016338u/|title=70 Years of Gidroproekt and Hydroelectric Power in Russia}} {{dead link|date=September 2011}}&lt;/ref&gt; The plan became the prototype for subsequent [[Five-Year Plan for the National Economy of the Soviet Union|Five-Year Plans]] and was fulfilled by 1931.&lt;ref name=&quot;Kuzbassenergo&quot;&gt;{{Ru icon}} [http://www.kuzbassenergo.ru/goelro/ On GOELRO Plan — at Kuzbassenergo.] {{Wayback|df=yes|url=http://www.kuzbassenergo.ru/goelro/|date =20110723044724}}&lt;/ref&gt;
+
+===Stalin era===
+{{Main|History of the Soviet Union (1927–1953)}}
+[[File:Nonperson.jpg|thumb|Stalin and [[Nikolai Yezhov]], the head of the NKVD. After Yezhov was executed he was edited out of the image.]]
+From its creation, the government in the Soviet Union was based on the [[Single-party state|one-party rule]] of the [[Communist Party of the Soviet Union|Communist Party (Bolsheviks)]].&lt;ref&gt;The consolidation into a single-party regime took place during the first three and a half years after the revolution, which included the period of [[War communism|War Communism]] and an election in which multiple parties competed. See Leonard Schapiro, ''The Origin of the Communist Autocracy: Political Opposition in the Soviet State, First Phase 1917–1922.'' Cambridge, MA: [[Harvard University Press]], 1955, 1966.&lt;/ref&gt; After the economic policy of &quot;[[War Communism]]&quot; during the Russian Civil War, as a prelude to fully developing [[socialism]] in the country, the Soviet government permitted some private enterprise to coexist alongside nationalized industry in the 1920s and total food requisition in the countryside was replaced by a food tax (see [[New Economic Policy]]).
+
+The stated purpose of the one-party state was to ensure that capitalist exploitation would not return to the Soviet Union and that the principles of [[Democratic Centralism]] would be most effective in representing the people's will in a practical manner. Debate over the future of the economy provided the background for a power struggle in the years after Lenin's death in 1924. Initially, Lenin [[Lenin's Testament|was to be replaced by]] a &quot;[[Collective leadership|troika]]&quot; consisting of [[Grigory Zinoviev]] of [[Ukraine]], [[Lev Kamenev]] of Moscow, and [[Joseph Stalin]] of [[Georgian people|Georgia]].
+
+On 3 April 1922, Stalin was named the [[General Secretary of the Communist Party of the Soviet Union]]. Lenin had appointed Stalin the head of the [[Rabkrin|Workers' and Peasants' Inspectorate]], which gave Stalin considerable power. By [[Stalin's rise to power|gradually consolidating his influence and isolating and outmaneuvering his rivals within the party]], Stalin became the [[dictator|undisputed leader]] of the Soviet Union and, by the end of the 1920s, established [[totalitarian]] rule. In October 1927, Grigory Zinoviev and [[Leon Trotsky]] were expelled from the [[Central Committee of the Communist Party of the Soviet Union|Central Committee]] and forced into exile.
+
+In 1928, Stalin introduced the [[First Five-Year Plan]] for building a [[Socialist economics|socialist economy]]. While encompassing the [[Proletarian internationalism|internationalism]] expressed by Lenin throughout the Revolution, it also aimed to build [[socialism in one country]]. In industry, the state assumed control over all existing enterprises and undertook an intensive program of industrialization. In agriculture, rather than adhering to the &quot;lead by example&quot; policy advocated by Lenin,&lt;ref&gt;{{cite book|last=Lenin|first=V.I.|title=Collected Works|pages=152–164, Vol. 31|&quot;The proletarian state must effect the transition to collective farming with extreme caution and only very gradually, by the force of example, without any coercion of the middle peasant.&quot;}}&lt;/ref&gt; forced [[Collectivisation in the USSR|collectivisation of farms]] was implemented all over the country.
+
+[[Droughts and famines in Russia and the USSR|Famines]] ensued, causing millions of deaths; surviving [[kulak]]s were persecuted and many sent to [[Gulag]]s to do [[Unfree labour|forced labour]].&lt;ref&gt;{{cite book| author = Stéphane Courtois| coauthors = Mark Kramer| title = Livre noir du Communisme: crimes, terreur, répression| url = http://books.google.com/?id=H1jsgYCoRioC&amp;pg=PA206| date = 15 October 1999| publisher = Harvard University Press| isbn = 978-0-674-07608-2| page = 206 }}&lt;/ref&gt; Social upheaval continued in the mid-1930s. Stalin's [[Great Purge]] resulted in the execution or detainment of many &quot;[[Old Bolsheviks]]&quot; who had participated in the October Revolution with Lenin. According to declassified Soviet archives, in 1937 and 1938, the [[NKVD]] arrested more than one and a half million people, of whom 681,692 were shot – an average of 1,000 executions a day.&lt;ref&gt;{{cite book| author = Abbott Gleason| title = A companion to Russian history| url = http://books.google.com/?id=JyN0hlKcfTcC&amp;pg=PA373| year = 2009| publisher = Wiley-Blackwell| isbn = 978-1-4051-3560-3| page = 373 }}&lt;/ref&gt; The excess deaths during the 1930s as a whole were in the range of 10–11 million.&lt;ref name = &quot;1930s&quot;&gt;{{cite book| author = Geoffrey A. Hosking| title = Russia and the Russians: a history| url = http://books.google.com/?id=oh-5AAmboMUC&amp;pg=PA469| year = 2001| publisher = Harvard University Press| isbn = 978-0-674-00473-3| page = 469 }}&lt;/ref&gt; Yet despite the turmoil of the mid-to-late 1930s, the Soviet Union developed a powerful industrial economy in the years before [[World War II]].
+
+====1930s====
+The early 1930s saw closer cooperation between the West and the USSR. From 1932 to 1934, the Soviet Union participated in the [[World Disarmament Conference]]. In 1933, diplomatic relations between the United States and the USSR were established. In September 1934, the Soviet Union joined the [[League of Nations]]. After the [[Spanish Civil War]] broke out in 1936, the USSR actively supported the [[Second Spanish Republic|Republican forces]] against the [[Spain under Franco|Nationalists]], who were supported by [[Kingdom of Italy (1861–1946)|Fascist Italy]] and [[Nazi Germany]].
+
+In December 1936, Stalin unveiled a new [[1936 Soviet Constitution|Soviet Constitution]]. The constitution was seen as a personal triumph for Stalin, who on this occasion was described by ''[[Pravda]]'' as a &quot;genius of the new world, the wisest man of the epoch, the great leader of communism.&quot; By contrast, Western historians and historians from former Soviet occupied countries have viewed the constitution as a meaningless propaganda document.
+
+The late 1930s saw a shift towards the [[Axis powers]]. In 1938, after the United Kingdom and [[Third French Republic|France]] had concluded the [[Munich Agreement]] with Germany, the USSR dealt with the Nazis as well, both militarily and economically during [[German–Soviet Axis talks|extensive talks]]. The two countries concluded the [[Molotov–Ribbentrop Pact|German–Soviet Nonaggression Pact]] and the [[German–Soviet Commercial Agreement (1940)|German–Soviet Commercial Agreement]]. The nonaggression pact made possible Soviet occupation of [[Occupation of the Baltic States|Lithuania, Latvia, Estonia]], [[Soviet occupation of Bessarabia and Northern Bukovina|Bessarabia, northern Bukovina]], and [[Soviet invasion of Poland (1939)|eastern Poland]]. In late November of the same year, unable to coerce the [[Finland|Republic of Finland]] by diplomatic means into moving its border {{Convert|25|km}} back from [[Leningrad]], Joseph Stalin ordered the [[Winter War|invasion of Finland]].
+
+In the east, the Soviet military won several decisive victories during [[Soviet–Japanese Border Wars|border clashes]] with the [[Japanese Empire]] in 1938 and 1939. However, in April 1941, USSR signed the [[Soviet–Japanese Neutrality Pact]] with the [[Empire of Japan]], recognizing the territorial integrity of [[Manchukuo]], a Japanese [[puppet state]].
+
+====World War II====
+[[File:Bundesarchiv Bild 183-R77767, Berlin, Rotarmisten Unter den Linden.jpg|thumb|Soviet soldiers in Berlin, May 1945.]]
+{{Main|Eastern Front (World War II)}}
+Although it has been debated whether the Soviet Union intended to invade Germany once it was strong enough,&lt;ref&gt;{{Ru icon}} Mel'tiukhov, Mikhail. ''Upushchennyi shans Stalina: Sovietskii Soiuz i bor'ba za Evropu'' 1939–1941. Moscow: Veche, 2000. ISBN 5-7838-1196-3.&lt;/ref&gt; Germany itself broke the treaty and [[Operation Barbarossa|invaded the Soviet Union]] on 22 June 1941, starting what was known in the USSR as the &quot;[[Eastern Front (WWII)|Great Patriotic War]]&quot;. The [[Red Army]] stopped the seemingly invincible German Army at the [[Battle of Moscow]], aided by an unusually harsh winter. The [[Battle of Stalingrad]], which lasted from late 1942 to early 1943, dealt a severe blow to the Germans from which they never fully recovered and became a turning point in the war. After Stalingrad, Soviet forces drove through Eastern Europe to Berlin before [[End of World War II in Europe|Germany surrendered in 1945]]. The German Army suffered 80% of its military deaths in the Eastern Front.&lt;ref&gt;{{cite book| author = William J. Duiker| title = Contemporary World History| url = http://books.google.com/?id=uqvgYtJHGSMC| date = 31 August 2009| publisher = Wadsworth Pub Co| isbn = 978-0-495-57271-8| page = 128 }}&lt;/ref&gt;
+
+[[File:Teheran conference-1943.jpg|thumb|left|Soviet Premier [[Joseph Stalin]], U.S. President [[Franklin D. Roosevelt]] and British Prime Minister [[Winston Churchill]] (left to right) confer in Tehran in 1943.]]
+The same year, the USSR, in fulfillment of its agreement with the Allies at the [[Yalta Conference]], denounced the Soviet–Japanese Neutrality Pact in April 1945&lt;ref name=&quot;denunciation&quot;&gt;[http://avalon.law.yale.edu/wwii/s3.asp Denunciation of the neutrality pact] 5 April 1945. ([[Avalon Project]] at [[Yale University]])&lt;/ref&gt; and [[Soviet invasion of Manchuria (1945)|invaded Manchukuo and other Japan-controlled territories]] on 9 August 1945.&lt;ref name=&quot;declarationofwar&quot;&gt;[http://avalon.law.yale.edu/wwii/s4.asp Soviet Declaration of War on Japan], 8 August 1945. ([[Avalon Project]] at [[Yale University]])&lt;/ref&gt; [[Soviet–Japanese War (1945)|This conflict]] ended with a decisive Soviet victory, contributing to the unconditional [[surrender of Japan]] and the end of World War II.
+
+The Soviet Union suffered greatly in the war, losing around 27 million people.&lt;ref name=&quot;Geoffrey A. Hosking 2006 242&quot;&gt;{{cite book| author = Geoffrey A. Hosking| title = Rulers and victims: the Russians in the Soviet Union| url = http://books.google.com/?id=CDMVMqDvp4QC&amp;pg=PA242| year = 2006| publisher = Harvard University Press| isbn = 978-0-674-02178-5| page = 242 }}&lt;/ref&gt; Despite this, it emerged as a superpower in the post-war period. Once denied [[diplomatic recognition]] by the Western world, the Soviet Union had official relations with practically every nation by the late 1940s. A member of the United Nations at its foundation in 1945, the Soviet Union became one of the [[Permanent members of the United Nations Security Council|five permanent members]] of the [[UN Security Council]], which gave it the right to veto any of its resolutions (see [[Soviet Union and the United Nations]]).
+
+The Soviet Union maintained its status as one of the world's two superpowers for four decades through its hegemony in Eastern Europe, military strength, economic strength, aid to [[Developing country|developing countries]], and scientific research, especially in space technology and weaponry.
+
+====Cold War====
+
+{{Main|Cold War}}
+
+During the immediate postwar period, the Soviet Union rebuilt and expanded its economy, while maintaining its [[planned economy|strictly centralized control]]. It aided post-war reconstruction in the countries of Eastern Europe, while turning them into [[satellite states]], binding them in a military alliance (the [[Warsaw Pact]]) in 1955, and an economic organization ([[Comecon|The Council for Mutual Economic Assistance]] or Comecon) from 1949 to 1991, the latter a counterpart to the [[European Economic Community]].&lt;ref name=&quot;fas.org&quot;&gt;{{cite web|url=http://www.fas.org/irp/world/russia/gru/ |title=Main Intelligence Administration (GRU) Glavnoye Razvedovatel'noye Upravlenie – Russia / Soviet Intelligence Agencies |publisher=Fas.org |accessdate=24 November 2008}}&lt;/ref&gt; Later, the Comecon supplied aid to the eventually victorious [[Chinese Communist Party]], and saw its influence grow elsewhere in the world. Fearing its ambitions, the Soviet Union's wartime allies, the United Kingdom and the United States, became its enemies. In the ensuing Cold War, the two sides clashed indirectly using mostly proxies.
+
+===Khrushchev era===
+{{Main|History of the Soviet Union (1953–1964)}}
+[[File:Soviet empire 1960.png|thumb|left|The Soviet Union and other countries in the world under a communist government modelled on the country, after the [[Cuban Revolution]] of 1959 and before the official [[Sino–Soviet split]] of 1961.]]
+
+Stalin died on 5 March 1953. Without a mutually agreeable successor, the highest Communist Party officials opted to rule the Soviet Union jointly. [[Nikita Khrushchev]], who had won the power struggle by the mid-1950s, [[destalinization|denounced Stalin's use of repression]] in 1956 and eased repressive controls over party and society. This was known as [[History of the Soviet Union (1953–1982)#De-Stalinization and the Khrushchev era|de-Stalinization]].
+
+Moscow considered Eastern Europe to be a buffer zone for the forward defense of its western borders, and ensured its control of the region by transforming the Eastern European countries into satellite states. Soviet military force was used to suppress anti-communist uprisings in [[1956 Hungarian Revolution|Hungary]] and [[Poznań 1956 protests|Poland]] in 1956.
+
+In the late 1950s, a confrontation with China regarding the USSR's rapprochement with the West and what [[Mao Zedong]] perceived as Khrushchev's [[Marxist revisionism|revisionism]] led to the [[Sino–Soviet split]]. This resulted in a break throughout the global Communist movement, with Communist regimes in [[Albania]], Cambodia and [[Somalia]] choosing to ally with China in place of the USSR.
+
+[[File:Lunokhod 1 (high resolution).jpg|thumb|right|Lunokhod 1 [[Rover (space exploration)|rover]] landed on the moon on 17 November 1970]]
+During this period, the Soviet Union continued to realize scientific and technological exploits: Launching the first artificial satellite, [[Sputnik 1]] in 1957; a living dog, [[Laika]] in 1957; the first human being, [[Yuri Gagarin]] in 1961; the first woman in space, [[Valentina Tereshkova]] in 1963; [[Alexey Leonov]], the first person to walk in space in 1965; the first soft landing on moon by spacecraft Luna 9 in 1966 and the first moon rovers, [[Lunokhod 1]] and [[Lunokhod 2]].&lt;ref name=&quot;lunokhod&quot;&gt;{{cite episode|title=Tank on the Moon|series= The Nature of Things with David Suzuki|network= CBC-TV|airdate= 6 December 2007|url=http://www.cbc.ca/natureofthings/magazine2.html}}&lt;/ref&gt;
+
+Khrushchev initiated &quot;The Thaw&quot; better known as [[Khrushchev's Thaw]], a complex shift in political, cultural and economic life in the Soviet Union. That included some openness and contact with other nations and new social and economic policies with more emphasis on commodity goods, allowing living standards to rise dramatically while maintaining high levels of economic growth. Censorship was relaxed as well.
+
+Khrushchev's reforms in agriculture and administration, however, were generally unproductive. In 1962, he precipitated a [[Cuban Missile Crisis|crisis with the United States]] over the Soviet deployment of [[nuclear missiles]] in Cuba. The Soviet Union backed down after the United States initiated a naval blockade, causing Khrushchev much embarrassment and loss of prestige. He was removed from power in 1964.
+
+===Brezhnev era===
+{{Main|History of the Soviet Union (1964–1982)|Era of Stagnation}}
+Following the ousting of Khrushchev, another period of [[collective leadership]] ensued, consisting of [[Leonid Brezhnev]] as General Secretary, [[Alexei Kosygin]] as Premier and [[Nikolai Podgorny]] as Chairman of the Presidium, lasting until Brezhnev established himself in the early 1970s as the preeminent Soviet leader. In 1968 the Soviet Union and its Warsaw Pact allies invaded [[Czechoslovakia]] to halt the [[Prague Spring]] reforms.
+[[File:Carter Brezhnev sign SALT II.jpg|thumb|[[Leonid Brezhnev]] and [[Jimmy Carter]] sign SALT II treaty, 18 June 1979, in [[Vienna]].]]
+Brezhnev presided over a period of ''[[détente]]'' with the West (see [[SALT I]], [[SALT II]], [[Anti-Ballistic Missile Treaty]]) while at the same time building up Soviet military might.
+
+In October 1977, the third [[1977 Soviet Constitution|Soviet Constitution]] was unanimously adopted. The prevailing mood of the Soviet leadership at the time of Brezhnev's death in 1982 was one of aversion to change. The long period of Brezhnev's rule had come to be dubbed one of &quot;standstill&quot;&lt;!---застой---&gt;, with an aging and ossified top political leadership.
+
+===Reforms and dissolution===
+{{Main|Cold War (1985–1991)|History of the Soviet Union (1982–1991)|Dissolution of the Soviet Union|1991 Soviet coup d'état attempt|Commonwealth of Independent States}}
+[[File:Reagan and Gorbachev hold discussions.jpg|thumb|left|[[Mikhail Gorbachev|Gorbachev]] in one-to-one discussions with U.S. President [[Ronald Reagan]].]]
+Two developments dominated the decade that followed: the increasingly apparent crumbling of the Soviet Union's economic and political structures, and the patchwork attempts at reforms to reverse that process. Kenneth S. Deffeyes argued in ''Beyond Oil'' that the Reagan administration encouraged [[Saudi Arabia]] to lower the price of oil to the point where the Soviets could not make a profit selling their oil, so that the USSR's [[hard currency]] reserves became depleted.&lt;ref&gt;Kenneth S. Deffeyes, Beyond Oil: The View from Hubbert's Peak.&lt;/ref&gt;
+
+Brezhnev's next two successors, transitional figures with deep roots in his tradition, did not last long. [[Yuri Andropov]] was 68 years old and [[Konstantin Chernenko]] 72 when they assumed power; both died in less than two years. In an attempt to avoid a third short-lived leader, in 1985, the Soviets turned to the next generation and selected [[Mikhail Gorbachev]].
+
+Gorbachev made significant changes in the economy and party leadership, called ''[[perestroika]]''. His policy of ''[[glasnost]]'' freed public access to information after decades of heavy government censorship.
+[[File:Evstafiev-afghan-apc-passes-russian.jpg|thumb|Soviet troops withdrawing from Afghanistan in 1988]]
+Gorbachev also moved to end the Cold War. In 1988, the Soviet Union abandoned its [[Soviet war in Afghanistan|nine-year war in Afghanistan]] and began to withdraw its forces. In the late 1980s, he refused military support to the Soviet Union's former satellite states, resulting in the toppling of multiple communist regimes. With the tearing down of the [[Berlin Wall]] and with [[East Germany]] and [[West Germany]] pursuing unification, the [[Iron Curtain]] came down.
+
+In the late 1980s, the constituent republics of the Soviet Union started legal moves towards potentially declaring [[sovereignty]] over their territories, citing Article 72 of the USSR constitution, which stated that any constituent republic was free to secede.&lt;ref&gt;[http://www.findarticles.com/p/articles/mi_m1282/is_n12_v42/ai_9119705 The red blues — Soviet politics] by Brian Crozier, ''[[National Review]]'', 25 June 1990. {{Wayback|df=yes|url=http://www.findarticles.com/p/articles/mi_m1282/is_n12_v42/ai_9119705|date =20110628194853}}&lt;/ref&gt; On 7 April 1990, a law was passed allowing a republic to secede if more than two-thirds of its residents voted for it in a referendum.&lt;ref&gt;[http://www.rspp.su/sobor/conf_2006/istoki_duh_nrav_crisis.html Origins of Moral-Ethical Crisis and Ways to Overcome it] by V.A.Drozhin Honoured Lawyer of Russia.&lt;/ref&gt; Many held their first free elections in the Soviet era for their own national legislatures in 1990. Many of these legislatures proceeded to produce legislation contradicting the Union laws in what was known as the &quot;[[War of Laws]]&quot;.
+
+In 1989, the [[Russian Soviet Federative Socialist Republic|Russian SFSR]], which was then the largest constituent republic (with about half of the population) convened a newly elected Congress of People's Deputies. [[Boris Yeltsin]] was elected its chairman. On 12 June 1990, the Congress [[Declaration of State Sovereignty of the Russian Soviet Federative Socialist Republic|declared Russia's sovereignty over its territory]] and proceeded to pass laws that attempted to supersede some of the USSR's laws. The period of legal uncertainty continued throughout 1991 as constituent republics slowly became de facto independent.
+
+A [[Soviet Union referendum, 1991|referendum for the preservation of the USSR]] was held on 17 March 1991, with the majority of the population voting for preservation of the Union in nine out of the 15 republics. The referendum gave Gorbachev a minor boost. In the summer of 1991, the [[New Union Treaty]], which would have turned the Soviet Union into a much looser Union, was agreed upon by eight republics.
+
+[[File:Boris Yeltsin 19 August 1991-1.jpg|left|thumb|Yeltsin stands on a tank to defy the [[August Coup]] in 1991.]]
+The signing of the treaty, however, was interrupted by the [[1991 Soviet coup d'état attempt|August Coup]]—an attempted coup d'état by hardline members of the government and the KGB who sought to reverse Gorbachev's reforms and reassert the central government's control over the republics. After the coup collapsed, Yeltsin was seen as a hero for his decisive actions, while Gorbachev's power was effectively ended. The balance of power tipped significantly towards the republics. In August 1991, Latvia and Estonia immediately declared the restoration of their full independence (following Lithuania's 1990 example), while the other twelve republics continued discussing new, increasingly looser, models of the Union.
+
+On 8 December 1991, the presidents of Russia, [[Ukraine]] and [[Belarus]] signed the [[Belavezha Accords]], which declared the Soviet Union dissolved and established the [[Commonwealth of Independent States]] (CIS) in its place. While doubts remained over the authority of the accords to do this, on 21 December 1991, the representatives of all Soviet republics except [[Georgian SSR|Georgia]] signed the [[Alma-Ata Protocol]], which confirmed the accords. On 25 December 1991, Gorbachev yielded to the inevitable and resigned as the President of the USSR, declaring the office extinct. He turned the powers that had been vested in the presidency over to Yeltsin, the [[President of the Russian Federation|President of Russia]].
+
+The following day, the [[Supreme Soviet of the Soviet Union|Supreme Soviet]], the highest governmental body of the Soviet Union, dissolved itself. This is generally recognized as marking the official, final [[dissolution of the Soviet Union]] as a functioning state. The [[Soviet Army]] remained in place in the early months of 1992, but was thereafter absorbed into the different military forces of the newly independent states.
+
+Following the dissolution of the Soviet Union on 26 December 1991, Russia was internationally recognized&lt;ref name=&quot;uk&quot;&gt;[http://www.fco.gov.uk/servlet/Front?pagename=OpenMarket/Xcelerate/ShowPage&amp;c=Page&amp;cid=1007029394365&amp;a=KCountryProfile&amp;aid=1019744935436 Country Profile: Russia] Foreign &amp; Commonwealth Office of the United Kingdom.&lt;/ref&gt; as its [[legal successor]] on the international stage. To that end, Russia voluntarily accepted all Soviet foreign debt and claimed overseas Soviet properties as its own. Since then, the Russian Federation has assumed the Soviet Union's rights and obligations.
+
+==Politics==
+{{Main|Politics of the Soviet Union|State ideology of the Soviet Union}}
+{{Marxism–Leninism sidebar}}
+There were three power hierarchies in the Soviet Union: the [[legislative branch]] represented by the [[Supreme Soviet of the Soviet Union]], the government represented by the [[Council of Ministers (Soviet Union)|Council of Ministers]], and the [[Communist Party of the Soviet Union]] (CPSU), the only legal party and the ultimate policymaker in the country.&lt;ref name=&quot;sakwa&quot;&gt;Sakwa, Richard. ''Soviet Politics in Perspective''. 2nd ed. London – N.Y.: Routledge, 1998.&lt;/ref&gt;
+
+===Communist Party===
+{{main|Communist Party of the Soviet Union}}
+At the top of the Communist Party was the [[Central Committee of the Communist Party of the Soviet Union|Central Committee]], elected at [[Congress of the Communist Party of the Soviet Union|Party Congresses]] and Conferences. The Central Committee in turn voted for a [[Politburo of the Central Committee of the Communist Party of the Soviet Union|Politburo]] (called the Presidium between 1952–1966), [[Secretariat of the CPSU Central Committee|Secretariat]] and the [[General Secretary of the Communist Party of the Soviet Union|General Secretary]] (First Secretary from 1953 to 1966), the de facto highest office in the USSR.&lt;ref&gt;{{cite book | author = Law, David A. | title = Russian Civilization | publisher = Ardent Media | year = 1975 | pages = 193–94 | url = http://books.google.com/books?id=f3ky9qBavl4C&amp;dq | isbn = 978-0-8422-0529-0 }}&lt;/ref&gt; Depending on the degree of power consolidation, it was either the Politburo as a collective body or the General Secretary, who always was one of the Politburo members, that effectively led the party and the country&lt;ref&gt;{{cite book | author = Zemtsov, Ilya | title = Chernenko: The Last Bolshevik: The Soviet Union on the Eve of Perestroika | publisher = [[Transaction Publishers]] | year = 1989 | page = 325 | url = http://books.google.com/books?id=hgscfLr5dCsC&amp;dq | isbn = 978-0-88738-260-4}}&lt;/ref&gt; (except for the period of the highly personalized authority of Stalin, exercised directly through his position in the Council of Ministers rather than the Politburo after 1941).&lt;ref&gt;{{cite book | author = Knight, Amy | title = Beria: Stalin's First Lieutenant | publisher = Princeton University Press | year = 1995 | page = 5 | url = http://books.google.com/books?id=PxiuUGRQhUIC&amp;dq | isbn = 0-691-01093-5}}&lt;/ref&gt; They were not controlled by the general party membership, as the key principle of the party organization was [[democratic centralism]], demanding strict subordination to higher bodies, and elections went uncontested, endorsing the candidates proposed from above.&lt;ref&gt;{{cite book | author = Hough, Jerry F.; Fainsod, Merle | title = How the Soviet Union is Governed | publisher = Harvard University Press | year = 1979 | page = 486 | url = http://books.google.com/books?id=38gMzMRXCpQC&amp;dq | isbn = 0-674-41030-0 }}&lt;/ref&gt;
+
+The Communist Party maintained its dominance over the state largely through its control over the [[Nomenklatura|system of appointments]]. All senior government officials and most deputies of the Supreme Soviet were members of the CPSU. Of the party heads themselves, Stalin in 1941–1953 and Khrushchev in 1958–1964 were Premiers. Upon the forced retirement of Khrushchev, the party leader was prohibited from this kind of double membership,&lt;ref&gt;{{Cite book | author = Service, Robert | title = History of Modern Russia: From Tsarism to the Twenty-first Century | publisher = [[Penguin Books Ltd]] | year = 2009 | url = http://books.google.com/books?id=o8Z1QAAACAAJ&amp;dq | isbn = 0-14-103797-0| page = 378 | authorlink = Robert Service (historian) }}&lt;/ref&gt; but the later General Secretaries for at least some part of their tenure occupied the largely ceremonial position of [[Chairman of the Presidium of the Supreme Soviet]], the nominal [[List of heads of state of the Soviet Union|head of state]]. The institutions at lower levels were overseen and at times supplanted by [[Organization of the Communist Party of the Soviet Union#Lower levels|primary party organizations]].&lt;ref&gt;{{Cite book | title = Конститутион оф тхе Руссиян Федератион: витх комментариес анд интерпретатион | publisher = [[Brunswick Publishing Corp]] | year = 1994 | url = http://books.google.com/books?id=3mQjvzP8VSYC&amp;dq | isbn = 1-55618-142-6 | page = 82 }}&lt;/ref&gt;
+
+In practice, however, the degree of control the party was able to exercise over the state bureaucracy, particularly after the death of Stalin, was far from total, with the bureaucracy pursuing different interests that were at times in conflict with the party.&lt;ref&gt;{{cite book | author = Ōgushi, Atsushi | title = The Demise of the Soviet Communist Party | publisher = Routledge | year = 2008 | pages = 31–32 | url = http://books.google.com/books?id=N7mDUC1nOZsC&amp;dq | isbn = 0-415-43439-4 }}&lt;/ref&gt; Nor was the party itself monolithic from top to bottom, although factions were officially banned.&lt;ref&gt;{{Cite book | author = Taras, Ray | title = Leadership change in Communist states | publisher = Routledge | year = 1989 | url = http://books.google.com/books?id=AlcVAAAAIAAJ&amp;dq | isbn = 0-04-445277-2 | page = 132 }}&lt;/ref&gt;
+
+===Government===
+[[File:Supreme Soviet 1982.jpg|thumb|left|The [[Grand Kremlin Palace]], seat of the Supreme Soviet of the USSR, in 1982]]
+{{main|Government of the Soviet Union}}
+The [[Supreme Soviet of the Soviet Union|Supreme Soviet]] (successor of the [[Congress of Soviets of the Soviet Union|Congress of Soviets]] and [[Central Executive Committee of the Soviet Union|Central Executive Committee]]) was nominally the highest state body for most of the Soviet history,&lt;ref&gt;{{cite book | author = F. Triska, Jan; Slusser, Robert M. | title = The Theory, Law, and Policy of Soviet Treaties | publisher = [[Stanford University Press]] | year = 1962 | pages = 63–64 | url = http://books.google.com/books?id=QmWmAAAAIAAJ&amp;dq | isbn = 0-8047-0122-9 }}&lt;/ref&gt;  at first acting as a rubber stamp institution, approving and implementing all decisions made by the party. However, the powers and functions of the Supreme Soviet were extended in the late 1950s, 1960s and 1970s, including the creation of new state commissions and committees. It gained additional powers when it came to the approval of the [[Five-Year Plan for the National Economy of the Soviet Union|Five-Year Plans]] and the Soviet [[state budget]].&lt;ref&gt;{{cite book | author = Deb, Kalipada | title = Soviet Union to Commonwealth: Transformation and Challenges | publisher = M.D. Publications Pvt. Ltd | year = 1996 | page = 81 | url = http://books.google.com/books?id=IvK6r-8Ogg0C&amp;dq | isbn = 81-85880-95-6 }}&lt;/ref&gt; The Supreme Soviet elected a [[Presidium of the Supreme Soviet|Presidium]] to wield its power between plenary sessions,&lt;ref name=&quot;COMSSP&quot;/&gt; ordinarily held twice a year, and appointed the [[Supreme Court of the Soviet Union|Supreme Court]],&lt;ref&gt;{{cite book | title = The Communist World | publisher = Ardent Media | year = 2001 | page = 441 | url = http://books.google.com/books?id=h9FFVgu-Ff0C&amp;dq | isbn = 0-271-02170-5}}&lt;/ref&gt; the [[Procurator General of the Soviet Union|Procurator General]]&lt;ref&gt;{{cite book | author = Joseph Marie Feldbrugge, Ferdinand | title = Russian Law: The End of the Soviet System and the Role of Law | publisher = [[Martinus Nijhoff Publishers]] | year = 1993 | page = 205 | url = http://books.google.com/books?id=JWt7MN3Dch8C&amp;dq | isbn = 0-7923-2358-0}}&lt;/ref&gt; and the Council of Ministers (known before 1946 as the [[Council of People's Commissars]]), headed by the [[Premier of the Soviet Union|Chairman]] (Premier) and managing an enormous bureaucracy responsible for the administration of the economy and society.&lt;ref name=&quot;COMSSP&quot;&gt;{{cite book | author = Benson, Shirley | title = Nikita Khrushchev and the Creation of a Superpower | publisher = [[Penn State University Press]] | year = 2001 | pages = XIV | url = http://books.google.com/books?id=dQeahlZdM7sC&amp;dq | isbn = 0-271-02170-5}}&lt;/ref&gt; State and party structures of the [[Republics of the Soviet Union|constituent republics]] largely emulated the structure of the central institutions, although the Russian SFSR, unlike the other constituent republics, for most of its history had no republican branch of the CPSU, being ruled directly by the union-wide party until 1990. Local authorities were organized likewise into [[Organization of the Communist Party of the Soviet Union#Lower levels|party committees]], [[Soviet (council)|local Soviets]] and [[Ispolkom|executive committees]]. While the state system was nominally federal, the party was unitary.&lt;ref&gt;{{cite book | author = White, Stephen; J. Gill, Graeme; Slider, Darrell | title = The Politics of Transition: Shaping a post-Soviet Future | publisher = Cambridge University Press | year = 1993 | page = 108 | url = http://books.google.com/books?id=O9IGbITqT_EC&amp;dq | isbn = 978-0-521-44634-1 }}&lt;/ref&gt;
+
+The state security police (the [[KGB]] and its predecessor agencies) played an important role in Soviet politics. It was instrumental in the [[Great Purge|Stalinist terror]],&lt;ref&gt;{{cite book | author = P. Hoffmann, Erik; Laird, Robin Frederick | title = The Soviet Polity in the Modern Era | publisher = [[Transaction Publishers]] | year = 1984 | pages = 313–315 | url = http://books.google.com/books?id=63_obglArrMC&amp;dq | isbn = 0-202-24165-3}}&lt;/ref&gt; but after the death of Stalin, the state security police was brought under strict party control. Under [[Yuri Andropov]], KGB chairman in 1967–1982 and General Secretary from 1982 to 1983, the KGB engaged in the suppression of political dissent and maintained an extensive network of informers, reasserting itself as a political actor to some extent independent of the party-state structure,&lt;ref&gt;{{cite book | author = P. Hoffmann, Erik; Laird, Robin Frederick | title = The Soviet Polity in the Modern Era | publisher = [[Transaction Publishers]] | year = 1984 | pages = 315–319 | url = http://books.google.com/books?id=63_obglArrMC&amp;dq | isbn = 0-202-24165-3 }}&lt;/ref&gt; culminating in the anti-corruption campaign targeting high party officials in the late 1970s and early 1980s.&lt;ref&gt;{{cite journal | title = The Soviet Polity in the Modern Era | work = [[Great Russian Encyclopedia]] | year = 2005 | publisher = Bol'shaya Rossiyskaya Enciklopediya Publisher | volume = 1 | page = 742 }}&lt;/ref&gt;
+
+===Separation of power and reform===
+{{main|Perestroika}}
+The [[Soviet constitution]]s, which were promulgated in [[Russian Constitution of 1918|1918]], [[1924 Soviet Constitution|1924]], [[1936 Soviet Constitution|1936]] and [[1977 Soviet Constitution|1977]],&lt;ref&gt;{{cite book | author = Sakwa, Richard | title = Soviet Politics in Perspective | publisher = Routledge | year = 1998 | url = http://books.google.com/books?id=vX1U5G_xnqcC&amp;dq | isbn = 0-415-07153-4| page = 106 | authorlink = Richard Sakwa }}&lt;/ref&gt; did not limit state power. No formal [[separation of powers]] existed between the Party, Supreme Soviet and Council of Ministers&lt;ref&gt;{{cite book | author = Kucherov, Samuel | title = The Organs of Soviet Administration of Justice: Their History and Operation | publisher = [[Brill Publishers|Brill Archive Publishers]] | year = 1970 | url = http://books.google.com/books?id=ssMUAAAAIAAJ&amp;dq | isbn = | page = 31 }}&lt;/ref&gt; that represented executive and [[legislature|legislative]] branches of the government. The system was governed less by statute than by informal conventions, and no settled mechanism of leadership succession existed. Bitter and at times deadly power struggles took place in the Politburo after the deaths of Lenin&lt;ref&gt;{{cite book | author = Phillips, Steve | title = Lenin and the Russian Revolution | publisher = [[Heinemann (book publisher)|Heinemann]] | year = 2000 | url = http://books.google.com/books?id=_na0zfdhKQMC&amp;dq | isbn = 978-0-435-32719-4 | page = 71 }}&lt;/ref&gt; and [[Joseph Stalin]],&lt;ref&gt;{{cite book|author=''[[Encyclopædia Britannica]]''|year=2005|title=Union of Soviet Socialist Republics|publisher=[[Encyclopædia Britannica, Inc.]]|isbn=|page=1014}}&lt;/ref&gt; as well as after [[Nikita Khrushchev#Removal|Khrushchev's dismissal]],&lt;ref&gt;{{Cite book | author = Service, Robert | title = History of Modern Russia: From Tsarism to the Twenty-first Century | publisher = [[Penguin Books Ltd]] | year = 2009 | url = http://books.google.com/books?id=o8Z1QAAACAAJ&amp;dq | page = 379 | isbn = 0-14-103797-0 | authorlink = Robert Service (historian) }}&lt;/ref&gt; itself due to a coup in both the Politburo and the Central Committee.&lt;ref name=&quot;Khrushchevgoner&quot;/&gt; All Soviet party leaders before Gorbachev died in office, except [[Georgy Malenkov]]&lt;ref&gt;{{cite book | author = Polley, Martin | title = A–Z of modern Europe since 1789 | publisher = Routledge | year = 2000 | url = http://books.google.com/books?id=_f8Avd5N5Y4C&amp;dq | isbn = 0-415-18597-1 | page = 88 }}&lt;/ref&gt; and Khrushchev, both dismissed from the party leadership amid internal struggle within the party.&lt;ref name=&quot;Khrushchevgoner&quot;&gt;{{cite book|author=Khrushchev, Nikita|year=2007|title=Memoirs of Nikita Khrushchev, Volume 3: Statesman|publisher=[[Pennsylvania State University Press]]|isbn=978-0-271-02935-1|page=674|authorlink=Nikita Khrushchev}}&lt;/ref&gt;
+[[File:1991coup2 ST.jpg|thumb|An armored personnel carrier surrounded by anti-coup demonstrators in Moscow during the 1991 August Coup]]
+In 1988–1990, facing considerable opposition, [[Mikhail Gorbachev]] enacted reforms shifting power away from the highest bodies of the party and making the Supreme Soviet less dependent on them. The [[Congress of People's Deputies]] was established, the majority of whose members were directly elected in competitive elections held in March 1989. The Congress now elected the Supreme Soviet, which became a full-time parliament, much stronger than before. For the first time since the 1920s, it refused to rubber stamp proposals from the party and Council of Ministers.&lt;ref name=&quot;countrystudies&quot;&gt;{{cite web | publisher = [[Library of Congress Country Studies]] | title = Gorbachev's Reform Dilemma | url = http://countrystudies.us/russia/18.htm | accessdate =16 October 2010 }}&lt;/ref&gt; In 1990, Gorbachev introduced and assumed the position of the [[President of the Soviet Union]], concentrated power in his executive office, independent of the party, and subordinated the government,&lt;ref&gt;{{cite book | author = Polmar, Norman | title = The Naval Institute Guide to the Soviet | publisher = [[United States Naval Institute]] | year = 1991 | url = http://books.google.ca/books?id=tkGDkpkQh-sC&amp;dq | isbn = 0-87021-241-9 | page = 1 }}&lt;/ref&gt; now renamed the [[Cabinet of Ministers of the USSR]], to himself.&lt;ref&gt;{{cite book | author = McCauley, Martin | title = The Rise and Fall of the Soviet Union  | publisher = [[Pearson Education]] | year = 2007 | url = http://books.google.ca/books?id=ycCZqmhhceMC&amp;dq | isbn = 0-582-78465-4 | page = 490 }}&lt;/ref&gt;
+
+Tensions grew between the union-wide authorities under Gorbachev, reformists led in Russia by [[Boris Yeltsin]] and controlling the newly elected [[Supreme Soviet of the Russian SFSR]], and Communist Party hardliners. On 19–21 August 1991, a group of hardliners staged an [[1991 Soviet coup d'état attempt|abortive coup attempt]]. Following the failed coup, the [[State Council of the Soviet Union]] became the highest organ of state power &quot;in the period of transition&quot;.&lt;ref&gt;{{cite web| author= [[Government of the USSR]]: [[Mikhail Gorbachev|Gorbachev, Mikhail]] |title=УКАЗ: ПОЛОЖЕНИЕ О МИНИСТЕРСТВЕ ЮСТИЦИИ СССР |trans_title= Law: About state governing bodies of USSR in a transition period On the bodies of state authority and administration of the USSR in Transition | url = http://www.sssr.su/zopp.html | accessdate=15 October 1991 |date=21 March 1972 |publisher=sssr.su|language=Russian}}&lt;/ref&gt; Gorbachev resigned as General Secretary, only remaining President for the final months of the existence of the USSR.&lt;ref&gt;{{cite book | author = Vincent Daniels, Robert | title = A Documentary History of Communism in Russia: From Lenin to Gorbachev | publisher = [[University Press of New England]] (UPNE) | year = 1993 | url = http://books.google.com/books?id=gTIZ2dvDKF0C&amp;dq | isbn = 0-87451-616-1 | page = 388 }}&lt;/ref&gt;
+
+===Judicial system===
+{{main|Law of the Soviet Union|Socialist law}}
+The judiciary was not independent of the other branches of government. The [[Supreme Court of the Soviet Union|Supreme Court]] supervised the lower courts ([[People's Court (Soviet Union)|People's Court]]) and applied the law as established by the Constitution or as interpreted by the Supreme Soviet. The Constitutional Oversight Committee reviewed the constitutionality of laws and acts. The Soviet Union used the [[inquisitorial system]] of [[Roman law]], where the judge, [[Procurator General of the Soviet Union|procurator]], and defense attorney collaborate to establish the truth.&lt;ref&gt;{{cite web|author=''[[Encyclopædia Britannica]]'' |url=http://www.britannica.com/EBchecked/topic/288956/inquisitorial-procedure |title=Inquisitorial procedure (law) – Britannica Online Encyclopedia |publisher=[[Encyclopædia Britannica, Inc.]]|accessdate=30 October 2010}}&lt;/ref&gt;
+
+==Political divisions==
+{{Main|Soviet Republic (system of government)|Republics of the Soviet Union}}
+Constitutionally, the Soviet Union was a union of [[Soviet Socialist Republics]] (SSRs) and the [[Russian Soviet Federative Socialist Republic]] (RSFSR), although the rule of the highly centralized Communist Party made the union merely nominal.&lt;ref name=&quot;sakwa&quot;/&gt; The [[Treaty on the Creation of the USSR]] was signed in December 1922 by four founding republics, the RSFSR, [[Transcaucasian SFSR]], [[Ukrainian SSR]] and [[Belorussian SSR]]. In 1924, during the [[National delimitation in the Soviet Union|national delimitation]] in Central Asia, the [[Uzbek SSR|Uzbek]] and [[Turkmen SSR]]s were formed from parts of the RSFSR's [[Turkestan ASSR]] and two Soviet dependencies, the [[Khorezm SSR|Khorezm]] and [[Bukharan SSR]]. In 1929, the [[Tajik SSR]] was split off from the Uzbek SSR. With the constitution of 1936, the constituents of the Transcaucasian SFSR, namely the [[Georgian SSR|Georgian]], [[Armenian SSR|Armenian]] and [[Azerbaijan SSR]]s, were elevated to union republics, while the [[Kazakh SSR|Kazakh]] and [[Kirghiz SSR]]s were split off from the RSFSR.&lt;ref&gt;{{cite book | last=Adams, Simon | title= Russian Republics | url = http://books.google.com/books?id=LyqIDCc-cSsC&amp;dq | year=2005 | page=21|publisher=Black Rabbit Books| isbn=978-1-58340-606-9}}&lt;/ref&gt; In August 1940, the Soviet Union formed the [[Moldavian SSR]] from parts of the Ukrainian SSR and [[Soviet occupation of Bessarabia and Northern Bukovina|parts of Bessarabia annexed from Romania]]. It also [[Occupation and annexation of the Baltic states by the Soviet Union (1940)|annexed the Baltic states]] as the [[Estonian SSR|Estonian]], [[Latvian SSR|Latvian]] and [[Lithuanian SSR]]s. The [[Karelo-Finnish SSR]] was split off from the RSFSR in March 1940 and merged back in 1956. Between July 1956 and September 1991, there were 15 union republics (see map below).&lt;ref&gt;{{cite book | last=Feldbrugge, Ferdinand Joseph Maria | title= Russian Law: The Rnd of the Soviet system and the Role of Law | url = http://books.google.com/books?id=JWt7MN3Dch8C&amp;dq | year=1993 | page=94 |publisher=[[Martinus Nijhoff Publishers]] | isbn=0-7923-2358-0 }}&lt;/ref&gt;
+
+On 16 November 1988, the Supreme Soviet of the [[Estonian SSR]] passed the [[Estonian Sovereignty Declaration]] that asserted Estonia's [[sovereignty]] and declared the supremacy of Estonian laws over those of the Soviet Union.&lt;ref name=&quot;DS&quot;&gt;{{cite book| author = Edward W. Walker| last = Walker| first = Edward| title = Dissolution| url = http://books.google.com/?id=Y06eqVKtfQgC| date = 2003-06| publisher = Rowman &amp; Littlefield| isbn = 978-0-7425-2453-8| page = 63 }}&lt;/ref&gt; In March 1990, the newly elected [[Supreme Soviet of the Lithuanian SSR]] [[Act of the Re-Establishment of the State of Lithuania|declared independence]], followed by the [[Supreme Soviet of the Georgian SSR|Georgian Supreme Soviet]] in April 1991. Although the symbolic right of the republics to secede was nominally guaranteed by the constitution and the union treaty,&lt;ref name=&quot;sakwa&quot;/&gt; Soviet authorities at first refused to recognize it. After the August coup attempt, most of the other republics followed suit. The Soviet Union ultimately recognized the secession of Estonia, Latvia and Lithuania on 6 September 1991. The remaining republics were recognized as independent with [[Dissolution of the Soviet Union|the Soviet Union's final dissolution]] in December 1991.&lt;ref&gt;{{Cite book| author = Hughes, James; Sasse, Gwendolyn | title = Ethnicity and Territory in the former Soviet Union: Regions in Conflict | url = http://books.google.com/books?id=7vjb-0eZ-wcC&amp;dq | year = 2002 |publisher=Routledge| pages = 63 and 146 | isbn=0-7146-5226-1}}&lt;/ref&gt;
+
+&lt;center&gt;
+{| class=&quot;wikitable&quot; style=&quot;border:1px black; float:centre; margin-left:1em;&quot;
+|-
+! #
+! Republic
+! Map of the Union Republics between 1956–1991
+|-
+| 1
+| align=left | [[File:Flag of Russian SFSR.svg|border|18px|Flag of Russian SFSR]] [[Russian SFSR]]
+| rowspan=&quot;15&quot; style=&quot;width:350px;&quot;| [[File:Republics of the USSR.svg|600px]]
+|-
+| 2
+| align=left | [[File:Flag of Ukrainian SSR.svg|border|18px|Flag of Ukrainian SSR]] [[Ukrainian SSR]]
+|-
+| 3
+| align=left | [[File:Flag of Byelorussian SSR.svg|border|18px|Flag of Belarusian SSR]] [[Belorussian SSR]]
+|-
+| 4
+| align=left | [[File:Flag of Uzbek SSR.svg|border|18px|Flag of Uzbekistan SSR]] [[Uzbek SSR]]
+|-
+| 5
+| align=left | [[File:Flag of Kazakh SSR.svg|border|18px|Flag of Kazakhstan SSR]] [[Kazakh SSR]]
+|-
+| 6
+| align=left | [[File:Flag of Georgian SSR.svg|border|18px|Flag of Georgian SSR]] [[Georgian SSR]]
+|-
+| 7
+| align=left | [[File:Flag of Azerbaijan SSR.svg|border|18px|Flag of Azerbaijan SSR]] [[Azerbaijan SSR]]
+|-
+| 8
+| align=left | [[File:Flag of Lithuanian SSR.svg|border|18px|Flag of Lithuanian SSR]] [[Lithuanian SSR]]
+|-
+| 9
+| align=left | [[File:Flag of Moldavian SSR.svg|border|18px|Flag of Moldovan SSR]] [[Moldavian SSR]]
+|-
+| 10
+| align=left | [[File:Flag of Latvian SSR.svg|border|18px|Flag of Latvian SSR]] [[Latvian SSR]]
+|-
+| 11
+| align=left | [[File:Flag of Kyrgyz SSR.svg|border|18px|Flag of Kyrgyzstan SSR]] [[Kirghiz SSR]]
+|-
+| 12
+| align=left | [[File:Flag of Tajik SSR.svg|border|18px|Flag of Tajikistan SSR]] [[Tajik SSR]]
+|-
+| 13
+| align=left | [[File:Flag of Armenian SSR.svg|border|18px|Flag of Armenian SSR]] [[Armenian SSR]]
+|-
+| 14
+| align=left | [[File:Flag of Turkmen SSR.svg|border|18px|Flag of Turkmenistan SSR]] [[Turkmen SSR]]
+|-
+| 15
+| align=left | [[File:Flag of Estonian SSR.svg|border|18px|Flag of Estonian SSR]] [[Estonian SSR]]
+|}
+&lt;/center&gt;
+
+==Economy==
+{{Main|Economy of the Soviet Union}}
+[[File:DneproGES 1947.JPG|thumb|left|The [[DneproGES]], one of many [[hydroelectric]] power stations in the Soviet Union]]
+The Soviet Union became the first country to adopt a [[planned economy]], whereby production and distribution of goods were centralized and directed by the government. The first Bolshevik experience with a command economy was the policy of [[War Communism]], which involved [[nationalization]] of industry, centralized distribution of output, coercive requisition of agricultural production, and attempts to eliminate the circulation of money, as well as private enterprises and [[free trade]]. As it had suffered a severe economic collapse caused by the war, in 1921, Lenin replaced War Communism with the [[New Economic Policy]] (NEP), legalizing free trade and private ownership of smaller businesses. The economy quickly recovered.&lt;ref name=&quot;gregory2004&quot;&gt;{{cite book | author = Gregory, Paul R. | title = The Political Economy of Stalinism: Evidence from the Soviet Secret Archives | pages = 218–20 | publisher = Cambridge University Press | year = 2004 | url = http://books.google.com/books?id=hFHU5kaXhu8C&amp;dq | isbn = 0-521-53367-8 }}&lt;/ref&gt;
+
+Following a lengthy debate among the members of Politburo over the course of economic development, by 1928–1929, upon [[Rise of Joseph Stalin|gaining control of the country]], [[Joseph Stalin]] abandoned the NEP and pushed for full central planning, starting [[Collectivization in the Soviet Union|forced collectivization of agriculture]] and enacting draconian labor legislation. Resources were mobilized for [[Soviet industrialization|rapid industrialization]], which greatly expanded Soviet capacity in heavy industry and capital goods during the 1930s.&lt;ref name=&quot;gregory2004&quot;/&gt; Preparation for war was one of the main driving forces behind industrialization, mostly due to distrust of the outside capitalistic world.&lt;ref&gt;{{cite book | author = Mawdsley, Evan | page = 30 | title = The Stalin Years: The Soviet Union, 1929–1953 | publisher = [[Manchester University Press]] | year = 1998 | url = http://books.google.com/?id=m-voAAAAIAAJ&amp;dq | isbn = 0-7190-4600-9}}&lt;/ref&gt; As a result, the USSR was transformed from a largely agrarian economy into a great industrial power, leading the way for its emergence as a superpower after [[World War II]].&lt;ref&gt;{{cite book | author = Wheatcroft, S. G.; Davies, R. W.; Cooper, J. M. | pages = 30–2 | title = Soviet Industrialization Reconsidered: Some Preliminary Conclusions about Economic Development between 1926 and 1941 | page = 264 | publisher = [[Economic History Review]] | year = 1986 | url = http://books.google.com/?id=m-voAAAAIAAJ&amp;dq | isbn = 978-0-7190-4600-1| volume = 39 | issue = 2 }}&lt;/ref&gt; During the war, the Soviet economy and infrastructure suffered massive devastation and required extensive reconstruction.&lt;ref&gt;{{cite web|title=Reconstruction and Cold War|publisher=[[Library of Congress]]|url=http://countrystudies.us/russia/12.htm|accessdate =23 October 2010}}&lt;/ref&gt;
+
+By the early 1940s, the Soviet economy had become relatively [[Autarky|self-sufficient]]; for most of the period until the creation of [[Comecon]], only a very small share of domestic products was traded internationally.&lt;ref name=&quot;foreign trade&quot;&gt;{{cite web|title=Reconstruction and Cold War|publisher=[[Library of Congress Country Studies]]|url=http://rs6.loc.gov/cgi-bin/query/r?frd/cstdy:@field%28DOCID+su0391%29|accessdate =23 October 2010}}&lt;/ref&gt; After the creation of the [[Eastern Bloc]], external trade rose rapidly. Still the influence of the [[world economy]] on the USSR was limited by fixed domestic prices and a state monopoly on [[Foreign trade of the Soviet Union|foreign trade]].&lt;ref&gt;{{cite book | author = [[International Monetary Fund|IMF]] and [[Organisation for Economic Co-operation and Development|OECD]] | title = A Study of the Soviet Economy | volume = 1 | publisher = [[International Monetary Fund]] | year = 1991 | url = http://books.google.com/?id=o8Z1QAAACAAJ&amp;dq | page = 9 | isbn = 0-14-103797-0 }}&lt;/ref&gt; Grain and sophisticated consumer manufactures became major import articles from around the 1960s.&lt;ref name=&quot;foreign trade&quot;/&gt; During the [[arms race]] of the Cold War, the Soviet economy was burdened by military expenditures, heavily lobbied for by a powerful bureaucracy dependent on the arms industry. At the same time, the Soviet Union became the largest arms exporter to the [[Third World]]. Significant amounts of Soviet resources during the Cold War were [[International relations within the Comecon|allocated in aid]] to the other [[socialist states]].&lt;ref name=&quot;foreign trade&quot;/&gt;
+
+From the 1930s until its collapse in the late 1980s, the way the Soviet economy operated remained essentially unchanged. The economy was formally directed by [[economic planning|central planning]], carried out by [[Gosplan]] and organized in [[Five-Year Plans for the National Economy of the Soviet Union|five-year plans]]. In practice, however, the plans were highly aggregated and provisional, subject to ''ad hoc'' intervention by superiors. All key economic decisions were taken by the political leadership. Allocated resources and plan targets were normally denominated in [[Soviet ruble|rubles]] rather than in physical goods. [[Credit (finance)|Credit]] was discouraged, but widespread. Final allocation of output was achieved through relatively decentralized, unplanned contracting. Although in theory prices were legally set from above, in practice the actual prices were often negotiated, and informal horizontal links (between producer factories etc.) were widespread.&lt;ref name=&quot;gregory2004&quot;/&gt;
+
+A number of basic [[Service (economics)|services]] were state-funded, such as [[education in the Soviet Union|education]] and healthcare. In the manufacturing sector, heavy industry and defense were assigned higher priority than the production of [[Consumer goods in the Soviet Union|consumer goods]].&lt;ref name=&quot;economy&quot;/&gt; Consumer goods, particularly outside large cities, were often scarce, of poor quality and limited choice. Under command economy, consumers had almost no influence over production, so the changing demands of a population with growing incomes could not be satisfied by supplies at rigidly fixed prices.&lt;ref name=&quot;hanson&quot;&gt;Hanson, Philip. ''The Rise and Fall of the Soviet Economy: An Economic History of the USSR from 1945''. London: Longman, 2003.&lt;/ref&gt; A massive unplanned second economy grew up alongside the planned one at low levels, providing some of the goods and services that the planners could not. Legalization of some elements of the decentralized economy was attempted with the [[1965 Soviet economic reform|reform of 1965]].&lt;ref name=&quot;gregory2004&quot;/&gt;
+
+Although statistics of the Soviet economy are notoriously unreliable and its economic growth difficult to estimate precisely,&lt;ref&gt;{{Cite journal | doi = 10.1057/ces.1997.1 | author = Bergson, Abram | year = 1997 | title = How Big was the Soviet GDP? | url = | journal = Comparative Economic Studies | volume = 39 | issue = 1| pages = 1–14 }}&lt;/ref&gt;&lt;ref&gt;{{Cite journal | doi = 10.1080/09668139308412080 | author = Harrison, Mark | year = 1993 | title = Soviet Economic Growth Since 1928: The Alternative Statistics of G. I. Khanin | url = | journal = Europe–Asia Studies | volume = 45 | issue = 1| pages = 141–167 }}&lt;/ref&gt; by most accounts, the economy continued to expand until the mid 1980s. During the 1950s and 1960s, the Soviet economy experienced comparatively high growth and was catching up to the West.&lt;ref&gt;{{cite book | author = Gvosdev, Nikolas | title = The Strange Death of Soviet communism: A Postscript | publisher = [[Transaction Publishers]] | year = 2008 | url = http://books.google.com/?id=Q_xTyZUEqkYC&amp;dq | isbn = 1-4128-0698-4 | authorlink = Nikolas Gvosdev }}&lt;/ref&gt; However, after 1970, the growth, while still positive, [[Era of Stagnation|steadily declined]] much more quickly and consistently than in other countries despite a rapid increase in the [[capital stock]] (the rate of increase in capital was only surpassed by Japan).&lt;ref name=&quot;gregory2004&quot;/&gt;
+
+Overall, between 1960 and 1989, the growth rate of per capita income in the Soviet Union was slightly above the world average (based on 102 countries).{{citation needed|date=November 2011}}  According to [[Stanley Fischer]] and [[William Easterly]], growth could have been faster. By their calculation, per capita income of Soviet Union in 1989 should have been twice as high as it was considering the amount of investment, education and population. The authors attribute this poor performance to low productivity of capital in the Soviet Union.&lt;ref&gt;{{cite web| author = [[Stanley Fischer|Fischer, Stanley]]; [[William Easterly|Easterly, Willian]]|title=The Soviet Economic Decline, Historical and Republican Data|publisher=[[World Bank]]|url=http://www-wds.worldbank.org/external/default/WDSContentServer/IW3P/IB/1994/04/01/000009265_3961006063138/Rendered/PDF/multi0page.pdf| year = 1994 | accessdate =23 October 2010}}&lt;/ref&gt; Steven Rosenfielde states that the standard of living actually declined as a result of Stalin's despotism, and while there was a brief improvement following his death, lapsed into stagnation.&lt;ref&gt;{{cite journal |author=Steven Rosefielde |year=1996 |title=Stalinism in Post-Communist Perspective: New Evidence on Killings, Forced Labour and Economic Growth in the 1930s |journal=Europe-Asia Studies |volume=48 |issue=6 |pages=956–987 |publisher=Taylor &amp; Francis, Ltd. |pmid= |pmc= |url=http://www.jstor.org/stable/152635 |quote=The new evidence shows that administrative command planning and Stalin's forced industrialisation strategies failed in the 1930s and beyond. The economic miracle chronicled in official hagiographies and until recently faithfully recounted in Western textbooks has no basis in fact. It is the statistical artefact not of index number relativity (the Gerschenkron effect) but of misapplying to the calculation of growth cost prices that do not accurately measure competitive value. The standard of living declined during the 1930s in response to Stalin's despotism, and after a brief improvement following his death, lapsed into stagnation. Glasnost and post-communist revelations interpreted as a whole thus provide no basis for Getty, Rittersporn &amp; Zemskov's relatively favourable characterisation of the methods, economic achievements and human costs of Stalinism. The evidence demonstrates that the suppression of markets and the oppression of vast segments of the population were economically counterproductive and humanly calamitous, just as anyone conversant with classical economic theory should have expected.}}&lt;/ref&gt;
+
+In 1987, [[Mikhail Gorbachev]] tried to reform and revitalize the economy with his program of ''[[perestroika]]''. His policies relaxed state control over enterprises, but did not yet allow it to be replaced by market incentives, ultimately resulting in a sharp decline in production output. The economy, already suffering from [[1980s oil glut|reduced petroleum export revenues]], started to collapse. Prices were still fixed, and property was still largely state-owned until after the dissolution of the Soviet Union.&lt;ref name=&quot;gregory2004&quot;/&gt;&lt;ref name=&quot;hanson&quot;/&gt; For most of the period after World War II up to its collapse, the Soviet economy was [[List of regions by past GDP (PPP)|the second largest in the world]] by GDP ([[Purchasing power parity|PPP]]),&lt;ref&gt;{{cite web | author = Central Intelligence Agency | title = GDP – Million 1990 | work = [[The World Factbook]] | year = 1991 | url = http://www.theodora.com/wfb/1990/rankings/gdp_million_1.html | accessdate =12 June 2010 | authorlink = Central Intelligence Agency }}&lt;/ref&gt; though in [[GDP per capita|per capita]] terms the Soviet GDP was behind that of the [[First World]] countries.&lt;ref&gt;{{cite web | author = Central Intelligence Agency | title = GDP Per Capita – 1991 | work = [[The World Factbook]] | year = 1992 | url = http://www.theodora.com/wfb/1991/rankings/gdp_per_capita_0.html | accessdate =12 June 2010 | authorlink = Central Intelligence Agency }}&lt;/ref&gt;
+
+===Energy===
+[[File:Soviet Union stamp 1987 CPA 5858.jpg|thumb|A Soviet stamp depicting the 30th anniversary of the [[International Atomic Energy Agency]]]]
+{{main|Energy policy of the Soviet Union}}
+The need for fuel declined in the Soviet Union from the 1970s to the 1980s,&lt;ref name=&quot;sovietenergydemanddecline&quot;&gt;{{cite book|last=Wilson|first=David|title=The Demand for Energy in the Soviet Union|year=1983|publisher=Rowman and Littfield|isbn=0-7099-2704-5, 9780709927044|pages=105 to 108}}&lt;/ref&gt; both per ruble of gross social product and per ruble of industrial product. At the start, this decline grew very rapidly, but gradually slowed down between 1970 and 1975. From 1975 and 1980, it grew even slower,{{Clarify|date=March 2011}} &lt;!-- it grew or the decline grew? !--&gt; only 2.6 percent.&lt;ref&gt;Wilson 1983, p. 295.&lt;/ref&gt; David Wilson, a historian, believed that the gas industry would account for 40 percent of Soviet fuel production by the end of the century. His theory did not come to fruition because of the USSR's collapse.&lt;ref&gt;Wilson 1983, p. 297.&lt;/ref&gt; The USSR, in theory, would have continued to have an economic growth rate of 2–2.5 percent during the 1990s because of Soviet energy fields{{Clarify|date=March 2011}}.&lt;ref&gt;Wilson 1983, p. 297–99.&lt;/ref&gt; However, the energy sector faced many difficulties, among them the country's high military expenditure and hostile relations with the [[First World]] (pre-[[Gorbachev era]]).&lt;ref&gt;Wilson 1983, p. 299.&lt;/ref&gt;
+
+In 1991, the Soviet Union had a [[pipeline transport|pipeline]] network of {{convert|82000|km|mi}} for [[crude oil]] and another {{convert|206500|km|mi}} for natural gas.&lt;ref name=&quot;ciacom&quot;/&gt; Petroleum and petroleum-based products, natural gas, metals, wood, agricultural products, and a variety of manufactured goods, primarily machinery, arms and military equipment, were exported.&lt;ref name=&quot;CIA&quot;&gt;{{cite web | title = Soviet Union – Economy | author = Central Intelligence Agency | year = 1992 | work = [[The World Factbook]] | url = http://www.theodora.com/wfb1991/soviet_union/soviet_union_economy.html | accessdate =23 October 2010 | authorlink = Central Intelligence Agency }}&lt;/ref&gt; In the 1970s and 1980s, the Soviet Union heavily relied on fossil fuel exports to earn [[hard currency]].&lt;ref name=&quot;foreign trade&quot;/&gt; At its peak in 1988, it was the largest producer and second largest exporter of crude oil, surpassed only by [[Saudi Arabia]].&lt;ref&gt;{{cite book | author = Hardt, John Pearce; Hardt, John P. | title = Russia's Uncertain Economic Future: With a Comprehensive Subject Index | page = 233 | publisher = [[M.E. Sharpe]] | year = 2003 | url = http://books.google.com/books?id=IvKF3PKGYAcC&amp;dq | isbn = 0-7656-1208-9 }}&lt;/ref&gt;
+
+===Science and technology===
+{{main|Science and technology in the Soviet Union}}
+[[File:Sputnik-stamp-ussr.jpg|thumb|130px|left|A Soviet stamp showing the orbit of Sputnik]]
+The Soviet Union placed great emphasis on [[Science and technology in the Soviet Union|science and technology]] within its economy,&lt;ref name=&quot;science&amp;technology&quot;&gt;{{cite web|title=Science and Technology|publisher=[[Library of Congress Country Studies]]|url=http://rs6.loc.gov/cgi-bin/query/r?frd/cstdy:@field%28DOCID+su0413%29|accessdate =23 October 2010}}&lt;/ref&gt; however, the most remarkable Soviet successes in technology, such as producing the [[Sputnik|world's first space satellite]], typically were the responsibility of the military.&lt;ref name=&quot;economy&quot;&gt;{{cite web|title=Economy|publisher=[[Library of Congress Country Studies]]|url=http://rs6.loc.gov/cgi-bin/query/r?frd/cstdy:@field%28DOCID+su0009%29|accessdate =23 October 2010}}&lt;/ref&gt; Lenin believed that the USSR would never overtake the developed world if it remained as technologically backward as it was. Soviet authorities proved their commitment to Lenin's belief by developing massive networks, research and development organizations. By 1989, Soviet scientists were among the world's best-trained specialists in several areas, such as [[energy physics]], selected areas of medicine, mathematics, welding and military technologies. Due to rigid state planning and [[Nomenklatura|bureaucracy]], the Soviets remained far behind technologically in chemistry, biology, and computers when compared to the [[First World]].
+
+[[Project Socrates]], under the [[Reagan administration]], determined that the Soviet Union addressed the acquisition of science and technology in a manner that was radically different from what the US was using.  In the case of the US, economic prioritization was being used for indigenous [[research and development]] as the means to acquire science and technology in both the private and public sectors.  In contrast, the Soviet Union was offensively and defensively maneuvering in the acquisition and utilization of the worldwide technology, to increase the competitive advantage that they acquired from the technology, while preventing the US from acquiring a competitive advantage.  However, in addition, the Soviet Union's technology-based planning was executed in a centralized, government-centric manner that greatly hindered its flexibility.  It was this significant lack of flexibility that was exploited by the US to undermine the strength of the Soviet Union and thus foster its reform.&lt;ref&gt;{{cite journal | title = Global Tech Strategies Brought to U.S. | journal = Washington Technology | date = 3 May 1990 | first = Margo | last = MacFarland| id = | accessdate =3 May 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news | first = R.A. | last = Deckert | title = The science of uncovering industrial information | date = 10 October 1990 | work = Business Journal of the Treasure Coast}}&lt;/ref&gt;&lt;ref&gt;{{cite news | title = U.S. Firms Must Trade Short-Term Gains for Long-Term Technology Planning | date = 7 March 1991 | work = Inside the Pentagon}}&lt;/ref&gt;
+
+===Transport===
+{{main|Transport in the Soviet Union}}
+[[File:Flag of the Aeroflot.svg|thumb|The Soviet-era flag of Aeroflot]]
+Transport was a key component of the [[economy of the Soviet Union|nation's economy]]. The [[First Five-Year Plan (Soviet Union)|economic centralization]] of the late 1920s and 1930s led to the development of infrastructure on a massive scale, most notably the establishment of [[Aeroflot]], an aviation [[Enterprises in the Soviet Union|enterprise]].&lt;ref&gt;{{cite book | author = Highman, Robert D.S.; Greenwood, John T.; Hardesty, Von | title = Russian Aviation and Air Power in the Twentieth Century | publisher = Routledge | year = 1998 | url = http://books.google.no/books?id=cpynoFM-Jf4C&amp;dq | isbn = 978-0-7146-4784-5 | page = 134 }}&lt;/ref&gt; The country had a wide variety of modes of transport by land, water and air.&lt;ref name=ciacom/&gt; However, due to bad maintenance, much of the road, water and Soviet civil aviation transport were outdated and technologically backward compared to the First World.&lt;ref name=&quot;twocerofive&quot;/&gt;
+
+Soviet rail transport was the largest and most intensively used in the world;&lt;ref name=&quot;twocerofive&quot;&gt;Wilson 1983, p. 205.&lt;/ref&gt; it was also better developed than most of its Western counterparts.&lt;ref&gt;Wilson 1983, p. 201.&lt;/ref&gt; By the late 1970s and early 1980s, Soviet economists were calling for the construction of more roads to alleviate some of the burden from the railways and to improve the Soviet [[state budget]].&lt;ref&gt;Ambler, Shaw and Symons 1985, p. 166–67.&lt;/ref&gt; The [[road network]] and [[Automobile industry of the Soviet Union|automobile industry]]&lt;ref&gt;Ambler, Shaw and Symons 1985, p. 168.&lt;/ref&gt; remained underdeveloped,&lt;ref&gt;Ambler, Shaw and Symons 1985, p. 165.&lt;/ref&gt; and [[dirt road]]s were common outside major cities.&lt;ref name=&quot;Ambler 1985, p. 167&quot;&gt;Ambler, Shaw and Symons 1985, p. 167.&lt;/ref&gt; Soviet maintenance projects proved unable to take care of even the few roads the country had. By the early-to-mid-1980s, the Soviet authorities tried to solve the road problem by ordering the construction of new ones.&lt;ref name=&quot;Ambler 1985, p. 167&quot;/&gt; Meanwhile, the automobile industry was growing at a faster rate than road construction.&lt;ref&gt;Ambler, Shaw and Symons 1985, p. 169.&lt;/ref&gt; The underdeveloped road network led to a growing demand for public transport.&lt;ref&gt;[[International Monetary Fund]] and [[Organisation for Economic Co-operation and Development]] 1991, p. 56.&lt;/ref&gt;
+
+Despite improvements, several aspects of the transport sector were still riddled with problems due to outdated infrastructure, lack of investment, corruption and bad decision-making. Soviet authorities were unable to meet the growing demand for transport infrastructure and services.
+
+The Soviet [[merchant fleet]] was one of the largest in the world.&lt;ref name=&quot;ciacom&quot;&gt;{{cite web |url=http://www.theodora.com/wfb1991/soviet_union/soviet_union_communications.html |title=Soviet Union – Communications |author=Central Intelligence Agency | work = [[The World Factbook]] |year=1991 |accessdate=20 October 2010 |authorlink= Central Intelligence Agency}}&lt;/ref&gt;
+
+==Demographics==
+{{Main|Demographics of the Soviet Union}}
+[[File:Population of former USSR.PNG|thumb|left|250px|The population of the USSR (red) and the [[post-Soviet states]] (blue) from 1961 to 2009.]]
+The first fifty years of the 20th century in [[Russian Empire|tsarist Russia]] and the Soviet Union were marked by a succession of disasters, each accompanied by large–scale population losses. Excess deaths over the course of [[World War I]] and the [[Russian Civil War]] (including the postwar [[Russian famine of 1921|famine]]) amounted to a combined total of 18 million,&lt;ref&gt;{{cite book| author = Mark Harrison| title = Accounting for War: Soviet Production, Employment, and the Defence Burden, 1940–1945| url = http://books.google.com/?id=yJcD7_Q_rQ8C&amp;pg=PA167| date = 18 July 2002| publisher = Cambridge University Press| isbn = 978-0-521-89424-1| page = 167 }}&lt;/ref&gt; some 10 million in the 1930s,&lt;ref name=&quot;1930s&quot;/&gt; and more than 26 million in 1941–5. The postwar [[Demographics of the Soviet Union#Population 2|Soviet population]] was 45 to 50 million smaller than it would have been if pre-war demographic growth had continued.&lt;ref name=&quot;Geoffrey A. Hosking 2006 242&quot;/&gt;
+
+The [[crude birth rate]] of the USSR decreased from 44.0 per thousand in 1926 to 18.0 in 1974, largely due to increasing urbanization and the rising average age of marriages. The [[crude death rate]] demonstrated a gradual decrease as well – from 23.7 per thousand in 1926 to 8.7 in 1974. In general, the birth rates of the southern republics in Transcaucasia and Central Asia were considerably higher than those in the northern parts of the Soviet Union, and in some cases even increased in the post–World War II period, a phenomenon partly attributed to slower rates of urbanization and traditionally earlier marriages in the southern republics.&lt;ref name=&quot;GSE&quot;&gt;{{Cite book| author= Government of the USSR|title=Большая советская энциклопедия |trans_title=[[Great Soviet Encyclopaedia]] | volume = 24 | page = 15 | accessdate=23 October|year=1977|location=Moscow|publisher=[[State Committee for Publishing]]|language=Russian|authorlink= Government of the USSR}}&lt;/ref&gt; Soviet Europe moved towards [[sub-replacement fertility]], while [[Soviet Central Asia]] continued to exhibit population growth well above replacement-level fertility.&lt;ref&gt;{{Cite book| author= Anderson, Barbara A. |title=Growth and Diversity of the Population of the Soviet Union | volume = 510 | pages = 155–77 | accessdate=23 October|year=1990|publisher=Annals of the American Academy of Political and Social Sciences}}&lt;/ref&gt;
+
+The late 1960s and the 1970s witnessed a reversal of the declining trajectory of the rate of mortality in the USSR, and was especially notable among men of working age, but was also prevalent in Russia and other predominantly Slavic areas of the country.&lt;ref&gt;{{Cite book| author= Vallin, J.; Chesnais, J.C. |title=Recent Developments of Mortality in Europe, English-Speaking Countries and the Soviet Union, 1960–1970 | volume = 29 | pages = 861–898 |year=1970|publisher=Population Studies}}&lt;/ref&gt; An analysis of the official data from the late 1980s showed that after worsening in the late-1970s and the early 1980s, adult mortality began to improve again.&lt;ref&gt;{{Cite book| author= Ryan, Michael |title=Life expectancy and mortality data from the Soviet Union | volume = 296 | page = 1,513–1515 |date=28 May 1988|work=[[British Medical Journal]]}}&lt;/ref&gt; The infant mortality rate increased from 24.7 in 1970 to 27.9 in 1974. Some researchers regarded the rise as largely real, a consequence of worsening health conditions and services.&lt;ref&gt;{{Cite book| author= Davis, Christopher; [[Murray Feshbach|Feshbach, Murray]] |title=Rising Infant Mortality in the USSR in the 1970s | page = 95|location=Washington, D.C.|publisher=United States Census Bureau}}&lt;/ref&gt; The rises in both adult and infant mortality were not explained or defended by Soviet officials, and the [[Soviet government]] simply stopped publishing all mortality statistics for ten years. Soviet demographers and health specialists remained silent about the mortality increases until the late-1980s, when the publication of mortality data resumed and researchers could delve into the real causes.&lt;ref&gt;{{Cite book| author= Krimins, Juris |title=The Changing Mortality Patterns in Latvia, Lithuania and Estonia: Experience of the Past Three Decades | date = 3–7 December 1990}} Paper presented at the International Conference on Health, Morbidity and Mortality by Cause of Death in Europe.&lt;/ref&gt;
+
+===Education===
+{{main|Education in the Soviet Union}}
+[[File:Milovice soviet pupils.jpg|thumb|Soviet pupils in [[Milovice (Nymburk District)|Milovice]], [[Czechoslovakia]] in 1985.]]
+Before 1917, education was not free in the [[Russian Empire]] and was therefore either inaccessible or barely accessible for many children from lower-class working and peasant families. Estimates from 1917 recorded that 75–85 percent of the Russian population was [[illiterate]].
+
+[[Anatoly Lunacharsky]] became the first [[People's Commissariat for Education]] of Soviet Russia. At the beginning, the Soviet authorities placed great emphasis on the elimination of illiteracy. People who were [[literate]] were automatically hired as teachers. For a short period, quality was sacrificed for quantity. By 1940, Joseph Stalin could announce that illiteracy had been eliminated. In the aftermath of the Great Patriotic War, the country's educational system expanded dramatically. This expansion had a tremendous effect. In the 1960s, nearly all Soviet children had access to education, the only exception being those living in remote areas. [[Nikita Khrushchev]] tried to make education more accessible, making it clear to children that education was closely linked to the needs of society. Education also became important in creating the [[New Soviet Man]].&lt;ref&gt;{{cite book | author = Law, David A. | title = Russian Civilization | publisher = Ardent Media | year = 1975 | pages = 300–1 | url = http://books.google.com/books?id=f3ky9qBavl4C&amp;dq | isbn = 0-8422-0529-2}}&lt;/ref&gt;
+
+Only 20 percent of all applicants were accepted. The rest entered the labor market or learned a skill at a [[vocational technical school]] or [[technicum]]{{Dubious|date=September 2011}}.  Students from families of dubious political reliability were barred from higher education.&lt;ref&gt;{{cite book | author = Shelley, Louise | title = Policing Soviet Society: The Evolution of State Control | page = 208 | publisher = Routledge | year = 1996 | url = http://books.google.com/books?id=jla71nIxeBUC&amp;dq | isbn = 978-0-415-10470-8 }}&lt;/ref&gt; The Brezhnev administration introduced a rule that required all university applicants to present a reference from the local [[Komsomol]] party secretary.&lt;ref&gt;{{cite book | author = Shlapentokh, Vladimir | title = Soviet Intellectuals and Political Power: The post-Stalin Era | page = 26 | publisher = [[I.B. Tauris]] | year = 1990 | url = http://books.google.com/books?id=7VFqqE5995UC&amp;dq | isbn = 978-1-85043-284-5 }}&lt;/ref&gt; According to statistics from 1986, the number of students per 10,000 population was 181 for the USSR, compared to 517 for the US.&lt;ref name=&quot;education&quot;&gt;{{cite book| author = Pejovich, Svetozar| title = The Economics of Property Rights: Towards a Theory of Comparative Systems| url = http://books.google.com/?id=ocQKHRReKdcC| year = 1990| publisher = [[Springer Science+Business Media]]| isbn = 978-0-7923-0878-2| page = 130 }}&lt;/ref&gt;
+
+===Ethnic groups===
+[[File:USSR Ethnic Groups 1974.jpg|thumb|left|250px|1974 USSR geographic location of ethnicities]]
+The Soviet Union was a very ethnically diverse country, with more than 100 distinct ethnic groups. The total population was estimated at 293 million in 1991. According to a 1990 estimate, the majority were [[Russians]] (50.78%), followed by [[Ukrainians]] (15.45%) and [[Uzbeks]] (5.84%).&lt;ref name=&quot;cia&quot;&gt;{{cite web |url=http://www.theodora.com/wfb1991/soviet_union/soviet_union_people.html |title=Soviet Union – People |author=Central Intelligence Agency | work  = [[The World Factbook]] |year=1991 |accessdate=25 October 2010 |authorlink= Central Intelligence Agency}}&lt;/ref&gt;
+
+All citizens of the USSR had their own ethnic affiliation. The ethnicity of a person was chosen at the age of sixteen&lt;ref&gt;Comrie 1981, p. 2.&lt;/ref&gt; by the child's parents. If the parents did not agree, the child was automatically assigned the ethnicity of the father. Partly due to Soviet policies, some of the smaller minority ethnic groups were considered part of larger ones, such as the [[Mingrelians]] of the [[Georgian SSR]], who were classified with the linguistically related [[Georgians]].&lt;ref&gt;Comrie 1981, p. 3.&lt;/ref&gt; Some ethnic groups voluntarily assimilated, while others were brought in by force. Russians, [[Belarusians]], and Ukrainians shared close cultural ties, while other groups did not. With multiple nationalities living in the same territory, ethnic antagonisms developed over the years.&lt;ref&gt;{{cite web |url=http://www.historytoday.com/geoffrey-hosking/rulers-and-victims-russians-soviet-union |title=Rulers and Victims: The Russians in the Soviet Union |author=Hosking, Geoffrey | date = 13 March 2006 | work  = [[History Today]] |accessdate=25 October 2010}} (pay-fee)&lt;/ref&gt;
+
+===Health===
+{{main|Demographics of the Soviet Union#Life expectancy and infant mortality|l1=Health care in the Soviet Union}}
+
+[[File:RussianAbortionPoster.jpg|thumb|right|Poster from the early Soviet Union discouraging unsafe [[abortion]] practices.]]
+In 1917, before the Bolshevik uprising, health conditions were significantly behind the developed countries. As Lenin later noted, &quot;Either the lice will defeat socialism, or socialism will defeat the lice&quot;.&lt;ref name=&quot;lane&quot;&gt;Lane 1992, p. 353.&lt;/ref&gt; The Soviet principle of health care was conceived by the [[People's Commissariat for Health]] in 1918. Health care was to be controlled by the state and would be provided to its citizens free of charge, this at the time being a revolutionary concept. Article 42 of the [[1977 Soviet Constitution]] gave all citizens the right to health protection and free access to any health institutions in the USSR. Before [[Leonid Brezhnev]] became head of state, the healthcare system of the Soviet Union was held in high esteem by many foreign specialists. This changed however, from Brezhnev's accession and [[Mikhail Gorbachev]]'s tenure as leader, the Soviet health care system was heavily criticised for many basic faults, such as the quality of service and the unevenness in its provision.&lt;ref&gt;Lane 1992, p. 352.&lt;/ref&gt; [[Ministry of Health (Soviet Union)|Minister of Health]] [[Yevgeniy Chazov]], during the [[19th Congress of the Communist Party of the Soviet Union]], while highlighting such Soviet successes as having the most doctors and hospitals in the world, recognised the system's areas for improvement and felt that billions of [[Soviet ruble]]s were squandered.&lt;ref&gt;Lane 1992, p. 352–53.&lt;/ref&gt; &lt;!-- Billions in the previous line was prior milliard, but was changed according to http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Large_numbers. Don't be fooled by the surrounding British English. I checked the rest of the article: All other named numbers were either &quot;million&quot; (same on both scales) or &quot;trillion USD&quot;, where a value of $10^18 is completely implausible. --&gt;
+
+After the socialist revolution, the life expectancy for all age groups went up. This statistic in itself was seen by some that the [[Socialism (Marxism)|socialist system]] was superior to the [[Capitalism|capitalist system]]. These improvements continued into the 1960s, when the life expectancy in the Soviet Union surpassed that of the United States. It remained stable during most years, although in the 1970s, it went down slightly, possibly because of [[Alcoholism in Russia|alcohol abuse]]. At the same time, infant mortality began to rise. After 1974, the government stopped publishing statistics on this. This trend can be partly explained by the number of pregnancies rising drastically in the Asian part of the country where infant mortality was highest, while declining markedly in the more developed European part of the Soviet Union.&lt;ref name=&quot;SeemingParadox&quot;&gt;{{Cite book| author= Dinkel, R.H. |title=The Seeming Paradox of Increasing Mortality in a Highly Industrialized Nation: the Example of the Soviet Union  | pages = 155–77 | accessdate=24 October|year=1990}}&lt;/ref&gt;
+
+===Language===
+{{Main|Languages of the Soviet Union}}
+The Soviet government headed by Vladimir Lenin gave small language groups their own writing systems.&lt;ref&gt;Comrie 1981, p. 3–4.&lt;/ref&gt; The development of these writing systems was very successful, even though some flaws were detected. During the later days of the USSR, countries with the same [[multilingual]] situation implemented similar policies. A serious problem when creating these writing systems was that the languages differed [[dialect]]ally greatly from each other.&lt;ref&gt;Comrie 1981, p. 4.&lt;/ref&gt; When a language had been given a writing system and appeared in a notable publication, that language would attain &quot;official language&quot; status. There were many minority languages which never received their own writing system; therefore their speakers were forced to have a [[second language]].&lt;ref&gt;Comrie 1981, p. 25.&lt;/ref&gt; There are examples where the Soviet government retreated from this policy, most notable under Stalin's regime, where education was discontinued in languages which were not widespread enough. These languages were then assimilated into another language, mostly Russian.&lt;ref&gt;Comrie 1981, p. 26.&lt;/ref&gt; During the [[Great Patriotic War]] (World War II), some minority languages were banned, and their speakers accused of collaborating with the enemy.&lt;ref&gt;Comrie 1981, p. 27.&lt;/ref&gt;
+
+As the most widely spoken of the Soviet Union's many languages, Russian ''de facto'' functioned as an official language as the &quot;language of interethnic communication&quot; ({{lang-ru|link=no|язык межнационального общения}}), but only assumed the ''[[de jure]]'' status as the official national language in 1990.&lt;ref&gt;{{cite web|title=ЗАКОН СССР ОТ 24.04.1990 О ЯЗЫКАХ НАРОДОВ СССР|publisher=[[Government of the Soviet Union]]|date=24 April 1990 | url = http://legal-ussr.narod.ru/data01/tex10935.htm|trans_title=Law of the USSR from 24.04.1990 On languages of the USSR |accessdate =24 October 2010|language=Russian}}&lt;/ref&gt;
+
+===Religion===
+[[File:Christ saviour explosion.jpg|thumb|200px|upright|The [[Cathedral of Christ the Saviour]] in Moscow during its 1931 demolition.]]
+[[File:Brezhnev with priests and rabbi 1977.jpg|thumb|200px|upright|General Secretary [[Leonid Brezhnev]] makes a toast with [[Russian Orthodox Church|Russian Orthodox]] clergymen and a rabbi at a celebration of the 60th anniversary of the [[Bolshevik Revolution]] in 1977.]]
+{{Main|Religion in the Soviet Union}}
+A.L. Eliseev writes that a meeting of the antireligious commission of the Central Committee of the All-Union Communist Party (Bolsheviks) took place on 23 May 1929 under the Chairmanship of E. laroslavskii. There, believers in the country were estimated at 80 percent. It cannot be ruled out that this percentage was somewhat understated, to prove the successfulness of the struggle with religion.&lt;ref&gt;Religion and Politics in Russia: A Reader
+By Marjorie Mandelstam Balzer page 6-7&lt;/ref&gt;
+
+[[Christianity]] and [[Islam]]  had the greatest number of adherents among the Soviet state's religious citizens.&lt;ref name=&quot;dailylife&quot;&gt;{{cite book | author = Eaton, Katherine Bliss | title = Daily life in the Soviet Union | publisher = [[Greenwood Publishing Group]] | year = 2004 | url = http://books.google.com/books?id=VVFuYN8TS5AC&amp;dq | isbn = 0-313-31628-7 | pages = 285 and 286 }}&lt;/ref&gt; [[Eastern Christianity]] predominated among Christians, with Russia's traditional [[Russian Orthodox Church]] being the Soviet Union's largest [[Christian denomination]]. About 90 percent of the Soviet Union's Muslims were [[Sunni]]s, with [[Shiite]]s concentrated in the [[Azerbaijani Soviet Socialist Republic]].&lt;ref name = &quot;dailylife&quot;/&gt; Smaller groups included [[Roman Catholicism|Roman Catholics]], [[Judaism|Jews]], [[Buddhism|Buddhists]], and a variety of [[Protestantism|Protestant]] sects.&lt;ref name = &quot;dailylife&quot;/&gt;
+
+Religious influence had been strong in the Russian Empire. The Russian Orthodox Church enjoyed a privileged status as the church of the monarchy and took part in carrying out official state functions.&lt;ref name=&quot;Simkin 2003&quot;&gt;{{cite book| author = Silvio Ferrari| coauthors = W. Cole Durham, Elizabeth A. Sewell| title = Law and religion in post-communist Europe| url = http://books.google.com/?id=QEucgny-0k4C| year = 2003| publisher = Peeters Pub &amp; Booksellers| isbn = 978-90-429-1262-5| page = 261 }}&lt;/ref&gt; The immediate period following the establishment of the Soviet state included a struggle against the Orthodox Church, which the revolutionaries considered an ally of the former [[ruling class]]es.&lt;ref name = &quot;Simon 1974, 64-65&quot;&gt;Simon 1974, pp. 64–65.&lt;/ref&gt;
+
+In Soviet law, the &quot;freedom to hold religious services&quot; was constitutionally guaranteed, although the ruling Communist Party regarded religion as incompatible with the [[Marxism|Marxist]] spirit of [[scientific materialism]].&lt;ref name = &quot;Simon 1974, 64-65&quot;/&gt; In practice, the Soviet system subscribed to a narrow interpretation of this right, and in fact utilized a range of official measures to discourage religion and curb the activities of religious groups.&lt;ref name = &quot;Simon 1974, 64-65&quot;/&gt;
+
+The 1918 [[Council of People's Commissars]] decree establishing the Russian Soviet Federative Socialist Republic (RSFSR) as a secular state also decreed that &quot;the teaching of religion in all [places] where subjects of general instruction are taught, is forbidden. Citizens may teach and may be taught religion privately.&quot;&lt;ref name = &quot;Simon 1974, 209&quot;&gt;Simon 1974, p. 209.&lt;/ref&gt; Among further restrictions, those adopted in 1929, a half-decade into Stalin's rule, included express prohibitions on a range of church activities, including meetings for organized [[Bible study (Christian)|Bible study]].&lt;ref name = &quot;Simon 1974, 64-65&quot;/&gt; Both Christian and non-Christian establishments were shut down by the thousands in the 1920s and 1930s. By 1940, as many as 90 percent of the churches, synagogues, and mosques that had been operating in 1917 were closed.&lt;ref name = &quot;Atwood 2001, 311&quot;&gt;{{cite book | author = Atwood, Craig D. | title = Always Reforming: A History of Christianity Since 1300 | location = Macon, Georgia | publisher = [[Mercer University Press]] | year = 2001 | url = http://books.google.com/books?id=72Ulz0fpr4cC | isbn =0-86554-679-7| page = 311 }}&lt;/ref&gt;
+
+Convinced that religious [[anti-Sovietism]] had become a thing of the past, the Stalin regime began shifting to a more moderate religion policy in the late 1930s.&lt;ref name = &quot;Janz 1998, 38-39&quot;&gt;Janz 1998, pp. 38–39.&lt;/ref&gt; Soviet religious establishments overwhelmingly rallied to support the war effort during [[Eastern Front (World War II)|the Soviet war with Nazi Germany]]. Amid other accommodations to religious faith, churches were reopened, [[Radio Moscow]] began broadcasting a religious hour, and a historic meeting between Stalin and Orthodox Church leader [[Patriarch Sergius I of Moscow]] was held in 1943.&lt;ref name = &quot;Janz 1998, 38-39&quot;/&gt; The general tendency of this period was an increase in religious activity among believers of all faiths.&lt;ref name = &quot;Ro'i 1995, 263&quot;&gt;{{cite book | author = Ro'i, Yaacov | title = Jews and Jewish Life in Russia and the Soviet Union | location = London | publisher = [[Frank Cass]] | year = 1995 | url = http://books.google.com/books?id=bJBH5pxzSyMC | isbn = 0-7146-4619-9| page = 263 }}&lt;/ref&gt;
+
+The Soviet establishment again clashed with the churches under General Secretary [[Nikita Khrushchev]]'s leadership in 1958–1964, a period when [[atheism]] was emphasized in the educational curriculum, and numerous state publications promoted atheistic views.&lt;ref name = &quot;Janz 1998, 38-39&quot;/&gt; During this period, the number of churches fell from 20,000 to 10,000 from 1959 to 1965, and the number of synagogues dropped from 500 to 97.&lt;ref name = &quot;Nahaylo &amp; Swoboda 1990, 144&quot;&gt;{{cite book | author = Nahaylo, Bohdan &amp; Victor Swoboda | title = ''Soviet Disunion: A History of the Nationalities Problem in the USSR | location = London | publisher = [[Hamish Hamilton]] | year = 1990 | url = http://books.google.com/books?id=ZrG7vrPue4wC | isbn = 0-02-922401-2 | page = 144 }}&lt;/ref&gt; The number of working mosques also declined, falling from 1,500 to 500 within a decade.&lt;ref name = &quot;Nahaylo &amp; Swoboda 1990, 144&quot;/&gt;
+
+Religious institutions remained monitored by the Soviet government, but churches, synagogues, temples, and mosques were all given more leeway in the [[Brezhnev era]].&lt;ref name=&quot;Steinberg &amp; Wanner 2008, &quot;&gt;{{cite book| author = Mark D. Steinberg| coauthors = Catherine Wanner| title = Religion, morality, and community in post-Soviet societies| url = http://books.google.com/?id=LR6X3EY8oPIC| date = 2008-10| publisher = Indiana University Press| isbn = 978-0-253-22038-7| page = 6 }}&lt;/ref&gt; Official relations between the Orthodox Church and the Soviet government again warmed to the point that the Brezhnev government twice honored Orthodox Patriarch [[Alexy I]] with the [[Order of the Red Banner of Labor]].&lt;ref name = &quot;Janz 1998, 42&quot;&gt;Janz 1998, p. 42.&lt;/ref&gt; A poll conducted by Soviet authorities in 1982 recorded 20 percent of the Soviet population as &quot;active religious believers.&quot;&lt;ref name=&quot;subculture&quot;&gt;{{cite book | author = McKay, George; Williams, Christopher | title = Subcultures and New Religious Movements in Russia and East-Central Europe | publisher = [[Peter Lang (publishing company)|Peter Lang]] | year = 2009 | url = http://books.google.com/books?id=xpNBm-z7aOYC&amp;dq | isbn = 3-03911-921-4 | pages = 231–32 }}&lt;/ref&gt;
+
+==Culture==
+{{Main|Culture of the Soviet Union}}{{See also|Soviet cuisine}}
+
+[[File:Марш энтузиастов.ogg|thumb|The &quot;Enthusiast's March&quot;, one of the most famous songs of the Soviet Union (from the 1930s era).]]
+The culture of the Soviet Union passed through several stages during the USSR's 70-year existence. During the first eleven years following the Revolution (1918–1929), there was relative freedom and artists experimented with several different styles to find a distinctive Soviet style of art. Lenin wanted art to be accessible to the Russian people. On the other hand, hundreds of intellectuals, writers, and artists were exiled or executed, and their work banned, for example [[Nikolay Gumilev]] (shot for conspiring against the Bolshevik regime) and [[Yevgeny Zamyatin]] (banned).&lt;ref&gt;'On the other hand...' See the index of ''Stalin and His Hangmen'' by Donald Rayfield, 2004, Random House&lt;/ref&gt;
+
+[[File:Shagayu.jpg|150px|thumb|left|''[[Walking the Streets of Moscow]]'' was an iconic Soviet film of the 1960s.]]
+The government encouraged a variety of trends. In art and literature, numerous schools, some traditional and others radically experimental, proliferated. Communist writers [[Maksim Gorky]] and [[Vladimir Mayakovsky]] were active during this time. Film, as a means of influencing a largely illiterate society, received encouragement from the state; much of director [[Sergei Eisenstein]]'s best work dates from this period.
+
+Later, during Stalin's rule, Soviet culture was characterised by the rise and domination of the government-imposed style of [[socialist realism]], with all other trends being severely repressed, with rare exceptions, for example [[Mikhail Bulgakov]]'s works. Many writers were imprisoned and killed.&lt;ref&gt;Rayfield 2004, pp. 317–320.&lt;/ref&gt;
+
+Following the [[Khrushchev Thaw]] of the late 1950s and early 1960s, censorship was diminished. During this time, a distinctive period of Soviet culture developed characterized by conformist public life and intense focus on personal life. Greater experimentation in art forms were again permissible, with the result that more sophisticated and subtly critical work began to be produced. The regime loosened its emphasis on socialist realism; thus, for instance, many protagonists of the novels of author [[Yury Trifonov]] concerned themselves with problems of daily life rather than with building socialism. An underground dissident literature, known as ''[[samizdat]]'', developed during this late period. In architecture the Khrushchev era mostly focused on functional design as opposed to the highly decorated style of Stalin's epoch.
+
+In the second half of the 1980s, Gorbachev's policies of ''[[perestroika]]'' and ''[[glasnost]]'' significantly expanded [[freedom of expression]] in the media and press.&lt;ref&gt;&quot;Gorbachev, Mikhail.&quot; Encyclopædia Britannica. 2007. Encyclopædia Britannica Online. 2 October 2007 &lt;http://www.britannica.com/eb/article-9037405&gt;. &quot;Under his new policy of glasnost (&quot;openness&quot;), a major cultural thaw took place: freedoms of expression and of information were significantly expanded; the press and broadcasting were allowed unprecedented candour in their reportage and criticism; and the country's legacy of Stalinist totalitarian rule was eventually completely repudiated by the government.&quot;&lt;/ref&gt;
+
+==See also==
+{{Portal|History|Soviet Union|Communism}}
+*[[Eurasian Union]]
+*[[Soviet Empire]]
+*[[Index of Soviet Union-related articles]]
+{{-}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+* {{cite book | author = Ambler, John; Shaw, Denis J.B.; Symons, Leslie | title = Soviet and East European Transport Problems | publisher = [[Taylor &amp; Francis]] | year = 1985 | url = http://books.google.no/books?id=Rpg9AAAAIAAJ&amp;dq | isbn = 978-0-7099-0557-8 }}
+* {{cite book | author = Comrie, Bernard | title = The Languages of the Soviet Union | publisher = [[Cambridge University Press|Cambridge University Press (CUP) Archive]] | year = 1981 | url = http://books.google.com/books?id=QTU7AAAAIAAJ&amp;dq | isbn = 978-0-521-29877-3 | authorlink = Bernard Comrie }}
+* {{cite book | author = Janz, Denis | title = World Christianity and Marxism | location = New York | publisher = Oxford University Press | year = 1998 | url = http://books.google.com/books?id=EUVwrcnXwBsC | isbn = 978-0-19-511944-2 }}
+* {{cite book | author = Lane, David Stuart | title = Soviet Society under Perestroika | publisher = Routledge | year = 1992 | url = http://books.google.com/books?id=rcXafOqyxgQC&amp;dq | isbn = 978-0-415-07600-5 }}
+* {{cite book | author = Rayfield, Donald | title = [[Stalin and His Hangmen|Stalin and His Hangmen: An Authoritative Portrait of a Tyrant and Those Who Served Him]] | publisher = [[Viking Press]] | year = 2004 | isbn = 978-0-375-75771-6 | authorlink = Donald Rayfield }}
+* {{cite book | author = Simon, Gerard | title = Church, State, and Opposition in the U.S.S.R. | location = Berkeley and Los Angeles | publisher = University of California Press | year = 1974 | url = http://books.google.com/books?id=sTLc8H3b4vUC | isbn = 978-0-520-02612-4 }}
+* {{cite book | author = Wilson, David | title = The Demand for Energy in the Soviet Union | publisher = [[Taylor &amp; Francis]] | year = 1983 | url = http://books.google.no/books?id=1qgOAAAAQAAJ&amp;dq | isbn = 978-0-7099-2704-4 }}
+* {{cite book | author = [[World Bank]] and [[Organisation for Economic Co-operation and Development|OECD]] | title = A Study of the Soviet economy | volume = 3 | publisher = [[International Monetary Fund]] | year = 1991 | url = http://books.google.com/books?id=fiDpE5M9jRAC&amp;dq | isbn = 9789264134683 }}
+* {{cite book | title = Social Identities in Revolutionary Russia | last = Palat | first = Madhavan K. | authorlink = Madhavan K. Palat | coauthors = | year = 2001 | publisher = Palgrave | location = UK | isbn = 978-0-333-92947-6 | url = http://books.google.com.au/books?id=T-d_QgAACAAJ | accessdate = 26 May 2012}}
+
+==Further reading==
+{{see also|List of primary and secondary sources on the Cold War}}
+{{Refbegin}}
+
+;Surveys
+* [http://rs6.loc.gov/frd/cs/sutoc.html ''A Country Study: Soviet Union (Former)'']. [[Library of Congress Country Studies]], 1991.
+* Brown, Archie, et al., eds.: ''The Cambridge Encyclopedia of Russia and the Soviet Union'' (Cambridge, UK: [[Cambridge University Press]], 1982).
+* Gilbert, Martin: ''The Routledge Atlas of Russian History'' (London: Routledge, 2002).
+* Goldman, Minton: ''The Soviet Union and Eastern Europe'' (Connecticut: Global Studies, Dushkin Publishing Group, Inc., 1986).
+* Grant, Ted: ''Russia, from Revolution to Counter-Revolution'', London, Well Red Publications,1997
+* Howe, G. Melvyn: ''The Soviet Union: A Geographical Survey'' 2nd. edn. (Estover, UK: MacDonald and Evans, 1983).
+* Pipes, Richard. ''Communism: A History'' (2003), by a leading conservative scholar
+;Lenin and Leninism
+* Clark, Ronald W. ''Lenin'' (1988). 570 pp.
+* Debo, Richard K. ''Survival and Consolidation: The Foreign Policy of Soviet Russia, 1918–1921'' (1992).
+* Marples, David R. ''Lenin's Revolution: Russia, 1917–1921'' (2000) 156pp. short survey
+* Pipes, Richard. ''A Concise History of the Russian Revolution'' (1996) [http://www.amazon.com/dp/0679745440 excerpt and text search], by a leading conservative
+* Pipes, Richard. ''Russia under the Bolshevik Regime.'' (1994). 608 pp.
+* Service, Robert. ''Lenin: A Biography'' (2002), 561pp; standard scholarly biography; a short version of his 3 vol detailed biography
+* Volkogonov, Dmitri. ''Lenin: Life and Legacy'' (1994). 600 pp.
+
+;Stalin and Stalinism
+* Daniels, R. V., ed. ''The Stalin Revolution'' (1965)
+* Davies, Sarah, and James Harris, eds. ''Stalin: A New History,'' (2006), 310pp, 14 specialized essays by scholars [http://www.amazon.com/dp/0521616530 excerpt and text search]
+* De Jonge, Alex. ''Stalin and the Shaping of the Soviet Union'' (1986)
+* Fitzpatrick, Sheila, ed. ''Stalinism: New Directions,'' (1999), 396pp excerpts from many scholars on the impact of Stalinism on the people (little on Stalin himself) [http://www.questia.com/PM.qst?a=o&amp;d=109468478 online edition]
+* Hoffmann, David L. ed. ''Stalinism: The Essential Readings,'' (2002) essays by 12 scholars
+* Laqueur, Walter. ''Stalin: The Glasnost Revelations'' (1990)
+* Kershaw, Ian, and Moshe Lewin. ''Stalinism and Nazism: Dictatorships in Comparison'' (2004) [http://www.amazon.com/dp/0521565219 excerpt and text search]
+* Lee, Stephen J. ''Stalin and the Soviet Union'' (1999) [http://www.questia.com/read/108215209?title=Stalin%20and%20the%20Soviet%20Union online edition]
+* Lewis, Jonathan. ''Stalin: A Time for Judgement'' (1990)
+* McNeal, Robert H. ''Stalin: Man and Ruler'' (1988)
+* Martens, Ludo. ''Another view of Stalin'' (1994), a highly favorable view from a Maoist historian
+* Service, Robert. ''Stalin: A Biography'' (2004), along with Tucker the standard biography
+* Trotsky, Leon. ''Stalin: An Appraisal of the Man and His Influence,'' (1967), an interpretation by Stalin's worst enemy
+* Tucker, Robert C. ''Stalin as Revolutionary, 1879–1929'' (1973); ''Stalin in Power: The Revolution from Above, 1929–1941.'' (1990) [http://www.questia.com/PM.qst?a=o&amp;d=103246514 online edition] with Service, a standard biography; [http://www.historyebook.org/ online at ACLS e-books]
+
+;World War II
+* Bellamy, Chris. ''Absolute War: Soviet Russia in the Second World War'' (2008), 880pp [http://www.amazon.com/dp/0375724710/ excerpt and text search]
+* Broekmeyer, Marius. ''Stalin, the Russians, and Their War, 1941–1945.'' 2004. 315 pp.
+* Overy, Richard. ''Russia's War: A History of the Soviet Effort: 1941–1945'' (1998) [http://www.amazon.com/dp/0140271694/ excerpt and text search]
+* Roberts, Geoffrey. ''Stalin's Wars: From World War to Cold War, 1939–1953'' (2006).
+* Seaton, Albert. ''Stalin as Military Commander,'' (1998) [http://www.questia.com/PM.qst?a=o&amp;d=100872346 online edition]
+
+;Cold war
+* Brzezinski, Zbigniew. ''The Grand Failure: The Birth and Death of Communism in the Twentieth Century'' (1989)
+* Edmonds, Robin. ''Soviet Foreign Policy: The Brezhnev Years'' (1983)
+* Goncharov, Sergei, John Lewis and Litai Xue, ''Uncertain Partners: Stalin, Mao and the Korean War'' (1993) [http://www.amazon.com/dp/0804725217 excerpt and text search]
+* Gorlizki, Yoram, and Oleg Khlevniuk. ''Cold Peace: Stalin and the Soviet Ruling Circle, 1945–1953'' (2004) [http://www.questia.com/read/105899376 online edition]
+* Holloway, David. ''Stalin and the Bomb: The Soviet Union and Atomic Energy, 1939–1956'' (1996) [http://www.amazon.com/dp/0300066643 excerpt and text search]
+* [[Mastny, Vojtech]]. ''Russia's Road to the Cold War: Diplomacy, Warfare, and the Politics of Communism, 1941–1945'' (1979)
+* [[Mastny, Vojtech]]. ''The Cold War and Soviet Insecurity: The Stalin Years'' (1998) [http://www.amazon.com/dp/0195126599 excerpt and text search]; [http://www.questia.com/read/98422373 online complete edition]
+* Nation, R. Craig. ''Black Earth, Red Star: A History of Soviet Security Policy, 1917–1991'' (1992)
+* Sivachev, Nikolai and Nikolai Yakolev, ''Russia and the United States'' (1979), by Soviet historians
+* Taubman, William. ''Khrushchev: The Man and His Era'' (2004), Pulitzer Prize; [http://www.amazon.com/dp/0393324842 excerpt and text search]
+* Ulam, Adam B. ''Expansion and Coexistence: Soviet Foreign Policy, 1917–1973'', 2nd ed. (1974)
+* Zubok, Vladislav M. ''Inside the Kremlin's Cold War'' (1996) [http://search.live.com/results.aspx?q=&amp;scope=books#q=zubok&amp;filter=all&amp;start=1 20% excerpt and online search]
+* Zubok, Vladislav M. ''A Failed Empire: The Soviet Union in the Cold War from Stalin to Gorbachev'' (2007)
+
+;Collapse
+* Beschloss, Michael, and Strobe Talbott. ''At the Highest Levels:The Inside Story of the End of the Cold War'' (1993)
+* Bialer, Seweryn and Michael Mandelbaum, eds. ''Gorbachev's Russia and American Foreign Policy'' (1988).
+* Garthoff, Raymond. ''The Great Transition: American–Soviet Relations and the End of the Cold War'' (1994), detailed narrative
+* Grachev, A.S. ''Gorbachev's Gamble: Soviet Foreign Policy and the End of the Cold War'' (2008) [http://www.amazon.com/dp/0745643450/ excerpt and text search]
+* Hogan, Michael ed. ''The End of the Cold War. Its Meaning and Implications'' (1992) articles from ''Diplomatic History''
+* Kotkin, Stephen. ''Armageddon Averted: The Soviet Collapse, 1970–2000'' (2008) [http://www.amazon.com/dp/0195368630/ excerpt and text search]
+* Matlock, Jack. ''Autopsy on an Empire: The American Ambassador's Account of the Collapse of the Soviet Union'' (1995)
+* Pons, S., Romero, F., ''Reinterpreting the End of the Cold War: Issues, Interpretations, Periodizations'', (2005) ISBN 0-7146-5695-X
+* Remnick, David. ''Lenin's Tomb: The Last Days of the Soviet Empire'', (1994), ISBN 0-679-75125-4
+
+;Specialty studies
+* Armstrong, John A. ''The Politics of Totalitarianism: The Communist Party of the Soviet Union from 1934 to the Present.'' New York: Random House, 1961.
+* Katz, Zev, ed.: ''Handbook of Major Soviet Nationalities'' (New York: Free Press, 1975).
+* Moore, Jr., Barrington. ''Soviet politics: the dilemma of power.'' Cambridge, MA: Harvard University Press, 1950.
+* [[Dmitry Orlov]], ''[http://www.newsociety.com/bookid/3991 Reinventing Collapse]'', New Society Books, 2008, ISBN 978-0-86571-606-3
+* Rizzi, Bruno: &quot;The Bureaucratization of the World : The First English edition of the Underground Marxist Classic That Analyzed Class Exploitation in the USSR&quot;, New York, NY : Free Press, 1985.
+* Schapiro, Leonard B. ''The Origin of the Communist Autocracy: Political Opposition in the Soviet State, First Phase 1917–1922.'' Cambridge, MA: Harvard University Press, 1955, 1966.
+{{Refend}}
+{{loc}}
+
+==External links==
+{{Sister project links|Soviet Union}}
+* [http://ariwatch.com/VS/JD/ImpressionsOfSovietRussia.htm Impressions of Soviet Russia], by [[John Dewey]].
+* [http://soviethistory.com/ Documents and other forms of media from the Soviet Union: 1917–1991.]
+* [http://lcweb2.loc.gov/frd/cs/sutoc.html A Country Study: Soviet Union (Former)]
+* [http://soviet.globalmuseumoncommunism.org/ Soviet Union Exhibit at Global Museum on Communism with essay by Richard Pipes]
+* [http://www.history.com/topics/soviet-union The Soviet Union]
+
+{{Soviet Union topics}}
+{{Republics of the Soviet Union}}
+{{Autonomous Republics of the Soviet Union}}
+{{Autonomous Oblasts of the Soviet Union}}
+{{Socialism by state}}
+{{Eastern Bloc}}
+{{Russia topics}}
+
+{{Use dmy dates|date=May 2012}}
+
+[[Category:Soviet Union| ]]
+[[Category:History of the Soviet Union and Soviet Russia]]
+[[Category:Communism in Russia]]
+[[Category:Communist states]]
+[[Category:Early Soviet republics]]
+[[Category:States and territories established in 1922]]
+[[Category:States and territories disestablished in 1991]]
+[[Category:Former Slavic countries]]
+[[Category:Single-party states]]
+[[Category:History of Russia]]
+[[Category:Former polities of the Cold War]]
+[[Category:Superpowers]]
+[[Category:Former member states of the United Nations]]
+
+{{Link FA|fi}}
+{{Link FA|mk}}
+{{Link FA|no}}
+
+[[ace:Uni Soviet]]
+[[kbd:Республикэ Совет Социал Зэгуэтхэр]]
+[[af:Sowjetunie]]
+[[als:Sowjetunion]]
+[[am:ሶቪዬት ሕብረት]]
+[[ang:Sofiete Ȝesamnung]]
+[[ar:الاتحاد السوفيتي]]
+[[an:Unión de Republicas Socialistas Sovieticas]]
+[[ast:Xunión Soviética]]
+[[gn:Tetã peteĩ reko Soviétiko]]
+[[az:Sovet Sosialist Respublikaları İttifaqı]]
+[[bn:সোভিয়েত ইউনিয়ন]]
+[[zh-min-nan:Soviet Siā-hōe-chú-gī Kiōng-hô-kok Liân-ha̍p]]
+[[ba:Советтар Союзы]]
+[[be:Саюз Савецкіх Сацыялістычных Рэспублік]]
+[[be-x-old:Саюз Савецкіх Сацыялістычных Рэспублік]]
+[[bg:Съюз на съветските социалистически републики]]
+[[bar:Sowjetunion]]
+[[bs:Savez sovjetskih socijalističkih republika]]
+[[br:Unaniezh ar Republikoù Sokialour ha Soviedel]]
+[[ca:Unió de Repúbliques Socialistes Soviètiques]]
+[[cv:СССР]]
+[[ceb:Unyong Sobyet]]
+[[cs:Sovětský svaz]]
+[[cy:Yr Undeb Sofietaidd]]
+[[da:Sovjetunionen]]
+[[de:Sowjetunion]]
+[[dv:ސޯވިއެޓް އިއްތިހާދު]]
+[[dsb:Sowjetski zwězk]]
+[[et:Nõukogude Liit]]
+[[el:Ένωση Σοβιετικών Σοσιαλιστικών Δημοκρατιών]]
+[[es:Unión Soviética]]
+[[eo:Sovetunio]]
+[[ext:Union Soviética]]
+[[eu:Sobietar Errepublika Sozialisten Batasuna]]
+[[fa:اتحاد جماهیر شوروی سوسیالیستی]]
+[[fo:Sovjetsamveldið]]
+[[fr:Union des républiques socialistes soviétiques]]
+[[fy:Sowjetuny]]
+[[ga:An tAontas Sóivéadach]]
+[[gv:Unnaneys ny Pobblaghtyn Soveidjagh Soshiallagh]]
+[[gd:Aonadh Sobhiat]]
+[[gl:Unión Soviética]]
+[[gan:蘇聯]]
+[[glk:شوروی]]
+[[gu:સોવિયેત યુનિયન]]
+[[got:𐌲𐌲𐌲𐌸]]
+[[ko:소비에트 연방]]
+[[hy:Խորհրդային Սոցիալիստական Հանրապետությունների Միություն]]
+[[hi:सोवियत संघ]]
+[[hsb:Sowjetski zwjazk]]
+[[hr:Sovjetski Savez]]
+[[io:Soviet-Uniono]]
+[[ilo:Kappon ti Sobiet]]
+[[id:Uni Soviet]]
+[[ia:Union Sovietic]]
+[[os:Советон Цæдис]]
+[[is:Sovétríkin]]
+[[it:Unione Sovietica]]
+[[he:ברית המועצות]]
+[[jv:Uni Sovyèt]]
+[[kn:ಸೊವಿಯೆಟ್ ಒಕ್ಕೂಟ]]
+[[ka:საბჭოთა სოციალისტური რესპუბლიკების კავშირი]]
+[[kk:Кеңестік Социалистік Республикалар Одағы]]
+[[kw:URSS]]
+[[sw:Umoja wa Kisovyeti]]
+[[ku:Yekîtiya Komarên Sovyet ên Sosyalîst]]
+[[ky:Советтик Социалисттик Республикалар Союзу]]
+[[lad:Union Sovyetika]]
+[[lez:Совет Социалист Республикайрин ГалкӀ]]
+[[la:Unio Rerum Publicarum Sovieticarum Socialisticarum]]
+[[lv:Padomju Savienība]]
+[[lb:Sowjetunioun]]
+[[lt:Tarybų Sąjunga]]
+[[lij:Union de e Repubbriche Soçialiste Sovietiche]]
+[[jbo:sofygu'e]]
+[[hu:Szovjetunió]]
+[[mk:Сојуз на Советските Социјалистички Републики]]
+[[ml:സോവിയറ്റ് യൂണിയൻ]]
+[[mr:सोव्हियेत संघ]]
+[[xmf:სხუნუეფიშ სოციალისტური რესპუბლიკეფიშ რსხუ]]
+[[arz:الاتحاد السوفييتى]]
+[[mzn:شوروی]]
+[[ms:Kesatuan Republik Sosialis Soviet]]
+[[mdf:Советонь Соткс]]
+[[mn:Зөвлөлт Холбоот Улс]]
+[[my:ဆိုဗီယက်ပြည်ထောင်စု သမ္မတနိုင်ငံ]]
+[[nl:Sovjet-Unie]]
+[[nds-nl:Sovjet-Unie]]
+[[ne:सोवियत संघ]]
+[[ja:ソビエト連邦]]
+[[frr:Sowjetunion]]
+[[no:Sovjetunionen]]
+[[nn:Sovjetunionen]]
+[[nrm:Unnion Soviétique]]
+[[oc:Union de las Republicas Socialistas Sovieticas]]
+[[mhr:Совет Социализм Республик-влак Ушем]]
+[[uz:Sovet Sotsialistlik Respublikalari Ittifoqi]]
+[[pa:ਸੋਵਿਅਤ ਸੰਘ]]
+[[pnb:سویت یونین]]
+[[pap:Union Sovietiko]]
+[[km:សហភាព​សូវៀត]]
+[[nds:Sowjetunion]]
+[[pl:Związek Socjalistycznych Republik Radzieckich]]
+[[pt:União Soviética]]
+[[crh:Şuralar Sotsialistik Cumhuriyetler Birligi]]
+[[ro:Uniunea Republicilor Sovietice Socialiste]]
+[[qu:Susyalista Suwit Republikakunap Huñun]]
+[[ru:Союз Советских Социалистических Республик]]
+[[sah:Сэбиэт Социалист Республикалар Холбоhуга]]
+[[se:Sovjetlihttu]]
+[[sco:Soviet Union]]
+[[stq:Sowjetunion]]
+[[sq:Bashkimi Sovjetik]]
+[[scn:Unioni Suviètica]]
+[[si:සෝවියට් සංගමය]]
+[[simple:Soviet Union]]
+[[sk:Sovietsky zväz]]
+[[sl:Sovjetska zveza]]
+[[cu:Съвѣтьскъ Социалистичьскъ Димократїи Съвѫꙁъ]]
+[[szl:Sojusz Socjalistycznych Sowjeckich Republik]]
+[[so:Midowga Sofiyet]]
+[[ckb:یەکێتیی سۆڤیەت]]
+[[sr:Савез Совјетских Социјалистичких Република]]
+[[sh:Sovjetski Savez]]
+[[su:Uni Soviét]]
+[[fi:Neuvostoliitto]]
+[[sv:Sovjetunionen]]
+[[tl:Unyong Sobyet]]
+[[ta:சோவியத் ஒன்றியம்]]
+[[tt:Sovet Sosialist Cömhüriätlär Berlege]]
+[[te:సోవియట్ యూనియన్]]
+[[th:สหภาพโซเวียต]]
+[[tg:Иттиҳоди Шӯравӣ]]
+[[tr:Sovyet Sosyalist Cumhuriyetler Birliği]]
+[[udm:Советской Социалистической Республикаослэн Союззы]]
+[[uk:Союз Радянських Соціалістичних Республік]]
+[[ur:سوویت اتحاد]]
+[[ug:سوۋېت ئىتتىپاقى]]
+[[za:Suhlienz]]
+[[vec:Union Sovietica]]
+[[vep:Nevondkundaližiden Socialistižiden Tazovaldkundoiden Ühtištuz]]
+[[vi:Liên Xô]]
+[[fiu-vro:Nõvvokogo Liit]]
+[[wa:URSS]]
+[[zh-classical:蘇聯]]
+[[war:Unyon Sobyet]]
+[[wo:Soviet Yi Benno]]
+[[yi:סאוועטן פארבאנד]]
+[[yo:Ìsọ̀kan Sófìẹ̀tì]]
+[[zh-yue:蘇聯]]
+[[diq:Yewina Sowyeti]]
+[[bat-smg:Tarību Sājonga]]
+[[zh:苏联]]</text>
+      <sha1>hr5g8v6qd88zfhv22nyjkdnucgu2sk0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

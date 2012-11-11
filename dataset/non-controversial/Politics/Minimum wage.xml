@@ -1,0 +1,382 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Minimum wage</title>
+    <ns>0</ns>
+    <id>18862</id>
+    <revision>
+      <id>522153641</id>
+      <parentid>522151173</parentid>
+      <timestamp>2012-11-09T10:04:17Z</timestamp>
+      <contributor>
+        <username>Lawrencekhoo</username>
+        <id>461895</id>
+      </contributor>
+      <comment>/* Card and Krueger */ Add recent finding</comment>
+      <text xml:space="preserve" bytes="67332">{{Use mdy dates|date=September 2012}}
+{{labour}}
+A '''minimum wage''' is the lowest hourly, daily or monthly [[remuneration]] that employers may legally pay to workers. Equivalently, it is the lowest [[wage]] at which workers may sell their labor. Although minimum wage [[laws]] are in effect in many jurisdictions, differences of opinion exist about the benefits and drawbacks of a minimum wage. 
+
+Supporters of the minimum wage say that it increases the standard of living of workers, reduces poverty, and forces businesses to be more efficient. Opponents say that if it is high enough to be effective, it increases unemployment, particularly among workers with very low productivity due to inexperience or handicap, thereby harming less skilled workers and possibly excluding some groups from the labor market; additionally it is less effective and more damaging to businesses than other methods of reducing poverty.&lt;ref name='Oxford'&gt;{{cite book | last = Black | first = John | authorlink = | coauthors = | title = Oxford Dictionary of Economics | publisher = Oxford University Press, USA | date = September 18, 2003 | location = | page = 300 | url = http://www.amazon.com/dp/0198607679 | doi = | id = | isbn = }}&lt;/ref&gt;
+
+==History==
+{{main|History of the minimum wage}}
+[[Image:1903sweatshopchicago.jpg|thumb|right|A [[sweatshop]] in [[Chicago]], Illinois in 1903]]
+
+The minimum wage has a strong social appeal, rooted in concern about the ability of markets to provide [[Economic inequality|income equity]] for the least able members of the work force. For some people, the obvious solution to this concern is to redefine the wage structure politically to achieve a socially preferable distribution of income. Thus, minimum wage laws have usually been judged against the criterion of reducing poverty.&lt;ref name='Palgrave1987'&gt;{{cite book | last = Eatwell | first = John, Ed. | authorlink = | coauthors = Murray Milgate, Peter Newman | title = The New Palgrave: A Dictionary of Economics | publisher = The Macmillan Press Limited | year = 1987 | location = London | pages = 476–478 | url = | doi = | id = | isbn = 0-333-37235-2 }}&lt;/ref&gt;
+
+Statutory minimum wages were also proposed as a way to control the proliferation of [[sweat shop]]s in [[manufacturing]] industries. The sweat shops employed large numbers of women and young workers, paying them what were considered to be substandard wages. The sweatshop owners were thought to have unfair bargaining power over their workers, and a minimum wage was proposed as a means to make them pay &quot;fairly&quot;. Over time, the focus changed to helping people, especially families, become more self-sufficient. Today, minimum wage laws affect workers in most low-paid fields of employment.&lt;ref name='Neumark'&gt;{{cite book | last = Neumark | first = David | authorlink = | coauthors = William L. Wascher | title = Minimum Wages | publisher = The MIT Press | year = 2008 | location = Cambridge, Massachusetts | pages = | url = http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11659 | doi = | id = | isbn = 978-0-262-14102-4 }}&lt;/ref&gt;
+
+Although the goals of the minimum wage are widely accepted as proper, there is great disagreement as to whether the minimum wage is effective in attaining its goals. From the time of their introduction, minimum wage laws have been highly controversial politically, and have received much less support from economists than from the general public. Despite decades of experience and economic research, debates about the costs and benefits of minimum wages continue today.&lt;ref name=&quot;Neumark&quot;/&gt;
+
+The classic exposition of the minimum wage's shortcomings in reducing poverty was provided by [[George Stigler]] in 1946:
+* Employment may fall more than in proportion to the wage increase, thereby reducing overall earnings;
+* As uncovered sectors of the economy absorb workers released from the covered sectors, the decrease in wages in the uncovered sectors may exceed the increase in wages in the covered ones;
+* The impact of the minimum wage on family income distribution may be negative unless the fewer but better jobs are allocated to members of needy families rather than to, for example, teenagers from families not in poverty;
+* Forbidding employers to pay less than a legal minimum is equivalent to forbidding workers to sell their labour for less than the minimum wage. The legal restriction that employers cannot pay less than a legislated wage is equivalent to the legal restriction that workers cannot work at all in the protected sector unless they can find employers willing to hire them at that wage.&lt;ref name=&quot;Palgrave1987&quot;/&gt;
+
+==Minimum wage law==
+{{Main|Minimum wage law}}First enacted in [[New Zealand]] in 1894,&lt;ref&gt;{{cite web|url=http://74.125.153.132/search?q=cache:BGJadOmw1JAJ:www.reference.com/browse/minimum%2Bwage+zealand+%22first+minimum+wage+law%22+1894&amp;cd=2&amp;hl=en&amp;ct=clnk |title=Minimum wage encyclopedia topics &amp;#124; Reference.com |publisher=74.125.153.132 |date= |accessdate=July 29, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://74.125.153.132/search?q=cache:E83FNT8k_-UJ:www.thefreelibrary.com/The%2Bbest%2Banti-poverty%2Bprogram%2Bwe%2Bhave%253F-a0203335454+zealand+%22first+minimum+wage+law%22+1894&amp;cd=4&amp;hl=en&amp;ct=clnk |title=The best anti-poverty program we have? - Free Online Library |publisher=74.125.153.132 |date= |accessdate=July 29, 2010}}&lt;/ref&gt; there is now legislation or binding collective bargaining regarding minimum wage in more than 90% of all countries.&lt;ref name=&quot;ILO 2006&quot;&gt;{{cite web|url=http://www.ilo.org/public/english/protection/condtrav/pdf/infosheets/w-1.pdf |title=ILO 2006: Minimum wages policy (PDF) |publisher=Ilo.org |date= |accessdate=March 1, 2012}}&lt;/ref&gt;
+
+Minimum wage rates vary greatly across many different jurisdictions, not only in setting a particular amount of money (e.g. [[United States dollar|US$]]7.25 per hour under U.S. Federal law (or 2.13 for employees who receive tips, known as the tipped minimum wage), $9.04 in the U.S. state of [[Washington (U.S. state)|Washington]],&lt;ref&gt;{{cite web|url=http://www.marketwatch.com/story/washington-is-first-state-with-9-minimum-wage-2012-01-01 |title=Washington is first state with $9 minimum wage |publisher=MarketWatch |date= |accessdate=March 1, 2012}}&lt;/ref&gt; and [[British pound|£]]6.08 (for those aged 21+) in the United Kingdom&lt;ref&gt;&quot;Minimum wage up by 15p to £6.08&quot;, BBC News, http://www.bbc.co.uk/news/business-13000171#b&lt;/ref&gt;), but also in terms of which pay period (e.g. Russia and [[People's Republic of China|China]] set monthly minimums) or the scope of coverage. Some jurisdictions allow employers to count tips given to their workers as credit towards the minimum wage level.
+&lt;!--
+PLEASE ADD ANY REGION-SPECIFIC INFO TO THE MAIN ARTICLE, [[Minimum wage law]].
+--&gt;
+
+===Informal minimum wages===
+Sometimes a minimum wage exists without a law. Custom and extra-legal pressures from governments or labor unions can produce a ''de facto'' minimum wage. So can international public opinion, by pressuring multinational companies to pay Third World workers wages usually found in more industrialized countries. The latter situation in Southeast Asia and Latin America has been publicized in recent years, but it existed with companies in West Africa in the middle of the 20th century.&lt;ref name='SowellBasic'&gt;{{cite book | last = Sowell | first = Thomas | authorlink = Thomas Sowell | coauthors = | title = Basic Economics (3rd Edition): A Common Sense Guide to the Economy | publisher = Basic Books | date = April 2, 2007 | location = New York | pages = | url = http://www.amazon.com/dp/0465002609 | doi = | id = | isbn = 0-465-00260-9 }} Minimum Wage Laws are covered on, pp. 210–221. The full text of an essentially identical section from a previous edition can be found at, p. 163 [http://books.google.com/books?id=ax6dsqMdPHQC&amp;dq=%22basic+economics%22+sowell&amp;printsec=frontcover&amp;source=bn&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=4&amp;ct=result#PPA163,M1 HERE]&lt;/ref&gt; Blanket minimum wage levels for all industries could also be set as a fixed percentage of the GDP per capita or the income tax threshold of the nation.
+
+===Considerations in fixing an initial minimum wage===
+Among the indicators that might be used to establish an initial minimum wage rate are ones that minimize the loss of jobs while preserving international competitiveness.&lt;ref&gt;''Provisional Minimum Wage Commission: Preliminary Views on a Bask of Indicators, Other Relevant Considerations and Impact Assessment,'' Provisional Minimum Wage Commission, Hong Kong Special Administrative Region Government, [http://www.labour.gov.hk/eng/rbo/Assessment.pdf]&lt;/ref&gt; Among these are general economic conditions as measured by real and nominal gross domestic product; inflation; labor supply and demand; wage levels, distribution and differentials; employment terms; productivity growth; labor costs; business operating costs; the number and trend of bankruptcies; [[Index of Economic Freedom|economic freedom]] rankings; standards of living and the prevailing average wage rate.
+
+In the business sector, concerns include the expected increased cost of doing business, threats to profitability, rising levels of unemployment (and subsequent higher government expenditure on welfare benefits raising tax rates), and the possible knock-on effects to the wages of more experienced workers who might already be earning the new statutory minimum wage, or slightly more.&lt;ref&gt;''Setting the Initial Statutory Minimum Wage Rate,'' submission to government by the Hong Kong General Chamber of Commerce.&lt;/ref&gt;
+
+Among workers and their representatives, political consideration weigh in as labor leaders seek to win support by demanding the highest possible rate.
+&lt;ref&gt;Li, Joseph, &quot;Minimum wage legislation for all sectors,&quot; China Daily October 16, 2008 [http://www.chinadaily.com.cn/hkedition/2008-10/16/content_7110239.htm], &quot;Hong Kong sets Minimum Wage – What one Singaporean thinks,&quot; ''Speaker’s Corner,'' SG Forums, November 5, 2010 [http://politics.sgforums.com/forums/10/topics/410537?page=11]&lt;/ref&gt;  Other concerns include purchasing power, inflation indexing and standardized working hours.
+
+In the United States, the minimum wage promulgated by the Fair Labor Standards Act of 1938 was intentionally set at a high, national level to render low-technology, low-wage factories in the South obsolete.&lt;ref&gt;Berstein, David E., &amp; Leonard, Thomas C., Excluding Unfit Workers: Social Control Versus Social Justice in the Age of Economic Reform, Law and Contemporary Problems, Vol. 72, No. 3, 2009 [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1533570]&lt;/ref&gt;
+
+==Economics of the minimum wage==
+
+===Simple supply and demand===
+{{Main|Supply and demand}}
+An analysis of supply and demand of the type shown in introductory [[mainstream economics]] textbooks implies that by mandating a price floor above the equilibrium wage, minimum wage laws should cause [[unemployment]].&lt;ref name=MB&gt;McConnell, C.R. and S.L. Brue, &lt;u&gt;Economics&lt;/u&gt;, Irwin-McGraw Hill, 1999, 14th ed., p. 594.&lt;/ref&gt;&lt;ref name=GSSM&gt;Gwartney, J.D., R.L. Stroup, R.S. Sobel, and D.A. Macpherson, &lt;u&gt;Economics: Private and Public Choice&lt;/u&gt;, Thomson South-Western, 2003, 10th ed., p. 97.&lt;/ref&gt; This is because a greater number of people are willing to work at the higher wage while a smaller numbers of jobs will be available at the higher wage. Companies can be more selective in those whom they employ thus the least skilled and least experienced will typically be excluded. An imposition or increase of a minimum wage will generally only effect employment in the low-skill labor market, as the equilibrium wage is already at or below the minimum wage, whereas in higher skill labor markets the equilibrium wage is too high for a change in minimum wage to affect employment.&lt;ref name=M&gt;Mankiw, N. Gregory. Principles of Macroeconomics. South-Western Pub, 2011, 6th ed., p.311. Print.&lt;/ref&gt;
+
+According to the model shown in nearly all introductory textbooks on economics, increasing the minimum wage decreases the employment of minimum-wage workers.&lt;ref name=&quot;Card&amp;Krueger&quot;/&gt; One such textbook says:
+&lt;blockquote&gt;
+If a higher minimum wage increases the wage rates of unskilled workers above the level that would be established by market forces, the quantity of unskilled workers employed will fall. The minimum wage will price the services of the least productive (and therefore lowest-wage) workers out of the market. ... The direct results of minimum wage legislation are clearly mixed. Some workers, most likely those whose previous wages were closest to the minimum, will enjoy higher wages. This is known as the &quot;ripple effect&quot;. The ripple effect shows that when you increase the minimum wage the wages of all others will consequently increase due the need for relativity. (Formby, J., Bishop, J., &amp; Kim, H.. (2010). The Redistributive Effects and Cost-Effectiveness of Increasing the Federal Minimum Wage. Public Finance Review, 38(5), 585.  Retrieved April 18, 2012, from ABI/INFORM Global. (Document ID: 2140268271).) Others, particularly those with the lowest prelegislation wage rates, will be unable to find work. They will be pushed into the ranks of the unemployed or out of the labor force. Some argue that by increasing the federal minimum wage, however, the economy will be adversely affected due to small businesses not being able to keep up with the need to subsequently increase all workers wages. (Belman, D., &amp; Wolfson, P.. (2010). The Effect of Legislated Minimum Wage Increases on Employment and Hours: A Dynamic Analysis. Labour, 24(1), 1–25.  Retrieved April 18, 2012, from ABI/INFORM Global. (Document ID: 1960232931).) &lt;ref name='Gwartney'&gt;{{cite book | last = Gwartney | first = James D. | authorlink = | coauthors = Richard L. Stroup | title = Economics: Private and Public Choice | publisher = Harcourt Brace Jovanovich | date = | location = New York | pages = 559–562 | url = | doi = | id = | isbn = 0-15-518880-1 }}&lt;/ref&gt;
+&lt;/blockquote&gt;
+It illustrates the point with a supply and demand diagram similar to the one below.
+
+[[Image:Wage labour.svg|thumb|350px|Graph showing the [[mainstream economics|mainstream]] conception of the labour market]]
+It is assumed that workers are willing to labor for more hours if paid a higher wage. Economists graph this relationship with the wage on the vertical axis and the quantity (hours) of labor supplied on the horizontal axis. Since higher wages increase the quantity supplied, the supply of labor curve is upward sloping, and is shown as a line moving up and to the right.&lt;ref name=Ehren&gt;Ehrenberg, R. and Smith, R. &quot;Modern labor economics: theory and public policy&quot;, HarperCollins, 1994, 5th ed.&lt;/ref&gt;
+
+A firm's cost is a function of the wage rate. It is assumed that the higher the wage, the fewer hours an employer will demand of an employee. This is because, as the wage rate rises, it becomes more expensive for firms to hire workers and so firms hire fewer workers (or hire them for fewer hours). The demand of labor curve is therefore shown as a line moving down and to the right.&lt;ref name=Ehren/&gt;
+
+Combining the demand and supply curves for labor allows us to examine the effect of the minimum wage. We will start by assuming that the supply and demand curves for labor will not change as a result of raising the minimum wage. This assumption has been questioned.{{Citation needed|date=May 2011}} If no minimum wage is in place, workers and employers will continue to adjust the quantity of labor supplied according to price until the quantity of labor demanded is equal to the quantity of labor supplied, reaching [[Economic equilibrium|equilibrium price]], where the supply and demand curves intersect. Minimum wage behaves as a classical [[price floor]] on labor. Standard theory says that, if set above the equilibrium price, more labor will be willing to be provided by workers than will be demanded by employers, creating a [[Economic surplus|surplus]] of labor, ''i.e.'', unemployment.&lt;ref name=Ehren/&gt;
+
+In other words, the simplest and most basic economics says this about commodities like labor (and wheat, for example): Artificially raising the price of the commodity tends to cause the supply of it to increase and the demand for it to lessen. The result is a surplus of the commodity. When there is a wheat surplus, the government buys it. Since the government doesn't hire surplus labor, the labor surplus takes the form of unemployment, which tends to be higher with minimum wage laws than without them.&lt;ref name=&quot;SowellBasic&quot;/&gt;
+
+So the basic theory says that raising the minimum wage helps workers whose wages are raised, and hurts people who are not hired (or lose their jobs) because companies cut back on employment. But proponents of the minimum wage hold that the situation is much more complicated than the basic theory can account for.
+
+One complicating factor is possible [[monopsony]] in the labor market, whereby the individual employer has some market power in determining wages paid. Thus it is at least theoretically possible that the minimum wage may boost employment. Though single employer market power is unlikely to exist in most labor markets in the sense of the traditional '[[company town]],' asymmetric information, imperfect mobility, and the 'personal' element of the labor transaction give some degree of wage-setting power to most firms.&lt;ref&gt;William M. Boal and Michael R. Ransom, &quot;Monopsony in the Labor Market&quot;, Journal of Economic Literature, V.35, March, pp. 86–112 [http://ideas.repec.org/a/aea/jeclit/v35y1997i1p86-112.html]&lt;/ref&gt;
+
+===Criticism of the &quot;textbook model&quot;===
+The argument that minimum wages decrease employment is based on a simple supply and demand model of the labor market. A number of economists (for example Pierangelo Garegnani,&lt;ref&gt;P. Garegnani, &quot;Heterogeneous Capital, the Production Function and the Theory of Distribution&quot;, ''Review of Economic Studies'', V. 37, N. 3 (July  1970): pp. 407–436&lt;/ref&gt; Robert L. Vienneau,&lt;ref&gt;Robert L. Vienneau, &quot;On Labour Demand and Equilibria of the Firm&quot;, ''Manchester School'', V. 73, N. 5 (September  2005): pp. 612–619&lt;/ref&gt; and Arrigo Opocher &amp; Ian Steedman&lt;ref&gt;Arrigo Opocher and Ian Steedman, &quot;Input Price-Input Quantity Relations and the Numeraire&quot;, ''Cambridge Journal of Economics'', V. 3 (2009): pp. 937–948&lt;/ref&gt;), building on the work of [[Piero Sraffa]], argue that that model, even given all its assumptions, is logically incoherent. Michael Anyadike-Danes and Wyne Godley &lt;ref&gt;Michael Anyadike-Danes and Wyne Godley, &quot;Real Wages and Employment: A Sceptical View of Some Recent Empirical Work&quot;, ''Machester School'', V. 62, N. 2 (June  1989): pp. 172–187&lt;/ref&gt; argue, based on simulation results, that little of the empirical work done with the textbook model constitutes a potentially falsifying test, and, consequently, empirical evidence hardly exists for that model. Graham White &lt;ref&gt;Graham White, &quot;The Poverty of Conventional Economic Wisdom and the Search for Alternative Economic and Social Policies&quot;, ''The Drawing Board: An Australian Review of Public Affairs'', V. 2, N. 2 (November  2001): pp. 67–87&lt;/ref&gt; argues, partially on the basis of Sraffianism, that the policy of increased labor market flexibility, including the reduction of minimum wages, does not have an &quot;intellectually coherent&quot; argument in economic theory.
+
+Gary Fields, Professor of Labor Economics and Economics at [[Cornell University]], argues that the standard &quot;textbook model&quot; for the minimum wage is &quot;ambiguous&quot;, and that the standard theoretical arguments incorrectly measure only a one-sector market. Fields says a two-sector market, where &quot;the self-employed, service workers, and farm workers are typically excluded
+from minimum-wage coverage… [and with] one sector with minimum-wage coverage and the other without it [and possible mobility between the two],&quot; is the basis for better analysis. Through this model, Fields shows the typical theoretical argument to be ambiguous and says &quot;the predictions derived from the textbook model definitely do not carry over to the two-sector case. Therefore, since a non-covered sector exists nearly everywhere, the predictions of the textbook model simply cannot be relied on.&quot;&lt;ref&gt;Gary Fields, &quot;The Unemployment Effects of Minimum Wages,&quot; ''International Journal of Manpower'', Vol. 15, issue 2 (1994), pp. 74–81.&lt;/ref&gt;
+
+An alternate view of the labor market has low-wage labor markets characterized as [[monopsonistic competition]] wherein buyers (employers) have significantly more [[market power]] than do sellers (workers). This monopsony could be a result of intentional collusion between employers, or naturalistic factors such as segmented markets, search costs, information costs, imperfect mobility and the 'personal' element of labor markets. In such a case the diagram above would not yield the quantity of labor clearing and the wage rate. This is because while the upward sloping aggregate labor supply would remain unchanged, instead of using the downward labor demand curve shown in the diagram above, monopsonistic employers would use a steeper downward sloping curve corresponding to marginal expenditures to yield the intersection with the supply curve resulting in a wage rate lower than would be the case under competition. Also, the amount of labor sold would also be lower than the competitive optimal allocation.
+
+Such a case is a type of [[market failure]] and results in workers being paid less than their marginal value. Under the monopsonistic assumption, an appropriately set minimum wage could increase both [[wages]] and [[employment]], with the optimal level being equal to the [[marginal productivity]] of labor.&lt;ref name=&quot;Manning2003&quot;&gt;{{cite book |title=Monopsony in motion: Imperfect Competition in Labor Markets |last=Manning |first=Alan |authorlink= |coauthors= |year=2003 |publisher=Princeton University Press |location=Princeton, NJ |isbn=0-691-11312-2 |pages= }}&lt;/ref&gt; This view emphasizes the role of minimum wages as a [[regulated market|market regulation]] policy akin to [[antitrust]] policies, as opposed to an illusory &quot;[[free lunch]]&quot; for low-wage workers.
+
+Another reason minimum wage may not affect employment in certain industries is that the demand for the product the employees produce is highly inelastic;&lt;ref&gt;{{cite book|author=Gillespie, Andrew|title=Foundations of Economics|page=240|publisher=Oxford University Press|year=2007}}&lt;/ref&gt; For example, if management is forced to increase wages, management can pass on the increase in wage to consumers in the form of higher prices. Since demand for the product is highly inelastic, consumers continue to buy the product at the higher price and so the manager is not forced to lay off workers. Economist [[Paul Krugman]] argues this explanation neglects to explain why the firm was not charging this higher price absent the minimum wage.&lt;ref&gt;{{cite book|author=Krugman, Paul|title=Economics|page=385|publisher=Worth Publishers|year=2013}}&lt;/ref&gt;
+
+Three other possible reasons minimum wages do not affect employment were suggested by [[Alan Blinder]]: higher wages may reduce [[turnover (employment)|turnover]], and hence training costs; raising the minimum wage may &quot;render moot&quot; the potential problem of recruiting workers at a higher wage than current workers; and minimum wage workers might represent such a small proportion of a business's cost that the increase is too small to matter. He admits that he does not know if these are correct, but argues that &quot;the list demonstrates that one can accept the new empirical findings and still be a card-carrying economist.&quot;&lt;ref&gt;Alan S. Blinder, &quot;The $5.15 Question,&quot; ''The New York Times'', May 23, 1996, p. A29.&lt;/ref&gt;
+
+==Debate over consequences==
+Various groups have great ideological, political, financial, and emotional investments in issues surrounding  minimum wage laws. For example, agencies that administer the laws have a vested interest in showing that &quot;their&quot; laws do not create unemployment, as do labour unions, whose members' jobs are protected by minimum wage laws. On the other side of the issue, low-wage employers such as restaurants finance the Employment Policies Institute, which has released numerous studies opposing the minimum wage.&lt;ref&gt;Harry Bernstein, &quot;Troubling Facts on Employment,&quot; ''Los Angeles Times'', September 15, 1992, p. D3; Eric Engquist, &quot;Health Bill Fight Nears Showdown,&quot; ''Crain's New York Business'', May 15, 2006, p. 1.&lt;/ref&gt; The presence of these powerful groups and factors means that the debate on the issue is not always based on dispassionate analysis. Additionally, it is extraordinarily difficult to separate the effects of minimum wage from all the other variables that affect employment.&lt;ref name=&quot;SowellBasic&quot;/&gt;
+
+The following table summarizes the arguments made by those for and against minimum wage laws:
+
+{{MultiCol}}
+;Arguments in favour of Minimum Wage Laws
+
+Supporters of the minimum wage claim it has these effects:
+
+* Increases the standard of living for the poorest and most vulnerable class in society and raises average.&lt;ref name=&quot;EPI site&quot;&gt;[http://www.epi.org/publication/bp178/ Real Value of the Minimum Wage]&lt;/ref&gt;
+* Motivates and encourages employees to work harder&lt;ref name=&quot;freeman paper&quot;&gt;{{cite journal |author= Richard B. Freeman |title= Minimum Wages – Again! |version= |publisher= International Journal of Manpower |year= 1994 |url=  }}&lt;/ref&gt;
+* Stimulates consumption, by putting more money in the hands of low-income people who spend their entire paychecks.&lt;ref name=&quot;EPI site&quot; /&gt;
+* Increases the [[work ethic]] of those who earn very little, as employers demand more return from the higher cost of hiring these employees.&lt;ref name=&quot;EPI site&quot; /&gt;
+* Decreases the cost of government social welfare programs by increasing incomes for the lowest-paid.&lt;ref name=&quot;EPI site&quot; /&gt;
+*Encourages people to join the workforce rather than pursuing money through illegal means, e.g., [[Illegal drug trade|selling illegal drugs]] &lt;ref&gt;{{cite web|url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=545382 |title=Youth Crime and the Minimum Wage by Andrew Kallem :: SSRN |publisher=Papers.ssrn.com |date= |accessdate=October 5, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.epi.org/publications/entry/books_crimeandwork/ |title=Crime and work: What we can learn from the low-wage labor market &amp;#124; Economic Policy Institute |publisher=Epi.org |date=July 1, 2000 |accessdate=October 5, 2011}}&lt;/ref&gt;
+* Encourages efficiency and automation of industry.&lt;ref&gt;[[Bernard Semmel]], ''Imperialism and Social Reform: English Social-Imperial Thought 1895–1914'' (London: Allen and Unwin, 1960), p. 63.&lt;/ref&gt;
+* Removes low paying jobs, forcing workers to train for, and move to, higher paying jobs.&lt;ref&gt;{{cite web|url=http://www.itif.org/pressrelease/itif-report-shows-self-service-technology-new-force-economic-life |title=ITIF Report Shows Self-service Technology a New Force in Economic Life &amp;#124; The Information Technology &amp; Innovation Foundation |publisher=Itif.org |date=April 14, 2010 |accessdate=October 5, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://iis-db.stanford.edu/evnts/4651/TechnologyandLaborRegulations.pdf |title=Technology and Labor Regulations 1 |format=PDF |date= |accessdate=March 1, 2012}}&lt;/ref&gt;
+* Increases technological development. Costly technology that increases business efficiency is more appealing as the price of labour increases.&lt;ref&gt;{{cite web|url=http://www.hrsdc.gc.ca/eng/labour/employment_standards/fls/research/research11/page03.shtml |title=Minimum Wages in canada : theory, evidence and policy |publisher=Hrsdc.gc.ca |date=March 7, 2008 |accessdate=October 5, 2011}}&lt;/ref&gt;
+
+{{ColBreak}}
+
+;Arguments against Minimum Wage Laws
+
+Opponents of the minimum wage claim it has these effects:
+
+* As a labor market analogue of political-economic protectionism, it excludes low cost competitors from labor markets and hampers firms in reducing wage costs during trade downturns. This generates various industrial-economic inefficiencies.&lt;ref&gt;Abbott, Lewis F. ''Statutory Minimum Wage Controls: A Critical Review of their Effects on Labour Markets, Employment, and Incomes''. ISR Publications, Manchester UK, 2nd. edn. 2000. ISBN 978-0-906321-22-5. [http://books.google.co.uk/books?id=EZXStcdlFG8C&amp;dq=isbn:0906321220]&lt;/ref&gt;
+* Hurts small business more than large business.&lt;ref name=&quot;Llewellyn H. Rockwell Jr&quot;&gt;{{cite web|author=Llewellyn H. Rockwell Jr. |url=http://www.mises.org/story/1950 |title=Wal-Mart Warms to the State - Mises Institute |publisher=Mises.org |date=October 28, 2005 |accessdate=October 5, 2011}}&lt;/ref&gt;
+* Reduces quantity demanded of workers, either through a reduction in the number of hours worked by individuals, or through a reduction in the number of jobs.&lt;ref&gt;Tupy, Marian L. [http://www.nationalreview.com/comment/tupy200405140912.asp ''Minimum Interference''], National Review Online, May 14, 2004&lt;/ref&gt;&lt;ref name = &quot;The Wages of Politics&quot;&gt;{{cite news |url=http://www.opinionjournal.com/weekend/hottopic/?id=110009232 |title = The Wages of Politics |work = [[Wall Street Journal]]}}&lt;/ref&gt;
+* May cause price [[inflation]] as businesses try to compensate by raising the prices of the goods being sold.&lt;ref&gt;{{cite web|last=Messmore |first=Ryan |url=http://www.heritage.org/Research/Labor/BG1162.cfm |title=Increasing the Mandated Minimum Wage: Who Pays the Price? |publisher=Heritage.org |date= |accessdate=October 5, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Art Carden |url=http://www.mises.org/story/2377 |title=Why Wal-Mart Matters - Mises Institute |publisher=Mises.org |date= |accessdate=October 5, 2011}}&lt;/ref&gt;
+* Benefits some workers at the expense of the poorest and least productive.&lt;ref name=&quot;cato.org&quot;&gt;&quot;Will have only negative effects on the distribution of [[economic justice]]. Minimum-wage legislation, by its very nature, benefits some at the expense of the least experienced, least productive, and poorest workers.&quot; [http://www.cato.org/pubs/pas/pa106.html (Cato)]&lt;/ref&gt;
+* Can result in the exclusion of certain groups from the labor force.&lt;ref&gt;{{cite book |title=South Africa's War Against Capitalism |last=Williams |first=Walter |authorlink= |coauthors= |year=1989 |publisher=Praeger |location=New York |isbn=0-275-93179-X |pages= }}&lt;/ref&gt;
+* Small firms with limited payroll budgets cannot offer their most valuable employees fair and attractive wages above unskilled workers paid the artificially high minimum, and see a rising hurdle-cost of adding workers.&lt;ref name=&quot;Llewellyn H. Rockwell Jr&quot;/&gt;
+* Is less effective than other methods (e.g. the [[Earned Income Tax Credit]]) at reducing poverty, and is more damaging to businesses than those other methods.&lt;ref name=&quot;economist2006&quot;&gt;[http://www.economist.com/world/na/displaystory.cfm?story_id=8090466 A blunt instrument], ''[[The Economist]]'', October 26, 2006 {{en icon}}&lt;/ref&gt;
+* Discourages further education among the poor by enticing people to enter the job market.&lt;ref name=&quot;economist2006&quot;/&gt;
+* Discriminates against, through pricing out, less qualified workers (including newcomers to the labor market, e.g. young workers) by keeping them from accumulating work experience and qualifications, hence potentially graduating to higher wages later. (This may be a reason why trade unions press for minimum wages, i.e. to protect older workers on the job from the competition of younger, cheaper workers on the job market, for a given level of productivity.)
+{{EndMultiCol}}
+
+In 2006, the [[International Labour Organization]] (ILO)&lt;ref name=&quot;ILO 2006&quot;/&gt; argued that the minimum wage could not be directly linked to unemployment in countries that have suffered job losses. In April 2010, the [[Organisation for Economic Co-operation and Development]] (OECD)&lt;ref&gt;Scarpetta, Stephano, Anne Sonnet and Thomas Manfredi,''Rising Youth Unemployment During The Crisis: How To Prevent Negative Long-Term Consequences on a Generation?'', April 14, 2010 [http://www.olis.oecd.org/olis/2010doc.nsf/LinkTo/NT000028DE/$FILE/JT03281808.PDF (read-only PDF)]&lt;/ref&gt; released a report arguing that countries could alleviate teen unemployment by &quot;lowering the cost of employing low-skilled youth&quot; through a sub-minimum training wage.  A study of U.S. states showed that businesses' annual and average payrolls grow faster and employment grew at a faster rate in states with a minimum wage.&lt;ref&gt;Fiscal Policy Institute, &quot;States with Minimum Wages Above the Federal Level have had Faster Small Business and Retail Job Growth,&quot; March 30, 2006.&lt;/ref&gt; The study showed a correlation, but did not claim to prove causation.
+
+Although strongly opposed by both the business community and the [[Conservative Party (UK)|Conservative Party]] when introduced in 1999, the minimum wage introduced in the UK is no longer controversial and the Conservatives reversed their opposition in 2000.&lt;ref&gt;{{cite web|url=http://www.politics.co.uk/issue-briefs/economy/employment/national-minimum-wage/national-minimum-wage-$366581.htm |title= National Minimum Wage|publisher=politics.co.uk|accessdate=December 29, 2007 |archiveurl = http://web.archive.org/web/20071201162434/http://www.politics.co.uk/issue-briefs/economy/employment/national-minimum-wage/national-minimum-wage-$366581.htm |archivedate = December 1, 2007}}&lt;/ref&gt; A review of its effects found no discernible impact on employment levels.&lt;ref&gt;{{cite web|author=Metcalf, David|url=http://ideas.repec.org/p/cep/cepdps/dp0781.html|title=Why Has the British National Minimum Wage Had Little or No Impact on Employment?|month=April | year=2007}}&lt;/ref&gt; However, prices in the minimum wage sector were found to have risen significantly faster than prices in non-minimum wage sectors, most notably in the four years following the implementation of the minimum wage.&lt;ref&gt;{{cite web|author=Wadsworth, Jonathan|url=ftp://repec.iza.org/RePEc/Discussionpaper/dp4433.pdf|title=Did the National Minimum Wage Affect UK Prices|month=September | year=2009}}&lt;/ref&gt;
+
+Since the introduction of a national minimum wage in the [[United Kingdom|UK]] in 1999, its effects on employment were subject to extensive research and observation by the Low Pay Commission. The Low Pay Commission found that, rather than make employees redundant, employers have reduced their rate of hiring, reduced staff hours, increased prices, and have found ways to cause current workers to be more productive (especially service companies).&lt;ref name=&quot;LPC 2005&quot;&gt;Low Pay Commission (2005). [http://www.lowpay.gov.uk/lowpay/report/pdf/DTi-Min_Wage.pdf ''National Minimum Wage - Low Pay Commission Report 2005'']&lt;/ref&gt; Neither trade unions nor employer organizations contest the minimum wage, although the latter had especially done so heavily until 1999.
+
+==Empirical studies==
+
+[[Economists]] disagree as to the measurable impact of minimum wages in the 'real world'. This disagreement usually takes the form of competing [[empirical]] tests of the [[Elasticity (economics)|elasticities]] of [[Supply and demand|demand and supply]] in [[Labour economics|labor markets]] and the degree to which [[Market (economics)|markets]] differ from the efficiency that [[Economic model|models]] of [[perfect competition]] predict.
+
+Economists have done empirical studies on numerous aspects of the minimum wage, prominently including:&lt;ref name=&quot;Neumark&quot;/&gt;
+* Employment effects, the most frequently studied aspect
+* Effects on the distribution of wages and earnings among low-paid and higher-paid ''workers''
+* Effects on the distribution of incomes among low-income and higher-income ''families''
+* Effects on the skills of workers through job training and the deferring of work to acquire education
+* Effects on prices and profits
+* Effects on on-the-job training
+
+Until the mid-1990s, a strong consensus existed among economists, both conservative and liberal, that the minimum wage reduced employment, especially among younger and low-skill workers.&lt;ref name='Card&amp;Krueger'&gt;David Card and Alan B. Krueger, ''Myth and Measurement: The New Economics of the Minimum Wage'', Princeton University Press, 1995, pp. 1, 6–7.&lt;/ref&gt; In addition to the basic supply-demand intuition, there were a number of empirical studies that supported this view. For example, Gramlich (1976) found that many of the benefits went to higher income families, and in particular that teenagers were made worse off by the unemployment associated with the minimum wage.&lt;ref&gt;{{cite journal | last1 = Gramlich | first1 = Edward M.  | year = | title = Impact of Minimum Wages on Other Wages, Employment, and Family Incomes | url = | journal = Brookings Papers on Economic Activity | volume = 1976 | issue = 2| pages = 409–461 }}&lt;/ref&gt;
+
+Brown et al. (1983) note that time series studies to that point had found that for a 10 percent increase in the minimum wage, there was a decrease in teenage employment of 1–3 percent. However, for the effect on the teenage unemployment rate, the studies exhibited wider variation in their estimates, from zero to over 3 percent. In contrast to the simple supply/demand figure above, it was commonly found that teenagers withdrew from the labor force in response to the minimum wage, which produced the possibility of equal reductions in the supply as well as the demand for labor at a higher minimum wage and hence no impact on the unemployment rate. Using a variety of specifications of the employment and unemployment equations (using [[ordinary least squares]] vs. [[generalized least squares]] regression procedures, and linear vs. logarithmic specifications), they found that a 10 percent increase in the minimum wage caused a 1 percent decrease in teenage employment, and no change in the teenage unemployment rate. The study also found a small, but statistically significant, increase in unemployment for adults aged 20–24.&lt;ref&gt;Charles Brown, Curtis Gilroy, and Andrew Kohen &quot;Time Series Evidence on the Effect of the Minimum Wage on Youth Employment and Unemployment,&quot; ''The Journal of Human Resources'', Volume 18, no. 1 (Winter 1983), pp. 3–31.&lt;/ref&gt;
+
+Wellington (1991) updated Brown et al.'s research with data through 1986 to provide new estimates encompassing a period when the real (i.e., inflation-adjusted) value of the minimum wage was declining, because it had not increased since 1981. She found that a 10% increase in the minimum wage decreased the absolute teenage employment by 0.6%, with no effect on the teen or young adult unemployment rates.&lt;ref&gt;Alison J. Wellington, &quot;Effects of the Minimum Wage on the Employment Status of Youths: An Update,&quot; ''Journal of Human Resources'', Volume 26, no. 1 (Winter 1991), pp. 27–46.&lt;/ref&gt;
+
+Some research suggests that the unemployment effects of small minimum wage increases are dominated by other factors.&lt;ref&gt;{{cite web|url=http://www.epi.org/content.cfm/bp178 |title=Minimum wage trends: Understanding past and contemporary research &amp;#124; Economic Policy Institute |publisher=Epi.org |date= |accessdate=October 5, 2011}}&lt;/ref&gt; In Florida, where voters approved an increase in 2004, a follow-up comprehensive study confirms a strong economy with increased employment above previous years in Florida and better than in the U.S. as a whole.&lt;ref&gt;[http://www.risep-fiu.org/reports/Florida_Minimum_Wage_Report.pdf]{{dead link|date=July 2010}}&lt;/ref&gt;
+
+When it comes to on-the-job training, some believe the increase in wages is taken out of training expenses. A 2001 empirical study found that there is &quot;no evidence that minimum wages reduce training, and little evidence that they tend to increase training.&quot;&lt;ref&gt;{{cite web|author=Acemoglu, Daron &amp; Pischke, Jörn-Steffen |url=http://ideas.repec.org/p/iza/izadps/dp384.html |title=Minimum Wages and On-the-Job Training |publisher=Ideas.repec.org |date=November 5, 2001 |accessdate=October 5, 2011}}&lt;/ref&gt;
+
+===Card and Krueger===
+
+In 1992, the minimum wage in New Jersey increased from $4.25 to $5.05 per hour (an 18.8% increase) while the adjacent state of Pennsylvania remained at $4.25. [[David Card]] and [[Alan B. Krueger|Alan Krueger]] gathered information on fast food restaurants in New Jersey and eastern Pennsylvania in an attempt to see what effect this increase had on employment within New Jersey. Basic economic theory would have implied that relative employment should have decreased in New Jersey. Card and Krueger surveyed employers before the April 1992 New Jersey increase, and again in November–December 1992, asking managers for data on the full-time equivalent staff level of their restaurants both times.&lt;ref&gt;David Card and Alan B. Krueger, &quot;Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania,&quot; ''American Economic Review'', Volume 84, no. 4 (September 1994), pp. 774–775.&lt;/ref&gt; Based on data from the employers' responses, the authors concluded that the increase in the minimum wage increased employment in the New Jersey restaurants.&lt;ref&gt;p. 792.&lt;/ref&gt;
+
+One possible explanation for why the current minimum wage laws may not affect unemployment in the United States is that the minimum wage is set close to the equilibrium point for low and unskilled workers. Thus in the absence of the minimum wage law unskilled workers would be paid approximately the same amount. However, an increase above this equilibrium point could likely bring about increased unemployment for the low and unskilled workers.&lt;ref name=Ehren/&gt;
+
+Card and Krueger expanded on this initial article in their 1995 book ''Myth and Measurement: The New Economics of the Minimum Wage''.&lt;ref&gt;ISBN 0-691-04823-1&lt;/ref&gt; They argued that the negative employment effects of minimum wage laws are minimal if not non-existent. For example, they look at the 1992 increase in New Jersey's minimum wage, the 1988 rise in California's minimum wage, and the 1990–91 increases in the federal minimum wage. In addition to their own findings, they reanalyzed earlier studies with updated data, generally finding that the older results of a negative employment effect did not hold up in the larger datasets.
+
+In subsequent research, David Neumark and William Wascher attempted to verify Card and Krueger's results by using administrative payroll records from a sample of large fast food restaurant chains in order to verify employment. They found that the minimum wage increases were followed by decreases in employment. On the other hand, an assessment of data collected and analyzed by Neumark and Wascher did not initially contradict the Card/Krueger results,&lt;ref&gt;[http://www.epinet.org/briefingpapers/minimumw_bp_1996.pdf ]{{dead link|date=October 2011}}&lt;/ref&gt; but in a later edited version they found that the same general sample had a small negative effect on employment, and reported that the 18.8% wage hike resulted in &quot;[statistically] insignificant—although almost always negative&quot; employment effects.&lt;ref name=&quot;AER&quot;&gt;Neumark &amp; Wascher, ''American Economic Review'', Volume 90 No. 5.&lt;/ref&gt; A recent paper has reconciled the difference between Card and Krueger's survey data and Neumark and Wascher's payroll-based data. The paper shows that both datasets evidence conditional employment effects that are positive for small but negative for large fast-food restaurants.&lt;ref&gt;{{cite journal|last=Ropponen|first=Olli Tapani|title=Reconciling the evidence of Card and Krueger (1994) and Neumark and Wascher (2000)|journal=Journal of Applied Econometrics|year=2011|volume=26|issue=6|pages=1051-1057|url=http://onlinelibrary.wiley.com/doi/10.1002/jae.1258/abstract|accessdate=9 November 2012}}&lt;/ref&gt;
+
+===Reaction to Card and Krueger===
+
+Some economists such as Nobel laureate [[Gary Becker]] do not accept the Card/Krueger results.&lt;ref&gt;{{cite web | last = Becker| first = Gary | authorlink = Gary Becker | title = IT'S SIMPLE: HIKE THE MINIMUM WAGE, AND YOU PUT PEOPLE OUT OF WORK | publisher = [[BusinessWeek]] | date = March 6, 1995 | url = http://www.businessweek.com/archives/1995/b341430.arc.htm | accessdate =July 9, 2009}}&lt;/ref&gt; Critics of Card and Krueger argue that their research was flawed.&lt;ref name = &quot;cato&quot;&gt;{{cite news |url=http://www.cato.org/pubs/journal/cj15n1-8.html |publisher=Cato Institute|title=Myth and Measurement: The New Economics of the Minimum Wage |date=April 22, 2006}}&lt;/ref&gt; However, some other economists, like Nobel laureates [[Paul Krugman]]&lt;ref&gt;[[Paul Krugman|Krugman, Paul]], ''[[The Conscience of a Liberal]]'' (W.W. Norton &amp; Co., 2007)&lt;/ref&gt; and [[Joseph Stiglitz]],&lt;ref&gt;{{cite journal | last1 = Stiglitz | first1 = Joseph  | year = | title = Employment, social justice and societal well-being | url = http://www2.gsb.columbia.edu/faculty/jstiglitz/download/2002_Emploi_justice_sociale.pdf | format = PDF | journal = International Labour Review | volume = 141 | issue = 1–2| pages = 9–29 }}&lt;/ref&gt;  accept the results and argue for a higher minimum wage. &lt;ref name=&quot;Petition&quot;&gt;Economic Policy Institute. [http://www.epi.org/minwage/epi_minimum_wage_2006.pdf Hundreds of Leading Economists Say: Raise the Minimum Wage]&lt;/ref&gt; 
+
+According to economists Donald Deere ([[Texas A&amp;M University|Texas A&amp;M]]), [[Kevin M. Murphy|Kevin Murphy]] ([[University of Chicago]]), and Finis Welch (Texas A&amp;M), Card and Krueger's conclusions are contradicted by &quot;common sense and past research&quot;. They conclude:&lt;ref&gt;[http://www.cato.org/pubs/regulation/regv18n1/v18n1-5.pdf Sense and Nonsense on the Minimum Wage]&lt;/ref&gt;
+{{quote|Each of the four studies examines a different piece of the minimum wage/employment relationship. Three of them consider a single state, and two of them look at only a handful of firms in one industry. From these isolated findings Card and Krueger paint a big picture wherein increased minimum wages do not decrease, and may increase, employment. Our view is that there is something wrong with this picture. Artificial increases in the price of unskilled laborers inevitably lead to their reduced employment; the conventional wisdom remains intact.}}
+
+Nobel laureate [[James M. Buchanan]] responded to the Card and Krueger study in the ''Wall Street Journal'', arguing:&lt;ref&gt;{{cite news | title = Minimum wage addendum | work = Wall Street Journal | pages = A20 | date = April 25, 1996}}&lt;/ref&gt;
+{{quote|...no self-respecting economist would claim that increases in the minimum wage increase employment. Such a claim, if seriously advanced, becomes equivalent to a denial that there is even minimum scientific content in economics, and that, in consequence, economists can do nothing but write as advocates for ideological interests. Fortunately, only a handful of economists are willing to throw over the teaching of two centuries; we have not yet become a bevy of camp-following whores.}}
+
+Alan Krueger responded in ''The Washington Post'':&lt;ref&gt;Alan Krueger, &quot;Test Case for the Labor Market,&quot; ''The Washington Post'', September 2, 1996, p. A23.&lt;/ref&gt;
+{{quote|More was at stake here than the minimum wage – the methodology of public policy analysis was also at issue. Some economists, such as James Buchanan, have simply rejected the notion that their view of economic theory possibly could be proved wrong by data.}}
+
+Nobel laureate Paul Krugman, has argued in favour of the Card and Krueger result, stating that Card and Krueger;&lt;ref&gt;Krugman, Paul, ''The Conscience of a Liberal'', W.W. Norton, 2007, p. 261&lt;/ref&gt;
+{{quote|... found no evidence that minimum wage increases in the range that the United States has experiences led to job losses. Their work has been attacked because it seems to contradict Econ 101 and because it was ideologically disturbing to many. Yet it has stood up very well to repeated challenges, and new cases confirming its results keep coming in.}}
+
+===Neumark and Wascher===
+
+In a 2008 book, [[David Neumark]] and William L. Wascher described their analysis of studies on the minimum wage, from several countries covering a period of over 50 years (but primarily from the 1990s onward).&lt;ref name=&quot;Neumark&quot;/&gt; According to the Neumark and Wascher, a large majority of the studies show negative effects for the minimum wage; those showing positive effects are few, questionable, and disproportionately discussed.
+
+Based on the published studies they considered, Neumark and Wascher conclude that the minimum wage is not good social policy. They emphasize three conclusions: First, while acknowledging Card and Krueger, they found that studies since the early 1990s have strongly pointed to a &quot;reduction in employment opportunities for low-skilled and directly affected workers.&quot; Second, they found some evidence that the minimum wage is harmful to poverty-stricken families, and &quot;virtually no evidence&quot; that it helps them. Third, they found that the minimum wage lowers adult wages of young workers who encounter it, by reducing their ultimate level of education.
+
+===Statistical meta-analyses===
+
+Several researchers have conducted statistical [[meta-analysis|meta-analyses]] of the employment effects of the minimum wage. In 1995, Card and Krueger analyzed 14 earlier time-series studies on minimum wages and concluded that there was clear evidence of [[publication bias]] (in favor of studies that found a statistically significant negative employment effect). They point out that later studies, which had more data and lower standard errors, did not show the expected increase in t-statistic (almost all the studies had a t-statistic of about two, just above the level of [[statistical significance]] at the .05 level).&lt;ref&gt;David Card and Alan B. Krueger, &quot;Time-series minimum-wage studies: a meta-analysis,&quot; ''American Economic Review'' 85: 238–243 (1995).&lt;/ref&gt; Though a serious methodological indictment, opponents of the minimum wage largely ignored this issue; as Thomas C. Leonard noted, &quot;The silence is fairly deafening.&quot;&lt;ref&gt;Thomas C. Leonard, &quot;The Very Idea of Applying Economics: The Modern Minimum-Wage Controversy and its Antecedents,&quot; ''History of Political Economy'' 32 (1), p. 139 (2000).&lt;/ref&gt; 
+
+In 2005, T.D. Stanley showed that Card and Krueger's results could signify either publication bias or the absence of a minimum wage effect. However, using a different methodology, Stanley concludes that there is evidence of publication bias, and that correction of this bias shows no relationship between the minimum wage and unemployment.&lt;ref&gt;T.D. Stanley, &quot;Beyond Publication Bias&quot;, ''Journal of Economic Surveys'', Vol. 19, no. 3 (2005), pp. 322–327.&lt;/ref&gt; In 2008, Hristos Doucouliagos and T.D. Stanley conducted a similar meta-analysis of 64 U.S. studies on dis-employment effects and concluded that Card and Krueger's initial claim of publication bias is still correct. Moreover, they concluded, &quot;Once this publication selection is corrected, little or no evidence of a negative association between minimum wages and employment remains.&quot;&lt;ref&gt;Hristos Doucouliagos and T.D. Stanley, &quot;Publication Bias in Minimum-Wage Research? A Meta-Regression Analysis,&quot; ''British Journal of Industrial Relations'', 2008.&lt;/ref&gt;
+
+==Surveys of economists==
+
+Until the 1990s, economists generally agreed that raising the minimum wage reduced employment. This consensus was weakened when some well-publicized empirical studies showed the opposite, although others confirmed the original view. Today's consensus, if one exists, is that increasing the minimum wage has, at worst, minor negative effects.&lt;ref&gt;&quot;A Blunt Instrument; The Minimum Wage,&quot; ''The Economist'', October 28, 2006.&lt;/ref&gt;
+
+According to a 1978 article in the ''[[American Economic Review]]'', 90 percent of the economists surveyed agreed that the minimum wage increases unemployment among low-skilled workers.&lt;ref&gt;{{cite journal | last1 = Kearl | first1 = J. R. ''et al.'' | year = 1979 | title = A Confusion of Economists? | url = | journal = American Economic Review | volume = 69 | issue = | pages = 28–37 }}&lt;/ref&gt;
+
+A 1992 survey by published in the same journal revealed 79% of economists in agreement that a minimum wage increases unemployment among young and unskilled workers.&lt;ref&gt;{{cite journal | last = Alston | first = Richard M. | authorlink = | coauthors = J. R. Kearl, Michael B. Vaughn | title = Is There a Consensus Among Economists in the 1990's  | journal = [[American Economic Review]] | volume = | issue = | pages = | publisher = | location =
+ | date = May 1992 | language = | url = http://academic.research.microsoft.com/Paper/3280005 | jstor = | issn = | doi = | id = | mr = | zbl = | jfm = | accessdate = }}&lt;/ref&gt;
+
+A 2000 survey by Dan Fuller and Doris Geide-Stevenson reports that of a sample of 308 economists surveyed by the [[American Economic Association]], 45.6% fully agreed with the statement, &quot;a minimum wage increases unemployment among young and unskilled workers&quot;, 27.9% agreed with provisos, and 26.5% disagreed. The authors of this study also reweighted data from a 1990 sample to show that at that time 62.4% of academic economists agreed with the statement above, while 19.5% agreed with provisos and 17.5% disagreed. They state that the reduction on consensus on this question is &quot;likely&quot; due to the Card and Krueger research and subsequent debate.&lt;ref name=Fuller&gt;{{cite journal |last=Fuller |first=Dan |authorlink= |coauthors=Geide-Stevenson, Doris |year=2003 |month= |title=Consensus Among Economists: Revisited |journal=Journal of Economic Education |volume=34 |issue=4 |pages=369–387 |id= |url=http://www.indiana.edu/~econed/pdffiles/fall03/fuller.pdf |accessdate= |quote= |format=PDF |doi=10.1080/00220480309595230}}&lt;/ref&gt;
+
+A similar survey in 2006 by Robert Whaples polled PhD members of the American Economic Association. Whaples found that 37.7% of respondents supported an increase in the minimum wage, 14.3% wanted it kept at the current level, 1.3% wanted it decreased, and 46.8% wanted it completely eliminated.&lt;ref name=&quot;Whaples 2006&quot;&gt;Robert Whaples (2006) &quot;Do Economists Agree on Anything? Yes!,&quot; The Economists' Voice: Vol. 3 : Iss. 9, Article 1.&lt;/ref&gt;
+
+Another survey in 2007 conducted by the University of New Hampshire Survey Center found that 73% of labor economists surveyed in the United States believed a 150% of the then-current minimum wage would result in employment losses and 68% believed a mandated minimum wage would cause an increase in hiring of workers with greater skills. 31% felt that no hiring changes would result.&lt;ref&gt;http://epionline.org/studies/epi_minimumwage_07-2007.pdf&lt;/ref&gt;
+
+Surveys of labor economists have found a sharp split on the minimum wage. Fuchs et al. (1998) polled labor economists at the top 40 research universities in the United States on a variety of questions in the summer of 1996. Their 65 respondents were nearly evenly divided when asked if the minimum wage should be increased. They argued that the different policy views were not related to views on whether raising the minimum wage would reduce teen employment (the median economist said there would be a reduction of 1%), but on value differences such as income redistribution.&lt;ref&gt;Victor R. Fuchs, Alan B. Krueger, and James M. Poterba, &quot;Economists' Views About Parameters, Values, and Policies: Survey Results in Labor and Public Economics,&quot; ''Journal of Economic Literature'', Vol. 36, no. 3 (September 1998), pp. 1387–1425.&lt;/ref&gt; Daniel B. Klein and Stewart Dompe conclude, on the basis of previous surveys, &quot;the average level of support for the minimum wage is somewhat higher among labor economists than among AEA members.&quot;&lt;ref&gt;Klein, Daniel and Stewart Dompe. &quot;Reasons for Supporting the Minimum Wage: Asking Signatories of the &quot;Raise the Minimum Wage&quot; Statement&quot; (January 2007), p. 133.&lt;/ref&gt;
+
+In 2007, Klein and Dompe conducted a non-anonymous survey of supporters of the minimum wage who had signed the &quot;Raise the Minimum Wage&quot; statement published by the [[Economic Policy Institute]]. They found that a majority signed on the grounds that it transferred income from employers to workers, or equalized bargaining power between them in the labor market. In addition, a majority considered disemployment to be a moderate potential drawback to the increase they supported.&lt;ref&gt;Klein, Daniel and Stewart Dompe. &quot;Reasons for Supporting the Minimum Wage: Asking Signatories of the &quot;Raise the Minimum Wage&quot; Statement&quot; (January 2007). [http://econjwatch.org/articles/reasons-for-supporting-the-minimum-wage-asking-signatories-of-the-raise-the-minimum-wage-statement]&lt;/ref&gt;
+
+==Alternatives==
+
+Economists and other political commentators have proposed alternatives to the minimum wage. They argue that these alternatives may address the issue of poverty better than a minimum wage, as it would benefit a broader population of low wage earners, not cause any unemployment, and distribute the costs widely rather than concentrating it on employers of low wage workers.
+
+===Basic income===
+
+A [[basic income]] (or [[negative income tax]]) is a system of [[social security]], that periodically provides each [[citizen]] with a sum of money that is [[sufficient]] to live on. Except for citizenship, a basic income is entirely unconditional. There is no means test, and the richest as well as the poorest citizens would receive it. A basic income is often proposed in the form of a [[citizen's dividend]] (a transfer payment from the government). Proponents argue that a basic income that is based on a broad tax base, would be more economically efficient, as the minimum wage effectively imposes a high marginal tax on employers, causing [[deadweight loss|losses in efficiency]].
+
+In 1968 [[James Tobin]], [[Paul Samuelson]], [[John Kenneth Galbraith]] and another 1,200 economists signed a document calling for the [[US Congress]] to introduce in that year a system of [[Basic income guarantee|income guarantees]] and supplements.&lt;ref name=&quot;Steensland &quot;&gt;{{cite book|last=Steensland |first=Brian |title=The failed welfare revolution |publisher=Princeton University Press |year=2007 |pages=70–78|isbn=0-691-12714-X, 9780691127149}}&lt;/ref&gt; Both Tobin and Samuelson have also come out against the minimum wage.&lt;ref&gt;Emerson Schmidt, &quot;Union Power and the Public Interest&quot;, EP Dutton, 1980 as cited in [http://mason.gmu.edu/~trustici/archive/MINWAGE.pdf]&lt;/ref&gt; In the 1972 presidential campaign, Senator [[George McGovern]] called for a 'demogrant' that was very similar to a basic income.&lt;ref&gt;White, Theodore H. ''The Making of the President 1972''. Antheneum Publishers. 1973. pp. 17–20. ISBN 0-689-10553-3, p. 127&lt;/ref&gt;
+
+Winners of the [[Nobel Prize in Economics]] that fully support a basic income include [[Herbert A. Simon]],&lt;ref name=Standing/&gt; [[Friedrich Hayek]],&lt;ref&gt;{{cite book |last=Hayek |first=Friedrich |authorlink=Friedrich Hayek |title= Law, Legislation and Liberty: A New Statement of the Liberal Principles of Justice and Political Economy |volume=2 |year=1973 |publisher=Routledge |isbn=0-7100-8403-X |page=87 }}&lt;/ref&gt; [[Robert Solow]],&lt;ref name=Standing/&gt; [[Milton Friedman]],&lt;ref&gt;{{cite book |last=Friedman |first=Milton |authorlink=Milton Friedman |coauthors=Rose Friedman |title=Free to Choose: A Personal Statement |year=1990 |publisher=Harcourt |isbn=0-15-633460-7 |pages=120–3 }}&lt;/ref&gt; [[Jan Tinbergen]],&lt;ref name=Standing/&gt; [[James Tobin]]&lt;ref name=&quot;Steensland &quot;/&gt;&lt;ref&gt;''&quot;Is a Negative Income Tax Practical?&quot;'', James Tobin, Joseph A. Pechman, and Peter M. Mieszkowski, Yale Law Journal 77 (1967): pp. 1–27.&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=3649 |title=Interview with James Tobin - The Region - Publications &amp; Papers &amp;#124; The Federal Reserve Bank of Minneapolis |first=David |last=Fettig |work=minneapolisfed.org |year=2011 [last update] |quote=I would pursue my recommendations of years ago for a negative income tax. |accessdate=October 25, 2011}}&lt;/ref&gt;
+and [[James Meade]].&lt;ref name=Standing &gt;{{cite book|year=2005 |publisher=Anthem Press |location=London |isbn=978-1-84331-174-4 |title=Promoting Income Security as a Right: Europe and North America |chapter=1. About Time: Basic Income Security As A Right |page=18 |author=Guy Standing |edition=2nd |editor=Guy Standing |quote=Among those who have become convinced of the virtues of the basic income approach are several Nobel Prize-winning economists of surprisingly diverse political convictions: Milton Friedman, Herbert Simon, Robert Solow, Jan Tinbergen and James Tobin (besides, of course, James Meade who was an advocate from his younger days).}}&lt;/ref&gt;
+
+===Guaranteed minimum income===
+A [[guaranteed minimum income]] is another proposed system of [[social welfare provision]]. It is similar to a basic income or negative income tax system, except that it is normally conditional and subject to a means test. Some proposals also stipulate a willingness to participate in the [[labor market]], or a willingness to perform [[community services]].{{Citation needed|date=February 2010}}
+
+===Refundable tax credit===
+
+A [[refundable tax credit]] is a mechanism whereby the tax system can reduce the tax owed by a household to below zero, and result in a net payment to the taxpayer beyond their own payments into the tax system. Examples of refundable tax credits include the [[earned income tax credit]] and the additional [[child tax credit]] in the U.S., and [[working tax credit]]s and [[child tax credit]]s in the UK. Such a system is slightly different from a [[negative income tax]], in that the refundable tax credit is usually only paid to households that have earned at least some income.
+
+In the United States, earned income tax credit rates, also known as EITC or EIC, vary by state—some are refundable while other states do not allow a refundable tax credit.&lt;ref&gt;{{cite web|url=http://www.stateeitc.com/map/index.asp|title=50 State Resources Map on State EITCs |publisher=The Hatcher Group|accessdate=June 16, 2010}}&lt;/ref&gt; The federal EITC program has been expanded by a number of presidents including Jimmy Carter, Ronald Reagan, George H.W. Bush, and Bill Clinton.&lt;ref&gt;{{cite web|url=http://www.cbpp.org/cms/index.cfm?fa=view&amp;id=1649|title=New Research Findings on the Effects of the Earned Income Tax Credit |publisher=Center on Budget and Policy Priorities|accessdate=June 30, 2010}}&lt;/ref&gt; In 1986, President Reagan described the EITC as &quot;the best anti poverty, the best pro-family, the best job creation measure to come out of Congress.&quot; &lt;ref&gt;{{cite web|url=http://www.cbpp.org/cms/index.cfm?fa=view&amp;id=134|title=Tax Reform and Poverty |publisher=Center on Budget and Policy Priorities|accessdate=June 30, 2010}}&lt;/ref&gt; The ability of the earned income tax credit to deliver larger monetary benefits to poor workers than an increase in the minimum wage and at a lower cost to society was documented in a 2007 report by the [[Congressional Budget Office]].&lt;ref&gt;{{cite web|url=http://www.cbo.gov/ftpdocs/77xx/doc7721/01-09-MinimumWageEITC.pdf|title=Consequences of an increase in the minimum wage and expansions in the earned income tax credit. |publisher=Congressional Budget Office|accessdate=July 25, 2008|format=PDF}}&lt;/ref&gt;
+
+=== Collective bargaining ===
+
+Germany,&lt;ref&gt;{{cite web|url=http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/EN/Content/Statistics/VerdiensteArbeitskosten/Tarifverdienste/Mindestloehne/AktuellD,templateId=renderPrint.psml|title=Minimum wages only in some economic branches in Germany|publisher=Statistisches Bundesamt|accessdate=May 9, 2010}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; Italy, Sweden and Denmark are examples of developed nations where there is no minimum wage that is required by legislation. Instead, minimum wage standards in different sectors are set by [[collective bargaining]].{{Citation needed|date=February 2010}}
+
+==See also==
+{{col-begin}}
+{{col-2}}
+* [[Average worker's wage]]
+* [[List of minimum wages by country]]
+* [[Labour law]]
+* [[Living wage]]
+* [[Maximum wage]]
+* [[Minimum Wage Fixing Convention, 1970]]
+* [[Positive rights]]
+{{col-2}}
+* [[List of sovereign states in Europe by minimum wage]]
+* [[List of U.S. minimum wages]]
+* [[List of minimum wages in Canada]]
+* [[List of minimum wages in China (PRC)]]
+* [[Minimum wage history]]
+* ''[[Garcia v. San Antonio Metropolitan Transit Authority]]''
+* ''[[Nickel and Dimed]]''
+* ''[[Scratch Beginnings]]''
+* [[Wage slave]]
+{{col-end}}
+
+==Notes==
+{{reflist|2}}
+
+==References==
+* http://www.dol.gov/whd/minwage/coverage.htm
+
+==External links==
+* [http://www.ilo.org/travaildatabase/servlet/minimumwages Minimum wages database] from the [[International Labour Organization]] (a UN agency)
+* [http://www.bls.gov/cps/minwage2009.htm Characteristics of Minimum Wage Workers: 2009] U.S. Department of Labor Bureau of Labor Statistics
+* [http://www.dol.gov/dol/topic/wages/minimumwage.htm Find It! By Topic: Wages: Minimum Wage] U.S. Department of Labor
+* [http://www.bis.gov.uk/policies/employment-matters/rights/nmw The National Minimum Wage (U.K.)] (official UK government website)
+* [http://www.paycheck.in/main/salary/officialminimumwages Minimum Wage Rates in All States of India] from Paycheck India
+
+;Support
+* [http://www.raiseminwage.org The Minimum Wage: Information, Opinion, Research] (pro-minimum wage site with links to a variety of viewpoints)
+* [http://www.aflcio.org/issues/jobseconomy/livingwages/americaneedsaraise.cfm Issues about Minimum Wage] from the [[AFL-CIO]] (U.S. labor federation favoring the minimum wage)
+* [http://www.epi.org/publications/entry/issue_guide_on_minimum_wage/ Issue Guide on the Minimum Wage] from the [[Economic Policy Institute]]
+
+;Opposed
+* [http://www.cato-at-liberty.org/2009/07/24/reporting-the-minimum-wage/ Reporting the Minimum Wage] from [[The Cato Institute]] (U.S. libertarian organization opposed to the minimum wage)
+* [http://showmeinstitute.org/docLib/20070411_smi_study_2.pdf The Economic Effects of Minimum Wages] from [[Show-Me Institute]] (U.S. libertarian organization opposed to the minimum wage)
+* [http://steshaw.org/economics-in-one-lesson/chap19p1.html Economics in One Lesson: The Lesson Applied, Chapter 19: Minimum Wage Laws] by [[Henry Hazlitt]]
+
+{{commons category|Minimum wage}}
+{{Employment}}
+
+{{DEFAULTSORT:Minimum Wage}}
+[[Category:Macroeconomics]]
+[[Category:Labour relations]]
+[[Category:Labour law]]
+[[Category:Minimum wage| ]]
+[[Category:Socialism]]
+[[Category:Income distribution]]
+[[Category:Socioeconomics]]
+[[Category:Personal taxes]]
+[[Category:Employment compensation]]
+[[Category:Labor economics]]
+
+[[ar:حد أدنى للأجور]]
+[[az:Minimum əmək haqqı]]
+[[bg:Минимална работна заплата]]
+[[ca:Salari mínim]]
+[[cs:Minimální mzda]]
+[[da:Minimumsløn]]
+[[de:Mindestlohn]]
+[[et:Alampalk]]
+[[es:Salario mínimo]]
+[[eo:Minimuma salajro]]
+[[fr:Salaire minimum]]
+[[fy:Minimumlean]]
+[[ko:최저임금]]
+[[it:Salario minimo]]
+[[he:שכר מינימום]]
+[[kk:Ең төмен жалақы]]
+[[lb:Soziale Mindestloun]]
+[[lt:Minimalus darbo užmokestis]]
+[[hu:Minimálbér]]
+[[ms:Gaji minimum]]
+[[nl:Minimumloon]]
+[[ja:最低賃金]]
+[[no:Minstelønn]]
+[[pl:Płaca minimalna]]
+[[pt:Salário mínimo]]
+[[ro:Salariu minim pe economie]]
+[[ru:Минимальный размер оплаты труда]]
+[[simple:Minimum wage]]
+[[sl:Minimalna plača v Sloveniji]]
+[[sr:Минимални приход]]
+[[sh:Minimalna plata]]
+[[fi:Vähimmäispalkka]]
+[[sv:Minimilön]]
+[[th:ค่าแรงขั้นต่ำ]]
+[[tr:Asgari ücret]]
+[[uk:Мінімальна заробітна плата]]
+[[zh:最低工資]]</text>
+      <sha1>ldbdmjdz2ubr4n1y3lrcjtbw8rkric4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

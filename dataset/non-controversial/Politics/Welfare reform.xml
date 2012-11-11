@@ -1,0 +1,79 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Welfare reform</title>
+    <ns>0</ns>
+    <id>401875</id>
+    <revision>
+      <id>515723688</id>
+      <parentid>515723672</parentid>
+      <timestamp>2012-10-03T01:48:18Z</timestamp>
+      <contributor>
+        <username>Webclient101</username>
+        <id>16873363</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/209.129.241.3|209.129.241.3]] ([[User talk:209.129.241.3|talk]]). ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve" bytes="2178">[[File:Helping the homeless.jpg|right|thumb|200px|]]
+
+'''Welfare reform''' refers to improving how a nation helps poor people. In the United States, the term was used to get Congress to enact the Personal Responsibility and Work Opportunity Act, which further reduced aid to the poor, to reduce government deficit spending without coining money.  
+==Regional examples==
+=== United States ===
+{{Main|Personal Responsibility and Work Opportunity Act}}
+
+=== United Kingdom ===
+{{Main|New Deal (UK)}}
+The recent actions taken towards reforming the welfare system in Britain begin with 1997's New Deal Program.&lt;ref&gt;{{cite web|url=http://www.hm-treasury.gov.uk/newsroom_and_speeches/press/1997/press_145_97.cfm |title=[ARCHIVED CONTENT&amp;#93; Press: 1997-145 |publisher=Hm-treasury.gov.uk |date= |accessdate=2011-10-05}}&lt;/ref&gt; The [[Labour Party (UK)|Labour Party]] focused on increasing employment through requiring that recipients of aid actively consider seeking employment. This movement is similar in ideal to a [[workfare]] system. The Labour Party also introduced a system of tax credits for low-income workers.
+
+The most recent act on welfare reform in Great Britain is the Welfare Act of 2007.&lt;ref&gt;{{cite web|url=http://www.statutelaw.gov.uk/content.aspx?LegType=All+Primary&amp;PageNumber=1&amp;NavFrom=2&amp;parentActiveTextDocId=3339981&amp;activetextdocid=3340090 |title=Welfare Reform Act 2007 |publisher=Statutelaw.gov.uk |date= |accessdate=2011-10-05}}&lt;/ref&gt; The act provides for &quot;an employment and support allowance, a contributory allowance, [and] an income-based allowance.&quot;
+
+=== France ===
+Beginning in the mid-1970s, a deficit in the program began to appear. The deficit saw peaks at 27.75% of the social insurance budget in 1992. This led to a major push by the government to cut back spending in the welfare program. By the end of the 1990s the deficit had been almost completely eradicated. The often large deficits that the program has endured has led to a tremendous amount of opposition to the program as it stands.
+
+==See also==
+*[[Self-Sufficiency Project]]
+*[[Welfare dependency]]
+
+==References==
+&lt;references/&gt;
+
+{{DEFAULTSORT:Welfare Reform}}
+[[Category:Welfare reform|*]]</text>
+      <sha1>5llzs558mf08s5k6xgq5mz1wad9yu21</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

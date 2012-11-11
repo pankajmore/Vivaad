@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Soft paternalism</title>
+    <ns>0</ns>
+    <id>4652008</id>
+    <revision>
+      <id>515223380</id>
+      <parentid>511442751</parentid>
+      <timestamp>2012-09-29T23:00:11Z</timestamp>
+      <contributor>
+        <username>Mild Bill Hiccup</username>
+        <id>5202324</id>
+      </contributor>
+      <comment>hatnote; dashes</comment>
+      <text xml:space="preserve" bytes="7900">{{Libertarianism sidebar}}
+{{About|the concept '''libertarian paternalism''', which is sometimes described as a form of '''soft paternalism'''.|other uses of &quot;soft paternalism&quot;|paternalism}}
+
+The term '''libertarian paternalism''' was coined by behavioral economist [[Richard Thaler]] and legal scholar [[Cass Sunstein]] in a 2003 article in the ''American Economic Review''.&lt;ref&gt;Thaler, Richard and Sunstein, Cass. 2003. &quot;Libertarian Paternalism&quot;. ''The American Economic Review'' 93: 175–179.&lt;/ref&gt; The authors developed their ideas in a longer article in the ''University of Chicago Law Review'' that same year.&lt;ref&gt;Sunstein, CassThaler, Richard. 2003. &quot;Libertarian Paternalism is Not an Oxymoron&quot;. ''University of Chicago Law Review'' 70(4): 1159–1202.&lt;/ref&gt; They propose that libertarian paternalism is [[paternalism]] in the sense that “it tries to influence choices in a way that will make choosers better off, as judged by themselves&quot; (p. 5). It is [[libertarianism|libertarian]] in the sense that it aims to ensure that “people should be free to opt out of specified arrangements if they choose to do so.” (p. 1161) The possibility to opt out is said to “preserve freedom of choice” (p. 1182). Thaler and Sunstein published a book-length defense of this political doctrine in 2008 (new edition 2009).&lt;ref&gt;Thaler, R.H. and Sunstein, C.R. 2009. ''Nudge: Improving Decisions About Health, Wealth and Happiness''. 2d edition. New York: Penguin Books.&lt;/ref&gt;  
+
+Libertarian paternalism is similar to ''asymmetric paternalism'', which refers to policies designed to help people who behave irrationally and so are not advancing their own interests, while interfering only minimally with people who behave rationally.&lt;ref&gt;Colin Camerer, Samuel Issacharoff, George Loewenstein, Ted O’Donoghue &amp; Matthew Rabin. 2003. &quot;Regulation for Conservatives: Behavioral Economics and the Case for “Asymmetric Paternalism”. 151 ''University of Pennsylvania Law Review'' 101: 1211–1254.&lt;/ref&gt;  Such policies are also asymmetric in the sense that they should be acceptable both to those who believe that people behave rationally and to those who believe that people often behave irrationally.
+
+==Examples of policies==
+Countries that have an &quot;opt-out&quot; system for voluntary [[Organ donation#Opt-in_vs._opt-out|organ donation]] (anyone who did not explicitly refuse to donate have their organs in case of accident is considered a donor) experience dramatically higher levels of organ donation consent, than countries with an opt-in system. Austria, with an opt-out system, has a consent rate of 99.98%, while Germany, with a very similar culture and economic situation, but an opt-in system, has a consent rate of only 12%.&lt;ref&gt;{{cite web|last=THALER|first=RICHARD H.|title=Opting in vs. Opting Out|url=http://www.nytimes.com/2009/09/27/business/economy/27view.html|publisher=[[The New York Times]]|accessdate=4 July 2012|archiveurl=http://www.webcitation.org/68tvQex6c|archivedate=4 July 2012|date=September 26, 2009}}&lt;/ref&gt;
+
+Cab drivers in [[New York City]] have seen an increase in tips from 10% to 22% after passengers had the ability to pay using credit cards on a device installed in the cab whose screen presented them with three default tip options, ranging from 15% to 30%.&lt;ref name=&quot;NYCcabs&quot;&gt;{{cite web|url=http://www.nytimes.com/2009/11/08/nyregion/08taxi.html|title=New York’s Cabbies Like Credit Cards? Go Figure|author=MICHAEL M. GRYNBAUM|date=November 7, 2009}}&lt;/ref&gt;
+
+Until recently, the default contribution rate for most tax-deferred retirement savings plans in the [[United States]] was zero, and despite the enormous tax advantages, many people took years to start contributing if they ever did. Behavioral economists attribute this to the &quot;[[status quo bias]]&quot;, the common human resistance to changing one's behavior, combined with another common problem: the tendency to [[procrastination|procrastinate]].  Research by behavioral economists demonstrated, moreover, that firms which raised the default rate instantly and dramatically raised the contribution rates of their employees.&lt;ref&gt;Thaler, R.H. and Benartzi, S. 2004. &quot;Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving&quot;. ''Journal of Political Economy'' 112:164-187.&lt;/ref&gt; 
+
+Raising default contribution rates is also an example of asymmetric paternalism. Those who are making an informed deliberate choice to put aside zero percent of their income in tax deferred savings still have this option, but those who were not saving simply out of inertia or due to procrastination are helped by higher default contribution rates.  It is also asymmetric in the second sense: If you do not believe that defaults matter, because you believe that people will make rational decisions about something as important as retirement saving, then you should not care about the default rate. If you believe that defaults matter, on the other hand, you should want to set defaults at the level that you believe will be best for the largest number of people.
+
+==Criticism of the choice of term==
+There has been much critique of the term &quot;libertarian paternalism&quot;. For example, it fails to appreciate the traditional libertarian concern with coercion in particular, rather than with freedom of choice in a wider sense.&lt;ref&gt;Klein, Daniel B. 2004. &quot;Statist Quo Bias&quot; ''Economic Journal Watch'' 1: 260-271.&lt;/ref&gt; It also aims to promote wellbeing, when there may be more libertarian aims that could be promoted, such as maximizing future liberty.&lt;ref&gt;Mitchell, Gregory. 2004-2005. &quot;Libertarian Paternalism Is an Oxymoron&quot; ''Northwestern University Law Review'' 99: 1245-1277.&lt;/ref&gt;
+
+==See also==
+* [[Cass Sunstein]]
+* [[Choice architecture]]
+* [[Paternalism]]
+* [[Richard Thaler]]
+
+==References==
+&lt;references /&gt;
+
+==Further reading==
+* [[Richard Thaler|Thaler, Richard H.]] and [[Cass R. Sunstein]]. [http://www.nudges.org/ ''Nudge: Improving Decisions About Health, Wealth, and Happiness. ''] Yale University Press, 2008.
+
+* Sunstein, Cass R. and Richard H. Thaler. [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=405940 Libertarian Paternalism is Not an Oxymoron]. University of Chicago Law Review 70 (4), (2003): 1159-1202.
+
+* Camerer, Colin; Issacharoff, Samuel; Loewenstein, George; O'Donoghue, Ted; Rabin, Matthew (2003). [http://www.accessmylibrary.com/coms2/summary_0286-6924912_ITM Regulation for Conservatives: Behavioral Economics and the Case for &quot;Asymmetric Paternalism&quot;]. University of Pennsylvania Law Review, 1151(3), 1211-1254.
+
+* Harkin, James. [http://www.guardian.co.uk/commentisfree/2006/jun/24/comment.conservatives Libertarian Paternalism]. The Guardian. June 24, 2006.
+
+* Thaler, Richard H. and Cass R. Sunstein. [http://www.latimes.com/news/opinion/la-oe-thalerandsunstein2apr02,0,3730262.story Designing Better Choices]. Los Angeles Times. April 2, 2008.
+
+* Vedantam, Shankar. [http://www.washingtonpost.com/wp-dyn/content/article/2008/04/06/AR2008040601717.html A Dose of Libertarian Paternalism]. Washington Post. April 7, 2008.
+
+* Will, George F. [http://www.newsweek.com/id/142638 Nudge Against the Fudge]. Newsweek. June 30, 2008.
+
+* Harkin, James. [http://www.guardian.co.uk/commentisfree/2008/aug/05/conservatives.ukcrime This nudging stuff is nothing new - and it's all a bit shaky]. The Guardian. August 5, 2008.
+
+==External links==
+*[http://www.econtalk.org/archives/2006/11/richard_thaler_1.html Interview with Richard Thaler about libertarian paternalism]. An EconTalk podcast
+*[http://www.grist.org/article/2009-green-nudges-an-interview-with-obama-re Interview with Cass Sunstein about libertarian paternalism]. Grist.com.
+
+{{DEFAULTSORT:Soft Paternalism}}
+[[Category:Libertarian terms]]
+[[Category:Political philosophy]]
+[[Category:Political theories]]
+[[Category:Social philosophy]]
+[[Category:Neologisms]]
+
+[[es:Paternalismo libertario]]
+[[hu:Libertárius paternalizmus]]</text>
+      <sha1>8dfrp0gyhc50svpi039qw8jq7nxbzv8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

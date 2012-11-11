@@ -1,0 +1,95 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Mountain</title>
+    <ns>0</ns>
+    <id>212270</id>
+    <revision>
+      <id>519821811</id>
+      <parentid>505630657</parentid>
+      <timestamp>2012-10-25T20:24:56Z</timestamp>
+      <contributor>
+        <username>GrahamHardy</username>
+        <id>2956291</id>
+      </contributor>
+      <minor/>
+      <comment>+defsort</comment>
+      <text xml:space="preserve" bytes="3323">{{refimprove|date=February 2010}}
+
+:''For other articles titled &quot;The Mountain&quot;, see [[The Mountain (disambiguation)]].''
+'''The Mountain''' ([[French language|French]]: ''La Montagne'') refers in the context of the history of the [[French Revolution]] to a political group, whose members, called '''''Montagnards''''', sat on the highest benches in the Assembly. The term, which was first used during the session of the [[Legislative Assembly (France)|Legislative Assembly]], did not come into general use until 1793.
+
+At the opening of the [[National Convention]] the ''Montagnard'' group comprised men of very diverse shades of opinion, and such cohesion as it subsequently acquired was due rather to the opposition of its leaders to the [[Girondist]] leaders than to any fundamental agreement in philosophy among the Montagnards' own leaders. The chief point of distinction was that the Girondists were mainly theorists and thinkers, whereas the Mountain consisted almost entirely of uncompromising men of action. Additionally, Montagnards tended to be more vocal in defence of the lower classes and employed a more moralistic rhetoric than the Girondins.&lt;ref&gt;Popkin, Jeremy D. (2010). ''A Short History of the French Revolution: Fifth Edition'', p. 72. Pearson Education, Upper Saddle River. ISBN 0-205-69357-1.&lt;/ref&gt;
+
+During their struggle with the [[Girondists]], the Montagnards gained the upper hand in the [[Jacobin Club]], and for a time &quot;Jacobin&quot; and &quot;Montagnard&quot; were synonymous terms. The Mountain was successively under the sway of such men as [[Jean-Paul Marat|Marat]], [[Georges Jacques Danton|Danton]], and [[Maximilien Robespierre|Robespierre]].
+
+Dominating the Convention and the [[Committee of Public Safety]], they imposed a policy of terror. The Mountain was then split into several distinct factions, those who favored an alliance with the people, and social measures – led by [[Georges-Jacques Danton]] – and the proponents of [[Reign of Terror|The Terror]] – led by [[Maximilien Robespierre]]. In addition, several members were close to the mountain of the [[Enragés]] led by [[Jacques Roux]], or Hebertism led by [[Jacques René Hébert]]. The group was to become one of the prime movers in the eventual downfall of Robespierre in the events of [[9 Thermidor]]. The group dissolved shortly after Robespierre's death (28 July 1794).
+
+After the [[French Revolution of 1848|February Revolution]] of 1848, the Mountain was reconstituted as the left wing faction in the Constituent Assembly elected that year (see: [[The Mountain (1849)]]), and in the Legislative Assembly which followed the next year.
+
+==See also==
+* [[Montagnard (Vietnam)]]
+
+==References==
+*{{Cite EB1911|wstitle=Mountain, The}}
+{{Reflist}}
+{{Frenchtrans|Montagne (Révolution française)}}
+{{French Revolution navbox}}
+
+{{DEFAULTSORT:Mountain}}
+[[Category:Political parties established in 1793]]
+[[Category:Groups of the French Revolution]]
+
+[[af:Bergparty]]
+[[da:La Montagne]]
+[[de:Bergpartei]]
+[[el:Ορεινοί (Κόμμα)]]
+[[es:Montaña (Revolución francesa)]]
+[[fr:Montagne (Révolution française)]]
+[[it:Montagnardi]]
+[[ka:მონტანიერები]]
+[[hu:Hegypárt]]
+[[nl:Montagnards (Frankrijk)]]
+[[pt:Montanha (Revolução Francesa)]]
+[[ru:Монтаньяры]]
+[[fi:Vuoripuolue]]
+[[zh:山岳党]]</text>
+      <sha1>t2qxs34c8m4nf7lxtxa8u335c1kog5i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Island province</title>
+    <ns>0</ns>
+    <id>6329292</id>
+    <revision>
+      <id>513285331</id>
+      <parentid>509658210</parentid>
+      <timestamp>2012-09-17T23:49:49Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>Checkwiki error 52 + general fixes using [[Project:AWB|AWB]] (8413)</comment>
+      <text xml:space="preserve" bytes="1975">{{expand article|date=August 2012}}
+An '''island province''' or an '''island state''' is a [[province]] or [[state (subnational)|state]] with jurisdictional extent encompassing the whole land area of an [[island]].
+
+A province cannot be called an &quot;island province&quot; if a certain part of the island is governed or administered by a separate province.{{says who|date=August 2012}} Some provinces include several smaller islands.
+
+Some of the recognisable island provinces are:
+* [[Bali]] in [[Indonesia]]
+* [[Cebu]] in the [[Philippines]]
+* [[Dinagat Islands]]
+* [[Easter Island]] (Islas de Pascua or Rapa Nui) in [[Chile]]
+* [[Hainan]] in the [[People's Republic of China]]
+* [[Hawaii]] in the [[United States]]
+* [[Jeju-do]] in [[South Korea]]
+* [[Loyalty Islands]]
+* [[Phuket Province|Phuket]] in [[Thailand]]
+* [[Prince Edward Island]] in [[Canada]]
+* [[Riau Islands Province]]
+* [[Tasmania]]  in [[Australia]]
+* [[Western Province (Solomon Islands)]]
+
+==Historical island provinces==
+* [[Sanuki Province]]
+
+==See also==
+* [[Island country]]
+
+==References==
+{{reflist}}
+* [http://www.abs-cbnnews.com/nation/regions/02/11/10/sc-says-dinagat-islands-no-longer-province SC says Dinagat Islands no longer a province | ABS-CBN News&lt;!-- Bot generated title --&gt;]
+* [http://pqasb.pqarchiver.com/latimes/access/642480792.html?dids=642480792:642480792&amp;FMT=ABS&amp;FMTS=ABS:AI&amp;type=historic&amp;date=Dec+16%2C+1976&amp;author=&amp;pub=Los+Angeles+Times&amp;desc=Island+Province+Is+Canada's+Smallest&amp;pqatl=google Los Angeles Times: Archives - Island Province Is Canada's Smallest&lt;!-- Bot generated title --&gt;]
+* [http://www.mb.com.ph/node/259113/i Island province of Guimaras: The perfect last stop this summer | The Manila Bulletin Newspaper Online&lt;!-- Bot generated title --&gt;]
+
+{{DEFAULTSORT:Island Province}}
+[[Category:Provinces| ]]
+[[Category:Islands| ]]
+[[Category:Types of country subdivisions]]
+[[Category:Political geography]]
+
+
+{{Geo-term-stub}}
+
+[[es:Provincia insular]]
+[[pt:Província insular]]</text>
+      <sha1>n7wxq404owgdd7j0sy8ssoxeft2tn3q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

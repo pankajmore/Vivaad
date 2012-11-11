@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Surveillance state</title>
+    <ns>0</ns>
+    <id>3116745</id>
+    <revision>
+      <id>518065419</id>
+      <parentid>504255332</parentid>
+      <timestamp>2012-10-16T05:28:31Z</timestamp>
+      <contributor>
+        <username>Byelf2007</username>
+        <id>738959</id>
+      </contributor>
+      <minor/>
+      <comment>alphabetical</comment>
+      <text xml:space="preserve" bytes="3533">{{mergeto|Mass surveillance|date=June 2012}}
+{{ref improve|date=March 2012}}
+[[Image:Surveilance camera.jpg|thumb|right|Sidewalk surveillance]]
+[[Image:Surveillance quevaal.jpg|right|thumbnail|A 'nest' of surveillance cameras at the [[Gillette Stadium]] in [[Foxborough, Massachusetts]]]]
+
+The '''surveillance state''' is a government's [[surveillance]] of large numbers of citizens and visitors. Such widespread surveillance is most usually justified as being necessary to prevent crime or terrorism. The growth of state surveillance has led to concerns about the erosion of [[privacy]] and [[civil liberties]], and also to worries that over-reliance on such measures may lead to complacency by law enforcement officers.
+
+Examples of fully realised surveillance states are the [[Soviet Union]], and the former [[East Germany]], which had a large network of informers and an advanced technology base in computing &amp; spy-camera technology. (Castells, M. [[The Information Age: Economy, Society and Culture#The Rise of the Network Society|''The Rise of the Network Society'']], 2000)
+
+But they did not have today's technologies for mass surveillance, such as the use of [[database]]s and [[pattern recognition]] software to cross-correlate information obtained by [[wire tapping]], including [[speech recognition]] and telecommunications [[traffic analysis]], monitoring of financial transactions, [[automatic number plate recognition]], the tracking of the position of mobile telephones, and [[facial recognition system]]s and the like which recognise people by their appearance, [[Gait (human)|gait]], etc.
+
+More recently, the [[United Kingdom]] is seen as a [[Innovator|pioneer]] of mass surveillance. At the end of 2006 it was described by the [[Surveillance Studies Network]] as being 'the most surveilled country' among the industrialized Western states.&lt;ref&gt;BBC News - [http://news.bbc.co.uk/1/hi/uk/6108496.stm Britain is 'surveillance society'], 2 Nov 2006&lt;/ref&gt;
+
+The ability to gather information about citizens is increased by mandating new checks on paper-based records, such as increased checking of employees' qualifications and [[Résumé|CV's]], and by the introduction of digitised [[biometric]] data in identity documents and their corresponding databases, and the cross-correlation of this data with [[DNA testing]] databases.
+
+Some technological developments work in favour of the citizen rather than the state, especially communications software that uses strong [[encryption]].
+
+Many advanced nation-states have implemented laws that partially protect citizens from unwarranted intrusion - such as the [[Data Protection Act 1998]] in the [[United Kingdom]], and laws that require a formal warrant before invading someone's privacy.
+
+==See also==
+* [[Closed-circuit television|CCTV]]
+* [[Fixing Broken Windows]]
+* [[Glenn Greenwald]]
+* [[Mass surveillance]]
+* [[Nineteen Eighty-Four]]
+* [[Panopticon]]
+* [[Police state]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://cle.ens-lyon.fr/08111026/0/fiche___pagelibre/&amp;RH=CDL_ANG100100 The State and Surveillance: Fear and Control] A article by Didier Bigo and Mireille Delmas-Marty
+* [http://maps.google.co.uk/maps/ms?hl=en&amp;gl=uk&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=109774812065294828937.0004516c40af97d3b9718 In favour of the citizen - an innovative use of google maps to plot Norwich City Council's entire CCTV network]
+
+{{gov-stub}}
+
+[[Category:Surveillance]]
+[[Category:Government]]
+
+[[ar:مراقبة الدولة]]
+[[de:Überwachungsstaat]]
+[[nl:Controlestaat]]</text>
+      <sha1>gk1ecvizb6xr7x72zh3ju3a8v0a09ba</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

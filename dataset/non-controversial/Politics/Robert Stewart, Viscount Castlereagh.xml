@@ -1,0 +1,428 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Robert Stewart, Viscount Castlereagh</title>
+    <ns>0</ns>
+    <id>152639</id>
+    <revision>
+      <id>520971931</id>
+      <parentid>519696576</parentid>
+      <timestamp>2012-11-01T23:13:22Z</timestamp>
+      <contributor>
+        <ip>2602:306:CE94:6E90:91:79D8:D0DD:1996</ip>
+      </contributor>
+      <comment>/* Chief Secretary for Ireland */</comment>
+      <text xml:space="preserve" bytes="58938">{{redirect|Castlereagh}}
+{{Infobox officeholder
+| honorific-prefix = &lt;small&gt;[[The Right Honourable]]&lt;/small&gt;&lt;br&gt;
+| name = Viscount Castlereagh
+| honorific-suffix = &lt;br&gt;&lt;small&gt;[[Order of the Garter|KG]], [[Royal Guelphic Order|GCH]], [[Her Majesty's Most Honourable Privy Council|PC]], [[Privy Council of Ireland|PC (Ire)]]&lt;/small&gt;
+| image = Lord Castlereagh Marquess of Londonderry.jpg
+| imagesize = 200px
+| caption =
+| order1 = [[Secretary of State for Foreign Affairs]]
+| term_start1 = 1812
+| term_end1 = 1822
+| monarch1 = [[George III of the United Kingdom|George III]] &lt;br&gt; [[George IV of the United Kingdom|George IV]]
+| primeminister1 = [[Robert Jenkinson, 2nd Earl of Liverpool|The Earl of Liverpool]]
+| predecessor1 = [[Richard Wellesley, 1st Marquess Wellesley|The Marquess Wellesley]]
+| successor1 = [[George Canning]]
+| order2 = [[Leader of the House of Commons]]
+| term_start2 = 1812
+| term_end2 = 1822
+| monarch2 = [[George III of the United Kingdom|George III]] &lt;br&gt; [[George IV of the United Kingdom|George IV]]
+| primeminister2 = [[Robert Jenkinson, 2nd Earl of Liverpool|The Earl of Liverpool]]
+| predecessor2 = [[Spencer Perceval|Hon. Spencer Perceval]]
+| successor2 = [[George Canning]]
+| order3 = [[Secretary of State for War and the Colonies]]
+| term_start3 = 1807
+| term_end3 = 1809
+| monarch3 = [[George III of the United Kingdom|George III]]
+| primeminister3 = [[William Cavendish-Bentinck, 3rd Duke of Portland|The Duke of Portland]]
+| predecessor3 = [[William Windham]]
+| successor3 = [[Robert Jenkinson, 2nd Earl of Liverpool|The Earl of Liverpool]]
+| term_start4 = 1805
+| term_end4 = 1806
+| monarch4 = [[George III of the United Kingdom|George III]]
+| primeminister4 = [[William Pitt the Younger|Hon. William Pitt the Younger]]
+| predecessor4 = [[John Pratt, 1st Marquess Camden|The Earl Camden]]
+| successor4 = [[William Windham]]
+| order5 = [[President of the Board of Control]]
+| term_start5 = 1802
+| term_end5 = 1806
+| monarch5 = [[George III of the United Kingdom|George III]]
+| primeminister5 = [[Henry Addington, 1st Viscount Sidmouth|Henry Addington]] &lt;br&gt; [[William Pitt the Younger]]
+| predecessor5 = [[George Legge, 3rd Earl of Dartmouth|The Earl of Dartmouth]]
+| successor5 = [[Gilbert Elliot-Murray-Kynynmound, 1st Earl of Minto|The Lord Minto]]
+| order6 = [[Chief Secretary for Ireland]]
+| term_start6 = 1798
+| term_end6 = 1801
+| monarch6 = [[George III of the United Kingdom|George III]]
+| primeminister6 = [[William Pitt the Younger]]
+| predecessor6 = [[Thomas Pelham, 2nd Earl of Chichester]]
+| successor6 = [[Charles Abbot, 1st Baron Colchester]]
+| birth_date = {{birth-date|18 June 1769|}}
+| birth_place = [[Dublin]], [[Kingdom of Ireland|Ireland]]
+| death_date = {{Death-date and age | 12 August 1822 | 18th June 1769}}
+| death_place = [[Loring Hall]], [[Kent]], [[England]], [[United Kingdom of Great Britain and Ireland|UK]]
+| nationality = [[British people|British]]
+| religion    = [[Presbyterian]]
+| party = [[Whig (British political faction)|Whig]] (1790–1795) &lt;br&gt; [[Tory (political faction)|Tory]] (1795–1822)
+| alma_mater = [[St. John's College, Cambridge]]
+| spouse = [[Amelia Stewart, Viscountess Castlereagh|Lady Amelia Hobart]]
+| signature = Castlereagh signature.jpg
+}}
+
+'''Robert Stewart, 2nd Marquess of Londonderry''', [[Order of the Garter|KG]], [[Royal Guelphic Order|GCH]], [[Her Majesty's Most Honourable Privy Council|PC]], [[Privy Council of Ireland|PC (Ire)]] (18 June 1769 &amp;ndash; 12 August 1822), usually known as '''Lord Castlereagh'''&lt;ref group=&quot;n&quot;&gt;The name ''Castlereagh'' derives from the baronies of Castlereagh (or Castellrioughe) and Ards, in which the manors of Newtownards and Comber were located. The estates included the demesne land of Mount Pleasant, later [[Mount Stewart]], which became the family seat of the Londonderrys. (See Leigh, ''Castlereagh'', p. 15.)&lt;/ref&gt; ({{IPAc-en|icon|ˈ|k|ɑː|s|əl|r|eɪ}} {{respell|KAR|sul|RAY|'}}), was an [[Irish people|Irish]] and [[British people|British]] statesman. As British [[Secretary of State for Foreign and Commonwealth Affairs|Foreign Secretary]], from 1812 he was central to the management of the [[War of the Sixth Coalition|coalition]] that defeated [[Napoléon]] and was the principal British diplomat at the [[Congress of Vienna]]. Castlereagh was also [[leader of the House of Commons|leader of the British House of Commons]] in the [[Robert Jenkinson, 2nd Earl of Liverpool|Liverpool]] government from 1812 until his death by suicide in August 1822. Early in his career, as [[Chief Secretary for Ireland]], he was involved in putting down the [[Irish Rebellion of 1798]] and was instrumental in securing the passage of the controversial [[Act of Union 1800|Irish Act of Union of 1800]].&lt;ref name=&quot;Spartacus&quot;&gt;{{cite web|url=http://www.spartacus.schoolnet.co.uk/PRcastlereagh.htm |title=Spartacus Educational |publisher=Spartacus Educational |accessdate=2009-05-29}}&lt;/ref&gt;
+
+His foreign policy from 1814 was to work with the leaders represented at the [[Congress of Vienna]] to provide a peace in Europe consistent with the conservative mood of the day. Much more than prime minister [[Lord Liverpool]], he was responsible for the repressive domestic measures.  Historian [[Charles Webster (historian)|Charles Webster]] concludes:
+:&quot;There probably never was a statesman whose ideas were so right and whose attitude to public opinion was so wrong. Such disparity between the grasp of ends and the understanding of means amounts to a failure in statesmanship.&quot;&lt;ref&gt;Charles Webster, ''The Foreign Policy of Castlereagh'' (1931) P 231&lt;/ref&gt;
+
+== Title ==
+Robert Stewart acquired the [[courtesy title]] '''Viscount Castlereagh''' in 1796 when his father was created Earl of Londonderry in the [[Peerage of Ireland|Irish peerage]]. Upon his father's death in 1821, he succeeded as [[Marquess of Londonderry|2nd Marquess of Londonderry]], a title to which his father had been raised in 1816. His younger half-brother, the soldier, politician and diplomat [[Charles Vane, 3rd Marquess of Londonderry|Charles Stewart (later Vane)]] succeeded him as 3rd Marquess of Londonderry.
+
+== Family ==
+Robert Stewart was born in Henry Street, [[Dublin, Ireland]], in 1769 the son of [[Robert Stewart, 1st Marquess of Londonderry|Robert Stewart]] (1739–1821) of [[Newtownards]] and [[Comber]] in [[County Down]], with properties in Counties [[County Donegal|Donegal]] and [[County Londonderry|Londonderry]]. The family seat was [[Mount Stewart]], County Down.&lt;ref name=&quot;Leigh&quot;&gt;{{Cite document |author=Leigh, Ione |title=Castlereagh |publisher=Collins |location=London |year=1951 |postscript=&lt;!-- Bot inserted parameter. Either remove it; or change its value to &quot;.&quot; for the cite to end in a &quot;.&quot;, as necessary. --&gt;{{inconsistent citations}}}}&lt;/ref&gt;
+
+The elder Stewart was an Irish politician and prominent [[Ulster]] landowner&lt;ref group=&quot;n&quot;&gt;a nephew of [[Robert Cowan]], a wealthy and successful [[Governor of Bombay]] for the [[British East India Company]], whose heir was the elder Stewart's mother, Cowan's sister Mary. Much of the Stewart family wealth was based on the estates which came into the family through the Cowan inheritance, which put the family squarely in the [[landed gentry]] class of [[Ulster#History and politics|Ulster Presbyterians]] whose ancestors first arrived in Ireland during the [[Plantation of Ulster]]. (See {{cite web|url=http://www.proni.gov.uk/records/private/lond_eo.htm |archiveurl=http://web.archive.org/web/20071114195351/http://www.proni.gov.uk/records/private/lond_eo.htm |archivedate=2007-11-14 |title=The Cowan Inheritance |publisher=Public Records Office of Northern Ireland |date=2006-09-07 |accessdate=2009-07-06}})&lt;/ref&gt; He was created Baron Londonderry in 1789, Viscount Castlereagh in 1795, and Earl of Londonderry in 1796 by King [[George III of the United Kingdom|George III]]. In 1771 he was elected in the [[Whig (British political party)|Whig]] interest to the [[Irish House of Commons]], where he was a supporter of [[James Caulfeild, 1st Earl of Charlemont|Lord Charlemont]] and his [[Irish Patriot Party|allies]] who called for greater independence from Britain.&lt;ref name=&quot;Leigh&quot;/&gt; From the [[Act of Union 1800|Act of Union of 1800]], however, he sat in the British [[House of Lords]] as an [[Representative peer#Ireland|Irish representative peer]]. In 1816 he was created [[Marquess of Londonderry]] by the [[George IV of the United Kingdom|Prince Regent]].
+
+Stewart's mother, who died in childbirth when he was a year old, was Lady Sarah Frances Seymour, daughter of [[Francis Seymour-Conway, 1st Marquess of Hertford]] (a former [[List of ambassadors from the United Kingdom to France|British Ambassador to France]] (1764–65) and [[Lord Lieutenant of Ireland]] (1765–66)) and Isabella Fitzroy, daughter of [[Charles FitzRoy, 2nd Duke of Grafton]]. His father remarried five years later to Frances Pratt, daughter of [[Charles Pratt, 1st Earl Camden]] (1714–94), a leading English jurist and prominent political supporter of both the [[William Pitt, 1st Earl of Chatham|1st Earl of Chatham]] and his son, [[William Pitt the Younger]]. Through the elder Stewart's marriages, he linked his family with the upper ranks of English nobility and political elites. The Camden connection was to be especially important for the political careers of both him and his elder son.&lt;ref name=&quot;Leigh&quot;/&gt;  By Frances Pratt, Stewart's father had three children who survived to adulthood, including Stewart's half-brother, [[Charles Vane, 3rd Marquess of Londonderry|Charles William Stewart (later Vane)]], Baron Stewart of Stewart's Court and Ballylawn in County Donegal (1814) and 3rd Marquess of Londonderry (1822).&lt;ref&gt;[http://www.thepeerage.com/p1125.htm#i11246 &quot;Sir Robert Stewart, 1st Marquess of Londonderry&quot;], thePerrage.com. Retrieved 2009-07-09.&lt;/ref&gt;
+
+In 1794, Stewart married [[Amelia Stewart, Viscountess Castlereagh|Amelia (Emily) Hobart]] a daughter of [[John Hobart, 2nd Earl of Buckinghamshire]], a former [[List of Ambassadors of the United Kingdom to Russia|British Ambassador to Russia]] (1762–65) and [[Lord Lieutenant of Ireland]] (1776–80). Her mother, Caroline Conolly, was the granddaughter of [[William Conolly]], [[Speaker (politics)|Speaker]] of the [[Irish House of Commons]] in the early 18th century and one of the wealthiest landowners in Ireland. Caroline's brother, Thomas Conolly, was married to [[Lady Louisa Conolly|Louisa Lennox]], sister of [[Emily FitzGerald, Duchess of Leinster]], whose son and Emily's cousin-by-marriage, the aristocratic rebel [[Lord Edward FitzGerald]], was a leader of the [[United Irishmen]] and one of their martyrs in the early stages of the [[Irish Rebellion of 1798]].
+
+Emily Stewart was well known as a hostess for her husband in both Ireland and London and during some of his most important diplomatic missions. In later years she was a leader of [[Regency London]] [[Ton (le bon ton)|high society]] as one of the Lady Patronesses of [[Almack's]]. She is noted in contemporary accounts for her attractiveness, volubility and [[eccentricity (behavior)|eccentricities]].&lt;ref name=&quot;Leigh&quot;/&gt;  By all accounts, the two remained devoted to each other to the end, but they had no children.&lt;ref group=&quot;n&quot;&gt;In a profile of Castlereagh published within months of his death, he was reported to have had, prior to his marriage, a son by a maidservant who lived near the Mount Stewart estate, and whom it was rumored he supported. (Dr. Felton Reede, ''Private Life of the Marquess of Londonderry'', (1822), cited in Leigh, ''Castlereagh'', pp 34 and 144.)&lt;/ref&gt;  The couple did, however, care for the young [[Frederick Stewart, 4th Marquess of Londonderry|Frederick Stewart]], while his father, Stewart's half-brother, Charles, was serving in the [[British Army|army]].&lt;ref name=&quot;Cowan&quot;&gt;{{cite web|url=http://www.proni.gov.uk/records/private/lond_eo.htm |archiveurl=http://web.archive.org/web/20071114195351/http://www.proni.gov.uk/records/private/lond_eo.htm |archivedate=2007-11-14 |title=The Cowan Inheritance |publisher=Public Records Office of Northern Ireland |date=2006-09-07 |accessdate=2009-07-06}}&lt;/ref&gt;
+
+== Early life and career ==
+Stewart had recurring health problems throughout his childhood, and his family elected to send him to [[The Royal School, Armagh]] rather than to England for his secondary education. At the encouragement of Earl Camden, who took a great interest in him and treated him as a grandson by blood, he later attended [[St. John's College, Cambridge]] (1786–87), where he applied himself with greater diligence than expected from an aristocrat and obtained first class in his last examinations. He left Cambridge due to an extended illness, and after returning to Ireland did not pursue further formal education.&lt;ref name=&quot;Leigh&quot;/&gt;&lt;ref&gt;{{Venn|id=STWT786R|name=Stewart, Robert}}&lt;/ref&gt;
+
+In 1790, Stewart was elected as a [[Member of Parliament (pre-Union Ireland)|Member of the Irish Parliament]] for [[Down (Parliament of Ireland constituency)|Down]] in one of the most expensive elections in Irish history.&lt;ref group=&quot;n&quot;&gt;The Down election of 1790 was fought against the elder Stewart's rival for influence in Ulster, [[Wills Hill, 1st Marquess of Downshire]], who controlled both Down seats. The elder Stewart, who had been raised to the Irish peerage the previous year and was thereby ineligible, persed his son to stand for the seat, though his son would not himself be eligible until he turned twenty-one after the election but before the opening of the next session. His son was backed, as he had been, by Whigs and [[English Dissenters|Dissenters]]. The election expenses to the Stewarts reached the extraordinary sum of £60,000, financed by a mortgage of Mount Stewart, which Castlereagh's father spent much of the next decades paying off. (See Leigh, ''Castlereagh''.)&lt;/ref&gt;  Though for a time he was associated with the [[Society of United Irishmen|Northern Whig Club]], he entered the [[Irish House of Commons]] as an Independent. He ran on a platform supporting [[Whig (British political faction)|Whig]] principles of electoral reform and opposing the Irish policies of the British Government. But even from the outset of his career, he was a personal supporter of the [[Prime Minister of the United Kingdom|Prime Minister]], William Pitt. Stewart was a lifelong advocate of Catholic concessions, though his position on the specific issue of [[Catholic Emancipation|Catholic emancipation]] varied depending on his assessment of the potential repercussions on other policy priorities.&lt;ref name=&quot;Leigh&quot;/&gt;
+
+When war with France forced Government attention on defense of Ireland, the [[Irish Volunteers (18th century)|Irish Volunteers]], a potential source of disaffection, were disbanded by [[Dublin Castle administration in Ireland|Dublin Castle]], and a reorganised [[Militia (Great Britain)|Militia]] was created in 1793.&lt;ref name=&quot;Multitext&quot;&gt;[http://multitext.ucc.ie/d/Politics_and_Administration_in_Ireland_1770-1815  Politics and Administration in Ireland, 1750–1815], James Kelley, University College Cork, Multitext Project in Irish History&lt;/ref&gt; Stewart enrolled as an officer, a matter of course for a young Protestant aristocrat, and served as Lieutenant Colonel under the command of his wife's uncle, Thomas Conolly. Between Stewart's attendance to his militia duties, his pursuit of cultural, family and political interests in London, two trips to the Continent (in 1791, when he visited revolutionary Paris, and 1792), and the courtship of his wife whom he married in 1794, his life during this period was not centered on the activities of the Irish House of Commons, where he was listened to with respect but where he was not yet an important player. He was also beginning to disappoint some of his more radical original supporters in his constituency. As the [[French Revolution#National Convention (1792–1795)|French Revolution]] grew more bloody and Ireland more rebellious, Stewart increasingly worried about Ireland's future if the threats from France succeeded in breaking Ireland's links to Britain. He became further inclined to support not only Pitt personally but the British Government, even when he did not approve of a specific line taken in Irish policy.&lt;ref name=&quot;Leigh&quot;/&gt;
+
+In 1794, partly as a result of the promotion of Stewart's interests by his Camden connections, he was offered the Government-controlled seat of [[Tregony (UK Parliament constituency)|Tregony]] in [[Cornwall]], where he was elected to the [[Unreformed House of Commons|British House of Commons]] on a similar platform of reform principles and support for Pitt, on whose side he sat in Westminster. In 1796, he transferred to a seat for the [[Suffolk]] constituency of [[Orford (UK Parliament constituency)|Orford]], which was in the interest of his mother's family, the Seymour-Conways ([[Marquess of Hertford]]).&lt;ref name=&quot;Leigh&quot;/&gt;
+
+== Chief Secretary for Ireland ==
+{{See also|Cornwallis in Ireland}}
+In 1795, Pitt replaced the popular Lord Lieutenant of Ireland, [[William Fitzwilliam, 4th Earl Fitzwilliam|Lord Fitzwilliam]], with Stewart's uncle,  the [[John Pratt, 1st Marquess Camden|2nd Earl Camden]]. Camden's arrival in Dublin was greeted with riots, and that year Stewart crossed the floor to join the supporters of the British Government.&lt;ref group=&quot;n&quot;&gt;The war with France absorbed much of the attention of Government and Parliament, and what attention was paid to an increasingly radicalised Ireland was confused and inconsistent. Pitt's dismissal of the popular [[William Fitzwilliam, 4th Earl Fitzwilliam|Lord Fitzwilliam]] in 1795, over Fitzwilliam's aggressive support of Whig patronage and Catholic emancipation, produced outrage and rioting in Dublin. Castlereagh had watched the unravelling of Irish policy with deep concern and knew what sort of reaction to expect to Fitzwilliam's dismissal. But he was in no position to steer Irish policy nor could he object to the inevitable departure of Fitzwilliam, especially as the person appointed to replace Fitzwilliam was the brother of Stewart's step-mother, [[John Pratt, 1st Marquess Camden|John Jeffreys Pratt]], who had recently succeed as 2nd Earl Camden. (See Leigh, ''Castlereagh'', Ch. 3.)&lt;/ref&gt; Stewart became an essential adviser to the inexperienced and unpopular Lord Lieutenant, who was Stewart's senior by only ten years.
+
+In 1796, when the [[Wolfe Tone#Hoche's expedition and the 1798 rebellion|French invasion of Ireland failed]] at [[Bantry Bay]] due to bad weather and not to Ireland's military preparations or the British Navy, Castlereagh as a leader of the Militia saw first hand how ripe Ireland was for breaking from Britain and becoming another French satellite. Despairing of obtaining timely military support from Britain if Ireland were again threatened with invasion, for the next several years, he was increasingly involved in measures against those promoting rebellion, but his initial principles of reform and emancipation continued to hold a place in his political thought.&lt;ref name=&quot;Leigh&quot;/&gt;
+
+In 1797, Castlereagh was at last appointed to office, as Keeper of the King's Signet for Ireland.&lt;ref group=&quot;n&quot;&gt;Castlereagh had been re-elected without opposition from Down in 1797 and continued to hold this seat while in office in Ireland. He could not continue to hold both Irish office and the seat in Westminster for Orford, which he therefore resigned. (See Leigh, ''Castlereagh'', Ch 4.) In the Irish election of 1798, he stood for [[Newtown Limavady (Parliament of Ireland constituency)|Newtown Limavady]] as well as for Down. He was successful for both constituencies and chose to sit for the latter. {{Citation needed|date=July 2009}}&lt;/ref&gt;  As martial law was declared in the face of growing turmoil, he was made both a [[Lord High Treasurer of Ireland#Commissioners of the Treasury for Ireland (1793-1817)|Lord of the Treasury]] and a Member of the [[Privy Council of Ireland]] (1797–1800).&lt;ref group=&quot;n&quot;&gt;In Council, though he was active in pursuing plots against the Government, he countered the influence of the more extreme members of the [[Protestant Ascendancy]] who, against especially the policies of the new Commander-in-Chief for Ireland, [[Ralph Abercromby|Sir Ralph Abercromby]], called for indiscriminate violence to suppress all threat of rebellion. (See Leigh, ''Castlereagh'', Ch 4).&lt;/ref&gt;  At the urging of Camden, Castlereagh assumed many of the onerous duties of the often-absent [[Chief Secretary for Ireland]] who was responsible for day-to-day administration and asserting the influence of Dublin Castle in the House of Commons. &lt;ref group=&quot;n&quot;&gt;The Chief Secretary for Ireland from 1795–98 was [[Thomas Pelham, 2nd Earl of Chichester|Thomas Pelham]], but he was continually absent from his duties due to illness. Camden pressed London to replace Pelham, recommending in his stead Castlereagh, whose performance in office was admired by those in London concerned with Irish policy. But as an example of the perverse prejudices of the era, Castlereagh was especially competent in this delicate and demanding office because he was an Irishman, yet he was also ineligible to represent the Crown in Ireland because he was an Irishman, even though this Irishman was grandson of an English Marquess, great-grandson of an English Duke and son-in-law of an English Earl. After pressure by Pitt on [[George III of the United Kingdom|George III]] who shared the prejudice against appointments of Irish as representatives of the Crown in Ireland, Castlereagh was appointed Acting Chief Secretary in March 1798. But it was only in November 1798, after the Rebellion had been put down that, in response to imperious demands from the next influential Lord Lieutenant, [[Charles Cornwallis, 1st Marquess Cornwallis|Marquess Cornwallis]], Castlereagh was given the permanent office, and for the first time the Chief Secretary for Ireland was an Irishman. The next month, Castlereagh was admitted to the King's Privy Council. (See Leigh, ''Castlereagh'' Ch 4, and {{PDFlink|[http://www.london-gazette.co.uk/issues/15090/pages/1211 &quot;The London Gazette&quot;]|112&amp;nbsp;[[Kibibyte|KiB]]&lt;!-- pdf 112000 bytes --&gt;}} 18 Dec 1798, p. 1 (1 page pdf).)&lt;/ref&gt; In this capacity, and after March 1798 as Acting Chief Secretary, Castlereagh played a key role in crushing the [[Irish Rebellion of 1798]], offering clemency to commoners who had supported the rebellion, and focusing instead on pursuing rebel leaders.
+
+In 1799, in furtherance of both his own political vision and Pitt's policies, Castlereagh began lobbying in the Irish and British Parliaments for an official union between the two, convinced that it was the best way to soothe the long-standing divides in Ireland, insulate Ireland from further radical disaffection, and protect Britain from French military threats via Ireland. His first attempt, at the opening of the Irish session of 1799, met with failure during long, heated debates. A year of further intense preparation followed, with an impressive display of Machiavellian tactics that included the common Irish practice of bribery through peerages, honours and money, but bribery on a truly uncommon scale. In the summer of 1800, Castlereagh together with the Lord Lieutenant, [[Charles Cornwallis, 1st Marquess Cornwallis|Marquess Cornwallis]], finally succeeded in steering the [[Act of Union 1800|Irish Act of Union]] through both Parliaments.&lt;ref name=&quot;Leigh&quot;/&gt;&lt;ref name=&quot;Multitext&quot;/&gt;
+
+During the campaign for the Act of Union, both Castlereagh and Cornwallis had, in good faith, forwarded informal assurances they had received from Pitt's Cabinet to the [[Irish Catholics]] that they would be allowed to sit in Parliament. Both Castlereagh and Cornwallis knew Catholic emancipation would be critical if their objectives for Union were to be realised. Emancipation was, however, opposed by much of the British establishment, including [[George III]], who was convinced that it would violate his royal oath as protector of the Protestant faith. Pitt tried to follow through on his commitment, but when it came to light that the King had approached [[Henry Addington]], an opponent of Catholic emancipation, about becoming Prime Minister to replace the pro-emancipation Pitt, both Castlereagh and Pitt resigned in protest. Still, Castlereagh would long be held personally responsible by many Catholics in Ireland for the apparent breach of promise and Government's betrayal of their interests.&lt;ref name=&quot;Leigh&quot;/&gt;&lt;ref name=&quot;Multitext&quot;/&gt;
+
+In Dublin, he was a member of the [[Kildare Street Club]].&lt;ref&gt;Thomas Hay Sweet Escott, ''Club Makers and Club Members'' (1913),  [http://www.archive.org/stream/cu31924028066979#page/n371/mode/2up pp. 329–333]&lt;/ref&gt; He was elected a [[Fellow of the Royal Society]] in 1802. &lt;ref&gt; {{cite web | url = http://royalsociety.org/dserve/dserve.exe?dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqCmd=Show.tcl&amp;dsqDb=Persons&amp;dsqPos=4&amp;dsqSearch=%28Surname%3D%27stewart%27%29|title= Library and Archive|publisher= Royal Society|accessdate = 2012-08-03}} &lt;/ref&gt;
+
+== At Westminster and in Government ==
+When the newly united Parliament of the United Kingdom met in 1801, Castlereagh took his seat in the House of Commons from his Down constituency. By 1802, tensions between Tories supporting emancipation and those opposing had relaxed, and Addington had obtained his desired cessation of hostilities with France (the [[Treaty of Amiens|Peace of Amiens]]). At a shift in the composition of [[Henry Addington, 1st Viscount Sidmouth#Henry Addington's Government, March 1801 – May 1804|Addington's Government]], Castlereagh accepted the offer to enter the Cabinet as [[President of the Board of Control]], where he mediated bitter disputes between the [[Governor-General of India]], [[Richard Wellesley, 1st Marquess Wellesley|Richard Wellsley]], and the [[East India Company directors|Directors]] of the [[British East India Company|East India Company]], smoothing quarrels while generally supporting Lord Wellesley's policies.&lt;ref name=&quot;Bartlett&quot;&gt;{{Cite document |author=Bartlett, Christopher John |title=Castlereagh |publisher=Macmillan |location=London |year=1966 |postscript=&lt;!-- Bot inserted parameter. Either remove it; or change its value to &quot;.&quot; for the cite to end in a &quot;.&quot;, as necessary. --&gt;{{inconsistent citations}}}}&lt;/ref&gt;
+
+After the renewal of the [[Napoleonic Wars|war]] against [[Napoleon]], at the urging of Castlereagh and other long-time supporters, in 1804 Pitt returned as Prime Minister, and Castlereagh was promoted to [[Secretary of State for War and the Colonies]]. As the only other member of [[Second Pitt the Younger Ministry|Pitt's Government]] in the House of Commons, Castlereagh became Pitt's political deputy, taking on ever more burdens as Pitt's health continued to decline.&lt;ref name=&quot;Leigh&quot;/&gt;  After Pitt's death in 1806, Castlereagh resigned amid the chaos of the [[Ministry of All the Talents]]. When that Government collapsed, Castlereagh again became Secretary of State for War and the Colonies in 1807, this time in the [[William Cavendish-Bentinck, 3rd Duke of Portland#The Duke of Portland's Second Ministry, March 1807 – October 1809|ministry]] of the [[William Cavendish-Bentinck, 3rd Duke of Portland|Duke of Portland]].&lt;ref name=&quot;Spartacus&quot;/&gt;
+
+== The duel with Canning ==
+As minister for War, he became involved in disputes with [[Secretary of State for Foreign Affairs|Foreign Secretary]] [[George Canning]] over the [[Walcheren Expedition]] and its failure. Canning saw it as a diversion of troops from the [[Peninsular War]] based on a hopeless plan. However, Castlereagh had the support of Lord Wellesley's younger brother [[Arthur Wellesley, 1st Duke of Wellington|General Arthur Wellesley]] (future Duke of Wellington), and evidence later surfaced that Canning himself had interfered with the plan, selecting the [[John Pitt, 2nd Earl of Chatham|Earl of Chatham]] to command the expedition.&lt;ref name=&quot;nndb&quot;/&gt; The Portland government became increasingly paralysed by disputes between the two men. Portland was in deteriorating health and gave no lead, until Canning threatened resignation unless Castlereagh was removed and replaced by Lord Wellesley. Wellesley himself was neither complicit with nor even aware of the arrangement, but Portland secretly agreed to make this change when it became possible.
+
+Castlereagh discovered the deal in September 1809 and demanded redress. He challenged Canning to a [[duel]], which Canning accepted. Canning had never before fired a pistol. The duel was fought on 21 September 1809 on [[Putney#Putney Heath|Putney Heath]].&lt;ref&gt;{{cite web|title=Pistols at dawn|url=http://www.spectator.co.uk/books/575291/pistols-at-dawn.thtml|author=The Spectator|accessdate=2010-04-03}}&lt;/ref&gt; Canning missed but Castlereagh wounded his opponent in the thigh. There was much outrage that two cabinet ministers had resorted to such a method, and they both felt compelled to resign from the government. Six months later, Canning published a full account of his actions in the affair, and many who had initially rallied to him became convinced Castlereagh had been betrayed by his cabinet colleague.&lt;ref name=&quot;Hunt&quot;&gt;Hunt, Giles, (2008), ''The Duel: Castlereagh, Canning and Deadly Cabinet Rivalry'', London: B Tauris  ISBN 978-1-84511-593-7&lt;/ref&gt;
+
+== Diplomatic career ==
+Three years later, in 1812, Castlereagh returned to the government, this time as Foreign Secretary, a role in which he served for the next ten years. He also became leader of the House of Commons in the wake of [[Spencer Perceval]]'s assassination in 1812. In his role of Foreign Secretary he was instrumental in negotiating what has become known as the [[Quadruple Alliance (1815)|quadruple alliance]] between the United Kingdom, [[Austria]], Russia, and [[Prussia]] at [[Treaty of Chaumont|Chaumont]] in March 1814, in the negotiation of the [[Treaty of Paris (1814)|Treaty of Paris]]&lt;ref name=&quot;nndb&quot;/&gt; that brought peace with France, and at the [[Congress of Vienna]].&lt;ref name=&quot;Spartacus&quot;/&gt;
+
+At the [[Congress of Vienna]], Castlereagh designed and proposed a form of collective and collaborative security for Europe, then called a [[Congress system]]. In the Congress system, the main signatory powers met periodically (every two years or so) and collectively managed European affairs. This system was successfully used to resolve the [[Congress of Vienna#Polish-Saxon crisis|Polish-Saxon crisis]] at Vienna and the [[Congress of Laibach#Eastern Question|question of Greek independence]] at Laibach. The following ten years saw five European Congresses where disputes were resolved with a diminishing degree of effectiveness. Finally, by 1822, the whole system had collapsed because of the irreconcilable differences of opinion among Britain, Austria, and Russia, and because of the lack of support for the Congress system in British public opinion.  The [[Holy Alliance]], which Castlereagh opposed, lingered for some time, however, and even had effects on the international stage as late as the [[Crimean war]]. The [[Conservative Order|order]] created by the [[Congress of Vienna]] was also more successful than Congresses themselves, preventing major European land wars until the [[First World War]] a century later.  Scholars and historians have seen the Congress system as a forerunner of the modern, arguably more effective [[collective security]], international unity, and cooperative agreements of [[NATO]], the [[European Union|EU]], the [[League of Nations]], and the [[United Nations]].&lt;ref name=&quot;Kissinger&quot;&gt;{{cite book |last=Kissinger  |first=Henry  |authorlink=Henry Kissinger  |title=A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–22 |publisher=Weidenfeld &amp; Nicolson |year=1957 |location=London  |pages= |url= | isbn = }}&lt;/ref&gt;
+
+In the years 1812 to 1822, Castlereagh continued to competently manage Britain's foreign policy, generally pursuing a policy of continental engagement uncharacteristic of British foreign policy in the nineteenth century.&lt;ref name=&quot;Kissinger&quot;/&gt; Castlereagh was not known to be an effective public speaker and his diplomatic presentation style was at times abstruse.&lt;ref name=&quot;nndb&quot;/&gt;  He nonetheless developed a reputation for integrity, consistency, and goodwill, which was perhaps unmatched by any diplomat of that era. His views on foreign policy were, unfortunately for him, ahead of his time.&lt;ref name=&quot;Kissinger&quot;/&gt;
+
+== Decline and death ==
+Despite his contributions to the defeat of Napoleon and restoration of peace, Castlereagh became extremely unpopular at home. He was attacked for his construction of a peace that gave a free hand to reactionary governments on the Continent to suppress dissent. He was also condemned for his association with repressive measures of the [[Home Secretary]], [[Henry Addington, 1st Viscount Sidmouth|Lord Sidmouth]] (the former Prime Minister Addington).&lt;ref name=&quot;nndb&quot;/&gt; As [[Leader of the House of Commons]] for the [[Robert Jenkinson, 2nd Earl of Liverpool#Lord Liverpool's Administration (1812-1827)|Liverpool Government]], he was often called upon to [[Cabinet collective responsibility|defend government policy]] in the House.&lt;ref name=&quot;Spartacus&quot;/&gt;  He had to support the widely reviled measures taken by Sidmouth and the others, including the infamous [[Six Acts]], in order to remain in cabinet and continue his diplomatic work. For these reasons, Castlereagh appears with other members of Lord Liverpool's Cabinet in [[Percy Bysshe Shelley|Shelley's]] poem ''[[The Masque of Anarchy]]'', which was inspired by, and heavily critical of, the [[Peterloo massacre]]:
+
+:I met Murder on the way –
+:He had a face like Castlereagh –
+:Very smooth he looked, yet grim;
+:Seven bloodhounds followed him
+
+:All were fat; and well they might
+:Be in admirable plight,
+:For one by one, and two by two,
+:He tossed them human hearts to chew
+:Which from his wide cloak he drew.&lt;ref name=&quot;Spartacus&quot;/&gt;
+
+After the death of his father in 1821, Castlereagh became the 2nd Marquess of Londonderry. As a non-representative Irish peer Londonderry was eligible to sit in the House of Commons. In 1822, he began to suffer from a form of [[paranoia]] or a [[nervous breakdown]], possibly as a result of an attack of [[gout]] combined with the stress of public criticism.&lt;ref name=&quot;Spartacus&quot;/&gt; He was also severely overworked with both his responsibilities in leading the government in the House and the never-ending diplomacy required to manage conflicts among the other major powers.&lt;ref name=&quot;Bartlett&quot;/&gt;  At the time, he said &quot;My mind, is, as it were, gone.&quot; Londonderry returned to his country seat at [[Loring Hall]] in Water Lane, [[North Cray]], [[Kent]] on the advice of his doctor. On 9 August 1822 he had an audience with King [[George IV of the United Kingdom|George IV]] in which he appeared distracted and mentally disturbed. Among other surprising remarks he revealed to the King that he thought he was being blackmailed for [[homosexuality]].&lt;ref group=&quot;n&quot;&gt;In addition to the events surrounding the suicide itself, towards the end of his life there are increasing reports, both contemporaneous and in later memoirs, of exceptionally powerful rages and sudden bouts of uncharacteristic forgetfulness. At the 9 August meeting with the King, Castlereagh is reported to have been distracted, to have told the King he was being mysteriously watched by a servant, and to have said, &quot;I am accused of the same crime as the Bishop of Clogher.&quot;   [[Percy Jocelyn]], who had been the [[Bishop of Clogher]] until the previous month, was prosecuted for homosexuality. (See  H. Montgomery Hyde, ''Trials of Oscar Wilde'', Courier Dover Publications, ISBN 0-486-20216-X.) The King surmised that Castlereagh believed he was being blackmailed for the same reason. It remains unclear whether there was some sort of extortion attempt, and if so, whether such attempt represented a real threat of exposure, or whether the purported blackmail was a symptom of paranoia he otherwise appeared to be displaying at the time. The King is said to have advised Castlereagh to consult a physician and, disturbed by the condition of his Foreign Secretary, shared his concerns with Castlereagh's friend, the Duke of Wellington. Wellington not only advised Castlereagh that he was suffering from delusions but sent a note to Castlereagh's doctor urging him to see his patient at the first opportunity. Wellington's note was submitted as evidence at the inquest. (See Leigh, ''Castlereagh'', which draws extensively from memoirs of people who claimed to have observed Castlereagh's uncharacteristic behaviour, such as [[Dorothea Lieven|Dorothea, Countess de Lieven]]. The appendices include contemporary letters from observers and excerpts from the journal of [[Harriet Arbuthnot]], who was a close friend of both Castlereagh and Wellington.)&lt;/ref&gt;
+
+On 12 August, although his wife had succeeded in removing razors from his possession and even though his doctor was in attendance, Castlereagh managed to find a [[pen knife]]&lt;ref name=&quot;Blackwood&quot;&gt;{{cite journal |year= 1822|month=October |title=Register–Deaths|journal=Blackwood's Magazine |volume=12 |issue= |pages=520 |publisher=William Blackwood|location=Edinburgh|url=http://books.google.com/books?id=MbwCAAAAIAAJ&amp;lpg=PA520|accessdate=28 Aug 2011}}&lt;/ref&gt;&lt;ref name=&quot;AnnualBio&quot;&gt;{{cite journal |year=1823 |title=The Right Honourable Robert Stewart, K.G., Marquis of Londonderry, Viscount Castlereagh; Late Minister of State for Foreign Affairs |journal=Annual Biography and Obituary for the Year 1823|volume=7 |issue= |pages=1–62 |publisher= |url=http://books.google.com/books?id=ja1CAAAAYAAJ&amp;dq=londonderry&amp;pg=PA59#v=onepage&amp;q=knife&amp;f=falsev|accessdate=28 Aug 2011}}&lt;/ref&gt; with which he committed [[suicide]] by cutting his own [[External carotid artery|throat]].&lt;ref name=&quot;nndb&quot;&gt;{{cite web|url=http://www.nndb.com/people/357/000095072/ |title=Profile: Robert Stewart, Viscount Castlereagh |publisher=NNDB |accessdate=2009-05-29}}&lt;/ref&gt;&lt;ref group=&quot;n&quot;&gt;In a retrospective, and therefore necessarily speculative diagnosis, a thoughtful recent study has linked various instances of (at the time) little explained illness to [[syphilis]], possibly contracted at [[St John's College, Cambridge|Cambridge]]: here Stewart’s undergraduate studies were interrupted by a mysterious illness first apparent during the closing months of 1787, and which kept him away from Cambridge through the summer of 1788. Later, there were unexplained illnesses in 1801 and 1807, the first described by a contemporary as &quot;brain fever&quot; which would be consistent with [[syphilis|syphilitic meningitis]]. (See Giles Hunt, ''The Duel: Castlereagh, Canning and Deadly Cabinet Rivalry'' (2008).)&lt;/ref&gt;
+
+[[File:Castlereagh death.gif|thumb|The Suicide of Lord Castlereagh by [[George Cruikshank]], 1822]]
+
+An inquest concluded that the act had been committed while insane, avoiding the harsh strictures of a ''[[felo de se]]'' verdict.&lt;ref group=&quot;n&quot;&gt;Suicide was illegal in England [[Suicide Act 1961|until 1961]]. Prior to the Right to Burial Act of 1823, a suicide was denied a Christian burial and, until the Abolition of Forfeiture Act of 1870, his property was forfeited to the Crown. These cruel penalties were less and less frequently applied over the course of the 18th century, especially in the case of wealthier victims. Inquests were likely to view suicide as itself evidence of the disturbed state of the victim's mind. (See e.g., Clifton D. Bryant, ''Handbook of Death and Dying,'' Sage Publications (2003) pp. 316–17.)&lt;/ref&gt; The verdict allowed Lady Londonderry to see her husband [[Westminster Abbey Burials and Memorials|buried]] with honour in [[Westminster Abbey]] near his mentor, William Pitt. Some radicals, notably [[William Cobbett]], claimed a &quot;cover-up&quot; within the government and viewed the verdict and Castlereagh's public funeral as a damning indictment of the elitism and privilege of the unreformed electoral system. His funeral on 20 August was greeted with jeering and insults along the processional route, although not to the level of unanimity projected in the radical press. A funeral monument was not erected until 1850 by his half-brother and successor, [[Charles Vane, 3rd Marquess of Londonderry|Charles Stewart Vane, 3rd Marquess of Londonderry]].&lt;ref name=&quot;Victorianweb&quot;&gt;{{cite web|url=http://www.victorianweb.org/books/suicide/01.html |title=Chapter 1 of Victorian Suicide: Mad Crimes and Sad Histories, Barbara T. Gates |publisher=Victorian Web |date=2001-06-06 |accessdate=2009-05-29}}&lt;/ref&gt;
+
+Sometime after Castlereagh's death, [[George Gordon Byron, 6th Baron Byron|Lord Byron]] wrote a savage quip about his grave:
+
+:Posterity will ne'er survey
+:A nobler grave than this:
+:Here lie the bones of Castlereagh:
+:Stop, traveller, and piss.&lt;ref&gt;{{cite web|first=Kurt A. |last=Sanftleben |url=http://www.sanftleben.com/Last%20Words/lastwords-ep-a.html |title=Epitaphs A–C |publisher=Last Words |date= |accessdate=2009-05-29}}&lt;/ref&gt;
+
+And yet, some of Castlereagh's political opponents were gracious in their epigrams. [[Henry Brougham, 1st Baron Brougham and Vaux|Henry Brougham]], a Whig politician and later the [[Lord Chancellor]], who had battled frequently with Castlereagh, once almost to the point of calling him out, and had denigrated his skills as Leader,&lt;ref&gt;[[Henry Brougham, 1st Baron Brougham and Vaux|Henry Lord Brougham]], &quot;Lord Castlereagh,&quot; ''Historical Sketches of Statesmen in the Time of George III'', London: Charles Knight &amp; Co. (1845), Second Series, Vol I, pp.&amp;nbsp;149–61.&lt;/ref&gt; wrote in the week following Castlereagh's death:&lt;ref&gt;Sir Herbert Maxwell, ed. (1904), &quot;Henry Brougham M.P. to Thomas Creevey, August 19, 1822,&quot; [http://www.archive.org/stream/creeveypaperssel02creeuoft/creeveypaperssel02creeuoft_djvu.txt ''The Creevey Papers''], London: John Murray, 2nd edition, Vol II, p 44. Internet Archive retrieved on 2009-07-09.&lt;/ref&gt;
+
+:Put all their other men together in one scale, and poor Castlereagh in the other – single he plainly weighed them down... One can't help feeling a little for him, after being pitted against him for several years, pretty regularly. It is like losing a connection suddenly. Also he was a gentleman, and the only one amongst them.
+
+An [[English Heritage]] [[blue plaque]] is displayed at the entrance to the [[listed building]] [[Loring Hall]], now a care facility for those with learning disabilities, in commemoration of Castlereagh, who occupied the property from 1811 until his death.&lt;ref name='EngHet'&gt;{{cite web| url=http://www.english-heritage.org.uk/discover/blue-plaques/search/stewart-robert-viscount-castlereagh-1769-1822|title=STEWART, ROBERT, VISCOUNT CASTLEREAGH (1769-1822)|publisher=English Heritage| accessdate=2012-10-22}}&lt;/ref&gt;
+
+== Ghost story ==
+Robert Stewart was said to have seen a ghost in the barracks at [[Ballyshannon]] one night. He claimed that the face of a boy came out of the fireplace and approached him. When he stepped forward toward it, it receded and then faded away. Castlereagh supposedly told this story to Sir Walter Scott, and called the apparition &quot;The Radiant Boy.&quot; &lt;ref name=Graves&gt;{{cite book|last=Graves|first=Afred Perceval|title=Irish Literary and Musical Studies|year=1914|publisher=Charles Scribner's Sons|location=New York|pages=95|url=http://books.google.com/books?id=UI736hY4SvcC&amp;pg=PA95&amp;lpg=PA95&amp;dq=lord+castlereagh+ghost&amp;source=bl&amp;ots=MfWOCuQbg0&amp;sig=NFIx-3fMtEoqPlMErKt_wPTCiB8&amp;hl=en#v=onepage&amp;q=lord%20castlereagh%20ghost&amp;f=false}}&lt;/ref&gt;
+
+== Styles ==
+Robert Stewart was styled as follows:&lt;ref name=&quot;Leigh&quot;/&gt;:&lt;ref&gt;[http://www.1911encyclopedia.org/Earls_and_marquesses_of_Londonderry &quot;Earls and Marquesses of Londonderry&quot;]''Encyclopædia Britannica'' (1911 ed.) Retrieved 2009-07-08.&lt;/ref&gt;&lt;ref&gt;[http://www.thepeerage.com/p2832.htm#i28318  &quot;Robert Stewart, 2nd Marquess of Londonderry&quot;], thePeerage.com. Retrieved 2009-07-09&lt;/ref&gt;&lt;ref&gt;[http://www.heraldica.org/topics/orders/garterlist.htm List of the Knights of the Garter (1348–present)] www.heraldica.org&lt;/ref&gt;
+*Robert Stewart, [[Esquire]] (1769–1789)
+*''[[The Honourable]]'' Robert Stewart (1789–1796)
+*Viscount Castlereagh (1796–1797)
+*''[[The Right Honourable]]'' Viscount Castlereagh (1797–1814)
+*''The Right Honourable'' Viscount Castlereagh, [[Knight of the Garter|KG]] (1814–1821)
+*''[[The Most Honourable]]'' The Marquess of Londonderry, KG, [[Royal Guelphic Order|GCH]], [[Her Majesty's Most Honourable Privy Council|PC]], [[Privy Council of Ireland|PC (Ire)]] (1821–1822)
+
+== Notes ==
+{{Reflist| group=&quot;n&quot;}}
+
+== References ==
+{{Reflist|2}}
+
+== Further reading ==
+*[[John Bew]], ''Castlereagh: Enlightenment, War and Tyranny'', London: Quercus (2011) ISBN 978-0-85738-186-6
+* Goodlad, Graham. &quot;From Castlereagh to Canning: Continuity and Change in British Foreign Policy,&quot; ''History Review'' (2008) Issue: 62. pp10+ [http://www.questia.com/PM.qst?a=o&amp;d=5033651445 online]
+*Christopher John Bartlett, ''Castlereagh'', London: Macmillan (1966) — especially for diplomatic history
+*John W. Derry, ''Castlereagh'', London: A. Lane (1976)
+*Wendy Hinde, ''Castlereagh'', London: Collins (1981)
+*Giles Hunt, ''The Duel: Castlereagh, Canning and deadly cabinet rivalry'', B Tauris &amp; Co Ltd, UK/Palgrave Macmillan (2008) ISBN 1-84511-593-7
+*David King, '' Vienna 1814; How the Conquerors of Napoleon Made Love, War, and Peace at the Congress of Vienna'', Random House, Inc. (2008) ISBN 978-0-307-33716-0
+*[[Henry Kissinger]], ''A World Restored: Metternich, Castlereagh, and the Problems of Peace, 1812–22'', Houghton Mifflin (1973) ISBN 978-0-395-17229-2  (1st pub.1957)
+*Ione Leigh, ''Castlereagh'', London: Collins (1951) — especially for early years, access to family papers
+*Rory Muir, ''Britain and the defeat of Napoleon, 1807–1815'', New Haven: Yale University Press (1966) ISBN 978-0-300-06443-8
+*[[Harold Nicolson]], ''The Congress of Vienna'', Constable &amp; Co Ltd, UK/Harcourt Brace and Company (1946)
+*Bradford Perkins, ''Castlereagh and Adams: England and the United States, 1812–1823'', Berkeley: University of California Press (1964)
+*[[Charles Webster (historian)|Charles Webster]], ''The Foreign Policy of Castlereagh'', in 2 volumes, ''1812–1815'' (1931) and ''1815–1822'' (1925; 2nd ed 1934)
+*[[Adam Zamoyski]], ''Rites of Peace; the Fall of Napoleon and the Congress of Vienna'', HarperCollins Publishers (2007) ISBN 978-0-06-077518-6
+===Primary sources and older studies===
+*[http://books.google.com/books?q=editions:LCCN04031684&amp;id=cLAVJdLgD_0C&amp;source=gbs_book_other_versions_r&amp;cad=8 ''Memoirs and Correspondence of Viscount Castlereagh, 2nd Marquess of Londonderry''], edited by his brother, [[Charles Vane, 3rd Marquess of Londonderry|Charles William (Stewart) Vane, 3rd Marquess of Londonderry]], London: John Murray (1848–53)  in 12 volumes
+*[[Henry Brougham, 1st Baron Brougham and Vaux|Henry Lord Brougham]], [http://books.google.com/books?id=GZIBAAAAQAAJ &quot;Lord Castlereagh,&quot; ''Historical Sketches of Statesmen in the Time of George III''], London: Charles Knight &amp; Co. (1845), Second Series, Vol I, pp.&amp;nbsp;149–61
+*[[Sir Archibald Alison, 1st Baronet|Sir A. Alison.]], [http://books.google.com/books?q=editions:0mjL_UqBjrXqlMTfTieGLD&amp;id=ghAMAAAAYAAJ ''Lives of Lord Castlereagh and Sir Charles Stewart''], 3 vols., London: Blackwood (1861)
+
+{{1911}}
+
+== External links ==
+*{{Hansard-contribs | mr-robert-stewart-1 | Viscount Castlereagh }}
+*[http://books.google.com/books?id=BnQRAAAAMAAJ ''A Letter to Lord Viscount Castlereagh''], John C. Hobhouse, London: Robert Stodart (1819), on the Peterloo massacre
+* {{npg name|id=02782|name=Robert Stewart, 2nd Marquess of Londonderry (Lord Castlereagh)}}
+
+{{s-start}}
+{{s-par|ie}}
+{{s-bef| before = [[Arthur Hill, 2nd Marquess of Downshire|The Earl of Hillsborough]] &lt;br/&gt; [[Edward Ward (politician)|Hon. Edward Ward]] }}
+{{s-ttl| title  = [[Member of Parliament]] for [[Down (Parliament of Ireland constituency)|Down]]
+       | with   = [[Arthur Hill, 2nd Marquess of Downshire|The Earl of Hillsborough]] 1790–1793
+       | with2  = [[Francis Savage]] 1794–1801
+       | years  = 1790–[[United Kingdom general election, 1801|1801]] }}
+{{s-aft| after  = Parliament of the United Kingdom }}
+
+{{s-bef| before = [[Hugh Carncross]] &lt;br/&gt; [[Richard Trench, 2nd Earl of Clancarty|Hon. Richard Trench]] }}
+{{s-ttl| title  = [[Member of Parliament]] for [[Newtown Limavady (Parliament of Ireland constituency)|Newtown Limavady]]
+       | with   = [[Hugh Carncross]]
+       | years  = 1798 }}
+{{s-aft| after  = [[John Maxwell-Barry, 5th Baron Farnham|John Maxwell]] &lt;br/&gt; [[Eyre Power Trench]] }}
+
+{{s-par|gb}}
+{{s-bef| before = [[John Stephenson (MP)|John Stephenson]] &lt;br/&gt; [[Matthew Montagu, 4th Baron Rokeby|Matthew Montagu]] }}
+{{s-ttl| title  = [[Member of Parliament]] for [[Tregony (UK Parliament constituency)|Tregony]]
+       | with   = [[Matthew Montagu, 4th Baron Rokeby|Matthew Montagu]]
+       | years  = [[Tregony by-election, 1794|1794]]–[[British general election, 1796|1796]] }}
+{{s-aft| after  = [[Sir Lionel Copley, 2nd Baronet|Lionel Copley]] &lt;br/&gt; [[John Nicholls (MP)|John Nicholls]] }}
+
+{{s-bef| before = [[William Seymour-Conway]] &lt;br/&gt; [[Robert Seymour-Conway (MP)|Robert Seymour-Conway]] }}
+{{s-ttl| title  = [[Member of Parliament]] for [[Orford (UK Parliament constituency)|Orford]]
+       | with   = [[Robert Seymour-Conway (MP)|Robert Seymour-Conway]]
+       | years  = [[British general election, 1796|1796]]–[[Orford by-election, 1797|1797]] }}
+{{s-aft| after  = [[Robert Seymour-Conway (MP)|Robert Seymour-Conway]] &lt;br/&gt; [[Francis Seymour-Conway, 3rd Marquess of Hertford|The Earl of Yarmouth]] }}
+
+{{s-par|uk}}
+{{s-new|constituency}}
+{{s-ttl| title  = [[Member of Parliament]] for [[Down (UK Parliament constituency)|Down]]
+       | with   = [[John Meade (politician)|John Meade]]
+       | years  = [[United Kingdom general election, 1801|1801]]–[[County Down by-election, 1805|1805]] }}
+{{s-aft| after  = [[Francis Savage]] &lt;br/&gt; [[John Meade (politician)|John Meade]] }}
+
+{{s-bef| before = [[John Scott (MP)|John Scott]] &lt;br/&gt; [[Edward Berkeley Portman]] }}
+{{s-ttl| title  = [[Member of Parliament]] for [[Boroughbridge (UK Parliament constituency)|Boroughbridge]]
+       | with   = [[Edward Berkeley Portman]]
+       | years  = [[Boroughbridge by-election, 1806|January]]–[[United Kingdom general election, 1806|November 1806]] }}
+{{s-aft| after  = [[Henry Dawkins]] &lt;br/&gt; [[William Henry Clinton]] }}
+
+{{s-bef| before = [[Edward Golding (MP)|Edward Golding]] &lt;br/&gt; [[Philip Metcalfe]] }}
+{{s-ttl| title  = [[Member of Parliament]] for [[Plympton Erle (UK Parliament constituency)|Plympton Erle]]
+       | with   = [[Sir Stephen Lushington, 1st Baronet|Sir Stephen Lushington, Bt]] 1806–1807
+       | with2  = [[William Harbord, 2nd Baron Suffield|Hon. William Harbord]] 1807–1810
+       | with3  = [[Henry Drummond (1786–1860)|Henry Drummond]] 1810–1812
+       | years  = [[United Kingdom general election, 1806|1806]]–[[United Kingdom general election, 1812|1812]] }}
+{{s-aft| after  = [[Ranald George Macdonald]] &lt;br/&gt; [[George Duckett (1777-1856)|George Duckett]] }}
+
+{{s-bef| before = [[Robert Curzon (MP)|Robert Curzon]] &lt;br/&gt; [[James Gordon (MP)|James Gordon]] }}
+{{s-ttl| title  = [[Member of Parliament]] for [[Clitheroe (UK Parliament constituency)|Clitheroe]]
+       | with   = [[Robert Curzon (MP)|Robert Curzon]]
+       | years  = [[United Kingdom general election, 1812|1812]]–[[Clitheroe by-election, 1812|1812]] }}
+{{s-aft| after  = [[Robert Curzon (MP)|Robert Curzon]] &lt;br/&gt; [[Edward Bootle-Wilbraham, 1st Baron Skelmersdale|Edward Bootle-Wilbraham]]}}
+
+{{s-bef| before = [[John Meade (politician)|John Meade]] &lt;br/&gt; [[Robert Ward (1754–1831)|Hon. Robert Ward]] }}
+{{s-ttl| title  = [[Member of Parliament]] for [[Down (UK Parliament constituency)|Down]]
+       | with   = [[John Meade (politician)|John Meade]] 1812–1817
+       | with2  = [[Arthur Hill, 2nd Baron Sandys|Lord Arthur Hill]] 1817–1821
+       | years  = [[United Kingdom general election, 1812|1812]]–[[Down by-election, 1821|1821]] }}
+{{s-aft| after  = [[Arthur Hill, 2nd Baron Sandys|Lord Arthur Hill]] &lt;br/&gt; [[Matthew Forde]] }}
+
+{{s-bef| before = [[John Douglas (died 1838)|John Douglas]] &lt;br/&gt; [[Edmond Alexander MacNaghten]] }}
+{{s-ttl| title  = [[Member of Parliament]] for [[Orford (UK Parliament constituency)|Orford]]
+       | with   = [[Edmond Alexander MacNaghten]]
+       | years  = [[Orford by-election, 1821|1821]]–[[Orford by-election, 1822|1822]] }}
+{{s-aft| after  = [[Edmond Alexander MacNaghten]] &lt;br/&gt; [[Charles Ross (politician)|Charles Ross]] }}
+
+{{s-off}}
+{{s-bef|rows=2 |before= [[Richard Boyle, 2nd Earl of Shannon|The Earl of Shannon]] &lt;br/&gt;[[Sir John Parnell, 2nd Baronet|Sir John Parnell, Bt]] &lt;br/&gt;[[Thomas Pelham, 2nd Earl of Chichester|Hon. Thomas Pelham]] &lt;br/&gt;[[John Monck Mason]] &lt;br/&gt;[[Lodge de Montmorency, 1st Viscount Frankfort de Montmorency|Lodge Morres]]}}
+{{s-ttl|title=[[Lord High Treasurer of Ireland|Commissioner of the Treasury for Ireland]]|years=1797–1799 | with =[[Richard Boyle, 2nd Earl of Shannon|The Earl of Shannon]]&lt;br/&gt;[[Isaac Corry]]&lt;br/&gt;[[Thomas Pelham, 2nd Earl of Chichester|Hon. Thomas Pelham]]&lt;br/&gt;[[John Monck Mason]]&lt;br/&gt;[[Lodge de Montmorency, 1st Viscount Frankfort de Montmorency|Lodge Morres]]}}
+{{s-aft|rows=2 |after=[[Richard Boyle, 2nd Earl of Shannon|The Earl of Shannon]]&lt;br /&gt;[[Isaac Corry]]&lt;br /&gt;[[Charles Abbot, 1st Baron Colchester|Charles Abbot]]&lt;br /&gt;[[Lodge de Montmorency, 1st Viscount Frankfort de Montmorency|The Lord Frankfort]]&lt;br&gt;[[John Loftus, 2nd Marquess of Ely|Viscount Loftus]]&lt;br /&gt;[[Maurice FitzGerald, 18th Knight of Kerry|Maurice FitzGerald]]}}
+{{s-ttl|title = [[Lord High Treasurer of Ireland|Commissioner of the Treasury for Ireland]]|years=1800 |with =[[Richard Boyle, 2nd Earl of Shannon|The Earl of Shannon]]&lt;br /&gt;[[Isaac Corry]]&lt;br /&gt;[[Lodge de Montmorency, 1st Viscount Frankfort de Montmorency|Lodge Morres]]&lt;br /&gt;[[John Loftus, 2nd Marquess of Ely|Viscount Loftus]]&lt;br /&gt;[[William Wickham (spymaster)|William Wickham]] &lt;br/&gt;[[Maurice FitzGerald, 18th Knight of Kerry|Mourice FitzGerald]]}}
+
+{{s-bef|before=[[Thomas Pelham, 2nd Earl of Chichester|Hon. Thomas Pelham]]}}
+{{s-ttl|title=[[Chief Secretary for Ireland]]|years=1798–1801}}
+{{s-aft|after=[[Charles Abbot, 1st Baron Colchester|Charles Abbot]]}}
+
+{{s-bef|before=[[George Legge, 3rd Earl of Dartmouth|The Earl of Dartmouth]]}}
+{{s-ttl|title=[[President of the Board of Control]]|years=1802–1806}}
+{{s-aft|after=[[Gilbert Elliot-Murray-Kynynmound, 1st Earl of Minto|The Lord Minto]]}}
+
+{{s-bef|before=[[John Pratt, 1st Marquess Camden|The Earl Camden]]}}
+{{s-ttl|title=[[Secretary of State for War and the Colonies]]|years=1805–1806}}
+{{s-aft|after=[[William Windham]]}}
+
+{{s-bef|before=[[William Windham]]}}
+{{s-ttl|title=[[Secretary of State for War and the Colonies]]|years=1807–1809}}
+{{s-aft|after=[[Robert Jenkinson, 2nd Earl of Liverpool|The Earl of Liverpool]]}}
+
+{{s-bef|before=[[Richard Wellesley, 1st Marquess Wellesley|The Marquess Wellesley]]}}
+{{s-ttl|title=[[Secretary of State for Foreign Affairs|Foreign Secretary]]|years=1812–1822}}
+{{s-aft|rows=2|after=[[George Canning]]}}
+{{s-bef|before=[[Spencer Perceval|Hon. Spencer Perceval]]}}
+{{s-ttl|title=[[Leader of the House of Commons]]|years=1812–1822}}
+
+{{s-reg|ie}}
+{{s-bef|before=[[Robert Stewart, 1st Marquess of Londonderry|Robert Stewart]]}}
+{{s-ttl|title=[[Marquess of Londonderry]]|years=1821–1822}}
+{{s-aft|after=[[Charles Vane, 3rd Marquess of Londonderry|Charles William (Stewart) Vane]]}}
+{{s-end}}
+
+{{Foreign Secretary}}
+{{Leader of the House of Commons}}
+
+{{Authority control|VIAF=15560591}}
+{{Persondata
+| NAME              =Castlereagh, Robert Stewart, Viscount
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British politician
+| DATE OF BIRTH     =1769-06-18
+| PLACE OF BIRTH    =[[Dublin]], [[Kingdom of Ireland|Ireland]]
+| DATE OF DEATH     =1822-08-12
+| PLACE OF DEATH    =[[Loring Hall]], [[Kent]], [[England]], [[United Kingdom of Great Britain and Ireland|UK]]
+}}
+{{DEFAULTSORT:Castlereagh, Robert Stewart, Viscount}}
+[[Category:1769 births]]
+[[Category:1822 deaths]]
+[[Category:Politicians from County Dublin]]
+[[Category:People educated at The Royal School, Armagh]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:Blue plaques in the London Borough of Bexley]]
+[[Category:British MPs 1790–1796]]
+[[Category:British MPs 1796–1800]]
+[[Category:British people of the Napoleonic Wars]]
+[[Category:British politicians who committed suicide]]
+[[Category:British Secretaries of State for Foreign Affairs]]
+[[Category:Burials at Westminster Abbey]]
+[[Category:Duellists]]
+[[Category:English Heritage blue plaques]]
+[[Category:Irish MPs 1790–1797]]
+[[Category:Irish MPs 1798–1800]]
+[[Category:Irish politicians who committed suicide]]
+[[Category:Knights Grand Cross of the Royal Guelphic Order]]
+[[Category:Knights of the Garter]]
+[[Category:LGBT history in the United Kingdom]]
+[[Category:Marquesses in the Peerage of Ireland|Londonderry, Robert Stewart, 2nd Marquess of]]
+[[Category:Members of the Privy Council of Great Britain]]
+[[Category:Members of the Privy Council of Ireland]]
+[[Category:Members of the United Kingdom Parliament for Irish constituencies (1801–1922)]]
+[[Category:Members of the United Kingdom Parliament for English constituencies]]
+[[Category:Nobility who committed suicide]]
+[[Category:People of the Irish Rebellion of 1798]]
+[[Category:Political history of Ireland]]
+[[Category:Suicides by sharp instrument]]
+[[Category:Suicides in England]]
+[[Category:UK MPs 1801–1802]]
+[[Category:UK MPs 1802–1806]]
+[[Category:UK MPs 1806–1807]]
+[[Category:UK MPs 1807–1812]]
+[[Category:UK MPs 1812–1818]]
+[[Category:UK MPs 1818–1820]]
+[[Category:UK MPs 1820–1826]]
+[[Category:Members of the Parliament of Great Britain for constituencies in Cornwall]]
+[[Category:Members of the United Kingdom Parliament for constituencies in Cornwall]]
+[[Category:Leaders of the House of Commons]]
+[[Category:Vane-Tempest-Stewart family|Robert]]
+[[Category:Fellows of the Royal Society]]
+
+[[da:Robert Stewart, viscount Castlereagh]]
+[[de:Robert Stewart, 2. Marquess of Londonderry]]
+[[es:Robert Stewart, Vizconde de Castlereagh]]
+[[fr:Robert Stewart (vicomte Castlereagh)]]
+[[ga:Robert Stewart, Bíocunta an Chaisleáin Riabhaigh]]
+[[ko:캐슬레이 자작 로버트 스튜어트]]
+[[it:Robert Stewart, Visconte Castlereagh]]
+[[he:לורד קסלרי]]
+[[nl:Henry Robert Stewart]]
+[[ja:ロバート・ステュアート (カスルリー子爵)]]
+[[pl:Robert Stewart, wicehrabia Castlereagh]]
+[[pt:Robert Stewart, 2.º Marquês de Londonderry]]
+[[ru:Каслри, Роберт Стюарт]]
+[[fi:Robert Stewart]]
+[[sv:Robert Stewart, viscount Castlereagh]]
+[[zh:羅伯特·史都華，卡蘇里子爵]]</text>
+      <sha1>sgsqdi1ugtqrcondsiuequ22r4gx2p1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

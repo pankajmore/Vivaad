@@ -1,0 +1,88 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Haldane principle</title>
+    <ns>0</ns>
+    <id>2149716</id>
+    <revision>
+      <id>480682573</id>
+      <parentid>480682517</parentid>
+      <timestamp>2012-03-07T16:10:16Z</timestamp>
+      <contributor>
+        <username>Peter1c</username>
+        <id>1064339</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3499">In British research policy, the '''Haldane principle''' is the idea that decisions about what to spend research funds on should be made by researchers rather than politicians. It is named after [[Richard Burdon Haldane]], who in 1904 and from 1909 to 1918 chaired committees and commissions which recommended this policy.
+
+The 1904 committee recommended the creation of the [[University Grants Committee (UK)|University Grants Committee]] which has evolved via the [[Universities Funding Council]] into the current higher education funding councils [[Higher Education Funding Council for England]], [[Scottish Funding Council]] and [[Higher Education Funding Council for Wales]].
+
+In 1918 Haldane's committee produced the 'Haldane Report'.  The report suggested that research required by government departments could be separated into that required by specific departments and that which was more general.  It recommended that departments should oversee the specific research but the general research should be under the control of autonomous [[Research Council]]s, which would be free from political and administrative pressures that might discourage research in certain areas.  The principle of the autonomy of the research councils is now referred to as the Haldane Principle. The first research council to be created as a result of the Haldane Report was the [[Medical Research Council (UK)|Medical Research Council]]. 
+
+The principle has remained enshrined in British Government policy, but has been criticised and altered over the years.  In 1939 [[J.D. Bernal]] argued that social good was more important than researchers' freedom in deciding the direction of research.  [[Solly Zuckerman]] criticised it in 1971 for its artificial separation of basic and applied science, and the consequent elevation of the status of the former.  
+
+A major revision to the application of the Haldane Principle in British research funding came in the early 1970s with the Rothschild Report of 1971, and its implementation which transferred about 25% of the then Research Council funds, and the decisions on the research to be funded with them, back to government departments.
+
+There is currently a debate about the extent to which the principle is still applied in practice.
+
+(Note that this principle is unrelated to [[Haldane's rule]], the zoological principle named after [[J. B. S. Haldane]].)
+
+==References==
+
+* Duffy, M.P. (1986). [http://links.jstor.org/sici?sici=0162-2439%28198624%2911%3A1%3C68%3ATREHSP%3E2.0.CO%3B2-6 The Rothschild Experience: Health Science Policy and Society in Britain]. ''Science, Technology, &amp; Human Values'' '''11''' 68-78. (Available at JSTOR with subscription.)
+
+Duffy cites the following sources:
+*Bernal, J.D. (1939) ''The Social Function of Science''. London: Routledge and Kegan Paul.
+*Zuckerman, S. (1971). ''Times Literary Supplement'' p.1385 (5 November 1971).
+*The Rothschild Report (1971). ''A Framework for Government Research and Development''. London: HMSO.
+*The Haldane Report (1918). ''Report of the Machinery of Government Committee under the chairmanship of Viscount Haldane of Cloan''. London: HMSO.
+* Noam Chomsky, [http://www.chomsky.info/talks/20110406.htm &quot;Academic Freedom and the Corporatization of Universities&quot;]
+
+==See also==
+
+* Gummett, P. (1980) ''Scientists in Whitehall''. Manchester: Manchester University Press.
+
+[[Category:Politics by issue]]
+[[Category:Research]]
+[[Category:Policy]]
+[[Category:Research Councils]]
+
+[[ko:홀데인 원칙]]</text>
+      <sha1>4xzyi6qwodsx1bgrv28glmd759sfrbh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

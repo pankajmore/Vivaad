@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Peacefire</title>
+    <ns>0</ns>
+    <id>811425</id>
+    <revision>
+      <id>498418255</id>
+      <parentid>476142605</parentid>
+      <timestamp>2012-06-20T00:02:37Z</timestamp>
+      <contributor>
+        <username>Yutsi</username>
+        <id>9944834</id>
+      </contributor>
+      <comment>/* External links */ removed unnecessary linksf</comment>
+      <text xml:space="preserve" bytes="4159">{{primarysources|date=June 2011}}
+&lt;!-- Deleted image removed: [[Image:Peacefire Main Page.jpg|thumb|Peacefire.org Main Page]]  --&gt;
+'''Peacefire''' is a [[United States|U.S.]]-based [[website]], with a registered address in [[Bellevue, Washington]], dedicated to &quot;preserving [[First Amendment to the United States Constitution|First Amendment]] rights for [[Internet]] users, particularly those younger than 18&quot;. It was founded in August 1996 by [[Bennett Haselton]], who still runs it. The site's motto is, &quot;You'll understand when you're younger.&quot;
+
+==Ideology==
+Peacefire is primarily concerned with [[free speech]] rights. The authors on the site have been opponents of web content [[Internet filter|filtering]] and [[content-control software]], which they refer to as [[censorware]]&lt;ref&gt;{{cite web|title=About Peacefire|url=http://www.peacefire.org/info/about-peacefire.shtml}}&lt;/ref&gt; or ''blocking software''. They have offered [http://www.peacefire.org/bypass/ numerous methods] for defeating common web filters, and this has drawn some interest from the Internet community. The site has conducted long battles against the most commonly used filter programs, including, most famously, [[SurfWatch]], [[Net Nanny]], [[SurfControl|CyberPatrol]], and [[Bess (content-control software)|Bess]]. In particular, Peacefire has demonstrated that the filter programs suppress political speech and filter preferentially for corporate and [[Conservatism|conservative]] causes. In other cases, Peacefire has presented evidence that several filtering programs block some websites without having a human being review those sites first, despite the filtering companies' claims to the contrary. However, Peacefire is not usually active against filters that act in a more neutral way. Peacefire criticised [[SurfWatch]] for indiscriminately  blocking gay and lesbian web sites.
+
+===Further information===
+One common test that Peacefire runs is to create web pages filled with content clipped from news items. In particular, they will take quotes from conservative politicians that seem politically sensitive. They will then submit the site to a filter and see if it gets blocked. They will then point out that the content deemed &quot;inappropriate&quot; on their pages was, in fact, &quot;appropriate&quot; when coming from a corporate (or conservative [[blog]]) site. They also routinely search out sites of [[Liberalism|liberal]] and [[progressivism|progressive]] content to see if they are blocked. They then compile a report to point out how the said software is discriminatory and restrictive of free speech/free access in what it censors. They offer these reports to the software makers and later follow up to see if any corrective measures have been taken.
+
+The site is also involved in alerting the online community of efforts to pass laws restricting content to websites. Peacefire's own website is often blocked, either in part or whole, by filtering software, and the organization has both sued and been threatened with lawsuits in [[Civil procedure|civil court]] in the [[United States]]. Peacefire claims to have about twelve staffers and about 7,000 members. Anyone of any age can become a member by signing up for the site's low-volume, announcement-only [[electronic mailing list]].
+
+==Court cases==
+In March 2002, Peacefire won a $1000 award at [[King County, Washington|King County]] [[District court#United States of America|District Court]] in [[Bellevue, Washington]] in each of three cases against Red Moss Media, Paulann Allison, and Richard Schueler (for sending misleading, unsolicited, commercial emails to its webmaster bearing deceptive information such as a forged return e-mail address or a misleading subject line), in a test of [[Washington (U.S. state)|Washington]]'s tough anti-[[spamming]] laws.
+
+==Notes==
+&lt;references/&gt;
+
+==External links==
+*{{official|http://www.peacefire.org}}
+*[https://www.stupidcensorship.com/ Circumventor] ([[proxy]]) at Stupid Censorship
+[[Category:Ageism]]
+[[Category:1996 establishments]]
+[[Category:Freedom of expression]]
+[[Category:American political websites]]
+[[Category:Youth rights organizations based in the United States]]</text>
+      <sha1>r9s1i6daxly9fdwxwr8fiwp7uohsq0s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

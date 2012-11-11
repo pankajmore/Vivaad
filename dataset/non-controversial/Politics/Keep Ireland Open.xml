@@ -1,0 +1,89 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Keep Ireland Open</title>
+    <ns>0</ns>
+    <id>11931865</id>
+    <revision>
+      <id>484656820</id>
+      <parentid>482271278</parentid>
+      <timestamp>2012-03-30T06:27:26Z</timestamp>
+      <contributor>
+        <username>Tim!</username>
+        <id>203786</id>
+      </contributor>
+      <comment>added [[Category:1994 establishments in Ireland]] using [[WP:HC|HotCat]]</comment>
+      <text xml:space="preserve" bytes="2614">{{Infobox Organization
+| name         = Keep Ireland Open
+| image        = 
+| formation    = 1994
+| type         = [[Non-governmental organization|NGO]], Pressure Group
+| headquarters = [[Dublin]], [[Ireland]]
+| leader_title = Chairman
+| leader_name  = [[Roger Garland]]
+| website      = http://www.keepirelandopen.org/
+}}
+
+'''Keep Ireland Open''' is a voluntary campaign organisation established to promote access to the  Irish countryside and walkways. Founded in 1994, its current chairman is former [[Irish Green Party|Green Party]] [[Teachtai Dala|TD]], [[Roger Garland]]. The group believes Irish legislation protecting [[easement|rights-of-way]] and access to recreational use of land is inadequate and minimal. It consists of combination of individual members and various outdoors and environmental groups; including the [[Irish Ramblers]], [[An Óige]], all of the Scout and Guide Associations, the [[United Farmers Association]], [[Irish Wildlife Trust]], [[Association of Irish Riding Clubs]], Federation of Local History Society and numerous other walking groups. It claims that the [[Republic of Ireland]] has one of the poorest records of protecting walking routes in [[Europe]] and that it is heavily influenced by farmers' lobby groups that resist further legislation. The organisation states freedom to roam over rough grazing land, a network of well-maintained rights-of-way in lowland areas  and minimisation of barbed-wire fencing in mountain areas, as its aspirations. Keep Ireland Open has also been involved in several individual access disputes around the country, in [[County Wicklow|Wicklow]], [[County Cork|Cork]], [[County Sligo|Sligo]], [[Donegal]] and many other areas. These include groups such as the [[Free the Old Head of Kinsale]] campaign which campaign actively for restoration of public access where it was previously enjoyed.
+
+Keep Ireland Open representatives would make presentations to government bodies, county councils, and submissions to Oireachtas Committees in support of the right to roam.&lt;ref&gt;[http://www.constitution.ie/reports/9th-Report-Property.pdf THE ALL-PARTY OIREACHTAS COMMITTEE ON THE CONSTITUTION] www.constitution.ie, 2003.&lt;/ref&gt;
+
+==See also==
+*[[Freedom to roam]]
+
+==External links==
+*[http://www.keepirelandopen.org/ Keep Ireland Open]
+
+== References ==
+{{reflist|1}}
+
+
+[[Category:Activism]]
+[[Category:Political pressure groups of Ireland]]
+[[Category:Advocacy groups]]
+[[Category:Organisations based in the Republic of Ireland]]
+[[Category:Freedom to roam]]
+[[Category:1994 establishments in Ireland]]
+
+{{Ireland-org-stub}}
+
+[[ga:Keep Ireland Open]]</text>
+      <sha1>nazt7x04xj3rfn52ipey7yzuqvyf938</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

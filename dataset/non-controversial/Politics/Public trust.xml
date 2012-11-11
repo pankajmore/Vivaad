@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Public trust</title>
+    <ns>0</ns>
+    <id>174363</id>
+    <revision>
+      <id>486072385</id>
+      <parentid>481241214</parentid>
+      <timestamp>2012-04-07T12:54:47Z</timestamp>
+      <contributor>
+        <username>Ptbotgourou</username>
+        <id>7355879</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.2) (Robot: Adding [[fr:Public trust]]</comment>
+      <text xml:space="preserve" bytes="2169">{{for|the New Zealand crown entiry|Public Trust (New Zealand)}}
+
+The concept of the '''public trust''' relates back to the origins of [[democratic government]] and its seminal idea that within the public lies the true power and future of a society; therefore, whatever ''trust'' the public places in its officials must be respected.
+
+One of the reasons that [[bribery]] is regarded as a notorious [[evil]] is that it contributes to a culture of [[political corruption]] in which the public trust is eroded. Other issues related to political corruption or betrayal of public trust are [[lobbying]], special [[interest group]]s and the public [[cartel]].
+
+==Use in the Philippines==
+{{See also|Impeachment in the Philippines}}
+In the Philippines, &quot;betrayal of public trust&quot; is one of the impeachable offenses. In ''Francisco, Jr. vs. Nagmamalasakit na mga Manananggol ng mga Manggagawang Pilipino, Inc.,'' the [[Supreme Court of the Philippines]] ruled that the definition of &quot;betrayal of public trust&quot; is a &quot;a non-justiciable political question which is beyond the scope of its judicial power&quot; under the Constitution.&lt;ref&gt;{{cite court|litigants=Francisco, Jr. v. Nagmamalasakit na mga Manananggol ng mga Manggagawang Pilipino, Inc. |vol=415 |reporter= SCRA |opinion=44 |pinpoint=105 |court=[[Supreme Court of the Philippines|Supreme Court]] |date=2003 |url=http://sc.judiciary.gov.ph/jurisprudence/2003/nov2003/160261.htm}}&lt;/ref&gt; It did not prescribe which branch of government has the power to define it, but implies that Congress, which handles impeachment cases, has the power to do so.
+
+==Example of betrayal of public trust==
+A famous example of the betrayal of public trust is in [[Assassination of Julius Caesar|the assassination]] of [[Julius Caesar]], who was killed by [[Roman senate|Roman senators]] who believed they had to act drastically to preserve the [[Roman republic|republic]] against his alleged [[monarchical]] ambitions.
+
+==See also==
+*[[Public trust doctrine]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+
+{{DEFAULTSORT:Public Trust}}
+[[Category:Social ethics]]
+[[Category:Government]]
+
+
+{{Government-stub}}.
+
+[[fr:Public trust]]</text>
+      <sha1>0jh8ccka8xm8c3v9gk20xbdesi3jldy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

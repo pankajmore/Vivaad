@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Internal security</title>
+    <ns>0</ns>
+    <id>7198484</id>
+    <revision>
+      <id>510417602</id>
+      <parentid>504394434</parentid>
+      <timestamp>2012-09-02T11:57:26Z</timestamp>
+      <contributor>
+        <username>Cplakidas</username>
+        <id>613068</id>
+      </contributor>
+      <comment>added [[Category:Law enforcement]] using [[WP:HC|HotCat]]</comment>
+      <text xml:space="preserve" bytes="4054">{{unreferenced|date=November 2011}}
+
+'''Internal security''', or IS, is the act of keeping peace within the [[border]]s of a [[sovereign state]] or other [[Self-governance|self-governing territories]]. generally by upholding the national [[law]] and defending against internal security threats. Responsibility for internal security may range from [[police]] to [[paramilitary]] forces, and in exceptional circumstances, the [[military]] itself.
+
+==Threats to internal security==
+Threats to the general peace may range from low-level [[civil disorder]], large scale [[violence]], or even an armed [[insurgency]]. Threats to internal security may be directed at either the state's [[citizen]]s, or the organs and infrastructure of [[State (polity)|the state]] itself, and may range from petty [[crime]], serious [[organised crime]], political or industrial unrest, or even domestic [[terrorism]]. Foreign powers may also act as a threat to internal security, by either committing or sponsoring terrorism or [[rebellion]], without actually [[Declaration of war|declaring war]].
+
+==Forces and agencies==
+Governmental responsibility for internal security will generally rest with an [[interior ministry]], as opposed to a [[Defence minister|defence ministry]]. Depending on the state, a state's internal security will be maintained by either the ordinary [[List of law enforcement agencies|police or law enforcement]] agencies or more militarised police forces (known as [[List of Gendarmerie|Gendarmerie]]). Other specialised internal security agencies may exist to augment these main forces, such as [[List of national border guard agencies|border guards]], [[List of special police units|special police units]], or aspects of the state's [[intelligence agencies|List of intelligence agencies]]. In some states, internal security may be the primary responsibility of a [[List of secret police organizations|secret police force]].
+
+The level of authorised force used by agencies and forces responsible for maintaining internal security might range from unarmed [[police]] to fully armed [[paramilitary]] organisations, or employ some level of [[less-lethal weapon]]ry in between. For violent situations, internal security forces may contain some element of military type equipment such as [[non-military armored vehicles]].
+
+==Justice aspects==
+Depending on the organisation of the state, internal security forces may have [[jurisdiction]] on national or [[Federation|federal]] levels. As the concept of internal security refers to the entity of the state and its citizens, persons who are threats to internal security may be designated as an [[enemy of the state]] or [[enemy of the people]].
+
+Persons detained by internal security forces may either be dealt with by the normal [[criminal justice]] system, or for more serious crimes against internal security such as [[treason]], they may face special measures such as [[secret trial]]s. In times of extreme unrest, internal security actions may include measures such as [[internment]] (detention without trial).
+
+==Relationship with the military==
+Depending on the nature of the specific state's [[form of government]], enforcing internal security will generally not be carried out by a country's [[military]] forces, whose primary role is external defence, except in times of extreme unrest or other [[state of emergency]], short of [[civil war]]. Often, military involvement in internal security is explicitly prohibited, or is restricted to authorised [[military aid to the civil power]] as part of the principle of [[civilian control of the military]]. Military [[List of special forces units|special forces units]] may in some cases be put under the temporary command of civilian powers, for special internal security situations such as [[counter terrorism]] operations.
+
+==See also==
+* [[Homeland security]]
+* [[RSHA]]
+* [[National security]]
+* [[Private security]]
+* [[McCarran Internal Security Act]] of 1950 (US)
+
+==References==
+{{reflist}}
+
+[[Category:Government| ]]
+[[Category:Law enforcement]]</text>
+      <sha1>nqe6ads51n2k6hf07hm7v1z8tb6vol1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

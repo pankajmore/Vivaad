@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Co-option</title>
+    <ns>0</ns>
+    <id>1999877</id>
+    <revision>
+      <id>521570791</id>
+      <parentid>514527642</parentid>
+      <timestamp>2012-11-05T21:41:34Z</timestamp>
+      <contributor>
+        <username>Incnis Mrsi</username>
+        <id>449239</id>
+      </contributor>
+      <comment>cleansing yet another [[WP:DICTIONARY]] article. user making this do not understand what is an encyclopedia</comment>
+      <text xml:space="preserve" bytes="2329">{{about|a political term}}
+{{refimprove|date=March 2012}}
+{{Wiktionary|co-option|cooptation|co-opt}}
+A '''co-option''' (also '''cooptation''', '''co-optation''', '''cooption''') is an [[election]] in which members of a [[committee]] (or similar group) vote in order to fill a [[vacancy]] on that committee or group.   Where a small committee is originally elected using a method of [[proportional representation]], a co-option may be thought unsuitable as the newly elected member will then not necessarily represent the interests of the group represented by the vacating member.{{cn|date=March 2012}}
+A group may co-opt either an individual or a weaker or smaller group in order to [[assimilation (sociology)|assimilate]] it.
+
+==Studies of Philip Selznick==
+In his landmark study of the [[Tennessee Valley Authority]], [[Philip Selznick]] defined cooptation as  “absorbing new elements into the leadership or policy-determining structure of an organization as a means of averting threats to its stability or existence” and he defined two ideal types: formal and informal. Formal cooptation is publicly acknowledged, and done for two reasons: when legitimacy of organization or leadership is questioned by the governed or to create reliable channels for managerial communication and direction. Formal cooptation generally does not share actual power with co-opted, but instead shares the responsibility for power.
+Selznick defined informal cooptation as a response to specific individuals or groups who command necessary resources which therefore resulted in the co-opted party receiving real influence. Public acknowledgment would undermine legitimacy of authority, so the organization may refrain from explicitly recognizing this informal relationship.&lt;ref&gt;[[Philip Selznick]], &quot;TVA and the Grassroots&quot; (1949) p.&amp;nbsp;13–15 .&lt;/ref&gt;
+
+==See also==
+*[[Recuperation (politics)]]
+
+==References==
+{{Reflist}}
+
+[[Category:Elections]]
+[[Category:Political terms]]
+[[Category:Social psychology]]
+
+
+{{politics-stub}}
+{{organisation-stub}}
+
+
+[[ca:Cooptació]]
+[[cs:Kooptace]]
+[[de:Kooptation]]
+[[es:Cooptación]]
+[[fr:Cooptation]]
+[[id:Ko-opsi]]
+[[it:Cooptazione]]
+[[he:קואופטציה]]
+[[nl:Coöptatie]]
+[[pl:Kooptacja]]
+[[pt:Cooptação]]
+[[ru:Кооптация]]
+[[fi:Kooptaatio]]
+[[sv:Kooptation]]
+[[uk:Кооптація]]</text>
+      <sha1>lpq7g1bioeclar5ycq040rldsrai9zh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

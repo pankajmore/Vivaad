@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Civil libertarianism</title>
+    <ns>0</ns>
+    <id>560813</id>
+    <revision>
+      <id>519691009</id>
+      <parentid>519690816</parentid>
+      <timestamp>2012-10-25T03:22:42Z</timestamp>
+      <contributor>
+        <username>Donner60</username>
+        <id>12744454</id>
+      </contributor>
+      <comment>Reverted 2 edits by [[Special:Contributions/68.245.87.137|68.245.87.137]] ([[User talk:68.245.87.137|talk]]): Blanked see also section. ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve" bytes="3015">{{ref improve|date=October 2012}}
+{{Liberalism sidebar}}
+{{Libertarianism sidebar}}
+{{Globalize/US|date=September 2012}}
+
+'''Civil libertarianism''' is a strain of political thought that supports [[civil liberties]], or who emphasizes the supremacy of [[individual rights]] and [[personal freedom]]s over and against any kind of authority (such as a [[Sovereign state|state]], a [[corporation]], social norms imposed through [[peer pressure]], etc).&lt;ref&gt;http://dictionary.reference.com/browse/civil%20libertarian?r=14&lt;/ref&gt; Civil libertarianism is not a complete [[ideology]]; rather, it is a collection of views on the specific issues of [[civil liberties]] and [[civil rights]]. Because of this, a civil libertarian outlook is compatible with many other political philosophies, and civil libertarianism is found on both the [[political right|right]] and [[political left|left]] of modern politics&lt;ref&gt;http://politicalcompass.org/analysis2&lt;/ref&gt;, although it is often associated with liberals in the United States.
+
+The primary concern of the civil libertarian is the relationship of the government to the individual. The civil libertarian seeks, in theory, to restrict this relationship to an absolute minimum in which the state can function and provide basic services and securities without excessively interfering in the lives of its citizens. One key cause of civil libertarianism is upholding [[free speech]]. Specifically, civil libertarians oppose bans on [[hate speech]] and obscenity. Although they may or may not personally condone behaviors associated with these issues, civil libertarians hold that the advantages of unfettered public discourse outweigh all disadvantages.
+
+In the light of the [[9/11 terrorist attacks]], civil libertarians are also concerned over the state of personal liberties and freedoms in the face of increased national security. 
+
+Other civil libertarian positions include support for at least partial legalization of illicit substances ([[marijuana]], etc.), a strong demarcation between religion and politics, and, more recently, support for [[gay marriage]]. The most prominent civil libertarian organization in the [[United States]] today is the [[American Civil Liberties Union]].
+
+In the past 20 years, with the advent of [[personal computer]]s, the [[Internet]], [[email]], [[cell phone]]s, and other information technology advances, a subset of civil libertarianism has arisen that focuses on protecting individuals’ digital rights and privacy. The organization most closely affiliated with this sort of civil libertarianism is the [[Electronic Frontier Foundation]].
+
+== See also ==
+*[[Civil liberties]]
+*[[Anarchism]]
+*[[Digital rights]]
+*[[Libertarianism (disambiguation)|Different uses of the word &quot;libertarian&quot;]]
+*[[Libertarian socialism]]
+*[[Libertarianism|Libertarian capitalism]]
+*[[Minarchism]]
+
+==References==
+&lt;references /&gt;
+
+[[Category:Activism]]
+[[Category:Liberalism]]
+[[Category:Libertarianism]]
+
+[[es:Libertarismo civil]]
+[[lt:Civilinis libertarizmas]]</text>
+      <sha1>7qhhos60nthobeh2uby2nrdvtw665c3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

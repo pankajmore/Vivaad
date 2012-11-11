@@ -1,0 +1,75 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Revolution from above</title>
+    <ns>0</ns>
+    <id>1698800</id>
+    <revision>
+      <id>495117639</id>
+      <parentid>472965794</parentid>
+      <timestamp>2012-05-30T12:08:46Z</timestamp>
+      <contributor>
+        <username>Kylelovesyou</username>
+        <id>8571899</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1203">A '''revolution from above''' refers to major political and social changes that are imposed by an [[elite]] on the population it dominates. By contrast, the plain term [[revolution]] suggests that pressure from below is a major driving force in events, even if other social groups cooperate with — or ultimately capture —the movement. The phrase was coined by the Spanish writer [[Joaquín Costa]] in the 19th century.&lt;ref&gt;[[Stanley G. Payne]], ''The Franco Regime'', p. 10&lt;/ref&gt;
+
+In contrast, a &quot;revolution from below&quot; refers to a [[grassroots]] campaign against elites.
+
+==Some Examples==
+* [[Enlightened Despotism]] in 18th-century Europe
+* [[Fascism]]
+* [[Joseph Stalin|Stalin]]'s [[Collectivization in the Soviet Union|Collectivization]] of agriculture
+* [[White Revolution]] in [[Iran]]
+
+==See also==
+''[[Revolution from above (book) | Revolution from Above: Military Bureaucrats and Development in Japan, Turkey, Egypt, and Peru]]'', a 1978 book written by [[Ellen Kay Trimberger]], published by [[Transaction Books]].
+
+==References==
+&lt;references/&gt;
+
+[[Category:Political ideologies]]
+[[Category:Revolution terminology]]
+[[ru:Революция сверху]]
+
+{{politics-stub}}
+{{socio-stub}}</text>
+      <sha1>sp62jn070pmnto73xt60nrny2w94kwg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

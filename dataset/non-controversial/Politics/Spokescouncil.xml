@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Spokescouncil</title>
+    <ns>0</ns>
+    <id>1360974</id>
+    <revision>
+      <id>486774098</id>
+      <parentid>473236896</parentid>
+      <timestamp>2012-04-11T07:44:14Z</timestamp>
+      <contributor>
+        <username>Rjwilmsi</username>
+        <id>203434</id>
+      </contributor>
+      <minor/>
+      <comment>/* Sources */Format plain DOIs using [[Project:AWB|AWB]] (8060)</comment>
+      <text xml:space="preserve" bytes="1815">A '''spokescouncil''' is a collection of [[affinity groups]] and clusters (a collection of affinity groups), who meet together for a common purpose, often [[civil disobedience]]. &quot;Spokes&quot; is short for &quot;[[spokesperson]]&quot;, selected by each affinity group of cluster to represent them in the spokescouncil. The council usually makes decisions via a [[consensus decision making]] process.{{cn|date=November 2011}}
+
+Employment of spokescouncils within the [[United States]] occurred in [[Seattle]], during the [[WTO Ministerial Conference of 1999 protest activity|WTO Ministerial Conference of 1999 protests]] and in [[San Francisco Bay Area]], leading up to &quot;[[March 20, 2003 anti-war protest|Day X]]&quot; - the day-after the U.S. invasion of Iraq in 2003. These took place under the network known as [[Direct Action to Stop the War]] (DASW).{{cn|date=November 2011}}
+
+==Sources==
+{{nofootnotes|date=November 2011}}
+
+*http://labofii.net/docs/kolonel%20klepto%20and%20major%20up%20evil.pdf
+*http://benjaminheimshepard.com/dates/2004Review_globaljustice.pdf
+*http://international.activism.hss.uts.edu.au/conferences/2003socialmovements/pdf/socmoves2003.pdf#page=41
+*http://reconstruction.eserver.org/103/Balthaser_01.shtml
+*http://books.google.com.au/books?hl=en&amp;lr=&amp;id=r9XGjh4eypcC&amp;oi=fnd&amp;pg=PT302&amp;dq=spokescouncil&amp;ots=wGHA9fmzpZ&amp;sig=BspYuZO8-CzAtmiAUtqlt2HyuHA&amp;redir_esc=y#v=onepage&amp;q=spokescouncil&amp;f=false 
+* {{doi|10.1177/1440783306066729}}
+*http://books.google.com.au/books?hl=en&amp;lr=&amp;id=G0PnKy_W2IwC&amp;oi=fnd&amp;pg=PA7&amp;dq=spokescouncil&amp;ots=vK2QOZN1M8&amp;sig=Ac5gVBzrEmMRYUx-HuxM1hcJ9wo&amp;redir_esc=y#v=onepage&amp;q=spokescouncil&amp;f=false
+*http://www.interfacejournal.net/wordpress/wp-content/uploads/2011/05/Interface-3-1-reviews.pdf
+
+[[Category:Activism]]
+[[Category:Anarchist theory]]
+
+
+{{Anarchism-stub}}
+
+[[es:Consejo de voceros]]</text>
+      <sha1>sfpzsr4skkop3ahs1ibg7ghh3obfqqg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

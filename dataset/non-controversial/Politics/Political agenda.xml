@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Political agenda</title>
+    <ns>0</ns>
+    <id>3605920</id>
+    <revision>
+      <id>497973268</id>
+      <parentid>497973261</parentid>
+      <timestamp>2012-06-17T05:20:02Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contributions/122.150.243.94|122.150.243.94]] to version by ZéroBot. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1116637) (Bot)</comment>
+      <text xml:space="preserve" bytes="2020">A '''political agenda''' is a set of issues and policies laid out by an [[executive (government)|executive]] or [[Cabinet (government)|cabinet]] in [[government]] that tries to influence current and near-future political news and debate.
+
+The political agenda while shaped by government can be influenced by grass-roots support from party activists at events such as a [[party conference]] and can even be shaped by non governmental activist groups which have a political aim.
+
+Governmental organizations such as [[Make Poverty History]] and environmental groups such as [[Greenpeace]] have been able to shape the political agenda at international conferences.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/1/hi/entertainment/music/4645823.stm |title=Live 8 success hailed by Geldof |publisher=BBC News |date=2005-07-03 |accessdate=2011-01-13}}&lt;/ref&gt;
+
+Increasingly the [[mass media]] can have an effect in shaping the political agenda through its news coverage of news stories. Celebrity chef [[Jamie Oliver]] was able to shape the political agenda by running a series of programs which criticized the quality of school dinners in the [[United Kingdom]]. This led to government action by education secretary [[Ruth Kelly]] to improve the quality of meals which would not have occurred if not for such prominent and vocal criticism.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/1/hi/education/4391695.stm |title=TV chef welcomes £280m meals plan |publisher=BBC News |date=2005-03-30 |accessdate=2011-01-13}}&lt;/ref&gt;
+
+A [[political party]] can be described as &quot;shaping the political agenda&quot; or &quot;setting the political agenda&quot; if its promotion of certain issues gains prominent news coverage, for example at [[election]] time a political party wants  to promote its polices and gain prominent news coverage in order to increase its support.
+
+== See also ==
+* [[Social influence]]
+
+==References==
+{{reflist}}
+
+{{poli-term-stub}}
+[[Category:Political terms]]
+[[Category:Government]]
+
+[[he:אג'נדה]]
+[[no:Agenda]]
+[[zh:政治議程]]</text>
+      <sha1>ac0m6gcztj8yh693rzg5zudk4ri2xg2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

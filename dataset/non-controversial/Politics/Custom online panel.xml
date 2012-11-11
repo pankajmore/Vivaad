@@ -1,0 +1,72 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Custom online panel</title>
+    <ns>0</ns>
+    <id>9594855</id>
+    <revision>
+      <id>484141090</id>
+      <parentid>484140660</parentid>
+      <timestamp>2012-03-27T07:27:52Z</timestamp>
+      <contributor>
+        <username>Gmunjal</username>
+        <id>16547370</id>
+      </contributor>
+      <comment>Added some information about specialized  online panels</comment>
+      <text xml:space="preserve" bytes="1913">{{unreferenced|date=June 2008}} A '''custom online panel''' (Internet access panel) is a group of pre-screened respondents who have expressed a willingness to participate in [[Paid survey|survey]]s and/or [[customer feedback]] sessions. The custom online panel is also known as a customer advisory panel, proprietary panel or an online research panel. Respondents become &quot;panelists&quot; by completing a [[Demographic profile|profiling]] [[questionnaire]]. The data collected includes [[demographics]], [[lifestyle (sociology)|lifestyle]] characteristics and media habits, which provides a basis for future survey participation.
+
+== Form and process ==
+The panel can range in size from 100 to 100,000 or more people. Unlike renting [[Sample (statistics)|sample]], this is a dedicated group that market researchers can engage with and learn from over time. At a moment’s notice researchers can investigate the [[Attitude (psychology)|attitudes]], [[behaviour]] and [[opinion]]s of existing or potential customers using interactive surveys, discussion forums and 3D retail environments. Plus, results are available instantly and responses can be tracked over time.
+
+Panels are a growing phenomenon in the [[market research]] industry. They bridge the gap between a population that is reluctant to cooperate with telephone surveys and the organizations that need to know their perceptions and attitudes more than ever before.
+
+
+A specialized form of online panels typically known as [[Expert network|Expert Networks]] are used by investment funds and consulting firms to collect information as well.
+
+==References==
+ESOMAR World Research Codes and Guidelines &quot;Conducting Market and Opinion Research using the Internet&quot; 
+==External links==
+*[http://www.esomar.org/uploads/pdf/ESOMAR_Codes&amp;Guideline-Conducting_research_using_Internet.pdf/ ESOMAR Codes and Guidelines]
+
+[[Category:Types of polling]]
+
+[[sl:Spletni panel]]</text>
+      <sha1>2gl543haumxb6ygbrqp00a9inwf13th</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

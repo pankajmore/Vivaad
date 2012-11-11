@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lishenets</title>
+    <ns>0</ns>
+    <id>1589155</id>
+    <revision>
+      <id>490812996</id>
+      <parentid>436926616</parentid>
+      <timestamp>2012-05-05T17:13:25Z</timestamp>
+      <contributor>
+        <username>ChrisGualtieri</username>
+        <id>16333418</id>
+      </contributor>
+      <minor/>
+      <comment>Persondata Name, typos fixed: etc → etc. using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="2557">{{unreferenced|date=July 2009}}
+A '''lishenets''' ([[Russian (language)|Russian]]: лишенец), from Russian word лишение, &quot;deprivation&quot;, properly translated in this context as a '''disenfranchised''', was a person stripped of the right of [[voting]] in the [[Soviet Union]] of 1918 &amp;mdash; 1936. [[Disfranchisement]] was a means of repression of the categories of population that were classified as &quot;[[enemy of the people|enemies of the working people]]&quot;. 
+
+The [[1918 Soviet Constitution]] enumerated the categories of disenfranchised people:
+* Persons who used hired labor to obtain increase in profits
+* Persons who have income without doing any work, such as interests from capital, receipts from property, etc.
+* Private merchants, trade and commercial brokers
+* Monks and clergy of all denominations
+* Persons who were policemen or military officers before [[soviet revolution]]
+* Persons, who have been declared demented or mentally deficient, persons under guardianship, etc.
+
+The [[1924 Soviet Constitution]] and subsequent decrees detailed this list further and added new categories. Being disenfranchised meant much more than simply being disallowed to vote or be elected. A ''lishenets'' could not occupy any governmental position, or receive higher and technical education. He was deprived of various privileges and subsidies: employment, housing, retirement, etc. He could not be a member of [[kolkhoz]]es and other kinds of cooperatives. During the [[rationing]] system of 1929-1930, disenfranchised were also deprived of rations.
+
+Members of the family whose head was ''lishenets'' were automatically disenfranchised. The voting rights could be restored by local [[Election management body|election commissions]] upon the proof of engagement in productive labor and of the loyalty to the Soviet power. The ultimate authorities were the [[Central Election Commission]] and [[Presidium]] of the [[Supreme Soviet|Central Executive Committee]].
+
+The [[1936 Soviet Constitution]] instituted [[universal suffrage]], and the category of ''lishenets'' was officially eliminated. Nevertheless, for a long time after 1936, Soviet citizens applying for any job had to make a statement if they or their family members were ever deprived of voting rights so they still fall into disenfranchised category.
+
+[[Category:Elections]]
+[[Category:Political repression in the Soviet Union]]
+[[Category:Russian population groups]]
+[[Category:Soviet phraseology]]
+[[Category:Russian loanwords]]
+
+
+{{Soviet-stub}}
+
+[[ro:Lișeneț]]
+[[ru:Лишенец]]</text>
+      <sha1>hamrh8nmsvda25mi47y7sbvwjcvvq4s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

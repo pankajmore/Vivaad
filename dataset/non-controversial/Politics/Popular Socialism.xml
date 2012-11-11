@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Popular Socialism</title>
+    <ns>0</ns>
+    <id>1249363</id>
+    <revision>
+      <id>516957354</id>
+      <parentid>431534513</parentid>
+      <timestamp>2012-10-10T05:53:38Z</timestamp>
+      <contributor>
+        <username>SchreiberBike</username>
+        <id>5839411</id>
+      </contributor>
+      <comment>Repairing links to disambiguation pages - [[WP:DPL|You can help!]] - [[Popular Socialist Party]]</comment>
+      <text xml:space="preserve" bytes="1824">{{unsourced|date=October 2008}}
+'''Popular Socialism''' ('''[[Danish language|Danish]]''': ''Folkesocialisme'') is a distinct [[Scandinavia]]n [[socialist]] current. Around the world there are many parties called [[Popular Socialist Party (disambiguation)|Popular Socialist Party]] or likewise, which does not really imply any specific ideological direction. For example, the [[Popular Socialist Party (Mexico)|Popular Socialist Party]] of [[Mexico]] is a rather hardline [[communist party]], whereas the [[Spain|Spanish]] [[Popular Socialist Party (Spain)|PSP]] was a left-[[Social democracy|social democrat]] formation. But in the Scandinavian context the term can be said to represent a distinct ideological tendency, originating from [[Aksel Larsen]]'s split from the [[Communist Party of Denmark]] in 1956. Larsen founded [[Socialistisk Folkeparti]] (Socialist People's Party) which placed itself between [[communism]] and [[social democracy]]. In [[Norway]] a similar party, [[Socialist People's Party (Norway)|SF]], was formed through an anti-[[NATO]]/anti-[[European Economic Community]]-split from the [[Det Norske Arbeiderparti|social democrats]]. SF later became the back-bone of [[Sosialistisk Venstreparti]] (Socialist Left Party). Today, both the Danish SF and the Norwegian SV identify their ideological base as 'Popular Socialism'. In [[Sweden]] the term has sometimes been used in the Left, and there were at one point discussions within the rightist section of the [[Vänsterpartiet|Communist Party]] on forming a political project with the Danish SF as model. But that split was avoided, although the Nordic contacts and [[Eurocommunism]] became important influences in the Swedish party.
+
+==See also==
+*[[Democratic socialism]]
+
+[[Category:Socialism]]
+[[Category:Nordic politics]]
+
+[[da:Folkesocialisme]]</text>
+      <sha1>h15w6cs6k0ijz8etujyk1arm78wrrek</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

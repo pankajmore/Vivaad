@@ -1,0 +1,166 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hacktivismo</title>
+    <ns>0</ns>
+    <id>1386261</id>
+    <revision>
+      <id>503667348</id>
+      <parentid>494844685</parentid>
+      <timestamp>2012-07-22T23:00:07Z</timestamp>
+      <contributor>
+        <username>Hmainsbot1</username>
+        <id>16853007</id>
+      </contributor>
+      <minor/>
+      <comment>AWB general fixes and, delink dates per [[:WP:DATELINK]], [[:WP:YEARLINK]] and [[:MOS:UNLINKYEARS]] using [[Project:AWB|AWB]] (8097)</comment>
+      <text xml:space="preserve" bytes="11676">{{Infobox organization
+| name          = Hacktivismo
+| bgcolor       = &lt;!-- header background color --&gt;
+| fgcolor       = &lt;!-- header text color --&gt;
+| image         = Hacktivismologo.png
+| image_border  = 
+| size          = 180px
+| alt           = &lt;!-- alt text; see [[WP:ALT]] --&gt;
+| caption       = 
+| map           = &lt;!-- optional --&gt;
+| msize         = &lt;!-- map size, optional, default 250px --&gt;
+| malt          = &lt;!-- map alt text --&gt;
+| mcaption      = &lt;!-- optional --&gt;
+| map2          = 
+| abbreviation  = 
+| motto         = 
+| predecessor   = 
+| successor     = 
+| formation     = 1999
+| extinction    = 
+| type          = &lt;!-- [[Governmental organization|GO]], [[Non-governmental organization|NGO]], [[Intergovernmental organization|IGO]], [[International nongovernmental organization|INGO]], etc --&gt;
+| status        = 
+| purpose       = [[Hacktivism]]
+| headquarters  = 
+| location      = [[United States]]
+| coords        = &lt;!-- Coordinates of location using a coordinates template --&gt;
+| region_served = 
+| membership    = 
+| language      = &lt;!-- official languages --&gt;
+| general       = &lt;!-- Secretary General --&gt;
+| leader_title  = Origin
+| leader_name   = [[Las Vegas, Nevada|Las Vegas]], [[Nevada]]
+| leader_title2 = Platforms
+| leader_name2  = 
+| leader_title3 = Founders
+| leader_name3  = [[Oxblood Ruffin]]
+| leader_title4 = Products
+| leader_name4  = Camera/Shy&lt;br /&gt;The Six/Four System&lt;br /&gt;[[Hacktivismo Enhanced-Source Software License Agreement|HESSLA]]
+| key_people    = 
+| main_organ    = &lt;!-- gral. assembly, board of directors, etc --&gt;
+| parent_organization = &lt;!-- if one --&gt;
+| affiliations  = [[Cult of the Dead Cow|CULT OF THE DEAD COW]]&lt;br /&gt;[[Cult_of_the_Dead_Cow#Ninja Strike Force|Ninja Strike Force]]
+| budget        = 
+| num_staff     = 
+| num_volunteers = 
+| website       = [http://www.hacktivismo.com/ Main Site]
+| remarks       = 
+| former name   = 
+}}
+'''Hacktivismo''' is an offshoot of [[Cult of the Dead Cow|CULT OF THE DEAD COW]] (cDc), whose beliefs include access to information as a basic [[human right]]. It was founded in 1999.    
+
+The group's beliefs are described fully in [http://www.cultdeadcow.com/cDc_files/declaration.html The Hacktivismo Declaration], which seeks to apply the [[Universal Declaration of Human Rights]] and the [[International Covenant on Civil and Political Rights]] to the [[Internet]]. [[Oxblood Ruffin]], the director of Hacktivismo, has argued forcefully against definitions of [[hacktivism]] that include web defacements or [[denial-of-service attack]]s. Hacktivismo has also authored its own [[software license]] agreement, the [[Hacktivismo Enhanced-Source Software License Agreement]] (HESSLA). The HESSLA prohibits use or modification that would violate human rights or introduce features that spy on the user.
+
+== Connection to cDc ==
+In 1999 [[CULT OF THE DEAD COW]] (cDc), a loose network of individuals, announced the formation of Hacktivismo. The group set to explore ways of preventing censorship of the Internet. In particular Hacktivismo focused on firewalls or censoring mechanisms of national governments. Press releases made it clear that cDc and Hacktivismo were different groups; however Hacktivismo was also described as &quot;special operations group&quot; of cDc. A press release in early 2002 described Hacktivismo as &quot;an international cadre of hackers founded by the cDc's [[Oxblood Ruffin]]&quot;.&lt;ref&gt;{{cite book |title=Hacktivism and Cyberwars |last=Jordan |first=Tim |coauthors= Paul A. Taylor |year=2004 |publisher= Routeledge |location= |isbn=0-415-26003-5, 9780415260039 |pages=98–99 |url= http://books.google.com/books?id=R0ugqFwpm3oC&amp;vq=hacktivismo&amp;dq=%22digital+rights%22+%22human+rights%22&amp;lr=&amp;source=gbs_summary_s&amp;cad=0}}&lt;/ref&gt;
+
+== The Hacktivismo Declaration ==
+{{wikisource|Hacktivismo Declaration}}
+The group's beliefs are described fully in the &quot;Hacktivismo Declaration&quot; which is a list of &quot;assertions of liberty in support of an uncensored internet&quot; and seeks to apply the [[Universal Declaration of Human Rights]] and the [[International Covenant on Civil and Political Rights]] (ICCPR) to the [[Internet]]. The Declaration recalls the duty of member states to the ICCPR to protect the right to [[freedom of expression]] with regards to the internet and in this context what is called the &quot;freedom of information&quot;.&lt;ref name=autogenerated1&gt;{{cite web |url=http://www.cultdeadcow.com/cDc_files/declaration.html |title= The Hacktivismo Declaration | publisher =[[CULT OF THE DEAD COW]] and Hacktivismo |accessdate=2008-07-25}}&lt;/ref&gt; The Hacktivismo Declaration states:
+
+*&quot;...such member states continue to willfully suppress wide-ranging access to lawfully published information on the Internet, despite the clear language of the ICCPR that freedom of expression exists in all media,&quot;
+*&quot;...that transnational corporations continue to sell information technologies to the world's most repressive regimes knowing full well that they will be used to track and control an already harried citizenry,&quot;
+*&quot;...that the Internet is fast becoming a method of repression rather than an instrument of liberation,&quot;
+*&quot;...that in some countries it is a crime to demand the right to access lawfully published information, and of other basic human rights,&quot;
+*&quot;...that denying access to information could lead to spiritual, intellectual, and economic decline, the promotion of xenophobia and destabilization of international order.&quot;&lt;ref name=autogenerated1 /&gt;
+
+The Hacktivismo Declaration recognizes &quot;the importance to fight against human rights abuses with respect to reasonable access to information on the Internet&quot; and calls upon the [[Hacker (computer security)|hacker]] community to &quot;study ways and means of circumventing state sponsored censorship of the internet&quot; and &quot;implement technologies to challenge information rights violations&quot;.
+The Hacktivismo Declaration does however recognize that the right to [[freedom of expression]] is subject to limitations, stating &quot;we recognized the right of governments to forbid the publication of properly categorized state secrets, child pornography, and matters related to personal privacy and privilege, among other accepted restrictions.&quot; However, the Hacktivismo Declaration states &quot;but we oppose the use of state power to control access to the works of critics, intellectuals, artists, or religious figures.&quot;&lt;ref name=autogenerated1 /&gt;
+
+==Projects==
+[[File:Skullreporter.png|thumbnail|73px|right|Hacktivismo logo]]
+
+===Camera/Shy===
+Camera/Shy was the first Hacktivismo project released.  It debuted in 2002 at the [[H.O.P.E.]] 2k2 convention in [[New York City]].  Written by The Pull, Camera/Shy is a [[steganography|steganographic]] tool that scans for and delivers [[encryption|decrypted]] content directly from the [[world wide web]]. It is a stand-alone, [[Internet Explorer]]-based [[web browser]].  It interprets and displays hidden information stored in the junk bits in [[GIF]] files.&lt;ref name=&quot;camerashy&quot;&gt;Einhorn, Bruce. &quot;[http://www.businessweek.com/technology/content/aug2002/tc2002085_2375.htm Hackers to Beijing: Have a Cow!].&quot; ''[[Business Week]]'' online edition, August 5, 2002. Retrieved July 19, 2006.&lt;/ref&gt;
+
+===The Six/Four System===
+The Six/Four System was written by [[Mixter]].  The software is a [[censorship]] resistant [[computer network|network]] [[proxy server|proxy]].  It works by using &quot;trusted peers&quot; to relay network connections over [[Secure Sockets Layer|SSL]] encrypted links.&lt;ref&gt;Mixter. &quot;Six/Four System Protocol Specs,&quot; 2003. mixter@hacktivismo.com.&lt;/ref&gt;  As an example, the distribution includes a program which will act as a web proxy, but where all of the connections will be hidden until they reach the far end trusted peer.&lt;ref&gt;Mixter. &quot;The Six/Four System; A Decentralized Anonymous Peer-To-Peer Network Infrastructure With Trust,&quot; README file in Six/Four distribution, 2003.&lt;/ref&gt;
+
+Hacktivismo and the cDc further gained notoriety in 2003 when the Six/Four System became the first product of a [[hacker group]] to receive approval from the [[United States Department of Commerce]] for export of strong [[encryption]].&lt;ref&gt;LaCroix, Norman E. &quot;[http://www.hacktivismo.com/public/Hacktivismo_DoC_BIS.pdf Hacktivismo_DoC_BIS.pdf].&quot; [[United States Department of Commerce]], January 2003. Retrieved April 20, 2006.&lt;/ref&gt;
+
+===ScatterChat===
+ScatterChat is an encrypted [[instant messaging]] client based on [[Gaim]].  It was written by J. Salvatore Testa II and released at the H.O.P.E. Number Six conference in New York City on July 22, 2006.  The source code is available, licensed under the HESSLA.  It provides [[encryption]] as well as integrated [[onion routing]] with [[Tor (anonymity network)|Tor]], and secure file transfers.  Scatterchat's security features include immunity from [[replay attack]]s and limited resistance to [[traffic analysis]].&lt;ref&gt;&quot;[http://www.prweb.com/releases/2006/7/prweb414312.htm Hacktivismo Launches ScatterChat for Secure, Private Communication].&quot; CULT OF THE DEAD COW/Hacktivismo press release, July 21, 2006. Retrieved July 24, 2006.&lt;/ref&gt;&lt;ref&gt;''Tectonic'' staff, &quot;[http://www.tectonic.co.za/view.php?id=1070 Secure messenger to guard against totalitarian governments].&quot; ''Tectonic'', July 21, 2006. Retrieved July 24, 2006.&lt;/ref&gt;&lt;ref&gt;[[Cory Doctorow|Doctorow, Cory]], &quot;[http://www.boingboing.net/2006/07/22/scatterchat_anonymou.html ScatterChat: anonymous, secure chat].&quot; [[Boing Boing]] blog post, July 22, 2006. Retrieved July 24, 2006.&lt;/ref&gt; Various flaws in the software have been elaborated by researchers.&lt;ref&gt;Murdoch, Steven J., &quot;[http://www.lightbluetouchpaper.org/2006/08/11/protocol-design-is-hard-—-flaws-in-scatterchat/ Protocol design is hard — Flaws in ScatterChat].&quot;  Light Blue Touchpaper blog post, August 11, 2006.  Retrieved February 6, 2007.&lt;/ref&gt;&lt;ref&gt;[[Bruce Schneier|Schneier, Bruce]], &quot;[http://www.schneier.com/blog/archives/2006/07/scatterchat.html ScatterChat].&quot;  Schneier on Security blog post, July 31, 2006.  Retrieved February 6, 2007.&lt;/ref&gt;
+
+=== Torpark ===
+{{main|XeroBank Browser}}
+'''XeroBank Browser''' (formerly known as '''Torpark''') is a variant of the [[Portable Firefox]] [[web browser]] with [[Tor (anonymity network)|Tor]] built into it. XeroBank is intended for use on [[Removable media|portable media]] such as a [[USB flash drive]] but it can also be used on any [[hard disk|hard disk drive]].  cDc/Hacktivismo co-released v.1.5.0.7 along with Steve Topletz on September 19, 2006.&lt;ref&gt;&quot;[http://www.prweb.com/releases/2006/9/prweb438978.htm Hacktivismo Releases Torpark for Anonymous, Portable Web Browsing].&quot; CULT OF THE DEAD COW/Hacktivismo press release, September 19, 2006. Retrieved September 19, 2006.&lt;/ref&gt;&lt;ref&gt;&quot;[http://news.bbc.co.uk/1/hi/technology/5363230.stm Free anonymising browser debuts].&quot; ''[[BBC News Online]]'', September 20, 2006. Retrieved September 22, 2006.&lt;/ref&gt;&lt;ref&gt;Broersma, Matthew.  &quot;[http://news.zdnet.com/2100-9588_22-6118547.html Activists unveil stealth browser].&quot; ''[[ZDNet]]'', September 22, 2006. Retrieved September 22, 2006.&lt;/ref&gt;
+
+== Notable members ==
+* [[Oxblood Ruffin]]
+* [[Mixter]]
+* [[AnonymousPEF]]
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+&lt;div class=&quot;references-small&quot;&gt;
+*Still, Brian. &quot;Hacking for a cause.&quot;  ''[[First Monday (journal)|First Monday]]'' volume 10, number 9 (September 2005).  Retrieved 17 September 2006.
+&lt;/div&gt;
+
+==External links==
+*[http://www.hacktivismo.com/ Hacktivismo homepage]
+*[http://www.hacktivismo.com/projects/ Hacktivismo's Projects Page]
+
+{{Cult of the Dead Cow}}
+
+[[Category:Activism]]
+[[Category:Cult of the Dead Cow]]
+[[Category:Hacker groups]]
+[[Category:Politics and technology]]
+[[Category:Human rights organizations]]</text>
+      <sha1>re6kasrwthh0y0n8wd41jbjincuptqb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mandate (politics)</title>
+    <ns>0</ns>
+    <id>1221086</id>
+    <revision>
+      <id>522035441</id>
+      <parentid>522035330</parentid>
+      <timestamp>2012-11-08T17:55:49Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <comment>/* Further reading */</comment>
+      <text xml:space="preserve" bytes="2630">{{one source|date=September 2011}}
+In [[politics]], a '''mandate''' is the [[authority]] granted by a [[constituency]] to act as its [[Representative democracy|representative]].&lt;ref&gt;{{cite web|url=http://www.merriam-webster.com/dictionary/mandate |work=Free Merriam-Webster Dictionary |title=Mandate |publisher=Merriam-webster.com|accessdate=2012-04-03}}&lt;/ref&gt;
+
+The concept of a government having a [[Legitimacy (political)|legitimate]] mandate to govern via the fair winning of a [[democratic]] [[election]] is a central idea of [[democracy]]. New governments who attempt to introduce policies that they did not make public during an election campaign are said to not have a legitimate ''mandate'' to implement such policies.
+
+Elections, especially ones with a large margin of victory, are often said to give the newly [[Election|elected]] [[government]] or elected official a mandate to put into effect certain [[policies]].&lt;ref&gt;Glossary | Elections ACT. Jul 2012. http://www.elections.act.gov.au/glossary (cf., ''The Government's claim that once elected they have the right and responsibility to implement their policies''.)&lt;/ref&gt; Also, the period during which a government serves between elections is often referred to as a mandate and when the government seeks re-election it is said to be seeking a &quot;new mandate&quot;.
+
+In some languages, a 'mandate' can mean a parliamentary seat won in an election.
+
+== See also ==
+{{Portal|Political science}}
+* [[Referendum]]
+* [[Election promise]]
+* [[Government platform]]
+* [[Party platform]]
+
+'''Political philosophy:'''
+* [[Consent of the governed]]
+* [[Social contract]]
+
+==Further reading==
+* [http://books.google.com/books?id=NNMDN39bA6sC Presidential Mandates]: How Elections Shape the National Agenda. Patricia Heidotting Conley. University of Chicago Press, 2001.
+
+==References==
+;Citations
+{{reflist}}
+;General information
+* &quot;[http://books.google.com/books?id=_Q1OAAAAYAAJ&amp;pg=PA215 Doctrine of Mandate]&quot;. A dictionary of political phrases and allusions: with a short bibliography By Hugh Montgomery, Philip George Cambray.
+
+[[Category:Elections]]
+[[Category:Policy]]
+[[Category:Democracy]]
+[[Category:Political philosophy]]
+
+
+{{poli-term-stub}}
+
+[[ar:انتداب (سياسة)]]
+[[bg:Мандат]]
+[[cs:Mandát (politika)]]
+[[da:Mandat]]
+[[de:Mandat (Politik)]]
+[[et:Mandaat]]
+[[fr:Mandat politique]]
+[[hr:Mandat (politika)]]
+[[he:מנדט]]
+[[lt:Mandatas]]
+[[mk:Мандат]]
+[[nl:Mandaat]]
+[[no:Mandat]]
+[[nn:Mandat]]
+[[oc:Mandat politic]]
+[[pl:Mandat]]
+[[pt:Mandato]]
+[[sk:Mandát (politika)]]
+[[sr:Политички мандат]]
+[[sv:Mandat]]
+[[uk:Мандат (ВКЛ)]]</text>
+      <sha1>ezhibjb2n020lji7vdpaam6v0whgz1k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

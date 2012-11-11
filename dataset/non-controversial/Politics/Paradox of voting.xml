@@ -1,0 +1,79 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Paradox of voting</title>
+    <ns>0</ns>
+    <id>7529001</id>
+    <revision>
+      <id>521762602</id>
+      <parentid>520966465</parentid>
+      <timestamp>2012-11-07T01:38:44Z</timestamp>
+      <contributor>
+        <ip>32.169.87.46</ip>
+      </contributor>
+      <comment>/* Responses */</comment>
+      <text xml:space="preserve" bytes="3341">{{refimprove|date=April 2012}}
+{{About|the contention that an individual's vote will probably not affect the outcome|the arguably irrational results that can arise in a collective choice among three or more alternatives|Voting paradox}}
+{{voting}}
+
+The '''paradox of voting''', also called '''Downs paradox''', is that for a [[rational egoism|rational, self-interested]] [[voter]], the costs of voting will normally exceed the expected benefits.  Because the chance of exercising the pivotal vote (i.e., in an otherwise tied election) is minuscule compared to any realistic estimate of the private individual benefits of the different possible outcomes, the expected benefits of voting are less than the costs. The fact that people do vote is a problem for [[public choice]] theory, first observed by [[Anthony Downs]].&lt;ref&gt;Downs, A. (1957), ''An Economic Theory of Democracy'', Harper and Row, N.Y., 1957.&lt;/ref&gt;
+
+==Responses==
+Alternative responses modify the postulate of [[egotism|egoistic]] [[rationality]] in various ways. For example, Brennan and Lomasky suggest that voters derive 'expressive' benefits from supporting particular candidates. However, this implies that voting choices are unlikely to reflect the self-interest of voters, as is normally assumed in public choice theory; that is, rational behavior is restricted to the instrumental as opposed to the intrinsic value of actions.
+
+Some have hypothesized that voting is linked genetically with evolved behaviors such as [[cooperation]]. One study of identical and fraternal twins' voting patterns concluded that 60% of differences in turnout among twins can be accounted for by [[genetics]], but another interpretation of this study put the figure at 40%.&lt;ref&gt;{{cite web|author=''[[Scientific American]]'' |url=http://www.sciam.com/article.cfm?chanID=sa006&amp;colID=5&amp;articleID=8BD37481-E7F2-99DF-34D1A46C2CB1775E |title=The Genetics of Politics: Scientific American |publisher=Sciam.com |date=2007-10-14 |accessdate=2010-10-11}}&lt;/ref&gt;
+
+Another suggestion is that voters are rational but not fully egoistic. In this view voters have some [[altruism]], and perceive a benefit if others (or perhaps only others like them) are benefited. They care about others, even if they care about themselves more. Since an election affects many others, it could still be rational to cast a vote with only a small chance of affecting the outcome. This view makes testable predictions: that close elections will see higher turnout, and that a candidate who made a secret promise to pay a given voter if they win would sway that voter's vote less in large and/or important elections than in small and/or unimportant ones.
+
+The paradox appears to ignore the collateral benefits associated with voting, besides affecting the outcome of the vote. A voter may feel [[suffrage|pride]] in having voted, especially for the [[voting age|first time]]. Researching who or what to vote for may increase the voter's political knowledge and community awareness, both of which may contribute to a general sense of civic duty. Even the exercise of walking to the [[polling station]], if the voter chose to, would be beneficial.
+
+==See also==
+*[[Majoritarianism]]
+*[[Rational ignorance]]
+*[[Superrationality]]
+*[[Voting system]]
+
+==Notes==
+{{Reflist}}
+
+[[Category:Public choice theory]]
+[[Category:Elections]]</text>
+      <sha1>3jwfoa2pkc7c25mlssii8yjfmj325x5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

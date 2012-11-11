@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sinistrisme</title>
+    <ns>0</ns>
+    <id>5039124</id>
+    <revision>
+      <id>499230561</id>
+      <parentid>433423156</parentid>
+      <timestamp>2012-06-25T03:55:28Z</timestamp>
+      <contributor>
+        <username>ChrisGualtieri</username>
+        <id>16333418</id>
+      </contributor>
+      <minor/>
+      <comment>TypoScan Project. You can help at [[WP:TSN]]!, typos fixed: etc) → etc.) using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="3261">'''Sinistrisme''' is a [[neologism]] invented by [[Albert Thibaudet]] in ''Les idées politiques de la France'' (1932). He referred to the progressive substitution of [[left wing]] parties by new, more radical parties, which in turn pushed each party towards the center (the [[Radical-Socialist Party (France)|Radical Party]] being replaced by the [[French Section of the Workers' International]] (SFIO, a socialist party), the Socialists by the [[French Communist Party]], etc.). This historical movement (seen by Thibaudet as a historical necessity) thus explained, according to Thibaudet, the tendency of the [[right-wing]], in particular in [[France]], to disavow the label ''droit'' (right), long associated in [[French history]] with [[monarchism]], in favour of ''left''.  
+
+Hence, those who rallied to the [[French Third Republic|Republic]] in 1893 still adopted the denomination ''Droite constitutionnelle'' or ''républicaine'' (Constitutional or Republican Right), but replaced it in 1899 by ''[[Action libérale]]'', under which they went to the 1902 elections. An explicit right wing group resurged in 1910, gathering the last nostalgics of the [[monarchism|monarchy]]. According to historian [[René Rémond]], since 1924 the term &quot;right wing&quot; vanished from the parliamentary group's glossary. Deputies from the [[Democratic Republican Alliance]] (ARD), which was the main [[center-right]] parliamentary formation under the [[French Third Republic|Third Republic]], sat in the parliamentary group of &quot;Left-wing Republicans&quot;. Following the Liberation, the [[Rally of the Republican Lefts]] (RGR) gathered conservative deputies, mostly from the [[Radical-Socialist Party]] (and opponents of [[Pierre Mendès-France]] as well as [[Independent Radicals]] who had left the Radical Party in 1928, opposed to its alliance with the left-wing during the [[Cartel des gauches]]), and from the [[UDSR]]. 
+
+René Rémond remarked that &quot;at the [[French presidential election, 1974|1974 presidential election]], only one candidate declared himself as belonging to the right-wing: [[Jean-Marie Le Pen]]; in [[French presidential election, 1981|1981, no one]].&quot;&lt;ref&gt; [[René Rémond]], ''Les Droites en France'', p.391, Aubier, 1982 &amp;mdash; new edition of ''La Droite en France'', 1954 &lt;/ref&gt; ''[[Conservatism|Conservative]]'' (which had been the name of an [[ultra-royalist]] review in 1818-1820) was a synonym of &quot;right wing&quot; often used under the Third Republic, in particular by the ''[[Bloc national]]'' Chamber. ''Independents'', used in the 1920s for deputies close to the ''[[Action française]]'' royalist movement, was later used by less [[reactionary]] politicians. 
+
+== Footnotes ==
+{{reflist}}
+
+== Bibliography ==
+
+*{{fr icon}} [[Albert Thibaudet]], ''Les Idées politiques de la France'', 1932
+*{{fr icon}} [[Jean Touchard]] and [[Michel Winock]], ''La gauche en France depuis 1900'' (&quot;The left-wing in France since 1900&quot;) [[Seuil]], 1977, ISBN 2-02-004548-6 
+
+== See also ==
+
+*[[History of France]]
+*[[Politics of France]]
+*[[Left-right politics]]
+*[[Rally of the Republican Lefts]] (RGR)
+
+[[Category:Political terms]]
+[[Category:Political science terms]]
+[[Category:Politics of France]]
+
+
+{{poli-term-stub}}
+{{France-poli-stub}}
+
+[[fr:Sinistrisme]]</text>
+      <sha1>pnyg19j4wcqurq4z8besbvz7ckvvag1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

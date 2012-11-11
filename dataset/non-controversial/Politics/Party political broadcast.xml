@@ -1,0 +1,75 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Party political broadcast</title>
+    <ns>0</ns>
+    <id>1724338</id>
+    <revision>
+      <id>511011634</id>
+      <parentid>506126988</parentid>
+      <timestamp>2012-09-06T02:45:06Z</timestamp>
+      <contributor>
+        <username>RFBailey</username>
+        <id>323132</id>
+      </contributor>
+      <minor/>
+      <comment>+tag</comment>
+      <text xml:space="preserve" bytes="1206">{{unreferenced|date=September 2012}}
+A '''party political broadcast''' (also known as a '''party election broadcast''' or '''party conference broadcast''' depending on the date of broadcast) is a short [[television]] or [[radio]] [[Broadcasting|broadcast]] made by a [[political party]].
+
+In the [[United Kingdom]], political advertising on television or radio is illegal, but parties are instead allocated broadcast slots across the traditional terrestrial TV channels. On a given day, a given party will be allowed to broadcast a piece about five minutes long. 
+
+A similar format exists in the [[Republic of Ireland]], though due to more smaller parties being represented in the [[Dáil Éireann]] time given to those smaller parties may be as little as one or two minutes.
+
+==See also==
+* [[Canada Elections Act]] &amp;ndash; includes provisions for free-time election broadcasts (in addition to paid advertising) during Canadian federal elections
+
+==External links==
+* [http://www.everything2.com/index.pl?node_id=1672344 Party political broadcasts in the UK]
+
+[[Category:Political communication|Political broadcast]]
+[[Category:Television in the United Kingdom]]
+
+
+{{poli-stub}}
+
+[[zh:政党政治广播]]</text>
+      <sha1>860c153ml8yjqryrkaq1qgajq8lsc1l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

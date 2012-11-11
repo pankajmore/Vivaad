@@ -1,0 +1,75 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Concession (politics)</title>
+    <ns>0</ns>
+    <id>2538448</id>
+    <revision>
+      <id>383557157</id>
+      <parentid>383557082</parentid>
+      <timestamp>2010-09-08T01:00:20Z</timestamp>
+      <contributor>
+        <username>Skcin7</username>
+        <id>8973438</id>
+      </contributor>
+      <comment>/* Timing of concession */</comment>
+      <text xml:space="preserve" bytes="2805">{{unreferenced|date=January 2008}}
+
+In politics, a '''concession''' is the act of a losing candidate publicly yielding to a winning candidate after an [[election]], when the overall result of the vote has become clear.
+
+==Refusal to concede==
+Concession, ''per se'', is entirely optional, and a candidate will sometimes refuse to concede defeat despite the vote count being against them, especially if they suspect [[electoral fraud]].  In that case the candidate would likely demand a recount of the votes or other investigations into the alleged fraud.  Sometimes concession may be denied not because of any specific fraud allegations, but simply because of ill will accumulated over the campaign.
+
+==Timing of concession==
+If the vote is relatively close, it can be unclear when it is appropriate for a losing candidate to concede an election.  On [[election night]], pressures from a media looking for news to report, an opposition campaign anxious to declare victory, and one's own campaign unwilling to concede defeat if there is any hope of a last-minute turnaround all weigh on the decision of the losing candidate.  Though a spoken concession does not necessarily deny a candidate office if there is a drastic reversal in the vote count, it does practically prevent demands for recount.
+
+It is exceedingly rare for a concession, once issued, to be retracted; such an event occurred in the [[United_States_presidential_election,_2000|United States 2000 presidential election]], when [[Democratic Party (United States)|Democratic]] candidate [[Al Gore, Jr.]] telephoned [[Republican Party (United States)|Republican]] [[George W. Bush]] to concede the contest.  Gore was apparently unaware of the close vote count in the state of [[Florida]], and when he realized this, proceeded to cancel his concession address.
+
+A losing candidate commonly offers a private concession directly to the winning candidate (usually by telephone) before any public announcement is made.
+
+==Concession speech==
+In the broadcast age, the concession speech of a candidate for high office reaches a wide audience, and is seen as the final [[swan song]] of a lost campaign.  Out of courtesy, the winner of the campaign usually waits for a concession speech (if one is forthcoming) before delivering their own [[acceptance speech]].
+
+A losing candidate usually thanks their supporters for their valiant efforts, and points to the non-electoral successes of the campaign in building party strength and raising issues to attention that would not otherwise be in public discussion.  It is also traditional, unless the campaign has been exceptionally bitter, to congratulate the winning candidate and wish them well in office, perhaps even offering a parting word of advice.
+
+[[Category:Elections]]
+[[Category:Political terms]]</text>
+      <sha1>7cqgzko73is8y440fx6pydgng1ryv64</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

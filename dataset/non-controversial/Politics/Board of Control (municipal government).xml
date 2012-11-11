@@ -1,0 +1,67 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Board of Control (municipal government)</title>
+    <ns>0</ns>
+    <id>1918128</id>
+    <revision>
+      <id>455752422</id>
+      <parentid>385847892</parentid>
+      <timestamp>2011-10-15T21:50:48Z</timestamp>
+      <contributor>
+        <username>Grande</username>
+        <id>588482</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2070">{{Unreferenced|date=December 2009}}
+In municipal government a '''Board of Control''' is an executive body that usually deals with financial and administrative matters. The idea is that a small body of four or five people is better able to make certain decisions than a large, unwieldy city council. Boards of Control were introduced in many [[North America]]n municipalities in the early 20th century as a product of the [[municipal reform movement]]. They proved unpopular with many as they tended to centralize power in a small body while disempowering [[city council]]s.
+
+Boards of Control typically consist of the [[mayor]] and several Controllers who are elected on a city-wide basis as opposed to [[alderman|aldermen]] who were elected on a [[Ward (country subdivision)|ward]] basis. As a result, Boards of Control tended to be less representative of the diverse opinions and communities with majority views among the population being overrepresented. As well, since they were elected by a larger electorate running for a seat on the Board of Control would be prohibitively expensive for many municipal politicians resulting in wealthier politicians being more likely to run for the body. Lastly, Boards of Control tended to meet ''[[in camera]]'' rather than in open session in the manner of city councils making them less accountable to the public.
+
+Because of these problems, many municipalities abolished Boards of Control in the years following [[World War II]]. They were maintained in several municipalities in suburban [[Toronto]], [[Canada]], into the late 1980s, including [[North York, Ontario|North York]], [[Scarborough, Ontario|Scarborough]] and [[Etobicoke, Ontario|Etobicoke]].  The City of [[London, Ontario]] was one of the few remaining municipalities in North America to retain a Board of Control.  It was abolished after the 2010 municipal elections.
+
+==See also==
+*[[Toronto Board of Control]]
+
+{{DEFAULTSORT:Board Of Control}}
+[[Category:Government]]
+[[Category:Local government in Canada]]
+[[Category:Local government in the United States]]</text>
+      <sha1>b4ksfwlq5f241xc6wvjn1x8p0lvwp85</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

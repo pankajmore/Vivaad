@@ -1,0 +1,137 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Project Cybersyn</title>
+    <ns>0</ns>
+    <id>1744611</id>
+    <revision>
+      <id>519565980</id>
+      <parentid>517431477</parentid>
+      <timestamp>2012-10-24T13:15:04Z</timestamp>
+      <contributor>
+        <ip>141.0.57.221</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="8962">[[Image:Cybersyn control room.jpg|thumb|250px|Cybersyn mocked-up operations room]]
+'''Project Cybersyn''' was a [[Chile]]an attempt in the years 1971–1973 (during the government of President [[Salvador Allende]]) to construct a top-down command and control [[decision support system]] to aid in the management of the national economy. It was to consist of a network of [[telex]] machines (''Cybernet'') in state-run enterprises and government offices that would transmit information to a government-run [[mainframe computer]] in [[Santiago, Chile|Santiago]]. Information from the field would be fed into statistical modeling software (''Cyberstride'') that would monitor production parameters (such as raw material supplies or high rates of worker absenteeism) in real time, and alert government managers if those parameters fell outside acceptable ranges. The information would also be input into economic simulation software (''CHECO'', for CHilean ECOnomic simulator) that the government could use to forecast the possible outcome of economic decisions. Finally, a sophisticated operations room (''Opsroom'') would provide a space where managers could see relevant economic data, formulate responses to emergencies, and transmit advice and directives to enterprises and factories using the telex network. The principal architect of the system was British [[operations research]] scientist [[Stafford Beer]], and the system embodied his notions of [[cybernetics]] in industrial management.
+
+==Name==
+
+The project's name in English, Cybersyn, is a [[portmanteau]] of the words &quot;cybernetics&quot; and &quot;synergy&quot;. Since the name is not [[euphonic]] in Spanish, in that language the project was called ''Synco'', both an [[initialism]] for the Spanish ''SYstema de iNformación y COntrol'', &quot;system of information and control&quot;, and a pun on the Spanish ''cinco'', the number five, alluding to the five levels of Beer's [[Viable System Model]].
+
+==History==
+In July 1971, [[Stafford Beer]] was contacted by [[Fernando Flores]], then a high-level employee of the Chilean Production Development Corporation ([[CORFO]]), for advice on incorporating Beer's theories of cybernetics into the management of the newly nationalized sector of Chile's economy. Beer saw this as a unique opportunity to implement his ideas of cybernetic management on a national scale, and also sympathized with the stated ideals of Chilean socialism, which aimed to maintain Chile's democratic system and the autonomy of workers instead of imposing a [[USSR|Soviet]]-style system of top-down command and control. More than just offering advice, Beer stepped aside from most of his other consulting business and devoted a great deal of time to what became Project Cybersyn, traveling to Chile frequently to collaborate with local implementors and using his personal contacts to secure assistance from British technical experts. The implementation schedule was very aggressive, and the system had reached an advanced prototype stage at the start of 1973.
+
+The system was most useful in October 1972, when about 50,000{{Citation needed|date=June 2011}} striking truck drivers [[Presidency_of_Salvador_Allende#Crisis|blocked the access streets]] that converged towards [[Santiago, Chile|Santiago]]. According to Gustavo Silva (executive secretary of energy in CORFO), using the system's telex machines, the government was able to guarantee the transport of food into the city with only about 200 trucks driven by [[strike-breakers]], recouping the shortages caused by 40,000 striking truck drivers.&lt;ref&gt;{{cite journal|author=Eden Medina|title=Designing Freedom, Regulating
+a Nation: Socialist Cybernetics
+in Allende’s Chile|journal=J. Lat. Amer. Stud.|nuber=38|pages=571–606|doi=10.1017/S0022216X06001179|year=2006|publisher=Cambridge University Press}}&lt;/ref&gt;
+
+After the [[Chilean coup of 1973|military coup]] on September 11, 1973, Cybersyn was abandoned and the operations room was destroyed.
+
+==The system==
+There were 500 unused telex machines bought by the previous government, each was put into one factory. In the control centre in Santiago, each day data coming from each factory (several numbers, such as raw material input, production output and number of absentees) were put into a computer, which made short-term predictions and necessary adjustments. There were four levels of control (firm, branch, sector, total), with [[algedonic feedback]] (if lower level of control didn't remedy a problem in a certain interval, the higher level was notified). The results were discussed in the operations room and the top-level plan was made.
+
+The [[software]] for Cybersyn was called ''Cyberstride'', and it used [[Sequential bayesian filtering|Bayesian filtering]] and [[Intelligent control#Bayesian_controllers|Bayesian control]]. It was written by Chilean engineers in consultation with a team of 12 British programmers.&lt;ref&gt;[http://varnelis.net/blog/kazys/project_cybersyn Project Cybersyn | varnelis.net&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+The [[Futurism (art)|futuristic]] operations room was designed by a team led by the [[User interface design|interface designer]] [[Gui Bonsiepe]]. It was furnished with seven [[swivel chair]]s (considered the best for creativity) with buttons, which were designed to control several large screens that could project the data, and other panels with status information, although these were never functional and could only show pre-prepared graphs.{{citation needed|date=January 2011}}
+
+The project is described in some detail in the second edition of Beer's book ''Brain of the Firm'', as well as in ''Platform for Change'' which includes proposals for such social innovations as bringing representatives of diverse 'stakeholder' groups into the control centre.
+
+==The aesthetics==
+The Ops room used [[Tulip chair]]s similar to those used in the [[United States|American]] [[science fiction]] TV programme ''[[Star Trek]]'', though according to the designers, the style was not influenced by sci-fi movies.&lt;ref&gt;Eden Medina (2011). ''Cybernetic Revolutionaries: Technology and Politics in Allende's Chile'', 1st edn. Cambridge, Mass: MIT Press. ISBN 978-0-262-01649-0. ''section 4, p. 121.''&lt;/ref&gt;
+
+==References in popular culture==
+
+Chilean science fiction author Jorge Baradit published a Spanish-language science fiction novel ''Synco'' in 2008. It is an [[alternate history]] [[dystopia]] set in a 1979 where Allende's government was not overthrown and Chile became a technocratic totalitarian state in which the Cybersyn system was used to control all aspects of Chilean life.
+
+==See also==
+{{Portal|Business and economics|Chile|Information technology|Socialism|Systems science}}
+*[[Socialist economy]]
+*[[Viable System Model]]
+*[[History of Chile]]
+*[[Chilean coup of 1973]]
+*[[Internet]]
+*[[Fernando Flores]]
+*[[ARPANET]]
+*[[Enterprise resource planning]]
+*[[Economic calculation problem]]
+
+==References==
+{{reflist}}
+
+==External links==
+;Books
+*[http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=12716 Eden Medina, ''Cybernetic Revolutionaries: Technology and Politics in Allende's Chile'', (Cambridge, Mass: MIT Press, 2011).]
+*Jorge Baradit, ''Synco'', (Santiago de Chile: Ediciones B, 2008). In Spanish.
+
+;Academic articles
+*[http://www.informatics.indiana.edu/edenm/publications/publications.html Eden Medina, &quot;Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende's Chile.&quot; Journal of Latin American Studies 38 (2006):571-606.]
+*[http://www.williambowles.info/sa/FanfareforEffectiveFreedom.pdf Lecture of Stafford Beer about the system]
+*[http://ototsky.mgn.ru/it/lessons.htm Lessons of Stafford Beer]
+* [http://www.ototsky.mgn.ru/it/presentations/To_Metaphorum2010.htm The CeberSyn heritage in the XXI Century]
+
+;Web resources
+* [http://www.cybersyn.cl/ingles/cybersyn/index.html The CyberSyn multimedia &quot;reconstruction&quot; ]
+* [http://www.cybersyn.cl CyberSyn.cl]
+
+;News articles
+*[http://www.nytimes.com/2008/03/28/world/americas/28cybersyn.html Before ’73 Coup, Chile Tried to Find the Right Software for Socialism], by Alexei Barrionuevo. ''The New York Times.'' March 28, 2008
+*[http://www.guardian.co.uk/g2/story/0,3604,1037327,00.html The forgotten story of Chile's 'socialist internet']
+;Blog articles
+*[http://www.boingboing.net/2006/05/08/futurism_fictional_a.html Futurism, fictional and science fictional - rambling and inspiring] on [[BoingBoing]]
+* [http://varnelis.net/blog/kazys/project_cybersyn Project Cybersyn | varnelis.net]
+* [http://www.rhizome.org/fp.rhiz?id=1576 Rhizome.org: Project Cybersyn]
+;Media
+*[http://vimeo.com/8000921 Free As In Beer: Cybernetic Science Fictions]
+
+[[Category:Cybernetics]]
+[[Category:Economy of Chile]]
+[[Category:1970s in Chile]]
+[[Category:Chile under Salvador Allende]]
+[[Category:Socialism]]
+[[Category:Economic planning]]
+
+[[de:Cybersyn]]
+[[es:Proyecto Synco]]
+[[fr:Projet Cybersyn]]
+[[ja:サイバーシン計画]]
+[[pt:Synco]]
+[[ru:Киберсин]]</text>
+      <sha1>47bbyybik77pcdjn2muqu3b78hsbbqw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

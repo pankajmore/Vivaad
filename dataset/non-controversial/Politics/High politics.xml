@@ -1,0 +1,63 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>High politics</title>
+    <ns>0</ns>
+    <id>9031869</id>
+    <revision>
+      <id>406844829</id>
+      <parentid>406844770</parentid>
+      <timestamp>2011-01-09T08:53:51Z</timestamp>
+      <contributor>
+        <username>Jrtayloriv</username>
+        <id>244936</id>
+      </contributor>
+      <comment>oops rm</comment>
+      <text xml:space="preserve" bytes="1578">{{Refimprove|date=August 2008}}
+
+Within the subfield of [[international relations]], and [[political science]] as a whole, the concept '''high politics''' covers all matters that are vital to the very survival of the [[State (polity)|state]]: namely national and international [[security]] concerns. It is often used in opposition to &quot;low politics&quot;. 
+Although the idea of high politics has been present in all cultures and epochs, [[Hobbes]] was the first to enunciate that [[wiktionary:survival|survival]] (of trade, the laws, societal order, etc.) hinges upon a finite number of ingredients. For him, these ingredients were embodied and provided by the State. However, interpreting Hobbes, these ingredients are what we call &quot;high politics.&quot;        
+
+The term &quot;high politics&quot; in itself was probably coined during the [[Cold War]], given the stakes of an [[atomic war]].{{Fact|date=April 2008}} The advent of the [[atomic bomb]] made it clear what was ultimately worth fighting for and what was not. Hence, made clear what &quot;high politics&quot; meant. In that sense, the [[United States]] and the former [[USSR]] would have gone to [[war]] for a direct atomic [[Wiktionary:threat|threat]] (see [[Cuban Missile Crisis]]), but would have never gone to war over &quot;[[low politics]]&quot;, say, a [[boycott]] of the Olympic games (see [[1980 Summer Olympics]]). [[Trade]], for all its importance, is considered by most political scientists as &quot;low politics&quot;, as it depends on specific security conditions to come into effect.
+
+[[Category:Political science]]
+[[Category:Political science terms]]</text>
+      <sha1>49sbciiklq64hbcg01g6ah3rrxxaljl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

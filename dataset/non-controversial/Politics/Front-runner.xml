@@ -1,0 +1,69 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Front-runner</title>
+    <ns>0</ns>
+    <id>795047</id>
+    <revision>
+      <id>465745403</id>
+      <parentid>464313269</parentid>
+      <timestamp>2011-12-14T02:07:37Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>2304267</id>
+      </contributor>
+      <minor/>
+      <comment>Removing &quot;Steelerfan.jpg&quot;, it has been deleted from Commons by [[commons:User:Fastily|Fastily]] because: No license since 6 December 2011.</comment>
+      <text xml:space="preserve" bytes="1087">{{Other uses|Frontrunner (disambiguation)}}
+{{Unreferenced stub|auto=yes|date=December 2009}}
+
+'''Front-runner''' is a term to describe the leader in a race, whether political or athletic.  The term arose from the close symbolism between political campaigns and athletic running events.  The term is used in the [[United States presidential primary|U.S. Presidential primary]] process to label the potential nominee with the lead in the polls, the most name recognition, or most funds raised (or a combination of these).
+
+The front-runner is most often anointed by the [[News media|media]] who are following the race, and is written about in a different style than his or her challengers. 
+
+Front-runner can also be used to describe a type of sports [[Fan (person)|fan]] who likes only the team that is winning. Also known as a ''fairweather'' fan, the person will quickly, and [[bandwagon effect|repeatedly change allegiance]] with athletes and teams as teams and players become &quot;good&quot; or &quot;bad&quot; based on records. 
+
+{{DEFAULTSORT:Front-Runner}}
+[[Category:Elections]]
+
+
+{{Election-stub}}</text>
+      <sha1>6j6seil0zn6udkqptzje2zg742agfvg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,458 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Internet censorship</title>
+    <ns>0</ns>
+    <id>11056386</id>
+    <revision>
+      <id>522108289</id>
+      <parentid>522107138</parentid>
+      <timestamp>2012-11-09T02:34:21Z</timestamp>
+      <contributor>
+        <username>Jemappelleungarcon</username>
+        <id>17249636</id>
+      </contributor>
+      <comment>/* Use of commercial filtering software */</comment>
+      <text xml:space="preserve" bytes="68079">{{Censorship}}
+{{Internet}}
+{{Main |Censorship |Internet}}
+
+'''Internet censorship''' is the  control or suppression of the publishing of, or access to information on the Internet. It may be carried out by governments or by private organizations at the behest of government, regulators, or on their own initiative. Individuals and organizations may engage in [[self-censorship]] for moral, religious, or business reasons, to conform to societal norms, due to intimidation, or out of fear of legal or other consequences. 
+
+Opinions on the topic of Internet censorship vary, with arguments being made both for and against censorship. Moreover, the extent of Internet censorship varies on a country-to-country basis. While some countries have little Internet censorship, other countries go as far as to limit the access of information such as news and suppress discussion among citizens. Internet censorship also occurs in response to or in anticipation of events such as elections, protests, and riots. An example is the increased censorship due to the events of the [[Arab Spring]]. Other areas of censorship includes copyrights, defamation, harassment, and obscene material.
+
+==Overview==
+The events associated with Internet censorship are similar to those for online/offline censorship of traditional/modern media such as newspapers or internet. One difference is that national borders are more permeable online: residents of a country that bans certain information can find it on websites hosted outside the country. Thus censors must work to prevent access to information even though they lack physical or legal control over the websites themselves. This in turn requires the use of technical censorship methods that are unique to the Internet, such as site blocking and content filtering.&lt;ref name=UNESCO-2011/&gt;
+
+Views about the feasibility and effectiveness of Internet censorship have evolved in parallel with the development of the Internet and censorship technologies:
+* A 1993 ''Time Magazine'' article quotes computer scientist [[John Gilmore (activist)|John Gilmore]], one of the founders of the [[Electronic Frontier Foundation]], as saying &quot;The Net interprets censorship as damage and routes around it.&quot;&lt;ref&gt;[http://www.chemie.fu-berlin.de/outerspace/internet-article.html &quot;First Nation in Cyberspace&quot;], Philip Elmer-Dewitt, ''Time'', 6 December 1993, No.49&lt;/ref&gt;
+* In November 2007, &quot;Father of the Internet&quot; [[Vint Cerf]] stated that he sees government control of the Internet failing because the Web is almost entirely privately owned.&lt;ref&gt;[http://www.reuters.com/article/reutersEdge/idUSN1420689320071114?sp=true &quot;Cerf sees government control of Internet failing&quot;], Pedro Fonseca, Reuters, 14 November 2007&lt;/ref&gt;
+* A report of research conducted in 2007 and published in 2009 by the [[Berkman Center for Internet &amp; Society]] at Harvard University stated that: &quot;We are confident that the [ [[censorship circumvention]] ] tool developers will for the most part keep ahead of the governments' blocking efforts&quot;, but also that &quot;...we believe that less than two percent of all filtered Internet users use circumvention tools&quot;.&lt;ref&gt;[http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/2007_Circumvention_Landscape.pdf ''2007 Circumvention Landscape Report: Methods, Uses, and Tools''], Hal Roberts, Ethan Zuckerman, and John Palfrey, Beckman Center for Internet &amp; Society at Harvard University, March 2009&lt;/ref&gt;
+* In contrast, a 2011 report by researchers at the [[Oxford Internet Institute]] published by [[UNESCO]] concludes &quot;... the control of information on the Internet and Web is certainly feasible, and technological advances do not therefore guarantee greater freedom of speech.&quot;&lt;ref name=UNESCO-2011/&gt;
+
+Blocking and filtering can be based on relatively static [[blacklist]]s or be determined more dynamically based on a real-time examination of the information being exchanged. Blacklists may be produced manually or automatically and are often not available to non-customers of the blocking software. Blocking or filtering can be done at a centralized national level, at a decentralized sub-national level, or at an institutional level, for example in libraries, universities or [[Internet cafes]]. Blocking and filtering may also vary within a country across different ISPs.&lt;ref name=Chadwick-2009&gt;{{Cite book| last = ed. Chadwick| first = Andrew| title = Routledge handbook of Internet politics| publisher = Taylor and Francis| series = Routledge international handbooks| year = 2009| pages = 332 | url = http://books.google.com/books/about/Routledge_handbook_of_Internet_politics.html?id=GJdfuGSa1xUC| isbn = 978-0-415-42914-6}}&lt;/ref&gt; Countries may filter sensitive content on an on-going basis and/or introduce temporary filtering during key time periods such as elections. In some cases the censoring authorities may surreptitiously block content to mislead the public into believing that censorship has not been applied. This is achieved by returning a fake [[404 error|&quot;Not Found&quot;]] error message when an attempt is made to access a blocked web.&lt;ref name=Faris-2008/&gt;
+
+Unless the censor has total control over all Internet-connected computers, such as in [[Internet censorship in North Korea|North Korea]] or [[Internet censorship in cuba|Cuba]], total censorship of information is very difficult or impossible to achieve due to the underlying distributed technology of the Internet. [[Pseudonymity]] and [[data haven]]s (such as [[Freenet]]) protect [[free speech]] using technologies that guarantee material cannot be removed and prevents the identification of authors. Technologically savvy users can often find ways to access blocked content. Nevertheless, blocking remains an effective means of limiting access to sensitive information for most users when censors, such as those in [[Internet censorship in the People's Republic of China|China]], are able to devote significant resources to building and maintaining a comprehensive censorship system.&lt;ref name=UNESCO-2011/&gt;
+
+The term &quot;[[splinternet]]&quot; is sometimes used to describe the effects of national [[Firewall (computing)|firewalls]]. The verb &quot;[[River crab (Internet slang)|rivercrab]]&quot; colloquially refers to censorship of the Internet, particularly in Asia.&lt;ref name=&quot;RC&quot;&gt;{{Cite web|author=Lao Wai|title=I've Been Rivercrabbed!|work=An American In Beijing|date=21 October 2007|url=http://americaninbeijing.blogspot.com/2007/10/ive-been-rivercrabbed.html|accessdate=28 May 2011}}&lt;/ref&gt;
+
+==Around the world==
+{{Main |Internet censorship by country |Censorship by country}}
+
+[[File:Internet Censorship World Map.svg|right|500px|thumb|&lt;center&gt;'''[[Internet censorship by country]]'''&lt;ref name=ONISS-Nov2011&gt;OpenNet Initiative [http://opennet.net/research/data  &quot;Summarized global Internet filtering data spreadsheet&quot;], 8 November 2011 and [http://opennet.net/research/profiles &quot;Country Profiles&quot;], the OpenNet Initiative is a collaborative partnership of the Citizen Lab at the Munk School of Global Affairs, University of Toronto; the Berkman Center for Internet &amp; Society at Harvard University; and the SecDev Group, Ottawa&lt;/ref&gt;&lt;ref name=ONIChildPornLegal/&gt;&lt;ref name=RWBEnemies&gt;[http://march12.rsf.org/i/Report_EnemiesoftheInternet_2012.pdf ''Internet Enemies''], Reporters Without Borders (Paris), 12&amp;nbsp;March 2012&lt;/ref&gt;&lt;/center&gt;
+&lt;Blockquote&gt;
+{{Col begin}}
+{{Col-1-of-2}}
+{{legend|#F9D|Pervasive censorship}}
+{{legend|#FDD|Substantial censorship}}
+{{legend|#FFD|Selective censorship}}
+{{Col-2-of-2}}
+{{legend|#FFD800|Under surveillance by [[Reporters Without Borders]]}}
+{{legend|#98FB98|Little or no censorship}}
+{{legend|#e0e0e0|Not classified / no data}}
+{{Col end}}
+&lt;/Blockquote&gt;
+]]
+
+As more people in more places begin using the Internet for important activities, there is an increase in online censorship, using more sophisticated techniques. The motives, scope, and effectiveness of Internet censorship vary widely from country to country. The countries engaged in state-mandated filtering are clustered in three main regions of the world: east Asia, central Asia, and the [[MENA|Middle East/North Africa]]. A few countries in other regions also practice certain forms of filtering. In the [[Internet censorship in the United States|United States]] state-mandated Internet filtering occurs on some computers in libraries and [[K-12 schools]]. Content related to [[Nazism]] or [[Holocaust denial]] is blocked in [[Internet censorship in France|France]] and [[Internet censorship in Germany|Germany]]. [[Child pornography]], [[hate speech]], and sites that encourage the infringement of [[intellectual property rights]] are blocked in many countries throughout the world.&lt;ref name=Zittrain-2008&gt;[http://mitpress.mit.edu/books/chapters/0262541963intro1.pdf &quot;Introduction&quot;], Jonathan Zittrain and John Palfrey, in [http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11329 ''Access Denied: The Practice and Policy of Global Internet Filtering''], Ronald Deibert, John Palfrey, Rafal Rohozinski, and Jonathan Zittrain, eds., MIT Press (Cambridge), 2008&lt;/ref&gt; In fact, many countries throughout the world, including some democracies with long traditions of strong support for [[freedom of expression]] and [[freedom of the press]], are engaged in some amount of online censorship, often with substantial public support.&lt;ref&gt;[http://opennet.net/sites/opennet.net/files/Deibert_03_Ch02_029-056.pdf &quot;Internet Filtering: The Politics and Mechanisms of Control&quot;], Jonathan Zittrain and John Palfrey, in [http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11329 ''Access Denied: The Practice and Policy of Global Internet Filtering''], Ronald Deibert, John Palfrey, Rafal Rohozinski, and Jonathan Zittrain, eds., MIT Press (Cambridge), 2008&lt;/ref&gt;
+
+===Reports, ratings, and trends===
+Detailed country by country information on Internet censorship is provided by the [[OpenNet Initiative]], [[Reporters Without Borders]], [[Freedom House]], and in the [[U.S. State Department]] [[Bureau of Democracy, Human Rights, and Labor]]'s ''Human Rights Reports''.&lt;ref&gt;[http://www.state.gov/g/drl/rls/hrrpt/2010/index.htm &quot;2010 Country Reports on Human Rights Practices&quot;], Bureau of Democracy, Human Rights, and Labor, U.S. Department of State, 8 April 2011&lt;/ref&gt; The ratings produced by several of these organizations are summarized in the [[Internet censorship by country]] and the [[Censorship by country]] articles.
+
+====OpenNet Initiative reports====
+Through 2010 the OpenNet Initiative had documented Internet filtering by governments in over forty countries worldwide.&lt;ref name=Noman-2011/&gt; The level of filtering in 26 countries in 2007 and in 25 countries in 2009 was classified in the political, social, and security areas. Of the 41 separate countries classified, seven were found to show no evidence of filtering in all three areas ([[Internet censorship in Egypt|Egypt]], [[Internet censorship in France|France]], [[Internet censorship in Germany|Germany]], [[Internet censorship in India|India]], [[Human rights in Ukraine#Media Freedom and Freedom of Information|Ukraine]], [[Internet censorship in the United Kingdom|United Kingdom]], and [[Internet censorship in the United States|United States]]), while one was found to engage in pervasive filtering in all three areas ([[Internet censorship in the People's Republic of China|China]]), 13 were found to engage in pervasive filtering in one or more areas, and 34 were found to engage in some level of filtering in one or more areas. Of the 10 countries classified in both 2007 and 2009, one reduced its level of filtering ([[Internet censorship in Pakistan|Pakistan]]), five increased their level of filtering ([[Internet censorship in Azerbaijan|Azerbaijan]], [[Internet censorship in Belarus|Belarus]], [[Internet censorship in Kazakhstan|Kazakhstan]], [[Internet censorship in South Korea|South Korea]], and [[Internet censorship in Uzbekistan|Uzbekistan]]), and four  maintained the same level of filtering ([[Internet censorship in the People's Republic of China|China]], [[Internet censorship in Iran|Iran]], [[Internet censorship in Myanmar|Myanmar]], and [[Human rights in Tajikistan|Tajikistan]]).&lt;ref name=UNESCO-2011/&gt;&lt;ref name=ONIChildPornLegal&gt;Due to legal concerns the [[OpenNet Initiative]] does not check for filtering of [[child pornography]] and because their classifications focus on technical filtering, they do not include other types of censorship.&lt;/ref&gt;
+
+====Freedom on the Net reports====
+In the 2011 edition of Freedom House's report ''Freedom on the Net'', of the 37 countries surveyed, 8 were rated as &quot;free&quot; (22%), 18 as &quot;partly free&quot; (49%), and 11 as &quot;not free&quot; (30%).&lt;ref&gt;[http://www.freedomhouse.org/template.cfm?page=664 ''Freedom on the Net 2011''], Freedom House. Retrieved 1 September 2011&lt;/ref&gt; In their 2009 report, of the 15 countries surveyed, 4 were rated as &quot;free&quot; (27%), 7 as &quot;partly free&quot; (47%), and 4 as &quot;not free&quot; (27%).&lt;ref&gt;[http://freedomhouse.org/template.cfm?page=383&amp;report=79 ''Freedom on the Net 2009''], Freedom House. Retrieved 1 September 2011&lt;/ref&gt; And of the 15 countries surveyed in both 2009 and 2011, 5 were seen to be moving in the direction of more network freedom (33%), 9 moved toward less freedom (60%), and one was unchanged (7%).
+
+====&quot;Internet enemies&quot; and &quot;countries under surveillance&quot; lists====
+In 2006, [[Reporters Without Borders]] (''Reporters sans frontières'', RSF), a Paris-based international non-governmental organization that advocates [[freedom of the press]], started publishing a list of &quot;Enemies of the Internet&quot;.&lt;ref name=&quot;rsf&quot;&gt;[http://en.rsf.org/list-of-the-13-internet-enemies-07-11-2006,19603 List of the 13 Internet enemies] Reporters Without Borders (Paris), 11&amp;nbsp;July 2006.&lt;/ref&gt; The organization classifies a country as an enemy of the internet because &quot;all of these countries mark themselves out not just for their capacity to censor news and information online but also for their almost systematic repression of Internet users.&quot;&lt;ref name=&quot;rsf.org&quot;&gt;[http://www.rsf.org/IMG/pdf/Internet_enemies_2009_2_.pdf &quot;Internet enemies&quot;], Reporters Without Borders (Paris), 12&amp;nbsp;March 2009.&lt;/ref&gt; In 2007 a second list of countries &quot;Under Surveillance&quot; (originally &quot;Under Watch&quot;) was added. Both lists are updated annually.&lt;ref&gt;[http://www.rsf.org/ennemis.html Web 2.0 versus Control 2.0.] Reporters Without Borders (Paris), 18&amp;nbsp;March 2010.&lt;/ref&gt;
+
+{{col-begin}}
+{{Col-1-of-4}}
+'''Enemies of the Internet:'''&lt;ref name=&quot;RWBEnemies&quot;/&gt;
+* {{flag|Armenia}}
+* {{flag|Bahrain}}
+* {{flag|Burma|Myanmar}}
+* {{flag|Mainland China|People's Republic of China}} (excluding Hong Kong and Macau)
+* {{flag|Cuba}}
+* {{flag|Iran}}
+{{Col-2-of-4}}
+&amp;nbsp;
+* {{flag|North Korea}}
+* {{flag|Saudi Arabia}}
+* {{flag|Syria}}
+* {{flag|Vietnam}}
+
+{{Col-3-of-4}}
+'''Countries Under Surveillance:'''&lt;ref name=RWBEnemies/&gt;
+* {{flag|Australia}}
+* {{flag|Belarus}}
+* {{flag|Egypt}}
+* {{flag|Eritrea}}
+* {{flag|India}}
+* {{flag|Malaysia}}
+{{Col-4-of-4}}
+&amp;nbsp;
+* {{flag|South Korea}}
+* {{flag|Sri Lanka}}
+* {{flag|Thailand}}
+* {{flag|Tunisia}}
+* {{flag|United Arab Emirates}}
+* {{flag|France}}
+{{col-end}}
+
+When the &quot;Enemies of the Internet&quot; list was introduced in 2006, it listed 13 countries. From 2006 to 2012 the number of countries listed fell to 10 and then rose to 12. [[Internet censorship in Belarus|Belarus]], [[Internet censorship in Egypt|Egypt]], and [[Internet censorship in Tunisia|Tunisia]] moved to the &quot;Countries under surveillance&quot; list in 2009, 2011, and 2011 respectively. [[Internet censorship in Belarus|Belarus]] moved back and [[Human rights in Bahrain#Internet|Bahrain]] was added to the list in 2012.
+
+When the &quot;Countries under surveillance&quot; list was introduced in 2008, it listed 10 countries. Between 2008 and 2012 the number of countries listed grew to 16 and then fell to 14. In addition to the moves to and from the &quot;Enemies of the Internet&quot; list noted earlier, [[Human rights in Jordan#Internet censorship|Jordan]] in 2009, [[Internet in Tajikistan#Internet censorship|Tajikistan]] in 2009, and [[Internet in Yemen|Yemen]] in 2010 were dropped from the list and [[Internet censorship in Australia|Australia]] in 2009, [[Internet censorship in France|France]] in 2011, [[Freedom of the press in Russia#Internet|Russia]] in 2010, [[Internet censorship in South Korea|South Korea]] in 2009, [[Internet censorship in Turkey|Turkey]] in 2010 were added. [[Human rights in Bahrain#Internet|Bahrain]], Eritrea, [[Internet censorship in Malaysia|Malaysia]], and [[Censorship in South Asia#Sri Lanka|Sri Lanka]] dropped from the list in 2010, but were added again in 2011. [[Libya]] dropped from the list in 2009, added again in 2011, and then dropped in 2012. [[Internet in Venezuela|Venezuela]] was added in 2011 and then dropped in 2012.
+
+====BBC World Service global public opinion poll====
+A poll of 27,973 adults in 26 countries, including 14,306 Internet users,&lt;ref&gt;For the BBC poll Internet users are those who used the Internet within the previous six months.&lt;/ref&gt; was conducted for the [[BBC World Service]] by the international polling firm [[GlobeScan]] using telephone and in-person interviews between 30 November 2009 and 7 February 2010. GlobeScan Chairman Doug Miller felt, overall, that the poll showed that:
+:Despite worries about privacy and fraud, people around the world see access to the internet as their fundamental right. They think the web is a force for good, and most don’t want governments to regulate it.&lt;ref name=BBCPoll-2010&gt;[http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/08_03_10_BBC_internet_poll.pdf &quot;BBC Internet Poll: Detailed Findings&quot;], BBC World Service, 8 March 2010&lt;/ref&gt;
+
+Findings from the poll include:&lt;ref name=BBCPoll-2010/&gt;
+*Nearly four in five (78%) Internet users felt that the Internet had brought them greater freedom.
+*Most Internet users (53%) felt that &quot;the internet should never be regulated by any level of government anywhere&quot;.
+*Opinion was evenly split between Internet users who felt that “the internet is a safe place to express my opinions” (48%) and those who disagreed (49%). Somewhat surprisingly users in [[Internet censorship in Germany|Germany]] and [[Internet censorship in France|France]] agreed the least, followed by users in highly filtered countries such as China and [[Internet censorship in South Korea|South Korea]], while users in [[Internet censorship in Egypt|Egypt]], [[Internet censorship in India|India]] and [[Internet in Kenya|Kenya]] agreed more strongly.&lt;ref name=UNESCO-2011/&gt;
+*The aspects of the Internet that cause the most concern include: fraud (32%), violent and explicit content (27%), threats to [[privacy]] (20%), state censorship of content (6%), and the extent of corporate presence (3%).
+*Almost four in five Internet users and non-users around the world felt that access to the Internet was a fundamental right (50% strongly agreed, 29% somewhat agreed, 9% somewhat disagreed, 6% strongly disagreed, and 6% gave no opinion).&lt;ref&gt;[http://news.bbc.co.uk/2/hi/8548190.stm &quot;Internet access is 'a fundamental right'&quot;], ''BBC News'', 8 March 2010&lt;/ref&gt; And while there is strong support for this right in all of the countries surveyed, it is surprising that the United States and Canada were among the top five countries where people most strongly disagreed that access to the Internet was a fundamental right of all people (13% in [[Human rights in Japan#Civil liberties|Japan]], 11% in the [[Internet censorship in the United States|U.S.]], 11% in [[Internet in Kenya|Kenya]], 11% in [[Internet censorship in Pakistan|Pakistan]], and 10% in [[Internet censorship in Canada|Canada]] strongly disagree).&lt;ref name=UNESCO-2011/&gt;
+
+===Transparency of filtering or blocking activities===
+Among the countries that filter or block online content, few openly admit to or fully disclose their filtering and blocking activities. States are frequently opaque and/or deceptive about the blocking of access to political information.&lt;ref name=Chadwick-2009/&gt; For example:
+* [[Internet censorship in Saudi Arabia|Saudi Arabia]] and the [[Internet in the United Arab Emirates|United Arab Emirates]] (UAE) are among the few states that publish detailed information about their filtering practices and display a notification to the user when attempting to access a blocked website.
+* In contrast, countries such as [[Internet censorship in China|China]] and [[Internet censorship in Tunisia|Tunisia]] send users a false error indication. China blocks requests by users for a banned website at the [[Transport layer|router level]] and a connection error is returned, effectively preventing the user's [[IP address]] from making further [[HTTP]] requests for a varying time, which appears to the user as &quot;time-out&quot; error with no explanation. Tunisia has altered the block page functionality of [[SmartFilter]], the commercial filtering software it uses, so that users attempting to access blocked websites receive a fake &quot;File not found&quot; error page.
+* In [[Internet censorship in Uzbekistan|Uzbekistan]] users are frequently sent block pages stating that the website is blocked because of pornography, even when the page contains no pornography. Uzbeki ISPs may also redirect users' request for blocked websites to unrelated websites, or sites similar to the banned websites, but with different information.&lt;ref&gt;{{Cite book| last = ed. Chadwick |year = 2009| pages = 331 }}&lt;/ref&gt;
+
+===Arab Spring===
+:''See also: [[Internet Censorship in the Arab Spring]], [[Internet in Egypt#2011 Internet shutdown|2011 Egyptian Internet shutdown]], and [[Free speech in the media during the 2011 Libyan civil war]]''
+
+During the [[Arab Spring]] of 2011, media [[jihad]] (media struggle) was extensive. Internet and mobile technologies, particularly social networks such as Facebook and Twitter, played and are playing important new and unique roles in organizing and spreading the protests and making them visible to the rest of the world. An activist in Egypt tweeted, “we use Facebook to schedule the protests, Twitter to coordinate, and YouTube to tell the world”.&lt;ref&gt;[http://www.miller-mccune.com/politics/the-cascading-effects-of-the-arab-spring-28575/ &quot;The Arab Spring’s Cascading Effects&quot;], Philip N. Howard, Miller-McCune, 23 February 2011&lt;/ref&gt;
+
+This successful use of digital media in turn led to increased censorship including the complete loss of Internet access for periods of time in Egypt&lt;ref&gt;[http://monkey.org/~labovit/blog//viewpage.php?page=middle_east_scorecard_feb20 &quot;Middle East Political Protest And Internet Traffic Report: February 12–20, 2011&quot;], Craig Labovitz, Arbor Networks&lt;/ref&gt;&lt;ref name=&quot;jamescowie_techdetails_Egyptfullblock&quot;/&gt;&lt;ref name=&quot;IDGnews_Egyptfullblock&quot;/&gt; and [[Free speech in the media during the 2011 Libyan civil war|Libya]] in 2011.&lt;ref name=Libya-RWB-2011/&gt;&lt;ref name=&quot;Analysis of Egyptian and Libyan outages&quot;&gt;{{cite web| url=http://www.caida.org/publications/papers/2011/outages_censorship/outages_censorship.pdf| title=Analysis of Country-wide Internet Outages Caused by Censorship|last=Dainotti et al. |year=2011| publisher=ACM}}&lt;/ref&gt; In Syria, the Syrian Electronic Army (SEA), an organization that operates with at least tacit support of the government, claims responsibility for defacing or otherwise compromising scores of websites that it contends spread news hostile to the Syrian regime. SEA disseminates denial of service (DoS) software designed to target media websites including those of [[Al Jazeera]], [[BBC News]], Syrian satellite broadcaster Orient TV, and Dubai-based al-Arabia TV.&lt;ref&gt;[http://opennet.net/syrian-electronic-army-disruptive-attacks-and-hyped-targets &quot;Syrian Electronic Army: Disruptive Attacks and Hyped Targets&quot;], OpenNet Initiative, 25 June 2011&lt;/ref&gt;
+
+In response to the greater freedom of expression brought about by the Arab Spring revolutions in countries that were previously subject to very strict censorship, in March 2011, Reporters Without Borders moved [[Internet censorship in Tunisia|Tunisia]] and [[Internet censorship in Egypt|Egypt]] from its &quot;Internet enemies&quot; list to its list of countries &quot;under surveillance&quot;&lt;ref&gt;[http://en.rsf.org/surveillance-egypt,39740.html &quot;Countries under surveillance: Egypt&quot;], Reporters Without Borders, March 2011&lt;/ref&gt; and in 2012 dropped [[Free speech in the media during the Libyan civil war|Libya]] from the list entirely.&lt;ref name=RWBEnemies/&gt; At the same time, there were warnings that Internet censorship might increase in other countries following the events of the Arab Spring.&lt;ref&gt;[http://www.future500.org/blog/censorship-fallout-from-the-arab-spring/ &quot;Censorship fallout from the Arab Spring?&quot;], Juliette Terzieff, The Future 500, 29 June 2011&lt;/ref&gt;&lt;ref&gt;[http://ca.reuters.com/article/technologyNews/idCATRE78R3CM20110928?pageNumber=1&amp;virtualBrandChannel=0 &quot;Insight: Social media – a political tool for good or evil?&quot;], Peter Apps, Reuters Canada, 28 September 2011&lt;/ref&gt;
+
+==Common targets==
+There are several motives or rationales for Internet censorship: politics and power, social norms and morals, and security concerns. Protecting [[intellectual property rights]] and existing economic interests are two additional motives for Internet censorship. In addition, networking tools and applications that allow the sharing of information related to these motives are themselves subjected to filtering and blocking. And while there is considerable variation from country to country, the blocking of web sites in a local language is roughly twice that of web sites available only in English or other international languages.&lt;ref name=Faris-2008&gt;[http://opennet.net/sites/opennet.net/files/Deibert_02_Ch01_005-028.pdf &quot;Measuring Global Internet Filtering&quot;], Robert Faris and Nart Villeneuve, in [http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11329 ''Access Denied: The Practice and Policy of Global Internet Filtering''], Ronald Deibert, John Palfrey, Rafal Rohozinski, and Jonathan Zittrain, eds., MIT Press (Cambridge), 2008&lt;/ref&gt;
+
+===Politics and power===
+Censorship directed at political opposition to the ruling government is common in authoritarian and repressive regimes. Some countries block web sites related to religion and minority groups, often when these movements represent a threat to the ruling regimes.&lt;ref name=Faris-2008/&gt;
+
+Examples include:
+*Political blogs and web sites&lt;ref&gt;[http://www.news.com/Blog-censorship-gains-support/2100-1028_3-5670096.html Blog censorship gains support | CNET News.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+* ''[[Lèse majesté]]'' sites, sites with content that offends the dignity of or challenges the authority of a reigning [[Sovereignty|sovereign]] or of a [[Sovereign state|state]]
+* [[Falun Gong]] and [[Tibetan exile]] group sites in [[Internet censorship in the People's Republic of China|China]] or [[Buddist]], [[Cao Dai]] faith, and indigenous [[Hill tribes#South-East Asia|hill tribes]] sites in [[Internet censorship in Vietnam|Vietnam]]
+* Sites aimed at religious conversion from Islam to Christianity&lt;ref name=Faris-2008/&gt;
+
+===Social norms and morals===
+Social filtering is censorship of topics that are held to be antithetical to accepted societal
+norms.&lt;ref name=Faris-2008/&gt; In particular censorship of [[child pornography]] and to [[Children's interests|protect children]] enjoys very widespread public support and such content is subject to censorship and other restrictions in most countries. 
+
+Examples include:
+*[[Eroticism|Sex and erotic]], [[fetishism]], prostitution, and [[Anti-pornography movement|pornographic]] sites
+*[[Child pornography]] and [[pedophile]] related sites (see also [[CIRCAMP]])
+*[[Gay and Lesbian Culture|Gay and Lesbian]] sites
+*Sites seen as promoting [[Substance abuse|illegal drug use]] ([[Erowid]])&lt;ref&gt;{{cite web|title=Erowid Interview|url=http://erowidethnography.files.wordpress.com/2011/05/erowid-interview.pdf|accessdate=26 May 2011}}&lt;/ref&gt;
+*Gambling sites
+*Sites encouraging or inciting violence
+*Sites promoting criminal activity
+*Sites that include [[hate speech]]
+**[[Nazism|Nazi]] and similar websites – particularly in [[Internet censorship in France|France]] and [[Internet censorship in Germany|Germany]]&lt;ref&gt;{{cite news| url=http://www.theaustralian.news.com.au/story/0,25197,22885402-12335,00.html | title=Latest Stories From News.Com.Au}}&lt;/ref&gt;
+*Sites that contain [[Blasphemy|blasphemous]] content, particularly when directed at a majority or state supported religion
+*Sites that contain [[Defamation|defamatory, slanderous, or libelous]] content
+*Sites that include [[political satire]]
+
+===Security concerns===
+Many organisations implement filtering as part of a [[defence in depth]] strategy to protect their environments from [[malware]],&lt;ref&gt;{{cite web|url=http://www.gartner.com/id=747218|publisher=[[Gartner]]|title=Why Malware Filtering Is Necessary in the Web Gateway|date=26 August 2008|accessdate=14 April 2012}}&lt;/ref&gt; and to protect their reputations in the event of their networks being used, for example, to carry out sexual harassment.
+
+Internet filtering related to threats to [[national security]] that targets the Web sites of [[insurgents]], [[extremists]], and terrorists often enjoys wide public support.&lt;ref name=Faris-2008/&gt;
+
+Examples include:
+*Blocking of pro–[[Internet censorship in North Korea|North Korean]] sites by [[Internet censorship in South Korea|South Korea]]&lt;ref&gt;[http://opennet.net/bulletins/009/ &quot;Collateral Blocking: Filtering by South Korean Government of Pro-North Korean Websites&quot;], OpenNet Initiative: Bulletin 009, 31 January 2005&lt;/ref&gt;
+*Blocking sites of groups that foment domestic conflict in [[Internet censorship in India|India]]
+*Blocking of sites of the [[Muslim Brotherhood]] in some countries in the Middle East
+*Blocking [[Wikileaks]]&lt;ref&gt;[http://wikileaks.org/wiki/Australia_secretly_censors_Wikileaks_press_release_and_Danish_Internet_censorship_list%2C_16_Mar_2009 Press release from WIkileaks concerning Australian censorship]&lt;/ref&gt;
+*Blocking sites such as [[4chan]] thought to be related to the group [[Anonymous (group)|Anonymous]]&lt;ref&gt;[http://www.washingtonpost.com/politics/federal-authorities-take-on-anonymous-hackers/2011/09/11/gIQAYrhgMK_story.html &quot;Federal authorities take on Anonymous hackers&quot;], Associated Press in the Washington Post, 12 September 2011&lt;/ref&gt;
+
+===Protection of intellectual property and existing economic interests===
+Sites that share content that violates [[copyright]] or other [[intellectual property rights]] are often blocked, particularly in western Europe and North America. In addition the protection of existing economic interests is sometimes the motivation for blocking new Internet services such as low-cost telephone services that use [[Voice over Internet Protocol]] (VoIP). These services can reduce the customer base of telecommunications companies, many of which enjoy entrenched monopoly positions and some of which are government sponsored or controlled.&lt;ref name=Faris-2008/&gt;
+
+[[Christian Engström]], [[Rick Falkvinge]] and [[Oscar Swartz]] reported on a copyright lobby organization’s intent to use child pornography as a pretext to get politicians to implement site blocking, to later use it for copyright-related blocking.&lt;ref&gt;{{cite web
+ |url         = https://torrentfreak.com/the-copyright-lobby-absolutely-loves-child-pornography-110709/
+ |title       = The Copyright Lobby Absolutely Loves Child Pornography
+ |author      = [[Rick Falkvinge]]
+ |date        = 9 July 2011
+ |work        = [[TorrentFreak]]
+ |publisher   = 
+ |accessdate  = 26 July 2012
+ |lang        = en
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+ |url        = https://christianengstrom.wordpress.com/2010/04/27/ifpis-child-porn-strategy/
+ |title      = IFPI’s child porn strategy
+ |author     = [[Christian Engström]]
+ |date       = 27 April 2010
+ |accessdate = 26 July 2012
+ |lang       = en
+}}&lt;/ref&gt;
+
+Examples include:
+*[[Filesharing]] and [[Peer-to-peer]] (P2P) related websites such as [[The Pirate Bay]]
+*[[Skype]]
+*Sites that sell or distribute music, but are not 'approved' by rights holders, such as [[allofmp3]]
+
+===Network tools===
+Blocking the intermediate tools and applications of the Internet that can be used to assist users in accessing and sharing sensitive material is common in many countries.&lt;ref name=Faris-2008/&gt;
+
+Examples include:
+*[[Media sharing|Media sharing website]]s (e.g. [[Flickr]] and [[Censorship of YouTube|YouTube]])&lt;ref&gt;[http://mashable.com/2007/03/11/youtube-blocked-inthailand/ YouTube Blocked in…Thailand&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+*[[Social network service|Social networks]] (e.g. [[Censorship of Facebook|Facebook]] and MySpace)
+*Translation sites and tools
+*E-mail providers
+*[[Web hosting]] sites
+*[[Blog hosting]] sites such as [[Blogspot]]
+*[[Microblogging]] sites such as [[Censorship of Twitter|Twitter]] and [[Sina Weibo|Weibo]]&lt;ref&gt;[http://www.independent.co.uk/life-style/gadgets-and-tech/china-struggles-to-tame-microblogging-masses-2351509.html &quot;China struggles to tame microblogging masses&quot;], Agence France-Presse (AFP) in ''The Independent'', 8 September 2011&lt;/ref&gt;
+*[[Censorship of Wikipedia|Wikipedia]]
+*[[Internet censorship circumvention|Censorship circumvention sites]]
+**[[Anonymizer]]s
+**[[Proxy server|Proxy avoidance sites]]
+*[[Search engines]] such as [[Bing]]&lt;ref&gt;[http://opennet.net/sex-social-mores-and-keyword-filtering-microsoft-bing-arabian-countries &quot;Sex, Social Mores, and Keyword Filtering: Microsoft Bing in the &quot;Arabian Countries]&quot;, Helmi Noman, OpenNet Initiative, March 2010&lt;/ref&gt; and [[Internet censorship in the People's Republic of China|Google]]&lt;ref&gt;[http://opennet.net/bulletins/006/ &quot;Google Search &amp; Cache Filtering Behind China's Great Firewall&quot;], OpenNet Initiative: Bulletin 006, 3 September 2004&lt;/ref&gt;&lt;ref&gt;[http://cyber.law.harvard.edu/archived_content/people/edelman/google-safesearch/ &quot;Empirical Analysis of Google SafeSearch&quot;], Benjamin Edelman, Berkman Center for Internet &amp; Society, Harvard Law School, 13 April 2003&lt;/ref&gt; – particularly in [[Internet censorship in the People's Republic of China|China]] and [[Internet censorship in cuba|Cuba]]&lt;ref&gt;{{cite news| url=http://news.bbc.co.uk/2/hi/technology/2231101.stm |work=BBC News | title=China blocking Google | date=2 September 2002 | accessdate=5 May 2010}}&lt;/ref&gt;
+
+==Content suppression methods==
+===Non-technical censorship===
+{{Main |Censorship}}
+
+Internet content is subject to censorship methods similar to those used with more traditional media. For example:&lt;ref name=UNESCO-2011/&gt;
+* Laws and regulations may prohibit various types of content and/or require that content be removed or blocked either proactively or in response to requests.
+* Publishers, authors, and ISPs may receive formal and informal requests to remove, alter, slant, or block access to specific sites or content.
+* Publishers and authors may accept bribes to include, withdraw, or slant the information they present.
+* Publishers, authors, and ISPs may be subject to arrest, criminal prosecution, fines, and imprisonment.
+* Publishers, authors, and ISPs may be subject to civil lawsuits.
+* Equipment may be confiscated and/or destroyed.
+* Publishers and ISPs may be closed or required licenses may be withheld or revoked.
+* Publishers, authors, and ISPs may be subject to boycotts.
+* Publishers, authors, and their families may be subject to threats, attacks, beatings, and even murder.&lt;ref&gt;[http://thelede.blogs.nytimes.com/2011/09/15/in-mexico-social-media-becomes-a-battleground-in-the-drug-war/ &quot;In Mexico, Social Media Become a Battleground in the Drug War&quot;], J. David Goodman, ''The Lede, New York Times'', 15 September 2011&lt;/ref&gt;
+* Publishers, authors, and their families may be threatened with or actually lose their jobs.
+* Individuals may be paid to write articles and comments in support of particular positions or attacking opposition positions, usually without acknowledging the payments to readers and viewers.&lt;ref name=InLineAsLongAs&gt;Provision of information in this fashion is in keeping with principles of freedom of expression, as long as it is done transparently and does not overwhelm alternative sources of information.&lt;/ref&gt;&lt;ref&gt;[http://blog.freedomhouse.org/weblog/2011/10/chinas-growing-army-of-paid-internet-commentators.html &quot;China’s growing army of paid internet commentators&quot;], Sarah Cook and Maggie Shum, Freedom House, 11 October 2011&lt;/ref&gt;
+* Censors may create their own online publications and Web sites to guide online opinion.&lt;ref name=InLineAsLongAs/&gt;
+* Access to the Internet may be limited due to restrictive licensing policies or high costs.
+* Access to the Internet may be limited due to a lack of the necessary infrastructure, deliberate or not.
+
+===Technical censorship===
+====Approaches====
+Internet content is also subject to technical censorship methods, including:&lt;ref name=UNESCO-2011&gt;[http://www.unesco.org/new/en/communication-and-information/resources/publications-and-communication-materials/publications/full-list/freedom-of-connection-freedom-of-expression-the-changing-legal-and-regulatory-ecology-shaping-the-internet/ ''Freedom of connection, freedom of expression: the changing legal and regulatory ecology shaping the Internet''], Dutton, William H.; Dopatka, Anna; Law, Ginette; Nash, Victoria, Division for Freedom of Expression, Democracy and Peace, United Nations Educational, Scientific and Cultural Organization (UNESCO), Paris, 2011, 103 pp., ISBN 978-92-3-104188-4&lt;/ref&gt;&lt;ref&gt;[http://cyber.law.harvard.edu/filtering/china/appendix-tech.html &quot;Empirical Analysis of Internet Filtering in China: Technical Appendix&quot;], Jonathan Zittrain and Benjamin Edelman, Berkman Center for Internet &amp; Society at Harvard Law School, 20 March 2003&lt;/ref&gt;
+
+*'''Internet Protocol (IP) address blocking''': Access to a certain [[IP address]] is denied. If the target Web site is hosted in a [[Shared web hosting service|shared hosting server]], all websites on the same server will be blocked. This affects IP-based protocols such as [[Hypertext Transfer Protocol|HTTP]], [[File Transfer Protocol|FTP]] and [[Post Office Protocol|POP]]. A typical circumvention method is to find [[Proxy server|proxies]] that have access to the target websites, but proxies may be jammed or blocked, and some Web sites, such as Wikipedia (when editing), also block proxies. Some large websites such as [[Google]] have allocated additional IP addresses to circumvent the block, but later the block was extended to cover the new addresses.
+*'''Domain name system (DNS) filtering and redirection''': Blocked [[domain name]]s are not resolved, or an incorrect IP address is returned via [[DNS hijacking]] or other means. This affects all IP-based protocols such as HTTP, FTP and POP. A typical circumvention method is to find a [[Alternative DNS root]] that resolves domain names correctly, but domain name servers are subject to blockage as well, especially IP address blocking. Another workaround is to bypass DNS if the IP address is obtainable from other sources and is not itself blocked. Examples are modifying the [[Hosts file]] or typing the IP address instead of the domain name as part of a URL given to a [[Web browser]].
+*'''Uniform Resource Locator filtering''': [[Uniform Resource Locator|URL]] strings are scanned for target keywords regardless of the domain name specified in the URL. This affects the [[Hypertext Transfer Protocol|HTTP]] protocol. Typical circumvention methods are to use [[percent-encoding|escaped characters]] in the URL, or to use encrypted protocols such as [[Virtual private network|VPN]] and [[Transport Layer Security|TLS/SSL]].&lt;ref&gt;For an example, see [[Wikipedia:Advice to users using Tor to bypass the Great Firewall]]&lt;/ref&gt;
+*'''Packet filtering''': Terminate [[Transmission Control Protocol|TCP]] [[Packet (information technology)|packet]] transmissions when a certain number of [[List of words censored by search engines in Mainland China|controversial keywords]] are detected. This affects all TCP-based protocols such as HTTP, FTP and POP, but [[Search engine results page]]s are more likely to be censored. Typical circumvention methods are to use encrypted connections – such as VPN and TLS/SSL – to escape the HTML content, or by reducing the [[Internet protocol suite|TCP/IP]] [[Protocol stack|stack]]'s [[Maximum transmission unit|MTU]]/[[Maximum segment size|MSS]] to reduce the amount of text contained in a given packet.
+*'''Connection reset''': If a previous [[Transmission Control Protocol|TCP]] connection is blocked by the filter, future connection attempts from both sides can also be blocked for some variable amount of time. Depending on the location of the block, other users or websites may also be blocked, if the communication is [[Routing|routed]] through the blocking location. A circumvention method is to ignore the reset packet sent by the firewall.&lt;ref&gt;[http://www.zdnetasia.com/news/security/0,39044215,39372326,00.htm Academics break the Great Firewall of China]&lt;/ref&gt;
+*'''Network disconnection''': A technically simpler method of Internet censorship is to completely cut off all routers, either by software or by hardware (turning off machines, pulling out cables). This appears to have been the case on 27/28 January 2011 during the [[2011 Egyptian protests]], in what has been widely described as an &quot;unprecedented&quot; internet block.&lt;ref name=&quot;jamescowie_techdetails_Egyptfullblock&quot;&gt;{{cite web| last =Cowie| first =James| title =Egypt Leaves the Internet| publisher =Renesys| url =http://www.renesys.com/blog/2011/01/egypt-leaves-the-internet.shtml | accessdate =28 January 2011 |archiveurl=http://www.webcitation.org/5w51j0pga |archivedate=28 January 2011 |deadurl=no}}&lt;/ref&gt;&lt;ref name=&quot;IDGnews_Egyptfullblock&quot;&gt;{{cite news | first=Jeremy | last=Kirk | title=With Wired Internet Locked, Egypt Looks to the Sky | date=28 January 2011 | publisher=IDG News/[[PC World (magazine)|PC World]] | url=http://www.pcworld.com/businesscenter/article/218064/with_wired_internet_locked_egypt_looks_to_the_sky.html |accessdate=28 January 2011 |archiveurl=http://www.webcitation.org/5w518Yu9B |archivedate=28 January 2011 |deadurl=no}}&lt;/ref&gt; About 3500 [[Border Gateway Protocol]] (BGP) routes to Egyptian networks were shut down from about 22:10 to 22:35 UTC 27 January.&lt;ref name=&quot;jamescowie_techdetails_Egyptfullblock&quot; /&gt; This full block was implemented without cutting off major intercontinental [[fibre optics|fibre-optic]] links, with Renesys stating on 27 January, &quot;Critical European-Asian fiber-optic routes through Egypt appear to be unaffected for now.&quot;&lt;ref name=&quot;jamescowie_techdetails_Egyptfullblock&quot; /&gt; Full blocks also occurred in [[Internet censorship in Myanmar|Myanmar/Burma]] in 2007&lt;ref&gt;[http://opennet.net/research/bulletins/013 &quot;Pulling the Plug: A Technical Review of the Internet Shutdown in Burma&quot;, OpenNet Initiative, November 2007]&lt;/ref&gt; and [[Free speech in the media during the 2011 Libyan civil war|Libya]] in 2011.&lt;ref name=Libya-RWB-2011&gt;{{cite web|title=Journalists confined to their hotels, Internet disconnected|url=http://en.rsf.org/journalists-confined-to-their-04-03-2011,39681.html|work=Journalists confined to their hotels, Internet disconnected|publisher=Reporters Without Borders|accessdate=21 March 2011}}&lt;/ref&gt;
+*'''Portal censorship''' and '''search result removal''': Major portals, including [[search engine]]s, may exclude web sites that they would ordinarily include. This renders a site invisible to people who do not know where to find it. When a major portal does this, it has a similar effect as censorship. Sometimes this exclusion is done to satisfy a legal or other requirement, other times it is purely at the discretion of the portal. For example [http://www.google.de/ Google.de] and [http://www.google.fr/ Google.fr] remove [[Neo-Nazism|Neo-Nazi]] and other listings in compliance with German and French law.&lt;ref&gt;[http://news.com.com/2100-1023-963132.html Google excluding controversial sites], Declan McCullagh, CNET News, 23 October 2002, 8:55&amp;nbsp;pm PDT. Retrieved 22 April 2007 00:40 UTC&lt;/ref&gt;
+*'''Computer network attacks''': [[Denial-of-service attack]]s and attacks that deface opposition websites can produce the same result as other blocking techniques, preventing or limiting access to certain websites or other online services, although only for a limited period of time. This technique might be used during the lead up to an election or some other sensitive period. It is more frequently used by non-state actors seeking to disrupt services.&lt;ref&gt;[http://opennet.net/emergence-open-and-organized-pro-government-cyber-attacks-middle-east-case-syrian-electronic-army &quot;The Emergence of Open and Organized Pro-Government Cyber Attacks in the Middle East: The Case of the Syrian Electronic Army&quot;], Helmi Noman, OpenNet Initative, May 2011&lt;/ref&gt;
+
+:''See also [[Internet forum#Word censor]] and [[Anti-spam techniques#Detecting spam]].''
+
+====Over- and under-blocking====
+Technical censorship techniques are subject to both over- and under-blocking since it is often impossible to always block exactly the targeted content without blocking other permissible material or allowing some access to targeted material and so providing more or less protection than desired.&lt;ref name=UNESCO-2011/&gt; An example is that automatic censorship against sexual words in matter for children, set to block the word &quot;[[cunt]]&quot;, has been known to block the [[Lincolnshire]] placename [[Scunthorpe problem|Scunthorpe]].&lt;ref&gt;{{cite web
+ |url=http://news.cnet.com/2100-1032_3-5198125.html
+ |title=Google's chastity belt too tight
+ |date=23 April 2004
+ |author=Declan McCullagh
+}}&lt;/ref&gt; Another example is blocking an IP-address of a server that hosts multiple websites, which prevents access to all of the websites rather than just those that contain content deemed offensive.&lt;ref&gt;[http://www.theregister.co.uk/2003/09/24/india_blocks_yahoo_groups/ &quot;India blocks Yahoo! Groups&quot;], Andrew Orlowski, The Register, 24 September 2003&lt;/ref&gt;
+
+According to a report produced in 1997 by the gay rights group [[GLAAD]], many 90s-era Internet censorship software products prevent access to non-pornographic [[LGBT]]-related material. GLAAD argued that this is disempowering and dangerous for young LGBT people.&lt;ref&gt;{{cite web|title=Access Denied|url=http://www.glaad.org/glaad/access_denied/index.html|publisher=GLAAD|accessdate=5 May 2012|archiveurl=http://web.archive.org/web/19990117013223/http://www.glaad.org/glaad/access_denied/index.html|archivedate=17 January 1999}}&lt;/ref&gt;
+
+==== Use of commercial filtering software ====
+[[File:Websense blocking Facebook.png|thumb|right|Screenshot of [[Websense]] blocking Facebook in an organisation where it has been configured to block a category named &quot;Personals and Dating&quot;]]
+{{Main |Content-control software}}
+
+Writing in 2009 [[Ronald Deibert]], professor of political science at the [[University of Toronto]] and co-founder and one of the principal investigators of the [[OpenNet Initiative]], and, writing in 2011, Evgeny Morzov, a visiting scholar at [[Stanford University]] and an Op-Ed contributor to the ''[[New York Times]]'', explain that companies in the United States, Finland, France, Germany, Britain, Canada, and South Africa are in part responsible for the increasing sophistication of online content filtering worldwide. While the off-the-shelf [[filtering software]] sold by Internet security companies are primarily marketed to businesses and individuals seeking to protect themselves and their employees and families, they are also used by governments to block what they consider sensitive content.&lt;ref name=Chadwick2009-1&gt;{{Cite book| last = ed. Chadwick| year = 2009| pages = 330–331 }}&lt;/ref&gt;&lt;ref&gt;[http://www.nytimes.com/2011/09/02/opinion/political-repression-2-0.html &quot;Political Repression 2.0&quot;], Evgeny Morzov, Op-Ed Contributor to the ''New York Times'', 1 September 2011&lt;/ref&gt; 
+
+Among the most popular filtering software programs is [[SmartFilter]] by [[Secure Computing]] in California, which was bought by [[McAfee]] in 2008. SmartFilter has been used by [[Tunisia]], Saudi Arabia, [[Sudan]], the [[UAE]], Kuwait, [[Bahrain]], Iran, and [[Oman]], as well as the United States and the UK.&lt;ref name=&quot;guardian.co.uk&quot;&gt;{{cite news |url=http://www.guardian.co.uk/commentisfree/2008/nov/17/censorship-internet |title=The big business of net censorship |last=Glanville  |first=Jo |date=17 November 2008 |work=The Guardian  | location=London}}&lt;/ref&gt; [[Myanmar]] and [[Yemen]] have used filtering software from [[Websense]].  The [[Canada|Canadian-made]] commercial filter Netsweeper&lt;ref&gt;[http://www.netsweeper.com/index.php?page=netsw_prod_content_filtering &quot;Internet content filtering&quot;], Netsweeper, Inc. web site. Retrieved 1 September 2011&lt;/ref&gt; is used in [[Qatar]], the [[UAE]], and [[Yemen]].&lt;ref name=Noman-2011&gt;[http://opennet.net/west-censoring-east-the-use-western-technologies-middle-east-censors-2010-2011 &quot;West Censoring East: The Use of Western Technologies by Middle East Censors, 2010–2011&quot;], Helmi Noman and Jillian C. York, OpenNet Initiative, March 2011&lt;/ref&gt; 
+
+In a U.S. lawsuit filed in May 2011, [[Cisco Systems]] is accused of helping the [[People's Republic of China|Chinese Government]] build a firewall, known widely as the [[Golden Shield]], to censor the Internet and keep tabs on dissidents. Cisco said it had made nothing special for China. Cisco is also accused of aiding the Chinese government in monitoring and apprehending members of the banned [[Falun Gong]] group.&lt;ref&gt;[http://www.nytimes.com/2011/09/03/technology/group-says-it-has-new-evidence-of-ciscos-misdeeds-in-china.html &quot;Group Says It Has New Evidence of Cisco’s Misdeeds in China&quot;], Somini Sengupta, ''New York Times'', 2 September 2011&lt;/ref&gt; 
+
+Many filtering programs allow blocking to be configured based on dozens of categories and sub-categories such as these from Websense: &quot;abortion&quot; (pro-life, pro-choice), &quot;adult material&quot; (adult content, lingerie and swimsuit, nudity, sex, sex education), &quot;advocacy groups&quot; (sites that promote change or reform in public policy, public opinion, social practice, economic activities, and relationships), &quot;drugs&quot; (abused drugs, marijuana, prescribed medications, supplements and unregulated compounds), &quot;religion&quot; (non-traditional religions occult and folklore, traditional religions), ....&lt;ref name=Noman-2011/&gt; The blocking categories used by the filtering programs may contain errors leading to the unintended blocking of websites.&lt;ref name=Chadwick2009-1/&gt; The blocking of [[DailyMotion]] in early 2007 by Tunisian authorities was, according to the [[OpenNet Initiative]], due to Secure Computing wrongly categorizing DailyMotion as pornography for its SmartFilter filtering software. It was initially thought that Tunisia had blocked DailyMotion due to satirical videos about human rights violations in Tunisia, but after Secure Computing corrected the mistake access to DailyMotion was gradually restored in Tunisia.&lt;ref&gt;{{Cite book| last = ed. Chadwick| year = 2009| pages = 323–324 }}&lt;/ref&gt;
+
+Organizations such as the [[Global Network Initiative]], the [[Electronic Frontier Foundation]], [[Amnesty International]], and the [[American Civil Liberties Union]] have successfully lobbied some vendors such as [[Websense]] to make changes to their software, to refrain from doing business with repressive governments, and to educate schools who have inadvertently reconfigured their filtering software too strictly.&lt;ref name=&quot;riaclu&quot;&gt;{{cite web | url = http://www.riaclu.org/20050418.html | archiveurl= http://web.archive.org/web/20081205070114/http://www.riaclu.org/20050418.html |title = R.I. ACLU releases report on &quot;troubling&quot; internet censorship in public libraries | author = The Rhode Island affiliate, American Civil Liberties Union | date = April 2005 | archivedate = 8 December 2008 }} [http://www.riaclu.org/friendly/documents/2005libraryinternetreport.pdf full report]&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.eff.org/deeplinks/2011/11/week-internet-censorship%20|accessdate=27 March 2012|publisher=[[Electronic Frontier Foundation]]|date=7 November 2011|title=This Week in Internet Censorship Egypt Imprisons Alaa, Other Pro-democracy Bloggers|first=Maira|last=Sutton|first2=Trevor|last2=Timm}}&lt;/ref&gt;&lt;ref name=&quot;amnesty china&quot;&gt;[http://www.amnesty.org/en/library/asset/ASA17/001/2004/en/9dc9d9e2-d64d-11dd-ab95-a13b602c0642/asa170012004en.pdf China: Controls tighten as Internet activism grows] &quot;[[Cisco Systems]], [[Microsoft]], [[Nortel Networks]], Websense and [[Sun Microsystems]]&quot;, citing Amnesty International: People’s Republic of China: State Control of the Internet in China, ASA, 17/007/2002, November 2002.&lt;/ref&gt; Nevertheless, regulations and accountability related to the use of commercial filters and services are often non-existent, and there is relatively little oversight from civil society or other independent groups. Vendors often consider information about what sites and content is blocked valuable intellectual property that is not made available outside the company, sometimes not even to the organizations purchasing the filters. Thus by relying upon out-of-the-box filtering systems, the detailed task of deciding what is or is not acceptable speech may be outsourced to the commercial vendors.&lt;ref name=Noman-2011/&gt;
+
+===Circumvention===
+{{Main |Internet censorship circumvention}}
+
+Internet censorship circumvention is the processes used by technologically savvy Internet users to bypass the technical aspects of Internet filtering and gain access to otherwise censored material. Circumvention is an inherent problem for those wishing to censor the Internet, because filtering and blocking do not remove content from the Internet but rather block access to it.  Therefore, as long as there is at least one publicly accessible uncensored system, it will often be possible to gain access to otherwise censored material. However circumvention may not be possible by non tech-savvy users, so blocking and filtering remain effective means of censoring the Internet access of large numbers of users.&lt;ref name=UNESCO-2011/&gt;
+
+Different techniques and resources are used to bypass Internet censorship, including [[Proxy server|proxy websites]], [[virtual private network]]s, [[sneakernet]]s, and circumvention software tools. Solutions have differing ease of use, speed, security, and risks. Most, however, rely on gaining access to an Internet connection that is not subject to filtering, often in a different jurisdiction not subject to the same censorship laws.
+
+There are risks to using circumvention software or other methods to bypass Internet censorship. In some countries individuals that gain access to otherwise restricted content may be violating the law and if caught can be expelled, fired, jailed, or subject to other punishments and loss of access.&lt;ref&gt;[http://en.cship.org/wiki/Risks &quot;Risks&quot;], ''Internet censorship wiki''. Retrieved 2 September 2011&lt;/ref&gt;
+
+In June 2011 the ''New York Times'' reported that the U.S. is engaged in a &quot;global effort to deploy 'shadow' Internet and mobile phone systems that dissidents can use to undermine repressive governments that seek to silence them by censoring or shutting down telecommunications networks.&quot;&lt;ref&gt;[http://www.nytimes.com/2011/06/12/world/12internet.html?pagewanted=all &quot;U.S. Underwrites Internet Detour Around Censors&quot;], James Glanz and John Markoff, ''New York Times'', 12 June 2011&lt;/ref&gt;
+
+===Major web portal official statements on site and content removal===
+{{See also |Terms of Service}}
+Most major web service operators reserve to themselves broad rights to remove or pre-screen content, sometimes without giving a specific list or only a vague general list of the reasons allowing the removal. The phrases &quot;at our sole discretion&quot;, &quot;without prior notice&quot;, and &quot;for other reasons&quot; are common in Terms of Service agreements.
+*[[Facebook]]: Among other things the Facebook Statement of Rights and Responsibilities says: &quot;You will not post content that: is hateful, threatening, or pornographic; incites violence; or contains nudity or graphic or gratuitous violence&quot;, &quot;You will not use Facebook to do anything unlawful, misleading, malicious, or discriminatory&quot;, &quot;We can remove any content or information you post on Facebook if we believe that it violates this Statement&quot;, and &quot;If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on Facebook (such as advertising or payments) or operate a Platform application or website&quot;.&lt;ref&gt;[http://www.facebook.com/terms.php &quot;Statement of Rights and Responsibilities&quot;], Facebook, 26 April 2011. Retrieved 18 August 2011&lt;/ref&gt;
+*[[Google]]: Google's general Terms of Service were updated on 1 March 2012 and state: &quot;We may suspend or stop providing our Services to you if you do not comply with our terms or policies or if we are investigating suspected misconduct&quot;, &quot;We may review content to determine whether it is illegal or violates our policies, and we may remove or refuse to display content that we reasonably believe violates our policies or the law&quot;, and &quot;We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S. [[Digital Millennium Copyright Act]]&quot;.&lt;ref&gt;[http://www.google.com/intl/en/policies/terms/ &quot;Google Terms of Service&quot;], Policies &amp; Principles, Google, Inc.. Retrieved 1 April 2012&lt;/ref&gt;
+*[[Google Search]]: Google's Webmaster Tools help includes the following statement: &quot;Google may temporarily or permanently remove sites from its index and search results if it believes it is obligated to do so by law, if the sites do not meet Google's quality guidelines, or for other reasons, such as if the sites detract from users' ability to locate relevant information.&quot;&lt;ref&gt;[http://www.google.com/support/webmasters/bin/answer.py?answer=40052  &quot;Why does Google remove sites from the Google index?&quot;], Google Webmaster Tools Help. Retrieved 22 April 2007 00:43 UTC&lt;/ref&gt;
+*[[Twitter]]: The Twitter Terms of Service state: &quot;We reserve the right at all times (but will not have an obligation) to remove or refuse to distribute any Content on the Services and to terminate users or reclaim usernames&quot; and &quot;We reserve the right to remove Content alleged to be [copyright] infringing without prior notice and at our sole discretion&quot;.&lt;ref&gt;[http://twitter.com/tos &quot;Terms of Service&quot;], Twitter, 1 June 2011. Retrieved 18 August 2011&lt;/ref&gt;
+*[[YouTube]]: The YouTube Terms of Service include the statements: &quot;YouTube reserves the right to decide whether Content violates these Terms of Service for reasons other than copyright infringement, such as, but not limited to, pornography, obscenity, or excessive length. YouTube may at any time, without prior notice and in its sole discretion, remove such Content and/or terminate a user's account for submitting such material in violation of these Terms of Service&quot;, &quot;YouTube will remove all Content if properly notified that such Content infringes on another's intellectual property rights&quot;, and &quot;YouTube reserves the right to remove Content without prior notice&quot;.&lt;ref&gt;[http://www.youtube.com/static?gl=US&amp;template=terms &quot;Terms of Service&quot;], YouTube, 9 June 2010. Retrieved 18 August 2011&lt;/ref&gt;
+*[[Wikipedia:Deletion policy|Wikipedia]]: Content within a Wikipedia article may be modified or deleted by any editor as part of the normal process of editing and updating articles. All editing decisions are open to discussion and review. The Wikipedia Deletion policy outlines the circumstances in which entire articles can be deleted. Any editor who believes a page doesn't belong in an encyclopedia can propose its deletion. Such a page can be deleted by any administrator if, after seven days, no one objects to the proposed deletion. Speedy deletion allows for the deletion of articles without discussion and is used to remove pages that are so obviously inappropriate for Wikipedia that they have no chance of surviving a deletion discussion. All deletion decisions may be reviewed, either informally or formally.&lt;ref&gt;[[Wikipedia:Deletion policy|&quot;Deletion policy&quot;]], Wikipedia. Retrieved 18 August 2011&lt;/ref&gt;
+*[[Yahoo!]]: Yahoo!'s Terms of Service (TOS) state: &quot;You acknowledge that Yahoo! may or may not pre-screen Content, but that Yahoo! and its designees shall have the right (but not the obligation) in their sole discretion to pre-screen, refuse, or remove any Content that is available via the Yahoo! Services. Without limiting the foregoing, Yahoo! and its designees shall have the right to remove any Content that violates the TOS or is otherwise objectionable.&quot;&lt;ref&gt;[http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html &quot;Yahoo! Terms of Service&quot;], Yahoo!, 24 November 2008. Retrieved 18 August 2011&lt;/ref&gt;
+
+==See also==
+{{Col begin}}
+{{Col-1-of-2}}
+'''Organizations and projects''':
+*[[Anonymous (group)|Anonymous]] – an online hacktivist collective that express its opposition to Internet censorship through protests and online hacking in several countries.
+*[[Chilling Effects (group)|Chilling Effects]] – A joint project of the Electronic Frontier Foundation and several U.S. university law schools and clinics
+* [[CIRCAMP]], Cospol Internet Related Child Abusive Material Project, a project of the European Chiefs of Police Task Force to combat commercial and organized distribution of [[child pornography]]
+* The [[Clean IT]] project, a European Union-funded project with the stated aim of suppressing terrorist activity
+*[[Electronic Frontier Foundation]] – An international non-profit digital rights advocacy and legal organization
+*[[Financial Coalition Against Child Pornography]] – A coalition of credit card issuers and Internet services companies that seeks to eliminate commercial child pornography by taking action on the payment systems that fund these operations
+*[[Global Internet Freedom Consortium]] (GIFC) – A consortium of organizations that develop and deploy anti-censorship technologies
+*[[International Freedom of Expression Exchange]] (IEFX) – A global network of non-governmental organizations that promotes and defends the right to freedom of expression
+**[[Tunisia Monitoring Group]] – A coalition within IFEX that monitors free expression in Tunisia
+*[[Internet Governance Forum]] (IGF) – A United Nations multi-stakeholder policy dialogue initiative
+*[[Internet Watch Foundation]] - government-supported charity that manages the blacklist used by UK ISPs to block access to websites hosting child abuse content.
+*[[OpenNet Initiative]] – A joint project to monitor and report on Internet filtering and surveillance practices by nations
+*[[Peacefire]], a U.S.-based website dedicated to &quot;preserving First Amendment rights for Internet users, particularly those younger than 18&quot;
+*[[The Pirate Party]] – a political movement that aims to reform laws regarding [[copyright]] and patents, strengthen the [[right to privacy]], and increase the [[Transparency (social)|transparency of state administration]]
+*''[[Reporters sans frontières]]'' ([[Reporters Without Borders]]) – A France-based international non-governmental organization that advocates freedom of the press
+{{Col-2-of-2}}
+{{Portal|Internet|Freedom of speech}}
+'''Topics''':
+*[[Accountability software]]
+*[[Anti-copyright]]
+*[[Cleanfeed (content blocking system)|Cleanfeed]], a content blocking system in use in the UK and Canada
+*[[Computer surveillance]]
+*[[Content-control software]]
+*[[Cyber-dissident]]
+*[[Digital rights]]
+*[[For the children (politics)]]
+*[[Great Firewall of China]]
+*[[Internet police]]
+*[[Internet activism]]
+*[[Internet safety]]
+*Laws and proposed laws:
+**[[List of Copyright Acts]] by country
+**[[Anti-Counterfeiting Trade Agreement]] (ACTA), multinational treaty 
+**[[Communications Decency Act]], US law ruled unconstitutional
+***[[Black World Wide Web protest]]
+**[[Digital Millennium Copyright Act]] (DMCA), US law
+**[[Copyright Directive]], European Union directive
+**[[Copyright (New Technologies) Amendment Act 2008]], New Zealand
+***[[New Zealand Internet Blackout]]
+**[[HADOPI law]], French law
+**[[DDL intercettazioni#Paragraph_29|Paragraph_29]] of [[DDL intercettazioni]], proposed Italian law
+***[[Italian Wikipedia#2011 mass blanking protest|2011 mass blanking protest]], Italian Wikipedia
+**SOPA and PIPA, proposed US laws
+***[[PROTECT IP Act|PROTECT Intellectual Property Act]] (PIPA), proposed US law
+***[[Stop Online Piracy Act]] (SOPA), proposed US law
+***[[Protests against SOPA and PIPA]]
+*[[List of content-control software]]
+*[[Parental controls]]
+*[[Political repression of cyber-dissidents]]
+*[[Right to Internet access]]
+*[[River crab (Internet slang)]]
+*[[Scientology versus the Internet]]
+*[[Sociology of the Internet]]
+*[[Splinternet]]
+{{Col end}}
+
+==References==
+[[File:Cc.logo.circle.svg|18px]] ''This article incorporates [http://creativecommons.org/licenses/by/3.0/us/ licensed material] from the [[OpenNet Initiative]] web site.&lt;ref&gt;[[File:CC-BY-icon-80x15.png]] [http://creativecommons.org/licenses/by/3.0/deed.en Creative Commons Attribution 3.0 Unported license], see the lower right corner of pages at the [http://opennet.net/ OpenNet Initiative web site]&lt;/ref&gt;
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+{{Wikipedia books|Internet}}
+* [http://censorship.wikia.com/ Censorship Wikia], an anti-censorship site that catalogs past and present censored works, using verifiable sources, and a forum to discuss organizing against and circumventing censorship.
+* [http://www.howtobypassinternetcensorship.org/ ''How to Bypass Internet Censorship''], also known by the titles: ''Bypassing Internet Censorship'' or ''Circumvention Tools'', a [[FLOSS]] Manual, 10 March 2011, 240 pp.
+* [http://indexoncensorship.org &quot;Index on Censorship&quot;], web site for the London based organization and magazine that promotes freedom of expression.
+* [http://en.cship.org/wiki/Main_Page Internet censorship wiki], provides information about different methods of access filtering and ways to bypass them.
+*[http://www.osce.org/fom/13836 &quot;Media Freedom Internet Cookbook&quot;] by the [[OSCE Representative on Freedom of the Media]], Vienna, 2004.
+* [http://cyber.law.harvard.edu/interactive/events/2008/03/access_denied Discussion] of global net filtering, Berkman Center for Internet &amp; Society, Harvard, March 2008
+* [http://web20summit.blip.tv/file/1450774 Global survey] of Web filtering &amp; blocking: Rebecca MacKinnon at Web 2.0 Summit, November 2008
+* [http://www.nytimes.com/2012/09/23/sunday-review/free-speech-in-the-age-of-youtube.html &quot;Free Speech in the Age of YouTube&quot;] in the ''New York Times'', 22 September 2012
+
+{{Internet censorship}}
+{{Censorship and websites}}
+{{Media manipulation}}
+
+{{Use dmy dates|date=November 2012}}
+
+{{DEFAULTSORT:Internet Censorship}}
+[[Category:Computer network security]]
+[[Category:Content-control software]]
+[[Category:Internet censorship|*]]
+[[Category:Privacy]]
+[[Category:Internet ethics]]
+[[Category:Information society]]
+
+[[ar:الرقابة على الإنترنت]]
+[[az:İnternet senzura]]
+[[ca:Censura d'Internet]]
+[[cs:Cenzura na internetu]]
+[[de:Zensur im Internet]]
+[[et:Tsensuur internetis]]
+[[es:Censura en Internet]]
+[[fa:فیلتر اینترنتی]]
+[[fr:Censure de l'Internet]]
+[[ko:인터넷 검열]]
+[[hr:Cenzura Interneta]]
+[[it:Censura di Internet]]
+[[he:סינון תכנים באינטרנט]]
+[[la:Censura interretialis]]
+[[mk:Цензура на интернет]]
+[[my:အင်တာနက် ဆင်ဆာပြုလုပ်ခြင်း]]
+[[nl:Internetcensuur]]
+[[ja:ネット検閲]]
+[[pl:Cenzura w Internecie]]
+[[pt:Censura na Internet]]
+[[ro:Cenzura Internetului]]
+[[ru:Интернет-цензура]]
+[[sr:Cenzura na internetu]]
+[[ta:இணையத் தணிக்கை]]
+[[th:การตรวจพิจารณาอินเทอร์เน็ต]]
+[[tr:İnternet sansürü]]
+[[ur:جالبینی مراقبت]]
+[[vi:Kiểm duyệt Internet]]
+[[zh:互联网审查]]</text>
+      <sha1>d126tj9mu9x5vaxu8ldznm55ii20k40</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

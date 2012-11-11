@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Les Dégonflés</title>
+    <ns>0</ns>
+    <id>2675801</id>
+    <revision>
+      <id>509214121</id>
+      <parentid>504640953</parentid>
+      <timestamp>2012-08-26T08:36:06Z</timestamp>
+      <contributor>
+        <username>Alsadius</username>
+        <id>82857</id>
+      </contributor>
+      <comment>They do things. That's hardly &quot;passive&quot;.</comment>
+      <text xml:space="preserve" bytes="1024">'''Les Dégonflés''' is a [[France|French]] [[vigilante]] group that deflates [[Tire|tyres]] on [[SUV]]s parked on the streets of [[Paris]] in order to protest against the associated high [[Air pollution|emissions]] and damage caused to the environment. 
+&lt;ref&gt;{{cite news |last = Bremner
+|first = Charles
+|coauthors = Tourres, Marie
+|title = Ecowarriors go into battle against 4x4s - with cycle pumps
+|publisher = [[The Times]]
+|date= September 14, 2005
+|url = http://www.timesonline.co.uk/article/0,,13509-1778863,00.html
+|accessdate = 2006-07-12}}&lt;/ref&gt;
+
+==External links==
+* {{fr icon}} [http://degonfle.blogg.org/ Les Dégonflés website]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Cite news
+|last=Gain
+|first=Bruce
+|title=In France, Push Comes to SUV
+|publisher=Wired.com
+|date= September 13, 2005
+|url=http://www.wired.com/culture/lifestyle/news/2005/09/68809
+|accessdate= 2008-03-06}}
+
+{{DEFAULTSORT:Degonfles}}
+[[Category:Environmental organizations based in France]]
+
+
+{{France-org-stub}}
+{{Activism-stub}}</text>
+      <sha1>1582ibmemmyn365joz0vdvzmya4enkz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

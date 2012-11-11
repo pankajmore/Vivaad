@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Open campaign</title>
+    <ns>0</ns>
+    <id>234411</id>
+    <revision>
+      <id>433531193</id>
+      <parentid>432066076</parentid>
+      <timestamp>2011-06-10T09:54:59Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]], removed wikify tag using [[Project:AWB|AWB]] (7754)</comment>
+      <text xml:space="preserve" bytes="3260">{{Unreferenced|date=December 2009}}
+
+An '''open campaign''' can encompass several definitions.
+
+An open campaign may be a set of [[protest|public protest]] actions against a [[person]] (e.g. a politician), an [[organization]] (e.g. a private education association), or a [[corporation]] with a clear goal and transparent methods.
+
+In most cases, people who organise an open campaign are people willing to [[activism|act]] by themselves, rather than strictly relying on politicians or other leaders. They often are willing to take control of their struggle and define their priorities, and work as a team, with little or no [[hierarchy]], but rather favor people to participate with their own skills.
+
+Typical open campaigns rely on organizing talks, video displays, [[mailing]]s, protest letters, leaflets distributions, articles in newspapers, [[petition]]s. The location and time of a campaign is usually heavily dependent upon the focus chosen.{{citation needed|date=June 2011}}
+
+==Examples==
+*petitions from shopkeepers to allow small convenience [[local food]] shop to trade in their full range of goods from early until late on seven days a week
+*local newspapers promoting, pushing and heavily supporting a given [[politician]]
+*Online services for the implementation of [[moral purchasing]] or [[MeatballWiki]] to improve [[virtual community]] and especially [[wiki]] governance
+*an association trying to make the public aware of an issue (see example below)
+
+The expression is also often used by politicians officially starting to campaign as a candidate for a specific election. A similar meaning is given in sports, with the official start of a sport season (e.g. in France, [[French Open (tennis)|Roland Garros Tournament]]).
+
+The expression is sometimes used in games, in particular role gaming.
+
+==Example of an open campaign==
+[[Greenpeace]] is using &quot;open campaign&quot; as part of its activism effort, with the willingness to be [[transparency (humanities)|transparent]] down to the merest tactical details, although there may be some situations where some of these are hidden to provide some element of surprise.  It assumed that [[propaganda]] techniques (even via [[cultural bias]]), are ineffective, counter-productive or simply will not be believed.  Thus one does not have report every uncomfortable detail, merely be a more reliable reporter than the opposition and be heard out to ultimately be more trusted than the opposing agents. See the act.Greenpeace.org service for an example of open campaigning, mostly using email campaigns. In this context, 
+*[[Wikipedia]] is arguably an open campaign to create an online [[encyclopedia]]. {{Citation needed|date=July 2008}}
+*[[Wikipedia:Meta|Meta]] is arguably an open campaign to govern an online encyclopedia. {{Citation needed|date=July 2008}}
+*[[MeatballWiki]] is arguably an open campaign to improve virtual community and especially wiki governance.
+*[[Disinfopedia]] is an open campaign to disclose [[propaganda]] techniques and participants.
+*Consumerium is an open campaign to implement [[moral purchasing]].
+*[https://sourceforge.net/projects/opencampaign/ OpenCampaign] is an online petition campaign management software.
+
+{{DEFAULTSORT:Open Campaign}}
+[[Category:Activism by method]]</text>
+      <sha1>3sa7of3i53dvhxddd9cenmyf6hbace9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

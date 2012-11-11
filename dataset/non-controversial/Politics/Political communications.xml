@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Political communications</title>
+    <ns>0</ns>
+    <id>5132526</id>
+    <revision>
+      <id>482075637</id>
+      <parentid>482071502</parentid>
+      <timestamp>2012-03-15T19:31:19Z</timestamp>
+      <contributor>
+        <username>XLinkBot</username>
+        <id>6163802</id>
+      </contributor>
+      <comment>BOT--Reverting link addition(s) by [[:en:Special:Contributions/84.215.156.235|84.215.156.235]] to revision 480753283 (http://judecalvillo.wordpress.com [\bwordpress\.com])</comment>
+      <text xml:space="preserve" bytes="2497">{{Politics}}
+
+'''Political communication''' is a subfield of [[communication]] and [[political science]] that is concerned with how information spreads and influences politics. Since the advent of the [[World Wide  Web]], the amount of data to analyze has exploded, and researchers are shifting to computational methods to study the dynamics of political communication. In recent years, [[machine learning]], [[natural language processing]], and [[network analysis]] have become key tools in the subfield.
+
+==Fields and areas of Study==
+
+The field of political communication concern 2 main areas:
+
+* [[Election campaigns]] - Political communications involved in campaigning for elections.
+* [[Government operations]] -  This role is usually fulfilled by a [[Ministry of Communications]], [[Information Technology]] or similar political entity. Such an entity is in charge of maintaining communication legislation and would be responsible for setting [[telecommunications]] policy and regulations as well as issuing broadcasting licenses, comments [[press releases]], etc... 
+
+According to [[James Chesebro]], there are five critical approaches to contemporary Political communications:
+# Machiavellian - i.e. power relationships
+# Iconic - symbols are important
+# Ritualistic - Redundant and superficial nature of political acts - manipulation of symbols.
+# Confirmation - political aspects looked at as people we endorse
+# Dramatistic - politics is symbolically constructed. (Kenneth Burke)
+
+==See also==
+* [[Political campaign]]
+* [[Government operations]]
+* [[List of basic political science topics]]
+* [[Technological nationalism]]
+
+==External links==
+* [http://ics.leeds.ac.uk/eurpolcom/ Centre for European Political Communications]
+* [http://pcl.stanford.edu/ The Political Communication Lab - Stanford University]
+* [http://www.ksg.harvard.edu/prg/topics_politicalcommunications.htm Working Papers on Political Communications - Kennedy School of Government]
+* [http://www.crl.edu/content/PolitWeb.htm Political Communications Web Archive Project]
+* [http://www.greenwood.com/catalog/subject/Communications/Political+Communications.aspx A list of Political communications books]
+* [http://judecalvillo.blogspot.com Power and Persuasion (blog): Where Politics Meets Communication]
+* [http://digitalcrusades.com Digital Crusades: observing the political communications of populist-nativist parties SVP, PVV &amp; the FN]
+
+[[Category:Subfields of political science]]
+
+{{Gov-stub}}
+{{polisci-stub}}</text>
+      <sha1>15nrda7wypdowe48vxxw98uwfq5w255</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

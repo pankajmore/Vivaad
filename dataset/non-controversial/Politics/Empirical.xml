@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Empirical</title>
+    <ns>0</ns>
+    <id>307139</id>
+    <revision>
+      <id>515558685</id>
+      <parentid>513442273</parentid>
+      <timestamp>2012-10-02T01:56:39Z</timestamp>
+      <contributor>
+        <ip>152.1.33.239</ip>
+      </contributor>
+      <comment>empirical data ARE - data are plural; a datapoint or datum is singular</comment>
+      <text xml:space="preserve" bytes="4047">{{About|the concept in science}}
+
+The word '''empirical''' denotes information acquired by means of [[observation]] or [[experimentation]].&lt;ref&gt;{{cite book|title=The American Heritage Dictionary of the English Language|publisher=[[Houghton Mifflin]]|date=2000|edition=4th|url=http://www.bartleby.com/61/71/E0117100.html}}&lt;/ref&gt; '''Empirical data''' are [[data]] produced by an observation or experiment.
+
+A central concept in modern science and the [[scientific method]] is that all [[evidence]] must be empirical, or empirically based, that is, dependent on evidence or [[logical consequence|consequences]] that are observable by the [[senses]]. It is usually differentiated from the philosophic usage of [[empiricism]] by the use of the adjective ''empirical'' or the adverb ''empirically''. The term refers to the use of working [[hypothesis|hypotheses]] that are [[testable]] using observation or experiment.  In this sense of the word, scientific statements are subject to, and derived from, our experiences or observations.{{Citation needed|date=January 2011}}
+
+The standard [[positivism|positivist]] view of empirically acquired information has been that observation, experience, and experiment serve as neutral arbiters between competing theories.  However, since the 1960s, [[Thomas Kuhn]]&lt;ref&gt;{{cite book|last=Khun|first=Thomas|title=The Structure of Scientific Revolutions|publisher=University of Chicago Press|location=Chicago|date=1970|edition=2nd|series=1962/1970a}}{{Page needed|date=January 2011}}&lt;/ref&gt; has promoted the concept that these methods are influenced by prior beliefs and experiences. Consequently it cannot be expected that two scientists when observing, experiencing, or experimenting on the same event will make the same theory-neutral observations. The role of observation as a theory-neutral arbiter may not be possible. Theory-dependence of observation means that, even if there were agreed methods of inference and interpretation, scientists may still disagree on the nature of empirical data.&lt;ref&gt;{{cite web|url=http://plato.stanford.edu/entries/thomas-kuhn/|title=Thomas Kuhn|last=Bird|first=Alexander|date=13 August 2004|work=Stanford Encyclopedia of Philosophy|accessdate=25 January 2012}}&lt;/ref&gt;
+
+==Variations==
+In a second sense &quot;empirical&quot; in science may be synonymous with &quot;experimental.&quot;  In this sense, an empirical result is an unified confirmation.  In this context, the term ''semi-empirical'' is used for qualifying theoretical methods which use in part basic [[axiom]]s or postulated scientific laws and experimental results.  Such methods are opposed to theoretical ''[[ab initio]]'' methods which are purely [[deductive]] and based on [[first principles]].
+
+In [[statistics]], &quot;empirical&quot; quantities are those computed from [[observed value]]s, as opposed to derived from theoretical considerations.
+
+In [[economics]], &quot;empirical&quot; generally refers to statistical or econometric analysis of numeric data.  Other forms of observation-based hypothesis testing{{clarify|reason=what other possible forms are there? are there any?|date=December 2010}} are not considered to be &quot;empirics.&quot;
+
+The use of the adjective empirical, especially in scientific studies using statistics, may also indicate that a particular [[correlation]] between two parameters has been found, but that so far, no theory for the mechanism of the connection is known.
+
+==See also==
+*[[Empirical distribution]]
+*[[Empirical formula]]
+*[[Empirical method]]
+*[[Empirical research]] (more on the scientific usage)
+*[[Phenomenology (science)]]
+*[[Theoretical]]
+*[[Empiricism]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{wiktionary-inline}}
+
+[[Category:Scientific method]]
+[[Category:Sampling (statistics)]]
+[[Category:Statistical terminology]]
+
+[[ar:قانون استنباطي]]
+[[cs:Empirie]]
+[[da:Empiri]]
+[[de:Empirie]]
+[[el:Εμπειρική σχέση]]
+[[eo:Empirio]]
+[[fr:Empirique]]
+[[id:Empiris]]
+[[mk:Емпирија]]
+[[nl:Empirische wetenschap]]
+[[no:Empirisk]]
+[[ckb:ئەزموونی]]
+[[uk:Емпірика]]</text>
+      <sha1>rct901cziyhjujl8t3oa3481r7q9joz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Positive political theory</title>
+    <ns>0</ns>
+    <id>1840179</id>
+    <revision>
+      <id>520439240</id>
+      <parentid>493486383</parentid>
+      <timestamp>2012-10-29T15:27:02Z</timestamp>
+      <contributor>
+        <username>Jamesneilanderson</username>
+        <id>17118943</id>
+      </contributor>
+      <comment>Adding &quot;Distinguish2&quot; template</comment>
+      <text xml:space="preserve" bytes="2427">{{Distinguish2|Positivism}}
+'''Positive political theory''' or '''explanatory political theory''' is the study of [[politics]] using [[formal method]]s such as [[social choice theory]],  [[game theory]], and [[statistical analysis]]. In particular, social choice theoretic methods are often used to describe and (axiomatically) analyze the performance of rules or institutions.  The outcomes of the rules or institutions described are then analyzed by game theory, where the individuals/parties/nations involved in a given interaction are modeled as ''rational'' agents playing a game, guided by self-interest.  
+Based on this assumption, the outcome of the interactions can be predicted as an equilibrium of the game.
+
+The founder of the field was [[William H. Riker]]. In his book ''[[The Theory of Political Coalitions]]'' (1962), he applied the principles of [[game theory]] to the study of politics.
+
+==References==
+* [[W. H. Riker]], [[P. C. Ordeshook]] (1973). ''An introduction to positive political theory.'' Englewood Cliffs, NJ, Prentice-Hall
+* D. Austen-Smith, J.S. Banks (1999). Positive political theory I: collective preference. Ann Arbor: University of Michigan Press
+* P. T. Spiller (1996). A Positive Political Theory of Regulatory Instruments: Contracts, Administrative Law or Regulatory. Southern California Law Review
+* D. Austen-Smith, J.S. Banks (1998). Social choice theory, game theory, and positive political theory. Annual Review of Political Science {{doi|10.1146/annurev.polisci.1.1.259}}
+* J. R. Macey (1992). Separated Powers and Positive Political Theory: The Tug of War Over Administrative Agencies. Georgetown Law Journal
+* J. Ferejohn (1995). Law, Legislation, and Positive Political Theory. Modern Political Economy: Old Topics, New Directions.
+
+==See also==
+*[[Public choice theory]]
+*[[Rational choice theory]]
+*[[Social choice theory]]
+*[[Iron law of oligarchy]]
+*[[Elite theory]]
+*[[Voting system]]s
+*[[William H. Riker]]
+
+==External links==
+* [http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=%22positive+political+theory%22&amp;btnG=Search Google scholar article list]
+* [http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.polisci.2.1.269 The origins of positive political theory]
+*[http://www.nap.edu/html/biomems/wriker.html NAS memoir of William H. Riker] with discussion of his contributions
+
+[[Category:Subfields of political science]]
+[[ja:実証政治理論]]
+{{polisci-stub}}</text>
+      <sha1>0fwg109mspeyepgkilkqeyfvdq9d90c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

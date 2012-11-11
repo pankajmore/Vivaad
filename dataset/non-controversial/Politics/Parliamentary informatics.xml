@@ -1,0 +1,291 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Parliamentary informatics</title>
+    <ns>0</ns>
+    <id>3687747</id>
+    <revision>
+      <id>521049301</id>
+      <parentid>516272347</parentid>
+      <timestamp>2012-11-02T13:29:16Z</timestamp>
+      <contributor>
+        <ip>108.82.143.86</ip>
+      </contributor>
+      <comment>/* Comparisons between countries */</comment>
+      <text xml:space="preserve" bytes="30299">'''Parliamentary informatics''' is the application of information technology to the documentation of legislative activity. The principal areas of concern are the provision, in a form conveniently readable to humans or machines, of information and statistics about:
+
+* individual legislators
+* particular legislative proposals
+* votes thereon
+* text of legislation
+
+Parliamentary informatics is carried on both by officials of legislatures and by private for-profit and non-profit actors, with motivations ranging from the administration of parliaments to lobbying and facilitating democratic discourse.
+
+The division of activities between official and unofficial activity differs widely between polities, even within a single country. There exists substantial overlap with disciplines such as [[psephology]] and, as far as the text of successfully enacted legislation is concerned, [[legal informatics]] in general.
+
+The use of parliamentary informatics is also a rapidly growing trend in parliamentary monitoring. In a September 2011 joint report from the [[National Democratic Institute]] and [[World Bank Institute]], a survey of parliamentary monitoring organizations (PMOs) found that parliamentary informatics are used by approximately 40 percent of PMOs worldwide. The report states, &quot;These tools can automatically aggregate and organize information from parliamentary websites and other information sources, generate visualizations (such as political finance maps), and create new platforms for citizens to interact with MPs or participate in parliamentary monitoring and policy analysis.&quot;&lt;ref&gt;[http://www.ndi.org/files/governance-parliamentary-monitoring-organizations-survey-september-2011.pdf] ''Strengthening Parliamentary Accountability, Citizen Engagement and Access to Information: A Global Survey of Parliamentary Monitoring Organizations'', National Democratic Institute and World Bank Institute. Accessed Oct. 14 2011.&lt;/ref&gt;
+
+== Issues ==
+
+Access to parliamentary information is the most significant issue in parliamentary informatics; access may be inhibited technologically through the provision of parliamentary information in a form not amenable to processing by machines, or legally, by copyright or other protection of the parliamentary record.
+
+Ultimately, it may be possible to provide citizens with a comprehensive overview of all the legislation going through parliaments everywhere in the world, which would allow the tracking of the implementation of international treaties and of general legislative trends.
+
+In a September 2011 report from the [[National Democratic Institute]] and [[World Bank Institute]] on parliamentary monitoring organizations, open data is cited as a fundamental issue for further development. The report explains, &quot;While they have proven effective in many instances, the most useful informatics tools require the availability of parliamentary data in machine-readable or “open data” formats, which remains a challenge in many contexts.&quot;&lt;ref&gt;''Ibid.''&lt;/ref&gt;
+
+== Around the world ==
+=== Albania ===
+[http://www.unevotoj.org/ Une Votoj] (in English, &quot;I vote&quot;) is a website that provides information about the Parliament of [[Albania]]. The site structures Parliamentary plenary and committee sessions and agendas, and summaries of the proceedings. It also provides biographical notes about elected members, attendance and voting records. It was established in 2005, and is presently run by [[Mjaft!]], an [[Albania]]n non-governmental civil society movement.
+
+=== Australia ===
+[http://www.openaustralia.org/ OpenAustralia.org] is a community-funded site which was launched in June 2008 and automatically collects and publishes in an easy-to-read format the transcripts of all [[Australian Government]] House of Representatives and Senate debates, questions, discussions and notices. OpenAustralia.org also made available the Register of Senators' and Members' Interests online [http://www.openaustralia.org/news/archives/2009/02/26/another_big_step for the first time ever in Australia]. The site was developed in Australia with the assistance of the UK-based [[mySociety]] group who also built [[TheyWorkForYou]] from which OpenAustralia has been adapted. The site allows comment and discussion against debates and allows users to track the level of participation of Member of the House in debates, including statistics on their appearances in the House — so citizens can keep track of their representatives and be fully informed and involved with their Member's performance in the House. Within weeks of being launched OpenAustralia attracted a lot of attention and positive feedback from both the public and government and is set to pave the way for closer working relationships between government and citizens.
+
+=== Austria ===
+The [[National Council of Austria]] is covered by [http://www.meinparlament.at/ meinparlament.at]. The website was modeled after a [[Parliamentary_informatics#Germany|German partner website]].
+
+=== Africa ===
+[http://www.parliaments.info/ &quot;Africa i-Parliaments&quot;] is the portal of the regional initiatives of the United Nations Department of Economic and Social Affairs (UN/DESA) aimed at strengthening the role of African Parliaments in fostering democracy and good governance by developing common information services and tools, and building information management capabilities with the objective of making Parliaments i-nterconnected, i-nformed i-ndependent, or in short, i-Parliaments.
+ 
+The project includes two main initiatives:
+
+[http://www.akomantoso.org/ AKOMA NTOSO] (Architecture for Knowledge-Oriented Management of African Normative Texts using Open Standards and Ontologies) proposes an XML document schema providing sophisticated description possibilities for several Parliamentary document types (including bills, acts and parliamentary records, etc.). It aims to standardize simple, technology-neutral representations of Parliamentary Documents in order to improve inter-Parliamentary cooperation and reduce the costs of Parliamentary IT support systems. AKOMA NTOSO defines a set of recommendations and guidelines for e-Parliament services in a Pan-African context and provides an enabling framework for the effective exchange of machine readable Parliamentary Documents such as legislation, debate record, minutes, etc.
+
+[http://www.bungeni.org/ Bungeni] – Parliamentary Information System is an end-to-end suite of applications that provides a world-leading solution for drafting, managing, consolidating and publishing legislative and other parliamentary documents. Bungeni aims to increase the efficiency of parliamentary activities and make Parliaments more open and accessible to citizens—virtually allowing them “inside the Parliament” or Bungeni, the Kiswahili word for “inside the Parliament”.
+
+=== Brazil ===
+[http://www.votenaweb.com.br/ Vota Na Web] - Votes on the web.
+
+[http://www.congressoaberto.com.br/ Congresso Aberto] - Open Congress.
+
+=== Canada ===
+[http://www.howdtheyvote.ca/ How'd They Vote?] is a volunteer-run website providing information about the voting record and speeches of MPs, as is [http://openparliament.ca/ OpenParliament.ca].
+
+=== Chile ===
+[http://www.votainteligente.cl/ Vota Inteligente] Vote in an intelligent way.
+
+=== Colombia ===
+[http://www.congresovisible.org/ Congreso Visible]
+
+=== Czech Republic ===
+[http://www.kohovolit.eu/ KohoVolit.eu] is a volunteer-run website providing a sample of votings both in the Lower and Upper Chamber of the Czech Parliament allowing the user to test her or his own preferences against the MPs.
+
+=== Denmark ===
+The Parliament website ([http://ft.dk/ Folketinget]) has records of votes, speeches, laws and written questions in plain form.
+
+[http://www.hvemstemmerhvad.dk/about.php Hvem Stemmer Hvad] has elaborate parliament voting statistics and tracks parliamentary questions and media mentions of politicians. The site offers access to its data through an API. The name translates to &quot;Who Votes What&quot;.
+
+[http://folkevalg.dk/ Folkevalg] lets users debate and vote on concrete parliamentary issues. The site is financially supported by the EU.
+
+[http://folketsting.dk/ Folkets Ting] is a volunteer-run website with the same data that also offers rss feeds and lets users comment on content. &quot;Folkets Ting&quot; means &quot;Peoples Parliament&quot; and is a pun on &quot;Folketinget&quot;.
+
+=== European Parliament ===
+www.votewatch.eu [http://www.votewatch.eu] has collected and displays full records of the activities of the Members of the European Parliament starting with 2004. VoteWatch.eu is based on the expertize of academics from London School of Economics and Universite Libre de Bruxelles. The website displays full records of voting, attendance and other activities (parliamentary questions, speeches, reports etc.) of MEPs from all 27 member states. Furthermore, it shows a set of statistics that provide detailed information on how the coalitions are forming between the various European Political Groups. VoteWatch.eu has been updated for the 2009-2014 parliamentary term and in early 2010 has also released a report &lt;ref&gt;[http://www.votewatch.eu/blog/wp-content/uploads/2009/09/votewatch_report_voting_behaviour_in_the_new_european_parliament.pdf Voting behaviour in the new European Parliament: the first six months]&lt;/ref&gt; on the voting behavior in the newly-elected Parliament.
+
+The site ''It's Your Parliament''&lt;ref&gt;[http://www.itsyourparliament.eu It's Your Parliament .eu]&lt;/ref&gt; contains voting records of the Members of the European Parliament (MEPs) and makes it easy to compare voting records of individual MEPs and political groups. Users can comment on legislation, MEPs and cast their own votes. In March 2010 ''It's Your Parliament'' opened an API.&lt;ref&gt;[http://www.itsyourparliament.eu/api/ API]&lt;/ref&gt;
+
+ParlTrack&lt;ref&gt;[http://parltrack.euwiki.org/ ParlTrack]&lt;/ref&gt; is closely monitoring the legislative process within the European Parliament. Among other things it covers committee agendas, votes and tracking of dossiers via email and RSS. Parltrack is available as free software.
+
+''Testbeeld Europa''&lt;ref&gt;[http://www.testbeeldeuropa.nl Testbeeld Europa] (Dutch language)&lt;/ref&gt; shows how the Dutch Members of the European Parliament voted. Made by the nonpartisan, non-profit ''Instituut voor Publiek en Politiek'' (IPP).&lt;ref&gt;[http://www.publiek-politiek.nl/english Instituut voor Publiek en Politiek (IPP)]&lt;/ref&gt;
+
+IPP in Romania ran a full site monitoring MEPs.&lt;ref&gt;[http://www.ippro-mep.eu/index.html?lang=en]&lt;/ref&gt; It shut down in December 2008.&lt;ref&gt;[http://www.euractiv.com/en/future-eu/monitoring-mep-mission-impossible/article-177662]&lt;/ref&gt;
+
+Czech-Slovak KohoVolit.eu &lt;ref&gt;[http://www.kohovolit.eu/eu/parl]&lt;/ref&gt; (in English, too) prepares calculators on match between user and political groups and parties in EP, and individual MEPs. It is available for the 2009- term.
+
+''Follow the Money''&lt;ref&gt;[http://www.followthemoney.eu/ Follow the Money]&lt;/ref&gt; which aims to monitor the EU budget and runs the twin sites ''FarmSubsidy'' &lt;ref&gt;[http://farmsubsidy.org/ FarmSubsidy]&lt;/ref&gt; and FishSubsidy.&lt;ref&gt;[http://fishsubsidy.org/ FishSubsidy]&lt;/ref&gt;
+
+=== Finland ===
+[http://www.kansanmuisti.fi/ Kansan Muisti] (&quot;the memory of the people&quot;), follows the Finish Parliament and investigates whether the MPs votes in accordance with the promises made in voter advice applications before the elections. 
+
+Parliament voting data is available as [http://www.biomi.org/eduskunta/english.html a RESTful API].
+
+=== France ===
+* An association of free software campaigners known as ''April''&lt;ref&gt;[http://www.april.org/ April]&lt;/ref&gt; has been gathering declarations from candidates standing for election about their opinion on the issue of free software, and providing an interface for voters to look up the results.&lt;ref&gt;[http://www.candidats.fr/index.php/English-readers]&lt;/ref&gt;
+* Since 2006 ''Mémoire Politique'' &lt;ref&gt;[http://www.laquadrature.net/wiki/Political_Memory Mémoire Politique]&lt;/ref&gt; has published a toolbox designed to help users reach members of French and European Parliaments, and track their voting records.
+* On 14 September 2009, ''NosDeputes.fr'' &lt;ref&gt;[http://www.nosdeputes.fr/ NosDeputes.fr]&lt;/ref&gt; was released. It tracks the activity of French Members of the Parliament (''Assemblée Nationale''). The software and data are released under open licences (GPL and CC-by-sa). It is hosted by ''Regards Citoyens''.&lt;ref&gt;[http://www.regardscitoyens.org/ Regards Citoyens]&lt;/ref&gt; In September 2011, ''NosSenateurs.fr'' &lt;ref&gt;[http://www.nossenateurs.fr/ NosSenateurs.fr]&lt;/ref&gt; was released as a similar project on the members of the second chamber of the French Parliament (''Sénat''). Regards Citoyens used the parliamentary data available through these projects for multiple studies : on MP's presence  &lt;ref&gt;[http://www.nosdeputes.fr/confiseurs/ MP's presence study at French National Assembly]&lt;/ref&gt; as well as on lobbying &lt;ref&gt;[http://www.regardscitoyens.org/transparence-france/etude-lobbying/ Study on lobbying within French national Assembly]&lt;/ref&gt;
+* Mon-Depute.fr &lt;ref&gt;[http://mondepute.free.fr/ Mon-Depute.fr]&lt;/ref&gt; was the first site to publish MP's voting rolls.
+
+=== Germany ===
+The German federal parliament [[Deutscher Bundestag]] and eight state parliaments ([[Landtag]]) (last update: January 2012) are covered by ''abgeordnetenwatch.de''.&lt;ref&gt;[http://www.abgeordnetenwatch.de/ abgeordnetenwatch.de]&lt;/ref&gt; The website supports the transparency of MP's voting behavior and MP's supplementary income. However, the main focus is on public Q&amp;A. Citizens can ask questions, which can be answered by members of parliament. 
+
+Projects like ''Deutschland API'',&lt;ref&gt;[http://www.deutschland-api.de/ Deutschland API]&lt;/ref&gt; ''Bundestagger'',&lt;ref&gt;[http://bundestagger.de Bundestagger]&lt;/ref&gt; ''Offenes Köln''&lt;ref&gt;[http://offeneskoeln.de/ Offenes Köln]&lt;/ref&gt; and ''Wahlversprechen.info'' &lt;ref&gt;[http://wahlversprechen.info/ Wahlversprechen.info]&lt;/ref&gt; are associated with the [http://opendata-network.org Open Data Network], a non-profit organisation of software developers and political activists to promote open access, open data, open government, transparency and participation in Germany.
+
+''Offenes Parlament''&lt;ref&gt;[http://www.offenesparlament.de/ offenesparlament.de]&lt;/ref&gt; is a newer effort by the German chapter of the [[Open Knowledge Foundation]], which allows citizens to search and subscribe to parliamentary documents and plenary transcripts. The organization is also operating ''Frankfurt gestalten'',&lt;ref&gt;[http://frankfurt-gestalten.de/ Frankfurt gestalten]&lt;/ref&gt; a local portal for the inhabitants of Frankfurt am Main.
+
+=== Georgia ===
+[http://www.parliament.ge/ Georgian Parliament] has information on MPs, and their voting records.  [http://www.civilin.org.ge/ Civilin] has information about legislation. [http://www.chemiparlamenti.ge/ My Parliament] aggregates it all together.
+
+=== Ireland ===
+[http://www.kildarestreet.com/ KildareStreet.com] (named for [[Kildare Street]], where the Irish Parliament is located) is a volunteer-made site launched in April 2009 which collects and republishes the transcripts of debates in [[Dáil Éireann]] and [[Seanad Éireann]], and parliamentary questions. It, like the Australian project [http://www.openaustralia.org OpenAustralia] is partly derived from the code base of [[TheyWorkForYou]] in the UK. It intends to expand to cover  members' expenses and register of interests in the future.[http://handelaar.org/blog/2009/04/a-substantial-announcement]
+
+=== Israel ===
+[http://oknesset.org/ Open Knesset] is an open-source, volunteer-run website tracking legislative processes, voting records and trends of the Israeli parliament ([[Knesset]]).
+
+=== Italy ===
+[http://www.openparlamento.it openparlamento] allows to track legislative progress, votes and Parliament members using official data from [http://www.parlamento.it/ italian Parliament]. The platform lets users comment, vote and emend on every parliament act, supplies official legislative text and rss feeds. openparlamento is a non partisan project realised by [http://www.openpolis.it openpolis].
+
+The source code is available on a [http://subversion.tigris.org/ Subversion] repository at http://svn.openpolis.it/repos/openparlamento.
+
+=== Jordan ===
+[[The Jordanian Parliament Monitor]] &lt;ref&gt;[http://www.jpm.jo/index.php?type=pages&amp;id=26 JPM website]&lt;/ref&gt; is a website that provides information about the Parliament of [[Jordan]]. The site presents profiles of all members of Parliament, information about the MP's deeds and stances on public policy issues, bills and law proposals, questions to the Cabinet, interventions during plenary and committee sessions. The website also includes news about the various parties and blocs represented in Parliament, statistics about the Parliament and about MP's performance as well as the studies and reports published by the Monitor. It was established in 2009, and is run by [[Al-Quds Center for Political Studies]],&lt;ref&gt;[http://alqudscenter.org/English/ Al-Quds Center for Political Studies]&lt;/ref&gt; a Jordanian [[think-tank]] based in [[Amman]].
+
+=== Kenya ===
+[http://www.mzalendo.com/about/ mzalendo: Eye On Kenyan Parliament] provides electronic information about the Kenyan parliament, which is otherwise only available offline.
+
+=== Kosovo ===
+[http://www.kdi-kosova.org: KDI Kosovo] provides electronic reports and voting records from Kosovo's parliament.
+
+=== Latvia ===
+[http://www.gudrasgalvas.lv: GudrasGalvas.lv] is a social networking website between the citizens and their elected parliamentary representatives and ministers.
+
+Every visitor of the site (without registration) is free to view the profiles of MPs and ministers, read their pre-election promises, blogs, overview of their on-line and media &quot;footprint&quot;, which is updated automatically. MPs and ministers can also add their blogs, start discussions as well as post other information at their will and convenience. 
+
+Having logged in, the visitors of the site (using their Twitter, Facebook etc. accounts) can ask questions, post their comments or replies, participate in discussions and use other interactive features of [http://www.gudrasgalvas.lv: GudrasGalvas.lv][*]
+
+[*] Gudras galvas - &quot;smart heads&quot;, words often used in Latvia when referring to the Parliament as an institution or its individual members.
+
+=== Lebanon ===
+[http://www.lpmonitor.org] (the Lebanese Parliamentary Monitor) is a website that provides information about the Parliament of [[Lebanon]]. The site presents profiles of all 128 Lebanese members of Parliament, information about the MP's deeds and stances on 50 public policy issues, bills and law proposals, questions to the Cabinet, interventions during plenary and committee sessions and law challenges submitted to the Lebanese Constitutional Council. The website also includes statistics about the Parliament and about MP's performance as well as the monthly newsletters of the Monitor, summarizing the parliamentary activities. The Monitor organizes regular public hearings gathering citizens and one or two MPs from a certain district, to debate the MPs' commitment to voicing the concerns of aspirations of their constituents. It was established in 2006, and is run by Nahwa al-Muwatiniya(Towards Citizenship), a [[Beirut]]-based non-governmental civil society organization.
+
+=== Lithuania ===
+[http://atviras-seimas.info/ Atviras Seimas] (Open Parliament) provides statistics for MP attendance, votes, speeches, rebellions, travel maps, popularity ratings based on internet search result counts. It is a volunteer-run website.
+
+[http://www.manoseimas.lt Mano Seimas] (My Parliament) publishes voting records for interesting or controversial bills, provides MP's biography and allows to ask questions and receive answers from MPs. Part of the published data is fetched through API provided by [http://atviras-seimas.info Atviras Seimas].   [http://www.manoseimas.lt Mano Seimas] is a part of [http://www.e-demokratija.lt/ e-democracy project] run by [http://www.tspmi.vu.lt Institute of International Relations and Political Science, Vilnius University].
+
+[http://manobalsas.lt Manobalsas.lt] (myvote) is a smart voting tool allowing users to take a test and find out which political party and candidate best matches their opinion. The site launched in 2008 before National parliament elections. More than 300 candidates registered on the site.
+
+=== Malaysia ===
+[http://www.citizenthinktank.com/ Citizen Think Tank] This domain expired 24 May 2012 -- no useful information.
+
+=== New Zealand ===
+[http://theyworkforyou.co.nz/ TheyWorkForYou.co.nz] hosts a user friendly version of the NZ Parliament debate transcripts, and summarizies activity by bill, by ministerial portfolio and by organisations making submissions to the Parliament. It also provides lists of how parties voted on bills in Parliament. It is a volunteer-run project.
+
+[http://commonz.wotfun.com/ CommoNZ] provides lists of how MPs votes on non-party votes in Parliament (in New Zealand, many votes are formally conducted by the parties rather than the individuals, even in respect of MPs with constituencies).
+
+=== Netherlands ===
+[http://www.wiekiesjij.nl wiekiesjij.nl] helps you find the politician of your choice based on expertise, professional background, age, religious affiliation, and political experience. More than 90% of Dutch candidates for national parliament filled-in an online questionnaire on which the system was based. It was made by the foundation &quot;The New Way of Voting&quot; (See:  [http://www.hetnieuwestemmen.nl Het Nieuwe Stemmen] or its international forum: [http://groups-beta.google.com/group/e-participation-netherlands Forum]
+
+[http://www.politix.nl POLITIX.nl] tracks voting behaviour of Dutch political parties.
+
+[http://www.stemmentracker.nl Stemmentracker] was launched in the national elections in November 2006. For crucial votes the site provides an introduction to the vote and shows how parties voted. A voter can also vote, so the systems shows the parties that voted most like the user. Made by the nonpartisan, non-profit [http://www.publiek-politiek.nl/english Instituut voor Publiek en Politiek (IPP)]. IPP looking for possibilities for keeping it up to date in the future.
+
+=== Poland ===
+[http://sejmometr.pl/ Sejmometr] monitors the Polish parliament.&lt;br /&gt;
+[http://www.mamprawowiedziec.pl/ Mam Prawo Wiedzieć] collects and presents information about Members of Polish Parliament (and Polish Members of the European Parliament).
+
+=== Portugal ===
+[http://demo.cratica.org/ Demo.cratica] by [http://manufacturaindependente.org/ Manufactura Independente]
+
+=== Russia ===
+In Russia, projects in the sphere of Government 2.0 are actively developing. 
+Most active participants in this area are:
+* Ivan Begtin [http://ivan.begtin.name webblog dedicated to web-technologies and eGovernment. Especially eGovernment issues ]
+* Ekaterina Aksenova [http://gov-gov.ru Gov-Gov webblog]
+* Alena Popova [http://alenapopova.com web-blog dedicated to Government 2.0 in Russia]
+
+[http://www.govweb.ru Government Web] catalog of all government bodies and official websites created by any government structure. It includes ratings of websites quality, special lists of government websites that violates Russian laws and so on.
+
+[http://www.goslyudi.ru Government People] automatic aggregator of all Russian officials blogs. It includes ratings of persons, monitors activity by region and person competences and provides public API for reuse. 
+
+Project [http://community.livejournal.com/duma_2_0/profile Duma 2.0] is a social initiative aimed to improve the laws and to find in Internet effective ways of solving problems. The aim of the project is not simply to inform officials about the citizens' decisions and initiatives, but lobbying of these ideas at the legislative level with the maximum of their application. Duma 2.0 - the first project in Russia, which was created in the global world trend called  Citizen 2.0.
+
+[http://opengovdata.ru OpenGovData.ru] – a non-profit project dedicated to the availability of information disclosed by the state for its citizens.
+
+=== Romania ===
+The [http://www.ipp.ro Institutul pentru Politici Publice] has created a web site with lots of  [http://www.ipp.ro/cummuncescparlamentarii/ structured data about the Romanian Parliament].  Adrian Moraru, deputy director with IPP said [http://www.mysociety.org/2007/10/04/interview-with-romanian-edemocracy-site-builder-adrian-moraru/ in an interview] with [[mySociety]] explains how they have had to obtain much of their Parliamentary data by court action.
+
+The [http://www.alesiivoteaza.ro site] was first lunched in 2006 and redesigned in 2010.
+
+=== Slovakia ===
+[http://www.kohovolit.eu/ KohoVolit.eu] is a volunteer-run website providing a sample of votings  of the Slovak Parliament allowing the user to test her or his own preferences against the MPs.
+
+=== Sweden ===
+* [http://www.tv4.se/kalla_fakta/riksdb/riksdagsledarmoten.action Kalla fakta om de folkvalda] Information about the parliament members compiled by Swedish TV4.
+* [http://riksdagsmonitor.com Riksdagsmonitor] previously covering Swedish parliament (The Riksdag) in English/Swedish (now offline). (Using Citizen Intelligence Agency). Its [http://cia.sourceforge.net Source code and documentation] is also available.
+* [http://www.opengov.se/ OpenGov] covering governmental data sources and documents of the legislative process.
+* [http://skuggrix.se Skuggrix] Shadow parliament (now offline), user could vote on same issues as parliament members.
+* [http://data.riksdagen.se/ Riksdagens syndikeringstjänst] xml/rss/html/json feeds from Swedish Parliament(Riksdagen).
+* [http://riksdagskollen.dn.se/ Riksdagskollen DN] Tracking bills proposed by parliament members.
+* [http://valpejl.se Valpejl SVT] Swedish Television's web service Valpejl, where you can search information on all candidates aiming for the parliament, county or municipality in the 2010 September election.
+* [http://edemokrat.se eDemokrat.se] Shows new documents updates in the Riksdag,
+* [http://govdata.se/api GovData Api] Public api for government agencies and it's spending since 2003.
+* [http://www.riksdagsrosten.se/ Riksdagensrosten.se] Riksdagsrösten, vote data from Riksdagen.
+
+=== United Kingdom ===
+The situation in the United Kingdom is very active, with several of the major volunteer projects run by [[mySociety]].  The official [http://www.parliament.uk UK Parliament website] provides transcripts of the Parliamentary debates and votes in plain text form, and these are parsed by a project known as [http://ukparse.kforge.net/parlparse parlparse] into a timeline of publicly available structured XML files.  These files provide the data for [[TheyWorkForYou]], which hosts the speeches in a user friendly form and creates email alerts and rss feeds, and [[Public Whip]], which keeps track of the votes and allows for an expression of their meanings in plain English. 
+
+Independently of this, the academic Philip Cowley at Nottingham University researches specifically into how MPs vote through his [http://revolts.co.uk/ Revolts website] and publications. 
+
+Commercial companies [http://www.dodsmonitoring.com/ Dods], [http://www.dehavilland.co.uk/ DeHavilland], [http://www.sw1a.net/ SW1A.net],[http://www.parliamentonline.co.uk/ Randall's] and many traditional public affairs consultancies offer paid for parliamentary monitoring and wider research and intelligence services.
+
+=== United Nations ===
+The website Undemocracy &lt;ref&gt;[http://www.undemocracy.com/ ''Undemocracy'']&lt;/ref&gt; gives [[hyperlink]]ed access to transcripts of the [[UN General Assembly|General Assembly]] and [[Security Council]] of the [[United Nations]], with parsed voting records.
+
+=== United States of America ===
+*[http://campaignmoney.com/ CampaignMoney]
+*[http://earmarkwatch.org/ EarmarkWatch]
+*[http://www.govtrack.us GovTrack.us] - GovTrack allows you to track the progress of legislation in the US.  Offers access to data and apis as well.
+*[http://www.legistorm.com/ Legistorm] - Online access to government disclosure documents.
+*[http://www.maplight.org/ MAPLight] - Looks at connection between money and politics.
+*[[Metavid]] is a searchable archive of legislative video.
+*[http://www.opencongress.org OpenCongress] - OpenCongress brings together official government information with news and blog coverage for compressive site on legislative activity
+*[http://www.opensecrets.org OpenSecrets.org] - This website from the nonpartisan Center for Responsive Politics tracks money in U.S. federal politics, including contributions and expenditures for congressional and presidential campaigns, lobbying, personal finances of politicians, the &quot;revolving door&quot; between government and private industry, 527 organizations and more.
+*[http://progressivepunch.org/ ProgressivePunch] - Provides summaries and ratings based on votes.
+*[http://washingtonwatch.org/ WashingtonWatch]
+*[http://watchdog.net/ Watchdog.net] - Combines various data sources into a unified interface. APIs and data dumps for everything. Free software. Also provides tools to get involved with politics.
+*[http://www.poly-ticker.org Distributed Government] - A proposal for re-enfranchising voters by a &quot;division of labor&quot; both among voters and among legislators.
+*[http://www.congressdb.com/  congressdb] - Votes statistics
+
+== Comparisons between countries ==
+* [http://www.eur.nl/fsw/english/staff/homepages/edwards/ Arthur Edwards] at Erasmus University Rotterdam has analysed retrospective voter information websites in the United States, United Kingdom and the Netherlands.
+* [http://personal.lse.ac.uk/hix/ Simon Hix] at LSE analyses roll call voting records across the European Union.
+* [http://voteworld.berkeley.edu/ VoteWorld] in the US is creating an archive of roll call voting records internationally.
+* [https://docs.google.com/spreadsheet/ccc?key=0AkwRl6JWX8tkdGxqT1ZFUWxFbElVa3d1S1NOODQ2aVE&amp;hl=en_US#gid=0 Civic Software Index], which plots countries against monitoring systems
+
+==References==
+
+{{Reflist}}
+
+[[Category:Subfields of political science]]
+[[Category:Politics of the United Kingdom]]
+[[Category:Politics of Canada]]
+[[Category:Politics of New Zealand]]
+[[Category:Government in Canada]]</text>
+      <sha1>sofrcy45tmg4kpkbkckg35y5n777d4c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

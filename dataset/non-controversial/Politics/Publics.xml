@@ -1,0 +1,72 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Publics</title>
+    <ns>0</ns>
+    <id>13843720</id>
+    <revision>
+      <id>490036935</id>
+      <parentid>490036864</parentid>
+      <timestamp>2012-04-30T23:47:28Z</timestamp>
+      <contributor>
+        <username>Northamerica1000</username>
+        <id>14730724</id>
+      </contributor>
+      <comment>- red link, unlikely to become an article &quot;in office&quot;</comment>
+      <text xml:space="preserve" bytes="1157">{{tocright}}
+'''Publics''' are small groups of people who follow one or more particular issue very closely. They are well informed about the issue(s) and also have a very strong opinion on it/them. They tend to know more about [[politics]] than the average person, and, therefore, [[wikt:exert|exert]] more influence, because these people care so deeply about their cause(s) that they donate much time and money. Therefore, it is unlikely for a politician to be reelected if he or she did not please the publics while in office.&lt;ref name=&quot;book&quot;&gt;{{cite |author=Cary R. Covington, James M. Lindsay, Eric R.A.N. Smith, Peverill Squire |title=Dynamics of Democracy, 5e: Alternative Edition |publisher=Thomson Custom Solutions |date=2008 }}&lt;/ref&gt;
+
+==Issue publics==
+'''Issue publics''' are groups of people who pay attention to one particular issue. One can be part of more than one issue public.&lt;ref name=&quot;book&quot;/&gt;
+
+==Attentive publics==
+'''Attentive publics''' are groups of people who pay attention to several particular issues.&lt;ref name=&quot;book&quot;/&gt;
+
+==See also==
+* [[Environmental politics]]
+
+==References==
+{{reflist}}
+
+[[Category:Politics]]
+
+{{poli-term-stub}}</text>
+      <sha1>6ireu70l952stwwmq8323dpdj937e05</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,140 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Voter database</title>
+    <ns>0</ns>
+    <id>1735624</id>
+    <revision>
+      <id>520153562</id>
+      <parentid>520153121</parentid>
+      <timestamp>2012-10-27T19:15:34Z</timestamp>
+      <contributor>
+        <username>Radio15dude</username>
+        <id>16292280</id>
+      </contributor>
+      <comment>/* In the United States */</comment>
+      <text xml:space="preserve" bytes="10455">{{refimprove|date=May 2008}}
+
+A '''voter database''' is a [[database]] containing information on voters for the purpose of assisting a [[political party]] or an individual [[politician]], in their [[Get out the vote]] (GOTV) efforts and other areas of the campaign. 
+
+In most countries, the election agency makes the [[electoral roll]] available to all campaigns soon after the election campaign has begun. Campaigns can then merge this information with the other data they have collected on voters over the years to create their database.  Often basic information such as [[phone number]]s and [[postal code]]s are not included on the voters list, and the campaign will have to procure this data as well.
+
+The United States has no state or federal election agency, and thus no central lists. In 2002, the [[United States Congress]] passed the [[Help America Vote Act]] (HAVA). HAVA required that each state compile an official state voter database by January 2006. Most states complied with HAVA by gathering the [[voter file]]s available from each individual county. States decided what information to include, what restrictions to place on the use of their voter database, and how much the database would cost. In the United States, several companies have merged state voter information with commercially obtained data to create comprehensive voter databases that include a plethora of personal details on each voter.  These companies often provide United States Voter Files to statutorily permitted or otherwise non-restricted users.
+
+==Uses==
+The voter database is central to many parts of a campaign:
+*Fundraising: The database can determine who should receive fundraising [[direct mail]] or telephone calls. These letters and calls can be tailored to reflect the issues and concerns of each potential donor. Past donor history, support for related advocacy groups, magazine subscriptions, and consumer behaviour can all be used to find likely donors and maximize the returns of any fundraising efforts.
+*Recruitment: As with fundraising, databases, especially those with detailed past election behaviour, are essential to recruiting volunteers and also finding locations for [[lawn sign]]s.
+*Issue tracking: A campaign can track how a certain issues are perceived across geographic and demographic lines and can show how to adjust the campaign's message for different audiences. By databasing all incoming telephone calls and e-mails as well as entering petitions and supporter lists from advocacy groups and NGOs (Non-Government Organizations) one can closely track how issues are followed by the electorate.
+*[[Get out the vote]]: One of the most important parts of a modern campaign is the campaign to ensure one's own supporters go to the polls on election day, and databases are central to this. A successful [[voter identification]] campaign requires connecting with a significant portion of the electorate and recording how they are going to vote in a database. On election day this information needs to be given out with accurate contact information for each voter so that they can be pulled to the polls.
+
+==Voter information==
+Personal data frequently included in a voter database:
+
+* Name
+* Physical address
+* Mailing address
+* Phone number
+* Party membership or affiliation
+* Voting history (including federal, sub-national, primary, municipal, or special election voting history)
+* Absentee or military voter designations
+* Source of voter registration, i.e., DMV/MVA, Public Assistance Office, etc.
+* Ethnicity or race
+* Gender
+* Birth date or age range
+
+Data that may be added via commercial routes:
+
+* &quot;Extreme voters&quot; status (voters who vote very frequently)
+* Homeownership
+* Hunting or fishing license holders
+* Boat owners
+* Occupation such as physical therapist, teacher, etc.
+* Charitable or political contributions
+* Magazine subscription status
+
+==Voter database management software==
+The use of voter databases has been established in political campaigns from local school board to national elections:
+
+===In the United States===
+In the [[U.S. presidential election, 2004|2004 presidential election]] in the United States, the [[Republican Party (United States)|Republican Party]] used the [[Voter Vault]] platform and the [[Democratic Party (United States)|Democratic Party]] used [[Demzilla|DataMart]]. Currently, the Republicans use Voter Vault 3 and the Democrats use Votebuilder from the [[NGP VAN|Voter Activation Network (VAN)]].
+
+===In the United Kingdom===
+
+In 2005, the [[Conservative Party (UK)|British Conservative Party]] used the Voter Vault software to assist them in the [[United Kingdom general election, 2005|2005 General Election]]. 
+
+Currently,{{When|date=May 2012}} the [[Conservative Party (UK)|British Conservative Party]] uses MERLIN (Managing Elector Relationships through Local Information Networks) which is a national database accessible by every local Conservative Association in the country. This was commissioned in 2005,&lt;ref name=&quot;David Cameron's battle to connect&quot;&gt;[http://www.wired.co.uk/magazine/archive/2010/04/features/david-camerons-battle-to-connect &quot;David Cameron's battle to connect&quot;]&lt;/ref&gt; and went live in 2008.&lt;ref name=&quot;Tory activists uneasy over poll software&quot;&gt;[http://www.ft.com/cms/s/0/dd091fb6-404a-11df-8d23-00144feabdc0.html &quot;Tory activists uneasy over poll software&quot;]&lt;/ref&gt;
+
+Britain's [[Labour Party (UK)|Labour Party]] has used a variety of voter databases through the past two decades. Its most recent incarnation is the Labour Contact Creator system, an online tool accessible from anywhere with an internet connection. Party members and activists are provided with a username and password and voter contact details, preferences, interests, past voting behaviour, and demographic/socio-economic information are available. The system allows voters to be selected on the basis of a MOSAIC grouping, which attempts to determine the sort of interests and activities a voter or a household might display. Maps of where key voters live and information can be cross-referenced so users can find where target voters live, how often they are contacted, how they prefer to be contacted, and what responses have been provided upon making contact.
+
+The Contact Creator system is also linked with the Labour Party's other new media tools, Print Creator and Email Creator. Print Creator allows key voters identified through Contact Creator to be targeted with direct mails and leaflets about Labour Party activity. Email Creator allows the user to collect a list of email addresses on the Contact Creator system, e-mail thousands of voters, and monitor the response rate from targets.
+
+The Labour Party also operates 'Membersnet', which allows party members to update their registration details, inform other members and Party HQ of rival campaign activities, create events and invite others to attend, email members, create blogs, and share best practice campaign material.
+
+The Labour Party is just about to introduce a new system to Membersnet and Contact Creator,{{When|date=May 2012}} which will allow Party Members anywhere in the UK to contact target voters and identify their voting preferences. They will then be able to enter the information gained directly into the Contact Creator system.
+
+Currently{{When|date=May 2012}}  the Liberal Democrats have recently adopted the use of &quot;Connect&quot; from the same company as &quot;NGP VAN&quot;. This firm also supplies the Democrats in the USA  with &quot;Votebuilder&quot; and &quot;Liberal List&quot; on behalf of the Liberal Party in Canada.
+
+===In Canada===
+
+In Canada, the [[Conservative Party of Canada]] uses the [http://cpccims.ca Constituent Information Management System (CIMS)], originally developed by the same company which produced Trackright, which the [[Progressive Conservative Party of Ontario]], uses to manage voter information. It is similar to the Voter Vault software. The [[New Democratic Party]] uses their own custom database system called NDP Vote. The [[Liberal Party of Canada|Liberal Party]] has recently introduced &quot;[http://liberalist.ca/ Liberalist]&quot; based on the US's Democrats' Voter Activation Network (VAN) Previously the Liberals used a system called ManagElect&lt;ref name=&quot;the merge step&quot;&gt;[http://stevejanke.com/archives/244292.php &quot;The ManagElect &quot;merge&quot; step&quot;. Angry in the Great White North. October 22, 2007.]&lt;/ref&gt;&lt;ref name=&quot;dornan and pammett&quot;&gt;[http://books.google.ca/books?id=7IFIdomfb_IC&amp;lpg=PA46&amp;ots=juteLTQD2Q&amp;dq=managelect&amp;pg=PA46#v=onepage&amp;q=managelect&amp;f=false &quot;The Canadian general election of 2000&quot;. By Christopher Dornan, Jon H. Pammett]&lt;/ref&gt;
+.
+
+===Availability===
+
+The availability of voter files sometimes creates a need for voter list management software as opposed to, for example, using Excel spreadsheets. Political campaigns generally have three options:
+
+* Write-their-own software: A political campaign may choose to build their own database management system to handle their voter registration files. This may be accomplished in a spreadsheet program like [[Microsoft Excel]]. This method can be time-consuming and require a certain level of technology know-how, but may be the only option for certain campaigns.
+* Desktop-based software: A variety of companies provide voter list management software for a desktop or laptop computer. Generally, this type of software is distributed on a per-computer basis and can therefore be expensive for larger campaigns. However, desktop-based software is easier to use than create-your-own and can provide many integrated, helpful solutions for political campaigns such as walking list generation, computer-based phone banking, and more.
+* Internet-based software: Many companies provide online voter list management software. Internet-based software has many of the same benefits of desktop-based software, and has the additional advantage of being accessible from any computer ([[Microsoft Windows|Windows]], [[Mac OS|Mac]], or [[Linux]]) with an Internet connection. Internet-based software helps campaigns eliminate the need for large campaign offices with central computer and phone banks.
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+* [http://liberalist.ca Official site of the Liberalist voting database of the Canadian Liberal party.]
+* [http://cpccims.ca Official site of the Constituent Information Management System of the Conservative Party of Canada.]
+
+{{DEFAULTSORT:Voter Database}}
+[[Category:Elections]]
+[[Category:Voter databases| ]]</text>
+      <sha1>jthu4ija0lupu3io7ihx1jvtzygaq41</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

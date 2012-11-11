@@ -1,0 +1,74 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>National Agenda Document Project</title>
+    <ns>0</ns>
+    <id>9032928</id>
+    <revision>
+      <id>439018800</id>
+      <parentid>326853889</parentid>
+      <timestamp>2011-07-12T02:44:58Z</timestamp>
+      <contributor>
+        <username>Bearcat</username>
+        <id>24902</id>
+      </contributor>
+      <comment>recat using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="3269">The '''National Agenda Document Project''' is a [[non-partisan]] [[collaboration]] that allows citizens to participate in national planning and provide more coherent input to their elected representatives. This political experiment founded in 2006, has already emerged as a fascinating example of [[postpartisan]] citizen collaboration, especially in light of the striking political and social diversity of the participants.
+
+The National Agenda document resides [[Google Docs]], a collaborative online word processor. Members of Congress are invited to review the document. Participants are currently collaborating on the next edition with the intent to finalize and publish it by December, 2007.
+
+The 2007 National Agenda Document was frozen and published on January 3, 2007, and can be viewed at: [http://docs.google.com/View?docid=dc8jmgh_1dck35h National Agenda Document]
+
+==Origin of The National Agenda Document Project==
+The 2005 book ''[http://www.ralphperrine.com/Book_America_2076_by_RalphPerrine.html America 2076]'', asserted that network centric consumer technologies could be leveraged to neutralize or resolve the key issues that undermine American Democracy and frustrate the national discourse: corrupt lobbying, partisanship, polarization, over-reliance on mass media among others. The book went on to propose the development of an Internet application that would allow US registered voters to use web browsers, cell phones and other devices to collaborate on the annual creation of a &quot;National Agenda&quot; document. Instead of relying on K-Street (the lobbying industry) to arbitrate and prioritize the input of 300 million citizens, the arbitration process would be pushed down to the citizen level. Input would be refined by teams of registered voters collaborating online to create coherent input on key issues. The resulting documents (a National Agenda document and a 100 Year Plan document) would be updated and published each year before the opening of the next session of Congress. Elected representatives will be motivated to follow the document because the Internet application would also generate election year scorecards showing how well each elected official complied with the citizen input provided in the National Agenda Document. 
+
+The National Agenda Document Project was founded in 2006 with the encouragement and assistance of readers of America 2076. It is so far a small political experiment, and does not implement the full system proposed in America 2076. However the project represents an important proof of concept and first step toward collaborative national planning, with potentially large implications for the future of American politics.
+
+==How to Participate==
+Any U.S. citizen is welcome to participate in this experiment. Participants can edit and refinement the National Agenda document, and can invite other participants. Participation is free and requires only 2 steps:
+# Sign up for an account at Google Docs
+# Request an invite by filling out a simple [http://www.ralphperrine.com/NationalAgenda_Document_Project.html invitation request form].
+
+NOTE: The National Agenda Document Project is not affiliated with Google in any way.
+
+[[Category:Collaboration]]
+[[Category:Political organizations in the United States]]</text>
+      <sha1>aiqp5xndegj6hizf1tootdo3g2a0p02</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

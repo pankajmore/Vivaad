@@ -1,0 +1,77 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nominating committee</title>
+    <ns>0</ns>
+    <id>10325463</id>
+    <revision>
+      <id>478416993</id>
+      <parentid>475411052</parentid>
+      <timestamp>2012-02-23T12:27:07Z</timestamp>
+      <contributor>
+        <username>Green Giant</username>
+        <id>808676</id>
+      </contributor>
+      <comment>removed [[Category:Election commissions]] using [[WP:HC|HotCat]]</comment>
+      <text xml:space="preserve" bytes="2006">{{Unreferenced section|date=August 2007}}
+
+A '''nominating committee''' (or '''nominations committee''')  is a group formed usually from inside the membership of an organization for the purpose of nominating candidates for office within the organization.  It works similarly to an [[electoral college]], the main difference being that the available candidates, either nominated or &quot;written in&quot; outside of the committee's choices, are then voted into office by all of the members. The system is a part of governance methods often employed by corporate bodies, business entities, and social and sporting groups - especially clubs. The intention is that they be made up of qualified and  [[knowledge]]able people representing the best interests of the membership. In the case of business entities, their directors will often be brought in from outside, and receive a benefit for their expertise.
+
+Some observers believe that nominating committees are vulnerable to manipulation by the controlling leaders of the group and that this is the main reason for their formation. Candidates running for office outside of the nominating committee's choices stand little chance of election.
+
+A nominating committee can also be formed for the purpose of nominating persons or things held up for judgment by others as to their comparative quality or value, especially for the purpose of bestowing awards in the arts, or in application to industry's products and services. The objective being to update, set, and maintain high and possibly new standards.
+
+==See also==
+*[[Electoral college]]
+*[[Professional certification]]
+*[[committee]]
+
+==External links==
+*[http://www.ask.com/web?q=Nominating+Committee+Functions&amp;qsrc=6&amp;o=12572&amp;l=dir Definitions and functions]
+*[http://www.sec.gov/rules/final/33-8340.htm SEC Disclosure rules]
+*[http://www.afi.com/tvevents/afiawards01/nomcomm.aspx American Film Institute NC qualifications]
+
+[[Category:Elections]]
+[[Category:Electoral reform]]
+
+[[nn:Valkomité]]
+[[sv:Valberedning]]</text>
+      <sha1>5xqmh8jdfk73shmljujw11ilumzldvg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

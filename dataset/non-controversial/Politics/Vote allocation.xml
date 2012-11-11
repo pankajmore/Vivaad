@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vote allocation</title>
+    <ns>0</ns>
+    <id>1255102</id>
+    <revision>
+      <id>502489978</id>
+      <parentid>268131590</parentid>
+      <timestamp>2012-07-15T20:09:25Z</timestamp>
+      <contributor>
+        <ip>116.49.146.120</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="1148">{{Unreferenced|date=October 2007}}
+'''Vote allocation''' is a system of [[tactical voting]] used in the [[Republic of China]] on [[Taiwan]] from the late-1990s until 2004, after which the voting system is to be changed from [[single non-transferable vote]] to a [[parallel voting]] system. In this system, voters are asked to vote for a party candidate based on items such as their day of birthday so as to evenly distribute votes. In districts where a party is running two candidates, males may be asked to vote for one candidate and females for another to insure even distribution. It was also practice in Japan and South Korea, where the SNTV  system were used.
+
+Hong Kong political parties started to adopt this strategy since 2000 to overcome the effect of the largest remainder system with Hare quota combined with small constituencies (5- to 8-member in 2008). They are able to get more seats with fewer votes by filling separate lists of candidates in the same constituencies.
+
+[[Category:Elections]]
+[[Category:Politics of Taiwan]]
+[[Category:Elections in Hong Kong]]
+
+{{election-stub}}
+{{Taiwan-poli-stub}}
+{{hK-poli-stub}}
+
+[[zh:配票]]</text>
+      <sha1>jw338d0zg2pza0ok784fcxyayd5z9uq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

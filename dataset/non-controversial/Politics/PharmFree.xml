@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>PharmFree</title>
+    <ns>0</ns>
+    <id>3623230</id>
+    <revision>
+      <id>363488318</id>
+      <parentid>253072490</parentid>
+      <timestamp>2010-05-22T02:18:56Z</timestamp>
+      <contributor>
+        <username>RjwilmsiBot</username>
+        <id>10996774</id>
+      </contributor>
+      <minor/>
+      <comment>CiteCompletion, dates: 1, using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="3065">'''PharmFree''' is an ongoing campaign begun in 2002 by the [[American Medical Student Association]] (www.pharmfree.org), in collaboration with [[No Free Lunch (organization)|No Free Lunch]], to organize political activism challenging the practice of [[pharmaceutical]] gifting to students and [[physician]]s.&lt;ref&gt;
+{{cite news
+|url=http://www.usatoday.com/news/health/2006-01-02-medstudents_x.htm
+|title=USATODAY.com - Medical students find certain lures they won't swallow
+|publisher=www.usatoday.com
+|accessdate=2008-11-20
+|last=
+|first=
+| date=January 2, 2006
+}}
+&lt;/ref&gt;
+
+==Objectives==
+
+AMSA established PharmFree for reasons such as:
+* The practice of pharmaceutical gifting to students and physicians increases the costs of health care for patients and does not primarily serve patient interests 
+* Medical students want to be honest with future patients about why a particular medication was prescribed without compromising personal and professional integrity.  
+* Medical students want to treat future patients using modalities supported by the best existing clinical evidence, not carefully packaged advertising.
+
+==PharmFree Week==
+
+AMSA sponsors an annual National PharmFree Week, wherein discussion of pharmaceutical marketing tactics, film screenings, panel discussions, residency fairs and new campaign launches take place.  PharmFree Week serves to allow medical students, residents and physicians alike to speak out against the [[pharmaceutical industry]]'s biased marketing practices.[http://releases.usnewswire.com/printing.asp?id=35067]
+
+==Counterdetailing initiative==
+
+PharmFree launched its latest campaign, the Counterdetailing Initiative, in 2005, at its annual PharmFree Day event.  The mission of AMSA's Counterdetailing Initiative is to:
+* Educate medical students about [[evidence-based medicine]] and evidence-based prescription practices
+* Empower medical students through activism through education about existing clinical guidelines
+* Introduce sources of unbiased and expert-reviewed information on [[pharmaceutical]] drugs to physicians
+* Share knowledge about the effect of pharmaceutical promotions on the prescribing habits of physicians
+	
+==References==
+{{refs}}
+			
+==External links==
+
+* ''[[The Medical Letter on Drugs and Therapeutics]]''
+* [http://www.amsa.org/prof/pharmfree.cfm AMSA.org] - 'AMSA's PharmFree Campaign'
+* [http://doctorrw.blogspot.com/2005/12/hypocrisy-of-american-medical-student.html DoctorRW.blogspot.com] -  'The hypocrisy of the American Medical Student Association', R.W. Donnel, (December 11, 2005)
+* [http://www.mja.com.au/public/issues/180_08_190404/rog10715_fm.html MJA.com.au] - 'The ethics of pharmaceutical industry relationships with medical students', Wendy A. Rogers, Peter R. Mansfield, Annette J. Braunack-Mayer and Jon N. Jureidini, ''[[Medical Journal of Australia]]'', vol 180, no 8, p 411-414 (2004)
+* [http://releases.usnewswire.com/printing.asp?id=35067 USNewsWire.com] - 'Nation's Medical Students Resist Pharmaceutical Industry Temptations' (August 23, 2004)
+
+[[Category:Activism]]</text>
+      <sha1>ji0rujesz3xmk7zut9rtue3ciigznm5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Refused ballot</title>
+    <ns>0</ns>
+    <id>7913597</id>
+    <revision>
+      <id>517443432</id>
+      <parentid>507157034</parentid>
+      <timestamp>2012-10-12T18:25:47Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:CHECKWIKI]] error 61 fix, References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8459)</comment>
+      <text xml:space="preserve" bytes="2732">{{voting}}
+A '''refused ballot''', or similar alternative, is a choice available to voters in many [[elections]]. This is an alternative for many people to casting a disparaging [[Spoiled ballot]], which is not counted separately from ballots which have been accidentally spoiled.
+
+==Canada==
+Canadian federal elections allow a ballot to be refused on certain grounds that no party satisfies the electors vote.&lt;ref&gt;http://www.elections.ca/res/pub/ecdocs/EC50355_e.pdf&lt;/ref&gt; Referred to as a protest ballot, according to Elections Canada.
+
+During the [[Canadian federal election, 2000|2000 Canadian federal election]], a number of voters (chiefly in [[Edmonton, Alberta]]) ''ate'' their ballots, as part of what they dubbed the ''Edible Ballot Society'', to protest what they saw as inherently unfair elections.  The stunt led [[Elections Canada]] to propose that there be legislation allowing federal ballots to be officially refused.&lt;ref&gt;[http://www.cbc.ca/canadavotes2004/dailyanswer/answerweekone.html#may29 CBC - Canada Votes 2004 - Daily Answer - Answer Reference Shelf&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+==Russia==
+Russian electoral ballots used to contain a box named ''Against All'', allowing the voter to register a &quot;protest vote&quot; against all the candidates running. This was abolished by the [[Duma]] in 2006.&lt;sup&gt;[http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/12773]&lt;/sup&gt;
+
+A March 2004 opinion poll saw ruling President [[Vladimir Putin]] draw 70% support from Russians, but &quot;Against All&quot; managed to claim the second place, ahead of the other candidates.&lt;ref&gt;[http://www.uofaweb.ualberta.ca/historyandclassics/news.cfm?story=25089 News Story - Department of History and Classics - University of Alberta&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+In December 2004, &quot;Against All&quot; actually managed to draw the highest number of votes in the electoral districts of [[St. Petersburg]], [[Yekaterinburg|Sverdlovsk]] and [[Ulyanovsk]].  A repeat election led to St. Petersburg and Sverdlovsk electing proper [[Members of Parliament]].  Ulyanovsk's second vote however, after two candidates dropped out of the race, actually saw &quot;Against All&quot; gain ''more'' support in the polls, now pulling in 21.5% of the vote, nearly double what any of the actual candidates received.&lt;ref&gt;http://www.puertorico-herald.org/issues/2004/vol8n20/OnlyRussia.shtml&lt;/ref&gt;
+
+==See also==
+*[[None of the above]]
+*[[Brewster's Millions (1985 film)|Brewster's Millions]], 1985 film in which a millionaire encourages people to vote &quot;None of the Above&quot; for [[New York City]] mayor.
+
+==External links==
+*[http://www.noneoftheabove.ie/ Campaign for &quot;None of the Above&quot; on Irish ballots]
+
+==References==
+&lt;references /&gt;
+
+[[Category:Elections]]</text>
+      <sha1>08ygq47atb5k3pl1dgvnuxaaex3b88h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

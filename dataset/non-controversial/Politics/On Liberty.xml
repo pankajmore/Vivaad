@@ -1,0 +1,238 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>On Liberty</title>
+    <ns>0</ns>
+    <id>743486</id>
+    <revision>
+      <id>522161968</id>
+      <parentid>522161854</parentid>
+      <timestamp>2012-11-09T11:32:53Z</timestamp>
+      <contributor>
+        <ip>62.25.109.203</ip>
+      </contributor>
+      <comment>/* Introduction */</comment>
+      <text xml:space="preserve" bytes="32911">{{Original research|date=September 2012}}
+{{Infobox book  | &lt;!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books --&gt;
+| name           = On Liberty
+| image          = [[File:On Liberty (John Stuart Mill book) first edition.jpg|146px|alt=First edition cover]]
+| author         = [[John Stuart Mill]]
+| country        = [[United Kingdom]]
+| publisher      =
+| language       = [[English language|English]]
+| release_date   = [[:Category:1859 books|1859]]
+| media_type     = Print
+| genre          = [[Philosophy]]
+| pages          =
+}}
+'''''On Liberty''''' is a philosophical work by [[British philosophy|British philosopher]] [[John Stuart Mill]], originally intended as a short essay. The work, published in 1859, applies Mill's ethical system of [[utilitarianism]] to society and the state. Mill attempts to establish standards for the relationship between [[authority]] and [[liberty]]. He emphasizes the importance of [[individual]]ity which he conceived as a prerequisite to the higher pleasures—the [[summum bonum]] of Utilitarianism. Furthermore, Mill criticized the errors of past attempts to defend individuality where, for example, democratic ideals resulted in the [[Tyranny of the majority|&quot;tyranny of the majority&quot;]]. Among the standards established in this work are Mill's three basic liberties of individuals, his three legitimate objections to government intervention, and his two maxims regarding the relationship of the individual to society &quot;which together form the entire doctrine of [Mill's] Essay.&quot;
+
+''On Liberty'' was a greatly influential and well received work though it did not go without criticism. Some attacked it for its apparent discontinuity with [[Utilitarianism]], while others criticized its vagueness. The ideas presented in ''On Liberty'' have remained the basis of much liberal political thought. It has remained in print continuously since its initial publication. To this day, a copy of ''On Liberty'' is passed to the president of the [[United Kingdom|British]] [[Liberal Democrats]] as a [[book of office|symbol of office]].
+
+Mill's marriage to his wife [[Harriet Taylor Mill|Harriet]] greatly influenced the concepts in ''On Liberty'', which was largely finished prior to her death, and published shortly after she died.
+
+==Composition==
+According to Mill's [[Autobiography]], ''On Liberty'' was first conceived as a short [[essay]] in 1854. As the ideas developed, the essay was expanded, rewritten and &quot;sedulously&quot; corrected by Mill and his wife, [[Harriet Taylor]]. Mill, after suffering a mental breakdown and eventually meeting and subsequently marrying Harriet, changed many of his beliefs on moral life and women's rights. Mill states that ''On Liberty'' &quot;was more directly and literally our joint production than anything else which bears my name.&quot; The final draft was nearly complete when his wife died suddenly in 1858.&lt;ref name=MillAuto&gt;Mill &quot;Autobiography&quot; 1873&lt;/ref&gt;&lt;ref name=JSM_Life&gt;Wilson 2007, section: Life&lt;/ref&gt; Mill suggests that he made no alterations to the text at this point and that one of his first acts after her death was to publish it and to &quot;consecrate it to her memory.&quot;&lt;ref name=&quot;MillAuto&quot;/&gt; The composition of this piece was also indebted to the work of the German thinker [[Wilhelm von Humboldt]], especially his essay ''On the Limits of State Action''.&lt;ref name=&quot;MillAuto&quot;/&gt;&lt;ref&gt;Mill 1859, pp. 78,79,100,143,144,150,164&lt;/ref&gt; Finally published in 1859, ''On Liberty'' was one of Mill's two most influential books (the other being [[Utilitarianism (book)|''Utilitarianism'']]).&lt;ref name=&quot;JSM_Life&quot;/&gt;
+
+==Overview==
+
+===Introduction===
+John Stuart Mill opens his essay by discussing the historical &quot;struggle between authority and liberty,&quot;&lt;ref&gt;Mill 1859, p. 3&lt;/ref&gt; describing the [[Tyrant|tyranny]] of government, which, in his view, needs to be controlled by the liberty of the citizens. He divides this control of authority into two mechanisms: necessary rights belonging to citizens, and the &quot;establishment of constitutional checks by which the consent of the community, or of a body of some sort, supposed to represent its interests, was made a necessary condition to some of the more important acts of the governing power&quot;.&lt;ref name=MillP4&gt;Mill 1859, p. 4&lt;/ref&gt; Because society was—in its early stages—subjected to such turbulent conditions (i.e. small population and constant war), it was forced to accept rule &quot;by a master.&quot;&lt;ref name=MillP4/&gt; However, as mankind progressed, it became conceivable for the people to rule themselves. Mill admits that this new form of society seemed immune to tyranny because &quot;there was no fear of tyrannizing over self.&quot;&lt;ref&gt;Mill 1859, p. 5&lt;/ref&gt; Despite the high hopes of the [[Age of Enlightenment|Enlightenment]], Mill argues that the democratic ideals were not as easily met as expected. First, even in democracy, the rulers were not always the same sort of people as the ruled.&lt;ref name=MillP6&gt;Mill 1859, p. 6&lt;/ref&gt; Second, there is a risk of a &quot;tyranny of the majority&quot; in which the many oppress the few who, according to democratic ideals, have just as much a right to pursue their legitimate ends.&lt;ref name=MillP6/&gt;&lt;ref name=MillP7&gt;Mill 1859, p. 7&lt;/ref&gt;&lt;ref&gt;Mill 1859, p. 13&lt;/ref&gt;
+
+In Mill's view, tyranny of the majority is worse than tyranny of government because it is not limited to a political function. Where one can be protected from a tyrant, it is much harder to be protected &quot;against the tyranny of the prevailing opinion and feeling.&quot;&lt;ref name=MillP7/&gt; The prevailing opinions within society will be the basis of all rules of conduct within society; thus there can be no safeguard in law against the tyranny of the majority. Mill's proof goes as follows: the majority opinion may not be the correct opinion. The only justification for a person's preference for a particular moral belief is that it is that person's preference. On a particular issue, people will align themselves either for or against this issue; the side of greatest volume will prevail, but is not necessarily correct.&lt;ref&gt;Mill 1859, pp. 9–10&lt;/ref&gt; In conclusion to this analysis of past governments, Mill proposes a single standard for which a persons liberty may be restricted:
+
+&lt;blockquote&gt;That the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant . . . Over himself, over his body and mind, the individual is sovereign.&lt;ref&gt;Mill 1859, pp. 14–15&lt;/ref&gt;&lt;/blockquote&gt;
+
+Mill clarifies that this standard is solely based on [[Utilitarianism|utility]].&lt;ref&gt;Mill 1859, p. 16&lt;/ref&gt; Therefore, when it is not useful, it may be ignored. For example, according to Mill, children and &quot;barbarian&quot; nations are benefitted by limited freedom.&lt;ref name=MillP15&gt;Mill 1859, p. 15&lt;/ref&gt; Just despots, such as [[Charlemagne]] and [[Akbar the Great]], were historically beneficial to people not yet fit to rule themselves.&lt;ref name=MillP15/&gt;
+
+J.S. Mill concludes the Introduction by discussing what he claimed were the three basic liberties in order of importance:&lt;ref&gt;Mill 1859, p. 18&lt;/ref&gt;
+
+#The freedom of thought and emotion. This includes the freedom to act on such thought, i.e. [[freedom of speech]]
+#The freedom to pursue tastes (provided they do no harm to others), even if they are deemed &quot;immoral&quot;
+#The freedom to unite so long as the involved members are of age, the involved members are not forced, and no harm is done to others
+
+While Mill admits that these freedoms could—in certain situations—be pushed aside, he claims that in contemporary and civilized societies there is no justification for their removal.&lt;ref&gt;Mill 1859, p. 19&lt;/ref&gt;
+
+===Of the liberty of thought and discussion===
+In the second chapter, J.S. Mill attempts to prove his claim from the first chapter that opinions ought never to be suppressed.&lt;ref name=MillC2&gt;Mill 1859, ch. 2&lt;/ref&gt; Looking to the consequences of suppressing opinions, he concludes that opinions ought never to be suppressed, stating, &quot;Such prejudice, or oversight, when it [i.e. false belief] occurs, is altogether an evil; but it is one from which we cannot hope to be always exempt, and must be regarded as the price paid for an inestimable good.&quot; He claims that there are three sorts of beliefs that can be had—wholly false, partly true, and wholly true—all of which, according to Mill, benefit the common good:&lt;ref name=MillP72&gt;Mill 1859, p. 72&lt;/ref&gt;
+
+&lt;blockquote&gt;First, if any opinion is compelled to silence, that opinion may, for aught we can certainly know, be true. To deny this is to assume our own infallibility. Secondly, though the silenced opinion be an error, it may, and very commonly does, contain a portion of truth; and since the general or prevailing opinion on any subject is rarely or never the whole truth, it is only by the collision of adverse opinions that the remainder of the truth has any chance of being supplied. Thirdly, even if the received opinion be not only true, but the whole truth; unless it is suffered to be, and actually is, vigorously and earnestly contested, it will, by most of those who receive it, be held in the manner of a prejudice, with little comprehension or feeling of its rational grounds. And not only this, but, fourthly, the meaning of the doctrine itself will be in danger of being lost, or enfeebled, and deprived of its vital effect on the character and conduct: the dogma becoming a mere formal profession, inefficacious for good, but cumbering the ground, and preventing the growth of any real and heartfelt conviction, from reason or personal experience.&lt;ref name=MillP72&gt;Mill 1859, p. 72&lt;/ref&gt;&lt;/blockquote&gt;
+
+Mill spends a large portion of the chapter discussing implications of and objections to the policy of never suppressing opinions.&lt;ref name=MillC2&gt;Mill 1859, ch. 2&lt;/ref&gt; In doing so, Mill explains his opinion of Christian ethics,&lt;ref&gt;Mill 1859, pp. 66–68&lt;/ref&gt;&lt;ref&gt;Mill 1859, p. 35&lt;/ref&gt; arguing that, while they are praiseworthy,&lt;ref&gt;Mill 1859, p. 36&lt;/ref&gt;&lt;ref&gt;Mill 1859, p. 41&lt;/ref&gt; they are incomplete on their own. Therefore, Mill concludes that suppression of opinion based on belief in infallible doctrine is dangerous.&lt;ref&gt;Mill 1859, p. 45&lt;/ref&gt; Among the other objections Mill answers, is the objection that the truth will necessarily survive persecution&lt;ref&gt;Mill 1859, pp. 38–39&lt;/ref&gt; and that society need only teach the grounds for truth, not the objections to it.&lt;ref&gt;Mill 1859, p. 48&lt;/ref&gt;
+
+===On individuality, as one of the elements of wellbeing===
+In the third chapter, J.S. Mill points out the inherent value of individuality since individuality is [[List of Latin phrases (full)|ex vi termini]] (i.e. by definition) the thriving of the human person through the higher pleasures.&lt;ref name=MillP84&gt;Mill 1859, p. 84&lt;/ref&gt;&lt;ref name=MillP89&gt;Mill 1859, p. 89&lt;/ref&gt; He argues that a society ought to attempt to promote individuality as it is a prerequisite for creativity and diversity.&lt;ref name=MillP89/&gt; With this in mind, Mill believes that conformity is dangerous. He states that he fears that [[Western culture|Western civilization]] approaches this well-intentioned conformity to praiseworthy maxims characterized by the [[China|Chinese civilization]].&lt;ref name=MillP84/&gt;&lt;ref&gt;Mill 1859, pp. 98–99&lt;/ref&gt; Therefore, Mill concludes that actions in themselves do not matter. Rather, the person behind the action and the action together are valuable.&lt;ref name=MillP81&gt;Mill 1859, p. 81&lt;/ref&gt; He writes:
+
+{{Cquote|It really is of importance, not only what men do, but also what manner of men they are that do it. Among the works of man, which human life is rightly employed in perfecting and beautifying, the first in importance surely is man himself. Supposing it were possible to get houses built, corn grown, battles fought, causes tried, and even churches erected and prayers said, by machinery—by automatons in human form—it would be a considerable loss to exchange for these automatons even the men and women who at present inhabit the more civilised parts of the world, and who assuredly are but starved specimens of what nature can and will produce. Human nature is not a machine to be built after a model, and set to do exactly the work prescribed for it, but a tree, which requires to grow and develop itself on all sides, according to the tendency of the inward forces which make it a living thing.&lt;ref name=MillP81/&gt;}}
+
+===On the limits to the authority of society over the individual===
+In the fourth chapter, J.S. Mill explains a system in which a person can discern what aspects of life should be governed by the individual and which by society.&lt;ref name=MillP103&gt;Mill 1859, p. 103&lt;/ref&gt; Generally, he holds that a person should be left as free to pursue his own interests as does not harm the interests of others. In such a situation, &quot;society has jurisdiction over [the person's conduct].&quot;&lt;ref name=MillP103/&gt; He rejects the idea that this liberty is simply for the purpose of allowing selfish indifference. Rather, he argues that this liberal system will bring people to the good more effectively than physical or emotional coercion.&lt;ref&gt;Mill 1859, p. 104&lt;/ref&gt; This principle leads him to conclude that a person may, without fear of just punishment, do harm to himself through vice. Governments, he claims, should only punish a person for neglecting to fulfill a duty to others (or causing harm to others), not the vice that brought about the neglect.&lt;ref&gt;Mill 1859, p. 108&lt;/ref&gt;
+
+J.S. Mill spends the rest of the chapter responding to objections to his maxim. He notes the objection that he contradicts himself in granting societal interference with youth because they are irrational but denying societal interference with certain adults though they act irrationally.&lt;ref&gt;Mill 1859, p. 111&lt;/ref&gt; Mill first responds by restating the claim that society ought to punish the harmful consequences of the irrational conduct, but not the irrational conduct itself which is a personal matter.&lt;ref&gt;Mill 1859, p. 112&lt;/ref&gt; Furthermore, he notes the societal obligation is not to ensure that each individual is moral throughout adulthood.&lt;ref&gt;Mill 1859, p. 113&lt;/ref&gt; Rather, he states that, by educating youth, society has the opportunity and duty to ensure that a generation, as a whole, is generally moral.&lt;ref name=MillP114&gt;Mill 1859, p. 114&lt;/ref&gt;
+
+Where some may object that there is justification for certain religious prohibitions in a society dominated by that [[religion]], he argues that members of the majority ought make rules which they would accept should they have been the minority.&lt;ref&gt;Mill 1859, pp. 118–19&lt;/ref&gt; He states, &quot;unless we are willing to adopt the logic of persecutors, and say that we may persecute others because we are right, and that they must not persecute us because they are wrong, we must beware of admitting a principle of which we should resent as a gross injustice the application to ourselves.&quot;&lt;ref&gt;Mill 1859, p. 119&lt;/ref&gt; In saying this, he references an earlier claim that moral and religion cannot be treated in the same light as math because morals and religion are vastly more complex.&lt;ref&gt;Mill 1859, p. 49&lt;/ref&gt; Just as with living in a society which contains immoral people, Mill points out that agents who find another's conduct depraved do not have to socialize with the other, merely refrain from impeding their personal decisions.&lt;ref&gt;Mill 1859, p. 109&lt;/ref&gt; While Mill general opposes the religiously motivated societal interference, he admits that it is conceivably permissible for religiously motivated laws to prohibit the use of what no religion obligates. For example, a Muslim state could feasibly prohibit pork. However, Mill still prefers a policy of society minding its own business.&lt;ref&gt;Mill 1859, p. 118&lt;/ref&gt;
+
+===Applications===
+This last chapter applies the principles laid out in the previous sections. He begins by summarizing these principles:
+
+&lt;blockquote&gt;The maxims are, first, that the individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself. Advice, instruction, persuasion, and avoidance by other people if thought necessary by them for their own good, are the only measures by which society can justifiably express its dislike or disapprobation of his conduct. Secondly, that for such actions as are prejudicial to the interests of others, the individual is accountable, and may be subjected either to social or to legal punishment, if society is of opinion that the one or the other is requisite for its protection.&lt;ref&gt;Mill 1859, p. 130&lt;/ref&gt;&lt;/blockquote&gt;
+
+====Economy====
+
+Mill first applies these principles to the economy. He concludes that free markets are preferable to those controlled by governments. While it may seem, because &quot;trade is a social act,&quot; that the government ought intervene in the economy, Mill argues that economies function best when left to their own devices.&lt;ref name=MillP131&gt;Mill 1859, p. 131&lt;/ref&gt; Therefore, because government intervention, though theoretically permissible, would be counterproductive.&lt;ref name=MillP131/&gt; Later, he attacks government run economies as &quot;despotic.&quot; He believes that if the government ran the economy, then all people would aspire to be part of a bureaucracy which had no incentive to further the interests of any but itself.&lt;ref&gt;Mill 1859, p. 155&lt;/ref&gt;
+
+====Preventing harm====
+
+Next Mill investigates in what ways a person may try to prevent harm.&lt;ref&gt;Mill 1859, ch. Applications&lt;/ref&gt; He first admits that a person should not wait for injury to happen, but ought try to prevent it. Second, he states that agents must consider whether that which can cause injury can cause injury exclusively.&lt;ref name=MillP133&gt;Mill 1859, p. 133&lt;/ref&gt; He gives the example of selling poison. Poison can cause harm. However, he points out that poison can also be used for good. Therefore, selling poison is permissible.&lt;ref name=MillP131/&gt; Yet, due to the risk entailed in selling poison or like products (e.g. alcohol), he sees no danger to liberty to require warning labels on the product.&lt;ref&gt;Mill 1859, p. 134&lt;/ref&gt;&lt;ref name=MillP139&gt;Mill 1859, p. 139&lt;/ref&gt; Again, Mill applies his principle. He considers the right course of action when an agent sees a person about to cross a condemned bridge without being aware of the risk. Mill states that because the agent presumably has interest in not crossing a dangerous bridge (i.e. if he knew the facts concerned with crossing the bridge, he would not desire to cross the bridge), it is permissible to forcibly stop the person from crossing the bridge. He qualifies the assertion stating that, if the means are available, it is better to warn the unaware person.&lt;ref name=MillP133/&gt;
+
+With regard to taxing to deter agents from buying dangerous products, he makes a distinction. He states that to tax solely in order to deter purchases is impermissible because prohibiting personal actions is impermissible and &quot;[e]very increase of cost is a prohibition, to those whose means do not come up to the augmented price.&quot;&lt;ref name=MillP139/&gt; However, because a government must tax to some extent in order to survive, it may choose to take its taxes from what it deems most dangerous.&lt;ref&gt;Mill 1859, pp. 139–40&lt;/ref&gt;
+
+====Repeat offenses to public through private action====
+
+Mill expands upon his principle of punishing the consequences rather than the personal action. He argues that a person who is empirically prone to act violently (i.e. harm society) from drunkenness (i.e. a personal act) should be uniquely restricted from the drinking. He further stipulates that repeat offenders should be punished more than first time offenders.&lt;ref&gt;Mill 1859, p. 135&lt;/ref&gt;
+
+====Encouraging vice====
+
+On the subject of fornication and gambling, Mill has no conclusive answer, stating, &quot;[t]here are arguments on both sides.&quot;&lt;ref&gt;Mill 1859, p. 137&lt;/ref&gt; He suggests that while the actions might be &quot;tolerated&quot; in private, promoting the actions (i.e. being a pimp or keeping a gambling house) &quot;should not be permitted.&quot;&lt;ref&gt;Mill 1859, p. 138&lt;/ref&gt; He reaches a similar conclusion with acts of indecency, concluding that public indecency is condemnable.&lt;ref name=MillP136&gt;Mill 1859, p. 136&lt;/ref&gt;
+
+====Suicide and divorce====
+
+Mill continues by addressing the question of social interference in suicide. He states that the purpose of liberty is to allow a person to pursue their interest. Therefore, when a person intends to terminate their ability to have interests it is permissible for society to step in. In other words, a person does not have the freedom to surrender their freedom.&lt;ref&gt;Mill 1859, p. 142&lt;/ref&gt; To the question of divorce, Mill argues that marriages are one of the most important structures within society;&lt;ref&gt;Mill 1859, p. 143&lt;/ref&gt; however, if a couple mutually agrees to terminate their marriage, they are permitted to do so because society has no grounds to intervene in such a deeply personal contract.&lt;ref&gt;Mill 1859, pp. 143–44&lt;/ref&gt;
+
+====Education====
+Mill believes that government run education is an evil because it would destroy diversity of opinion for all people to be taught the curriculum developed by a few.&lt;ref&gt;Mill 1859, p. 147&lt;/ref&gt; The less evil version of state run schooling, according to Mill, is that which competes against other privately run schools.&lt;ref&gt;Mill 1859, p. 148&lt;/ref&gt; In contrast, Mill believes that governments ought to require and fund private education. He states that they should enforce mandatory education through minor fines and annual standardized testing which tested only uncontroversial fact.&lt;ref&gt;Mill 1859, pp. 148–9&lt;/ref&gt; He goes on to emphasize the importance of a diverse education which teaches opposing views (e.g. [[Immanuel Kant|Kant]] and [[John Locke|Locke]]).&lt;ref&gt;Mill 1859, p. 150&lt;/ref&gt; He concludes by stating that it is legitimate for states to forbid marriages unless the couple can prove that they have &quot;means of supporting a family&quot; through education and other basic necessities.&lt;ref&gt;Mill 1859, p. 151&lt;/ref&gt;
+
+====Conclusion====
+
+J.S. Mill concludes by stating three general reasons to object to government interference:
+# if agents do the action better than the government.&lt;ref name=MillP152&gt;Mill 1859, p. 152&lt;/ref&gt;
+# if it benefits agents to do the action though the government may be more qualified to do so.&lt;ref name=MillP152/&gt;
+# if the action would add so greatly to the government power that it would become overreaching or individual ambition would be turned into dependency on government.&lt;ref&gt;Mill 1859, p. 154&lt;/ref&gt;
+
+He summarizes his thesis, stating:
+&lt;blockquote&gt;The worth of a State, in the long run, is the worth of the individuals composing it; and a State which postpones the interests of their mental expansion and elevation to a little more of administrative skill, or of that semblance of it which practice gives, in the details of business; a State which dwarfs its men, in order that they may be more docile instruments in its hands even for beneficial purposes—will find that with small men no great thing can really be accomplished; and that the perfection of machinery to which it has sacrificed everything will in the end avail it nothing, for want of the vital power which, in order that the machine might work more smoothly, it has preferred to banish.&lt;ref&gt;Mill 1859, p. 161&lt;/ref&gt;&lt;/blockquote&gt;
+
+==Reception==
+Though ''On Liberty'' garnered adverse criticism, it was largely received as an important work of literature for its ideas and accessibility. Denise Evans and Mary L. Onorato summarize the reception of ''On Liberty'', stating, &quot;[c]ritics regard his essay ''On Liberty'' as a seminal work in the development of British liberalism. Enhanced by his powerful, lucid, and accessible prose style, Mill's writings on government, economics, and logic suggest a model for society that remains compelling and relevant.&quot;&lt;ref&gt;Evans and Onorato 1997&lt;/ref&gt; As one sign of the books importance, a copy of ''On Liberty'' is the symbol of office for the president of the Liberal Democrat Party in England.&lt;ref&gt;Brack 2007&lt;/ref&gt;
+
+===Contradiction to Utilitarianism===
+Mill makes it clear throughout ''On Liberty'' that he &quot;regard[s] utility as the ultimate appeal on all ethical questions,&quot; a standard he inherited from his father, a follower of [[Jeremy Bentham]].&lt;ref name=&quot;JSM_Life&quot;/&gt; Though J.S. Mill claims that all of his principles on liberty appeal to the ultimate authority of Utilitarianism, according to [[Nigel Warburton]], much of the essay can seem divorced from his supposed final court of appeals. Mill seems to idealize liberty and rights at the cost of utility. For instance, Mill writes:&lt;ref name=WarburtonOnLib&gt;Warburton 2008, John Stuart Mill On Liberty&lt;/ref&gt;
+
+{{cquote|If all mankind minus one, were of one opinion, and only one person were of contrary opinion, mankind would be no more justified in silencing that one person, than he, if he had the power, would be justified in silencing mankind.&lt;ref&gt;Mill 1859, p. 23&lt;/ref&gt;}}
+
+This claim seems to go against the principle of Utilitarianism that it is permissible that one should be harmed so that the majority could benefit.&lt;ref name=&quot;WarburtonOnLib&quot;/&gt; Nigel Warburton argues that Mill is likely too optimistic about the outcome of free speech. Warburton claims that there are situations in which it would cause more happiness to suppress truth than to permit it. For example, if a scientist discovered a comet about to kill the planet in a matter of weeks, it may cause more happiness to suppress the truth than to allow society to discover the impending danger.&lt;ref name=&quot;WarburtonOnLib&quot;/&gt; While David Brink concedes that Mill's apparently [[categorical imperative|categorical]] appeal to rights seems to contradict Utilitarianism, he points out that Mill does not believe rights are truly categorical because Mill—when necessary—opposing unrestrained liberty (e.g. offensive public exposure).&lt;ref name=Brink_L&amp;U&gt;Brink 2007, 3.12 Liberalism and Utilitarianism&lt;/ref&gt;
+
+Furthermore, David Brink tries to reconcile Mill's system of rights with Utilitarianism in three ways:&lt;ref name=&quot;Brink_L&amp;U&quot;/&gt;
+
+# Rights are secondary principles to the Greatest Happiness Principle&lt;ref name=&quot;Brink_L&amp;U&quot;/&gt;
+# Rights are incomparable goods, justifying their categorical enforcement&lt;ref name=&quot;Brink_L&amp;U&quot;/&gt;
+# Liberty is a good. Thus, those who suppress it are worthy of punishment. Rights deal with the value of punishing/protecting others' interference with liberty, not the actual protection of liberty&lt;ref name=&quot;Brink_L&amp;U&quot;/&gt;
+
+===Narrow focus===
+Some thinkers have criticized Mill's writing for its apparent narrow or unclear focus in several areas. Mill makes clear that he only considers adults in his writing failing to account for how irrational members of society, such as children, ought to be treated.&lt;ref name=Plank2012&gt;Plank 2012&lt;/ref&gt; Yet, Mill's theory relies upon the proper upbringing of children.&lt;ref name=MillP15&gt;Mill 1859, p. 15&lt;/ref&gt;&lt;ref name=MillP114&gt;Mill 1859, p. 114&lt;/ref&gt; Plank has asserted that Mill fails to account for physical harm, solely concerning himself with spiritual wellbeing. He also argues that, while much of Mill's theory depends upon a distinction between private and public harm, Mill seems not to have provided a clear focus on or distinction between the private and public realms.&lt;ref name=Plank2012&gt;Plank 2012&lt;/ref&gt;
+
+===Religious criticism===
+Nigel Warburton states that though Mill encourages religious tolerance, because he does not speak from the perspective of a specific religion, some claim that he does not account for what certain religious beliefs would entail when governing a society. Some religions believe that they have a [[God]] given duty to enforce religious norms. For them, it seems impossible for their religious beliefs to be wrong, i.e. the beliefs are infallible. Therefore, according to Warburton, Mill's principle of total freedom of speech may not apply.&lt;ref name=&quot;WarburtonOnLib&quot;/&gt;&lt;ref&gt;Mill 1859, p. 32&lt;/ref&gt;
+
+===Vague conception of harm===
+The [[harm principle]] is central to the principles in On Liberty.&lt;ref name=&quot;WarburtonOnLib&quot;/&gt; Nigel Warburton says that Mill appears unclear about what constitutes harm. Early in the book, he claims that simply being offensive does not constitute harm.&lt;ref name=&quot;WarburtonOnLib&quot;/&gt;&lt;ref&gt;Mill 1859, pp. 72–73&lt;/ref&gt; Later, he writes that certain acts which are permissible and harmless in private are worthy of being prohibited in public.&lt;ref name=MillP136&gt;Mill 1859, p. 136&lt;/ref&gt;&lt;ref name=&quot;WarburtonOnLib&quot;/&gt;&lt;ref&gt;Oliveira, Offence and Costumary Morality&lt;/ref&gt; This seems to contradict his earlier claim that merely offensive acts do not warrant prohibition because, presumably, the only harm done by a public act which is harmless in private is that it is offensive.&lt;ref name=&quot;WarburtonOnLib&quot;/&gt;
+
+Warburton notes that some people argue that morality is the basis of society, and that society is the basis of individual happiness. Therefore, if morality is undermined, so is individual happiness. Hence, since Mill claims that governments ought to protect the individual's ability to seek happiness, governments ought to intervene in the private realm to enforce moral codes.&lt;ref name=&quot;WarburtonOnLib&quot;/&gt;
+
+==Published editions of ''On Liberty''==
+*''On Liberty'' (ISBN 1-59986-973-X)
+*''On Liberty'' and ''The Subjection of Women'' (ISBN 0-141-44147-X)
+*The Basic Writings of John Stuart Mill ''On Liberty'', ''The Subjection of Women'' &amp; ''Utilitarianism'' (ISBN 0-375-75918-2)
+
+==Online editions of ''On Liberty==
+{{wikisource}}
+*[http://etext.library.adelaide.edu.au/m/mill/john_stuart/m645o/ HTML version]
+*[http://www.bartleby.com/130/ Online version]
+*[http://librivox.org/on-liberty-by-john-stuart-mill/ Audiobook]
+*[http://www.earlymoderntexts.com Contains On Liberty, slightly modified for easier reading]
+*[http://www.feedbooks.com/book/4202 Feedbooks EPUB/Kindle/Custom PDF]
+
+==Secondary literature (online texts)==
+*[http://www.victorianweb.org/philosophy/mill/ten/contents.html Mill On Liberty], by [[Chin Liew Ten]], Clarendon Press, Oxford, 1980 (full-text hosted on [[National University of Singapore]] website)
+
+==References==
+{{Reflist|20em}}
+
+==Bibliography==
+* {{cite web|last=Brack|first=Duncan|title=Great Liberals|url=http://www.liberalhistory.org.uk/item_single.php?item_id=110&amp;item=history|publisher=Journal of Liberal History|year=2007}}
+* {{cite web|last=Brink|first=David|title=Mill's Moral and Political Philosophy|url=http://plato.stanford.edu/entries/mill-moral-political/#LibUti|publisher=Stanford|accessdate=2012|location=3.12 Liberalism and Utilitarianism|year=2007}}
+* {{cite web|last=Clausen|first=Christopher|title=John Stuart Mill's &quot;Very Simple Principle&quot;|url=http://web.ebscohost.com/ehost/detail?vid=4&amp;hid=106&amp;sid=fc2e5fce-48b3-46a8-a6a5-57e93ebd5981%40sessionmgr110&amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=f5h&amp;AN=37564544|accessdate=2012|year=2009|publisher=Wilson Quarterly|volume=33|issue=2|pages=40–46}}
+* {{Citation|publisher = Oxford University Press|isbn = 0-19-285018-0|publication-place = London|title = The enforcement of morals|url = http://openlibrary.org/books/OL5935935M/The_enforcement_of_morals|author = Devlin, Patrick Baron|publication-date = 1965|oclc = 1934003|id = 0192850180|page=vi}}
+* {{cite book|last=Evans|first=Denise|title=Nineteenth-Century Literary Criticism|year=1997|publisher=Gale Cengage|isbn=ISBN 0-8103-7175-8|author=Mary L. Onorato}}
+* {{cite book|last=Mill|first=John Stuart|title=On Liberty|year=1859|publisher=MobileReference}}
+* {{cite book|last=Mill|first=John Stuart|title=Autobiography|year=1873|url=http://www.utilitarianism.com/millauto/}}
+* {{cite web|last=Oliveira|first=Jorge|title=Harm and Offence in Mill's Conception of Liberty|url=http://www.trinitinture.com/documents/oliveira.pdf|publisher=University of Oxford, Faculty of Law}}
+* {{cite web|last=Plank|first=Barbara|title=John Stuart Mill|url=http://www.liberal-international.org/editorial.asp?ia_id=685|accessdate=2012|year=1995–2012}}
+* {{cite web|last=Warburton|first=Nigel|title=Philosophy: The Classics|url=http://www.philclassics.libsyn.com/|location=John Stuart Mill On Liberty}}
+* {{cite web|last=Wilson|first=Fred|title=John Stuart Mill|url=http://plato.stanford.edu/entries/mill/#Lif|publisher=Stanford|accessdate=2012|location=Life|year=2007}}
+
+;
+
+[[Category:1859 books]]
+[[Category:Classical liberalism]]
+[[Category:Political books]]
+[[Category:Books about liberalism]]
+[[Category:Works by John Stuart Mill]]
+[[Category:Books by John Stuart Mill]]
+
+{{Link FA|he}}
+[[bg:За свободата]]
+[[cy:On Liberty]]
+[[de:On Liberty]]
+[[es:Sobre la libertad]]
+[[fa:درباره آزادی]]
+[[fr:De la liberté]]
+[[ko:자유론]]
+[[is:Frelsið]]
+[[it:Saggio sulla libertà]]
+[[he:על החירות]]
+[[nl:On Liberty]]
+[[ja:自由論 (ミル)]]
+[[pt:A Liberdade]]
+[[sv:Om friheten]]
+[[vi:Bàn về tự do]]
+[[zh:论自由]]</text>
+      <sha1>asoe310mvyi65ika9n8pwir1w25p7k1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

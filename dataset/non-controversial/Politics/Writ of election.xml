@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Writ of election</title>
+    <ns>0</ns>
+    <id>796727</id>
+    <revision>
+      <id>422441235</id>
+      <parentid>421433024</parentid>
+      <timestamp>2011-04-05T03:17:41Z</timestamp>
+      <contributor>
+        <username>Rrius</username>
+        <id>463669</id>
+      </contributor>
+      <comment>removes incorrect |work paramaters; punct; cap; date formats per [[WP:MOSNUM]] by [[WP:MOSNUMscript|script]]</comment>
+      <text xml:space="preserve" bytes="2909">{{Use dmy dates|date=April 2011}}
+A '''writ of election''' is a [[writ]] issued by the [[government]] ordering the holding of a special [[election]] for a political [[office]].
+[[File:D. Christopher Jessen, Deputy Provost Marshall, to Freeholders of Lunenburg Township and County - election writ for the second assembly.png|thumb|D. Christopher Jessen, Deputy Provost Marshall, to Freeholders of Lunenburg Township and County - election writ for the second assembly]]
+In the [[United Kingdom]] and in [[Canada]], this is the ''only'' way of holding an election for the [[House of Commons]]. When the government wants to or is required to dissolve Parliament, a writ of election is issued for each [[United Kingdom constituencies|constituency]] by the Clerk of the Crown in Chancery (in the UK&lt;ref&gt;{{cite web
+| url         = http://www.parliament.uk/about/how/elections-and-voting/by-elections/
+| title       = By-elections
+| publisher   = The United Kingdom Parliament
+| accessdate  = 27 March 2011
+}}&lt;/ref&gt;) or [[electoral district (Canada)|electoral district]] by the [[Chief Electoral Officer]] (in Canada&lt;ref&gt;{{Cite web
+| url         = http://www2.parl.gc.ca/marleaumontpetit/DocumentViewer.aspx?Sec=Ch04&amp;Seq=5&amp;Lang=E
+| last        = Marleau
+| first       = Robert
+| coauthors   = Montpetit, Camille
+| title       = The House of Commons and Its Members – The Writ of Election
+| work        = House of Commons Procedure and Practice
+| accessdate  = 27 March 2011
+}}&lt;/ref&gt;).
+
+In the [[United States]], this writ is issued mainly by [[U.S. state|state]] [[governor]]s for filling vacancies in the [[United States House of Representatives]], the [[United States Senate]], or the states' own [[State legislature (United States)|legislature]]s.&lt;ref&gt;{{Cite web
+| url         = http://www.cga.ct.gov/2009/ACT/PA/2009PA-00170-R00SB-00913-PA.htm
+| title       = An Act Concerning United States Senate Vacancies
+| publisher   = Connecticut General Assembly
+| accessdate  = 27 March 2011
+}}&lt;/ref&gt;
+
+In [[Australia]], the writs are issued by the [[Governor-General of Australia|Governor-General]] for the [[Australian House of Representatives|House of Representatives]] and by the respective state Governors for the [[Australian Senate|Senate]]. State governors also issue the writs for elections in the [[Parliaments of the Australian states and territories|state and territorial legislatures]]. The writs are issued to the relevant Electoral Officer or [[Returning Officer]], as the case may be, who must return them after the election has been held within a fixed period&lt;ref&gt;{{Cite web
+| url         = http://www.aec.gov.au/Elections/australian_electoral_system/electoral_procedures/Federal_Election_Timetable.htm
+| title       = Federal Election Timetable
+| publisher   = Australian Electoral Commission
+| accessdate  = 27 March 2011
+}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+[[Category:Government]]
+[[Category:Writs]]</text>
+      <sha1>g6vw1yx7pv9hdt5icfmlvfrnzs26mdm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

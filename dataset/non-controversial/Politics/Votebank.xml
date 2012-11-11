@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Votebank</title>
+    <ns>0</ns>
+    <id>5979725</id>
+    <revision>
+      <id>481411900</id>
+      <parentid>435533111</parentid>
+      <timestamp>2012-03-11T23:01:57Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>copyedit, clarity edits, MOS implementation, and/or AWB general fixes using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve" bytes="3034">A '''votebank''' (also spelled '''vote-bank''' or '''vote bank''') is a loyal [[Voting bloc|bloc]] of [[voters]] from a single [[community]], who consistently back a certain [[candidate]] or political formation in [[democratic]] [[elections]]. Such behaviour is often the result of an expectation of real or imagined benefits from the political formations, often at the cost of other communities. 
+
+'''Votebank politics''' is the practice of creating and maintaining votebanks through divisive policies. As this brand of politics encourages voters to vote on the basis of narrow communal considerations, often against their better judgement, it is considered inimical to democracy.
+
+The term was coined in [[India]], where the practice of votebank politics is rampant. Since then, it has gained currency in other Asian countries with a significant English-speaking population.
+
+==Origins==
+The term '''vote-bank''' was first used by noted Indian [[sociologist]], [[M. N. Srinivas]]&lt;ref name=first&gt;{{cite journal | author = Ralph Grillo; Rodney Needham | year = 2000 | month = February | title = Obituary: M. N. Srinivas | journal = Anthropology Today | volume = 16 | issue = 1 | pages = 22 | issn = 0268540X | jstor = 0268540x | format = PDF | doi = 10.1111/1467-8322.00007}} {{Dead link|date=November 2010|bot=H3llBot}}&lt;/ref&gt; (who also coined the terms [[Sanskritisation]] and '''dominant caste'''), in his 1955 paper entitled ''The Social System of a Mysore Village''.&lt;ref name=MNS&gt;{{cite book | last = Srinivas | first = M. N. | authorlink = M. N. Srinivas | coauthors = et al.| editor = McKim Marriot | title = Village India: studies in the little community | publisher = University of Chicago Press | location = Chicago | pages = 1–35 | chapter = The Social System of a Mysore Village | year = 1955}}&lt;/ref&gt; He used it in the context of political influence exerted by a patron over a client. Later, the expression was used by [[F. G. Bailey]], a professor of [[anthropology]] at the [[University of California, San Diego]], in his 1959 book ''Politics and Social Change'',&lt;ref name=FGB&gt;{{cite book | last = Bailey | first = F. G. | title = Politics and Social Change | publisher = University of California Press | location = Berkeley | year = 1959}}&lt;/ref&gt; to refer to the [[electoral]] influence of the [[caste]] leader. This is the usage that has since become popular.
+
+Thought the term originally referred to voting along caste lines, it was soon expanded to describe votebanks based on other community characteristics, such as [[religion]] and [[language]].
+
+== See also ==
+* [[Client politics]]
+* [[Constituency]]
+* [[Indian politics]]
+* [[Identity politics]]
+* [[Electoral system]]
+* [[Political campaigning]]
+* [[Social disintegration]]
+* [[Blocks of Five]]
+* [[Red states and blue states]]
+
+== References ==
+{{reflist}}
+
+==External links==
+{{wiktionary|vote bank|Votebank}}
+* [http://www.himalmag.com/2004/may/commentary_4.htm Vote Bank Politics by Syed Ali Mujtaba]
+
+[[Category:Politics of India]]
+[[Category:Elections]]</text>
+      <sha1>sqg49pjrpy1dv43myevs34g1bnabcu7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

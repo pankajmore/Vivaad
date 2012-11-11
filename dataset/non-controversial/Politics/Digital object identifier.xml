@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Digital object identifier</title>
+    <ns>0</ns>
+    <id>422994</id>
+    <revision>
+      <id>515154428</id>
+      <parentid>514852648</parentid>
+      <timestamp>2012-09-29T14:20:54Z</timestamp>
+      <contributor>
+        <username>Justincheng12345-bot</username>
+        <id>16038205</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.3) (Robot: Adding [[ta:எண்ணிம ஆவணச் சுட்டி]]</comment>
+      <text xml:space="preserve" bytes="23210">{{Selfref|For the use of digital object identifiers on Wikipedia, see [[Wikipedia:Digital Object Identifier]].}}
+A '''digital object identifier''' ('''DOI''') is a [[character string]] (a &quot;digital identifier&quot;) used to uniquely identify an object such as an [[electronic document]]. [[Metadata]] about the object is stored in association with the DOI name and this metadata may include a location, such as a [[URL]], where the object can be found. The DOI for a document is permanent, whereas its location and other metadata may change. Referring to an online document by its DOI provides more stable linking than simply referring to it by its URL, because if its URL changes, the publisher need only update the metadata for the DOI to link to the new URL.&lt;ref&gt;{{cite book|author=Witten, Ian H., David Bainbridge and David M. Nichols |year=2010|title=How to Build a Digital Library|edition=2nd|location=Amsterdam; Boston|publisher= Morgan Kaufmann|pages=352–253|isbn= 978-0-12-374857-7}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|first1=Marc|last1=Langston|first2=James|last2=Tyler|title=Linking to journal articles in an online teaching environment: The persistent link, DOI, and OpenURL|journal=The Internet and Higher Education|volume=7|issue=1|year=2004|pages=51–58|doi=10.1016/j.iheduc.2003.11.004}}&lt;/ref&gt;&lt;ref&gt;{{Cite document |url=http://www.businessweek.com/magazine/content/01_30/b3742032.htm |title=How the 'Digital Object Identifier' works |date=2001-07-23 |work=BusinessWeek |accessdate=2010-04-20 |quote=Assuming the publishers do their job of maintaining the databases, these centralized references, unlike current Web links, should never become outdated or broken. |publisher=[[BusinessWeek]]}}&lt;/ref&gt;
+
+Organizations that meet the contractual obligations of the DOI system and are willing to pay to become a member of the system can assign DOIs.&lt;ref name=&quot;dd&quot;&gt;{{Cite journal|title=Digital Object Identifiers: Promise and problems for scholarly publishing|first1=Lloyd A.|last1=Davidson|first2=Kimberly|last2=Douglas|year=1998|month=December|journal=Journal of Electronic Publishing|volume=4|issue=2|doi=10.3998/3336451.0004.203}}&lt;/ref&gt; The DOI system is implemented through a federation of registration agencies coordinated by the International DOI Foundation,&lt;ref&gt;{{cite web|url=http://www.doi.org/index.html |title=Welcome to the DOI System |publisher=Doi.org |date=2010-06-28 |accessdate=2010-08-07}}&lt;/ref&gt; which developed and controls the system. The DOI system has been developed and implemented in a range of publishing applications since 2000; by late April 2011 more than 50 million DOI names had been assigned by some 4,000 organizations.&lt;ref&gt;{{Cite web|url=http://www.doi.org/news/DOINewsApr11.html#1 |title=DOI® News, April 2011: 1. DOI System exceeds 50 million assigned identifiers |publisher=Doi.org |date=2011-04-20 |accessdate=2011-07-03}}&lt;/ref&gt;  The DOI system is part of the larger [[Handle System]].&lt;ref&gt;{{Cite web|url=http://handle.net/| title= The Handle System}}&lt;/ref&gt;
+
+==DOI names==
+A DOI name takes the form of a [[character string]] divided into two parts, a prefix and a suffix, separated by a slash. The prefix identifies the registrant of the name, and the suffix is chosen by the registrant and identifies the specific object associated with that DOI. Most legal [[Unicode]] characters are allowed in these strings, which are interpreted in a [[case-insensitive]] manner.
+
+For example, in the DOI name &lt;code&gt;10.1000/182&lt;/code&gt;, the prefix is &lt;code&gt;10.1000&lt;/code&gt; and the suffix is &lt;code&gt;182&lt;/code&gt;. The &quot;10.&quot; part of the prefix identifies the DOI registry,&lt;ref&gt;Other registries are identified by other strings at the start of the prefix.  Handle names that begin with &quot;100.&quot; are also in use, as for example in the following citation: {{cite journal|id={{hdl|100.2/ADA013939}}|url=http://handle.dtic.mil/100.2/ADA013939 |title=Development of a Transmission Error Model and an Error Control Model| date=May 1975|last1=Hammond|first1=Joseph L., Jr.|last2=Brown|first2=James E.|last3=Liu|first3=Shyan-Shiang S.}}.&lt;/ref&gt; and the characters &lt;code&gt;1000&lt;/code&gt; in the prefix identify the registrant; in this case the registrant is the International DOI Foundation itself. &lt;code&gt;182&lt;/code&gt; is the suffix, or item ID, identifying a single object (in this case, the latest version of the ''DOI Handbook''). Citations using DOI names should be printed as &lt;tt&gt;doi:10.1000/182&lt;/tt&gt;. When the citation is a hypertext link, it is recommended to embed the link as a [[URL]] by [[string concatenation|concatenating]] &quot;&lt;nowiki&gt;http://dx.doi.org/&lt;/nowiki&gt;&quot; to the DOI name, omitting its &quot;doi:&quot; prefix; e.g., the DOI name &lt;tt&gt;[[doi:10.1000/182]]&lt;/tt&gt; is linked as &lt;nowiki&gt;http://dx.doi.org/10.1000/182&lt;/nowiki&gt;. This URL provides the location of an [[HTTP proxy]] server which will redirect web accesses to the correct online location of the linked item.&lt;ref name=&quot;dd&quot;/&gt;&lt;ref&gt;{{Cite journal|first=Andy|last=Powell|title=Resolving DOI Based URNs Using Squid: An Experimental System at UKOLN|journal=D-Lib Magazine|date=June 1998|url=http://www.dlib.org/dlib/june98/06powell.html| issn=1082-9873}}&lt;/ref&gt;
+
+DOI names can identify creative works (such as texts, images, audio or video items, and software) in both electronic and physical forms, [[performance]]s, and abstract works&lt;ref name=doifaq2&gt;{{Cite document |url=http://www.doi.org/faq.html#1 |title=Frequently asked questions about the DOI system: 2. What can be identified by a DOI name? |accessdate=23 April 2010 |date=Updated 17 February 2010 |publisher=International DOI Foundation}}&lt;/ref&gt; such as licenses, parties to a transaction, etc.
+The names can refer to objects at varying levels of detail: thus DOI names can identify a journal, an individual issue of a journal, an individual article in the journal, or a single table in that article. The choice of level of detail is left to the assigner, but in the DOI system it must be declared as part of the metadata that is associated to a DOI name, using a data dictionary based on the [[indecs Content Model]].
+
+==Applications==
+Major applications of the DOI system currently include:
+* persistent [[citation]]s in scholarly materials (journal articles, books, etc.) through [[CrossRef]], a consortium of around 3,000 publishers;
+* research datasets through [[DataCite]], a consortium of leading research libraries, technical information providers, and scientific data centers;
+* [[European Union]] official publications through the [[Publications Office (European Union)|EU publications office]];
+* Permanent global identifiers for commercial video content through the Entertainment ID Registry, commonly known as [[EIDR]].
+
+In the [[Organisation for Economic Co-operation and Development]]'s publication service [[SourceOECD]], each table or graph in an OECD publication is shown with a DOI name that leads to an Excel file of data underlying the tables and graphs. Further development of such services is planned.&lt;ref&gt;{{cite journal|doi=10.1787/603233448430 |title=We Need Publishing Standards for Datasets and Data Tables  |year=2009|journal=Research Information |last=Green|first=T.}}&lt;/ref&gt;
+
+A multilingual European DOI registration agency activity, [http://www.mEDRA.org ''m''EDRA], Traditional Chinese content thru [http://doi.airiti.com/ Airiti Inc.] and a Chinese registration agency, [http://www.wanfangdata.com/ Wanfang Data], are active in non-English language markets. Expansion to other sectors is planned by the International DOI Foundation.{{Citation needed|date=May 2010}}
+
+==Features and benefits==
+The DOI system was designed to provide a form of persistent identification, in which each DOI name unequivocally and permanently identifies the object to which it is associated. And, it associates [[metadata]] with objects, allowing it to provide users with relevant pieces of information about the objects and their relationships. Included as part of this metadata are network actions that allow DOI names to be resolved to web locations where the objects they describe can be found. To achieve its goals, the DOI system combines the [[Handle System]] and the [[indecs Content Model]] with a social infrastructure.
+
+The Handle System ensures that the DOI name for an object is not based on any changeable attributes of the object such as its physical location or ownership, that the attributes of the object are encoded in its metadata rather than in its DOI name, and that no two objects are assigned the same DOI name. Because DOI names are short character strings, they are human-readable, may be copied and pasted as text, and fit into the [[Uniform Resource Identifier|URI]] specification. The DOI name resolution mechanism acts behind the scenes, so that users communicate with it in the same way as with any other web service; it is built on [[open architecture]]s, incorporates [[Computational trust|trust mechanisms]], and is engineered to operate reliably and flexibly so that it can be adapted to changing demands and new applications of the DOI system. DOI name resolution may be used with [[OpenURL]] to select the most appropriate among multiple locations for a given object, according to the location of the user making the request.&lt;ref&gt;{{Cite journal|first1=Susanne|last1=DeRisi|first2=Rebecca|last2=Kennison|first3=Nick|last3=Twyman|title=Editorial: The what and whys of DOIs|journal=[[PLoS Biology]]|volume=1|issue=2|page=e57|year=2003|doi=10.1371/journal.pbio.0000057|pmid=14624257|pmc=261894}}&lt;/ref&gt; However, despite this ability, the DOI system has drawn criticism from librarians for directing users to non-free copies of documents that would have been available for no additional fee from alternative locations.&lt;ref&gt;{{Cite book|contribution=Open access to scientific and technical information: the state of the art|first=Jack|last=Franklin|title=Open access to scientific and technical information: state of the art and future trends|editor1-first=Herbert|editor1-last=Grüttemeier|editor2-first=Barry|editor2-last=Mahon|publisher=IOS Press|year=2003|page=74|url=http://books.google.com/?id=2X3gW1lUvN4C&amp;pg=PA74#v=onepage&amp;q|isbn=978-1-58603-377-4}}&lt;/ref&gt;
+
+The indecs Content Model is used within the DOI system to associate metadata with objects. A small kernel of common metadata is shared by all DOI names and can be optionally extended with other relevant data, which may be public or restricted. Registrants may update the metadata for their DOI names at any time, such as when publication information changes or when an object moves to a different URL.
+
+The International DOI Foundation (IDF) oversees the integration of these technologies and operation of the system through a technical and social infrastructure. The social infrastructure of a federation of independent registration agencies offering DOI services was modelled on existing successful federated deployments of identifiers such as [[GS1]] and [[ISBN]].
+
+==Comparison with other identifier schemes==
+A DOI name differs from commonly used Internet pointers to material, such as the [[Uniform Resource Locator]] (URL), in that it identifies an object as a first-class entity,{{Clarify|date=February 2011}} not simply the place where the object is located. It implements the [[Uniform Resource Identifier]] ([[Uniform Resource Name]]) concept and adds to it a data model and social infrastructure.&lt;ref&gt;{{cite web|url=http://www.doi.org/factsheets/DOIIdentifierSpecs.html |title=DOI System and Internet Identifier Specifications |publisher=Doi.org |date=2010-05-18 |accessdate=2010-08-07}}&lt;/ref&gt;
+
+A DOI name also differs from standard identifier registries such as the [[International Standard Book Number|ISBN]], [[International Standard Recording Code|ISRC]], etc. The purpose of an identifier registry is to manage a given collection of identifiers, whereas the primary purpose of the DOI system is to make a collection of identifiers actionable and interoperable, where that collection can include identifiers from many other controlled collections.&lt;ref&gt;{{cite web|url=http://www.doi.org/factsheets/DOIIdentifiers.html |title=DOI System and standard identifier registries |publisher=Doi.org |date= |accessdate=2010-08-07}}&lt;/ref&gt;
+
+The DOI system offers persistent, semantically interoperable resolution to related current data, and is best suited to material that will be used in services outside the direct control of the issuing assigner (e.g., public citation, or managing content of value). It uses a managed registry (providing social and technical infrastructure). It does not assume any specific business model for the provision of identifiers or services, and enables other existing services to link to it in defined ways. Several approaches for making identifiers persistent have been proposed. The comparison of persistent identifier approaches is difficult because they are not all doing the same thing. Imprecisely referring to a set of schemes as &quot;identifiers&quot; doesn't mean that they can be compared easily. Other &quot;identifier systems&quot; may be enabling technologies with low barriers to entry, providing an easy to use labeling mechanism that allows anyone to set up a new instance (examples include [[Persistent Uniform Resource Locator]] (PURL), URLs, [[Globally Unique Identifier]]s (GUIDs), etc.), but may lack some of the functionality of a registry-controlled scheme and will usually lack accompanying metadata in a controlled scheme. The DOI system does not have this approach and should not be compared directly to such identifier schemes. Various applications using such enabling technologies with added features have been devised that meet some of the features offered by the DOI system for specific sectors (e.g., [[Archival Resource Key|ARK]]).
+
+A DOI name does not depend on the object's location and, in this way, is similar to a Uniform Resource Name (URN) or PURL but differs from an ordinary URL. URLs are often used as substitute identifiers for documents on the Internet (better characterised as Uniform Resource Identifiers) although the same document at two different locations has two URLs. By contrast, persistent identifiers such as DOI names identify objects as first class entities: two instances of the same object would have the same DOI name.
+
+==Resolution==
+DOI name resolution is provided through the [[Handle System]], developed by [[Corporation for National Research Initiatives]], and is freely available to any user encountering a DOI name. Resolution redirects the user from a DOI name to one or more pieces of typed data: URLs representing instances of the object, services such as e-mail, or one or more items of metadata. To the Handle System, a DOI name is a handle, and so has a set of values assigned to it and may be thought of as a record that consists of a group of fields. Each handle value must have a data type specified in its &quot;&lt;type&gt;&quot; field, that defines the syntax and semantics of its data.
+
+To resolve a DOI name, it may be input to a DOI resolver (e.g., at [http://www.doi.org/ www.doi.org]) or may be represented as an HTTP string by preceding the DOI name by the string
+
+:&lt;code&gt;&lt;nowiki&gt;http://dx.doi.org/&lt;/nowiki&gt;&lt;/code&gt;
+
+For example, the DOI name &lt;tt&gt;10.1000/182&lt;/tt&gt; can be resolved at the address &quot;&lt;nowiki&gt;http://dx.doi.org/10.1000/182&lt;/nowiki&gt;&quot;. Web pages or other hypertext documents can include hypertext links in this form. Some browsers allow the direct resolution of a DOI (or other handles) with an add-on, e.g., [http://www.handle.net/hs-tools/extensions/firefox_hdlclient.html CNRI Handle Extension for Firefox]. The CNRI Handle Extension for Firefox enables the browser to access handle or DOI URIs like hdl:4263537/4000 or doi:10.1000/1 using the native Handle System protocol. It will even replace references to web-to-handle proxy servers with native resolution.
+
+==Organizational structure==
+The International DOI Foundation (IDF), a non-profit organisation created in 1998, is the governance body of the DOI system.&lt;ref&gt;{{cite web|url=http://www.doi.org/handbook_2000/governance.html |title=DOI Handbook, Chapter 7: The International DOI Foundation |publisher=Doi.org |date=1997-10-10 |accessdate=2010-08-07}}&lt;/ref&gt; It safeguards all [[intellectual property|intellectual property rights]] relating to the DOI system, manages common operational features, and supports the development and promotion of the DOI system. The IDF ensures that any improvements made to the DOI system (including creation, maintenance, registration, resolution and policymaking of DOI names) are available to any DOI registrant. It also prevents third parties from imposing additional licensing requirements beyond those of the IDF on users of the DOI system.
+
+The IDF is controlled by a Board elected by the members of the Foundation, with an appointed Managing Agent who is responsible for co-ordinating and planning its activities. Membership is open to all organizations with an interest in electronic publishing and related enabling technologies. The IDF holds annual open meetings on the topics of DOI and related issues.
+
+Registration agencies, appointed by the IDF, provide services to DOI registrants: they allocate DOI prefixes, register DOI names, and provide the necessary infrastructure to allow registrants to declare and maintain metadata and state data. Registration agencies are also expected to actively promote the widespread adoption of the DOI system, to cooperate with the IDF in the development of the DOI system as a whole, and to provide services on behalf of their specific user community. A list of current RAs is maintained by the International DOI Foundation.
+
+Registration agencies generally charge a fee to assign a new DOI name; parts of these fees are used to support the IDF. The DOI system overall, through the IDF, operates on a [[not-for-profit]] cost recovery basis.
+
+==Standardization==
+The DOI system is an international standard developed by the [[ISO|International Organization for Standardization]] in its technical committee on identification and description, TC46/SC9.&lt;ref&gt;{{cite web|url=http://www.iso.org/iso/pressrelease.htm?refid=Ref1561 |title=Digital object identifier (DOI) becomes an ISO standard |publisher=iso.org |date=2012-05-10 |accessdate=2012-05-10}}&lt;/ref&gt; The Draft International Standard ISO/DIS 26324, Information and documentation - Digital Object Identifier System met the ISO requirements for approval. The relevant ISO Working Group later submitted an edited version to ISO for distribution as an FDIS (Final Draft International Standard) ballot,&lt;ref&gt;{{cite web|url=http://www.doi.org/about_the_doi.html#TC46 |title=about_the_doi.html DOI Standards and Specifications |publisher=Doi.org |date=2010-06-28 |accessdate=2010-08-07}}&lt;/ref&gt; which was approved by 100% of those voting in a ballot closing on November 15, 2010.&lt;ref&gt;{{cite web|url=http://www.doi.org/about_the_doi.html#TC46 |title=Overviews &amp; Standards - Standards and Specifications: 1. ISO TC46/SC9 Standards |publisher=Doi.org |date=2010-11-18 |accessdate=2011-07-03}}&lt;/ref&gt; The final standard was published on April 23, 2012.&lt;ref&gt;{{cite web|url=http://www.iso.org/iso/catalogue_detail?csnumber=43506 |title=ISO 26324:2012 |publisher=iso.org |date=2012-04-23 |accessdate=2012-05-10}}&lt;/ref&gt;
+
+DOI is a registered URI under the infoURI&lt;ref&gt;{{cite web|url=http://info-uri.info/registry/docs/misc/faq.html |title=About &quot;info&quot; URIs - Frequently Asked Questions |publisher=Info-uri.info |date= |accessdate=2010-08-07}}&lt;/ref&gt; specification (IETF RFC 4452), &quot;The &quot;info&quot; URI Scheme for Information Assets with Identifiers in Public Namespaces&quot;;&lt;ref&gt;{{cite web|url=http://www.ietf.org/rfc/rfc4452.txt |title=The &quot;info&quot; URI Scheme for Information Assets with Identifiers in Public Namespaces |date= |accessdate=2010-08-07}}&lt;/ref&gt; info:doi/ is the infoURI Namespace of Digital Object Identifiers.
+
+The DOI syntax is a NISO standard, first standardised in 2000, ANSI/NISO Z39.84-2005 Syntax for the Digital Object Identifier.&lt;ref&gt;{{cite web|url=http://www.techstreet.com/standards/NISO/Z39_84_2005?product_id=1262088 |title=ANSI/NISO Z39.84-2000 Syntax for the Digital Object Identifier |publisher=Techstreet.com |date= |accessdate=2010-08-07}}&lt;/ref&gt;
+
+==See also==
+* [[Digital identity]]
+* [[Metadata standards]]
+* [[Object identifier]]
+* [[Publisher Item Identifier]] (PII)
+* [[Permalink]]
+* [[Persistent Uniform Resource Locator]]
+* [[Universally Unique Identifier]] (UUID)
+
+==Notes and references==
+{{Reflist|colwidth=30em}}
+
+==External links==
+
+* {{official website|http://doi.org/}}
+* [http://www.doi.org/factsheets/DOIIdentifierSpecs.html Factsheet: DOI System and Internet Identifier Specifications]
+* [http://www.handle.net/ The Handle System]
+* [http://datacite.org/ DOI-Registration agency for data]
+*[http://www.crossref.org/06members/50go-live.html List of active DOI prefixes]
+
+{{Audiovisual works|state=uncollapsed}}
+{{ISO standards}}
+{{Use dmy dates|date=February 2011}}
+
+{{DEFAULTSORT:Digital Object Identifier}}
+[[Category:Academic publishing]]
+[[Category:Article Feedback 5 Additional Articles]]
+[[Category:Electronic documents]]
+[[Category:Identifiers]]
+[[Category:Indexing]]
+
+[[af:Digitale objek-identifiseerder]]
+[[ar:معرف الوثيقة الرقمية]]
+[[az:Rəqəmli obyektin identifikatoru]]
+[[bn:ডিজিটাল অবজেক্ট আইডেন্টিফায়ার]]
+[[zh-min-nan:Digital object identifier]]
+[[be:Лічбавы ідэнтыфікатар аб'екта]]
+[[bg:Идентификатор на дигитален обект]]
+[[bar:Digital Object Identifier]]
+[[bs:Digitalni identifikator objekta]]
+[[ca:DOI]]
+[[cs:Digital object identifier]]
+[[da:Digital object identifier]]
+[[de:Digital Object Identifier]]
+[[el:Digital Object Identifier]]
+[[es:Digital object identifier]]
+[[eu:Digital object identifier]]
+[[fa:نشانگر دیجیتالی شیء]]
+[[fr:Digital Object Identifier]]
+[[gl:Digital object identifier]]
+[[ko:디지털 객체 식별자]]
+[[hi:डिजिटल वस्तु अभिज्ञापक]]
+[[hr:Digitalni identifikator objekta]]
+[[ilo:Digital object identifier]]
+[[id:Pengenal objek digital]]
+[[it:Digital object identifier]]
+[[he:מזהה עצם דיגיטלי]]
+[[jv:Pangidhèntifikasi Obyèk Digital]]
+[[lv:Digitālais objektu identifikators]]
+[[lt:Digital object identifier]]
+[[hu:Digital object identifier]]
+[[mk:Идентификатор на дигитални објекти]]
+[[ms:Pengecam objek digital]]
+[[nl:Digital object identifier]]
+[[ja:デジタルオブジェクト識別子]]
+[[frr:Digital Object Identifier]]
+[[no:Digital object identifier]]
+[[uz:Raqamli obyekt identifikatori]]
+[[pl:DOI (identyfikator cyfrowy)]]
+[[pt:Digital object identifier]]
+[[ro:Digital object identifier]]
+[[ru:Идентификатор цифрового объекта]]
+[[sco:Digital object identifier]]
+[[simple:Digital Object Identifier]]
+[[sk:Digital Object Identifier]]
+[[sl:Identifikator digitalnega objekta]]
+[[sr:Digitalni identifikator objekta]]
+[[fi:DOI]]
+[[sv:Digital object identifier]]
+[[ta:எண்ணிம ஆவணச் சுட்டி]]
+[[th:Digital object identifier]]
+[[tr:Sayısal nesne tanımlayıcısı]]
+[[uk:Цифровий ідентифікатор об'єкта]]
+[[vi:DOI]]
+[[zh:DOI]]</text>
+      <sha1>9a15uxis4ih68wqzjkufy4774wc0ld0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

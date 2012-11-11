@@ -1,0 +1,82 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Turkey Youth Union</title>
+    <ns>0</ns>
+    <id>8976852</id>
+    <revision>
+      <id>520786784</id>
+      <parentid>495156904</parentid>
+      <timestamp>2012-10-31T19:00:46Z</timestamp>
+      <contributor>
+        <ip>78.167.55.144</ip>
+      </contributor>
+      <comment>/* External links */</comment>
+      <text xml:space="preserve" bytes="1923">{{Unreferenced|date=April 2010}}
+{{Infobox Political Youth Organization
+ | name_english   = Turkey Youth Union
+ | name_native    = Türkiye Gençlik Birliği
+ | colorcode      = #EE0000
+ | logo           = 
+ | chairperson    = İlker Yücel
+ | foundation     = {{Start date|2006}}
+ | headquarters   = [[Istanbul]], [[Turkey]]
+ | ideology       = [[Socialism]]&lt;br/&gt;[[Kemalism]]&lt;br/&gt;[[Left-wing nationalism]]&lt;br/&gt;[[Euroscepticism]]&lt;br/&gt;[[Anti-imperialism]]
+ | mother_party   = 
+ | international  = 
+ | website        = [http://www.tgb.gen.tr tgb.gen.tr]
+}}'''Turkey Youth Union''' ({{lang-tr|Türkiye Gençlik Birliği}}, TGB) is a Turkish [[left-wing nationalist]] political youth organization founded on 19 May 2006. It comprises 65 student clubs and societies from over 40 Turkish universities. 
+
+Turkey Youth Union claims it advocates the principles of [[Mustafa Kemal Atatürk]] and [[Kemalist ideology|Kemalism]]. It has organized mass protests against the USA, EU, and the Turkish AK Party, and has been influential in Turkey's 2007 presidential elections as the preeminent representative youth organization of Turkey{{fact|date=May 2012}}. It opposes any future Turkish membership of the European Union and any cooperation with what it calls &quot;American imperialism&quot;.
+
+Turkey Youth Union has opened [[Attila İlhan]] Cultural Centers in several cities to promote its values among young people. It's centers in [[Ankara]], [[Istanbul]], [[Izmir]], [[Eskisehir]] and [[Afyon]] are to be followed by new ones in [[Bursa]], [[Eskisehir]], [[Sivas]], [[Muğla]] and [[Denizli]].
+
+==External links==
+* [http://www.tgb.org.tr Türkiye Gençlik Birliği TGB (Turkey Youth Union)]
+* [http://www.tgb.gen.tr Türkiye Gençlik Birliği TGB (Turkey Youth Union)]
+
+[[Category:Activism]]
+[[Category:Student politics]]
+[[Category:Political organizations]]
+[[Category:Student political organizations]]
+
+[[tr:Türkiye Gençlik Birliği]]</text>
+      <sha1>g0ftq20o317urkyfr66dscd7xwuof2y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

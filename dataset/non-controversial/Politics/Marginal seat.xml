@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Marginal seat</title>
+    <ns>0</ns>
+    <id>722667</id>
+    <revision>
+      <id>492836440</id>
+      <parentid>488568419</parentid>
+      <timestamp>2012-05-16T09:11:35Z</timestamp>
+      <contributor>
+        <ip>220.245.8.150</ip>
+      </contributor>
+      <comment>/* See also */</comment>
+      <text xml:space="preserve" bytes="1802">{{redirect|Swing seat|the piece of playground furniture|Swing (seat)}}
+
+A '''marginal seat''' or '''swing seat''' is a [[constituency]] held with a  small majority in a [[Legislature|legislative]] [[election]], generally one conducted under a [[single-winner voting system]]. In Canada, they may be known as [[Target ridings in the Canadian federal election, 2006|target ridings]]. The opposite is a [[safe seat]].
+
+These seats only require a small [[Swing (politics)|swing]] to change hands and therefore are typically the focus of most [[Political campaign|campaign]] resources. The concentration of money and manpower in areas where they will make the most difference is known as [[Targeting (politics)|targeting]].
+
+== Strategies for securing swing seats ==
+The creation of policy that will benefit a particular seat, at the expense of other [[taxpayer]]s, is known as [[pork barrel]]ing. &lt;ref&gt;[http://www.smh.com.au/articles/2007/11/16/1194766968042.html SMH: Vaile in last-ditch pork barrel]&lt;/ref&gt;
+
+Political parties often face tension between the holders of marginal seats and [[safe seat]]s. Safe seats tend to be allocated far less discretionary resources&amp;mdash;governmental as well as political&amp;mdash;from their political party than do marginal seats.
+
+A similar phenomenon happens in [[United States presidential election]]s, where the [[Electoral College (United States)|Electoral College]] system means that candidates must win states rather than votes. Again, resources are concentrated towards the [[swing state]]s with the smallest majorities.
+
+== See also ==
+* [[Pork barrel]]
+* [[Safe seat]]
+* [[Swing state]]
+* [[Swinging voter]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+
+{{Portal|Politics}}
+
+[[Category:Elections]]
+[[Category:Political science terms]]
+
+{{poli-term-stub}}</text>
+      <sha1>ajrzp6i1mz6hpjhbilny5rxdwb5baxi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

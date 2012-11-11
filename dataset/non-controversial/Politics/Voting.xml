@@ -1,0 +1,183 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Voting</title>
+    <ns>0</ns>
+    <id>99860</id>
+    <revision>
+      <id>522357868</id>
+      <parentid>522357832</parentid>
+      <timestamp>2012-11-10T17:41:10Z</timestamp>
+      <contributor>
+        <ip>82.28.39.235</ip>
+      </contributor>
+      <comment>/* minecrft voting */</comment>
+      <text xml:space="preserve" bytes="12761">{{Redirect|Vote|the [[Finno-Ugric peoples|Finno-Ugric people]]|Votes}}
+{{lead too short|date=October 2011}}
+{{voting images}}
+{{voting}}
+
+'''Voting''' is a method for a group such as a meeting or an [[Constituency|electorate]] to [[decision making|make a decision]] or express an opinion—often following discussions, debates, or [[election campaigns]]. [[Democracy|Democracies]] elect holders of high office by voting.
+== Voting in politics ==
+In a [[democracy]], a government is chosen by voting in an election: a way for an electorate to elect, i.e. choose, among several candidates for rule. In a [[representative democracy]] ''voting'' is the method by which the electorate appoints its representatives in its government. A vote is a formal expression of an individual's choice in voting, for or against some [[motion (parliamentary procedure)|motion]] (for example, a proposed resolution), for a certain candidate, a selection of candidates, or a [[political party]]. A [[secret ballot]] has come to be the practice to prevent voters from being intimidated and to protect their [[political privacy]]. Voting usually takes place at a [[polling station]]; it is voluntary in some countries, [[Compulsory voting|compulsory ]] in others, such as [[Argentina]], [[Australia]], [[Belgium]] and [[Brazil]].
+
+=== Electoral systems ===
+{{Main|Election}}
+{{cleanup|section|date=March 2009}}
+Different [[voting system]]s use different types of votes. A &quot;Plurality voting system&quot; does not require the winner to achieve a vote majority, or more than fifty percent of the total votes cast. In a voting system that uses a single vote per race, when more than two candidates run, the winner may commonly have less than fifty percent of the vote.
+
+A side effect of a single vote per race is [[vote splitting]], which tends to elect candidates that do not support [[centrism]], and tends to produce a [[two-party system]]. An alternative to a single-vote system is [[approval voting]].
+
+To understand why a single vote per race tends to favor less centric candidates, consider a simple lab experiment where students in a class vote for their favorite marble. If five marbles are assigned names and are placed &quot;up for election,&quot; and if three of them are green, one is red, and one is blue, then a green marble will rarely win the election. The reason is that the three green marbles will split the votes of those who prefer green. In fact, in this analogy, the only way that a green marble is likely to win is if more than sixty percent of the voters prefer green. If the same percentage of people prefer green as those who prefer red and blue, that is to say if 33 percent of the voters prefer green, 33 percent prefer blue, and 33 percent prefer red, then each green marble will only get eleven percent of the vote, while the red and blue marbles will each get 33 percent, putting the green marbles at a serious disadvantage. If the experiment is repeated with other colors, the color that is in the majority will still rarely win. In other words, from a purely mathematical perspective, a single-vote system tends to favor a winner that is different than the majority. If the experiment is repeated using [[approval voting]], where voters are encouraged to vote for as many candidates as they approve of, then the winner is much more likely to be any one of the five marbles, because people who prefer green will be able to vote for every one of the green marbles.
+
+&lt;!-- Needs attention ↓ --&gt;
+A development on the 'single vote' system is to have [[Two-round system|two-round]] elections, or repeat first-past-the-post. The winner must receive a majority, more than half.&lt;ref&gt;http://en.wikipedia.org/wiki/Majority_rule&lt;/ref&gt; If subsequent votes must be used, often a candidate, the one with the fewest votes or anyone who wants to move their support to another candidate, is removed from the ballot.
+
+An alternative to the Two-round voting system is the single round [[instant-runoff voting]] system (Also referred to as ''Alternative vote'' or ''[[Ranked voting systems|Preferential voting]]'') as used in Australia, Ireland and some states in the USA. Voters rank each candidate in order of preference (1,2,3 etc.). Votes are distributed to each candidate according to the preferences allocated. If no single candidate has 50% or more votes then the candidate with the least votes is excluded and their votes redistributed according to the voters nominated order of preference. The process repeating itself until a candidate has 50% or more votes. The system is designed to produce the same result as an [[exhaustive ballot]] but using only a single round of voting.
+
+In a voting system that uses a ''multiple vote'', the voter can vote for any subset of the alternatives. So, a voter might vote for Alice, Bob, and Charlie, rejecting Daniel and Emily. [[Approval voting]] uses such multiple votes.
+
+In a voting system that uses a ''ranked vote'', the voter has to rank the alternatives in order of preference. For example, they might vote for Bob in first place, then Emily, then Alice, then Daniel, and finally Charlie. [[Ranked voting systems]], such as those famously used in Australia, use a ranked vote.
+
+In a voting system that uses a ''scored vote'' (or ''range vote''), the voter gives each alternative a number between one and ten (the upper and lower bounds may vary). See [[cardinal voting systems]].
+
+Some &quot;multiple-winner&quot; systems may have a single vote or one vote per elector per available position. In such a case the elector could vote for Bob and Charlie on a ballot with two votes. These types of systems can use ranked or [[Plurality-at-large voting|unranked]] voting, and are often used for [[at-large]] positions such as on some city councils.
+
+=== minecarft voting ===
+{{citation}}
+{{Confusing|date=July 2011}}
+Results may lead at best to confusion, at worst to violence and even [[civil war]], in the case of political rivals. Many alternatives may fall in the latitude of indifference—they are neither accepted nor rejected. Avoiding the choice that the most people strongly reject may sometimes be at least as important as choosing the one that they most favor.
+There are [[social choice theory]] definitions of seemingly reasonable criteria that are a measure of the fairness of certain aspects of voting, including [[non-dictatorship]], [[unrestricted domain]], non-imposition, [[Pareto efficiency]], and [[independence of irrelevant alternatives]] but [[Arrow's impossibility theorem]] states that no voting system can meet all these standards. Yet in 2011, there has been a suggestion for a better and more fair voting system, which was actually suggested to developed countries, e.g. UK, US, etc.
+
+=== Proxy voting ===
+{{Main|Proxy voting}}
+
+=== Anti-voting ===
+{{Main|Anti-voting}}
+In [[South Africa]], there is a strong presence of anti-voting campaigns by poor citizens. They make the structural argument that no political party truly represents them. For instance, this resulted in the &quot;[[No Land! No House! No Vote!]]&quot; Campaign which becomes very prominent each time the country holds elections.&lt;ref&gt;{{cite news|url=http://libcom.org/library/the-no-land-no-house-no-vote-campaign-still-2009|title=The 'No Land, No House, No Vote' campaign still on for 2009|date=5 May 2005|publisher=[[Abahlali baseMjondolo]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://antieviction.org.za/2005/12/12/indymedia-presents-no-land-no-house-no-vote/| title=IndyMedia Presents: No Land! No House! No Vote!| publisher=Anti-Eviction Campaign|date =2005-12-12}}&lt;/ref&gt; The campaign is prominent among three of South Africa's largest social movements: the [[Western Cape Anti-Eviction Campaign]], Abahlali baseMjondolo, and the [[Landless Peoples Movement]]. Other social movements in other parts of the world also have similar campaigns or non-voting preferences. These include the [[Zapatista Army of National Liberation]] and various [[Anarchist]] oriented movements.
+
+In some jurisdictions it is possible to make a [[blank vote]], carrying out the act of voting, which may be compulsory, without selecting any candidate or option, often as an act of protest. While it is always possible in a secret ballot not to express any preference by filling in the voting form incorrectly, formal blank votes are counted, while spoiled papers are simply ignored.
+
+=== Voting and information ===
+Modern political science has questioned whether [[average]] citizens have sufficient political information to cast meaningful votes. A series of studies coming out of the [[University of Michigan]] in the 1950s and 1960s argued that voters lack a basic understanding of current issues, the [[Liberalism|liberal]]–[[Conservatism|conservative]] [[Ideology|ideological]] dimension, and the relative ideological dilemma.&lt;ref&gt;Cambridge: Cambridge University Press. ([http://wikisum.com/w/Lupia_and_McCubbins:_The_Democratic_Dilemma Summary])&lt;/ref&gt; Studies from other institutions have suggested that the physical appearance of candidates is a criterion upon which voters base their decision.&lt;ref&gt;{{cite web|url=http://marketing.wharton.upenn.edu/documents/research/Predicting%20Elections%20from%20politicians%20faces.pdf | title = Predicting Elections from Politicians’ Faces | author = Kesten C. Greene and J. Scott Armstrong and Randall J. Jones, Jr., and Malcolm Wright | year = 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://marketing.wharton.upenn.edu/documents/research/PollyBio58.pdf | title = Predicting Elections from Biographical Information about Candidates | author = Andreas Graefe and J. Scott Armstrong | year = 2010}}&lt;/ref&gt;
+
+=== Religious views ===
+[[Christadelphians]], [[Jehovah's Witnesses]], [[Old Order Amish]], [[Rastafarians]], and some other [[religious group]]s have a policy of not participating in politics through voting.&lt;ref&gt;{{cite web
+|url=http://www.slate.com/id/2194321/
+|title=Why Don't Jehovah's Witnesses Vote? Because they're representatives of God's heavenly kingdom
+|first=Jacob
+|last=Leibenluft
+|publisher=Slate
+|date=2008-06-28}}&lt;/ref&gt;
+
+==Meetings and gatherings==
+Whenever several people who do not all agree need to make some decision, voting is a very common way of reaching a decision peacefully. The right to vote is usually restricted to certain people. Members of a society or club, or shareholders of a company, but not outsiders, may elect its officers, or adopt or change its rules, in a similar way to the election of people to official positions. A panel of judges, either formal judicial authorities or, say, judges of a competition, may make decisions by voting. A group of friends or members of a family may decide which film to see by voting. The method of voting can range from formal submission of written votes, through [[show of hands]] and [[voice voting]], to informal noting which outcome seems to be preferred by more people.
+
+== See also ==
+{{Portal|Human rights}}
+*[[Cosmopolitan democracy]]
+*[[Democratic mundialization]]
+*[[Dollar voting]]
+*[[Electoral fraud]]
+*[[Electoral system]]
+*[[Gerrymandering]]
+*[[Mandate (politics)]]
+*[[Ranked voting systems]]
+*[[Presidential election]]
+*[[Proportional representation]]
+*[[Psephology]]
+*[[Redistricting]]
+*[[Referendum]]
+*[[Suffrage]]
+*[[Voter turnout]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Wiktionary|vote|voting}}
+*[http://americanhistory.si.edu/vote/ A history of voting in the United States] from the [[Smithsonian Institution]].
+*[http://dca.tufts.edu/features/aas A New Nation Votes: American Elections Returns 1787-1825]
+*[http://www.canivote.org/ Can I Vote?]—a nonpartisan US resource for registering to vote and finding your polling place from the [http://www.nass.org/ National Association of Secretaries of State].
+* [http://www.civilization.ca/cmc/exhibitions/hist/elections/el_000_e.shtml The Canadian Museum of Civilization — A History of the Vote in Canada ]
+*{{Cite EB1911|wstitle=Vote}}
+{{Use dmy dates|date=June 2011}}
+
+[[Category:Elections]]
+[[Category:Evaluation]]
+[[Category:Voting|*]]
+
+[[ar:تصويت (سياسة)]]
+[[bn:ভোট]]
+[[ca:Vot]]
+[[cs:Hlasování]]
+[[da:Afstemning]]
+[[de:Abstimmung]]
+[[et:Hääletus]]
+[[el:Ψηφοφορία]]
+[[es:Voto (elecciones)]]
+[[eo:Voĉdonado]]
+[[eu:Boto]]
+[[fr:Vote]]
+[[gl:Voto]]
+[[ko:투표]]
+[[hi:मतदान]]
+[[he:הצבעה]]
+[[kk:Униноминалды дауыс беру]]
+[[ml:വോട്ട്]]
+[[my:မဲဆန္ဒပေးခြင်း]]
+[[nl:Stemming (meningsuiting)]]
+[[ja:投票]]
+[[pl:Głosowanie]]
+[[pt:Votação]]
+[[ru:Голосование]]
+[[scn:Vutazzioni]]
+[[simple:Voting]]
+[[sk:Hlasovanie]]
+[[fi:Äänestys]]
+[[sv:Votering]]
+[[te:ఓటు]]
+[[tr:Oylama]]
+[[uk:Голосування]]
+[[ur:رائے دہندگی]]
+[[vi:Đầu phiếu]]
+[[zh:投票]]</text>
+      <sha1>c1w7mxxcpkikcw5lm1ps1vs026k6khl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

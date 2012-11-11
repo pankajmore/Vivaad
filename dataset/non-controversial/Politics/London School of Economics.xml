@@ -1,0 +1,806 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>London School of Economics</title>
+    <ns>0</ns>
+    <id>67704</id>
+    <revision>
+      <id>521943790</id>
+      <parentid>521142100</parentid>
+      <timestamp>2012-11-08T04:11:06Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Removing category Economics of innovation organizations per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2012 November 1]].</comment>
+      <text xml:space="preserve" bytes="94089">{{Use British English|date=May 2011}}
+{{Use dmy dates|date=October 2012}}
+{{Infobox university
+|name            = London School of Economics and Political Science
+|image_name      = London School of Economics crest.png
+|image_size      = 130px
+|motto           = {{lang-la|Rerum cognoscere causas}}
+|mottoeng        = &quot;To Understand the Causes of Things&quot;
+|established     = 1895
+|type            = [[Public university|Public]]
+|endowment       = £81.72m&lt;ref name=&quot;LSE Financial Statement 09/10&quot;&gt;{{cite web | url = http://www.lse.ac.uk/collections/financeDivision/pdf/2010Annual%20Accounts.pdf | title = Financial Statements for the Year to 31 July 2010 | accessdate =8 December 2010 | format = PDF | publisher = London School of Economics| page = 21}}&lt;/ref&gt;
+|chancellor      = [[HRH]] [[Anne, Princess Royal|The Princess Royal]] ([[University of London]])
+|director        = Professor [[Craig Calhoun]]
+|head_label      = Visitor
+|head            = &lt;small&gt;The Rt Hon&lt;/small&gt; [[Nick Clegg]]&lt;br /&gt;&lt;small&gt;As [[Lord President of the Council]]&lt;/small&gt; ''[[ex officio]]''
+|faculty         = 1,303
+|students        = 8,810&lt;ref name=&quot;HESA&quot;&gt;{{cite web|url=http://www.hesa.ac.uk/holisdocs/pubinfo/student/institution0506.htm |title=Table 0a – All students by institution, mode of study, level of study, gender and domicile 2005/06 |work=[[Higher Education Statistics Agency]] online statistics |accessdate=31 March 2007 |archiveurl = http://web.archive.org/web/20070515172721/http://www.hesa.ac.uk/holisdocs/pubinfo/student/institution0506.htm |archivedate = 15 May 2007}}&lt;/ref&gt;
+|undergrad       = 3,860&lt;ref name=&quot;HESA&quot; /&gt;
+|postgrad        = 4,950&lt;ref name=&quot;HESA&quot; /&gt;
+|city            = London
+|country         = United Kingdom
+|campus          = Urban
+|coor            = {{Coord|51|30|50.40|N|0|07|0.12|W|display=title|type:edu}}
+|colours         = Purple, black and gold&lt;ref&gt;From LSE Shop Directory- school colours [http://www.shop.edirectory.co.uk/lseshop/919/default/d/ties+scarves/mt/c/rid/13089]:&lt;/ref&gt;{{scarf|start}}
+{{cell2|#800080}}{{cell|#000000}}{{cell|#FFD700}}{{cell|#000000}}{{cell2|#800080}}{{cell|#000000}}{{cell|#FFD700}}{{cell|#000000}}{{cell2|#800080}}{{scarf|end}}
+|free_label = Newspaper
+|free = ''[[The Beaver]]''
+|mascot          = [[Beaver]]
+|affiliations    = [[Association of Commonwealth Universities|ACU]]&lt;br/&gt; [[The Association of Professional Schools of International Affairs|APSIA]]&lt;br/&gt; [[Community of European Management Schools and International Companies|CEMS]]&lt;br/&gt; [[European University Association|EUA]]&lt;br/&gt; [[G5 (education)|G5]]&lt;br/&gt; [[Russell Group]]&lt;br/&gt; [[University of London]]&lt;br/&gt; [[Universities UK]]
+|website         = [http://www.lse.ac.uk/ lse.ac.uk]
+|logo            = [[File:LSE-LogoWithName.png|200px]]
+}}
+
+&lt;!-- Please do not make large changes to the lead without discussing them first on the article's talk page.--&gt;
+&lt;!--Paragraph 1/4: Introduction and history:--&gt;
+The '''London School of Economics and Political Science''' (informally the '''London School of Economics''' or '''LSE''') is a [[public university|public]] [[research university]] specialised in the [[social sciences]] located in [[London]], [[United Kingdom]], and a [[constituent college]] of the federal [[University of London]]. Founded in 1895 by [[Fabian Society]] members [[Sidney Webb]], [[Beatrice Webb]] and [[George Bernard Shaw]],  LSE joined the University of London in 1900 and degrees were first issued to its students in 1902.&lt;ref&gt;{{cite web|url=http://www.lse.ac.uk/informationAbout/aboutLSE/Default.htm |title=About LSE – LSE Website |accessdate=13 January 2008}}&lt;/ref&gt; Despite its name, it conducts teaching and research across the entire range of the social sciences, besides economics, as well as in mathematics and statistics.&lt;ref&gt;{{cite web| url=http://www2.lse.ac.uk/intranet/directoriesAndMaps/academicDepartments.aspx#subjectsTaughtAtLSE|title=Subjects taught at LSE|accessdate=14 December 2011|publisher=London School of Economics}}&lt;/ref&gt;
+
+&lt;!--Paragraph 2/4: Core profile:--&gt;
+The LSE is located in [[City of Westminster|Westminster]], [[central London]], near the boundary between [[Covent Garden]] and [[Holborn]] in an area historically known as [[Clare Market]]. It has around 9,000 full-time students&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/aboutLSE/keyFacts/home.aspx |title=About LSE - Key facts |publisher=lse.ac.uk |accessdate=21 August 2012}}&lt;/ref&gt; and 1,300 academic staff&lt;ref&gt;{{cite web|url=http://www.jobs.ac.uk/enhanced/employer/london-school-of-economics-and-political-science/ |title=About LSE- Students and staff |publisher=Jobs.ac.uk |accessdate=26 April 2010}}&lt;/ref&gt; and had a total income of £220.9&amp;nbsp;million in 2009/10, of which £23.9&amp;nbsp;million was from research grants and contracts.&lt;ref name=fincdata&gt;{{cite news|url=http://www.timeshighereducation.co.uk/Journals/THE/THE/7_April_2011/attachments/Financial%20data%20for%20UK%20higher%20education%20institutions.pdf|title=Wealth and Health: Financial data for UK higher education institutions, 2009–10|accessdate=13 May 2011|publisher=Times Higher Education| date=7 April 2011}}&lt;/ref&gt; LSE is organised into 23 academic departments and 16 research centres.&lt;ref&gt;{{cite web| url=http://www2.lse.ac.uk/intranet/directoriesAndMaps/academicDepartments.aspx#otherMajorTeachingUnits|title=Academic departments|accessdate=21 August 2012|publisher=London School of Economics}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url=http://www2.lse.ac.uk/intranet/directoriesAndMaps/researchCentres.aspx|title=Research centres|accessdate=21 August 2012|publisher=London School of Economics}}&lt;/ref&gt; LSE's library, the [[British Library of Political and Economic Science]], contains over 4.7&amp;nbsp;million volumes and is the world's largest social and political sciences library. LSE was found to have the highest percentage of world-leading research of any British university in the 2008 Research Assessment Exercise.&lt;ref&gt;{{cite web|url=http://www.rae.ac.uk/results/outstore/RAEOutcomeFull.pdf |title=2008 Research Assessment Exercise|format=PDF |accessdate=26 April 2010}}&lt;/ref&gt;
+
+&lt;!--Paragraph 3/4: People:--&gt;
+The LSE is among the world's most selective universities and in a number of recent years has had the lowest undergraduate admissions rate of any British university.&lt;ref name=&quot;ReferenceC&quot;&gt;{{cite web|url=http://www2.lse.ac.uk/undergraduateProspectus2010/courses/Economics/L140.aspx |title=Undergraduate – Undergraduate – Study – Home |publisher=.lse.ac.uk |accessdate=26 April 2010}}&lt;/ref&gt;&lt;ref name=&quot;autogenerated3&quot;&gt;{{cite web|url=http://www2.lse.ac.uk/undergraduateProspectus2010/courses/International_Relations/L250.aspx |title=Undergraduate – Undergraduate – Study – Home |publisher=.lse.ac.uk |accessdate=26 April 2010}}&lt;/ref&gt; It has a highly international student body,&lt;ref name=london_156&gt;{{cite news |url=http://www.timesonline.co.uk/tol/life_and_style/education/sunday_times_university_guide/article2496158.ece |title=The Sunday Times Good University Guide 2007 – Profile for London School of Economics|work=The Times |location=UK|accessdate=6 June 2008 | date=23 September 2007 |first=Patrick |last=Kidd}}&lt;/ref&gt; and at one time had more countries represented by students than the UN has members.&lt;ref name=&quot;ReferenceA&quot;&gt;{{cite web|url=http://www.lse.ac.uk/informationAbout/aboutLSE/introductionToTheSchool.htm |title=About LSE – About LSE – Home |publisher=Lse.ac.uk |date=30 November 2009 |accessdate=26 April 2010}}&lt;/ref&gt; LSE has produced many [[List of London School of Economics people|notable alumni]] in the fields of law, economics, business, literature and politics. To date, there have been 18 [[List of London School of Economics people#Nobel laureates|Nobel Prize winners]] amongst its alumni and current and former staff,&lt;ref name=&quot;Nobel Prize Winners&quot;&gt;{{cite web|url=http://www2.lse.ac.uk/intranet/LSEServices/divisionsAndDepartments/ERD/pressAndInformationOffice/LSEFacts/nobelPrizeWinners/Home.aspx|title=Nobel Prize Winners, LSE|publisher=London School of Economics|accessdate=2 January 2011}}&lt;/ref&gt; as well as 34 world leaders and numerous [[Pulitzer Prize]] winners and fellows of the [[British Academy]].&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/intranet/LSEServices/divisionsAndDepartments/ERD/pressAndInformationOffice/LSEFacts/worldLeaders.aspx |title=World leaders- LSE facts |publisher=.lse.ac.uk |date=6 October 2009 |accessdate=26 April 2010}}&lt;/ref&gt;
+
+&lt;!--Paragraph 4/4: Memberships and affiliations:--&gt;
+The LSE is a member of the [[AssocCiation of Commonwealth Universities]], the [[The Association of Professional Schools of International Affairs|Association of Professional Schools of International Affairs]],&lt;ref&gt;{{cite web|url=http://www.apsia.org/apsia/members/members.php |title=Association of Professional Schools of International Affairs |accessdate=13 January 2008}}&lt;/ref&gt; the [[European University Association]],&lt;ref&gt;{{cite web|url=http://www.eua.be/ |title=The European University Association Home Page|accessdate=13 April 2009}}&lt;/ref&gt; the [[G5 (education)|G5]], the [[Global Alliance in Management Education]], the [[Russell Group]] and [[Universities UK]].&lt;ref&gt;{{cite web|url=http://www.universitiesuk.ac.uk/members/ |title=Universities UK Home Page |accessdate=13 January 2008}}&lt;/ref&gt; It forms part of the [[Golden Triangle (UK universities)|'Golden Triangle']] of British universities.&lt;ref&gt;{{Cite news | publisher=Times Higher Education| title ='Golden triangle' to win funding riches | accessdate =20 October 2010| url =http://www.timeshighereducation.co.uk/story.asp?storycode=410357| date =11 February 2010}}&lt;/ref&gt;
+{{TOC limit|limit=3}}
+
+== History ==
+{{Main|History of the London School of Economics}}
+
+=== Origins ===
+The London School of Economics was founded in 1895&lt;ref name=&quot;LSEHistoryAbout&quot;&gt;{{cite web|title = LSE history|url = http://www.lse.ac.uk/informationAbout/LSEHistory/Default.htm|publisher=London School of Economics|accessdate =23 July 2009}}&lt;/ref&gt; by Adam Moussa, [[Beatrice Webb|Beatrice]] and [[Sidney Webb, 1st Baron Passfield|Sidney Webb]],&lt;ref name=&quot;LSEHistoryWebbs&quot;&gt;{{cite web|title = Beatrice and Sidney Webb|url = http://www.lse.ac.uk/resources/LSEHistory/webbs.htm|publisher=London School of Economics|year = 2000|accessdate =23 July 2009}}&lt;/ref&gt; initially funded by a bequest of £20,000&lt;ref name=&quot;SpartacusLSE&quot;&gt;{{cite web|title = London School of Economics|url =http://www.lse.ac.uk/informationAbout/LSEHistory/}}&lt;/ref&gt;&lt;ref name=&quot;Statisticians&quot;&gt;{{Cite book|author=C. C. Heyde|coauthors = Eugene Seneta|title = Statisticians of the Centuries|url = http://books.google.co.uk/books?id=uS3dq_grwr0C&amp;pg=PA279&amp;lpg=PA279&amp;dq=Hutchinson+bequest+LSE&amp;source=bl&amp;ots=EMhs53HTsd&amp;sig=XmYDecx1ZF8YosvXZwFjizqkb9o&amp;hl=en&amp;ei=KC5qSvnMEeHTjAeXpeWiCw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=8|work=Statisticians of the Centuries|publisher=Springer|year = 2001|page = 279|accessdate =23 July 2009}}&lt;/ref&gt; from the [[estate (law)|estate]] of Henry Hunt Hutchinson. Hutchinson, a lawyer&lt;ref name=&quot;SpartacusLSE&quot; /&gt; and member of the [[Fabian Society]],&lt;ref name=&quot;SmithLSEandEducation&quot;&gt;{{cite web|author=Mark K. Smith|title = The London School of Economics and informal education|url = http://www.infed.org/walking/wa-lse.htm|date = 30 August 2000|accessdate =23 July 2009}}&lt;/ref&gt;&lt;ref name=&quot;LSEPassfieldArchives&quot;&gt;{{cite web|title = London School of Economics and Political Science Archives catalogue|url = http://archives.lse.ac.uk/dserve.exe?dsqServer=lib-4.lse.ac.uk&amp;dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqCmd=show.tcl&amp;dsqDb=Catalog&amp;dsqPos=0&amp;dsqSearch=(RefNo=%27passfield%27)|publisher=London School of Economics|year = 2008|accessdate =23 July 2009}}&lt;/ref&gt; left the money in trust, to be put &quot;towards advancing its [The Fabian Society's] objects in any way they [the [[trustee]]s] deem advisable&quot;.&lt;ref name=&quot;LSEPassfieldArchives&quot; /&gt; The five trustees were Sidney Webb, [[Edward R. Pease|Edward Pease]], Constance Hutchinson, William de Mattos and William Clark.&lt;ref name=&quot;SpartacusLSE&quot;/&gt;
+
+The LSE records that the proposal to establish the school was conceived during a breakfast meeting on 4 August 1894, between the Webbs, [[Graham Wallas]] and [[George Bernard Shaw]].&lt;ref name=&quot;LSEHistoryAbout&quot; /&gt; The proposal was accepted by the trustees in February 1895&lt;ref name=&quot;LSEPassfieldArchives&quot; /&gt; and LSE held its first classes in October of that year, in rooms at 9 John Street, [[Adelphi, London|Adelphi]],&lt;ref name=&quot;LSEHistory1895&quot;&gt;{{cite web|title = LSE 1895|url = http://www.lse.ac.uk/resources/LSEHistory/lse.htm|publisher=London School of Economics|year = 2000|accessdate =23 July 2009}}&lt;/ref&gt; in the [[City of Westminster]].
+
+=== 20th century ===
+The school joined the federal [[University of London]] in 1900, becoming the university's Faculty of Economics and awarding degrees of the University from 1902.&lt;ref name=&quot;LSEHistory1895&quot; /&gt; Expanding rapidly over the following years, the school moved initially to the nearby 10 Adelphi Terrace, then to Clare Market and Houghton Street. The foundation stone of the Old Building, on Houghton Street, was laid by [[George V of the United Kingdom|King George V]] in 1920;&lt;ref name=&quot;LSEHistoryAbout&quot; /&gt; the building was opened in 1922.
+
+[[File:Friedrich Hayek portrait.jpg|thumb|right|[[Friedrich Hayek]], who taught at LSE during the 1930 and 1940s]]
+The 1930s economic debate between LSE and Cambridge is well known in academic circles. Rivalry between academic opinion at LSE and Cambridge goes back to the School's roots when LSE's [[Edwin Cannan]] (1861–1935), Professor of Economics, and Cambridge's Professor of Political Economy, [[Alfred Marshall]] (1842–1924), the leading economist of the day, argued about the bedrock matter of economics and whether the subject should be considered as an organic whole. (Marshall disapproved of LSE's separate listing of pure theory and its insistence on economic history.)
+
+The dispute also concerned the question of the economist's role, and whether this should be as a detached expert or a practical adviser. LSE and Cambridge economists worked jointly in the 1920s—for example, the London and Cambridge Economic Service—but the 1930s brought a return to the dispute as LSE and Cambridge argued over the solution to the economic depression.
+
+The LSE's [[Lionel Robbins|Robbins]] and [[Friedrich Hayek|Hayek]], and Cambridge's [[John Maynard Keynes|Keynes]] were chief figures in the intellectual disagreement between the institutions. The controversy widened from deflation versus demand management as a solution to the economic problems of the day, to broader conceptions of economics and macroeconomics. Robbins and Hayek's views were based on the [[Austrian School]] of Economics with its emphasis on free trade and anti-interventionism, while Keynes advanced a brand of economic theory now known as [[Keynesian economics|Keynesianism]] which advocates active policy responses by the public sector.
+
+During World War II, the School decamped from London to University of Cambridge, occupying buildings belonging to [[Peterhouse, Cambridge|Peterhouse]].&lt;ref&gt;{{cite web|url=http://www.pet.cam.ac.uk/images/display.html?image=album/hostel/hostel_03.jpg|title=Peterhouse Images|publisher=Peterhouse, Cambridge|accessdate=23 July 2009 |archiveurl = http://web.archive.org/web/20080529001601/http://www.pet.cam.ac.uk/images/display.html?image=album/hostel/hostel_03.jpg |archivedate = 29 May 2008}}&lt;/ref&gt;
+
+The school's arms,&lt;ref name=&quot;PlantArms&quot;&gt;{{cite web|first = Arnold|last = Plant|authorlink = Arnold Plant|title = File:&quot;Coat of arms of the London School of Economics and Political Science&quot;|url = http://beginnings.ioe.ac.uk/1-6%20original.jpg|publisher=Institute of Education|accessdate =23 July 2009}}&lt;/ref&gt; including its motto and [[beaver]] mascot, were adopted in February 1922,&lt;ref name=&quot;IOEBeginnings&quot;&gt;{{cite web|title = London School of Economics|url = http://beginnings.ioe.ac.uk/begslse.html|work=Beginnings: The History of Higher Education in Bloomsbury and Westminster|publisher=Institute of Education|accessdate =23 July 2009}}&lt;/ref&gt; on the recommendation of a committee of twelve, including eight students, which was established to research the matter.&lt;ref name=&quot;LSEBeaverClub&quot;&gt;{{cite web|title = London School of Economics Online Community – Member Services|url = http://www.alumni.lse.ac.uk/olc/pub/LHE/filemanager/annualfund/giftclubs/beaversclub/default.htm|publisher=London School of Economics|accessdate =23 July 2009}}&lt;/ref&gt;  The [[latin]] motto, ''&quot;Rerum cognoscere causas&quot;'', is taken from [[Virgil]]'s [[Georgics]]. Its English translation is &quot;to Know the Causes of Things&quot;&lt;ref name=&quot;IOEBeginnings&quot; /&gt; and it was suggested by Professor [[Edwin Cannan]].&lt;ref name=&quot;LSEHistoryAbout&quot; /&gt;  The beaver mascot was selected for its associations with &quot;foresight, constructiveness and industrious behaviour&quot;.&lt;ref name=&quot;LSEBeaverClub&quot; /&gt;
+
+=== 21st century ===
+[[File:lse initials.jpg|thumb|right|Stonework featuring the initials of LSE]]
+[[File:The Land Registry Offices, Lincoln Inn Fields.jpg|thumb|32 [[Lincoln's Inn Fields]] houses the Department of Economics]]
+[[File:NABuilding.JPG|thumb|right|The New Academic Building houses the Department of Law]]
+
+The LSE continues to have an effect within British society, through its relationships and influence in politics, business and law.  ''[[The Guardian]]'' describes such influence when it stated:
+::&lt;blockquote&gt;&quot;''Once again the political clout of the school, which seems to be closely wired into parliament, Whitehall and the Bank of England, is being felt by ministers... The strength of LSE is that it is close to the political process: [[Mervyn King (economist)|Mervyn King]], was a former LSE professor. The chairman of the [[British House of Commons|House of Commons]] education committee, [[Barry Sheerman]], sits on its board of governors, along with Labour peer [[Frank Judd|Lord (Frank) Judd]]. Also on the board are [[Conservative Party (UK)|Tory]] MPs [[Virginia Bottomley]] and [[Richard Shepherd]], as well as [[Lord Saatchi]] and [[Elspeth Howe|Lady Howe]]'.&quot;&lt;ref name=&quot;autogenerated1&quot;&gt;{{cite news |url=http://education.guardian.co.uk/higher/columnist/story/0,,1515788,00.html |title=''&quot;A Time Honoured Tradition&quot;'' at ''The Guardian'' Online | location=London | date=27 June 2005 | accessdate=4 April 2010}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+Recently, the school has been active in British government proposals to introduce compulsory ID cards,&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/uk_politics/4619218.stm |title=BBC News – Politics ''&quot;Ministers press on with ID cards&quot;'' | date=17 January 2006 | accessdate=6 January 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://image.guardian.co.uk/sys-files/Politics/documents/2005/06/27/identityreport.pdf |title=''&quot;LSE ID Card Report&quot;''|format=PDF |work=The Guardian |location=London  | accessdate=4 April 2010}}&lt;/ref&gt; researching into the associated costs of the scheme, and shifting public and government opinion on the issue.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/uk_politics/4711178.stm |title=BBC News – Politics ''&quot;Government staves off ID rebels&quot;'' | date=14 February 2006 | accessdate=6 January 2010}}&lt;/ref&gt; The institution is also popular with politicians and [[Members of Parliament|MPs]] to launch new policy, legislation and manifesto pledges, prominently with the launch of the [[Liberal Democrats]] Manifesto Conference under [[Nick Clegg]] on 12 January 2008.&lt;ref&gt;{{cite web|url=http://www.spectator.co.uk/coffeehouse/444366/clegg-steps-up.thtml |title= ''Coffee House – The Spectator Blog &quot;Clegg Cleans Up&quot;'' at [[The Spectator]] Online}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.libdems.org.uk/parliament/feature.html?navPage=features.html&amp;id=13708 |title=''&quot;Clegg calls for radical grassroots innovation in public services&quot;'' at the Liberal Democrat website}}&lt;/ref&gt;
+
+''[[The Sunday Times]]''' recent profile of LSE for the ''2008 Sunday Times University Guide'' commented:
+::&lt;blockquote&gt;&quot;''There are many who have achieved in the world of politics, business or academia who can trace their success to the years they spent at LSE. Inspired by tuition from academics who are often familiar faces, if not household names, LSE students take their first steps to greatness in the debating chambers, cafes, bars – and even occasionally in their seminar groups – during three or four years of studying'.&quot;&lt;ref&gt;{{cite news |url=http://www.timesonline.co.uk/tol/life_and_style/education/sunday_times_university_guide/article2496158.ece |title=2008 Sunday Times University Guide – LSE Profile |work=The Times |location=London  | date=23 September 2007 | accessdate=4 April 2010 |first=Patrick |last=Kidd}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+LSE is heavily targeted by employers and graduates are in great demand despite the current economic climate. The vast majority of LSE students are engaged in employment or further study within 6 months of graduating and the School is listed first for employability in the 2012 Sunday Times Good University Guide.&lt;ref&gt;{{cite news|url= http://www.timesplus.co.uk/sto/?login=false&amp;url=http%3A%2F%2Fwww.thesundaytimes.co.uk%2Fsto%2FUniversity_Guide%2F |title=2012 Sunday Times University Guide accessdate=7 September 2012}}&lt;/ref&gt; The most common sectors for LSE graduates to work in within 6 months of graduating are banking, finance and accountancy; development, NGOs and international organisations; Consultancy; Education; and central and local government.&lt;ref&gt;{{cite news|url= http://www2.lse.ac.uk/intranet/CareersAndVacancies/graduateDestinations/6monthson.aspx |title=Graduate Destinations accessdate=7 September 2012}}&lt;/ref&gt; In addition, the average starting salary of graduates who have completed undergraduate degrees with LSE is significantly higher than the overall national average salary of £26,200, at over £30,000.
+
+Over the years the School has continued to expand around Houghton Street. A recent fund-raising scheme, called the &quot;Campaign for LSE&quot; raised over £100&amp;nbsp;million in one of the largest university fund-raising exercises ever seen in Britain. In 2003, LSE purchased the former Public Trustee building at 24 [[Kingsway (London)|Kingsway]]. This has been redeveloped by [[Nicholas Grimshaw|Sir Nicholas Grimshaw]] into an ultra-modern educational building, known as the &quot;New Academic Building&quot; at a total cost of over £45&amp;nbsp;million, and has increased the campus space by {{convert|120000|sqft|m2}}. The building opened for teaching in October 2008, with an official opening by [[Elizabeth II of the United Kingdom|Her Majesty the Queen]] and the [[Prince Philip, Duke of Edinburgh|Duke of Edinburgh]] on 5 November 2008.&lt;ref name=&quot;New Academic Building&quot;&gt;{{cite web| url=http://www2.lse.ac.uk/intranet/LSEServices/estatesDivision/lseEstate/campusBuildings/newAcademicBuilding/Home.aspx|title=New Academic Building|accessdate=24 August 2012|publisher=London School of Economics}}&lt;/ref&gt;
+
+The School has an ongoing capital investment project and has recently purchased a number of sites to add to its portfolio. In November 2009, LSE purchased the freehold of both Sardinia House, overlooking Lincoln's Inn Fields, and the Ye Old White Horse public house. In October 2010 it was announced the university had been successful in acquiring the freehold of the grade-II listed [[HM Land Registry|Land Registry Building]] adjacent to [[Lincoln's Inn]]. It is currently also embarking on a £30&amp;nbsp;million project to build a new students' centre, housing the Students' Union, careers service, accommodation office, events spaces, cafes, bars and a club. The building will be located on the St Philips site, which was demolished in Summer 2010.&lt;ref&gt;{{cite web| url=http://www2.lse.ac.uk/intranet/students/campusLondonLife/newStudentsCentre/Home.aspx|title=New Students' Centre|accessdate=24 August 2012|publisher=London School of Economics}}&lt;/ref&gt; In November 2011, the New Students' Centre was recognised a low environmental impact building, receiving 'Outstanding' status under BREEAM, and in 2012 was one of three winners of the New London Award (NLA) in the Education category.&lt;ref&gt;{{cite web| url=http://www2.lse.ac.uk/intranet/students/campusLondonLife/newStudentsCentre/environmentAndSustainability/environmentAndSustainability.aspx|title=New Students' Centre awarded 'Outstanding' BREEAM rating|accessdate=24 August 2012|publisher=London School of Economics}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url=http://www.newlondonarchitecture.org/news.php|title=New London Awards 2012 Winners revealed - 11/7/2012
+|accessdate=24 August 2012|publisher=NLA}}&lt;/ref&gt; A new £25&amp;nbsp;million student residence is also expected to be built in Southwark by 2012.
+
+Professor [[Craig Calhoun]] took up the post of Director in September 2012. Its previous Director, Professor Judith Rees, is also chair of the school's Grantham Institute on Climate Change, an adviser to the World Bank as well as sitting on the UN Secretary General's Advisory Board on Water and Sanitation and the International Scientific Advisory Council (ISAC).&lt;ref&gt;{{cite news| url=http://www2.lse.ac.uk/researchAndExpertise/Experts/j.rees@lse.ac.uk | title=Judith Rees – Research Experts | date=2 May 2011 | accessdate=2 May 2011}}&lt;/ref&gt;  She is also a former Convenor of the Department of Geography and Environment, and served as Deputy Director from 1998–2004. Her predecessor, [[Howard Davies (economist)|Sir Howard Davies]] stepped down after controversy regarding the School's links to the Libyan regime. In February 2011, LSE had to deal with controversy regarding the authorship of the PhD thesis of one of [[Muammar Gaddafi]]'s sons, [[Saif al-Islam Gaddafi]], and also a £1.5m donation to university.&lt;ref&gt;{{cite news | title = LSE embroiled in row over authorship of Gaddafi's son's PhD thesis and a £1.5m gift to university's coffers | url = http://www.independent.co.uk/news/education/education-news/lse-embroiled-in-row-over-authorship-of-gaddafis-sons-phd-thesis-and-a-15m-gift-to-universitys-coffers-2226894.html |location=London |work=The Independent  | first=Jonathan | last=Owen | date=27 February 2011}}&lt;/ref&gt; In March 2011, Howard Davies resigned over allegations about the institution's [[LSE Libya Links|links to the Libyan regime]].&lt;ref name=Davies&gt;{{cite news | url = http://www.guardian.co.uk/education/2011/mar/03/lse-director-resigns-gaddafi-scandal | title = LSE head quits over Gaddafi scandal|work=The Guardian |location=UK  | first1=Jeevan | last1=Vasagar | first2=Rajeev | last2=Syal | date=4 March 2011}}&lt;/ref&gt; The LSE announced in a statement that it had accepted his resignation with &quot;great regret&quot; and that it had set up an external inquiry into the school's relationship with the Libyan regime and Saif al-Islam Gaddafi, to be conducted by the former lord chief justice [[Harry Woolf, Baron Woolf|Harry Woolf]].&lt;ref name=Davies/&gt;
+
+== Campus ==
+[[File:OldCuriosityShop.JPG|thumb|[[The Old Curiosity Shop]], which is located at the heart of the LSE campus]]
+[[File:Lse george iv.jpg|thumb|upright|The George IV, a pub owned by LSE]]
+LSE moved to its present day central London campus at [[Clare Market]] and Houghton Street in [[City of Westminster|Westminster]], off the [[Aldwych]] and next to the [[Royal Courts of Justice]] and [[Temple Bar, London|Temple Bar]] in 1902. In 1920, King George V laid the foundation stone of the Old Building, the principal building of LSE. The School has gradually increased its ownership of adjacent buildings, creating an almost continuous campus between Kingsway and the Royal Courts of Justice. Today, the campus consists of approximately thirty buildings, connections between which have been established on an ad-hoc basis, with often confusing results. The floor levels of buildings do not always equate, leading to an individual being on a different &quot;floor&quot; after passing through a hallway. The campus also has a series of extension bridges between buildings created high on the upper floors to connect several buildings. The school is also noted by its numerous statues, either animals or surrealist, often donated by alumni.
+
+The LSE's campus went through a renewal under former Director [[Anthony Giddens]] (1996–2003), with the redevelopment of Connaught and Clement Houses on the Aldwych, and the purchase of buildings including the George IV public house, which had been nestled amongst the campus for decades, but is now owned by LSE. Recent projects have included the £35&amp;nbsp;million renovation of the Lionel Robbins Building, which houses the British Library of Political and Economic Science, LSE's Library and a brand new Student Services Centre in the Old Building as well as LSE Garrick on the junction of Houghton Street and Aldwych. In 2009, the School purchased Sardinia House on Lincoln's Inn Fields and the ''Ye Olde White Horse'' public house, adjacent to Parish Hall, as new additions to the estate. Since 2010, LSE has also leased premises behind the Library in New Court. There is both a medical centre and a dentist on campus.&lt;ref&gt;{{cite web| url=http://www2.lse.ac.uk/intranet/LSEServices/medicalCentre/Home.aspx|title=St Philips Medical Centre|accessdate=24 August 2012|publisher=London School of Economics}}&lt;/ref&gt;
+
+The New Academic Building (the former Public Trust Building on Kingsway), is one of the most environmentally friendly university buildings in the UK. With an entrance overlooking Lincoln's Fields, the new building has dramatically increased the size of the campus, incorporating four new lecture theatres, the Departments of Management and Law, computer and study facilities.&lt;ref name=&quot;New Academic Building&quot;/&gt;
+
+The [[British Library of Political and Economic Science]] (BLPES) is the current operating Library of LSE. It is the home of the world's largest social and political sciences Library, containing over 4.7&amp;nbsp;million volumes on its shelves. This also makes it the second largest single entity library in Britain, after the British Library at King's Cross.&lt;ref&gt;{{cite web|url=http://www.lse.ac.uk/library/guides/VisitorsLibraryGuide.pdf |title=LSE.ac.uk |publisher=LSE.ac.uk |date=12 May 2010 |accessdate=23 October 2011}}&lt;/ref&gt; There is also the smaller Shaw Library, on the top floor of the Old Building, which hosts the [[Fabian Window]] and as well as concerts and events. Other buildings of note include the [[Peacock Theatre]], the School's main lecture theatre, seating 999 persons, which by night serves as the West End base of [[Sadler's Wells]]. The venue is a member of the Society of London Theatre, and has hosted many dance, musical and dramatic productions, as well as serving as the base for many of LSE' public lectures and discussions.
+
+=== Location and transport ===
+The LSE is situated in the [[City of Westminster]] between [[Covent Garden]], Aldwych and Temple Bar, bordering the [[City of London]]. It resides adjacent to the [[Royal Courts of Justice]], [[Lincoln's Inn]] and [[Kingsway (London)|Kingsway]], in what used to be [[Clare Market]]. The School lies within the [[London Congestion Charging zone]].
+
+The nearest [[London Underground]] stations are [[Holborn tube station|Holborn]], [[Temple tube station|Temple]] and [[Covent Garden tube station|Covent Garden]]. [[Charing Cross tube station|Charing Cross]], at the Trafalgar Square end of Strand, and the [[City Thameslink railway station|City Thameslink]] entrance at Ludgate Hill are the nearest mainline stations, whilst [[London Waterloo]] is a walk or bus across the River Thames. Buses to Aldwych, Kingsway and the Royal Courts of Justice will all stop a short distance from the School.
+
+==Organisation and administration==
+===Governance===
+[[File:LSE main entrance.jpg|thumb|right|The main LSE entrance]]
+The LSE is incorporated under the Companies Act as a company limited by guarantee and is an exempt charity within the meaning of Schedule Two of the Charities Act 1993.&lt;ref name=annrep&gt;{{cite web|url=http://www2.lse.ac.uk/intranet/LSEServices/financeDivision/pdf/2011AnnualAccounts.pdf|title=Annual Accounts for the year ended 31 July 2011|publisher=London School of Economics|accessdate=12 August 2012}}&lt;/ref&gt; The principal governance bodies of the LSE are: the LSE Council; the Court of Governors; the Academic Board; and the Director and Director’s Management Team.&lt;ref name=annrep/&gt;
+
+The LSE Council is responsible for strategy and its members are company directors of the School. It has specific responsibilities in relation to areas including: the monitoring of institutional performance; finance and financial sustainability; audit arrangements; estate strategy; human resource and employment policy; health and safety; &quot;educational character and mission&quot;, and student experience. The Council is supported in carrying out its role by a number of committees which report directly to it.&lt;ref name=annrep/&gt;
+
+The Court of Governors deals with certain constitutional matters and has pre-decision discussions on key policy issues and the involvement of individual governors in the School's activities. The Court has the following formal powers: the appointment of members of Court, its subcommittees and of the Council; election of the Chair and Vice Chairs of the Court and Council and honorary fellows of the School; the amendment of the Memorandum and Articles of Association; and the appointment of external auditors.&lt;ref name=annrep/&gt;
+
+The Academic Board is the LSE's principal academic body, and considers all major issues of general policy affecting the academic life of the School and its development. It is chaired by the Director, with staff and student membership, and is supported by its own structure of committees. The Vice Chair of the Academic Board serves as a non-director member of the Council and makes a termly report to the Council.&lt;ref name=annrep/&gt;
+
+The Director is the head of the LSE and its chief executive officer, responsible for executive management and leadership on academic issues. The Director reports to and is accountable to the Council. The Director is also the accountable officer for the purposes of the Higher Education Funding Council for England Financial Memorandum. The School’s current Director is Professor Craig Calhoun.
+
+===Finances===
+In the financial year ended 31 July 2011, LSE had a total income (including share of joint ventures) of £233.7 million (2009/10 – £220.92 million) and total expenditure of £214.84 million (2009/10 – £201.69 million).&lt;ref name=annrep/&gt; Key sources of income included £114.71 million from tuition fees and education contracts (2009/10 – £106.61 million), £29.65 million from Funding Council grants (2009/10 – £30.62 million), £24.07 million from research grants and contracts (2009/10 – £23.87 million) and £6.04 million from endowment and investment income (2009/10 – £4.81 million).&lt;ref name=annrep/&gt; During the 2010/11 financial year LSE had a capital expenditure of £47.0 million (2009/10 – £10.6 million).&lt;ref name=annrep/&gt;
+ 
+At year end LSE had endowments of £81.72 million (2009/10 – £72.63 million) and total net assets of £365.59 million (2009/10 – £337.23 million).&lt;ref name=annrep/&gt;
+
+== Academics ==
+
+=== Admissions ===
+[[File:LSE-mosa.jpg|thumb|St Clement's Building]]
+Admission to the LSE is highly competitive. In 2011, the school received 17,654 applications for 1,271 undergraduate places.&lt;ref&gt;{{cite web|url=
+http://www.ucas.com/about_us/stat_services/stats_online/data_tables/heinstitution/2011|title=Applications (choices) and accepted applicants to each UCAS member university and college 2011
+|publisher=UCAS|accessdate=29 August 2012}}&lt;/ref&gt; This means that there were 13.8 applicants per place. Most programmes give out typical offers of A*AA-AAB at A-Level, with new undergraduates in 2011 arriving with an average of 512 UCAS points (equivalent to over AAAA at A-level).
+
+Entrance standards are also high for postgraduate students, who are required to have (for taught Master's courses) a First Class or Upper Second Class UK [[honours degree]], or its foreign equivalent.&lt;ref&gt;{{cite web|url=
+http://www2.lse.ac.uk/study/graduate/pdfs/graduateProspectus2012.pdf |title=Graduate Prospectus 2012|publisher=LSE|accessdate=29 August 2012}}&lt;/ref&gt;  The applications success rate for postgraduate programmes varies, although most of the major courses, including Economics and Law, consistently have an acceptance rate below 10%. Some of the very top premium programmes such as the MSc Finance and the MSc Financial Mathematics have admission rates below 5%.&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/graduateProspectus2010/taughtProgrammes/MScFinance_(fulltime).aspx |title=MSc Finance (full-time) – Taught programmes – Graduate Prospectus for entry in 2010 – Home |publisher=.lse.ac.uk |date=19 February 2010 |accessdate=26 April 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/graduateProspectus2010/taughtProgrammes/MScFinancialMathematics.aspx |title=MSc Financial Mathematics – Taught programmes – Graduate Prospectus for entry in 2010 – Home |publisher=.lse.ac.uk |date=27 November 2009 |accessdate=26 April 2010}}&lt;/ref&gt;
+
+=== Programmes and degrees ===
+[[File:LschoolE.jpg|thumb|upright|View of Houghton Street]]
+The LSE is dedicated solely to the study and research of social sciences, and is the only university in the United Kingdom to be so. LSE awards a range of academic degrees spanning bachelors, masters and PhDs. The postnominals awarded are the degree abbreviations used commonly among British universities.
+
+The School offers over 140 MSc programmes, 5 [[Master of Public Administration|MPA]] programmes, an [[Master of Laws|LLM]], 30 BSc programmes, an [[Bachelor of Laws|LLB]] and 4 BA programmes (including International History and Geography).&lt;ref&gt;{{cite web|url=http://www.lse.ac.uk/resources/undergraduateProspectus2007/indexOfCourses.htm |title=LSE Undergraduate Prospectus |publisher=Lse.ac.uk |accessdate=26 April 2010 |archiveurl = http://web.archive.org/web/20080602092424/http://www.lse.ac.uk/resources/undergraduateProspectus2007/indexOfCourses.htm |archivedate = 2 June 2008}}&lt;/ref&gt; LSE is the only British university to teach a BSc in [[Economic History]]. Other subjects pioneered by LSE include anthropology, criminology, social psychology, sociology and social policy; with international relations being first taught as a discipline at LSE.&lt;ref name=&quot;autogenerated2&quot;&gt;[http://www.thegooduniversityguide.org.uk/single.htm?ipg=6543 thegooduniversityguide]{{Dead link|date=April 2010}}&lt;/ref&gt; Courses are split across more than thirty research centres and nineteen departments, plus a Language Centre.&lt;ref&gt;{{cite web|url=http://www.lse.ac.uk/Depts/language/ |title=LSE Language Centre |publisher=Lse.ac.uk |date=15 March 2010 |accessdate=26 April 2010}}&lt;/ref&gt; Since programmes are all within the social sciences, they closely resemble each other, and undergraduate students usually take at least one course module in a subject outside of their degree for their first and second years of study, promoting a broader education in the social sciences. At undergraduate level, certain departments are very small (90 students across three years of study), ensuring small lecture sizes and a more hands-on approach than other institutions. Since September 2010, it has been compulsory for first year undergraduates to participate in LSE 100: Understanding the Causes of Things alongside normal studies.
+
+In conjunction with New York University's Stern School and HEC Paris the LSE also offers an executive global MBA called TRIUM. This is currently globally ranked 2nd by the [[Financial Times]] and strives to meld the strong social sciences, management strategy and financial accumen providing senior executives a well rounded view.
+
+From 1902, following its absorption into the University of London, and up until 2007, all degrees were awarded by the federal university, in common with all other colleges of the university. This system was changed in 2007 in order to enable some colleges to award their own degrees. LSE was granted the power to begin awarding its own degrees from June 2008. Students graduating between June 2008 and June 2010 have the option of receiving a degree either from the University of London or the School. All undergraduate students entering from 2007 and postgraduate students from 2009 received an LSE degree.{{Citation needed|date=February 2011}}
+
+The LSE does not award annual honorary degrees in common with other universities. In its 113-year history, the School has awarded fifteen honorary doctorates to established figures such as [[Nelson Mandela]] (Doctor of Science, Economics).
+
+=== Research ===
+In the 2008 Research Assessment Exercise, LSE had the highest percentage of world-leading research of any British higher education institution.&lt;ref&gt;{{cite news| url=http://www.independent.co.uk/news/education/education-news/lse-beats-oxford-and-cambridge-to-become-best-research-centre-1202324.html |work=The Independent |location=London  | title=LSE beats Oxford and Cambridge to become best research centre | first=Richard | last=Garner | date=18 December 2008 | accessdate=4 April 2010}}&lt;/ref&gt; The Independent Newspaper placed LSE first in the country for its research, on the basis that 35% of its faculty were judged to be doing world leading work, compared to just 32% for both [[Oxford]] and [[Cambridge]] respectively.&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/researchAndExpertise/RAE2008/home.aspx |title=Research Assessment Exercise 2008 – RAE 2008 – Research and expertise – Home |publisher=.lse.ac.uk |date=25 November 2009 |accessdate=26 April 2010}}&lt;/ref&gt; Furthermore, according to the Times Newspaper, LSE ranks as joint-second (with Oxford) by grade point average across the fourteen units of assessment submitted, behind only Cambridge.&lt;ref&gt;{{cite news| url=http://extras.timesonline.co.uk/gug/gooduniversityguide.php |location=London |work=The Times  | first=Roland | last=Watson |title= Good University Guide}} {{Dead link|date=September 2011|bot=RjwilmsiBot}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=http://extras.timesonline.co.uk/stug/universityguide.php?sort=RESEARCH |work=The Times |location=London  | accessdate=4 April 2010 |title=. |first=Patrick |last=Kidd}} {{Dead link|date=September 2011|bot=RjwilmsiBot}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=http://www.timesonline.co.uk/tol/life_and_style/education/sunday_times_university_guide/article2497779.ece |work=The Times |location=London  | title=How the guide was compiled | date=21 September 2008 | accessdate=4 April 2010 | first=Patrick | last=Kidd}}&lt;/ref&gt; According to these RAE results, LSE is the UK's top research university in Anthropology, Economics, Law, Social Policy and European Studies.&lt;ref&gt;{{cite web|url=http://www.rae.ac.uk/submissions/submissions.aspx?id=36&amp;type=uoa |title=RAE 2008 : Submissions : Submissions list |publisher=Rae.ac.uk |accessdate=26 April 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=http://www.guardian.co.uk/education/table/2008/dec/18/rae-2008-business-and-management-studies |work=The Guardian |location=London  | title=RAE 2008: business and management studies results | date=18 December 2008 | accessdate=4 April 2010}}&lt;/ref&gt;
+
+==== LSE IDEAS ====
+[[LSE IDEAS]] is a research centre for the study of international affairs, diplomacy and [[grand strategy]] at the LSE. It was founded by Prof [[Michael Cox (Academic)|Michael Cox]] and Prof [[Odd Arne Westad|Arne Westad]] in 2008.&lt;ref name=&quot;LSEIDEASHome&quot;&gt;{{cite web | url = http://www2.lse.ac.uk/IDEAS/about/about.aspx | title = About LSE IDEAS | accessdate =16 July 2010 | publisher = LSE IDEAS }}&lt;/ref&gt; Its pre-cursor was the Cold War Studies Centre (CWSC), also co-founded by Prof Cox and Prof Westad. In a global survey, the center has been ranked as world's fourth-best university think tank, after [[Harvard University]]'s [[Belfer Center for Science and International Affairs]], [[Stanford University]]'s [[Hoover Institution]], and the [[Center for International Development]], again at Harvard.&lt;ref name=&quot;Think Tank Rankings&quot;&gt;{{cite web | url = http://www.gotothinktank.com/wp-content/uploads/2012/09/2011-Global-Go-To-Think-Tanks-Report_FINAL-VERSION.pdf| title = 2011 Global Go-To Think Tanks Report And Policy Advice | accessdate =3 October 2012 | publisher = University of Pennsylvania }}&lt;/ref&gt;
+
+=== Partnerships ===
+The LSE has university-wide partnerships in teaching and research with [[Columbia University]] in New York, [[Tsinghua]], [[Peking University]] and [[Sciences Po Paris]], with whom it offers various joint degrees.&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/newsAndMedia/news/archives/2010/05/CapeTown.aspx | title=lse.ac.uk}}&lt;/ref&gt; For example, the highly rated International History department offers a joint MA in International and World History with [[Columbia University]] and an MSc in International Affairs with [[Peking University]], with graduates earning degrees from both institutions.&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/internationalHistory/degrees/masters/Home.aspx |title=Masters Programmes – Masters Programmes – Programmes and courses – International History – Home |publisher=.lse.ac.uk |date=15 May 2009 |accessdate=26 April 2010}}&lt;/ref&gt; LSE also offers various joint degrees with other universities. It offers the TRIUM Global Executive MBA programme&lt;ref&gt;{{cite web|url=http://www.triumemba.org/ |title=TRIUM Global Executive MBA, top ranked alliance of NYU Stern, LSE and HEC Paris |publisher=Triumemba.org |accessdate=26 April 2010}}&lt;/ref&gt; jointly with [[Stern School of Business]] of [[New York University]] and [[HEC School of Management]], Paris. It is divided into six modules held in five international business locations over a 16-month period. LSE also offers a Dual [[Master of Public Administration]] (MPA) with Global Public Policy Network schools such as [http://mpa.sciences-po.fr/ Sciences Po Paris], the [[Hertie School of Governance]] and [[National University of Singapore]]. The school also runs exchange programmes with the [[University of Chicago Booth School of Business]], [[Fuqua School of Business]], [[Kellogg School of Management]], [[Stern School of Business]] and [[Yale School of Management]] as part of its MSc in International Management and an undergraduate student exchange programme with the [[University of California, Berkeley]] in Political Science.&lt;ref&gt;{{cite web|url=http://www.lse.ac.uk/collections/MES/programmes/mastersProgrammes/imex/Default.htm |title=IMEX programme |publisher=Lse.ac.uk |accessdate=26 April 2010}}&lt;/ref&gt; It is however distincly not part of the [[E.U.]] wide [[Erasmus Programme]].
+
+The School has formed formal academic agreements with five international universities – [[Columbia University in the City of New York|Columbia University]] (New York City), [[Sciences Po]] (Paris), the [[University of Cape Town]], [[Peking University]] (Beijing) and the [[National University of Singapore]], in addition to numerous research agreements with [[Oxford University|Oxford]], [[Harvard University|Harvard]], Yale, [[University of Chicago|Chicago]], [[New York University|NYU]], [[Imperial College]] and [[University of California, Berkeley|UC Berkeley]].
+
+=== Libraries and archives ===
+[[File:Lse library interior.jpg|thumb|right|The interior of the main LSE library, designed by [[Norman Foster (architect)|Norman Foster]]]]
+{{Main|British Library of Political and Economic Science}}
+The main library of LSE is the [[British Library of Political and Economic Science]] (BLPES). It is the home of the world's largest social and political sciences Library. Founded in 1896, it has been the national social science library of the United Kingdom and Commonwealth and all its collections have been recognised for their outstanding national and international importance and awarded 'Designation' status by the Museums Libraries and Archives Council (MLA).
+
+BLPES responds to around 6,500 visits from students and staff each day. In addition, it provides a specialist international research collection, serving over 12,000 registered external users each year.
+
+The Shaw Library, housed in an impressive room in the Old Building contains the university's collection of fiction and general readings for leisure and entertainment. The [[Fabian Window]] is also located within the library, having been unveiled by [[Tony Blair]] in 2003.
+
+Additionally, students are permitted to use the libraries of any other University of London college, and the extensive facilities at [[Senate House (University of London)|Senate House]] Library, situated in [[Russell Square]].
+
+=== LSE Summer School ===
+The LSE Summer School was established in 1989 and has expanded extensively with more than 4,400 participants in 2011. The Summer School offers over 60 courses, from the Accounting &amp; Finance, Economics, English Language, Law, International Relations, Government &amp; Society and Management departments, and takes place over two sessions of three weeks, in July and August each year. LSE also offers LSE-PKU Summer School in collaboration with [[Peking University]]. Courses from both Summer Schools can be used as credit against other qualifications. In 2011 the Summer School accepted students from over 115 countries, from some of the top colleges and universities in the world, as well as professionals from several national banks and major financial institutions. As well as the courses, accommodation in LSE halls of residence is available, and the Summer School provides a full social programme including guest lectures and receptions.&lt;ref&gt;{{cite web|url=http://www.lse.ac.uk/collections/summerSchool/ |title=LSE Summer School – LSE Summer School – Summer schools – Study – Home |publisher=Lse.ac.uk |date=8 April 2010 |accessdate=26 April 2010}}&lt;/ref&gt;
+
+=== Public lectures ===
+[[File:Dmitry Medvedev in the United Kingdom 2 April 2009-4.jpg|thumb|150px|[[Russian President]] [[Dmitry Medvedev]] addressing students and staff at LSE on 2 April 2009.]]
+LSE is famous for its programme of public lectures. These lectures, organised by the LSE Events office,  are open to students, alumni and the general public. As well as leading academics and commentators, speakers frequently include prominent national and international figures such as ambassadors, CEOs, Members of Parliament, and heads of state.
+
+Recent speakers at the LSE have included [[Kofi Annan]], [[Hilary Benn]], [[Ben Bernanke]], [[Tony Blair]], [[Hazel Blears]], [[Cherie Booth]], [[Gordon Brown]], [[David Cameron]], [[Noam Chomsky]], [[Bill Clinton]], [[Tom Halford]], [[Alistair Darling]], [[Niall Ferguson]], [[Joschka Fischer]], [[Vicente Fox]], [[Milton Friedman]], [[Muammar al-Gaddafi]], [[John Lewis Gaddis]], [[Alan Greenspan]], [[Tenzin Gyatso]], [[Will Hutton]], [[Paul Krugman]], [[Richard Lambert]], [[Jens Lehmann]], [[Lee Hsien Loong]], [[John Major]], [[Nelson Mandela]], [[Mary McAleese]], [[Dmitri Medvedev]], [[John Atta Mills]], [[Mario Monti]], [[George Osborne]], [[Robert Peston]], [[Sebastián Piñera]], [[Kevin Rudd]], [[Jeffrey Sachs]], [[Gerhard Schroeder]], [[Carlos Mesa|Carlos D. Mesa]], [[Luiz Inácio Lula da Silva]], [[Costas Simitis]], [[George Soros]], [[Lord Stern]], [[Jack Straw]], [[Aung San Suu Kyi]], [[Margaret Thatcher|Baroness Thatcher]], [[Archbishop Desmond Tutu]] and [[Rowan Williams]].
+
+The LSE has also introduced LSE Live, which is a series of public lectures that are broadcast live over the internet, as well as being open to LSE community, and occasionally to the general public. Introduced in 2008, the series has seen many prominent speakers such as [[George Soros]], [[Thomas L. Friedman]], [[Fareed Zakaria]] and [[Ben Bernanke]], chairman of the Federal Reserve System of the United States.&lt;ref&gt;{{cite web|title=LSE Live: LSE Live Podcast |url=http://www.lse.ac.uk/collections/LSEPublicLecturesAndEvents/live/LSELive_previous.htm}}&lt;/ref&gt; In addition LSE, hosts several business and political conferences, with prestigious speakers such as the [[LSE Alternative Investment Conference]].
+
+=== iXXi Briefings ===
+The iXXi Briefings are private discussions which are attended by 40 experts from within LSE and elsewhere and are chaired by [[Meghnad Desai, Baron Desai|Lord Desai]]. At the briefings speakers talk for 15 minutes before discussion is opened to all attendees. iXXi briefings provide an opportunity to for the LSE to exhibit its resources and engage with experts and prominent figures. The iXXi Briefings are run by LSE Enterprise.&lt;ref name=&quot;London School of Economics&quot;&gt;{{cite web|url=http://www2.lse.ac.uk/businessAndConsultancy/LSEEnterprise/iXXiBriefings/home.aspx |title=London School of Economics |publisher=.lse.ac.uk |accessdate=23 October 2011}}&lt;/ref&gt;
+
+=== Rankings and reputation ===
+The [[Fulbright Commission]] has stated that the LSE is &quot;the leading social science institution in the world&quot;.&lt;ref&gt;{{cite web|url=http://www.fulbright.co.uk/fulbright-awards/for-us-citizens/postgraduate-student-awards/university-partners/lse |title=Fullbright Commission |publisher=Fulbright.co.uk |accessdate=26 April 2010}}&lt;/ref&gt;
+
+==== Domestic ====
+Domestically, the LSE is the only British University, alongside the  [[University of Oxford]] the [[University of Cambridge]] and the [[University of Warwick]], to have never ranked outside the top 10 in any newspaper compiled league table. LSE ranked 3rd overall in the ''Sunday Times University Guide'' cumulative ranking over a ten year period (1997–2007),&lt;ref&gt;{{cite news| url=http://www.timesonline.co.uk/tol/life_and_style/education/sunday_times_university_guide/article2511354.ece |work=The Times |location=London  | title=Performance over 10 years | date=22 September 2007 | accessdate=4 April 2010 | first=Patrick | last=Kidd}}&lt;/ref&gt; and ranked 2nd in the ''Complete University Guide 2012''.&lt;ref name=&quot;extras.timesonline.co.uk&quot;&gt;{{cite news| url=http://www.thecompleteuniversityguide.co.uk/league-tables/rankings | work=Complete University Guide 2012 | location=London | accessdate=5 May 2011}}&lt;/ref&gt; A number of departments also ranked among the top three in subject rankings, including but not limited to Law (1st), Social Policy (1st), Philosophy (2nd), Economics (3rd), Sociology (2nd), Accounting and Finance (3rd), History (3rd), Geography (3rd). LSE graduates often score highly in the 'employment prospects' section of guides, with students considered to have the best 'graduate prospects' of any British university in all 2009 ''Sunday Times University Guide'' rankings.
+{| class=&quot;wikitable&quot;
+|+[[Rankings of universities in the United Kingdom|UK rankings]]
+|-
+! Assessor
+! 2013
+! 2012
+! 2011
+! 2010
+! 2009
+! 2008
+! 2007
+! 2006
+|-
+!''[[Rankings of universities in the United Kingdom#The Complete University Guide in association with The Independent|The Complete University Guide]]''
+| '''{{Font color|green|2nd}}'''&lt;ref name=&quot;TcUG&quot;&gt;{{cite web|url= http://www.thecompleteuniversityguide.co.uk/league-tables/rankings
+|title=The Complete University Guide 2011|work=[[The Complete University Guide]]}}&lt;/ref&gt;
+| 4th&lt;ref name=&quot;TcUG&quot;/&gt;
+| 5th&lt;ref&gt;{{cite web|url= http://www.thecompleteuniversityguide.co.uk/single.htm?ipg=8726
+|title=The Complete University Guide 2011|work=[[The Complete University Guide]]}}&lt;/ref&gt;
+| 4th&lt;ref&gt;{{cite web|url= http://www.thecompleteuniversityguide.co.uk/single.htm?ipg=8726
+|title=The Complete University Guide 2010|work=[[The Complete University Guide]]}}&lt;/ref&gt;
+| 3rd&lt;ref name=&quot;The Independent 2008/09&quot;&gt;{{cite news |url=http://www.independent.co.uk/news/education/higher/the-main-league-table-2009-813839.html |title=The Independent University League Table |work=The Independent |location=UK  | date=24 April 2008 | accessdate=4 April 2010}}&lt;/ref&gt;
+| 4th&lt;ref name=&quot;The Independent 2008/09&quot; /&gt;
+|
+|
+|-
+! ''[[Rankings of universities in the United Kingdom#The Guardian|Guardian University Guide]]''
+| '''{{Font color|green|3rd}}'''&lt;ref&gt;{{cite news|url=http://www.guardian.co.uk/education/table/2012/may/21/university-league-table-2013 |title=University guide 2013: University league table &amp;#124; Education |publisher=guardian.co.uk |date=21 May 2012 |accessdate=20 June 2012 |location=London}}&lt;/ref&gt;
+| 4th&lt;ref name=&quot;guardian.co.uk&quot;&gt;{{cite news| url=http://www.guardian.co.uk/education/table/2011/may/17/university-league-table-2012 |location=London |work=The Guardian  | title=University guide 2012: University league table | date=17 May 2011}}&lt;/ref&gt;
+| 8th&lt;ref name=&quot;guardian.co.uk&quot;/&gt;
+| 5th&lt;ref name=&quot;Guardian 2011&quot;&gt;{{cite news |url=http://www.guardian.co.uk/education/table/2010/jun/04/university-league-table |title=University guide 2011: University league table |work=The Guardian |location=UK |accessdate=17 May 2011 |date=8 June 2010}}&lt;/ref&gt;
+| 6th
+| 3rd
+| 3rd&lt;ref name=&quot;Guardian 2006&quot;&gt;{{cite news |url=http://browse.guardian.co.uk/education/2006?SearchBySubject=&amp;FirstRow=20&amp;SortOrderDirection=&amp;SortOrderColumn=GuardianTeachingScore&amp;Subject=Institution-wide&amp;Institution= |title=University ranking by institution |work=The Guardian |location=UK |accessdate=29 October 2007 }}&lt;/ref&gt;
+| 5th&lt;ref name=&quot;Guardian 2005&quot;&gt;{{cite news |url=http://education.guardian.co.uk/universityguide2005/table/0,,-5163901,00.html?chosen=Durham&amp;tariff=0&amp;start=40&amp;index=3&amp;alpha=0 |title=University ranking by institution |work=The Guardian |location=UK  | accessdate=4 April 2010}}&lt;/ref&gt;
+|-
+! ''[[Rankings of universities in the United Kingdom#The Times|Times Good University Guide]]''
+| '''{{Font color|green|3rd}}'''&lt;ref&gt;{{cite web|author=|url=http://www.thetimes.co.uk/tto/public/gug/ |title=Good University Guide |publisher=The Times |date= |accessdate=20 June 2012}}&lt;/ref&gt;
+| 3rd
+| 5th&lt;ref&gt;{{cite news|url=http://extras.timesonline.co.uk/tol_gug/gooduniversityguide.php|title=The Times Good University Guide|work=The Times |location=UK |accessdate=21 August 2009  | first=Roland | last=Watson}} {{Dead link|date=September 2011|bot=RjwilmsiBot}}&lt;/ref&gt;
+| 7th&lt;ref name=&quot;extras.timesonline.co.uk&quot;/&gt;
+| 4th&lt;ref&gt;{{cite news |url=http://extras.timesonline.co.uk/gug/gooduniversityguide.php |title=The Times Good University Guide 2008|work=The Times |location=UK |accessdate=3 November 2007  | first=Roland | last=Watson}} {{Dead link|date=September 2011|bot=RjwilmsiBot}}&lt;/ref&gt;
+| 4th&lt;ref&gt;{{cite news |url=http://www.timesonline.co.uk/displayPopup/0,,102571,00.html |title=The Times Good University Guide 2007 – Top Universities 2007 League Table|work=The Times |location=UK |accessdate=3 November 2007  | first=Roland | last=Watson}} {{Dead link|date=September 2011|bot=RjwilmsiBot}}&lt;/ref&gt;
+| 4th&lt;ref&gt;{{cite news |url=http://www.timesonline.co.uk/displayPopup/0,,32607,00.html |title=The Times Top Universities |work=The Times |location=UK |accessdate=3 November 2007 |first=Patrick |last=Kidd}} {{Dead link|date=September 2011|bot=RjwilmsiBot}}&lt;/ref&gt;
+| 4th&lt;ref&gt;{{cite news |url=http://www.timesonline.co.uk/displayPopup/0,,32607,00.html |title=The Times Top Universities 2005|work=The Times |location=UK  | accessdate=4 April 2010 |first=Patrick |last=Kidd}} {{Dead link|date=September 2011|bot=RjwilmsiBot}}&lt;/ref&gt;
+|-
+! ''[[Rankings of universities in the United Kingdom#The Sunday Times|Sunday Times University Guide]]''
+|
+| 4th
+| 9th&lt;ref name=&quot;Sunday_times 2010&quot;&gt;{{cite news |url=http://extras.timesonline.co.uk/stug/universityguide.php |title=The Sunday Times University League Table |work=The Sunday Times |location=UK |accessdate=14 September 2008 |first=Patrick |last=Kidd}} {{Dead link|date=September 2011|bot=RjwilmsiBot}}&lt;/ref&gt;
+| 4th
+| 4th&lt;ref name=&quot;Sunday_times 2008/09&quot;&gt;{{cite news |url=http://extras.timesonline.co.uk/stug/universityguide.php |title=The Sunday Times University League Table |work=The Sunday Times |location=UK |accessdate=8 October 2008 |first=Patrick |last=Kidd}} {{Dead link|date=September 2011|bot=RjwilmsiBot}}&lt;/ref&gt;
+| 3rd&lt;ref name=&quot;timesonline.co.uk&quot;&gt;{{cite news| url=http://www.timesonline.co.uk/tol/life_and_style/education/good_university_guide/article2132052.ece |work=The Times |location=London  | title=London School of Economics | date=1 June 2009 | accessdate=4 April 2010 | first=Patrick | last=Kidd}}&lt;/ref&gt;
+| 3rd&lt;ref name=&quot;Sunday_times 2006/05&quot;&gt;{{cite news |url=http://extras.timesonline.co.uk/stug2006/stug2006.pdf |format=PDF|title=The Sunday Times University League Table |work=The Sunday Times |location=UK |accessdate=3 November 2007 }}&lt;/ref&gt;
+| 4th
+|}
+
+==== International ====
+In the [[THE-QS World University Rankings]], the school was ranked 11th in the world in 2004 and 2005, but dropped to 66th and 67th in the 2008 and 2009 edition. The school administration asserts that the fall was due to a controversial change in methodology which hindered social science institutions.&lt;ref&gt;[http://www2.lse.ac.uk/.../LSEServices/.../LSEInvestigationsIntoTheTHEandQSleaguetables.aspx] {{dead link|date=September 2010}}&lt;/ref&gt; In January 2010, THE concluded that their existing methodology system with [[Quacquarelli Symonds]] was flawed in such a way that it was unfairly biased against certain schools, including LSE.&lt;ref name=&quot;autogenerated4&quot;&gt;{{cite web|url=http://www2.lse.ac.uk/intranet/LSEServices/divisionsAndDepartments/ERD/LSEinUniversityLeagueTables.aspx |title=LSE in university league tables – External Relations Division – Administrative and academic support divisions – Services and divisions – Staff and students – Home |publisher=.lse.ac.uk |accessdate=26 April 2010}}&lt;/ref&gt;  A representative of [[Thomson Reuters]], THE's new partner, commented on the controversy: &quot;''LSE stood at only 67th in the last Times Higher Education-QS World University Rankings – some mistake surely? Yes, and quite a big one''.&quot;&lt;ref name=&quot;autogenerated4&quot;/&gt; 
+
+Nevertheless, the school was the only one of its type to finish in the top 200 universities, and was thus stated to be the best &quot;medium sized specialised research university&quot; in the world. Incidentally LSE was ranked 29th globally for Reputation&lt;ref&gt;{{cite web|url=http://www.timeshighereducation.co.uk/world-university-rankings/2011-2012/reputation-rankings.html |title=Top Universities by Reputation 2012 |publisher=Timeshighereducation.co.uk |date= |accessdate=20 June 2012}}&lt;/ref&gt;  and often scores well in the social science specific section of the ranking. Indeed, it has never finished out of the top 5 in the world; ranking 5th, 4th, 3rd and 2nd in the last five years.&lt;ref&gt;{{cite web|url=http://www.topuniversities.com/university-rankings/world-university-rankings/2009/subject-rankings/social-sciences |title=THE – QS World University Rankings 2009 – Social Sciences |publisher=Top Universities |date=12 November 2009 |accessdate=26 April 2010}}&lt;/ref&gt;  LSE also appears high up in the employer review surveys and since the rankings inception, has never finished outside of the world's top 5 universities in the eyes of employers. 
+{| class=&quot;wikitable&quot;
+|+[[College and university rankings#International rankings from regional organisations|World rankings]]
+! Assessor
+! 2012
+! 2011
+! 2010
+! 2009
+! 2008
+! 2007
+! 2006
+! 2005
+! 2004
+|-
+| [[Academic Ranking of World Universities]]
+|
+| 101–150th&lt;ref&gt;{{cite web|url=http://www.shanghairanking.com/Institution.jsp?param=London%20School%20of%20Economics%20and%20Political%20Science|title=Academic Ranking of World Universities by Shanghai Jiao Tong University 2011 |publisher=Ed.sjtu.edu.cn |accessdate=24 October 2012}}&lt;/ref&gt;
+| 102–150th&lt;ref&gt;{{cite web|url=http://www.arwu.org/ARWU2011.jsp|title=Academic Ranking of World Universities by Shanghai Jiao Tong University 2011 |publisher=Ed.sjtu.edu.cn |accessdate=6 October 2011}}&lt;/ref&gt;
+| 201–300st&lt;ref&gt;{{cite web|url=http://www.arwu.org/ARWU2010.jsp|title=Academic Ranking of World Universities by Shanghai Jiao Tong University 2010 |publisher=Ed.sjtu.edu.cn |accessdate=26 April 2010}}&lt;/ref&gt;
+| 201–302nd&lt;ref&gt;{{cite web|url=http://www.arwu.org/ARWU2009.jsp|title=Academic Ranking of World Universities by Shanghai Jiao Tong University 2009 |publisher=Ed.sjtu.edu.cn |accessdate=26 April 2010}}&lt;/ref&gt;
+| 201–302nd&lt;ref&gt;{{cite web|url=http://www.arwu.org/ARWU2008.jsp|title=Academic Ranking of World Universities by Shanghai Jiao Tong University 2008 |publisher=Ed.sjtu.edu.cn |accessdate=26 April 2010}}&lt;/ref&gt;
+| 151–202nd&lt;ref&gt;{{cite web|url=http://www.arwu.org/ARWU2007.jsp|title=Academic Ranking of World Universities by Shanghai Jiao Tong University 2007 |publisher=Ed.sjtu.edu.cn |accessdate=26 April 2010}}&lt;/ref&gt;
+| 201–300th&lt;ref&gt;{{cite web|url=http://www.arwu.org/ARWU2006.jsp|title=Academic Ranking of World Universities by Shanghai Jiao Tong University 2006 |publisher=Ed.sjtu.edu.cn |accessdate=26 April 2010}}&lt;/ref&gt;
+| 203–300th&lt;ref&gt;{{cite web|url=http://www.arwu.org/ARWU2005.jsp|title=Academic Ranking of World Universities by Shanghai Jiao Tong University 2005 |publisher=Ed.sjtu.edu.cn |accessdate=26 April 2010}}&lt;/ref&gt;
+| 202–301th&lt;ref&gt;{{cite web|url=http://www.arwu.org/ARWU2004.jsp|title=Academic Ranking of World Universities by Shanghai Jiao Tong University 2004 |publisher=Ed.sjtu.edu.cn |accessdate=26 April 2010}}&lt;/ref&gt;
+|-
+| [[QS World University Rankings]]
+| 
+| 69th=&lt;ref&gt;{{cite web|url=http://www.topuniversities.com/institution/london-school-economics-and-political-science-lse |title=Times Higher Education |publisher=Topuniversities.com |accessdate=24 October 2012}}&lt;/ref&gt;
+| 64th=&lt;ref&gt;{{cite web|url=http://www.topuniversities.com/university-rankings/world-university-rankings/2011 |title=Times Higher Education |publisher=Topuniversities.com |accessdate=23 October 2011}}&lt;/ref&gt;
+| 80th=&lt;ref&gt;{{cite web|url=http://www.topuniversities.com/university-rankings/world-university-rankings/2010 |title=Times Higher Education |publisher=Topuniversities.com |accessdate=23 October 2011}}&lt;/ref&gt;
+| 67th=&lt;ref&gt;{{cite web|url=http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=438 |title=Times Higher Education |publisher=Times Higher Education |date=1 October 2009 |accessdate=23 October 2011}}&lt;/ref&gt;
+| 66th&lt;ref&gt;{{cite web|url=http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=243 |title=Times Higher Education |publisher=Times Higher Education |date=9 October 2008 |accessdate=23 October 2011}}&lt;/ref&gt;
+| 59th&lt;ref&gt;{{cite web|url=http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=144 |title=Times Higher Education |publisher=Times Higher Education |date=9 November 2007 |accessdate=23 October 2011}}&lt;/ref&gt;
+| 17th&lt;ref&gt;{{cite web|url=http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=161 |title=Times Higher Education |publisher=Times Higher Education |date=6 October 2006 |accessdate=23 October 2011}}&lt;/ref&gt;
+| 11th=&lt;ref&gt;{{cite web|url=http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=175 |title=Times Higher Education |publisher=Times Higher Education |date=7 October 2005 |accessdate=23 October 2011}}&lt;/ref&gt;
+| 11th=&lt;ref&gt;{{cite web|url=http://www.timeshighereducation.co.uk/hybrid.asp?typeCode=153 |title=Times Higher Education |publisher=Times Higher Education |date=7 October 2005 |accessdate=23 October 2011}}&lt;/ref&gt;
+|-
+| [[Times Higher Education World University Rankings]]&lt;ref name=&quot;World University Rankings&quot;&gt;{{cite web |url= http://www.timeshighereducation.co.uk/world-university-rankings/2010-2011/top-200.html |title=World University Rankings|year=2010 |publisher=The Times Higher Educational Supplement |accessdate=16 September 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.topuniversities.com/university-rankings/world-university-rankings/2010/results|title=QS World University Rankings 2010 Results}}&lt;/ref&gt;
+| 39th=&lt;ref name=&quot;Timeshighereducation.co.uk&quot;&gt;{{cite web|url=http://www.timeshighereducation.co.uk/world-university-rankings/ |title=The Times Higher Education World University Rankings 2011–2012 |publisher=Timeshighereducation.co.uk |accessdate=23 October 2011}}&lt;/ref&gt;
+| 47th=&lt;ref name=&quot;Timeshighereducation.co.uk&quot;/&gt;
+| 86th=&lt;ref&gt;{{cite web|url=http://www.timeshighereducation.co.uk/world-university-rankings/2010-2011/top-200.html |title=Top 200 – The Times Higher Education World University Rankings 2010–2011 |publisher=Timeshighereducation.co.uk |accessdate=23 October 2011}}&lt;/ref&gt;
+|
+|
+|
+|
+|
+|
+|}
+
+== Student life ==
+[[File:Lincoln's Inn Fields - May 2006.jpg|thumb|LSE students revising in [[Lincoln's Inn Fields]]]]
+
+=== Student body ===
+In the 2011-12 academic year there were 9,300 full-time students and around 700 part-time students at the School. Of these, approximately two-thirds came from outside the United Kingdom. LSE has a highly international student body,with over 145 countries represented.&lt;ref&gt;{{cite web| url=http://www2.lse.ac.uk/aboutLSE/studentsAndStaff.aspx|title=Students and Staff|accessdate=24 August 2012|publisher=London School of Economics}}&lt;/ref&gt;
+
+Over half of LSE's students are postgraduates,&lt;ref name=&quot;ReferenceA&quot; /&gt; an unusually high proportion in comparison with other British institutions. There is approximately an equal split between genders with 51% male and 49% female students.&lt;ref name=&quot;ReferenceA&quot;/&gt;
+
+=== Students' Union ===
+{{Main|LSE Students' Union}}
+[[File:Student Union Blue.jpg|thumb|right|The logo of LSE Students' Union]]
+LSE has its own [[students' union]] ([[LSE Students' Union|LSESU]]), which is affiliated to the [[National Union of Students (United Kingdom)|National Union of Students]] and the [[National Postgraduate Committee]], as well as to the [[University of London Union]]. The students' union is often regarded as the most politically active in Britain – a reputation it has held since the well documented LSE student riots in 1966–67 and 1968–69,&lt;ref&gt;{{cite news |title=BBC website: LSE Student Protests |url=http://news.bbc.co.uk/1/hi/uk_politics/6299579.stm | date=31 May 2007 | accessdate=6 January 2010 |work=BBC News   | first=Lucy | last=Wilkins}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=BBC website: On This Day – LSE Student Protests
+|url=http://news.bbc.co.uk/onthisday/hi/dates/stories/march/13/newsid_2542000/2542639.stm | date=13 March 1967 | accessdate=6 January 2010 |work=BBC News  }}&lt;/ref&gt; which made international headlines.
+
+The Union is responsible for the organisation and undertaking of entertainment events and student societies, as well as student welfare and issues regarding accommodation and other matters. As of 2010, there are over 200 societies, 40 sports clubs, a Raising and Giving (RAG) branch and a thriving media group.
+
+The Media Group is a collective of four distinct outlets, each with their own history and identity. A weekly student newspaper ''[[The Beaver]]'', is published each Tuesday during term time and is amongst the oldest student newspapers in the country. The Union's radio station'' [[PuLSEfm|Pulse!]]'' has existed since 1999, and the television station ''LooSE Television'' has existed since 2005. The ''[[Clare Market Review]]'' one of Britain's oldest student publications was revived in 2008 and has gone on to win many national awards. Students also get access to ''[[London Student]]'', which is published by the University of London Union.
+
+In various forms, RAG Week has been operating since 1980, when it was started by then Student Union Entertainments Officer and now New Zealand MP [[Tim Barnett (politician)|Tim Barnett]].
+
+Affiliated with LSESU, LSE Athletics Union is the body responsible for all sporting activity within the university. It is a member of [[British Universities &amp; Colleges Sport]] (BUCS). In distinction to the &quot;blues&quot; awarded for sporting excellence at Oxford and Cambridge, LSE's outstanding athletes are awarded &quot;purples&quot;.
+
+=== Student housing ===
+[[File:NorthumberlandHouse.jpg|thumb|left|upright|Northumberland House]]
+There are 11 LSE halls of residence in and around central London, of which 10 are owned and operated by LSE and one is operated by Shaftesbury Student Housing. Together, these residences accommodate over 3,500 students.&lt;ref&gt;{{cite web|url=http://www.lse.ac.uk/accommodation/RES_intro.htm |title=Accommodation – Accommodation for students – Life at LSE – Home |publisher=Lse.ac.uk |date=16 February 2010 |accessdate=26 April 2010}}&lt;/ref&gt;  In addition, there are also eight intercollegiate halls shared with other constituent colleges of the [[University of London]], which accommodate approximately 25% of LSE's first-year undergraduate students.
+
+The School guarantees accommodation for all first-year undergraduate students, regardless of their present address. Many of the School's larger postgraduate population are also catered for, with some specific residences available for postgraduate living. Whilst none of the residences are located at the Houghton Street campus, the closest, Grosvenor House is within a five-minute walk from the School in [[Covent Garden]], whilst the farthest residences (Nutford and [[Butler's Wharf]]) are approximately forty-five minutes by [[London Underground|Tube]] or [[London Buses|Bus]].
+
+Each residence accommodates a mixture of students both domestic and foreign, male and female, and, usually, undergraduate and postgraduate. New undergraduate students (including [[the General Course|General Course]] students) occupy approximately 36% of all spaces, with postgraduates taking approximately 56% and continuing students about 8% of places.
+
+[[File:Gh new.jpg|thumb|upright|Grosvenor House Studios]]
+The largest LSE student residence, Bankside, opened in 1996 and accommodates 617 students across eight floors overlooking the River Thames and located behind the popular [[Tate Modern]] art gallery on the south bank of the River. The second-largest residence is based in [[High Holborn]], was opened in 1995 and is approximately 10&amp;nbsp;minutes walk from the main campus. Other accommodation is located well for London's attractions and facilities – Butler's Wharf is situated next to [[Tower Bridge]], Rosebery Hall is located in the [[London Borough of Islington]] close to [[Sadler's Wells Theatre|Sadler's Wells]], and Carr-Saunders Hall, named after LSE professor is approximately 5&amp;nbsp;minutes from [[Telecom Tower]] in the heart of [[Fitzrovia]].
+
+Since 2005, the School has opened three new residences to provide accommodation for all first year students. Lilian Knowles, independently operated in [[Spitalfields]], is home for approximately 360 students and opened in 2006.  It is located in a converted Victorian night refuge; the remnants of which can still be seen on the outside facade.  It is a common stop on [[Jack the Ripper]] tours as one of his victims is commonly believed to have been a one-time resident. Planning permission was sought to convert Northumberland House, on [[Northumberland Avenue]] into a new residence on 2 June 2005, and the accommodation opened to students in October 2006.
+
+The newest accommodation development is Northumberland House, a Grade II listed building, located between the Strand and Thames Embankment. It was formerly a [[Victorian era|Victorian]] grand hotel and lately government offices.
+
+The closest residence to the Houghton Street campus is reserved for postgraduate students and is located on the eastern side of [[Drury Lane]] at the crossroads of [[Great Queen Street]] and [[Long Acre (street)|Long Acre]]. Grosvenor House, converted from a Victorian office building, opened in September 2005. The residence is unique in that all of its 169 rooms are small, self-contained studios, with private toilet and shower facilities and a mini-kitchen.
+
+There are also eight [[University of London#Intercollegiate halls|intercollegiate halls]] and some students are selected to live in [[International Students House, London]].
+
+== Notable people ==
+{{See also|List of London School of Economics people}}
+{| class=&quot;wikitable&quot; style=&quot;float: right; border: 5px solid #BBB; margin: .96em 0 0 .9em;&quot;
+|- style=&quot;font-size: 86%;&quot;&quot;
+|+ '''Nobel Laureates associated with the London School of Economics'''&lt;ref name=&quot;LSENobel&quot;&gt;{{cite web|title = Nobel Prize winners|url = http://www2.lse.ac.uk/ERD/pressAndInformationOffice/LSEFacts/nobelPrizeWinners/Home.aspx|publisher=London School of Economics}}&lt;/ref&gt;
+|'''Year''' || '''Recipient''' || '''Prize'''
+|-
+|1925|| [[George Bernard Shaw]] || [[Nobel Prize in Literature|Literature]]
+|-
+|1950|| [[Ralph Bunche]] || [[Nobel Peace Prize|Peace]]
+|-
+|1950|| [[Bertrand Russell]] || Literature
+|-
+|1959|| [[Philip Noel-Baker, Baron Noel-Baker|Philip Noel-Baker]] || Peace
+|-
+|1972|| [[John Hicks|Sir John Hicks]] || [[Nobel Memorial Prize in Economic Sciences|Economics]]
+|-
+|1974|| [[Friedrich Hayek]] || Economics
+|-
+|1977|| [[James Meade]] || Economics
+|-
+|1979|| [[Arthur Lewis (economist)|Sir William Arthur Lewis]] || Economics
+|-
+|1990|| [[Merton Miller]] || Economics
+|-
+|1991|| [[Ronald Coase]] || Economics
+|-
+|1998|| [[Amartya Sen]] || Economics
+|-
+|1999|| [[Robert Mundell]] || Economics
+|-
+|2001|| [[George Akerlof]] || Economics
+|-
+|2003|| [[Robert F. Engle III]] || Economics
+|-
+|2007|| [[Leonid Hurwicz]] || Economics
+|-
+|2008|| [[Paul Krugman]] || Economics
+|-
+|2010|| [[Christopher A. Pissarides]] || Economics
+|}
+
+LSE has a long list of notable alumni and staff, spanning the fields of scholarship covered by the school. Among them are seventeen Nobel Prize winners&lt;ref name=&quot;LSENobel&quot; /&gt; in [[Nobel Memorial Prize in Economic Sciences|Economics]], [[Nobel Peace Prize|Peace]] and [[Nobel Prize in Literature|Literature]]. The school currently has over 50 fellows of the [[British Academy]] on its staff, while other notable former staff members include [[Anthony Giddens]], [[Harold Laski]], [[Ralph Miliband]], [[Michael Oakeshott]], [[William Phillips (economist)|A. W. Philips]], [[Karl Popper]], [[Lionel Robbins, Baron Robbins|Lionel Robbins]], [[Susan Strange]] and [[Charles Webster (historian)|Charles Webster]]. Former [[Prime Minister of the United Kingdom|British Prime Minister]], [[Clement Attlee]] taught at the school from 1912 to 1923, while [[Ramsay MacDonald]] frequently gave lectures on behalf of the [[Fabian Society]].&lt;ref name=&quot;LSEWorldLeaders&quot;&gt;{{cite web|title = World leaders |url = http://www2.lse.ac.uk/ERD/pressAndInformationOffice/LSEFacts/worldLeaders.aspx|publisher=London School of Economics}}&lt;/ref&gt; [[Mervyn King (economist)|Mervyn King]], the current [[Governor of the Bank of England]], is also a former professor of economics.&lt;ref name=&quot;BankOfEnglandKing&quot;&gt;{{cite web|title = Mervyn Allister King, Governor|url = http://www.bankofengland.co.uk/about/people/biographies/king.htm|publisher=Bank of England|month = November|year = 2006}}&lt;/ref&gt;
+
+Many [[alumnus|alumni]] of the school are notable figures, especially in the areas of politics, economics and finance. Indeed, with regards to the political arena, as of February 2009, around 45 past or present heads of state have studied or taught at LSE, and 28 members of the current British House of Commons and 46 members of the current House of Lords have either studied or taught at the school. In recent British politics, former LSE students include [[Virginia Bottomley]], [[Yvette Cooper]], [[Edwina Currie]], [[Frank Dobson]], [[Margaret Hodge]] and current UK Labour Party leader [[Ed Miliband]]. Internationally, [[John F Kennedy]] (former US President), [[Óscar Arias]] (Costa Rican President), [[Taro Aso]]&lt;ref name=&quot;LSEWorldLeaders&quot; /&gt; (Prime Minister of Japan), Queen [[Margrethe II of Denmark]],&lt;ref name=&quot;LSEWorldLeaders&quot; /&gt; [[B. R. Ambedkar]]&lt;ref name=&quot;LSEWorldLeaders&quot; /&gt; (Father of Indian Constitution) [[K. R. Narayanan]]&lt;ref name=&quot;LSEWorldLeaders&quot; /&gt; (Ex-President of India) and [[Romano Prodi]]&lt;ref name=&quot;LSEWorldLeaders&quot; /&gt; (Italian Prime Minister and President of the European Commission) all studied at LSE. As of August 2010, the present heads of government and/or state of seven countries studied at the School – Colombia, Denmark, Ghana, Greece, Kenya, Kiribati and Mauritius. Moreover, in President Barack Obama's administration, LSE has more former students than any other university outside the US, with the White House Chief of Staff, Deputy Chief of Staff, Budget Director, and Secretary for Homeland Security, all having studied at the school. In fact, LSE is more represented than Yale, Princeton, Stanford and MIT.&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/newsAndMedia/news/archives/2009/ObamasLSEalumni.aspx |title=Obama's LSE alumni – 2009 – News archive – News – News and media – Home |publisher=.lse.ac.uk |accessdate=23 October 2011}}&lt;/ref&gt;
+
+Successful businesspeople who studied at LSE include [[Tony Fernandes]], [[Delphine Arnault]], [[Stelios Haji-Ioannou]], [[Spiros Latsis]], [[David Rockefeller]], [[Maurice Saatchi, Baron Saatchi|Maurice Saatchi]], [[George Soros]] and [[Michael S. Jeffries]]. Notable fictitious alumni include President [[Josiah Bartlet]] from the television series ''[[The West Wing]]'' and Andrew Bond, the father of Ian Fleming's [[James Bond]] and [[Jim Hacker]], the fictitious Minister and Prime Minister of [[Yes, Minister]] and [[Yes, Prime Minister]] (in which the Prime Minister is regularly derided by his Permanent Secretary for not having attended Oxford or Cambridge). The LSE is mentioned in the film: The Social Network, as being one of the first three UK universities to have a Facebook network, along with Oxford and Cambridge.
+
+=== List of Directors ===
+[[File:LSE Nobel Prize Display Blue.jpg|thumb|right|400px|Nobel Prize winners display at LSE]]
+* [[William Hewins]] (1895–1903)&lt;ref name=&quot;LSEFormerDirectors&quot;&gt;{{cite web|title = Former directors and LSE's history|url = http://www.lse.ac.uk/collections/meetthedirector/formerDirectorsAndLsesHistory.htm|publisher=London School of Economics}}&lt;/ref&gt;
+* [[Halford Mackinder|Professor Halford Mackinder]] (1903–1908)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[William Pember Reeves|The Hon. William Pember Reeves]] (1908–1919)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[William Beveridge|Sir William Beveridge]] (1919–1937)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[Alexander Carr-Saunders|Sir Alexander Carr-Saunders]] (1937–1957)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[Sydney Caine|Sir Sydney Caine]] (1957–1967)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[Walter Adams (historian)|Sir Walter Adams]] (1967–1974)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[Ralf Dahrendorf|Professor Sir Ralf Dahrendorf]] (1974–1984)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[Indraprasad Gordhanbhai Patel|Dr Indraprasad Gordhanbhai Patel]] (1984–1990)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[John Ashworth (vice-chancellor)|Professor John Ashworth]] (1990–1996)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[Anthony Giddens|Professor Anthony Giddens]] (1996–2003)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[Howard Davies (economist)|Sir Howard Davies]] (2003–2011)&lt;ref name=&quot;LSEFormerDirectors&quot; /&gt;
+* [[Judith Rees|Professor Judith Rees]] (2011–2012) ''interim''&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/newsAndMedia/news/archives/2011/03/interimdirector.aspx |title=LSE appoints interim director |publisher=.lse.ac.uk |accessdate=23 October 2011}}&lt;/ref&gt;
+* [[Craig Calhoun|Professor Craig Calhoun]] (2012-)&lt;ref&gt;{{cite web|url=http://www2.lse.ac.uk/newsAndMedia/news/archives/2011/11/director.aspx |title=LSE appoints new Director |publisher=.lse.ac.uk |accessdate=25 November 2011}}&lt;/ref&gt;
+
+=== Heads of State and Government ===
+{| class=&quot;wikitable&quot; style=&quot;float: center; border: 5px solid #BBB; margin: .96em 0 0 .9em;&quot;
+|- style=&quot;font-size: 40%;&quot;&quot;
+|+&lt;ref name=&quot;LSELeaders&quot;&gt;{{cite web|title = LSE Leaders|url = http://www2.lse.ac.uk/intranet/LSEServices/divisionsAndDepartments/ERD/pressAndInformationOffice/LSEFacts/worldLeaders.aspx|publisher=London School of Economics}}&lt;/ref&gt;
+|'''State''' || '''Leader''' || '''Affiliation''' || '''Office'''
+|-
+|''{{Flagu|Barbados}}''
+|Errol Walton Barrow (1920–1987)
+|BSc (Econ) 1950
+|Prime minister 1962–1966; 1966–1976; 1986–1987
+|-
+|''{{Flagu|Bulgaria}}''
+|[[Sergey Stanishev]] (b. 1966)
+|Visiting Fellow in International Relations 1999–2000
+|[[Prime Minister of Bulgaria|Prime Minister]] 2005–2009
+|-
+|''{{Flagu|Canada}}''
+|[[Pierre Trudeau]] (1919–2000)
+|Research Fee Student 1947–1948
+|Prime minister 1968–1979; 1980–1984
+|-
+|''{{Flagu|Canada}}''
+|[[Kim Campbell]] (b. 1947)
+|PhD student 1973 (no degree granted)
+|Prime minister June–November 1993
+|-
+|''{{Flagu|Colombia}}''
+|Alfonso Lopez Pumarejo
+|Occasional Registration 1932–1933
+|President 1934–1938, 1942–1945
+|-
+|''{{Flagu|Colombia}}''
+|Juan Manuel Santos
+|MSc Economics 1975
+|President 2010–
+|-
+|''{{Flagu|Costa Rica}}''
+|[[Óscar Arias]] (b. 1941)
+|
+|[[President of Costa Rica|President]] 1986–1990, 2006–present
+|-
+|''{{Flagu|Denmark}}''
+|HM Queen Margrethe II (b. 1940)
+|Occasional student 1965
+|Queen 1972–
+|-
+|''{{Flagu|Dominica}}''
+|Dame Eugenia Charles
+|LLM 1949
+|Prime minister 1980–1995
+|-
+|''{{flag|EU}}''
+|Professor [[Romano Prodi]] (b. 1939)
+|Research Fee Student 1962–1963
+|President of the European Commission 1999–2004;
+|-
+|''{{Flagu|Fiji}}''
+|Ratu Sir Kamisese Mara (1920–2004)
+|Diploma Econ &amp; Social Admin 1962
+|Prime minister 1970–1992; President 1994–2000
+|-
+|''{{Flagu|Germany}}''
+|[[Heinrich Brüning]] (1885–1970)
+|BSc Economics Student 1911–1913
+|[[Chancellor of Germany (German Reich)|Chancellor]] 1930–32
+|-
+|''{{Flagu|Ghana}}''
+|Dr Kwame Nkrumah (1909–1972)
+|PhD 1946
+|First president 1960–1966
+|-
+|''{{Flagu|Ghana}}''
+|Hon Dr Hilla Limann (1934–1998)
+|BSc (Econ) 1960
+|President 1979–1981
+|-
+|''{{Flagu|Ghana}}''
+|John Atta Mills (b. 1944)
+|LLM 1967–68
+|President 2009
+|-
+|''{{Flagu|Gibraltar}}''
+|[[Joe Bossano]] (b.1939)
+|
+|[[Chief Minister of Gibraltar|Chief Minister]] 1988-1996
+|-
+|''{{Flagu|Greece}}''
+|George Papandreou (b.1952)
+|MSc Sociology 1977
+|Prime minister 2009–2011
+|-
+|''{{Flagu|Greece}}''
+|Dr Constantine Simitis (b. 1936)
+|Research Fee Student 1961–1963
+|Prime minister 1996-2004
+|-
+|''{{Flagu|Grenada}}''
+|[[Maurice Bishop]] (1944–1983)
+|
+|[[Prime Minister of Grenada|Prime Minister]] 1979–1983996–2004
+|-
+|''{{Flagu|Guyana}}''
+|[[Forbes Burnham]] (1923–1985)
+|LLB 1948
+|[[List of Presidents of Guyana|President]]
+|-
+|''{{Flagu|India}}''
+|Shri KR Narayanan (1921–2005)
+|BSc (Econ) 1945–1948
+|President 1997–2002
+|-
+|''{{Flagu|Israel}}''
+|Moshe Sharett (1894–1965)
+|BSc (Econ) 1924
+|Prime minister 1953–1955
+|-
+|''{{Flagu|Italy}}''
+|Professor Romano Prodi (b. 1939)
+|Research Fee Student 1962–1963
+|Prime minister 1996–1998; 2006–2008
+|-
+|''{{Flagu|Jamaica}}''
+|Michael Manley (1924–1997)
+|BSc (Econ) 1949
+|Prime minister 1972–1980; 1989–1992
+|-
+|''{{Flagu|Jamaica}}''
+|P J Patterson
+|LLB 1963
+|Prime minister 1992–2006
+|-
+|''{{Flagu|Japan}}''
+|Taro Aso (b.1940)
+|Occasional Student 1966
+|Prime minister 2008–2009
+|-
+|''{{Flagu|Kenya}}''
+|Jomo Kenyatta (1891–1978)
+|ADA 1936
+|First president 1964–1978
+|-
+|''{{Flagu|Kenya}}''
+|Mwai Kibaki (b. 1931)
+|BSc Economics 1959
+|President 2002–
+|-
+|''{{Flagu|Kiribati}}''
+|Anote Tong (b.1952)
+|MSc Sea-Use Group 1988
+|President 2003–
+|-
+|''{{Flagu|Libya}}''
+|[[Saif al-Islam Gaddafi]] (b. 1972)
+|MSc Philosophy and Public Policy, PhD Philosophy
+|[[Politics of Libya under Gaddafi#Prominent members of the regime|Acting Prime Minister of Libya]]
+|-
+|''{{Flagu|Malaysia}}''
+|[[Tuanku Jaafar]] (b. 1922)
+|
+|[[Yang di-Pertuan Agong|Yang di-Pertuan Agong (King)]] 1994–1999
+|-
+|''{{Flagu|Mauritius}}''
+|[[Seewoosagur Ramgoolam]] (1900–1985)
+|
+|[[List of Prime Ministers of Mauritius|Prime Minister]] 1961–1982
+|-
+|''{{Flagu|Mauritius}}''
+|[[Veerasamy Ringadoo|Sir Veerasamy Ringadoo]] (1920–2000)
+|LLB 1948
+|First president of Mauritius March–June 1992
+|-
+|''{{Flagu|Mauritius}}''
+|[[Navin Ramgoolam|Dr Navinchandra Ramgoolam]] (b. 1947)
+|LLB 1990
+|Prime minister 1995–2000; 2005–
+|-
+|''{{Flagu|Nepal}}''
+|Sher Bahadur Deuba (b. 1943)
+|Research Student International Relations 1988–1989
+|Prime minister 1995–1997; 2001–2003; 2004–2005
+|-
+|''{{Flagu|Panama}}''
+|Harmodio Arias (1886–1962)
+|Occasional Student, 1909–1911
+|President 1932–1936
+|-
+|''{{Flagu|Peru}}''
+|Pedro Gerardo Beltran Espanto (1897–1979)
+|BSc (Econ) 1918
+|Prime minister 1959–1961
+|-
+|''{{Flagu|Peru}}''
+|Beatriz Merino (b.1947)
+|LLM 1972
+|Prime minister 2003
+|-
+|''{{Flagu|Poland}}''
+|[[Edward Szczepanik]] (1915–2005)
+|
+|[[Prime Minister of Poland|Prime Minister]] of the [[Polish government in exile]], 1986–1990
+|-
+|''{{Flagu|Poland}}''
+|Marek Belka (b.1952)
+|Summer School 1990
+|Prime minister 2004–05
+|-
+|''{{Flagu|Saint Lucia}}''
+|John Compton (b. 1926)
+|LLB 1952
+|Premier 1964–1979; Prime minister Feb–Jul 1979 &amp; 1982–1996
+|-
+|''{{Flagu|Sierra Leone}}''
+|[[Banja Tejan-Sie]], (1917–2000)
+|
+|[[Governor-General]] and leader of opposition [[Sierra Leone People's Party]]
+|-
+|''{{Flagu|Singapore}}''
+|Goh Keng Swee (1918–2010)
+|BSc Economics 1951; PhD Economics 1956
+|Deputy prime minister 1959–84
+|-
+|''{{Flagu|Singapore}}''
+|Tharman Shanmugaratnam (1957–)
+|BSc Economics 1981
+|Deputy prime minister 2011–
+|-
+|''{{Flagu|Singapore}}''
+|[[Lee Kuan Yew]] (b. 1923)
+|
+|[[Prime Minister]] 1959–1990
+|-
+|''{{Flagu|Taiwan}}''
+|[[Yu Kuo-Hwa]] (1914–2000)
+|Composition fee student 1947–1949
+|[[Premier of the Republic of China|Premier]]  1984–1989
+|-
+|''{{Flagu|Taiwan}}''
+|[[Tsai Ing-wen]] (b.1956)
+|PhD Law 1984
+|Vice-premier 2006–2007
+|-
+|''{{Flagu|Thailand}}''
+|[[Tanin Kraivixien]] (b. 1927)
+|LLB 1953
+|[[Prime Minister of Thailand|Prime Minister]]  1976–1977
+|-
+|''{{Flagu|Togo}}''
+|[[Sylvanus Olympio]] (1902–1963)
+|
+|[[Prime Minister of Togo|President]]  1958–1961, first [[President of Togo|President]], 1961–1963
+|-
+|''{{Flagu|United Kingdom}}''
+|Lord Attlee (1883–1967)
+|Lecturer in social science and administration, 1912–1923
+|Prime minister, 1945–1951
+|-
+|''{{Flagu|United States}}''
+|John F Kennedy (1917–1963)
+|General Course student 1935
+|President 1961–1963
+|}
+
+== Further reading ==
+# &quot;LSE: A History of the London School of Economics and Political Science, 1895–1995&quot;, ''[[Oxford University Press]]'', 1 June 1995.
+# &quot;Determined Challengers Keep Heat On The Elite&quot;, ''[[The Times Higher Education Supplement]]'', 28 October 2005
+# &quot;[http://www.mla.gov.uk/news/press_article.asp?articleid=867 Outstanding library and archive collections receive national recognition]&quot;, ''MLA News'', 28 October 2005
+# &quot;[http://news.bbc.co.uk/onthisday/hi/dates/stories/january/24/newsid_2506000/2506485.stm 1969: LSE closes over student clashes]&quot;, ''BBC News''
+# &quot;[http://www.economics.utoronto.ca/ranking.html JEEA Published Ranking]&quot;, &quot;Source: Table 3 of Pantelis Kalaitzidakis, Theofanis P. Mamuneas, and Thanasis Stengos (2003)&quot;
+# &quot;[http://ideas.repec.org/top/top.uk.html IDEAS Research Assessment UK top 20% of Departments &amp; World top 5% of Departments]&quot;, &quot;IDEAS, University of Connecticut, Top 20% UK institutions&quot;
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* [http://www2.lse.ac.uk/ London School of Economics and Political Science]
+* [http://www.lsesu.com/ LSE Students' Union]
+* [http://www.shl.lon.ac.uk/specialcollections/archives/studentrecords.shtml LSE student lists]
+* [http://www.ull.ac.uk/specialcollections/archives/militaryservice.shtml LSE military personnel,1914–1918]
+* [http://archives.lse.ac.uk/Record.aspx?src=CalmView.Catalog&amp;id=LSE Catalogue of the archives of LSE]
+* [http://archives.lse.ac.uk/Record.aspx?src=Catalog&amp;id=BEVERIDGE%2f5%2f4 Memorandum about the School by William Beveridge, 1935]
+* [http://archives.lse.ac.uk/TreeBrowse.aspx?src=CalmView.Catalog&amp;field=RefNo&amp;key=LSE%2FMINUTES Catalogue of School minute books, 1894–]
+{{London School of Economics}}
+{{Navboxes|list1=
+{{University of London}}
+{{Russell Group}}
+{{APSIA}}
+{{Cems School}}
+{{Universities and colleges in London}}
+{{Universities in the United Kingdom}}
+}}
+
+{{DEFAULTSORT:London School Of Economics}}
+[[Category:London School of Economics|*]]
+[[Category:Association of Commonwealth Universities]]
+[[Category:Economics schools]]
+[[Category:Education in London]]
+[[Category:Education in Westminster]]
+[[Category:Educational institutions established in 1895]]
+[[Category:Russell Group]]
+[[Category:1895 establishments in England]]
+
+[[ar:كلية لندن للاقتصاد]]
+[[bn:লন্ডন স্কুল অফ ইকোনমিক্স]]
+[[be-x-old:Лёнданская школа эканомікі]]
+[[bg:Лондонско училище по икономика и политически науки]]
+[[ca:London School of Economics]]
+[[cs:London School of Economics]]
+[[cy:Ysgol Economeg a Gwyddor Gwleidyddiaeth Llundain]]
+[[da:London School of Economics]]
+[[de:London School of Economics and Political Science]]
+[[et:London School of Economics and Political Science]]
+[[el:London School of Economics]]
+[[es:London School of Economics]]
+[[fa:مدرسه اقتصاد لندن]]
+[[fr:London School of Economics]]
+[[ko:런던 정치경제대학교]]
+[[hr:London School of Economics]]
+[[is:London School of Economics]]
+[[it:London School of Economics and Political Science]]
+[[he:בית הספר לכלכלה של לונדון]]
+[[kn:ಲಂಡನ್ ಸ್ಕೂಲ್ ಆಫ್ ಎಕನಾಮಿಕ್ಸ್]]
+[[ka:ლონდონის ეკონომიკის სკოლა]]
+[[sw:London School of Economics]]
+[[lt:Londono ekonomikos ir politikos mokslų mokykla]]
+[[hu:London School of Economics]]
+[[ms:London School of Economics]]
+[[nl:London School of Economics]]
+[[ja:ロンドン・スクール・オブ・エコノミクス]]
+[[no:London School of Economics]]
+[[nn:London School of Economics]]
+[[pl:London School of Economics]]
+[[pt:London School of Economics]]
+[[ro:The London School of Economics and Political Science]]
+[[ru:Лондонская школа экономики и политических наук]]
+[[simple:London School of Economics]]
+[[fi:London School of Economics]]
+[[sv:London School of Economics]]
+[[ta:இலண்டன் பொருளாதாரப் பள்ளி]]
+[[tt:London School of Economics]]
+[[th:วิทยาลัยเศรษฐศาสตร์และรัฐศาสตร์แห่งลอนดอน]]
+[[tr:Londra Ekonomi Okulu]]
+[[uk:Лондонська школа економіки та політичних наук]]
+[[vi:Trường Kinh tế và Khoa học Chính trị Luân Đôn]]
+[[yi:לאנדאנער שולע פון עקאנאמיק]]
+[[yo:London School of Economics]]
+[[zh:倫敦政治經濟學院]]</text>
+      <sha1>fo90v5ybtuoqdk7yyyd4czlk3005npm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

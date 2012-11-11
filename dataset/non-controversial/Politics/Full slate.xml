@@ -1,0 +1,67 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Full slate</title>
+    <ns>0</ns>
+    <id>1781267</id>
+    <revision>
+      <id>353836714</id>
+      <parentid>342681645</parentid>
+      <timestamp>2010-04-04T02:34:49Z</timestamp>
+      <contributor>
+        <ip>174.111.9.90</ip>
+      </contributor>
+      <comment>stub osrt</comment>
+      <text xml:space="preserve" bytes="2532">{{Unreferenced stub|auto=yes|date=December 2009}}
+Any [[political party]] or [[Political faction|faction]] that seeks to form a [[majority]] in a [[parliament]] or on a [[board of directors]] or other responsible body typically must run a full [[slate (elections)|slate]] if only to demonstrate that they have the capacity to attract the talent to fill every position with some person, even if that person is not ideal for the job.  Failure to do so is normally taken as a signal of a lack of [[Confidence (political science)|confidence]] in the leadership of the faction or party, since it should be possible in a well-run organization to find someone willing to at least run for a job they are not fit to perform, to show solidarity.
+
+Major political parties tend to be able to take a full slate for granted:  all the positions they run for, they have some chance of winning, and the party is well-funded, and people can gain contacts and prestige from running for that party.  It will likewise have even less of a problem filling its internal roles.
+
+While a minor political party may have little trouble filling its own officer positions or [[Shadow Cabinet]], these deploying the little power it has, it will likely have much more trouble offering candidates for every legislative position in every [[electoral district]].  The so-called &quot;[[parachute candidate]]s&quot; who run for election in a district that is not their own home nor where they necessarily have close ties, are always a means to achieve a '''full slate''' or close to it.  This demonstrates solidarity and allows people to vote for a party but is not typically understood as a serious offering for the person to take the job.  It is considered to be a highly questionable practice by most who advocate [[electoral reform]], in part to get rid of any necessity to engage in such tricks.
+
+In some [[country|countries]], [[State (polity)|states]], [[province]]s or [[Territory (country subdivision)|territories]], running a full slate seems to be a pre-requisite for [[Mass media|media]] coverage or participation in a televised leaders' [[debate]] such as the [[United States presidential election debates]].
+
+In a [[presidential system]] like the [[United States]] there are other [[nomination rules]], [[ballot access]] and media access issues but being able to run in every U.S. [[electoral district]] and &quot;on the ballot&quot; in every state, is certainly one of the signs of being a &quot;major&quot; party.
+
+{{DEFAULTSORT:Full Slate}}
+[[Category:Elections]]
+{{Election-stub}}</text>
+      <sha1>2pr1ziapvdohf9e0i4zqm4immyk9gme</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

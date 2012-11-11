@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Concord Principles</title>
+    <ns>0</ns>
+    <id>604429</id>
+    <revision>
+      <id>479049807</id>
+      <parentid>475395572</parentid>
+      <timestamp>2012-02-27T01:41:31Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <comment>merged templates into [[Template:Multiple issues]] &amp; [[WP:AWB/GF|general fixes]] using [[Project:AWB|AWB]] (7961)</comment>
+      <text xml:space="preserve" bytes="2461">{{Multiple issues|no footnotes = January 2012|one source = January 2012|primarysources = December 2010}}
+
+[[Image:Ralph Nader 3 by David Shankbone edited-1.jpg|thumb|Ralph Nader]] [[Ralph Nader]]'s '''Concord Principles''' were offered in 1992 as an invitation to the [[Presidential]] candidates to improve civic dialogue and the [[democracy|democratic]] institutions of the [[United States]].
+
+They are written as 10 pleas intended to avert a trend of [[corporatism]] in [[government]], [[plutocracy|plutocratic]] influence, banal sloganistic [[election]]s, power singularities and a popular sense of political futility in political dialogue.
+
+The list calls for:
+*More governmental [[transparency (humanities)|transparency]] and civic communication for social [[consensus]].
+*More public control over civic assets such as public lands, airwaves and pension funds.
+*Strengthened protections from [[big government]] and big [[corporation]]s.
+*Democratic protections against nullification of voter powers by:
+**Bold options for &quot;None of the above&quot;.
+**12 year maximum [[term limits]].
+**Improved voter registration and ballot access.
+**Public financing of elections.
+**Binding [[referendum]], [[initiative]] and [[recall election|recall]] powers for state voters and non-binding national referendums.
+**Checks on [[President of the United States|Presidential]] and [[United States Congress|Congressional]] pay raises.
+*Improved taxpayer oversight of public expenditure.
+*Improving the civic information infrastructure through:
+**Computerized government records.
+**Utility company billing as a civic notification process.
+**Expanded [[public access television]].
+*Strengthened access to [[court]]s to prevent corporate and government abuse.
+*Protection for [[whistleblower]]s.
+*[[Shareholder]] protections against corporate greed.
+*Strengthening school [[curriculum]] in civic [[participation (decision making)|participation]].
+
+==See also==
+*[[Collective intelligence]]
+*[[Concordance system]]
+*[[Consensus decision making]]
+*[[Consensus democracy]]
+*[[Corporatocracy]]
+*[[Deliberative democracy]]
+*[[Direct democracy]]
+*[[Knowledge management]]
+*[[Public domain]]
+
+==External links==
+*[http://www.co-intelligence.org/CIPol_ConcordPrinciples.html Ralph Nader's Concord Principles]
+
+[[Category:Political manifestos]]
+[[Category:Electoral reform in the United States]]
+[[Category:1992 in American politics]]
+[[Category:Works by Ralph Nader]]
+[[Category:1992 works]]</text>
+      <sha1>jzeyofdfwwerj6kwgi2plh94xpk924r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

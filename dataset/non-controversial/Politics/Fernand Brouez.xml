@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fernand Brouez</title>
+    <ns>0</ns>
+    <id>7629760</id>
+    <revision>
+      <id>466911462</id>
+      <parentid>396957980</parentid>
+      <timestamp>2011-12-20T20:34:16Z</timestamp>
+      <contributor>
+        <username>WikitanvirBot</username>
+        <id>11340674</id>
+      </contributor>
+      <minor/>
+      <comment>r2.7.1) (Robot: Adding [[es:Fernand Brouez]]</comment>
+      <text xml:space="preserve" bytes="2737">'''Fernand Brouez''' (1861, [[Wasmes]] – 1900, [[Brussels]]) was the founder and publisher of ''La Société Nouvelle'' (The New Society). He initially edited the magazine with Belgian-born Arthur James, whom he met at the [[Université Libre de Bruxelles]]', and after 1889 with various other individuals. 
+
+The second son of Jules Brouez and Victorine Sapin, Fernand and his older brother Paul both enrolled at the Université Libre de Bruxelles, where Fernand initially failed at his studies. Switching between philosophy, law and medicine, he had still not placed his candidacy for a doctorate by the age of 29. Yet he managed to surround himself with the elite of Belgian, international intellectuals and artists of the time. He believed in socialism and social conscience. On 20 November 1884, the first edition of ''La Société Nouvelle'' was published, financed by his father Jules Brouez. It would become the most important magazine on social issues, arts, sciences and literature of the epoch. Fernand Brouez's contribution to French speaking Europe remains unparalleled. He fell victim to [[syphilis]], either by sexual contact, his future wife being a possible silent carrier given her past, or according to several credible sources, from a cut at a course in anatomy when studying medicine. In 1896 he married Cornelia Hubertina Doff (1858-1942), the later [[Neel Doff]]. The character of André in her second book, ''Keetje'', is based upon Fernand Brouez. Fernand Brouez was buried in the Brouez family vault at the [[Ixelles Cemetery]] on 3 July 1900. 
+
+==References==
+* Fabrice Wilvers : ''La Société Nouvelle'' et ''L'Humanité Nouvelle'', deux revues cosmopolites et pluralistes[http://sd-1.archive-host.com/membres/up/78199831766306927/MEMOIRES/LaSocieteNouvelle.pdf]. 
+* Mémoire de Licence en Sciences du Livre et des Bibliothèques, Faculté de Philosophie et Lettres, Section Infodoc, année académique 2001-2002, Université Libre de Bruxelles.
+* ''Neel Doff : A Biography'',  Renée Linkhorn; Belgian Francophone Library, vol. 8, English translation of ‘Neel Doff’ by [[Évelyne Wilwerth]].
+* ''Neel Doff, leven na Keetje Tippel'', written in [[Dutch language|Dutch]] by [[Eric Defoort]].
+* ''Keetje'' by [[Neel Doff]].
+
+{{Persondata &lt;!-- Metadata: see [[Wikipedia:Persondata]]. --&gt;
+| NAME              = Brouez, Fernand
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION =
+| DATE OF BIRTH     = 1861
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 1900
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Brouez, Fernand}}
+[[Category:1861 births]]
+[[Category:1900 deaths]]
+[[Category:Utopian socialists]]
+[[Category:Belgian socialists]]
+
+
+{{Belgium-bio-stub}}
+
+[[es:Fernand Brouez]]
+[[eo:Fernand Brouez]]
+[[nl:Fernand Brouez]]</text>
+      <sha1>8ep9wlrpzn6mij0q5ujnvm97d261aga</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

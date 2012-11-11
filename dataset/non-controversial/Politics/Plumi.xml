@@ -1,0 +1,154 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Plumi</title>
+    <ns>0</ns>
+    <id>13135377</id>
+    <revision>
+      <id>507301167</id>
+      <parentid>507300894</parentid>
+      <timestamp>2012-08-14T01:10:56Z</timestamp>
+      <contributor>
+        <ip>49.2.27.166</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="8865">{{Infobox Software |
+  name = Plumi |
+  logo = |
+  screenshot =  |
+  caption = |
+  developer = EngageMedia/Unweb/Infinite Recursion |
+  programming_language = [[Python (programming language)|Python]] |
+  status = Active |
+  latest_release_version = 4.4 |
+  latest_release_date = {{release date|2012|07|27}}|
+  operating_system = [[Linux]]/[[Unix]]/[[Mac OS X]] |
+  license = [[GNU General Public License|GNU GPL]]/[[Zope Public License|ZPL]] |
+  website = http://www.plumi.org/ |
+}}
+{{Portal|Free software}}
+'''Plumi''' is a [[free software]] [[video sharing]] [[content management system]] based on [[Plone (software)|Plone]] and primarily developed by the Asia-Pacific based [[EngageMedia]], the Greece based Unweb.me consultancy, Infinite Recursion, and others.&lt;ref&gt;https://dev.plone.org/collective/browser/plumi.buildout/branches/3.1/CHANGELOG.txt&lt;/ref&gt;&lt;ref&gt;https://dev.plone.org/collective/browser/plumi.buildout/branches/3.1/AUTHORS.txt&lt;/ref&gt; Plumi allows users to create a video sharing site by adding it to an existing Plone instance. The software includes a wide array of functionality to facilitate video distribution and community creation.&lt;ref&gt;http://plone.org/products/plumi&lt;/ref&gt;&lt;ref&gt;Bauwens, Michael &quot;Plumi&quot;, http://p2pfoundation.net/Plumi, Published 29 February 2008, Accessed 29 November 2010&lt;/ref&gt;
+
+Plumi is one project that aims to help establish &quot;community controlled, noncommercial, free and open source alternatives&quot; to commercial video sites such as YouTube.&lt;ref&gt;[[Sasha Costanza-Chock|Costanza-Chock S]] and Henry Jenkins in &quot;DIY Video 2010: Activist Media (Part Three)&quot;, http://henryjenkins.org/2010/11/diy_video_2010_activist_media_2.html, Published 1 November 2010, Accessed 29 November 2010&lt;/ref&gt; It is designed to allow communities and &quot;citizen publishers create their own video-sharing communities out of the box&quot;&lt;ref&gt;Lasica, JD &quot;Open Media Publishing: One New Option&quot;, http://www.pbs.org/idealab/2008/02/open-media-publishing-one-new-option005.html , Published 14 February 2008, Accessed 29 November 2010&lt;/ref&gt; It is also designed to be more accessible to non-profit groups and independent journalists, given it is available as free-software without cost.&lt;ref&gt;Oliver, Laura &quot;Innovations in Journalism – Plumi&quot;, http://blogs.journalism.co.uk/editors/2008/04/04/innovations-in-journalism-plumi/, Published 4 April 2008, Accessed 29 November 2010&lt;/ref&gt;
+
+==History==
+===Plumi for Plone 2===
+Plumi was first developed for Plone 2 by EngageMedia, with the first stable version released in September 2007.&lt;ref&gt;http://plone.org/products/plumi/releases/0.1-final&lt;/ref&gt;&lt;ref&gt;Rheingold, Howard &quot;Plumi — free software video sharing platform&quot; http://www.smartmobs.com/2007/07/11/plumi-free-software-video-sharing-platform/ Published 11 July 2007, Accessed 29 November 2010&lt;/ref&gt; 
+
+The second major release occurred on February 8, 2008. By this time several organisations and projects had installed Plumi to create their own video-sharing websites, including the World Social Forum TV, Bonn University Africa on TV and CabTube.&lt;ref&gt;http://plone.org/products/plumi/releases/0.2-final&lt;/ref&gt;
+
+===Plumi for Plone 3===
+Version 3.0 of Plumi is based on Plone 3 and was deployed on May 19, 2010.&lt;ref&gt;https://unweb.me/weblog/plumi-3.0-released&lt;/ref&gt; The latest production version is 3.1.2 that was released at the end of November, 2010.&lt;ref&gt;http://plone.org/products/plumi/releases/3.1.2&lt;/ref&gt;
+
+===Plumi for Plone 4===
+Development on migration to Plone 4 began in October 2010, with a 4.0b1 beta released in late November&lt;ref&gt;http://plone.org/products/plumi/releases/4.0b1&lt;/ref&gt; and a release candidate for 4.0 released in early December.&lt;ref&gt;http://plone.org/products/plumi/releases/4.0%20RC%201&lt;/ref&gt;
+
+A final stable release of Plumi 4.0 for Plone 4.0 was released on January 17, 2011.&lt;ref&gt;http://plone.org/products/plumi/releases/4.0-final&lt;/ref&gt; This version includes bug fixes and improvements to ensure a stable release primarily focused on rebasing Plumi on Plone 4, in addition to other improvements and re-factoring of Plumi including new production and development buildouts located inside the plumi.app egg, updating the caching system, cleanup of installation code and moving parts to GenericSetup, replacing older products with newer and better maintained products or removing dependencies and other improvements. [[FFmpeg]] and codecs required by the transcoding framework are also now included in the buildout which means a simpler installation process.
+
+A beta of Plumi 4.3 was released on December 4, 2011.&lt;ref&gt;http://plone.org/products/plumi/releases/4.3b2&lt;/ref&gt; The beta includes updating to Plone 4.1.2, support for 16:9 video transcoding, webm transcoding, replacement of Flowplayer with mediaelement.js HTML5 player, video language added to metadata and support for the Universal Subtitles platform. A final version of 4.3 was released in January 2012.&lt;ref&gt;http://plone.org/products/plumi/releases/4.3-Final&lt;/ref&gt;
+
+Plumi 4.3.1 Final was released in April 2012.&lt;ref&gt;http://plone.org/products/plumi/releases/4.3.1/&lt;/ref&gt; This includes minor improvements to the backend and user interface.
+
+==Features==
+
+The latest version of Plumi is packaged with Plone 4.x. Developers have the option to run a buildout to create either a development or production environment using Plumi.
+
+On top of the out-of-the-box Plone functionality Plumi adds the following features&lt;ref&gt;http://plone.org/products/plumi&lt;/ref&gt;&lt;ref&gt;http://blog.dreamcss.com/content-management-system/plumi-free-video-sharing-cms/&lt;/ref&gt;:
+
+* Video Uploading/Download
+** Upload video in any format (over HTTP)
+** Large video file uploads via FTP (automatically added to Plone site)
+** Expanded video metadata set (Director, Producer, Date Produced etc.)
+** [[BitTorrent (protocol)|BitTorrent]] seeds created automatically on video upload
+* Video Transcoding and Playback using Transcode Star
+** Automatic server-side transcoding to [[MPEG-4 Part 14|MP4]] [[H.264/MPEG-4 AVC|H.264]] and [[Ogg]] Theora (configurable) via FFmpeg
+** Embedded HTML5 video playback via mediaelement.js
+** Automatic [[thumbnail]] extraction
+** Auto extraction of video duration
+* User interface / theme
+** Custom templates for browsing videos
+** Enhanced author page (user profile) including latest videos, news &amp; events and personal latest videos [[Video podcast|vodcast]] feed
+** Customised workspaces and video publishing workflow
+* Language and Translations
+** Integration with Universal Subtitles - viewing and adding of subtitles via video player
+** Indonesian translation of Plumi and Plone interface
+** Built in content translation via LinguaPlone
+* Classification, Licensing and Ratings
+** Content ratings
+** Classifications system into country, genre and topic using ATVocabulary Manager
+** [[Tag cloud]] of keywords
+** Content licensing including [[Creative Commons]] licensing (through their API), the [[GNU Free Documentation License]] (GFDL) or you can add custom licenses or use traditional copyright
+* [[RSS]] and discussion
+** RSS feeds with media enclosures (or &quot;vodcasts&quot;) created automatically based on taxonomy items - e.g. country, genre, member, topic or through creating custom smart folders usingqRSS2Syndication
+** enhanced comments functionality using Plone Discussions
+* Back-end
+** Multiple load-balanced Zope instances using Zeo-clusters managed using Supervisor
+** Caching via [[Varnish (software)|Varnish]]
+** Production and development builds available
+
+==Development==
+Plumi is a community based [[free software]] project. It is developed by people/companies from all around the world using the following technologies in order to carry out work in a collaborative fashion as well as to communicate&lt;ref&gt;http://blog.plumi.org/&lt;/ref&gt;:
+
+* [[mailing list]]s; those are also carried on [[Gmane]]
+* an [[Internet Relay Chat|IRC]] channel (#plumi) at irc.freenode.net
+* a [[ticketing system]] - http://plumi.org/report/3
+* a [[software configuration management]] system
+* [https://www.ohloh.net/p/plumi Ohloh tracking and measurement]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://plumi.org/ Official website]
+* [http://plone.org/products/plumi/ Plone.org product page]
+* [http://www.indymedia.org.uk/en/2007/07/375740.html video.indymedia is dead - long live independent online video networks!]
+* [http://www.smartmobs.com/2007/07/11/plumi-free-software-video-sharing-platform/ Plumi — free software video sharing platform]
+* [http://www.contentmanagementsoftware.info/plone/plumi Content Management Software - Plumi (0.1)]
+* [http://linux.softpedia.com/get/Multimedia/Video/Plumi-31021.shtml Linux Softpedia page for Plumi]
+* [http://p2pfoundation.net/Plumi Plumi page on P2P Foundation]
+
+[[Category:Free software programmed in Python]]
+[[Category:Free content management systems]]
+[[Category:Video hosting software]]
+[[Category:Zope]]
+
+[[id:Plumi]]
+[[ja:Plumi]]</text>
+      <sha1>hqh9dmq2a8u4mseq5is5vyi5bwzch9k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

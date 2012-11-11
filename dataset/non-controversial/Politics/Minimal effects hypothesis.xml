@@ -1,0 +1,65 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.21wmf3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Minimal effects hypothesis</title>
+    <ns>0</ns>
+    <id>14679356</id>
+    <revision>
+      <id>491958712</id>
+      <parentid>401913986</parentid>
+      <timestamp>2012-05-11T07:09:46Z</timestamp>
+      <contributor>
+        <username>Helpful Pixie Bot</username>
+        <id>14216826</id>
+      </contributor>
+      <minor/>
+      <comment>ISBNs (Build KG)</comment>
+      <text xml:space="preserve" bytes="1850">In [[political science]], the '''minimal effects hypothesis''' states that [[political campaign]]s only marginally persuade and convert voters. The hypothesis was formulated during early research into [[voting behavior]] between the 1940s and the 1960s. The hypothesis seemed solid and was associated with the general assumption that voters had clear positions on issues and knew where candidates stood on these issues. Since then the minimal effects hypothesis has been criticized and empirical research since the 1980s has suggested that voters do have uncertainties about candidates' positions and these uncertainties do influence voters' decisions.&lt;ref&gt;Lynn Vavreck (2001) &quot;Voter Uncertainty and Candidate Contact: New Influences on Voting Behavior&quot;, Chapter 6 in Roderick P. Hart and Daron R. Shaw, eds, ''Communication in U.S. Elections: New Agendas'', Rowman and Littlefield Publishers: Lanham, ISBN 0-7425-0069-1, [http://books.google.com/books?id=t3AX0ndC0ycC&amp;pg=PA92#v=onepage&amp;q=&amp;f=false pp. 92-94].&lt;/ref&gt; These findings have led to renewed interest in research into the effects of campaigns, with recent published research appearing both for and against the minimal effects hypothesis.&lt;ref&gt;See, for example, Robert E. Goodin and James Mahmud Rice (2009) &quot;[http://www.jamesmahmudrice.info/Poll.pdf Waking Up in the Poll Booth]&quot;, ''Perspectives on Politics'', 7(4), December, pp. 901-910 and D. Sunshine Hillygus and Simon Jackman (2003) &quot;[http://wand.stanford.edu/courses/polisci350c/classonly/hillygusjackman.pdf Voter Decision Making in Election 2000: Campaign Effects, Partisan Activation, and the Clinton Legacy]&quot;, ''American Journal of Political Science'', 47(4), October, pp. 583-596.&lt;/ref&gt;
+
+==See also==
+* [[Pluralism (political philosophy)|Pluralism]]
+* [[Corporatism]]
+
+==References==
+&lt;references /&gt;
+
+[[Category:Political science]]</text>
+      <sha1>nhxyi4e2t78nb59coh62dhxad3vsetv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>
