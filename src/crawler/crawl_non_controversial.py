@@ -18,7 +18,7 @@ def find_pages(tree):
 
 def download_article(title,category):
     url = "http://en.wikipedia.org/w/api.php"
-    payload = {'action': 'query', 'titles': title, 'format': 'json', 'export': 'exportnowrap'}
+    payload = {'action': 'query', 'titles': title, 'format': 'json', 'export': 'exportnowrap', 'redirects' : 'true' }
     try:
         r = requests.get(url, params = payload)
         save_article_to_file(category, title, r.json['query']['export']['*'])
@@ -30,7 +30,7 @@ def download_article(title,category):
 def save_article_to_file(category, title, text):
     category = category.replace("/", "_")
     title = title.replace("/","_")
-    directory = "../../dataset/non-controversial/" + category
+    directory = "../../dataset/" + category + "/non-controversial/"
     make_sure_path_exists(directory)
     f = open(directory + "/"  + title + ".xml", 'w')
     f.write(text.encode('utf8'))
@@ -44,11 +44,14 @@ def make_sure_path_exists(path):
             raise
 
 def crawl():
-    category = "History"
-    r = requests.get("http://en.wikipedia.org/wiki/Index_of_history_articles")
+    category = "Religion"
+    url = "http://en.wikipedia.org/wiki/Index_of_religion-related_articles"
+    r = requests.get(url)
     soup = BeautifulSoup(r.text)
     titles = find_pages(soup)
     for title in titles:
+        if title.startswith("Talk:"): # for a bug in religious cateogry
+            pass
         download_article(title, category)
         print "Article %s in category %s has been saved" %(title,category)
 

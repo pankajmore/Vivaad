@@ -18,7 +18,7 @@ def find_categories(tree):
 
 def download_article(title,category):
     url = "http://en.wikipedia.org/w/api.php"
-    payload = {'action': 'query', 'titles': title, 'format': 'json', 'export': 'exportnowrap'}
+    payload = {'action': 'query', 'titles': title, 'format': 'json', 'export': 'exportnowrap', 'redirects': 'true'}
     try:
         r = requests.get(url, params = payload)
         save_article_to_file(category, title, r.json['query']['export']['*'])
@@ -30,7 +30,7 @@ def download_article(title,category):
 def save_article_to_file(category, title, text):
     category = category.replace("/", "_")
     title = title.replace("/","_")
-    directory = "../../dataset/controversial/" + category
+    directory = "../../dataset/" + category + "/controversial"
     make_sure_path_exists(directory)
     f = open(directory + "/"  + title + ".xml", 'w')
     f.write(text.encode('utf8'))
