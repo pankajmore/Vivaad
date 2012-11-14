@@ -1,0 +1,79 @@
+Search theory In microeconomics, search theory studies buyers or sellers who
+cannot instantly find a trading partner, and must therefore search for a
+partner prior to transacting. Search theory has been influential in many areas
+of economics. It has been applied in labor economics to analyze frictional
+unemployment resulting from job hunting by workers. In consumer theory, it has
+been applied to analyze purchasing decisions. From a worker's perspective, an
+acceptable job would be one that pays a high wage, one that offers desirable
+benefits, and/or one that offers pleasant and safe working conditions. From a
+consumer's perspective, a product worth purchasing would have sufficiently high
+quality, and be offered at a sufficiently low price. In both cases, whether a
+given job or product is acceptable depends on the searcher's beliefs about the
+alternatives available in the market. More precisely, search theory studies an
+individual's optimal strategy when choosing from a series of potential
+opportunities of random quality, under the assumption that delaying choice is
+costly. Search models illustrate how best to balance the cost of delay against
+the value of the option to try again. Mathematically, search models are optimal
+stopping problems. Macroeconomists have extended search theory by studying
+general equilibrium models in which one or more types of searchers interact.
+These macroeconomic theories have been called 'matching theory', or 'search and
+matching theory'. Search from a known distribution. George J. Stigler proposed
+thinking of searching for bargains or jobs as an economically important
+problem. John J. McCall proposed a dynamic model of job search, based on the
+mathematical method of optimal stopping, on which much later work has been
+based. McCall's paper studied the problem of which job offers an unemployed
+worker should accept, and which reject, when the distribution of alternatives
+is known and constant, and the value of money is constant. Holding fixed job
+characteristics, he characterized the job search decision in terms of the
+reservation wage, that is, the lowest wage the worker is willing to accept. The
+worker's optimal strategy is simply to reject any wage offer lower than the
+reservation wage, and accept any wage offer higher than the reservation wage.
+The reservation wage may change over time if some of the conditions assumed by
+McCall are not met. For example, a worker who fails to find a job might lose
+skills or face stigma, in which case the distribution of potential offers that
+worker might receive will get worse, the longer he or she is unemployed. In
+this case, the worker's optimal reservation wage will decline over time.
+Likewise, if the worker is risk averse, the reservation wage will decline over
+time if the worker gradually runs out of money while searching. The reservation
+wage would also differ for two jobs of different characteristics; that is,
+there will be a compensating differential between different types of jobs. An
+interesting observation about McCall's model is that greater variance of offers
+may make the searcher better off, and prolong optimal search, even if he or she
+is risk averse. This is because when there is more variation in wage offers
+(holding fixed the mean), the searcher may want to wait longer (that is, set a
+higher reservation wage) in hopes of receiving an exceptionally high wage
+offer. The possibility of receiving some exceptionally low offers has less
+impact on the reservation wage, since bad offers can be turned down. While
+McCall framed his theory in terms of the wage search decision of an unemployed
+worker, similar insights are applicable to a consumer's search for a low price.
+In that context, the highest price a consumer is willing to pay for a
+particular good is called the reservation price. Search from an unknown
+distribution. When the searcher does not even know the distribution of offers,
+then there is an additional motive for search: by searching longer, more is
+learned about the range of offers available. Search from one or more unknown
+distributions is called a multi-armed bandit problem. The name comes from the
+slang term 'one-armed bandit' for a casino slot machine, and refers to the case
+in which the only way to learn about the distribution of rewards from a given
+slot machine is by actually playing that machine. Optimal search strategies for
+an unknown distribution have been analyzed using "allocation indices" such as
+the Gittins index. Endogenizing the price distribution. Studying optimal search
+from a given distribution of prices led economists to ask why the same good
+should ever be sold, in equilibrium, at more than one price. After all, this is
+by definition a violation of the law of one price. However, when buyers do not
+have perfect information about where to find the lowest price (that is,
+whenever search is necessary), not all sellers may wish to offer the same
+price, because there is a trade-off between the frequency and the profitability
+of their sales. That is, firms may be indifferent between posting a high price
+(thus selling infrequently, only to those consumers with the highest
+reservation prices) and a low price (at which they will sell more often,
+because it will fall below the reservation price of more consumers). Matching
+theory. More recently, job search, and other types of search, have been
+incorporated into macroeconomic models, using a framework called 'matching
+theory'. Peter A. Diamond, Dale Mortensen, and Christopher A. Pissarides won
+the 2010 Nobel prize in economics for their work on matching theory. In models
+of matching in the labor market, two types of search interact. That is, the
+rate at which new jobs are formed is assumed to depend both on workers' search
+decisions, and on firms' decisions to open job vacancies. While some matching
+models include a distribution of different wages, others are simplified by
+ignoring wage differences, and just imply that workers pass through an
+unemployment spell of random length before beginning work.

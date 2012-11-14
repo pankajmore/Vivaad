@@ -1,0 +1,90 @@
+Kaldor–Hicks efficiency Kaldor–Hicks efficiency, named for Nicholas Kaldor
+and John Hicks, also known as Kaldor–Hicks criterion, is a measure of
+economic efficiency that captures some of the intuitive appeal of Pareto
+efficiency, but has less stringent criteria and is hence applicable to more
+circumstances. Under Kaldor–Hicks efficiency, an outcome is considered more
+efficient if a Pareto optimal outcome can be reached by arranging sufficient
+compensation from those that are made better off to those that are made worse
+off so that all would end up no worse off than before. Explanation. Under
+Pareto efficiency, an outcome is more efficient if at least one person is made
+better off and nobody is made worse off. However, some believe that in
+practice, it is almost impossible to take any social action, such as a change
+in economic policy, without making at least one person worse off. Even
+voluntary exchanges may not be Pareto improving. Under ideal conditions,
+voluntary exchanges are Pareto improving since individuals would not enter into
+them unless they were mutually beneficial. However, a voluntary exchange would
+not be Pareto superior if external costs (such as pollution that hurt a third
+party) exist, as they often do. Using Kaldor–Hicks efficiency, an outcome is
+more efficient if those that are made better off could "in theory" compensate
+those that are made worse off, so that a Pareto improving outcome results. For
+example, a voluntary exchange that creates pollution would be a "Kaldor–Hicks
+improvement" if the buyers and sellers are still willing to carry out the
+transaction even if they have to fully compensate the victims of the pollution.
+The key difference is the question of compensation. Kaldor–Hicks does not
+require compensation actually be paid, merely that the possibility for
+compensation exists, and thus does not necessarily make each party better off
+(or neutral). Thus, under Kaldor–Hicks efficiency, a more efficient outcome
+can in fact leave some people worse off. Pareto efficiency requires making
+every party involved better off (or at least no worse off). While every Pareto
+improvement is a Kaldor–Hicks improvement, most Kaldor–Hicks improvements
+are not Pareto improvements. This is because, as the graph above illustrates,
+the set of Pareto improvements is a proper subset of Kaldor–Hicks
+improvement, which also reflects the greater flexibility and applicability of
+the Kaldor–Hicks criteria relative to the Pareto criteria. For example, in a
+society with two people, suppose initially Person A has 10 sheep and Person B
+has 100 sheep. If some policy change or other shock results with Person A
+ending up with 20 sheep and Person B with 99 sheep, this change would not be
+Pareto improving, since Person B is now worse off. However, it would be a
+Kaldor–Hicks improvement, as Person A could theoretically give Person B
+anywhere between 1 and 10 sheep to accept this alternative situation. Use in
+policy-making. The Kaldor–Hicks methods are typically used as tests of Pareto
+efficiency rather than as efficiency goals themselves. They are used to
+determine whether an activity moves the economy toward Pareto efficiency. Any
+change usually makes some people better off and others worse off, so these
+tests consider what would happen if gainers were to compensate losers or vice
+versa. The Kaldor criterion is that an activity contributes to Pareto
+optimality if the maximum amount the gainers are prepared to pay to the losers
+to agree to the change is greater than the minimum amount losers are prepared
+to accept; the Hicks criterion is that an activity contributes to Pareto
+optimality if the maximum amount the losers would pay the gainers to forgo the
+change is less than the minimum amount the gainers would accept to so agree.
+Thus, the Kaldor test supposes that losers could prevent the arrangement and
+asks whether gainers value their gain so much they would and could pay losers
+to accept the arrangement, whereas the Hicks test supposes that gainers are
+able to proceed with the change and asks whether losers consider their loss to
+be worth less than what it would cost them to pay gainers to agree "not" to
+proceed with the change. After several technical problems with each separate
+criterion were discovered, they were combined into the Scitovsky criterion,
+more commonly known as the "Kaldor–Hicks criterion", which does not share the
+same flaws. The Kaldor–Hicks criterion is widely applied in welfare economics
+and managerial economics. For example, it forms an underlying rationale for
+cost-benefit analysis. In cost-benefit analysis, a project (for example, a new
+airport) is evaluated by comparing the total costs, such as building costs and
+environmental costs, with the total benefits, such as airline profits and
+convenience for travelers. (However, as cost-benefit analysis may also assign
+different social welfare weights to different individuals, e.g. more to the
+poor, the compensation criterion is not always invoked by cost-benefit
+analysis.) The project would typically be given the go-ahead if the benefits
+exceed the costs. This is effectively an application of the Kaldor–Hicks
+criterion because it is equivalent to requiring that the benefits be enough
+that those that benefit could in theory compensate those that have lost out.
+The criterion is used because it is argued that it is justifiable for society
+as a whole to make some worse off if this means a greater gain for others.
+Criticisms. The most common criticism of the Kaldor–Hicks criterion is the
+taking into account of only the absolute level of income, not its distribution.
+A related problem is that any social welfare functions based on Kaldor–Hicks
+criteria are cardinal in nature, and therefore suffer from the aggregation
+problems associated with discrepancies between the marginal value of money of
+rich and poor people. This has mainly to do with the assumption of diminishing
+marginal utility for income: taking one dollar from a poor person causes a
+greater loss in utility than taking a dollar from a rich one. By weighting
+utility variations by the marginal utilities, the social welfare function
+implicit to the Kaldor–Hicks compensation principle is represented by anti-
+egalitarian, concave indifference curves. At a more technical level, various
+versions of the Kaldor–Hicks criteria lack desirable formal properties. For
+instance, Tibor Scitovsky demonstrated that the Kaldor criterion alone is not
+antisymmetric: it's possible to have a situation where an outcome A is an
+improvement (according to the Kaldor criterion) over outcome B, but B is also
+an improvement over A. The combined Kaldor–Hicks criterion does not have this
+problem, but it can be non-transitive (A may be an improvement over B, and B
+over C, but A may not be an improvement over C).

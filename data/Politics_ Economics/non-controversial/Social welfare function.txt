@@ -1,0 +1,113 @@
+Social welfare function In economics, a social welfare function is a real-
+valued function that ranks conceivable social states (alternative complete
+descriptions of the society) from lowest to highest. Inputs of the function
+include any variables considered to affect the economic welfare of a society
+(Sen, 1970, p. 33). In using welfare measures of persons in the society as
+inputs, the social welfare function is individualistic in form. One use of a
+social welfare function is to represent prospective patterns of collective
+choice as to alternative social states. The social welfare function is
+analogous to an indifference-curve map for an individual, except that the
+social welfare function is a mapping of individual preferences or judgments of
+everyone in the society as to collective choices, which apply to all, whatever
+individual preferences are. One point of a social welfare function is to
+determine how close the analogy is to an ordinal utility function for an
+individual with at least minimal restrictions suggested by welfare economics.
+Kenneth Arrow proved a more basic point for a set of seemingly reasonable
+conditions. Bergson–Samuelson social welfare function. In a 1938 article
+Abram Bergson introduced the "social welfare function". The object was "to
+state in precise form the value judgments required for the derivation of the
+conditions of maximum economic welfare" set out by earlier writers, including
+Marshall and Pigou, Pareto and Barone, and Lerner. The function was real-valued
+and differentiable. It was specified to describe the society as a whole.
+Arguments of the function included the quantities of different commodities
+produced and consumed and of resources used in producing different commodities,
+including labor. Bergson showed how welfare economics could describe a standard
+of economic efficiency despite dispensing with "interpersonally-comparable"
+cardinal utility, the hypothesizaton of which may merely conceal value
+judgments, and purely subjective ones at that. Auxiliary specifications enable
+comparison of different social states by each member of society in preference
+satisfaction. These help define "Pareto efficiency", which holds if all
+alternatives have been exhausted to put at least one person in a more preferred
+position with no one put in a less preferred position. Bergson described an
+"economic welfare increase" (later called a "Pareto improvement") as at least
+one individual moving to a more preferred position with everyone else
+indifferent. The social welfare function could then be specified in a
+"substantively" individualistic sense to derive Pareto efficiency (optimality).
+Paul Samuelson (2004, p. 26) notes that Bergson's function "could derive Pareto
+optimality conditions as "necessary" but not sufficient for defining
+interpersonal normative equity." Still, Pareto efficiency could also
+characterize "one" dimension of a particular social welfare function with
+distribution of commodities among individuals characterizing "another"
+dimension. As Bergson noted, a welfare improvement from the social welfare
+function could come from the "position of some individuals" improving at the
+expense of others. That social welfare function could then be described as
+characterizing an equity dimension. He also presented a lucid verbal and
+mathematical exposition of the social welfare function (1947, pp. 219-49) with
+minimal use of Lagrangean multipliers and without the difficult notation of
+differentials used by Bergson throughout. As Samuelson (1983, p. xxii) notes,
+Bergson clarified how production and consumption efficiency conditions are
+distinct from the interpersonal ethical values of the social welfare function.
+Samuelson further sharpened that distinction by specifying the "Welfare
+function" and the "Possibility function" (1947, pp. 243-49). Each has as
+arguments the set of utility functions for everyone in the society. Each can
+(and commonly does) incorporate Pareto efficiency. The Possibility function
+also depends on technology and resource restraints. It is written in implicit
+form, reflecting the "feasible" locus of utility combinations imposed by the
+restraints and allowed by Pareto efficiency. At a given point on the
+Possibility function, if the utility of all but one person is determined, the
+remaining person's utility is determined. The Welfare function ranks different
+hypothetical "sets" of utility for everyone in the society from ethically
+lowest on up (with ties permitted), that is, it makes interpersonal comparisons
+of utility. Welfare maximization then consists of maximizing the Welfare
+function subject to the Possibility function as a constraint. The same welfare
+maximization conditions emerge as in Bergson's analysis. Arrow social welfare
+function (constitution). Kenneth Arrow (1963) generalizes the analysis. Along
+earlier lines, his version of a social welfare function, also called a
+'constitution', maps a set of individual orderings (ordinal utility functions)
+for everyone in the society to a social ordering, a rule for ranking
+alternative social states (say passing an enforceable law or not, ceteris
+paribus). Arrow finds that nothing of behavioral significance is lost by
+dropping the requirement of social orderings that are "real-valued" (and thus
+cardinal) in favor of orderings, which are merely "complete" and "transitive",
+such as a standard indifference-curve map. The earlier analysis mapped any set
+of individual orderings to "one" social ordering, whatever it was. This social
+ordering selected the top-ranked "feasible" alternative from the economic
+environment as to resource constraints. Arrow proposed to examine mapping
+different sets of individual orderings to possibly different social orderings.
+Here the social ordering would depend on the set of individual orderings,
+rather than being "imposed" (invariant to them). Stunningly (relative to a
+course of theory from Adam Smith and Jeremy Bentham on), Arrow proved the
+"General Possibility Theorem" that it is impossible to have a social welfare
+function that satisfies a certain set of "apparently reasonable" conditions.
+Cardinal social welfare functions. In the above contexts, a social welfare
+function provides a kind of social preference based on only individual utility
+functions, whereas in others it includes cardinal measures of social welfare
+not aggregated from individual utility functions. Examples of such measures are
+life expectancy and per capita income for the society. The rest of this article
+adopts the latter definition. Here, the social welfare of society is taken to
+be related to the income of the poorest person in the society, and maximising
+welfare would mean maximising the income of the poorest person without regard
+for the incomes of the others. These two social welfare functions express very
+different views about how a society would need to be organised in order to
+maximise welfare, with the first emphasizing total incomes and the second
+emphasising the needs of the poorest. The max-min welfare function can be seen
+as reflecting an extreme form of uncertainty aversion on the part of society as
+a whole, since it is concerned only with the worst conditions that a member of
+society could face. The average per capita income of a measured group (e.g.
+nation) is multiplied with formula_6 where formula_7 is the Gini index, a
+relative inequality measure. James E. Foster (1996) proposed to use one of
+Atkinson's Indexes, which is an entropy measure. Due to the relation between
+Atkinsons entropy measure and the Theil index, Foster's welfare function also
+can be computed directly using the Theil-L Index. The value yielded by this
+function has a concrete meaning. There are several possible incomes which could
+be earned by a "person", who randomly is selected from a population with an
+unequal distribution of incomes. This welfare function marks the income, which
+a randomly selected person is most likely to have. Similar to the median, this
+income will be smaller than the average per capita income. Here the Theil-
+T index is applied. The inverse value yielded by this function has a concrete
+meaning as well. There are several possible incomes to which an "Euro" may
+belong, which is randomly picked from the sum of all unequally distributed
+incomes. This welfare function marks the income, which a randomly selected Euro
+most likely belongs to. The inverse value of that function will be larger than
+the average per capita income. The article on the Theil index provides further
+information about how this index is used in order to compute welfare functions.

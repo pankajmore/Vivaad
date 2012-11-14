@@ -1,0 +1,39 @@
+Risk premium A risk premium is the minimum amount of money by which the
+expected return on a risky asset must exceed the known return on a risk-free
+asset, or the expected return on a less risky asset, in order to induce an
+individual to hold the risky asset rather than the risk-free asset. Thus it is
+the minimum willingness to accept compensation for the risk. The certainty
+equivalent, a related concept, is the guaranteed amount of money that an
+individual would view as equally desirable as a risky asset. Formal
+definitions. Let an individual's increasing, concave von Neumann-Morgenstern
+utility function be "u", let "r""f" be the return on the risk-free asset, and
+let "r" be the random return on the risky asset. Write "r" as the sum of its
+hypothetical expected return "r""f" + formula_1 and its zero-mean risky
+component "x". Then the risk premium formula_1 is defined by Thus the risk
+premium is the amount by which the risky asset's expected return must in fact
+exceed the risk-free return in order to make the risky and risk-free assets
+equally attractive. Further, the certainty equivalent "C" is defined by thus
+the certainty equivalent is the certain value which is equally attractive as
+the risky asset; due to risk aversion the certainty equivalent will be less
+than the expected return on the risky asset. Example. Suppose a game show
+participant may choose one of two doors, one that hides $1,000 and one that
+hides $0. Further suppose that the host also allows the contestant to take $500
+instead of choosing a door. The two options (choosing between door 1 and door
+2, or taking $500) have the same expected value of $500, so no risk premium is
+being offered for choosing the doors rather than the guaranteed $500. A
+contestant unconcerned about risk is indifferent between these choices.
+However, a risk averse contestant will choose no door and accept the guaranteed
+$500. If too many contestants are risk averse, the game show may encourage
+selection of the riskier choice (gambling on one of the doors) by offering a
+risk premium. If the game show offers $1,600 behind the good door, increasing
+to $800 the expected value of choosing between doors 1 and 2, the risk premium
+becomes $300 (i.e., $800 expected value minus $500 guaranteed amount).
+Contestants requiring a minimum risk compensation of less than $300 will choose
+a door instead of accepting the guaranteed $500. Finance. In finance, the risk
+premium refers to the amount by which an asset's expected rate of return
+exceeds the risk-free interest rate. When measuring risk, a common approach is
+to compare the risk-free return on T-bills and the risky return on other
+investments (using the "ex post" return as a proxy for the "ex ante" expected
+return). The difference between these two returns can be interpreted as a
+measure of the excess expected return on the risky asset. This excess expected
+return is known as the risk premium.

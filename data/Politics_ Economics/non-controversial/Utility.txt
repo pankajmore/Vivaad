@@ -1,0 +1,149 @@
+Utility In economics, utility is a representation of preferences over some set
+of goods and services. Preferences have a utility representation so long as
+they are transitive, complete, and continuous. Utility is usually applied by
+economists in such constructs as the indifference curve, which plot the
+combination of commodities that an individual or a society would accept to
+maintain a given level of satisfaction. Individual utility and social utility
+can be construed as the value of a utility function and a social welfare
+function respectively. When coupled with production or commodity constraints,
+under some assumptions, these functions can be used to analyze Pareto
+efficiency, such as illustrated by Edgeworth boxes in contract curves. Such
+efficiency is a central concept in welfare economics. TYPES OF UTILITY There
+are three types of utility Namely 1. == Form Utility 2. == Place Utility 3. ==
+Time Utility In finance, utility is applied to generate an individual's price
+for an asset called the indifference price. Utility functions are also related
+to risk measures, with the most common example being the entropic risk measure.
+Quantifying utility. It was recognized that utility could not be measured or
+observed directly, so instead economists devised a way to infer underlying
+relative utilities from observed choice. These 'revealed preferences', as they
+were named by Paul Samuelson, were revealed e.g. in people's willingness to
+pay: Alfred Marshall. 1920. Principles of Economics. An introductory Volume.
+8th edition. London: Macmillan. Cardinal and ordinal utility. Economists
+distinguish between cardinal utility and ordinal utility. When cardinal utility
+is used, the magnitude of utility differences is treated as an ethically or
+behaviorally significant quantity. On the other hand, ordinal utility captures
+only ranking and not strength of preferences. Utility functions of both sorts
+assign a ranking to members of a choice set. For example, suppose a cup of
+orange juice has utility of 120 utils, a cup of tea has a utility of 80 utils,
+and a cup of water has a utility of 40 utils. When speaking of cardinal
+utility, it could be concluded that the cup of orange juice is better than the
+cup of tea by exactly the same amount by which the cup of tea is better than
+the cup of water. One is not entitled to conclude, however, that the cup of tea
+is two thirds as good as the cup of juice, because this conclusion would depend
+not only on magnitudes of utility differences, but also on the "zero" of
+utility. It is tempting when dealing with cardinal utility to aggregate
+utilities across persons. The argument against this is that interpersonal
+comparisons of utility are meaningless because there is no good way to
+interpret how different people value consumption bundles. When ordinal
+utilities are used, differences in utils are treated as ethically or
+behaviorally meaningless: the utility index encode a full behavioral ordering
+between members of a choice set, but tells nothing about the related "strength
+of preferences". In the above example, it would only be possible to say that
+juice is preferred to tea to water, but no more. Neoclassical economics has
+largely retreated from using cardinal utility functions as the basic objects of
+economic analysis, in favor of considering agent preferences over choice sets.
+However, preference relations can often be represented by utility functions
+satisfying several properties. Ordinal utility functions are unique up to
+positive monotone transformations, while cardinal utilities are unique up to
+positive linear transformations. Although preferences are the conventional
+foundation of microeconomics, it is often convenient to represent preferences
+with a utility function and analyze human behavior indirectly with utility
+functions. Let "X" be the consumption set, the set of all mutually-exclusive
+baskets the consumer could conceivably consume. The consumer's utility function
+formula_1 ranks each package in the consumption set. If the consumer strictly
+prefers "x" to "y" or is indifferent between them, then formula_2. For example,
+suppose a consumer's consumption set is "X" =Â {nothing, 1Â apple,1Â orange,
+1Â apple and 1Â orange, 2Â apples, 2Â oranges}, and its utility function is "u"
+(nothing)Â =Â 0, "u"(1Â apple)Â =Â 1, "u"(1Â orange)Â =Â 2, "u"(1Â apple and
+1Â orange)Â =Â 4, "u"(2Â apples)Â =Â 2 and "u"(2Â oranges)Â =Â 3. Then this
+consumer prefers 1 orange to 1 apple, but prefers one of each to 2 oranges. In
+microeconomic models, there are usually a finite set of L commodities, and a
+consumer may consume an arbitrary amount of each commodity. This gives a
+consumption set of formula_3, and each package formula_4 is a vector containing
+the amounts of each commodity. In the previous example, we might say there are
+two commodities: apples and oranges. If we say apples is the first commodity,
+and oranges the second, then the consumption set formula_5 and "u"
+(0,Â 0)Â =Â 0, "u"(1,Â 0)Â =Â 1, "u"(0,Â 1)Â =Â 2, "u"(1,Â 1)Â =Â 4, "u"
+(2,Â 0)Â =Â 2, "u"(0,Â 2)Â =Â 3 as before. Note that for "u" to be a utility
+function onÂ "X", it must be defined for every package inÂ "X". A utility
+function formula_6 represents a preference relation formula_7 on X iff for
+every formula_8, formula_9 implies formula_10. If u represents formula_7, then
+this implies formula_7 is complete and transitive, and hence rational. In order
+to simplify calculations, various assumptions have been made of utility
+functions. Most utility functions used in modeling or theory are well-behaved.
+They are usually monotonic and quasi-concave. However, it is possible for
+preferences not to be representable by a utility function. An example is
+lexicographic preferences which are not continuous and cannot be represented by
+a continuous utility function. Expected utility. The expected utility theory
+deals with the analysis of choices among risky projects with (possibly
+multidimensional) outcomes. The expected utility model was first proposed by
+Nicholas Bernoulli in 1713 and solved by Daniel Bernoulli in 1738 as the St.
+Petersburg paradox. Bernoulli argued that the paradox could be resolved if
+decisionmakers displayed risk aversion and argued for a logarithmic cardinal
+utility function. The first important use of the expected utility theory was
+that of John von Neumann and Oskar Morgenstern who used the assumption of
+expected utility maximization in their formulation of game theory. Additive von
+Neumannâ€“Morgenstern utility. When comparing objects it makes sense to rank
+utilities, but older conceptions of utility allowed no way to compare the sizes
+of utilities - a person may say that a new shirt is preferable to a baloney
+sandwich, but not that it is twenty times preferable to the sandwich. The
+reason is that the utility of twenty sandwiches is not twenty times the utility
+of one sandwich, by the law of diminishing returns. So it is hard to compare
+the utility of the shirt with 'twenty times the utility of the sandwich'. But
+Von Neumann and Morgenstern suggested an unambiguous way of making a comparison
+like this. Their method of comparison involves considering probabilities. If a
+person can choose between various randomized events (lotteries), then it is
+possible to "additively" compare the shirt and the sandwich. It is possible to
+compare "a sandwich with probability"Â 1, to "a shirt with probability p or
+nothing with probability"Â 1Â âˆ’Â "p". By adjusting "p", the point at which
+the sandwich becomes preferable defines the ratio of the utilities of the two
+options. with the sum of the "p"Â "i"s equallingÂ 1. By making some reasonable
+assumptions about the way choices behave, von Neumann and Morgenstern showed
+that if an agent can choose between the lotteries, then this agent has a
+utility function which can be added and multiplied by real numbers, which means
+the utility of an arbitrary lottery can be calculated as a linear combination
+of the utility of its parts. Repeating in category language: formula_37 is a
+morphism between the category of preferences with uncertainty and the category
+of reals as an additive group. Of all the axioms, independence is the most
+often discarded. A variety of generalized expected utility theories have
+arisen, most of which drop or relax the independence axiom. Money. One of the
+most common uses of a utility function, especially in economics, is the utility
+of money. The utility function for money is a nonlinear function that is
+bounded and asymmetric about the origin. These properties can be derived from
+reasonable assumptions that are generally accepted by economists and decision
+theorists, especially proponents of rational choice theory. The utility
+function is concave in the positive region, reflecting the phenomenon of
+diminishing marginal utility. The boundedness reflects the fact that beyond a
+certain point money ceases being useful at all, as the size of any economy at
+any point in time is itself bounded. The asymmetry about the origin reflects
+the fact that gaining and losing money can have radically different
+implications both for individuals and businesses. The nonlinearity of the
+utility function for money has profound implications in decision making
+processes: in situations where outcomes of choices influence utility through
+gains or losses of money, which are the norm in most business settings, the
+optimal choice for a given decision depends on the possible outcomes of all
+other decisions in the same time-period. Utility as probability of success.
+Castagnoli and LiCalzi (1996) and Bordley and LiCalzi (2000) provided another
+interpretation for Von Neumann and Morgenstern's theory. Specifically for any
+utility function, there exists a hypothetical reference lottery with the
+utility of a lottery being its probability of performing no worse than the
+reference lottery. Suppose success is defined as getting an outcome no worse
+than the outcome of the reference lottery. Then this mathematical equivalence
+means that maximizing expected utility is equivalent to maximizing the
+probability of success. In many contexts, this makes the concept of utility
+easier to justify and to apply. For example, a firm's utility might be the
+probability of meeting uncertain future customer expectations. Discussion and
+criticism. Cambridge economist Joan Robinson famously criticized utility for
+being a circular concept: "Utility is the quality in commodities that makes
+individuals want to buy them, and the fact that individuals want to buy
+commodities shows that they have utility" (Robinson 1962: 48). Another
+criticism comes from the assertion that neither cardinal nor ordinary utility
+is empirically observable in the real world. In the case of cardinal utility it
+is impossible to measure the level of satisfaction "quantitatively" when
+someone consumes or purchases an apple. In case of ordinal utility, it is
+impossible to determine what choices were made when someone purchases, for
+example, an orange. Any act would involve preference over a vast set of choices
+(such as apple, orange juice, other vegetable, vitamin C tablets, exercise, not
+purchasing, etc.). An evolutionary psychology perspective is that utility may
+be better viewed as due to preferences that maximized evolutionary fitness in
+the ancestral environment but not necessarily in the current one.

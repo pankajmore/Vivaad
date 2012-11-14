@@ -1,0 +1,258 @@
+Economic model In economics, a model is a theoretical construct that represents
+economic by a set of variables and a set of logical and/or quantitative
+relationships between them. The economic model is a simplified framework
+designed to illustrate complex processes, often but not always using
+mathematical techniques. Frequently, economic models posit structural
+parameters. Structural parameters are underlying parameters in a model or class
+of models. A model may have various parameters and those parameters may change
+to create various properties. Methodological uses of models include
+investigation, theorizing, fitting theories to the world.� �  • Vivian Walsh
+1987. "models and theory," "The New Palgrave: A Dictionary of Economics", v. 3,
+pp. 482-83. Overview. In general terms, economic models have two functions:
+first as a simplification of and abstraction from observed data, and second as
+a means of selection of data based on a paradigm of econometric study.
+"Simplification" is particularly important for economics given the enormous
+complexity of economic processes. This complexity can be attributed to the
+diversity of factors that determine economic activity; these factors include:
+individual and cooperative decision processes, resource limitations,
+environmental and geographical constraints, institutional and legal
+requirements and purely random fluctuations. Economists therefore must make a
+reasoned choice of which variables and which relationships between these
+variables are relevant and which ways of analyzing and presenting this
+information are useful. "Selection" is important because the nature of an
+economic model will often determine what facts will be looked at, and how they
+will be compiled. For example inflation is a general economic concept, but to
+measure inflation requires a model of behavior, so that an economist can
+differentiate between real changes in price, and changes in price which are to
+be attributed to inflation. A model establishes an "argumentative framework"
+for applying logic and mathematics that can be independently discussed and
+tested and that can be applied in various instances. Policies and arguments
+that rely on economic models have a clear basis for soundness, namely the
+validity of the supporting model. Economic models in current use do not pretend
+to be "theories of everything economic"; any such pretensions would immediately
+be thwarted by computational infeasibility and the paucity of theories for most
+types of economic behavior. Therefore conclusions drawn from models will be
+approximate representations of economic facts. However, properly constructed
+models can remove extraneous information and isolate useful approximations of
+key relationships. In this way more can be understood about the relationships
+in question than by trying to understand the entire economic process. The
+details of model construction vary with type of model and its application, but
+a generic process can be identified. Generally any modelling process has two
+steps: generating a model, then checking the model for accuracy (sometimes
+called diagnostics). The diagnostic step is important because a model is only
+useful to the extent that it accurately mirrors the relationships that it
+purports to describe. Creating and diagnosing a model is frequently an
+iterative process in which the model is modified (and hopefully improved) with
+each iteration of diagnosis and respecification. Once a satisfactory model is
+found, it should be double checked by applying it to a different data set.
+Types of models. According to whether all the model variables are
+deterministic, economic models can be classified as stochastic or non-
+stochastic models; according to whether all the variables are quantitative,
+economic models are classified as discrete or continuous choice model;
+according to the model's intended purpose/function, it can be classified as
+quantitative or qualitative; according to the model's ambit, it can be
+classified as a general equilibrium model, a partial equilibrium model, or even
+a non-equilibrium model; according to the economic agent's characteristics,
+models can be classified as rational agent models, representative agent models
+etc. At a more practical level, quantitative modelling is applied to many areas
+of economics and several methodologies have evolved more or less independently
+of each other. As a result, no overall model taxonomy is naturally available.
+We can nonetheless provide a few examples which illustrate some particularly
+relevant points of model construction. Quantitative vs. Qualitative models. A
+quantitative model is designed to produce accurate predictions, without
+elucidating the underlying dynamics. On the other hand, a qualitative model
+aims to explain these dynamics without necessarily fitting empirical data or
+informing accurate predictions. Interest rate parity can be deemed a
+qualitative model in this sense: though it generally fails to fit exchange rate
+data as well as higher-powered statistical forecasting models, it offers an
+intuitive interpretation of the exchange rate and its relation to foreign and
+domestic interest and inflation rates. Views on the relative merits of
+qualitative and quantitative models vary across the profession: Milton Friedman
+can be viewed as having advocated a qualitative approach, while Ronald Coase
+worried that "if you torture the data long enough, it will confess;" Prospect
+theory as proposed by Daniel Kahneman(a Nobel prize winner) is more
+quantiative, while rational agent models are more qualitative. Pitfalls.
+Restrictive, unrealistic assumptions. Provably unrealistic assumptions are
+pervasive in neoclassical economic theory (also called the "standard theory" or
+"neoclassical paradigm"), and those assumptions are inherited by simplified
+models for that theory. (Any model based on a flawed theory, cannot transcend
+the limitations of that theory.) Joseph Stiglitz' 2001 Nobel Prize lecture
+reviews his work on Information Asymmetries, which contrasts with the
+assumption, in standard models, of "Perfect Information". Stiglitz surveys many
+aspects of these faulty standard models, and the faulty policy implications and
+recommendations that arise from their unrealistic assumptions. Stiglitz writes:
+(p.� 519–520) "I only varied one assumption – the assumption concerning
+perfect information We succeeded in showing not only that the standard theory
+was not robust – changing only one assumption in ways which were totally
+plausible had drastic consequences, but also that an alternative robust
+paradigm with great explanatory power could be constructed. There were other
+deficiencies in the theory, some of which were closely connected. The standard
+theory assumed that technology and preferences were fixed. But changes in
+technology, R & D, are at the heart of capitalism. of the assumption of fixed
+preferences. (Footnote: In addition, much of recent economic theory has assumed
+that beliefs are, in some sense, rational. As noted earlier, there are many
+aspects of economic behavior that seem hard to reconcile with this
+hypothesis.)" Economic models can be such powerful tools in understanding some
+economic relationships, that it is easy to ignore their limitations. One
+tangible example where the limits of Economic Models collided with reality, but
+were nevertheless accepted as "evidence" in public policy debates, involved
+models to simulate the effects of NAFTA, the North American Free Trade
+Agreement. James Stanford published his examination of 10 of these models. The
+fundamental issue is circularity: embedding one's assumptions as foundational
+"input" axioms in a model, then proceeding to "prove" that, indeed, the model's
+"output" supports the validity of those assumptions. Such a model is consistent
+with similar models that have adopted those same assumptions. But is it
+consistent with reality? As with any scientific theory, empirical validation is
+needed, if we are to have any confidence in its predictive ability. If those
+assumptions are, in fact, fundamental aspects of empirical reality, then the
+model's output will correctly describe reality (if it is properly "tuned", and
+if it is not missing any crucial assumptions). But if those assumptions are not
+valid for the particular aspect of reality one attempts to simulate, then it
+becomes a case of "GIGO" – Garbage In, Garbage Out". James Stanford outlines
+this issue for the specific Computable General Equilibrium ("CGE") models that
+were introduced as evidence into the public policy debate, by advocates for
+NAFTA: "..CGE models are circular: if trade theory holds that free trade is
+mutually beneficial, then a quantitative simulation model based on that
+theoretical structure will automatically show that free trade is mutually
+beneficial...if the economy actually behaves in the manner supposed by the
+modeler, and the model itself sheds no light on this question, then a properly
+calibrated model may provide a rough empirical estimate of the effects of a
+policy change. But the validity of the model hangs entirely on the prior,
+nontested specification of its structural relationships ... the apparent
+consensus of pro-NAFTA modelers reflects more a consensus of prior theoretical
+views than a consensus of quantitative evidence." Commenting on Stanford's
+analysis, one computer scientist wrote, "When simulating the impact of a trade
+agreement on labor, it seems absurd to assume a priori that capital is
+immobile, that full employment will prevail, that unit labor costs are
+identical in the U.S. and Mexico, that American consumers will prefer products
+made in America (even if they are more expensive), and that trade flows between
+the U.S. and Mexico will exactly balance. Yet a recent examination of ten
+prominent CGE models showed that nine of them include at least one of those
+unrealistic assumptions, and two of the CGE models included all the above
+assumptions. Rick Crawford. 1996. in "Invisible Crises: What Conglomerate
+Control of Media Means for America and the World".  In commenting on the
+general phenomenon of embedding unrealistic "GIGO" assumptions in neoclassical
+economic models, Nobel prizewinner Joseph Stiglitz is only slightly more
+diplomatic: (p.� 507-8) "But the ... model, by construction, ruled out the
+information asymmetries which are at the heart of macro-economic problems. Only
+if an individual has a severe case of schizophrenia is it possible for such
+problems to arise. If one begins with a model that assumes that markets clear,
+it is hard to see how one can get much insight into unemployment (the failure
+of the labor market to clear)." Despite the prominence of Stiglitz' 2001 Nobel
+prize lecture, the use of misleading (perhaps intentionally) neoclassical
+models persisted in 2007, according to these authors: " ... projected welfare
+gains from trade liberalization are derived from global computable general
+equilibrium (CGE) models, which are based on highly unrealistic assumptions.
+CGE models have become the main tool for economic analysis of the benefits of
+multilateral trade liberalization; therefore, it is essential that these models
+be scrutinized for their realism and relevance. ... we analyze the foundation
+of CGE models and argue that their predictions are often misleading. We appeal
+for more honest simulation strategies that produce a variety of plausible
+outcomes." The working paper, "Debunking the Myths of Computable General
+Equilibrium Models", provides both a history, and a readable theoretical
+analysis of what CGE models are, and are not. In particular, despite their
+name, CGE models use neither the Walrass general equilibrium, nor the Arrow-
+Debreus General Equilibrium frameworks. Thus, CGE models are highly distorted
+simplifications of theoretical frameworks—collectively called "the
+neoclassical economic paradigm" – which—themselves—were largely
+discredited by Joseph Stiglitz. In the "Concluding Remarks" (p.� 524) of his
+2001 Nobel Prize lecture, Stiglitz examined why the neoclassical paradigm—and
+models based on it—persists, despite his publication, over a decade earlier,
+of some of his seminal results showing that Information Asymmetries invalidated
+core Assumptions of that paradigm and its models: "One might ask, how can we
+explain the persistence of the paradigm for so long? Partly, it must be
+because, in spite of its deficiencies, it did provide insights into many
+economic phenomena. ... But one cannot ignore the possibility that the survival
+of the paradigm was partly because the belief in that paradigm, and the policy
+prescriptions, has served certain interests." In the aftermath of the
+2007–2009 global economic meltdown, the profession's attachment to
+unrealistic models is increasingly being questioned and criticized. After a
+weeklong workshop, one group of economists released a paper highly critical of
+their own profession's unethical use of unrealistic models. Their "Abstract"
+offers an indictment of fundamental practices: Colander, David; Follmer, Hans;
+Haas, Armin; Goldberg, Michael D.; Juselius, Katarina; Kirman, Alan; Lux,
+Thomas; and Sloth, Birgitte: (March 9, 2009). Univ. of Copenhagen Dept. of
+Economics Discussion Paper No. 09-03  Are economic models falsifiable? The
+sharp distinction between falsifiable economic models and those that are not is
+by no means a universally accepted one. Indeed one can argue that the "ceteris
+paribus" (all else being equal) qualification that accompanies any claim in
+economics is nothing more than an all-purpose escape clause (See "N. de Marchi
+and M. Blaug".) The all else being equal claim allows holding all variables
+constant except the few that the model is attempting to reason about. This
+allows the separation and clarification of the specific relationship. However,
+in reality all else is never equal, so economic models are guaranteed to not be
+perfect. The goal of the model is that the isolated and simplified relationship
+has some predictive power that can be tested, mainly that it is a theory
+capable of being applied to reality. To qualify as a theory, a model should
+arguably answer three questions: "Theory of what?, Why should we care?, What
+merit is in your explanation?" If the model fails to do so, it is probably too
+detached from reality and meaningful societal issues to qualify as theory.
+Research conducted according to this three-question test finds that in the 2004
+edition of the Journal of Economic Theory, only 12% of the articles satisfy the
+three requirements.” Ignoring the fact that the "ceteris paribus" assumption
+is being made is another big failure often made when a model is applied. At the
+minimum an attempt must be made to look at the various factors that may not be
+equal and take those into account. History. One of the major problems addressed
+by economic models has been understanding economic growth. An early attempt to
+provide a technique to approach this came from the French physiocratic school
+in the Eighteenth century. Among these economists, François Quesnay should be
+noted, particularly for his development and use of tables he called "Tableaux
+économiques". These tables have in fact been interpreted in more modern
+terminology as a Leontiev model, see the Phillips reference below. All through
+the 18th century (that is, well before the founding of modern political
+economy, conventionally marked by Adam Smith's 1776 Wealth of Nations) simple
+probabilistic models were used to understand the economics of insurance. This
+was a natural extrapolation of the theory of gambling, and played an important
+role both in the development of probability theory itself and in the
+development of actuarial science. Many of the giants of 18th century
+mathematics contributed to this field. Around 1730, De Moivre addressed some of
+these problems in the 3rd edition of the Doctrine of Chances. Even earlier
+(1709), Nicolas Bernoulli studies problems related to savings and interest in
+the Ars Conjectandi. In 1730, Daniel Bernoulli studied "moral probability" in
+his book Mensura Sortis, where he introduced what would today be called
+"logarithmic utility of money" and applied it to gambling and insurance
+problems, including a solution of the paradoxical Saint Petersburg problem. All
+of these developments were summarized by Laplace in his Analytical Theory of
+Probabilities (1812). Clearly, by the time David Ricardo came along he had a
+lot of well-established math to draw from. Tests of macroeconomic predictions.
+In the late 1980s a research institute compared twelve leading macroeconomic
+models available at the time. They compared the models' predictions for how the
+economy would respond to specific economic shocks (allowing the models to
+control for all the variability in the real world; this was a test of model vs.
+model, not a test against the actual outcome). Although the models simplified
+the world and started from a stable, known common parameters the various models
+gave significantly different answers. For instance, in calculating the impact
+of a monetary loosening on output some models estimated a 3% change in GDP
+after one year, and one gave almost no change, with the rest spread between.
+Comparison with models in other sciences. Complex systems specialist and
+mathematician David Orrell wrote on this issue and explained that the weather,
+human health and economics use similar methods of prediction (mathematical
+models). Their systems – the atmosphere, the human body and the economy –
+also have similar levels of complexity. He found that forecasts fail because
+the models suffer from two problems : i- they cannot capture the full detail of
+the underlying system, so rely on approximate equations; ii- they are sensitive
+to small changes in the exact form of these equations. This is because complex
+systems like the economy or the climate consist of a delicate balance of
+opposing forces, so a slight imbalance in their representation has big effects.
+Thus, predictions of things like economic recessions are still highly
+inaccurate, despite the use of enormous models running on fast computers.
+[http://www.postpythagorean.com/FAQ.html] The effects of deterministic chaos on
+economic models. It is straightforward to design economic models susceptible to
+butterfly effects of initial-condition sensitivity. However, the econometric
+research program to identify which variables are chaotic (if any) has largely
+concluded that aggregate macroeconomic variables probably do not behave
+chaotically. This would mean that refinements to the models could ultimately
+produce reliable long-term forecasts. However the validity of this conclusion
+has generated two challenges: More recently, chaos (or the butterfly effect)
+has been identified as less significant than previously thought to explain
+prediction errors. Rather, the predictive power of economics and meteorology
+would mostly be limited by the models themselves and the nature of their
+underlying systems (see Comparison with models in other sciences above). The
+critique of hubris in planning. A key strand of free market economic thinking
+is that the market's "invisible hand" guides an economy to prosperity more
+efficiently than central planning using an economic model. One reason,
+emphasized by Friedrich Hayek, is the claim that many of the true forces
+shaping the economy can never be captured in a single plan. This is an argument
+which cannot be made through a conventional (mathematical) economic model,
+because it says that there are critical systemic-elements that will always be
+omitted from any top-down analysis of the economy.

@@ -1,0 +1,163 @@
+Handover In cellular telecommunications, the term handover or handoff refers to
+the process of transferring an ongoing call or data session from one channel
+connected to the core network to another. In satellite communications it is the
+process of transferring satellite control responsibility from one earth station
+to another without loss or interruption of service. Handover or handoff.
+American English use the term "handoff", and this is most commonly used within
+some American organizations such as 3GPP2 and in American originated
+technologies such as CDMA2000. In British English the term "handover" is more
+common, and is used within international and European organisations such as
+ITU-T, IETF, ETSI and 3GPP, and standardised within European originated
+standards such as GSM and UMTS. The term handover is more common than handoff
+in academic research publications and literature, while handoff is slightly
+more common within the IEEE and ANSI organisations. Purpose. The most basic
+form of handover is when a phone call in progress is redirected from its
+current cell (called "source") to a new cell (called "target"). In terrestrial
+networks the source and the target cells may be served from two different cell
+sites or from one and the same cell site (in the latter case the two cells are
+usually referred to as two "sectors" on that cell site). Such a handover, in
+which the source and the target are different cells (even if they are on the
+same cell site) is called "inter-cell" handover. The purpose of inter-cell
+handover is to maintain the call as the subscriber is moving out of the area
+covered by the source cell and entering the area of the target cell. A special
+case is possible, in which the source and the target are one and the same cell
+and only the used channel is changed during the handover. Such a handover, in
+which the cell is not changed, is called "intra-cell" handover. The purpose of
+intra-cell handover is to change one channel, which may be interfered or fading
+with a new clearer or less fading channel. Comparison of handovers. An
+advantage of the hard handover is that at any moment in time one call uses only
+one channel. The hard handover event is indeed very short and usually is not
+perceptible by the user. In the old analog systems it could be heard as a click
+or a very short beep, in digital systems it is unnoticeable. Another advantage
+of the hard handoff is that the phone's hardware does not need to be capable of
+receiving two or more channels in parallel, which makes it cheaper and simpler.
+A disadvantage is that if a handover fails the call may be temporarily
+disrupted or even terminated abnormally. Technologies, which use hard
+handovers, usually have procedures which can re-establish the connection to the
+source cell if the connection to the target cell cannot be made. However re-
+establishing this connection may not always be possible (in which case the call
+will be terminated) and even when possible the procedure may cause a temporary
+interruption to the call. One advantage of the soft handovers is that the
+connection to the source cell is broken only when a reliable connection to the
+target cell has been established and therefore the chances that the call will
+be terminated abnormally due to failed handovers are lower. However, by far a
+bigger advantage comes from the mere fact that simultaneously channels in
+multiple cells are maintained and the call could only fail if all of the
+channels are interfered or fade at the same time. Fading and interference in
+different channels are unrelated and therefore the probability of them taking
+place at the same moment in all channels is very low. Thus the reliability of
+the connection becomes higher when the call is in a soft handover. Because in a
+cellular network the majority of the handovers occur in places of poor
+coverage, where calls would frequently become unreliable when their channel is
+interfered or fading, soft handovers bring a significant improvement to the
+reliability of the calls in these places by making the interference or the
+fading in a single channel not critical. This advantage comes at the cost of
+more complex hardware in the phone, which must be capable of processing several
+channels in parallel. Another price to pay for soft handovers is use of several
+channels in the network to support just a single call. This reduces the number
+of remaining free channels and thus reduces the capacity of the network. By
+adjusting the duration of soft handovers and the size of the areas, in which
+they occur, the network engineers can balance the benefit of extra call
+reliability against the price of reduced capacity. Possibility of handover.
+While theoretically speaking soft handovers are possible in any technology,
+analog or digital, the cost of implementing them for analog technologies is
+prohibitively high and none of the technologies that were commercially
+successful in the past (e.g. AMPS, TACS, NMT, etc.) had this feature. Of the
+digital technologies, those based on FDMA also face a higher cost for the
+phones (due to the need to have multiple parallel radio-frequency modules) and
+those based on TDMA or a combination of TDMA/FDMA, in principle, allow not so
+expensive implementation of soft handovers. However, none of the 2G (second-
+generation) technologies have this feature (e.g. GSM, D-AMPS/IS-136, etc.). On
+the other hand, all CDMA based technologies, 2G and 3G (third-generation), have
+soft handovers. On one hand, this is facilitated by the possibility to design
+not so expensive phone hardware supporting soft handovers for CDMA and on the
+other hand, this is necessitated by the fact that without soft handovers CDMA
+networks may suffer from substantial interference arising due to the so-called
+"near-far" effect. In all current commercial technologies based on FDMA or on a
+combination of TDMA/FDMA (e.g. GSM, AMPS, IS-136/DAMPS, etc.) changing the
+channel during a hard handover is realised by changing the pair of used
+transmit/receive frequencies. Implementations. For the practical realisation of
+handoffs in a cellular network each cell is assigned a list of potential target
+cells, which can be used for handing-off calls from this source cell to them.
+These potential target cells are called "neighbours" and the list is called
+"neighbour list". Creating such a list for a given cell is not trivial and
+specialised computer tools are used. They implement different algorithms and
+may use for input data from field measurements or computer predictions of radio
+wave propagation in the areas covered by the cells. During a call one or more
+parameters of the signal in the channel in the source cell are monitored and
+assessed in order to decide when a handover may be necessary. The downlink
+(forward link) and/or uplink (reverse link) directions may be monitored. The
+handover may be requested by the phone or by the base station (BTS) of its
+source cell and, in some systems, by a BTS of a neighbouring cell. The phone
+and the BTSs of the neighbouring cells monitor each other others' signals and
+the best target candidates are selected among the neighbouring cells. In some
+systems, mainly based on CDMA, a target candidate may be selected among the
+cells which are not in the neighbour list. This is done in an effort to reduce
+the probability of interference due to the aforementioned near-far effect. In
+analog systems the parameters used as criteria for requesting a hard handover
+are usually the "received signal power" and the "received signal-to-noise
+ratio" (the latter may be estimated in an analog system by inserting additional
+tones, with frequencies just outside the captured voice-frequency band at the
+transmitter and assessing the form of these tones at the receiver). In non-CDMA
+2G digital systems the criteria for requesting hard handover may be based on
+estimates of the received signal power, bit error rate (BER) and block error/
+erasure rate (BLER), received quality of speech (RxQual), distance between the
+phone and the BTS (estimated from the radio signal propagation delay) and
+others. In CDMA systems, 2G and 3G, the most common criterion for requesting a
+handover is Ec/Io ratio measured in the pilot channel (CPICH) and/or RSCP. In
+CDMA systems, when the phone in soft or softer handoff is connected to several
+cells simultaneously, it processes the received in parallel signals using a
+rake receiver. Each signal is processed by a module called "rake finger". A
+usual design of a rake receiver in mobile phones includes three or more rake
+fingers used in soft handoff state for processing signals from as many cells
+and one additional finger used to search for signals from other cells. The set
+of cells, whose signals are used during a soft handoff, is referred to as the
+"active set". If the search finger finds a sufficiently-strong signal (in terms
+of high Ec/Io or RSCP) from a new cell this cell is added to the active set.
+The cells in the neighbour list (called in CDMA "neighbouring set") are checked
+more frequently than the rest and thus a handoff with a neighbouring cell is
+more likely, however a handoff with others cells outside the neighbor list is
+also allowed (unlike in GSM, IS-136/DAMPS, AMPS, NMT, etc.). Reasons for
+failure. There are occurrences where a handoff is unsuccessful. Lots of
+research was conducted regarding this. In the late 80's the main reason was
+found out. Because frequencies cannot be reused in adjacent cells, when a user
+moves from one cell to another, a new frequency must be allocated for the call.
+If a user moves into a cell when all available channels are in use, the
+user’s call must be terminated. Also, there is the problem of signal
+interference where adjacent cells overpower each other resulting in receiver
+desensitization. Vertical handover. There are also inter-technology handovers
+where a call's connection is transferred from one access technology to another,
+e.g. a call being transferred from GSM to UMTS or from CDMA IS-95 to cdma2000.
+The 3GPP UMA/GAN standard enables GSM/UMTS handoff to Wi-Fi and vice-versa.
+Handoff Prioritization. Different systems have different methods for handling
+and managing handoff request. Some systems handle handoff in same way as they
+handle new originating call. In such system the probability that the handoff
+will not be served is equal to blocking probability of new originating call.
+But if the call is terminated abruptly in the middle of conversation then it is
+more annoying than the new originating call being blocked .So in order to avoid
+this abrupt termination of ongoing call handoff request should be given
+priority to new call this is called as handoff prioritization. There are two
+techniques for this. !) Guard Channel Concept: In this technique, a fraction of
+the total available channel in a cell is reserved exclusively for handoff
+request from ongoing calls which may be handed off into the cell. 2) Queuing:
+Queuing of handoffs is possible because there is a finite time interval between
+the time the received signal level drops below handoff threshold and the time
+the call is terminated due to insufficient signal level. The delay size is
+determined from the traffic pattern of a particular service area. Inter and
+Intra System Handoff. Inter System Handoff: • If during ongoing call mobile
+unit moves from one cellular system to a different cellular system which is
+controlled by different MTSO, a handoff procedure which is used to avoid
+dropping of call is referred as Inter System Handoff. • An MTSO engages in
+this handoff system. When a mobile signal becomes weak in a given cell and MTSO
+can not find other cell with in its system to which it can transfer the call
+then it uses Inter system handoff. • Before implementation of Inter System
+Handoff MTSO compatibility must be checked and in Inter System Handoff local
+call may become long distance call. Intra System Handoff: • If during ongoing
+call mobile unit moves from one cellular system to adjacent cellular system
+which is controlled by same MTSO, a handoff procedure which is used to avoid
+dropping of call is referred as Intra System Handoff. • An MTSO engages in
+this handoff system. When a mobile signal becomes weak in a given cell and MTSO
+find other cell with in its system to which it can transfer the call then it
+uses Intra system handoff. • In Intra System Handoff local calls always
+remain local call only since after handoff also the call is handled by same
+MTSO.

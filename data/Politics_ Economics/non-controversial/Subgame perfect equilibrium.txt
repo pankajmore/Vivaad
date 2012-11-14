@@ -1,0 +1,45 @@
+Subgame perfect equilibrium In game theory, a subgame perfect equilibrium (or
+subgame perfect Nash equilibrium) is a refinement of a Nash equilibrium used in
+dynamic games. A strategy profile is a subgame perfect equilibrium if it
+represents a Nash equilibrium of every subgame of the original game.
+Informally, this means that if (1) the players played any smaller game that
+consisted of only one part of the larger game and (2) their behavior represents
+a Nash equilibrium of that smaller game, then their behavior is a subgame
+perfect equilibrium of the larger game. It is well known that every finite
+extensive game has a subgame perfect equilibrium. A common method for
+determining subgame perfect equilibria in the case of a finite game is backward
+induction. Here one first considers the last actions of the game and determines
+which actions the final mover should take in each possible circumstance to
+maximize his/her utility. One then supposes that the last actor will do these
+actions, and considers the second to last actions, again choosing those that
+maximize that actor's utility. This process continues until one reaches the
+first move of the game. The strategies which remain are the set of all subgame
+perfect equilibria for finite-horizon extensive games of perfect information.
+However, backward induction cannot be applied to games of imperfect or
+incomplete information because this entails cutting through non-singleton
+information sets. The set of subgame perfect equilibria for a given game is
+always a subset of the set of Nash equilibria for that game. In some cases the
+sets can be identical. The Ultimatum game provides an intuitive example of a
+game with fewer subgame perfect equilibria than Nash equilibria. Finding
+subgame-perfect equilibria. Reinhard Selten proved that any game which can be
+broken into "sub-games" containing a sub-set of all the available choices in
+the main game will have a subgame perfect Nash Equilibrium strategy (possibly
+as a mixed strategy giving non-deterministic sub-game decisions). Subgame
+perfection is only used with games of complete information. Subgame perfection
+can be used with extensive form games of complete but imperfect information.
+The subgame-perfect Nash equilibrium is normally deduced by "backward
+induction" from the various ultimate outcomes of the game, eliminating branches
+which would involve any player making a move that is not credible (because it
+is not optimal) from that node. One game in which the backward induction
+solution is well known is tic-tac-toe, but in theory even Go has such an
+optimum strategy for all players. The interesting aspect of the word "credible"
+in the preceding paragraph is that taken as a whole (disregarding the
+irreversibility of reaching sub-games) strategies exist which are superior to
+subgame perfect strategies, but which are not credible in the sense that a
+threat to carry them out will harm the player making the threat and prevent
+that combination of strategies. For instance in the game of "chicken" if one
+player has the option of ripping the steering wheel from their car they should
+always take it because it leads to a "sub game" in which their rational
+opponent is precluded from doing the same thing (and killing them both). The
+wheel-ripper will always win the game (making his opponent swerve away), and
+the opponent's threat to suicidally follow suit is not credible.

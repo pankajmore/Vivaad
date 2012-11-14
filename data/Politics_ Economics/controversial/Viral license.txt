@@ -1,0 +1,63 @@
+Viral license Viral license is a copyright license that allows derivative works
+only when licensed under a compatible license to the original. Licenses that
+require derivative works to be licensed only under compatible licenses include
+copyleft licenses which include several common open source and free content
+licenses, such as the GNU General Public License (GPL) and the Creative Commons
+Attribution-ShareAlike license. Scope. The term is most often used pejoratively
+to describe the GPL, which requires that any derivative work also be licensed
+with the GPL. The viral component is described as such because the licenses
+spreads a continuing use of the licenses in its derivatives. This can lead to
+problems when software is derived from two or more sources having incompatible
+viral licenses in which the derivative work could not be re-licensed at all.
+Although the concept is generally associated with licenses that promote free
+content, many proprietary licenses also have viral characteristics. For
+example, original equipment manufacturer source code software distribution
+agreements generally grant licensees the right to redistribute copies of the
+software, but restrict what terms can be in the end user license agreement.
+However, derivative work is much less common with proprietary licensed work and
+so the viral phenomenon is not as evident. As an example of viral licensing
+outside software, after it was revealed that French author Michel Houellebecq
+plagiarized sections of Wikipedia articles in his novel "La Carte et Le
+Territoire", some commentators said that this automatically made his entire
+book licensed under the ShareAlike license. History. The term 'General Public
+Virus', or 'GNU Public Virus' (GPV), has a long history on the Internet, dating
+back to shortly after the GPL was first conceived. Microsoft vice-president
+Craig Mundie remarked "This viral aspect of the GPL poses a threat to the
+intellectual property of any organization making use of it." In another
+context, Steve Ballmer declared that code released under GPL is useless to the
+commercial sector (since it can only be used if the resulting surrounding code
+becomes GPL), describing it thus as "a cancer that attaches itself in an
+intellectual property sense to everything it touches". Criticism of the term.
+According to Free Software Foundation compliance engineer David Turner, the
+term "viral license" creates a misunderstanding and a fear of using copylefted
+free software. David McGowan has written that there is no reason to believe the
+GPL could force proprietary software to become free software, but could "try to
+enjoin the firm from distributing commercially a program that combined with the
+GPL'd code to form a derivative work, and to recover damages for infringement."
+If the firm "actually copied code from a GPL'd program, such a suit would be a
+perfectly ordinary assertion of copyright, which most private firms would
+defend if the shoe were on the other foot." Richard Stallman has described this
+view with an analogy, saying, "The GPL's domain does not spread by proximity or
+contact, only by deliberate inclusion of GPL-covered code in your program. It
+spreads like a spider plant, not like a virus." Interoperability. Popular
+copyleft licenses, such as the GPL, have a clause allowing components to
+interact with non-copyleft components as long as the communication is abstract,
+such as executing a command-line tool with a set of switches or interacting
+with a Web server. As a consequence, even if one module of an otherwise non-
+copyleft product is placed under the GPL, it may still be legal for other
+components to communicate with it normally. This allowed communication may or
+may not include reusing libraries or routines via dynamic linking — some
+commentators say it does, the FSF asserts it does not and explicitly adds an
+exception allowing it in the license for the GNU Classpath re-implementation of
+the Java library. The interoperability clauses are often pragmatically
+inoperative due to the vigorous enforcement and strict interpretation of the
+GPL as it related to integration, aggregation, and linking. It is argued that
+most forms of incorporation, aggregation, or connectivity with GPL-licensed
+code is a derivative work that must be licensed under the GPL. In recent years,
+a number of communities using GPL incompatible licenses have dropped efforts
+and support for interoperability with GPL-licensed products in response to this
+trend. Some developers and communities have switched to the GPL or a GPL
+compatible license in response, which critics and supporters alike agree is
+intentional end result. A number of prominent free software advocates, such as
+Linus Torvalds, have vocally opposed this restrictive interpretation and
+enforcement.

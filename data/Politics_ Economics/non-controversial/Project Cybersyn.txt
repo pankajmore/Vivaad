@@ -1,0 +1,72 @@
+Project Cybersyn Project Cybersyn was a Chilean attempt in the years
+1971–1973 (during the government of President Salvador Allende) to construct
+a top-down command and control decision support system to aid in the management
+of the national economy. It was to consist of a network of telex machines
+("Cybernet") in state-run enterprises and government offices that would
+transmit information to a government-run mainframe computer in Santiago.
+Information from the field would be fed into statistical modeling software
+("Cyberstride") that would monitor production parameters (such as raw material
+supplies or high rates of worker absenteeism) in real time, and alert
+government managers if those parameters fell outside acceptable ranges. The
+information would also be input into economic simulation software ("CHECO", for
+CHilean ECOnomic simulator) that the government could use to forecast the
+possible outcome of economic decisions. Finally, a sophisticated operations
+room ("Opsroom") would provide a space where managers could see relevant
+economic data, formulate responses to emergencies, and transmit advice and
+directives to enterprises and factories using the telex network. The principal
+architect of the system was British operations research scientist Stafford
+Beer, and the system embodied his notions of cybernetics in industrial
+management. Name. The project's name in English, Cybersyn, is a portmanteau of
+the words "cybernetics" and "synergy". Since the name is not euphonic in
+Spanish, in that language the project was called "Synco", both an initialism
+for the Spanish "SYstema de iNformación y COntrol", "system of information and
+control", and a pun on the Spanish "cinco", the number five, alluding to the
+five levels of Beer's Viable System Model. History. In July 1971, Stafford Beer
+was contacted by Fernando Flores, then a high-level employee of the Chilean
+Production Development Corporation (CORFO), for advice on incorporating Beer's
+theories of cybernetics into the management of the newly nationalized sector of
+Chile's economy. Beer saw this as a unique opportunity to implement his ideas
+of cybernetic management on a national scale, and also sympathized with the
+stated ideals of Chilean socialism, which aimed to maintain Chile's democratic
+system and the autonomy of workers instead of imposing a Soviet-style system of
+top-down command and control. More than just offering advice, Beer stepped
+aside from most of his other consulting business and devoted a great deal of
+time to what became Project Cybersyn, traveling to Chile frequently to
+collaborate with local implementors and using his personal contacts to secure
+assistance from British technical experts. The implementation schedule was very
+aggressive, and the system had reached an advanced prototype stage at the start
+of 1973. The system was most useful in October 1972, when about 50,000 striking
+truck drivers blocked the access streets that converged towards Santiago.
+According to Gustavo Silva (executive secretary of energy in CORFO), using the
+system's telex machines, the government was able to guarantee the transport of
+food into the city with only about 200 trucks driven by strike-breakers,
+recouping the shortages caused by 40,000 striking truck drivers. After the
+military coup on September 11, 1973, Cybersyn was abandoned and the operations
+room was destroyed. The system. There were 500 unused telex machines bought by
+the previous government, each was put into one factory. In the control centre
+in Santiago, each day data coming from each factory (several numbers, such as
+raw material input, production output and number of absentees) were put into a
+computer, which made short-term predictions and necessary adjustments. There
+were four levels of control (firm, branch, sector, total), with algedonic
+feedback (if lower level of control didn't remedy a problem in a certain
+interval, the higher level was notified). The results were discussed in the
+operations room and the top-level plan was made. The software for Cybersyn was
+called "Cyberstride", and it used Bayesian filtering and Bayesian control. It
+was written by Chilean engineers in consultation with a team of 12 British
+programmers. The futuristic operations room was designed by a team led by the
+interface designer Gui Bonsiepe. It was furnished with seven swivel chairs
+(considered the best for creativity) with buttons, which were designed to
+control several large screens that could project the data, and other panels
+with status information, although these were never functional and could only
+show pre-prepared graphs. The project is described in some detail in the second
+edition of Beer's book "Brain of the Firm", as well as in "Platform for Change"
+which includes proposals for such social innovations as bringing
+representatives of diverse 'stakeholder' groups into the control centre. The
+aesthetics. The Ops room used Tulip chairs similar to those used in the
+American science fiction TV programme "Star Trek", though according to the
+designers, the style was not influenced by sci-fi movies. References in popular
+culture. Chilean science fiction author Jorge Baradit published a Spanish-
+language science fiction novel "Synco" in 2008. It is an alternate history
+dystopia set in a 1979 where Allende's government was not overthrown and Chile
+became a technocratic totalitarian state in which the Cybersyn system was used
+to control all aspects of Chilean life.

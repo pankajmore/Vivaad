@@ -1,0 +1,553 @@
+Mathematical economics Mathematical economics is the application of
+mathematical methods to represent economic theories and analyze problems posed
+in economics. It allows formulation and derivation of key relationships in a
+theory with clarity, generality, rigor, and simplicity. By convention, the
+applied methods refer to those beyond simple geometry, such as differential and
+integral calculus, difference and differential equations, matrix algebra, and
+mathematical programming and other computational methods. Mathematics allows
+economists to form meaningful, testable propositions about many wide-ranging
+and complex subjects which could not be adequately expressed informally.
+Further, the language of mathematics allows economists to make clear, specific,
+positive claims about controversial or contentious subjects that would be
+impossible without mathematics. Much of economic theory is currently presented
+in terms of mathematical economic models, a set of stylized and simplified
+mathematical relationships that clarify assumptions and implications.Â Â Â Â 
+Arrow, Kenneth J., and Michael D. Intriligator, ed., (1981), v. 1Â Â Â Â  _____
+(1982). v. 2Â Â Â Â  _____ (1986). v. 3Â Â Â Â  Hildenbrand, Werner, and Hugo
+Sonnenschein, ed. (1991). v. 4.Â Â  â€¢ Debreu, GÃ©rard (1983). "Mathematical
+Economics: Twenty Papers of GÃ©rard Debreu", Contents.Â Â  â€¢ Glaister,
+Stephen (1984). "Mathematical Methods for Economists", 3rd ed., Blackwell.
+Contents.Â Â  â€¢ Takayama, Akira (1985). "Mathematical Economics", 2nd ed.
+Cambridge. Description and Contents.Â Â  â€¢ Michael Carter (2001).
+"Foundations of Mathematical Economics", MIT Press. Description and Contents.
+Formal economic modeling began in the 19th century with the use of differential
+calculus to represent and explain economic behavior, such as utility
+maximization, an early economic application of mathematical optimization.
+Economics became more mathematical as a discipline throughout the first half of
+the 20th century, but introduction of new and generalized techniques in the
+period around the Second World War, as in game theory, would greatly broaden
+the use of mathematical formulations in economics. This rapid systematizing of
+economics alarmed critics of the discipline as well as some noted economists.
+John Maynard Keynes, Robert Heilbroner, Friedrich Hayek and others have
+criticized the broad use of mathematical models for human behavior, arguing
+that some human choices are irreducible to mathematics. History. The use of
+mathematics in the service of social and economic analysis dates back to the
+17th century. Then, mainly in German universities, a style of instruction
+emerged which dealt specifically with detailed presentation of data as it
+related to public administration. Gottfried Achenwall lectured in this fashion,
+coining the term statistics. At the same time, a small group of professors in
+England established a method of "reasoning by figures upon things relating to
+government" and referred to this practice as "Political Arithmetick". Sir
+William Petty wrote at length on issues that would later concern economists,
+such as taxation, Velocity of money and national income, but while his analysis
+was numerical, he rejected abstract mathematical methodology. Petty's use of
+detailed numerical data (along with John Graunt) would influence statisticians
+and economists for some time, even though Petty's works were largely ignored by
+English scholars. The mathematization of economics began in earnest in the 19th
+century. Most of the economic analysis of the time was what would later be
+called classical economics. Subjects were discussed and dispensed with through
+algebraic means, but calculus was not used. More importantly, until Johann
+Heinrich von ThÃ¼nen's "The Isolated State" in 1826, economists did not develop
+explicit and abstract models for behavior in order to apply the tools of
+mathematics. ThÃ¼nen's model of farmland use represents the first example of
+marginal analysis. ThÃ¼nen's work was largely theoretical, but he also mined
+empirical data in order to attempt to support his generalizations. In
+comparison to his contemporaries, ThÃ¼nen built economic models and tools,
+rather than applying previous tools to new problems. Meanwhile a new cohort of
+scholars trained in the mathematical methods of the physical sciences
+gravitated to economics, advocating and applying those methods to their
+subject, and described today as moving from geometry to mechanics. These
+included W.S. Jevons who presented paper on a "general mathematical theory of
+political economy" in 1862, providing an outline for use of the theory of
+marginal utility in political economy. In 1871, he published "The Principles of
+Political Economy", declaring that the subject as science "must be mathematical
+simply because it deals with quantities." Jevons expected the only collection
+of statistics for price and quantities would permit the subject as presented to
+become an exact science. Others preceded and followed in expanding mathematical
+representations of economic problems. Marginalists and the roots of
+neoclassical economics. Augustin Cournot and LÃ©on Walras built the tools of
+the discipline axiomatically around utility, arguing that individuals sought to
+maximize their utility across choices in a way that could be described
+mathematically. At the time, it was thought that utility was quantifiable, in
+units known as utils. Cournot, Walras and Francis Ysidro Edgeworth are
+considered the precursors to modern mathematical economics. Augustin Cournot.
+Cournot, a professor of Mathematics, developed a mathematical treatment in 1838
+for duopolyâ€”a market condition defined by competition between two sellers.
+This treatment of competition, first published in "Researches into the
+Mathematical Principles of Wealth", is referred to as Cournot duopoly. It is
+assumed that both sellers had equal access to the market and could produce
+their goods without cost. Further, it assumed that both goods were homogeneous.
+Each seller would vary her output based on the output of the other and the
+market price would be determined by the total quantity supplied. The profit for
+each firm would be determined by multiplying their output and the per unit
+Market price. Differentiating the profit function with respect to quantity
+supplied for each firm left a system of linear equations, the simultaneous
+solution of which gave the equilibrium quantity, price and profits. Cournot's
+contributions to the mathematization of economics would be neglected for
+decades, but eventually influenced many of the marginalists. Cournot's models
+of duopoly and Oligopoly also represent one of the first formulations of non-
+cooperative games. Today the solution can be given as a Nash equilibrium but
+Cournot's work preceded modern Game theory by over 100 years. LÃ©on Walras.
+While Cournot provided a solution for what would later be called partial
+equilibrium, LÃ©on Walras attempted to formalize discussion of the economy as a
+whole through a theory of general competitive equilibrium. The behavior of
+every economic actor would be considered on both the production and consumption
+side. Walras originally presented four separate models of exchange, each
+recursively included in the next. The solution of the resulting system of
+equations (both linear and non-linear) is the general equilibrium. At the time,
+no general solution could be expressed for a system of arbitrarily many
+equations, but Walras's attempts produced two famous results in economics. The
+first is Walras' law and the second is the principle of tÃ¢tonnement. Walras'
+method was considered highly mathematical for the time and Edgeworth commented
+at length about this fact in his review of "Ã‰lÃ©ments d'Ã©conomie politique
+pure" (Elements of Pure Economics). Walras' law was introduced as a theoretical
+answer to the problem of determining the solutions in general equilibrium. His
+notation is different from modern notation but can be constructed using more
+modern summation notation. Walras assumed that in equilibrium, all money would
+be spent on all goods: every good would be sold at the market price for that
+good and every buyer would expend their last dollar on a basket of goods.
+Starting from this assumption, Walras could then show that if there were n
+markets and n-1 markets cleared (reached equilibrium conditions) that the nth
+market would clear as well. This is easiest to visualize with two markets
+(considered in most texts as a market for goods and a market for money). If one
+of two markets has reached an equilibrium state, no additional goods (or
+conversely, money) can enter or exit the second market, so it must be in a
+state of equilibrium as well. Walras used this statement to move toward a proof
+of existence of solutions to general equilibrium but it is commonly used today
+to illustrate market clearing in money markets at the undergraduate level.
+TÃ¢tonnement (roughly, French for "groping toward") was meant to serve as the
+practical expression of Walrasian general equilibrium. Walras abstracted the
+marketplace as an auction of goods where the auctioneer would call out prices
+and market participants would wait until they could each satisfy their personal
+reservation prices for the quantity desired (remembering here that this is an
+auction on "all" goods, so everyone has a reservation price for their desired
+basket of goods). Only when all buyers are satisfied with the given market
+price would transactions occur. The market would "clear" at that priceâ€”no
+surplus or shortage would exist. The word "tÃ¢tonnement" is used to describe
+the directions the market takes in "groping toward" equilibrium, settling high
+or low prices on different goods until a price is agreed upon for all goods.
+While the process appears dynamic, Walras only presented a static model, as no
+transactions would occur until all markets were in equilibrium. In practice
+very few markets operate in this manner. Francis Ysidro Edgeworth. Edgeworth
+introduced mathematical elements to Economics explicitly in "", published in
+1881. He adopted Jeremy Bentham's felicific calculus to economic behavior,
+allowing the outcome of each decision to be converted into a change in utility.
+Using this assumption, Edgeworth built a model of exchange on three
+assumptions: individuals are self-interested, individuals act to maximize
+utility, and individuals are "free to recontract with another independently
+of...any third party." Given two individuals, the set of solutions where the
+both individuals can maximize utility is described by the "contract curve" on
+what is now known as an Edgeworth Box. Technically, the construction of the
+two-person solution to Edgeworth's problem was not developed graphically until
+1924 by Arthur Lyon Bowley. The contract curve of the Edgeworth box (or more
+generally on any set of solutions to Edgeworth's problem for more actors) is
+referred to as the core of an economy. Edgeworth devoted considerable effort to
+insisting that mathematical proofs were appropriate for all schools of thought
+in economics. While at the helm of "The Economic Journal", he published several
+articles criticizing the mathematical rigor of rival researchers, including
+Edwin Robert Anderson Seligman, a noted skeptic of mathematical economics. The
+articles focused on a back and forth over tax incidence and responses by
+producers. Edgeworth noticed that a monopoly producing a good that had
+jointness of supply but not jointness of demand (such as first class and
+economy on an airplane, if the plane flies, both sets of seats fly with it)
+might actually lower the price seen by the consumer for one of the two
+commodities if a tax were applied. Common sense and more traditional, numerical
+analysis seemed to indicate that this was preposterous. Seligman insisted that
+the results Edgeworth achieved were a quirk of his mathematical formulation. He
+suggested that the assumption of a continuous demand function and an
+infinitesimal change in the tax resulted in the paradoxical predictions. Harold
+Hotelling later showed that Edgeworth was correct and that the same result (a
+"diminution of price as a result of the tax") could occur with a discontinuous
+demand function and large changes in the tax rate). Modern mathematical
+economics. From the later-1930s, an array of new mathematical tools from the
+differential calculus and differential equations, convex sets, and graph theory
+were deployed to advance economic theory in a way similar to new mathematical
+methods earlier applied to physics. The process was later described as moving
+from mechanics to axiomatics.Â Â  â€¢ _____ (2002). "How Economics Became a
+Mathematical Science". Duke University Press. Description and preview.
+Differential calculus. Vilfredo Pareto analyzed microeconomics by treating
+decisions by economic actors as attempts to change a given allotment of goods
+to another, more preferred allotment. Sets of allocations could then be treated
+as Pareto efficient (Pareto optimal is an equivalent term) when no exchanges
+could occur between actors that could make at least one individual better off
+without making any other individual worse off. Pareto's proof is commonly
+conflated with Walrassian equilibrium or informally ascribed to Adam Smith's
+Invisible hand hypothesis.Â Â  â€¢  Rather, Pareto's statement was the first
+formal assertion of what would be known as the first fundamental theorem of
+welfare economics. These models lacked the inequalities of the next generation
+of mathematical economics. In the landmark treatise "Foundations of Economic
+Analysis" (1947), Paul Samuelson identified a common paradigm and mathematical
+structure across multiple fields in the subject, building on previous work by
+Alfred Marshall. "Foundations" took mathematical concepts from physics and
+applied them to economic problems. This broad view (for example, comparing Le
+Chatelier's principle to tÃ¢tonnement) drives the fundamental premise of
+mathematical economics: systems of economic actors may be modeled and their
+behavior described much like any other system. This extension followed on the
+work of the marginalists in the previous century and extended it significantly.
+Samuelson approached the problems of applying individual utility maximization
+over aggregate groups with comparative statics, which compares two different
+equilibrium states after an exogenous change in a variable. This and other
+methods in the book provided the foundation for mathematical economics in the
+20th century. Linear models. Restricted models of general equilibrium were
+formulated by John von Neumann in 1937. Unlike earlier versions, the models of
+von Neumann had inequality constraints. For his model of an expanding economy,
+von Neumann proved the existence and uniqueness of an equilibrium using his
+generalization of Brouwer's fixed point theorem. Von Neumann's model of an
+expanding economy considered the matrix pencilÂ " A - Î» B " with nonnegative
+matricesÂ A and B; von Neumann sought probability vectorsÂ "p" andÂ "q" and a
+positive numberÂ "Î»" that would solve the complementarity equation along with
+two inequality systems expressing economic efficiency. In this model, the
+(transposed) probability vector "p" represents the prices of the goods while
+the probability vector q represents the "intensity" at which the production
+process would run. The unique solution "Î»" represents the rate of growth of
+the economy, which equals the interest rate. Proving the existence of a
+positive growth rate and proving that the growth rate equals the interest rate
+were remarkable achievements, even for von Neumann. Von Neumann's results have
+been viewed as a special case of linear programming, where von Neumann's model
+uses only nonnegative matrices. The study of von Neumann's model of an
+expanding economy continues to interest mathematical economists with interests
+in computational economics.Â Â  Â Â   Input-output economics. In 1936, the
+Russianâ€“born economist Wassily Leontief built his model of input-output
+analysis from the 'material balance' tables constructed by Soviet economists,
+which themselves followed earlier work by the physiocrats. With his model,
+which described a system of production and demand processes, Leontief described
+how changes in demand in one economic sector would influence production in
+another. In practice, Leontief estimated the coefficients of his simple models,
+to address economically interesting questions. In production economics,
+"Leontief technologies" produce outputs using constant proportions of inputs,
+regardless of the price of inputs, reducing the value of Leontief models for
+understanding economies but allowing their parameters to be estimated
+relatively easily. In contrast, the von Neumann model of an expanding economy
+allows for choice of techniques, but the coefficients must be estimated for
+each technology. Mathematical optimization. In mathematics, mathematical
+optimization (or optimization or mathematical programming) refers to the
+selection of a best element from some set of available alternatives. In the
+simplest case, an optimization problem involves maximizing or minimizing a real
+function by selecting input values of the function and computing the
+corresponding values of the function. The solution process includes satisfying
+general necessary and sufficient conditions for optimality. For optimization
+problems, specialized notation may be used as to the function and its input(s).
+More generally, optimization includes finding the best available element of
+some function given a defined domain and may use a variety of different
+computational optimization techniques. Economics is closely enough linked to
+optimization by agents in an economy that an influential definition relatedly
+describes economics "qua" science as the "study of human behavior as a
+relationship between ends and scarce means" with alternative uses. Optimization
+problems run through modern economics, many with explicit economic or technical
+constraints. In microeconomics, the utility maximization problem and its dual
+problem, the expenditure minimization problem for a given level of utility, are
+economic optimization problems. Theory posits that consumers maximize their
+utility, subject to their budget constraints and that firms maximize their
+profits, subject to their production functions, input costs, and market demand.
+Economic equilibrium is studied in optimization theory as a key ingredient of
+economic theorems that in principle could be tested against empirical data.Â Â 
+â€¢ _____ (1970)."Maximum Principles in Analytical Economics", Nobel Prize
+lecture. Newer developments have occurred in dynamic programming and modeling
+optimization with risk and uncertainty, including applications to portfolio
+theory, the economics of information, and search theory. Optimality properties
+for an entire market system may be stated in mathematical terms, as in
+formulation of the two fundamental theorems of welfare economicsÂ Â  â€¢ Mas-
+Colell, Andreu, Michael D. Whinston, and Jerry R. Green (1995), "Microeconomic
+Theory", Chapter 16. Oxford University Press, ISBN 0-19-510268-1. Description
+and contents. and in the Arrowâ€“Debreu model of general equilibrium (also
+discussed below). More concretely, many problems are amenable to analytical
+(formulaic) solution. Many others may be sufficiently complex to require
+numerical methods of solution, aided by software. Still others are complex but
+tractable enough to allow computable methods of solution, in particular
+computable general equilibrium models for the entire economy.Â  â€¢ Kubler,
+Felix (2008). "computation of general equilibria (new developments)", "The New
+Palgrave Dictionary of Economics", 2nd Edition. Abstract. Linear and nonlinear
+programming have profoundly affected microeconomics, which had earlier
+considered only equality constraints. Many of the mathematical economists who
+received Nobel Prizes in Economics had conducted notable research using linear
+programming: Leonid Kantorovich, Leonid Hurwicz, Tjalling Koopmans, Kenneth J.
+Arrow, and Robert Dorfman, Paul Samuelson, and Robert Solow. Both Kantorovich
+and Koopmans acknowledged that George B. Dantzig deserved to share their Nobel
+Prize for linear programming. Economists who conducted research in nonlinear
+programming also have won the Nobel prize, notably Ragnar Frisch in addition to
+Kantorovich, Hurwicz, Koopmans, Arrow, and Samuelson. Linear optimization.
+Linear programming was developed to aid the allocation of resources in firms
+and in industries during the 1930s in Russia and during the 1940s in the United
+States. During the Berlin airlift (1948), linear programming was used to plan
+the shipment of supplies to prevent Berlin from starving after the Soviet
+blockade. Nonlinear programming. In allowing inequality constraints, the
+Kuhnâ€“Tucker approach generalized the classic method of Lagrange multipliers,
+which (until then) had allowed only equality constraints.Â Â  â€¢ Blume,
+Lawrence E. (2008). "convex programming", "The New Palgrave Dictionary of
+Economics", 2nd Edition. Abstract.Â Â  â€¢  The Kuhnâ€“Tucker approach inspired
+further research on Lagrangian duality, including the treatment of inequality
+constraints.Â Â  â€¢ Â Â  â€¢  The duality theory of nonlinear programming is
+particularly satisfactory when applied to convex minimization problems, which
+enjoy the convex-analytic duality theory of Fenchel and Rockafellar; this
+convex duality is particularly strong for polyhedral convex functions, such as
+those arising in linear programming. Lagrangian duality and convex analysis are
+used daily in operations research, in the scheduling of power plants, the
+planning of production schedules for factories, and the routing of airlines
+(routes, flights, planes, crews). Variational calculus and optimal control.
+"Economic dynamics" allows for changes in economic variables over time,
+including in dynamic systems. The problem of finding optimal functions for such
+changes is studied in variational calculus and in optimal control theory.
+Before the Second World War, Frank Ramsey and Harold Hotelling used the
+calculus of variations to that end. Following Richard Bellman's work on dynamic
+programming and the 1962 English translation of L. Pontryagin "et al".'s
+earlier work, optimal control theory was used more extensively in economics in
+addressing dynamic problems, especially as to economic growth equilibrium and
+stability of economic systems, of which a textbook example is optimal
+consumption and saving. A crucial distinction is between deterministic and
+stochastic control models. Other applications of optimal control theory include
+those in finance, inventories, and production for example.Â Â  â€¢ Scroll to
+chapter-preview links. Functional analysis. It was in the course of proving of
+the existence of an optimal equilibrium in his 1937 model of economic growth
+that John von Neumann introduced functional analytic methods to include
+topology in economic theory, in particular, fixed-point theory through his
+generalization of Brouwer's fixed-point theorem. Following von Neumann's
+program, Kenneth Arrow and GÃ©rard Debreu formulated abstract models of
+economic equilibria using convex sets and fixedâ€“point theory. In introducing
+the Arrowâ€“Debreu model in 1954, they proved the existence (but not the
+uniqueness) of an equilibrium and also proved that every Walras equilibrium is
+Pareto efficient; in general, equilibria need not be unique.Â Â  â€¢  In their
+models, the ("primal") vector space represented "quantitites" while the "dual"
+vector space represented "prices". In Russia, the mathematician Leonid
+Kantorovich developed economic models in partially ordered vector spaces, that
+emphasized the duality between quantities and prices. Oppressed by communism,
+Kantorovich renamed "prices" as "objectively determined valuations" which were
+abbreviated in Russian as "o.Â o.Â o.", alluding to the difficulty of
+discussing prices in the Soviet Union. Even in finite dimensions, the concepts
+of functional analysis have illuminated economic theory, particularly in
+clarifying the role of prices as normal vectors to a hyperplane supporting a
+convex set, representing production or consumption possibilities. However,
+problems of describing optimization over time or under uncertainty require the
+use of infiniteâ€“dimensional function spaces, because agents are choosing
+among functions or stochastic processes. Differential decline and rise. John
+von Neumann's work on functional analysis and topology in broke new ground in
+mathematics and economic theory. It also left advanced mathematical economics
+with fewer applications of differential calculus. In particular, general
+equilibrium theorists used general topology, convex geometry, and optimization
+theory more than differential calculus, because the approach of differential
+calculus had failed to establish the existence of an equilibrium. However, the
+decline of differential calculus should not be exaggerated, because
+differential calculus has always been used in graduate training and in
+applications. Moreover, differential calculus has returned to the highest
+levels of mathematical economics, general equilibrium theory (GET), as
+practiced by the "GET-set" (the humorous designation due to Jacques H. DrÃ¨ze).
+In the 1960s and 1970s, however, GÃ©rard Debreu and Stephen Smale led a revival
+of the use of differential calculus in mathematical economics. In particular,
+they were able to prove the existence of a general equilibrium, where earlier
+writers had failed, because of their novel mathematics: Baire category from
+general topology and Sard's lemma from differential topology. Other economists
+asssociated with the use of differential analysis include Egbert Dierker,
+Andreu Mas-Colell, and Yves Balasko. These advances have changed the
+traditional narrative of the history of mathematical economics, following von
+Neumann, which celebrated the abandonment of differential calculus. Game
+theory. John von Neumann, working with Oskar Morgenstern on the theory of
+games, broke new mathematical ground in 1944 by extending functional analytic
+methods related to convex sets and topological fixed-point theory to economic
+analysis. Their work thereby avoided the traditional differential calculus, for
+which the maximumâ€“operator did not apply to non-differentiable functions.
+Continuing von Neumann's work in cooperative game theory, game theorists Lloyd
+S. Shapley, Martin Shubik, HervÃ© Moulin, Nimrod Megiddo, Bezalel Peleg
+influenced economic research in politics and economics. For example, research
+on the fair prices in cooperative games and fair values for voting games led to
+changed rules for voting in legislatures and for accounting for the costs in
+publicâ€“works projects. For example, cooperative game theory was used in
+designing the water distribution system of Southern Sweden and for setting
+rates for dedicated telephone lines in the USA. Earlier neoclassical theory had
+bounded only the "range" of bargaining outcomes and in special cases, for
+example bilateral monopoly or along the contract curve of the Edgeworth box.
+Von Neumann and Morgenstern's results were similarly weak. Following von
+Neumann's program, however, John Nash used fixedâ€“point theory to prove
+conditions under which the bargaining problem and noncooperative games can
+generate a unique equilibrium solution.Â Â  â€¢ Serrano, Roberto (2008).
+"bargaining", "The New Palgrave Dictionary of Economics", 2nd Edition.
+Abstract. Noncooperative game theory has been adopted as a fundamental aspect
+of experimental economics,Â Â  â€¢ _____ (2001). "Experimental Economics",
+"International Encyclopedia of the Social & Behavioral Sciences", pp. 5100-
+5108. Abstract per sect. 1.1 & 2.1.Â Â  â€¢ Plott, Charles R., and Vernon L.
+Smith, ed. (2008). "Handbook of Experimental Economics Results", v. 1,
+Elsevier, Part 4, Games, ch. 45-66 preview links.Â Â  â€¢ Shubik, Martin
+(2002). "Game Theory and Experimental Gaming", in R. Aumann and S. Hart, ed.,
+"Handbook of Game Theory with Economic Applications", Elsevier, v. 3, pp. 2327-
+2351. Abstract. behavioral economics,Â Â  â€¢ Gul, Faruk. "behavioural
+economics and game theory." Abstract.Â Â  â€¢ Camerer, Colin F. "behavioral
+game theory." Abstract. information economics,Â Â  â€¢ Aumann, R., and S. Hart,
+ed. (1992, 2002). "Handbook of Game Theory with Economic Applications" v. 1,
+links at ch. 3-6 and v. 3, ch. 43. industrial organization,Â Â  â€¢ Bagwell,
+Kyle, and Asher Wolinsky (2002). "Game theory and Industrial Organization", ch.
+49, "Handbook of Game Theory with Economic Applications", v. 3, pp. 1851-1895.
+and political economy. It has also given rise to the subject of mechanism
+design (sometimes called reverse game theory), which has private and public-
+policy applications as to ways of improving economic efficiency through
+incentives for information sharing.Â Â Â Â  Myerson, Roger B. "mechanism
+design." Abstract. Â Â Â Â  _____. "revelation principle." Abstract.Â Â Â Â 
+Sandholm, Tuomas. "computing in mechanism design." Abstract.Â Â  â€¢ Nisan,
+Noam, and Amir Ronen (2001). "Algorithmic Mechanism Design", "Games and
+Economic Behavior", 35(1-2), pp. 166â€“196.Â Â  â€¢ Nisan, Noam, "et al"., ed.
+(2007). "Algorithmic Game Theory", Cambridge University Press. Description. In
+1994, Nash, John Harsanyi, and Reinhard Selten received the Nobel Memorial
+Prize in Economic Sciences their work on nonâ€“cooperative games. Harsanyi and
+Selten were awarded for their work on repeated games. Later work extended their
+results to computational methods of modeling.Â Â Â Â Â Â Â Â  â€¢ Shoham, Yoav
+(2008). "Computer Science and Game Theory", "Communications of the ACM", 51(8),
+pp. 75-79.Â Â Â Â Â Â Â Â  â€¢ Roth,Alvin E. (2002). "The Economist as
+Engineer: Game Theory, Experimentation, and Computation as Tools for Design
+Economics", "Econometrica", 70(4), pp. 1341â€“1378. Agent-based computational
+economics. Agent-based computational economics (ACE) as a named field is
+relatively recent, dating from about the 1990s as to published work. It studies
+economic processes, including whole economies, as dynamic systems of
+interacting agents over time. As such, it falls in the paradigm of complex
+adaptive systems.Â Â  â€¢ Tesfatsion, Leigh (2003). "Agent-based Computational
+Economics: Modeling Economies as Complex Adaptive Systems", "Information
+Sciences", 149(4), pp. 262-268. In corresponding agent-based models, agents are
+not real people but "computational objects modeled as interacting according to
+rules" ... "whose micro-level interactions create emergent patterns" in space
+and time. The rules are formulated to predict behavior and social interactions
+based on incentives and information. The theoretical assumption of mathematical
+"optimization" by agents markets is replaced by the less restrictive postulate
+of agents with "bounded" rationality "adapting" to market forces. ACE models
+apply numerical methods of analysis to computer-based simulations of complex
+dynamic problems for which more conventional methods, such as theorem
+formulation, may not find ready use. Starting from specified initial
+conditions, the computational economic system is modeled as evolving over time
+as its constituent agents repeatedly interact with each other. In these
+respects, ACE has been characterized as a bottom-up culture-dish approach to
+the study of the economy.Â Â  â€¢ _____ (1997). "How Economists Can Get Alife",
+in W. B. Arthur, S. Durlauf, and D. Lane, eds., "The Economy as an Evolving
+Complex System, II", pp. 533-564. Addison-Wesley. Pre-pub PDF. In contrast to
+other standard modeling methods, ACE events are driven solely by initial
+conditions, whether or not equilibria exist or are computationally tractable.
+ACE modeling, however, includes agent adaptation, autonomy, and learning. It
+has a similarity to, and overlap with, game theory as an agent-based method for
+modeling social interactions. Other dimensions of the approach include such
+standard economic subjects as competition and collaboration, market structure
+and industrial organization,Â Â  â€¢ Epstein, Joshua M. (2006). "Growing
+Adaptive Organizations: An Agent-Based Computational Approach", in "Generative
+Social Science: Studies in Agent-Based Computational Modeling", pp. 309 - 344.
+Description and abstract. transaction costs, welfare economics and mechanism
+design,Â Â Â Â  Myerson, Roger B. "mechanism design." Abstract. Â Â Â Â  _____.
+"revelation principle." Abstract.Â Â Â Â  Sandholm, Tuomas. "computing in
+mechanism design." Abstract.Â Â  â€¢ Nisan, Noam, and Amir Ronen (2001).
+"Algorithmic Mechanism Design", "Games and Economic Behavior", 35(1-2), pp.
+166â€“196.Â Â  â€¢ Nisan, Noam, "et al"., ed. (2007). "Algorithmic Game
+Theory", Cambridge University Press. Description. information and uncertainty,
+and macroeconomics.Â Â  â€¢ Sargent, Thomas J. (1994). "Bounded Rationality in
+Macroeconomics", Oxford. Description and chapter-preview 1st-page links. The
+method is said to benefit from continuing improvements in modeling techniques
+of computer science and increased computer capabilities. Issues include those
+common to experimental economics in general and by comparison and to
+development of a common framework for empirical validation and resolving open
+questions in agent-based modeling.Â Â  â€¢ Fagiolo, Giorgio, Alessio Moneta,
+and Paul Windrum (2007). "A Critical Guide to Empirical Validation of Agent-
+Based Models in Economics: Methodologies, Procedures, and Open Problems",
+"Computational Economics", 30, pp. 195â€“226. The ultimate scientific objective
+of the method has been described as "testtheoretical findings against real-
+world data in ways that permit empirically supported theories to cumulate over
+time, with each researcher's work building appropriately on the work that has
+gone before."Â Â  â€¢ Judd, Kenneth L. (2006). "Computationally Intensive
+Analyses in Economics", "Handbook of Computational Economics", v. 2, ch. 17,
+pp. 881- 893. Pre-pub PDF.Â Â  â€¢ Tesfatsion, Leigh, and Kenneth L. Judd, ed.
+(2006). "Handbook of Computational Economics", v. 2. Description & and chapter-
+preview links. Mathematicization of economics. Over the course of the 20th
+century, articles in "core journals" in economics have been almost exclusively
+written by economists in academia. As a result, much of the material
+transmitted in those journals relates to economic theory, and "economic theory
+itself has been continuously more abstract and mathematical." A subjective
+assessment of mathematical techniques employed in these core journals showed a
+decrease in articles that use neither geometric representations nor
+mathematical notation from 95% in 1892 to 5.3% in 1990. A 2007 survey of ten of
+the top economic journals finds that onlyÂ 5.8% of the articles published in
+2003 and 2004 both lacked statistical analysis of data and lacked displayed
+mathematical expressions that were indexed with numbers at the margin of the
+page. Econometrics. Between the world wars, advances in mathematical statistics
+and a cadre of mathematically trained economists led to econometrics, which was
+the name proposed for the discipline of advancing economics by using
+mathematics and statistics. Within economics, "econometrics" has often been
+used for statistical methods in economics, rather than mathematical economics.
+Statistical econometrics features the application of linear regression and time
+series analysis to economic data. Ragnar Frisch coined the word "econometrics"
+and helped to found both the Econometric Society in 1930 and the journal
+"Econometrica" in 1933. A student of Frisch's, Trygve Haavelmo published "The
+Probability Approach in Econometrics" in 1944, where he asserted that precise
+statistical analysis could be used as a tool to validate mathematical theories
+about economic actors with data from complex sources. This linking of
+statistical analysis of systems to economic theory was also promulgated by the
+Cowles Commission (now the Cowles Foundation) throughout the 1930s and 1940s.
+Earlier work in econometrics. The roots of modern econometrics can be traced to
+the American economist Henry L. Moore. Moore studied agricultural productivity
+and attempted to fit changing values of productivity for plots of corn and
+other crops to a curve using different values of elasticity. Moore made several
+errors in his work, some from his choice of models and some from limitations in
+his use of mathematics. The accuracy of Moore's models also was limited by the
+poor data for national accounts in the United States at the time. While his
+first models of production were static, in 1925 he published a dynamic "moving
+equilibrium" model designed to explain business cyclesâ€”this periodic
+variation from overcorrection in supply and demand curves is now known as the
+cobweb model. A more formal derivation of this model was made later by Nicholas
+Kaldor, who is largely credited for its exposition. Application. Much of
+classical economics can be presented in simple geometric terms or elementary
+mathematical notation. Mathematical economics, however, conventionally makes
+use of calculus and matrix algebra in economic analysis in order to make
+powerful claims that would be more difficult without such mathematical tools.
+These tools are prerequisites for formal study, not only in mathematical
+economics but in contemporary economic theory in general. Economic problems
+often involve so many variables that mathematics is the only practical way of
+attacking and solving them. Alfred Marshall argued that every economic problem
+which can be quantified, analytically expressed and solved, should be treated
+by means of mathematical work. Economics has become increasingly dependent upon
+mathematical methods and the mathematical tools it employs have become more
+sophisticated. As a result, mathematics has become considerably more important
+to professionals in economics and finance. Graduate programs in both economics
+and finance require strong undergraduate preparation in mathematics for
+admission and, for this reason, attract an increasingly high number of
+mathematicians. Applied mathematicians apply mathematical principles to
+practical problems, such as economic analysis and other economics-related
+issues, and many economic problems are often defined as integrated into the
+scope of applied mathematics. This integration results from the formulation of
+economic problems as stylized models with clear assumptions and falsifiable
+predictions. This modeling may be informal or prosaic, as it was in Adam
+Smith's "The Wealth of Nations", or it may be formal, rigorous and
+mathematical. Broadly speaking, formal economic models may be classified as
+stochastic or deterministic and as discrete or continuous. At a practical
+level, quantitative modeling is applied to many areas of economics and several
+methodologies have evolved more or less independently of each other. Criticisms
+and defences. Adequacy of mathematics for qualitative and complicated
+economics. Friedrich Hayek contended that the use of formal techniques projects
+a scientific exactness that does not appropriately account for informational
+limitations faced by real economic agents. Heilbroner stated that "some/much of
+economics is not naturally quantitative and therefore does not lend itself to
+mathematical exposition." Testing predictions of mathematical economics.
+Philosopher Karl Popper discussed the scientific standing of economics in the
+1940s and 1950s. He argued that mathematical economics suffered from being
+tautological. In other words, insofar that economics became a mathematical
+theory, mathematical economics ceased to rely on empirical refutation but
+rather relied on mathematical proofs and disproof. According to Popper,
+falsifiable assumptions can be tested by experiment and observation while
+unfalsifiable assumptions can be explored mathematically for their consequences
+and for their consistency with other assumptions. Sharing Popper's concerns
+about assumptions in economics generally, and not just mathematical economics,
+Milton Friedman declared that "all assumptions are unrealistic". Friedman
+proposed judging economic models by their predictive performance rather than by
+the match between their assumptions and reality. Defense of mathematical
+economics. In response to these criticisms, Paul Samuelson argued that
+mathematics is a language, repeating a thesis of Josiah Willard Gibbs. In
+economics, the language of mathematics is sometimes necessary for representing
+substantive problems. Moreover, mathematical economics has led to conceptual
+advances in economics. In particular, Samuelson gave the example of
+microeconomics, writing that "few people are ingenious enough to grasp more
+complex parts... "without" resorting to the language of mathematics, while most
+ordinary individuals can do so fairly easily "with" the aid of mathematics."
+Some economists state that mathematical economics deserves support just like
+other forms of mathematics, particularly its neighbors in mathematical
+optimization and mathematical statistics and increasingly in theoretical
+computer science. Mathematical economics and other mathematical sciences have a
+history in which theoretical advances have regularly contributed to the reform
+of the more applied branches of economics. In particular, following the program
+of John von Neumann, game theory now provides the foundations for describing
+much of applied economics, from statistical decision theory (as "games against
+nature") and econometrics to general equilibrium theory and industrial
+organization. In the last decade, with the rise of the internet, mathematical
+economicists and optimization experts and computer scientists have worked on
+problems of pricing for on-line services --- their contributions using
+mathematics from cooperative game theory, nondifferentiable optimization, and
+combinatorial games.  Mathematical economists. Prominent mathematical
+economists include, but are not limited to, the following (by century of
+birth).

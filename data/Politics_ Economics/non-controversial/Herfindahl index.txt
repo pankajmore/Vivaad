@@ -1,0 +1,77 @@
+Herfindahl index The Herfindahl index (also known as Herfindahl–Hirschman
+Index, or HHI) is a measure of the size of firms in relation to the industry
+and an indicator of the amount of competition among them. Named after
+economists Orris C. Herfindahl and Albert O. Hirschman, it is an economic
+concept widely applied in competition law, antitrust and also technology
+management. It is defined as the sum of the squares of the market shares of the
+50 largest firms (or summed over all the firms if there are fewer than 50)
+within the industry, where the market shares are expressed as fractions. The
+result is proportional to the average market share, weighted by market share.
+As such, it can range from 0 to 1.0, moving from a huge number of very small
+firms to a single monopolistic producer. Increases in the Herfindahl index
+generally indicate a decrease in competition and an increase of market power,
+whereas decreases indicate the opposite. Alternatively, if whole percentages
+are used, the index ranges from 0 to 10,000. The major benefit of the
+Herfindahl index in relationship to such measures as the concentration ratio is
+that it gives more weight to larger firms. The measure is essentially
+equivalent to the Simpson diversity index used in ecology. Example. We will
+assume that the remaining 10% of output is divided among 10 equally sized
+producers. This behavior rests in the fact that the market shares are squared
+prior to being summed, giving additional weight to firms with larger size. The
+index involves taking the market share of the respective market competitors,
+squaring it, and adding them together (e.g. in the market for X, company A has
+30%, B, C, D, E and F have 10% each and G through to Z have 1% each). If the
+resulting figure is above a certain threshold then economists consider the
+market to have a high concentration (e.g. market X's concentration is 0.142 or
+14.2%). This threshold is considered to be 0.25 in the U.S., while the EU
+prefers to focus on the level of change, for instance that concern is raised if
+there is a 0.025 change when the index already shows a concentration of 0.1. So
+to take the example, if in market X company B (with 10% market share) suddenly
+bought out the shares of company C (with 10% also) then this new market
+concentration would make the index jump to 0.162. Here it can be seen that it
+would not be relevant for merger law in the U.S. (being under 0.18) or in the
+EU (because there is not a change over 0.025). Formula. where "si" is the
+market share of firm "i" in the market, and "N" is the number of firms. Thus,
+in a market with two firms that each have 50 percent market share, the
+Herfindahl index equals 0.502+0.502 = 1/2. The Herfindahl Index ("H") ranges
+from 1/"N" to one, where "N" is the number of firms in the market.
+Equivalently, if percents are used as whole numbers, as in 75 instead of 0.75,
+the index can range up to 1002, or 10,000. A HHI index below 0.01 (or 100)
+indicates a highly competitive index. A HHI index above 0.25 (above 2,500)
+indicates high concentration [http://www.justice.gov/atr/public/guidelines/hmg-
+2010.html]. A small index indicates a competitive industry with no dominant
+players. If all firms have an equal share the reciprocal of the index shows the
+number of firms in the industry. When firms have unequal shares, the reciprocal
+of the index indicates the "equivalent" number of firms in the industry. Using
+case 2, we find that the market structure is equivalent to having 1.55521 firms
+of the same size. where again, N is the number of firms in the market, and H is
+the usual Herfindahl Index, as above. Problems. The usefulness of this
+statistic to detect and stop harmful monopolies however is directly dependent
+on a proper definition of a particular market (which hinges primarily on the
+notion of substitutability). The United States Federal anti-trust authorities
+such as the Department of Justice and the Federal Trade Commission use the
+Herfindahl index as a screening tool to determine whether a proposed merger is
+likely to raise antitrust concerns [increases of over 0.0100 points generally
+provoke scrutiny, although this varies from case to case. The Antitrust
+Division of the Department of Justice considers Herfindahl indices between
+0.1500 and 0.2500 to be "moderately concentrated" and indices above 0.2500 to
+be "highly concentrated". As the market concentration increases, competition
+and efficiency decrease and the chances of collusion and monopoly increase.
+Intuition. When all the firms in an industry have equal market shares, H = 1/N.
+The Herfindahl is correlated with the number of firms in an industry because
+its lower bound when there are N firms is 1/N. An industry with 3 firms cannot
+have a lower Herfindahl than an industry with 20 firms when firms have equal
+market shares. But as market shares of the 20-firm industry diverge from
+equality the Herfindahl can exceed that of the equal-market-share 3-firm
+industry (e.g., if one firm has 81% of the market and the remaining 19 have 1%
+each H=0.658). A higher Herfindahl signifies a less competitive industry.
+Decomposition. If we suppose that "N" firms share all the market, then the
+index can be expressed as formula_3 where "N" is the number of firms, as above,
+and "V" is the statistical variance of the firm shares, defined as formula_4.
+If all firms have equal (identical) shares (that is, if the market structure is
+completely "symmetric", in which case "si" = 1/"N" for all "i") then "V" is
+zero and "H" equals 1/"N". If the number of firms in the market is held
+constant, then a higher variance due to a higher level of asymmetry between
+firms' shares (that is, a higher "share dispersion") will result in a higher
+index value. See Brown and Warren-Boulton (1988), also see Warren-Boulton
+(1990).

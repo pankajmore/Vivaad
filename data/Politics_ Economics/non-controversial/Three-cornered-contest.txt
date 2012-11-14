@@ -1,0 +1,62 @@
+Vote splitting Vote splitting is an electoral effect in which the distribution
+of votes among multiple similar candidates reduces the chance of winning for
+any of the similar candidates, and increases the chance of winning for a
+dissimilar candidate. Vote splitting most easily occurs in plurality voting
+(also called first-past-the-post) in which each voter indicates a single choice
+and the candidate with the most votes wins, even if the winner does not have
+majority support. For example, if candidate A1 receives 30% of the votes,
+similar candidate A2 receives another 30% of the votes, and dissimilar
+candidate B receives the remaining 40% of the votes, plurality voting declares
+candidate B as the winner, even though 60% of the voters prefer either
+candidate A1 or A2. Runoff voting methods are less vulnerable to vote splitting
+compared to plurality voting. Pairwise-counting Condorcet methods minimize vote
+splitting effects. A well-known effect of vote splitting is the spoiler effect,
+in which a popular candidate loses an election by a small margin because a
+less-popular similar candidate attracts votes away from the popular candidate,
+allowing a dissimilar candidate to win. Strategic nomination takes advantage of
+vote splitting to defeat a popular candidate by supporting another similar
+candidate. Vote splitting is one possible cause for an electoral system failing
+the independence of clones or independence of irrelevant alternatives fairness
+criteria. Vote splitting and electoral systems. Different electoral systems
+have different levels of vulnerability to vote splitting. Vote splitting most
+easily occurs in plurality voting because ranked ballots are not used, so there
+is no information about the secondary preferences of the voters. Approval
+voting reduces the vote-splitting effect compared to plurality voting, but vote
+splitting still occurs because the full preferences of voters are not
+collected. Runoff voting is less vulnerable to vote splitting, yet vote
+splitting can occur in any round of runoff voting. Although instant runoff
+voting (IRV) uses ranked ballots, secondary preferences are considered in the
+same sequence as in multiple rounds of voting, so this method does not reduce
+the vote-splitting effect (compared to runoff voting). Vote splitting rarely
+occurs when the chosen electoral system uses ranked ballots and a pairwise-
+counting method, such as a Condorcet method. Vote splitting rarely occurs when
+using pairwise counting methods because they do not involve distributing each
+voter's vote among the candidates. Instead, pairwise counting methods
+separately consider each possible pair of candidates, for all possible pairs.
+For each pair of candidates there is a count for how many voters prefer the
+first candidate (in the pair) to the second candidate, and how many voters have
+the opposite preference. The resulting table of pairwise counts eliminates the
+step-by-step distribution of votes that facilitates vote splitting in other
+voting methods. When ranked ballots are used, a voter can vote for a minor
+party candidate as their first choice, and also indicate their order of
+preference for the remaining candidates, without regard for whether a candidate
+is in a major political party. For example, voters who support a very liberal
+candidate can select a somewhat liberal candidate as their second choice, thus
+minimising the chance that their vote will result in the election of a
+conservative candidate. Voting methods that are vulnerable to strategic
+nomination, especially methods that fail independence of clones, are vulnerable
+to vote splitting. Vote splitting also can occur in situations that do not
+involve strategic nomination, such as talent contests (such as American Idol)
+where earlier rounds of voting determine the current contestants. In the United
+States vote splitting commonly occurs in primary elections. The purpose of
+primary elections is to eliminate vote splitting among candidates in the same
+party. If primary elections or party nominations are not used to identify a
+single candidate from each party, the party that has more candidates is more
+likely to lose because of vote splitting among the candidates from the same
+party. Primary elections only occur within each party, so vote splitting can
+still occur between parties in the secondary election. In addition to applying
+to single-winner voting systems (such as used in the United Kingdom, the United
+States and Canada), a split vote can occur in proportional representation
+methods that use election thresholds, such as in Germany, New Zealand and
+Turkey. In these cases, "fringe" parties that do not meet the threshold can
+take away votes from larger parties with similar ideologies.

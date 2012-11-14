@@ -1,0 +1,281 @@
+Black–Scholes The Black–Scholes model or Black–Scholes–Merton is a
+mathematical model of a financial market containing certain derivative
+investment instruments. From the model, one can deduce the Black–Scholes
+formula, which gives the price of European-style options. The formula led to a
+boom in options trading and legitimised scientifically the activities of the
+Chicago Board Options Exchange and other options markets around the world. lt
+is widely used by options market participants. Many empirical tests have shown
+the Black–Scholes price is “fairly close” to the observed prices,
+although there are well-known discrepancies such as the “option smile”. The
+model was first articulated by Fischer Black and Myron Scholes in their 1973
+paper, “The Pricing of Options and Corporate Liabilities", published in the
+"Journal of Political Economy". They derived a partial differential equation,
+now called the Black–Scholes equation, which governs the price of the option
+over time. The key idea behind the derivation was to hedge perfectly the option
+by buying and selling the underlying asset in just the right way and
+consequently "eliminate risk". This hedge is called delta hedging and is the
+basis of more complicated hedging strategies such as those engaged in by Wall
+Street investment banks. The hedge implies there is only one right price for
+the option and it is given by the Black–Scholes formula. Robert C. Merton was
+the first to publish a paper expanding the mathematical understanding of the
+options pricing model and coined the term Black–Scholes options pricing
+model. Merton and Scholes received the 1997 Nobel Prize in Economics ("The
+Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel") for
+their work. Though ineligible for the prize because of his death in 1995, Black
+was mentioned as a contributor by the Swedish academy. Assumptions. From these
+assumptions, Black and Scholes showed that “it is possible to create a hedged
+position, consisting of a long position in the stock and a short position in
+the option, whose value will not depend on the price of the stock.” Several
+of these assumptions of the original model have been removed in subsequent
+extensions of the model. Modern versions account for changing interest rates
+(Merton, 1976), transaction costs and taxes (Ingersoll, 1976), and dividend
+payout. Notation. Let Finally we will use formula_12 which denotes the standard
+normal cumulative distribution function, formula_14 which denotes the standard
+normal probability density function, The Black–Scholes equation. Derivation.
+The following derivation is given in Hull's "Options, Futures, and Other
+Derivatives". That, in turn, is based on the classic argument in the original
+Black–Scholes paper. Per the model assumptions above, the price of the
+underlying asset (typically a stock) follows a geometric Brownian motion. That
+is, where "W" is Brownian motion. Note that "W", and consequently its
+infinitesimal increment "dW", represents the only source of uncertainty in the
+price history of the stock. Intuitively, "W(t)" is a process that "wiggles up
+and down" in such a random way that its expected change over any time interval
+is 0. (In addition, its variance over time "T" is equal to "T"; see Wiener
+process: Basic properties); a good discrete analogue for "W" is a simple random
+walk. Thus the above equation states that the infinitesimal rate of return on
+the stock has an expected value of "μ dt" and a variance of formula_18. The
+payoff of an option formula_19 at maturity is known. To find its value at an
+earlier time we need to know how formula_20 evolves as a function of formula_1
+and formula_10. By Itō's lemma for two variables we have Now consider a
+certain portfolio, called the delta-hedge portfolio, consisting of being short
+one option and long formula_24 shares at time formula_10. The value of these
+holdings is Notice that the formula_33 term has vanished. Thus uncertainty has
+been eliminated and the portfolio is effectively riskless. The rate of return
+on this portfolio must be equal to the rate of return on any other riskless
+instrument; otherwise, there would be opportunities for arbitrage. Now assuming
+the risk-free rate of return is formula_6 we must have over the time period
+formula_10 With the assumptions of the Black–Scholes model, this second order
+partial differential equation holds for any type of option as long as its price
+function formula_20 is twice differentiable with respect to formula_1 and once
+with respect to formula_10. Different pricing formulae for various options will
+arise from the choice of payoff function at expiry and appropriate boundary
+conditions. Black–Scholes formula. The Black–Scholes formula calculates the
+price of European put and call options. This price is consistent with the
+Black–Scholes equation as above; this follows since the formula can be
+obtained by solving the equation for the corresponding terminal and boundary
+conditions. Interpretation. The terms formula_51 are the "probabilities of the
+option expiring in-the-money" under the equivalent exponential martingale
+probability measure (numéraire=stock) and the equivalent martingale
+probability measure (numéraire=risk free asset), respectively. The risk
+neutral probability density for the stock price formula_52 is where formula_54
+is defined as above. Specifically, formula_55 is the probability that the call
+will be exercised provided one assumes that the asset drift is the risk-free
+rate. formula_56, however, does not lend itself to a simple probability
+interpretation. formula_57 is correctly interpreted as the present value, using
+the risk-free interest rate, of the expected asset price at expiration, given
+that the asset price at expiration is above the exercise price. For related
+discussion – and graphical representation – see section "Interpretation"
+under Datar–Mathews method for real option valuation. The equivalent
+martingale probability measure is also called the . Note that both of these are
+"probabilities" in a measure theoretic sense, and neither of these is the true
+probability of expiring in-the-money under the . To calculate the probability
+under the real (“physical”) probability measure, additional information is
+required—the drift term in the physical measure, or equivalently, the market
+price of risk. Derivation. We now show how to get from the general
+Black–Scholes PDE to a specific valuation for an option. Consider as an
+example the Black–Scholes price of a call option, for which the PDE above has
+boundary conditions The last condition gives the value of the option at the
+time that the option matures. The solution of the PDE gives the value of the
+option at any earlier time, formula_61. To solve the PDE we transform the
+equation into a diffusion equation which may be solved using standard methods.
+To this end we introduce the change-of-variable transformation Then the
+Black–Scholes PDE becomes a diffusion equation The terminal condition
+formula_66 now becomes an initial condition Using the standard method for
+solving a diffusion equation we have which, after some manipulations, yields
+where Reverting formula_72 to the original set of variables yields the above
+stated solution to the Black–Scholes equation. Other derivations. Above we
+used the method of arbitrage-free pricing (“delta-hedging”) to derive the
+Black–Scholes PDE, and then solved the PDE to get the valuation formula. It
+is also possible to derive the latter directly using a Risk neutrality
+argument. This method gives the price as the expectation of the option payoff
+under a particular probability measure, called the risk-neutral measure, which
+differs from the real world measure. For the underlying logic see section "risk
+neutral valuation" under Rational pricing as well as section " under
+Mathematical finance; for detail, once again, see Hull. The Greeks. “The
+Greeks” measure the sensitivity to change of the option price under a slight
+change of a single parameter while holding the other parameters fixed.
+Formally, they are partial derivatives of the option price with respect to the
+independent variables (technically, one Greek, gamma, is a partial derivative
+of another Greek, called delta). The Greeks are not only important for the
+mathematical theory of finance, but for those actively involved in trading. Any
+trader worth his or her salt will know the Greeks and make a choice of which
+Greeks to hedge to limit exposure. Financial institutions will typically set
+limits for the Greeks that their trader cannot exceed. Delta is the most
+important Greek and traders will zero their delta at the end of the day. Gamma
+and vega are also important but not as closely monitored. The Greeks for
+Black–Scholes are given in closed form below. They can be obtained by
+straightforward differentiation of the Black–Scholes formula. Note that the
+gamma and vega formulas are the same for calls and puts. This can be seen
+directly from put-call parity. In practice, some sensitivities are usually
+quoted in scaled-down terms, to match the scale of likely changes in the
+parameters. For example, rho is often reported multiplied by 10,000 (1bp rate
+change), vega by 100 (1 vol point change), and theta by 365 or 252 (1 day decay
+based on either calendar days or trading days per year). Extensions of the
+model. The above model can be extended for variable (but deterministic) rates
+and volatilities. The model may also be used to value European options on
+instruments paying dividends. In this case, closed-form solutions are available
+if the dividend is a known proportion of the stock price. American options and
+options on stocks paying a known cash dividend (in the short term, more
+realistic than a proportional dividend) are more difficult to value, and a
+choice of solution techniques is available (for example lattices and grids).
+Instruments paying continuous yield dividends. For options on indexes, it is
+reasonable to make the simplifying assumption that dividends are paid
+continuously, and that the dividend amount is proportional to the level of the
+index. The dividend payment paid over the time period formula_73 is then
+modelled as for some constant formula_75 (the dividend yield). Under this
+formulation the arbitrage-free price implied by the Black–Scholes model can
+be shown to be and where now and Exactly the same formula is used to price
+options on foreign exchange rates, except that now "q" plays the role of the
+foreign risk-free interest rate and "S" is the spot exchange rate. This is the
+Garman–Kohlhagen model (1983). Instruments paying discrete proportional
+dividends. It is also possible to extend the Black–Scholes framework to
+options on instruments paying discrete proportional dividends. This is useful
+when the option is struck on a single stock. A typical model is to assume that
+a proportion formula_82 of the stock price is paid out at pre-determined times
+formula_83. The price of the stock is then modelled as where formula_85 is the
+number of dividends that have been paid by time formula_10. The price of a call
+option on such a stock is again where now is the forward price for the dividend
+paying stock. American options. The problem of finding the price of an American
+option is related to the optimal stopping problem of finding the time to
+execute the option. Since the American option can be exercised at any time
+before the expiration date, the Black-Scholes equation becomes an inequality of
+the form With the terminal and (free) boundary conditions: formula_90 and
+formula_91 where formula_92 denotes the payoff at stock price formula_1 In
+general this inequality does not have a closed form solution, though an
+American call with no dividends is equal to a European call and the Roll-Geske-
+Whaley method provides a solution for an American call with one dividend.
+Barone-Adesi and Whaley is a further approximation formula. Here, the
+stochastic differential equation (which is valid for the value of any
+derivative) is split into two components: the European option value and the
+early exercise premium. With some assumptions, a quadratic equation that
+approximates the solution for the latter is then obtained. This solution
+involves finding the critical value, formula_94, such that one is indifferent
+between early exercise and holding to maturity. Bjerksund and Stensland provide
+an approximation based on an exercise strategy corresponding to a trigger
+price. Here, if the underlying asset price is greater than or equal to the
+trigger price it is optimal to exercise, and the value must equal formula_95,
+otherwise the option “boils down to: (i) a European up-and-out call option…
+and (ii) a rebate that is received at the knock-out date if the option is
+knocked out prior to the maturity date.” The formula is readily modified for
+the valuation of a put option, using put call parity. This approximation is
+computationally inexpensive and the method is fast, with evidence indicating
+that the approximation may be more accurate in pricing long dated options than
+Barone-Adesi and Whaley. Black–Scholes in practice. The Black–Scholes model
+disagrees with reality in a number of ways, some significant. It is widely
+employed as a useful approximation, but proper application requires
+understanding its limitations – blindly following the model exposes the user
+to unexpected risk. In short, while in the Black–Scholes model one can
+perfectly hedge options by simply Delta hedging, in practice there are many
+other sources of risk. Results using the Black–Scholes model differ from real
+world prices because of simplifying assumptions of the model. One significant
+limitation is that in reality security prices do not follow a strict stationary
+log-normal process, nor is the risk-free interest actually known (and is not
+constant over time). The variance has been observed to be non-constant leading
+to models such as GARCH to model volatility changes. Pricing discrepancies
+between empirical and the Black–Scholes model have long been observed in
+options that are far out-of-the-money, corresponding to extreme price changes;
+such events would be very rare if returns were lognormally distributed, but are
+observed much more often in practice. Useful approximation: although volatility
+is not constant, results from the model are often helpful in setting up hedges
+in the correct proportions to minimize risk. Even when the results are not
+completely accurate, they serve as a first approximation to which adjustments
+can be made. Basis for more refined models: The Black–Scholes model is
+"robust" in that it can be adjusted to deal with some of its failures. Rather
+than considering some parameters (such as volatility or interest rates) as
+"constant," one considers them as "variables," and thus added sources of risk.
+This is reflected in the Greeks (the change in option value for a change in
+these parameters, or equivalently the partial derivatives with respect to these
+variables), and hedging these Greeks mitigates the risk caused by the non-
+constant nature of these parameters. Other defects cannot be mitigated by
+modifying the model, however, notably tail risk and liquidity risk, and these
+are instead managed outside the model, chiefly by minimizing these risks and by
+stress testing. Explicit modeling: this feature mean that, rather than
+"assuming" a volatility "a priori" and computing prices from it, one can use
+the model to solve for volatility, which gives the implied volatility of an
+option at given prices, durations and exercise prices. Solving for volatility
+over a given set of durations and strike prices one can construct an implied
+volatility surface. In this application of the Black–Scholes model, a
+coordinate transformation from the "price domain" to the "volatility domain" is
+obtained. Rather than quoting option prices in terms of dollars per unit (which
+are hard to compare across strikes and tenors), option prices can thus be
+quoted in terms of implied volatility, which leads to trading of volatility in
+option markets. The volatility smile. One of the attractive features of the
+Black–Scholes model is that the parameters in the model (other than the
+volatility) — the time to maturity, the strike, the risk-free interest rate,
+and the current underlying price – are unequivocally observable. All other
+things being equal, an option's theoretical value is a monotonic increasing
+function of implied volatility. By computing the implied volatility for traded
+options with different strikes and maturities, the Black–Scholes model can be
+tested. If the Black–Scholes model held, then the implied volatility for a
+particular stock would be the same for all strikes and maturities. In practice,
+the volatility surface (the 3D graph of implied volatility against strike and
+maturity) is not flat. The typical shape of the implied volatility curve for a
+given maturity depends on the underlying instrument. Equities tend to have
+skewed curves: compared to at-the-money, implied volatility is substantially
+higher for low strikes, and slightly lower for high strikes. Currencies tend to
+have more symmetrical curves, with implied volatility lowest at-the-money, and
+higher volatilities in both wings. Commodities often have the reverse behavior
+to equities, with higher implied volatility for higher strikes. Despite the
+existence of the volatility smile (and the violation of all the other
+assumptions of the Black–Scholes model), the Black–Scholes PDE and
+Black–Scholes formula are still used extensively in practice. A typical
+approach is to regard the volatility surface as a fact about the market, and
+use an implied volatility from it in a Black–Scholes valuation model. This
+has been described as using "the wrong number in the wrong formula to get the
+right price." This approach also gives usable values for the hedge ratios (the
+Greeks). Even when more advanced models are used, traders prefer to think in
+terms of volatility as it allows them to evaluate and compare options of
+different maturities, strikes, and so on. Valuing bond options. Black–Scholes
+cannot be applied directly to bond securities because of pull-to-par. As the
+bond reaches its maturity date, all of the prices involved with the bond become
+known, thereby decreasing its volatility, and the simple Black–Scholes model
+does not reflect this process. A large number of extensions to Black–Scholes,
+beginning with the Black model, have been used to deal with this phenomenon.
+See Bond option: Valuation. Interest-rate curve. In practice, interest rates
+are not constant – they vary by tenor, giving an interest rate curve which
+may be interpolated to pick an appropriate rate to use in the Black–Scholes
+formula. Another consideration is that interest rates vary over time. This
+volatility may make a significant contribution to the price, especially of
+long-dated options.This is simply like the interest rate and bond price
+relationship which is inversely related. Short stock rate. It is not free to
+take a short stock position. Similarly, it may be possible to lend out a long
+stock position for a small fee. In either case, this can be treated as a
+continuous dividend for the purposes of a Black–Scholes valuation, provided
+that there is no glaring asymmetry between the short stock borrowing cost and
+the long stock lending income. Criticism. Espen Gaarder Haug and Nassim
+Nicholas Taleb argue that the Black–Scholes model merely recast existing
+widely used models in terms of practically impossible "dynamic hedging" rather
+than "risk," to make them more compatible with mainstream neoclassical economic
+theory. Similar arguments were made in an earlier paper by Emanuel Derman and
+Nassim Taleb. In response, Paul Wilmott has defended the model. Jean-Philippe
+Bouchaud argues: Reliance on models based on incorrect axioms has clear and
+large effects. The Black–Scholes model, for example, which was invented in
+1973 to price options, is still used extensively. But it assumes that the
+probability of extreme price changes is negligible, when in reality, stock
+prices are much jerkier than this. Unwarranted use of the model spiralled into
+the worldwide October 1987 crash; the Dow Jones index dropped 23% in a single
+day, dwarfing recent market hiccups. Using the Student's t-distribution in
+place of the normal distribution as basis for the valuation of options can
+better take in account extreme events. Remarks on notation. It is also used in
+the meaning of (4) with a subscript denoting time, but here the subscript is
+merely a mnemonic. In the partial derivatives, the letters in the numerators
+and denominators are, of course, real variables, and the partial derivatives
+themselves are, initially, real functions of real variables. But after the
+substitution of a stochastic process for one of the arguments they become
+stochastic processes. The Black–Scholes PDE is, initially, a statement about
+the stochastic process formula_1, but when formula_1 is reinterpreted as a real
+variable, it becomes an ordinary PDE. It is only then that we can ask about its
+solution. The parameter formula_99 that appears in the discrete-dividend model
+and the elementary derivation is not the same as the parameter formula_7 that
+appears elsewhere in the article. For the relationship between them see
+Geometric Brownian motion.

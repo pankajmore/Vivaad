@@ -1,0 +1,38 @@
+Cournot competition An essential assumption of this model is the "not
+conjecture" that each firm aims to maximize profits, based on the expectation
+that its own output decision will not have an effect on the decisions of its
+rivals. Price is a commonly known decreasing function of total output. All
+firms know formula_1, the total number of firms in the market, and take the
+output of the others as given. Each firm has a cost function formula_2.
+Normally the cost functions are treated as common knowledge. The cost functions
+may be the same or different among firms. The market price is set at a level
+such that demand equals the total quantity produced by all firms. Each firm
+takes the quantity set by its competitors as a given, evaluates its residual
+demand, and then behaves as a monopoly. Graphically finding the Cournot duopoly
+equilibrium. This section presents an analysis of the model with 2 firms and
+constant marginal cost. This implies that firm 1’s profit is given by
+formula_9 Calculating the equilibrium. In very general terms, let the price
+function for the (duopoly) industry be formula_36 and firm i have the cost
+structure formula_37. To calculate the Nash equilibrium, the best response
+functions of the firms must first be calculated. The values of formula_39 that
+satisfy this equation are the best responses. The Nash equilibria are where
+both formula_5 and formula_6 are best responses given those values of formula_5
+and formula_6. An example. The symmetric Nash equilibrium is at formula_70.
+(See Holt (2005, Chapter 13) for asymmetric examples.) Making suitable
+assumptions for the partial derivatives (for example, assuming each firm's cost
+is a linear function of quantity and thus using the slope of that function in
+the calculation), the equilibrium quantities can be substituted in the assumed
+industry price structure formula_54 to obtain the equilibrium market price.
+Cournot competition with many firms and the Cournot Theorem. edit; we should
+specify the constants. Given the following results are these; Market Demand;
+formula_72 Cost Function; formula_73, for all i and The Cournot Theorem then
+states that, in absence of fixed costs of production, as the number of firms in
+the market, N, goes to infinity, market output, Nq, goes to the competitive
+level and the price converges to marginal cost. Hence with many firms a Cournot
+market approximates a perfectly competitive market. This result can be
+generalized to the case of firms with different cost structures (under
+appropriate restrictions) and non-linear demand. This equilibrium is usually
+known as Cournot equilibrium with endogenous entry, or Marshall equilibrium.
+Bertrand versus Cournot. However, as the number of firms increases towards
+infinity, the Cournot model gives the same result as in Bertrand model: The
+market price is pushed to marginal cost level.

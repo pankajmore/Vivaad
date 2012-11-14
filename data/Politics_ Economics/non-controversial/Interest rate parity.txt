@@ -1,0 +1,67 @@
+Interest rate parity Interest rate parity is a no-arbitrage condition
+representing an equilibrium state under which investors will be indifferent to
+interest rates available on bank deposits in two countries. The fact that this
+condition does not always hold allows for potential opportunities to earn
+riskless profits from covered interest arbitrage. Two assumptions central to
+interest rate parity are capital mobility and perfect substitutability of
+domestic and foreign assets. Given foreign exchange market equilibrium, the
+interest rate parity condition implies that the expected return on domestic
+assets will equal the exchange rate-adjusted expected return on foreign
+currency assets. Investors cannot then earn arbitrage profits by borrowing in a
+country with a lower interest rate, exchanging for foreign currency, and
+investing in a foreign country with a higher interest rate, due to gains or
+losses from exchanging back to their domestic currency at maturity. Interest
+rate parity takes on two distinctive forms: "uncovered interest rate parity"
+refers to the parity condition in which exposure to foreign exchange risk
+(unanticipated changes in exchange rates) is uninhibited, whereas "covered
+interest rate parity" refers to the condition in which a forward contract has
+been used to "cover" (eliminate exposure to) exchange rate risk. Each form of
+the parity condition demonstrates a unique relationship with implications for
+the forecasting of future exchange rates: the forward exchange rate and the
+future spot exchange rate. Economists have found empirical evidence that
+covered interest rate parity generally holds, though not with precision due to
+the effects of various risks, costs, taxation, and ultimate differences in
+liquidity. When both covered and uncovered interest rate parity hold, they
+expose a relationship suggesting that the forward rate is an unbiased predictor
+of the future spot rate. This relationship can be employed to test whether
+uncovered interest rate parity holds, for which economists have found mixed
+results. When uncovered interest rate parity and purchasing power parity hold
+together, they illuminate a relationship named "real interest rate parity",
+which suggests that expected real interest rates represent expected adjustments
+in the real exchange rate. This relationship generally holds strongly over
+longer terms and among emerging market countries. Assumptions. Interest rate
+parity rests on certain assumptions, the first being that capital is mobile -
+investors can readily exchange domestic assets for foreign assets. The second
+assumption is that assets have perfect substitutability, following from their
+similarities in riskiness and liquidity. Given capital mobility and perfect
+substitutability, investors would be expected to hold those assets offering
+greater returns, be they domestic or foreign assets. However, both domestic and
+foreign assets are held by investors. Therefore, it must be true that no
+difference can exist between the returns on domestic assets and the returns on
+foreign assets. That is not to say that domestic investors and foreign
+investors will earn equivalent returns, but that a single investor on any given
+side would expect to earn equivalent returns from either investment decision.
+Uncovered interest rate parity. When the no-arbitrage condition is satisfied
+"without" the use of a forward contract to hedge against exposure to exchange
+rate risk, interest rate parity is said to be "uncovered". Risk-neutral
+investors will be indifferent among the available interest rates in two
+countries because the exchange rate between those countries is expected to
+adjust such that the dollar return on dollar deposits is equal to the dollar
+return on foreign deposits, thereby eliminating the potential for uncovered
+interest arbitrage profits. Uncovered interest rate parity helps explain the
+determination of the spot exchange rate. The following equation represents
+uncovered interest rate parity. where The dollar return on dollar deposits,
+formula_3, is shown to be equal to the dollar return on euro deposits,
+formula_4. Approximation. Uncovered interest rate parity asserts that an
+investor with dollar deposits will earn the interest rate available on dollar
+deposits, while an investor holding euro deposits will earn the interest rate
+available in the eurozone, but also a potential gain or loss on euros depending
+on the rate of appreciation or depreciation of the euro against the dollar.
+Economists have extrapolated a useful approximation of uncovered interest rate
+parity that follows intuitively from these assumptions. If uncovered interest
+rate parity holds, such that an investor is indifferent between dollar versus
+euro deposits, then any excess return on euro deposits must be offset by some
+expected loss from depreciation of the euro against the dollar. Conversely,
+some shortfall in return on euro deposits must be offset by some expected gain
+from appreciation of the euro against the dollar. The following equation
+represents the uncovered interest rate parity approximation.

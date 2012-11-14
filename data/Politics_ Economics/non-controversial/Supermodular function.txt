@@ -1,0 +1,45 @@
+Supermodular function In mathematics, a function is supermodular if for all
+"x", "y" formula_3 "R""k", where "x" formula_4 "y" denotes the componentwise
+maximum and "x" formula_5 "y" the componentwise minimum of "x" and "y". If
+−"f" is supermodular then "f" is called submodular, and if the inequality is
+changed to an equality the function is modular. If "f" is twice continuously
+differentiable, then supermodularity is equivalent to the condition
+Supermodularity in economics and game theory. The concept of supermodularity is
+used in the social sciences to analyze how one agent's decision affects the
+incentives of others. Consider a symmetric game with a smooth payoff function
+formula_7 defined over actions formula_8 of two or more players formula_9.
+Suppose the action space is continuous; for simplicity, suppose each action is
+chosen from an interval: formula_10. In this context, supermodularity of
+formula_7 implies that an increase in player formula_12's choice formula_8
+increases the marginal payoff formula_14 of action formula_15 for all other
+players formula_16. That is, if any player formula_12 chooses a higher
+formula_8, all other players formula_16 have an incentive to raise their
+choices formula_15 too. Following the terminology of Bulow, Geanakoplos, and
+Klemperer (1985), economists call this situation strategic complementarity,
+because players' strategies are complements to each other. This is the basic
+property underlying examples of multiple equilibria in coordination games. The
+opposite case of submodularity of formula_7 corresponds to the situation of
+strategic substitutability. An increase in formula_8 lowers the marginal payoff
+to all other player's choices formula_15, so strategies are substitutes. That
+is, if formula_12 chooses a higher formula_8, other players have an incentive
+to pick a "lower" formula_15. For example, Bulow et al. consider the
+interactions of many imperfectly competitive firms. When an increase in output
+by one firm raises the marginal revenues of the other firms, production
+decisions are strategic complements. When an increase in output by one firm
+lowers the marginal revenues of the other firms, production decisions are
+strategic substitutes. A standard reference on the subject is by Topkis.
+Supermodular functions of subsets. Supermodularity and submodularity are also
+defined for functions defined over subsets of a larger set. Intuitively, a
+submodular function over the subsets demonstrates "diminishing returns". There
+are specialized techniques for optimizing submodular functions. Let "S" be a
+finite set. A function formula_27 is submodular if for any formula_28 and
+formula_29, formula_30. For supermodularity, the inequality is reversed. A
+simple illustration example motivates this definition of submodular. Let S be a
+set of different foods, formula_31 a meal, and formula_32 the "goodness" of
+that meal. Then A above is one meal, and B is A but with even more options. Let
+x be ice cream. Adding ice cream to a meal is always good, but it is best if
+there is not already a dessert. If A and B either both have a dessert or both
+do not, then adding ice cream to them is comparably good. But if A does not
+have dessert and B does, then the effect of adding ice cream is more pronounced
+in A. The definition of submodularity can equivalently be formulated as for all
+subsets "A" and "B" of "S".

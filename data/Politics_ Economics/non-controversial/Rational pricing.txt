@@ -1,0 +1,141 @@
+Rational pricing Rational pricing is the assumption in financial economics that
+asset prices (and hence asset pricing models) will reflect the arbitrage-free
+price of the asset as any deviation from this price will be "arbitraged away".
+This assumption is useful in pricing fixed income securities, particularly
+bonds, and is fundamental to the pricing of derivative instruments. Arbitrage
+mechanics. Arbitrage is the practice of taking advantage of a state of
+imbalance between two (or possibly more) markets. Where this mismatch can be
+exploited (i.e. after transaction costs, storage costs, transport costs,
+dividends etc.) the arbitrageur "locks in" a risk free profit without investing
+any of his own money. In general, arbitrage ensures that "the law of one price"
+will hold; arbitrage also equalises the prices of assets with identical cash
+flows, and sets the price of assets with known future cash flows. The law of
+one price. The same asset must trade at the same price on all markets ("the law
+of one price"). Assets with identical cash flows. Two assets with identical
+cash flows must trade at the same price. An asset with a known future-price. An
+asset with a known price in the future, must today trade at that price
+discounted at the risk free rate. Note that this condition can be viewed as an
+application of the above, where the two assets in question are the asset to be
+delivered and the risk free asset. It will be noted that (b) is only possible
+for those holding the asset but not needing it until the future date. There may
+be few such parties if short-term demand exceeds supply, leading to
+backwardation. Fixed income securities. Rational pricing is one approach used
+in pricing fixed rate bonds. Here, each cash flow can be matched by trading in
+(a) some multiple of a zero-coupon bond corresponding to the coupon date, and
+of equivalent credit worthiness (if possible, from the same issuer as the bond
+being valued) with the corresponding maturity, or (b) in a corresponding strip
+and ZCB. Given that the cash flows can be replicated, the price of the bond
+must today equal the sum of each of its cash flows discounted at the same rate
+as each ZCB, as above. Were this not the case, arbitrage would be possible and
+would bring the price back into line with the price based on ZCBs; see Bond
+valuation: Arbitrage-free pricing approach Often, the formula is expressed as
+formula_4, using prices instead of rates, as prices are more readily available.
+"See also Fixed income arbitrage; Bond credit rating." Pricing derivatives. A
+derivative is an instrument that allows for buying and selling of the same
+asset on two markets� – the spot market and the derivatives market.
+Mathematical finance assumes that any imbalance between the two markets will be
+arbitraged away. Thus, in a correctly priced derivative contract, the
+derivative price, the strike price (or reference rate), and the spot price will
+be related such that arbitrage is not possible. Futures. In a futures contract,
+for no arbitrage to be possible, the price paid on delivery (the forward price)
+must be the same as the cost (including interest) of buying and storing the
+asset. In other words, the rational forward price represents the expected
+future value of the underlying discounted at the risk free rate (the "asset
+with a known future-price", as above). Thus, for a simple, non-dividend paying
+asset, the value of the future/forward, formula_5, will be found by
+accumulating the present value formula_6 at time formula_7 to maturity
+formula_8 by the rate of risk-free return formula_9. This relationship may be
+modified for storage costs, dividends, dividend yields, and convenience yields;
+see futures contract pricing. Any deviation from this equality allows for
+arbitrage as follows. Options. As above, where the value of an asset in the
+future is known (or expected), this value can be used to determine the asset's
+rational price today. In an option contract, however, exercise is dependent on
+the price of the underlying, and hence payment is uncertain. Option pricing
+models therefore include logic that either "locks in" or "infers" this future
+value; both approaches deliver identical results. Methods that lock-in future
+cash flows assume "arbitrage free pricing", and those that infer expected value
+assume "risk neutral valuation". To do this, (in their simplest, though widely
+used form) both approaches assume a “Binomial model” for the behavior of
+the underlying instrument, which allows for only two states� – up or down. If
+S is the current price, then in the next period the price will either be "S up"
+or "S down". Here, the value of the share in the up-state is S × u, and in the
+down-state is S × d (where u and d are multipliers with d < 1 < u and assuming
+d < 1+r < u; see the binomial options model). Then, given these two states, the
+"arbitrage free" approach creates a position that has an identical value in
+either state� – the cash flow in one period is therefore known, and arbitrage
+pricing is applicable. The risk neutral approach infers expected option value
+from the intrinsic values at the later two nodes. Although this logic appears
+far removed from the Black–Scholes formula and the lattice approach in the
+Binomial options model, it in fact underlies both models; see The
+Black–Scholes PDE. The assumption of binomial behaviour in the underlying
+price is defensible as the number of time steps between today (valuation) and
+exercise increases, and the period per time-step is correspondingly short. The
+Binomial options model allows for a high number of very short time-steps (if
+coded correctly), while Black–Scholes, in fact, models a continuous process.
+The examples below have shares as the underlying, but may be generalised to
+other instruments. The value of a put option can be derived as below, or may be
+found from the value of the call using put-call parity. Arbitrage free pricing.
+Here, the future payoff is "locked in" using either "delta hedging" or the
+"replicating portfolio" approach. As above, this payoff is then discounted, and
+the result is used in the valuation of the option today. Delta hedging. It is
+possible to create a position consisting of Δ shares and 1 call sold, such
+that the position’s value will be identical in the "S up" and "S down"
+states, and hence known with certainty (see Delta hedging). This certain value
+corresponds to the forward price above ("An asset with a known future price"),
+and as above, for no arbitrage to be possible, the present value of the
+position must be its expected future value discounted at the risk free rate, r.
+The value of a call is then found by equating the two. The replicating
+portfolio. It is possible to create a position consisting of Δ shares and $B
+borrowed at the risk free rate, which will produce identical cash flows to one
+option on the underlying share. The position created is known as a "replicating
+portfolio" since its cash flows replicate those of the option. As shown above
+("Assets with identical cash flows"), in the absence of arbitrage
+opportunities, since the cash flows produced are identical, the price of the
+option today must be the same as the value of the position today. Note that
+there is no discounting� – the interest rate appears only as part of the
+construction. This approach is therefore used in preference to others where it
+is not clear whether the risk free rate may be applied as the discount rate at
+each decision point, or whether, instead, a premium over risk free would be
+required. The best example of this would be under Real options analysis where
+managements' actions actually change the risk characteristics of the project in
+question, and hence the Required rate of return could differ in the up- and
+down-states. Here, in the above formulae, we then have: "Δ × "S up" - B × (1
++ r up)..." and "Δ × "S down" - B × (1 + r down)..." . Risk neutral
+valuation. Here the value of the option is calculated using the risk neutrality
+assumption. Under this assumption, the “expected value” (as opposed to
+"locked in" value) is discounted. The expected value is calculated using the
+intrinsic values from the later two nodes: “Option up” and “Option
+down”, with u and d as price multipliers as above. These are then weighted by
+their respective probabilities: “probability” p of an up move in the
+underlying, and “probability” (1-p) of a down move. The expected value is
+then discounted at r, the risk free rate. The risk neutrality assumption. Note
+that above, the risk neutral formula does not refer to the volatility of the
+underlying� – p as solved, relates to the risk-neutral measure as opposed to
+the actual probability distribution of prices. Nevertheless, both arbitrage
+free pricing and risk neutral valuation deliver identical results. In fact, it
+can be shown that “Delta hedging” and “Risk neutral valuation” use
+identical formulae expressed differently. Given this equivalence, it is valid
+to assume “risk neutrality” when pricing derivatives. See Fundamental
+theorem of arbitrage-free pricing. Swaps. Rational pricing underpins the logic
+of swap valuation. Here, two counterparties "swap" obligations, effectively
+exchanging cash flow streams calculated against a notional principal amount,
+and the value of the swap is the present value (PV) of both sets of future cash
+flows "netted off" against each other. Subsequent valuation. Once traded, swaps
+can also be priced using rational pricing. For example, the Floating leg of an
+interest rate swap can be "decomposed" into a series of forward rate
+agreements. Here, since the swap has identical payments to the FRA, arbitrage
+free pricing must apply as above� – i.e. the value of this leg is equal to
+the value of the corresponding FRAs. Similarly, the "receive-fixed" leg of a
+swap, can be valued by comparison to a bond with the same schedule of payments.
+(Relatedly, given that their underlyings have the same cash flows, bond options
+and swaptions are equatable.) Pricing shares. Note that under "true arbitrage",
+the investor locks-in a "guaranteed" payoff, whereas under APT arbitrage, the
+investor locks-in a positive "expected" payoff. The APT thus assumes "arbitrage
+in expectations"� — i.e. that arbitrage by investors will bring asset prices
+back into line with the returns expected by the model. The capital asset
+pricing model (CAPM) is an earlier, (more) influential theory on asset pricing.
+Although based on different assumptions, the CAPM can, in some ways, be
+considered a "special case" of the APT; specifically, the CAPM's securities
+market line represents a single-factor model of the asset price, where beta is
+exposure to changes in value of the market. External links. Arbitrage free
+pricing Risk neutrality and arbitrage free pricing Application to derivatives

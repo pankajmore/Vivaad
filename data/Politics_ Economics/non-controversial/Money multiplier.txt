@@ -1,0 +1,140 @@
+Money multiplier In monetary economics, a money multiplier is one of various
+closely related ratios of commercial bank money to central bank money under a
+fractional-reserve banking system. Most often, it measures the "maximum" amount
+of commercial bank money that can be created by a given unit of central bank
+money. That is, in a fractional-reserve banking system, the total amount of
+loans that commercial banks are allowed to extend (the commercial bank money
+that they can legally create) is a multiple of reserves; this multiple is the
+reciprocal of the reserve ratio, and it is an economic multiplier. In
+equations, writing "M" for commercial bank money (loans), "R" for reserves
+(central bank money), and "RR" for the reserve ratio, the reserve ratio
+requirement is that formula_1 the fraction of reserves must be "at least" the
+reserve ratio. Taking the reciprocal, formula_2 which yields formula_3 meaning
+that commercial bank money is "at most" reserves times formula_4 the latter
+being the multiplier. If banks lend out close to the maximum allowed by their
+reserves, then the inequality becomes an approximate equality, and commercial
+bank money is central bank money times the multiplier. If banks instead lend
+less than the maximum, accumulating excess reserves, then commercial bank money
+will be "less" than central bank money times the theoretical multiplier. In the
+United States since 1959, banks lent out close to the maximum allowed for the
+49-year period from 1959 until August 2008, maintaining a low level of excess
+reserves, then accumulated significant excess reserves over the period
+September 2008 through the present (November 2009). Thus, in the first period,
+commercial bank money was almost exactly central bank money times the
+multiplier, but this relationship broke down from September 2008. As a formula
+and legal quantity, the money multiplier is not controversial – it is simply
+the maximum that commercial banks are allowed to lend out. However, there are
+various heterodox theories concerning the mechanism of money creation in a
+fractional-reserve banking system, and the implication for monetary policy.
+Definition. The money multiplier is defined in various ways. Most simply, it
+can be defined either as the statistic of "commercial bank money"/"central bank
+money", based on the actual observed quantities of various empirical measures
+of money supply, such as M2 (broad money) over M0 (base money), or it can be
+the theoretical "maximum commercial bank money/central bank money" ratio,
+defined as the reciprocal of the reserve ratio, formula_5 The multiplier in the
+first (statistic) sense fluctuates continuously based on changes in commercial
+bank money and central bank money (though it is "at most" the theoretical
+multiplier), while the multiplier in the second (legal) sense depends only on
+the reserve ratio, and thus does not change unless the law changes. For
+purposes of monetary policy, what is of most interest is the "predicted impact"
+of changes in central bank money on commercial bank money, and in various
+models of monetary creation, the associated multiple (the ratio of these two
+changes) is called the money multiplier (associated to that model). For
+example, if one assumes that people hold a constant fraction of deposits as
+cash, one may add a "currency drain" variable (currency–deposit ratio), and
+obtain a multiplier of formula_6 These concepts are not generally distinguished
+by different names; if one wishes to distinguish them, one may gloss them by
+names such as empirical (or observed) multiplier, legal (or theoretical)
+multiplier, or model multiplier, but these are not standard usages. Similarly,
+one may distinguish the "observed" reserve–deposit ratio from the legal
+(minimum) reserve ratio, and the "observed" currency–deposit ratio from an
+assumed model one. Note that in this case the reserve–deposit ratio and
+currency–deposit ratio are "outputs" of observations, and fluctuate over
+time. If one then uses these observed ratios as model parameters ("inputs") for
+the predictions of effects of monetary policy and assumes that they remain
+constant, computing a constant multiplier, the resulting predictions are valid
+only if these ratios do not in fact change. Sometimes this holds, and sometimes
+it does not; for example, increases in central bank money may result in
+increases in commercial bank money – and will, if these ratios (and thus
+multiplier) stay constant – or may result in increases in excess reserves but
+little or no change in commercial bank money, in which case the
+reserve–deposit ratio will grow and the multiplier will fall. Mechanism.
+There are two suggested mechanisms for how money creation occurs in a
+fractional-reserve banking system: either reserves are first injected by the
+central bank, and then lent on by the commercial banks, or loans are first
+extended by commercial banks, and then backed by reserves borrowed from the
+central bank. The "reserves first" model is that taught in mainstream economics
+textbooks, while the "loans first" model is advanced by endogenous money
+theorists. Reserves first model. In the "reserves first" model of money
+creation, a given reserve is lent out by a bank, then deposited at a bank
+(possibly different), which is then lent out again, the process repeating and
+the ultimate result being a geometric series. Formula. This formula stems from
+the fact that the sum of the "amount loaned out" column above can be expressed
+mathematically as a geometric series with a common ratio of formula_8 can be
+used, where Currency Drain Ratio is the percentage of money that people want to
+hold as cash and the Desired Reserve Ratio is the sum of the Required Reserve
+Ratio and the Excess Reserve Ratio. Deposits = \sum_{n = 0}^{\infty}\left[\left
+(1 - \alpha - \beta - \gamma\right)\right]^{n} = \frac{1}{\alpha + \beta +
+\gamma}. Publicly Held Currency = \gamma \cdot Deposits = \frac{\gamma}{\alpha
++ \beta + \gamma} Loans = \left(1 - \alpha - \beta\right) \cdot Deposits =
+\frac{1 - \alpha - \beta}{\alpha + \beta + \gamma} By summing up the two
+quantities, the theoretical money multiplier is defined as m = \frac{Money
+Stock}{Monetary Base} = \frac{Deposits + Publicly Held Currency}{Monetary Base}
+= \frac{1 + \gamma}{\alpha + \beta + \gamma} where formula_13 and formula_14
+The process described above by the geometric series can be represented in the
+following table, where Example. This number is multiplied by the initial
+deposit to show the maximum amount of money it can be expanded to. Another way
+to look at the monetary multiplier is derived from the concept of money supply
+and money base. It is the number of dollars of money supply that can be created
+for every dollar of monetary base. Money supply, denoted by M, is the stock of
+money held by public. It is measured by the amount of currency and deposits.
+Money Base, denoted by B, is the summation of currency and reserves. Currency
+and Reserves are monetary policy that can be affected by the Federal Reserve.
+For example, the Federal Reserve can increase currency by printing more money
+and they can similarly increase reserve by requiring a higher percentage of
+deposits to be stored in the Federal Reserve. M=Money Supply C=Currency
+D=Deposits B=Money Base R=Reserve Multiply the right side by formula_26. Since
+this equals to 1, it is mathematically justified to multiply it to only the
+right side. Then multiple the right side of the equation by the Money Base So
+we get: formula_28 is the multiplier. Therefore, if money base is held
+constant, the ratio of D/R and D/C affects the money supply. When the ratio of
+deposits to reserves (D/R) reduces, the multiplier reduces. Similarly, if the
+ratio of deposits to currency (D/C) falls, the multiplier falls as well. The
+multiplier effect is relevant to considering monetary and fiscal policies, as
+well how the banking system works. For example, the deposit, the monetary
+amount a customer deposits at a bank, is used by the bank to loan out to
+others, thereby generating the money supply. Most banks are FDIC insured
+(Federal Deposit Insurance Corporation), so that customers are assured that
+their savings, up to a certain amount, is insured by the federal government.
+Banks are required to reserve a certain ratio of the customer's deposits in
+reserve, either in the form of vault cash or of a deposit maintained by a
+Federal Reserve Bank.[http://www.federalreserve.gov/monetarypolicy/
+reservereq.htm#table1] . Therefore, if the Federal Reserve Bank (and hence its
+monetary policy) requires a higher percentage of reserve, then it lowers the
+bank's financial ability to loan. Loans first model. In the alternative model
+of money creation, loans are first extended by commercial banks – say, $1,000
+of loans (following the example above), which may then require that the bank
+borrow $100 of reserves either from depositors (or other private sources of
+financing), or from the central bank. However it is also possible that the loan
+is used to pay another bank customer who deposits it back with the bank, thus
+negating the need for any form of reserve to be borrowed by the bank. This view
+is advanced in endogenous money theories, such as the Post-Keynesian school of
+monetary circuit theory, as advanced by such economists as Basil Moore and
+Steve Keen. Implications for monetary policy. The multiplier plays a key role
+in monetary policy, and the distinction between the multiplier being the
+"maximum" amount of commercial bank money created by a given unit of central
+bank money and approximately "equal" to the amount created has important
+implications in monetary policy. If banks maintain low levels of excess
+reserves, as they did in the US from 1959 to August 2008, then central banks
+can finely control broad (commercial bank) money supply by controlling central
+bank money creation, as the multiplier gives a direct and fixed connection
+between these. Restated, increases in central bank money may not result in
+commercial bank money because the money is not "required" to be lent out – it
+may instead result in a growth of unlent reserves (excess reserves). This
+situation is referred to as "pushing on a string": withdrawal of central bank
+money "compels" commercial banks to curtail lending (one can "pull" money via
+this mechanism), but input of central bank money does not compel commercial
+banks to lend (one cannot "push" via this mechanism). This described growth in
+excess reserves has indeed occurred in the Financial crisis of 2007–2010, US
+bank excess reserves growing over 500-fold, from under $2 billion in August
+2008 to over $1,000 billion in November 2009.

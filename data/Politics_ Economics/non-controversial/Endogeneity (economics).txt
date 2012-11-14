@@ -1,0 +1,63 @@
+Endogeneity (economics) In a statistical model, a parameter or variable is said
+to be endogenous when there is a correlation between the parameter or variable
+and the error term. Endogeneity can arise as a result of measurement error,
+autoregression with autocorrelated errors, simultaneity, omitted variables, and
+sample selection errors. Broadly, a loop of causality between the independent
+and dependent variables of a model leads to endogeneity. For example, in a
+simple supply and demand model, when predicting the quantity demanded in
+equilibrium, the price is endogenous because producers change their price in
+response to demand and consumers change their demand in response to price. In
+this case, the price variable is said to have total endogeneity once the demand
+and supply curves are known. In contrast, a change in consumer tastes or
+preferences would be an exogenous change on the demand curve. Exogeneity vs.
+Endogeneity. In a stochastic model, the notion of the usual exogeneity,
+sequential exogeneity, strong/strict exogeneity can be defined. Exogeneity is
+articulated in such a way that a variable or variables is exogenous for
+parameter formula_1. Even if a variable is exogenous for parameter formula_1,
+it might be endogenous for parameter formula_3. When the explanatory variables
+are not stochastic, then they are strong exogenous for all the parameters. The
+problem of endogeneity occurs when the independent variable is correlated with
+the error term in a regression model. This implies that the regression
+coefficient in an Ordinary Least Squares (OLS) regression is biased, however if
+the correlation is not contemporaneous, then it may still be consistent. There
+are many methods of overcoming this, including instrumental variable regression
+and Heckman selection correction. Static Models. The following are some common
+sources of endogeneity. Omitted Variable. In this case, the endogeneity comes
+from an uncontrolled confounding variable. A variable is both correlated with
+an independent variable in the model and with the error term. (Equivalently,
+the omitted variable both affects the independent variable and separately
+affects the dependent variable.) Assume that the "true" model to be estimated
+is, but we omit formula_5 (perhaps because we don't have a measure for it) when
+we run our regression. formula_5 will get absorbed by the error term and we
+will actually estimate, If the correlation of formula_9 and formula_10 is not 0
+and formula_10 separately affects formula_12 (meaning formula_13), then
+formula_9 is correlated with the error term formula_15. Here, x and 1 are not
+exogenous for alpha and beta since, given x and 1, the distribution of y
+depends not only on alpha and beta, but also on z and gamma. Measurement Error.
+Suppose that we do not get a perfect measure of one of our independent
+variables. Imagine that instead of observing formula_16 we observe formula_17
+where formula_18 is the measurement "noise". When we try to estimate the
+following univariate regression, we actually end up estimating, Since both
+formula_24 and formula_25 depend on formula_18, they are correlated.
+Measurement error in the dependent variable, however, does not cause
+endogeneity (though it does increase the variance of the error term). Dynamic
+Models. The endogeneity problem is particularly relevant in the context of time
+series analysis of causal processes. It is common for some factors within a
+causal system to be dependent for their value in period "t" on the values of
+other factors in the causal system in period "t-1". Suppose that the level of
+pest infestation is independent of all other factors within a given period, but
+is influenced by the level of rainfall and fertilizer in the preceding period.
+In this instance it would be correct to say that infestation is exogenous
+within the period, but endogenous over time. Let the model be y=f(x,z)+u, then
+if the variable x is sequential exogenous for parameter formula_1, and y does
+not cause x in Granger sense, then the variable x is strong/strict exogenous
+for the parameter formula_1. Simultaneity. Generally speaking, simultaneity
+occurs in the dynamic model, but this example is static one. Suppose that two
+variables are codetermined, with each affecting the other. Suppose that we have
+two "structural" equations, We can show that estimating either equation results
+in endogeneity. In the case of the first structural equation, we will show that
+formula_31. First, solving for formula_5 we get (assuming that formula_33),
+Assuming that formula_16 and formula_36 are uncorrelated with formula_25, we
+find that, Therefore, attempts at estimating either structural equation will be
+hampered by endogeneity. References. Peter Kennedy. "A Guide to Econometrics".
+Sixth Edition. (c) 2008. Page 139.

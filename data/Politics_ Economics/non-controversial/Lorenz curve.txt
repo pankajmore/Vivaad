@@ -1,0 +1,43 @@
+Lorenz curve In economics, the Lorenz curve is a graphical representation of
+the cumulative distribution function of the empirical probability distribution
+of wealth; it is a graph showing the proportion of the distribution assumed by
+the bottom "y"% of the values. It is often used to represent income
+distribution, where it shows for the bottom "x"% of households, what percentage
+"y"% of the total income they have. The percentage of households is plotted on
+the "x"-axis, the percentage of income on the "y"-axis. It can also be used to
+show distribution of assets. In such use, many economists consider it to be a
+measure of social inequality. It was developed by Max O. Lorenz in 1905 for
+representing inequality of the wealth distribution. The concept is useful in
+describing inequality among the size of individuals in ecology, and in studies
+of biodiversity, where cumulative proportion of species is plotted against
+cumulative proportion of individuals. It is also useful in business modeling:
+e.g., in consumer finance, to measure the actual delinquency Y% of the X% of
+people with worst predicted risk scores. Explanation. Every point on the Lorenz
+curve represents a statement like "the bottom 20% of all households have 10% of
+the total income." (see Pareto principle). A perfectly equal income
+distribution would be one in which every person has the same income. In this
+case, the bottom "N"% of society would always have "N"% of the income. This can
+be depicted by the straight line "y" = "x"; called the "line of perfect
+equality." By contrast, a perfectly unequal distribution would be one in which
+one person has all the income and everyone else has none. In that case, the
+curve would be at "y" = 0 for all "x" < 100%, and "y" = 100% when "x" = 100%.
+This curve is called the "line of perfect inequality." The Gini coefficient is
+the area between the line of perfect equality and the observed Lorenz curve, as
+a percentage of the area between the line of perfect equality and the line of
+perfect inequality. The higher the coefficient, the more unequal the
+distribution is. In the diagram on the right, this is given by the ratio A/
+(A+B), where A and B are the indicated areas. Calculation. The Lorenz curve can
+often be represented by a function "L"("F"), where "F" is represented by the
+horizontal axis, and "L" is represented by the vertical axis. For an example of
+a Lorenz curve, see Pareto distribution. Properties. A Lorenz curve always
+starts at (0,0) and ends at (1,1). The Lorenz curve is not defined if the mean
+of the probability distribution is zero or infinite. The Lorenz curve for a
+probability distribution is a continuous function. However, Lorenz curves
+representing discontinuous functions can be constructed as the limit of Lorenz
+curves of probability distributions, the line of perfect inequality being an
+example. The information in a Lorenz curve may be summarized by the Gini
+coefficient and the Lorenz asymmetry coefficient. Note however that a Lorenz
+curve for net worth would start out by going negative due to the fact that some
+people have a negative net worth because of debt. The Lorenz curve is invariant
+under positive scaling. If X is a random variable, for any positive number "c"
+the random variable "c" X has the same Lorenz curve as X.

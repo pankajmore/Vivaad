@@ -1,0 +1,93 @@
+Dynamic stochastic general equilibrium Dynamic stochastic general equilibrium
+modeling (abbreviated DSGE or sometimes SDGE or DGE) is a branch of applied
+general equilibrium theory that is influential in contemporary macroeconomics.
+The DSGE methodology attempts to explain aggregate economic phenomena, such as
+economic growth, business cycles, and the effects of monetary and fiscal
+policy, on the basis of macroeconomic models derived from microeconomic
+principles. One of the main reasons macroeconomists seek to build microfounded
+models is that, unlike more traditional macroeconometric forecasting models,
+microfounded models should not, in principle, be vulnerable to the Lucas
+critique. Furthermore, since the microfoundations are based on the preferences
+of the decision-makers in the model, DSGE models feature a natural benchmark
+for evaluating the welfare effects of policy changes (for discussion of both
+points, see Woodford, 2003, pp.Â 11â€“12 and Tovar, 2008, pp.Â 15â€“16).
+Structure of DSGE models. Like other general equilibrium models, DSGE models
+aim to describe the behavior of the economy as a whole by analyzing the
+interaction of many microeconomic decisions. The decisions considered in most
+DSGE models correspond to some of the main quantities studied in
+macroeconomics, such as consumption, saving, investment, and labor supply and
+labor demand. The decision-makers in the model, often called 'agents', may
+include households, business firms, and possibly others, such as governments or
+central banks. Furthermore, as their name indicates, DSGE models are dynamic,
+studying how the economy evolves over time. They are also stochastic, taking
+into account the fact that the economy is affected by random shocks such as
+technological change, fluctuations in the price of oil, or changes in
+macroeconomic policy-making. This contrasts with the static models studied in
+Walrasian general equilibrium theory, applied general equilibrium models and
+some computable general equilibrium models. For a coherent description of the
+macroeconomy, DSGE models must spell out the following economic 'ingredients'.
+Traditional macroeconometric forecasting models used by central banks in the
+1970s, and even today, estimated the dynamic correlations between prices and
+quantities in different sectors of the economy, and often included thousands of
+variables. Since DSGE models start from microeconomic principles of constrained
+decision-making, instead of just taking as given observed correlations, they
+are technically more difficult to solve and analyze. Therefore they usually
+abstract from so many sectoral details, and include far fewer variables: just a
+few variables in theoretical DSGE papers, or on the order of a hundred
+variables in the experimental DSGE forecasting models now being constructed by
+central banks. What DSGE models give up in sectoral detail, they attempt to
+make up in logical consistency. Advantages and disadvantages of DSGE modeling.
+By specifying preferences (what the agents want), technology (what the agents
+can produce), and institutions (the way they interact), it is possible (in
+principle, though challenging in practice) to solve the DSGE model to predict
+what is actually produced, traded, and consumed, and how these variables evolve
+over time in response to various shocks. In principle, it is also possible to
+make predictions about the effects of changing the institutional framework. In
+contrast, as Robert Lucas pointed out, such a prediction is unlikely to be
+valid in traditional macroeconometric forecasting models, since those models
+are based on observed past correlations between macroeconomic variables. These
+correlations can be expected to change when new policies are introduced,
+invalidating predictions based on past observations. Given the difficulty of
+constructing accurate DSGE models, most central banks still rely on traditional
+macroeconometric models for short-term forecasting. However, the effects of
+alternative policies are increasingly studied using DSGE methods. Since DSGE
+models are constructed on the basis of assumptions about agents' preferences,
+it is possible to ask whether the policies considered are Pareto optimal, or
+how well they satisfy some other social welfare criterion derived from
+preferences (Woodford, 2003, p.Â 12). Schools of DSGE modeling. At present two
+competing schools of thought form the bulk of DSGE modeling. Example. The
+European Central Bank (ECB) has developed a DSGE model, often called the Smets-
+Wouters model, which it uses to analyze the economy of the Eurozone as a whole
+(in other words, the model does not analyze individual European countries
+separately). The model is intended as an alternative to the "Area-Wide Model
+(AWM)", a more traditional empirical forecasting model which the ECB has been
+using for several years. The ECB webpage that describes the Smets-Wouters model
+also discusses the advantages of building a DSGE model instead of relying on
+more traditional methods. The equations in the Smets-Wouters model describe the
+choices of three types of decision makers: households, who made an optimal
+trade-off between consumption and worked hours, under a budget contraint;
+firms, who optimize theirs labor and capital to employ; and the central bank,
+which controls monetary policy. The parameters in the equations were estimated
+using Bayesian statistical techniques so that the model approximately describes
+the dynamics of GDP, consumption, investment, prices, wages, employment, and
+interest rates in the Eurozone economy. In order to accurately reproduce the
+sluggish behavior of some of these variables, the model incorporates several
+types of frictions that slow down adjustment to shocks, including sticky prices
+and wages, and adjustment costs in investment. Controversy. Willem Buiter of
+the London School of Economics has argued that DSGE models rely excessively on
+an assumption of complete markets, and are unable to describe the highly
+nonlinear dynamics of economic fluctuations, making training in 'state-of-the-
+art' macroeconomic modeling "a privately and socially costly waste of time and
+resources". N. Gregory Mankiw, regarded as one of the founders of New Keynesian
+DSGE modeling, has also argued that Narayana Kocherlakota, President of the
+Federal Reserve Bank of Minneapolis, acknowledges that DSGE models were not
+very useful for analyzing the financial crisis of 2007-2010. Nonetheless, he
+argues that the applicability of these models is improving, and that there is
+growing consensus among macroeconomists that DSGE models need to incorporate
+both price stickiness and financial market frictions. Chari also argued that
+current DSGE models frequently incorporate frictional unemployment, financial
+market imperfections, and sticky prices and wages, and therefore imply that the
+macroeconomy behaves in a suboptimal way which monetary and fiscal policy may
+be able to improve. Commenting on the Congressional session, The Economist
+asked whether agent-based models might better predict financial crises than
+DSGE models.

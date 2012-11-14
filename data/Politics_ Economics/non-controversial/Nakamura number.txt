@@ -1,0 +1,102 @@
+Nakamura number In cooperative game theory and social choice theory, the
+Nakamura number measures the degree of rationality of preference aggregation
+rules (collective decision rules), such as voting rules. It is an indicator of
+the extent to which an aggregation rule can yield well-defined choices. In
+contrast, The larger the Nakamura number a rule has, the greater the number of
+alternatives the rule can rationally deal with. For example, since (except in
+the case of four individuals (voters)) the Nakamura number of majority rule is
+three, the rule can deal with up to two alternatives rationally (without
+causing a paradox). The number is named after Kenjiro Nakamura (1947–1979), a
+Japanese game theorist who proved the above fact that the rationality of
+collective choice critically depends on the number of alternatives. Overview.
+To introduce a precise definition of the Nakamura number, we give an example of
+a "game" (underlying the rule in question) to which a Nakamura number will be
+assigned. Suppose the set of individuals consists of individuals 1, 2, 3, 4,
+and 5. A Nakamura number can be assigned to such collections, which we call
+"simple games". More precisely, a simple game is just an arbitrary collection
+of coalitions; the coalitions belonging to the collection are said to be
+"winning"; the others "losing". If all the (at least three, in the example
+above) members of a winning coalition prefer alternative x to alternative y,
+then the society (of five individuals, in the example above) will adopt the
+same ranking ("social preference"). The Nakamura number of a simple game is
+defined as the minimum number of winning coalitions with empty intersection.
+(By intersecting this number of winning coalitions, one can sometimes obtain an
+empty set. But by intersecting less than this number, one can never obtain an
+empty set.) The Nakamura number of the simple game above is three, for example,
+since the intersection of any two winning coalitions contains at least one
+individual but the intersection of the following three winning coalitions is
+empty: formula_7, formula_8, formula_9. the number of alternatives is less than
+the Nakamura number of the simple game. Here, the core of a simple game with
+respect to the profile of preferences is the set of all alternatives formula_10
+such that there is no alternative formula_11 that every individual in a winning
+coalition prefers to formula_10; that is, the set of "maximal" elements of the
+social preference. For the majority game example above, the theorem implies
+that the core will be empty (no alternative will be deemed "best") for some
+profile, if there are three or more alternatives. Variants of Nakamura's
+theorem exist that provide a condition for the core to be nonempty (i) for all
+profiles of "acyclic" preferences; (ii) for all profiles of "transitive"
+preferences; and (iii) for all profiles of "linear orders". There is a
+different kind of variant (Kumabe and Mihara, 2011), which dispenses with
+"acyclicity", the weak requirement of rationality. The variant gives a
+condition for the core to be nonempty for all profiles of preferences that have
+"maximal elements". For "ranking" alternatives, there is a very well known
+result called "Arrow's impossibility theorem" in social choice theory, which
+points out the difficulty for a group of individuals in ranking three or more
+alternatives. For "choosing" from a set of alternatives (instead of "ranking"
+them), Nakamura's theorem is more relevant. An interesting question is how
+large the Nakamura number can be. It has been shown that for a (finite or)
+algorithmically "computable" simple game that has no "veto player" to have a
+Nakamura number greater than three, the game has to be "non-strong". This means
+that there is a "losing" (i.e., not winning) coalition whose complement is also
+losing. This in turn implies that nonemptyness of the core is assured for a set
+of three or more alternatives only if the core may contain several alternatives
+that cannot be strictly ranked. Framework. Let formula_13 be a (finite or
+infinite) nonempty set of "individuals". The subsets of formula_13 are called
+coalitions. A simple game (voting game) is a collection formula_15 of
+coalitions. We assume that formula_15 is nonempty and does not contain an empty
+set. The coalitions belonging to formula_15 are "winning"; the others are
+"losing". A simple game formula_15 is monotonic if formula_19 and formula_20
+imply formula_21. It is proper if formula_19 implies formula_23. It is strong
+if formula_24 implesformula_25. A veto player (vetoer) is an individual that
+belongs to all winning coalitions. A simple game is nonweak if it has no veto
+player. It is finite if there is a finite set (called a "carrier") formula_26
+such that for all coalitions formula_27, we have formula_19 iff formula_29. Let
+formula_30 be a (finite or infinite) set of "alternatives", whose cardinal
+number (the number of elements) formula_31 is at least two. if formula_34 (read
+"formula_10 is preferred to formula_11"), then formula_37. We say that a
+preference formula_32 is "acyclic" (does not contain "cycles") if for any
+finite number of alternatives formula_39, whenever formula_40, formula_41,…,
+formula_42, we have formula_43. Note that acyclic relations are asymmetric,
+hence preferences. A profile is a list formula_44 of individual preferences
+formula_45. Here formula_46 means that individual formula_47 prefers
+alternative formula_10 to formula_11 at profile formula_50. A "simple game with
+ordinal preferences" is a pair formula_51 consisting of a simple game
+formula_15 and a profile formula_50. Given formula_51, a "dominance" (social
+preference) relation formula_55 is defined on formula_30 by formula_57 if and
+only if there is a winning coalition formula_19 satisfying formula_46 for all
+formula_60. The core formula_61 of formula_51 is the set of alternatives
+undominated by formula_55 The Nakamura number: the definition and examples. The
+Nakamura number formula_69 of a simple game formula_15 is the size (cardinal
+number) without a veto player has a Nakamura number greater than 3 only if it
+is proper and nonstrong. Nakamura's theorem for acyclic preferences. Nakamura's
+theorem (Nakamura, 1979, Theorems 2.3 and 2.5). Let formula_15 be a simple
+game. Then the core formula_61 is nonempty for all profiles formula_50 of
+acyclic preferences if and only if formula_30 is finite and formula_75. Remarks
+A variant of Nakamura's theorem for preferences that may contain cycles. In
+this section, we discard the usual assumption of acyclic preferences. Instead,
+we restrict preferences to those having a maximal element on a given "agenda"
+("opportunity set" that a group of individuals are confronted with), a subset
+of some underlying set of alternatives. Accordingly, it is appropriate to think
+of formula_30 as an "agenda" here. An alternative formula_93 is a "maximal"
+element with respect to formula_45 (i.e., formula_45 has a maximal element
+formula_10) if there is no formula_97 such that formula_98. If a preference is
+acyclic over the underlying set of alternatives, then it has a maximal element
+on every "finite" subset formula_30. We introduce a strengthening of the core
+before stating the variant of Nakamura's theorem. An alternative formula_10 can
+be in the core formula_61 even if there is a winning coalition of individuals
+formula_47 that are "dissatisfied" with formula_10 (i.e., each formula_47
+prefers some formula_105 to formula_10). It is easy to prove that formula_109
+depends only on the set of maximal elements of each individual and is included
+in the union of such sets. Moreover, for each profile formula_50, we have
+formula_117. A variant of Nakamura's theorem (Kumabe and Mihara, 2011, Theorem
+2). Remarks

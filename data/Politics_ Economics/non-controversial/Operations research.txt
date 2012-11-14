@@ -1,0 +1,187 @@
+Operations research Operations research, or operational research in British
+usage, is a discipline that deals with the application of advanced analytical
+methods to help make better decisions. It is often considered to be a sub-field
+of mathematics. The terms management science and decision science are sometimes
+used as more modern-sounding synonyms. Employing techniques from other
+mathematical sciences, such as mathematical modeling, statistical analysis, and
+mathematical optimization, operations research arrives at optimal or near-
+optimal solutions to complex decision-making problems. Because of its emphasis
+on human-technology interaction and because of its focus on practical
+applications, operations research has overlap with other disciplines, notably
+industrial engineering and operations management, and draws on psychology and
+organization science. Operations Research is often concerned with determining
+the maximum (of profit, performance, or yield) or minimum (of loss, risk, or
+cost) of some real-world objective. Originating in military efforts before
+World War II, its techniques have grown to concern problems in a variety of
+industries. Overview. Operational research (OR) encompasses a wide range of
+problem-solving techniques and methods applied in the pursuit of improved
+decision-making and efficiency, such as simulation, mathematical optimization,
+queueing theory and other stochastic-process models, Markov decision processes,
+econometric methods, data envelopment analysis, neural networks, expert
+systems, decision analysis, and the analytic hierarchy process. Nearly all of
+these techniques involve the construction of mathematical models that attempt
+to describe the system. Because of the computational and statistical nature of
+most of these fields, OR also has strong ties to computer science and
+analytics. Operational researchers faced with a new problem must determine
+which of these techniques are most appropriate given the nature of the system,
+the goals for improvement, and constraints on time and computing power.
+History. As a formal discipline, operational research originated in the efforts
+of military planners during World War II. In the decades after the war, the
+techniques began to be applied more widely to problems in business, industry
+and society. Since that time, operational research has expanded into a field
+widely used in industries ranging from petrochemicals to airlines, finance,
+logistics, and government, moving to a focus on the development of mathematical
+models that can be used to analyse and optimize complex systems, and has become
+an area of active academic and industrial research. Historical origins. In the
+World War II era, operational research was defined as "a scientific method of
+providing executive departments with a quantitative basis for decisions
+regarding the operations under their control." Other names for it included
+operational analysis (UK Ministry of Defence from 1962) and quantitative
+management. Prior to the formal start of the field, early work in operational
+research was carried out by individuals such as Charles Babbage. His research
+into the cost of transportation and sorting of mail led to England's universal
+"Penny Post" in 1840, and studies into the dynamical behaviour of railway
+vehicles in defence of the GWR's broad gauge. Percy Bridgman brought
+operational research to bear on problems in physics in the 1920s and would
+later attempt to extend these to the social sciences. The modern field of
+operational research arose during World War II. Modern operational research
+originated at the Bawdsey Research Station in the UK in 1937 and was the result
+of an initiative of the station's superintendent, A. P. Rowe. Rowe conceived
+the idea as a means to analyse and improve the working of the UK's early
+warning radar system, Chain Home (CH). Initially, he analysed the operating of
+the radar equipment and its communication networks, expanding later to include
+the operating personnel's behaviour. This revealed unappreciated limitations of
+the CH network and allowed remedial action to be taken. Scientists in the
+United Kingdom including Patrick Blackett (later Lord Blackett OM PRS), Cecil
+Gordon, C. H. Waddington, Owen Wansbrough-Jones, Frank Yates, Jacob Bronowski
+and Freeman Dyson, and in the United States with George Dantzig looked for ways
+to make better decisions in such areas as logistics and training schedules.
+After the war it began to be applied to similar problems in industry. Second
+World War. During the Second World War close to 1,000 men and women in Britain
+were engaged in operational research. About 200 operational research scientists
+worked for the British Army. Patrick Blackett worked for several different
+organizations during the war. Early in the war while working for the Royal
+Aircraft Establishment (RAE) he set up a team known as the "Circus" which
+helped to reduce the number of anti-aircraft artillery rounds needed to shoot
+down an enemy aircraft from an average of over 20,000 at the start of the
+Battle of Britain to 4,000 in 1941. In 1941 Blackett moved from the RAE to the
+Navy, after first working with RAF Coastal Command, in 1941 and then early in
+1942 to the Admiralty. Blackett's team at Coastal Command's Operational
+Research Section (CC-ORS) included two future Nobel prize winners and many
+other people who went on to be pre-eminent in their fields. They undertook a
+number of crucial analyses that aided the war effort. Britain introduced the
+convoy system to reduce shipping losses, but while the principle of using
+warships to accompany merchant ships was generally accepted, it was unclear
+whether it was better for convoys to be small or large. Convoys travel at the
+speed of the slowest member, so small convoys can travel faster. It was also
+argued that small convoys would be harder for German U-boats to detect. On the
+other hand, large convoys could deploy more warships against an attacker.
+Blackett's staff showed that the losses suffered by convoys depended largely on
+the number of escort vessels present, rather than on the overall size of the
+convoy. Their conclusion, therefore, was that a few large convoys are more
+defensible than many small ones. While performing an analysis of the methods
+used by RAF Coastal Command to hunt and destroy submarines, one of the analysts
+asked what colour the aircraft were. As most of them were from Bomber Command
+they were painted black for nighttime operations. At the suggestion of CC-ORS a
+test was run to see if that was the best colour to camouflage the aircraft for
+daytime operations in the grey North Atlantic skies. Tests showed that aircraft
+painted white were on average not spotted until they were 20% closer than those
+painted black. This change indicated that 30% more submarines would be attacked
+and sunk for the same number of sightings. Other work by the CC-ORS indicated
+that on average if the trigger depth of aerial-delivered depth charges (DCs)
+were changed from 100 feet to 25 feet, the kill ratios would go up. The reason
+was that if a U-boat saw an aircraft only shortly before it arrived over the
+target then at 100 feet the charges would do no damage (because the U-boat
+wouldn't have had time to descend as far as 100 feet), and if it saw the
+aircraft a long way from the target it had time to alter course under water so
+the chances of it being within the 20-foot kill zone of the charges was small.
+It was more efficient to attack those submarines close to the surface when the
+targets' locations were better known than to attempt their destruction at
+greater depths when their positions could only be guessed. Before the change of
+settings from 100 feet to 25 feet, 1% of submerged U-boats were sunk and 14%
+damaged. After the change, 7% were sunk and 11% damaged. (If submarines were
+caught on the surface, even if attacked shortly after submerging, the numbers
+rose to 11% sunk and 15% damaged). Blackett observed "there can be few cases
+where such a great operational gain had been obtained by such a small and
+simple change of tactics". Bomber Command's Operational Research Section (BC-
+ORS), analysed a report of a survey carried out by RAF Bomber Command. For the
+survey, Bomber Command inspected all bombers returning from bombing raids over
+Germany over a particular period. All damage inflicted by German air defences
+was noted and the recommendation was given that armour be added in the most
+heavily damaged areas. This recommendation was not adopted because the fact
+that the aircraft returned with these areas damaged indicated these areas were
+NOT vital, and adding armor weight to non-vital areas where damage is
+acceptable negatively affects aircraft performance. Their suggestion to remove
+some of the crew so that an aircraft loss would result in fewer personnel loss
+was also rejected by RAF command. Blackett's team made the logical
+recommendation that the armour be placed in the areas which were completely
+untouched by damage in the bombers which returned. They reasoned that the
+survey was biased, since it only included aircraft that returned to Britain.
+The untouched areas of returning aircraft were probably vital areas, which, if
+hit, would result in the loss of the aircraft. When Germany organised its air
+defences into the Kammhuber Line, it was realised by the British that if the
+RAF bombers were to fly in a bomber stream they could overwhelm the night
+fighters who flew in individual cells directed to their targets by ground
+controllers. It was then a matter of calculating the statistical loss from
+collisions against the statistical loss from night fighters to calculate how
+close the bombers should fly to minimise RAF losses. The "exchange rate" ratio
+of output to input was a characteristic feature of operational research. By
+comparing the number of flying hours put in by Allied aircraft to the number of
+U-boat sightings in a given area, it was possible to redistribute aircraft to
+more productive patrol areas. Comparison of exchange rates established
+"effectiveness ratios" useful in planning. The ratio of 60 mines laid per ship
+sunk was common to several campaigns: German mines in British ports, British
+mines on German routes, and United States mines in Japanese routes. Operational
+research doubled the on-target bomb rate of B-29s bombing Japan from the
+Marianas Islands by increasing the training ratio from 4 to 10 percent of
+flying hours; revealed that wolf-packs of three United States submarines were
+the most effective number to enable all members of the pack to engage targets
+discovered on their individual patrol stations; revealed that glossy enamel
+paint was more effective camouflage for night fighters than traditional dull
+camouflage paint finish, and the smooth paint finish increased airspeed by
+reducing skin friction. On land, the operational research sections of the Army
+Operational Research Group (AORG) of the Ministry of Supply (MoS) were landed
+in Normandy in 1944, and they followed British forces in the advance across
+Europe. They analysed, among other topics, the effectiveness of artillery,
+aerial bombing, and anti-tank shooting. After World War II. With expanded
+techniques and growing awareness of the field at the close of the war,
+operational research was no longer limited to only operational, but was
+extended to encompass equipment procurement, training, logistics and
+infrastructure. Problems addressed with operational research. Operational
+research is also used extensively in government where evidence-based policy is
+used. Management science. In 1967 Stafford Beer characterized the field of
+management science as "the business use of operations research". However, in
+modern times the term management science may also be used to refer to the
+separate fields of organizational studies or corporate strategy. Like
+operational research itself, management science (MS) is an interdisciplinary
+branch of applied mathematics devoted to optimal decision planning, with strong
+links with economics, business, engineering, and other sciences. It uses
+various scientific research-based principles, strategies, and analytical
+methods including mathematical modeling, statistics and numerical algorithms to
+improve an organization's ability to enact rational and meaningful management
+decisions by arriving at optimal or near optimal solutions to complex decision
+problems. In short, management sciences help businesses to achieve their goals
+using the scientific methods of operational research. The management
+scientist's mandate is to use rational, systematic, science-based techniques to
+inform and improve decisions of all kinds. Of course, the techniques of
+management science are not restricted to business applications but may be
+applied to military, medical, public administration, charitable groups,
+political groups or community groups. Management science is concerned with
+developing and applying models and concepts that may prove useful in helping to
+illuminate management issues and solve managerial problems, as well as
+designing and developing new and better models of organizational excellence.
+The application of these models within the corporate sector became known as
+Management science. Societies and journals. The International Federation of
+Operational Research Societies (IFORS) is an umbrella organization for
+operational research societies worldwide, representing approximately 50
+national societies including those in the US, UK, France, Germany, Canada,
+Australia, New Zealand, Philippines, India, Japan and South Africa (ORSSA). The
+constituent members of IFORS form regional groups, such as that in Europe.
+Other important operational research organizations are Simulation
+Interoperability Standards Organization (SISO) and Interservice/Industry
+Training, Simulation and Education Conference (I/ITSEC) In 2004 the US-based
+organization INFORMS began an initiative to market the OR profession better,
+including a website entitled "The Science of Better" which provides an
+introduction to OR and examples of successful applications of OR to industrial
+problems. This initiative has been adopted by the Operational Research Society
+in the UK, including a website entitled "Learn about OR".

@@ -1,0 +1,298 @@
+Modern portfolio theory Modern portfolio theory (MPT) is a theory of finance
+which attempts to maximize portfolio expected return for a given amount of
+portfolio risk, or equivalently minimize risk for a given level of expected
+return, by carefully choosing the proportions of various assets. Although MPT
+is widely used in practice in the financial industry and several of its
+creators won a Nobel memorial prize for the theory, in recent years the basic
+assumptions of MPT have been widely challenged by fields such as behavioral
+economics. MPT is a mathematical formulation of the concept of diversification
+in investing, with the aim of selecting a collection of investment assets that
+has collectively lower risk than any individual asset. That this is possible
+can be seen intuitively because different types of assets often change in value
+in opposite ways. For example, to the extent prices in the stock market move
+differently from prices in the bond market, a collection of both types of
+assets can in theory face lower overall risk than either individually. But
+diversification lowers risk even if assets' returns are not negatively
+correlated—indeed, even if they are positively correlated. More technically,
+MPT models an asset's return as a normally distributed function (or more
+generally as an elliptically distributed random variable), defines risk as the
+standard deviation of return, and models a portfolio as a weighted combination
+of assets, so that the return of a portfolio is the weighted combination of the
+assets' returns. By combining different assets whose returns are not perfectly
+positively correlated, MPT seeks to reduce the total variance of the portfolio
+return. MPT also assumes that investors are rational and markets are efficient.
+MPT was developed in the 1950s through the early 1970s and was considered an
+important advance in the mathematical modeling of finance. Since then, many
+theoretical and practical criticisms have been leveled against it. These
+include the fact that financial returns do not follow a Gaussian distribution
+or indeed any symmetric distribution, and that correlations between asset
+classes are not fixed but can vary depending on external events (especially in
+crises). Further, there is growing evidence that investors are not rational and
+markets are not efficient. Concept. The fundamental concept behind MPT is that
+the assets in an investment portfolio should not be selected individually, each
+on their own merits. Rather, it is important to consider how each asset changes
+in price relative to how every other asset in the portfolio changes in price.
+Investing is a tradeoff between risk and expected return. In general, assets
+with higher expected returns are riskier. For a given amount of risk, MPT
+describes how to select a portfolio with the highest possible expected return.
+Or, for a given expected return, MPT explains how to select a portfolio with
+the lowest possible risk (the targeted expected return cannot be more than the
+highest-returning available security, of course, unless negative holdings of
+assets are possible.) Therefore, MPT is a form of diversification. Under
+certain assumptions and for specific quantitative definitions of risk and
+return, MPT explains how to find the best possible diversification strategy.
+History. Harry Markowitz introduced MPT in a 1952 article and a 1959 book.
+Markowitz classifies it simply as "Portfolio Theory," because "There's nothing
+modern about it." See also this survey of the history. Mathematical model. In
+some sense the mathematical derivation below "is" MPT, although the basic
+concepts behind the model have also been very influential. This section
+develops the "classic" MPT model. There have been many extensions since. Risk
+and expected return. MPT assumes that investors are risk averse, meaning that
+given two portfolios that offer the same expected return, investors will prefer
+the less risky one. Thus, an investor will take on increased risk only if
+compensated by higher expected returns. Conversely, an investor who wants
+higher expected returns must accept more risk. The exact trade-off will be the
+same for all investors, but different investors will evaluate the trade-off
+differently based on individual risk aversion characteristics. The implication
+is that a rational investor will not invest in a portfolio if a second
+portfolio exists with a more favorable risk-expected return profile – i.e.,
+if for that level of risk an alternative portfolio exists which has better
+expected returns. Note that the theory uses standard deviation of return as a
+proxy for risk, which is valid if asset returns are jointly normally
+distributed or otherwise elliptically distributed. There are problems with
+this, however; see criticism. \operatorname{E}(R_p) = \sum_i w_i \operatorname
+{E}(R_i) \quad  Diversification. An investor can reduce portfolio risk simply
+by holding combinations of instruments which are not perfectly positively
+correlated (correlation coefficient formula_14). In other words, investors can
+reduce their exposure to individual asset risk by holding a diversified
+portfolio of assets. Diversification may allow for the same portfolio expected
+return with reduced risk. These ideas have been started with Markowitz and then
+reinforced by other economists and mathematicians such as Andrew Brennan who
+have expressed ideas in the limitation of variance through portfolio theory. If
+all the asset pairs have correlations of 0—they are perfectly
+uncorrelated—the portfolio's return variance is the sum over all assets of
+the square of the fraction held in the asset times the asset's return variance
+(and the portfolio standard deviation is the square root of this sum). The
+efficient frontier with no risk-free asset. As shown in this graph, every
+possible combination of the risky assets, without including any holdings of the
+risk-free asset, can be plotted in risk-expected return space, and the
+collection of all such possible portfolios defines a region in this space. The
+left boundary of this region is a hyperbola, and the upper edge of this region
+is the "efficient frontier" in the absence of a risk-free asset (sometimes
+called "the Markowitz bullet"). Combinations along this upper edge represent
+portfolios (including no holdings of the risk-free asset) for which there is
+lowest risk for a given level of expected return. Equivalently, a portfolio
+lying on the efficient frontier represents the combination offering the best
+possible expected return for given risk level. where The above optimization
+finds the point on the frontier at which the inverse of the slope of the
+frontier would be "q" if portfolio return variance instead of standard
+deviation were plotted horizontally. The frontier in its entirety is parametric
+on "q". Many software packages, including MATLAB, Microsoft Excel, Mathematica
+and R, provide optimization routines suitable for the above problem. An
+alternative approach to specifying the efficient frontier is to do so
+parametrically on the expected portfolio return formula_16 This version of the
+problem requires that we minimize subject to for parameter formula_19. This
+problem is easily solved using a Lagrange multiplier. Two mutual fund theorem.
+One key result of the above analysis is the two mutual fund theorem. This
+theorem states that any portfolio on the efficient frontier can be generated by
+holding a combination of any two given portfolios on the frontier; the latter
+two given portfolios are the "mutual funds" in the theorem's name. So in the
+absence of a risk-free asset, an investor can achieve any desired efficient
+portfolio even if all that is accessible is a pair of efficient mutual funds.
+If the location of the desired portfolio on the frontier is between the
+locations of the two mutual funds, both mutual funds will be held in positive
+quantities. If the desired portfolio is outside the range spanned by the two
+mutual funds, then one of the mutual funds must be sold short (held in negative
+quantity) while the size of the investment in the other mutual fund must be
+greater than the amount available for investment (the excess being funded by
+the borrowing from the other fund). The risk-free asset and the capital
+allocation line. The risk-free asset is the (hypothetical) asset which pays a
+risk-free rate. In practice, short-term government securities (such as US
+treasury bills) are used as a risk-free asset, because they pay a fixed rate of
+interest and have exceptionally low default risk. The risk-free asset has zero
+variance in returns (hence is risk-free); it is also uncorrelated with any
+other asset (by definition, since its variance is zero). As a result, when it
+is combined with any other asset or portfolio of assets, the change in return
+is linearly related to the change in risk as the proportions in the combination
+vary. When a risk-free asset is introduced, the half-line shown in the figure
+is the new efficient frontier. It is tangent to the hyperbola at the pure risky
+portfolio with the highest Sharpe ratio. Its horizontal intercept represents a
+portfolio with 100% of holdings in the risk-free asset; the tangency with the
+hyperbola represents a portfolio with no risk-free holdings and 100% of assets
+held in the portfolio occurring at the tangency point; points between those
+points are portfolios containing positive amounts of both the risky tangency
+portfolio and the risk-free asset; and points on the half-line beyond the
+tangency point are leveraged portfolios involving negative holdings of the
+risk-free asset (the latter has been sold short—in other words, the investor
+has borrowed at the risk-free rate) and an amount invested in the tangency
+portfolio equal to more than 100% of the investor's initial capital. This
+efficient half-line is called the capital allocation line (CAL), and its
+formula can be shown to be In this formula "P" is the sub-portfolio of risky
+assets at the tangency with the Markowitz bullet, "F" is the risk-free asset,
+and "C" is a combination of portfolios "P" and "F". By the diagram, the
+introduction of the risk-free asset as a possible component of the portfolio
+has improved the range of risk-expected return combinations available, because
+everywhere except at the tangency portfolio the half-line gives a higher
+expected return than the hyperbola does at every possible risk level. The fact
+that all points on the linear efficient locus can be achieved by a combination
+of holdings of the risk-free asset and the tangency portfolio is known as the
+one mutual fund theorem, where the mutual fund referred to is the tangency
+portfolio. Asset pricing using MPT. The above analysis describes optimal
+behavior of an individual investor. Asset pricing theory builds on this
+analysis in the following way. Since everyone holds the risky assets in
+identical proportions to each other—namely in the proportions given by the
+tangency portfolio—in market equilibrium the risky assets' prices, and
+therefore their expected returns, will adjust so that the ratios in the
+tangency portfolio are the same as the ratios in which the risky assets are
+supplied to the market. Thus relative supplies will equal relative demands. MPT
+derives the required expected return for a correctly priced asset in this
+context. Systematic risk and specific risk. Specific risk is the risk
+associated with individual assets - within a portfolio these risks can be
+reduced through diversification (specific risks "cancel out"). Specific risk is
+also called diversifiable, unique, unsystematic, or idiosyncratic risk.
+Systematic risk (a.k.a. portfolio risk or market risk) refers to the risk
+common to all securities—except for selling short as noted below, systematic
+risk cannot be diversified away (within one market). Within the market
+portfolio, asset specific risk will be diversified away to the extent possible.
+Systematic risk is therefore equated with the risk (standard deviation) of the
+market portfolio. Since a security will be purchased only if it improves the
+risk-expected return characteristics of the market portfolio, the relevant
+measure of the risk of a security is the risk it adds to the market portfolio,
+and not its risk in isolation. In this context, the volatility of the asset,
+and its correlation with the market portfolio, are historically observed and
+are therefore given. (There are several approaches to asset pricing that
+attempt to price assets by modelling the stochastic properties of the moments
+of assets' returns - these are broadly referred to as conditional asset pricing
+models.) Systematic risks within one market can be managed through a strategy
+of using both long and short positions within one portfolio, creating a "market
+neutral" portfolio. Capital asset pricing model. where α"i" is called the
+asset's alpha, β"i" is the asset's beta coefficient and SCL is the Security
+Characteristic Line. Once an asset's expected return, formula_25, is calculated
+using CAPM, the future cash flows of the asset can be discounted to their
+present value using this rate to establish the correct price for the asset. A
+riskier stock will have a higher beta and will be discounted at a higher rate;
+less sensitive stocks will have lower betas and be discounted at a lower rate.
+In theory, an asset is correctly priced when its observed price is the same as
+its value calculated using the CAPM derived discount rate. If the observed
+price is higher than the valuation, then the asset is overvalued; it is
+undervalued for a too low price. (w_m^2 \sigma_m ^2 + [ w_a^2 \sigma_a^2 + 2
+w_m w_a \rho_{am} \sigma_a \sigma_m] )  (2) If an asset, a, is correctly
+priced, the improvement in its risk-to-expected return ratio achieved by adding
+it to the market portfolio, m, will at least match the gains of spending that
+money on an increased stake in the market portfolio. The assumption is that the
+investor will purchase the asset with funds borrowed at the risk-free rate,
+formula_31; this is rational if formula_32. Criticisms. Despite its theoretical
+importance, critics of MPT question whether it is an ideal investing strategy,
+because its model of financial markets does not match the real world in many
+ways. Efforts to translate the theoretical foundation into a viable portfolio
+construction algorithm have been plagued by technical difficulties stemming
+from the instability of the original optimization problem with respect to the
+available data. Recent research has shown that instabilities of this type
+disappear when a regularizing constraint or penalty term is incorporated in the
+optimization procedure. Assumptions. The framework of MPT makes many
+assumptions about investors and markets. Some are explicit in the equations,
+such as the use of Normal distributions to model returns. Others are implicit,
+such as the neglect of taxes and transaction fees. None of these assumptions
+are entirely true, and each of them compromises MPT to some degree. More
+complex versions of MPT can take into account a more sophisticated model of the
+world (such as one with non-normal distributions and taxes) but all
+mathematical models of finance still rely on many unrealistic premises. MPT
+does not really model the market. The risk, return, and correlation measures
+used by MPT are based on expected values, which means that they are
+mathematical statements about the future (the expected value of returns is
+explicit in the above equations, and implicit in the definitions of variance
+and covariance). In practice, investors must substitute predictions based on
+historical measurements of asset return and volatility for these values in the
+equations. Very often such expected values fail to take account of new
+circumstances which did not exist when the historical data were generated. More
+fundamentally, investors are stuck with estimating key parameters from past
+market data because MPT attempts to model risk in terms of the likelihood of
+losses, but says nothing about why those losses might occur. The risk
+measurements used are probabilistic in nature, not structural. This is a major
+difference as compared to many engineering approaches to risk management.
+Essentially, the mathematics of MPT view the markets as a collection of dice.
+By examining past market data we can develop hypotheses about how the dice are
+weighted, but this isn't helpful if the markets are actually dependent upon a
+much bigger and more complicated chaotic system—the world. For this reason,
+accurate structural models of real financial markets are unlikely to be
+forthcoming because they would essentially be structural models of the entire
+world. Nonetheless there is growing awareness of the concept of systemic risk
+in financial markets, which should lead to more sophisticated market models.
+Mathematical risk measurements are also useful only to the degree that they
+reflect investors' true concerns—there is no point minimizing a variable that
+nobody cares about in practice. MPT uses the mathematical concept of variance
+to quantify risk, and this might be justified under the assumption of
+elliptically distributed returns such as normally distributed returns, but for
+general return distributions other risk measures (like coherent risk measures)
+might better reflect investors' true preferences. In particular, variance is a
+symmetric measure that counts abnormally high returns as just as risky as
+abnormally low returns. Some would argue that, in reality, investors are only
+concerned about losses, and do not care about the dispersion or tightness of
+above-average returns. According to this view, our intuitive concept of risk is
+fundamentally asymmetric in nature. MPT does not account for the personal,
+environmental, strategic, or social dimensions of investment decisions. It only
+attempts to maximize risk-adjusted returns, without regard to other
+consequences. In a narrow sense, its complete reliance on asset prices makes it
+vulnerable to all the standard market failures such as those arising from
+information asymmetry, externalities, and public goods. It also rewards
+corporate fraud and dishonest accounting. More broadly, a firm may have
+strategic or social goals that shape its investment decisions, and an
+individual investor might have personal goals. In either case, information
+other than historical returns is relevant. The MPT does not take its own effect
+on asset prices into account. Diversification eliminates non-systematic risk.
+As unsystematic risk is not associated with increased expected return, this is
+considered one of the few "free lunches" available. Following MPT means
+portfolio managers can invest in assets without analyzing their fundamentals,
+specially weighting each asset by the markets weight in the asset. Because the
+investor purchases assets in proportion to their market weights, there is no
+relative increase in demand for one asset versus another, and thus no impact on
+the expected returns of the portfolio. Extensions. Since MPT's introduction in
+1952, many attempts have been made to improve the model, especially by using
+more realistic assumptions. Post-modern portfolio theory extends MPT by
+adopting non-normally distributed, asymmetric measures of risk. This helps with
+some of these problems, but not others. Black-Litterman model optimization is
+an extension of unconstrained Markowitz optimization which incorporates
+relative and absolute `views' on inputs of risk and returns. Other
+Applications. Applications to project portfolios and other "non-financial"
+assets. Some experts apply MPT to portfolios of projects and other assets
+besides financial instruments. When MPT is applied outside of traditional
+financial portfolios, some differences between the different types of
+portfolios must be considered. Neither of these necessarily eliminate the
+possibility of using MPT and such portfolios. They simply indicate the need to
+run the optimization with an additional set of mathematically-expressed
+constraints that would not normally apply to financial portfolios. Furthermore,
+some of the simplest elements of Modern Portfolio Theory are applicable to
+virtually any kind of portfolio. The concept of capturing the risk tolerance of
+an investor by documenting how much risk is acceptable for a given return may
+be applied to a variety of decision analysis problems. MPT uses historical
+variance as a measure of risk, but portfolios of assets like major projects
+don't have a well-defined "historical variance". In this case, the MPT
+investment boundary can be expressed in more general terms like "chance of an
+ROI less than cost of capital" or "chance of losing more than half of the
+investment". When risk is put in terms of uncertainty about forecasts and
+possible losses then the concept is transferable to various types of
+investment. Application to other disciplines. In the 1970s, concepts from
+Modern Portfolio Theory found their way into the field of regional science. In
+a series of seminal works, Michael Conroy modeled the labor force in the
+economy using portfolio-theoretic methods to examine growth and variability in
+the labor force. This was followed by a long literature on the relationship
+between economic growth and volatility. More recently, modern portfolio theory
+has been used to model the self-concept in social psychology. When the self
+attributes comprising the self-concept constitute a well-diversified portfolio,
+then psychological outcomes at the level of the individual such as mood and
+self-esteem should be more stable than when the self-concept is undiversified.
+This prediction has been confirmed in studies involving human subjects.
+Recently, modern portfolio theory has been applied to modelling the uncertainty
+and correlation between documents in information retrieval. Given a query, the
+aim is to maximize the overall relevance of a ranked list of documents and at
+the same time minimize the overall uncertainty of the ranked list. Comparison
+with arbitrage pricing theory. The SML and CAPM are often contrasted with the
+arbitrage pricing theory (APT), which holds that the expected return of a
+financial asset can be modeled as a linear function of various macro-economic
+factors, where sensitivity to changes in each factor is represented by a factor
+specific beta coefficient. The APT is less restrictive in its assumptions: it
+allows for a statistical model of asset returns, and assumes that each investor
+will hold a unique portfolio with its own particular array of betas, as opposed
+to the identical "market portfolio". Unlike the CAPM, the APT, however, does
+not itself reveal the identity of its priced factors - the number and nature of
+these factors is likely to change over time and between economies.

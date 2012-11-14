@@ -1,0 +1,100 @@
+Hedonic regression In economics, hedonic regression or hedonic demand theory is
+a revealed preference method of estimating demand or value. It decomposes the
+item being researched into its constituent characteristics, and obtains
+estimates of the contributory value of each characteristic. This requires that
+the composite good being valued can be reduced to its constituent parts and
+that the market values those constituent parts. Hedonic models are most
+commonly estimated using regression analysis, although more generalized models,
+such as sales adjustment grids, are special cases of hedonic models. An
+attribute vector, which may be a dummy or panel variable, is assigned to each
+characteristic or group of characteristics. Hedonic models can accommodate non-
+linearity, variable interaction, or other complex valuation situations. Hedonic
+models are commonly used in real estate appraisal, real estate economics and
+Consumer Price Index (CPI) calculations. In CPI calculations hedonic regression
+is used to control the effect of changes in product quality. Price changes that
+are due to substitution effects are subject to hedonic quality adjustments.
+Hedonic pricing method. Certain environmental services often influence the
+market prices. The Hedonic pricing method is often brought into play in order
+to assess the economic values of such services. It is important to note that
+the hedonic pricing method is based on the fact that prices of goods in a
+market are affected by their characteristics. For example, the price of a pair
+of pants will depend on the comfort, the cloth used, the brand, the fit, etc.
+So this method helps us estimate the value of a commodity based on people’s
+willingness to pay for the commodity as and when its characteristics change. A
+particular example which is used most often is the real estate market where the
+value of two different properties (which can otherwise be compared) will vary
+depending on the various environmental amenities present in the surrounding
+areas of these properties. If there is a measurable price drop of properties
+located near a dump yard (as compared to other locations), the difference in
+the prices point towards the external cost of the dump yard. It is the marginal
+willingness to pay (in higher housing prices) for the given difference in
+cleanliness and serenity of the locality. Hedonic Regression methods are used
+to estimate these price differentials. The Hedonic Pricing Method (HPM) as
+mentioned earlier is a form of revealed preference method of valuation and it
+uses surrogate markets to estimate the value of the environmental amenity.
+Surrogate market is a concept that one uses when one cannot directly estimate
+the market prices for certain environmental goods. Therefore, a similar good
+sold in the market is chosen as a proxy. For example, if we want to know the
+value of clean air estimated by an individual, he may reveal his preference in
+the form of establishing his house in a clean society and paying an extra
+premium for the same. Thus, with the help of Hedonic Pricing Method, the
+environmental component of the value and the market price can be separated. In
+turn, this market price is used a surrogate for the environmental value.
+Hedonic models and real estate valuation. In real estate economics, it is used
+to adjust for the problems associated with researching a good that is as
+heterogeneous as buildings. Because buildings are so different, it is difficult
+to estimate the demand for buildings generically. Instead, it is assumed that a
+house can be decomposed into characteristics such as number of bedrooms, size
+of lot, or distance to the city center. A hedonic regression equation treats
+these attributes (or bundles of attributes) separately, and estimates prices
+(in the case of an additive model) or elasticity (in the case of a log model)
+for each of them. This information can be used to construct a price index that
+can be used to compare the price of housing in different cities, or to do time
+series analysis. As with CPI calculations, hedonic pricing can be used to
+correct for quality changes in constructing a housing price index. It can also
+be used to assess the value of a property, in the absence of specific market
+transaction data. It can also be used to analyze the demand for various housing
+characteristics, and housing demand in general. It has also been used to test
+assumptions in spatial economics. The Uniform Standards of Professional
+Appraisal Practice, or USPAP, provides for mass appraisal standards to govern
+the use of hedonic regressions and other automated valuation models when used
+for real estate appraisal. Appraisal methodology treats the hedonic regression
+as essentially a statistically robust form of the sales comparison approach.
+Hedonic models are commonly used in tax assessment, litigation, academic
+studies, and other mass appraisal projects. Application of the Hedonic Pricing
+Method. While studying the application of the Hedonic Pricing Method, the first
+assumption made is the value of a house is affected by a particular combination
+of characteristics that it possesses given that properties with better
+qualities demand higher prices as compared to properties with lower qualities.
+This is the Hedonic Pricing Function. The price of a house will thus be
+affected by the structural characteristics (s1, s2, s3...) of the house itself,
+characteristics of the locality/neighbourhood (n1, n2, n3...), and
+environmental characteristics (e1, e2, e3...) Structural Characteristics could
+be anything from size of the house, to the number of rooms, type of flooring,
+etc. Neighbourhood attributes include variables like posh-ness of the locality,
+quality of roads, etc. And the environmental characteristics are variables such
+quality of air, proximity to parks, beaches, dumping yards, etc. The analysis
+takes place in two stages. The first stage involves employing regression
+techniques to estimate the Hedonic Price Function of the property. This
+function will relate the prices of many properties in the same housing area to
+the different characteristics. So Price Function (P) = f (s1, s2, s3...sj; n1,
+n2, n3...nj; e1, e2, e3...ej) This function could be linear or non-linear. The
+prices may change at an increasing or decreasing rate when the characteristics
+change. When you now differentiate the price function with respect to any one
+of the above characteristics, the implicit price function for that particular
+characteristic is yielded. It is considered implicit because the price function
+is indirectly revealed to us by what the people are willing to pay in order to
+obtain better quality or quantities of the characteristic. In the second stage,
+these implicit prices are regressed against the actual quantities/qualities
+chosen by the people in order to attain the marginal willingness to pay for the
+amenity. The results of this analysis will indicate the changes in property
+values for a unit change in each characteristic, given that all the other
+characteristics are constant. Some variables however may be correlated. This
+will result in similar changes in their values. Criticism. Some commentators,
+including Austrian economists, have criticized the US government's use of
+hedonic regression in computing its CPI, fearing it can be used to mask the
+"true" inflation rate and thus lower the interest it must pay on Treasury
+Inflation-Protected Securities (TIPS) and Social Security cost of living
+adjustments. However, the same use of hedonic models when analyzing consumer
+prices in other countries has shown that non-hedonic methods may misstate
+inflation over time by failing to take quality changes into account.

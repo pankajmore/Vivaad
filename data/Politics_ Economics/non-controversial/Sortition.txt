@@ -1,0 +1,48 @@
+Sortition In politics, sortition (also known as allotment or the drawing of
+lots) is the selection of decision makers by lottery. The decision-makers are
+chosen as a random sample from a larger pool of candidates. In ancient Athenian
+democracy, sortition was the primary method for appointing officials, and its
+use was widely regarded as a principal characteristic of democracy. It is
+commonly used today to select prospective jurors in common law-based legal
+systems. Ancient Athens. In Athens, "democracy" (literally meaning rule by the
+people) was in opposition to those supporting oligarchy (rule by a few).
+Athenian democracy was characterised by being run by the "many" (the ordinary
+people) who were allotted to the committees which ran government. Thucydides
+has Pericles make this point in his Funeral Oration: "It is administered by the
+many instead of the few; that is why it is called a democracy." The Athenians
+believed sortition to be more democratic than elections and used complex
+procedures with purpose-built allotment machines ("kleroteria") to avoid the
+corrupt practices used by oligarchs to buy their way into office. According to
+the author Mogens Herman Hansen the citizen's court was superior to the
+assembly because the allotted members swore an oath which ordinary citizens in
+the assembly did not and therefore the court could annul the decisions of the
+assembly. Past scholarship maintained that sortition had its roots in the use
+of chance to divine the will of the gods, but this view is no longer common
+among scholars. Today. Sortition is commonly used in selecting juries in Anglo-
+Saxon legal systems and in small groups (e.g., picking a school class monitor
+by drawing straws). In public decision-making, individuals are often determined
+by allotment if other forms of selection such as election fail to achieve a
+result. Examples include certain hung elections and certain votes in the UK
+Parliament. Some contemporary thinkers have advocated a greater use of
+selection by lot in today’s political systems for example reform of the
+British House of Lords and proposals at the time of the adoption of the current
+Constitution of Iraq. Sortition proposals put forward for discussion in the
+modern world generally relate to the means for selecting a large legislative
+body (such as the U.S. Congress) from among the adult population at large. One
+such proposal is C. L. R. James's 1956 essay "Every Cook Can Govern." Methods.
+Before the random selection can be done, the pool of candidates must be
+defined. Systems vary as to whether they allot from eligible volunteers, from
+those screened by education, experience, or a passing grade on a test, or
+screened by election by those selected by a previous round of random selection,
+or from the membership or population at large. A multi-stage process in which
+random selection is alternated with screening for merit can overcome the risk
+of selecting those who lack ability or enthusiasm. The selection method may
+need to be carefully designed in order to preserve public confidence that it
+has not been rigged. The process may be conducted or supervised by a panel
+themselves selected at random, such as a grand jury being used to administer
+the random selection of the next grand jury. One robust, general, public method
+of allotment is RFC 3797: Publicly Verifiable Nominations Committee Random
+Selection. Using it, multiple specific sources of random numbers (e.g.
+lotteries) are selected in advance, and an algorithm is defined for selecting
+the winners based on those random numbers. When the random numbers become
+available, anyone can calculate the winners.

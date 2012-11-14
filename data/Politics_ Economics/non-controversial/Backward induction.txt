@@ -1,0 +1,99 @@
+Backward induction Backward induction is the process of reasoning backwards in
+time, from the end of a problem or situation, to determine a sequence of
+optimal actions. It proceeds by first considering the last time a decision
+might be made and choosing what to do in any situation at that time. Using this
+information, one can then determine what to do at the second-to-last time of
+decision. This process continues backwards until one has determined the best
+action for every possible situation (i.e. for every possible information set)
+at every point in time. In the mathematical optimization method of dynamic
+programming, backward induction is one of the main methods for solving the
+Bellman equation. In game theory, backward induction is a method used to
+compute subgame perfect equilibria in sequential games. The only difference is
+that optimization involves just one decision maker, who chooses what to do at
+each point of time, whereas game theory analyzes how the decisions of several
+players interact. That is, by anticipating what the last player will do in each
+situation, it is possible to determine what the second-to-last player will do,
+and so on. In the related fields of automated planning and scheduling and
+automated theorem proving, the method is called backward search or backward
+chaining. In chess it is called retrograde analysis. Backward induction has
+been used to solve games as long as the field of game theory has existed. John
+von Neumann and Oskar Morgenstern suggested solving zero-sum, two-person games
+by backward induction in their "Theory of Games and Economic Behavior" (1944),
+the book which established game theory as a field of study. An example of
+decision-making by backward induction. Consider an unemployed person who will
+be able to work for ten more years "t" = 1,2...,10. Suppose that each year in
+which she remains unemployed, she may be offered a 'good' job that pays $100,
+or a 'bad' job that pays $44, with equal probability (50/50). Once she accepts
+a job, she will remain in that job for the rest of the ten years. (Assume for
+simplicity that she cares only about her monetary earnings, and that she values
+earnings at different times equally, i.e., the discount rate is zero.) Should
+this person accept bad jobs? To answer this question, we can reason backwards
+from time "t" = 10. It can be verified by continuing to work backwards that bad
+offers should only be accepted if one is still unemployed at times 9 or 10;
+they should be rejected at all times up to "t" = 8. The intuition is that if
+one expects to work in a job for a long time, this makes it more valuable to be
+picky about what job to accept. A dynamic optimization problem of this kind is
+called an optimal stopping problem, because the issue at hand is when to stop
+waiting for a better offer. Search theory is the field of microeconomics that
+applies problems of this type to contexts like shopping, job search, and
+marriage. An example of backward induction in game theory. Consider the
+ultimatum game, where one player proposes to split a dollar with another. The
+first player (the proposer) suggests a division of the dollar between the two
+players. The second player is then given the option to either accept the split
+or reject it. If the second player accepts, both get the amount suggested by
+the proposer. If rejected, neither receives anything. Consider the actions of
+the second player given any arbitrary proposal by the first player (that gives
+the second player more than zero). Since the only choice the second player has
+at each of these points in the game is to choose between something and nothing,
+one can expect that the second will accept. Given that the second will accept
+all proposals offered by the first (that give the second anything at all), the
+first ought to propose giving the second as little as possible. This is the
+unique subgame perfect equilibrium of the Ultimatum Game. (However, the
+Ultimatum Game does have several other Nash equilibria which are not subgame
+perfect.) See also centipede game. Backward induction and economic entry.
+Consider a dynamic game in which the players are an incumbent firm in an
+industry and a potential entrant to that industry. As it stands, the incumbent
+has a monopoly over the industry and does not want to lose some of its market
+share to the entrant. If the entrant chooses not to enter, the payoff to the
+incumbent is high (it maintains its monopoly) and the entrant neither loses nor
+gains (its payoff is zero). If the entrant enters, the incumbent can "fight" or
+"accommodate" the entrant. It will fight by lowering its price, running the
+entrant out of business (and incurring exit costs — a negative payoff) and
+damaging its own profits. If it accommodates the entrant it will lose some of
+its sales, but a high price will be maintained and it will receive greater
+profits than by lowering its price (but lower than monopoly profits). Say that,
+the best response of the incumbent is to accommodate if the entrant enters. If
+the incumbent accommodates, the best response of the entrant is to enter (and
+gain profit). Hence the strategy profile in which the entrant enters and the
+incumbent accommodates if the entrant enters is a Nash equilibrium consistent
+with backward induction. However, if the incumbent is going to fight, the best
+response of the entrant is to not enter, and if the entrant does not enter, it
+does not matter what the incumbent chooses to do in the hypothetical case that
+the incumbent does enter. Hence the strategy profile in which the incumbent
+fights if the entrant enters, but the entrant does not enter is also a Nash
+equilibrium. However, were the entrant to deviate and enter, the incumbent's
+best response is to accommodate---the threat of fighting is not credible. This
+second Nash equilibrium can therefore be eliminated by backward induction. A
+paradox of backward induction. The unexpected hanging paradox is a paradox
+related to backward induction. Suppose a prisoner is told that she will be
+hanged sometime between Monday and Friday of next week. However, the exact day
+will be a surprise (i.e. she will not know the night before that she will be
+executed the next day). The prisoner, interested in outsmarting her
+executioner, attempts to determine which day the execution will occur. She
+reasons that it cannot occur on Friday, since if it had not occurred by the end
+of Thursday, she would know the execution would be on Friday. Therefore she can
+eliminate Friday as a possibility. With Friday eliminated, she decides that it
+cannot occur on Thursday, since if it had not occurred on Wednesday, she would
+know that it had to be on Thursday. Therefore she can eliminate Thursday. This
+reasoning proceeds until she has eliminated all possibilities. She concludes
+that she will not be hanged next week. To her surprise, she is hanged on
+Wednesday. Here the prisoner reasons by backward induction, but seems to come
+to a false conclusion. Note, however, that the description of the problem
+assumes it is possible to surprise someone who is performing backward
+induction. The mathematical theory of backward induction does not make this
+assumption, so the paradox does not call into question the results of this
+theory. Nonetheless, this paradox has received some substantial discussion by
+philosophers. This paradox is similar to a shorter one: "guess heads or tails
+but not what you think". While it is easy to come with a flip fulfilling the
+statement, described reasoning leads to conclusion that there is no way to do
+that.
