@@ -180,10 +180,48 @@ classify articles.
  And refer as Figure \ref{fig:block}.
 
  }
-
+%\pagebreak
  \section{Results}
 
  Details of results, in tabular and/or graphical formats.
+
+ \begin{figure}[t]
+         \centering
+         \includegraphics[width=0.95\columnwidth]{accuracy_plot.png}
+         \caption{Accuracy on svm classifier with different features}
+         \label{fig:block}
+ \end{figure}
+ 
+ \begin{table}[t]
+ 	\centering
+ 	\begin{tabular}{|c|c|c|c|c|c|c|c|}
+ 		\hline
+ 		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
+ 		\hline
+ 		\hline
+ 		Controversial & 0.737 & 0.091 & 0.829 & 0.737 & 0.78 & 0.664 & 0.823 \\
+ 		Non-Controversial & 0.909 & 0.263 & 0.853 & 0.909 & 0.88 & 0.664 & 0.823\\
+ 		Weighted Average & 0.845 & 0.199 & 0.844 & 0.845 & 0.843 & 0.664 & 0.823 \\
+ 		\hline
+ 	\end{tabular}
+ 	\centering
+ 	\caption{SVM Classifier with linear kernel and edit history count feature}
+ 	\label{tab:results}
+ \end{table}
+ 
+ \begin{table}[t]
+ 	\centering
+ 	\begin{tabular}{|c|c|c|}
+ 		\hline
+ 		\textbf{Actual/Predicted} & Controversial &Non-controversial \\
+ 		\hline
+ 		Controversial & 87 & 31\\
+ 		Non-controversial & 18 & 180\\
+ 		\hline
+ 	\end{tabular}
+ 	\caption{Confusion matrix for Linear SVM with edit-history-count as feature}
+ 	\label{tab:results}
+ \end{table}
 
  \comment{
 
