@@ -231,8 +231,9 @@ features with linear kernel, the training algorithm converges much more slowly.
  \end{figure}
  }
  
- \begin{table}[t]
- 	\centering
+ \begin{table*}[t]
+ 	{\centering
+ 	\hfill{}
  	\begin{tabular}{|c|c|c|c|c|c|c|c|}
  		\hline
  		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
@@ -242,11 +243,12 @@ features with linear kernel, the training algorithm converges much more slowly.
  		Non-Controversial & 0.909 & 0.263 & 0.853 & 0.909 & 0.88 & 0.664 & 0.823\\
  		Weighted Average & 0.845 & 0.199 & 0.844 & 0.845 & 0.843 & 0.664 & 0.823 \\
  		\hline
- 	\end{tabular}
+ 	\end{tabular}}
+ 	\hfill{}
  	\centering
  	\caption{SVM Classifier with linear kernel and edit-history-count feature for History category}
  	\label{tab:1}
- \end{table}
+ \end{table*}
  
  \begin{table}[History]
  	\centering
@@ -264,8 +266,9 @@ features with linear kernel, the training algorithm converges much more slowly.
  
  
  
- \begin{table}[Politics/Economics]
- 	\centering
+ \begin{table*}[ht]
+	{ 	\centering
+		\hfill{}
  	\begin{tabular}{|c|c|c|c|c|c|c|c|}
  		\hline
  		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
@@ -275,11 +278,12 @@ features with linear kernel, the training algorithm converges much more slowly.
  		Non-Controversial & 0.918 & 0.305 & 0.879 & 0.918 & 0.898 & 0.634 & 0.806\\
  		Weighted Average & 0.853 & 0.24 & 0.849 & 0.853 & 0.85 & 0.634 & 0.806 \\
  		\hline
- 	\end{tabular}
+ 	\end{tabular}}
+ 	\hfill{}
  	\centering
  	\caption{SVM Classifier with linear kernel and edit-history-count feature for Politics/Economics category}
  	\label{tab:3}
- \end{table}
+ \end{table*}
  
  \begin{table}[Politics/Economics]
  	\centering
