@@ -166,6 +166,18 @@ we would also look at the possiblity of using different Bayesian
 classification approaches and other unsupervised learning models to
 classify articles. 
 
+  \subsection{Models}
+  	We use SVM to learn six models for both category and compared their
+performance. The first model uses just bag of word vector representation
+and a linear kernel. The second model uses article length as an additional 
+feature to the first model. The third model is same as second model but uses
+number of edits as additional feature. The last three model is same as the
+first three model but uses radial basis kernel. To evaluate the performance of
+each model a five-fold cross validation was performed. The training time for
+models was generally almost a minute. However, when using article length or 
+number of edits as additional feature with linear kernel, the training time
+rose to 5 minutes for each fold. This indicates that, when using additional
+features with linear kernel, the training algorithm converges much more slowly.
  \comment{
 
  Use the following format for figures:
@@ -183,7 +195,20 @@ classify articles.
 %\pagebreak
  \section{Results}
 
- Details of results, in tabular and/or graphical formats.
+ The best result is obtained in case of linear kernel, using bag of word
+ vector representation and number of edits as features. This result is 
+ according to our hypothesis that controversial articles generally have 
+ more number of edits than that of non-controversial articles. The accuracy 
+ obtained is nearly 85\% for both History and Politics/Economics category.
+ It is clear that the models perform well in detecting controversial and 
+ non-controversial articles. The result obtained when using article length
+ as additional feature is not as we expected and the accuracy decreases with
+ respect to bag of words vector representation model. This is mainly because
+ the length of article does not say anything about the probability to be 
+ controversial or non-controversial as the mean article length and standard
+ deviation are almost same for both cases and thus undermine the classifier.
+ 
+ 
 
  \begin{figure}[t]
          \centering
@@ -191,6 +216,20 @@ classify articles.
          \caption{Accuracy on svm classifier with different features}
          \label{fig:block}
  \end{figure}
+ \begin{figure}[Politics/Economics]
+         \centering
+         \includegraphics[width=0.95\columnwidth]{accuracy_plot2.png}
+         \caption{Accuracy on svm classifier with different features}
+         \label{fig:block}
+ \end{figure}
+ \comment {
+ \begin{figure}[Religion]
+         \centering
+         \includegraphics[width=0.95\columnwidth]{accuracy_plot3.png}
+         \caption{Accuracy on svm classifier with different features}
+         \label{fig:block}
+ \end{figure}
+ }
  
  \begin{table}[t]
  	\centering
@@ -205,11 +244,11 @@ classify articles.
  		\hline
  	\end{tabular}
  	\centering
- 	\caption{SVM Classifier with linear kernel and edit history count feature}
+ 	\caption{SVM Classifier with linear kernel and edit-history-count feature for History category}
  	\label{tab:results}
  \end{table}
  
- \begin{table}[t]
+ \begin{table}[History]
  	\centering
  	\begin{tabular}{|c|c|c|}
  		\hline
@@ -219,10 +258,75 @@ classify articles.
  		Non-controversial & 18 & 180\\
  		\hline
  	\end{tabular}
- 	\caption{Confusion matrix for Linear SVM with edit-history-count as feature}
+ 	\caption{Confusion matrix for Linear SVM with edit-history-count as feature for History category}
+ 	\label{tab:results}
+ \end{table} 
+ 
+ 
+ 
+ \begin{table}[Politics/Economics]
+ 	\centering
+ 	\begin{tabular}{|c|c|c|c|c|c|c|c|}
+ 		\hline
+ 		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
+ 		\hline
+ 		\hline
+ 		Controversial & 0.695 & 0.082 & 0.777 & 0.695 & 0.734 & 0.634 & 0.806 \\
+ 		Non-Controversial & 0.918 & 0.305 & 0.879 & 0.918 & 0.898 & 0.634 & 0.806\\
+ 		Weighted Average & 0.853 & 0.24 & 0.849 & 0.853 & 0.85 & 0.634 & 0.806 \\
+ 		\hline
+ 	\end{tabular}
+ 	\centering
+ 	\caption{SVM Classifier with linear kernel and edit-history-count feature for Politics/Economics category}
  	\label{tab:results}
  \end{table}
-
+ 
+ \begin{table}[Politics/Economics]
+ 	\centering
+ 	\begin{tabular}{|c|c|c|}
+ 		\hline
+ 		\textbf{Actual/Predicted} & Controversial &Non-controversial \\
+ 		\hline
+ 		Controversial & 139 & 61\\
+ 		Non-controversial & 40 & 445\\
+ 		\hline
+ 	\end{tabular}
+ 	\caption{Confusion matrix for Linear SVM with edit-history-count as feature for Politics/Economics category}
+ 	\label{tab:results}
+ \end{table}
+ 
+ \comment {
+ \begin{table}[Religion]
+ 	\centering
+ 	\begin{tabular}{|c|c|c|c|c|c|c|c|}
+ 		\hline
+ 		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
+ 		\hline
+ 		\hline
+ 		Controversial & 0.526 & 0.116 & 0.595 & 0.526 & 0.559 & 0.428 & 0.705 \\
+ 		Non-Controversial & 0.884 & 0.474 & 0.851 & 0.884 & 0.867 & 0.428 & 0.705\\
+ 		Weighted Average & 0.796 & 0.386 & 0.789 & 0.796 & 0.791 & 0.428 & 0.705 \\
+ 		\hline
+ 	\end{tabular}
+ 	\centering
+ 	\caption{SVM Classifier with linear kernel and edit-history-count feature for Religion category}
+ 	\label{tab:results}
+ \end{table}
+ 
+ \begin{table}[Religion]
+ 	\centering
+ 	\begin{tabular}{|c|c|c|}
+ 		\hline
+ 		\textbf{Actual/Predicted} & Controversial &Non-controversial \\
+ 		\hline
+ 		Controversial & 139 & 61\\
+ 		Non-controversial & 40 & 445\\
+ 		\hline
+ 	\end{tabular}
+ 	\caption{Confusion matrix for Linear SVM with edit-history-count as feature for Religion category}
+ 	\label{tab:results}
+ \end{table}
+ }
  \comment{
 
  \begin{table}[t]
