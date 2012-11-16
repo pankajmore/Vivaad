@@ -147,24 +147,44 @@ single heuristics and a combinaton of different factors need to be
 considered.
 
 
- \section{Algorithm Or Approach}
+\section{Approach}
 
+\subsection{Data Collection}
 
-   Our initial approach would be inspired by SVM classifiers which
-already show very good accuracy. In addition to the textual content of
-the articles as features , we would also include various meta-data
-about the article such as article length, edit history, number of
-editors, etc to learn new SVM classifiers and study there accuracy and
-cost of learning. We would also look at their performance with respect
-to Discriminative power and Monotonicity condition.
+Although wikipedia provides a data dump for all the data and its
+revisions in XML and SQL format , the schema does not have any
+attribute for recognizing whether the article is controversial or not.
+Hence, the datasets were of no use in our case. 
 
-  Moreover, we would also look at other heuristic based
-models of classifying such as Mutual Reverts, Bipolarity , structural
-and meta-classifers and try to combine their distinguishing features
-in such a way as to come up with a better classifier. If time permits,
-we would also look at the possiblity of using different Bayesian
-classification approaches and other unsupervised learning models to
-classify articles. 
+But fortunately, there is a special page listing in Wikipedia which
+contains the list of controversial articles in each category
+\cite{controversy}. We created custom sripts in python and ruby to
+download the articles using the Wikipedia API. Special effort was
+spent in making sure that Wikipedia API rate limits are not exceeded
+which would have result in a ban on our IP address from accessing
+Wikipedia. To get instances of non-controversial articles into our
+dataset, we crawled for articles in each category and them kept only
+those articles which were not tagged as controversial.
+
+Getting the edit histories of each article was also non-trival and
+time consuming. The Wikipedia API does not provide a way to directly
+get the number of revisions for a particlar article. Instead it
+provides a lists of revisions limited to a maximum of 500. The only
+way to count the number of revisions was to get all the revisions and
+then count them. For articles with edit history in the range of 10000
+or more , we had to do lot of queries to get the count of a single
+article.
+
+\subsection{Data Preprocessing}
+
+Each article was in XML format with lot of MediaWiki markup and other
+``dirty'' data. We used a WikiExtractor script to clean the media wiki
+tages. Then we used html2text to clean the html and xml tags. Then the
+content was converted into a bag-of-words representation using Weka's
+StringToWordVector function and removed all stop words from this bag. 
+
+We have open-sourced our scripts used for all data collection and
+preprocessing work which can be retrieved from \cite{github}.
 
   \subsection{Models}
   	We use SVM to learn six models for both category and compared their
