@@ -205,8 +205,8 @@ features with linear kernel, the training algorithm converges much more slowly.
  as additional feature is not as we expected and the accuracy decreases with
  respect to bag of words vector representation model. This is mainly because
  the length of article does not say anything about the probability to be 
- controversial or non-controversial as the mean article length and standard
- deviation are almost same for both cases and thus undermine the classifier.
+ controversial or non-controversial due to almost same meal article length 
+ and large standard deviation for both class and thus undermine the classifier.
  
  
 
@@ -214,20 +214,20 @@ features with linear kernel, the training algorithm converges much more slowly.
          \centering
          \includegraphics[width=0.95\columnwidth]{accuracy_plot.png}
          \caption{Accuracy on svm classifier with different features}
-         \label{fig:block}
+         \label{fig:1}
  \end{figure}
  \begin{figure}[Politics/Economics]
          \centering
          \includegraphics[width=0.95\columnwidth]{accuracy_plot2.png}
          \caption{Accuracy on svm classifier with different features}
-         \label{fig:block}
+         \label{fig:2}
  \end{figure}
  \comment {
  \begin{figure}[Religion]
          \centering
          \includegraphics[width=0.95\columnwidth]{accuracy_plot3.png}
          \caption{Accuracy on svm classifier with different features}
-         \label{fig:block}
+         \label{fig:2}
  \end{figure}
  }
  
@@ -245,7 +245,7 @@ features with linear kernel, the training algorithm converges much more slowly.
  	\end{tabular}
  	\centering
  	\caption{SVM Classifier with linear kernel and edit-history-count feature for History category}
- 	\label{tab:results}
+ 	\label{tab:1}
  \end{table}
  
  \begin{table}[History]
@@ -259,7 +259,7 @@ features with linear kernel, the training algorithm converges much more slowly.
  		\hline
  	\end{tabular}
  	\caption{Confusion matrix for Linear SVM with edit-history-count as feature for History category}
- 	\label{tab:results}
+ 	\label{tab:2}
  \end{table} 
  
  
@@ -278,7 +278,7 @@ features with linear kernel, the training algorithm converges much more slowly.
  	\end{tabular}
  	\centering
  	\caption{SVM Classifier with linear kernel and edit-history-count feature for Politics/Economics category}
- 	\label{tab:results}
+ 	\label{tab:3}
  \end{table}
  
  \begin{table}[Politics/Economics]
@@ -292,7 +292,7 @@ features with linear kernel, the training algorithm converges much more slowly.
  		\hline
  	\end{tabular}
  	\caption{Confusion matrix for Linear SVM with edit-history-count as feature for Politics/Economics category}
- 	\label{tab:results}
+ 	\label{tab:4}
  \end{table}
  
  \comment {
