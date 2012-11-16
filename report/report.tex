@@ -221,12 +221,17 @@ features with linear kernel, the training algorithm converges much more slowly.
  more number of edits than that of non-controversial articles. The accuracy 
  obtained is nearly 85\% for both History and Politics/Economics category.
  It is clear that the models perform well in detecting controversial and 
- non-controversial articles. The result obtained when using article length
- as additional feature is not as we expected and the accuracy decreases with
- respect to bag of words vector representation model. This is mainly because
- the length of article does not say anything about the probability to be 
- controversial or non-controversial due to almost same meal article length 
- and large standard deviation for both class and thus undermine the classifier.
+ non-controversial articles. The accuracy obtained is much higher than the
+ baseline accuracies\footnote{In baseline model, we classify
+ all articles as non-controversial and accuracy obtained is 198/(198+118) 
+ $\simeq$ 0.63 for History and 485/(485+200) $\simeq$ 0.71 for Politics/Economics}
+ of 0.63 and 0.71 for History and Politics/Economics category respectively. The result obtained
+ when using article length as additional feature is not as we expected 
+ and the accuracy decreases with respect to bag of words vector representation 
+ model. This is mainly because the length of article does not say anything 
+ about the probability to be controversial or non-controversial due to 
+ almost same mean article length and large standard deviation for both 
+ class and thus undermine the classifier.
  
  
 
@@ -270,22 +275,6 @@ features with linear kernel, the training algorithm converges much more slowly.
  	\label{tab:1}
  \end{table*}
  
- \begin{table}[History]
- 	\centering
- 	\begin{tabular}{|c|c|c|}
- 		\hline
- 		\textbf{Actual/Predicted} & Controversial &Non-controversial \\
- 		\hline
- 		Controversial & 87 & 31\\
- 		Non-controversial & 18 & 180\\
- 		\hline
- 	\end{tabular}
- 	\caption{Confusion matrix for Linear SVM with edit-history-count as feature for History category}
- 	\label{tab:2}
- \end{table} 
- 
- 
- 
  \begin{table*}[ht]
 	{ 	\centering
 		\hfill{}
@@ -302,9 +291,22 @@ features with linear kernel, the training algorithm converges much more slowly.
  	\hfill{}
  	\centering
  	\caption{SVM Classifier with linear kernel and edit-history-count feature for Politics/Economics category}
- 	\label{tab:3}
+ 	\label{tab:2}
  \end{table*}
- 
+ \begin{table}[History]
+ 	\centering
+ 	\begin{tabular}{|c|c|c|}
+ 		\hline
+ 		\textbf{Actual/Predicted} & Controversial &Non-controversial \\
+ 		\hline
+ 		Controversial & 87 & 31\\
+ 		Non-controversial & 18 & 180\\
+ 		\hline
+ 	\end{tabular}
+ 	\caption{Confusion matrix for Linear SVM with edit-history-count as feature for History category}
+ 	\label{tab:3}
+ \end{table} 
+  
  \begin{table}[Politics/Economics]
  	\centering
  	\begin{tabular}{|c|c|c|}
@@ -374,10 +376,18 @@ features with linear kernel, the training algorithm converges much more slowly.
 
  \section{Conclusions}
 
- Clearly state the conclusions.
-
- Also, outline the future work.
-
+ Automatically identifying controversial articles in Wikipedia 
+ is an active and challenging problems because of various factors. 
+ We have used Support Vector Machines to identify such articles. 
+ Using number of edits as additional feature along with bag of 
+ words vector representation resulted in increase of accuracy by 
+ upto 3\%. Results show that by using some additional parameters 
+ as features, accuracy rate can be increased.\\ \\
+ \textbf{Future Work: }For controversial articles, number of edits 
+ are more clustered between some time interval(peak time) and then 
+ stabilises after that. Also mutual reverts are common in case of 
+ controversial articles. This two parameters can be used to model 
+ our classifier and get better results.
 
  \bibliographystyle{plain}
  \bibliography{refs}
