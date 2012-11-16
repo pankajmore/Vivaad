@@ -8,6 +8,8 @@
 \usepackage{multirow}
 \usepackage{times}
 \usepackage{fullpage}
+\usepackage{float}
+\restylefloat{table}
 
 \newcommand{\comment}[1]{}
 
@@ -21,7 +23,7 @@ Vivaad - Identifying Controversial Articles on Wikipedia}
 	\multicolumn{2}{c}{Indian Institute of Technology, Kanpur}
 \end{tabular}
 }
-\date{Mid-sem report \\	% replace by ``initial'' or ``final'' as appropriate
+\date{% replace by ``initial'' or ``final'' as appropriate
 \today}	% replace by actual date of submission or \today
 
 \begin{document}
@@ -186,6 +188,43 @@ StringToWordVector function and removed all stop words from this bag.
 We have open-sourced our scripts used for all data collection and
 preprocessing work which can be retrieved from \cite{github}.
 
+\begin{table*}[t]
+ 	{\centering
+ 	\hfill{}
+ 	\begin{tabular}{|c|c|c|c|c|c|c|c|}
+ 		\hline
+ 		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
+ 		\hline
+ 		\hline
+ 		Controversial & 0.737 & 0.091 & 0.829 & 0.737 & 0.78 & 0.664 & 0.823 \\
+ 		Non-Controversial & 0.909 & 0.263 & 0.853 & 0.909 & 0.88 & 0.664 & 0.823\\
+ 		Weighted Average & 0.845 & 0.199 & 0.844 & 0.845 & 0.843 & 0.664 & 0.823 \\
+ 		\hline
+ 	\end{tabular}}
+ 	\hfill{}
+ 	\centering
+ 	\caption{SVM Classifier with linear kernel and edit-history-count feature for History category}
+ 	\label{tab:1}
+ \end{table*}
+ \begin{table*}[t]
+	{ 	\centering
+		\hfill{}
+ 	\begin{tabular}{|c|c|c|c|c|c|c|c|}
+ 		\hline
+ 		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
+ 		\hline
+ 		\hline
+ 		Controversial & 0.695 & 0.082 & 0.777 & 0.695 & 0.734 & 0.634 & 0.806 \\
+ 		Non-Controversial & 0.918 & 0.305 & 0.879 & 0.918 & 0.898 & 0.634 & 0.806\\
+ 		Weighted Average & 0.853 & 0.24 & 0.849 & 0.853 & 0.85 & 0.634 & 0.806 \\
+ 		\hline
+ 	\end{tabular}}
+ 	\hfill{}
+ 	\centering
+ 	\caption{SVM Classifier with linear kernel and edit-history-count feature for Politics/Economics category}
+ 	\label{tab:2}
+ \end{table*}
+
   \subsection{Models}
   	We use SVM to learn six models for both category and compared their
 performance. The first model uses just bag of word vector representation
@@ -213,8 +252,20 @@ features with linear kernel, the training algorithm converges much more slowly.
 
  }
 %\pagebreak
+\begin{figure}[t]
+         \centering
+         \includegraphics[width=0.95\columnwidth]{accuracy_plot.png}
+         \caption{Accuracy on svm classifier with different features}
+         \label{fig:1}
+ \end{figure}
+ \begin{figure}[t]
+         \centering
+         \includegraphics[width=0.95\columnwidth]{accuracy_plot2.png}
+         \caption{Accuracy on svm classifier with different features}
+         \label{fig:2}
+ \end{figure}
  \section{Results}
-
+ 
  The best result is obtained in case of linear kernel, using bag of word
  vector representation and number of edits as features. This result is 
  according to our hypothesis that controversial articles generally have 
@@ -235,18 +286,7 @@ features with linear kernel, the training algorithm converges much more slowly.
  
  
 
- \begin{figure}[t]
-         \centering
-         \includegraphics[width=0.95\columnwidth]{accuracy_plot.png}
-         \caption{Accuracy on svm classifier with different features}
-         \label{fig:1}
- \end{figure}
- \begin{figure}[Politics/Economics]
-         \centering
-         \includegraphics[width=0.95\columnwidth]{accuracy_plot2.png}
-         \caption{Accuracy on svm classifier with different features}
-         \label{fig:2}
- \end{figure}
+ 
  \comment {
  \begin{figure}[Religion]
          \centering
@@ -256,44 +296,9 @@ features with linear kernel, the training algorithm converges much more slowly.
  \end{figure}
  }
  
- \begin{table*}[t]
- 	{\centering
- 	\hfill{}
- 	\begin{tabular}{|c|c|c|c|c|c|c|c|}
- 		\hline
- 		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
- 		\hline
- 		\hline
- 		Controversial & 0.737 & 0.091 & 0.829 & 0.737 & 0.78 & 0.664 & 0.823 \\
- 		Non-Controversial & 0.909 & 0.263 & 0.853 & 0.909 & 0.88 & 0.664 & 0.823\\
- 		Weighted Average & 0.845 & 0.199 & 0.844 & 0.845 & 0.843 & 0.664 & 0.823 \\
- 		\hline
- 	\end{tabular}}
- 	\hfill{}
- 	\centering
- 	\caption{SVM Classifier with linear kernel and edit-history-count feature for History category}
- 	\label{tab:1}
- \end{table*}
+  
  
- \begin{table*}[ht]
-	{ 	\centering
-		\hfill{}
- 	\begin{tabular}{|c|c|c|c|c|c|c|c|}
- 		\hline
- 		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
- 		\hline
- 		\hline
- 		Controversial & 0.695 & 0.082 & 0.777 & 0.695 & 0.734 & 0.634 & 0.806 \\
- 		Non-Controversial & 0.918 & 0.305 & 0.879 & 0.918 & 0.898 & 0.634 & 0.806\\
- 		Weighted Average & 0.853 & 0.24 & 0.849 & 0.853 & 0.85 & 0.634 & 0.806 \\
- 		\hline
- 	\end{tabular}}
- 	\hfill{}
- 	\centering
- 	\caption{SVM Classifier with linear kernel and edit-history-count feature for Politics/Economics category}
- 	\label{tab:2}
- \end{table*}
- \begin{table}[History]
+ \begin{table}[h]
  	\centering
  	\begin{tabular}{|c|c|c|}
  		\hline
@@ -307,7 +312,7 @@ features with linear kernel, the training algorithm converges much more slowly.
  	\label{tab:3}
  \end{table} 
   
- \begin{table}[Politics/Economics]
+ \begin{table}[h]
  	\centering
  	\begin{tabular}{|c|c|c|}
  		\hline
@@ -321,58 +326,7 @@ features with linear kernel, the training algorithm converges much more slowly.
  	\label{tab:4}
  \end{table}
  
- \comment {
- \begin{table}[Religion]
- 	\centering
- 	\begin{tabular}{|c|c|c|c|c|c|c|c|}
- 		\hline
- 		\textbf{Class} & \textbf{TP Rate} & \textbf{FP Rate} & \textbf{Precision} & \textbf{Recall} & \textbf{F-measure} & \textbf{MCC} & \textbf{ROC Area} \\
- 		\hline
- 		\hline
- 		Controversial & 0.526 & 0.116 & 0.595 & 0.526 & 0.559 & 0.428 & 0.705 \\
- 		Non-Controversial & 0.884 & 0.474 & 0.851 & 0.884 & 0.867 & 0.428 & 0.705\\
- 		Weighted Average & 0.796 & 0.386 & 0.789 & 0.796 & 0.791 & 0.428 & 0.705 \\
- 		\hline
- 	\end{tabular}
- 	\centering
- 	\caption{SVM Classifier with linear kernel and edit-history-count feature for Religion category}
- 	\label{tab:results}
- \end{table}
- 
- \begin{table}[Religion]
- 	\centering
- 	\begin{tabular}{|c|c|c|}
- 		\hline
- 		\textbf{Actual/Predicted} & Controversial &Non-controversial \\
- 		\hline
- 		Controversial & 139 & 61\\
- 		Non-controversial & 40 & 445\\
- 		\hline
- 	\end{tabular}
- 	\caption{Confusion matrix for Linear SVM with edit-history-count as feature for Religion category}
- 	\label{tab:results}
- \end{table}
- }
- \comment{
 
- \begin{table}[t]
-         \centering
-         \begin{tabular}{|c||cc|}
-                 \hline
-                 Header 1 & Desc 1 & Desc 2 \\
-                 \hline
-                 \hline
-                 Row 1 & Data 1-1 & Data 1-2 \\
-                 Row 2 & Data 2-1 & Data 2-2 \\
-                 \hline
-         \end{tabular}
-         \caption{Table of results.}
-         \label{tab:results}
- \end{table}
-
- And refer as Table \ref{tab:results}.
-
- }
 
  \section{Conclusions}
 
@@ -382,7 +336,8 @@ features with linear kernel, the training algorithm converges much more slowly.
  Using number of edits as additional feature along with bag of 
  words vector representation resulted in increase of accuracy by 
  upto 3\%. Results show that by using some additional parameters 
- as features, accuracy rate can be increased.\\ \\
+ as features, accuracy rate can be increased.
+
  \textbf{Future Work: }For controversial articles, number of edits 
  are more clustered between some time interval(peak time) and then 
  stabilises after that. Also mutual reverts are common in case of 
