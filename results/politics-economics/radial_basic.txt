@@ -1,0 +1,42 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 100.0 -C 1.0 -E 0.001 -P 0.1 -model "C:\\Program Files\\Weka-3-7" -seed 1
+Relation:     Politics_Economics1-weka.filters.unsupervised.attribute.Remove-R1328
+Instances:    685
+Attributes:   1327
+              [list of attributes omitted]
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 3.17 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         570               83.2117 %
+Incorrectly Classified Instances       115               16.7883 %
+Kappa statistic                          0.5624
+Mean absolute error                      0.1679
+Root mean squared error                  0.4097
+Relative absolute error                 40.5748 %
+Root relative squared error             90.1172 %
+Coverage of cases (0.95 level)          83.2117 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              685     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall  F-Measure  MCC    ROC Area  PRC Area  Class
+                 0.59     0.068    0.781      0.59    0.672      0.572  0.761     0.581     controversial
+                 0.932    0.41     0.846      0.932   0.887      0.572  0.761     0.837     non_controversial
+Weighted Avg.    0.832    0.31     0.827      0.832   0.824      0.572  0.761     0.762
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 118  82 |   a = controversial
+  33 452 |   b = non_controversial
+

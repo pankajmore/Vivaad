@@ -1,0 +1,42 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.LibSVM -S 0 -K 0 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 100.0 -C 1.0 -E 0.001 -P 0.1 -model "C:\\Program Files\\Weka-3-7" -seed 1
+Relation:     History_feat1
+Instances:    316
+Attributes:   1210
+              [list of attributes omitted]
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 74.49 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         232               73.4177 %
+Incorrectly Classified Instances        84               26.5823 %
+Kappa statistic                          0.4666
+Mean absolute error                      0.2658
+Root mean squared error                  0.5156
+Relative absolute error                 56.7718 %
+Root relative squared error            106.5817 %
+Coverage of cases (0.95 level)          73.4177 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              316     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall  F-Measure  MCC    ROC Area  PRC Area  Class
+                 0.805    0.308    0.609      0.805   0.693      0.481  0.749     0.563     controversial
+                 0.692    0.195    0.856      0.692   0.765      0.481  0.749     0.785     non-controversial
+Weighted Avg.    0.734    0.237    0.764      0.734   0.739      0.481  0.749     0.702
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+  95  23 |   a = controversial
+  61 137 |   b = non-controversial
+
